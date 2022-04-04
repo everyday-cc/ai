@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1135468_waymo-s-self-driving-c
 webUrl: "https://www.motorauthority.com/news/1135468_waymo-s-self-driving-cars-no-longer-require-a-safety-driver-in-san-francisco"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,37 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Expands Self-Driving Car Trials to San Francisco"
-    excerpt: "Way-mo, way-mo, off to work they go. Waymo employees in San Francisco will be able to catch a ride to work from its fleet of self-driving, all-electric Jaguar I-PACE cars."
-    publishedDateTime: 2022-03-30T19:15:00Z
-    webUrl: "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco"
-    ampWebUrl: "https://www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/waymo-expands-self-driving-car-trials-to-san-francisco?amp=true"
+  - title: "B.C. resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
+    excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
+    publishedDateTime: 2022-03-31T15:39:00Z
+    webUrl: "https://www.vancouverisawesome.com/bc-news/bc-resident-amongst-first-group-of-drivers-in-canada-to-receive-teslas-new-self-driving-software-5218157"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
+      name: Vancouver Is Awesome
+      domain: vancouverisawesome.com
+    quality: 25
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00sHEbCBZPkX4vW3zeodaKj-1.fit_lim.size_1200x630.v1648664014.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Waymo to expand autonomous vehicle rides to San Francisco"
-    excerpt: "Waymo's self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google's parent company, said Wednesday that it Previously the company had been testing the vehicles with a safety driver behind the wheel just in case."
-    publishedDateTime: 2022-03-30T20:40:00Z
-    webUrl: "https://www.seattlepi.com/business/article/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
-    ampWebUrl: "https://www.seattlepi.com/business/amp/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/business/amp/Waymo-to-expand-autonomous-vehicle-rides-to-San-17038901.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/24/77/63/22281419/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/persondrivingcar.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "YxfAxaIryAdd2NFzxKS120w2JMqJrNrgpFcF6Z+hUQ9wX8fSmsCmOL5TwYRHyKWDb1Bn0E7SQX2pnASxDOudh9dNP4QEPUUCUh9cbK3H6d0dIgXSjIqFw8Ydkof4W1JChPQscrKx/uVIKtdQiBWwxY3N9cQfvfM/5qLLv3ItT1KRPNN8vZG9VI+EVQ5Z0eirQ+wHRsgxp8AqDPu/GaFkpnRqq9M680GInstsgs/8FVQBMAoTTFt33L9LHoQQ7ZvHdWC17ZjYlrSCwBv5VaJ9eeYrmeNLrVTmIulerjCLbNDskPvFxpTermlGloqbXCvQBUzt52+9C7xWtYx1xz/S7BbV0JGJ/h4iowfyGMx/Hvdp/QMWBlSSzxFdZg1ASSPXjRm2f00WFNssrmF9AbjJHYh+BUjFyAFDzF91TgrfP6f3CvLu6zZ72BRHDXFFgcG7bjRsnfBdBA+HtAESoxaM0a/U8UTR454aGTYUKbv9mBCZHgcIZTOEwBKmuVO8WYuRlSKDMbSL4VNXT3YJ1n/jgg==;O2RZdyYH1oJUdTWffE+63w=="

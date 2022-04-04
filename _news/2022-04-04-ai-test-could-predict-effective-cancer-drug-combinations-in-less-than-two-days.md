@@ -1,22 +1,24 @@
 ---
 category: news
 title: "AI test could predict effective cancer drug combinations in less than two days"
-excerpt: "Study shows test combining AI and protein analysis can guide treatment in lung cancer First of its kind test is more accurate than current genetic approach for personalising treatment Can be carried out in less than 48 hours,"
-publishedDateTime: 2022-04-04T08:35:00Z
-originalUrl: "https://www.politics.co.uk/opinion-former/press-release/2022/04/04/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days/"
-webUrl: "https://www.politics.co.uk/opinion-former/press-release/2022/04/04/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days/"
+excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours."
+publishedDateTime: 2022-04-04T15:14:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.html"
+webUrl: "https://medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.amp"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Politics
-  domain: politics.co.uk
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
-secured: "DvPdWl7GlaG6xyFNV/bgRQoUPiciCWfcwRdLyU4IBnFBdsuAPGF6zfDVoMUCAZxdiQQ1oy3CPoF2/FQ6KyPeycv+e5Ey5ufZ0q6RHanhC2zhI5G8BQ1HEjF7o3ZssIupqxIXGP1F684EViIqsz4ucTAQ6UXzF9obQpGYzT7WgSwjUArx0rmm5ajKpm9xZCGFIiEcEY6BDkqX1Nw+3lb5m0DmSvBnK9Fx9O5IPIkai1EHifBznb8xD20jh1uycknz1id16cH3dlfBWy5u1tVJNzrXnZoFUG01nS9QaBLvxPhhj+CnmSwjCotbVKHoi+timxzEF8AXOZfhW2qe4XAZ2m+1ETDvNko7NwIgx+vEros=;vn/b7TOU6AY0gQFmD0PP+g=="
+secured: "1NY9HjaSeS5qBTV5zofbn+89FNyrCjiUy/GD1OnS8prwx/hoIL30JVCrCochNFe2mZkPuGtmqnlPQy8FFZoFBMj8szrUf65HetoLgY0wDjZ9EB+Y/wTismiERWdNxbT5u5oKrJUAjDTDCTgl5mV4Jk3xkuklpiVAk5JDITUdQFC9rk7FX3VOv+y9W1uvvvHfJk8GjYy10UZKWeA5j1whXtk/jLouhSW4XGfWoy1Ao17SLAlYETDQ5maMvBEVOIba8G+iA0+s5Sk7tX8Zt1EZK2C0q6l/SdXvJLKJTyJO33KxGwqTOd6iZShh1A/RPkVupJI4EO8DRvKoEg6//hhymCSjAXmfjyFJXUzzR3zf9g+rRG4OIvSYpWbLiJrlSdi49EHx0AelO09wywtNim1sR28oUGAtnk5rYv6xtI2f/FSRkLGgqQ9mFA6Aqmxi2cLayCWGY2KYR6uhnG6MnS9Sx0Z5QnlUMzdxoPz/XPU3RLBpwNB6kKzNHh4iEXoGx0PR4UZAQfSOxXyduAWpuRni1A==;ff3jzYiwn/+A9VsxUnSDyg=="
 ---
 

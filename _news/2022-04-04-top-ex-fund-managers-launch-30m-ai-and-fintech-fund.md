@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintec
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     provider:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
+    quality: 4
+  - title: "Israel takes global lead in fintech"
+    excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
+    publishedDateTime: 2022-04-04T15:11:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
     quality: 4
 
 secured: "FIbHZp4/L4tCcANvSCVbye+l/4cc9Q8dnckwKkY5at8nRJ5G/39v5fG1EVK7mVSLJB4siy/XqwNuYK57+i6nZsuP69HAPwzZvSkjU6+r0iNiTV927PfUNL+v68ZHsPaj/K4z3lsQpc5/bEEvEVL1wo6AECqbtCl8ioSA9cOXk3AhWAY6eMYIYUSBkxFe3MeAgKLCWYCDY+OZQ9BoC8OHwcWGWpUUEd/Ys0W4P1nuoZHLv5VTTV5lLQLF5QQPLkr/Vv42g2jPWj2xKt9fE68659IL81mLhj7o2j5n2aOIZv6dDy8xXal4znBFYqIhO74TzxITgwHKQg1KbpJbh+Mu2msMtP5P+8j5Z3QsIFCdgG8=;wbufSQU7EblmZPlGoOuGmg=="

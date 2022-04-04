@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "NDSU engineering students earn national recognition"
+    excerpt: "The school says competition teams like GeoWall are an important part of the NDSU experience, giving students a chance to develop skills that stand out to employers."
+    publishedDateTime: 2022-04-04T14:40:00Z
+    webUrl: "https://www.grandforksherald.com/prairie-business/ndsu-engineering-students-earn-national-recognition"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 4
   - title: "Avon High School student Justin Schwab earns national recognition in writing competition"
     excerpt: "Avon High School has announced that sophomore Justin Schwab, 16, has received national recognition for a story he entered into the Scholastic Art and Writing Awards competition. His Silver Medal,"
     publishedDateTime: 2022-04-01T12:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/football/2022/apr/04/online-abuse-target
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Online abuse at footballers to be tackled by AI software after Marcus Rashford case"
+    excerpt: "A report from the Professional Footballers' Association (PFA) in 2021 found that 44 per cent of Premier League footballers have received discriminatory abuse on Twitter"
+    publishedDateTime: 2022-04-04T14:53:00Z
+    webUrl: "https://www.mirror.co.uk/sport/football/news/online-abuse-footballers-tackled-ai-26632200"
+    ampWebUrl: "https://www.mirror.co.uk/sport/football/news/online-abuse-footballers-tackled-ai-26632200.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/sport/football/news/online-abuse-footballers-tackled-ai-26632200.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 31
 
 secured: "asM5PjhxBRU6H+JcrvLIc/VUke7z6BiH71SHiYnz/4OvzVlREn6V3NiuZlL2ekQRbQJqZcid+vZBd5VGT/OmsIdAoAzRoKqci8yX47OXH6d3hQsRxQd197RUfb5frGPIe7WiixZMmv/4C59GBQSGU3vYx/WfspoP0yoi9tthRGE/1IZCP7iUAOEF9idssKchn506CJV0Mr31I5tA/lcGvxl74ybrLgoT82aA8LPFemDdr9LGRhdKhjZ8cp3y4M9wLn71WnwfjYsNcQURMZ4zT8Y72lLNWw4YiQvtcw3XuaohSqnr3uEoefwGDXrpDWUs1vEmM5KNjvSYSfqCHmee9HuuyuXKe95T1p5NeKN+3ubvXipHyAeAAJmXjRmzgyLLRiGRnr5OI/YfPdkwvxHq4gTtCnu314k3AS0FRwyLdmaQpAJhGxfOP0J65An24qso2PQGuJIcgCk5OKuh40gWTvzt1SMqLYmHUsNxVdZLv5ZhohERU2IhSL4kK17v+qHSDN9/Z4R7d6AkONnUcGrEYA==;ToJns7xdxbQzYeAK2g0DTg=="
 ---

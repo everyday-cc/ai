@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-01-ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia.md",
+      "title": "AI could be used to generate more biographies of women on Wikipedia",
+      "excerpt": "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed. The idea is to be able to submit, in an automatic fashion, a multitude of profiles so that they can then be validated and completed by the editors of",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "publishedDateTime": "2022-03-31T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
       "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
       "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
@@ -157,6 +200,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert.md",
+      "title": "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\"",
+      "excerpt": "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1039696/Zoomd_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -372,6 +459,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-21-byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
+      "title": "BYJU'S appoints ex-Facebook tech lead Majid Yazdani as VP",
+      "excerpt": "Yazdani previously worked as a staff scientist at Linkedin and at the Idiap Research Institute in Switzerland. He joined Facebook AI (Meta AI) in 2018 to construct neural networks with ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-90351698,imgsize-16040,width-1200,height-628,overlay-etcio/byju-s-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp/90351698",
+      "publishedDateTime": "2022-03-21T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-21-byjus-designates-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
       "title": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP",
       "excerpt": "BYJU'S designates ex-Facebook tech lead Majid Yazdani as VP - Edtech company BYJUS on Monday announced the appointment of Majid Yazdani as Vice President at",
@@ -401,49 +531,6 @@
       "provider": {
         "name": "SiliconIndia",
         "domain": "siliconindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp.md",
-      "title": "BYJU'S appoints ex-Facebook tech lead Majid Yazdani as VP",
-      "excerpt": "Yazdani previously worked as a staff scientist at Linkedin and at the Idiap Research Institute in Switzerland. He joined Facebook AI (Meta AI) in 2018 to construct neural networks with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/3/21/w600X390/Majid.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/mar/21/byjus-appoints-ex-facebook-tech-lead-majid-yazdani-as-vp-2432576.amp",
-      "publishedDateTime": "2022-03-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1343,112 +1430,6 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-analyst-ratings-for-c3ai.md",
-      "title": "Analyst Ratings For C3.ai",
-      "excerpt": "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-h2oai-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
-      "title": "H2O.ai brings AI grandmaster-powered NLP to the enterprise",
-      "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "originalUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "publishedDateTime": "2022-02-24T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
         "Machine Learning",
         "Facebook AI"
       ]

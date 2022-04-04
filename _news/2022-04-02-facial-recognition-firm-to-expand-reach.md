@@ -19,36 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "New Citi Field entrance option: Facial recognition"
-    excerpt: "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket."
-    publishedDateTime: 2022-03-31T18:32:00Z
-    webUrl: "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
-    ampWebUrl: "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
+  - title: "Facial recognition system at Pune airport by March 2023"
+    excerpt: "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner"
+    publishedDateTime: 2022-04-04T16:11:00Z
+    webUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 59
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
     images:
-      - url: "https://cdn-ace.newsday.com/ace/c:YmI3NTJjODctOGI2ZS00:MTlhZTE0/preview/1280"
-        width: 1280
-        height: 960
+      - url: "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Charleston: Facial recognition would help police combat sex trafficking"
-    excerpt: "Gov. Glenn Youngkin is to be applauded for establishing only weeks into his administration a commission to prevent human trafficking and provide support for survivors (Executive Order 7-2022). It’s a"
-    publishedDateTime: 2022-04-04T04:00:00Z
-    webUrl: "https://roanoke.com/opinion/columnists/charleston-facial-recognition-would-help-police-combat-sex-trafficking/article_9d00336c-b10a-11ec-8394-178c5da295e7.html"
+  - title: "Face Tech By 2023 | India's First Face Recognition Based Boarding System To Start"
+    excerpt: "In a bid to decongest airports and streamline passenger experience, the government has said it is going to roll out the facial recognition technology at airports across India by March 2023. Varanasi,"
+    publishedDateTime: 2022-04-04T13:43:00Z
+    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100"
+    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
     type: article
     provider:
-      name: The Roanoke Times
-      domain: roanoke.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/6b/76b9b1fe-b10c-11ec-aeed-9babf0d7292b/6245d2230ded2.image.jpg?crop=800%2C420%2C0%2C190&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 34
+  - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
+    excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
+    publishedDateTime: 2022-04-04T11:09:00Z
+    webUrl: "https://www.india.com/business/facial-recognition-technology-at-these-7-airports-by-march-next-year-govt-5319480/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 32
 
 secured: "WY3oy8mxX2EglvCmcJwnxVZSIU1RHW0KiK9/xOocFMZFgWUfJgGR5/ZaSERTdAgnhmxB5gcAlfY0DJI0T78BIuerjPrfXl/Ml3WGAFz/bWY8/XrM2efZFtmNFhxo8Ep9jm4f1QE57BBcebY9FmVBKa2/Yk8xm0M0T01FV24RJzAgcVrmsbA5vQKu5d93AAjeTZ9EivkmyF0JQj0cj47my+h68OGOPzbbyNEHqzE2FXq1zQS6bTrcjggf/lbAEsmVVe8x/Zx1W9ss0Suikwato4cJ64GGPxzxpD/tEQET6leafhHaXq/I3kuYaTlymTxc/RX3sJQ/9L90gIg/UT5nkgknxom59pld0rUXwCdCd4E=;W41OsQO9y+KaCUTp/BtB+w=="
 ---

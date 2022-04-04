@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T13:35:00Z
 originalUrl: "https://www.forbes.com/sites/jackkelly/2022/04/04/israeli-based-tech-startup-brings-your-old-family-photos-to-life-with-amazing-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/jackkelly/2022/04/04/israeli-based-tech-startup-brings-your-old-family-photos-to-life-with-amazing-artificial-intelligence/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

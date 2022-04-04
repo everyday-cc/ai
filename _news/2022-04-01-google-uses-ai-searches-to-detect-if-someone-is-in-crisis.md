@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 729
         isCached: true
-  - title: "Google Using New AI to Better Detect Searches Made by People During Personal Crises"
-    excerpt: "Imad is a senior reporter covering Google and internet culture. Hailing from Texas, Imad started his journalism career in 2013 and has amassed bylines with The New York Times, The Washington Post, ESPN and Wired,"
-    publishedDateTime: 2022-03-30T23:39:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 81
-    images:
-      - url: "https://www.cnet.com/a/img/resize/c074ac3ccc68a64818a589605f98a5aeebc04806/2022/02/03/e3a5502b-5219-4ced-9a00-d5afddedd9a7/htdia-google-search-00-08-30-29-still088.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "A2DA3vMPqBuuS/rEV3CLIpbzcc77y7vDPheQk0wWo8gIPtk4dAhEg58eeQnmfm2kZ4E/sl04TviT+Sod1029tYDnfA/v65nkOS5+rsMDIc1IXD59rtZG1HR3lokppVLg0lAewkW5qVISu1fPpwpsyLr94X971AqlxhKUNK3TwtPyAM2PcwDW8BRLPSpmsywabn6X8G0c9DveHzmT1H7kE/u53+jSjNkg7y6MyaAoNIEPg+/3lcG/WBZDM+jJ95/SFQKLCrnx7nQv75w1R6pysH5bMWdEU4GA5c11SyYYEkhj1EmmqE0zir5K2Lm6AHmaMPIf0HsSUb5Tr2ZhsztUY9vwIwpNmJFSUva4J1ppphM=;fW5fuoFkArTVwxEnKJGD5w=="
 ---

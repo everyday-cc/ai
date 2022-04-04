@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T12:54:00Z
 originalUrl: "https://www.hexham-courant.co.uk/news/20043242.artificial-intelligence-clinical-trial-uk-first/"
 webUrl: "https://www.hexham-courant.co.uk/news/20043242.artificial-intelligence-clinical-trial-uk-first/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hexham Courant

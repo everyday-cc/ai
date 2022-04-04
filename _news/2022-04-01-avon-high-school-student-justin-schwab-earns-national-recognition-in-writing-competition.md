@@ -33,6 +33,15 @@ related:
         width: 1440
         height: 700
         isCached: true
+  - title: "NDSU engineering students earn national recognition"
+    excerpt: "The school says competition teams like GeoWall are an important part of the NDSU experience, giving students a chance to develop skills that stand out to employers."
+    publishedDateTime: 2022-04-04T14:40:00Z
+    webUrl: "https://www.grandforksherald.com/prairie-business/ndsu-engineering-students-earn-national-recognition"
+    type: article
+    provider:
+      name: Grand Forks Herald
+      domain: grandforksherald.com
+    quality: 4
 
 secured: "s3D5MgfWg1dhEtrz7WuvNDy+KgWLpkL77jcbZfFAly+o6+0nL+fKuFTzcXtILxlaKTGAmyfiuJg1Hfrg8NHV2CIihW7m1TbvJCqvtekzzui0/b8wplcDGFyAn0QWj/8nrtcHoBMfSotCLCigRG5Qr2FndaZw/vG3DHEEof+ul0rWM2hU0OVKsKuQQO9XJIV5ARyhbXRXbnYbFGYJePhwNXIda9M1byvxW9r9NxRDjvKvWH39o75Jsw+rENeqJGqmg5Axa6QSJuP3yPDBiwyCBKyLGpaSqFEzDwfe8/3OiSUJ2HQCHWadyhM9l2l75+xogXq9rJ4ZK5T4Xb26hyzL4MHqNJZliuTENfMwDgez0n8=;6JMhdAipN0dyALHuGIL6vw=="
 ---

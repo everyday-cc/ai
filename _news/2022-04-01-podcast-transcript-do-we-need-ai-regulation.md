@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3672
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.indianexpress.com/2022/04/p1-anchor-3col.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Artificial intelligence facilitates tissue substructure identification from spatial resolved transcriptomics"
+    excerpt: "A research team led by Prof. Zhang Shihua from the Academy of Mathematics and Systems Science of the Chinese Academy of Sciences has proposed a new computational tool, STAGATE, to decipher tissue substructures from spatial resolved transcriptomics (STs)."
+    publishedDateTime: 2022-04-04T16:23:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-tissue-substructure-identification.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-tissue-substructure-identification.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-tissue-substructure-identification.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 38
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg"
+        width: 1920
+        height: 1357
         isCached: true
 
 secured: "saOTXHGFKJUUbcZCmp7jAq6/IPulSfztoulmAISAjHNKuIf7MxIgJT+DtzodbvxdLv874Dpm+V61durKyXG249holLK7Hf4Wxc0l2P8icwME/CXz+myFmszifo+msIQt81tH+6UFb7DsqxbAHvnwhnuBqLBR3k206QAUxlQT+UFgQrSRp5HFD8a32vleKKzaQiYX3EKeoMYeEqNl/U2rv/tywtaHZh73i3OYu7B/N9Ly1c0CFxRHNxud6CXIdP4sxUG5HELin3nfn6wO3yowL/rIyatM5g0zi7TlnJsjF8PCQGttpSRM+RD3zfY0TjOxKPmT/IHnVdDupiwukUjYxoOftnpwJUNCyZ3HwY3/gTsznBDR94iL6s7KEuAMz/C8iAOqLh2MZzqgQpgy5T+IS1RrvhnXlZCQaAsocMHomgbtac70Vk4ZGhsOoKEr5vs54s+a8BgOntjCj2TDRJquJ+7E01SJorEY2+tF/p6f6L58UoZGFilp2mYzNcsi8WWCQTcR76fT3RhsX5OHV+p55g==;aZD7scfmMx6dHlvHF/Aecg=="

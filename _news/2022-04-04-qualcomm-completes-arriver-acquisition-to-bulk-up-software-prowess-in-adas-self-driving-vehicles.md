@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T13:30:00Z
 originalUrl: "https://www.sandiegouniontribune.com/business/story/2022-04-04/qualcomm-completes-arriver-acquisition-to-bulk-up-software-prowess-in-adas-self-driving-vehicles"
 webUrl: "https://www.sandiegouniontribune.com/business/story/2022-04-04/qualcomm-completes-arriver-acquisition-to-bulk-up-software-prowess-in-adas-self-driving-vehicles"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: San Diego Union-Tribune

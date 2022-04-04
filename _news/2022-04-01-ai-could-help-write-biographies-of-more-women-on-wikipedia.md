@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies"
-    excerpt: "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa."
-    publishedDateTime: 2022-03-30T22:51:00Z
-    webUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/"
-    ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all"
-        width: 800
-        height: 598
-        isCached: true
   - title: "AI could be used to generate more biographies of women on Wikipedia"
     excerpt: "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed. The idea is to be able to submit, in an automatic fashion, a multitude of profiles so that they can then be validated and completed by the editors of"
     publishedDateTime: 2022-04-01T00:11:00Z
@@ -50,6 +34,20 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial intelligence could soon be used to write movie screenplays"
+    excerpt: "Artificial intelligence could one day be writing movie screenplays after researchers trained machines to understand emotional arcs in movies.Using films such as Pixar’s tearjerker Up, a group of experts from the Massachusetts Institute of"
+    publishedDateTime: 2022-04-01T01:30:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/artificial-intelligence-could-soon-be-used-to-write-movie-screenplays/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 37
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/04/01013012/Img32973156.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "hyaTlvmFrCFrnFvMgYGHLwNX54SOZjluJ+byxq7SEOj0x+mp89ozyXow6fYnhnEvMN5p7mq7OInuIDuu7FDrx4YUpkG+61zhDtFu3BW/w4sNqW8/EXq0a9Mkigjqpr3eXU09UlFjjZceeJB224O75BImrULnZaNXWuDDLBcL17R3eQx3nkkGHdJqIgFaJlwYru44meQFADp3V8zlZgMtTnsH1NtQS55TGR6s1G2dISuHyk1cyPE5H3Hdpyz8ONdsNL3vuEeV6TJO0hSNmXJjEd6FfZ68gJNlARQPS0sUx+cwtN4uN3yc5XH5MnjQn1UGnc85dZ6NSopa6nPdiiDMho14Q/jBybZD1qpOxrQB8Q8=;LElEI+l+1NGy5pCWwYErJg=="

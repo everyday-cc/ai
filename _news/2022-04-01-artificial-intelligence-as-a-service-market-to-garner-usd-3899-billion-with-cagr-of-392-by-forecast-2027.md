@@ -27,33 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Hardware Market: 44% of Growth to"
-    excerpt: "The Edge AI Hardware Market value is set to grow by USD 6.93 billion, progressing at a CAGR of 17.37% from 2021 to 2026, as per the latest report by Technavio. This growth can be attributed to rise in IoT application by various end-user industries coupled with increase in demand for smart homes and smart cities."
-    publishedDateTime: 2022-04-01T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-44-growth-originate-from-/2022/04/01/9575316.htm"
+  - title: "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights"
+    excerpt: "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview"
+    publishedDateTime: 2022-03-31T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/1778061/Edge_AI_Hardware_Market_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Aerospace Artificial Intelligence Market: Machine Learning Technology to Rake at 45.4% CAGR During 2020-2028"
-    excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43.4% from 2021 to 2028. The report ..."
-    publishedDateTime: 2022-03-31T12:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aerospace-artificial-intelligence-market-machine-learning-technology-to-rake-at-45-4-cagr-during-2020-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Global Artificial Intelligence in HR Market Will Grow to USD 17.61 Billion by 2027, at a CAGR of 35.26% - ResearchAndMarkets.com"
     excerpt: "ResearchAndMarkets.com The \"Global Artificial Intelligence in HR Market (2022-2027) by Offering, Technology, Application, Industry and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."

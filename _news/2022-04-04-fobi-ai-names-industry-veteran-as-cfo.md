@@ -24,14 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Fobi AI Welcomes Annie Chan To Senior Management Team As Chief Financial Officer"
-    excerpt: "Fobi AI Inc. (FOBI: TSXV FOBIF: OTCQB) (the “Company” or “FOBI”), a leader in providing real-time data analytics through artificial intelligence to drive customer activation and engagement, is pleased to announce the appointment of Annie Chan as its Chief Financial Officer (CFO),"
-    publishedDateTime: 2022-04-04T11:00:00Z
-    webUrl: "https://kfor.com/business/press-releases/globenewswire/8515346/fobi-ai-welcomes-annie-chan-to-senior-management-team-as-chief-financial-officer/"
+  - title: "Fobi AI appoints Annie Chan as its first full-time chief financial officer"
+    excerpt: "\"As CFO, Annie is another key strategic addition to our team, and I look forward to working together and seeing her impact on our"
+    publishedDateTime: 2022-04-04T10:55:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/978703/fobi-ai-appoints-annie-chan-as-its-first-full-time-chief-financial-officer-978703.html"
     type: article
     provider:
-      name: Oklahoma's News
-      domain: kfor.com
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 15
+  - title: "Fobi AI Welcomes Annie Chan To Senior Management Team As Chief Financial Officer"
+    excerpt: "Fobi AI Inc. (FOBI: TSXV FOBIF: OTCQB) (the “Company” or “FOBI”), a leader in providing real-time data analytics through artificial intelligence to drive customer activation and engagement, is pleased to announce the appointment of Annie Chan as its Chief Financial Officer (CFO),"
+    publishedDateTime: 2022-04-04T11:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/04/9575599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 12
 
 secured: "VvEiySy7wXSQ0TYdwEYasYHOy8GgJ6UGzfj3TliKHYGlyRjJnq++dN08B2XfIA0XJwiuaNDq63peyK1V2BHzoQgVfoZMzaUTrotYZmjIbpiOnUQQRURMs86tMBnerQ46jImW9Ate7w4m7FeG2wgzYmcoJCVGF+aIfMGCO4qL6I8fDQUU7nm43EK5epyZtj6ROB1SmtaB4jAdRH2hHxY4ULOfVle68BfLfaOjK1J7fdgjCqpvCKvlhUp1UNS1BEBdAAiO1UZpdvMcnKAwIThRC4hM896IKb6LgS+UI+1g1jobiF9PSuThlj944Z5zvFHFBWoiEr/Jw1YOZIImdmWcVlq6+srgAKOpM6DX+wAiNfk=;G/rooedvvRRqu5M0m+aMGw=="

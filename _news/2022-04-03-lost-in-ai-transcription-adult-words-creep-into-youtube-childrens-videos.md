@@ -40,6 +40,22 @@ related:
         width: 375
         height: 210
         isCached: true
+  - title: "Artificial intelligence facilitates tissue substructure identification from spatial resolved transcriptomics"
+    excerpt: "A research team led by Prof. Zhang Shihua from the Academy of Mathematics and Systems Science of the Chinese Academy of Sciences has proposed a new computational tool, STAGATE, to decipher tissue substructures from spatial resolved transcriptomics (STs)."
+    publishedDateTime: 2022-04-04T16:23:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-tissue-substructure-identification.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-tissue-substructure-identification.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-tissue-substructure-identification.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 38
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
 
 secured: "4k1eRAGMFJHbMV5roICduvl1rVSXfrTRphItiI2bMRVTwvTu0hSvNO+LLswOKGc/qQWMTOu2mtzQ22sKPkGyR+/kT9h5ThAeku/iya3TUStWAcqdG/qL07fwM/fW8/S7RDglkqNi9HaBOi0xvL2jbgadSKKcgRRHgkGTOUCgiKZ6+6CGNP5xhiiLK+Kk8KkpWzwCWkn6v9vW/NEZcbk4LR15hbIXaBjMBfAY7qoygxk02d5SfOmK2Vm7U7fZUDTAXwbPmiTHPtcA2HAXNcI3pQgpGPxIY8MtqwtR49qjP6BDSA533Mzl0bmzE64R6kaacA2wIDrtLG8pL9EFKleqeRYOmoZPIEcWQ2YS4Bm9XjM=;LU94f2lGml4RGBO8gbOoXQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
+      "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
+      "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
+      "originalUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/03/ozmo.jpg",
+          "width": 1041,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
+      "publishedDateTime": "2022-03-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
       "title": "Handheld robot uses AI to help first responders stem bleeding",
       "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
@@ -1277,40 +1320,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ, the sidekick for healthier, happier aging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "originalUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "cdnAmpWebUrl": "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "publishedDateTime": "2022-03-16T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finanzen",
-        "domain": "finanzen.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

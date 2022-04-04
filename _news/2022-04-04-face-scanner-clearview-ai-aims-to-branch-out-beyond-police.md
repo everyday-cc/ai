@@ -41,19 +41,14 @@ related:
         height: 320
         isCached: true
   - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
-    publishedDateTime: 2022-04-01T22:16:00Z
-    webUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
+    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently —"
+    publishedDateTime: 2022-04-01T20:20:00Z
+    webUrl: "https://www.wearecentralpa.com/tech-news/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
+      name: WEARECENTRALPA
+      domain: wearecentralpa.com
+    quality: 17
 
 secured: "1ak+jp/eV05gq6Oj66Rh7V1RqnXGwC5T7iMzQ3qkJsOCIEQev8kA7yulq/oONLTfbFs+T7cZtgMYQ1M02IpM99V0mZX5arkNOm72+l7o57tZtnCmWpoE/x0+VDxAnZh7uKX2acK7Sx7SVa849KZrI2WkpaF6z6FZ1nA1k/t8kacuUxGznIGbSnl+V+tMbkA2Ty8rkrLPK/Xcx6xUj6YQbMYTSx0VMczrJMK9hHklKDQ5J+VdTsiP4iMrPj2ehOVZXuW7IIy47EvZv5hPfaVaom5ewkv72Ll5CG4KN+ZhTmbYHLjqHp//bbo03XOFd3cNKZdtPKA9lodMRCzPwe1q2FFFobW+Zu3FEadzLXFXR5A=;5DJo3RXWOHvHGfTOr6eajw=="
 ---

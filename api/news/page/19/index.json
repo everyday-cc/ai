@@ -2,6 +2,445 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-03-16-vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions.md",
+      "title": "VIDIZMO Joins AWS Public Sector Program to Provide Video Streaming and Evidence Management Solutions",
+      "excerpt": "Amazon CloudFront, AWS Rekognition, and AWS Transcribe. \"To simplify things, VIDIZMO offers organizations a secure no-code YouTube-like web application for their video content,\" said Nadeem Khan ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-astute-imaging-acquires-deep-technology-ai-startup-dilenytech.md",
+      "title": "Astute Imaging Acquires Deep Technology AI Startup DilenyTech",
+      "excerpt": "Astute Imaging LLC, a provider of imaging guided therapy and procedure planning services, announced the acquisition of Dileny Technologies (DilenyTech) LLC, a deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/astute-imaging-acquires-deep-technology-ai-startup-dilenytech/article_3266d37c-ebf1-55e8-ae39-c165f3a4f516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-aim-medical-robotics-raises-34m.md",
+      "title": "AiM Medical Robotics raises $3.4M",
+      "excerpt": "MRI-compatible intraoperative robotics developer AiM Medical Robotics announced today that it raised $3.4 million in a seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/aim-medical-robotics-raises-3-4m/",
+      "originalUrl": "https://www.massdevice.com/aim-medical-robotics-raises-3-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2022/03/AiM_Medical_Robotics.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-eye-health-computer-vision-syndrome-is-caused-by-excessive-screen-time-symptoms.md",
+      "title": "Eye health: ‘Computer vision syndrome’ is caused by excessive screen time - symptoms",
+      "excerpt": "However, 24 years ago, in 1998 doctors coined the term Computer Vision Syndrome, or CVS for short. It was used to describe the impact of computer screens on the eyes. READ MORE: Vitamin B12 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Screen-use-eyes-1581562.jpg?r=1647442972900",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms/amp",
+      "publishedDateTime": "2022-03-16T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-how-to-encourage-ethical-ai-in-financial-services.md",
+      "title": "How to Encourage Ethical AI in Financial Services",
+      "excerpt": "Following publication of the Bank of England and FCA’s Artificial Intelligence Public-Private Forum (AIPPF) final report on AI in financial services, Gery Zollinger, Head of Data Science & Analytics at Avaloq,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/digital-banking/how-encourage-ethical-ai-financial-services",
+      "originalUrl": "https://financialit.net/news/digital-banking/how-encourage-ethical-ai-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/avaloq_27.png",
+          "width": 1422,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-prosport-physical-therapy-performance-joins-golden-bear-therapy-partners.md",
+      "title": "ProSport Physical Therapy & Performance joins Golden Bear Therapy Partners",
+      "excerpt": "Golden Bear Therapy Partners is pleased to announce the partnership with ProSport Physical Therapy & Performance of Southern California.     \"I am proud that Joe and the ProSport team has chosen GBTP to partner with,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20290698.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20290698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-items-tagged-with-mona-lisa.md",
+      "title": "Items tagged with mona lisa",
+      "excerpt": "A list of HotHardware's published articles on the topic of mona lisa",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/tags/mona-lisa",
+      "originalUrl": "https://hothardware.com/tags/mona-lisa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-former-fda-head-scott-gottlieb-md-to-headline-upcoming-artificial-intelligence-in-healthcare-and-diagnostics-conference.md",
+      "title": "Former FDA Head Scott Gottlieb, M.D. to Headline Upcoming Artificial Intelligence in Healthcare and Diagnostics Conference",
+      "excerpt": "Innovative companies bringing artificial intelligence (AI) to hospitals, physicians, and diagnostic providers will gain key insights about the market opportunities to improve patient care and generate more revenue when they hear the keynote address by former Food and Drug Administration (FDA) Commissioner Scott Gottlieb,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/former-fda-head-scott-gottlieb-m-d-to-headline-upcoming-artificial-intelligence-in-healthcare-and/article_80086361-e7d6-56ab-b9d8-8026e9d86631.html",
+      "originalUrl": "https://www.eagletribune.com/region/former-fda-head-scott-gottlieb-m-d-to-headline-upcoming-artificial-intelligence-in-healthcare-and/article_80086361-e7d6-56ab-b9d8-8026e9d86631.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/de/6de880d4-966e-5a77-a86b-9305a9f0f20d/6231fc9d818b4.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-neural-networks-market-is-expected-to-reach-15261-billion-by-2030-says-amr.md",
+      "title": "Neural Networks Market Is Expected to Reach $152.61 Billion by 2030: Says AMR",
+      "excerpt": "According to the report published by Allied Market Research, the global neural network market was estimated at $14.35 billion in 2020, and is projected to reach $152.61 billion by 2030, registering a CAGR of 26.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103857434/Neural-Networks-Market-Is-Expected-to-Reach-15261-Billion-by-2030-Says-AMR",
+      "originalUrl": "https://menafn.com/1103857434/Neural-Networks-Market-Is-Expected-to-Reach-15261-Billion-by-2030-Says-AMR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?105039",
+          "width": 421,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-the-best-robot-vacuums-you-can-buy.md",
+      "title": "The best robot vacuums you can buy",
+      "excerpt": "Robot vacuums have come a long way over the past few years. They’re smarter, more powerful and (marginally) better at avoiding chair legs than they ever were before, and you don",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/best-robot-vacuums-130010426.html",
+      "originalUrl": "https://www.engadget.com/best-robot-vacuums-130010426.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/15357b60-9ef7-11ec-99ff-3847635b5f44",
+          "width": 6307,
+          "height": 4205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/best-robot-vacuums-130010426.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/best-robot-vacuums-130010426.html",
+      "publishedDateTime": "2022-03-16T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips.md",
       "title": "Chipotle Is Testing An AI-Driven Robot To Make Its Tortilla Chips",
       "excerpt": "Miso Robotics' Chippy is in test at the Chipotle Cultivate Center with plans to eventually integrate into a Chipotle restaurant in Southern California later this year.",
@@ -665,437 +1104,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-an-ai-eerily-recreated-the-mona-lisa-in-the-ruins-of-humanity-and-skynet-is-pleased.md",
-      "title": "An AI Eerily Recreated The Mona Lisa In The Ruins Of Humanity And Skynet Is Pleased",
-      "excerpt": "When IBM's Watson defeated two of the greatest Jeopardy players of all time with a $1 million pot up for grabs, we applauded. And when AI started beating up flesh and blood players at games like ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
-      "originalUrl": "https://hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57988/content/small_mona_lisa_art2.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ai-recreated-mona-lisa-ruins-humanity-skynet-pleased",
-      "publishedDateTime": "2022-03-16T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-the-ai-beauty-startup-that-champions-transparency-and-inclusion.md",
-      "title": "The AI beauty startup that champions transparency and inclusion",
-      "excerpt": "Skin Match uses AI to create quick and efficient product finders and ingredients explainers. And, the L'Oréal-backed startup is committed to inclusivity and transparency, says CEO Estella Benz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
-      "originalUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.voguebusiness.com/photos/62306b644430ce077a64ceb2/master/w_3000,h_2000,c_limit/skin-match-future-edit-voguebus-skin-match-mar-22-story-inline-1.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
-      "cdnAmpWebUrl": "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/beauty/the-ai-beauty-startup-that-champions-transparency-and-inclusion/amp",
-      "publishedDateTime": "2022-03-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "voguebusiness",
-        "domain": "voguebusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
-      "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
-      "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-chipset-market-to-hit-usd-38-46-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci-headsets-that-control-devices-through-thought.md",
-      "title": "The Metaverse Gets a Boost: NexStem Announces the General Availability of Its Award-winning BCI Headsets That Control Devices Through Thought Alone",
-      "excerpt": "NexStem, a MedTech and robotics startup that creates non-invasive robotic solutions controlled exclusively by a user’s thoughts, today announced the finalization of its latest round of funding and the general availability of its NexStem Headsets and Wisdom-SDK (software development kit).",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci/article_34b68e7c-cdd5-5010-b854-532674924755.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci/article_34b68e7c-cdd5-5010-b854-532674924755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/8/33/8336c899-24da-51b4-8e59-967bac7bc5df/6231b6379e209.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-self-driving-vw-idbuzz-vans-to-start-testing-on-us-roads-in-2023.md",
-      "title": "Self-driving VW ID.Buzz vans to start testing on US roads in 2023",
-      "excerpt": "Volkswagen's new ID.Buzz is slated to reach U.S. showrooms in 2023, but versions of the electric van fitted with a self-driving system developed by Argo AI will also test on the nation's roads. Volkswagen Group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1135332_self-driving-vw-id-buzz-vans-to-start-testing-on-us-roads-in-2023",
-      "originalUrl": "https://www.motorauthority.com/news/1135332_self-driving-vw-id-buzz-vans-to-start-testing-on-us-roads-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/2024-volkswagen-id-buzz_100832793_h.jpg",
-          "width": 1920,
-          "height": 1205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-intelligence-in-fintech.md",
-      "title": "Artificial Intelligence in Fintech",
-      "excerpt": "What Is Artificial Intelligence in Fintech As artificial intelligence (AI) starts to enter the financial technology (fintech) sector, there is a lot of buzz and excitement around what it could mean for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGCUzlLrNH1MQ/article-cover_image-shrink_600_2000/0/1647424327619?e=1653523200&v=beta&t=nZUq3B9xcBK7EyvixKj86WTBa5RqSD0x3Ub4xkBqPk4",
-          "width": 1019,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-deep-learning-speeds-triage-of-brain-scans.md",
-      "title": "Deep learning speeds triage of brain scans",
-      "excerpt": "A team headed up at King’s College London hopes that deep learning models could address this bottleneck. The researchers have developed a deep learning framework, based on convolutional neural networks (CNNs), that can identify abnormalities in MRI scans.",
-      "sourceUrl": null,
-      "webUrl": "https://physicsworld.com/a/deep-learning-speeds-triage-of-brain-scans/",
-      "originalUrl": "https://physicsworld.com/a/deep-learning-speeds-triage-of-brain-scans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://physicsworld.com/wp-content/uploads/2022/03/head-MRI-deep-learning.jpg",
-          "width": 1200,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Physics World",
-        "domain": "physicsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm.md",
-      "title": "Industrial Artificial Intelligence Market to See Booming Growth | Alphabet, Microsoft, IBM",
-      "excerpt": "Advance Market Analytics published a new research publication on “Industrial Artificial Intelligence Market Insights, to 2027” with 232 pages",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm",
-      "originalUrl": "https://www.digitaljournal.com/pr/industrial-artificial-intelligence-market-to-see-booming-growth-alphabet-microsoft-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/345d9689605f742c2fe9066713d8618f6b2aad6d-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "Intuition Robotics today announced the official commercial launch of its digital care companion, ElliQ which is now available for purchase via elliq.com. ElliQ, the sidekick for healthier, happier aging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "originalUrl": "https://www.finanzen.at/nachrichten/aktien/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "cdnAmpWebUrl": "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-1031280642",
-      "publishedDateTime": "2022-03-16T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finanzen",
-        "domain": "finanzen.at",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-easing-financial-nerves-with-artificial-intelligence.md",
-      "title": "Easing Financial Nerves With Artificial Intelligence",
-      "excerpt": "In 2022, global anxiety feels unavoidable. From climate change to the continued impact of Covid-19, we are experiencing challenges affecting everyone across the globe. Business leaders are not exempt from this fear.",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
-      "originalUrl": "https://internationalbanker.com/technology/easing-financial-nerves-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internationalbanker.com/wp-content/uploads/2022/03/Artificial-Intelligence.png",
-          "width": 1339,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Facial recognition firm to expand reach"
-    excerpt: "A controversial facial recognition company that's built a massive photographic dossier of the world's people for use by police, natio"
-    publishedDateTime: 2022-04-02T05:12:00Z
-    webUrl: "https://www.journalgazette.net/business/20220402/facial-recognition-firm-to-expand-reach"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 19
 
 secured: "vozJmf0PWu1hv3V8hVus8I2V0l9AxKsjScV6k/+BqTDXVMjSN5a13y/xj/et9LxRbS4SzeGYruBGfD9ZsfdE3sqEWAbqJ7JCDtqbzpPexgCdWg1iiBsizaQYu89TVX1ixL5PgOjPIMHz8eT5CB1pGJHVRv7vfTy3iTZnBN7PKZzEGEUXsARNN7SDhZsZNlqnoW9+tEYGy4AG/oYcmUVx6oaJGCYjB7ppu2lnX5qGXSnwB+rdTvQRA2ph+A9CEh1SXyPhx5HB035Bo88cohce+NjIS6/Cg3QmvQWWRS9IY0/clZ2J0ejXy56u6xGDk/YPaivKbftk3FY0vdwlL2MngJ307NwrYfJ+s4SF8S+9hukq4Gatvb//X1WaebIhxI28YDLLadKgiLJSrrWiBLaE3/GGagRDg4qEmQi7MQR2e/dPaKSc6KMG+pR9+qpSmwnIf0gZdFngeMR9kxcsIlIobZVTLgmERh3iMocy+91uvEsdgdTdnJrHYNzArEOQKut4bYUyqHaAg64t2RDW9y/q0w==;eqWxUbFeblajEkmt5uRC0A=="
 ---

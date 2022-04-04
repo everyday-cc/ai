@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/multi-dimensional-ai-to
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/multi-dimensional-ai-to-be-key-to-a-successful-digital-transformation"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 620
     isCached: true
+
+related:
+  - title: "Four Practices Your Organization May Need to Lead Its AI Transformation"
+    excerpt: "Even as the pandemic has accelerated transformation in many aspects of business, artificial intelligence (AI) has advanced over the past two years with notable speed. As more leaders recognize and rely on AI’s utility in uncovering and scaling data-driven insights and freeing their workforce to solve problems with creativity,"
+    publishedDateTime: 2022-04-04T13:50:00Z
+    webUrl: "https://hbr.org/sponsored/2022/04/four-practices-your-organization-may-need-to-lead-its-ai-transformation"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "+3m2FjgcpHxFR1OTFexUU+0nmamUiVe4S02cFPUuQhLO5nygIa3qsoL+cSiIp9aGOn6edGR30FOj/Lej/1ztC9upFK6rWkjMe6YPMyJ9w8EvEoPNlCq6uNMFdxXczLy4tZoqJ5dFoWhneG0jGxC4OBNmDbe8JnwjbqmfGA/HSXT1KY43AD+Omd7WIJ2SdLbX5o7lOelQSY7W9rmF2eJiVg94Km3m94QHfE2xor/7RXtznDBjMorTsFPOagFVIzS5IXthFOHMv6Zv4904+soVUkTIiG7Sn3sii+PWuEEYLiJ9Prqel5sFp22xebB+wtKZyLYbdnymqzQ84Xx8pGFgQCaKipFVomoaJ591qQPiisI=;DLiIXHetwVlk27+OG0PQDg=="
 ---

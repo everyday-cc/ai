@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -30,6 +30,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Why we need human-centered AI"
+    excerpt: "Expert, Ben Shneiderman, believes we can create AI systems that can have both high levels of automation and human control."
+    publishedDateTime: 2022-04-04T14:10:00Z
+    webUrl: "https://thenextweb.com/news/we-need-human-centered-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 47
 
 secured: "i6CNskq0lfLUNbR0HGg8iAp69eDqPcfP7coCPUw5VqvODW2/XM3qFMggrIjec5BbB8SlAA/R0mu+YJaIQFbyflAAh/IKF3Ha1WAlzKqpmxk2gig8GS3Pv6Shfm4ra9X+ahLAeCCwY3PbZWF1p6KntL8fN1v7e0dN68N6AsaA7d7JLkM0Xs3OwwNlxgCQ9MKUZYMTntIkHt5eBFR9ZPO/Be5OAZxhOzU3ysSg9MJfcXuWLRL052MYJ59CRs1WdB1da8Ys7wZmMJGg266JDtAzLhyoRhZ8ThglZMyTvmLRLXXo9pF4V+oFCs64kfwGw0Ev0AbRP8retQDlZOd6htrug+YjyT6SOgkS/VQDjt13i2yN6FaSuPHqPvjGng2isZi/1K8/qn9LXm5Yyk1akQgt1pW0AISGR+cIGXJmqhfhvO9LFRRbSGXnbE8qcs/RLPNAC3yCx7CNNzirPg92i112hvJxHInq6mmZuSET1UbzWDbvHA9jF3JA+k/yba3jeB3KMHP0EZzBMpQ0O/VaFbU3sw==;tw2ad1mwd2aDpJDS5GHJ8w=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Emerging AI Technologies in Higher Education"
 excerpt: "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape."
 publishedDateTime: 2022-04-01T20:29:00Z
-originalUrl: "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-webUrl: "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education"
-ampWebUrl: "https://edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/higher/article/2022/04/emerging-ai-technologies-higher-education?amp"
+originalUrl: "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
+webUrl: "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education"
+ampWebUrl: "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 76
 heat: 86
@@ -22,7 +22,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
+  - url: "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r"
     width: 1440
     height: 500
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 250
         isCached: true
 
-secured: "QZUv06kt6POTLB6onbxX/fliGTMcDhRXwx2pE5XCjjzmyBazgZ8MaFsMH+9VKrZbi7FjkLiryxHf4uwB1ERaYoFT9ER2AgcI+jAuTg2M8reLDqet4sU8hqlVNkI5GuszuMKxFSmBNIqX/M1TJurFKStihyhHJ9cK3xTyWkG0xMXx5CYtd5tQpeTBoNPMG2tZvdDwiVjqnpiODp/P9oDmJKIIFNzUdRwGLRQCI2qTWFmuIit+rKSXCR+P5T9jhBqfbzq4LSk1aqoCYFkSGsDd7No0x0Za4emMcRrKeQzoKT1jKxzqFEbfae4NVgdsFo6Kq7y+fzfkfJcmE0p5jXkNTX8Pi1B7vcHQ8bUz4oTHtcU=;dw7ykQWa9jzXND0bcXpaLw=="
+secured: "Mx5iQVPBjnjtI5a28/USjt9YKQMna22oOixmRIrtHbE4olUpjMt9szBxGAYM21GfjoeBh/pmrFnN1wdqWeUkG4S1BDQk7ChpCYeUNZ18zSEfTDtmhh1J4MbHueAZYFBLBgZyaQNG0we0E+Wp1hCyV0kKOICgYcQZFH7x0OMQ+gMteCpAgzjQ9IEvHdZ4gf50NowTHWT3TsP3TXdL7TORuL3Zy//nK6QaDX6teSpIxNQinRVZ605B0B+mdZFrwICc9nX+AcWOPL8qz8YfvAoPJfBbSKZEvVcY+4JIqslzgYRhWX23NKBYuMspXZBjJeZWhmUoCAAmy9LtiXn0B7Wukm0nr0A4TDh/U+2Cf+4NGEk=;rgukLYRLAP5Pz3nTxqpnJw=="
 ---
 

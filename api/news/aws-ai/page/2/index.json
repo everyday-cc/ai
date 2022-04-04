@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-17-amazon-launches-rpg-for-aws-training.md",
+      "title": "Amazon launches RPG for AWS training",
+      "excerpt": "Amazon launched a 3D online role-paying game where players move through a virtual city helping people solve real-world technology issues and cloud use cases, with goal of building Amazon Web Services (AWS) cloud skills and preparation for the AWS Certified Cloud Practitioner exam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
+      "originalUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/iStock-1303238248.jpg",
+          "width": 1253,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions.md",
+      "title": "VIDIZMO Joins AWS Public Sector Program to Provide Video Streaming and Evidence Management Solutions",
+      "excerpt": "Amazon CloudFront, AWS Rekognition, and AWS Transcribe. \"To simplify things, VIDIZMO offers organizations a secure no-code YouTube-like web application for their video content,\" said Nadeem Khan ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-london-school-of-business-finances-digital-academy-set-to-further-develop-student-skills-in-the-digital-and-tech-sphere.md",
       "title": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
       "excerpt": "London School of Business & Finance’s Digital Academy Set to Further Develop Student Skills in the Digital and Tech Sphere",
@@ -1293,102 +1379,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker.md",
-      "title": "Train 175+ billion parameter NLP models with model parallel additions and Hugging Face on Amazon SageMaker",
-      "excerpt": "The last few years have seen rapid development in the field of natural language processing (NLP). While hardware has improved, such as with the latest generation of accelerators from NVIDIA and Amazon, advanced machine learning (ML) practitioners still regularly run into issues scaling their large language",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/22/ML-7958-image001.jpg",
-          "width": 2304,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T10:11:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-why-a-multicloud-solution-is-better-for-government.md",
-      "title": "Why a Multicloud Solution is Better for Government",
-      "excerpt": "The multicloud world is already here. However, multicloud is much more than using services in each cloud independently. Multicloud is about connecting the best services and capabilities of each cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
-      "originalUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5a1824/2147483647/strip/true/crop/4500x2346+0+497/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F1c%2F442abd3148219ac52b1a9dcac01a%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xOTEyOTUxOTYwL2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDYxODU1NDQsICJtIjogMX0sICJGRmU5eEZ1ekFJN2VTOTgyRzg2V0Y3RmZxdHMiXQ%3D%3D%2Fshutterstock_1912951960.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
-      "publishedDateTime": "2022-03-01T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

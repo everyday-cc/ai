@@ -62,7 +62,7 @@
       "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -678,6 +679,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-31-global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights.md",
+      "title": "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights",
+      "excerpt": "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-understanding-education-40-the-machine-learning-driven-future-of-learning.md",
       "title": "Understanding Education 4.0: The Machine Learning-Driven Future Of Learning",
       "excerpt": "Education 4.0 involves machine learning in education to align with future trends in order to develop and improve individualized education, which will eventually define how future generations of children will work and live.",
@@ -1031,8 +1084,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1428,50 +1481,6 @@
         "AI",
         "Machine Learning",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics.md",
-      "title": "How To Eliminate Ethical Bias From Machine Learning And Data Analytics",
-      "excerpt": "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "originalUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg",
-          "width": 2400,
-          "height": 1727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "publishedDateTime": "2022-03-24T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

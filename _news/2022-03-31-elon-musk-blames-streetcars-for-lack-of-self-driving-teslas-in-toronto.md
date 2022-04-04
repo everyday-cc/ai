@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The future is now: self-driving Teslas have arrived in Montreal (VIDEO)"
-    excerpt: "Driving in Montreal is no easy task, but, nonetheless, it's a challenge that Tesla's AI powered vehicles are up for."
-    publishedDateTime: 2022-03-30T20:32:00Z
-    webUrl: "https://dailyhive.com/montreal/tesla-fsd-self-driving-car-montreal"
-    type: article
-    provider:
-      name: Daily Hive
-      domain: dailyhive.com
-    quality: 39
-    images:
-      - url: "https://images.dailyhive.com/20220330124238/ChunkAhoy-Tesla-500x269.jpg"
-        width: 500
-        height: 269
-        isCached: true
-
 secured: "fd1e1/Fe2iaEXXXdoCxjANjHrB0UPI14OwYjrqc2Vm+VG4ZxUNCSqhRBLZ2XzkQTjdAhr8Tlpu3ATFj2v0gkkw5Xs0XDVxYF4MhgxDl9N0vnQ6BREZ0Z1MBN4ovxAJY96FLKtIPPT+2vgXcgcJ32YG0ek/4OJ73LI0vNHclwOWH/50Yg7mq6wBfNf4kg26BlHjtk6Ldq1dCQUHPNDd1eCS0VfhT8sr3FJHcc0+Xo/aeMmvsaEfCl4Pf3/bMDtpfGpjfLau3/OXjcrMDb+duzCsFvaklEWKrUNgRyt5DiW20sY4jykS0qGrFtl8B/741+wiwKL7C8hR3MYuBmSva5VEsJ4CXMOBDW4nA/fOJhO3LPouO4UWxBHKkdsuF5Haej/W0kPdDNuE9+Mi0jK/8d9768seNt2kogs2dLNFoWlaWJQJGu5fpwr6M9n5BBL3MHjXaWRTG9S1lylXzCiXyFksCNJUp/3IZ8OjppsY1brro/aBlI/sk8KmvHRdlbAOzTzyN6cedwcY85uUy43xsHTQ==;187fcJS+ynasi4u9kIlQMA=="
 ---
 

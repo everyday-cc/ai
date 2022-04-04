@@ -2,6 +2,370 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-30-six-fintech-trends-to-watch-in-2022.md",
+      "title": "Six Fintech Trends To Watch In 2022",
+      "excerpt": "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62436cd289a4b767dd415637/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/",
+      "publishedDateTime": "2022-03-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-arize-ai-goes-self-service-with-ml-observability-platform.md",
+      "title": "Arize AI goes self-service with ML observability platform",
+      "excerpt": "Arize AI makes older black box-type systems transparent in order to ensure that more effective and responsible AI models move smoothly from research to production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all",
+          "width": 799,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/amp/",
+      "publishedDateTime": "2022-03-30T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-to-find-the-business-value-in-ai-and-ml.md",
+      "title": "How to find the business value in AI and ML",
+      "excerpt": "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/",
+      "publishedDateTime": "2022-03-30T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve.md",
+      "title": "The Scarcity Of AI Talent: A Problem Of Our Own Making Is A Problem We Can Solve",
+      "excerpt": "The scarcity of AI talent is not an inevitable state of nature — it’s just easy to tell ourselves the story that it is, even as our own actions perpetuate the problem. The good news is that the problems we create,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/",
+      "originalUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622772ce83369a21d3beb604/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/",
+      "publishedDateTime": "2022-03-30T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-lotus-eletre-suv-revealed-with-hidden-self-driving-tech-tesla-doesnt-use.md",
+      "title": "Lotus Eletre SUV revealed with hidden self-driving tech Tesla doesn't use",
+      "excerpt": "The Eletre is slightly longer than a Ford Explorer, but only has two rows of seats. It’s equipped with a 600 hp all-wheel-drive system that Lotus says will be able to accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
+      "originalUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/03/720/405/lotus-5.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
+      "publishedDateTime": "2022-03-30T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-get-ready-for-the-industrial-intelligence-revolution.md",
+      "title": "Get Ready For The Industrial Intelligence Revolution",
+      "excerpt": "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain.md",
+      "title": "How The Digital Ecosystem Improves Engagement Across The Manufacturing Value Chain",
+      "excerpt": "Digital transformation is disrupting all industries globally and has accelerated over the last two years during the pandemic. The Industry 4.0 market, currently estimated at $116 billion, is expected to grow at a CAGR of 16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242fa6e9eceb44afd4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-syniverse-and-koreai-form-partnership-to-offer-cpaas-professional-services-for-enterprises.md",
       "title": "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises",
       "excerpt": "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises.",
@@ -795,19 +1159,19 @@
     {
       "path": "_news/2022-03-30-rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod.md",
       "title": "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD",
-      "excerpt": "ALBUQUERQUE, N.M., March 29, 2022 /PRNewswire-PRWeb/ -- RS21, a data science company developing artificial intelligence (AI ... We navigate complex data issues in the fields of healthcare, defense, safety, urban planning, energy, cyber, land use, climate ...",
+      "excerpt": "Data Science and AI Company Qualifies to Participate in the DoD Data Readiness for Artificial Intelligence Development Program",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -815,13 +1179,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26355645",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26355645",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-29T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -831,7 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -886,330 +1249,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-otterai-rolls-out-a-new-ai-generated-meeting-summary-feature-and-more-collaboration-tools.md",
-      "title": "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools",
-      "excerpt": "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/",
-      "originalUrl": "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/",
-      "publishedDateTime": "2022-03-29T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-kyndi-releases-natural-language-search-solution.md",
-      "title": "Kyndi releases Natural Language Search Solution",
-      "excerpt": "Kyndi, a natural language processing (NLP) company, is releasing the Kyndi Natural Language Search Solution, an end-to-end offering designed to maximize the relevancy and speed of finding answers in unstructured, text-based data. Today, individuals still ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
-      "title": "Go with the flow state: What music and AI have in common",
-      "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
-      "originalUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Music_AI_hero-01.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-the-quantum-tech-arms-race-is-bringing-us-better-ai-and-unhackable-comms.md",
-      "title": "The quantum tech arms race is bringing us better AI and unhackable comms",
-      "excerpt": "Quantum tech promises breakthroughs in weapons, communications, sensing, and computing tech that could change the balance of military power.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms",
-      "originalUrl": "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fvriuw.jpg&signature=b5c3eff22090df30c2826d7b023f28fc",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-ai-shows-potential-in-breast-cancer-screening-programs.md",
-      "title": "AI shows potential in breast cancer screening programs",
-      "excerpt": "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-shows-potential-in.jpg",
-          "width": 2075,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-ai-potential-breast-cancer-screening.amp",
-      "publishedDateTime": "2022-03-29T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
-      "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
-      "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment by Qualcomm Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-san-jose-venture-capital-artificial-intelligence-3c9b1122a386442a83dab3822c84a7dd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists.md",
-      "title": "Pinecone announces $28M Series A for purpose-built database aimed at data scientists",
-      "excerpt": "When Pinecone launched last year, the company’s message was around building a serverless vector database designed specifically for the needs of data scientists. While that database is at the core of what the company is doing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
-      "originalUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1225803116.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
-      "publishedDateTime": "2022-03-29T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

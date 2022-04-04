@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Using New AI to Better Detect Searches Made by People During Personal Crises"
-    excerpt: "Imad is a senior reporter covering Google and internet culture. Hailing from Texas, Imad started his journalism career in 2013 and has amassed bylines with The New York Times, The Washington Post, ESPN and Wired,"
-    publishedDateTime: 2022-03-30T23:39:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-using-new-ai-to-better-detect-searches-made-by-people-during-personal-crises/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 81
-    images:
-      - url: "https://www.cnet.com/a/img/resize/c074ac3ccc68a64818a589605f98a5aeebc04806/2022/02/03/e3a5502b-5219-4ced-9a00-d5afddedd9a7/htdia-google-search-00-08-30-29-still088.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Uses AI Searches To Detect If Someone Is In Crisis"
     excerpt: "Google is one of the pioneers in the use of artificial intelligence. The company recently announced that it could use AI techniques to analyze users’ searches and detect whether they are in a crisis. To do this, Google has developed machine learning models."
     publishedDateTime: 2022-03-31T18:44:00Z

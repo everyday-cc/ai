@@ -40,20 +40,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Panel calls for tougher rules on facial recognition"
-    excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
-    publishedDateTime: 2022-03-30T22:00:00Z
-    webUrl: "https://www.eagletribune.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_2859ed7e-b028-11ec-81ad-4b03c4b50f1e.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
   - title: "Benefits of Facial Recognition Tech and Why It Requires Privacy Laws"
     excerpt: "Many of you might have seen facial recognition technology in action before. Facebook uses it to suggest friends, and"
     publishedDateTime: 2022-04-01T12:22:00Z
@@ -96,6 +82,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Login.gov plans to scale up without facial recognition tech – for now"
+    excerpt: "The General Services Administration isn't ruling out using biometrics in its Login.gov service, but the agency has concerns about equity and accessibility."
+    publishedDateTime: 2022-04-04T14:54:00Z
+    webUrl: "https://www.nextgov.com/it-modernization/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363972/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 19
 
 secured: "2QIX/+sG15ofDWTEINqkElgeTfXhdAsaPDsGTso03IVpfq25G801gSxr7ZpWTDKMa+Uwc7Hs7LTfx1jlwHJkOnk3BrtVJp8S78rI1xsxY+xllUVgpkR4mCmu/XptTyRFlzEYg7WFPZagZlVzAhvUpqHX0weBYwRRtiUlFZkkmLPeBF73yCSX9K9ARkw1oRe1Kpacrz7J768SHhkv+y3vZKcL0Cx9OsGF3I7mAx0bV053hNZMywqmEB9WY2u26wZyquBdNyjqjn+7Th4hawn4AS9Nz9KJOHN4wQi063K5tVk8QzrOPq0uupgQJ82hbserVVeuACqU7H18tcucM3xD8YrMeTf66EOo2QCzYZ4ySpzuEeNE2ou3tcQ/gqrOhgfzgBPXU6Swy7KfN9V6l/sU+RUohs4J1COfQBsdOh/mVWYNT395rTUyUmrVva5xEIFI+zmnLaVLeKCRUkZYcPGabZWvhFmJ0fvjg4+dxfDRd9cRrKIigfaQ9IrtuCXqKbK6o0whEddCqVySWQq7Uc8Vrg==;mHIfp7ZZlLt6W7yWq9rUUA=="
 ---

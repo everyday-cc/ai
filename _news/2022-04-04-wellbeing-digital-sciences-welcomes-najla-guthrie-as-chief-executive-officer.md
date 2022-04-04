@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Wellbeing Digital Sciences Welcomes Najla Guthrie as Chief Executive Officer"
-excerpt: "VANCOUVER, British Columbia, April 04, 2022 (GLOBE NEWSWIRE) -- Wellbeing Digital Sciences Inc. (“Wellbeing” or the“Company”) (NEO: MEDI)"
-publishedDateTime: 2022-04-04T11:45:00Z
-originalUrl: "https://menafn.com/1103959653/Wellbeing-Digital-Sciences-Welcomes-Najla-Guthrie-as-Chief-Executive-Officer"
-webUrl: "https://menafn.com/1103959653/Wellbeing-Digital-Sciences-Welcomes-Najla-Guthrie-as-Chief-Executive-Officer"
+excerpt: "Wellbeing Digital Sciences Inc. (“Wellbeing” or the “Company”) (NEO: MEDI) (OTC: KONEF) (FRA: SQ2), an evidence-based healthcare company focused on innovative clinical solutions, artificial intelligence-powered digital therapeutics and contract research,"
+publishedDateTime: 2022-04-04T11:00:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8515281/wellbeing-digital-sciences-welcomes-najla-guthrie-as-chief-executive-officer"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8515281/wellbeing-digital-sciences-welcomes-najla-guthrie-as-chief-executive-officer"
 type: article
-quality: 21
-heat: 21
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?585592"
-    width: 375
-    height: 250
-    isCached: true
-
-secured: "iycNQu6Xdozyo3GEaK5YLaYquZLyyPAXHEuXCPTynylDR0CYHJI1RiiGTR1ExqDB5RsBDSoLJwsIdUsLD4ZIAwB2aYBp4hGlEr49GQyEWuaWzAk2B5FjaKWzPbdPd/bLZvqSVbPuZwXiEQOtz7T4qHs/rkr4U1PqpQBaTydsqo2ei7RBB4y28SKuYDBT0yPkE86P5Alv7sXtP8CXIBnANQbDu52WPRrb4ojBsI4soc1X4CaxvMB3ANk9IwpLjARoEiuHjFbUUPr7GcrCGGEWiimfFP+3ywaGo21ovo5Tr/EjBVyHNMwglb7sxCDbjLbqJAvmhouBdxATJCL4WvAee3PHjPCc1ih086SECVul5H8=;jM/7rxF90ffhSF48oJFl8w=="
+secured: "PElpBOT2GgjI0hCeJvkKMK/Lj/gL1vMsbLq6O1RW5RTmRSPgnwKrMZOFtWtdZrp+ZKORCPH8Lxto1s6FChfZwhpBrngoWyubw1euwm4xXUlf1j32h7oo2rPrFefXzB0qnx1jmFkPFwPAVeVkbItsC0y7nsqY3xzIRUmAZvNeUcvEfbn5I61bUjtGSKi9umU3TZPWhDKc/ULZ1LrSeCrIu2ipGEp2IhUeOYbzjGj+6kmso+NhLOjHKWKhrkqHo2XLls+GIy7JmhXhpZ/NjAkfezUPlv3U4cJ5nLYDWfroJ27Fz2Mq5uhH3e6D+KT3ciKi8ANcKv6BEUGmOXIVvwvMOsudh/iAkoveQmVL+laHXno=;Ervo9kQLxiK7ef1tG9XAOA=="
 ---
 

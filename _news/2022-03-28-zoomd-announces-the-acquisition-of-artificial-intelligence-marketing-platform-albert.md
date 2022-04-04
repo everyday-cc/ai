@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\""
-excerpt: "Zoomd acquires substantially all of Albert's assets in a cash & stock transactionThe acquisition adds several Fortune 500 companies to Zoomd's client baseAlbert's strong focus on Google and Facebook"
+excerpt: "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,"
 publishedDateTime: 2022-03-28T12:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
   - AI in Marketing
 
-secured: "gaPZZjh5zGk5xYd5RMiZ0MEw9lgWU1D4Fmz80MLbBI9gdsVuksvIAklrT71GkcKJNYpXHo2x5djLXPXl0/t80Ky6SV8FyYFLhS7drjrowtrKWY/kTmBIJfXbuloSNhxylkslz+Drlj6vJUc8XHxovp2hunmYZb62w41QaBt3l85QVKgyn/ZWFIWe5O6M/Gg2qUU9TytEpTBlqHZzjVw9JL8poVkdCe24mrYTB2t8pgBeZxLG1Vgk5OJjU+Y3wSOIqYSqaDGrA9KXUWvl17w3Mm0bzx7MV1HH96ZVPlbeKEm6klndo1w6vY4PeBekhczHSWWwPj5zJCVgZ+9HR/nu0SF8A7bCuHLiUSA5bs3bfWDmFCVdbzFA536CpQ09mrl+lj0x/vWJ/3Ki+tPQP6p7eeCj7LSsJHUZOyATwKVg+aJrSSVq0z+nZb6cmgltmZpghpdPRHXiN9NgnccD/xfKAdEnEb12zJY/aWQMH72scBQLLQm676ZM+Ce9zHamNR5Guo1nQBEaZ1lgTebWEfqIAg==;a9TsEu8PN5qvsIIOa5dYUA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1039696/Zoomd_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "ueJ0QfKz5YBs64+vZ0DljUrUe4RVL7b5slrYADk6muqrKavcN4sNqv+mQb5Yezi3YkSoRzqBmB5H6iOGErexBuEd9qiP7UrJye1NfJQ4saOTE6BzUx38rgccK5D00dPqcUvfxT057QEUZefpST+7c/HSCUJFVvC5qZQU3wDQtRQc7QqQOgUTiWCzpkKFcz/8meopjjG3Vv0XD5TrjbMQERHaMMGz6xFHOf4oBGx0R0zPB14XANN0CbLLieBAuTYtG/uKNyuP+AvCLYrrk0+wJOVQ6TTJyuIflc5Ubsv73YkgmM+qYfNmrXJJ4bujyd3YNB6Jot6wNrxW4aWrI9eE8BXn0Tlfj+2HeB5eh9WIhJ0=;Qgw9qEE5hnBJxKfFlx0LVg=="
 ---
 

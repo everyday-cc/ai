@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-10-ethics-of-artificial-intelligence-on-the-top-another-take-on-the-draft-artificial-intelligence-regulation-significant-changes.md",
+      "title": "Ethics of Artificial Intelligence on the top. Another take on the draft artificial intelligence regulation. Significant changes",
+      "excerpt": "A few days ago the internal committee of the European Parliament has published its new proposal for amendments to the Artificial Intelligence Act. The proposal is still pending as it has to be approved for further steps,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
+      "originalUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHlQdpetP4wXg/article-cover_image-shrink_720_1280/0/1646908244234?e=1653523200&v=beta&t=xCzuaapOWJ_g4qnrkqOYqOEWBKXHch1VVx32Mp4GalE",
+          "width": 1083,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices.md",
+      "title": "Data Ethics Consortium for Security (DECS) Guides Startups and Policy Makers on Ethical AI Practices",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / March 8, 2022 / Amina Alsherif founded the nonprofit Data Ethics Consortium for Security (DECS) to respond to a growing",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices",
+      "originalUrl": "https://www.digitaljournal.com/pr/data-ethics-consortium-for-security-decs-guides-startups-and-policy-makers-on-ethical-ai-practices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/692022/MqyCsDngQzjNg6XNZ30dKLve0G6ZTVVXTt-y0p3wLYc9KeJopux5-pvtHuojX-Oy26-YJl1o8Ok4hfWn6_sj4kq3n1gPruZTVn3ZH8xNfwl7HDajw4Jg8WZuJKC_B6dRTZnQu71Z.jpg",
+          "width": 835,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-future-of-tv-were-putting-new-personalised-features-into-shows-using-an-ethical-version-of-ai.md",
       "title": "Future of TV: we’re putting new personalised features into shows using an ethical version of AI",
       "excerpt": "Philip Jackson receives funding from UKRI via EPSRC and InnovateUK, including projects with BBC R&D, and from Bang & Olufsen, the Danish luxury consumer electronics brand. “Look away now if you ...",
@@ -1318,103 +1414,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars.md",
-      "title": "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars",
-      "excerpt": "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop",
-          "width": 2097,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-does-aiml-bias-come-into-play-in-hrms.md",
-      "title": "How does AI/ML & bias come into play in HRMS?",
-      "excerpt": "HRM solutions have become quite essential in the operations of an organization and with the solutions being integrated with AI/ML ... CHRO & Chief Ethics Officer, Pramerica Life Insurance said.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89630606,imgsize-52818,width-1200,height-628,overlay-etcio/how-does-ai-ml-bias-come-into-play-in-hrms.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "publishedDateTime": "2022-02-16T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

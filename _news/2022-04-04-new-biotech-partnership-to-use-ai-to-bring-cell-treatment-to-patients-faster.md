@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T12:34:00Z
 originalUrl: "https://www.siliconrepublic.com/innovation/empiric-logic-biotech-tool-data-analysis-acgtvector"
 webUrl: "https://www.siliconrepublic.com/innovation/empiric-logic-biotech-tool-data-analysis-acgtvector"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: SiliconRepublic

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Thought leaders and early adopters of AI to share insights at the 35th global edition of #WorldAIShow Dubai"
+    excerpt: "In light of technology moving in full speed, Trescon's World AI Show will bring together pre-qualified CIOs, CEOs, CTOs, Heads of AI, Chief Digit"
+    publishedDateTime: 2022-04-04T13:16:00Z
+    webUrl: "https://menafn.com/1103960112/Thought-leaders-and-early-adopters-of-AI-to-share-insights-at-the-35th-global-edition-of-WorldAIShow-Dubai&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "lAZ0DxCBFxCbuk9tgdUMg5YAB5htUX+bG5PsF7jPtyNphWqAfSqhWHllU19uSY04ftbl+kbM5lOZQiDxIjFGd/hNT8xjnmVGkqxAsDK6LL/9jfV8feWY3Zc2pvPt+RnbJTqUNG6/M+n4NGZMDSteH/RWmdcsYLPY9ZDJiYOsFtwHTFbk/U00ky8D5TbG7rtyPqNN7Gj6VA5QuGipKpnpfH/Nr3rKSErZiX0KuYEffKc1t6yMG608tk1l3bsqa1GQa+AXT56oK6romW7SL++WgF8J6aTYbpndWtoXUBCpMuXNdxwPBJU/qxx1I2fdb8i7GbkQ/4PC1KiLiZVMBgNMlOHyimJojNcA9S461GZw1ak5FFRgPMTe4fgfRhTWivshd+y0G8RFiR4mmeJBmhjXdOS+UxgDHgnGVD4ni4k0kFMJFOsqAl8R/4aSef6zrAQZeYuWDs4AfCIJMi8p/Mtz1zPIEVG+5OsA/tLUJDN9swtefe3EC+qXKEkoKht4uZ3Zd4+/mD7vOOwtbdfQKAaP5Q==;rCTzSM0M1T+VgUB0d2GRpw=="
 ---

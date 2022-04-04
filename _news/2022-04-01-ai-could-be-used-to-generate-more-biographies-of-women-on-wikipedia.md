@@ -9,8 +9,8 @@ ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: malaymail
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies"
-    excerpt: "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa."
-    publishedDateTime: 2022-03-30T22:51:00Z
-    webUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/"
-    ampWebUrl: "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/"
+  - title: "Artificial intelligence could soon be used to write movie screenplays"
+    excerpt: "Artificial intelligence could one day be writing movie screenplays after researchers trained machines to understand emotional arcs in movies.Using films such as Pixar’s tearjerker Up, a group of experts from the Massachusetts Institute of"
+    publishedDateTime: 2022-04-01T01:30:00Z
+    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/artificial-intelligence-could-soon-be-used-to-write-movie-screenplays/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all"
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/04/01013012/Img32973156.jpg"
         width: 800
-        height: 598
+        height: 600
         isCached: true
   - title: "AI could help write biographies of more women on Wikipedia"
     excerpt: "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed."

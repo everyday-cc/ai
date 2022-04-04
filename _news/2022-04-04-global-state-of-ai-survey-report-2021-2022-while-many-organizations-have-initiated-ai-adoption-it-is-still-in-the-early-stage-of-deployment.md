@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T11:34:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-global-state-ai-survey-report-2021-2022-while-/2022/04/04/9575670.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-global-state-ai-survey-report-2021-2022-while-/2022/04/04/9575670.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

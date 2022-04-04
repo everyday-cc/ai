@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving tech on pause as chief engineer takes leave"
-    excerpt: "The delay-plagued autonomous driving program is faced with a new obstacle. Tesla's Full Self-Driving program is likely set to face new delays, with a lead"
-    publishedDateTime: 2022-03-31T00:41:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-tech-development-on-pause-as-chief-engineer-takes-leave/"
+  - title: "Waymo's self-driving cars no longer require a safety driver in San Francisco"
+    excerpt: "Waymo's self-driving cars have been providing lifts to Waymo employees in San Francisco since mid-2021, though always with a safety driver behind the wheel. Now the cars will star"
+    publishedDateTime: 2022-03-31T15:30:00Z
+    webUrl: "https://www.motorauthority.com/news/1135468_waymo-s-self-driving-cars-no-longer-require-a-safety-driver-in-san-francisco"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 36
     images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/gth84rmv86yo5ygasmpq?_a=AAAH2GX"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kelowna resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
-    excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
-    publishedDateTime: 2022-03-30T21:08:00Z
-    webUrl: "https://www.castanet.net/news/Kelowna/364472/Kelowna-resident-amongst-first-group-of-drivers-in-Canada-to-receive-Teslas-new-self-driving-software"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 23
-    images:
-      - url: "https://www.castanet.net/content/2022/3/364472_0.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.hgmsites.net/hug/waymo-self-driving-car-prototype-in-san-francisco-california_100834714_h.jpg"
+        width: 1920
+        height: 1194
         isCached: true
 
 secured: "+vqSPAlFxX26klkSoK0d7LaIRzkMM/DGNWjOJ7OvR0xPReKNYhoJ2uCsPj8b9FmJ8dtgHcfGUBdnAOdkw+KKjAqWBDDmR0OIIzyq7q5wzqfh47cxXDc455VCYNBGPqDoB/I1Cs90UnaWJ0vxOV10ohNGwrwToVwEQekISgAhvJyizEwAokujV0YbgwCaUzuBKLu0x+2lYY/ePAFPIQ38ZQB1rFSKSM3x55361GrPyFvJ/+a/Py6NI3lSkO+GxDkNgIat4/AYPzh5BpXitHhB7G+JtnkdBPKpYPn5F4hYo69d7Qu9+Te8zMAGtgh5tT+vV35VwGsWXDN4n8Cub4EITq8gD0u7z70EjOLGMYoANyc=;DjOQ+CtBDR4SNoYqhOPvdQ=="

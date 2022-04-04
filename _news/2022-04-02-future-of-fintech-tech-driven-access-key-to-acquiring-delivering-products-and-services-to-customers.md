@@ -26,22 +26,6 @@ images:
     height: 333
     isCached: true
 
-related:
-  - title: "Fintech's New Era: Profits, Perils and Limitless Potential"
-    excerpt: "In fact, it’s estimated that global banks have the potential to generate up to $1 trillion in additional value annually through AI technologies, according to McKinsey & Company. Related: The Rapid Growth Of Fintech: A Revolution In The Payments Industry If keeping ahead of the technological curve is paramount for a company in the fintech industry,"
-    publishedDateTime: 2022-03-30T20:43:00Z
-    webUrl: "https://www.timesunion.com/business/article/Fintech-s-New-Era-Profits-Perils-and-Limitless-17040789.php?IPID=Times-Union-jobs-entrepreneurship-river"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/24/77/75/22282050/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "u1sh0IWO0IWoaX0vsGHImgWf3Emb44AmSqcgSBJ8WZGIVVLUGFosqVTN/sp9Tn5l79uoSjpzCocVXuH6qKKUfWUjYbzu5j7kAk24UR3tWIprO0A+2TwBTnQSJQhcU+kNJ974bTIKIIzXJTvygU6fTa24oTCJz87/WIWqD2zkiSyGnmmQlBdj1JGCydOqKdMBhhZkzDRhD8euNb2Fxsz5wCg4ejMU910qRRBx3xsBj4+p4Uh6tCrl3FONIBnaRs0aH+tgY8l61uD1ORuoN42bNAvL2c4TehTUJH4uhElmhahTCLzgTqs6IgpihF2h44lAw+sc53AVKwEFsZlL6sABaEucVOchv05bwshaBZImH5hqzvbjN+6TVuNfb5t/1oMPpKfQ9OgnSYS4eXYAE9MXT6wKYYKOW8QNRH5dTVIjkBjkoLG8d5jxcogVoyBbaEbFgGQMv7qhqUIMauLtPIovLglhxk0ZXeSPRJRcrFAxSbf0V3H5WfuEmTDLkHpD9/8d8m96wp4R1x3JGhcBThVvvw==;CNT33k6ysDbAcDw4mrwmhA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
-    excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
-    publishedDateTime: 2022-03-30T23:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 40
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (AI) In Genomics Market 2022: Future Outlook, Growth, Industry Analysis, Business Opportunities"
     excerpt: "In terms of revenue, artificial intelligence (AI) in genomics market was valued at US$ 458.21 Mn in 2021 growing at a CAGR"
     publishedDateTime: 2022-03-31T14:53:00Z
@@ -81,6 +67,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
+    excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
+    publishedDateTime: 2022-04-04T06:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-size-share-growth-trends-industry-analysis-2030%EF%BF%BC"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
 
 secured: "5cQu/Ji/zb1Wxd8rh8LBmGYrzlOwkaVSIpF7K6xGbaxFj+it+icW5ixyTpMM13WtldvDiY54IE25yQ7+W8qUcA9ps0/TDt3AlObTKLHT/uFUriHHxM+hK7Xszp0LY2THks/BsFLd0ZfV7NNzjEhXWBu+4dzlB+NSxcJZ4gLBuFbh8yB7XbI5S9uMn2e1OON2Y26dmfRN1VORtEGiEUeGJXUyitUKHVVhHF4aduJltHJNUCpQeDMU6+PWntYHHuuIbS8nCbBMH4slnFOoqV85bS5CxjpLBQ5unWv/h/L+UScGadBK5hJdH0Q3jHk3mhTu1E1Luv/1DG9bLR7+hUiuzWGgJ0o3uF8NMXuLr1VduqA=;FclQlmNIQej0weaCwKVftg=="
 ---

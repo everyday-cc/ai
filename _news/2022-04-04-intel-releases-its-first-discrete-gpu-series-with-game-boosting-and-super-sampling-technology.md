@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T11:50:00Z
 originalUrl: "https://www.electronicsforu.com/news/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
 webUrl: "https://www.electronicsforu.com/news/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Electronics For You
