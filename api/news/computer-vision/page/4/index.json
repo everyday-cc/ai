@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-21-computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market Is Anticipated Grow Aggressively during 2022 to 2028",
+      "excerpt": "Feb 21, 2022 (Market Insight Reports) -- Global Computer Vision in Artificial Intelligence (AI) Market Insights, Regional Analysis, Market Share & Competitive Analysis The Computer Vision in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-20T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-20-real-time-object-detection-for-59.md",
       "title": "Real Time Object Detection For $59",
       "excerpt": "Pretty impressive. We’ve seen dedicated object recognition systems at this price point, but the Jetson has a lot of flexibility. We were excited to see the Jetson Nano and with 128 cores and a ...",
@@ -1329,49 +1381,6 @@
       "provider": {
         "name": "The National Law Review",
         "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-top-10-computer-vision-trends-to-watch-in-2022.md",
-      "title": "Top 10 Computer Vision Trends To Watch in 2022",
-      "excerpt": "Companies like Amazon, Nokia, and many more have already started using computer vision technology as a safety and security method for their employee and to ensure a smooth workflow. With the growth in technology, we are now shifting towards a new digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/",
-      "originalUrl": "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220210235234/Top-10-Computer-Vision-Trends-to-Watch-in-2022.png",
-          "width": 1000,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/top-10-computer-vision-trends-to-watch-in-2022/amp/",
-      "publishedDateTime": "2022-02-10T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeeksforGeeks",
-        "domain": "geeksforgeeks.org",
         "images": null,
         "publishers": null,
         "authors": null

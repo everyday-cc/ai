@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2022-2027 Global and Regional Artificial Intelligence (AI) Chips Industry Status and Prospects Professional Market Research Report Standard Version"
+    excerpt: "Chips market was valued at 5972.91 Million USD in 2021 and will grow with a CAGR of 36.2% from 2021 to 2027, based on Research newly published report. The prime objective of this report is to provide the insights on the post COVID-19 impact which will help market players in this field evaluate their business approaches."
+    publishedDateTime: 2022-04-01T07:08:00Z
+    webUrl: "https://galleonnews.com/news/243609/2022-2027-global-and-regional-artificial-intelligence-ai-chips-industry-status-and-prospects-professional-market-research-report-standard-version/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 11
 
 secured: "E1pkP5POjWmyCSwc+1Vea7nAk/uIraNN4G1ncFEUEwwFv0P+vnroqhkFzezt3D/mcgdgu9J3Hp/hXcvn52Ima6bK5T0ZWsnNNyFpOvGpq4pa8IJJ6pev1kl+yb3HHkH8hbb+eVYipgzrR315k2M82oyYD3g5ZtuF+A2N5UnVj1XcR68f0n02bMfrytTqMY+22Mh1oxP6tKY7mcSofoOjpG+5sFY/xKC5DqZ0I58Ugs0nlmjDCABia2IHypDs5tiHANdAJBgMKZgCiICjWqQ3YGoxZzK7AL8fFCWRyXVixlGCyiPi9rzilUlXGzcxcpMwbpDBfUjZSibH91LpKxJbOzI1c9kvXAR9Q/pR6bUZvEs=;3gmvPFG4FGoqcMt5uK4dOA=="
 ---

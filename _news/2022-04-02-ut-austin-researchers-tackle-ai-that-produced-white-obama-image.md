@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Texas researchers tackle AI that gave us ‘White Obama’"
-    excerpt: "UT’s Machine Learning Lab held a public lecture Friday titled, “AI for Accurate and Fair Imaging.” Researchers with the lab’s Institute for Foundations of Machine Learning (IFML) have been working to improve the algorithm that in 2020 produced an ..."
-    publishedDateTime: 2022-04-03T02:10:00Z
-    webUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/"
-    ampWebUrl: "https://www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
-    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+    excerpt: "Researchers at the University of Texas at Austin are leading the way when it comes to fine-tuning the accuracy of artificial intelligence."
+    publishedDateTime: 2022-04-02T21:55:00Z
+    webUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/"
+    ampWebUrl: "https://www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/news/national/texas-researchers-tackle-ai-that-gave-us-white-obama/amp/"
     type: article
     provider:
-      name: WAVY
-      domain: wavy.com
+      name: WNCT
+      domain: wnct.com
     quality: 57
     images:
-      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2022/04/OBAMA-AI.jpg?w=1280"
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/04/OBAMA-AI.jpg?w=1280"
         width: 1122
         height: 629
         isCached: true

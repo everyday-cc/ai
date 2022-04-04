@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 108
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AI_in_Conversational_Commerce.jpeg"
         width: 1024
         height: 600
-        isCached: true
-  - title: "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises"
-    excerpt: "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises."
-    publishedDateTime: 2022-03-30T12:06:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_10fb2a87-6f48-58f9-95d6-287fa3fb6769.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/32/93247ee6-1253-51c4-be5c-f942f4adaf40/62444a566e2f8.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ksB+eLjfIJbBCVW0Xm+HFpzT48HDb5tuT9lS0Ujh53FRepLlxYRyoThFK8GiWbSdpdojKNjrEi81NXx2jR0WHriILBrGzMla2myYpgn8ei4ZGScxZxJsUg166Kg+W0/jE0z84GbCJo9OcjcZDOKzQDWqnK3yONhl0Zdwo/ZUX9XKK1jHWb2ikEKMVSg2wiOR+mkjEAlOcnrWwmZhk66IYdHAJvWTXwffRmtXmpHdkjPnq4cC5hoU8I20EqxQoZ0Lcqh4RW3WxG+1hhOhRrQ+++ZQ9NbEI1U+61rHtm1RDRj7fDWIy7yWz5XPZYLpSVr1xkwwBmCaJ99mZ2KhVwucdkf25YxFYT0OO1m/6NxS28KzfYM6gd6D2CSQejdSD0pSITsavc30S8jrHABmGev2YmWWWBGdMqgYVLb7TSjZrAO9v2q3kQM9/picrIfuCAUQlEXBsKZqy6wkYY5OSY6n9ldKIjuQbcHmWeIzur6jULSfRVNLhqSZfAduNVn3ij84NrcCajNq4921FsNJXFkYUw==;K67vV+YpywNu/sO4+Cs7Pg=="

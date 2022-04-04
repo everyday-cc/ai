@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Top ex-fund managers launch £30m AI and fintech fund"
+    excerpt: "A group of top ex-fund managers is launching their third fund in as many years aimed at channelling funds into fast-growing AI, fintech and mobility"
+    publishedDateTime: 2022-04-04T05:00:00Z
+    webUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/"
+    ampWebUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2022/02/GettyImages-1238230801.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Bharat Bytes: Demand for tech talent; Google’s dual billing; ONDC launch; unlicensed fintech"
     excerpt: "India to witness massive demand for tech talent. Digital transformation across telecom, engineering, and healthcare sectors has made software, big-tech, and data professionals’"
     publishedDateTime: 2022-04-03T20:30:00Z

@@ -29,7 +29,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.livemint.com/img/2022/04/03/600x338/analytics_1649004420915_1649004436324.jpg"
         width: 600

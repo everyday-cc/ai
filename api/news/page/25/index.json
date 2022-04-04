@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-03-10-microsoft-distinguished-engineer-offers-insights-into-the-future-of-women-in-stem.md",
+      "title": "Microsoft distinguished engineer offers insights into the future of women in STEM",
+      "excerpt": "Today, she is a distinguished engineer and corporate vice president at Microsoft. Iyer currently ... the future market for women in STEM. The cognitive and analytical requirements of STEM jobs ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
+      "originalUrl": "https://siliconangle.com/2022/03/10/microsoft-distinguished-engineer-offers-insights-future-women-stem-wids2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Rukmini-Iyer-WiDS-2022.jpg",
+          "width": 6240,
+          "height": 4160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-using-ai-to-fill-in-the-missing-gaps-in-ancient-texts.md",
       "title": "Using AI to fill in the missing gaps in ancient texts",
       "excerpt": "A team of AI researchers at DeepMind, working with colleagues from the University of Venice, the University of Oxford and Athens University of Economics and Business, has developed an artificial intelligence (AI) application to help historians fill in the gaps of text missing from stone,",
@@ -1115,58 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.md",
-      "title": "Microsoft opens Azure-based Startups Founders Hub, easing eligibility rules",
-      "excerpt": "Successful applicants to Microsoft’s Startups Founders Hub will be rewarded with Azure and OpenAI credits, and free access to productivity and developer tools including GitHub and Microsoft 365.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html",
-      "originalUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/07/coders_developers_hackers_programmers_asian_women_by_startup_stock_photos_cc0_via_pexels_1200x800-100763341-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3653229/microsoft-opens-azure-based-startups-founders-hub-easing-eligibility-rules.amp.html",
-      "publishedDateTime": "2022-03-09T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

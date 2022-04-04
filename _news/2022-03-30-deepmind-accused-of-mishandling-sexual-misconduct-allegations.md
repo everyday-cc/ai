@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "An ex-DeepMind employee has publicly accused the firm of mishandling her complaints of sexual harassment: 'The same stories keep recurring.'"
-    excerpt: "The claims follow years of complaints by former Googlers that it has a poor handle on allegations of inappropriate behavior."
-    publishedDateTime: 2022-03-30T11:27:00Z
-    webUrl: "https://www.businessinsider.com/ex-deepmind-employee-alleges-hr-stalled-after-sexual-assault-harassment-2022-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/60fec4bd28e2cf00189070e4?width=700"
-        width: 700
-        height: 525
-        isCached: true
   - title: "Deepmind rubbish at spotting sexual harassment"
     excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
     publishedDateTime: 2022-04-01T09:56:00Z

@@ -40,22 +40,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "AI-Influenced Weapons Need Better Regulation"
-    excerpt: "With Russia’s invasion of Ukraine as the backdrop, the United Nations recently held a meeting to discuss the use of autonomous weapons systems, commonly referred to as killer robots. These are essentially weapons that are programmed to find a class of targets,"
-    publishedDateTime: 2022-03-30T11:36:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 59
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/ED3FFD93-22A2-482E-B04CC7E1D8371D34.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "4k1eRAGMFJHbMV5roICduvl1rVSXfrTRphItiI2bMRVTwvTu0hSvNO+LLswOKGc/qQWMTOu2mtzQ22sKPkGyR+/kT9h5ThAeku/iya3TUStWAcqdG/qL07fwM/fW8/S7RDglkqNi9HaBOi0xvL2jbgadSKKcgRRHgkGTOUCgiKZ6+6CGNP5xhiiLK+Kk8KkpWzwCWkn6v9vW/NEZcbk4LR15hbIXaBjMBfAY7qoygxk02d5SfOmK2Vm7U7fZUDTAXwbPmiTHPtcA2HAXNcI3pQgpGPxIY8MtqwtR49qjP6BDSA533Mzl0bmzE64R6kaacA2wIDrtLG8pL9EFKleqeRYOmoZPIEcWQ2YS4Bm9XjM=;LU94f2lGml4RGBO8gbOoXQ=="
 ---

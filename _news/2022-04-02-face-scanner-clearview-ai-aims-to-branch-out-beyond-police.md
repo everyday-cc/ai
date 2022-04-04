@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
-excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently —"
-publishedDateTime: 2022-04-01T20:20:00Z
-originalUrl: "https://www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
-webUrl: "https://www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
-ampWebUrl: "https://www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
-cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
+excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
+publishedDateTime: 2022-04-01T22:16:00Z
+originalUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
+webUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: CBS17 Raleigh
-  domain: cbs17.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/04/95496aaa47cb4607bac96fef8b9f7fb8.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 320
         isCached: true
 
-secured: "L43TPlmhEibHAESpkTx/FYCaljAjNLk2Q9cRxzwnvIbMLctSjdpCFLJ3lVk3yZBInkEl4EGkTU5e0rBIRimS7hflXiRkTvfmBFOnKEcu/13E+MEbluvPQMMBCLjQdQ3NDQN7EG2dRXHMCJWWMm+gHRDHkzvxw/qDDP6OpAwBcvBL8ZFj6bd5zF+fiOaoPHpInlQzEY6BfKyBIV9Y0T/20wQM3s0/adEd88QpPiTcPZm4nRfHFBDgGBmv8SzHnkjRQY4O1qBOfwKap3GcIcE4j+qnZmcl3SbmOsF7EfIY0jbQ+hpFr1KiNMvZYlLYIGSEuLCAKMP9INR7OWdmMTQ5vxMx8kzg3aXuWVYOe0j+JTA=;M4yYbU9puoT3RtO01nqnpA=="
+secured: "zegVG5aeHM7R9JyMXnl2e+zU/LS0IOzbA4GMhV76ot8sPE+dBCxlWV2wVO+UvA3dsJZ34thK3eCeBIDgy30D62iM0TdpR1rR7SAq6VlGT+E2p/NjX9OpA4tN+lpLBq5xmcBgi95ZT87kK8kbPRO198ZOPTUOecVIUH8gGsd3zYfrJizkX6PoD+t/M1zwRAY6nKGQJfmW/GhCo4qdI2zvNkwwQLojT4rGO22iMiXeQNq+tw7zmMFxy/SKTABTMb8JV/H4jk5UwlPY3CcEsYhr+lkxyL6FsuxQ6LHLxrwAkBkscU/Ho3BqLUSA7KBbhacRAjMlvFJeY2WobLi17qauLJosQaykWbqY6sMcrSXSpQo=;ZNB+3fCYcxN4QMTw2FBaxw=="
 ---
 

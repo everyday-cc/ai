@@ -53,17 +53,17 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market Top Players, Size, Emerging Trends, Share, Growth, Insights and Forecasts Report 2028"
-    excerpt: "Software market for the forecast period of 2021 – 2028 the study provides vital intelligence on the major opportunities”. The edge Artificial Intelligence (AI) software market size reached USD 585.1 Million in 2020 and is expected to register a CAGR of 20."
-    publishedDateTime: 2022-03-30T11:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-top-players-size-emerging-trends-share-growth-insights-and-forecasts-report-2028"
+  - title: "Military Robots Market Size, Share, Growth, Global Trends, Key Players and Report 2021-2026"
+    excerpt: "According to IMARC Group’s latest report, titled “Military Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-04-04T05:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-size-share-growth-global-trends-key-players-and-report-2021-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 26
+    quality: 29
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-AFP-1K-01-1-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
         width: 600
         height: 337
         isCached: true
@@ -80,20 +80,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
         width: 375
         height: 249
-        isCached: true
-  - title: "Electronic Skin Market Share, Size, Key Players, Trends, Competitive And Regional Forecast To 2027"
-    excerpt: "High demand for electronic skin in the healthcare sector to treat diabetes and cardiology diseases is driving market growth. NEW YORK, NY,"
-    publishedDateTime: 2022-03-30T11:55:00Z
-    webUrl: "https://menafn.com/1103936250/Electronic-Skin-Market-Share-Size-Key-Players-Trends-Competitive-And-Regional-Forecast-To-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "X0ypax8R8XLVIX8sXjGksN20U92p0VqcSjTVIEzLm7BYuThYQs/YQzkmfwQLtU54L23g9vI/z/eqTnz5dekpA52B45p+Cgv2kAPYND44D8PPcj2QAAn+kMyl/LQsh52DqIta/eWU2FHz5GVw9t/OR9pQAwPtgjT8qHGRU4KRkG7S6ksR8O/kPY6A3JhRSSgcQuzJVn4WDkKxQTHjO1jo/BM+lCRubIEZQKuiIC4ATMr0A0jknzL8MqyWkxv1j7XTdjISiSBRgZ3z7JyGDSY/I0bPfYsTqusAKQ/x5ImH2vvRvASwgLQkovfa4BptOF8lKD7kOXjqrAo/zLJDJ6wqSwa7redsPzbGwVY/GFlhhrH2KlPzuwL+gNbXPKbfj1YTmfjwMznHZ65KaRbpm3wWvioPV06YGl5i3T6wMkoOOlUM4XoyphCFcqNXBKdrDUUBIf5MDV5A22Hw6b+7YC46FfY7c6CO+XKTwcvf9KXO2Np4a6H4pas/a1nRc3TWapebfh6CrbJiwcvNMkQ2X3dz+Q==;J2RIEXvvTlmVVSGtPbRm/A=="

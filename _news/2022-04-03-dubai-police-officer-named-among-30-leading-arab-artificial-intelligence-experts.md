@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-3
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1"
 type: article
 quality: 67
-heat: 98
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
+    excerpt: "UAE - Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region’s top 30 leading Arab experts in AI by MIT Technology Review Arabia."
+    publishedDateTime: 2022-04-04T05:23:00Z
+    webUrl: "https://www.zawya.com/en/legal/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts-e4uq8fyt"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 47
+    images:
+      - url: "https://static.zawya.com/version/c:YzI4MzkyN2QtNmM3YS00:ZDdkN2Q1/130417074814qcoy-jpg.jpg"
+        width: 800
+        height: 519
+        isCached: true
   - title: "Thought leaders and early adopters of AI to share insights at World AI Show in Dubai"
     excerpt: "Trescon's World AI Show will bring together pre-qualified CIOs, CEOs, CTOs, Heads of AI, Chief Digital Officers, Heads of Innovation and International AI experts, all under one roof"
     publishedDateTime: 2022-04-03T09:43:00Z
@@ -40,24 +54,6 @@ related:
         width: 732
         height: 411
         isCached: true
-  - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
-    excerpt: "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region's top 30 leading Arab experts in AI by MIT Technology Review Arabia."
-    publishedDateTime: 2022-04-03T18:43:00Z
-    webUrl: "https://menafn.com/1103956202/Dubai-Police-officer-named-among-30-leading-Arab-artificial-intelligence-experts"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
-  - title: "Second Palestinian professor makes it to list of 30 Leading Arab Experts in AI"
-    excerpt: "A second Palestinian professor has made it to MIT Technology Review Arabia’s first edition of “30 Leading Arab Experts in AI” list for 2022. Nizar Habash, a computer science professor at New York University Abu Dhabi and the director of the Computational Approaches to Modeling Language (CAMeL) Lab,"
-    publishedDateTime: 2022-03-30T11:35:00Z
-    webUrl: "https://english.wafa.ps/Pages/Details/128624"
-    type: article
-    provider:
-      name: Wafa
-      domain: wafa.ps
-    quality: 15
 
 secured: "HcMgABbde5x8AnpG9WLw48MDQYn3VLRWd02uYzRYvxRai1efw8X01JJwFrUxeNp1moVpcM9QNfT+41c0FLLr7Off0vX/bCXL/YaPlGDXG6Fhkk9A1iZpbfr+BTlpflQR6GJtLBPRDMi6feClapu+HBip9V6FRVjd3xSHG6ftxEnA5ou+/FyFkJZI8rXzlNsDvz7dUlsci6w7UFgwx7jkGl1+PB4DjDlYr0DVlNO9LoLRjsg9j/LezbjTS0SGVxAscedQ/NhVXFqgWOn5Q0Q4WW+REHCMhtvI5XXr42S6Yud4d0NSilAdwNyIwoKddiei5SwvzMAAuXcq+ghDhjBGp+vB1fp6h6kpq7QVNApGNUjYTk5kn8x2vtzrN7kCrYQpumf+GppMfR5fDTYBlvPmIBBlJQrh3/yuqubtEdAwTjdQ+7nhIIAc0CkyIECGCiUM+e9Waht5hqKVxTYWTj+Q7LS5HGAVEvQ4q1LN191eO+2O3miopIi6lcv3rP5YSZfDurqgC8paR1PPsLV3qMTVEg==;GwOzxdsYI+3QOqPpAh18mw=="
 ---

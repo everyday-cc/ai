@@ -58,20 +58,6 @@ related:
         width: 320
         height: 242
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Trends, Size, Segment and Industry Growth by Forecast to 2027"
-    excerpt: "Reports And Data Rising volume of complex data and reduction in hardware costs is projected to drive growth of the artificial intelligence"
-    publishedDateTime: 2022-03-30T11:46:00Z
-    webUrl: "https://menafn.com/1103936346/Artificial-Intelligence-in-Healthcare-Market-Trends-Size-Segment-and-Industry-Growth-by-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "k+sDAVCyD8jBsZPKFvNFGMAPzRt6xpR1c/IIM7oBShdlEOEv7npQ2+nb3iI12klgSy3W1SE+6jrZYOYifVEwFWkkmE1bA6cHWW7wI9VNAhdg0cj6S/juq/bV86KBS129uHRV4/aYAj/QOzxUazC2kCQ9j7ljumZ+Ajcx/6hLFk498oQAXY3PvMgMkyPFN0MmLu75Y3nRnwqV2bDVMkPeI108pbgamMalC4Pw9OUraOqb+U/EZmOibzcpzQwY+uy3BJBDCVDr8xCxdIs8WgFRctxckIHYV59fEfo4H6DC94Smtm9GdzkXGF9Axz3e2WgRnqgKJ2JMhDhiGiRPVDfF2CRwQtZQqm+oTv1m+hM7TX87xVSF4ShSQ05s8ubS4R8J6iz59iHAzORWOFuoV+eJKt0qjZw4taUaK3JzpZeD2f/LhDSC6YK07VBVpIn61URyASh2DNgA5te9/CEOBOFs2+ImJYV13M0/2BORl6RmacgsIUFGeQK5gWt7/wHZQY9aB2gR31q9NBsH67SHCBW/uw==;0y2MMWBna0dinX/BderTMg=="
 ---

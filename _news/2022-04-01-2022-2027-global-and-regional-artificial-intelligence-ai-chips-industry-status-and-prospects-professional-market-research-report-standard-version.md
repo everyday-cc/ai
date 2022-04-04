@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) In Food And Beverages Market Competitive Research And Precise Outlook 2027"
-    excerpt: "Comserve / -- The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a rob"
-    publishedDateTime: 2022-03-30T11:40:00Z
-    webUrl: "https://menafn.com/1103933747/Artificial-Intelligence-AI-In-Food-And-Beverages-Market-Competitive-Research-And-Precise-Outlook-2027"
+  - title: "AI SEO Tools Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2028"
+    excerpt: "Global “AI SEO Tools Market” (2022) Gives a start to finish investigation of critical angles like development drivers, significant difficulties, size, share, recent trends and open doors that will affect the business patterns over the gauge timetable."
+    publishedDateTime: 2022-04-01T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-seo-tools-market-size-industry-2022-share-growth-regional-trends-opportunity-assessment-and-comprehensive-research-study-till-2028-2022-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
+    excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
+    publishedDateTime: 2022-04-01T13:44:00Z
+    webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?868122"
-        width: 375
-        height: 250
-        isCached: true
+    quality: 0
 
 secured: "GCwdd9fgOODtj9qZPQm0q6C0sjCowSJHvBYMD9UpUJHw2XB7xmxaQdHCL/oSE5OCkBQLPWIaBEexIIRSnyM5JAWwyqpiI3boeUl9n0a63ITeXwnhf0TGyKxQHgGpzUe+2gXwvHfqwK4t9qkB2ZEUQZUYEewSM5nYbNvfycWeui4U6dYD1YbCvso3kyAYqMVwLFHPDk7KXkkAQDvi5w038XT09OpbvucoxUFnhufl3V5ikZnvB6nJ708iurz3TK/aDaif5PHlcnh5cNDd4NRrAFyJYIyY+IAaHD80d0ETVBeXKU+rXO/tBrHt58Dj0guCWQZt+bLKanXkGuQHhhYqdVGnciE2HiiQzq9Z8uv2+o8=;5kkXzrkpLuyyM5RRvTP9pg=="
 ---

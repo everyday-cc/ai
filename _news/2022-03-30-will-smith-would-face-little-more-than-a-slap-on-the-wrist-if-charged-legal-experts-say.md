@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Will Smith would face little more than a slap on the wrist if charged"
-    excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap"
-    publishedDateTime: 2022-03-30T12:39:00Z
-    webUrl: "https://ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/"
-    ampWebUrl: "https://ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/will-smith-would-face-little-more-than-a-slap-on-the-wrist-if-charged/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 44
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/03/AP22087219214844.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Will Smith Would Face Little More Than A Slap If Charged"
     excerpt: "Will Smith’s slap seen ’round the world at the Oscars was clearly a crime, legal experts say, but the chances of prosecution are slim and even if convicted he’d likely face little more than a slap of his own — on the wrist."
     publishedDateTime: 2022-03-30T19:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-should-be
 webUrl: "https://www.redmondpie.com/teslas-full-self-driving-beta-should-be-ready-for-some-europeans-in-summer/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Full Self-Driving tech on pause as chief engineer takes leave"
+    excerpt: "The delay-plagued autonomous driving program is faced with a new obstacle. Tesla's Full Self-Driving program is likely set to face new delays, with a lead"
+    publishedDateTime: 2022-03-31T00:41:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-tech-development-on-pause-as-chief-engineer-takes-leave/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/gth84rmv86yo5ygasmpq?_a=AAAH2GX"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "B.C. resident amongst first group of drivers in Canada to receive Tesla's new self-driving software"
     excerpt: "Tesla starting to roll out the beta version of its self-driving system to owners in Canada. The new software is a level two semi-autonomous, meaning the vehicle can drive itself with some assistance from the driver."
     publishedDateTime: 2022-03-31T15:39:00Z

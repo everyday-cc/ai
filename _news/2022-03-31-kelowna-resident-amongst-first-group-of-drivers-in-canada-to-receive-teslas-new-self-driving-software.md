@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Full Self-Driving tech on pause as chief engineer takes leave"
+    excerpt: "The delay-plagued autonomous driving program is faced with a new obstacle. Tesla's Full Self-Driving program is likely set to face new delays, with a lead"
+    publishedDateTime: 2022-03-31T00:41:00Z
+    webUrl: "https://www.drive.com.au/news/tesla-full-self-driving-tech-development-on-pause-as-chief-engineer-takes-leave/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/gth84rmv86yo5ygasmpq?_a=AAAH2GX"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla’s Full Self-Driving Beta Should Be Ready For Some Europeans In Summer"
     excerpt: "Tesla's Tesla's Full Self-Driving Beta should be ready for some Europeans this summer. Here are all the details on this."
     publishedDateTime: 2022-03-30T13:56:00Z

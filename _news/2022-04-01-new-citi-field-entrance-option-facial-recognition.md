@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Newsday
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Charleston: Facial recognition would help police combat sex trafficking"
+    excerpt: "Gov. Glenn Youngkin is to be applauded for establishing only weeks into his administration a commission to prevent human trafficking and provide support for survivors (Executive Order 7-2022). It’s a"
+    publishedDateTime: 2022-04-04T04:00:00Z
+    webUrl: "https://roanoke.com/opinion/columnists/charleston-facial-recognition-would-help-police-combat-sex-trafficking/article_9d00336c-b10a-11ec-8394-178c5da295e7.html"
+    type: article
+    provider:
+      name: The Roanoke Times
+      domain: roanoke.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/6b/76b9b1fe-b10c-11ec-aeed-9babf0d7292b/6245d2230ded2.image.jpg?crop=800%2C420%2C0%2C190&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Facial recognition firm to expand reach"
     excerpt: "A controversial facial recognition company that's built a massive photographic dossier of the world's people for use by police, natio"
     publishedDateTime: 2022-04-02T05:12:00Z

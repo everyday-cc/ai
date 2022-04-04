@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-02-15-automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031.md",
+      "title": "Automotive Artificial Intelligence Market Research In-Depth Analysis, Manufacturers, Forecasts To 2021-2031",
+      "excerpt": "the automotive artificial intelligence market can be split into autonomous vehicles, semi-autonomous vehicles, and electric vehicles. An autonomous vehicle is a self-driving vehicle that utilizes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-cow-bull-and-the-meaning-of-ai-essays.md",
       "title": "Cow, Bull, and the Meaning of AI Essays",
       "excerpt": "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ...",
@@ -1086,48 +1129,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-nvidias-ai-innovation-should-push-stock-higher-analysts.md",
-      "title": "Nvidia’s AI Innovation Should Push Stock Higher: Analysts",
-      "excerpt": "Nvidia has invested heavily in artificial intelligence—in cash and culture—and those expenditures should drive up the stock price, Truist analysts argue ... to $244.80. The S&P 500 was down 0.4% and the Dow Jones Industrial Average was off 0.8%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271?tesla=y",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-485592/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-innovation-stock-price-51644857271",
-      "publishedDateTime": "2022-02-14T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -54,20 +54,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises"
-    excerpt: "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises."
-    publishedDateTime: 2022-03-30T12:06:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_10fb2a87-6f48-58f9-95d6-287fa3fb6769.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/32/93247ee6-1253-51c4-be5c-f942f4adaf40/62444a566e2f8.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qTCA8swjKPzftca1xXj9G/Z2TiZpT+wI/7XVkzdx4vn8WL9tVU+3UnkFUQqotXbCDYoZCViZLu+8hLhoRtK5gA0C4YXttCnlzOe4hSHhfebRuQQV14qijaXlEMJqMMXlMzvHHxN23pbWMcOXftxRvs2uyVbzdHMU/+olgySbTIHdqz0Dsh4L1+lyKocT6osyUJCc2EjyqUk9P5Z5XkpMTfmT65aV+rG7JkoFXFRQDPtd8MT0V8WhDBtjdioVR4eeFt67pN4i28FxOv0CLPqshqovxZE9zI6JHCA6FXrXk62l6sgv5VFJK7nTzRB9xzU3f0As+skFdyqRzU5Sbwe4Mcp1yv4xmASrDNsTRS51EaU=;aMGYFhbEFn8mMmVNe0pI3A=="
 ---

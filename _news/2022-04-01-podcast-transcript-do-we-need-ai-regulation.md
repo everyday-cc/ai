@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3672
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Influenced Weapons Need Better Regulation"
-    excerpt: "With Russia’s invasion of Ukraine as the backdrop, the United Nations recently held a meeting to discuss the use of autonomous weapons systems, commonly referred to as killer robots. These are essentially weapons that are programmed to find a class of targets,"
-    publishedDateTime: 2022-03-30T11:36:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/"
-    ampWebUrl: "https://www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-influenced-weapons-need-better-regulation/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 59
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/ED3FFD93-22A2-482E-B04CC7E1D8371D34.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Lost in AI transcription: Adult words creep into YouTube children’s videos"
     excerpt: "Ten per cent of these videos contained at least one “highly inappropriate taboo word” for children, says US-based Ashique KhudaBukhsh, an assistant professor at Rochester Institute of Technology's software engineering department."
     publishedDateTime: 2022-04-02T22:30:00Z

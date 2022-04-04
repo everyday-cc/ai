@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Charleston: Facial recognition would help police combat sex trafficking"
+    excerpt: "Gov. Glenn Youngkin is to be applauded for establishing only weeks into his administration a commission to prevent human trafficking and provide support for survivors (Executive Order 7-2022). It’s a"
+    publishedDateTime: 2022-04-04T04:00:00Z
+    webUrl: "https://roanoke.com/opinion/columnists/charleston-facial-recognition-would-help-police-combat-sex-trafficking/article_9d00336c-b10a-11ec-8394-178c5da295e7.html"
+    type: article
+    provider:
+      name: The Roanoke Times
+      domain: roanoke.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/6b/76b9b1fe-b10c-11ec-aeed-9babf0d7292b/6245d2230ded2.image.jpg?crop=800%2C420%2C0%2C190&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "WY3oy8mxX2EglvCmcJwnxVZSIU1RHW0KiK9/xOocFMZFgWUfJgGR5/ZaSERTdAgnhmxB5gcAlfY0DJI0T78BIuerjPrfXl/Ml3WGAFz/bWY8/XrM2efZFtmNFhxo8Ep9jm4f1QE57BBcebY9FmVBKa2/Yk8xm0M0T01FV24RJzAgcVrmsbA5vQKu5d93AAjeTZ9EivkmyF0JQj0cj47my+h68OGOPzbbyNEHqzE2FXq1zQS6bTrcjggf/lbAEsmVVe8x/Zx1W9ss0Suikwato4cJ64GGPxzxpD/tEQET6leafhHaXq/I3kuYaTlymTxc/RX3sJQ/9L90gIg/UT5nkgknxom59pld0rUXwCdCd4E=;W41OsQO9y+KaCUTp/BtB+w=="
 ---
