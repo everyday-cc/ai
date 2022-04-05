@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activea
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
 type: article
 quality: 62
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Gupshup acquires conversational AI platform Active.Ai"
-    excerpt: "Headquartered in Singapore, Active.Ai serves banking, financial services and insurance (BFSI) customers across 43 countries with conversational banking as a service (DBaaS) platform."
-    publishedDateTime: 2022-04-05T06:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/gupshup-acquires-conversational-ai-platform-active-ai/articleshow/90657897.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/gupshup-acquires-conversational-ai-platform-active-ai/amp_articleshow/90657897.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/gupshup-acquires-conversational-ai-platform-active-ai/amp_articleshow/90657897.cms"
+    excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 5.."
+    publishedDateTime: 2022-04-05T11:30:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74104,msid-90657927/gupshup-acquires-active-ai.jpg"
-        width: 600
-        height: 450
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90663719,imgsize-10898,width-1200,height-628,overlay-etcio/gupshup-acquires-conversational-ai-platform-active-ai.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Gupshup acquires VC-backed Active.ai; eyes $100-200 mn in pre-IPO round"
     excerpt: "This is Gupshup’s second acquisition in 2022. Earlier in February it acquired cloud telephony company Knowlarity Communications, which is backed investors such as Sequoia Capital and Mayfield."
@@ -90,6 +90,38 @@ related:
       - url: "https://www.businessinsider.in/thumb/90660487.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "Gupshup acquires AI platform Active.Ai"
+    excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 50 million plus enquiries in aggregate, with 95 percent accuracy."
+    publishedDateTime: 2022-04-05T08:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/gupshup-acquires-ai-platform-active-ai/articleshow/90660725.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/gupshup-acquires-ai-platform-active-ai/amp_articleshow/90660725.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/gupshup-acquires-ai-platform-active-ai/amp_articleshow/90660725.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62110,msid-90660723/global-ma-volumes-hit-record-high-in-2021-.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Conversational messaging platform Gupshup acquires Active.Ai in all-cash deal"
+    excerpt: "The acquisition is expected to help Gupshup – which offers conversational messaging services to businesses - strengthen its customer experience solutions for the banking, financial services and insurance (BFSI) clients."
+    publishedDateTime: 2022-04-05T11:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/articleshow/90664081.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/amp_articleshow/90664081.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/amp_articleshow/90664081.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-125744,msid-90664177/beerud-sheth.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Enterprisetech Unicorn Gupshup Marks Second Acquisition In 2022 With AI Startup Active.Ai"
     excerpt: "Conversational engagement platform Gupshup has acquired Active.Ai, a conversational AI startup used by fintech firms in all cash deal."
@@ -180,6 +212,6 @@ related:
         height: 339
         isCached: true
 
-secured: "9PBwNAnQD7Bu8IwPk7bKG3mp6QQ9BoI20cjJU/md2LIFKHD0HLL5IfkXAG69w8t27KTd3wYUY6n+qH3mSIyuwOR6lt1E79aomW6Zgde3+24E0j+0KgE/TvTaM4SuyedpqNJsgVYuwpvg79FqacYA3MRyLINa61iRavf1xV58pJTGQsjjME0/R2r3J467BRi8+0m3tIxJ1xiqOYgesWluqAy2YRficj3+uOVto3e5Xcpn4mVs76IMEevfkGX4tuyGidqMAzohpbq359NNqv7AB6EcJRTvA9+8jYhnygtE7GuXoFqgfNd+0vZbQksLTWmU64AhloyOGgCwhAWlWE0nmdHmGdKSrKXKKWAJiDZbU/E=;YSJD2b/uxctJvO8TMF7opw=="
+secured: "rV61pFTJKfdk+AWysQ3YIBPDxI8Zhvb6fK2gi019XgcIMYz01fGkTnMTKur0H6KJwME0pZd4eWSePS8km5VTm5vJSjWGfskTxcmR467dgrvZmv4PxkVGxdBJ2UZuYKmz6VWr/n30cfVY6gE4gj1Uvq7nLOG7P8CNoPKlbJj736XJydBL27c1fuYDampgUjHeoCoMek8DVz1i5eHjjL144haAuXmQzzGUqYpiwytQjtcAyBC9vwyMVrJY/8ISTy2w7zSZha5eZoxEi3Oov96b7Y47gZUaRZUp0RzynL+/LYJZVgvB9pIJut+VFUVnjXCjJVMgjcgnBpac61ql2ir0iixDzF7kLaVMB2MglZY2vkjXMK3CgITxvIR/Ex1d947HohuG58bMLexXuDMrAqHlfx5OjM3fNSDdQui4+HHSsoZKj0PnAsxM0IXRfUmnsUkBk0ot71PMcZY+9b5FuskqfYuxV/ha12zZkktihVTJCjuKdpwRS9kInTOuUrXLeW8BXN9zkinmwyODhf33uAIZQg==;ZCwDZiefc+xDRuRtVjjEJg=="
 ---
 

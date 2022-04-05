@@ -44,20 +44,20 @@ related:
         height: 573
         isCached: true
   - title: "Gupshup acquires conversational AI platform Active.Ai"
-    excerpt: "Headquartered in Singapore, Active.Ai serves banking, financial services and insurance (BFSI) customers across 43 countries with conversational banking as a service (DBaaS) platform."
-    publishedDateTime: 2022-04-05T06:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/gupshup-acquires-conversational-ai-platform-active-ai/articleshow/90657897.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/gupshup-acquires-conversational-ai-platform-active-ai/amp_articleshow/90657897.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/gupshup-acquires-conversational-ai-platform-active-ai/amp_articleshow/90657897.cms"
+    excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 5.."
+    publishedDateTime: 2022-04-05T11:30:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-74104,msid-90657927/gupshup-acquires-active-ai.jpg"
-        width: 600
-        height: 450
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90663719,imgsize-10898,width-1200,height-628,overlay-etcio/gupshup-acquires-conversational-ai-platform-active-ai.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Mirae Asset partners with AI-based fintech Qraft Technologies"
     excerpt: "Park Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models"
@@ -90,6 +90,38 @@ related:
       - url: "https://www.businessinsider.in/thumb/90660487.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "Gupshup acquires AI platform Active.Ai"
+    excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 50 million plus enquiries in aggregate, with 95 percent accuracy."
+    publishedDateTime: 2022-04-05T08:37:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/gupshup-acquires-ai-platform-active-ai/articleshow/90660725.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/gupshup-acquires-ai-platform-active-ai/amp_articleshow/90660725.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/gupshup-acquires-ai-platform-active-ai/amp_articleshow/90660725.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62110,msid-90660723/global-ma-volumes-hit-record-high-in-2021-.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Conversational messaging platform Gupshup acquires Active.Ai in all-cash deal"
+    excerpt: "The acquisition is expected to help Gupshup – which offers conversational messaging services to businesses - strengthen its customer experience solutions for the banking, financial services and insurance (BFSI) clients."
+    publishedDateTime: 2022-04-05T11:12:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/articleshow/90664081.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/amp_articleshow/90664081.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/amp_articleshow/90664081.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-125744,msid-90664177/beerud-sheth.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Enterprisetech Unicorn Gupshup Marks Second Acquisition In 2022 With AI Startup Active.Ai"
     excerpt: "Conversational engagement platform Gupshup has acquired Active.Ai, a conversational AI startup used by fintech firms in all cash deal."

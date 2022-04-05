@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intel acquires infrastructure optimization startup Granulate for a reported $650M"
-    excerpt: "Intel Corp. is acquiring Granulate Cloud Solutions Ltd., a startup that uses artificial intelligence to help companies speed up their applications and reduce infrastructure costs. Intel announced the deal this morning."
-    publishedDateTime: 2022-03-31T17:26:00Z
-    webUrl: "https://siliconangle.com/2022/03/31/intel-acquires-infrastructure-optimization-startup-granulate-reported-650m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Image-10.png"
-        width: 935
-        height: 518
-        isCached: true
 
 secured: "FFTQDfUkxwPAbkmYziKd+4RQLlDLSIs1Ic42rJJAX4F9ZQThV5GqEeWNTuWUmpr+05C1gg3sNUWXvamM+bb39GMJRAWh5PC7/x3M8ZcolMv9O0WDBx603Vc2exEZpHX5SJ+SzOlS9NI5P9GlSC2zgwt6BHNdN8ks1U5cn1BSvEBRIx582ihvk2V3cF/8kyAoDlAu7Fg70ZDi/F5wGnFMk1ECIPEQBbapAfGqhlz1AiK+fVwBbXTTFLjoSbj/zug1uvqerE2ff86lPhY4GjpOJ1oPAbxGrLg4WlxyAIFjNgEUcRJB9ALf/Fk+yg01r9x21bDe6EDE9/B0Y0EA3ScvAVrDO0k/68r794jrtuSsawW52Yz1uyw2hqgvfxwK2s5uY7gdp0jvtLCw27daY9vXV8KcINAhm58ch0i02Ril7cDkuZO5Gwgke2K3BhOPpuTDcrKV5iWOl05lmePXXNPDgMzNRdrxn2XDDMhZTl0zUWXPhDdX5naHB3da4GScGvPCt/26FOoBdJEv129MNhslUA==;WvyRvBdpgzYxHTk5/uFg/A=="
 ---

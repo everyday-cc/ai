@@ -23,6 +23,22 @@ images:
     height: 341
     isCached: true
 
+related:
+  - title: "UB showcase explores impact of AI on daily life"
+    excerpt: "The UB Humanities Institute event April 6-7 aims to thoughtfully consider the social, cultural and historical implications of artificial intelligence."
+    publishedDateTime: 2022-04-05T11:56:00Z
+    webUrl: "https://www.buffalo.edu/ubnow/stories/2022/04/humanities-to-the-rescue.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 37
+    images:
+      - url: "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2022/04/humanities-to-the-rescue/_jcr_content/par/image.img.512.auto.jpg/1649091668930.jpg"
+        width: 512
+        height: 341
+        isCached: true
+
 secured: "RbiBRgvfLPbVrM2VVioQTMbkt4isXYwOzhZB3xaItxMCY7uWKzWiSTQ9JUgpjIm4R5GB3cMIosT8A0cMJ5r8mRGPVpaLbc8w+dpw5oBJOUsvB9HrbnH5SFYiawA63x5HXTEL5NUPNKgTGkOlr6xiPMp/f9QnXTijsL3XN+La/Rih/NLARf6nXKBCWiDSixxIFm/1wz6vGUv1VIp1vvgNlLKDZq9sa7j/JzA0IZtHK7Upp6oZ50KFeVRHbNMNM7YNTe/NiNDV9DGz0UCkUT1B1ekHHABIdeQGaLwbVrnVbOBPylOFUQTVA4VpxQ0m3kkYhqAJrlVtaYG0UiDyS+zndxD+mDbfjiaHUfiqn/6GH+U=;928QT+oDuIytyyHguch0qQ=="
 ---
 

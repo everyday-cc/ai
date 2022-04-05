@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-te
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "New Unique Machine Learning Tool Improves Experiences in Higher Education"
+    excerpt: "MONTREAL and CHICAGO, April 05, 2022 (GLOBE NEWSWIRE) -- Explorance, a global leader in People Insight Solutions, announces today that BlueML, a one-of-a-kind machine learning platform, is now available for use by higher education institutions. BlueML ..."
+    publishedDateTime: 2022-04-05T11:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8516146/new-unique-machine-learning-tool-improves-experiences-in-higher-education"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 35
 
 secured: "Mx5iQVPBjnjtI5a28/USjt9YKQMna22oOixmRIrtHbE4olUpjMt9szBxGAYM21GfjoeBh/pmrFnN1wdqWeUkG4S1BDQk7ChpCYeUNZ18zSEfTDtmhh1J4MbHueAZYFBLBgZyaQNG0we0E+Wp1hCyV0kKOICgYcQZFH7x0OMQ+gMteCpAgzjQ9IEvHdZ4gf50NowTHWT3TsP3TXdL7TORuL3Zy//nK6QaDX6teSpIxNQinRVZ605B0B+mdZFrwICc9nX+AcWOPL8qz8YfvAoPJfBbSKZEvVcY+4JIqslzgYRhWX23NKBYuMspXZBjJeZWhmUoCAAmy9LtiXn0B7Wukm0nr0A4TDh/U+2Cf+4NGEk=;rgukLYRLAP5Pz3nTxqpnJw=="
 ---

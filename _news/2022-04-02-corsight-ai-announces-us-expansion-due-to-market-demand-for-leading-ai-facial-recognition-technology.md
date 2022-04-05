@@ -41,6 +41,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "New Unique Machine Learning Tool Improves Experiences in Higher Education"
+    excerpt: "MONTREAL and CHICAGO, April 05, 2022 (GLOBE NEWSWIRE) -- Explorance, a global leader in People Insight Solutions, announces today that BlueML, a one-of-a-kind machine learning platform, is now available for use by higher education institutions. BlueML ..."
+    publishedDateTime: 2022-04-05T11:30:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8516146/new-unique-machine-learning-tool-improves-experiences-in-higher-education"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 35
 
 secured: "F8lFEqV8iHc8wYQobEKhHpG3rKfNrejnHBKv+SFyZILTykNRMcOjAhc/KzTiHs3qSuHIpLhJ647nbaJJxciFlpR3BtZ+4oqNDyWo+CQ9YhMMUVlOtHE2vF+d2kAqKT3FfojHKmZ/8Dg4k4c0t7jL+2Bi0R2pYQbyn6vhc3DjtFUgAy0CLVPEGx5Q1Q8MJ/qqvFidvRKaU2NKndNspASYduVzMVAC93WS7yLdOHUnd+pp0ZlN7GkKzE3rEmhiSo75b2gb6x+ghuK8AmLkD3nf1TSb7eas2+3231w/pb5Ts22c3HHtG8n8mCOaOFw6I8NWWnaJo6Howd9GejlUpp9M6ICYEMAM8kSUhMAKCqOsXZw=;d2FhGfWoE/Rv+GtXyZUZHA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_letter/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s Deepmind shows problem with tackling office harassment"
+    excerpt: "It is perhaps not surprising that a firm such as DeepMind would have trouble recognising that harassment and bullying are occurring within its walls"
+    publishedDateTime: 2022-04-05T10:57:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/fRHMNJ5tFOXlzeVUMKi8W6O0OlCzQske6PFo4Bf0HW40VYoS2H-_EHK-vEcTbuSuNtXpAMDXqaQK2S3wEwjNURMtQgVbCGsUIPQQg9Gpgz3IiQ=s512"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Google's DeepMind research lab took nearly a year for firing researcher accused of sexual misconduct"
+    excerpt: "An ex-employee from Google's DeepMind AI research lab posted an open letter on Medium, where she accused the company of waiting months before firing a researcher she had filed a formal complaint against. As reported by Financial Times, the letter details ..."
+    publishedDateTime: 2022-04-05T07:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-research-lab-took-nearly-a-year-for-firing-researcher-accused-of-sexual-misconduct-8318591.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-research-lab-took-nearly-a-year-for-firing-researcher-accused-of-sexual-misconduct-8318591.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-deepmind-research-lab-took-nearly-a-year-for-firing-researcher-accused-of-sexual-misconduct-8318591.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
   - title: "Deepmind rubbish at spotting sexual harassment"
     excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
     publishedDateTime: 2022-04-01T09:56:00Z

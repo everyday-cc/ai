@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabi
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
         width: 2560
         height: 1920
+        isCached: true
+  - title: "Microsoft tests AI in space with HPE, partners with Thales Alenia and Ball Aerospace"
+    excerpt: "Microsoft this week announced a slew of announcements for its space division. The company successfully trialed an artificial intelligence application in space, and signed deals with Ball, Thales Alenia,"
+    publishedDateTime: 2022-04-05T11:21:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-tests-ai-in-space-with-hpe-partners-with-thales-alenia-and-ball-aerospace/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 47
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftHPEastronautSpaceborneNA.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gWZHVovgLSn5jS9+MDhdIwCwHpJAbMb2rTnIyENpxUON0N0G69vtxykFq1UxjmyTr1Cyy6+xVnIPEDZM81QsDEGYj5B8tRiDSldgIna50gKrmLRmJmKs6wgHwthsIbuD5wxgBweAWaFIyjvr1J774wHlSlggNTXNWIg3y79H2xokT6iD2DUg92PXnbEA4dekL+BjQEaVIAz1YY6TtQF5o+P41FDR53CX+mURZdqfdC6eSttBgScjsgMzcXz7HFgUyCBtCSq5dxyN9PgwZIjhpn00sab7wHok1mCqxUKfqT0m6WlmXc2DRXE1JWPD4OgmgGOGGaxcgmeW59b7RSGflTr+yHLBeN1xNgeRXjgMhuk9VmPluCTd0lh7q6LuInnVDPKGC9Ci8ptdTqWylI5F40LpYCMbI0DGZHS7oN/lyyP/kaLogAdTHPaUT33v0GINpROiQtvs+5FOm3v+EWVtz4rKLFbbZ9tlppfpVvm02A2EOfdr5Qk5cdbeYFJXGI6xJETmKNu5OHujFgJqTEq59Q==;GW6hrjevXyVMnNP1mfO9fA=="

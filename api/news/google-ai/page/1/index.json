@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment.md",
+      "title": "Google’s Deepmind shows problem with tackling office harassment",
+      "excerpt": "It is perhaps not surprising that a firm such as DeepMind would have trouble recognising that harassment and bullying are occurring within its walls",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/",
+      "originalUrl": "https://www.businesslive.co.za/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/fRHMNJ5tFOXlzeVUMKi8W6O0OlCzQske6PFo4Bf0HW40VYoS2H-_EHK-vEcTbuSuNtXpAMDXqaQK2S3wEwjNURMtQgVbCGsUIPQQg9Gpgz3IiQ=s512",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-04-05-googles-deepmind-shows-problem-with-tackling-office-harassment/",
+      "publishedDateTime": "2022-04-05T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-metas-ai-exodus-top-talent-quits-as-the-lab-tries-to-keep-pace-with-rivals.md",
       "title": "Meta's A.I. exodus: Top talent quits as the lab tries to keep pace with rivals",
       "excerpt": "Facebook parent Meta has lost some top artificial intelligence scientists in recent weeks as the company continues with its pivot toward the metaverse.",
@@ -1406,49 +1449,6 @@
       "provider": {
         "name": "techxplore.com",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-linkedin-and-deepmind-cofounders-launch-ai-startup-inflection.md",
-      "title": "LinkedIn and DeepMind cofounders launch AI startup Inflection",
-      "excerpt": "Billionaire Reid Hoffman, DeepMind cofounder Mustafa Suleyman and former DeepMind researcher Karen Simonyan have announced the launch of a new company called Inflection AI. Suleyman will be appointed as CEO of the company.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/linkedin-and-deepmind-cofounders-launch-ai-startup-called-inflection/",
-      "originalUrl": "https://analyticsindiamag.com/linkedin-and-deepmind-cofounders-launch-ai-startup-called-inflection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Untitled-design-6-1.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

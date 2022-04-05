@@ -1,48 +1,28 @@
 ---
 category: news
 title: "Google AI Unit’s High Ideals Are Tainted With Secrecy"
-excerpt: "The high-flying DeepMind division has been too guarded about staff mistreatment."
-publishedDateTime: 2022-04-05T06:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
-webUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
+excerpt: "But it’s clear that DeepMind has a lot of work to do to confront a broader culture of secrecy that led some at the organization to attempt to suppress grievances rather than work quickly to address them."
+publishedDateTime: 2022-04-05T06:36:00Z
+originalUrl: "https://www.washingtonpost.com/business/google-ai-unitshigh-ideals-are-tainted-with-secrecy/2022/04/05/54beb05a-b4b2-11ec-8358-20aa16355fb4_story.html"
+webUrl: "https://www.washingtonpost.com/business/google-ai-unitshigh-ideals-are-tainted-with-secrecy/2022/04/05/54beb05a-b4b2-11ec-8358-20aa16355fb4_story.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTYPJZ9BCGuE/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQPF3UFUWII6ZA2YECVBMNK7WQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
-related:
-  - title: "Google bets big on health AI"
-    excerpt: "In 2020, it went on to release AlphaFold from its Alphabet branch DeepMind, which mapped the structures of proteins from their amino acid building blocks using AI to great attention. Then in 2021, DeepMind released a second spinout, Isomorphic labs ..."
-    publishedDateTime: 2022-03-31T17:21:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-bets-big-on-health-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "vD9Ry0YiQVimXqDT7qelhdgj4RN5MxGCHDg2zxGBmPhjrMlWtcFZe/3jbKcyExAmeIn4aBLcZtLNeAyb02yQ/IUxQgUgQSBhW487zr6a1APKTv3ZY4f7qNdwtQ1ztq6JiMX4xMO8GEhcfc5RkEbzAQLcM895VxmvSTDz6/m/bXb+gjZ/w8DFXn1/CWNahSlcCV/5qEDBMBkDqcd1hSVVfla5Hb7ndONIqZ7SfquJYhOfdawQmnm5MHVuv+qv8L98ei5x6RRYgFMfNyO4R/5/v/CXOJzUAXmqrJ0vXzxse6h4AMgMQVCd8x3PuhZ4XiUZlIgCWj7Tdi+kFaZaZ+28uov7meU4Y43PnlzGKEVA59g=;bedvXZRBvZiFhMoCT4RfLg=="
+secured: "RnTLjA5Djo3zLOnADwP9Moy509rHayHVhHkyvuQhwWXLnpAadoA6UyneBnLHqyW4jhZy51ggXDGf3OGB/EyFmf/Fii+eLsZIcIoaZphtep2b5rYwHWF2aWzhiE6/yXBTLD6ALKJaxq+5v2fRd4XdEX3pL0tJ2sZdo9JnOWPCIuJkGiR0A6Jw9nrvzmbujLWtnyldVPk2ILDg+md6XAnf7FIyeU1NHxX9Koz0pQMvsleGw7Pg+k/DE0Y4hTwGzQRqDkVJHVVEtC5qjAbyjtLPwpsfLPp7rVNpMzarqw/w8s9XWQqwjUnbayPfViXq+QNCpyZnpk5ZVvZBmfG0Xt0QiEQUQoryq7hdf5CsZq2i3PU=;P3uuwlqn154XTLOr5MrwTA=="
 ---
 

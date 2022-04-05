@@ -45,6 +45,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Microsoft tests AI in space with HPE, partners with Thales Alenia and Ball Aerospace"
+    excerpt: "Microsoft this week announced a slew of announcements for its space division. The company successfully trialed an artificial intelligence application in space, and signed deals with Ball, Thales Alenia,"
+    publishedDateTime: 2022-04-05T11:21:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-tests-ai-in-space-with-hpe-partners-with-thales-alenia-and-ball-aerospace/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 47
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftHPEastronautSpaceborneNA.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qbqCV15fnVZQnh1wU2vh1To+exAKd97TGMk6IolVav/9XvLY/rf9JmtG9OpasAu7uIX1Zp1WDbeK8DzzfgVuEZimwhNgv6QzLUa9DbwLkli8DHMspxiy08UmLcbT+ZF9sgbtZvZvGPZpoxmvHM8e//SMAK36JXT3M8Cp9x5dhjCoGVXEhallC7JdNsohQs+gK3o7+f2XUsMGZlNPJhvKRZPKWbudvWF/twBNWsMmzRSeBY6dDReDilQlkvOTH93vZaaFkEE1m1VPPcdBvb1pthu8KO3IYjvLS2mRbqWMmRa8kzFYckMa89dGzOiRxSCS0CDN0aULZV60fvXyHthXc8Lo5VoIi1P3I5MuE0w7EOoaiMn6JgPFriuWj/FxfdW+zzEgcaREOTqw/0InZhWrS/w2yUQWIlwzfbJXoXvyDicMrWAfCk677LVbcKUSwoHlJEEWAMcWGIZvU0Q+KbPrgatNBny6L1ksrrb9UWveAY1gtQr5JE4dRNYJtZ6iWD+zmR6lu2RmBmriht8njv1bAQ==;72plmHcJvqdflM8Kp7eG7g=="
 ---

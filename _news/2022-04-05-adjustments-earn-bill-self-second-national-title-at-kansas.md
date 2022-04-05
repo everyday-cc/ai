@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Adjustments earn Bill Self second national title at Kansas"
-excerpt: "Bill Self won his elusive second national title with a masterful second-half coaching job and a spicy dash of Remy Martin. Befuddled by North Carolina in an ugly first half, Kansas tightened up defensively and Martin provided the spark in a dazzling second half in the Jayhawks' 72-69 win over North Carolina on Monday night."
-publishedDateTime: 2022-04-05T09:28:00Z
-originalUrl: "https://www.mysanantonio.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
-webUrl: "https://www.mysanantonio.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
-ampWebUrl: "https://www.mysanantonio.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
+excerpt: "Self had his elusive second national title. Grounded by North Carolina in an ugly first half, Kansas tightened up on defense to rev up its transition ga"
+publishedDateTime: 2022-04-05T11:54:00Z
+originalUrl: "https://www.seattlepi.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
+webUrl: "https://www.seattlepi.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
+ampWebUrl: "https://www.seattlepi.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Autos
@@ -55,6 +55,6 @@ related:
       domain: charlotteobserver.com
     quality: 20
 
-secured: "KNdp9FFmpo+E4k6D3j9l+p0c0P1PUH0o32B14HG7rPGqLxBupqQJenfoz4LChPa5WpTzMctmN2Ayz/cDK/fH5JeAn8qpyavX7lSjbhNlJCzVi4SUfjsc0HeX6xkFAXZ0U6Nd8J/A6HSsaaWPyg/67PzzoMZWf9T5LDebYAeogKlZjVDCDhW86qCnGozXgkb2g0ftdS+/DWCPoUsk1WDr5DvP/todEvMsQWduzQUNOh4WZYVBVJOaIfE44pB9+xZ+nI97gXL2z6dcuPD0DMWyVqYzrFFOgnfwlzePWRC9nJCHX8SfhVIDf5s7VXcLkAx8RWUgvPS/qUZs5Bjqu9xe0UuJVvtt7kb//JY6sZE4JTg=;Hs+BOSWfgGExzjC3sxbvDA=="
+secured: "yOwRSh7Av4rzTO9bApCCZbexJ0YsFZVmUeLcRhH5xJz0Ta+9qvWHsV1x52DsNvHDjws51bWj5jsNbiuSIPHO05n2Uqz3PnPVvXZulAwdH1M/gKvNCUXDiItccK9AIuJZGoNsLp7S7+L5JLpnrpFZNaqqEAAYxn/vuaC2XMRpttjgkhXKI2rUec6gcoiEtUtk74Cam8stAdQFUds/aC8ZxXCVJ/eLWeLqg4889yxbCvfzEWMIotmgnG/yS5wPIvdDGcIl7CrYBgozN7e6h6e26VLBKRsvZcI6w2CyhuUmoCcSubJb7ysO0SH885ef8nj2sEX5HJtvUMfqx2zRTfU7UdmkUEJJg6x0CCvtt+qGCZo=;sjOAD4OfVert+yRDrmHqyQ=="
 ---
 

@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "Adjustments earn Bill Self second national title at Kansas"
-    excerpt: "Bill Self won his elusive second national title with a masterful second-half coaching job and a spicy dash of Remy Martin. Befuddled by North Carolina in an ugly first half, Kansas tightened up defensively and Martin provided the spark in a dazzling second half in the Jayhawks' 72-69 win over North Carolina on Monday night."
-    publishedDateTime: 2022-04-05T09:28:00Z
-    webUrl: "https://www.mysanantonio.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
-    ampWebUrl: "https://www.mysanantonio.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
+    excerpt: "Self had his elusive second national title. Grounded by North Carolina in an ugly first half, Kansas tightened up on defense to rev up its transition ga"
+    publishedDateTime: 2022-04-05T11:54:00Z
+    webUrl: "https://www.seattlepi.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
+    ampWebUrl: "https://www.seattlepi.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 44
     images:
       - url: "https://s.hdnux.com/photos/01/25/04/37/22300669/3/ratio3x2_400.jpg"
