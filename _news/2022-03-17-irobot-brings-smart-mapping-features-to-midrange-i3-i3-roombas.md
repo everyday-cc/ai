@@ -1,10 +1,12 @@
 ---
 category: news
 title: "iRobot Brings Smart-Mapping Features to Midrange i3, i3+ Roombas"
-excerpt: "iRobot on Thursday released Genius 4.0, a software update that brings smart-mapping features to the midrange Roomba i3+ and i3, and new object-recognition abilities to the high-end Roomba j7+ and j7."
-publishedDateTime: 2022-03-17T11:02:00Z
-originalUrl: "https://in.pcmag.com/robot-vacuums/148431/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas"
-webUrl: "https://in.pcmag.com/robot-vacuums/148431/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas"
+excerpt: "The Genius 4.0 update brings smart-mapping capabilities to the Roomba i3 Series and new object recognition abilities to the Roomba j7 Series, among other fresh features."
+publishedDateTime: 2022-03-17T12:43:00Z
+originalUrl: "https://www.pcmag.com/news/irobot-brings-smart-mapping-features-to-midrange-i3-i3-plus-roombas"
+webUrl: "https://www.pcmag.com/news/irobot-brings-smart-mapping-features-to-midrange-i3-i3-plus-roombas"
+ampWebUrl: "https://www.pcmag.com/news/irobot-brings-smart-mapping-features-to-midrange-i3-i3-plus-roombas?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobot-brings-smart-mapping-features-to-midrange-i3-i3-plus-roombas?amp=true"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "zNISoO0SVQgD5tjCfRxXihDYnwvROOvWU6lr9Zs0fyoGb1vcKuDVT35/o9oYJnkmu53G39Gy2AETX2QOX4vhTxrqhYi/Ly5yFmQMx85MMNBc9d/CEbb/3Dv1xQLGqRB3ryzNkTWwLYye53a/yCjtDZKAOWws5MmvM2WDV0XajjtidX6qn9cwgJWsyBAXs1hAQ7VERQk7W+cFtQizWy2lYqwM8+PlANK43dhWWkJJ2IPwkZxFcq7qDRffC6fVa38NEjLlOc89WEidSL5PLwTkNkVfhwgAyjJEMUJRh6iYybBGFFjz4gbp7OdRnKHje8AIQ3HvJ8rqfNIBFoArnPaJj0r3CRgWtQPHcF8Xm1DHmv0=;P+5KUMYuwu0b/1hsRQkx6g=="
+images:
+  - url: "https://i.pcmag.com/imagery/articles/05QseqLXjL11s2y8LeLznzO-1.fit_lim.size_1200x630.v1647460760.jpg"
+    width: 1120
+    height: 630
+    isCached: true
+
+secured: "QMXEdQuqOgOCd0Uumj4svyraefIRsRvNEesQSdc7o15FkavHIJp/zsnV3UQED5dAwMdA7esadirLrtlucfaN6AINPzlXFRuQnwlOE6O2JU2I7AKq5H8nUqHjPNm78XjFEU3mAKvz3Gipv+eHY8hS3ZPbBIu5sdVEM2IzsWXoTfBEAh5KE6RopEqamlY8qH4xwD+4YlSyqvbhQUcbRnKYdra9I2ew2sXHmNapYgu723OEjptW80eXlXftItjdFbKH/7tkWDWDZiS+91PCQeLbY5owuuHMJ7XPCN8n2t6ceNUYzEPlnfW/LSxalFC+Ni9QSafBubJX9otQGTdexbpMoEB5ME0POemUZ5ql325zOJQ=;7YR+aV94gtsiYfhaWcXU1w=="
 ---
 

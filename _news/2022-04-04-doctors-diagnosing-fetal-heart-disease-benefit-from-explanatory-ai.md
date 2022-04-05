@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-b
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence may improve diabetes diagnosis"
+    excerpt: "Using a fully-automated artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook ..."
+    publishedDateTime: 2022-04-05T14:05:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948056"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/da510660-503b-44d3-8029-cfd904db8c25/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
     excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"
     publishedDateTime: 2022-04-04T17:14:00Z

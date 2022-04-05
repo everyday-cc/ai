@@ -25,6 +25,52 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft taps AI to make you look your best in video meetings"
+    excerpt: "Microsoft is applying artificial intelligence to meetings, with a host of new AI-driven technologies from Eye Contact, automatic framing, plus improved background blur and echo cancellation."
+    publishedDateTime: 2022-04-05T15:00:00Z
+    webUrl: "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html"
+    ampWebUrl: "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 106
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/04/Intelligent-meeting-eye-contact-background-blur.png?w=1024"
+        width: 1023
+        height: 669
+        isCached: true
+  - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
+    excerpt: "(CNN Business)Microsoft is unveiling new Windows features ... a deaf senior product manager at Azure Cognitive Services, who said she was struggling to keep up in meetings. She needed a device ..."
+    publishedDateTime: 2022-04-05T15:11:00Z
+    webUrl: "https://edition.cnn.com/2022/04/05/tech/windows-11-hybrid-work/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/04/05/tech/windows-11-hybrid-work/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/05/tech/windows-11-hybrid-work/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220404150324-restricted-windows-11-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Microsoft Hires Ex-Seattle Police Chief Best for Security Role"
+    excerpt: "Microsoft Corp. has hired former Seattle police chief Carmen Best as director of global security risk operations. Best will be in charge of the Redmond, Washington-based company’s “global virtual security operations team,"
+    publishedDateTime: 2022-04-01T23:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-04-01/microsoft-hires-former-seattle-police-chief-carmen-best-as-security-executive"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 86
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOzvzxg5BhKM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Finals Underway for OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
     excerpt: "LEGO® and OAK-D-LITE Edge AI hardware this spring. The top 3 teams will be chosen in April and featured at Microsoft Build 2022. PALO ALTO, Calif., April 1,"
     publishedDateTime: 2022-04-01T23:00:00Z
@@ -41,6 +87,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
+    excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
+    publishedDateTime: 2022-04-02T09:23:00Z
+    webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
+    ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 70
+    images:
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
     excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
     publishedDateTime: 2022-04-04T18:01:00Z
@@ -50,17 +112,31 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 59
-  - title: "Intel Unveils First AI Incubator Lab"
-    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
-    publishedDateTime: 2022-04-03T15:39:00Z
-    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
+    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
+    publishedDateTime: 2022-04-01T08:57:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 37
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
     images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
+  - title: "Microsoft tests AI in space with HPE, partners with Thales Alenia and Ball Aerospace"
+    excerpt: "Microsoft this week announced a slew of announcements for its space division. The company successfully trialed an artificial intelligence application in space, and signed deals with Ball, Thales Alenia,"
+    publishedDateTime: 2022-04-05T11:21:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-tests-ai-in-space-with-hpe-partners-with-thales-alenia-and-ball-aerospace/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 47
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftHPEastronautSpaceborneNA.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
         isCached: true

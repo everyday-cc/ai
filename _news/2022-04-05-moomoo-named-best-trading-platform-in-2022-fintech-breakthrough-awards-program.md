@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/moomoo-named-best-trading-platform-in-2022-fintech-breakthrough-awards-program/article_7539cd5c-25c4-53d0-8e96-648a6b9dbaa6.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/moomoo-named-best-trading-platform-in-2022-fintech-breakthrough-awards-program/article_7539cd5c-25c4-53d0-8e96-648a6b9dbaa6.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

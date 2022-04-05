@@ -42,6 +42,15 @@ related:
       name: Grand Forks Herald
       domain: grandforksherald.com
     quality: 4
+  - title: "Greater West Dayton Incubator earns national recognition"
+    excerpt: "The Greater West Dayton Incubator received national recognition from AACSB International ... recognizes the incubator’s understanding of the challenges entrepreneurs face, and its push to identify, educate and assist entrepreneurs in underserved ..."
+    publishedDateTime: 2022-04-05T13:08:00Z
+    webUrl: "https://udayton.edu/news/articles/2022/04/innovations_inspire.php"
+    type: article
+    provider:
+      name: University of Dayton
+      domain: udayton.edu
+    quality: 4
 
 secured: "s3D5MgfWg1dhEtrz7WuvNDy+KgWLpkL77jcbZfFAly+o6+0nL+fKuFTzcXtILxlaKTGAmyfiuJg1Hfrg8NHV2CIihW7m1TbvJCqvtekzzui0/b8wplcDGFyAn0QWj/8nrtcHoBMfSotCLCigRG5Qr2FndaZw/vG3DHEEof+ul0rWM2hU0OVKsKuQQO9XJIV5ARyhbXRXbnYbFGYJePhwNXIda9M1byvxW9r9NxRDjvKvWH39o75Jsw+rENeqJGqmg5Axa6QSJuP3yPDBiwyCBKyLGpaSqFEzDwfe8/3OiSUJ2HQCHWadyhM9l2l75+xogXq9rJ4ZK5T4Xb26hyzL4MHqNJZliuTENfMwDgez0n8=;6JMhdAipN0dyALHuGIL6vw=="
 ---

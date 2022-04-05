@@ -42,7 +42,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg"
         width: 1279

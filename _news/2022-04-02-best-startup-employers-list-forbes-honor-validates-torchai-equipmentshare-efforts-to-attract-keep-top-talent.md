@@ -38,20 +38,15 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "How to Strengthen America’s Artificial Intelligence Innovation"
-    excerpt: "The United States' Artificial Intelligence Strategic Plan should focus on enabling a wide range of actors to play a role in strengthening American AI innovation."
-    publishedDateTime: 2022-03-31T22:10:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/how-strengthen-america’s-artificial"
+  - title: "AKASA Lands Spot on the Forbes America's Best Startup Employers 2022 List"
+    excerpt: "AKASA™, the leading developer of AI for healthcare operations, has been recognized by Forbes as one of America's Best Startup Employers in 2022. This prestigious award is presented by Forbes and Statista Inc."
+    publishedDateTime: 2022-04-05T13:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akasa-lands-spot-on-the-forbes-america-s-best-startup-employers-2022-list-1031333301"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/f-35s.jpg"
-        width: 1222
-        height: 688
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "Brawijaya Student Start-up makes Forbes 30 Under 30 List"
     excerpt: "(MENAFN- ACN NewsWire) Malang, East Java, Indonesia, Apr 4, 2022 - (ACN Newswire) - An agricultural start-up initiated by three ... and artificial intelligence (AI) to enhance the productivity ..."
     publishedDateTime: 2022-04-04T03:40:00Z

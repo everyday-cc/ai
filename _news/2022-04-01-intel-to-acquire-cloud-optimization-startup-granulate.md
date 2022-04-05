@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/intel-to-acquire-cloud-
 webUrl: "https://www.datacenterdynamics.com/en/news/intel-to-acquire-cloud-optimization-startup-granulate/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,43 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Buying AI Startup To Cut Cloud Costs, Boost CPU Compute Abilities"
-    excerpt: "an artificial intelligence (AI) software optimization startup, for a reported $650 million. The Santa Clara, Calif.-based chip giant said it will leverage Granulate’s technology to help its customers maximize compute workloads performance and reduce ..."
-    publishedDateTime: 2022-03-31T19:24:00Z
-    webUrl: "https://www.crn.com/news/data-center/intel-buying-ai-startup-to-cut-cloud-costs-boost-cpu-compute-abilities"
+  - title: "Intel To Acquire Israeli AI Workload Optimization Firm Granulate For $650M"
+    excerpt: "US chipmaker giant Intel Corporation, announced on Thursday it will acquire Tel Aviv-based AI-powered optimization software developer Granulate Cloud Solutions Ltd. Financial details were not publicly disclosed, although TechCrunch learned from sources ..."
+    publishedDateTime: 2022-04-03T13:08:00Z
+    webUrl: "https://nocamels.com/2022/04/intel-granulate-ai-computing/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0273-14cc74acf44c-1d63ad299148-1000/p1010704.jpeg"
-        width: 398
-        height: 398
-        isCached: true
-  - title: "Intel to acquire AI startup Granulate Cloud Solutions for US$650 million"
-    excerpt: "After more than a week of rumors, Intel has now confirmed it will be acquiring startup Granulate Cloud Solutions, an artificial intelligence (AI) software optimisation startup, for a reported US$650 million."
-    publishedDateTime: 2022-03-31T19:57:00Z
-    webUrl: "https://www.crn.com.au/news/intel-to-acquire-ai-startup-granulate-cloud-solutions-for-us650-million-578160"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 36
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220401065706_CRN_14_intelstock.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Intel to buy cloud service startup Granulate in deal pegged at $650M"
-    excerpt: "Intel Corp. on Thursday said it has agreed to acquire Israeli startup Granulate Cloud Solutions Ltd. in a deal reported to be worth about $650 million. The companies didn't disclose the price but Haaretz reported in Israel last week that it would be $650 million."
-    publishedDateTime: 2022-03-31T23:00:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2022/03/31/intel-to-buy-cloud-service-startup-granulate.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 2
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 15
 
 secured: "LYT8OfsPG3liQGD2/sSNVCo5vfFP+QmdukOr+7LRIxabpXPn5yXKIWtumZnpMvnn0fvjG3w70HAzIkVfoUVayFQt1Tjda0009OADNHhxQjncVBXfaZVDHCYxs5aooDbubYorO2HE2t5KoWGA4tIZnJzhGy0RvnVabtU0yQktsdVYElD8ibqKPsozyMqQQMZRid5DY0sxUDmE3ZbaTh//Jx4C6H53n9v8uv+bY+Ct6j3/pWBdvDfXXENXmKAfA+NKOWJTEUNi4zhFdSUd//dxzHhR3PmR9g/GHWUSVotDq6dK+SGOprpHvZ6zLX74J5STTVVjyfAso3zXZqszXXzGpTxwJ9WeU/Ps55QJ4RT/Gjw=;HzMbtHpMRPAbNE7a+RbbTQ=="
 ---

@@ -76,6 +76,20 @@ related:
       name: GSM Arena
       domain: gsmarena.com
     quality: 38
+  - title: "Intel Unveils First AI Incubator Lab"
+    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
+    publishedDateTime: 2022-04-03T15:39:00Z
+    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
     excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
     publishedDateTime: 2022-04-04T11:50:00Z

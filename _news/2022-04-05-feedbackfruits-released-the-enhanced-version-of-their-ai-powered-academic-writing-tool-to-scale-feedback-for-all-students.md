@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:30:00Z
 originalUrl: "https://www.digitaljournal.com/pr/feedbackfruits-released-the-enhanced-version-of-their-ai-powered-academic-writing-tool-to-scale-feedback-for-all-students-2"
 webUrl: "https://www.digitaljournal.com/pr/feedbackfruits-released-the-enhanced-version-of-their-ai-powered-academic-writing-tool-to-scale-feedback-for-all-students-2"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

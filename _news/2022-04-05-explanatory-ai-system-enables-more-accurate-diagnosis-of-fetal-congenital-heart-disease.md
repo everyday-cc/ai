@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:23:00Z
 originalUrl: "https://www.news-medical.net/news/20220405/Explanatory-AI-system-enables-more-accurate-diagnosis-of-fetal-congenital-heart-disease.aspx"
 webUrl: "https://www.news-medical.net/news/20220405/Explanatory-AI-system-enables-more-accurate-diagnosis-of-fetal-congenital-heart-disease.aspx"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: News Medical

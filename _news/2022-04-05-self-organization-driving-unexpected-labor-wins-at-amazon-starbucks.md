@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:19:00Z
 originalUrl: "https://www.ktvb.com/article/syndication/the-conversation/amazon-starbucks-new-american-union-efforts/507-988e9faa-b176-49eb-a996-99602e5c629e"
 webUrl: "https://www.ktvb.com/article/syndication/the-conversation/amazon-starbucks-new-american-union-efforts/507-988e9faa-b176-49eb-a996-99602e5c629e"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KTVB

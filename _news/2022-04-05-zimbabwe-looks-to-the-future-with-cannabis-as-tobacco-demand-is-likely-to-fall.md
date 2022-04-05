@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:56:00Z
 originalUrl: "https://www.businesslive.co.za/bloomberg/news/2022-04-05-zimbabwe-looks-to-the-future-with-cannabis-as-tobacco-demand-is-likely-to-fall/"
 webUrl: "https://www.businesslive.co.za/bloomberg/news/2022-04-05-zimbabwe-looks-to-the-future-with-cannabis-as-tobacco-demand-is-likely-to-fall/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: businesslive.co.za

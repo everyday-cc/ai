@@ -2,28 +2,28 @@
 category: news
 title: "Lumentum and Ambarella Offer Unique Combination of Edge AI and Privacy for Smarter Building Automation and Occupancy Sensor Systems"
 excerpt: "Lumentum Holdings Inc. (\"Lumentum\") (NASDAQ: LITE), a market-leading designer and manufacturer of innovative optical and photonic products, and Ambarella, Inc. (NASDAQ: AMBA), an edge AI semiconductor and software company,"
-publishedDateTime: 2022-04-05T10:10:00Z
-originalUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8516364/lumentum-and-ambarella-offer-unique-combination-of-edge-ai-and-privacy-for-smarter-building-automation-and-occupancy-sensor-systems/"
-webUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8516364/lumentum-and-ambarella-offer-unique-combination-of-edge-ai-and-privacy-for-smarter-building-automation-and-occupancy-sensor-systems/"
+publishedDateTime: 2022-04-05T10:14:00Z
+originalUrl: "https://www.texomashomepage.com/business/press-releases/globenewswire/8516364/lumentum-and-ambarella-offer-unique-combination-of-edge-ai-and-privacy-for-smarter-building-automation-and-occupancy-sensor-systems/"
+webUrl: "https://www.texomashomepage.com/business/press-releases/globenewswire/8516364/lumentum-and-ambarella-offer-unique-combination-of-edge-ai-and-privacy-for-smarter-building-automation-and-occupancy-sensor-systems/"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: WTNH
-  domain: wtnh.com
+  name: TexomasHomepage.com
+  domain: texomashomepage.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2022/04/lynfit-april.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 450
+  - url: "https://i0.wp.com/www.texomashomepage.com/wp-content/uploads/sites/41/2022/03/real-estate-minute-03312022.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "+V2sZPAXiEmzLr17mIzzv1DLlBNXnr5JU3vD6HU637MOoJUh93nQzd2Zpv2PhnNUhJ3NKqxfMhz3mJna2xmUoTwkt+xYEhlG0CVhJykklB6XVntYHYjK5j8DeKMm/4WWOLiFF4Qy3Fc2JOmeeaCWzYSZoFJsuRdstYBJLpsEkuC2QOUB62gPVSCW//waq5r+IEya3bT9iXBOH8gxSZqAB5i+bfmcRtcl3AkkiZSeW9OTkFA3fnpJBqCedzk5SfquuyCpSbC1pn1wK3d8XukRcM4sdNliCnj83SMouYYHGx5VlSLC8DHLXQjTiJGBo/TKNBydHzDiK4Q9zASKLqguNenYElw9uQ8a29o6yxC657w=;sIDrfUp/zmJGMxNsL1CQnA=="
+secured: "63fMOOByn8v5CklQg9kw3ImMQE7b3r9An5xPfwXUGHkh7Q7l1CoHegMQlYDTCzMo0hwxVT4aF0vDkhHYjoK7PniWI8mpdmjuNqoL70k8XvALC8VC0Xx4kcTDyfdRQLYKivpQALvLW6j6n+doDq9yNg3M7s8NTZuAcqF6+ZDfqBPkZp6WwwCeV9SWOYFy5NOje3uzNHYi21MNVCPY1eL2yHPnI7Yc2CpSbEAREpI3x5swKtnaua+5fjQCppVLYZq3IVfHytc7iBbKHdyIamxigoYPeu6VZEyAw5sdfpDIBYK8HC3QC9fLhzXqEE4ip12fi+fAYf3+o5WwIk4e4dND/IJ+hDmBs+GyglNvkNgrTI4=;SKPjKXTsQpI+TlxEa2rhCw=="
 ---
 

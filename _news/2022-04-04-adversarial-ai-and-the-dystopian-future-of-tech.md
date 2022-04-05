@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1024
         height: 600
         isCached: true
+  - title: "Our Human Future in an Age of Artificial Intelligence"
+    excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bringing disciplines together is the best way to address challenges and opportunities posed by rapid advancements in computing. What"
+    publishedDateTime: 2022-04-05T13:34:00Z
+    webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 19
 
 secured: "gFB9iafbshcyrdZERn9Tayg64iKRmKLiEvCiCfDpvcqk+9/ZLdBrOlsQZrW3rnC6w63NEGnHcZx8bhUzaoBQAjw4/eNr8cpsLUDLxwOHOZ+fIg76hHrQ6IvQhMi6TZWDyaitTlz3I6586XW9Uc1t3oY7qbgHG4Q/KJzCdIEThj0gq4F9KLgKkNNYt8231+ERwPKD0CvIrV7h1dyusqyaOWrXm364sD3esX6OlXaWT17KkOfkRn+KXQlhcPg1zbeEOxcQSK3BWjmtZ/vspNJ50HWu8lY7utIDw1Xr7AFLhf6B78lK8HjmyGivhpYkHIvKj53aCnkPJ7pitWZzG3uV1jc+rgplWhopATiFxE5rNhI=;LKYPr43GZ+ydCtWPyVn6UA=="
 ---

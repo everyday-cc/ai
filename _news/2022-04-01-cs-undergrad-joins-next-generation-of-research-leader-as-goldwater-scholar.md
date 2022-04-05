@@ -24,22 +24,6 @@ images:
     height: 5464
     isCached: true
 
-related:
-  - title: "Two Boise State students become next generation of research leaders as Goldwater scholars"
-    excerpt: "The Goldwater Scholarship Program, one of the oldest and most prestigious national scholarships in natural sciences, engineering and mathematics, selected Boise State honors students Pangaea Finn and Josue Torres-Fonseca as 2022 scholars."
-    publishedDateTime: 2022-03-31T22:59:00Z
-    webUrl: "https://www.boisestate.edu/news/2022/03/31/two-boise-state-students-become-next-generation-of-research-leaders-as-goldwater-scholars/"
-    type: article
-    provider:
-      name: Boise State University
-      domain: boisestate.edu
-    quality: 15
-    images:
-      - url: "https://www.boisestate.edu/news/files/2022/01/D_1708_003_006.jpg"
-        width: 1600
-        height: 826
-        isCached: true
-
 secured: "2O3av7+iCmZnHbqfymXDWSUG2zJ0OpofjXNnA4bFY2RfzNQwzYmlFnww479b/SpTlJaaxabqUgP0+jXnmet78k/Ff+H++X7Kv02HoXV2eTp9TayvfAUqq8DP0XDQ3tQ8GPmZmZNHau1tZesu7rsYVKLwULR0J8DU6x8j+srE+NGvroaPy4unrVaEYlpgxvvEBu9pizVxRw4zUeL7cDWtLSV8JXP8eW8jIU0cGr2FfvXZzqPT/aZv7AWQq9T+LHvuxsz9I8pp1LhOpRGf2xSQHWnoC5BUifBTzJ9cWc7xpuF6Kc4SFwoSVWr+FubRIPCiZXqhlsOp545hQQozqqs+iKpa3IjZjLoPt6v8PIDMcoM=;MG94pSvB7wGk3NyjMBhwOA=="
 ---
 

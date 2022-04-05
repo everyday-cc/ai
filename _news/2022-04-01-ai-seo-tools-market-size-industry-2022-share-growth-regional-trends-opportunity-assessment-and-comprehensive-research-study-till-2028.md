@@ -37,6 +37,20 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 26
+  - title: "Mobile Robot Market Size, Future Trends, Segmentation, Total Margin, Opportunity Assessment Up to 2027"
+    excerpt: "The Global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
+    publishedDateTime: 2022-04-05T14:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-size-future-trends-segmentation-total-margin-opportunity-assessment-up-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
     excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
     publishedDateTime: 2022-04-01T13:44:00Z

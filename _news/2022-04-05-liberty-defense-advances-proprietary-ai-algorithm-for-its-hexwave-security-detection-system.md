@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:55:00Z
 originalUrl: "https://www.krqe.com/business/press-releases/cision/20220405VA14262/liberty-defense-advances-proprietary-ai-algorithm-for-its-hexwave-security-detection-system/"
 webUrl: "https://www.krqe.com/business/press-releases/cision/20220405VA14262/liberty-defense-advances-proprietary-ai-algorithm-for-its-hexwave-security-detection-system/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: KRQE

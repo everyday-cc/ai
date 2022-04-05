@@ -34,6 +34,15 @@ related:
       name: Grand Forks Herald
       domain: grandforksherald.com
     quality: 4
+  - title: "Greater West Dayton Incubator earns national recognition"
+    excerpt: "The Greater West Dayton Incubator received national recognition from AACSB International ... recognizes the incubator’s understanding of the challenges entrepreneurs face, and its push to identify, educate and assist entrepreneurs in underserved ..."
+    publishedDateTime: 2022-04-05T13:08:00Z
+    webUrl: "https://udayton.edu/news/articles/2022/04/innovations_inspire.php"
+    type: article
+    provider:
+      name: University of Dayton
+      domain: udayton.edu
+    quality: 4
   - title: "Avon High School student Justin Schwab earns national recognition in writing competition"
     excerpt: "Avon High School has announced that sophomore Justin Schwab, 16, has received national recognition for a story he entered into the Scholastic Art and Writing Awards competition. His Silver Medal,"
     publishedDateTime: 2022-04-01T12:30:00Z

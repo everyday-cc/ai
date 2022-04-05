@@ -25,14 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Why we need human-centered AI"
-    excerpt: "Expert, Ben Shneiderman, believes we can create AI systems that can have both high levels of automation and human control."
-    publishedDateTime: 2022-04-04T14:10:00Z
-    webUrl: "https://thenextweb.com/news/we-need-human-centered-ai"
+  - title: "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut"
+    excerpt: "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza"
+    publishedDateTime: 2022-04-05T15:48:00Z
+    webUrl: "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
+    ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
+      name: HotHardware
+      domain: hothardware.com
+    quality: 74
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg"
+        width: 708
+        height: 419
+        isCached: true
+  - title: "AI And The Secret To Employee Happiness"
+    excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
+    publishedDateTime: 2022-04-01T18:14:00Z
+    webUrl: "https://www.forbes.com/sites/servicenow/2022/04/01/ai-and-the-secret-to-employee-happiness/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
 
 secured: "7zr7/oo5Hcof9sMwwM5f0MZxu7OzwNi9B4koCBE/X9DfkMZg0adAPrJl/+RECB+cA0vB9FVFDYQAKgXZcCpqMAQ7ydp2PH+4kLpvov0pW+5MS6qT23oOjEC9ITgoeWD9d5bBLWvLH5sSjItOb/5gKN4i3dCr3i3YEgWhuiXOlOP1ESaAet78IIkOvFUKt2EMjgeNGfw8Pzd8/pDDaOgcEtlYtB7QK6ecQJ4KDGjfPYLlmwWcNNgoIEA6kWq9jfPXR/jpCQDYZ53Sou9yvIcxCsYUp1rOqw+KVWYeNcjEqQ29wD52Vqu8rlP4X9Px4oCllM/K1jJcGGnRMAilBkbfyiuny6LFjp8S/u30tJQ94eupUw6vcJz+eNfDTSt6IYQKz1aPnbnWJh7PnYQphJ3gi7WUhNEO6X44wca0/nXAtMM9vV8NMziWQU3uBTMeFOfHn2BU6V9PU+qnjhCYvgNBugm3YPR6FT4tPvXxB1lBqKNqliZDr3/dgFZOd55w9UsAMdYbsny2OwDdXhB8ZQ/PZw==;2iqRhFEZdjQwQf2FNT6JLw=="

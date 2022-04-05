@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:23:00Z
 originalUrl: "https://www.lelezard.com/en/news-20321213.html"
 webUrl: "https://www.lelezard.com/en/news-20321213.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Le Lézard

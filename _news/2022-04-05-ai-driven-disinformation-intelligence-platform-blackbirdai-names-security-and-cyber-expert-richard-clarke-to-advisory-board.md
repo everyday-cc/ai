@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:02:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/ai-driven-disinformation-intelligence-platform-blackbird-ai-names-security-and-cyber-expert-richard-clarke-to/article_fd17e98f-80f4-583e-a891-2f9179cafdb5.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/ai-driven-disinformation-intelligence-platform-blackbird-ai-names-security-and-cyber-expert-richard-clarke-to/article_fd17e98f-80f4-583e-a891-2f9179cafdb5.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Joplin Globe

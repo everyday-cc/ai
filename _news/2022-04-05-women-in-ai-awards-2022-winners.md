@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/digitalnation/news/women-in-ai-awards-20
 webUrl: "https://www.itnews.com.au/digitalnation/news/women-in-ai-awards-2022-winners-578331"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,24 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Portable Ultrasound Equipment Market Trajectory & Analytics Report 2022: Artificial Intelligence at the Forefront in New Portable Ultrasound Sy"
-    excerpt: "The \"Portable Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Portable Ultrasound Equipment Market to Reach $2.5 Billion by 2026 The global market for Portable Ultrasound Equipment estimated at US$1."
-    publishedDateTime: 2022-04-04T00:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=641570"
+  - title: "2022 AI Campaign Week"
+    excerpt: "The 2022 techUK AI Campaign Week will take place 29th April - 6th May, and we can’t wait to get you involved! This year we will showcase the pioneering AI work of our members, focusing on five themes across the extended week."
+    publishedDateTime: 2022-04-05T14:50:00Z
+    webUrl: "https://www.techuk.org/resource/2022-ai-campaign-week.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-  - title: "Global State of AI Survey Report 2021-2022: While Many Organizations have Initiated AI Adoption, it is Still in the Early Stage of Deployment"
-    excerpt: "In this study, the analyst presents the key findings of a survey conducted among global enterprises on their state of adoption of AI. Respondents were drawn from senior IT decisio"
-    publishedDateTime: 2022-04-04T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-state-ai-survey-report-2021-2022-while-/2022/04/04/9575670.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/fcc1e663-9205-4198-803aafcb34e7b34b/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Robot-automation-innovation-284065041-web-1500px.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "dNy/j4QVM38irJw7uvwHFoN6kxdtFcUQjV7qdrg4w+emTe9SNk3+7U173IkTlprZqQUuhg6xKQLejT9BhgtDRbP1RSIjmorlnyK8VrpC7VeZ3pwjRnaree64X1C1rM410k+F/jUg34OzN3zmSD+CK/26W1FQjrPoESZVdFkcBiZpmlIBfO4VTXBrQUAMmR07sgUU7Jm8CrKN3I4xkgl8UdPeilbtaWfKaNpVv8LVRlDfD5IA+8SurqS2VmoUr03xfuPWElhA88oWFOrAHMOmWMGCNroADID1R95J97zhAOV9wz0yxPBt3am+UwckJpojGxG+ge8BIIQ2Va6MG7NNWNjGbi6wDy7eQtqkmC6Xdsg=;fSiKfhyxWb3f4dBgyDLqNQ=="
 ---

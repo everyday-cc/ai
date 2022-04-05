@@ -194,6 +194,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Real Chemistry acquires AI firm ConversationHealth"
+    excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
+    publishedDateTime: 2022-04-05T14:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/real-chemistry-acquires-ai-firm-conversationhealth/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 37
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/John_Reeves_web.jpg"
+        width: 1024
+        height: 500
+        isCached: true
   - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
     excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
     publishedDateTime: 2022-04-02T15:51:00Z

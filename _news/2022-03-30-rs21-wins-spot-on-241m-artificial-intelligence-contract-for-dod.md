@@ -1,20 +1,25 @@
 ---
 category: news
 title: "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD"
-excerpt: "ALBUQUERQUE, N.M., March 29, 2022 /PRNewswire-PRWeb/ -- RS21, a data science company developing artificial intelligence (AI ... We navigate complex data issues in the fields of healthcare, defense, safety, urban planning, energy, cyber, land use, climate ..."
+excerpt: "Data Science and AI Company Qualifies to Participate in the DoD Data Readiness for Artificial Intelligence Development Program"
 publishedDateTime: 2022-03-29T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod"
-webUrl: "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "Otg/utixuGFnM+e27c7ofOAtsqf1U6atXTTpcpPo7MUCMYGql4v3m8YAFL0zI8iOwSdvH87TEEy4ZelvnJ4FrwejT6ZM9kthOPV3nVqU/2cnJSz6SgitPH1NB0BidrmwEJ1lqgaes1Yef3Nbpf6ZqY0YY2/BsTC1RzLj1Z8vESj6QgeFBhrPaplHJWvuwkvaJM9J/lmoZSSaF7+k4yE8VmiNFQZhXKLMpTpotiKqHn2ipfqV1V5/bummCuYooFNmW0yrW06jSjE8oYS4TU2bzUd9En6jphLrL4JEqchXcmtqpgbhoKY6s5cYq2ndktuHVgcSMJCMHOn6akGvBvjHBC1QYu7FxQ7YxRt4TBwhRMDmYRD5d781kxi0bERQA7mQbOE1ApcqksEazfpcMI6mJaRaqYuSQuRpFiZHikwcqKPqC3POYmLTKQQwX19GeTDpjykXFFck+J/RZPLOKmQAZ0U+ub+4WkphiAMdmQt6Lb50Pto1KpceQBqqI9EzNENVOOqm87T4O33NAjqYn4Vlgg==;hfI5Ls+XkheeZVsUfQwbMQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "WRi4p2GlCZp+NWPP8ft7c68nc+eat5HJX1LREbVGNTDGHwMLcE086A02ZAl43Vk3u7G6xIQhbX4wjaNlVdsGHg8CTuXP9Gg9yS3d0o/PgdFJgn32do3iwh1nR2xhiFBlfTtCsgEcfUpqjU0CH89McMYsominDRsqnQLaRFamKIHRsn+mgoEwOZI7mZ7/+WTRn2PZmLIB2TTp3Wa+sULMw3B427kvg54Dp89Vu1LGqZrh1lDaXVhpG1ZZZIrlmWq5eXrxaXu8V4GyLgUVAKvQH3VallrQRGqP+mLohplJ/6mB9xyCJFyep91djX7EMAbpavWd7mexT22kesRVfQkefJgrprBg6JNQnEd4LS7Q9aQ=;1vr0IRXtARbGw8EJTrHV/g=="
 ---
 

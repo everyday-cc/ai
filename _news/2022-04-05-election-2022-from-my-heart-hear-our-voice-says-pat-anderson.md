@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T11:17:00Z
 originalUrl: "https://www.theaustralian.com.au/nation/politics/election-2022-from-my-heart-hear-our-voice-says-pat-anderson/news-story/0acee88594f1506cf5bb9854ef6994f0"
 webUrl: "https://www.theaustralian.com.au/nation/politics/election-2022-from-my-heart-hear-our-voice-says-pat-anderson/news-story/0acee88594f1506cf5bb9854ef6994f0"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

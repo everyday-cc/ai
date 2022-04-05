@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Qatar Foundation center works on new autism detection tool"
+    excerpt: "Doha: Qatar Biomedical Research Institute (QBRI), part of Qatar Foundation s Hamad Bin Khalifa University (HBKU), signed an agreement with Argus"
+    publishedDateTime: 2022-04-05T14:59:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/05/04/2022/qatar-foundation-center-works-on-new-autism-detection-tool"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220405_1649170830-395.jpg?1649170830"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "QF research center's work on early diagnosis of autism progressing"
     excerpt: "Doha: Qatar Biomedical Research Institute (QBRI), part of Qatar Foundation s Hamad Bin Khalifa University (HBKU), signed an agreement with Argus"
     publishedDateTime: 2022-04-05T05:15:00Z

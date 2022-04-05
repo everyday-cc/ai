@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:21:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55699628-wealthintel-inc-wealthintel-chooses-azure-for-its-infrastructure-and-is-selected-for-microsoft-founders-hub-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55699628-wealthintel-inc-wealthintel-chooses-azure-for-its-infrastructure-and-is-selected-for-microsoft-founders-hub-200.htm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Finanznachrichten

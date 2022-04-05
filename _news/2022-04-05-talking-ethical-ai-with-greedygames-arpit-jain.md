@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/talking-ethical-ai-with-greedygames-arpit-jain%EF%BF%BC/"
 webUrl: "https://analyticsindiamag.com/talking-ethical-ai-with-greedygames-arpit-jain%EF%BF%BC/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Analytics India Magazine

@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-05T11:08:00Z
 originalUrl: "https://www.extremetech.com/extreme/333185-nvidias-jetson-agx-orin-packs-an-ai-punch-in-a-small-package"
 webUrl: "https://www.extremetech.com/extreme/333185-nvidias-jetson-agx-orin-packs-an-ai-punch-in-a-small-package"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:

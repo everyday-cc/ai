@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hoppe
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/31/deep-dive-into-nvidias-hopper-gpu-architecture/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1073
     height: 668
     isCached: true
+
+related:
+  - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
+    excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
+    publishedDateTime: 2022-04-05T13:48:00Z
+    webUrl: "https://www.pcgamesn.com/intel/gpu-nvidia-gtx-1650-comparison"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 34
 
 secured: "9qWL7TRGN/hfE/MIyD8W9OB3ZMTIgfZRLTq16RD/qj/UrqN7R+b5W7Qb81Wkned9ZYAZgqj31BOseouqYwFMXRZfxMQ+8u/1PFaB+KxOz/mD2HdX1qGrh82rdakbpLO2PzVdsO/TZjQMTSiNh2BD27tbKrmhymlw2PkiepNBQje+6+EDU91Oc5d/6W5voU2Ob+OYrI4T/EoHL6IPIrSNRSPYalSkYEjHxcFBq7+hchhPQfhBopY32l5QnewjISkr2i6g2rsV1JzlcDjdOITfxOwdyj/SJT7HrQDDGOMNuI1Oyk/ZBdTygHp3wgvHMH2f8rSrQhHBmr374DszsS0tmNA0sQodTpr/f+ZdYWUkx4+pMNHFgtu9tUQHd1MbINBhYkgaQ3Pg7bQJNkmPEAR4yMKXjFjlpKgBxxpMWfUDdjperkoTK3sF2UzJ+DiuiLpvtnkZKJoSF/Qi18AabuZ0ksV84Yjm70V5wj9ateM0NxjwBzyMpUZ4gbO6wbNkISMNx42Dl1HTwHqxVE/jUsWdNw==;V5Afcc4pzw5dmZ5SloQGlQ=="
 ---

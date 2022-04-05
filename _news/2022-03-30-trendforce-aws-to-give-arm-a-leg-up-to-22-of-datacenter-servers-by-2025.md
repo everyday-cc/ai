@@ -3,8 +3,10 @@ category: news
 title: "TrendForce: AWS to give Arm a leg up to 22% of datacenter servers by 2025"
 excerpt: "The increasing adoption of Arm-compatible processors by cloud service providers is expected to grow the CPU architecture's penetration rate in datacenter servers to 22 percent by 2025, according to a report by Taiwan-based research firm TrendForce."
 publishedDateTime: 2022-03-29T19:55:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/29/awsl_arm_servers/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/29/awsl_arm_servers/"
+originalUrl: "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/"
+webUrl: "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "d/8Xip8maCYZNzxa9tDSL2TwDl6vD0QtNTXh9VLkwHKaqyB1GZ9cRADqIrQwmSpF+c4wSt4gWXke+qTLLe2emVi/mqRYyvRcpkrIbSm+P8OLDNyHdpb8X3AYipZ3+tzMBofVhRxaNSujFqhb4Y1TW5tB3kwvRMtc41enc+2G/Zd3URKOSXIm1i+EOaaDwOpNSus+YhVBhx+edLrrYKhp47F3XsOtCHSlr760N4mf0DE/uUY69N9t0V7DZbIfdw55J9PU6EGifO9h1tRlHZ+dCQ9R9mKVOEqU+oY7vCUt3eTjYhLqyLoKo5P70cuZn5ZubvS6UFx7A51yC0nLCG+UFfTIX3TZodXSfPWMIGkIuka9s0jdCAELThDy2yZTWixE0aCXHpUzg7QtghVnjiGnQy/T6Nlg4mGTAmNMpRWabLemuRJ2989Q+6bOXlg8JvaNtyGx64gbwWYWMvSzR6PQRy0aWtr1wkFZOhmBg2HLWJifdT8QYzPOYunwruMGCUJumnefvUt6YkufojWFbB0Pcw==;ykuWWZl9EXs6AmnHvEgpRQ=="
+images:
+  - url: "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg"
+    width: 1000
+    height: 667
+    isCached: true
+
+secured: "QezcQLXe7Xa/L1uvfXHoSl9WTnOdvXf/77rAUyOre5IrByNeJnYr+0/Qzf6X4le/YbVzhCOJoyNawbRe2vqTP6/H+y+Vor58CET2U02/YMqMj6Xi2toktKucfgvRd/b8Z+SIFPFO4n7WufmJoG891/Ty1hp/eE/DCS2ncJ3pcbFzGtrAK24KYGgHb9WVPVGqAxLfnHrKV3C7Pfq4KJH3I8z0qxBmqMTdYgzqKtxUleRIMXVmARbg7S5ubmEGMd/toDKgr3Xh7AcFonysnq6OTlDZiXR9kKPitnuiGlZ1AdUkCQVrh5YGA8NcD0u3KkwEWpHyyiQGQK3LuKv3viLlO1uS4nnsfYboJqiGucIOKCE=;BQWwXYVvD4RJoOQWlPQi+g=="
 ---
 

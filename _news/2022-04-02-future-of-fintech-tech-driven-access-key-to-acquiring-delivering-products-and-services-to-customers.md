@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Real Chemistry acquires AI firm ConversationHealth"
+    excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
+    publishedDateTime: 2022-04-05T14:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/real-chemistry-acquires-ai-firm-conversationhealth/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 37
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/John_Reeves_web.jpg"
+        width: 1024
+        height: 500
+        isCached: true
   - title: "Curious Thing Positively Impacts Public Safety, Scales Conversational AI Solutions and Connects Customers Globally Using the Vonage Communications Pla"
     excerpt: "Partnership enabled customer to establish intelligent conversations with 150,000 customers in 10 days at the start of the pandemicSINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation,"
     publishedDateTime: 2022-04-05T03:00:00Z

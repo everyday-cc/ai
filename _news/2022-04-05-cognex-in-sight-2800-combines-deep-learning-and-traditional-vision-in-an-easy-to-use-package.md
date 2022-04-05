@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cognex-in-sight-2800-combines-deep-learning-and-traditional-vision-in-an-easy-to-use/article_ef2ff6c7-725c-5355-b694-f3b148fd19ae.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cognex-in-sight-2800-combines-deep-learning-and-traditional-vision-in-an-easy-to-use/article_ef2ff6c7-725c-5355-b694-f3b148fd19ae.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: WFMZ-TV

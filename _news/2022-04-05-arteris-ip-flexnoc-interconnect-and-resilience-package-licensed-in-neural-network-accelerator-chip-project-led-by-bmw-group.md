@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:18:00Z
 originalUrl: "https://www.design-reuse.com/news/51715/arteris-ip-flexnoc-interconnect-resilience-package-neural-network-accelerator-chip-bmw.html"
 webUrl: "https://www.design-reuse.com/news/51715/arteris-ip-flexnoc-interconnect-resilience-package-neural-network-accelerator-chip-bmw.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Design-Reuse

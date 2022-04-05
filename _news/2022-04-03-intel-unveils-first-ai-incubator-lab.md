@@ -24,54 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "Finals Underway for OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
-    excerpt: "LEGO® and OAK-D-LITE Edge AI hardware this spring. The top 3 teams will be chosen in April and featured at Microsoft Build 2022. PALO ALTO, Calif., April 1,"
-    publishedDateTime: 2022-04-01T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
+  - title: "Intel Shows Off its First Ever Desktop Gaming GPU"
+    excerpt: "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps"
+    publishedDateTime: 2022-04-02T07:15:00Z
+    webUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/"
+    ampWebUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 82
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
-    excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
-    publishedDateTime: 2022-04-04T18:01:00Z
-    webUrl: "https://www.geekwire.com/2022/microsoft-and-hpe-put-ai-to-the-test-on-international-space-station-with-gloves/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
+      name: ProPakistani
+      domain: propakistani.pk
     quality: 59
-  - title: "Microsoft deploys and tests AI models in space aboard the ISS"
-    excerpt: "Microsoft Corp. today revealed how it has been working with Hewlett Packard Enterprise Co. and the National Aeronautics and Space Administration to develop and test what they say are the first artificial intelligence models in orbit aboard the International Space Station."
-    publishedDateTime: 2022-04-05T00:12:00Z
-    webUrl: "https://siliconangle.com/2022/04/04/microsoft-deploys-tests-ai-models-space-aboard-iss/"
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg"
+        width: 1000
+        height: 560
+        isCached: true
+  - title: "The Intel Arc GPU Lineup May Be A Serious Competitor"
+    excerpt: "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?"
+    publishedDateTime: 2022-04-04T10:27:00Z
+    webUrl: "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/"
+    ampWebUrl: "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/"
+    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Unbox
+      domain: unbox.ph
+    quality: 59
+    images:
+      - url: "http://unbox.ph/wp-content/uploads/2022/04/arc-gpu.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Intel inadvertently leaks the details of its flagship Arc GPU"
+    excerpt: "Arc Control is the name of the software that Intel is set to introduce to support Arc GPUs. The Arc Control software includes GPU monitoring capabilities, which was the source of"
+    publishedDateTime: 2022-04-04T06:37:00Z
+    webUrl: "https://www.pcgamer.com/au/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
     quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Space-Symposium-main-art_frame_394.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
-    publishedDateTime: 2022-04-01T11:37:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
+  - title: "Intel shares specs of top Arc GPU - 175W TDP, up to 2250 MHz clock speed"
+    excerpt: "Intel has accidentally (or not?) shared parts of the specs of its upcoming highest-end Arc GPU for desktop. The specs appear at the 29-second mark of a promo video for Intel Arc Control - Intel's GPU monitoring app (similar to NVIDIA GeForce Experience),"
+    publishedDateTime: 2022-04-04T15:05:00Z
+    webUrl: "https://www.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-news-53836.php"
+    ampWebUrl: "https://m.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-amp-53836.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-amp-53836.php"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 38
+  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
+    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
+    publishedDateTime: 2022-04-01T17:26:00Z
+    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
+  - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
+    excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
+    publishedDateTime: 2022-04-04T11:50:00Z
+    webUrl: "https://www.electronicsforu.com/news/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 7
 
 secured: "kCBEUqcNUxCU6tSfqPE5CBXI1X+aFzKXoWIwUPs20MMSFUeOqzyUIV0gqSaHz9Az1RIN1dHrGJnjp9iSR3eQI1C/UIfxyExi2Hx5qOi2rhzL+N/zTvY3II60DaUceMvhslvS4bqU0SX2ybRe4pOGCVn/24QqOAZ7sK2LHCDMZx0WsIF8bbREgN5vQuNw0SIIvMPYIvWmZRqeEZf1QAw/bPIx3zK4DQx/ZfGsC5ucfSeZbpDsLsk9Nl12OATz6gOCk7OWyhlgb2Aow2LWTCTrcGtvNMVGRNT+mXiiFSePmKOvcHDWXAiQO7gh1/e5uM67ATDYklr5IukjFReNX7G1LqI9/ZKQeHaoJpPvxdybQSk=;QEtL8Eg1J6Zbu0SQ+Qxvnw=="
 ---

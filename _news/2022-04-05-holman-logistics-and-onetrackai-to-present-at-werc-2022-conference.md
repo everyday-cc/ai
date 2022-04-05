@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T12:40:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20220405ph12983/holman-logistics-and-onetrackai-to-present-at-werc-2022-conference"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20220405ph12983/holman-logistics-and-onetrackai-to-present-at-werc-2022-conference"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Morningstar%2c Inc.

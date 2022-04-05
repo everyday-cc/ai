@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:19:00Z
 originalUrl: "https://inc42.com/buzz/robotics-deeptech-startup-cynlr-raises-4-5-mn-to-enter-the-us-market/"
 webUrl: "https://inc42.com/buzz/robotics-deeptech-startup-cynlr-raises-4-5-mn-to-enter-the-us-market/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: inc42.com

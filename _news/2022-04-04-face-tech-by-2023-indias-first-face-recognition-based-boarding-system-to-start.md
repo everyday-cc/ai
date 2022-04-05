@@ -67,6 +67,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Major airports will have facial recognition-based boarding by next year, says Civil Aviation Ministry"
+    excerpt: "DigiYatra, the government's paperless air travel project which uses facial recognition, will be implemented in major airports by 2023."
+    publishedDateTime: 2022-04-05T15:05:00Z
+    webUrl: "https://www.medianama.com/2022/04/223-facial-recognition-airports-india/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 39
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/07/morning-brew-U03369z5UBA-unsplash-scaled.jpg-e1649170570189.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
     excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
     publishedDateTime: 2022-04-04T11:09:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:05:00Z
 originalUrl: "https://venturebeat.com/2022/04/05/dataminr-risk-analysis-ai-platform-adds-geovisualization/"
 webUrl: "https://venturebeat.com/2022/04/05/dataminr-risk-analysis-ai-platform-adds-geovisualization/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

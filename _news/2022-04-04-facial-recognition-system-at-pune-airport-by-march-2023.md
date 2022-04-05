@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-s
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://gumlet.assettype.com/swarajya%2F2019-03%2F620ad963-7a27-474c-b371-8139916a89b7%2F1280px_Sculpture_of_hasta_mudras_at_Indira_Gandhi_International_Airport.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 600
         height: 400
+        isCached: true
+  - title: "Major airports will have facial recognition-based boarding by next year, says Civil Aviation Ministry"
+    excerpt: "DigiYatra, the government's paperless air travel project which uses facial recognition, will be implemented in major airports by 2023."
+    publishedDateTime: 2022-04-05T15:05:00Z
+    webUrl: "https://www.medianama.com/2022/04/223-facial-recognition-airports-india/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 39
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/07/morning-brew-U03369z5UBA-unsplash-scaled.jpg-e1649170570189.jpg"
+        width: 1280
+        height: 854
         isCached: true
   - title: "Face Tech By 2023 | India's First Face Recognition Based Boarding System To Start"
     excerpt: "In a bid to decongest airports and streamline passenger experience, the government has said it is going to roll out the facial recognition technology at airports across India by March 2023. Varanasi,"

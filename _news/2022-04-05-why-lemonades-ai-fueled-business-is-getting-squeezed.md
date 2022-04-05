@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T11:29:00Z
 originalUrl: "https://www.nasdaq.com/articles/why-lemonades-ai-fueled-business-is-getting-squeezed"
 webUrl: "https://www.nasdaq.com/articles/why-lemonades-ai-fueled-business-is-getting-squeezed"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Nasdaq

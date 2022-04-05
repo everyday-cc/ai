@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T13:27:00Z
 originalUrl: "https://www.wionews.com/science/scientists-use-artificial-intelligence-to-confirm-that-birds-are-more-colourful-near-equator-468608"
 webUrl: "https://www.wionews.com/science/scientists-use-artificial-intelligence-to-confirm-that-birds-are-more-colourful-near-equator-468608"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: WION
