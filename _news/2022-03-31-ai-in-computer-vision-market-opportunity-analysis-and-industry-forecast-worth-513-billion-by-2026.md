@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "1zYJQ2cCBr0wxroJnrsh5Fk2/OrWyz3C/3eqDGrKBtvOATLe+RSS5v31u5AvSaPQyE71OQggRfg5JxU2s5GaIokgq3Vx4j3Q2Gp4DYJHVir3kczk3gbeLt2N/uD7QiCMUIPvGdZSAy+P3KZRwXrotqOu5PJJoJ5aqzSCSSOzTJZltUNxUxtCjWt5zPmvzZVvNFuLVkYoeTFiBgKHEVWjE0Lh2vpmx9Hvet9yc51YL3DK8g40APGR8e5Tq0FfnSAv+S6lESqTBPb8zrqrT+4mPxNbwpOrbr0eeGfGzPeEocfSz49P1wuO+CoDyk936dKAVvTQaLE6rc+FErNEcdYH0xX9k2r3xr7O7Mvn++64cmk=;MBCCWmFiH13lCCU1AGU2Hg=="
+secured: "lr57yTPUPzn5Az/2WdPc0HN/yTYg6WF3ivLlxbwEBXco1ju3aWdafPgThAeinH7beslNiaEYtBWfbZbU8Vtcs6dcwSLmsifWtRn1CcmdH3pNhwQ6bwiI9+HKEClVWxkvEqDYUgicyb0IPrQ1uSbE+zuspJQR1eYniXzSzDxbWadezkqsMmXxNLtQbv9KzyQDMRuaNQDQR7d/G3iwLIOAejmdolzslbhoCsDi8/IS0+CRFjdC27VFgwEkUv7qL9YL6VlnVKc2AFqpVJVvoWYhtU6DWYuaJjz3erLEHT+f9QDsfRi0qQitY0KCroFtXuobAH/3OBUhIaPEkNzzX9Tq/Sk3YGsOTInv0/oIg14JhHw=;zfPyp32+fkeaJqerXPf30Q=="
 ---
 

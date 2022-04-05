@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1779048/IBM_z16.jpg"
@@ -38,6 +39,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "G0SUmLDj3d4rolL4q/c/dWrtfWb3saPZsPmtjt7DGvZX0PS5TLW4Ck8iq+8q0xQspAsZWAAvMwlW66ZK1nwS6Id4D15hOLq3svuhaZLG9T7BJ5tyD7PaQ5rlIXN7t50g0FKv2LJDssmvrmZDkG2CgDQOpFxtb/DODsiNBgGaMmrkcIbGDOiXhQVgsAxthEzWUD0hW3x0+NRBiDz65Z3BHvGKJuJPPR3sjxxhWuOmhMLcaCvhClmEXw9xOHnZVYPKzjEDjsn9uAQ1Qg1Ht9m9gic3lmV6DKgipu72VOzgdpM7nb1+bA1YFxHalnJ50epmZaaKufs6GAjN1ENrib80bM9xpcFa+SjUeS6Vm3Z1YBY=;sQqqAvvtBN3NsFfA2I24nA=="
+secured: "7xt1YvLPeor8qbyFNNZs+2zXeoKWoaB5rQXumfZ5olLAzu46zwmcBBxyEpwEoTwQ9Ub5TxDGslBEOqzt2j7X67OQWOtAJYJL2cGYICAGk+XJZoqAD+SM4KIwwQaynrOLupfW8YdlCX6dKvlqsh9x+pprrXBgBRYVjJkZHHCIcorJRo7Np4f3uZMkNctTwp/IVidGUITPxmjDRqukFh1CcvhWxrApRrU9nYDCoeHrAjeDA66EZMzMMo92gUEYS8ZxekgMh3d6l9TMmS9VeA9RpZZeBxAVNgzNrrGJXs1I5FQLyC0Y4Evst9VHnAXyndCfWTUKp7PDjU1rVbiYmKWnhXi/Unsw64b9tZPMPkGJ4xgWHSW4F+BU2tsOlpMMhLT5lvEeDI50ZIYLWmQKgSIszhp8advJq85xOVuReIuZ4PEfWvaI60ieu24IuoY4Y6qdPu5de3GqXf3q5p1iAjiJ67WVAiN00cBHq0XF/5tXKYlmJnUtw+PkIxXUOrfn7eoqbZ2xNCTaqfEV1DUsrpAQQw==;/90sIeDRzwemka2r6fue5g=="
 ---
 

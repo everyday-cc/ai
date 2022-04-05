@@ -6,9 +6,6 @@ publishedDateTime: 2022-04-04T16:32:00Z
 originalUrl: "https://www.galvnews.com/news_ap/business/article_cc1d65d7-ca83-574d-805f-2701900475a3.html"
 webUrl: "https://www.galvnews.com/news_ap/business/article_cc1d65d7-ca83-574d-805f-2701900475a3.html"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
   name: Daily News
@@ -17,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "OjDOxfOlz5G8s/HmOnvCFJQstpZjtGJFImtJ/yod2YThB0lP92XKXnIUPteYgnUMAiOYHm1GzhbhfCt0f/lbuG3SoHgQBQkrPBjQSywULgKtV5PPlOdX9rUXdY8DgUwC0n3w1qKej4SuiENdoFrNSbHF3Dp0fj2JkLa8PAaIICrQW/blx9o8DwiDf0zMu2MhXW6O6z+06+Z4Ny7VYVZVSKVXJGui9SmZuI1y0jrpRuIherc40K64LBl+6OhjaNhdY7S2BwqyEcZg2vz73ehD8NUD1Tr6GXulGQqBRqAXrqZ4vY6PierEUJFCwdPVot1EwprviSm+l3lD6fU0ecfROfiOvwDRZv8qH+Vivcis72A=;CVBuT8O2tcue8e0ZHuOVDQ=="
+secured: "z5dT/pyo3pGE3cat1nGBlmcVHVMZt/OXNML3nNmj92npZXO6w92AG6zGrjZznD7KzhHrIHaulnciRj8svnPQtTJrIxbWlVt2OmedUFnrNMLyJwWmeBMux92MAlo8TdywJuOk8zFpCeyykqJDh5faOcyEEqf+lo09TyazvzOKbpgSGkIyGt4K9N1gUvGAqLsMR/IMwrzSBtUr8qQ1T0cbmAR8rS1wtuIewcoKgsUcI6Tkk3hkMpPBaiFs1QU5OjTKNzv4nlS69DZAsQ6+fgQnXQSbdHGRuIoyPWDHl096z+UD6q9eqeVdTer+bAoX8nrUygTmgLd3v1hNr68fYtKNn3DXzlqXTR7BnN6VByoRl/8KlU8/3yjc6of6ZCtbCg4+5JVn+Qa+kA9RJTO9mg3+7+NPwMcTe+k/ZDcvb6HRfHX7n8iEPGAO7bN/8nlyB6eNLOd+ViiSDjCGDekxk111cvY+X6Mz/NhCS/LbHIKyTMOR7FsKAVIB+odUqs5duWiPHa50a3VY5IoS0SAszQXUbQ==;HKbJi0nFRE1g90yAmuCqrg=="
 ---
 

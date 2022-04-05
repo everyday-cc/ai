@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
@@ -23,6 +24,6 @@ images:
     height: 339
     isCached: true
 
-secured: "V62NDdq1Mw2WFq+46SCP0tvDqxpytQyVWCLBg82sacJg9rcgUo4XK4r29GKl34FwOmEma5HEh+ocTUlq1R9if96hYSte0Jmf5IDZ/Tdlhztd9Pt8+l6/1jpSo580jw5c7Qp9Bj0cxMeLFpeNf+fCk9CcOreOc04BIAVUBe6DEcJ9Tk74cS86rpCeu9EQEkyeKkLrozEeLJqAt0pBunYjaBEc28O4bGz1PhBmO83dol69JGTrRx9SlqBsrhbA+3f9YZH4Wn8LVoB6Ep/ouj3cLTbC9wKIjHie20xYE9RU0zn9Jlmgg2+D+gduRxh2DxN+NlXxYorifYJupM61kQhuJrBsBu0VLEp+nfJi4bfu9V4=;/CaDDFIvFChOYITbvFPYcg=="
+secured: "B8NpzJCGzGw8QAVwIhrWkJHn2SQsBP5cdKJrTsUVNej7zsb4GjdekUPQDKlmoEtneegkuqyB8R+B8xTcOrggIMDDvaAFLh8Rmqr9dINOKWWP7H2VgNFYGXPN0YL1sTMfVSKjWmM9t5IQkS7fQGX9yyhFzfFO6SioLUoFIMqx6GNhyt0nHBMHDlnMBtyU1OpbQAlc80W4Yacq4hJNdDHqv3biu79oRYkVMD2MDQEW0h3aBc4y3uQBDZc2d6B9a1FyIIbHQwOIQL6qvNdrlsz/h2ks6yZbUC77N3ROjrrwjWpreq+UTYkxwT/bCAi7lsLjgmSxyIzpelD27x9yj4TlVElXw1PHH7qwnRaiA/gLFeWcW4+WWQ4dVXJUU6Cy9BCH6w4N2/3iCyS5djsMTFgskKv5xUdAiyOCZk34m/DgUjLSzn/OBjf6J6wWKxYq1PQhxPr/zPbvtMdREV7bmqJNrvmijY6Rnqm8iq9ril/prcTtvKwo8X2uz+kiyLsCaAKeHJEQD/7Wye2w/5glRwvHAg==;Tc9ICe2PgwwqN+dVOx/zMA=="
 ---
 
