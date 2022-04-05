@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "MetaBank Makes Strategic Investment in Advantage Payment Services"
-    excerpt: "Advantage Payment Services (APS), the leader in financial data management for top FinTech payments organizations, has received a strategic investment from MetaBank®, N.A. This leading issuer is investing in the development of the next-generation of APS solutions that will up-level the industry standard for regulatory compliant dispute case management."
-    publishedDateTime: 2022-03-31T12:32:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/metabank-makes-strategic-investment-in-advantage-payment-services/article_552013d7-5409-5833-af8a-c8a82a8ffcf0.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "MetaBank makes strategic investment in Advantage Payment Services"
     excerpt: "Advantage Payment Services (APS), the leader in financial data management ... The next generation of automation leverages Artificial Intelligence and Machine Learning to further increase productivity and empower real-time risk management decisioning."
     publishedDateTime: 2022-03-31T18:12:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/03/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/03/in_brief_ai/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: theregister
@@ -42,6 +42,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "How did AI beat eight world champions at bridge?"
+    excerpt: "French AI startup NukkAI claimed on Twitter that in the following week, they would host a competition where the research firm would beat eight Bridge world champions. Bridge, unlike Chess or Go, is a more complicated game that involves cooperation and even covert signalling between players."
+    publishedDateTime: 2022-04-05T05:15:00Z
+    webUrl: "https://analyticsindiamag.com/how-did-ai-beat-eight-world-champions-at-bridge/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "+U6m3vt4dCWYz2C/LKzDZQzMnRivrU6+vdw2f6CI3j92lKw6Ok2ynQGvGXye12vOIsB5e6yrCDOXMsshx0Lsj4zRlvs9fB9J02l+tFdtXaY+S7f0klEK8yduWtr73LZJl79ZMSxCuKwRlcrA7SYEu5cgBjyRomeUHHifg7EjHpKtB5qTIGAe4wFpMgky/3rZXlTXWao+s18trYhSJt0mxKfpaLCLkjKA8B3cNcT1EO1JA6UZ1Fz/66MMuG1d8JA9NdY7xvqtWvgBrPX2DrZLqGJkD9qBV6ZzidxGd6vA7wBiXVGUzpN1oDfSmByziDungG9WqTRIteTIhsr1zi5SAQK0ixGkNwlhikqolC7DIRU=;jlZEy3GW7Knc6pBH20I5Nw=="
 ---

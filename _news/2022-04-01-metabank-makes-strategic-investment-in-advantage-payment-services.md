@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/92114/metabank-makes-strateg
 webUrl: "https://www.finextra.com/pressarticle/92114/metabank-makes-strategic-investment-in-advantage-payment-services"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MetaBank Makes Strategic Investment in Advantage Payment Services"
-    excerpt: "Advantage Payment Services (APS), the leader in financial data management for top FinTech payments organizations, has received a strategic investment from MetaBank®, N.A. This leading issuer is investing in the development of the next-generation of APS solutions that will up-level the industry standard for regulatory compliant dispute case management."
-    publishedDateTime: 2022-03-31T12:32:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/metabank-makes-strategic-investment-in-advantage-payment-services/article_552013d7-5409-5833-af8a-c8a82a8ffcf0.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "MetaBank Makes Investment in Advantage Payment Services"
     excerpt: "APS, the leader in financial data management for major Fintech payments organizations, has received a strategic investment from MetaBank."
     publishedDateTime: 2022-04-01T13:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/03/31/conversational-data-platform-taps
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Gupshup acquires Active.Ai, a conversational AI platform"
+    excerpt: "the conversational artificial intelligence (AI) platform used by banks and fintech firms. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with conversational ..."
+    publishedDateTime: 2022-04-05T05:47:00Z
+    webUrl: "https://gulfbusiness.com/gupshup-acquires-active-ai-a-conversational-ai-platform/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2022/04/GettyImages-1274394138.jpg"
+        width: 930
+        height: 485
+        isCached: true
   - title: "The Role of AI in Conversational Commerce"
     excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
     publishedDateTime: 2022-04-01T09:42:00Z

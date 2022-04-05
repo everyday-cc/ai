@@ -40,6 +40,20 @@ related:
         width: 900
         height: 599
         isCached: true
+  - title: "Gupshup acquires Active.Ai, a conversational AI platform"
+    excerpt: "the conversational artificial intelligence (AI) platform used by banks and fintech firms. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with conversational ..."
+    publishedDateTime: 2022-04-05T05:47:00Z
+    webUrl: "https://gulfbusiness.com/gupshup-acquires-active-ai-a-conversational-ai-platform/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2022/04/GettyImages-1274394138.jpg"
+        width: 930
+        height: 485
+        isCached: true
   - title: "Curious Thing Positively Impacts Public Safety, Scales Conversational AI Solutions and Connects Customers Globally Using the Vonage Communications Pla"
     excerpt: "Partnership enabled customer to establish intelligent conversations with 150,000 customers in 10 days at the start of the pandemicSINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation,"
     publishedDateTime: 2022-04-05T03:00:00Z

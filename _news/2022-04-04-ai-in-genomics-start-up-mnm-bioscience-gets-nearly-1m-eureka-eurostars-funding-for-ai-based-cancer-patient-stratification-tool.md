@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-04T16:32:00Z
 originalUrl: "https://www.galvnews.com/news_ap/business/article_cc1d65d7-ca83-574d-805f-2701900475a3.html"
 webUrl: "https://www.galvnews.com/news_ap/business/article_cc1d65d7-ca83-574d-805f-2701900475a3.html"
 type: article
-quality: 11
-heat: 11
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: galvnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 338
     isCached: true
 
-secured: "nee3Bu/BDy6u8s04y8IhV8DSVWnK+XHt3MoAgn7ULI9hI2ljlup8KUc4fQjgxYCj+KPfjjlEgoo5hezGOSrJNpFBnWbkc/bjVLDqxU21Hj80mM6EMdwpOXs/BdiJ68/nDJb4ughY6pxnkuL4j6n0w/EsLmJqZ8CZ/fzIDShFMi7e5gYkWRd+qCBzc6sAPk4svem7V8OR7nj90bt1nuA32/KdFPCAFwngCywf29h18vIrnFTHtVSk2hgPSAdU7SQ5Y7ylvJry73b4RYv2WouINRfsHjx3r/R2caxeeBgcEFp7hlH0HFNBU0aY4VcItua0UYkQmnZoWE5fe5XEpWvKlTcIczgqz0p82LRi+4igzxGTSUvF02k1HfGwB/UzT3nDGwOs0kwnLaiw1Fgp39escZbxHoK96c+Yawdu6DleNnIW6vg2f6RM8NpLms4jHPN8TGYlRqdev1CpImAGeJ7LbJ2efSaLTLnwfpLTof20I69l91Z44UMejinb67CpYb+DBPtNHnjzF0AMYf+2ijGj/w==;hYJJeL5C8DVygjZHKgKw8A=="
+secured: "Q31IcQIR/BHwYljz6tdz38jErqI/x+/HsEYvE+ADopRMKaCkygJh754+1jOp12BHfd9GEVWado0USlwYVWdzupxkcwAJ0dO2+VVCzIb/Bv9Fv7ALlt1zGpGW0xFW7C88hG+v0/GZr2+YKPicBOpVLeLsIV5oLLYn+9uHlgQWb0Hkms0P7A2TFKiWqbJnnos14q9MDTaNNoBul8nRc6x3NdnPM53r+ep9yePVZDmHoMZ4xO6+mqXAFciH+oh6Dot5mYaQcrGJw9bci3uOlnX6mL0rjkzYdsAMmUPLTApoMM7J5yJSajn4wBV7AY9aRJ9SOeUOR48iQb1Afrp1i6XNy2tIAqxjFfrVnibetSGJil8=;e8B76NtgSZfM5UEFhKYnIA=="
 ---
 

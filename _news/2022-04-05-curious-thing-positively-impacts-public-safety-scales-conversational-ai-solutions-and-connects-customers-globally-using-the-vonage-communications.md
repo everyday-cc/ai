@@ -40,6 +40,20 @@ related:
         width: 900
         height: 599
         isCached: true
+  - title: "Gupshup acquires Active.Ai, a conversational AI platform"
+    excerpt: "the conversational artificial intelligence (AI) platform used by banks and fintech firms. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with conversational ..."
+    publishedDateTime: 2022-04-05T05:47:00Z
+    webUrl: "https://gulfbusiness.com/gupshup-acquires-active-ai-a-conversational-ai-platform/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2022/04/GettyImages-1274394138.jpg"
+        width: 930
+        height: 485
+        isCached: true
   - title: "The Role of AI in Conversational Commerce"
     excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
     publishedDateTime: 2022-04-01T09:42:00Z
@@ -55,6 +69,6 @@ related:
         height: 600
         isCached: true
 
-secured: "KuD1d+DfXcMcMNkk8aOPLb0JNatp/k5oK4QmEcsEBwZpLYlPJRrrVtySpjmn2suKy7MCROV8gaNAwXq8OHOsxdBdBlHHgri87G4OWVY+IwZE6VjJZP3yOBoeGfywx/4e8QZOYKhkVzCAn+KsNKNEefswkT23DRdLHQ8MQZQRk4VLYzSx267YpMEIj3LSEhHyG1MWiZmXAYF56pRb2ryy115wKd6xtaMPrw5ez7po+15p0wnNB1AycOI0eXBnie39MnHLCkqcUWcQOrLcrcIbkjkarCQwwxojWK8D2pc6YhmAYoEB5JEhlJlTFTtPVwP0Vdf8KQCfa30i2o3cKWF6aOR+N9IAqGuZ8f5S5JuGsME=;5Pn8NcCRAdXW8QYg/9TbpA=="
+secured: "ZysZazl1RSZ3aA2mAer4Am2LYjKX3jf03+KF9DfmUZKpN4aE8XtY5zB2l6pZklX0da+C4zRsXpp3Vsy9rh20dlBKD/PvGVvUP1W+2fbEEDi6Jhvy50a2t7eVL4qtLiAVkfJJlIsye69ni8rEnI5yzSH//Q/f3qEiP9HwI4FNn/bev2yqcT8blbgmrp1t0u/PVrcwBryMrovozuwdHs0FMXIUF2qsz7xdbCyXow4cg2AhCZHTV3413uSDuYM4Yq9sDS/up4GoSb5wTZwPf5CRq0MOrO6pGdPZbXeuE9qPezeSkHNHsy9ZEk3ZTgSNk1w+1uJ9fgfeY0PaV05XoRX+F84DXZGIS2KRwzihRayBrj9dAE7UsXDRmvP1wC1L1IqAIhNZRgTh0beyyz0lEeISPwI38WKTVDE8/ezlF4FSEPgsyM7NoKVvWB2xaA6dBLQ8EuyTE7rT5lfGhINLtlRAdQarOhlOMJDXisQJPOS2CX+Yy5LFzXg2llvQuKBGuDNwYKe5rqr87QzG603yCRClZA==;uf6HUT1H2ox9UvBRu2mRUA=="
 ---
 

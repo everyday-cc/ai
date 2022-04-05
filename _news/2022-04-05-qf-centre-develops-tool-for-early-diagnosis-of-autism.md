@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Inside the Centre for Innovation and Collaboration"
-    excerpt: "It’s the “watercooler” conversations at Adelaide’s flagship tech, space and defence district that are credited with sparking partnerships that now reach across the world."
-    publishedDateTime: 2022-03-31T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/special-reports/inside-the-centre-for-innovation-and-collaboration/news-story/833377ae656d87241dfafd378e898bd3"
+  - title: "QF research center's work on early diagnosis of autism progressing"
+    excerpt: "Doha: Qatar Biomedical Research Institute (QBRI), part of Qatar Foundation s Hamad Bin Khalifa University (HBKU), signed an agreement with Argus"
+    publishedDateTime: 2022-04-05T05:15:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/05/04/2022/qf-research-centers-work-on-early-diagnosis-of-autism-progressing"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20180402_1522652097-194391.jpg?1635250003"
+        width: 960
+        height: 720
+        isCached: true
 
 secured: "pIiQg/EmMnGdw7A1ExOQfUkqWzcJu9wQWlIdX7m0f7U0OtUSIPMTtDbQiefMTOPae/wmroIHgcMc1Q/4hqlTO8dja/hO04AVI6uZYrPab6M6z+qx0qFof7rGjUqLX3+k5pMSGRnDvuxs5iXSc0WJzpHtgCJ4+XfFZPkZVPzBQ2ZJ4ZJ/PtQ+r49tq04ay3BwGkRb8iifGKmWqVdPGGDvptR1UBDqF8/fwsr7rJgaM8aPkgboqJXPk6kRiUiQESKuaW7LvmY/1Kmo2Fd1pubfeGAzhZQl94XoxXhSz3J7dNOlwyUbuqyyJLMCNPYyHbmYaB07Q0VTb6v9j3Dp/USSCWn+3rw4LmoWmCMGeY/b0flYdDGIFKAsnhIrA+VhDg0esnFKP3l05w82nnvjQGpemdR0VxZooiGwhr1RKGqPkrnAx+B6riN4SQa0qcxH+sGrErag4fKStH1+zKxxbjnZUUDsEaNdAwnFGZj5wf5gMQco56yKnYHU3P4DEZmy0bhtr28JjHNZhye43wpEVujAJQ==;IUB+SbaixOTEZm14oqDPjw=="
 ---

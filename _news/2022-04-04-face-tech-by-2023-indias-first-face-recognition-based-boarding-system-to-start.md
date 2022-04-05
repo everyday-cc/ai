@@ -37,6 +37,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Delhi, Kolkata, Bangalore And Four Other Airports To Have Facial Recognition System By March 2023"
+    excerpt: "The government on Monday (4 April) said that the Facial Recognition System (FRS) under the Digi Yatra initiative will implemented in a phased manner. \"The first phase is planned a"
+    publishedDateTime: 2022-04-05T04:59:00Z
+    webUrl: "https://swarajyamag.com/tech/delhi-kolkata-bangalore-and-four-other-airports-to-have-facial-recognition-system-by-march-2023"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 41
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2019-03%2F620ad963-7a27-474c-b371-8139916a89b7%2F1280px_Sculpture_of_hasta_mudras_at_Indira_Gandhi_International_Airport.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
     excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
     publishedDateTime: 2022-04-04T11:09:00Z
