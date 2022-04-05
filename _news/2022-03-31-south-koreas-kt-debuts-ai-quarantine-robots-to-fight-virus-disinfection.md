@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-ro
 webUrl: "https://www.econotimes.com/South-Koreas-KT-debuts-AI-quarantine-robots-to-fight-virus-disinfection-1630451"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 420
     isCached: true
-
-related:
-  - title: "South Korean company debuts disinfection robots"
-    excerpt: "and are produced by vendors including Bear Robotics. Their artificial intelligence software will operate on the 4G network infrastructure or above. \"KT aims to build a bridge between robot solution providers and those in need of the new robot service ..."
-    publishedDateTime: 2022-03-31T05:24:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/south-korean-company-debuts-disinfection-robots"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/03/31/AK_kt_310322.jpg?VersionId=1qKbTJn4IxKwFDfU2dpOuiGSXLefPtDV"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "QLjTuafCTjpx5YyZHQFLQzGBL12x8Z6ycszP2RwSSryb4gC8RsigSJ8apGEQqWuRJxdnJWskK9CdFgJfYI80KX9m5ZChqrydKQSPinLgld/lMCszzl3ZUi00GGKzQmRXTjePww/z3HfwEPKrIcXK0t94uPysHwPyVsuusDVJvRSngIIk3fCFWGhe0P2KZahmaC7UOyiKg1u+j5wvMxpGMwao9mrdtB/+CVJI2UNjYljSiji1QGHELupvIynbvTS75QVC5KumzuJp8efIXwfyZyFWigRYvstFwq64s/2M2QXYQCpg/P04e+l5VzPre3VP9+ufyPc1gR6g39uIe5bDQxyiat7GaAiNGnGYjYBcZxLM/D1grAzH/be3MHzF0kfcAYE6FxopePBjW4/Fxw26iUqBAg4bRUpETT6rwMuYBkWJKAKnypJPJhqWkeT4FV73iwwkmEVFNaP61h2ihC+ypYW3/0M6rVqM0WJ6QFwTrVIJ3OtzE3aGfNerOIXt2su/NiBywaS12byztN1/3tgo2A==;9NxP0MnNNuac5/HxkrsLnw=="
 ---

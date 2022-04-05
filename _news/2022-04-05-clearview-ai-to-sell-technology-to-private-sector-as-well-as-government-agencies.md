@@ -48,6 +48,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Clearview AI plans to offer face biometrics services to banks, other private businesses"
+    excerpt: "Clearview AI is planning a new business venture verifying people’s identity using facial recognition targeting banks and other private businesses."
+    publishedDateTime: 2022-04-04T22:40:00Z
+    webUrl: "https://www.biometricupdate.com/202204/clearview-ai-plans-to-offer-face-biometrics-services-to-banks-other-private-businesses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
+        width: 2048
+        height: 1298
+        isCached: true
   - title: "Face scanner Clearview AI aims to branch out beyond police"
     excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
     publishedDateTime: 2022-04-01T22:16:00Z

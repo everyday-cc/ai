@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/i/irobot-bri/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roomb_hmh1.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
+    width: 997
+    height: 1201
     isCached: true
 
-secured: "kd6zh2mKEuShQjSB5ZGFAehOnDkwT3iWZh+EycjcTdm4ZbPmWAN2rSvcghvqqabbog6cjiGd+ani6mH1w0HhBW8iQkxwQEEqIhxMmYZSAN8K9NNUsXeqxQpGQKNto6sWE16YEF478AXwqVSs8KGoS2a7djLrDJEOyG3AwEpr4c0eUBEALTLUJUtW7HC1w9sSYrJVUCOlIYvWSNE7Kl+u4WIq2cE/q8l7YVhCNaFcinJqsWUm5DVcQT0ll0k65hpWRNyDacNh5Z2dIOr4qi3pBKTzxeHAZ79smhBwCuktRjk1BORuqTcgydNYshDG0coiPXDK0cFC+OGMikIQFBAlZotVykSaWqCWudsKZKrmdLs=;nZm7XMKGY5vqd1hBno9sPg=="
+secured: "BvxHjtl1fr+PsJIeMmCHYGOS1XjI03gvn01aRVm8sazcgkFUnow4kbFz58hFo3gpGk7CfLXAMDzDoYzPnhp2iMCTU8cpCddjcZ0ipt1XmIz2XjYcjGmh2c7BD8yeTfgvysWbGv1V2OiIyDRfyzAJbECLypwQL0eIQlt8OzeTXkpijMj3gIAr+h85msLy4/H4j9AUizPLPydVNCuY5Ruktkv36OieGmKk/y3O35MUsuGySkdlMhnpNTxROco34lvuM9BbapZaU3haxG+VyheohELgyiODLM3MaruhqSS+64sF9FDf9sEYSm0sI5e2KGccOvMWGLoQiAAQFOl39ni/WYdbyySz5kDnj+VKJG6tdD8=;bBny9UjLpeiU5X2eqX/vAg=="
 ---
 

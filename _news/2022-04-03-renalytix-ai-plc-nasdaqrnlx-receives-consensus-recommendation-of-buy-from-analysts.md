@@ -58,15 +58,6 @@ related:
         width: 600
         height: 385
         isCached: true
-  - title: "Renalytix Reports Financial Results for Second Quarter of Fiscal Year 2022"
-    excerpt: "Renalytix plc (NASDAQ: RNLX) (LSE: RENX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,"
-    publishedDateTime: 2022-03-31T06:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8513474/renalytix-reports-financial-results-for-second-quarter-of-fiscal-year-2022"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "T+o7/o9F+eOFJ8vXXa/wXYDu7u+OoOJlqPebh09SGqJdMlUWyisEnM7AhPB+V/sic8nKQIPUK4BRhKDvdAu8JIQrOIqI7tI7P81Rm7/t3bRx7XxapdBCT6AEPsDD32YSJIdXFsbM5TBhMRtlTUp4QvOIX6A4M8/Et4NWepGPd9Lr/+0KV4DFxv19tL1r/eQRy+qR1ulJSHENLtPt2ev4Gl10ilgLwEpnGTSVtNVZIdVDc+kEMHDH7LWdUvIaUHGixI4ougrSB4NCRljaJZlZHb3yF76ytrv3nM30hinIF3mk7p1Toa+dbEQyCFO4YQ859qdBV/rP2kk07qHwjRXax7h1Bf+AaSw5W8UMCPfFcF1QjQtH0ZaagIwrgI5MAg+40GsIZf2Mp2CGLTN7L+vO+9YWAqnYqy3+Ko/KyyO2uEz+OX98vI+v3kWQ6hBWVtX9M53jfWA0HE3s4Tp/0VhRFglfz/dLZ95sLCu9zudvrB7W687q2MJCe0U31c7P1EYHJj1XboCWhhjflAj5Re7IbQ==;xLdvc4wRshcTE5ToCqGehg=="
 ---

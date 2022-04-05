@@ -7,8 +7,8 @@ originalUrl: "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-
 webUrl: "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Department of Health
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New UK robotics hub opens in West Cumbria"
+    excerpt: "A new UK facility has opened in Whitehaven, in Cumbria, as the first network of robotics and artificial intelligence collaboration hubs across the UK. The Whitehaven collaborative hub, opened to stakeholders on 31 March,"
+    publishedDateTime: 2022-04-04T22:53:00Z
+    webUrl: "https://www.neimagazine.com/news/newsnew-uk-robotics-hub-opens-in-west-cumbria-9599116"
+    type: article
+    provider:
+      name: Nuclear Engineering International
+      domain: neimagazine.com
+    quality: 54
+    images:
+      - url: "https://image.digitalinsightresearch.in/Uploads/ImageLibrary/Active/2017Q3/5.PMI/NEI_2022/RAICo_1.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Cumbria robotics facility is first hub aimed at upskilling N-plant decommissioning"
     excerpt: "A robotics centre has opened close to the Sellafield nuclear site in Cumbria to aid the skills needed in decommissioning such sites. Perched above Whitehaven harbour, the facility, known as RAIC01, is the first of a network of robotics and artificial intelligence hubs to open across the UK."
     publishedDateTime: 2022-04-01T11:05:00Z

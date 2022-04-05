@@ -770,11 +770,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2021/12/378636513c1849f7b81694294344adc7.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/sxsw/sxsw-facebook-whistleblower-frances-haugen-on-social-media-reform/amp/",
       "publishedDateTime": "2022-03-15T21:02:00-07:00",
       "updatedDateTime": null,
       "provider": {

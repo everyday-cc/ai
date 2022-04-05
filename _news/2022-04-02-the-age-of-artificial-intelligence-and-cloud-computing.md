@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "The Human Side of Artificial Intelligence"
+    excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
+    publishedDateTime: 2022-04-01T23:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2018/08/MachineLearningFeature-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
 
 secured: "+QmSq/fKYz2sWwvAIZGksr0Aoh5T0dBInrKYLPCYeutT3pqVeGrPoZ4pZoebmU/C1ZAoafKxVhH/oAs4ADRQI695QK4AiEw0BmQYq1XX6zjGDAHbCtmJuENzoAcmiiOjXTEGnRtp07NH6U3qTkXcVRYPbUMvaLJpUg3Z2wrI93gvqkq1p9zP3v2DwnN/t9wyXiRkQo5/alSptLqFsEgB5voGR4CYHIzqH0Ewf61iJrBLQcqAfAQ8AxuhPV6P85x73hM8wUscu5+ML6bndASzxNJTxeJCSiOXiFdxrhZjUQvMIcF0qK7PAFojbJaepjw47cywxzCOjBRM+Lb02RnmZUVl+sqBP3+vS0BAEjn3VWkjxcWfKxtFFdWSZ0pyaM7r5lxJ9IwKPs5sRHWKQeoaLkx3GgYBedW4PvN6qcgHbn0IXfZFBi51HWzcgjC4aUxOJbC02RJobMR6VfGbktvgOy1GDIyMy+EG5/cXBzvDa8PBQoT3ZXIYUqAFzxJC55ublew9UUh7Yh46shbJr+kYIw==;QMTVxVUNt5br/EnIH2wTdA=="
 ---

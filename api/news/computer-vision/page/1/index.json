@@ -144,7 +144,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Bucha-mass-graves-AFP-1K-01-600x337.jpg",
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-UNESCO-AFP-1K-01-600x337.jpg",
           "width": 600,
           "height": 337,
           "title": null,
@@ -214,6 +214,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16-19-in-santa-clara-california.md",
+      "title": "Embedded Vision Summit® Announces Conference Program for Edge AI and Computer Vision Innovators, May 16-19 in Santa Clara, California",
+      "excerpt": "The premier event for product creators incorporating computer vision and edge AI in products and applications returns—in person! SANTA CLARA, Calif., March 29, 2022 /PRNewswire/ -- The Edge AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_f8bc65fe-8b75-5902-8c88-c31471585f6d.html",
+      "originalUrl": "https://www.victoriaadvocate.com/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_f8bc65fe-8b75-5902-8c88-c31471585f6d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1327,59 +1361,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-poll-shows-americans-optimism-toward-ai-and-and-facial-recognition-but-brain-implants-not-so-much.md",
-      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition — But Brain Implants, Not So Much",
-      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an Artificial Intelligence system from Google Vision, performing Facial Recognition on a ... [+] photograph of a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
-          "width": 3421,
-          "height": 1924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "publishedDateTime": "2022-03-17T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

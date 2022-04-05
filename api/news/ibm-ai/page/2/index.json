@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-18-what-the-history-of-ai-tells-us-about-its-future.md",
+      "title": "What the history of AI tells us about its future",
+      "excerpt": "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "originalUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
+      "publishedDateTime": "2022-02-18T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-keep-diving-keep-changing-the-reason-why-i-dived-into-exawizards-after-working-on-numerous-ai-projects-at-ibm-and-line.md",
       "title": "Keep diving... Keep changing... The reason why I dived into ExaWizards after working on numerous AI projects at IBM and LINE",
       "excerpt": "The only company that really said, 'Let's do BrainTech' was ExaWizards.” This is a story that introduces the Wizards who work at ExaWizards.",
@@ -1368,49 +1413,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-remember-ibms-amazing-watson-ai-now-its-desperately-trying-to-sell-it-off.md",
-      "title": "Remember IBM’s Amazing Watson AI? Now It’s Desperately Trying to Sell It Off",
-      "excerpt": "IBM is putting up Watson Health for sale once again. The buyer could potentially affect millions of patients and government healthcare strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/neoscope/ibm-watson-ai-selling",
-      "originalUrl": "https://futurism.com/neoscope/ibm-watson-ai-selling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/01/ibm-ai-watson-selling-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/ibm-watson-ai-selling/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ibm-watson-ai-selling/amp",
-      "publishedDateTime": "2022-01-07T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

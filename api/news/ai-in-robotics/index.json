@@ -429,6 +429,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-31-new-robotics-hub-opens-in-west-cumbria.md",
+      "title": "New robotics hub opens in West Cumbria",
+      "excerpt": "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
+      "originalUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/146899/s960_RAICo_1_Soft_Opening_GOV1.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Department of Health",
+        "domain": "www.gov.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-legal-tech-artificial-intelligence-and-robotics-in-the-legal-space.md",
       "title": "Legal-Tech: Artificial Intelligence and Robotics in the Legal Space",
       "excerpt": "Legal technology services, artificial intelligence and robotics are on the rise and expected to be in even higher demand in the coming years",
@@ -1344,49 +1387,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-bear-robotics-raises-81m-in-series-b-funding.md",
-      "title": "Bear Robotics Raises $81M in Series B Funding",
-      "excerpt": "Bear Robotics, a Redwood City, CA-based provider of hospitality robotics and artificial intelligence solutions, raised $81M in Series B funding",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/03/bear-robotics-2.jpeg",
-          "width": 1250,
-          "height": 1875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
         "images": null,
         "publishers": null,
         "authors": null

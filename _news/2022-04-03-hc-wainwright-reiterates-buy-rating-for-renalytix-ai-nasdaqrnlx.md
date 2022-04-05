@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 600
         height: 385
         isCached: true
-  - title: "Renalytix Reports Financial Results for Second Quarter of Fiscal Year 2022"
-    excerpt: "Renalytix plc (NASDAQ: RNLX) (LSE: RENX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,"
-    publishedDateTime: 2022-03-31T06:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8513474/renalytix-reports-financial-results-for-second-quarter-of-fiscal-year-2022"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 2
 
 secured: "H6k9Qm0SkyMd2tr/lr4KtdGbBNcQVHtibneeS/5/bzjaNgDBR2j6afvCFOdb+pCnzON+9W2smhP+6YCA6ga9pkCwNpEC9EYulAl20ceF6xxPGIcehEQCHlPdXccHJ+5oR51Ga1JxECphji1SsVnwR/WRC1MWHntGBV6W8pS7lGzxiAMLLe5Qal9lBXmiN7WXGC9BYJazy5IaEOzTX+BGapvh3YhVsh731mRwoIy0g408zR8Ejetl04fH8ODmMSAAOo9jBVdYtC7SxxJKbwtHjCcO0PjaIBHWIgg7XtuE/gFhYj1Se5y5YGGunODOXpp3e7dO10fpz4UZgZLLiZBzcTBiedr7qrQSM4wgElD28UU=;EXJzKTnhpiWWWvet8eucIw=="
 ---

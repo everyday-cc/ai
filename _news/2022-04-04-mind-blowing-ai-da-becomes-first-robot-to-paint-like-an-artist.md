@@ -32,18 +32,20 @@ images:
 
 related:
   - title: "Nebula 41 launches AI powered art engine allowing anyone to become an artist"
-    excerpt: "The platform allows user to mint their created work on the Ethereum blockchain as an unchangeable and tamper-proof NFTLONDON, UK - 31 March, 2022 - Nebula"
+    excerpt: "The platform allows user to mint their created work on the Ethereum blockchain as an unchangeable and tamper-proof NFT LONDON, UK – 31 March, 2022 – Nebula 41, the free and open platform for artificia"
     publishedDateTime: 2022-03-31T23:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
+    webUrl: "https://www.benzinga.com/pressreleases/22/03/ab26414114/nebula-41-launches-ai-powered-art-engine-allowing-anyone-to-become-an-artist"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26414114"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26414114"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
     images:
-      - url: "https://www.abnewswire.com/uploads/f298cdad121b83f0bbbd8dc48439fd69.jpg"
-        width: 600
-        height: 277
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "dSuDRiWvO11NiY20svy8oZfxjBy14yG7VZxQQkdpvQ+ieHpOV/accARb7zt6HgSo19Hi0Hl8Qe5HmqNwaqCefEKKrSyJQv66wygBC8M6jDjQHkUs8/QwsNbx1FcfipzJHyR+x174cx0f1MxkzaP91WfJz+VWCqOh0riUQNjWD7+GpAfpYhpiEgKCkupD6KSbKtZ0jIBg09UrJHJF4J2IWdD7Ng6r0rST58alyWcgY5hQ95ojY3TGs+LACZXkX5h1aoFvfmTxy56UxFW2eAFb4Svp1sygK1SU+wKshvd/LG0GR8Bw8k7AwSAcMWqvJKXgVNfqO3962j6/hitthaT/6vd8XX39hmP+GLMZIvpSTyzr/ESChlxDGgQvdbssaDVOfhnVmHfb3gXbd777NvFZsfEVczYNfnet+YYwBupt3SbzHU8nGV++PkIAm1N2Eh7G47Dzc6RmpetXAF+hwXygCt6XjFPQ9f1hP7vAlcLSgEYtX/A+4tJLKaEpdFiYAMVfyWnnC7qYVQRE9UjOXJ9IVg==;ugpRa7BV9ywfqnC9YuAvcQ=="

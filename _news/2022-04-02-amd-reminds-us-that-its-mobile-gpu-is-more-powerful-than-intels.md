@@ -81,22 +81,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel Shows off the First Arc A-Series Desktop GPU; Slated to Release in Summer 2022"
-    excerpt: "Intel has revealed its first Intel Arc desktop GPU, along with its A-series Arc Gaming GPUs for laptops. Here are the details to know."
-    publishedDateTime: 2022-03-31T06:49:00Z
-    webUrl: "https://beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/"
-    ampWebUrl: "https://beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/intel-first-arc-a-series-desktop-gpu-release-summer-2022/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 52
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/03/Intel-Arc-desktop-GPU-feat..jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Intel teases first Arc desktop GPU"
     excerpt: "Intel Arc graphics include AI-enhanced XeSS upscaling, AI-accelerated media capabilities, Intel Deep Link technology, etc."
     publishedDateTime: 2022-03-31T08:20:00Z

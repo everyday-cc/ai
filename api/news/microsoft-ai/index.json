@@ -1089,6 +1089,41 @@
       ]
     },
     {
+      "path": "_news/2022-03-22-york-ie-auditoriaai-extends-finance-cognitive-automation-market-leadership-in-2022.md",
+      "title": "York IE: Auditoria.AI Extends Finance Cognitive Automation Market Leadership in 2022",
+      "excerpt": "today announced significant company growth at Shared Services and Outsourcing Week. This achievement includes greater than 200 percent customer growth, three new products for finance leaders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55569312-york-ie-auditoria-ai-extends-finance-cognitive-automation-market-leadership-in-2022-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55569312-york-ie-auditoria-ai-extends-finance-cognitive-automation-market-leadership-in-2022-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
       "title": "Pasqal quantum computers to become available on Azure Quantum this year",
       "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
@@ -1423,49 +1458,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
-      "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
-      "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
-      "originalUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/03/Microsoft-Edge.jpg",
-          "width": 1066,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thurrott",
-        "domain": "thurrott.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

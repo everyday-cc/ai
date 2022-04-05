@@ -19,35 +19,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AI-based advanced analytics is making credit, debit cards smarter"
-    excerpt: "Banking and fintech firms have been using artificial intelligence (AI) for the last few years to improve fraud detection on credit and debit cards, analyze patterns of defaulters, caution users from overspending and even help them determine their spendings."
-    publishedDateTime: 2022-04-03T16:49:00Z
-    webUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter-11649003838074.html"
-    ampWebUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://images.livemint.com/img/2022/04/03/600x338/analytics_1649004420915_1649004436324.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "How Huupe’s Innovative Smart Basketball Hoop uses Machine Learning and Advanced Analytics to Revolutionize How Basketball Enthusiasts Play the Game"
-    excerpt: "LONDON, UK / ACCESSWIRE / March 31, 2022 / As the National Basketball Association (NBA) increases its domestic and international reach, the league and the"
-    publishedDateTime: 2022-03-31T07:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-huupes-innovative-smart-basketball-hoop-uses-machine-learning-and-advanced-analytics-to-revolutionize-how-basketball-enthusiasts-play-the-game"
+  - title: "Artificial Intelligence as a Service Market Emerging Trends and Competitive Analysis During Forecast 2031"
+    excerpt: "The rising number of innovative start-up operations working within the domain of AI powered tools and services is one of the key factors driving the"
+    publishedDateTime: 2022-04-04T06:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 1
+    quality: 26
     images:
-      - url: "https://www.accesswire.com/users/newswire/images/695440/Paloma-Rossano.jpg"
-        width: 750
-        height: 494
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "umk18/srlP7EpZYRmMDvOVfr1cvNwPFstOBCoULUTd90Bu3bFDe7q+/yQcTlhqHvHq0FN4J4ovvunCfv1I1GH4daDXL7qR/tsx6Czhp67fgpQC3dZwYIIzRFrljqf445SSfCbmJCDZa0D/u+kFBbABR4q6iF8c8lQmNOTuit9Rbbpq25M/hmoj5a19lN1ZYEQMyMt5BIWAy6syXlG0NyhzkLB1ZnSDEZld2GeDhH9jyjJkGCfKnpQ2lBDqT2oFWhTE8l5meafSMrc8iS/trQQdApwOdXDFGazBAmV2hVcx+dwpekb6FE2MaYcfGfWhhVhOGTpVWLfL79CLXGvmp0VHnp8xYlf7zqfl1HiOGEKb0=;ATPcfyQYfKz39p/4EDV9BA=="

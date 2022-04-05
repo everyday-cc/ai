@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/aibased-advanced-analytics-is-ma
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/aibased-advanced-analytics-is-making-credit-debit-cards-smarter/amp-11649003838074.html"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -28,28 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
-    excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
-    publishedDateTime: 2022-04-01T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
+  - title: "Startup ClickUp launches Whiteboard to develop WFH analytics"
+    excerpt: "ClickUp developers are working on an AI/ML-based feature that would be valuable for time management and work-from-anywhere collaboration."
+    publishedDateTime: 2022-04-04T23:40:00Z
+    webUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/"
+    ampWebUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 8
-  - title: "How Huupe’s Innovative Smart Basketball Hoop uses Machine Learning and Advanced Analytics to Revolutionize How Basketball Enthusiasts Play the Game"
-    excerpt: "LONDON, UK / ACCESSWIRE / March 31, 2022 / As the National Basketball Association (NBA) increases its domestic and international reach, the league and the"
-    publishedDateTime: 2022-03-31T07:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-huupes-innovative-smart-basketball-hoop-uses-machine-learning-and-advanced-analytics-to-revolutionize-how-basketball-enthusiasts-play-the-game"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
     images:
-      - url: "https://www.accesswire.com/users/newswire/images/695440/Paloma-Rossano.jpg"
-        width: 750
-        height: 494
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1286802156-e1643643094506.jpg?w=1200&strip=all"
+        width: 1200
+        height: 610
         isCached: true
 
 secured: "6YbLAt63Is7Enq2Qpdnxese73qyn2DqIFVsyqli0kO3HCbOLdEPYKsE02qC4pBBXVS9E2YE6ybru1bOY4ZaHdrRZWM/z4s87vpdScEBHE9K8nmezA0wWui0w0Uv+NVDjP6Y8hmfMmicnNUrXGC/ni3Rfk9yQ43A1O16+1dz4T9wGjsSf7Z050Epu8IEadqeh75G32u/xQrn1GufErp3WIWd5NbhtRltu3YvYqW8re6UbsFNBM/qyximAReNUeSkcwSTcKnKMt4Joi5sn9TFCnKI+BwKZL84YOZHFZlmahe++sYmcEi4AfzX+PKH7Ssm8aYxBumj7jARDbQXHsHJlTu/+X39+0g2NY60CDFVSrubaK6ynDLNSQrmxbUHl4srlzQNOUOzthCq9O49aTMdLtaPhW3wdiGkMHWO9IUtPrIjOgAN3nCLEVJNnwOoR++XzLEkWVlmN1Nnu3U8DEssad/D2qTCeUKOr3qf4UFpLygxUctlvdx+u8xS1mUOw0J3VU2hYTSllb+7l6IBKqSN4MA==;tGaQ1uYJdED+gAyvayIBhQ=="

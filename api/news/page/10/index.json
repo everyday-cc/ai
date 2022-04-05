@@ -2,6 +2,176 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-24-plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence-center-award.md",
+      "title": "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD",
+      "excerpt": "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-cagr-of-227-cleaning-robot-market-size-to-hit-usd-3494-billion-in-2028-says-brandessence-market-research.md",
+      "title": "CAGR of 22.7%, Cleaning Robot Market Size to hit USD 34.94 Billion in 2028, Says Brandessence Market Research",
+      "excerpt": "The Cleaning Robot Market Value is expected to record a valuation of USD 34.94 Billion by 2028, Registering to Accelerate at a 22.7% CAGR, According to the most recent study by Brandessence Market Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-ai-can-make-us-more-human-heres-how.md",
+      "title": "AI Can Make Us More Human: Here’s How",
+      "excerpt": "Even though it may sound counterintuitive, when used responsibly, AI has the potential to help organizations get more personal and do better for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b26993128a10083ba50ab/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
+      "publishedDateTime": "2022-03-24T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi.md",
+      "title": "Israel’s OurCrowd to open global AI innovation and research center in Abu Dhabi",
+      "excerpt": "Investment firm to launch financial service-focused operation in Emirati capital; Israel-UAE ties warm but flow of investments slower than expected, says company official",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/",
+      "originalUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/02/iStock-1299129724-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi/amp/",
+      "publishedDateTime": "2022-03-24T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
       "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
       "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
@@ -237,8 +407,8 @@
       "title": "How To Eliminate Ethical Bias From Machine Learning And Data Analytics",
       "excerpt": "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em",
       "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "originalUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
+      "webUrl": "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
+      "originalUrl": "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -255,8 +425,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
+      "ampWebUrl": "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
       "publishedDateTime": "2022-03-24T02:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1000,196 +1170,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cisco-upgrades-target-kubernetes-cloud-and-aiml.md",
-      "title": "Cisco upgrades target Kubernetes, cloud, and AI/ML",
-      "excerpt": "Cisco has added new features to its Intersight cloud management system, UCS X-Series server, and HyperFlex hyperconverged system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "originalUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/08/03/istock-1254718662-100908660-large-100921213-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3654492/cisco-upgrades-target-kubernetes-cloud-and-aiml.amp.html",
-      "publishedDateTime": "2022-03-23T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office.md",
-      "title": "Nvidia’s Clara Holoscan MGX means to bring high-powered AI to the doctor’s office",
-      "excerpt": "Nvidia, a company best known for its high-powered graphic processing units (GPUs) debuted a platform for the development of AI-powered medical devices. The device, called Clara Holoscan MGX, provides computing power allowing medical sensors to process multiple data streams in parallel,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
-      "originalUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/nvidia-clara-holoscan-mgx-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/nvidias-clara-holoscan-mgx-means-to-bring-high-powered-ai-to-the-doctors-office/amp/",
-      "publishedDateTime": "2022-03-23T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
-      "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
-      "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
-      "originalUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbclosangeles.com/2019/09/Silent_Heart_Attacks_55sec_365_large_448x336.jpg?quality=85&strip=all&fit=448%2C336",
-          "width": 448,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
-      "cdnAmpWebUrl": "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/cedars-sinai-artificial-intelligence-tool-predict-heart-attacks/2854582/?amp",
-      "publishedDateTime": "2022-03-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Los Angeles",
-        "domain": "nbclosangeles.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
-      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
-      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
