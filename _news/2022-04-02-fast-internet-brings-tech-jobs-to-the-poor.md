@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Fast internet brings tech jobs to Nairobi's poor neighbourhoods"
-    excerpt: "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ..."
-    publishedDateTime: 2022-03-31T09:45:00Z
-    webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
+    excerpt: "Daniel Nzoma's face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi's crowded Pipeline ..."
+    publishedDateTime: 2022-03-31T10:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
+    ampWebUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "/OG8/vQoaPtTjh1XuoG8nIxA3RhbJbOp2JTt0TzZ0i7mWPKZkmiXEEbR6kYIeKkE3ZybJz/oXltz27HkP+D/HVgdzNZ7lcbMEyj5mFGUeZ02O/eXmox6B0YD/Mwx3ZDOZgBqWHUm6zW0W8EnKRagEMUT2XLiKxuXzMZ/rRAWZl7cA0VGBSj/mn+P1fS3f4kn0GiPVKs+CUepj1SSeAGGGgX3aE5XaCQFVGfzaF9JYW1b14K6GRWLLOW6IiMkL1mp+GkLysK1XcfCkoStyGIXjBITD97cf6JGbh6Fa9JGSCdYOV7MGL37ujfgIotKWiTKZApX/eNsqui76eW129xMHb5vWUoU7EY2N++dVM2Uzcdsr2SeXNGcjJU5dgzq7Brpw8cmtmpxF9eELLLA/dy8ayLTEBCfwQK9tCejo6zchbh1JmLmvuJUyE2ZDLS1iFa8eK5qHBhQqqnCiLSpJ3gpyg2v74IzSc2JAb0gIssYzVZUZN/rUJLhQMjrDw2C7/v7wo6q1gv/3M3HGgGiJGUFbw==;nYbCBLg/F+B+Lmt/n0koKw=="
 ---

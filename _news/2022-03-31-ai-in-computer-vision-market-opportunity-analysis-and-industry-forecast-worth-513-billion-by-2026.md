@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026"
-excerpt: "[246 Pages Report] AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR of 26.3% from 2021 to 2026. The report “AI in ..."
-publishedDateTime: 2022-03-30T23:11:00Z
+excerpt: "\"AI in Computer Vision Market\" AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR"
+publishedDateTime: 2022-03-30T23:10:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026"
 type: article
@@ -12,15 +12,15 @@ provider:
   domain: digitaljournal.com
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-UNESCO-AFP-1K-01-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "QvBHeMINqGFwnp4E64IJFMSpmd86C8IIusINSocUFsgbr1yHF4+oy2qfGJy06+xcuhcIFMO0ff9OyN3S4AdjeBm1EkiJlqBB1vF83rb5LCVmzK2N5ef8EI3Esx0kb/BaJjc88HmoHRxs8ux6rEDw/l3RdspYOJkxjNuqS2gCMZTIEs/VQaT9I5z3ulJicOs/nWt9CwPmFNUxdJyU9+Fkjn2tT5JTKq/Hylex02bY1bUWZS9crQV3+A6vzmgD3f6d+CFlKjPrPJiQYNqSD/usZe8SD1fYTfiWi6beSHIg7bthlSAwiw/bTdas2XRDTBCh217qwI6u9aWJrwcDdBeliQdF2uwyCsLENmn83shE7mw=;mV8lV82lMgE+/cznawnVwA=="
+secured: "6zGmZMyPhps539EbB6Fdf+qrCXd4H1U5LgYAIOhv15WzES/0ppGTSWFGuh0vU+NknHJVTBnKdZArMh+1Y8BgTMaYAq928KJfR6O/jrnKiXzyc8z5Vtrz0ZWQbxIYkLfUzCvQO+17BQRrxmXlTv14CxFcRP4ITA8JtLf+lQyh6JYqtiwezSHeBREQ38Nl2txSMi9uQsNyEHr1VSoN0lTbffEOAPGqcwW2jJSakC1pGHeG5oNtk6VNtErPclZ+ScckOvjmvOwA5pF1uINO9HNVUlJDe00JK++zsjPg9zWwpYo5AybQoDqUErmJHiKsGWGGhiOpWZvP8oOVIFlg97R+EWZgU359abHJb0HqZHPyKkQ=;iUen5rJz/nIcRi4tq47mMg=="
 ---
 

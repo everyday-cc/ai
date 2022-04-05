@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

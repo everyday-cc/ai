@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/02/elevating-human-machine-relations
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

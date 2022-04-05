@@ -51,6 +51,20 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 59
+  - title: "Microsoft deploys and tests AI models in space aboard the ISS"
+    excerpt: "Microsoft Corp. today revealed how it has been working with Hewlett Packard Enterprise Co. and the National Aeronautics and Space Administration to develop and test what they say are the first artificial intelligence models in orbit aboard the International Space Station."
+    publishedDateTime: 2022-04-05T00:12:00Z
+    webUrl: "https://siliconangle.com/2022/04/04/microsoft-deploys-tests-ai-models-space-aboard-iss/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Space-Symposium-main-art_frame_394.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Intel Unveils First AI Incubator Lab"
     excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
     publishedDateTime: 2022-04-03T15:39:00Z

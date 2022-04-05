@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecitizen.co.tz/tanzania/news/national/will-east-africa
 cdnAmpWebUrl: "https://www-thecitizen-co-tz.cdn.ampproject.org/c/s/www.thecitizen.co.tz/tanzania/news/national/will-east-africa-turn-to-ai-for-weather-forecasts--3769798?view=htmlamp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1080
     height: 720
     isCached: true
+
+related:
+  - title: "Swedish AI Fund Looks for African Start-ups to Support"
+    excerpt: "is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa, primarily at pre-seed stage, that have developed solutions and services leveraging AI, adding that selected ..."
+    publishedDateTime: 2022-04-04T23:03:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/swedish-ai-fund-looks-for-african-start-ups-to-support/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 37
+    images:
+      - url: "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/02/AI-image.jpg"
+        width: 608
+        height: 327
+        isCached: true
 
 secured: "tlaPEi1onoUjyPX8XVc2Lg0xKEDiC55KqBxWCu4ToKj1GrdKitgOi3kiA4bo7xHEGe0ECnUcZWK5mftVkdfiZibqxw5bfYP76mjcIieAPSTmCaOx6vHYM3i/XZ/D0cpMqPJMiJ2osUWibuhH3B1SJmQ+8GpMThluMwY8n7EiqCtY1Ms7amxP49L5kOHliufbnKrdt5OtRRNTMkNxMvr4dBiNWnh8rwGDzK0LMSsgZ16fiPZ3Ho0jROcRnbKVsYCXS2iR35BBXTuqHe998oa8Ug2M1y9ANHNrg3JNaHfgrV5l6YDvwMvzFTnCVbIaWSpEF8HMPUveFjHuvrBZPUyF0uUzmIn45Zw825w0s5KCaHE=;gdXN9NO7vny/KFmwXAWqmg=="
 ---

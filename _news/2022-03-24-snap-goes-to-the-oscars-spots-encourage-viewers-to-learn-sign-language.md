@@ -3,8 +3,8 @@ category: news
 title: "Snap Goes To The Oscars, Spots Encourage Viewers To Learn Sign Language"
 excerpt: "Snap's first Oscars TV spots honor deaf and hard-of-hearing communities, and feature Snapchat's AR fingerspelling Lenses, which encourage users to learn American Sign Language directly in the app. This year,"
 publishedDateTime: 2022-03-24T04:00:00Z
-originalUrl: "https://www.mediapost.com/publications/article/372395/snap-goes-to-the-oscars-spots-encourage-viewers-t.html"
-webUrl: "https://www.mediapost.com/publications/article/372395/snap-goes-to-the-oscars-spots-encourage-viewers-t.html"
+originalUrl: "https://www.mediapost.com/publications/article/372395/snap-goes-to-the-oscars-encourages-viewers-to-lea.html"
+webUrl: "https://www.mediapost.com/publications/article/372395/snap-goes-to-the-oscars-encourages-viewers-to-lea.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 375
     isCached: true
 
-secured: "EcdZMjoB7+Ot4N+q10FnHLKOEbxkvQ7OkNcGR2zYmpmXnRs3NVDkErygPyGpq/uLz5LoLGY7LdL/pyCmTXWlRjSQ2TJUK4pUF5EXBINOgq5zYyDb6GYZpYa1GFtyLHNTEMscwU7rE54Ys3EyXW2uCkUkwAXZtyp9sn15VJqtmTn+FgsDHkRwPpniyhJ2MSjPNqZ2mXcfLTyZrCBVrHnbXf8Aqr/7gBK5ucemkpFOChizNuur/EpG8SoBGtfht7WwR0qqBYP6+0+b6tCp9VQjvv62Y4ahFIQpnCO1oKAnzyC/VkSThI8aMzbvO7hQWYPdvaoDhf9xbcLxJahPZd21F2B1jG1T7N1BOh7C9qeS+4UJsx7K2VcbcMGFcwPfVns35+h+Yns0D4n8vwEdWOoHZPNfJNZuvr4ecJ3Zljw9ghibsFZR5SUwDQHDK+i4vU2wiNzNR7OvxNyIfvRRExBqCP/jcEBNmjnwVTkApH0E0xn1Qbh4Laqu+bpvJ9aoEq0uMIXuX0ZflBq4Y4m7T2w/2g==;CPUr7smoP5NzgnZfp4k89Q=="
+secured: "6IKFAZMyD+MNHVfUuma63k+JdoAvUiZ+26IKsMbnz9vEYIUsESQ0XP1WU34zoX9kAYFbPZgYpshXAHmiwm0Hwag0wXi6LCRb2K3PTOEU4hML5s3XFLUTblr1nofmECqCz9pPjvOJiLLcw4E4tJZNIXVL3aWBBNFnINeyqtrIzAxYIUiz3ok8BBvHiSRDj8WVjl1Nn4PPOJjbV8V4OcDYha+tytQkHHtXNcTbkS/JiHgluZ1MDV2eDDPMqVHiox28biuEqBfoiXB5ePe6wS2JbE5nlQKUZSKNC6kSUmq6W66+9xjfmv3eRZJTmApnY9cxzfgpg0PHP6lIXswFjrS4oLGHHnXhYLygWkmvxjb6JbM=;aRje6z21xqDBPu3wxrZWpQ=="
 ---
 

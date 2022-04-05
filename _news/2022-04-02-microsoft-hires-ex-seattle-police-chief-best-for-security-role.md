@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-04-01/microsoft-hires
 webUrl: "https://www.bloomberg.com/news/articles/2022-04-01/microsoft-hires-former-seattle-police-chief-carmen-best-as-security-executive"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Translator launches Zulu"
-    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator. This enables text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services,"
-    publishedDateTime: 2022-03-31T07:41:00Z
-    webUrl: "https://mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/439476-microsoft-translator-launches-zulu.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "Microsoft launches Zulu translations"
     excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
     publishedDateTime: 2022-03-31T09:22:00Z

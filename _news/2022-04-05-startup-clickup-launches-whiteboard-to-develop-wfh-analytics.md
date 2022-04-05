@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 338
         isCached: true
 
-secured: "OEJoxHSAU7It83YTdtHhiMTZivL4XEavoUPKJRtqO2c4HR3ZAUN2geaH+Wj1lzGIi4vL3YK43OzZGX+nILeKPz01nnGNS1Y+c2GmF0TMsTEEbjp09e1czj8j9LUedAAWzTh5wVl/B7GrwP76b1c6EiwSIBGwEaJOLAJ6BaBx0MgxQ5xLr5el7ibZlsVdISD10pmGQP4JrMAEFQL1E1hFHzGSDFFC/M7chxKBhOePfs5Q67WzGyCWeeGHsOrD6m5l0nZ9Ap69GIsB7++zfQLGfjLedo+WvnxQPD+cv2MlFgucujL+2hfCzn6FreAeXKkPE0FWHaPXfFbI2TFJbilRDnbxbwDpFMicjh7RBCYsJOI=;SmF4S6R7KKEMZfS9biCSSg=="
+secured: "dEftf3qq8mlJXiGUzJdzMwZMdYnnGKkyEmX+1zIdhM8Fb0XAgSlkaj4U+iUwun/CQL49FPJxCmpxX3+2QEbHYwSuPXuUJzTz/hFRq7CSMra2AsuI8b0hQSj0pqNHJdWwUmrMNmRkKkqIi7nTHPj8dQmtMeSEQ+nxgXdeaDXhFUzRj3ZaUype9EeDqAV1Dv2vNW0VCWX6LraUvKphOEavhRgv+Wg0u/ePyUWq4sGxgxmVu09aE/4+vTusPkd4YP15IzFEY4O4jd9PS3mMVhM+wRR5AQY2TDM2ctPoNUQCVl9SDpZFdTbBr4a7HDwHZsi+QfSFzwJ1z90y+HDPoBmG/H5+g8F89CKwcC3Y5PvAZh1LKBX8ep9cSITquxSEFdk5EhwcAGBkFx4oxp1bU7jKBPHahN949j/0LDfv5UAGojAn5AvIPLmOsVEZ79MhcmA2+sMYliEPibFsP3RVwN1VHoozdFVpr8HacvODRxliGjA9i3xySvrVFuA651H9hE78uoFPNvyN79o38uEUFT47vw==;tsA3s2nwT0r8xT7kApoT2Q=="
 ---
 
