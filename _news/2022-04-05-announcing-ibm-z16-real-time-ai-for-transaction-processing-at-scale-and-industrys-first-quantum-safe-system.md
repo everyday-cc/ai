@@ -6,9 +6,6 @@ publishedDateTime: 2022-04-05T04:37:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industry-s-first-quantum-safe-system-1031331603"
 webUrl: "https://markets.businessinsider.com/news/stocks/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industry-s-first-quantum-safe-system-1031331603"
 type: article
-quality: 50
-heat: -1
-published: false
 
 provider:
   name: Business Insider
@@ -19,63 +16,8 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1779048/IBM_z16.jpg"
-    width: 400
-    height: 296
-    isCached: true
-
-related:
-  - title: "IBM’s z16 mainframe boasts on-chip AI acceleration"
-    excerpt: "Slated to be available May 31, 2022, the IBM z16 will offer CIOs a way to deploy AI inferencing in the same secure environment, and at the same speed, as their transaction processing. According to IBM’s internal benchmarking, with the on-chip integrated ..."
-    publishedDateTime: 2022-04-05T05:01:00Z
-    webUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html"
-    ampWebUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/04/IBM-z16.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 757
-        isCached: true
-  - title: "IBM z16: A mainframe designed for AI, hybrid cloud, security and open source"
-    excerpt: "IBM says its latest mainframe will support AI analytics at scale and security to withstand expected quantum attacks."
-    publishedDateTime: 2022-04-05T04:01:00Z
-    webUrl: "https://www.networkworld.com/article/3655975/ibm-z16-a-mainframe-designed-for-ai-hybrid-cloud-security-and-open-source.html"
-    ampWebUrl: "https://www.networkworld.com/article/3655975/ibm-z16-a-mainframe-designed-for-ai-hybrid-cloud-security-and-open-source.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3655975/ibm-z16-a-mainframe-designed-for-ai-hybrid-cloud-security-and-open-source.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 73
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/04/ibm-z16-100923574-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 888
-        isCached: true
-  - title: "IBM z16 mainframe announced, with cryptography and real-time AI"
-    excerpt: "IBM has today announced its next generation of mainframe, z16, to mitigate rising fraud and increase cyber resiliency"
-    publishedDateTime: 2022-04-05T05:42:00Z
-    webUrl: "https://www.information-age.com/ibm-z16-mainframe-announced-with-cryptography-real-time-ai-123499119/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/04/ibm-z16-mainframe-released-with-cryptography-real-time-ai-e1649135015327.jpg.optimal.jpg"
-        width: 913
-        height: 618
-        isCached: true
-
-secured: "qiD6DBAdIVov0PDq/Cag5zWCmDOj8Ad+W072MpzswL3Xcf95hYbghG+ofYahYKMxvlVn/QivwyIMHKgvGUS0wU6kUIEDPJhVbX5zwW35oI2X2QrJft52txlp36/LanPHd4QbTZvk1UuJYdR0m5cahxShrfThn2BBmc3FQvMYsmNLUQs9V7L6XBj4x3xnozLCBiIH9wGVMEmF/ycoxtJ9q1Ggi19NkMdR14TsGe+Cl1F8EQmfuKq+t0an8bB3NevXjGBTah92LJjuG6gK35qMktzW/cDzr0UuTfGCPcMbaGoZGMh2yyNPUapR3KZOisZ9e0+E38xwWWGwx+uI0e/gz5ACPkL5wnkyfOboSbFnTstJWVVWW7xCsxeIRv+93M0FvTxqZHjNlHy5snMgCObK1delcz0dtQMaJfUoR1TazyC/iXS4u56w1ULOyp9g4mCiQl7MFx0lBnOYdfgzQ6EeYdNHM8+YpSQNKnr3EliN4s931v9lVDfny/FVTtuECDpqrzMJBKL5x2LCxpJcY+rpWA==;2cqSGgVblFmuqHj0ort/iA=="
+secured: "HPjkhTLN0Bsss8HLF09M2Q7mIVwwcCLjgNrKe50n+xBtMt/pC6R7ThJHilUBRTZrORxDNXveV6Rc15IpQ6XD3p2u3KI8dmG8Ao/ad3ltNo3OQwvFJFdZmbEZxcXDUhbSyuMzPzGP6twbF6Zpln6hcGN848L7LEmrLpUKba7k1Ja4xHacxtkg/Cey9ZLSUCgbeD5DP7i228vBtePfZjuHdnPuMToSCa6WL2h6/2M+wlM7nNlfFNsskx0Dmv+iE1W4Xat9jMLm3T3t7ReBCVMHEZPNIAe4GZX5QboB9SX0B4myPlHUETXK7T2pFTIOZRm4ZWUGJvZvJUjcXbYRjZypslS89U3Ywihx6cW0AYS0Orq3w3xlBbdKPQJzvoXATFZzd9CFfHv6YtMP5I0jBSkgWJw4G3HAI9tAd6p5M8JWFRq0dZnf1HeddTOD7I0aTG1tIIY5ID79NNpxO7yE4nUPCPIp1JLSdV7X3LTscKDL3BnAfGfLTkbhaDzyiGSbPmreCaONxUMPUdUXr/WAoTE+lw==;gtDNQO0qtHOrJw8eUPxr7Q=="
 ---
 

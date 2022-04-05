@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://www.extremetech.com/wp-content/uploads/2022/04/Nvidia-Jetson-AGX-Orin-640x354.jpg"

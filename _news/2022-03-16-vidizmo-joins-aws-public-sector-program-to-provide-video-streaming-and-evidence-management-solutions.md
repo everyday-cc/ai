@@ -1,24 +1,20 @@
 ---
 category: news
 title: "VIDIZMO Joins AWS Public Sector Program to Provide Video Streaming and Evidence Management Solutions"
-excerpt: "Amazon CloudFront, AWS Rekognition, and AWS Transcribe. \"To simplify things, VIDIZMO offers organizations a secure no-code YouTube-like web application for their video content,\" said Nadeem Khan ..."
-publishedDateTime: 2022-03-16T16:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869"
-webUrl: "https://markets.businessinsider.com/news/stocks/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutions-1031285869"
+excerpt: "Public Sector Program (PSP) to provide its video content management and digital evidence management systems to government,"
+publishedDateTime: 2022-03-16T15:23:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26167948/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutio"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n26167948/vidizmo-joins-aws-public-sector-program-to-provide-video-streaming-and-evidence-management-solutio"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "VsaJIkDomat+oq1ifblex1S4mhbD+WVXEnF6wd9eZ5+nnENdlmjjtxkKZmSQGUgJ1wsf/fYmX7wXqK891xtvVN2uk7QfK+s2cHhq7jn1qLKt+PvmUC8qElVxOzkhugqU5Y2Ox91EGPpzhyDPw3ztAKyVMjy9Lu8b4zHYC7fEmj+lyXEsmaWYx+ANqJyi5NqWKNs7g/gZdDRzaXcCzdirqbcMXY8nFVKNn5D937aN3cBXdZRxQTia8gTD4IKdsxm7BDQGjTsET3S/+PGEswiiFlMf2C1GYtVl4FoSkJRc5VkIsB1WNHpOxZlSGzZrE2LArMFhhsrTuiMYjzAD5mPbhMMZV3wJnK1xf6GK6BwMf78=;LU1kcyW7tCVWF8O2qVKB6Q=="
+secured: "RvyBk/gv5NEDSeLkYsxBAhcUGZqA5IDECH0BFA++kE4DxujK1JX/a327P2e384yHXz09IjNpTj9DSsDT6jGINmvrcvUTNrqXOXtp+//nykbbi/c79Xoe9D/Sfh1+ChRoL9nzaoX/wOb7i9qxwNxmX5RvLnnoQQBRSXZgJ+cxF3XufWJA5oCp2YYZBa3Bzuex+ekfEvgQ8jMVIQaYpuaZ1XfnwnJlAPKgG2bhntKMCZxlH7xz2hiXgji5vYwA345j0tITQBOl/Dr9nwktbmUGN+vjuR4LQIAXBMoOeMgJNpI5uxzfWBNQpiY75LEKuJmzHUta0dFYY19JW3B2ACdJ9Xd54TOGOe8S8KBo8Owkjt6mZQjZSc2WzP2HrDy1s7YZ3T8xIMhW3f2UIEbRjnsKh+XHd/r5A3oj4NRdO+XcFTTW03UnUrEshkDFQLroRta6Gck6hzJbf0qOWdVixnsCPkjrhHJbLzTAkRt5avTdmmInFUtEv80TzkByI1UhtvQWdDEjMOrhe7VfHPrbVATMfQ==;I4uh8pbxmFdVGGBbIkxlmg=="
 ---
 

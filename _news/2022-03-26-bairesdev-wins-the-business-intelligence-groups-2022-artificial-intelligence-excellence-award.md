@@ -14,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "i/f26P+zs+5B95MY+BH30X/2GaYX/IHneG9ssfgb8NSkmuaL/HX/Wz3DmJbN9P/ElsigyJvJ4Ix7wVo+fqZ2dqtNA33Gxuc2v8JXlSPgt9GEgPSoJykod0W1ySe+0TAkVrUGmjT+5MZTcs8SZztBqKN/vIKWr05Zki2aiDC+GQsGBkmt4SGMaaQWPu7zStmPSLMqROmkBmnGTjGCFRTIc/OX+XylhhMy/Ze7kJ9YfjU8+PW+8yWLmFx8/ss3lFu/Uk11lnsbIdxSGEVFp/jYTWtZCElMgavqf8XKsj6d8XvDBonpS22/wFkIb/oa2lMR7BS5iB+CF+TZPk2ogwwb8Jad4sS3XzvPuXYnTR6EeXE=;OaYEuaNdNC5xfG9xcjQu4Q=="
+secured: "xvjL4fmPMbkaQLJ6azbNHnjx7yY4BUo2rgL6U40pf/NLfsUMkLG+KKlxBD7VBUrDIHBgNsgjrn/7EiRzrckSbld0aZAT9hV4eQcJ2ZU5QPphanH3YNLLPaUFzV9gIwb3pfwvHBsyWh9D+Pu43W2GuaoFYpz9vHRUOT5zVFtkD8JsDeUwLS2XZqetrBQsY6cTy+3MJWTsjHGk1aKiGmXq8p9vQMtHB2wJYKz+TCRm03Uugh+ACMtoB96Hxvxi470QuYVzU92FKpegVikrhs3cVOPx0brOvKKfRyKWvN7k6A9rBFGJeyAipPjwqRQdBhLQJcFoie2EKPCf6bLGL2ZXezXFBsh2K9ZC5zzm0q+KFc4=;tMvH0YefLLWCKLlw5ZpxFg=="
 ---
 

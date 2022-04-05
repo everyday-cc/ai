@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "E6m+dfCteLYMhddIHtE/dwS1U4OO6CjA50jBBtGZnb0ltPJuI4mtTAHLRllMIS9Fw0EegPGmG1QoTgtO5ZJbCMGQooojk0ylfOdKH1u6QOajn37Wc+d1/gmMUfxFctTU803Me15pXErAuyIK8XrjWLXJZKii11mcW+q3lxngdPT/z7JZsy9FbUkdlTxS2pCs7ZqRbK5wIpUYl2rcAKNEcysGNCeeV4weY2FPAEfREmQ19eAbJnZDCdQl+VR2xg/NFO+KZhezJEke4iUhYiwXgx8Offn0GsZP700LVXn6upn1tgh+OvdPy99NkCxRmGHqYe9eDBaw2H77sbXIylR3y/LDvYCldbVj9fqLHrsQ3qM=;0YifbwraZSVQbFw9dDGSzw=="
+secured: "Pc5T4p/7lVM3gHUfmjA/LScNOWTs4D/d+sdNZPA2z5V7q/WaoUHxSQX2s0caLadSk4+ua02Y6+Lxn9xextIpaAauPe2eX9tZQupMrItRjobF9nIYJ3pmqz+qR7VztXbEYXd1P3uNTEMyR5wyQHLDMKHC1wiGAPl99znv3lXXoXIdk2+UXBnq+p3XRtWGFutDMR9BWQkD+S3oOiO6Jq8oUcr5V+bJait4Yc4sycu0xXmClbCOZy4JrJLe/a3FSa53FndmBuLHc0N9i+y80RKXBDxMbsx3srggz2jPV6SLd1OW/1t5iBPfjADkVDHGfDAJfSx3gpGu+aiW/tV93xWfw3puf/61ZtGE92U5cDA0TE0=;B2xm3HShuoXUKpzxaFwutg=="
 ---
 
