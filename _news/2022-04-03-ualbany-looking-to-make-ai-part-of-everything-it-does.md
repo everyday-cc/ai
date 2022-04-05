@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM releases new server that uses AI chip developed in Albany"
+    excerpt: "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through."
+    publishedDateTime: 2022-04-05T20:35:00Z
+    webUrl: "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+    ampWebUrl: "https://www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/04/73/22302450/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "University at Albany to Make AI 'Part of Everything We Do'"
     excerpt: "The university's new vice president for research and economic development sees artificial intelligence as foundational to many fields and wants it to be incorporated into both research and basic studies."
     publishedDateTime: 2022-04-04T17:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-me
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp"
 type: article
 quality: 106
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -145,6 +145,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft, HPE put AI to work checking astronaut gloves"
+    excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"
+    publishedDateTime: 2022-04-05T17:58:00Z
+    webUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 34
   - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
     excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
     publishedDateTime: 2022-04-01T11:37:00Z
@@ -154,6 +163,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 33
+  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
+    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
+    publishedDateTime: 2022-04-05T19:43:00Z
+    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 19
 
 secured: "WIcaJkrXNDoDiEne7B4viNAzJXlQX7G6Ov20vIyPXNhRQH3ag4KrSfNEoHKcx25K/inCCmQGYiWks+0Z8/Zo3kLTm9j1uaKlS12XfCDrWt9nY9d0p/lfzN+3gK7jFA44PnMNI0kxRHQ8gpEA+3kxsNIMZyU/uHjIKaJ4l7+x02gMHG9iRbhqOm0k0j2HsfDYWwfS1koPbzPbzFjVFvs4naD7ACKwfiop5PsLotn+Tp/tt8aq1yO9RjkIZGJi4K19MoORTx1yxRcQeFxGt3q2PP2PiwP3ZI9s2sBlPZHS9cEseSXBtJm/Uv4ZQD3ROI02AKr3eWMNk5mXNkCCBarVMZgm2KpjdyWmLfTkwW+MblCsa4RU7uCyXXyn/9oBoxpyxggqZgacfbwSDafWfoTW+g/I7a58JDpkV0Ox3woLl8moMB+qNMrqXBsexVB0gpXdMmPTNGifXaWQ47q175SHBWKyfQsQshHAftr16BeO9Pnm9cVQp85PmLqjOtfWDvETZShRSSMmWSf54ky9Fl3Djw==;FbvMG0hEE7UE50W+526yJA=="
 ---

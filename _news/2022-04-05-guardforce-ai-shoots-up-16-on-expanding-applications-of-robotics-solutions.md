@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Synaptics shows off edge AI kit for IoT and monitoring applications"
+    excerpt: "The Katana EVK integrates detection of human bodies, sounds, voice, and movement in a low-power edge AI package for IoT applications."
+    publishedDateTime: 2022-04-05T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202204/synaptics-shows-off-edge-ai-kit-for-iot-and-monitoring-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "TFgJ9xO6snVB95OEkgXix4oXTtwqPl1rNE35sekIgl0vC9puM1H4KDdM0MPQqW2aWmowHyJbecO1eQDMOhXu+yNPVZ/8bZMR0Geh9Dmyv4fVQHDS4qRMXdQe4NX+D6/D1J+uHTTJV8VCn1H2lUffk+p/CyNMi4Ev/jMzW3VjQ6RzCkM5rUilTfRyksfuqCDa5oQsd6nBVvKhxxVQEPK/ejNFmqxE5YsMXKm2RcohFNFaDyV/y61rjeQkpb9AlWJqPZm3g/t37QQKerlWJuigRHVrXw22TbZIbeKMmiLd7m8eil0I8zd3j95yaOv2nGtO3zgKQ5UemSOLvdEUshqeg0FwNb1Ilt4fUFBXENTJMWI=;g0iI0NNCJxbuQHScWZdd/Q=="

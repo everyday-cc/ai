@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Synaptics shows off edge AI kit for IoT and monitoring applications"
+    excerpt: "The Katana EVK integrates detection of human bodies, sounds, voice, and movement in a low-power edge AI package for IoT applications."
+    publishedDateTime: 2022-04-05T21:21:00Z
+    webUrl: "https://www.biometricupdate.com/202204/synaptics-shows-off-edge-ai-kit-for-iot-and-monitoring-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "L35kjF8YfU14iI+qNfoGUUN5Vl+82RvkFainVA4CEIG45lehzXqkFJW1rsbPymH+dMj0OBuTlBrutHMxB2ZukAUZ4weTI6ForimEJhfcLo2eml5QRX2KpzsPPnKNf5PsP4ulLisRF5qikx16uDyaLIaWkxlUMkrrlwiKnsb55LT4R8EwciugFH0bdhW+kimYfD8wRDnOMOaO+qZ7U6WKZdmYjcSb0zr+fn42ZtAELpzyy5IG3xa2oXUu7DAwkr6IhLM9gl0pjpQiCDp+kZzhimDZU00GpG3Lxobo6BkZaimMCamJ1RNozPgASQIgFXRsVnMA0CZ8m5knT53WcieaV0ih6Pagh6Go/r0Ghok04Wk=;CEYJqtjpwyp9XMaBONTQ2A=="
 ---

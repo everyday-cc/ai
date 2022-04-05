@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T18:46:00Z
 originalUrl: "https://www.biometricupdate.com/202204/lumeo-updates-face-biometrics-offering-enters-new-partnerships"
 webUrl: "https://www.biometricupdate.com/202204/lumeo-updates-face-biometrics-offering-enters-new-partnerships"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies

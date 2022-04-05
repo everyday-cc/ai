@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia names top US partners that fueled AI, accelerator hardware sales"
+    excerpt: "Exclusive While Nvidia is becoming a vertically integrated business by owning several core computing technologies, the GPU giant still relies on third-party companies to sell most of its wares, which is why it goes to great lengths to incentivize and recognize the contributions of these partners."
+    publishedDateTime: 2022-04-05T19:13:00Z
+    webUrl: "https://www.theregister.com/2022/04/05/nvidia_partner_awards/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 36
 
 secured: "SohGAPOu8f/1kcQSlQIq4sWnRN1dKQrQymqUf3izFUHZ0AqbWhFdLl45hQcLyyM9h0HAMfp3zoE+Z/XNuY/EFZ5WDoBkROQGZYsxF8x5DkKPtwiP/9DJiv+hYvw6PFSzE/hTOLbZFJMgawYGUp9JTQMovMx5Mwl+iwa9yXwYu3DS+yEnM2ChuSyNfW2npy3qSHsEbXwCq9t6MNe1RYfuIcs8a6snO5mx1RPfiJqhkxJSnswzL9anXTq62Ls/quBouGGQG8Q7Vq1q3ivLxznhG0xnwQ5JI2QT6gd+9+U9WWuJPk8OTAUuoko6TqEVh3T05t9cW9JTtlyFlREr1MJUnNWUDoHY9CP5ZXno4Y9pawY=;K6uQKmfMOdKidOnxEQsZnQ=="
 ---

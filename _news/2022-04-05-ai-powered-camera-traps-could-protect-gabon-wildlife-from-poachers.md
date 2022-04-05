@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T16:27:00Z
 originalUrl: "https://www.newscientist.com/video/2314977-ai-powered-camera-traps-could-protect-gabon-wildlife-from-poachers/"
 webUrl: "https://www.newscientist.com/video/2314977-ai-powered-camera-traps-could-protect-gabon-wildlife-from-poachers/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New Scientist

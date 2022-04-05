@@ -19,6 +19,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "/BQEKrzRI/XHj65UT2IBfIYO6gY4ov6DGJPadgiNihJfG8jJs4mL7QwEKiSO+8ZAExaogp/5scsOXDQENb06fDn/5c3HGvkVtSGd1tq1tWFEffnwY0F+Uida6ZJ557kVADEnKKwjZ9rQ03Q9hjmMisHDUYAih+Sf0Uv8rfvzLsZS1DGDCj6sHvBUGSZff+RFsBQcbD5e3hN5vftpILQCbfnLYvrXQvO4ilenZmGpe4eQl+tdhMHuIQJCQfNCNxZOmrUVCoarw3pyprfYA97Yta0lU6Ihc/zsCCUMXLvIPfD3dAAYE6jY4dNoBYSZqsJ8pRfdV9uqk+QZFOsUZfJUojfZnC3r/i2RqI/qZ0BS5qg=;HcQ4+SIeXDv3vxhh0IoyPw=="
+images:
+  - url: "https://www.pcmag.com/images/pcmag-social-share.jpg"
+    width: 997
+    height: 1201
+    isCached: true
+
+secured: "exDvvCpHJCpmO4gW74lqoINsRK4xFw6ZrtbjTSZXfcjBhSxGmE7PUbpvUUh8ZwEgfaCRtWZQ2/L9jC2Oa/zWiL5SWZONtoNBVRfq4gPitMz4MfKAymrV7iVuToZN9+jQp0bGoPBxqEnTQkJoK+v2F9P5vyfqrGHtcp04VFzH6wMETMP41xp7BQ/6i7ungkTmDG8TdoS29IfWc+V87gOGb3d1/aK4KB7+0SHax6M32t3tF38RcIhENLPoMmeEhziHkM3nQ//bbuWb/u4L45otFGSF2xBBUTkbyhORjLwZ8zUK3YJbDvr5SC0oH8a230EYOLcT3JlkEJk7iJC0svrOH1uiwT0CjnnkL9kUPpqIXvs=;cIrkP23bhYb9J54S2lDvSQ=="
 ---
 

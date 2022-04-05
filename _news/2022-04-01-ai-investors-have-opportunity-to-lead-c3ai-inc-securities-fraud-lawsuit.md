@@ -56,6 +56,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 0
+  - title: "Investor Action Alert: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
+    excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3” or “the Company”)  (NYSE:  AI) for violations of the federal securities laws."
+    publishedDateTime: 2022-04-05T18:32:00Z
+    webUrl: "https://apnews.com/press-release/newmediawire/business-shareholder-rights-initial-public-offerings-57992250362309b9fb21ca8a6536f0af"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "GZfbs/7XG7g+5xPlYWA2YYRVAwEbsi1hilAo/zw4I47eMmVhRAclAWkjuc2wYUG+jyEWET5UZseAk0J0fZ6kIfb6nzP/CScP+M+At/maoaM76ROhQEYwVrE8YVBW7d8oFIwkiViz5I/IoELEUAx3VW+x69FC6vRPFm3PA3wyDtUvr9VVB/np/2FQSuMIyc7hIklRisv2o4B70CjI5vS8X0pPXXuUrxMkf+0KMYknOeaDFCVeGSo5mpnh1WoKxzZER2rHdfQgOw7zGI28F7ctZOVaxBcT1sfif8pX71mKeltWhb9wu3whu50FMA2wz7tlpRf8f8j+txU8U9iqi7tYJNHC9KtDWgxsbNaz0kTb9W4=;aTvzGeT4ku2lf7uXxVbdQg=="
 ---

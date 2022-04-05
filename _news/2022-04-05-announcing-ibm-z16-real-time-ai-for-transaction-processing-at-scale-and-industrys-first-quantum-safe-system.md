@@ -1,44 +1,28 @@
 ---
 category: news
 title: "Announcing IBM z16: Real-time AI for Transaction Processing at Scale and Industry's First Quantum-Safe System"
-excerpt: "IBM z16 integrates the IBM Telum processor so clients can infuse AI inferencing for real-time insights IBM z16 is the industry's first"
-publishedDateTime: 2022-04-05T04:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industry-s-first-quantum-safe-system-1031331603"
-webUrl: "https://markets.businessinsider.com/news/stocks/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industry-s-first-quantum-safe-system-1031331603"
+excerpt: "IBM z16 integrates the IBM Telum processor so clients can infuse AI inferencing for real-time insightsIBM z16 is the industry's first quantum-safe system1"
+publishedDateTime: 2022-04-05T04:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industrys-first-quantum/article_387eeaca-64b5-5391-ae3f-ac9f3f6300c4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industrys-first-quantum/article_387eeaca-64b5-5391-ae3f-ac9f3f6300c4.html"
 type: article
-quality: 48
-heat: 48
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://mma.prnewswire.com/media/1779048/IBM_z16.jpg"
-    width: 400
-    height: 296
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/14/814b091c-9fe0-5bc3-a438-cbd3d738fd55/624bc40a5bd82.image.jpg?crop=1674%2C879%2C0%2C179&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "IBM introduces real-time AI for transaction processing"
-    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
-    publishedDateTime: 2022-04-05T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-
-secured: "7xt1YvLPeor8qbyFNNZs+2zXeoKWoaB5rQXumfZ5olLAzu46zwmcBBxyEpwEoTwQ9Ub5TxDGslBEOqzt2j7X67OQWOtAJYJL2cGYICAGk+XJZoqAD+SM4KIwwQaynrOLupfW8YdlCX6dKvlqsh9x+pprrXBgBRYVjJkZHHCIcorJRo7Np4f3uZMkNctTwp/IVidGUITPxmjDRqukFh1CcvhWxrApRrU9nYDCoeHrAjeDA66EZMzMMo92gUEYS8ZxekgMh3d6l9TMmS9VeA9RpZZeBxAVNgzNrrGJXs1I5FQLyC0Y4Evst9VHnAXyndCfWTUKp7PDjU1rVbiYmKWnhXi/Unsw64b9tZPMPkGJ4xgWHSW4F+BU2tsOlpMMhLT5lvEeDI50ZIYLWmQKgSIszhp8advJq85xOVuReIuZ4PEfWvaI60ieu24IuoY4Y6qdPu5de3GqXf3q5p1iAjiJ67WVAiN00cBHq0XF/5tXKYlmJnUtw+PkIxXUOrfn7eoqbZ2xNCTaqfEV1DUsrpAQQw==;/90sIeDRzwemka2r6fue5g=="
+secured: "3snxewJzpChga1r6e6EKvb4XtohXDPuTBV6v73xcsDh6sB5lNYJNeHzLUogz9yf/cU3WuptIUWq3YhHhwAxOYZo8zjuoQHEctfFa0jjPyEYQpDLQH8gn96iCUcI/1bqF3XimGEoBqetvih5ElWyRirpCaoy61mc9IuEnT7O25u5x8u6qk4cIZIpwbhJR3p9JoDswyvS0au5blEIZCpOar9wA5j1ckuXe6+zXRilKh2ksUC7RwbvxZfAYKp3Uczy4HhapyVCJ8o0exKrzu7/yNUu0h54xKLwDE9hUXG4y90LU5XeGQRWatiBFFAVpoq9y/tnIguo2Z4AlUqn5Hh8Y0IwWDzfWRogB9irzULb2fS4=;ljd+C+etrjy3GqwAXhxuXQ=="
 ---
 

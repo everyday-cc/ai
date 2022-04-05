@@ -144,6 +144,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft, HPE put AI to work checking astronaut gloves"
+    excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"
+    publishedDateTime: 2022-04-05T17:58:00Z
+    webUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 34
   - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
     excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
     publishedDateTime: 2022-04-01T11:37:00Z
@@ -153,6 +162,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 33
+  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
+    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
+    publishedDateTime: 2022-04-05T19:43:00Z
+    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 19
 
 secured: "qbqCV15fnVZQnh1wU2vh1To+exAKd97TGMk6IolVav/9XvLY/rf9JmtG9OpasAu7uIX1Zp1WDbeK8DzzfgVuEZimwhNgv6QzLUa9DbwLkli8DHMspxiy08UmLcbT+ZF9sgbtZvZvGPZpoxmvHM8e//SMAK36JXT3M8Cp9x5dhjCoGVXEhallC7JdNsohQs+gK3o7+f2XUsMGZlNPJhvKRZPKWbudvWF/twBNWsMmzRSeBY6dDReDilQlkvOTH93vZaaFkEE1m1VPPcdBvb1pthu8KO3IYjvLS2mRbqWMmRa8kzFYckMa89dGzOiRxSCS0CDN0aULZV60fvXyHthXc8Lo5VoIi1P3I5MuE0w7EOoaiMn6JgPFriuWj/FxfdW+zzEgcaREOTqw/0InZhWrS/w2yUQWIlwzfbJXoXvyDicMrWAfCk677LVbcKUSwoHlJEEWAMcWGIZvU0Q+KbPrgatNBny6L1ksrrb9UWveAY1gtQr5JE4dRNYJtZ6iWD+zmR6lu2RmBmriht8njv1bAQ==;72plmHcJvqdflM8Kp7eG7g=="
 ---

@@ -5,8 +5,10 @@ excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bri
 publishedDateTime: 2022-04-05T13:34:00Z
 originalUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
 webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
+ampWebUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
 type: article
-quality: 19
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://scitechdaily.com/images/Artificial-Intelligence-Technologies-Concept-Illustration-777x583.jpg"
+    width: 777
+    height: 583
+    isCached: true
 
 related:
   - title: "Adversarial AI and the dystopian future of tech"
@@ -66,6 +75,6 @@ related:
         height: 600
         isCached: true
 
-secured: "PrO5t81y7u5CkQEsmTY93kH9emskp0J4/n0uMde7fDvOO1+tvcDEp5FOB1D4FnSaf90869yws4EkLvIzGZRrvDH0+Fypon3ore6jae9jL66WbPAE+xj1g1s4LSxPFl+vZT+bAWUY2f30eEdN+KBnu05E2LEU3TjiqQkUBi4b5G0w8MEtN4AagLRyzSMlpk43d2jfkzNUBtF42e5AC0EzjPyrc39tSKI6UlX/gTD4kDqjob7x6J7zhL4ZfigvUYctOnrxs6tfsXoMPp3gNzT6fJbj48L3MfCqTgyv02W2aIELLYkMEB/iSEF2Wm6vTR3iClLN1XgSoTCj0/S7TsQmqkG9HK61Ziy88u//xq5xi8PEm2SAms72cDed5gLvzG1WMnuCXfb+18DCe6T1Qhn5N6sxo4N405JhUQL6CaSzlEBvB0c5VLXRPQplcSgYrimpiA/vnGPSKvDJ475d5i/FeZGJ8eY1blwtBnVQjN66AXAJ1V/DjjHsuRyaN4ILoHhHMoc7qG/u2eCihlAnLyIPhQ==;sQeD8nt8acfUmSShAFUDWA=="
+secured: "FOzMZRJYU0UqnyVZX9E/d7PapxmbuF7GCaIMn6XBsL6alBU9wVlx4oiRDAW6E9tPbvcqZqBl2uJBCUSgqpW6+Iqx6rJeXJjkWL0NhsB7QOB3F7BldVR3T9lFYpJDqXDM9PKm3gZ3u3vvlOT0bzDvzKyrPxjgNtAXViPiJEw8sxGXgPjAt6vrxbC56NxhTRbLfed3Mc8/EQ+dwVqRnn8zL0lNL/Iq06HObOcw82TjdA04LCtBFP1csYqgFilHc4xjR4lnhnPaYXBjR7ZRmMKwFw9PwiUadQBRt3UbcwRUNNoY97kSPn9EG4DSQ7Vawh+93fvpIq1ZKsWpQZZbS4AcuHR/Bqj59aggdjgBkEV84po=;eY9+8/BO9anNk/jl94Qwkw=="
 ---
 

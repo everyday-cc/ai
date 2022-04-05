@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T18:58:00Z
 originalUrl: "https://www.purdueexponent.org/campus/article_51b65182-b512-11ec-8fdb-cf10c688c665.html"
 webUrl: "https://www.purdueexponent.org/campus/article_51b65182-b512-11ec-8fdb-cf10c688c665.html"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Purdue Exponent

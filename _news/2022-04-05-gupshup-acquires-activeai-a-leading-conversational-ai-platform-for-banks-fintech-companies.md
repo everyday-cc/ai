@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activea
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
 type: article
 quality: 62
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-03/7f3c4e87-b81a-4cc4-b09a-ba8fabd7cd0b/pexels_photo_393034.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 500
         height: 333
+        isCached: true
+  - title: "Gupshup Acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies"
+    excerpt: "Apr 5, 2022--Gupshup, a global leader in conversational engagement, announced today the acquisition of Active.Ai, the l"
+    publishedDateTime: 2022-04-05T05:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-india-singapore-9965e61e0087445482e67a56b5c7aec9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Curious Thing Positively Impacts Public Safety, Scales Conversational AI Solutions and Connects Customers Globally Using the Vonage Communications Pla"
     excerpt: "Partnership enabled customer to establish intelligent conversations with 150,000 customers in 10 days at the start of the pandemicSINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation,"

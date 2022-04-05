@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Liberty Defense Advances Proprietary AI Algorithm for its HEXWAVE Security Detection System"
-excerpt: "Company provides update on significant product and technology progress made in preparation for field beta testing and commercialization of HEXWAVE's detection of concealed weapons and threats \"With our collection of real-world data from our proprietary HEXWAVE ™ hardware portals,"
-publishedDateTime: 2022-04-05T13:55:00Z
-originalUrl: "https://www.krqe.com/business/press-releases/cision/20220405VA14262/liberty-defense-advances-proprietary-ai-algorithm-for-its-hexwave-security-detection-system/"
-webUrl: "https://www.krqe.com/business/press-releases/cision/20220405VA14262/liberty-defense-advances-proprietary-ai-algorithm-for-its-hexwave-security-detection-system/"
+excerpt: "\"We have been developing a cutting-edge deep learning algorithm with our team of industry experts, who have previously and successfully brought to market industry-leading AI algorithms used in the ..."
+publishedDateTime: 2022-04-05T12:25:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220405VA14262/liberty-defense-advances-proprietary-ai-algorithm-for-its-hexwave-security-detection-system/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220405VA14262/liberty-defense-advances-proprietary-ai-algorithm-for-its-hexwave-security-detection-system/"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: KRQE
-  domain: krqe.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "/X2MUJKERkmiW9UsW3R/3HwMfwGrpa9DZ6oowNwKAxfw4TvNV82h1AHRLKBNxOGnIKWCIwHbQVzjnHCLmQGuyCcovDP+uLT8DB1eMo3NnHplIdm4X9MhbKqpTeQMJ12/ihUBBBep14TEta0yysu3+M+da4Z3lk3k76Qfm3/fvNFYg88ISwa1crkbMs5C9VnR/unNqb4KHi5wJjYJZaFa6f5tLAfLGQfO4YVGD2iAje7Qij3TOXiV2OZSYy/CUIsGXfwMqMnjwKYgsXN+2Fr34CmMOB5m7ZRrgttzJ5vY0A1J9W9Yz/nHge6/VfkUX26wcTapT97o78dUeNcene8jjlurYTgCDmjupmD6557d9RU=;2G7dLW3fOGXoqurqE1j+ng=="
+images:
+  - url: "https://mma.prnewswire.com/media/1780442/Liberty_Defense_Holdings_Ltd__Liberty_Defense_Advances_Proprieta.jpg"
+    width: 400
+    height: 317
+    isCached: true
+
+secured: "7bt1ePFSpQPDmsgpiXxQRe7PcFT5HPK1NFWcYOA6wukAtHOREiegKj/s/RCYtHWL+XPpBeyFBryYQJ4hNIPGTv6pHi2PbGPjjoUYzqRm/4cs7GgqkY7PsKm/wVQXu1CmQrK5lIuC2tZfMiImxuIULjAd2AjbQYnLyJrBh66/IK3bdVaW113Y1MN9YeVJ2vDQqcQs36RB0vDR44fHNAd76sDsUWrw4/nc1Mb49iYEQtVAyuWV/3W4SWC4B6cu89+P7ZrAaJUVblK5z93w3OITnV7yOAUjwRg+QnUJY2mcQuyUqHNY7SQUMCFGhVU0kP6ysXoA4jiYKyd7ChfeDYYFiFR07HTDeztgecf1DH1ERZY=;GK9eDNT5r3iOoNE5NfSvZw=="
 ---
 

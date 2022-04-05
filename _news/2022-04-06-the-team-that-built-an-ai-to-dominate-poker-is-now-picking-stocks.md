@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T19:37:00Z
 originalUrl: "https://thenextweb.com/news/team-built-ai-dominate-poker-now-picking-stocks"
 webUrl: "https://thenextweb.com/news/team-built-ai-dominate-poker-now-picking-stocks"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Next Web

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 626
         isCached: true
+  - title: "Our Human Future in an Age of Artificial Intelligence"
+    excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bringing disciplines together is the best way to address challenges and opportunities posed by rapid advancements in computing. What"
+    publishedDateTime: 2022-04-05T13:34:00Z
+    webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
+    ampWebUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 61
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Technologies-Concept-Illustration-777x583.jpg"
+        width: 777
+        height: 583
+        isCached: true
   - title: "The Role of AI in Conversational Commerce"
     excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
     publishedDateTime: 2022-04-01T09:42:00Z
@@ -57,15 +73,6 @@ related:
         width: 1024
         height: 600
         isCached: true
-  - title: "Our Human Future in an Age of Artificial Intelligence"
-    excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bringing disciplines together is the best way to address challenges and opportunities posed by rapid advancements in computing. What"
-    publishedDateTime: 2022-04-05T13:34:00Z
-    webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
 
 secured: "BIU2LeJfcm625FvvRvOHLIIo4bs+TvWuuPqQRJFjs+r1xNCYax2F3HxPj7wqrcYErAKmsSFBdr0ni5QhnT7/6aO9PrAGtRoPm6SGBzCbpmjDsp5pPFlIxso0EQBsZolq5OXx4L0aRysDl4CDWBq6A5A8hkcgKIfzhNZx+ulBFLFdo434Z3Z5P6YfbFjlLod91JkyodRCnaJ6i9Vn4aGV55OvBt+oZgeC19TZ1QjZzz3ukHK+FEKS1e5P3Mdjzr9FOrkUTzphnJ5n2mV6FT6XPdNJz4FHyfLgwxtlWBbJgsiLOjITzFMIARFayRlCkZb6soI5fySGfG73Ffc2wv6eVp3lyoEgzVyLrdz6qYlXJBrBLqqKxwdYVPG/S+EheE8NtEKDFl5JkbvqBpkFSZj+QqWJ6YyX9cVS2tJ6UquXFi4h5abV/Y76AXtRiwrfT/fF8xHfM/m0P/8srVoc3aqTgATRPjce+tGm9PsGdTMcjBO6bOJNfSFQQdYkD2AjD1/J6MneMiNSvFQw0FBHIIteOQ==;ZrMrnpP+M+mpHfbfJjJpyw=="
 ---

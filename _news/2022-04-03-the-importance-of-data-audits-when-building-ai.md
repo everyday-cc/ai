@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-whe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 640
         height: 353
         isCached: true
+  - title: "The importance of AI-enabled drug research to develop effective therapies"
+    excerpt: "AI’s ability to quickly scan and synthesize huge volumes of information is being adopted for numerous healthcare initiatives, including use in pharmaceutical drug discovery and development."
+    publishedDateTime: 2022-04-04T18:00:00Z
+    webUrl: "https://medcitynews.com/2022/04/the-importance-of-ai-enabled-drug-research-to-develop-effective-therapies/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 16
 
 secured: "EyrvtTQcXGaDJvYHqiCI8eW/8X1YKj41xIzoDHEDIBQkb0pjeP03e3P9XvZ/rwgeVFun622jpldy3tn8VKlSueYZLau1KDaydUsldVu3CxUwc3k9o8oBv3qXYKPeEAyIIQl6MfSKkFyr14eyHjz0BYLD9zQgbglV5+3U+Zz/b+ZoEyS+tRg5fgtvhjhGK8HC6PwJ1gZ2rrr6Ss5tMc/SF4TSv8cYUWOvyznzNKtMR2HDy+1bPAc4cL8z+pkAhgghOUZCuxCGCwYoXkhTrQ37yYuWVEepXu0SFsXU0HPpeAIQOuKQ5fDtVRo1m2jd4fpyF+fZN3MEETHzkbV3hkdhFkUQ6w3+ZN7rglsVhBLt73enHK7vPMPyXmfZUZifXwyDKoPTUWo6vHklO1lZ+zAMmi4EBJu3jhIsXsZeZ5ZCefX5jDnTGaxPagfptn742WkZVasttaOJI2W/hCXAHr+Gjd1afetNkBdsD5MgUkDcUdDohNH/+c68mQiMQMgAIlXBpkclK5Mzm9T0w/VJNRvS5g==;BeorfT5pHRJBi7guuLBgDg=="
 ---

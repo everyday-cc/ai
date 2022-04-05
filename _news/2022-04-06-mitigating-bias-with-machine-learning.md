@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T18:00:00Z
 originalUrl: "https://www.cuinsight.com/mitigating-bias-with-machine-learning/"
 webUrl: "https://www.cuinsight.com/mitigating-bias-with-machine-learning/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Credit Union Insight

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/university-at-albany-to-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-albany-to-make-ai-part-of-everything-we-do?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM releases new server that uses AI chip developed in Albany"
+    excerpt: "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through."
+    publishedDateTime: 2022-04-05T20:35:00Z
+    webUrl: "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+    ampWebUrl: "https://www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/04/73/22302450/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "UAlbany looking to make AI part of everything it does"
     excerpt: "And Thenkurussi \"Kesh\" Kesavadas wants to make sure that the University at Albany - and the Capital Region - take full advantage of all the opportunities and technological advances that are coming with the widespread use of AI in society - a tech revolution that is  taking place whether we are ready or not."
     publishedDateTime: 2022-04-03T13:00:00Z

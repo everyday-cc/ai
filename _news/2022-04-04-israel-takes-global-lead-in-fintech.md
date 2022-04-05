@@ -19,29 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "2 Zim fintech startups selected for Dubai financial inclusion accelerator"
-    excerpt: "2022’s Edition saw 10 African Fintech startups being chosen for the Cohort and among them were two Zimbabwean firms, eAgro and VIRL Rural & Social Financial Services. The former uses data analytics, mobile phones, alternative data and machine learning to ..."
-    publishedDateTime: 2022-04-01T11:47:00Z
-    webUrl: "https://www.techzim.co.zw/2022/04/2-zim-fintech-startups-selected-for-dubai-financial-inclusion-accelerator/"
+  - title: "Grasshopper Bank partners with fintech to outsmart fraudsters"
+    excerpt: "The bank's CEO, Mike Butler, finds signs of fraud using software from FiVerity that identifies suspicious behavior patterns across its client network."
+    publishedDateTime: 2022-04-05T20:44:00Z
+    webUrl: "https://www.americanbanker.com/news/fiverity-grasshopper-bank-look-to-outsmart-con-artists"
     type: article
     provider:
-      name: Techzim
-      domain: techzim.co.zw
-    quality: 18
-  - title: "10x1000 Tech for Inclusion Enhances Fintech Learning Programs to Continue Bridging the Global Digital Skills Gap"
-    excerpt: "Fintech training platform 10x1000 Tech for Inclusion (“10x1000”) today released its results for 2021. With the vision to train 1,000 emerging talents and tech leaders each year for ten years, the platform saw a total of 1,"
-    publishedDateTime: 2022-04-01T03:58:00Z
-    webUrl: "https://www.eagletribune.com/region/10x1000-tech-for-inclusion-enhances-fintech-learning-programs-to-continue-bridging-the-global-digital-skills/article_30b7b953-8341-5726-825f-d151007e6e38.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 3
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/d7/bd7ea278-a2d6-5863-b651-ff66d398a185/62467a14f063b.image.jpg?crop=1791%2C940%2C0%2C108&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/666187a/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb6%2F76%2Fbf53ea474c7da458030f8cef1706%2Fgrasshopper-fiverity.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "The Fintech Road to Carbon Neutrality"
+    excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
+    publishedDateTime: 2022-04-01T18:45:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-fintech-road-to-carbon-neutrality/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 4
+  - title: "3 Ways To Play The $300 Billion Fintech Boom"
+    excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
+    publishedDateTime: 2022-04-02T19:00:00Z
+    webUrl: "https://oilprice.com/Finance/the-Markets/3-Ways-To-Play-The-300-Billion-Fintech-Boom.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 4
+  - title: "MarineTech funding set to explode, following course of FinTech"
+    excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
+    publishedDateTime: 2022-04-05T10:34:00Z
+    webUrl: "https://www.seatrade-maritime.com/finance-insurance/marinetech-funding-set-explode-following-course-fintech"
+    type: article
+    provider:
+      name: Seatrade - UBM
+      domain: seatrade-maritime.com
+    quality: 4
 
 secured: "EWbkRj6+iyiwRxf0P0VJKxSEqp3OtoW5NEPiVCHTN5h+cMHkJfezGmEzBskYWfGQawcBR39Y1AIYctmW3/lj8mLfj7ZqE8Ic2zwlEMtKiM45WVwQbe9zsxDRlr/K1Y3rzF0SO/GoLAHBnR2cozwDmNYXbZAgLS1FBpMUJ3G117/LgV9I056R4KsExSIIC0r9hErSo1LfsKtrSQ/hwF9oCZ6CnKyUr1KCuPA1ShyiMyBTifQe29UVBs9pGPg9aiYtW73+PN4iQAoU4TLgiajmX5rEtPPNg3Yrzqv7H0Rv54MppwzPUO6uy3IXcBe6gwEyPXDqDwt/ny4aG8SHNWZbPBnWW4RCHv64cQQGM4GAeUKK9jXvEMiY85nM6xcfPqHxqbaIGjakDwXa/yXmT4wePkBLV0HDIyI+82a981JPCWak7dF8M+CI1VzC/k7uPTiKqoQJeJMNiVhKBvqpsM6un/6emdGd1/10+Z+dUOonNkU2XFGboi8M2Oy5g1aXNXk0YbMEN9rbuvcU0aNLXSQ3PQ==;OIOy1U3MlNIKQLol7vTh7Q=="
 ---

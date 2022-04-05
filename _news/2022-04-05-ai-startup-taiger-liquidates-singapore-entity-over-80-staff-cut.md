@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 557
         isCached: true
+  - title: "AI startup TAIGER liquidates Singapore entity, to focus on Europe and LatAm"
+    excerpt: "Singapore-based artificial intelligence (AI) startup TAIGER has liquidated its local entity due to an inability to repay liabilities."
+    publishedDateTime: 2022-04-05T19:45:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/taiger-liquidation-287641/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 15
 
 secured: "3HT+pUoTrYoL3CpBXcVe/dYwP6LqIT6cIRFHI90EPi9Owh6zgQ2guZmLL5N797U8tfcFX081jExNBN2CRK1CCWExBYlTZur70odahRQRuS2QIwuXGkccTzfuxN+iE98gtpz2ESyj1HWsgSDY3whjZiwEl7WEzxUZGLuAxMA80JhSWAaeca1qndbZeaLv6V8N295e3t+ggNgPof3gbnB7kJSR3kfP2TlbcnwYcBEP0x+8fk/uVG8Lbyy0rjiW5OXYvA+o92lU1DbzBfctk7kJN3xz57OolysN33o6nKyzYC9CYuBiCF16tfLXO++YwlRAEi0UwDG6auIIlAHbZ3jKSMKhCbc+b4KKOCSzGVlcUEhPDSm8fxS/uOezTX4h/27Bi4t+7ugFOQTiqG75MTd5RIHhN+//6pibHOmpitojdXvbr0KkndNR846FxfyYbDXM9Prc+dazY9KFeqB04NC++ZjqV2i3KnglAvI1MDhKJAEfJYt3pWdIsXk9CkBc29/u99YVgSr6oN0c/OnlqYXc7Q==;zkXWlHH4cOiOd9G9LHKGlQ=="
 ---

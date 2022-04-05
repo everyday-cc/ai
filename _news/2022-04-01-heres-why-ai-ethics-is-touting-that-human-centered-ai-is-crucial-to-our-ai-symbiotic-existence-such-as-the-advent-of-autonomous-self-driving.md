@@ -48,6 +48,15 @@ related:
         width: 1279
         height: 757
         isCached: true
+  - title: "Nvidia names top US partners that fueled AI, accelerator hardware sales"
+    excerpt: "Exclusive While Nvidia is becoming a vertically integrated business by owning several core computing technologies, the GPU giant still relies on third-party companies to sell most of its wares, which is why it goes to great lengths to incentivize and recognize the contributions of these partners."
+    publishedDateTime: 2022-04-05T19:13:00Z
+    webUrl: "https://www.theregister.com/2022/04/05/nvidia_partner_awards/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 36
 
 secured: "i6CNskq0lfLUNbR0HGg8iAp69eDqPcfP7coCPUw5VqvODW2/XM3qFMggrIjec5BbB8SlAA/R0mu+YJaIQFbyflAAh/IKF3Ha1WAlzKqpmxk2gig8GS3Pv6Shfm4ra9X+ahLAeCCwY3PbZWF1p6KntL8fN1v7e0dN68N6AsaA7d7JLkM0Xs3OwwNlxgCQ9MKUZYMTntIkHt5eBFR9ZPO/Be5OAZxhOzU3ysSg9MJfcXuWLRL052MYJ59CRs1WdB1da8Ys7wZmMJGg266JDtAzLhyoRhZ8ThglZMyTvmLRLXXo9pF4V+oFCs64kfwGw0Ev0AbRP8retQDlZOd6htrug+YjyT6SOgkS/VQDjt13i2yN6FaSuPHqPvjGng2isZi/1K8/qn9LXm5Yyk1akQgt1pW0AISGR+cIGXJmqhfhvO9LFRRbSGXnbE8qcs/RLPNAC3yCx7CNNzirPg92i112hvJxHInq6mmZuSET1UbzWDbvHA9jF3JA+k/yba3jeB3KMHP0EZzBMpQ0O/VaFbU3sw==;tw2ad1mwd2aDpJDS5GHJ8w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T18:45:00Z
 originalUrl: "https://www.digitaljournal.com/pr/schneider-electric-earns-recognition-from-world-economic-forum"
 webUrl: "https://www.digitaljournal.com/pr/schneider-electric-earns-recognition-from-world-economic-forum"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Digital Journal

@@ -224,6 +224,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Gupshup Acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies"
+    excerpt: "Apr 5, 2022--Gupshup, a global leader in conversational engagement, announced today the acquisition of Active.Ai, the l"
+    publishedDateTime: 2022-04-05T05:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-india-singapore-9965e61e0087445482e67a56b5c7aec9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ZysZazl1RSZ3aA2mAer4Am2LYjKX3jf03+KF9DfmUZKpN4aE8XtY5zB2l6pZklX0da+C4zRsXpp3Vsy9rh20dlBKD/PvGVvUP1W+2fbEEDi6Jhvy50a2t7eVL4qtLiAVkfJJlIsye69ni8rEnI5yzSH//Q/f3qEiP9HwI4FNn/bev2yqcT8blbgmrp1t0u/PVrcwBryMrovozuwdHs0FMXIUF2qsz7xdbCyXow4cg2AhCZHTV3413uSDuYM4Yq9sDS/up4GoSb5wTZwPf5CRq0MOrO6pGdPZbXeuE9qPezeSkHNHsy9ZEk3ZTgSNk1w+1uJ9fgfeY0PaV05XoRX+F84DXZGIS2KRwzihRayBrj9dAE7UsXDRmvP1wC1L1IqAIhNZRgTh0beyyz0lEeISPwI38WKTVDE8/ezlF4FSEPgsyM7NoKVvWB2xaA6dBLQ8EuyTE7rT5lfGhINLtlRAdQarOhlOMJDXisQJPOS2CX+Yy5LFzXg2llvQuKBGuDNwYKe5rqr87QzG603yCRClZA==;uf6HUT1H2ox9UvBRu2mRUA=="
 ---

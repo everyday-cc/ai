@@ -57,6 +57,15 @@ related:
         width: 640
         height: 353
         isCached: true
+  - title: "The importance of AI-enabled drug research to develop effective therapies"
+    excerpt: "AI’s ability to quickly scan and synthesize huge volumes of information is being adopted for numerous healthcare initiatives, including use in pharmaceutical drug discovery and development."
+    publishedDateTime: 2022-04-04T18:00:00Z
+    webUrl: "https://medcitynews.com/2022/04/the-importance-of-ai-enabled-drug-research-to-develop-effective-therapies/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 16
 
 secured: "+QmSq/fKYz2sWwvAIZGksr0Aoh5T0dBInrKYLPCYeutT3pqVeGrPoZ4pZoebmU/C1ZAoafKxVhH/oAs4ADRQI695QK4AiEw0BmQYq1XX6zjGDAHbCtmJuENzoAcmiiOjXTEGnRtp07NH6U3qTkXcVRYPbUMvaLJpUg3Z2wrI93gvqkq1p9zP3v2DwnN/t9wyXiRkQo5/alSptLqFsEgB5voGR4CYHIzqH0Ewf61iJrBLQcqAfAQ8AxuhPV6P85x73hM8wUscu5+ML6bndASzxNJTxeJCSiOXiFdxrhZjUQvMIcF0qK7PAFojbJaepjw47cywxzCOjBRM+Lb02RnmZUVl+sqBP3+vS0BAEjn3VWkjxcWfKxtFFdWSZ0pyaM7r5lxJ9IwKPs5sRHWKQeoaLkx3GgYBedW4PvN6qcgHbn0IXfZFBi51HWzcgjC4aUxOJbC02RJobMR6VfGbktvgOy1GDIyMy+EG5/cXBzvDa8PBQoT3ZXIYUqAFzxJC55ublew9UUh7Yh46shbJr+kYIw==;QMTVxVUNt5br/EnIH2wTdA=="
 ---
