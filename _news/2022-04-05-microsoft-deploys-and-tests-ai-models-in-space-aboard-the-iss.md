@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
-    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
-    publishedDateTime: 2022-03-31T10:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
     excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
     publishedDateTime: 2022-04-01T11:37:00Z
@@ -88,6 +74,6 @@ related:
       domain: sourcesecurity.com
     quality: 33
 
-secured: "E1nNO92SruShygB44B95XoQFDnoHUzYRFgp7PMrQ9T7C7YqMbWrkUNzl7pRjaKCRCUwl4Id56mXYnac5mGxnyQhTGZrYeJk4yoLMid4UZ6WNYjbLY62Lzo0WzHetIULQXCfn/BmWYAIAUfRG9NQOLR19My2a9jCsgYDqQ2+7z/V5A2NlY/7dTrjSlUse7THaPTd7mni/kP5vqYfJaCtVm8ZeRk7rmUHXdwj2+QwEXpOryr+KKxDBR3GN5gNawuDag+OqhcgBOIOX4KnMvdx8RIo4M1rzuzWnbhRmElYsVBzftEgnbUMFu8dSWz4ID0xTM74BbOhj50IUG0u09BcawTAo0K/Tps8UPE+Y+/AZKO4=;eb276VlAgFkbs33f52Xgew=="
+secured: "3m4NLGElubT4OPNI++caC40Q6aT/2+wmvEaP3h+88FYT/wucHtvmPglJo5V6BcHDfxEY6DH1D1WjLT7opb6vVumE54v5Ral0Na/jVgi8xZMhBaIrc3q5y9CdE5NVx1zt7g9jSa5lbf8rbPk0OPwMDlc7ZXMilFPopjHYsz1tQgRJSlXqMczMb71h5EzG0Y7ylYgd3icBus0r6r3OFMzTKVuX+xCptyUSstg4j/LLOidS/kaH0Jprx9EKre8kK/oKxphHaOwDpabbDAwVLx1a6LwAK7tg0KBGUiOcVesuWGaFqRR3cyUKnNIxRIfySr+k9l0Pb/8RS/hpneTHJJrPljq7S0yL846/6Wu+16FBM3WkXXkpW25hPOwtH8Xs7ALo3U/UD6LUcZubMj4GQAyUKQLhRur2WuuCTZigXCXh9uhEoCCEPsooOljRoiXu82PH1SlYhM2ApNpVg6fV4nInsRum2sWP7VbXC6KV2c8BIazSpjXGrQuc8kru63QWL/ahaji0EPCLMr8EgFRGnW3EbA==;tyqD72YbI7EDG+A0nYGq5g=="
 ---
 

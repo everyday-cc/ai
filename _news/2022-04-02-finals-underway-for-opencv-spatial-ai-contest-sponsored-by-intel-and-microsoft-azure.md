@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
 type: article
 quality: 82
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Contact Center Intelligence Market to See Booming Growth | IBM, Google, Microsoft"
-    excerpt: "The latest study released on the Global Contact Center Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2027. The Contact"
-    publishedDateTime: 2022-03-31T10:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/contact-center-intelligence-market-to-see-booming-growth-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/Covid-Testing-AFP-1K-600x337.jpeg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
     excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"

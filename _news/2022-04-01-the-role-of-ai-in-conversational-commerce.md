@@ -40,6 +40,20 @@ related:
         width: 900
         height: 599
         isCached: true
+  - title: "Curious Thing Positively Impacts Public Safety, Scales Conversational AI Solutions and Connects Customers Globally Using the Vonage Communications Pla"
+    excerpt: "Partnership enabled customer to establish intelligent conversations with 150,000 customers in 10 days at the start of the pandemicSINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation,"
+    publishedDateTime: 2022-04-05T03:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=641920"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "qTCA8swjKPzftca1xXj9G/Z2TiZpT+wI/7XVkzdx4vn8WL9tVU+3UnkFUQqotXbCDYoZCViZLu+8hLhoRtK5gA0C4YXttCnlzOe4hSHhfebRuQQV14qijaXlEMJqMMXlMzvHHxN23pbWMcOXftxRvs2uyVbzdHMU/+olgySbTIHdqz0Dsh4L1+lyKocT6osyUJCc2EjyqUk9P5Z5XkpMTfmT65aV+rG7JkoFXFRQDPtd8MT0V8WhDBtjdioVR4eeFt67pN4i28FxOv0CLPqshqovxZE9zI6JHCA6FXrXk62l6sgv5VFJK7nTzRB9xzU3f0As+skFdyqRzU5Sbwe4Mcp1yv4xmASrDNsTRS51EaU=;aMGYFhbEFn8mMmVNe0pI3A=="
 ---

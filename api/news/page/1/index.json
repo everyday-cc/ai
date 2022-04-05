@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-05-spot-goes-to-pompeii-why-a-robot-dog-is-patrolling-ancient-ruins.md",
+      "title": "Spot goes to Pompeii: Why a robot dog is patrolling ancient ruins",
+      "excerpt": "Boston Dynamics’ robot dog Spot has been tasked with a new job - patrolling the ancient ruins of Pompeii. The robot will be used to inspect the site for safety issues and record structural changes over time to better manage the historic ruins.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
+      "originalUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1fd4b68/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa0%2F73%2F3a41043447099cb7763ce64776e8%2Fspot-2-1200x900.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
+      "publishedDateTime": "2022-04-04T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-startup-clickup-launches-whiteboard-to-develop-wfh-analytics.md",
       "title": "Startup ClickUp launches Whiteboard to develop WFH analytics",
       "excerpt": "ClickUp developers are working on an AI/ML-based feature that would be valuable for time management and work-from-anywhere collaboration.",
@@ -669,49 +721,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-04-top-ex-fund-managers-launch-30m-ai-and-fintech-fund.md",
-      "title": "Top ex-fund managers launch £30m AI and fintech fund",
-      "excerpt": "A group of top ex-fund managers is launching their third fund in as many years aimed at channelling funds into fast-growing AI, fintech and mobility",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/",
-      "originalUrl": "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/02/GettyImages-1238230801.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1",
-      "publishedDateTime": "2022-04-03T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
       "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
       "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
@@ -751,6 +760,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
+      "title": "Adversarial AI and the dystopian future of tech",
+      "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "publishedDateTime": "2022-04-03T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -846,48 +906,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
-      "title": "Face Scanner Clearview AI Aims to Branch out Beyond Police",
-      "excerpt": "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently — the Ukrainian military is now p",
-      "sourceUrl": null,
-      "webUrl": "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police",
-      "originalUrl": "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.aawsat.com/sites/default/files/styles/large/public/2022/04/03/1000.jpeg?itok=BR_JAnpB",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp",
-      "cdnAmpWebUrl": "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp",
-      "publishedDateTime": "2022-04-03T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "الشرق الأوسط",
-        "domain": "aawsat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

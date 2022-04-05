@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Face scanner Clearview AI aims to branch out beyond police"
+    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently —"
+    publishedDateTime: 2022-04-01T19:22:00Z
+    webUrl: "https://phl17.com/business/ap-business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
+    ampWebUrl: "https://phl17.com/business/ap-business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
+    cdnAmpWebUrl: "https://phl17-com.cdn.ampproject.org/c/s/phl17.com/business/ap-business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
+    type: article
+    provider:
+      name: phl17
+      domain: phl17.com
+    quality: 59
+    images:
+      - url: "https://phl17.com/wp-content/uploads/sites/7/2022/04/95496aaa47cb4607bac96fef8b9f7fb8.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Face Scanner Clearview AI Aims to Branch out Beyond Police"
     excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently — the Ukrainian military is now p"
     publishedDateTime: 2022-04-03T10:03:00Z
@@ -54,15 +70,6 @@ related:
         width: 2048
         height: 1298
         isCached: true
-  - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
-    publishedDateTime: 2022-04-01T22:16:00Z
-    webUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
   - title: "Clearview AI to sell technology to private sector as well as government agencies"
     excerpt: "Facial recognition technology company Clearview AI is looking to sell services to banks and other private sector companies in addition to working with government agencies. Clearview co-founder and CEO Hoan Ton-That told the Associated Press Friday of the company’s further growth plans,"
     publishedDateTime: 2022-04-04T18:49:00Z

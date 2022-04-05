@@ -26,22 +26,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Self-driving forklifts aim to make factories safer"
-    excerpt: "A self-driving forklift may be the next wave of warehouse and factory innovations, saving companies on labor and, ideally, making industrial settings safer for everyone. Why it matters: Demand for logistics help is soaring,"
-    publishedDateTime: 2022-03-31T10:00:00Z
-    webUrl: "https://www.axios.com/self-driving-forklifts-aim-to-make-factories-safer-d482316f-e00d-4f62-8d32-bc0a6d1ca1d5.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/HT77q7HYPLCRZC01gC5JRte9ZWo=/1366x768/smart/2022/03/28/1648504361258.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-
 secured: "85j4AFCIsuRdIZ57rxhVu4L15nP3UCE0EdeuDjTpmxslSLUbmhtF2GvWNKZXKTm2gd6J+229AzJnLIWp/sBoZ4hzicXNF49dI8LVZZcaWPOKgz3saiwnjKQRB47kAs9ChaKEk4Yiao3W0v8lfzzg3vTqFqud3/q/YfR0MZVlsr7cb77hamIX3ZR/kSN8G1ugCQ3s9wpZs/pRrs4/LPxmsZQQFsomE4Ub22Gs04uYzDckwvCl0SidsUTa5zXTU8ZTJNh4/di0Mgu063j6vM+E6BHU4Ee3MzFOQx3QGCiuTYXfy95fA6cdGnoh7zIY9q7KaFxiAwpp+l54HKKExXJS6b9vXJr37MSVm+Sb1RnEETE=;oiLAZSwxZQ8/znkpJeRhcg=="
 ---
 

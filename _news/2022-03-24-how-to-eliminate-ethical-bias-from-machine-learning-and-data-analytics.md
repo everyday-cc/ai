@@ -3,10 +3,10 @@ category: news
 title: "How To Eliminate Ethical Bias From Machine Learning And Data Analytics"
 excerpt: "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em"
 publishedDateTime: 2022-03-24T09:35:00Z
-originalUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-webUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
-ampWebUrl: "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
-cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+originalUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+webUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/"
+ampWebUrl: "https://techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
+cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 1727
     isCached: true
 
-secured: "HN73vWDB7SiZjpKplTKiOm29mGGB8ewDIBkKJI85daWS663kvrzyEepX1HAAvLaXhJ4VFWf2RjhZOZ+NUl7iYbgXs2s6IkI+JsJFa7sP6QjB6PJXVFWZ7Kt0bMJEhDXExreu0lkFk/6HM8OjllWBssaz9h0pkYf2hz/r4fQQjK/NwFTxBJX3o5RaPUbdZFe4R7EdIff6GIj1pLoEH1mnNrPPqehVzeZxkOVLtsd+gIV9HjhOpIVgjZWuRdLoYFb6WGAYbqiZzKJrgp1mD45rV+s1fMLt+ZTFQ207zGJhINHXuvQZunZF6A9QFSamOL+pt2qb1Xz2m7eK+OLvJ9GoF+p/OKaqV2iiwhOpucQ+nc4=;fFlDESxz39yOC8JC+3Lu0Q=="
+secured: "miP/MzlIYeZohNufpDtOrQC15PFw/yQrojWmgc46mWQyxKC/l3lKobcVbhSMNwwjIF7UU1rRYDz4KQSGUhQ4nlv0UORVAUyM44LwGyc2NngEM8LN94qJ7eTbTdklDMssry/czdx5DQccwG5r5oI2cU9yxv2SCLm6TH4BeLxCPZUFZ7ryyqzGIwL6Rx0TTOYSB596M+3JkTmByWD+eQo4CFCvePPWmTDtO0ipZ5SnpckLQWDIJd97Z1Jh/7+RN+7EXq/eTFe1IF/bJi5ktw0k/Y+DH6rV3lYxpqJVrxfFV/On79wvhnCc5yal9QfMwPaLF+6pdwAkuR2DCfmffJY9a5ApK++xvNOGPtDDuhCrA2s=;68uCvO/Ef8buPDe0e28YGA=="
 ---
 

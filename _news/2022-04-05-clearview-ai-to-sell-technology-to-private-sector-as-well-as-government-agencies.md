@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Face scanner Clearview AI aims to branch out beyond police"
+    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently —"
+    publishedDateTime: 2022-04-01T19:22:00Z
+    webUrl: "https://phl17.com/business/ap-business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/"
+    ampWebUrl: "https://phl17.com/business/ap-business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
+    cdnAmpWebUrl: "https://phl17-com.cdn.ampproject.org/c/s/phl17.com/business/ap-business/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/amp/"
+    type: article
+    provider:
+      name: phl17
+      domain: phl17.com
+    quality: 59
+    images:
+      - url: "https://phl17.com/wp-content/uploads/sites/7/2022/04/95496aaa47cb4607bac96fef8b9f7fb8.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Face Scanner Clearview AI Aims to Branch out Beyond Police"
     excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently — the Ukrainian military is now p"
     publishedDateTime: 2022-04-03T10:03:00Z
@@ -62,15 +78,6 @@ related:
         width: 2048
         height: 1298
         isCached: true
-  - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses."
-    publishedDateTime: 2022-04-01T22:16:00Z
-    webUrl: "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
 
 secured: "T6khcRMWx0/now4UDW4FOD53rJksP2zWoPzXT21JawydKTt8xyFBnYwMoDbrLObAkxqzxEr8poj9SnAOHnBtodJLS7QtAw6UBM+yghZZJod+ZMC7cYPJvygrEc3sB4P2AEJa+jQi6H/IA2fozB1zF2ZWHJ6PaL+kVmi5tOInvBYtcV+sYPrldIM5aRds7Pw/Rfezp6eKhKzOr0dYj1yZQeotn4rqVoPxeCRwWgXbIHwsjXvo54BwEEgG9x2ZottzBNr0finyGjYPMpq2AvVz3bYrnw7f9/XCNaXuSwnEAaeb7kWZ1T35TqoPktRUEL6CxZmpKeDGjDJjycfv1YCLsRYv15bv4y1JsP4qf9joas37LbkE54DGQtcjsqHCmIT0dCD+dDCSZ/tQq6ErELeaI4v3OvuhO02m1P3xdBhPQ6zEKb3tO11zOH4UGkrUhrbYRfe80gaHSEIiZ7eKEkbfPj6MyhaZDLK3Y5OxvcT+/7ez2rhU6lDo3mIGfjEHqlM2RrNj4I7whs0bljtMPHM7dQ==;KrvolHDeZCbMu0PUnQIMsQ=="
 ---

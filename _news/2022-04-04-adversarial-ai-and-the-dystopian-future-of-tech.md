@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -30,35 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Legal-Tech: Artificial Intelligence and Robotics in the Legal Space"
-    excerpt: "Legal technology services, artificial intelligence and robotics are on the rise and expected to be in even higher demand in the coming years"
-    publishedDateTime: 2022-03-31T10:27:00Z
-    webUrl: "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/"
-    ampWebUrl: "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/"
-    cdnAmpWebUrl: "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/"
+  - title: "Top ex-fund managers launch £30m AI and fintech fund"
+    excerpt: "A group of top ex-fund managers is launching their third fund in as many years aimed at channelling funds into fast-growing AI, fintech and mobility"
+    publishedDateTime: 2022-04-04T05:00:00Z
+    webUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/"
+    ampWebUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
     type: article
     provider:
-      name: herald.ng
-      domain: herald.ng
-    quality: 89
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
     images:
-      - url: "https://i2.wp.com/www.herald.ng/wp-content/uploads/2022/03/43F2C738-3662-46DF-966D-0BB1E989D49B.jpeg?fit=705%2C435&ssl=1"
-        width: 705
-        height: 435
-        isCached: true
-  - title: "Scientists use AI and robotics to repair spinal injury symptoms"
-    excerpt: "A team at Rutgers University have figured out how to regenerate tissue for spinal injury symptoms - using AI to create therapeutic proteins"
-    publishedDateTime: 2022-04-01T11:43:00Z
-    webUrl: "https://www.openaccessgovernment.org/scientists-use-ai-robotics-repair-spinal-injury-symptoms/133041/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 69
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/04/RN-spinal-cord-AI.jpg"
-        width: 468
-        height: 311
+      - url: "https://www.cityam.com/wp-content/uploads/2022/02/GettyImages-1238230801.jpg"
+        width: 594
+        height: 396
         isCached: true
 
 secured: "gFB9iafbshcyrdZERn9Tayg64iKRmKLiEvCiCfDpvcqk+9/ZLdBrOlsQZrW3rnC6w63NEGnHcZx8bhUzaoBQAjw4/eNr8cpsLUDLxwOHOZ+fIg76hHrQ6IvQhMi6TZWDyaitTlz3I6586XW9Uc1t3oY7qbgHG4Q/KJzCdIEThj0gq4F9KLgKkNNYt8231+ERwPKD0CvIrV7h1dyusqyaOWrXm364sD3esX6OlXaWT17KkOfkRn+KXQlhcPg1zbeEOxcQSK3BWjmtZ/vspNJ50HWu8lY7utIDw1Xr7AFLhf6B78lK8HjmyGivhpYkHIvKj53aCnkPJ7pitWZzG3uV1jc+rgplWhopATiFxE5rNhI=;LKYPr43GZ+ydCtWPyVn6UA=="
