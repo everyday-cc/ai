@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to
 webUrl: "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 4800
         height: 3000
         isCached: true
+  - title: "LinkSquares plans to become a legal AI 'platform' with $100M"
+    excerpt: "LinkSquares is one of the first Boston startups to announce a multimillion-dollar round of financing in this year's second quarter. The seven-year-old legal tech company said it has raised $100 million,"
+    publishedDateTime: 2022-04-05T09:27:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/04/05/linksquares-funding-platform.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "52JC3yFQioXDqsXdBwcfXLF/QPlTPxGPE9OHqNjDaLXz8dbITQXQjmCYPSvS1Xtj3vrh3HMg99aHMxGfPohvTK/Yyna3H71xpk6E7aN+Y6KSGRKwvT9FtleDFU57u1PcKDiN6S6vZG85CR/gdYqv3foNH2GXyuysj2soCaj2AIEDA8nbPHRpYjxLLyUBjnyyNWkCzkGZTnj8qm5AXaPlM2fqip3OTv0TfCKE8iHAOhMhTh9AhJXxVv3P+VwmB5/H667qZE8fqsmLZGM52QhfvAgU0Pr6I9UwQ003ALqC8nOON1zAkDPpRPUyMnQkQPv2cYd0Zze4YEwaLRXrMHwjq+XH7Ut2CGJpZ0NxVqrEvgp8bjd3QURxrds1QQv+/NC39mvQw6bncQ3vPH7zuhO5oidx0kReWd4EFy/bWm6mFabPFNWiiKxX7NuJ+EUjra7p/HQa48Y32Q1wGbq34zjnTDiw2W8Jn1Mk4X46XrgOdvdLk6aB9JMGnDROv6ZCr1y/qmXcvwr2noqKl3bH/z0TiQ==;pt7YX8Gox7sqlb9RioZfwA=="
 ---

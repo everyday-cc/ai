@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-opt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "US developing AI for critical combat decisions"
+    excerpt: "The US Defense Advanced Research Projects Agency (DARPA) is looking to develop AI algorithms that can make complex decisions in situations where"
+    publishedDateTime: 2022-04-05T09:46:00Z
+    webUrl: "https://menafn.com/1103963914/US-developing-AI-for-critical-combat-decisions&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/05/AT_16587image_story.jpg"
+        width: 600
+        height: 414
+        isCached: true
   - title: "Responsible AI Initiative launches at Carnegie Mellon University following panel discussion including government, industry leaders"
     excerpt: "As artificial intelligence systems become more prevalent throughout all ways of life, Carnegie Mellon University wants to be at the forefront of ensuring that such AI technologies are being deployed in an ethical manner, limiting the potential for types of ..."
     publishedDateTime: 2022-04-04T23:29:00Z

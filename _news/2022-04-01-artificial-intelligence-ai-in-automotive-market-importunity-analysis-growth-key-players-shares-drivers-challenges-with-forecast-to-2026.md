@@ -43,6 +43,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
+    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
+    publishedDateTime: 2022-04-05T08:08:00Z
+    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
     excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
     publishedDateTime: 2022-04-03T21:39:00Z
@@ -66,6 +80,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 17
+  - title: "AI-based Sensors Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
+    excerpt: "The global AI-based Sensors Market is expected to reach USD 152.55 Billion by 2027, according to a new report by Emergen Research. The demand for the"
+    publishedDateTime: 2022-04-05T09:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-based-sensors-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 11
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "10HHiN3QhEMnm+9zuS3+4ctvmIJxFeqNZZPcjuedp4bPeffbicU5X26Ui1KiZbhTwAKKrYAQYUMdLV/KUGF/WPEBtzzYEq8sQLNE1FiHC777XLbwdo9n2ZGr6vxY5PVYqK58mBIyrP5j56sebWQYmRwZpi3q2kSOOJyJ1V+YPJh0tfdn1gKLK4A41QcwWqkUjeKiUqhY8MCoA3ZfJuj/parXGzqk8qP2Uq3kMXni7qVhs9H9MdBG/kB2+0dw0dC/cYz56nFUgqhMnpFSYtWYj3PpHoQMF0FOIGGLh0MB8UtT1PEkevBncQbk8W3YPz22cdh8EDtPjaWfMeXSWdSn2SIys/JvfGQ3WvNTRKkECI4=;QSg3GCIUrra1rUZVDZQq9A=="
 ---

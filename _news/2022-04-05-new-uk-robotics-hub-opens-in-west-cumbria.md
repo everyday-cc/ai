@@ -7,7 +7,7 @@ originalUrl: "https://www.neimagazine.com/news/newsnew-uk-robotics-hub-opens-in-
 webUrl: "https://www.neimagazine.com/news/newsnew-uk-robotics-hub-opens-in-west-cumbria-9599116"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 960
     height: 640
     isCached: true
-
-related:
-  - title: "Cumbria robotics facility is first hub aimed at upskilling N-plant decommissioning"
-    excerpt: "A robotics centre has opened close to the Sellafield nuclear site in Cumbria to aid the skills needed in decommissioning such sites. Perched above Whitehaven harbour, the facility, known as RAIC01, is the first of a network of robotics and artificial intelligence hubs to open across the UK."
-    publishedDateTime: 2022-04-01T11:05:00Z
-    webUrl: "https://www.thebusinessdesk.com/northwest/news/2095926-cumbria-robotics-facility-is-first-hub-aimed-at-upskilling-n-plant-decommissioning"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 43
 
 secured: "SZBddaKLc/iDSMmEG7j8dopKe4sAe4nUVNCskhNTSOC4yVLzZxKi92H/XYz39c4GlJdo4zSpAU0NDC/7P1IO3vOj9ESIGCX8dw6PVxescAkjIxQCy2jQr/XTfDsEzFvVn+oNqzWhZ3AtDERvTUFSbAwN4mD/zrVRt5XOjKF75wWnCtP5ZpS+Z1oOmJ4je9QgupfwiQUZ89/o/9DQ39bbIOCL2WTE8FVrBaSHvwkeMFKYvTH7gg2BB8Tpe4JR8u5oxg1Zyhcyr5QY9gT3v4OvdvqdUXWGm2rLUrq15/O+Jm3M1i/b1R30yLAYjcD+G+zW5s+7jOLtVXioH5nONC110fbdltoQFk8wHextdRb9ORY=;rvmGiTu6A3KZl3OdrQ+exg=="
 ---

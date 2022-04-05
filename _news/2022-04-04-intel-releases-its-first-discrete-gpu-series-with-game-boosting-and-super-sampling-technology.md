@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/intel-releases-its-first-disc
 webUrl: "https://www.electronicsforu.com/news/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,74 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Intel Shows Off its First Ever Desktop Gaming GPU"
+    excerpt: "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps"
+    publishedDateTime: 2022-04-02T07:15:00Z
+    webUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/"
+    ampWebUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg"
+        width: 1000
+        height: 560
+        isCached: true
+  - title: "The Intel Arc GPU Lineup May Be A Serious Competitor"
+    excerpt: "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?"
+    publishedDateTime: 2022-04-04T10:27:00Z
+    webUrl: "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/"
+    ampWebUrl: "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/"
+    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/"
+    type: article
+    provider:
+      name: Unbox
+      domain: unbox.ph
+    quality: 59
+    images:
+      - url: "http://unbox.ph/wp-content/uploads/2022/04/arc-gpu.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Intel inadvertently leaks the details of its flagship Arc GPU"
+    excerpt: "Arc Control is the name of the software that Intel is set to introduce to support Arc GPUs. The Arc Control software includes GPU monitoring capabilities, which was the source of"
+    publishedDateTime: 2022-04-04T06:37:00Z
+    webUrl: "https://www.pcgamer.com/au/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel shares specs of top Arc GPU - 175W TDP, up to 2250 MHz clock speed"
+    excerpt: "Intel has accidentally (or not?) shared parts of the specs of its upcoming highest-end Arc GPU for desktop. The specs appear at the 29-second mark of a promo video for Intel Arc Control - Intel's GPU monitoring app (similar to NVIDIA GeForce Experience),"
+    publishedDateTime: 2022-04-04T15:05:00Z
+    webUrl: "https://www.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-news-53836.php"
+    ampWebUrl: "https://m.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-amp-53836.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-amp-53836.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 38
+  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
+    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
+    publishedDateTime: 2022-04-01T17:26:00Z
+    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "O6ZhXCzWOrpAkS7UIWgqJomQ4PxEgJYcaRWCz+xG5A0ZhUwSrk3NzoHeh55ex1XvvLaXE5MX6FLl8nzwMC8LUtKH7c5CQY/y8IcPe9kKKk3GHVdeulr0m7X7M5P91MPb3RMpmrPZKEqGW2AR63tIpD6m8i5tYoZKoTNsQlV0zJAL5K9ycUld5WdFqnXvN7uyO9WpQ56Sl931ZAAAF4F6sf+DtNWiw+YE9b7slobU50Zfj/gEsoGKxEyh74o9nttnT8JgQ1QD3eMtxwJ+PcQAWZvbmcSFr0MHJwqhSmsP8qG9QK+TUJokKYrKXkeHOocNbXEnup4dORSo+f/KEYO9Ie9dFkPZrJSrdIIhpXFjrgTkIexRrLsqqeMWY2R24x0LmlnTnKPbSqp8ZiIkD9tuC+vwK/6p24Ku0/8epNOupUwlAyFDq2Z/KJ6SqOvkEYfXFKrwa9Z1kyhDSjkTo5oy5ekAl0aIc7IvKG34o8DF9pUWRpanm20QysYNJyvbJ1C800fxcXkrjKqb4MNuKNAT8A==;NY1W39t+bckrZi2UpuP2oA=="
 ---

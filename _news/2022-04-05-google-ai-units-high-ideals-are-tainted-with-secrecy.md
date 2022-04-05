@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-05T06:30:00Z
 originalUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
 webUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
 type: article
-quality: 69
-heat: 79
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
 
 images:
@@ -44,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "D1LEu/EZgjqRUOOj1Fl2AzetgmO9UEHeGoKeqylUe0P9q3js86+4WtND0kIB6KOitt3+P1PkAtKv2KK5ZFOHefBteZkJMbtyTJqSrKBVWwev+0wfw70VQAYaJE98fMD0CrWZdZ7MiAAmmzFCuR2B0aERBg3H371+D9naQqlvlYMe1kYpsPYNOch/RALUtUAcuZxx0rtsAbu8MbjbwMz5d0AeO5LpyEn43WX+D0CBWTdVuw2re+fXJOqI78YZa+cYw8OZMdod8rS8dYNYyAXozpx/Ps5C5THB1mulanZfC0Ez1G471wyue9S0WpNIxgddADnjKwxd5tFdCbsOII61QYDBK8CuKd9xapVhFVfQR0M=;4Xq08NMqVhiKSTShpYGTuA=="
+secured: "vD9Ry0YiQVimXqDT7qelhdgj4RN5MxGCHDg2zxGBmPhjrMlWtcFZe/3jbKcyExAmeIn4aBLcZtLNeAyb02yQ/IUxQgUgQSBhW487zr6a1APKTv3ZY4f7qNdwtQ1ztq6JiMX4xMO8GEhcfc5RkEbzAQLcM895VxmvSTDz6/m/bXb+gjZ/w8DFXn1/CWNahSlcCV/5qEDBMBkDqcd1hSVVfla5Hb7ndONIqZ7SfquJYhOfdawQmnm5MHVuv+qv8L98ei5x6RRYgFMfNyO4R/5/v/CXOJzUAXmqrJ0vXzxse6h4AMgMQVCd8x3PuhZ4XiUZlIgCWj7Tdi+kFaZaZ+28uov7meU4Y43PnlzGKEVA59g=;bedvXZRBvZiFhMoCT4RfLg=="
 ---
 

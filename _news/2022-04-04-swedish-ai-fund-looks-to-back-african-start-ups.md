@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ITWeb
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Darktrace AI Stops Sophisticated Ransomware Attack At South African Financial Services Provider"
+    excerpt: "Darktrace, a global leader in cyber security AI, today announced that its Autonomous Response technology, Antigena, successfully stopped an in-progress ransomware attack that recently targeted a financial services company in South Africa."
+    publishedDateTime: 2022-04-05T09:54:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220405LN14376/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 25
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "New fund targets early stage African AI start-ups"
     excerpt: "The Swedish AI Fund (SAIF) is an NGO with the purpose of providing financial aid, grants, and scholarships globally to those who are working, researching, and/or involved in the AI industry towards equality,"
     publishedDateTime: 2022-04-01T07:27:00Z

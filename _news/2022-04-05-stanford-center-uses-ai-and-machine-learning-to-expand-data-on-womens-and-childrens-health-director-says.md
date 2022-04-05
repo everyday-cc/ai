@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-05T06:50:00Z
 originalUrl: "https://stanforddaily.com/2022/04/04/stanford-center-uses-ai-and-machine-learning-to-expand-data-on-womens-and-childrens-health-director-says/"
 webUrl: "https://stanforddaily.com/2022/04/04/stanford-center-uses-ai-and-machine-learning-to-expand-data-on-womens-and-childrens-health-director-says/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://stanforddaily.com/wp-content/uploads/2022/04/2b67600fad1371099931761663a3d3daa493d452.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "NCoViwikFbjZqENmO8kiRhfPrwsbKqVp3oGw09FMz9i8ML2LkN5S4KsuBvL5tSg2NCt/UroEShM5Byff2ky1n2+Q50YKkwORpYmY9x4UloOXxt+3mTCnykkZA8pbr0S1yOACSZgVqVTQGiBNYPvDFammT+Ebp5RbX4W2C9O3c9PUQNTLUM034h6ju2BbffNXdYn1GBmk5/9RKtrPRdcS+UEwpzBGy2NPfRZSt3F96mq2M9E6AiF1y6y9rjfFhez42KJOJO1Tsi6TN937wc+LCQpm8D26RMxx62nuAwExjgxaJ1zJSAJkXxglZb2co6XC5nmA49m5FO2zEnpCKXopWv9o9R7YLNNXFuXIBx8SwN4=;scdroMMS4IsgrZb+iUMJQA=="
+secured: "r5Ss1t2gCxID7jqyyndMMlSbvzgO0KQDs8F4HMI4+9Sz3fIL0Irg+laaIInbt1I856EqZDIWsfdZODLrmAPBJLWXimIGz29IaHDOsTO08vGRvE2xQtPBaK+jzgE8oWFIArMiOtdKeCWEFyhxtcRYPHsibGV4wLF3ACgqvWCk9s2+mF5p1RxlSPYgNSSI/lKvN3w3Jp1nMmx4aBXLiUeXG005OB2fTfdxJ+1V20O5pU3ToW2QPJykWmrRDiJQZPkVSmXtfcWSf0tTnmB4PsIiJfzDKe3bbNX3sFmCqv/zpeQKUdScBlDrMZPZHk+fI9G2M6v52gCTq2CEqTDyobEkIVjka7QvVs6ZoCVuwMhDxoQrHGGCoydmTVCyPyW29bCwj4VQbl70aiQ0TycAggQDKxCzCIOniLP6AbqU8OTBV2o4VhqGuZ2p0Mqjb9lMaLb5NcZwEuB0KaxqfJzhwsSMs4pLYmC+dflQbjdXVfAR6fSXvub8XxqYABsHcht7I2v3Pj9G1e2sstVdZipbciCnWg==;5Wok3Svj7ST3KeJlB8U/UA=="
 ---
 

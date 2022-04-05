@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Arc-A GPU offers full AV1 hardware acceleration"
-    excerpt: "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC."
-    publishedDateTime: 2022-03-31T16:31:00Z
-    webUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/"
-    ampWebUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
-    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
-    type: article
-    provider:
-      name: provideocoalition.com
-      domain: provideocoalition.com
-    quality: 59
-    images:
-      - url: "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg"
-        width: 1420
-        height: 946
-        isCached: true
   - title: "Intel Shows Off its First Ever Desktop Gaming GPU"
     excerpt: "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps"
     publishedDateTime: 2022-04-02T07:15:00Z
@@ -73,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel shares specs of top Arc GPU - 175W TDP, up to 2250 MHz clock speed"
+    excerpt: "Intel has accidentally (or not?) shared parts of the specs of its upcoming highest-end Arc GPU for desktop. The specs appear at the 29-second mark of a promo video for Intel Arc Control - Intel's GPU monitoring app (similar to NVIDIA GeForce Experience),"
+    publishedDateTime: 2022-04-04T15:05:00Z
+    webUrl: "https://www.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-news-53836.php"
+    ampWebUrl: "https://m.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-amp-53836.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/intel_shares_specs_of_top_arc_gpu__175w_up_to_2250_mhz-amp-53836.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 38
   - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
     excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
     publishedDateTime: 2022-04-01T17:26:00Z
@@ -82,6 +77,15 @@ related:
       name: PC Gamer
       domain: pcgamer.com
     quality: 19
+  - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
+    excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
+    publishedDateTime: 2022-04-04T11:50:00Z
+    webUrl: "https://www.electronicsforu.com/news/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 7
 
 secured: "3yqEJG5B/9RFVSLhP0+UuWKfcz9uo7IGAZb5DYwUkL6h7FVAxowBMR13Im8z+vjOSBThCLJduCmSCsQaxfVtn5QdZoIDkilYq8LD8hjv0EQcLmOw9ytrtWM+sA7mm/LcY4+PKGpAqpWONUcli6BPpA0JXFFEzXtvLSMxtaGcCLut5nz6bJlmiFNMJw+96wW/9Jnag2hnNma0yIcGS208nSKs6IBlGSO0LBBiiRj2sGo2dNTVpGJVHhgsS04yENoquldX8Y6oQJkWC0T4u8hs+w0TpOgwFktSYCekl4ENq8JK8jK9k/sdJysfQVIJlEfMkn6V3h3d2shLYUmu2i11O84jarEveeMIy61JvqyfnqA=;SfPfrN2Wm6645cNqrv9Lpg=="
 ---

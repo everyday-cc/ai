@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Mirae Asset partners with AI-based fintech Qraft Technologies"
-    excerpt: "Park Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models"
-    publishedDateTime: 2022-04-05T07:21:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802"
+  - title: "Bharat Bytes: Demand for tech talent; Google’s dual billing; ONDC launch; unlicensed fintech"
+    excerpt: "India to witness massive demand for tech talent. Digital transformation across telecom, engineering, and healthcare sectors has made software, big-tech, and data professionals’"
+    publishedDateTime: 2022-04-03T20:30:00Z
+    webUrl: "https://www.computerworld.com/article/3655930/bharat-bytes-demand-for-tech-talent-google-s-dual-billing-ondc-launch-unlicensed-fintech.html"
+    ampWebUrl: "https://www.computerworld.com/article/3655930/bharat-bytes-demand-for-tech-talent-google-s-dual-billing-ondc-launch-unlicensed-fintech.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3655930/bharat-bytes-demand-for-tech-talent-google-s-dual-billing-ondc-launch-unlicensed-fintech.amp.html"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
+      name: Computerworld
+      domain: computerworld.com
+    quality: 33
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202204/2c4bd0b08b3248539a1a524032d091f6.jpg"
-        width: 980
-        height: 558
+      - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Israel takes global lead in fintech"
-    excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
-    publishedDateTime: 2022-04-04T15:11:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 4
 
 secured: "j+0MXetmak4H7OM7qBbwYvjr5Wr+ufkOYkir5xOcuo30pTcgIxJvJPwKM3eD36vGqEgPp2JatURpv8alu3uP9CFYpVfmY0bsrcW55d/Mm/qclqxB+yTWZ4Ii89FZdHWytqr3q3wj0IF5imnZj2wu9UYgnAeRHrelqkoFLbo/ZPztah0ABCintnYbYTbwabvDbfzlZVT8rjQoQw6vQA3dM6cUzXT8rxlCrD7YaLOOWgj216t06ii+JFzKTnTtiVRvD6m3InGCTDtU0v0+qKgeBxIbt16oj1VLZ7Yv40LpEM0sP4w5H2X/zq17vDirLHkbdhr+7cR6kEyGEhBtsg6jO290VIwEmKs+yIExQS00Oig=;zkKUEqE3DaCCcxA2aOl13A=="
 ---

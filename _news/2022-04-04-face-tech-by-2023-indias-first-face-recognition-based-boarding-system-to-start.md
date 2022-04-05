@@ -37,6 +37,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facial recognition system to be launched at Pune airport in 2023"
+    excerpt: "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\"."
+    publishedDateTime: 2022-04-05T08:39:00Z
+    webUrl: "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/5_tue/img_1649144346258_275.jpg?"
+        width: 537
+        height: 356
+        isCached: true
   - title: "Delhi, Kolkata, Bangalore And Four Other Airports To Have Facial Recognition System By March 2023"
     excerpt: "The government on Monday (4 April) said that the Facial Recognition System (FRS) under the Digi Yatra initiative will implemented in a phased manner. \"The first phase is planned a"
     publishedDateTime: 2022-04-05T04:59:00Z

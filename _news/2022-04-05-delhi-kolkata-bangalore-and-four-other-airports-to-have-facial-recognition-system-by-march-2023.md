@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facial recognition system to be launched at Pune airport in 2023"
+    excerpt: "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\"."
+    publishedDateTime: 2022-04-05T08:39:00Z
+    webUrl: "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/5_tue/img_1649144346258_275.jpg?"
+        width: 537
+        height: 356
+        isCached: true
   - title: "Face Tech By 2023 | India's First Face Recognition Based Boarding System To Start"
     excerpt: "In a bid to decongest airports and streamline passenger experience, the government has said it is going to roll out the facial recognition technology at airports across India by March 2023. Varanasi,"
     publishedDateTime: 2022-04-04T13:43:00Z

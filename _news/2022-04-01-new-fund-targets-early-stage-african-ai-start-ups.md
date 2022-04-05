@@ -34,6 +34,20 @@ related:
         width: 816
         height: 414
         isCached: true
+  - title: "Darktrace AI Stops Sophisticated Ransomware Attack At South African Financial Services Provider"
+    excerpt: "Darktrace, a global leader in cyber security AI, today announced that its Autonomous Response technology, Antigena, successfully stopped an in-progress ransomware attack that recently targeted a financial services company in South Africa."
+    publishedDateTime: 2022-04-05T09:54:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220405LN14376/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 25
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
 
 secured: "lFXSMB1vvWU6PNiKqbyQa4VyP7XsFEHp4JwntDqXZPSc2UAILsPYPVZAeU8wGxrlJbYNllHtxhtGZpHnNf1sBH/UykXnD/oN5GBzLMB0wiLtd0hBTQDUprjJenKSv3QG1aoAOjfl4LeOHV1AyAyaJDMG1wlIexwnJxMnaxtY85SuvJKJ6WHYnNLKX/Q/lwbVww0JllNFVfzFygRFj5hZRVtUm255fceaR60NmrEW36gtxSpUUoCcLKtjZAToF4OaGdn3rh/krhCaKtP4n5bq5K4BQSOmc2xVOEGGaBEHjpMcfO0EiEG3G1cwPjc9H79EcPxAlOUiHUD5gOdRvm0O35Lav0lWpzPuWy+o2xFiTsE=;SNwV/J+uZfIgwWMSGabfBg=="
 ---
