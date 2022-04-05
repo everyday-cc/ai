@@ -2,7 +2,7 @@
 name: "Graphcore"
 overview: "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence."
 type: "profile"
-heat: 77
+heat: 58
 
 website: https://www.graphcore.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "graphcoreai"
   url: "https://twitter.com/graphcoreai"
-  followers: 8314
+  followers: 8313
 
 size: 51-200 employees
 yearFounded: 2016
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
 
-secured: "4ApppHBP53LzNeFABQHgVUIrdneSjSZzOLsZA/mb7dcHpBQJy/L0B3zF4wKBQoSLweGwOd+XrnEwUj2qMPE5grpOO43NaSYzi91BxpvNJNDzTFn3kGdJpJp4/ElEG0o/M9VOVN51HMeC6bfG2WXXxw1sKUBtRN6ZCU6e+bscRyiJZ8jOU8eQkzDkO/Srk7z8vIs/wj1nzZ3u7KTuw9LOdShc4sH6jzRbn9JGEuoViJ3jCH85LVyhHiRyWro3rWNbx8T4s3kd72ZUSnoYjagqA+EBCefPX81fgXrib/nW03YsXqZ4YsYP7LsBG9zNvKSwakOGsX5ZQRf+qQloZco/lQ3H02+35c5lEWx9jYnTzHRzC8L39yZJpO0KSfjelnvH3pzTjaZyeImjcCYftwEgvyFnTksZjv2gzxDnvQb7jdU=;WfLZ/L9sjnbhDndeGXS4DQ=="
+secured: "pGyKf8Tn+uuRpTGy7fMu1jveUcGlQRTKOG/POqtiSg7ttRqNUFZy4oDP/jFzjRzCwIp4l/Iz7kmxL7hdjRmDXP3ooq1dfn7/ujdZG+p+98Vf0LMJwTN/bY0WqoFWYmw2KY1+MJAKedCB3cd3MI6bh1AEj/vaYDm2MKivqPI/HM2mH+VkLDpmO05xpsxKV8EM1zA1Ah1OdSTh6pD0y0Q1HYdZu3KcwAIEO3TTtA/QSHF2epeHpnd+RD9fi7FL6YXFILv94jj0rjvB67La9HyMKcpIKPZocKxFICGcNn+cVoMVwCxwqdGMPrF3LBpbvoHl1TbPTj4qt5MMDTu9v2Ewc3V7rKW0kAkp2eVYO+eefiC1qX6uCF367zkFFtG96M7LnJYpcPo0Tvh2dE3S+/50zEVa7BA02stRA76FQk4+SKA=;Bhe0sF0MovQTR2FH49fnvw=="
 ---
 

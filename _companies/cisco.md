@@ -2,7 +2,7 @@
 name: "Cisco"
 overview: "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. "
 type: "profile"
-heat: 183
+heat: 218
 
 website: https://www.cisco.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cisco"
   url: "https://twitter.com/cisco"
-  followers: 731617
+  followers: 731612
 
 size: 10,001+ employees
 yearFounded: 1984
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Cisco"
 
-secured: "5SUKHcfeiTIyDE+A+gNWr3WPgjYdmaGsS5630X0fknIXO+tJ0k2eYTPG7lKUgBKx04yfKHP8+lcc0FQK8JEuuVk4d9zSnNvgpK2AByiMDMEgk79PASkCMSq1fa7KWrMGIzTQkqBNvQoL+tsQXfnRLeGbBYAB4NmvVm3LMCIqSF37b9dHk77405eIyj+xzEJUswxza6W0KJpMiiHflhIu226S3jTGZ2aDTVtl0FT+hsChxthM9xPiqM2mcnq3zPdEfhyobUvPI3LUu5Vy5zyZIVwCwCOxJUB9o5koyd0WxY/qnhQ9eeWiMfi+dO1Hv6847TBDzVTDESp+yQJy14bFTi47RNKMEmeOh+Ck/9NaaoN+F3mwJfV8OYd5KPwPt4cetHQ+JpEj6/VYiwK/NvD+fRhZFMWwkq3Ixfv2pC8NEt0=;8ZLfNxvEQM7CnKnAXKUWzg=="
+secured: "IWA3dGvpqLa5gA4/lw3pHDh6+M1Q8G7Yx3vca1d7fGJji0WR7rbcU0HJm2pprL3RQ4E85a/fEfGApFSjqKAvrN7mpVnHxAR9M/eiurT6QI9vPO/qNYsJOVtzsUivMbbXd/oeJ4MCoYPgFHMRG42UfoO2xqG4gQl/oCcdYlobZ5TP+E7vHlw+LINYKQxm7F8ZVBPJ0O31ROIoD7ci9WUyBCLLnw2tGtXdICcxxjKJP7n7pfgZ5OUKV/b1xSlviDbBNmNcPZdhWXXHVFwnbh6f0Y2wZ/UkRTwOTvopdGb7RNW9jRx5LJuQeYuhPtsqasHU6UiBm/a1sqtnqqxT+mMOSAq/PwC+1ZFix7N3JUHIS7bFxkQlm6vzxgmwaZLSwJ/9NULK9Gl5OJBOyNtavIuPMbPt2RIFof685UX7q3E8fV4=;5AX5uuF0hAzDMaGS8/Dq3w=="
 ---
 
