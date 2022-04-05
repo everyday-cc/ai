@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-ha
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Intel's Arc GPU will be a \"limited edition\" release in 2022"
-    excerpt: "While integrated Iris Xe graphics represents what Intel can do with ultra-book-level GPUs, the company is also looking to challenge NVIDIA in 2022 with its"
-    publishedDateTime: 2022-03-31T14:33:00Z
-    webUrl: "https://www.onmsft.com/news/intels-arc-gpu-will-be-a-limited-edition-release-in-2022"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/03/Arc-GPU.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
     excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."

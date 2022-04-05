@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Saphyre Nominated for \"Fintech of the Year\" Award by Global Custodian"
-    excerpt: "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their"
-    publishedDateTime: 2022-03-31T14:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian/article_9f8665e5-9224-53eb-9e9d-e17c1315e48a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/53/0534993a-2991-5ae7-ba23-1246f5a037ae/6245bb7d61c86.image.jpg?crop=1920%2C1008%2C0%2C31&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Saphyre Nominated for \"Fintech of the Year\" Award by Global Custodian"
     excerpt: "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual \"Fintech of the Year\" award. Saphyre nomination for Fintech of the Year award."
     publishedDateTime: 2022-04-01T07:19:00Z
     webUrl: "https://www.finanzen.at/nachrichten/aktien/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian-1031323021"

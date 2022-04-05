@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/deepmind_harassment_open_letter/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,45 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Appeared At The Center Of Sexual Harassment Scandal"
-    excerpt: "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ..."
-    publishedDateTime: 2022-03-31T13:16:00Z
-    webUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/"
-    ampWebUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Whistleblower says DeepMind waited months to fire a researcher accused of sexual misconduct"
-    excerpt: "A former employee at DeepMind, the Google-owned AI research lab, accuses the company’s human resources department of intentionally delaying its response to her complaints about sexual misconduct in the workplace,"
-    publishedDateTime: 2022-04-04T18:18:00Z
-    webUrl: "https://www.theverge.com/2022/4/4/23003311/deepmind-ai-sexual-misconduct-google-alphabet-fire-researcher-accused"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
-  - title: "Google’s DeepMind AI has taught itself to walk, and it’s as entertaining as it is fascinating"
-    excerpt: "Google’s artificial intelligence company has created a program capable of teaching itself how to walk and jump without prior input.DeepMind’s website says it is on a “scientific mission” to push boundaries in AI."
-    publishedDateTime: 2022-03-31T13:06:00Z
-    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/googles-deepmind-ai-has-taught-itself-to-walk-and-its-as-entertaining-as-it-is-fascinating/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 43
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31130640/Img32953519.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Deepmind rubbish at spotting sexual harassment"
     excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
     publishedDateTime: 2022-04-01T09:56:00Z

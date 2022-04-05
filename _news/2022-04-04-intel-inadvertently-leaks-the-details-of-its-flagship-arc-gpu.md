@@ -73,20 +73,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Intel's Arc GPU will be a \"limited edition\" release in 2022"
-    excerpt: "While integrated Iris Xe graphics represents what Intel can do with ultra-book-level GPUs, the company is also looking to challenge NVIDIA in 2022 with its"
-    publishedDateTime: 2022-03-31T14:33:00Z
-    webUrl: "https://www.onmsft.com/news/intels-arc-gpu-will-be-a-limited-edition-release-in-2022"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/03/Arc-GPU.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
     excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
     publishedDateTime: 2022-04-01T17:26:00Z

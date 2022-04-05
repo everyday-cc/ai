@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/04/bayer-reloads-leaps-with-e1-3-bill
 webUrl: "https://medcitynews.com/2022/04/bayer-reloads-leaps-with-e1-3-billion-to-step-up-investments-in-biotech-innovation/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Bayer set to drive breakthrough innovations in life sciences"
+    excerpt: "Bayer has recently held its first Breakthrough Innovation Forum, focusing on the opportunities for health and agriculture by leveraging emerging technologies."
+    publishedDateTime: 2022-04-05T06:54:00Z
+    webUrl: "https://vir.com.vn/bayer-set-to-drive-breakthrough-innovations-in-life-sciences-92419.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 24
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/thanhvan/042022/04/11/in_social/5059_photo.png?randTime=1649145757"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "R4LRyZ5FyJi3UxuFrBg2Wbpz9qBrSc01fNxXgZfYVkDWmkpUWgQjvhd6GtCX8+CnqmUR+bvgLIu75nTWeY6Znl/dLycymMIiyf4Jem30Nm17xFdUXhZD3kVssQyfC1L0Vmot4vvhKwgL18Z62ibZtLTWuiC9GAXGaVfN3MAPbeZYl9J3V9Xy6H+NCMJck/wEXImOPenZOZdcUWomExVtNo2kVQ8KWKDVUsGs97jLgAiJcDRrSjLtCJbBT9ZLeVPd3rK6L/GRapkfCAdM1JbdAcs/1aFGAz4qtLyFnKe+fW5JP/Vwcb56NTxGLQLSPgZihmVuyMLOmWXi5x7F6a6ILqnbcktDIwR+uMZUrolBBefKmoYanFkcooHWl4nmVij/NmSdz+iAAVeJCSyLpP/gtiXqDG3z2trldAVyjofAPmb6IFOhMapTT3v3Iaff2NARvKLtfi6R7UfPFOxfXqTHyCmBYlWyAfxUqzctzI09kvr0Fzr4e6FuGCIr2YCMDJzjJ9v6RuyS6uuHE4PylZj+3Q==;RG6TGTPVsImVXdQm53qXMg=="
 ---

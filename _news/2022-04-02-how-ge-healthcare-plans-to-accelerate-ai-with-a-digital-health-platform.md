@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to
 webUrl: "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Google bets big on health AI"
-    excerpt: "In 2020, it went on to release AlphaFold from its Alphabet branch DeepMind, which mapped the structures of proteins from their amino acid building blocks using AI to great attention. Then in 2021, DeepMind released a second spinout, Isomorphic labs ..."
-    publishedDateTime: 2022-03-31T17:21:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-bets-big-on-health-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Policy experts stress the need to regulate artificial intelligence in health care"
     excerpt: "While AI is promising, there are potential legal and ethical challenges that must be addressed, according to the experts."
     publishedDateTime: 2022-04-01T20:38:00Z

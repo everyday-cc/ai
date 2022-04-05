@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Israel takes global lead in fintech"
-    excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
-    publishedDateTime: 2022-04-04T15:11:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 4
   - title: "10x1000 Tech for Inclusion Enhances Fintech Learning Programs to Continue Bridging the Global Digital Skills Gap"
     excerpt: "Fintech training platform 10x1000 Tech for Inclusion (“10x1000”) today released its results for 2021. With the vision to train 1,000 emerging talents and tech leaders each year for ten years, the platform saw a total of 1,"
     publishedDateTime: 2022-04-01T03:58:00Z

@@ -34,20 +34,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 64
-  - title: "Google bets big on health AI"
-    excerpt: "In 2020, it went on to release AlphaFold from its Alphabet branch DeepMind, which mapped the structures of proteins from their amino acid building blocks using AI to great attention. Then in 2021, DeepMind released a second spinout, Isomorphic labs ..."
-    publishedDateTime: 2022-03-31T17:21:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-bets-big-on-health-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "qiHjHk5fkgtQi3LxCW6cOmlCkj3oTysJONR4Rr/D9mJ08MEJdecH6I/SHl7O654x/RNofH7CXW/OZ6pGUmfuq/+wxiZtc8wDzQa0L6tmqIh5Nx+VA3PUEMvVVsF0PSaQLM0j81J2gXkpC4uK8cKAJ/7KPbetZrRiefoAq/0GxytRErHr/idmUQCsrfOPeKD4itd82b1qTCoARFkrVlgsYPsxF1AdtxV45AqjeGnOMu8MF85Ozh/NxYkkMfunyeJAyXMd3SfKC1YvdXPIZrSGBYGN8yd5Eg35qC4aDLXVsQzfClJex1VTcCsmDGKvuckhNS9htPxssPHYl0kcUvB+L6nrHVaD+qry0q3r1wsAjm5PGWt9vfdJAk3sP2CNtOcsOVUF7gR2OVMQjM+Lj5jSUE6UJb8zrvxkXAGwhXVA5f0j0EWPHSX8Sp1XTOHMhGOXejuvb+8T0vtV4rXxyxgucCEu80ManyjHEwpnHo4Dp4M+9iKaHwzu5bBQn0awWkUi0z9dpll86bAK1F3+BkG3BQ==;MYdOHXtKW6Q7SkZCa2aGoQ=="
 ---

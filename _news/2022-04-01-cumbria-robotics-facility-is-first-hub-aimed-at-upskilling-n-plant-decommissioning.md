@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New robotics hub opens in West Cumbria"
-    excerpt: "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK."
-    publishedDateTime: 2022-03-31T14:54:00Z
-    webUrl: "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria"
-    type: article
-    provider:
-      name: Department of Health
-      domain: www.gov.uk
-    quality: 54
-    images:
-      - url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/146899/s960_RAICo_1_Soft_Opening_GOV1.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "New UK robotics hub opens in West Cumbria"
     excerpt: "A new UK facility has opened in Whitehaven, in Cumbria, as the first network of robotics and artificial intelligence collaboration hubs across the UK. The Whitehaven collaborative hub, opened to stakeholders on 31 March,"
     publishedDateTime: 2022-04-04T22:53:00Z

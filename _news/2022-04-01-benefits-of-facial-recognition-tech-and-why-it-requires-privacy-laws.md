@@ -25,57 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "A Berlin train station is to trial facial recognition technology in its security cameras"
-    excerpt: "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ..."
-    publishedDateTime: 2022-03-31T13:53:00Z
-    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/"
+  - title: "BitCenter UK Ltd. launches the first real-time mobile-facial recognition technology, FarFaces Security"
+    excerpt: "Bitcenter UK has developed real-time facial recognition technology-FarFaces for mobile devices that allow detection and recognition of faces with an impressive recognition distance and speed at"
+    publishedDateTime: 2022-04-04T14:39:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
     type: article
     provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 62
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Facebook is trialling facial recognition software"
-    excerpt: "Hot on the heels of the iPhone X, Facebook is working on facial recognition technology to help users recover their accounts.The social network is giving select users the ability to verify their account,"
-    publishedDateTime: 2022-03-31T19:57:00Z
-    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/03/31/facebook-is-trialling-facial-recognition-software/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 39
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31195720/Img32963673.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Panel calls for tougher rules on facial recognition"
-    excerpt: "A state commission is recommending strict new limits on the use of facial recognition technology by law enforcement officials and a requirement that judges issue probable cause warrants"
-    publishedDateTime: 2022-04-01T09:00:00Z
-    webUrl: "https://www.salemnews.com/news/panel-calls-for-tougher-rules-on-facial-recognition/article_bb672e48-b112-11ec-ac6f-cf4f95248be3.html"
-    type: article
-    provider:
-      name: The Salem News
-      domain: salemnews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Login.gov plans to scale up without facial recognition tech – for now"
-    excerpt: "The General Services Administration isn't ruling out using biometrics in its Login.gov service, but the agency has concerns about equity and accessibility."
-    publishedDateTime: 2022-04-04T14:54:00Z
-    webUrl: "https://www.nextgov.com/it-modernization/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363972/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 40
 
 secured: "6b2XcS3uz/vFiRzf+N9+++5ijYEJcD1bPwwmJJOU0I1232xsQzJC2230jTQWKssjGFffwJ6jPn9nnJQChKdFAyWjmqm0AbvI4MFak/fQzfh/deLub3mbgy975MmX9nJuMdmzUhIJj4j6vuu0bf0TlMCGZapz6tKXjh/J0sSQ6RzT/s4S92AgA1EJdC4abT3sMA36/GTMRJVwx8iAnU+w19V2ECJJah94aRyZ9kyBkzoKrbmDlNvUTFC1MpxGx2KJNCcJ735B6lpHXHnW7P3Nk6f6SlZHpoOoooml/kGnOgZD6HZRlQUKb8z9R9h+8lYaZWGHdVw9goGq9/xVvIB80WWloyIUNIdBv1B/8SoWrHgZeAz8ZGw5WQvZeBRy57GWN0TGvY+075s4K/gTd9ckTJ+MBWoriJDUDYP/aN5FKwkQvGbD74D5Bx/F8eUJSXDaR/yv9LXKOSayUb3SqERBGKrQoxEHDSb8BTwfe8a9/hX/Vyo8BKi2xra1Aks7/EOEUb5V3yFtJudkWEhB+sPnEQ==;KyjfmGzjJ/geX9I8sfz50g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.asahi.com/and/pressrelease/416530660/"
 webUrl: "https://www.asahi.com/and/pressrelease/416530660/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Thought Leaders and Early Adopters of AI to Share Insights at the 35th Global Edition of #WorldAIShow Dubai"
-    excerpt: "World AI Show - world's longest and continuously running AI event that extensively highlights latest trends and challenges in Artificial Intelligence, Machine Learning and RPA is now in its"
-    publishedDateTime: 2022-03-31T13:12:00Z
-    webUrl: "https://www.asiaone.com/business/thought-leaders-and-early-adopters-ai-share-insights-35th-global-edition-worldaishow-dubai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 21
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/asiaone_default.jpg?h=ec041e41&itok=CTqGNnDp"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Thought leaders and early adopters of AI to share insights at the 35th global edition of #WorldAIShow Dubai"
     excerpt: "In light of technology moving in full speed, Trescon's World AI Show will bring together pre-qualified CIOs, CEOs, CTOs, Heads of AI, Chief Digit"
     publishedDateTime: 2022-04-04T13:16:00Z

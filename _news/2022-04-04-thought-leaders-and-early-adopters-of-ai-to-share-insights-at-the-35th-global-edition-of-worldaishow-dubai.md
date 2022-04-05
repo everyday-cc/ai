@@ -19,20 +19,6 @@ topics:
 
 related:
   - title: "Thought Leaders and Early Adopters of AI to Share Insights at the 35th Global Edition of #WorldAIShow Dubai"
-    excerpt: "World AI Show - world's longest and continuously running AI event that extensively highlights latest trends and challenges in Artificial Intelligence, Machine Learning and RPA is now in its"
-    publishedDateTime: 2022-03-31T13:12:00Z
-    webUrl: "https://www.asiaone.com/business/thought-leaders-and-early-adopters-ai-share-insights-35th-global-edition-worldaishow-dubai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 21
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/asiaone_default.jpg?h=ec041e41&itok=CTqGNnDp"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "Thought Leaders and Early Adopters of AI to Share Insights at the 35th Global Edition of #WorldAIShow Dubai"
     excerpt: "World AI Show – world's longest and continuously running AI event that extensively highlights latest trends and challenges in Artificial Intelligence, Machine Learning and RPA is now in its 35th global edition and will be taking place on 25th and 26th May 2022,"
     publishedDateTime: 2022-04-01T00:17:00Z
     webUrl: "https://www.asahi.com/and/pressrelease/416530660/"

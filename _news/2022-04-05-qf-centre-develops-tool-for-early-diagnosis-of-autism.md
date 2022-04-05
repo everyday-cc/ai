@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "QF Research Center Works on Early Diagnosis of Autism"
+    excerpt: "Qatar Biomedical Research Institute (QBRI), part of Qatar Foundation’s Hamad Bin Khalifa University (HBKU), signed an agreement with Argus Cognitive, in"
+    publishedDateTime: 2022-04-05T05:37:00Z
+    webUrl: "https://www.albawaba.com/business/pr/qf-research-center-works-early-diagnosis-autism-1472424"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/qf-research-center-works-early-diagnosis-autism-1472424"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/qf-research-center-works-early-diagnosis-autism-1472424"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 44
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/image002%20%284%29.jpg?itok=YoTjqlW8"
+        width: 960
+        height: 540
+        isCached: true
   - title: "QF research center's work on early diagnosis of autism progressing"
     excerpt: "Doha: Qatar Biomedical Research Institute (QBRI), part of Qatar Foundation s Hamad Bin Khalifa University (HBKU), signed an agreement with Argus"
     publishedDateTime: 2022-04-05T05:15:00Z

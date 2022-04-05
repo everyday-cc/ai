@@ -34,15 +34,6 @@ related:
       name: Techzim
       domain: techzim.co.zw
     quality: 18
-  - title: "Israel takes global lead in fintech"
-    excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
-    publishedDateTime: 2022-04-04T15:11:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 4
 
 secured: "6avMZd0mun07RxolKzop9NzpraVHICbt6p2vyTbZ7GhUN1Z3uOYiVG6Xxo7xETBoZNZplhAJR4kirG5SjEgXZmPOmyUn7DsHngBjMJy+Srr+F5nk+WRmSi72SP9nrjiYUNXUGAwhp8rnMKd3T0/YaDKr2FvEjMMY6bc0z8/J8VQV79m6tTBqouktMV/8Q2X1A4KNNkghmNQcp7S/sEuslVqnFOh+dBhcBWkmsBaSgUNOcoqZL0sjdj1ohHeauzdsnl2lRuldych/ueBugHssCufeJX1IcPtRkBBnNW2JZ9iBbdh5jVdfYODIp1MLmLeX8N1AZRI9ytQdQ/l2JyST0/YFlyDsADF+9NWDnTMm5KGmD+r9gOyU5bnOtE2HjMDleedUzyT9y8//nkb2P7tn7n5cRtc5Xa82GS29h3H5D+V0D6H8Gpo6JBLRwrTU+B2cZUTZz6MbPvtvkZ01AA/R6xepQ7O4cncPEzXKT4nYMpLq9t/FdKZNWEFz7uxSydhwPPomR40EEvDO0H/Jgs3B9Q==;oHYe3RTPDuFnYklS9o5FGQ=="
 ---

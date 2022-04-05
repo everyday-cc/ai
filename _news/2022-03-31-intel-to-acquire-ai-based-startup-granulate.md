@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel buys cloud optimization startup Granulate"
-    excerpt: "Intel hopes to gain an extra edge in the cloud and datacenter markets with the acquisition of Granulate, a developer of software that optimizes complex and old workloads for modern CPUs. The semiconductor giant said today it has reached a deal to buy the Israel-based startup,"
-    publishedDateTime: 2022-03-31T14:30:00Z
-    webUrl: "https://www.theregister.com/2022/03/31/intel_buys_cloud_optimization_software/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/03/31/intel_buys_cloud_optimization_software/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/31/intel_buys_cloud_optimization_software/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 42
-    images:
-      - url: "https://regmedia.co.uk/2022/03/31/shutterstock_intel.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Intel Buying AI Startup To Cut Cloud Costs, Boost CPU Compute Abilities"
     excerpt: "an artificial intelligence (AI) software optimization startup, for a reported $650 million. The Santa Clara, Calif.-based chip giant said it will leverage Granulate’s technology to help its customers maximize compute workloads performance and reduce ..."
     publishedDateTime: 2022-03-31T19:24:00Z
@@ -53,20 +37,6 @@ related:
       - url: "https://www.crn.com/resources/0273-14cc74acf44c-1d63ad299148-1000/p1010704.jpeg"
         width: 398
         height: 398
-        isCached: true
-  - title: "Intel snaps up Israeli AI workload optimisation start-up Granulate"
-    excerpt: "Intel has confirmed today (31 March) that it is acquiring Israeli AI start-up Granulate to help its cloud and data centre customers optimise workload performance. While neither company has revealed details of the transactions, sources familiar with the ..."
-    publishedDateTime: 2022-03-31T14:37:00Z
-    webUrl: "https://www.siliconrepublic.com/business/intel-granulate-acquisition-workload-optimisation"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/03/a-37.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Intel to acquire AI startup Granulate Cloud Solutions for US$650 million"
     excerpt: "After more than a week of rumors, Intel has now confirmed it will be acquiring startup Granulate Cloud Solutions, an artificial intelligence (AI) software optimisation startup, for a reported US$650 million."
@@ -110,15 +80,6 @@ related:
         width: 935
         height: 518
         isCached: true
-  - title: "Intel To Acquire Israeli AI Workload Optimization Firm Granulate For $650M"
-    excerpt: "US chipmaker giant Intel Corporation, announced on Thursday it will acquire Tel Aviv-based AI-powered optimization software developer Granulate Cloud Solutions Ltd. Financial details were not publicly disclosed, although TechCrunch learned from sources ..."
-    publishedDateTime: 2022-04-03T13:08:00Z
-    webUrl: "https://nocamels.com/2022/04/intel-granulate-ai-computing/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 15
   - title: "Intel to buy cloud service startup Granulate in deal pegged at $650M"
     excerpt: "Intel Corp. on Thursday said it has agreed to acquire Israeli startup Granulate Cloud Solutions Ltd. in a deal reported to be worth about $650 million. The companies didn't disclose the price but Haaretz reported in Israel last week that it would be $650 million."
     publishedDateTime: 2022-03-31T23:00:00Z

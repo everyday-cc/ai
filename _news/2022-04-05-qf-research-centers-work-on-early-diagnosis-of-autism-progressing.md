@@ -7,7 +7,7 @@ originalUrl: "https://thepeninsulaqatar.com/article/05/04/2022/qf-research-cente
 webUrl: "https://thepeninsulaqatar.com/article/05/04/2022/qf-research-centers-work-on-early-diagnosis-of-autism-progressing"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "QF Research Center Works on Early Diagnosis of Autism"
+    excerpt: "Qatar Biomedical Research Institute (QBRI), part of Qatar Foundation’s Hamad Bin Khalifa University (HBKU), signed an agreement with Argus Cognitive, in"
+    publishedDateTime: 2022-04-05T05:37:00Z
+    webUrl: "https://www.albawaba.com/business/pr/qf-research-center-works-early-diagnosis-autism-1472424"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/qf-research-center-works-early-diagnosis-autism-1472424"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/qf-research-center-works-early-diagnosis-autism-1472424"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 44
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/image002%20%284%29.jpg?itok=YoTjqlW8"
+        width: 960
+        height: 540
+        isCached: true
   - title: "QF centre develops tool for early diagnosis of autism"
     excerpt: "The success of an innovative eye tracking screening tool in diagnosing Autism Spectrum Disorder (ASD) in children is a major advancement in the early diagnosis, Dr Fouad Alshaban, senior scientist at the Neurological Disorders Research Centre (NDRC) of Qatar Biomedical Research Institute (QBRI),"
     publishedDateTime: 2022-04-04T18:26:00Z

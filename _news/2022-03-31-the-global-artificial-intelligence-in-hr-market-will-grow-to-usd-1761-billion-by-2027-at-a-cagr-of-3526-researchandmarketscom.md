@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights"
-    excerpt: "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview"
-    publishedDateTime: 2022-03-31T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31"
+  - title: "Edge AI Hardware Market: 44% of Growth to"
+    excerpt: "The Edge AI Hardware Market value is set to grow by USD 6.93 billion, progressing at a CAGR of 17.37% from 2021 to 2026, as per the latest report by Technavio. This growth can be attributed to rise in IoT application by various end-user industries coupled with increase in demand for smart homes and smart cities."
+    publishedDateTime: 2022-04-01T17:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-44-growth-originate-from-/2022/04/01/9575316.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1778061/Edge_AI_Hardware_Market_Infographic.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Artificial Intelligence as a Service Market to Garner USD 38.99 Billion With CAGR of 39.2 % By Forecast 2027"
     excerpt: "Artificial Intelligence as a Service Market size is expected to grow at a CAGR of 39.2 % through 2021 to 2027, reaching nearly USD 38.99 Billion."

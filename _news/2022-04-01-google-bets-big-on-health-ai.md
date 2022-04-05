@@ -25,28 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How GE Healthcare Plans to Accelerate AI with a Digital Health Platform"
-    excerpt: "Enterprise Data & AI featured guest speaker is Vignesh Shetty, SVP & GM, Edison Platform & Artificial Intelligence at GE Healthcare and his presentation ‘How GE Healthcare Plans"
-    publishedDateTime: 2022-04-01T18:08:00Z
-    webUrl: "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/"
+  - title: "Google AI Unit’s High Ideals Are Tainted With Secrecy"
+    excerpt: "The high-flying DeepMind division has been too guarded about staff mistreatment."
+    publishedDateTime: 2022-04-05T06:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 64
-  - title: "Policy experts stress the need to regulate artificial intelligence in health care"
-    excerpt: "While AI is promising, there are potential legal and ethical challenges that must be addressed, according to the experts."
-    publishedDateTime: 2022-04-01T20:38:00Z
-    webUrl: "https://www.urologytimes.com/view/policy-experts-stress-the-need-to-regulate-artificial-intelligence-in-health-care"
-    type: article
-    provider:
-      name: urologytimes
-      domain: urologytimes.com
-    quality: 34
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/urologytimes/3c36505497565f8c22ccc102e41dcd06ed7a86f2-4800x3000.jpg?fit=crop&auto=format"
-        width: 4800
-        height: 3000
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTYPJZ9BCGuE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "kUBCsBg5So0C/LcjakBnvBGT8vVIQV20BoVE9X5XGMLCv6H6pXRXajZB0c8Fpi3ToGTA8Jgvvc1RwxKYCYojVlZof94Px/riZIyb0qYQrnm3gPAjJOoKlmhXbCswgRiuQQMAkW+oopMZRegK/0XjVX7rEKQPAba3zFE7nCQDvbIEqZbC1vUBVdC7P1F2H0zuz1iRpgx/9b726/2zAGjqjELvVppJ2ue5tGI0pMzMyrmPbIx87DRg0PE7tsnpEUdR7a6aaZU0N37TfMoEoQRaxDNjfwj539M7wAkJBFq1g83Fjk15kd6bBNfFHh4cmFeeWLRFMHkfxJ9m77eJrk9P2/i13iXo6C+FjaN5LQ6cEig=;8j3BM5iEP0OAkZma5GGU2g=="

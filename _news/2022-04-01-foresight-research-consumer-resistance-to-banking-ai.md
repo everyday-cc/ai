@@ -38,15 +38,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "How Are Wearable Sensors and AI Technologies Being Used in Child Psychiatry Research?"
-    excerpt: "Investigators from the Mayo Clinic searched publication databases with the goal of understanding how wearable devices were being used in child psychiatry research and how the understanding of pediatric psychiatric disorders has been enhanced by artificial intelligence technologies."
-    publishedDateTime: 2022-03-31T14:09:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/topics/child-adolescent-psychiatry/wearable-sensors-and-ai-in-child-psychiatry-research/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 10
 
 secured: "LdP7dJctZCqzJgAqrLWkZB9pPSTRBeVkAzzRLJy8ajCvXF3wfbgYazvukVX+NJaLfArGbrlYD4d8A+L6v8C+UZQZW9Iz1S+qTkij0lyPpEs8E+S86EIFEcXfT1dzAHAyYuxfYrrDkSEyh/ftC5stzQx8r5LxG+RW7t1i/bbDfO1lsB/XejzYIu9XmjqxpfHKtJRfucWqt5LbAdXhBq8cn/XR4XUCwnwS4RsgPRmX6quuCB+JReTBmuLyaW/uPgZFLSMPQM0n5ll5auMK4g/J/x+GiwjV4GgZwyq1MSfTLS8Nd5bXofZIGm0JKrprnPB7yErcVbULTADSb/QK/23vEWj1vvV3VHDI0ifR0qgz8Hf/lc11fgGb1FxWiQT5y4rs9gz8v1aO0S2xWU3TxFeXyze7UW8gLShgKdxZ5LKrIkm01dysVDe8cCA49mnGEl1ACymEq+20q+w/SwBS8cUBGdM1Rns6YtCM9nfWiitlQtcVBqwU3aZk+21iyRb8n0yWNS9hWXJhPVCywcuLO9CleA==;U4a5aYeIdpAy3Nmp5oo33Q=="
 ---
