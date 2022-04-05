@@ -90,6 +90,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
+    excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
+    publishedDateTime: 2022-04-05T13:48:00Z
+    webUrl: "https://www.pcgamesn.com/intel/gpu-nvidia-gtx-1650-comparison"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 34
   - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
     excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
     publishedDateTime: 2022-04-01T17:26:00Z

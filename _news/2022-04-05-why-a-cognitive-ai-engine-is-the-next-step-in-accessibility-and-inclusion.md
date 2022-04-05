@@ -35,15 +35,6 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 17
-  - title: "Take a Deep Dive Into the AI Revolution"
-    excerpt: "The World AI Cannes Festival (WAICF) is the first global event dedicated exclusively to AI, to tech leaders who innovate in the field and to the economic, human and societal issue"
-    publishedDateTime: 2022-04-04T14:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-take-deep-dive-into-ai-revolution-/2022/04/04/9576020.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "Ak71DDOAuGwt9vD72hZw1vim+GTWbBmlzrYRPODtLr+/f7cRb2bQ72PDJa/yzpVGIwNaMMYV6gAf88SLgW9GazPjvSd4nTuH+9dEHG3XD/tz+vPeDrtXQADxBZWAE8Hehi0DYpbTLuN5RBSVerhh7ibFj6FDfopQNCVsKvBFyNhOy/jiDOJA2GzNRk7JMKVP0Woru8bYeY1yCYrkaaSGUn4mAzrmA0q7GQZmwVNPP4c4YM+5A2vMi3jnU6Kr8FdxFEKRJ9q06q4uS9fiKjN91MpvYKyFr2iR0mF3H4RZOTuLaL630V5D7+x+ryDhSGLkW7UH9yTGoEpQ+xsZkob1xdSnCh+IZQ7rsnm7wMJUAFY=;goE2dAYe2zG2e+ppw6AMPA=="
 ---

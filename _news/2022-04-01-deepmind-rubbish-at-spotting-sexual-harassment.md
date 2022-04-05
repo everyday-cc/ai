@@ -58,14 +58,19 @@ related:
         height: 341
         isCached: true
   - title: "Google AI Unit’s High Ideals Are Tainted With Secrecy"
-    excerpt: "The high-flying DeepMind division has been too guarded about staff mistreatment."
-    publishedDateTime: 2022-04-05T06:30:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
+    excerpt: "But it’s clear that DeepMind has a lot of work to do to confront a broader culture of secrecy that led some at the organization to attempt to suppress grievances rather than work quickly to address them."
+    publishedDateTime: 2022-04-05T13:01:00Z
+    webUrl: "https://www.washingtonpost.com/business/google-ai-unitshigh-ideals-are-tainted-with-secrecy/2022/04/05/54beb05a-b4b2-11ec-8358-20aa16355fb4_story.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQPF3UFUWII6ZA2YECVBMNK7WQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "8xo7pUYBe/JxFW69FrkaE4N1GKCLDw/ORjjOP4MgFNSLW5cMSdQ9KQ22986t714E+40yKWcl4fh6P36RC/oSAJ7JXh500qP5p19UxWGyvR3v3RGRF9L/tV+WmW7IDzN+24IBN1WLpHUTQVVCJjU3swVjdXZ5T+5S6B/M5IZFFMgYtYuxitQRtvF/aT1K75H0mAV5Cil/JQSbzACm+oMA4WdYtm62FPNANCsnIMJXcZWxTpkQKhpon5dek2osVDbyfT/s1rnPwovEQGM+GHGYAtVLM8MBPYwut+bHvnLlfHz3anFN8Z6mu61jWOX0B9Q2AbUO+nqhy5afiT7hHF9RUjtKKmJinu49553TvGAa6vpq4nu8moKMB6KA28gaG3mi1MTrpNhQYI5GIpmtpFQVRyy3X0g7s+y6ihkyxQGk4JK2kbT4XyZGxXIs46AXhaPW1BUxzn8jdDa0GeO0g3P9p6xA3ij1BA5sD94p54r2wmOJSTq9AP79rJlBMi6+7OMzoBqz/mC1zchbyabBOH6Nkw==;z1XysTa3XfjdlJj+XYAI4w=="
 ---

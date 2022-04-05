@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103960112/Thought-leaders-and-early-adopters-o
 webUrl: "https://menafn.com/1103960112/Thought-leaders-and-early-adopters-of-AI-to-share-insights-at-the-35th-global-edition-of-WorldAIShow-Dubai&source=30"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Thought Leaders and Early Adopters of AI to Share Insights at the 35th Global Edition of #WorldAIShow Dubai"
-    excerpt: "World AI Show – world's longest and continuously running AI event that extensively highlights latest trends and challenges in Artificial Intelligence, Machine Learning and RPA is now in its 35th global edition and will be taking place on 25th and 26th May 2022,"
-    publishedDateTime: 2022-04-01T00:17:00Z
-    webUrl: "https://www.asahi.com/and/pressrelease/416530660/"
-    type: article
-    provider:
-      name: 朝日新聞
-      domain: asahi.com
-    quality: 21
-    images:
-      - url: "https://www.asahicom.jp/and/wp-content/themes/and/assets/img/ogp/ogp_m.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3tFmkbU6xLVQSaZzF7pdw+nW+MEtgYKIVdHbu0m9KMxhs5XuDtAse9411+4X2K59vaJwi4WexrKU+bx7MacZ6ViYvZQGN90ltRszAXWJKUrQgz2qn15uftQk8A46Q4ETmBPLQexjPRHWMXgkl8GXxM5T2Ix6TbTzu7AcZReDKUw8Qp8IoSchHponXlJg1Yv0jkSSRSMoDII7LlvkyKKeky+y67N7GKFfg2HhekCMZKTvv1SF/Iltf5MNNYdByh02//fqKfOsPZyPX7fmAGj0oPISDy/1AjdTzz6EpGOjvhVj6JhNoHeg+NMc/yuuE1HNabj3Np7Pwhz4VMhelvU7eufR7nNHD74gmvpAh5I1un0=;SBjhArLRfXaxRZAvla4MDQ=="
 ---

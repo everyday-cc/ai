@@ -32,15 +32,6 @@ related:
         width: 1000
         height: 429
         isCached: true
-  - title: "Take a Deep Dive Into the AI Revolution"
-    excerpt: "The World AI Cannes Festival (WAICF) is the first global event dedicated exclusively to AI, to tech leaders who innovate in the field and to the economic, human and societal issue"
-    publishedDateTime: 2022-04-04T14:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-take-deep-dive-into-ai-revolution-/2022/04/04/9576020.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "DMFwbVvNS2frenKq89SVMNuUAK6fBe95arpJOaT4qqB6/t5MoxuNu8fbZ9SjYUajU1+cfs6SHA9p+dp2QPXBnoMWjewKIbitZpdiPBSdGA8X1pTb1kAOsuxOpH0CmLDrAtd7vr9vT67fRxBUmARvXBR/PWaNxr68wVzCikvfVscRDVCua471+iZgfUmPYsxSFBeu38j8jySlI+sg4lcvzktWa2RBdiR4U8JNyENcqmpKMFGNbxX3bBphNqnfRTA93rIjZRLVz4lnJIs8OI+k0bR3AxgkloF1tirfyJobsT769vDo6CohvpkLJFYYv/U/vJH0Dq+0N+qav3LWoSfJpyypxSemcSwPdS+XCQQ7+6lWrRjeLV9phOTO+dO+VlCZ/KuJkbmWte2N3lLDOifofk8iNko0BIFWSMFhsr0CAL+tB7EXjkZ/RJvddd4c6umZTqzT7AS2LPg0zPFbnSwjiD6Nsxqp/zjMKO3EnqZMfbmrOJ8Nt00IZ/2vJ67bF71EDfiCVOLAd8gN7VHFZjsy8g==;W1GLJh1RmbJgHiQq4XhFrg=="
 ---

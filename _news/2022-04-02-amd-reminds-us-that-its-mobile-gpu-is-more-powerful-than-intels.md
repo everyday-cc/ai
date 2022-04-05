@@ -90,6 +90,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
+    excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
+    publishedDateTime: 2022-04-05T13:48:00Z
+    webUrl: "https://www.pcgamesn.com/intel/gpu-nvidia-gtx-1650-comparison"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 34
   - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
     excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
     publishedDateTime: 2022-04-04T11:50:00Z

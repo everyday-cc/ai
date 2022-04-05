@@ -22,6 +22,22 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Dan Parker, a Blind Man, Breaks Driving Speed Record"
+    excerpt: "TRUTH OR CONSEQUENCES, New Mexico, April 5, 2022 /PRNewswire/ -- Dan Parker, a blind racecar driver, achieved the GUINNESS WORLD RECORDS ® title for the \"Fastest Speed for a Car"
+    publishedDateTime: 2022-04-05T17:53:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220405DC14741/dan-parker-a-blind-man-breaks-driving-speed-record/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 24
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+
 secured: "Q6nbjwryw2Yd4SQJ5IVCHrLChok1ptbsM0Ur+F8ZFUzcqrkh4VSMfjdAfIJT1FWDXhpwjqrD9jq1ZxVJkbEH4FyI16ribDBY4tSlRIceyMSc3uOa1oPOeh+ql+FKdjyZmIOKAci/AdGufLfk2YSVb9R560gvUlNk2fGSYCUh+yRUYMR9V1pdltkzdFU2fYG5PxPr5OXkEziF3ZUFBXMNid7yCMplZz3TSBRZ+uL8UUOICJTn35lgOFf0A7ckj7Jx3hnu4kb/Xq40lGaOpyS7b0YwTN0EuKIcbtaRBUOtIR65n2vwxvOYtFV5YEsdW2tiPCSuLHALaYKZgYsRiX17t6W4no0pjttqjQrvscgglDSt96T6yOpoCrA6eew6LmGVliib12Mh4SUTBnV/c3w4uDAtP41pfZCfFC7+jPe9llAdordmVAyWAwyVtdoVCnG7Oo64bQRQiFODAiDlnlG4q8GdXqTD+7yW0pDy09F3+JUzVPSYPXyLJkTKc6dPdyunbt4rBAmhTb7PSsoxOp8o5Q==;e08YKmLKjwhEyDBzShlEzQ=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market to be a 1394.30 Billion USD Industry by 2029"
+    excerpt: "The global artificial intelligence market size stood at USD 35.92 Billion in 2020 and is projected to reach USD 360.36 Billion by 2028 The global"
+    publishedDateTime: 2022-04-05T17:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-to-be-a-1394-30-billion-usd-industry-by-2029"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "e5zoVxP+SN9CnaYiaVXaPnp3SXTfNIm1iexLYDjnPa/CyWuJ1OK54V1ibk4SNB49MxMtbmukbF6DNUBsAvkkuele+VSWyVq8v7xCPe2ygRupchRDdIhOiOm8InYiNYagityROoN/b3gh0By7wS4ytcU6C/OpKNsc9AS2pmFekLTHSnOx0Rr4y3TxZEgy4MAu+rsqxPo33B+JA/kcIupfuUK6IwYaPzUlds+ogH2fLdSf8OsBqgpW1GXFaDXZRDn9uuAetFGI/SRrGuzOLTppnOi/dQTgZAt8oUpL/fq4uz5YtlUx//wj9MCZSoByjlRXaf3JgmM7BmplH7DyGHRbeM2qX4BHjgY+LlnHFZOnks8=;vymxwznMO0uwykrdQ9Pszw=="
 ---

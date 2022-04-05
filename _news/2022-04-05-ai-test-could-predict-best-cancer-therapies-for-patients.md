@@ -36,6 +36,20 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 33
+  - title: "AI test could predict effective cancer drug combinations in less than two days"
+    excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours.Their cutting-edge technique uses artificial intelligence to analyse large-scale protein data from tumour samples,"
+    publishedDateTime: 2022-04-05T16:26:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-04-05/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 33
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "pYpncg3L96uv5xcFjrX83S0/tqagMoMc3Falhnnc3L9aySqkUO7lA/9PWayp9rRB0RqpxnP9+Wi+GVmVMue+Oz0qtZxZmICEsUdi/2rtZk+N9918XVuRXDqxmYeVqSDnnYaQyvdVmXAxblPTzUJtlZYyXrK7QCg8iZckyPe66iuTTMdHwd14OsXqk56C5H2LQtL0WaVsLR80C4i5lyW6saY4p+AEMt9A7wduJmNbhmfWnOZVz0ly6fj3lSFpBpzl4zek5xGFg9lofb0aTiFuIFIkVMXeuUvkxPuDC3L93d0LIU1qiN2Geb/L70B8sjHYJlmr23LRPPpk5XrfHUHhCjFKbF9GukoXOBe255Km9To=;XUbrZrd26ggt3PvXSS2Y3w=="
 ---

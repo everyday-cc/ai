@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
-excerpt: "Monitaur, an AI governance software company, today announced the general availability of GovernML, the latest addition to its ML Assurance platform, designed for enterprises committed to responsible AI."
-publishedDateTime: 2022-04-05T08:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220405005539/monitaur-launches-governml-to-guide-and-assure-entire-ai-life-cycle"
-webUrl: "https://www.morningstar.com/news/business-wire/20220405005539/monitaur-launches-governml-to-guide-and-assure-entire-ai-life-cycle"
+excerpt: "Expands AI Governance Software From Policy to ProofML Assurance explained:   Assurance platform:  WIRE)--#AI--Monitaur, an AI governance software company, today announced the general availability of GovernML,"
+publishedDateTime: 2022-04-05T16:30:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=642351"
+webUrl: "https://us.acrofan.com/detail.php?number=642351"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
-  - AI Ethics
 
-secured: "Lt/21BLZLF99hp8NDdm+cJXTQ21MZMfLv/Z/1cw4uhmg1upzociOg39DlcvBRDr+WeV1a4iPT/NFRpza9PnaWMlAXLu8y8QtkmENSujTI6K5aUZUiKhHCI3TJtcD1rYngD1+uNkwyAyjahfeK4/M4aph68YqPkiloIXiBAgfK4FRiGpm4MjhdM91TxDg8L5D0JYZNgaE0g0m0LrVrgXbRCqwavwrRwGvKU+52r82seRHjNnFwMRviR3OU3QM31mQZZPcy+aavW+N+ZmvkTxGVf7MshNcGOowrelMOu4dogFcgIX430PTJlpWphOa8BZqDhtzTHSjIT8B88GXznBLf5pafhF084iVbDF2YwqzyeQ=;l1//RzIkFChZfHt04ZKo+Q=="
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "V62NDdq1Mw2WFq+46SCP0tvDqxpytQyVWCLBg82sacJg9rcgUo4XK4r29GKl34FwOmEma5HEh+ocTUlq1R9if96hYSte0Jmf5IDZ/Tdlhztd9Pt8+l6/1jpSo580jw5c7Qp9Bj0cxMeLFpeNf+fCk9CcOreOc04BIAVUBe6DEcJ9Tk74cS86rpCeu9EQEkyeKkLrozEeLJqAt0pBunYjaBEc28O4bGz1PhBmO83dol69JGTrRx9SlqBsrhbA+3f9YZH4Wn8LVoB6Ep/ouj3cLTbC9wKIjHie20xYE9RU0zn9Jlmgg2+D+gduRxh2DxN+NlXxYorifYJupM61kQhuJrBsBu0VLEp+nfJi4bfu9V4=;/CaDDFIvFChOYITbvFPYcg=="
 ---
 

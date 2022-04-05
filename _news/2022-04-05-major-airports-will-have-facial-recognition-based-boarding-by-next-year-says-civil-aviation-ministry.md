@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-05T15:05:00Z
 originalUrl: "https://www.medianama.com/2022/04/223-facial-recognition-airports-india/"
 webUrl: "https://www.medianama.com/2022/04/223-facial-recognition-airports-india/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.medianama.com/wp-content/uploads/2020/07/morning-brew-U03369z5UBA-unsplash-scaled.jpg-e1649170570189.jpg"
@@ -101,6 +102,6 @@ related:
       domain: journalgazette.net
     quality: 19
 
-secured: "mLXwVik4AsCwUePzJUZRDpUV2RBym4JNkfQNtbWWdDS9F/0QFtw/XPGB4bLoHGuCVGZCG5uHCHK/Rt8YuVUgQrZu5opLuFn+T/LbF0i1vWaufOM1pk2EE9iqfvsnqEDQSKXJ84Lva2xUd06JgDS1OCuPtUw1AAZlFu6aJkLalsGnhlb1VROLLaBOROZMFDATiwDzXW695J/3a1T8qxFGulyWZF33CQsQCfdFPrnwzaz8CyybmFg1hPiW9z8gdVznOBRK/HXAQgdPgbJv1ipRut5/68ov0eIFG42V/g5bKJHYutEtaitzWIyevLTQtIhMuSXjZ2OsTD9RsHAjI9UXw6azrObadaG87Y+L+9K3etE=;XmWSfpyJs5QMiEdSONVTaA=="
+secured: "G7lWe2ankWykoPOysFXYAyCTlRTAHrtXukZRoA30v+Vte38v8jZlUZvLP6JPHw47UYdfddH/0r6ldGFV4ScyWOjeJ2aaaz7Bb2gMV0BDBPN5xw/Xx1cyZJe4VntoOwn4Us0G1wK9Uu6bZ+CGPvI2/Y9X9hjbMYn5MWkEIlCONr5ChXSK7RhbN4+O0ScTORw0jJOemF1ER/qL+oPeZfNa/eziOVEFvMXLLPY+W51f+uDod4c1uvTda5XQdaUv2V6ZD9cm4D7F0TdIHEm8SNJ1xz5rTh07szv5W5LTBvshr8nbjVwXoAy71isnZwXH+lr/hsZaTJ7n9n09voq8exMkHa7xjXZmB4hvtcmdaLGnhIYSY99eEHgNYOGx9jkjpY1FD0aD3z0A/T2XCUc2fbnT+UGk5Ufy6TLu28H1gpSyJJj9FKbi6Rr7xS3316UtFKXWkYFCmLQ+Ycy/R/QxrvTvPS9IUwzxZVBbO2KLevT1kduenwJQlTx0exgS8j4+zXbHJ11f/WppDsA1WuZVZzathA==;aJ10VAVebv01JoB1z88Stw=="
 ---
 

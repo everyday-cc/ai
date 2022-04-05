@@ -1,18 +1,15 @@
 ---
 category: news
 title: "New DDN Storage Appliance Doubles Performance for NVIDIA DGX AI Solutions and Speeds Up Analytics and Machine Learning in the Cloud by 100%"
-excerpt: "DDN has been a market leader in AI, analytics and machine learning for many years and our collaboration with NVIDIA is leading the industry in performance, efficiency and ease"
-publishedDateTime: 2022-03-22T17:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-data-management-artificial-intelligence-92644017124d272c4132158b3582da9b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-data-management-artificial-intelligence-92644017124d272c4132158b3582da9b"
+excerpt: "Powering thousands of NVIDIA DGX™ systems, including NVIDIA's Selene and Cambridge-1 DGX SuperPOD systems, DDN offers a broad range of optimized AI data storage solutions for ap"
+publishedDateTime: 2022-03-22T20:01:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI in Finance
@@ -20,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+    width: 283
+    height: 400
     isCached: true
 
-secured: "YgczwX2rpATepYNu0ZLTJgvk4fDZdg/CUdVkFhaLV64yO00nmBRbyDortdYcEWp8prLa6DCDf8P6UdXwN0lffk4y2D0jldy7Vqsak3nj/5KBfL/0YYT2yNDRSfw3gqir6DrnKgM3qrhv5M1RWSm+LA38RyWfAglQPamzViXcnfV7iWVl5DU+hRMS2kq/Zw9Io4bTq2zoALe0jSwofgSrOuVoKBe43zn+boLFWgyR5rlynLWizcDLa8HToEDPMObmfR2lNjwgneiD0Lat0LaV5eQRLrDGDzdbkFY+FYvbl70rVoU1f1UqD0BY9GoPy7g1+cztk8joFNO/zkLdTp2rY6KaYkY/stlkbu1DY0nZpPc=;XyyvRH++0GT77Z5dV6PvuQ=="
+secured: "DXO/Zib6EBwskXTCxtuprv8zhlDsJ8YV9YHXwz23vvFERjjxgj8hl/g/qBZLluhxpm0cYAEiI0QF7FemUMENgf6PkkpdzoBlGtexhJ2p9HJBLrjZWtGwq4SWuM+ItfyL0Uv67NF9MEuw/Z239knTZO5TtstwxCRGPDuWO/NtEmUFqRF0V3x8QLXphndpb1KnocOGsIx2h/tEqayDc352fUQ4TdjguPwTqT/KUxxxgpa4sISeWaKYvKbq9KA3fhHfFrZKiz4dw+zdseDycbvmeKOf2TFk6jHO81iVT4yBjBlpeS+7+t27oOLlltrPCxz/mK160ui4ttXdbqCN3M5N2HfSef3TzGYQD43Aws3QmV8=;xS5L2HXRgIn7WYjje/s/tQ=="
 ---
 

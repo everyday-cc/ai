@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Special glasses could prevent motion sickness in self-driving cars"
-    excerpt: "Researchers could have solved the problem of motion sickness in self-driving cars.A team from the University of Michigan has developed and patented a headset/eyewear system that can prevent motion sickness by displaying light in a wearer’s"
-    publishedDateTime: 2022-04-01T03:12:00Z
-    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/special-glasses-could-prevent-motion-sickness-in-self-driving-cars/"
+  - title: "Researchers identify new medicines using interpretable deep learning predictions"
+    excerpt: "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking."
+    publishedDateTime: 2022-04-05T17:26:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp"
     type: article
     provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 24
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
     images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/04/01041230/Img32977125.jpg"
-        width: 800
-        height: 600
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg"
+        width: 1379
+        height: 775
         isCached: true
+  - title: "Researchers at the GIST identify new medicines using interpretable deep learning predictions"
+    excerpt: "In the drug discovery process, drugs are tested for their ability to bind or interact with target molecules in the body. While deep learning models have made this process quite efficient, their predictions often lack interpretability."
+    publishedDateTime: 2022-04-05T13:05:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948739"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 8
 
 secured: "Wf/5aZmIp6ONS6Wd3aSqlhKF3MrSZBlwgJ/85lm1hQnEiyYtMRkJxTNL2X26kAhOcBSzqOXZjbNcBX4TVLSOWHYTdiZJx25d6pnV0fwHsI5uV7XAklR4ad9hFHIEkJY7E+t939nB9cHJM2Jh1LufH/ktCOaA9sE1w0K2TRBWtnJDBG/qZUSpKZyv+2uSusefg2xNwiFCgtZTgJvIzJ3HEFy4pMljTh9Gx+uEOgxWZcnZyqLFOG3aGx6GjvcVLR40ti/lDzhQdG7lEpJTAG2KQG6yuqKqvFY9lBb+d1lYeXlWJ0MmuvuB7995aD1DskhkttZn4aUwT/aC387XvsV/86bU4QyWMBdFRA33Sn41iP0=;H23uPVhDytHNNbiTVBqgCw=="
 ---

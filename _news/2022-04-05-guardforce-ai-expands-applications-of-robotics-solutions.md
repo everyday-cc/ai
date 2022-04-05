@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Guardforce AI Expands Applications of Robotics Solutions"
-excerpt: "Rollout of Additional Features for Robots Powered by Intelligent Cloud Platform Initiated in Macau NEW YORK, NY / ACCESSWIRE / April 5, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI)(GFAIW),"
-publishedDateTime: 2022-04-05T11:45:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/05/guardforce-ai-expands-applications-of-robotics-solutions"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/05/guardforce-ai-expands-applications-of-robotics-solutions"
+excerpt: "Rollout of Additional Features for Robots Powered by Intelligent Cloud Platform Initiated in MacauNEW YORK, NY / ACCESSWIRE / April 5, 2022 / Guardforce"
+publishedDateTime: 2022-04-05T11:09:00Z
+originalUrl: "https://www.digitaljournal.com/pr/guardforce-ai-expands-applications-of-robotics-solutions"
+webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-expands-applications-of-robotics-solutions"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Guardforce AI shoots up 16% on expanding applications of robotics solutions"
@@ -36,6 +42,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "4eQoMp5r0fFu16UzgjUM7iDdHCpB5UrmMnvpudjqkrMa3aS3Ht5KU0edhbJ2FjaiAwvpUavNkbyz5j/FQZErz85D6SwEWXXgXB3rdZrdaYHxf7KmniTalPOiIQeg6Ba7dWR4tv6J9bKXf8naE+HSX+KgcrTLERTM/ips8lv6RYY9SxXbUkxEsHvU3anayNmXyVN91ENzO5Xfd/siDBUbHsJLhLYNxmu/Ah3HI4XF8IhTVgAyme/+nZyKxZEmuU6zoyThJ5rU6YXhyurf332BjxQNOkcgnJK7D1KPHna+DVK+Dm4vcODtW8KoVYcink8Zf+XNxSMDi/vln8BZJPXfUw0dAtCUKyLLz4hc+tTdG9/n5DPhAOCbSap+ELrYKpsIIgGmQZTQwqP6ZYP2ZpjA8z4lBP4ovmvlmB1yQBqNcRCbs8hu7DHb3cc9cQkQfpKnEGIZmehxw3TiGaWJ0f4nOrXsDK23LnBJ+XM5ijywEbrma9q1JBGLCoHQjeUWFXbjxepMLEQg5Z/Fsd1PVqGW6Q==;3ZY5yJhI2ZjGuwFrmDm/gg=="
+secured: "L35kjF8YfU14iI+qNfoGUUN5Vl+82RvkFainVA4CEIG45lehzXqkFJW1rsbPymH+dMj0OBuTlBrutHMxB2ZukAUZ4weTI6ForimEJhfcLo2eml5QRX2KpzsPPnKNf5PsP4ulLisRF5qikx16uDyaLIaWkxlUMkrrlwiKnsb55LT4R8EwciugFH0bdhW+kimYfD8wRDnOMOaO+qZ7U6WKZdmYjcSb0zr+fn42ZtAELpzyy5IG3xa2oXUu7DAwkr6IhLM9gl0pjpQiCDp+kZzhimDZU00GpG3Lxobo6BkZaimMCamJ1RNozPgASQIgFXRsVnMA0CZ8m5knT53WcieaV0ih6Pagh6Go/r0Ghok04Wk=;CEYJqtjpwyp9XMaBONTQ2A=="
 ---
 

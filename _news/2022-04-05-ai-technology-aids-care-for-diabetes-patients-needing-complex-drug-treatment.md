@@ -7,7 +7,7 @@ originalUrl: "https://www.healthcarepackaging.com/supplier-news/news/22158909/hi
 webUrl: "https://www.healthcarepackaging.com/supplier-news/news/22158909/hitachi-ltd-ai-technology-aids-care-for-diabetes-patients-needing-complex-drug-treatment"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,16 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "New biotech partnership to use AI to bring cell treatment to patients faster"
-    excerpt: "Dublin start-up Empiric Logic is helping aCGT Vector bring treatments to patients faster using its privacy compatible data analytics tool."
-    publishedDateTime: 2022-04-04T12:34:00Z
-    webUrl: "https://www.siliconrepublic.com/innovation/empiric-logic-biotech-tool-data-analysis-acgtvector"
+  - title: "New AI System Assists Medication Selection for Type 2 Diabetics"
+    excerpt: "Using EHR data from various healthcare institutions, Hitachi, University of Utah Health, and Regenstrief Institute collaborated to create an artificial intelligence (AI) method to enhance type 2 diabetes care."
+    publishedDateTime: 2022-04-05T16:55:00Z
+    webUrl: "https://healthitanalytics.com/news/new-ai-system-assists-medication-selection-for-type-2-diabetics"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/new-ai-system-assists-medication-selection-for-type-2-diabetics"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-ai-system-assists-medication-selection-for-type-2-diabetics"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 14
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
 
-secured: "FDvtQbAw40M5eytn03RqVarGfWdiTn6PLRwsBJBhYP8oIEFFDy45rIWplyiAgxVi5mA2CxRX/Bli6N4tZAV08kpz9GtGYQNJ7duk7KeacEUUGg6VjLTLBx7EaML/mlcFl02Cules3VyNLWCpdnEwa+ZFfC8eDeFEoK4V8RubMSPbXnhk8yxU6frKwQ3OHyUDzuxSSHOiVeGHpy06tQRRgCEjX3ADuo6k1fmIUvGvZ3dXKozp1e0Vhfs7NgsWqd+wTYZ1vmfWbYH4GYvd5lSBcrbCyJ3ZJE9Mk0qL8iQ7mqE7RV7ONUO/a85yGmZdxyIQctrsbU5ek3AOAID3sA6ZO2tsCBnuhGYxX2WfSzhkFo8=;8k+Hg2B7CylelyIVvGArag=="
+secured: "ca8BRhQtnuTKZbQkmX7GeSgRgkjv1L96WA2UyJll+BHU9DxwNxKhbJB3+sjxNDPtYQUZkSu2oSdxFuF6jeBNjTY45BESaREqfd4TzX4WBkI4Frzo/EbwO0Uf2QvOIfO7e1LS82DdWUavecCDM3fjX6qRBd06PNN2EVZP6H41FWhhS+EylUcSpgyGFbfLPiAPJPOZlnMaiy5qVIy15ZV4Bjnz15IrNOTtQXsJRrChdJMZZtHiTBOPPHkaIxOLHBp2CJNhNz1lyZUf1ZE/gHvvcG364qcLck15XK+uewVoVBqZbRfgigAoPNuMqBsm1Bpyk3RfqSRNIovBJ/78Wj6qPPj/2pudQs397bCPnYkEBuc0bOmPPUYXMW+RSzGyE53iUCaT+1CkUqDCdF7JbmM8P3GLGYHdkmL5WH6cI9A4gGJrFxgiBYjrcnkqFtqwYSXbCyRILkLqcXExp+ipflv9TVyl2zhYqU5ERTYqHg/jHA0O+zyhZSu1lOKmBCpI4VphHs/byaUSwFKBJhcElysUCw==;KE+dvHN8R8Y1chPJTkX9Xg=="
 ---
 

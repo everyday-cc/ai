@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "ceTd4CS6o6gcnJEVMcJYzFf7IXpRJILO5wZ3NAlhJ8A+fozhFx72uT3j9EK5WzDzRP7X+8gGOIwXPduQFmEjPO62AS1OzTmrjkpySTpGEsp+1ATxClXFiBOPmeEi34Q9iwmFGNoG+RZGKp1WHJKsW3Wz2pmISfdjxTI6FymErG+KsgWzwf9JOVVwPDhdA7k0BbgEab8uNNmpcJf73cARCkDOckECm7A7B4M4U+WHog+Nn4NVaco96HbUbtzOiVab6w49KVa0eIWD+7UzYcBqksXCFJdPILabdDGcMqQux02+LMhQDkZ/Humcdaq/WpMMLQDq1uvkVxqJOCM5RGx+imZMvgKRjPgIjKKeOZ3q2lI=;HH8D2EgD6Oo3+DVXo8+MFA=="
+secured: "1zYJQ2cCBr0wxroJnrsh5Fk2/OrWyz3C/3eqDGrKBtvOATLe+RSS5v31u5AvSaPQyE71OQggRfg5JxU2s5GaIokgq3Vx4j3Q2Gp4DYJHVir3kczk3gbeLt2N/uD7QiCMUIPvGdZSAy+P3KZRwXrotqOu5PJJoJ5aqzSCSSOzTJZltUNxUxtCjWt5zPmvzZVvNFuLVkYoeTFiBgKHEVWjE0Lh2vpmx9Hvet9yc51YL3DK8g40APGR8e5Tq0FfnSAv+S6lESqTBPb8zrqrT+4mPxNbwpOrbr0eeGfGzPeEocfSz49P1wuO+CoDyk936dKAVvTQaLE6rc+FErNEcdYH0xX9k2r3xr7O7Mvn++64cmk=;MBCCWmFiH13lCCU1AGU2Hg=="
 ---
 

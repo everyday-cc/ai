@@ -65,7 +65,7 @@ related:
     provider:
       name: MediaNama
       domain: medianama.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.medianama.com/wp-content/uploads/2020/07/morning-brew-U03369z5UBA-unsplash-scaled.jpg-e1649170570189.jpg"
         width: 1280

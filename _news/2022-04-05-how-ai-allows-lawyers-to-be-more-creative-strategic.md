@@ -7,7 +7,7 @@ originalUrl: "https://www.artificiallawyer.com/2022/04/05/how-ai-allows-lawyers-
 webUrl: "https://www.artificiallawyer.com/2022/04/05/how-ai-allows-lawyers-to-be-more-creative-strategic/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 678
     height: 381
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence Can Improve Digital Marketing Strategies"
-    excerpt: "Email marketing is still one of the most effective ways of reaching out to a large number of engaged people while keeping costs low. Fremont, CA:"
-    publishedDateTime: 2022-04-01T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-artificial-intelligence-can-improve-digital-marketing-strategies-nid-9661.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/c4or2450.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "6rKLMcpfpR992iKIN1imY9BzrqRoJmR9EBxA32IMAorV/ML0rfxXuq9ocNKqug2W5OG3RT8nVjGA5k2PXvjTS9LH/Fr1MmKnNobWnz43AIUUzIeBlAmWQv3iZ9IusNeY67sqm7hCWsJp817r/BPS4b2BHssPohh0/VCCseVboPa7YNUMHx1xjeNYr6NNax1TFzHMW98xJqL96v9CKl14NuB23wAbT9DtYTDAnsNMEjZYIup1KoVQZqqax9UPoY1bBV2NWzqDrEN6GwAWlx+LwC3pb5QeczWvFgZ+OjwqGFwHptQBkKXQwujIUGxo9bulfE/9XfgOzILy6A7Is5U0U0lyuhm5tQzy8fKH/kuU8aEgPZL7FpNDDtVAeIZVbMY6lC/MuzA65dP6T9SjIujshfoHqBIC9x9lKdIj7EAmz/uUoQOSPpOKxnOU5p41U+laMzGlkiUIYGRSQ67Oy10yEPVEZ4RD3drt7bmnUz1c+zkdpaNWGPn2xiSx86u1tKYOsk5FUFx0kpakltcc57sCAg==;RVwDnKhoGWXDCcR+4NNcGA=="
 ---

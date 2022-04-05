@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIO
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16."
+    publishedDateTime: 2022-04-05T16:01:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/624c5b8daee4a305df4992a3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 887
+        isCached: true
   - title: "IBM z16: A mainframe designed for AI, hybrid cloud, security and open source"
     excerpt: "IBM says its latest mainframe will support AI analytics at scale and security to withstand expected quantum attacks."
     publishedDateTime: 2022-04-05T04:01:00Z
@@ -43,6 +59,22 @@ related:
         width: 1200
         height: 888
         isCached: true
+  - title: "IBM z16 tackles financial fraud and quantum hacks"
+    excerpt: "New addition to Z series mainframe family uses IBM Telum processor to accelerate AI for real-time credit card fraud detection."
+    publishedDateTime: 2022-04-05T04:17:00Z
+    webUrl: "https://www.computerweekly.com/news/252515536/IBM-z16-tackles-financial-fraud-and-quantum-hacks"
+    ampWebUrl: "https://www.computerweekly.com/news/252515536/IBM-z16-tackles-financial-fraud-and-quantum-hacks?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252515536/IBM-z16-tackles-financial-fraud-and-quantum-hacks?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: "https://www.computerweekly.com/visuals/searchManufacturingERP/ID_data_capture/manufacturingerp_article_007.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "IBM z16 mainframe announced, with cryptography and real-time AI"
     excerpt: "IBM has today announced its next generation of mainframe, z16, to mitigate rising fraud and increase cyber resiliency"
     publishedDateTime: 2022-04-05T05:42:00Z
@@ -57,29 +89,6 @@ related:
         width: 913
         height: 618
         isCached: true
-  - title: "Announcing IBM z16: Real-time AI for Transaction Processing at Scale and Industry's First Quantum-Safe System"
-    excerpt: "IBM z16 integrates the IBM Telum processor so clients can infuse AI inferencing for real-time insights IBM z16 is the industry's first quantum-safe system 1 \"IBM is the gold standard for highly secured transaction processing."
-    publishedDateTime: 2022-04-05T07:01:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220405NY12016/announcing-ibm-z16-real-time-ai-for-transaction-processing-at-scale-and-industrys-first-quantum-safe-system/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1779048/IBM_z16.jpg"
-        width: 400
-        height: 296
-        isCached: true
-  - title: "IBM introduces real-time AI for transaction processing"
-    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
-    publishedDateTime: 2022-04-05T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "mSvVkZ8iJazYANpiy7D2EcQgNmFUecbIU0jK23N3sfhLmORLVutB5pHoFk05sF8MVQQdRZzEhXaLZh/zU22f9OjdfMjYS57+W5Ff7dx7YJmlhSyMwZSzlvxmLSd49OYRVc00M9up+IrqdVQIEqw8W7XG6TFJH23VSXfvN1Idbhq02GD6dyN5t5sQBHPeaAuYvOfs1YruqWVEDX/tuq/3eIBDbCyB3GGIT4/Obmzn+8TkDkJK8q7LRnCZroYb8gpn88ejmgZpI4FibuZpBpq1PQUP93xKkMLvZlbpeutA6itvZAJc7qvoCeVzeaX6fGo70iLb9jw+V3sDGHcrVuxFGkEML5uuguOjHQGSE5sb+/JNEImk5hQlClprznMtlKRTYLYn6vXr51+93FlOxLurv8W78tmjn4R9NoouuxGCgJ5J+/OeDJKCYwGImz6+5PKQjll/Ro75CdLLlfpZNyYPmAjnbf4ZtI+Y6inI+uRCBg8weMVDOYm8XmTgZ23FsVkkSK+m6C/nRDNCJDWxIHjtHg==;IRfwP+JUgvIHfgGVLdq35w=="
 ---
