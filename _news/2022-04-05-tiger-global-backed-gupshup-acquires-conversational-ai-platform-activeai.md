@@ -91,6 +91,22 @@ related:
         width: 980
         height: 558
         isCached: true
+  - title: "Gupshup acquires AI platform Active.Ai in its 2nd acquisition this yr"
+    excerpt: "Conversational messaging unicorn Gupshup has acquired Active.Ai, a conversational AI platform used by banks and fintech firms. Gupshup had acquired Knowlarity Communications, a cloud communications startup,"
+    publishedDateTime: 2022-04-06T08:11:00Z
+    webUrl: "https://inshorts.com/en/news/gupshup-acquires-ai-platform-activeai-in-its-2nd-acquisition-this-yr-1649232704116"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/gupshup-acquires-ai-platform-activeai-in-its-2nd-acquisition-this-yr-1649232704116"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/gupshup-acquires-ai-platform-activeai-in-its-2nd-acquisition-this-yr-1649232704116"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/6_wed/img_1649229679921_740.jpg?"
+        width: 1080
+        height: 761
+        isCached: true
   - title: "Gupshup acquires AI platform Active.Ai"
     excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 50 million plus enquiries in aggregate, with 95 percent accuracy."
     publishedDateTime: 2022-04-05T08:37:00Z

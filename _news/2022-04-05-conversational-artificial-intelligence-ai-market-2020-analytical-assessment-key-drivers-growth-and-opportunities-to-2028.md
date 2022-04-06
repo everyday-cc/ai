@@ -53,20 +53,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "AI-based Sensors Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
-    excerpt: "The global AI-based Sensors Market is expected to reach USD 152.55 Billion by 2027, according to a new report by Emergen Research. The demand for the"
-    publishedDateTime: 2022-04-05T09:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-based-sensors-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "kc1Ae4aDD2FRbNWFlTlBqBykTw5I4H1xC+2UQwH3IPcBeuKjzeFCqSxogiO/OG1mTn1uvpmIs5zcNFMUmWln4K2pl1qUEMa5MFd9Gz8yXg911qeywEKlPrzGnm//igkcg33+3zbvW83gdkXvQTJ5MyGVZrkpacvPLI9zb6tip2Y5MaAcDNNHyUBzjUqQp0xHwKUKQYrFnf/b4hivDMP+iOBSWTC7m1pfKzR/OFYyG6q470MrIPZi2dhz6p+IFBIWHB/dHRy1ALc03ARCd3kOif+FQhfFJGnZcAI8Di6l4JqpGbUIj9icnVKUJmQDPLViAqpwVGsMtRg2mM/A2lz4XQBrrA0rUcqGihS7c2eB7LI=;bqTxEUDhM2lq+OvzIxGUrA=="
 ---

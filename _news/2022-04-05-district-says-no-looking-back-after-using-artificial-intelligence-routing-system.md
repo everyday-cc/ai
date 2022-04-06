@@ -7,7 +7,7 @@ originalUrl: "https://stnonline.com/partner-updates/district-says-no-looking-bac
 webUrl: "https://stnonline.com/partner-updates/district-says-no-looking-back-after-using-artificial-intelligence-routing-system/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Customer experience is everything. Get it right for your lending process using AI"
+    excerpt: "One thing every industry will agree on today is – customer experience is everything. With companies like Netflix and Amazon driving customer expectations higher using Artificial intelligence (AI) and machine learning,"
+    publishedDateTime: 2022-04-04T17:30:00Z
+    webUrl: "https://www.cuinsight.com/customer-experience-is-everything-get-it-right-for-your-lending-process-using-ai/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 32
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/02/bigstock-d-Abstract-Hud-Brain-And-Nerv-401073950.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "jBYCliwtZ5Yob6un63/ibg0hiIAcWJrnD3StReaQYZuBq8xohRjXbjkMKv/UrCYHe2kONZsz6+iu+zGTJ3vDSOC3m4omGp+5HhLVcwP73g6SNKyXC5T+goK89A2h2VrUVV7GuD3lptouvFjp1CDwyYIruNTr6pw8xkPdWfOZs89VwIePsANswyu1Vy2X6grkqOibXy2zVs6Is4sAQ2lqkS1Upkx3CB3WY42JZcCy6+9AaUCEtn/1oyjxbR/H3uebiuLxu/Gt6IkLyNAG1oSh3kbnbqJz9W8bFk8kZOdnUFJfpUhp+Lhp8r2MWHABoeg0fPQoM8+5nm/09E6yvzGgxqpR91o+KtfbGkzTb9KIyvRk5PVrGu9Frcj33u0jUyF33S9E8Mpuk46B24QxpiIOoKNbzNXFVI70ghGBQpBP+CiKScnBOC6ZsyV4krhS+OVE4U9U45QleuikgkQ2wa1NUCjbHwsJEmzfRhIc9QiugXis4Xu2Ivp6cbS5mCYxb3d44mgi6i8JBUo07XsL/Xsncw==;XWINK5bcggGaJfzhF1JKPA=="
 ---

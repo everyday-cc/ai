@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google paper cites AI research at centre of its staff firestorm"
+    excerpt: "NEW YORK (BLOOMBERG) - Google in 2020 and 2021 dismissed the two co-heads of its artificial intelligence ethics team in a dispute over research that was critical of the company's work. Now, Google Research has published another paper on the same topic that ..."
+    publishedDateTime: 2022-04-06T08:17:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/google-paper-cites-ai-research-at-centre-of-its-staff-firestorm"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/06/AK_ggl_060422.jpg?VersionId=70IrGCEfROAtaGQ_00e4X15DPafpf6Xb"
+        width: 860
+        height: 573
+        isCached: true
   - title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
     excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
     publishedDateTime: 2022-04-06T03:52:00Z

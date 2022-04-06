@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google paper cites AI research at centre of its staff firestorm"
+    excerpt: "NEW YORK (BLOOMBERG) - Google in 2020 and 2021 dismissed the two co-heads of its artificial intelligence ethics team in a dispute over research that was critical of the company's work. Now, Google Research has published another paper on the same topic that ..."
+    publishedDateTime: 2022-04-06T08:17:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/google-paper-cites-ai-research-at-centre-of-its-staff-firestorm"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/06/AK_ggl_060422.jpg?VersionId=70IrGCEfROAtaGQ_00e4X15DPafpf6Xb"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Government plans $44 million for new AI centres to increase jobs and skills for SMEs"
     excerpt: "Minister for Science and Technology Melissa Price said she wanted Australia to accelerate the development and adoption of AI products and services using homegrown research."
     publishedDateTime: 2022-04-05T01:22:00Z

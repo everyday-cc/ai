@@ -36,22 +36,6 @@ related:
         width: 1279
         height: 757
         isCached: true
-  - title: "Here’s Why AI Ethics Is Touting That Human-Centered AI Is Crucial To Our AI Symbiotic Existence, Such As The Advent Of Autonomous Self-Driving Cars"
-    excerpt: "The trend toward Human-Centered AI (HCAI) is important and here's why we need to make this happen, including too for the advent of AI systems such as autonomous self-driving cars."
-    publishedDateTime: 2022-04-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x520,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "QIVagJCc1n3r7t1fomr3uT4a7DrLUhWfqK+0LLT6LSDKeHcKbV4wfhBL7VPCEdNkouGnRQGui4glzvM3HoPmhig9f6cRAiuJ9dfDyH6C0jF/R+MTlAAFwwYyQe1Ryq/mwXrObeuTrSRgijaYnmc27G70TqhU70HQQ7a1NdYW8HOMEGtVitJFYlz4FDzchjEJ6DcBH6GQx/jROILRQEKa61Am4x0NEhBBADh5N3yRqAOFWI1hKlPFKaZxS9d9OVrQ0GTkwQaPixh1V1r6HjdaHL9goSjXid37EOmuAaiMb/KJ/XOu51B2HcFhiwv5R68Wb7iPRu5XH2rCNnkAr7Gjq6kz9nHj0bSuxWdja63sXw7oAURSZA/fWBgA2vasT8Ru5R6KiGFnqYABRYK1lXiCL0sf/CnwGrbC7w59rMZwHGKgOA8iqiiTWZTtGB30CrLKe0dMIH3YEFOHJhJHxiJQ9FR0RxglEI6mYT42o3n2YLQbk+wT9h1+IinwZOpngDXcX+f4XcYxU3nCgQJsgKrSPQ==;ivBnBAsrJNIWaqz9DLTLDg=="
 ---

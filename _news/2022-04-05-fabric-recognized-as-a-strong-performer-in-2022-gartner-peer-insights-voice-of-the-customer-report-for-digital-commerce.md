@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ 'Voice of the Customer' Report for Digital Commerce"
+    excerpt: "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce reportSEATTLE , April"
+    publishedDateTime: 2022-04-06T08:36:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce-1031333304"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce-1031333304"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce-1031333304"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 0
+
 secured: "IdOUzM5Gq47iYC3T8CP0Xi9WGbxM9Jd1ndDiWZsTskdbiwt0qHDqHDkkVI60oeDy/J73CGuR2Iy8hqO8OakN/zArZuVR7bZpkajGx2rf84oElaFv3pP/RSIdtf6hfYqS47UBYJTYJLsoSiD++q2T1kPLIi2VyDwFUHxS9WP6weZPQ7mKST1qVbPeeT3gTiUObWtV7zdChiKxBlsDDddviqknn2joMF+SGZHkLNV9wM8q44RPZZDweMLBvyvxJqmoDDJPG4VKUibjEpyhE6B2TbPzuhAQrOAA+ZKnuj0KZMpdnQJna9sIxhvs78l1w7ebnF9UJeDh6EbjhvnoA5tNy+lYI5H5Jmoqa8TU2LiDMqHCvAJa2YWz1KX1VRVEfzcpdcVMbfBIHlXWq2EUoar53t6IEfs0sMQvsdyuM7fnKmVoMd8A95jSPquiICa78M/w/LvBVUjFAdq5P+Wu2FaZfnO98yF3mRkIxNVGzhsIHu91xP5LWtmmPVQvaMQJTtaUDYB7FtfnOfXK9i6KmL+4mg==;gso6mY7FOHLoPd0cS2MMbA=="
 ---
 

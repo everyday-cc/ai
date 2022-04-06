@@ -27,6 +27,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "IBM debuts new AI-powered, quantum-safe system"
+    excerpt: "IBM z16 also is specifically designed to help protect against near-future threats that might be used to crack today’s encryption technologies. IBM debuts new AI-powered, quantum-safe system. AI, cryptography,"
+    publishedDateTime: 2022-04-06T08:24:00Z
+    webUrl: "https://www.itp.net/emergent-tech/ibm-debuts-new-ai-powered-quantum-safe-system"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "Cz5lZug7syI5/OXMh46XruCKQeQlFzBGp0uze0w40Ayj3TiBUmIFOpAvyac6xbYEXOLcw3RqaJV//iPsVreQr0eWOEdBL2GjQNq8JJFOrcDy9iRo7G/K5h+xZK/nSP2H2Rx2lDGF0BtJDqoN71jkXZrSKge3HKGRKnm7CHNhM2pmrAqKKWTJt8Xac85tn67lIE86ULjkGFR1mHoY30deG3uE9FS8ZxJvbVhL0f1jqIY7TQItCxhjURnyTcoIZFikgEldIy0boWLUWo0Mg1u9ISpHIA5GwlMvZVJ29hoLasQTnZbO3VSgo2DxoRhCdxuABUWnoVduquuZEhLs+Oz3ebVFmjZPmp3R6mu3us4R22Ka7SP3PaRCKo5/YkXiPl48kkVJInKznYlR9bYCaHkj0I9s3GwjXAtFS1MzrT14PMgjlse4NnGI+OO0q61CHYoBdvdhYD3CA2CfGoeFW3R4frVJL+sekJpKE+oxpzxYUH9OIcbPLRX0gUle0fUsfsNMdpt5+o4PKIMqqmemF8Z3bA==;qxmtidrmVBdRS79+ZIZEXw=="
 ---

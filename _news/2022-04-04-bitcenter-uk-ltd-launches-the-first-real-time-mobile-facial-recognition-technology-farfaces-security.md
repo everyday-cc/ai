@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-t
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -20,47 +20,6 @@ topics:
   - Computer Vision
   - AI
   - AI in Security
-
-related:
-  - title: "Should law enforcement use facial recognition technology?"
-    excerpt: "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate."
-    publishedDateTime: 2022-04-01T15:07:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-    ampWebUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gastroenterology technology: 5 updates from last 30 days"
-    excerpt: "Artificial intelligence and other gastroenterology technology developments are shifting the way gastroenterologists perform procedures. Five updates in gastroenterology technology from the last 30 days: 1."
-    publishedDateTime: 2022-04-01T20:53:00Z
-    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 24
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Login.gov plans to scale up without facial recognition tech – for now"
-    excerpt: "The General Services Administration isn't ruling out using biometrics in its Login.gov service, but the agency has concerns about equity and accessibility."
-    publishedDateTime: 2022-04-04T14:54:00Z
-    webUrl: "https://www.nextgov.com/it-modernization/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363972/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
 
 secured: "ncpL/ZwkFR+lkjF7nisvfs8+afW5Jb2ErYWE5BsKGtfQmN6GqF9UTBZQVz104uoNIl3HkeHOYjhXy/U9oE4Ug0+LXv74oo5w9QZMTrvV0Mp/xGV4MB7OJI9IR5HHOIMPbfQIg9FkSKUHqQCvWIRcFwLJZWRu/fy84Y15F8XWAXcC4CbIBpMVpA5xvSC4rjbt7MWfHr5s3Zht72i+/pU6BvC8nj2tSPMY7Uz7oq5jW6zWTvgJveLQx+CGF0C9cAMEqiCwC5gbdgzHLHUAtaqkvVpMF2bOQkUt1U4i3hXO9D3RtdDASvmDasFrPr7g+UKEI2WJsgmMeA83LMnviNLv1fPbPPslJYEOh9DrXt87ZpjT7ECzOlabauqb8fylUu8rjcEUlzFdOz2y6Nt+NrasdIKgaFrnfXWmvXlm4nH5M7pJMp9Wg25YD1/Qm4xzEhZkkvb9GF2wQaYst0VU5czfIT8cXF2LnnUMpI3L15HTDQ7kwnWhnxkJd+/7Hh18F7L3CZdwEjVC7n/SD+p/wmYfbg==;6lhjr+C04Uzs1ChhYj29rA=="
 ---

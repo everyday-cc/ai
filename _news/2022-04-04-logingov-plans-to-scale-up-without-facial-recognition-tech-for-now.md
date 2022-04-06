@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/it-modernization/2022/04/logingov-plans-sc
 webUrl: "https://www.nextgov.com/it-modernization/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363972/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,49 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Should law enforcement use facial recognition technology?"
-    excerpt: "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate."
-    publishedDateTime: 2022-04-01T15:07:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-    ampWebUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 59
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "BitCenter UK Ltd. launches the first real-time mobile-facial recognition technology, FarFaces Security"
-    excerpt: "Bitcenter UK has developed real-time facial recognition technology-FarFaces for mobile devices that allow detection and recognition of faces with an impressive recognition distance and speed at"
-    publishedDateTime: 2022-04-04T14:39:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 40
-  - title: "Gastroenterology technology: 5 updates from last 30 days"
-    excerpt: "Artificial intelligence and other gastroenterology technology developments are shifting the way gastroenterologists perform procedures. Five updates in gastroenterology technology from the last 30 days: 1."
-    publishedDateTime: 2022-04-01T20:53:00Z
-    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 24
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "e2J2I+dluuviH3xoef0k5Ex32f1nQ8lgJPTj+4USksLqIz+JLtx99Va55RtVxxr5nuiqGiasOygS40BP/xnkE+c6g/19loXfC1Hms/fZW+AOMRgUvQA8DQWCsLwsVy4gSYo1IAQBoRAAByLHSxhvBU8ge0DKu9TShsi0SJ0lsgaWUxOspdtT5s8muWSUVQ3nljyRoVCC5IohNI0hpcQTuHhU5fuA8wUCC3luA+fantoByd8aholB/P6Jj2HoBSsIDKL6q9RzYd2YxRK2Ud3DinuUkkVoZrlAxN5um4nafN12IYRWzAG4l3wUPJncJwa/wmI73XqegOETiPA8jwrhfmw/osAiXu2w9kYoRnmD65pxHGm2RCAQCBSC6bkQe5xLYNmZtTBcqntdLnLmO9kNrRWHbMwgUsjJa8NpMhkUE2fIwaBKzTP8tbsnjxmVdGfi3FW4NgdToHgIgR20TF978PGxaS0HISzj8O5sjnxH5zRAV7VzgrT/IsxrcdG/+u6mAfuzPoUOYCiWxZ94l+PXDw==;L5Td5C3WDUo3CGt9k/2q8A=="
 ---

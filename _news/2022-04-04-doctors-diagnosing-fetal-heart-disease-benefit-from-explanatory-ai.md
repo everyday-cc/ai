@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Doctors diagnosing fetal heart disease benefit from explanatory AI"
-excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project (AIP) and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting. Both hospital residents and fellows made more accurate diagnoses when they used a graphical interface that represented the AI's analysis of fetal cardiac ultrasound screening videos."
-publishedDateTime: 2022-04-04T15:07:00Z
-originalUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.html"
-webUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.amp"
+excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project (AIP) and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting. Both hospital residents and fellows made more accurate diagnoses when they used a graphical interface that represented the AI’s analysis of fetal cardiac ultrasound screening videos."
+publishedDateTime: 2022-04-04T14:24:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/948616"
+webUrl: "https://www.eurekalert.org/news-releases/948616"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5737e064-4109-40bf-bfa6-e000c02df732/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
+    isCached: true
 
 related:
   - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
@@ -41,6 +45,6 @@ related:
       domain: news-medical.net
     quality: 9
 
-secured: "lrarp4Ob+VH04UqvP+PUBf2tTDIfYiAuXQGOkshh2sEDbIOXfYdQvc0scgA0p7LVPfHs+AVE6fnE6iGy+frd9NC7pvpxcY5A1OqGuP7LHqHkvlwM7f0BQaxj2VhZGoNyHUKRl2RPCy1k8T57GaEzzyUaN3eCgutkn0zDQlXTlkyiYi4jZtsXVIKhkNhQvJrsUtI+nQFIS7QqPPBnSBxM9wkYCAT9ikH+KUARXZyWaJyPFyDbCqzDV9onxURzkYnXWTQMx0YxBdbi6142EWL4nOoZuNa/vHoCoAqqQJG9yFAN7Yvkd9FVgZQ3GshsqT06m8MhMpJEyv+KPzdDieqcdFuk6Coax1M5SvKSeXH1buRc1h0s8LON7/4yWF/3swgpaocsHBCEW7a0IMhcCKDbhcLoLZTvTUhSSxfshuG/6XOHNCJQu37PwKfz8QGySSXzyAuHA/rD8zvVisIPM3XeYtqMFKkuAwYmuGhavk6g/RlJh8zv4/aubjDCz5Zd0NL9NMhSyWSlHlNdUyt+JvEbuQ==;PQ4LkRPCEJuVlNOXAySe2g=="
+secured: "8/Cyilzntry0LkyMro5Mz0DXmPV2y85PvoQ0CYJcoy3EDTjxvboKl7RR/RomKaFuv0Q1rj9fL+V/yOGjSe547PpXc0XUCH7CCaYPEX9TzTWNeUUA+AGcpEgYlhbYKuc6Ua8SeCqQ9LAqf92ZoFd/2wlWoFcCTocDNxiC2WsXdYZLtyA7OiZy3gY3iDuaWi46ncYjbHyMWSDIa8StIur4q9nfuDmQGDiTVfBpaOY6fkwtXfeDmgZiW6brSzs4r1tct3SJtfcWnAIKUCTEX4lDZlnfg9uJjOHrQLF+kA88/m1EJj79QuSbTSG4M44xnDc6j57PX96MKp+6GDX7XELDAqyT5DiJK9mWyHUA4Rd84Og=;aXnyJmwTtO9GF881HFtU1A=="
 ---
 

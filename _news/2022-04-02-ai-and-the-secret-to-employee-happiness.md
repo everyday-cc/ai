@@ -38,6 +38,15 @@ related:
         width: 708
         height: 419
         isCached: true
+  - title: "Bridging the Gap Between Neuroscience and Artificial Intelligence"
+    excerpt: "Throughout history, neuroscience has had a significant impact on the development of artificial intelligence (AI), such as Perceptron - the first artificial neural network, and computer vision models."
+    publishedDateTime: 2022-04-06T08:03:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/36632/bridging-the-gap-between-neuroscience-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 19
 
 secured: "g2xsflTinja7Ak0+XQZmxjnGTtzTgX6zx0HLCTgLu8tk7YEkf36Sw/rtfHB0BCadOZ3USBU06yNZk4+8UvH1kV8hv+Nsj/dWOfo05RHRFzMKiKB/4RROuwFHEKzd+qV4KIO9v1ZqXr7fLgFBplX+ilrTEjhHMpJQBccw80bIj+RO/7gpPayvcLqrrtTMMqcpdjlv7lOCBzxacmDrTtXK+KcF88oeWiw+YcAvMH2YnPNeITuPCEPyP+fGLK/CAk2xr4y4UP54nRUM3mPz6GzE8Ef7Wvmw+lsln8YvxfLqEGg+BT2RiiYr/LWzWu2a02TKLGw+t453IWpOabEpo8c8zeA/UrXDc0FTlmhqExjzgcXFKx6GSpjVL1M6VOja39J8l7NJa+8sExNXXvvyvubpQAC90gBlqBqesTiFF1XQur7kRNBRr5kPuwI2ypvxgKdtPxEhhlxeRHN18i8F+eRMpyrFxY7Dp5fATDBZvpUK0e5gF051vqtX5xsAereNItqTBBXzMN7QrxdWGGdzqvO1yA==;MDrFwiAgoDtzcCb1+hxX9A=="
 ---

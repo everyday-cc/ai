@@ -24,48 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-04-05T08:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2028"
+  - title: "Global Machine Learning as a Service (MLaaS) Market Expected a Growth, Key Insights, Type, End-use and Regional Demand, Latest trends by 2028"
+    excerpt: "In the \"Machine Learning as a Service (MLaaS)” Market study, the industry landscape is covered from driving factors"
+    publishedDateTime: 2022-04-05T11:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-expected-a-growth-key-insights-type-end-use-and-regional-demand-latest-trends-by-2028-2022-04-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market Emerging Trends and Competitive Analysis During Forecast 2031"
+    excerpt: "The rising number of innovative start-up operations working within the domain of AI powered tools and services is one of the key factors driving the"
+    publishedDateTime: 2022-04-04T06:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 27
+    quality: 26
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
         width: 600
         height: 337
         isCached: true
-  - title: "Mobile Robot Market Size, Future Trends, Segmentation, Total Margin, Opportunity Assessment Up to 2027"
-    excerpt: "The Global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-04-05T14:33:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-size-future-trends-segmentation-total-margin-opportunity-assessment-up-to-2027"
+  - title: "Deep Learning Chip Market Research Report Analysis 2021 – 2028 by Size, Share, Trends, Growth, Industry Analysis and Outlook"
+    excerpt: "The Global Deep Learning Chip Market Research Report added by Emergen Research to its expanding repository is an all-inclusive document containing"
+    publishedDateTime: 2022-04-04T19:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-research-report-analysis-2021-2028-by-size-share-trends-growth-industry-analysis-and-outlook"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
-    excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2022-04-03T21:39:00Z
-    webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
-        width: 375
-        height: 249
-        isCached: true
+    quality: 9
 
 secured: "HAkaDO2J8IujNTeb3VsrM1zqZVzW5sCVp0VNZBx4SMJnyYMjAoYsyqppxkVEdH21iSVbWrO32MKLEVYsFGRS/nGaS+OyS+ovZo8CObLLox4SzdNuWVjRQrg2sy6HvLLxJKjJtqLkcjQQ8OYk+QXTk86T5y6jky6NC2DtK7u+eSCnMTOEoCSWHaNxjt9yUouZyQlKlqV6SU+OteuLqK9QZ6nJYZpWvWcIqcdPQv9VtsIHLXbs5wXOdN6iCH9si7bROZ2V8xGU8h+VisbWNkxjchmcDKvhzb/MfOn/KcUwXqZ1I9cI0x1ia3UpeHR68GVxwGN5y9cZ2YzY84dUMGxRVgA8g4l6/q4RShxr6HguxmM=;pGEsIMMSN/eF8TsF49GnEQ=="
 ---

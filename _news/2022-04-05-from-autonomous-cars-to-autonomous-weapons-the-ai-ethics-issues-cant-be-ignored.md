@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s Why AI Ethics Is Touting That Human-Centered AI Is Crucial To Our AI Symbiotic Existence, Such As The Advent Of Autonomous Self-Driving Cars"
-    excerpt: "The trend toward Human-Centered AI (HCAI) is important and here's why we need to make this happen, including too for the advent of AI systems such as autonomous self-driving cars."
-    publishedDateTime: 2022-04-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/01/heres-why-ai-ethics-is-touting-that-human-centered-ai-is-crucial-to-our-ai-symbiotic-existence-such-as-the-advent-of-autonomous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x520,y0,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Nvidia names top US partners that fueled AI, accelerator hardware sales"
     excerpt: "Exclusive While Nvidia is becoming a vertically integrated business by owning several core computing technologies, the GPU giant still relies on third-party companies to sell most of its wares, which is why it goes to great lengths to incentivize and recognize the contributions of these partners."
     publishedDateTime: 2022-04-05T19:13:00Z

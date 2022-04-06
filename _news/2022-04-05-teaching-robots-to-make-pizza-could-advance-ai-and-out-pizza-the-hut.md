@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Bridging the Gap Between Neuroscience and Artificial Intelligence"
+    excerpt: "Throughout history, neuroscience has had a significant impact on the development of artificial intelligence (AI), such as Perceptron - the first artificial neural network, and computer vision models."
+    publishedDateTime: 2022-04-06T08:03:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/36632/bridging-the-gap-between-neuroscience-and-artificial-intelligence"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 19
 
 secured: "06DEr45KTYTZuT66ktIBBY/Xdpkwuqvi0Dx0kJelyP5lC+oI9hu0NXcK6TpB+AEAGJkfsKwdKKpyufOdkMqzrJefYPOIgqA/1o41wuxn0Y3zwDPDEIfN0LOA588ltXDVdUbrjfTRkIhBDXZ/4zO67TATKNEeuT4DcGbOf4D/EjHjSk/wkNieOVqyp1G+4U/8dC68H09WSH2j9aKS9xCf/TfZf2ajAsrC2c1iRxbQ83enHmKiSzCm4GLnaoBDitjHaOSzvVZIex5mdCn1PXy/n96ELAmqnRkuBkg8+viDaIX0Sy6cetv533SWQW4VajUjjXfdAValYM7Z/CgzMM6X/8VrmEkjJI6A5qg2jZv3jvm9jiouesW1TezMP0F7RUzt2rBSpmv3tApT7Evd+pckbNeYoaqeTjqX151oIVs5lfX4SCJEojAj8J18Sj8bXg7lDTeIWeh90gA67gfwdAeGsPjz1UIL9fUI6Qx8AazXo36I26dP8OJcXERZ7feZX7oW8gzwG4aqkmas8f8cpUBiaw==;3pR+pOLGhx4DhPqkvMtYfQ=="
 ---

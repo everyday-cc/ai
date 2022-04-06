@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
+    excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
+    publishedDateTime: 2022-04-06T08:09:00Z
+    webUrl: "https://www.electronicsforu.com/special/editor-choice/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
+    ampWebUrl: "https://www.electronicsforu.com/special/editor-choice/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/special/editor-choice/intel-releases-its-first-discrete-gpu-series-with-game-boosting-and-super-sampling-technology"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 47
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/04/intel.jpg"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Intel Unveils First AI Incubator Lab"
     excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
     publishedDateTime: 2022-04-03T15:39:00Z

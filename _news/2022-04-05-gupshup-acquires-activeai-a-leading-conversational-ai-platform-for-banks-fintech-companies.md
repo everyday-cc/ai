@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activea
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
 type: article
 quality: 62
-heat: 202
+heat: 212
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202204/2c4bd0b08b3248539a1a524032d091f6.jpg"
         width: 980
         height: 558
+        isCached: true
+  - title: "Gupshup acquires AI platform Active.Ai in its 2nd acquisition this yr"
+    excerpt: "Conversational messaging unicorn Gupshup has acquired Active.Ai, a conversational AI platform used by banks and fintech firms. Gupshup had acquired Knowlarity Communications, a cloud communications startup,"
+    publishedDateTime: 2022-04-06T08:11:00Z
+    webUrl: "https://inshorts.com/en/news/gupshup-acquires-ai-platform-activeai-in-its-2nd-acquisition-this-yr-1649232704116"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/gupshup-acquires-ai-platform-activeai-in-its-2nd-acquisition-this-yr-1649232704116"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/gupshup-acquires-ai-platform-activeai-in-its-2nd-acquisition-this-yr-1649232704116"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/6_wed/img_1649229679921_740.jpg?"
+        width: 1080
+        height: 761
         isCached: true
   - title: "Tiger Global-backed Gupshup acquires conversational AI platform Active.Ai"
     excerpt: "a conversational artificial intelligence (AI) platform used by banks and fintech firms, for an undisclosed sum. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with a conversational banking as a service (CBaaS) platform that ..."
