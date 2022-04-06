@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Speechmatics"
   url: "https://twitter.com/Speechmatics"
-  followers: 1385
+  followers: 1386
 
 size: 51-200 employees
 yearFounded: 2009
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Speechmatics"
 
-secured: "6LpEz7PYJkvEqDIsPq4FiQjmyXswbqy7AjqHmAESMhwmdzpls5PlB6H7eLto2mjhJHTlwK6/Gz8Va+355Hx55wVFgH7FDkT+uCOZgiNGDqz9PvHjT5nEpNrO129R8cYRFULCuxc660Lg525kas7p7PTg3qZb9IAW4XysRyudzB0qxhi5Skcwfx+Tip0SK8yUNWuVOQgsWN3Nb/6nivKLTw6WSlqbsDeozN3i2CPCeySshzcgJKPBCqDwaqx7slaEZjuPS/4jmN9mPMgtoDUvCw34bX88E/r4X59WrH8sJ08pU491H/ZBDd7ZEYq7HrmPb0ulOhvCeQ7gMKY03fS7P8Gf0a4PnAE8qplR6GrhEVZ2hT7Z8S+r/K/wcJ1fiwsw5ZK0NlZOD3ar6JoTulmLoPz5OIir5aH04XgmY6VWjVI=;5AKCjFckmeJR7gdjCDZp9Q=="
+secured: "4AGPQEmg4NJlEjLDgd3nL8/UX8Rvw7hA2XVy1g4TMzr4iutUTO3Lrhndr0TuAyNDFw26mebWBd/Yl/jWibm9MItCZ50DZOBUIxLN0RNvGLC6qkMe7DTGD4cmKJwPrkBpCTTUX0GfAS0eEvNnI9ecp2HeAb1Uk/05+8va0zTAj6UeScNGzhQzOjccE/xzXUHuKyF1IrNFzYGLmukpUNB4onyA5UiEc+lYq9FoLUIRq6bNGOElpZHFq1NLg3slYhPnVc0Upzuab8IOuhX3KrtLk6hk6kVlIQ80rhXHNFGBmwHHQ1UQ6HuGbKUJ5TUeNymi5QLZH+UdVTg1nkIuEIRifDNmJrtDl/6wGCtCz183gaaOEEyIIUOOSqc7sirFgvqpFTM2dOH897oEmrQGL7cOqliotycIsYW47ODFZpKp+t4=;VEYc1kQcHg/U1KavdbnttA=="
 ---
 
