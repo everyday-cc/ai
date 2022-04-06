@@ -7,7 +7,7 @@ originalUrl: "https://twinfinite.net/2022/04/ai-the-somnium-files-nirvana-initia
 webUrl: "https://twinfinite.net/2022/04/ai-the-somnium-files-nirvana-initiative-gameplay-trailer/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     height: 675
     isCached: true
 
-secured: "kOVCWPrb+46CiJvB6xZU7Hq7EQA0dTfCQw6sOSwt0G0TcBlCSpVf5/oTuoNrjbBW35T5bG5Y+LtLKNngWvlYbg6f7Qbyfn4rAOHlx8Sa4PT1Rb5nMd5PtVviSuVGmW1YP6IKj6FTpLcN81p9bOgLzhgrfaOOIV0aam52VQQfOkr0AlZTNbym0PdGahzoMqigW7GTQwoyg+eVI3kKXEkAVApEtwyVKKwkv2t6P4sobk+G64rvN71dTEViqHPsq0qCXAOjI9inpEdI95dilMrr++gcHobsCJwbb8O17B1lJxgrIjgVU+M8f9E90gw662hNV0ZQ4fLME9EpveX7FPHPFz4YXeRGuViJqeHHaE51zsM=;YAumtOiFU1QfA3sX8zAN1w=="
+related:
+  - title: "AI: The Somnium Files – nirvanA Initiative gameplay trailer"
+    excerpt: "The Somnium Files – nirvanA Initiative, as well as announced limited time bonus downloadable content available for free for the first"
+    publishedDateTime: 2022-04-06T01:09:00Z
+    webUrl: "https://www.gematsu.com/2022/04/ai-the-somnium-files-nirvana-initiative-gameplay-trailer"
+    type: article
+    provider:
+      name: Gematsu
+      domain: gematsu.com
+    quality: 37
+    images:
+      - url: "https://www.gematsu.com/wp-content/uploads/2022/04/AI-Somnium-Files-nirvanA-Initiative_04-05-22.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Video: AI: The Somnium Files – nirvanA Initiative New \"Gameplay Trailer\" Released"
+    excerpt: "The Somnium Files – nirvanA Initiative to Switch on 24th June in North America and Europe. In the lead-up, it's been sharing more and more information, and now we've got a new gameplay trailer, introducing players to the two-part gameplay system."
+    publishedDateTime: 2022-04-06T02:15:00Z
+    webUrl: "https://www.nintendolife.com/news/2022/04/video-ai-the-somnium-files-n-nirvana-initiative-new-gameplay-trailer-released"
+    type: article
+    provider:
+      name: Nintendo Life
+      domain: nintendolife.com
+    quality: 32
+    images:
+      - url: "https://images.nintendolife.com/0608ebf37557f/1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "3hRpnKLHP4OfFVh6JQVuCzmdh6mz3PXkuc4vIlGDcKZbjWo9VBP4tO4Qo6gLekqAlY9ToTjLxJwsCtS1kUcPUl6Bapsd9H50l79BanL8QCLlLRQdWZ0wuV3hmXgqpuaV+5cjLO9JA1Q5rIrK7zYYu/oDTxs5MXVTA8S7aN3im737TByc2t7p3hcLIUJip9Pa6fcvu5aDyds6tGFiGXmqgPo5jDAjWAW5+8HQK31qp0NR52W8WqfZZCrAlAV5gap6lBTgl6iPYVdrIHAAo47zl9BW49NMKnTZAJOgR+39uqU1JGlvM4QF9YORCoQ1edao5duk3V3/iHxgMPSAlCafxEMmF6bj7daoRj6YjuSuq2eYN7iRWuat/NOibDPpUZX4heJUwepfd8NxcgqmXqARjUR5eYPb3zLJHJ3OgnngG6UqF0o7+xmHBSjvWIZ/WY3kWBn3MPZV9XG5AnhBZ3cVThVFxUXjLTQvQ/rgUvvtsHjXgVCvC1urbIGJcrbEX7L2DkkFDuy82qxQkzoUtLDdmw==;AOkjN6dmVj+P6dRV3BUIIg=="
 ---
 

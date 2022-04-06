@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Government plans $44 million for new AI centres to increase jobs and skills for SMEs"
-excerpt: "Minister for Science and Technology Melissa Price said she wanted Australia to accelerate the development and adoption of AI products and services using homegrown research."
-publishedDateTime: 2022-04-05T01:22:00Z
-originalUrl: "https://www.smartcompany.com.au/technology/government-plans-ai-centres-jobs-skills-smes/"
-webUrl: "https://www.smartcompany.com.au/technology/government-plans-ai-centres-jobs-skills-smes/"
+title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
+excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
+publishedDateTime: 2022-04-06T03:52:00Z
+originalUrl: "https://www.peoplematters.in/news/technology/tredence-strengthens-india-presence-with-new-ai-delivery-and-rd-centres-33474"
+webUrl: "https://www.peoplematters.in/news/technology/tredence-strengthens-india-presence-with-new-ai-delivery-and-rd-centres-33474"
 type: article
-quality: 30
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: SmartCompany
-  domain: smartcompany.com.au
+  name: People Matters
+  domain: peoplematters.in
 
 topics:
   - AI
 
 images:
-  - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/12/Melissa-Price-AAP-Image_Mick-Tsikas.jpg"
-    width: 733
-    height: 356
+  - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
+    width: 990
+    height: 550
     isCached: true
 
 related:
@@ -40,19 +40,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
-    publishedDateTime: 2022-04-06T03:52:00Z
-    webUrl: "https://www.peoplematters.in/news/technology/tredence-strengthens-india-presence-with-new-ai-delivery-and-rd-centres-33474"
+  - title: "Government plans $44 million for new AI centres to increase jobs and skills for SMEs"
+    excerpt: "Minister for Science and Technology Melissa Price said she wanted Australia to accelerate the development and adoption of AI products and services using homegrown research."
+    publishedDateTime: 2022-04-05T01:22:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/government-plans-ai-centres-jobs-skills-smes/"
     type: article
     provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 33
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 30
     images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
-        width: 990
-        height: 550
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/12/Melissa-Price-AAP-Image_Mick-Tsikas.jpg"
+        width: 733
+        height: 356
         isCached: true
   - title: "Telus Using Artificial Intelligence to Lower Energy Costs at Data Centres"
     excerpt: "TELUS and Vector have even elected to open-source the EOS algorithm as a contribution to the energy conservation community."
@@ -73,6 +73,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "QCcPfOVy9kvT4Li394YUrAbqWouohxdLmsUk5xtDlFsONwHmy3M0paRtvahNBGs5GIqgj58Xm4SYyC34N7ZoGQmsuDU9WXYFejxYkuFJrGg6JRpn9YhphAehaBnQJko0eOm6VyvF9b675MfdFbpDyKR7hj0jIITeR+jKhg485NhB8+FtwtfgvJG2xNguKB5Hx5IboKEgzPJMYQv5+toQQovtegxJC9rGoJvqWqaKPYlcrcQGjLgnICEhRxYwz34thYaVkWo9rHgKiqFfRLXkvC5fwmmgL27ibi8VNLHKswsPWfxbQoW1678NP3FiTixX9EOSzlTOMDwJy9Wfz3FNRlqjSypB+U6d+fDUabSA5uk=;O1KKPegVYLmL7nHhIncJVA=="
+secured: "DkgPgfRNPk4lTOtTTEArIoKpTfmPfVEPN4uyqFAF2MmfnqEZhyyJFdOHSKbAiCWX3oMMhoLJ2qC5yLj779z5C5hd/M0onaeCvl4v5B2qQWD1FgefoAnGQowuBkTjVTRqIkZxkOjf/B+HDMc+he/MoHQrQHVrGKSg6ltVZwuB5ddvbsvdnQV+MtmQIk+WHcFr8xFOgXeZz2fbctGpmgjOETtQdFtd9Y7ULhoQIyvbjWWPrXzfDdKlxvD7JaTrnD7Ymhm6W75D6HN+nZtRQA1YzxpXIrzNoYDg3bUFvhF2YXYKLmQFzrPZZ91IDsaKeGIPR5TlPs2OX6MgSiy0QNqnBCPYF+fzR7gyr/fq9X2wYog=;GhcDVq2t5Pnuym3+2ZyuXw=="
 ---
 

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
+    excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
+    publishedDateTime: 2022-04-06T03:52:00Z
+    webUrl: "https://www.peoplematters.in/news/technology/tredence-strengthens-india-presence-with-new-ai-delivery-and-rd-centres-33474"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
+        width: 990
+        height: 550
+        isCached: true
   - title: "Government plans $44 million for new AI centres to increase jobs and skills for SMEs"
     excerpt: "Minister for Science and Technology Melissa Price said she wanted Australia to accelerate the development and adoption of AI products and services using homegrown research."
     publishedDateTime: 2022-04-05T01:22:00Z

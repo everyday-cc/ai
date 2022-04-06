@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Deep learning rising in importance within booming AI sector"
+    excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
+    publishedDateTime: 2022-04-06T01:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
+        width: 720
+        height: 480
+        isCached: true
   - title: "The Human Side of Artificial Intelligence"
     excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
     publishedDateTime: 2022-04-01T23:37:00Z

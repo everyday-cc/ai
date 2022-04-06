@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-b
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence may improve diabetes diagnosis"
-    excerpt: "Using a fully-automated artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook ..."
-    publishedDateTime: 2022-04-05T14:05:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948056"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/da510660-503b-44d3-8029-cfd904db8c25/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
     excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"
     publishedDateTime: 2022-04-04T17:14:00Z
@@ -45,6 +31,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 37
+  - title: "Explanatory AI system enables more accurate diagnosis of fetal congenital heart disease"
+    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting."
+    publishedDateTime: 2022-04-05T12:23:00Z
+    webUrl: "https://www.news-medical.net/news/20220405/Explanatory-AI-system-enables-more-accurate-diagnosis-of-fetal-congenital-heart-disease.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 9
 
 secured: "lrarp4Ob+VH04UqvP+PUBf2tTDIfYiAuXQGOkshh2sEDbIOXfYdQvc0scgA0p7LVPfHs+AVE6fnE6iGy+frd9NC7pvpxcY5A1OqGuP7LHqHkvlwM7f0BQaxj2VhZGoNyHUKRl2RPCy1k8T57GaEzzyUaN3eCgutkn0zDQlXTlkyiYi4jZtsXVIKhkNhQvJrsUtI+nQFIS7QqPPBnSBxM9wkYCAT9ikH+KUARXZyWaJyPFyDbCqzDV9onxURzkYnXWTQMx0YxBdbi6142EWL4nOoZuNa/vHoCoAqqQJG9yFAN7Yvkd9FVgZQ3GshsqT06m8MhMpJEyv+KPzdDieqcdFuk6Coax1M5SvKSeXH1buRc1h0s8LON7/4yWF/3swgpaocsHBCEW7a0IMhcCKDbhcLoLZTvTUhSSxfshuG/6XOHNCJQu37PwKfz8QGySSXzyAuHA/rD8zvVisIPM3XeYtqMFKkuAwYmuGhavk6g/RlJh8zv4/aubjDCz5Zd0NL9NMhSyWSlHlNdUyt+JvEbuQ==;PQ4LkRPCEJuVlNOXAySe2g=="
 ---

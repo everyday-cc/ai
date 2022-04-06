@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Virtual meetings are here to stay, Microsoft wants to make them better"
-excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
-publishedDateTime: 2022-04-05T19:43:00Z
-originalUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
-webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
+title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
+excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
+publishedDateTime: 2022-04-06T03:29:00Z
+originalUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
 type: article
-quality: 19
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: KYMA
-  domain: kyma.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Microsoft taps AI to make you look your best in video meetings"
@@ -80,20 +90,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
-    excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
-    publishedDateTime: 2022-04-06T03:29:00Z
-    webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 78
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
     excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
@@ -166,7 +162,16 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 33
+  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
+    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
+    publishedDateTime: 2022-04-05T19:43:00Z
+    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 19
 
-secured: "4iDoM6jVDHk+3KjMwQ0pkfkK6ZFDZwlSns3NUQoSCXa2hNn/JPG88y1BW0026IuV/6BsHOZXSQpVF4ojvzX9DSFsCqMba6LPeOUDamO0q06TVzsC8iDF+vh3tzRu2604UygG9xMShjFoOmF06DvAFEcDs/CYQwROBz1ynk1lba9w958b1IaKa7/DgR6pk8bomFfH0STFU/iHfSkfZLspKsPoBTaS7YSdtIDUiJJud7xtjGHxYkqtV/Aepkxu5tshzKWj0tRSp1uu9KWkHQ2+A1kkHqiymnOmOz8cYeVFtuihVU3HIgi02akM3NMYYmubPaezbRWtELcX7C1sCPNOJj1FaIxjMPEPgVEO+X97hozoa1MXQ4e6bjhQ7gEIRZ4wwdqyHiMyb5Vp0nD9Yh0ad28pl0UBTWo7d8atW1Jc7of1vFKbSOBG9uvg5rM3a8200JPunM8IX1VwgRJtMaYkQ/yyj5xt8yr4GyVmgwzDp3UHHJ+buLoYVfX6kaoJeV7FNFU7C/iqHM2zrsuyWUe8gA==;SCvRdLT0L0ZdC++4kysbCQ=="
+secured: "3Iiz4VtqRv6ufyKZ/neNLjWkH38cVd94CeAIT3/tSJXaTQPNoZSW2yp2+BCtCSx2IQvUfvPHN4dPO7OoD2wMsPXO2sX+aMbEhQUuHq1UhdVaPG1DMu+WFCXIkUBKMh8+7Pau4zrNoa3jzQUJPIjan/C6YpFG57Kc4VIjgGzpkJLGJbtU4d7V/hKO20Fom6LjpXQPZB816dpc7dLcv1Wqqv5DKsU+D2u7djaEdW66Gftl0WoTEGf4xKxF54rNY9K+wJ6CLTni6MOQXolR1ahBeryYd3uGbbSJ/5BPzzYEEs45yCG5zrvzBelL8LVeV4HqGUCd1suCiPfN7H+LmHRsZGamYhySiflJE2rrQGE9ysE=;kvYGw/4aog52wbUmZiUMyg=="
 ---
 

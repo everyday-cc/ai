@@ -3,8 +3,8 @@ category: news
 title: "Real-time data analytics firm Tinybird nets $37m in Series A"
 excerpt: "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,"
 publishedDateTime: 2022-04-05T15:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/05/tinybird_series_a/"
-webUrl: "https://www.theregister.com/2022/04/05/tinybird_series_a/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 348
     isCached: true
 
-secured: "lI4Aaeab6HR/U+OE0fdmXB3YQBkQA40PM/6tvxhNLoP+ONFxZRZaf0OV5VEMj5VL8xCB9wmYxyVSMO/zROCwaatcDFQ+QVJbvG4GffNL5DFONnKKZ36JV43gFtAhVbagL1ZHC8CfPRxxE6HHFwXvZ6PIykNHNxjsX9/cnt+sfL7AUsWOy+Ts1M4fugPpfDysAbAN6sTgFrMLW3v39XodIPu/zgr4g8S9ZBQNosA97j0CpPxcHUAoJhxwm67So6EaEkl6xsLmZ+cojH4bsaa0xtlsQjHqC/boyIGFVGKs/a0mlphEIx1C/WwgKN9JZl/4ZyRsZ31cX0tjUoq3wAVAACMG4by8enSrdRj3y/Dq7yvfl9jyG/MVgSSa3GJUJNdpR5h7AyqBOzBpGBXaGPFxaCYe1IbnLwajDbfmw1W6pT4g7c45PYhK+LqHBPglEU6e8XVi9lTqFHk/U6WI30bDCeU/GBcD41Dq91rIcJPrJJVGO1rUd78pKEE40YNcDH/TN5qqkCwNSHXjfGih3sHKxA==;MkU21RAS9sH9yCtTqNwYmA=="
+secured: "Rz6e+jB0ovbf+KBnYJNOPmzoyD1rtY/teoRE7oWnDfZzRH7NdcHVEOAGOnWwGrNrQ2Ima5cJYvoxMr8SzWsqA0I/FBjoQxanb6ZpicEX6GzQm3XikdTlOArBFqw0AF08RUz6xK5hHFA0HtCtdwJOrMt7N2rEVCYe1vM2Z9odvzqmi4odLc5dnXT0Cr+kH99jPfxKszN4sjdgW+Bfl0MIp9I7ulAacObeEQR1fHJlnVDRFTgiA0EspEtNcUVe5Qz+KALbFnqrkaohV98saoOI8hzqZDYCsAPFra+mZCQlJcuhlFiTN4KSwQnj5bFZk52YcGoE/QxF7F4+mRTFnl2DkGHdzlbnijPCHiDZyq2Yt2g=;YWIWqEK7UPkLbzbKZ7UTVA=="
 ---
 

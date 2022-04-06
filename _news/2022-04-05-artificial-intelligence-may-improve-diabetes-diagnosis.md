@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/948056"
 webUrl: "https://www.eurekalert.org/news-releases/948056"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,28 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Doctors diagnosing fetal heart disease benefit from explanatory AI"
-    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project (AIP) and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting. Both hospital residents and fellows made more accurate diagnoses when they used a graphical interface that represented the AI's analysis of fetal cardiac ultrasound screening videos."
-    publishedDateTime: 2022-04-04T15:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-doctors-fetal-heart-disease-benefit.amp"
+  - title: "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis"
+    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in"
+    publishedDateTime: 2022-04-05T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26480381"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-  - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
-    excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"
-    publishedDateTime: 2022-04-04T17:14:00Z
-    webUrl: "https://healthitanalytics.com/news/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "QEl7ahpAItrBkpOGJcQLfERzWTAJqM6QAbea8ekXKj13iyyvP7JHTJCjlXyZ+zVnw+My9m2uq+wOeixAaJFg6ZKbhzlkObiAJ9tLDG7QWykz0pb3QhRl68xPHNOrFHqE6Wc5QdMEN5RNdzP3uTRT/lUqGlRcgTwoZvRFwRT+MOi26XsGXF+vQxNn+JGyBPoUmNBJBVDiE7hgIAj4qJU31Funpz8pMsgkCc9MDeSLonDrWxui+bny/p2J9pU7tYwyRKLqrFcP6xL9VImggazFMujob0WNEU9gq9BahKJr4b4Nl2lwDrAzCUaiC3mCKYzS0O78xfaud4FKM8VWypEdyMwcv+DcK73rN7mDS64+ROrYH524qM4dcIfJShJodusJ4hWE2m+RxS2eI3TcPqWZzEYR5T3iAOoRljQB3T+m6DLqa7rR0uFYQ52LP9Mk8o1nJMf/6t6Sb31fMHd3VLZ8IolgAsPsTyf7Xb1BIgKu/uYtlZV4hsebjeLxs7ZCLHLRbRgku6k+2dCaJ16rhS0fRA==;wE4Xk815QUKhB5Ys0YYc0w=="
 ---

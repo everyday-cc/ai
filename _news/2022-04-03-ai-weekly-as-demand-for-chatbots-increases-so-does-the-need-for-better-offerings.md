@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 599
     isCached: true
+
+related:
+  - title: "How technology is making responses from chatbots more human"
+    excerpt: "Have you ever sought help from a company’s website and had their chatbot repeatedly ask you, ‘How may I help you?’. That experience is so common.."
+    publishedDateTime: 2022-04-06T02:50:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/how-technology-is-making-responses-from-chatbots-more-human/90671119"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/how-technology-is-making-responses-from-chatbots-more-human/90671119"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/how-technology-is-making-responses-from-chatbots-more-human/90671119"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90671119,imgsize-1170571,width-1200,height-628,overlay-etbrandequity/how-technology-is-making-responses-from-chatbots-more-human.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "j6TZM+7wZWO9P2hO7a+cWtKsTbqTT65jyWe49Klv4aBFkhlJSdaA9JGn7nCoCo1zwvqCDBhjTVwGnIWYSlKSGvHsaEttT8B0MrTf78YvWN9aVaWdEVvlnZz+/T5oSEmfsThe+No4FGmlxiJvn9+kTIYAbAoh2h8oHZh/CKxhNvNAXORS/2gbGo1trORN7zywpRiW4e+7yF/hRvk8UAKFRkDnAICt+5sPXyZQlDaYSZby2ZS49mTfOPAnIKk/a/FGPlO+/4PHiyHXdqAxues2lj2Di51lxTTgQicEZJtTZCCmfmn+gyKB6YfsFjv8vGsCERUyDpfe90zmSBlq2ACzjfPeQBNLrgnnsD6uyYOSU1DE/56RSp4rtCFfpFv1CHhBeIIZuyg2SGtBoSkrW/EEO0rpx3/nuzg64kz+SpUSbPj/ZOi2DspOkMe0ihkZAOecysWGOiDiZE8W/Lq6nNV5kyPi7pdwYwgIzjBTfp1JIxyDCFIk/N4aeZN/vkSze0IKMmfGtaXVSeXMdueKjCvFHg==;brObAKE0KWSg8a6Ll2ko/A=="
 ---

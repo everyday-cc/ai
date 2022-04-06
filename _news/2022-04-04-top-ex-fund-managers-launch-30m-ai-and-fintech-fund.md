@@ -59,20 +59,6 @@ related:
         width: 777
         height: 583
         isCached: true
-  - title: "The Role of AI in Conversational Commerce"
-    excerpt: "Artificial intelligence (AI) plays a crucial role in conversational commerce by providing businesses advanced chatbots and virtual assistants to engage in a personalized way with customers."
-    publishedDateTime: 2022-04-01T09:42:00Z
-    webUrl: "https://www.bbntimes.com/companies/the-role-of-ai-in-conversational-commerce"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 37
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Role_of_AI_in_Conversational_Commerce.jpeg"
-        width: 1024
-        height: 600
-        isCached: true
 
 secured: "BIU2LeJfcm625FvvRvOHLIIo4bs+TvWuuPqQRJFjs+r1xNCYax2F3HxPj7wqrcYErAKmsSFBdr0ni5QhnT7/6aO9PrAGtRoPm6SGBzCbpmjDsp5pPFlIxso0EQBsZolq5OXx4L0aRysDl4CDWBq6A5A8hkcgKIfzhNZx+ulBFLFdo434Z3Z5P6YfbFjlLod91JkyodRCnaJ6i9Vn4aGV55OvBt+oZgeC19TZ1QjZzz3ukHK+FEKS1e5P3Mdjzr9FOrkUTzphnJ5n2mV6FT6XPdNJz4FHyfLgwxtlWBbJgsiLOjITzFMIARFayRlCkZb6soI5fySGfG73Ffc2wv6eVp3lyoEgzVyLrdz6qYlXJBrBLqqKxwdYVPG/S+EheE8NtEKDFl5JkbvqBpkFSZj+QqWJ6YyX9cVS2tJ6UquXFi4h5abV/Y76AXtRiwrfT/fF8xHfM/m0P/8srVoc3aqTgATRPjce+tGm9PsGdTMcjBO6bOJNfSFQQdYkD2AjD1/J6MneMiNSvFQw0FBHIIteOQ==;ZrMrnpP+M+mpHfbfJjJpyw=="
 ---

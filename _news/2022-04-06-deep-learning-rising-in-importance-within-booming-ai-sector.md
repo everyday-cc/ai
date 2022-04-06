@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The Human Side of Artificial Intelligence"
-excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
-publishedDateTime: 2022-04-01T23:37:00Z
-originalUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
-webUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
+title: "Deep learning rising in importance within booming AI sector"
+excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
+publishedDateTime: 2022-04-06T01:40:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
+webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ExtremeTech
-  domain: extremetech.com
+  name: China Daily
+  domain: chinadaily.com.cn
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.extremetech.com/wp-content/uploads/2018/08/MachineLearningFeature-640x353.jpg"
-    width: 640
-    height: 353
+  - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
+    width: 720
+    height: 480
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Deep learning rising in importance within booming AI sector"
-    excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
-    publishedDateTime: 2022-04-06T01:40:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
+  - title: "The Human Side of Artificial Intelligence"
+    excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
+    publishedDateTime: 2022-04-01T23:37:00Z
+    webUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 54
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
-        width: 720
-        height: 480
+      - url: "https://www.extremetech.com/wp-content/uploads/2018/08/MachineLearningFeature-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
   - title: "Holding artificial intelligence to account"
     excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
@@ -74,6 +74,6 @@ related:
       domain: medcitynews.com
     quality: 16
 
-secured: "d4TYpnjUJJBzeGuKwvVI24rThJXGIxbbsoLTr32CKiUkGXXoJWGrRLpcWso8txzyZIN5N3XK29SSIkFpETAkA+tBLWYScOAspyAo+QJqDWwwcO0VrLL76TwKodyU3iBxVhOZ9NDcFrK3c6aykScddrHl+b7/Y3ihjh0uCc4IYGVZ66K880/tklxNTseXmF7i/v+o3EzuC/w458AQ9O/M0kWv4tQ6gC0qP16kpt0QbEt0CysKW7pmqKRJp0HK0PV6CIR8JOPpBiNToKWzo7lyysbAa+6Mt9RW0VkzBir1OJ2WknbQVw1OxYxLQkJ5WFUnczhGUmI9/NkRzq4sHCjHHShgZR+hSYbrQvBGD9qEMaI=;UCgfGVdD2eGatYZTELvbLQ=="
+secured: "ba5pE/9k4m4iwmo/ZSBlY9e8SY5lUOVGDgD4gQI+0b7ySj0HTcwIAngBZ2ZAxbQI5h+tQxSAkCp2yMlW1lfqlljPf2NFq0BaXouRLqyUTfCisM8dvcWfFaVqJQ3ZrqmXBxMStsoC+a84MoZvKusnTHay5GwewCbjrEVOcbMOD6lGAvGPGj8GBfQ3NZ9valSu2KyPR2fx5IHDF7fwonuUi8Zipc30D8tC7wnOah4av3fUyBuYdrfDoPW4om0n0vqc5ja2qzbOzxpOxTLRsUCXQK73MDVDw6b9JjJLpyXVjGvHZ+lP2fhkIMKmAZklDPvLujf7FrUh6GEWCLT3FzzenA1z/+eBkOz51WkmMz7g/6E=;Iw194fPuZtreYp5ONwlrSg=="
 ---
 

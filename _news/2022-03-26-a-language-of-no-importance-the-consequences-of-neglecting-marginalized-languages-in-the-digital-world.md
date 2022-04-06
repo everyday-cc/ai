@@ -3,8 +3,8 @@ category: news
 title: "A language of no importance: the consequences of neglecting marginalized languages in the digital world"
 excerpt: "Most major platforms and services are still only available or functional in a small number of geopolitically dominant languages."
 publishedDateTime: 2022-03-25T18:22:00Z
-originalUrl: "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?lang=English"
-webUrl: "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?lang=English"
+originalUrl: "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?author_lang=2"
+webUrl: "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?author_lang=2"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1067
     isCached: true
 
-secured: "rKaANZcNG+3pRPaaFbAX9rGixzJmy3Q1G7cw5UT/TRDhcOJCDNARvmLd17rSIOPkHCn+AmLb5I4uYXO7JvHT/YTOMgx1b9x0I36ZnKQd97m+eD71OC90bJeuqcIWwjQzQpHRN4Hym5dc2tgECZ/hNL9VdkevkDtCyJmY13f1fC8lv30/vaebsv4NFSy3dxRynsGmS33kJs6lTG67irU1fl2Rl6IkHD6++VAesTEdjmIe0/ef8T3VOvfLY8SBP+6CQbolmKgjNXx4BRkKSU5J6/RUwr/hyxj+21nnESPyeb28hBpmXnSfddNRr9EGY1AsLRYOVdUjikPu8zKTLB84Ua5/XEnt+RBKxe/BP+9thMw=;SD6uHOXy3p/FgdW9Hw3yVg=="
+secured: "e5JVLpHjgswrU78B/yJYYJpCX47QgWeqkpZQ9LX1HtxkRwfR+H6LP2aldIVcz4jKMAvTXeVHsixnNkg6I3qvGhMRpS5Gqj6Za0fzM5+oekw1kWw4Fd//yPLIZquGmKILprCggHNN1M6OUEhufmcu7bYCgDHK4DhIU6Tn6Ifg6eCVKKU3bylF55KsZ+qmlGbvxItp/BwZLT4CWeeCtK5juiJdzz1w4A1SqbHOnLhkjT44piX+IMg0FDKjBZFhbEL/8lS5zeFL3shgSQUUcdKGyKv2e9f0HAXbsqW6zLFbnZ9cWDOEIVe/CblblYCxo6GiC/ZrnVD3oUon8n0t7ks6DRlAc2LWs3/PKUQaROAuJes=;c9Ld1pi33XUgMDwORKgULw=="
 ---
 

@@ -1,25 +1,28 @@
 ---
 category: news
 title: "RS21 Wins Spot on $241M Artificial Intelligence Contract for DoD"
-excerpt: "Data Science and AI Company Qualifies to Participate in the DoD Data Readiness for Artificial Intelligence Development Program"
+excerpt: "ALBUQUERQUE, N.M., March 29, 2022 /PRNewswire-PRWeb/ -- RS21, a data science company developing artificial intelligence (AI ... We navigate complex data issues in the fields of healthcare, defense, safety, urban planning, energy, cyber, land use, climate ..."
 publishedDateTime: 2022-03-29T17:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod/article_e73d4602-9e81-53e4-a8ff-11bd7d085fcd.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n26355645/rs21-wins-spot-on-241m-artificial-intelligence-contract-for-dod"
+ampWebUrl: "https://www.benzinga.com/amp/content/26355645"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26355645"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "0QWvcn3assycZ8BLjkoUhpnGtab0WX4sHbrxl2FWe32dDxGH+hK1UWOjfD2Bc5s7FI8jmhqlr89ZbqW8gS6/TPjAW7DIM6mBH/J7HQo/RwxMA2YqY3cCw4b0ut5tMFQJAo7/qRGk2OZw9VELIXWbtzHSRLEBC3cr9f2uX+C7Z6n/ycPhhajsKz1KdaJGMqb7/h9BX4EbP86gRiTzTje99R4h2s/ProdGbYzjw4sHbbkMkcjsdYel20VuH4MiNfhSiA43K7A9TitYuJt6TI/a1k+Yoz2BnG2hfx0zkcI3yXwWDK1+mFNgkk0WjgCrQ5P/d8oBXVrAkHpjaWuNyWToQ4BJqU4F+1VDYaFTC7DzJTs=;TTER/sNomhE7NzfdhSKMsw=="
+secured: "WEuHzIJ1F7PjMNoEtmzRnPkq/C2gkVvExoe797F6jqMlfVFBvmpCjEF9YYK+zHyYy9/Bz/7NVdwsMH/W54NaH1T5msnmBHqmKDmdqC2GZuD3lGCUd89FZa+YpaGj5qAL1VcgqNBn1kkcFCUiYbC7aRVHaH9Z9EPbwbQl8wjJdu7Tm6xNWf/nOEvCs0Mhxl7VQrb6gxLkC7HLs8ES3EkMrwofWpCTkJRMe9fSvvUF5syByys8YWf6JdLFXtw/rIG2SUOJGPORoDXYAbhgJX9t29eoCuz+13kvgZZtnX4GwCLvhNJfVMm4/nB2rJRkgmWMS9t4h2ai0PyjtwuxYKb7tfcZ3f6VNPyE5A3gDzQR7cs=;JIxrVxLQn83uGsGiHMISmg=="
 ---
 

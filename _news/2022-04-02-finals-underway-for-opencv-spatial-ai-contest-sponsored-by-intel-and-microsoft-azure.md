@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
+    excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
+    publishedDateTime: 2022-04-06T03:29:00Z
+    webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 78
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
     excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
     publishedDateTime: 2022-04-02T09:23:00Z

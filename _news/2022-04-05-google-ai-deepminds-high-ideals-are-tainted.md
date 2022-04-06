@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-h
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://lh3.googleusercontent.com/fRHMNJ5tFOXlzeVUMKi8W6O0OlCzQske6PFo4Bf0HW40VYoS2H-_EHK-vEcTbuSuNtXpAMDXqaQK2S3wEwjNURMtQgVbCGsUIPQQg9Gpgz3IiQ=s512"
         width: 512
         height: 341
-        isCached: true
-  - title: "Deepmind rubbish at spotting sexual harassment"
-    excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
-    publishedDateTime: 2022-04-01T09:56:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/54624-deepmind-rubbish-at-spotting-sexual-harassment"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/07d580bdbdac081780e69bc19a2dbef5_L.jpg"
-        width: 620
-        height: 453
         isCached: true
 
 secured: "TzXjwcKy7MRTLCdpjPj6ZYWcEq7V9pdlPoBOVFe/GfKmAtrtt2mIaEOB82XWCMfrlhBAfSwYbsWEyP1cksMERSfgStv7p5Z6Ll1y4oYWdxdSWO/LWtlKGAXgcT+xYz6JO/Rjwhs0MhDt8WlxxYiC1ASHLUiMJvA55S7Vt662dR8fY/oov/Dd9XTfnj1JryPnsXGPZRAqkPPXWlvcA/nZgODKJzmkWIn2LXNG2DSVTLEi9U4Iho1Aa8Rk984UzV8xEPsjGNadxMsevrWn1p/NPexII+UyHC7bmJs2rkHiPFUZI/ALfLfn6WUqo83jnHn0p/VR1N4uOAbG0jjQM9gERe9FH4VG5ufwDSC8IrTT/rSN1oJWrCpbEbijNb90HmaukBGAF6iQvJMaGkOZmpMuFl4OQCvVsjXJzXXGOztiZo1KRUVlVG6JDJLcC9/1l1dfcH5tvB6ZAEHvrcfzTofUQhokCEcKKOCqEg1mGb31dhlsDBZ5E/+yqqJhu+FuQjDHOf3Ki84OtlAC8N+5R9fENw==;BIDuZuzww4OweT+0U2XDGg=="

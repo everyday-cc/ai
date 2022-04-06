@@ -89,6 +89,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
+    excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
+    publishedDateTime: 2022-04-06T03:29:00Z
+    webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 78
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
     excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
     publishedDateTime: 2022-04-04T18:01:00Z
