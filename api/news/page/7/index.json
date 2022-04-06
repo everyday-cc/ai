@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-29-isg-acquires-ai-platform-solution-agreemint.md",
+      "title": "ISG Acquires AI Platform Solution Agreemint",
+      "excerpt": "Information Services Group (Nasdaq: III), a leading global technology research and advisory firm, said today it has acquired automated contracting solution Agreemint from its foun",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
+      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
+      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
+      "publishedDateTime": "2022-03-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-dubai-meet-the-genius-who-became-the-worlds-youngest-computer-programmer-aged-6.md",
       "title": "Dubai: Meet the genius who became the world's youngest computer programmer aged 6",
       "excerpt": "“I developed some AI projects using IBM Watson and Python including a chatbot, voice assistance and an image recognition system to detect fire and smoke.” Explaining the image recognition ...",
@@ -1089,109 +1175,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-datarobots-cloud-80-uses-ai-and-ml-to-predict-the-unpredictable.md",
-      "title": "DataRobot’s Cloud 8.0 uses AI and ML to predict the unpredictable",
-      "excerpt": "With the release of Cloud 8.0, DataRobot’s Continuous AI capabilities are available in on-premises environments and leading public clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1145968976.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/",
-      "publishedDateTime": "2022-03-28T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-nemesysco-spinoff-unveils-emotional-detection-and-ai-tools-for-metaverse.md",
-      "title": "Nemesysco spinoff unveils emotional detection and AI tools for metaverse",
-      "excerpt": "Nemesysco is in the process of spinning off a new voice analytics company called Emotion Logic, which will use AI for emotion detection in the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/nemesysco-spinoff-unveils-emotional-detection-and-ai-tools-for-metaverse/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/nemesysco-spinoff-unveils-emotional-detection-and-ai-tools-for-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-549603135.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

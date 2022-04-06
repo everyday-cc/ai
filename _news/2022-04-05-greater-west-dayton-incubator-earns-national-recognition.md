@@ -42,15 +42,6 @@ related:
       name: Grand Forks Herald
       domain: grandforksherald.com
     quality: 4
-  - title: "Avon High School student Justin Schwab earns national recognition in writing competition"
-    excerpt: "Avon High School has announced that sophomore Justin Schwab, 16, has received national recognition for a story he entered into the Scholastic Art and Writing Awards competition. His Silver Medal,"
-    publishedDateTime: 2022-04-01T12:30:00Z
-    webUrl: "https://www.morningjournal.com/2022/04/01/avon-high-school-student-justin-schwab-earns-national-recognition-in-writing-competition/"
-    type: article
-    provider:
-      name: The Morning Journal
-      domain: morningjournal.com
-    quality: 0
 
 secured: "yGxdlr1Wm0iw31rTwRcp+EoQoyy5GkUd3cGhBSHlZA5D9wL1TQreFgSEQzJw8FmpkrKSn1kIy+pBrbBKSl3K5ENieuCEvEYM8iGOvh0n27HB7uD4aTje3Xgg5XrtiyilRkc5JBND8xBqacESmWPpZJ8w8rNlIES30d8AF0hmf7TSY0jYThoo1fwAT1M6aXFd3x5pXRfTxue9rduwFqN+b3faQqT7jf+91EtIMuKW5P0aCEy3JewOeVagB25wKLtYH6FySLaFFuI3nf68NdcMj5lW2ljrjHp6JbLXUyl53+19+/HQgJAkNwQfSdeKE86SrRsRzZc6/8Hldb+nSvFD1+9GPArVTKCuXWA9pDrjrEE7DnNVhamaXrjDXK6tFbbdaIFcvgkLhoFJtSMsBzXlX5FcywexCpgOa1KM/2NUWXU29ofIZp6iO/QZfauudyMlBExEA0hZcpRHL2HSeuU40bp1f4Y2I/3G2WaWUF6dhVMxbAbNm/ylT1071ieWkcUam5YNmmAw++TuU1OxPtiSWA==;jZuE6ff7BXLFcbe4H9457A=="
 ---

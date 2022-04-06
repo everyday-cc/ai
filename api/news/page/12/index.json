@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-24-diversity-is-key-to-the-future-of-ai.md",
+      "title": "Diversity Is Key To The Future Of AI",
+      "excerpt": "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b68a3912723ed0abcdd19/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "publishedDateTime": "2022-03-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
+      "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
+      "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
+      "originalUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cloud-security-expert_casb_binary_cloud-computing_cloud-security_by-metamorworks-getty-100803072-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
+      "publishedDateTime": "2022-03-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics.md",
       "title": "How To Eliminate Ethical Bias From Machine Learning And Data Analytics",
       "excerpt": "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em",
@@ -1087,100 +1182,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation.md",
-      "title": "Mizuho Financial Group and Google Announce Strategic Collaboration to Accelerate Digital Transformation",
-      "excerpt": "Mizuho Financial Group, Inc. and Google Cloud have announced a strategic collaboration to accelerate the Group's digital transformation and retail innovation strategy. \"The global spread of COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-how-ai-is-primed-to-disrupt-hr-and-recruiting.md",
-      "title": "How AI Is Primed To Disrupt HR And Recruiting",
-      "excerpt": "Artificial intelligence technology will help businesses augment their entire HR lifecycle from mapping talent needs to identifying the best ways to attract new talent while keeping existing talent on their teams engaged and happy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fec939448bdb0f06c51ff22/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/",
-      "publishedDateTime": "2022-03-23T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

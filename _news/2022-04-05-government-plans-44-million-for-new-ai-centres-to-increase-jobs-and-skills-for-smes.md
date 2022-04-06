@@ -63,6 +63,15 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 16
+  - title: "Tredence strengthens its foothold in India by opening AI Delivery and R&D centers"
+    excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, a leading data science solutions provider, today announced the opening of delivery centers in Bengaluru, Gurugram and Chennai,"
+    publishedDateTime: 2022-04-06T05:22:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220406/3928042.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 12
   - title: "Moveworks opens first office in India to strengthen its leadership in conversational AI"
     excerpt: "The company will hire top engineers at its new headquarters in Bengaluru to improve the world's leading conversational AI platform. Founded in 2016, Moveworks is one of the fastest-growing AI ..."
     publishedDateTime: 2022-04-03T18:38:00Z

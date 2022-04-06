@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-30-sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs.md",
+      "title": "Sarcos merges with RE2, aims to have robots take on dangerous jobs",
+      "excerpt": "Sarcos and RE2 grew up working on defense projects but they’re now aiming to expand and take on industrial roles. They’re particularly interested in supporting and maybe replacing humans working unstructured spaces where complete automation is difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/robotsinfactory.jpg?fit=800%2C333&strip=all",
+          "width": 799,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/sarcos-merges-with-re2-aims-to-have-robots-take-on-dangerous-jobs/amp/",
+      "publishedDateTime": "2022-03-29T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
+      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
+      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
+      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
+          "width": 1125,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house.md",
       "title": "Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house",
       "excerpt": "Shared micromobility company Tier Mobility said on Wednesday it has acquired Fantasmo, a U.S.-based computer vision-powered e-scooter parking startup whose tech Tier had been trialing in multiple ...",
@@ -1082,92 +1177,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-isg-acquires-ai-platform-solution-agreemint.md",
-      "title": "ISG Acquires AI Platform Solution Agreemint",
-      "excerpt": "Information Services Group (Nasdaq: III), a leading global technology research and advisory firm, said today it has acquired automated contracting solution Agreemint from its foun",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
-      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
-      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "publishedDateTime": "2022-03-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

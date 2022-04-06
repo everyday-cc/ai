@@ -63,6 +63,15 @@ related:
       name: iPhone in Canada
       domain: iphoneincanada.ca
     quality: 16
+  - title: "Tredence strengthens its foothold in India by opening AI Delivery and R&D centers"
+    excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, a leading data science solutions provider, today announced the opening of delivery centers in Bengaluru, Gurugram and Chennai,"
+    publishedDateTime: 2022-04-06T05:22:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220406/3928042.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 12
   - title: "Moveworks opens first office in India to strengthen its leadership in conversational AI"
     excerpt: "The company will hire top engineers at its new headquarters in Bengaluru to improve the world's leading conversational AI platform. Founded in 2016, Moveworks is one of the fastest-growing AI ..."
     publishedDateTime: 2022-04-03T18:38:00Z
@@ -73,6 +82,6 @@ related:
       domain: webindia123.com
     quality: 9
 
-secured: "DkgPgfRNPk4lTOtTTEArIoKpTfmPfVEPN4uyqFAF2MmfnqEZhyyJFdOHSKbAiCWX3oMMhoLJ2qC5yLj779z5C5hd/M0onaeCvl4v5B2qQWD1FgefoAnGQowuBkTjVTRqIkZxkOjf/B+HDMc+he/MoHQrQHVrGKSg6ltVZwuB5ddvbsvdnQV+MtmQIk+WHcFr8xFOgXeZz2fbctGpmgjOETtQdFtd9Y7ULhoQIyvbjWWPrXzfDdKlxvD7JaTrnD7Ymhm6W75D6HN+nZtRQA1YzxpXIrzNoYDg3bUFvhF2YXYKLmQFzrPZZ91IDsaKeGIPR5TlPs2OX6MgSiy0QNqnBCPYF+fzR7gyr/fq9X2wYog=;GhcDVq2t5Pnuym3+2ZyuXw=="
+secured: "nVOzgZrC7nIsEFURUizgyPHVry3aC+N3+6ozGztl3IK6Xw9i71U6z4RAdwpXCNfWUmuzZFNQC0GqkRQVGYEqHso1UPAXcT1qFXKLz1KrqoOCdNCGPRgqKRTDqqo+QuqGry3ukL0u+wMhaJRoEYqLaDjMaHFR3S3qGt1I8WH/uCTbgwv+m+v0gwGVp+S8Z7BPOmhHt/HhL6vUKazXZl9boUw4/hLpj0SaZloJ6i61Nmk2JbDJ5YgGNpSgitI7W9ddel36xOlbn2jm4YnL6cb5Zj/jRc1tyv4JuoUD3oJluAHggvjqIqVIZPREPsRpTStBQiYzPUXET5YbARj9g6WLuHeYnF/VofNLEaXQRcynZjw6ltFX+uAUo/4dn/o4/HUR1CJKkRv5EIDUxq/v7bM8Ze4eN/ZbmhAHxtbCDpVQRYrkAb6nDFrnWEvm/CQXYj3lzTHVY/IhtxbGYCb+uoiw/lw4dqMZuaYfVs2RM0wwOseEhzsFEeUL9QqQUqjVgkGUK4yTWGIvXICdFNec2dJckA==;nXNgd9/m+VwoXXlpEMpC7g=="
 ---
 

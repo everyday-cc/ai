@@ -7,8 +7,8 @@ originalUrl: "https://www.reseller.co.nz/article/696926/arcanum-takes-its-ai-pla
 webUrl: "https://www.reseller.co.nz/article/696926/arcanum-takes-its-ai-platform-into-aws-co-sell-programme/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reseller News
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The global doctorate programme for AI thought leadership"
+    excerpt: "Analytics India Magazine spoke to Sayee Bellamkonda, who shares his experience of pursuing the leadership program in data science."
+    publishedDateTime: 2022-04-06T05:55:00Z
+    webUrl: "https://analyticsindiamag.com/the-global-doctorate-programme-for-ai-thought-leadership/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/DBA-Header-1300x731.gif"
+        width: 1300
+        height: 731
+        isCached: true
   - title: "UNESCO’s Information for All Programme launches the inaugural conference on Ethics of AI"
     excerpt: "Adopted at UNESCO's 41 st session of the General Conference, the Recommendation on the Ethics of Artificial Intelligence is the first global standard-setting instrument, to ensure that digital transformation and innovation promote human rights and contribute to the achievement of the Sustainable Development Goals."
     publishedDateTime: 2022-04-04T15:11:00Z

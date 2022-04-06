@@ -1,0 +1,40 @@
+---
+category: news
+title: "Peloton AI tool to exercise at home"
+excerpt: "US start-up Peloton proved popular during the pandemic, providing its bespoke exercise bikes linked to live and recorded classes as a home based fitness solution. It was important exercise for many stuck at home in lockdown."
+publishedDateTime: 2022-04-06T03:31:00Z
+originalUrl: "https://www.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+webUrl: "https://www.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+ampWebUrl: "https://amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: The Australian
+  domain: theaustralian.com.au
+
+topics:
+  - AI
+
+related:
+  - title: "The Peloton Guide Brings AI To Fitness"
+    excerpt: "Home fitness giant Peloton have released the Guide, the closest thing you can get to your very own AI personal trainer.  The Guide builds upon Peloton’s current subscription offerings by adding functionality and interactivity to their large database of workouts."
+    publishedDateTime: 2022-04-05T23:34:00Z
+    webUrl: "https://www.channelnews.com.au/the-peloton-guide-brings-ai-to-fitness/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 37
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/04/Peloton-Guide.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "Ku+QLyPuZwB4ecy298+ldP9qfNsGlGFhALrxyBu+WC42Ko0FSwHVTC4w5olCq4Dv2h5gz3JVGkL+3BefDWoD9mmQ0t6+SHtHsauWYTolTtKZDSYdGdmCCB+xxl31Dwmm9RspYpQoKbVZDSv64fr12VqGqbyqGOpw3R7ApFPstDo6NXOis3SGHS1jv4CcPc1ENLE8xWeJv1SQhFs7hGYS0ZGG+l6lCgkEJIx8mU+lJ1LQ7Jf00K+MPy62rnyiSF0FqcrX02KTccmcJlCEygqkD2tWwb0MVZ3jBye/ceKvgRns1Hw0DphkKDoE8OQjT0DQ7MoeyHsJl7y3kygR16jisg31sMlCOrC/BbJG1v6HIgTsg5SR30clndmwuc4/5sgxMHTFpcEojQ49O/EYsZdCZJTbhMSGM/bOBeLAGFr15n/MUMZeEwSjZ9/R8CX5DpFbL173/b5zh5aYyYKLh9pCPH0wN35Qov8cc9vcC9u6QciPIJbVpB5u19GbRrBcdIuBV+yNa4dwlgkbA/MHnMuDZg==;FvPo1cHrBGXMYHvu26/OBg=="
+---
+

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
-excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
-publishedDateTime: 2022-04-06T03:29:00Z
-originalUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
-webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
+publishedDateTime: 2022-04-06T02:37:00Z
+originalUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+webUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
 type: article
 quality: 78
 heat: -1
@@ -153,15 +153,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
-  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
-    publishedDateTime: 2022-04-01T11:37:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
   - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
     publishedDateTime: 2022-04-05T19:43:00Z
@@ -172,6 +163,6 @@ related:
       domain: kyma.com
     quality: 19
 
-secured: "3Iiz4VtqRv6ufyKZ/neNLjWkH38cVd94CeAIT3/tSJXaTQPNoZSW2yp2+BCtCSx2IQvUfvPHN4dPO7OoD2wMsPXO2sX+aMbEhQUuHq1UhdVaPG1DMu+WFCXIkUBKMh8+7Pau4zrNoa3jzQUJPIjan/C6YpFG57Kc4VIjgGzpkJLGJbtU4d7V/hKO20Fom6LjpXQPZB816dpc7dLcv1Wqqv5DKsU+D2u7djaEdW66Gftl0WoTEGf4xKxF54rNY9K+wJ6CLTni6MOQXolR1ahBeryYd3uGbbSJ/5BPzzYEEs45yCG5zrvzBelL8LVeV4HqGUCd1suCiPfN7H+LmHRsZGamYhySiflJE2rrQGE9ysE=;kvYGw/4aog52wbUmZiUMyg=="
+secured: "/GY83lo6xEb9C7TboCDnnclf8VmX7zxDIg35p9G4PQOgG3JTaRP0pr74g7jsTKE1/6kv6ikdKS7BHsYOHI5a88B6V6Wj/JNhA+c3TpRIzK4xGcGSu6E38J96arSBdukg8kmUcTk8x5ME2SbA/tbexaTU3ULKfs01QKA6CyGVW1PeV5oi3RclN/MwU0qHeSfwhwM7DM4VlAt0vywYlbKFAY3fe9DPFXUe0IQtxQgES5A62cdNPUAOko+QLR4819BptCt4Zwxvnxvzsk1EFXLtrwyDDYnIGXLjZE2riUOIciS6GsAUI+0oTDa+KP2CVTfKW7QCBCx8C8qEnwOY2+kcQXbFq7w8NpO+eetWP78Eu/M=;Zl+w647QBgTS5XnGlgjDMQ=="
 ---
 

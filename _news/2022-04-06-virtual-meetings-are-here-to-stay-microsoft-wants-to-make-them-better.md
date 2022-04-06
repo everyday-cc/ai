@@ -82,9 +82,9 @@ related:
         height: 1043
         isCached: true
   - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
-    excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
-    publishedDateTime: 2022-04-06T03:29:00Z
-    webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+    excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
+    publishedDateTime: 2022-04-06T02:37:00Z
+    webUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
     type: article
     provider:
       name: TechRadar
@@ -157,15 +157,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
-  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
-    publishedDateTime: 2022-04-01T11:37:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
 
 secured: "4iDoM6jVDHk+3KjMwQ0pkfkK6ZFDZwlSns3NUQoSCXa2hNn/JPG88y1BW0026IuV/6BsHOZXSQpVF4ojvzX9DSFsCqMba6LPeOUDamO0q06TVzsC8iDF+vh3tzRu2604UygG9xMShjFoOmF06DvAFEcDs/CYQwROBz1ynk1lba9w958b1IaKa7/DgR6pk8bomFfH0STFU/iHfSkfZLspKsPoBTaS7YSdtIDUiJJud7xtjGHxYkqtV/Aepkxu5tshzKWj0tRSp1uu9KWkHQ2+A1kkHqiymnOmOz8cYeVFtuihVU3HIgi02akM3NMYYmubPaezbRWtELcX7C1sCPNOJj1FaIxjMPEPgVEO+X97hozoa1MXQ4e6bjhQ7gEIRZ4wwdqyHiMyb5Vp0nD9Yh0ad28pl0UBTWo7d8atW1Jc7of1vFKbSOBG9uvg5rM3a8200JPunM8IX1VwgRJtMaYkQ/yyj5xt8yr4GyVmgwzDp3UHHJ+buLoYVfX6kaoJeV7FNFU7C/iqHM2zrsuyWUe8gA==;SCvRdLT0L0ZdC++4kysbCQ=="
 ---

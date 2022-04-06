@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 132
 published: true
 
 provider:

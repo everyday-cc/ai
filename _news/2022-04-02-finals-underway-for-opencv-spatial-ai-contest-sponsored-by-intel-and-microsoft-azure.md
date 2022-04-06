@@ -74,9 +74,9 @@ related:
         height: 800
         isCached: true
   - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
-    excerpt: "As part of its efforts to expand its focus toward space, Microsoft has developed a platform for on-orbit compute so that spaceships running AI (opens in new tab) workloads can be connected to the hyperscale Azure (opens in new tab) cloud. In the first of a ..."
-    publishedDateTime: 2022-04-06T03:29:00Z
-    webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+    excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
+    publishedDateTime: 2022-04-06T02:37:00Z
+    webUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
     type: article
     provider:
       name: TechRadar
@@ -149,15 +149,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
-  - title: "Lumeo announces the integration of the Microsoft Azure Face Service with vision AI models and analytics"
-    excerpt: "Lumeo, a designer of computer vision solutions, announces the integration of the Microsoft Azure Face Service with its ever-growing library of vision AI (Artificial Intelligence) models and"
-    publishedDateTime: 2022-04-01T11:37:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/lumeo-announces-integration-microsoft-azure-face-co-14053-ga-co-14411-ga-co-1648794885-ga.1648805569.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
   - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
     publishedDateTime: 2022-04-05T19:43:00Z

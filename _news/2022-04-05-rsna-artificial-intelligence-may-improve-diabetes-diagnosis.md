@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-
 ampWebUrl: "https://www.benzinga.com/amp/content/26480381"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
@@ -41,6 +42,6 @@ related:
         height: 250
         isCached: true
 
-secured: "pWd7h/2ER6DAofmrltX6elB4CIYa+eOy/McIXVIo+YigqvWZYKusbydC2EZVZXrmryUQeP6M63H90VZ/OZkFSowQ+w/sqt4UZuXuulRHWs4p9aZkcwvabUv29n/7fFVZqecsJ9XbMwV7WUVTHjBIg8itUleIistauaVYvYtuHYtoYeSVZRMWAmhwC/w9IK8CaTSeqv8URXPvmYJuiXwtxzTcV9nfsxLDCDZ/O7YLgrOoSX2cx0GI9aq3C7nXTs7OKxGnFk9yeN0OmDfXTqhvzHr51KJ2UsPmmmVrlmbyC2kuQ+0GWIfRjaGibBkx706dv24TlwrQLdXuxcHkVTCImVPLRvFdLHTm34uT9cy1nO0=;37l5n+kIYnQMj9mNQsc+EQ=="
+secured: "7qAADsfvsm2zyQwIitULJNf5CEsJbd27uhRn+YjV7GozEq8xNITRkyurR4UzEHT4ZHGyRTNBRCaUXYm3IoxCzE+Y9IikSUBG9r4nDuJYBz/ytlpTSXoG+4I38DiBX1XhodEeit/P4enIFGtGVyRdDQbBn3Gac/rq/eqIoIt2J6aVY4A3Ocw86Oq2ZEEx+i3bJjz9kPmAzjf/NbRjAhq1+GDtyVoFbRL8FKCJhKpj9lretUe8EN/Wn3o+/UyaThTDcS/eo/Y7uMpwTJMR0Hw7lRvz/KxZ380EcU3twRVx0zda2uBC5vX+Yoc1En2j9JtkCqc9acDODvP8Pnu+UCFRMRlk3q7Cdtv1sSEUjD8u/YLBj0vRNQiMJ6SqJsGQZYJfEi38/ibGTMxGY3Lay8oFXvbjNwsCNNZ7g1VTCh039nbW18kgioe7PkrJqIPKmkd3z41/YyU+BJShgvSvH6yYanQDX1su6ULNtQIdrx6GROjiSEiaegPbPMUCcxhxsOEsBc5ju/AfgiSRGOohlotC9Q==;2/HdzzssLYfjrHp7Mdy+Xg=="
 ---
 

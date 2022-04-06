@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
+      "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
+      "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
+      "sourceUrl": null,
+      "webUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
+      "originalUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jersey Evening Post",
+        "domain": "jerseyeveningpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-to-build-sustainable-products-start-in-the-data-center.md",
+      "title": "To build sustainable products, start in the data center",
+      "excerpt": "Building a sustainable model data storage that requires significantly lower power, lower cooling, and far less waste.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
+      "originalUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1301942140.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
+      "publishedDateTime": "2022-03-31T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
       "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
       "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
@@ -298,25 +393,43 @@
     {
       "path": "_news/2022-03-31-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
       "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "Daniel Nzoma's face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi's crowded Pipeline ...",
+      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
-      "originalUrl": "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
+      "webUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
+      "originalUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp",
-      "publishedDateTime": "2022-03-31T03:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T02:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1112,101 +1225,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-opinion-intel-spices-up-pc-market-with-arc-gpu-launch.md",
-      "title": "Opinion: Intel spices up PC market with Arc GPU launch",
-      "excerpt": "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
-      "publishedDateTime": "2022-03-30T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-snowflake-or-is-there-a-better-way-to-play-the-data-cloud.md",
-      "title": "Snowflake, Or Is There A Better Way To Play The Data Cloud?",
-      "excerpt": "Combined they are stronger than the sum of their parts. In fact, Snowflake was the only partner of AWS at the launch of SageMaker Canvas (a visual, no-code, machine learning tool that allows ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4498744-snowflake-better-way-play-data-cloud",
-      "originalUrl": "https://seekingalpha.com/article/4498744-snowflake-better-way-play-data-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1273823720/image_1273823720.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4498744-snowflake-better-way-play-data-cloud",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4498744-snowflake-better-way-play-data-cloud",
-      "publishedDateTime": "2022-03-30T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

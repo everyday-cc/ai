@@ -42,15 +42,6 @@ related:
       name: University of Dayton
       domain: udayton.edu
     quality: 4
-  - title: "Avon High School student Justin Schwab earns national recognition in writing competition"
-    excerpt: "Avon High School has announced that sophomore Justin Schwab, 16, has received national recognition for a story he entered into the Scholastic Art and Writing Awards competition. His Silver Medal,"
-    publishedDateTime: 2022-04-01T12:30:00Z
-    webUrl: "https://www.morningjournal.com/2022/04/01/avon-high-school-student-justin-schwab-earns-national-recognition-in-writing-competition/"
-    type: article
-    provider:
-      name: The Morning Journal
-      domain: morningjournal.com
-    quality: 0
 
 secured: "7Ccj98Se+VJ/kzd3ObGTguSicFrhsR/bsJVNdr3l1/FcZdjl49irhgVqoAseAkmPhdsvT82N1bZPcvCP9LqbEvo/JZIfNexX8X0T5ao3j2PZM4Ji8trjrDi0b7F69YntNXrD1XofY3HhG6n/5WXXb1eb9KsLRC3g32IeVbojCFRSgAwED1+0mFqGPlcw3K59oERW94o5cwPCGTJyHrLqxH51AxxM9blMZ6o4jeDGY9pQmps6oXEYphlmIA1Xk1n5QQxBErtbuggsiLmj39bpWqtQYOk7vj4BENSM/ZyJKr9g3Am0nNeg7RGUyPjassXvM47JiUBSkMO5eRDUDBD9st3gzCMRP50QGDx3QxAKvGb2kDLCEwzIVapWIj3TMCQsn1lzMVwWiiuklnIl6GWSwWwS8GODQPK0AGAGmuRJ8KuoTSJsCC5zqFrIw8KiyRFo0pR+2tY/YWIj8xoZIriFQVjZlCux/i+Xw9ghJI7wNd5/te8RGUqwXX+QzZ4iXgMTwWyV9xcG07M/pf3RG+o2kA==;j2WsIyMFl+7nnCNERwMtWw=="
 ---

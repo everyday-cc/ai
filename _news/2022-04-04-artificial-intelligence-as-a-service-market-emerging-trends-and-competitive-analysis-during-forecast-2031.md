@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Augmented Analytics is Transforming Business Intelligence and Simplifying Data Complexity"
-    excerpt: "In this contributed article, Ajay Khanna, CEO & Founder of Tellius, highlights that when it comes to business intelligence and data analytics, AI is a driving a new wave of innovation called augmented analytics that makes it easier for individuals of all technical skill levels to analyze volumes of data to accelerate more valuable business insights."
-    publishedDateTime: 2022-04-01T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/04/01/ai-augmented-analytics-is-transforming-business-intelligence-and-simplifying-data-complexity/"
+  - title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
+    excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
+    publishedDateTime: 2022-04-01T13:44:00Z
+    webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 8
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
 
 secured: "BdY0stYWnO4uaiDb4WkRV8wrTqAx2hSEEnxzzxid83IkXfkuX0MDZCk9D5bID8HGr+3n7zpqLQxX+K/UuOgtDC5FcxTBEZ40OlOR9HTNVLt43xw/yok1xJ7gM8CDjv5hYcUYbFJHelAE1Tv3ZGnKIgV0Bi2mHYs5MltPqdqVhV08Onm4PLo2bA4JosLQ3d9nstlZcggPaHQIAxqN7Tf6zNuF8y4NBQ9hs3nufGvAd3vUapVPnnFJFUSIcNMNrj7/HeZXF5vQ1SJGysZuQMGWr9DryHt2jdqXROGgklmLJfqSQNQUoFJYDZCbNG0Dly2PUSjbiWyUpM2DMi2QY+9pvmUqkqk2Vpu4tPAlBI5Cd5LMY09g/GIAlWaDrhe+dL7K84NH5uhtjDnAkehJZ1onzQ3p+8SQ8f2BaHIsqU3Zbazosqv7QM+PxcfQJcLmq8u8Vrm4VVb/dn7SxUetgaqZtdc4wagfPu/YPzm702+1umhaPzjNxMrCWz3p+TRUJsEU1EolAyhmwwzQDgMqalSijg==;7SmrrXwOqTwU6YreF/jm8A=="
 ---

@@ -52,20 +52,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 40
-  - title: "Benefits of Facial Recognition Tech and Why It Requires Privacy Laws"
-    excerpt: "Many of you might have seen facial recognition technology in action before. Facebook uses it to suggest friends, and"
-    publishedDateTime: 2022-04-01T12:22:00Z
-    webUrl: "https://techacute.com/benefits-of-facial-recognition-tech-and-why-it-requires-privacy-laws/"
-    type: article
-    provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 39
-    images:
-      - url: "https://techacute.com/wp-content/uploads/2022/04/Benefits-of-Facial-Recognition-Tech-and-Why-It-Requires-Privacy-Laws-Group-People-Street.jpg"
-        width: 1400
-        height: 934
-        isCached: true
   - title: "Login.gov plans to scale up without facial recognition tech – for now"
     excerpt: "The General Services Administration isn't ruling out using biometrics in its Login.gov service, but the agency has concerns about equity and accessibility."
     publishedDateTime: 2022-04-04T14:54:00Z

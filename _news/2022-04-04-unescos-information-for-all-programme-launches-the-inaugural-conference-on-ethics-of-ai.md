@@ -33,6 +33,20 @@ related:
         width: 471
         height: 315
         isCached: true
+  - title: "The global doctorate programme for AI thought leadership"
+    excerpt: "Analytics India Magazine spoke to Sayee Bellamkonda, who shares his experience of pursuing the leadership program in data science."
+    publishedDateTime: 2022-04-06T05:55:00Z
+    webUrl: "https://analyticsindiamag.com/the-global-doctorate-programme-for-ai-thought-leadership/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/DBA-Header-1300x731.gif"
+        width: 1300
+        height: 731
+        isCached: true
 
 secured: "oPSAw4roJiI4Mz103E2R/pIT6gTdH20xAtrVr22aZ0ugtwwo64noYGrJcIycpnol2OMp2KFU6QW8sJXwJgJXUc5LF7h/MTawdEBOUbMg/wuUdlRWdPH/hBG6S8TpsCniIgM0mqYkdA+7GTGR4LXGGdw84ggvj/vmqHbWwWWRAVAOHQ3i6QX6xlhCDUn97OIooQ+0Fem6QuDtB3dhi+BcJXtxARDNpuyDF9pGxjj+rr0hmdPQK2UYflAyZdKRd96kXtcjb//1Qk1ymyF6GmiAMLEFOKXEJPSPvS+EuH3WSHV1qsUA2BLSvM1GNNMLbzqN4zQTp+HGhLvnpZN9xTSjDwc+mZddx4YVz/xbxGvXEk0=;+KMfTzmhhNDEXiCBJDojuQ=="
 ---

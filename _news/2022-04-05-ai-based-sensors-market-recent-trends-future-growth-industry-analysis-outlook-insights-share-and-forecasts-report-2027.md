@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market importunity Analysis, Growth, Key Players, Shares, Drivers, Challenges with Forecast to 2026"
-    excerpt: "The study on the global market for Artificial Intelligence (AI) in Automotive evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities."
-    publishedDateTime: 2022-04-01T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
     excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
     publishedDateTime: 2022-04-05T08:08:00Z
@@ -47,6 +33,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Mobile Robot Market Size, Future Trends, Segmentation, Total Margin, Opportunity Assessment Up to 2027"
+    excerpt: "The Global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
+    publishedDateTime: 2022-04-05T14:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-size-future-trends-segmentation-total-margin-opportunity-assessment-up-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
         width: 600
@@ -66,15 +66,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
-    excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
-    publishedDateTime: 2022-04-04T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-size-share-growth-trends-industry-analysis-2030%EF%BF%BC"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
 
 secured: "HAkaDO2J8IujNTeb3VsrM1zqZVzW5sCVp0VNZBx4SMJnyYMjAoYsyqppxkVEdH21iSVbWrO32MKLEVYsFGRS/nGaS+OyS+ovZo8CObLLox4SzdNuWVjRQrg2sy6HvLLxJKjJtqLkcjQQ8OYk+QXTk86T5y6jky6NC2DtK7u+eSCnMTOEoCSWHaNxjt9yUouZyQlKlqV6SU+OteuLqK9QZ6nJYZpWvWcIqcdPQv9VtsIHLXbs5wXOdN6iCH9si7bROZ2V8xGU8h+VisbWNkxjchmcDKvhzb/MfOn/KcUwXqZ1I9cI0x1ia3UpeHR68GVxwGN5y9cZ2YzY84dUMGxRVgA8g4l6/q4RShxr6HguxmM=;pGEsIMMSN/eF8TsF49GnEQ=="
 ---
