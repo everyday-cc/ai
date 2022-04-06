@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=yxUduqMAAAAJ
-  citations: 228159
+  citations: 228201
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Michael_I._Jordan

@@ -1,0 +1,20 @@
+---
+category: news
+title: "Artificial Intelligence in the Education Sector Market Emerging Growth, Recent Trends, Outlook, Insights and Forecasts Report 2027"
+excerpt: "The Global Artificial Intelligence in the Education Sector Market Report offers extensive knowledge and information about the Artificial Intelligence in"
+publishedDateTime: 2022-04-06T13:03:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-emerging-growth-recent-trends-outlook-insights-and-forecasts-report-2027"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-emerging-growth-recent-trends-outlook-insights-and-forecasts-report-2027"
+type: article
+
+provider:
+  name: Digital Journal
+  domain: digitaljournal.com
+
+topics:
+  - AI
+  - AI in Education
+
+secured: "Y+nQpnTxc+pYcFmGONBrLWj58FBi690Zh4FWZo4OkjNCwHmYPv94fetLNHrXq61jzk+j36qhNZtk7ptyWRDmNk1AyUnRsdKomDerbw4C4em147HJiKTavOXcrteM9VgUYHLpYn3FD/NMfLL6HXhksLPsLVY1fhveNT/9bbVZ/2uYou829MruGQe8z6ZZeyguKjt8vHG8EscsUZ8N83AtRXbIMUMjm9kEwEWQfkQEItMyi4nUltoPD0Hm33wqsVijVaTrpMZWJzbATE5nmifdMG53R+XzmnfEbR3RgzybVMZRuS4z4SNr4Jv99QvJ7v8ijv8NXJPJOS9NPxz0+Hg2Hkmv/FWS/PQxERAx1Dxcavs=;E5QwWv672atOcR24HCBrBQ=="
+---
+

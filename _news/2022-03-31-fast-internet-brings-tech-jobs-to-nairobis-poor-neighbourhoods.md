@@ -19,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "32opqoI8dPQ7Nn6+ac04+QL2WL6y1ssmSgrsrnugRhG86hgE1uRXUcNGo2JqR3OvN9kSufPBSWPjSD3fxLl8ZgjLVt9gpsdoTJlkjNRQJ1b/dCBNJo/K26q/iH0pFt20pETXmvEvnBmu9xA/Yh1fLr/iITaVcV4hIAhFKnCc+UgxANzTxk6qKI23BU80DAXTiPrPibpmk7y+KdbFpFkHjDXVlzysFImyA/eQBKyFSwpdUkTU0xh85F73WnbXsMQWZpxLvpDzeeQU8MKkR5o03WAiQYkJRPf7sM3hoLp8NHg5qcBrrWfeNaJxuRjnqQ0P/NyJOv65pm1A+sOWHjMpOUiWFcIryyAdcBWSzkQXZJg=;hI0hi97TPqDSJz4p8SvMww=="
+secured: "VNye9xhP01tnHfOqKLMYq9788PNB5tUVwpiYob4oHr6nEltjI+JROt8H/V0T33H2oBQmpk4sLxhcQp9Fn/Rfu9YWIRc4zo+uW9oA4TkLu5A/OPnbNmzbnvtz92WVkfiNWJS516eU9dEtwln7Uwghr9VwaplQiEezLv5Xi5hf/7/f2KeljPplN8Xze0Naar4pWNqVQTYakJOeDdGSKkuB+PEOvDW19ERoMBg7oS9ZugriScfeYnLwX3HRCIYPAHuMqZS88Ffe+sKbz6PWk92c7mtGz1JIq+saeYSftBXZd/vSCiusZgXFbufBEZff41xuSID7jicy+zunLRcOVAAFxzCPQgyeiIHB82qpxHLoUHY=;lMdUjejpEuuN8tjBrdM5Gg=="
 ---
 

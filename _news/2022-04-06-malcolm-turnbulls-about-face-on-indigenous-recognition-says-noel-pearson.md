@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 secured: "EOTFZT8Uh1K7wBuoLXg5D1GLC/780I3+CN+WOFkYZLdGbz1LBTRlBaWmDsjKV46R3eicEaxpk7bs4QbmOLUQcWlc4JrMQtamJQQIxotYFioijTimvx9xhYfsB0viBF4+XlYGXowGsi81Wqsv8RGaLnnSptZWCXGpTBVz4Sm0vG/PV68/MvOJbmveNk7svIYOrZ3RpT+gS6LdCqUq1gLE4zN+5MtqBSusN/kzlqhmTM7YodgE7ftqk/aqohpR6mpTQLMfCGdfaTESK1aA6QvZ5PI9yr1jCU6T4zd5nyq/sX6lMeQUIoXeOtPcl7CAg0CXKWU2RgNhzw5KPQCfV9UAHMREU9/ZBRYAIShqFSvakijrBmvLW1XMNv7A+ApbxHHcSg9WEm9k8i1FNP4TPxeqtdoJiCwxd8c+1xonah/aW9PPfOyzf7lA6HS/exNty/xf/oKcdHnrAZ6Pba5clY1P8+lBr0TJ5V8YNJgOj1BUlkpnM1PEln/2ZLyJQtCYSEgwG5RIsLzoc8XU74/W6tQnsQ==;cUG6vMY+/VfSRxOdx1sIQg=="
 ---
