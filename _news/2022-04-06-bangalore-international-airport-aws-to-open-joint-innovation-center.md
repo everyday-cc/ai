@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/bangalore-international-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: T3
       domain: traveltrendstoday.in
     quality: 34
+  - title: "Bangalore International Airport and AWS Announce Joint Innovation Center"
+    excerpt: "Center will advance BLR's digital transformation vision, and enable startup-led innovation in aviation, smart infrastructure, utilities and mobility."
+    publishedDateTime: 2022-04-06T19:24:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21263167/kempegowda-international-airport-bengaluru-kiab-blr-bangalore-international-airport-and-aws-announce-joint-innovation-center"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 33
   - title: "Advancements to Explore how Artificial Intelligence and Healthcare Information Technology are Reinventing Patient Care"
     excerpt: "Learn about recent innovations in AI-powered healthcare applications. In this segment, Advancements will explore how innovations in technology and real-time data are solving real-world problems within healthcare intelligence."
     publishedDateTime: 2022-04-06T14:00:00Z

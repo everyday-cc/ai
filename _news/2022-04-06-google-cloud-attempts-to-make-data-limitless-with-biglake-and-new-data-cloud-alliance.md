@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-attempts-to-ma
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google Cloud releases BigLake to unify data platforms"
+    excerpt: "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
+    publishedDateTime: 2022-04-06T18:00:00Z
+    webUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 36
   - title: "Google shoots for \"limitless\" data with Big Cloud and new alliance"
     excerpt: "Google has announced the preview of a new storage engine aimed at making it easier for enterprises to analyse the information in their data lakes and data warehouses, without having to worry about the underlying storage format or systems."
     publishedDateTime: 2022-04-06T10:57:00Z

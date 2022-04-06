@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T19:49:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/service-providers-time-to-get-ai-ml-out-of-the-labs-and-into-production/article_f09133c7-cd15-5e31-b949-8e8dfe73c200.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/service-providers-time-to-get-ai-ml-out-of-the-labs-and-into-production/article_f09133c7-cd15-5e31-b949-8e8dfe73c200.html"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: WFMZ-TV

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T19:40:00Z
 originalUrl: "https://dominicantoday.com/dr/local/2022/04/06/digital-banking-services-could-replace-branches/"
 webUrl: "https://dominicantoday.com/dr/local/2022/04/06/digital-banking-services-could-replace-branches/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Dominican Today

@@ -138,6 +138,15 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
+  - title: "Microsoft and UK Met Office Select AI Start-ups for Environmental Sustainability Program"
+    excerpt: "Start-ups selected for the equity-free accelerator program will receive Microsoft Azure cloud credits, advice from experts on AI, technology, commercial development and social impact, workshops, coaching from Microsoft, the Met Office and Social Tech Trust ..."
+    publishedDateTime: 2022-04-06T19:10:00Z
+    webUrl: "https://insidehpc.com/2022/04/microsoft-and-uk-met-office-select-ai-start-ups-for-environmental-sustainability-program/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 25
 
 secured: "4iDoM6jVDHk+3KjMwQ0pkfkK6ZFDZwlSns3NUQoSCXa2hNn/JPG88y1BW0026IuV/6BsHOZXSQpVF4ojvzX9DSFsCqMba6LPeOUDamO0q06TVzsC8iDF+vh3tzRu2604UygG9xMShjFoOmF06DvAFEcDs/CYQwROBz1ynk1lba9w958b1IaKa7/DgR6pk8bomFfH0STFU/iHfSkfZLspKsPoBTaS7YSdtIDUiJJud7xtjGHxYkqtV/Aepkxu5tshzKWj0tRSp1uu9KWkHQ2+A1kkHqiymnOmOz8cYeVFtuihVU3HIgi02akM3NMYYmubPaezbRWtELcX7C1sCPNOJj1FaIxjMPEPgVEO+X97hozoa1MXQ4e6bjhQ7gEIRZ4wwdqyHiMyb5Vp0nD9Yh0ad28pl0UBTWo7d8atW1Jc7of1vFKbSOBG9uvg5rM3a8200JPunM8IX1VwgRJtMaYkQ/yyj5xt8yr4GyVmgwzDp3UHHJ+buLoYVfX6kaoJeV7FNFU7C/iqHM2zrsuyWUe8gA==;SCvRdLT0L0ZdC++4kysbCQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1379
         height: 775
         isCached: true
+  - title: "Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)"
+    excerpt: "Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from Defined.ai as they discuss what does it mean to build ethical AI."
+    publishedDateTime: 2022-04-06T18:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/06/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
   - title: "Researchers at the GIST identify new medicines using interpretable deep learning predictions"
     excerpt: "In the drug discovery process, drugs are tested for their ability to bind or interact with target molecules in the body. While deep learning models have made this process quite efficient, their predictions often lack interpretability."
     publishedDateTime: 2022-04-05T13:05:00Z

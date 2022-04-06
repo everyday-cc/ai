@@ -129,6 +129,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft and UK Met Office Select AI Start-ups for Environmental Sustainability Program"
+    excerpt: "Start-ups selected for the equity-free accelerator program will receive Microsoft Azure cloud credits, advice from experts on AI, technology, commercial development and social impact, workshops, coaching from Microsoft, the Met Office and Social Tech Trust ..."
+    publishedDateTime: 2022-04-06T19:10:00Z
+    webUrl: "https://insidehpc.com/2022/04/microsoft-and-uk-met-office-select-ai-start-ups-for-environmental-sustainability-program/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 25
   - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
     publishedDateTime: 2022-04-05T19:43:00Z

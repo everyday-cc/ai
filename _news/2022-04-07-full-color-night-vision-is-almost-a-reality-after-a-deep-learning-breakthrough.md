@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T19:07:00Z
 originalUrl: "https://interestingengineering.com/full-color-night-vision"
 webUrl: "https://interestingengineering.com/full-color-night-vision"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Interesting Engineering

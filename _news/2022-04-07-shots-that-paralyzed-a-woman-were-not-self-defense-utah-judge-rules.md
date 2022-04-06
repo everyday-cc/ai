@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T18:17:00Z
 originalUrl: "https://www.ksl.com/article/50382788/shots-that-paralyzed-a-woman-were-not-self-defense-utah-judge-rules"
 webUrl: "https://www.ksl.com/article/50382788/shots-that-paralyzed-a-woman-were-not-self-defense-utah-judge-rules"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KSL

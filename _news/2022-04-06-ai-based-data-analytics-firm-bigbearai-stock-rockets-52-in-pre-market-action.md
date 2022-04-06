@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "BigBear.ai Continues To Gain"
-    excerpt: "BigBear.ai Holdings, Inc. (BBAI) shares are adding more than 9 percent on Wednesday morning trading continuing an uptrend since March 30 as it started trading on New York Stock Exchange. Currently, shares are 11."
-    publishedDateTime: 2022-04-06T14:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain"
-    ampWebUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "What's Going On With BigBear.ai Stock Today?"
     excerpt: "BigBear.ai Holdings Inc (NYSE:BBAI) shares are trading higher on above-average volume Wednesday. BigBear's average session volume over a 100-day period is about 300,000, according to data from Benzinga Pro."
     publishedDateTime: 2022-04-06T15:20:00Z
@@ -43,17 +32,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Benchmark test of AI's performance, MLPerf, continues to gain adherents"
-    excerpt: "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency."
-    publishedDateTime: 2022-04-06T17:45:00Z
-    webUrl: "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "BigBear.ai (NYSE:BBAI) Lowered to “Sell” at Zacks Investment Research"
     excerpt: "Zacks Investment Research cut shares of BigBear.ai (NYSE:BBAI – Get Rating) from a hold rating to a sell rating in a research report released on Monday morning, Zacks.com reports. According to Zacks,"
     publishedDateTime: 2022-04-05T08:38:00Z

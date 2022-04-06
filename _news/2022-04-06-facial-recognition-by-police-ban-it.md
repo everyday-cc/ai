@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-b
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Orange County Register
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Surveillance Camera Commissioner warns against use of facial recognition for witness identification following Police guidance"
-    excerpt: "Professor Fraser Sampson, has warned police forces across the country against using facial recognition technology for witness identification."
-    publishedDateTime: 2022-04-06T09:08:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/surveillance-camera-commissioner-warns-against-use-of-facial-recognition-for-witness-identification-following-police-guidance/"
-    ampWebUrl: "https://www.ifsecglobal.com/video-surveillance/surveillance-camera-commissioner-warns-against-use-of-facial-recognition-for-witness-identification-following-police-guidance/amp/"
-    cdnAmpWebUrl: "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/video-surveillance/surveillance-camera-commissioner-warns-against-use-of-facial-recognition-for-witness-identification-following-police-guidance/amp/"
+  - title: "Opinion: Calif. Should Extend Facial Recognition Ban"
+    excerpt: "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations."
+    publishedDateTime: 2022-04-06T19:07:00Z
+    webUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban"
+    ampWebUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true"
     type: article
     provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 47
+      name: Government Technology
+      domain: govtech.com
+    quality: 61
     images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2019/01/facial-recongition-office-building-e1547817740963.jpeg"
-        width: 389
-        height: 300
-        isCached: true
-  - title: "Charleston: Facial recognition would help police combat sex trafficking"
-    excerpt: "Gov. Glenn Youngkin is to be applauded for establishing only weeks into his administration a commission to prevent human trafficking and provide support for survivors (Executive Order 7-2022). It’s a"
-    publishedDateTime: 2022-04-04T04:00:00Z
-    webUrl: "https://roanoke.com/opinion/columnists/charleston-facial-recognition-would-help-police-combat-sex-trafficking/article_9d00336c-b10a-11ec-8394-178c5da295e7.html"
-    type: article
-    provider:
-      name: The Roanoke Times
-      domain: roanoke.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/6b/76b9b1fe-b10c-11ec-aeed-9babf0d7292b/6245d2230ded2.image.jpg?crop=800%2C420%2C0%2C190&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
+        width: 840
+        height: 438
         isCached: true
 
 secured: "RbgOJSeXE8LnhzkBuFuNuoRm7lgB7LdUWus5b7W3XWxciU2ucFoe3N0REWOOibQEAy81FtxLPY7aPlGuDxeiAH/9u4wPu/MXYco4AQRTw9j6VKTBLEn6lh8FECBzqcvMPxM/CDQj9bQZ9PAFal7p+LrjQ283K9ykTv6EBk2GR41XIEzGcTE9z4N9CrtIJe9Vjmaz3KYuDx/6vHW9QLLmtZgfUmcf0vLjpTACsslPljUx1THkCxqO4Y4FWRXC51kNSpCfwiit9mntsONaBxgCitTv7UVLydygTpAiC+mFuRxkw2QLZoqLtvDLEmvH3JtgOnOOzPkI/qDHEZDVgVOK28XHWC2zyNs5MCa31fT07yAcNF/sYSbtRlwAmGyLzKjZtw9F3kUVL31dJz3v/8y5aWXUFyI8XLCMpG8Xll93P73eGsSCfJOEeLnx/kFljKRddpMe85MRftjBJ1LI/LSE5a4tH3ATEKzvsryWKZzVniJn3fXrf7WgeY9lMsrI24shDaMX0eQE2HIX3MIoTjQLnw==;6NT59zBlSiZczXD8Zy6Q8w=="

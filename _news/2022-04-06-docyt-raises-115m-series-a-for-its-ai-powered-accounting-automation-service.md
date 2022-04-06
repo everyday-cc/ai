@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -76,7 +76,16 @@ related:
         width: 1500
         height: 500
         isCached: true
+  - title: "AI-Powered Accounting Automation Platform, Docyt, Raises $11.5M"
+    excerpt: "Docyt turbocharges accounting ledgers, like QuickBooks®, by using machine learning to intelligently automate financial data collection, digitization, categorization and reconciliation. By replacing multiple income,"
+    publishedDateTime: 2022-04-06T17:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/ai-powered-accounting-automation-platform-docyt-raises-11-5m/article_bf152e68-9bd5-5b82-a7aa-624a5e0bd534.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 17
 
-secured: "DJf0+lV0bRoPUtiU1lvFxxYB2UPo868zN1U6gIOf9Xo1yLh4+2/NR1g1OD1fDC/uMjQ37raaSSeBNOjfBmpxT27rVqdRT0L9+nwIssPZMCl2/tuwzJYhVGSKpE2KEUidjlcKjgPUWqJvKL3bgVpQLrajOlmqY97zTVY+Nrh/RaxX/F4gq7Z1fXS0fwPkxyjV8UyuGHV8x9qlZNGKKWWIG337OQ/2Uh9VFuFchEVGE+1mWKl+X6w6adrqtBViTPo19QRrD/B2ZLU/bTpwgEMLgG3fdBa4+TxBb+2yJnBrewMy7gS1dFOnxd4llw8YbptoSw8Z3y84MwvqYn2QH0z3FVZECxcnmjEawHmePcW7iO4=;hY5vnwZPmv2OV0SYel1/tg=="
+secured: "2+9UZzTtTZwNkaAf97+GFnAM7pO8gEEzNyr0ACYevXtPQi7UfS+MLOM7AP2rfmCi5kJa+PS2jANku06EJMLudx0z5JaMf9i9QRE5Ob6nbADHvTEQkygvAXs2bnzP8DGntGFQGT14FM3TN+DPRNZ/zlql0oxlP9FD56AdSSHc2AILY3OAFmBYGqusbc6gip04k6wE0eNl8N7gt0yakxl6F05NJIEn8+2dAHtgkzFRLCsa7p9sBCof9T2d8DqsjdlrEBEnjlL59dB9OHr0fSNCCcv0WPWMtAPB+4LVKmzkeDVg7plJBdEOutbsknQ9i1QstYphAp8T4XWQW/5WVfVMYF/sZobdab8VJCyU2/nXXcEd3DIKYSf5SEkERjEJEtTHub6MHqgghxGaBIC1v98uFBujA9PaMslwKU5SZVD+xFS2YuuA4tw9wZlzIcwY0leZwX2qXZ+nG/tKPpTdjgbXCRgWrfax3Yk2yNKI4tiYE3vBD+3KBR4L6GyWHY9sOLKNL5vr1FxoBOR3DCgD+TIUwQ==;Bi6Sa3GoLQCzJCtS9BYU1A=="
 ---
 

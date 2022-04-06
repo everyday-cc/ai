@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T18:35:00Z
 originalUrl: "https://www.freightwaves.com/news/when-the-rubber-meets-the-road-how-will-autonomous-trucks-handle-blowouts"
 webUrl: "https://www.freightwaves.com/news/when-the-rubber-meets-the-road-how-will-autonomous-trucks-handle-blowouts"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: freightwaves.com

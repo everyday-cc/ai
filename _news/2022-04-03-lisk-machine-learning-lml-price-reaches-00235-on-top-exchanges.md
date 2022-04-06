@@ -9,8 +9,8 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-pr
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: ETF Daily News
@@ -25,6 +25,15 @@ related:
     excerpt: "Fetch.ai (FET) traded down 3.9% against the U.S. dollar during the 1 day period ending at 9:00 AM E.T. on April 3rd. One Fetch.ai coin can now be bought for about $0.46 or 0.00001000 BTC on major exchanges. In the last week, Fetch.ai has traded up 11.1% ..."
     publishedDateTime: 2022-04-03T13:19:00Z
     webUrl: "https://www.etfdailynews.com/2022/04/03/fetch-ai-price-tops-0-46-on-exchanges-fet/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
+  - title: "AI Doctor (AIDOC) Price Tops $0.0001"
+    excerpt: "AI Doctor (AIDOC) traded 4.8% lower against the US dollar during the 1 day period ending at 15:00 PM E.T. on April 6th. AI Doctor has a market capitalization of $54,789.71 and approximately $51.00 worth of AI Doctor was traded on exchanges in the last day."
+    publishedDateTime: 2022-04-06T21:06:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/06/ai-doctor-aidoc-price-tops-0-0001/"
     type: article
     provider:
       name: ETF Daily News

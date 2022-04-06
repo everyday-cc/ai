@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/57638486"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: teletrader.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
+    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
+    publishedDateTime: 2022-04-06T17:45:00Z
+    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 8
   - title: "Aurora and Werner Enterprises Are Testing Self-Driving Tractor-Trailers on a Lonely Texas Highway"
     excerpt: "Aurora and Werner are testing self-driving tractor-trailer trucks on a crucial stretch of highway in Texas. The road, between Fort Worth and El Paso, is a key part of the busy Atlanta-to-Los Angeles truck route,"
     publishedDateTime: 2022-04-06T13:18:00Z

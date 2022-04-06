@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
+    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
+    publishedDateTime: 2022-04-06T20:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.abnewswire.com/uploads/1649249589.png"
+        width: 449
+        height: 300
+        isCached: true
 
 secured: "TrZtF8cM/K7zg5q1ZzchY6ZuZ3TKfm8slLe29G3oFtZ0Y9icT6Icqo2VKJyc8jsIESF27QAVDlNl2B5Z408QQ062lsmGw10cyYrL5LqplAyktoVVjssy2IicJdEqDVcJIJKM/KhajpeFo1PbxQL8bdednc9BgC41etBBAvur5KyX9V+BbJF+mAlLGKMdIeXsn10Z3mrU/cva9wBvGx+Mjbnk6zaZZ6dZNcJzEdguL+aZGXa25/c3gx14OF8RdnGrFUrl7YBXjVxRKjrIBQcbhysG/iCceWKQ6Ee99eqc7P1lTUriM4vUHddeIdmPqvATEejs6J0tmHtVISJe0JMRIXPMiLb+xoeq8fMZG7RSQHU=;R2UqfSxcpOnsVy46EAHr+A=="
 ---

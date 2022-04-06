@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T19:10:00Z
 originalUrl: "https://www.msstate.edu/newsroom/article/2022/04/msus-parisi-discuss-integrating-artificial-intelligence-academics-during"
 webUrl: "https://www.msstate.edu/newsroom/article/2022/04/msus-parisi-discuss-integrating-artificial-intelligence-academics-during"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Mississippi State University

@@ -5,7 +5,12 @@ excerpt: "California banned the use of facial recognition in police cameras. Tha
 publishedDateTime: 2022-04-06T19:07:00Z
 originalUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban"
 webUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban"
+ampWebUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true"
 type: article
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Government Technology
@@ -14,7 +19,32 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
-secured: "ppar/VSBnl7OrWmzVJYXGuNLGCNTevbDft4r0e1p7ZvwafizcVCRoKNu0eA2kKBtjLYqh6LkYf03T7n6yNWz2JoItbAQ07KdKa0Am7HduBBGlTNo2gVMd/ydUcgZIrbsPIGKmhoguyL8Ng1SoQEV6Tp93dGI91nKvzJj6Af4MXSL1xPM0FiTNw/vfSyXkm8Pr4+bwLLGA+WPsPhif01+L6KCedHDWi4P9bJr/9JzHWD+W+L+HXc89Rc0irNlw7YC5oyDoNWcEtjAxdDAj+et02peTg06qpr3ggDNQZ8WFokla7Fk30oaXf7fCFV7/GgIUeucAMkxdPlAnI/BchkDynVq/8GxSXK2NDrlo29PxpuRE7K0pfi6mzreSVNFI5JBUMHVRtlafQ2hrfX+x+1W04wmFDBReRJvtnUUpBncEwl9pQL9K5EbLsUmcmUNCorgZ7IblxruFCbiPTTZJcSCVAt7e0CajtrPt+74MScM7HvQ/dq9bmAoRKvCAjJOLjoqxe/76BldE0dARO+lu35cag==;S2hyeAwm8xSmA3+WV5r+TQ=="
+images:
+  - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
+    width: 840
+    height: 438
+    isCached: true
+
+related:
+  - title: "Facial recognition by police: Ban it"
+    excerpt: "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in"
+    publishedDateTime: 2022-04-06T14:25:00Z
+    webUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/"
+    ampWebUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 59
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
+        isCached: true
+
+secured: "w2cW2xABu8t23uyijzO3iMepcFuZqFzaZfATCnn+WECpG5Ic407U5eCIMVmWpsy9sM1hi+ITY8nHaQn/KkPmne9G6mcJ5pL3n3D9D8x+WOFWCehy2u3VPHypC3QPRp4I2NrlYSeKI5TDMBwQm8jcOy4NuqvRA9kcH6hrFN7Yx2hZWvgximuxgNBLefBcRUw4Q8+jAaohuMh1TsBaHSLUZv5W4CVRqroi3LNAJHwbLgXHhesN9OpwETv3MPyXzfRNF2ymUDVjW8WmhXEH70oHQc8FbrtIEl32Z+LbdD6CUKlqo/tx/Il3f+2seWZ5Ffq9ddmiJfC1DvXQLhCAJyaXDeVfiagk/nh4nJFItjsGR+0=;cGlASIBXv8vIbsKRE8HtGw=="
 ---
 

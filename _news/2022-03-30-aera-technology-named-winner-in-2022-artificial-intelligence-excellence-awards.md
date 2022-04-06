@@ -1,25 +1,19 @@
 ---
 category: news
 title: "Aera Technology Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "Innovator in Decision Intelligence Recognized for its Ability to Digitize, Augment, and Automate Business Decisions"
-publishedDateTime: 2022-03-30T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aera-technology-named-winner-in-2022-artificial-intelligence-excellence-awards/article_6f43d65e-8205-59d4-addf-ee8d95a2bc76.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aera-technology-named-winner-in-2022-artificial-intelligence-excellence-awards/article_6f43d65e-8205-59d4-addf-ee8d95a2bc76.html"
+excerpt: "Aera Technology, the Decision Intelligence company, today announced it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Aera was recognized for its innovative Aera Decision Cloud™ platform,"
+publishedDateTime: 2022-03-30T13:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c69f539-7e3c-574b-90e1-61f1566ec9a9/60491c3f81ecf.image.jpg?crop=1789%2C939%2C209%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "ZwJIpE+tjkZV/EAGkxN9+ywFQ9yDqPyY9SQa1V6S8+cwMv2DI6c/zri+RdUjd7TvLvB/5kq1WYudKn4CSRvNzC+9JFMhG85B+Tba2NWB+ZTt/6rkSLBNANSa4KS5LEf72gC+Ni8is9mP1AM3/N5Jr0NQH0lr8os+Nee8oPLMeO4N/UiKN0aFy5kKI3Jh/4tP/8YXVzPK4rUOx7c13inorEYSgJeSOw8LHrTCEQtQ+R8YJPJ+P7JoUZsi1knkuPL6t02++jRSCGICvcR2XezfbpPPYp5UrAmcAHY854i8daO/mgNDxNplAGDXCt3gKC25U/a2Lp19WgiSxN1/3gQ9Fu5HIhktntZrVs5cXZNlFHo=;V+ZnxHaP1Ixuli3sR/UrGw=="
+secured: "HiJjn+j8gXgOOm3FUXhb7lT3Gkunfxy7f9qpv6R19QRmtsicj7f7oavgTmjJqaHzLdlc2Ozi3V/M8X6/71YueBHGyBtP0/p5Jvv6M9ejgHfrQAsJLoZmmvyj5Gnacn3YnHhxUJfh0s2gO9xdxUr/xjvRyJ0RrqD97IFyieNX5wne9491pmrTpBnoO/PqAIEtvP8ofZwL24+H9G/yfJ3ThzcwBjfqp4/ahGXJ+PacImmoO05kaNkdHkwsM9Y7x1Ot2f+OcE9Xki6XVEEnXLYDSGIS8kyOKiaipJyLYEP2WQbAbwRR7Kd+/nkGR64tZl5gqNAkDLErRzqprDTwFFhRVQjWVtgJRr3VpQyAmMQ0SjIkPjOd04bAybfxQ/2hZnOKjZ3hxO+iAoG6cj+jbOuUkUb8rLLU5tUrXmSIeNRarVssX6lsjqghJQjhVIDljN0KZf3a/lBG92+ndDTPAsJJ8Sg7Dhn6K7VAWnLbHJFjlbXFzyZ6gbD6Sbsnql4JUH1jpoyFo7awc6rmtPd7IA+CtQ==;d/6MPvQGNrP0Pv/DX98NnQ=="
 ---
 

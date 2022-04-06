@@ -73,6 +73,15 @@ related:
         width: 1500
         height: 500
         isCached: true
+  - title: "AI-Powered Accounting Automation Platform, Docyt, Raises $11.5M"
+    excerpt: "Docyt turbocharges accounting ledgers, like QuickBooks®, by using machine learning to intelligently automate financial data collection, digitization, categorization and reconciliation. By replacing multiple income,"
+    publishedDateTime: 2022-04-06T17:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/ai-powered-accounting-automation-platform-docyt-raises-11-5m/article_bf152e68-9bd5-5b82-a7aa-624a5e0bd534.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 17
 
 secured: "yZ7Q7HPumKODe7jDhIMVPjkJktbf41yVVLv9QCQ4OyPfDM72rogu13BY7SUImZlurKGrg8If43tLmHu0QfhHf82v7U4wN3DI0Ff0LvHj1TNmtbSVeXYALOnzkxtoclSL3Nun72+FDYYZ53ZHUZ8CHa589u1q3Vn2ol/mqA1zhrOyrtHbzYL6VsURv1aWPshc8AAPajU5AhHIRjU09Xpw5fPe4aZfA/3AW/88F3NaCKZSrgaWwbVMq4cDFhOOZCjZcH/35reo7zWXM9LCnCnt5MF1H4LBkvssnbSS3JDvL4/qlXhPo+pHF7Rj9eRB4loyP1+H3ocrK8ysQrgwkhgQ7w/m2649t3jdXlrNJV75qXgO1Tn454I2n8dUIgz6EszwjcLqwVQ6Zhtl7yfoc2tJ2vgkWKyf/ecXY9v6tMAL6O/0oI8rrZNq3+FuUDaNo+7Yz92vNfcy6OEIlUSDalnhfYLjUOGClixKdxOupAwzWICi8u/e3/LcV/yhTrcQIfOLyiQEBZOwth06eWqm6yEQNQ==;L4bGNX3CJhU1e90xMMeByA=="
 ---

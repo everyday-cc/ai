@@ -2,9 +2,9 @@
 category: news
 title: "Patentability of Inventions Involving AI in Health Care Is Becoming a Key—and Complex—Issue"
 excerpt: "Patentability of inventions involving artificial intelligence can have an outsized impact on how companies in the health care space protect their intellectual property—patents in particular. Recent decisions in the health care space further complicate the issue."
-publishedDateTime: 2022-04-05T21:39:00Z
-originalUrl: "https://www.law.com/2022/04/05/patentability-of-inventions-involving-ai-in-health-care-is-becoming-a-key-and-complex-issue/"
-webUrl: "https://www.law.com/2022/04/05/patentability-of-inventions-involving-ai-in-health-care-is-becoming-a-key-and-complex-issue/"
+publishedDateTime: 2022-04-06T14:30:00Z
+originalUrl: "https://www.law.com/legaltechnews/2022/04/05/patentability-of-inventions-involving-ai-in-health-care-is-becoming-a-key-and-complex-issue/"
+webUrl: "https://www.law.com/legaltechnews/2022/04/05/patentability-of-inventions-involving-ai-in-health-care-is-becoming-a-key-and-complex-issue/"
 type: article
 quality: 29
 heat: 29
@@ -24,6 +24,6 @@ images:
     height: 633
     isCached: true
 
-secured: "YFCZ1o980TeEKNm5D/9nhQgVY85p5Uk6sVR3Tl/EbOFl7utR5hridqriduXkUTTNGVW4weKxBI4JBk/1kqxi9mtNuhKNAQTo6W0MHzPmmtvhpkzAGkDVlwWuXAF0NKwLVkpUwhUvsOCHU8CMoUYHs58pgQhKly+ntlv0AJ8QF9yOeg9taKr5MkKjgwUUHDPLfhKp9OOXWSXKPa6GM6qwXftt27p8D4V7l1qb1z0Saq92GzosKS1ILHtHE/Pl/g28BlwrSEbSyL5sLzvXarrydV//HUQEazsAYVeezvOBhm1X7JvSIJJMyBwal1HnAALm9/j7xhAfcw7d8bnvRdByg5oECg6g3ZBRvsnRFgLa0b76eUOS3h0WjFGsxbdpxXcC3WXej2Ftn/AMkgzQr1clNpgfOhAT2pWvjsRKlR1FSjKc+Yx5Cy2kDLA8Jc5Vh/BuyDQW72eC6jCilScPIwvJPz+ZPxHTJO3xCbBEyuora6FjBlLTK38jM/ousBl1yASvSQSi0oZALPSaM/RFeAZIiA==;r8OF/VNVm9/MGAqhevn4cg=="
+secured: "DQ/7OiNDFvS0CDB9l/mbOqT2Zg97eU5BmPaD10vq1AIkkL1bSDZpk3DgVMZ/1NEw4p7jbw/rsPtVTpnqs0O2rm7+8EBamy9qNq+zCHDkpNOJPjhn/xgbY0VJPY1LWem4XMA0H3kBfsMDc88EQPKQFHQQsrf618imAGh5TipbOjizd8DPyMkrT3FOTvlchvBBoapX9Xz/Ecud0kK9Ir47nrm4n3/9tTOTzCiGB5nxWz80xR65yOWDf1qkITYyf89umMLNomeZKo6FWjLzHi6QIvOnXshzPC9M/CN/iY4+CbWmx+pBzP2EKzPPFT4NwomE3tZvoM/abUiqORdAEi0x/hekJljCHiF++wjdGaKaEYw=;vOHNT/zqDC4+p4+CZGSqSg=="
 ---
 

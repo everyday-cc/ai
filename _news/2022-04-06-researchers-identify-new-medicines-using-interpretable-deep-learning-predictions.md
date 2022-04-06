@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)"
+    excerpt: "Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from Defined.ai as they discuss what does it mean to build ethical AI."
+    publishedDateTime: 2022-04-06T18:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/06/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
   - title: "Researchers Use Deep Learning to Identify New Medications"
     excerpt: "Researchers at the Gwangju Institute of Science and Technology in Korea have developed a new deep learning model that can predict the binding between a drug and target molecule. The team, which was led by associate professor Hojung Nam and Phd student Ingoo Lee,"
     publishedDateTime: 2022-04-05T23:21:00Z

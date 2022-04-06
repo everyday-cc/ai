@@ -35,6 +35,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
+    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
+    publishedDateTime: 2022-04-06T17:45:00Z
+    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 8
 
 secured: "NWDMnskXcjq3iKeb93FG8iCni7AMyOKRBDqPZMD0JJBlu7BlOBXllGhgTeVOl3EpJOZihvoCiWdGnYa954lstnQJOK8nZ4kluzLxkeUlv8cogT2q2EfakX3sdJYXFa9saGSLh86u44yQkyp85INEW2XeWMknsQxr9IpiIyDzcKeoS8rHq14jEphBCq3i/tr5Aq7EU/eF4z0NVtc9zXt4gOmG/Cx52Bsbt0Lyn6NtoP56l38FW8j5d6jqCLWBOSyJaTp7a64YmSK/bjRE1kkeJWyH5eiqMbB1DAzBnK29gACr7NkVhHksdqPaoUuU3QImUS+FL3uDyRWozVTlMLHft4N6XG+JsljitFrkT17hrAaloBtA1jfCeR3VVHgsIZTSrzS0QSr0Q1KwrmCkb592hwe/gluiynvB384ykMAqgJ6TSjprQ9e5HM8HrbVk67bKAedwzery7BGbPOGSHNnJa8TAATA6iqMpojApLDUE3ev9YoCfNV4kMIjCV8VPpv9KfxegYOOjP1GNHrr1Igkjtg==;vxYwn01vSiFTyJb28sezTg=="
 ---

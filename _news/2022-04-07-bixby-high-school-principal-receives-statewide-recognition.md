@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T17:37:00Z
 originalUrl: "https://www.fox23.com/news/bixby-high-school-principal-receives-statewide-recognition/OMWW4L4EANHCLBEN6NL45KCHKU/"
 webUrl: "https://www.fox23.com/news/bixby-high-school-principal-receives-statewide-recognition/OMWW4L4EANHCLBEN6NL45KCHKU/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fox 23
