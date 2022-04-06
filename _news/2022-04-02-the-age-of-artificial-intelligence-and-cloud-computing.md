@@ -57,6 +57,15 @@ related:
         width: 640
         height: 353
         isCached: true
+  - title: "Holding artificial intelligence to account"
+    excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
+    publishedDateTime: 2022-04-05T23:46:00Z
+    webUrl: "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00068-1/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 19
   - title: "The importance of AI-enabled drug research to develop effective therapies"
     excerpt: "AI’s ability to quickly scan and synthesize huge volumes of information is being adopted for numerous healthcare initiatives, including use in pharmaceutical drug discovery and development."
     publishedDateTime: 2022-04-04T18:00:00Z

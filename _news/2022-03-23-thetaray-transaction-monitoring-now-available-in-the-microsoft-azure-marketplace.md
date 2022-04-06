@@ -1,20 +1,26 @@
 ---
 category: news
 title: "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to the SONAR AML solution to take advantage of the scalability, reliability and agility of Azure. NEW YORK and TEL AVIV, Israel"
-publishedDateTime: 2022-03-23T12:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-thetaray-transaction-monitoring-now-available-the-microsoft-azure-/2022/03/23/9569051.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-thetaray-transaction-monitoring-now-available-the-microsoft-azure-/2022/03/23/9569051.htm"
+excerpt: "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability"
+publishedDateTime: 2022-03-23T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "/1IhrP1M7MhYgxpFBlyBnoIpKXQCk1RQQ+5Cwh22UUoe28xaI0Xc5RAMd7ndlwsALZhvlw3fHW70/Kth77Q5AeJL1ZWEW0U6z0GD/pNuLt1gHSbppeH93TbCZHoODD+AFNwexNZxfpkoVXC7D4wQiFMB4mMXt4802S2g0/0Ss79OqxFkoQ88jAne8nt1hp9ABCQm+SYwyTMW4KSIdEhVTmNPvMVw2uGIWWM6/2Cm5nbJlMHpmH+jGJQ/fWkSNzyU/kuPJMU0kw6ROLvmf2Y/aa2H35eFV0TjDAfT5U32USBGQl2mPxUJtXCq3qkvW2jASb0MkrBCG//6mo8iFuiG7K49Z+3WLNI64OhWV26xm6I=;To/ByNrP0JvpuXvpaQiM9w=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "/4+pxiKmF3oKIFMBb9YE1cjr1l3XzC1fJtQEMCFr6NuEJn9YCgOK64i2pBJYVzkP60ahlqaRjmvivkjCZHqu7GnO91dCAvEzVGhmbM5h85+2CE6obfZqboyU5kKfEmtNzyMUNXVZ/ffREOHGfHU5RdjrI626Aloa+I9v3x3zxNC1OSxj5loZIXxL+yGZZaYLaD7eVHMcLIR2CcvfFcVEVaKezTqoh6tkg54cg74smlhdwtEsNW9ukQL3G5tyrEZH22XRVSQVNJCS2aHJN7pnh1KfoFVPyBrmYl7Hid/rVI6e+qwkfohqyYptOJkR7U/pqc7X+JuEs6lhWA2G5BlvdFVPXJW8moB2nOpDQkqiwuo=;JD9ChXw/6SJcwp91/t6I+A=="
 ---
 

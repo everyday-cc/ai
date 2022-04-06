@@ -74,20 +74,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facial recognition technology works best for white men and worst for dark-skinned women, study shows"
-    excerpt: "Facial recognition technologies show bias towards gender and skin colour and appear to favour white men, scientists have found.Researchers from MIT’s Media Lab tested three facial commercial recognition systems and uncovered that error rates for"
-    publishedDateTime: 2022-04-01T05:03:00Z
-    webUrl: "https://jerseyeveningpost.com/uncategorised/2022/04/01/facial-recognition-technology-works-best-for-white-men-and-worst-for-dark-skinned-women-study-shows/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 24
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/04/01060341/Img32979292.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Gastroenterology technology: 5 updates from last 30 days"
     excerpt: "Artificial intelligence and other gastroenterology technology developments are shifting the way gastroenterologists perform procedures. Five updates in gastroenterology technology from the last 30 days: 1."
     publishedDateTime: 2022-04-01T20:53:00Z

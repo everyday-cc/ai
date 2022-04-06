@@ -1,25 +1,26 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
-excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
-publishedDateTime: 2022-03-25T17:18:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
+excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
+publishedDateTime: 2022-03-25T17:31:00Z
+originalUrl: "https://www.lelezard.com/en/news-20305538.html"
+webUrl: "https://www.lelezard.com/en/news-20305538.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "cwDn6/WNdjBQTTk2XepMSQ+ccNR10Ckif/EJcPRvOoiRiNk85SfH7fY5yL+MA3Me9RA/81yXrGj4WB4ae5VdPgTwcKGwlFg/P73dDNAJo7M8pn7ffWXEhwcwg9g+sAEH00twXxwGMH6cgJpUanBxESz2GF9Fyc8vWagKzTv3nF9f5dxhqofQQ1hw8N3SWQZYH4eGHEqQruZK8+vy6k8HN1JKrL9xeejBjcADKeNs2Em1IGIFpt4YGRR4Muzs8rpQgLzQvBcbhEZCY6TyysYfChPfPYdI35ysrNz7UHjjh4Np3o17vxvrWhinZyCzL42+R5rb0diZ+etestKMxf46ENCDH5OS5g/ui8VgGsNKuCQ=;g5a09o/JVdKRScvNR+sEbQ=="
+secured: "6uymGn0HJOqODq5vLUE2bwoGEuHpHIkolpnenlke79Oxh9wzSWRSF/2wbwdCBdAwdFkJpidHVU/SyLssVdJUEyhu6ytSG6/il2I7mijZVkVLDB1E3Q11/BIAarUeDurn8TXKRdLDAfO6fJWLcEfNXpsZVr3f2NROQZjRlyjCeFO4WjflNmmT72rdKcupIkE1fGeIGM3+lYL8RDUga81yhu0YpfRvYqQgtMjIpug4noxdl/Yn+7P8UEPG6oLItTvChIQ4ZimrcygA7UKHOyYkA3QdPqsYkfnRtXIizQrGeozwvw0NTE4sDk+pQXXV1o4u2727mvC+uaEDA9yXnYzRZmz2ZdBOKZLfCvG34MThP3I=;orTVf8GCvmC/x6qfhYBcJw=="
 ---
 

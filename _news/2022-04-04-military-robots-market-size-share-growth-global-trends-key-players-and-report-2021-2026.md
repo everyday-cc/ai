@@ -25,68 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market importunity Analysis, Growth, Key Players, Shares, Drivers, Challenges with Forecast to 2026"
-    excerpt: "The study on the global market for Artificial Intelligence (AI) in Automotive evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities."
-    publishedDateTime: 2022-04-01T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-importunity-analysis-growth-key-players-shares-drivers-challenges-with-forecast-to-2026-2022-04-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-04-05T08:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2028"
+  - title: "Warehouse Robotics Market Reach a Value of US$ 11.3 Billion by 2027 | CAGR 13.20%"
+    excerpt: "IMARC Group’s latest research report, titled “Warehouse Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast"
+    publishedDateTime: 2022-04-05T08:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/warehouse-robotics-market-reach-a-value-of-us-11-3-billion-by-2027-cagr-13-20"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 27
+    quality: 49
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
-    excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2022-04-03T21:39:00Z
-    webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
-    excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
-    publishedDateTime: 2022-04-04T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-size-share-growth-trends-industry-analysis-2030%EF%BF%BC"
+  - title: "Industrial Robotics Market is expected to reach the value of 7.4 billion dollars by the end of 2027"
+    excerpt: "As per our research analysis, The Industrial Robotics Market size was estimated to be worth 47.5 billion dollars in 2021, and it is predicted to be worth"
+    publishedDateTime: 2022-04-05T07:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-is-expected-to-reach-the-value-of-7-4-billion-dollars-by-the-end-of-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 17
-  - title: "AI-based Sensors Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
-    excerpt: "The global AI-based Sensors Market is expected to reach USD 152.55 Billion by 2027, according to a new report by Emergen Research. The demand for the"
-    publishedDateTime: 2022-04-05T09:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-based-sensors-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
+    quality: 40
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Facial Recognition Market is Reach a Valuation of US$ 22.5 Bn by 2032"
+    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022,"
+    publishedDateTime: 2022-04-04T03:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-is-reach-a-valuation-of-us-22-5-bn-by-2032"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence as a Service Market to Garner USD 38.99 Billion With CAGR of 39.2 % By Forecast 2027"
+    excerpt: "Artificial Intelligence as a Service Market size is expected to grow at a CAGR of 39.2 % through 2021 to 2027, reaching nearly USD 38.99 Billion."
+    publishedDateTime: 2022-04-01T07:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-garner-usd-38-99-billion-with-cagr-of-39-2-by-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aef0bb667ac62bccbac8d816d53a436b40ef43f5-1-600x337.jpg"
         width: 600
         height: 337
         isCached: true

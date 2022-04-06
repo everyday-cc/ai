@@ -41,6 +41,20 @@ related:
         width: 1379
         height: 775
         isCached: true
+  - title: "Researchers Use Deep Learning to Identify New Medications"
+    excerpt: "Researchers at the Gwangju Institute of Science and Technology in Korea have developed a new deep learning model that can predict the binding between a drug and target molecule. The team, which was led by associate professor Hojung Nam and Phd student Ingoo Lee,"
+    publishedDateTime: 2022-04-05T23:21:00Z
+    webUrl: "https://www.unite.ai/researchers-use-deep-learning-to-identify-new-medications/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/04/medications-1853400_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Researchers at the GIST identify new medicines using interpretable deep learning predictions"
     excerpt: "In the drug discovery process, drugs are tested for their ability to bind or interact with target molecules in the body. While deep learning models have made this process quite efficient, their predictions often lack interpretability."
     publishedDateTime: 2022-04-05T13:05:00Z

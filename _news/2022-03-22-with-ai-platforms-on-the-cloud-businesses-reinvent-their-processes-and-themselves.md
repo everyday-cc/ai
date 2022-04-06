@@ -20,6 +20,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202203/BT_Q122_Feat_Delaney_Hero.jpg?itok=VSCRNieN"

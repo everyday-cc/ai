@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
-secured: "3snxewJzpChga1r6e6EKvb4XtohXDPuTBV6v73xcsDh6sB5lNYJNeHzLUogz9yf/cU3WuptIUWq3YhHhwAxOYZo8zjuoQHEctfFa0jjPyEYQpDLQH8gn96iCUcI/1bqF3XimGEoBqetvih5ElWyRirpCaoy61mc9IuEnT7O25u5x8u6qk4cIZIpwbhJR3p9JoDswyvS0au5blEIZCpOar9wA5j1ckuXe6+zXRilKh2ksUC7RwbvxZfAYKp3Uczy4HhapyVCJ8o0exKrzu7/yNUu0h54xKLwDE9hUXG4y90LU5XeGQRWatiBFFAVpoq9y/tnIguo2Z4AlUqn5Hh8Y0IwWDzfWRogB9irzULb2fS4=;ljd+C+etrjy3GqwAXhxuXQ=="
+related:
+  - title: "IBM introduces real-time AI for transaction processing"
+    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
+    publishedDateTime: 2022-04-05T14:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
+
+secured: "2c3cryh1o5ae/AauNCnNnt15YFlZ0p1d3wYRIbduE6SOv5YvZP/zr4DakH3vpE6xBGAjUopcHvY1w1yxJYaAhX8SpgvXdgWH1pfKXYzZbZqFL15EmKQxREnHSi2oV8EuWM5xhMkHOzORRBn6VyPdPXGNmpXg1O53NfUyPdH5dFaxlfkhkHqSnQfUfnhdxy3gHvkRyQEhRLICIjZxoLh7clxS5zEZmOkunzybBio6urMDbMBKfstEBryZZqr52F9sT5/uANUzRjQ21Wz9qRWCx6cBk14+P+YccRE7sOVIKXblXfHAZXS24yuK9bi+c9vrRFfjzxIkCL36stdr+en1y4dcRltP+rbuw0sanvU6ptg=;3IhlFhNsBcurTWYRf9DOJg=="
 ---
 

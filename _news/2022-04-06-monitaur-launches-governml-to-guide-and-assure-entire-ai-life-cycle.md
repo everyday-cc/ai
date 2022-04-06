@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-05T20:36:00Z
 originalUrl: "https://insidebigdata.com/2022/04/05/monitaur-launches-governml-to-guide-and-assure-entire-ai-life-cycle/"
 webUrl: "https://insidebigdata.com/2022/04/05/monitaur-launches-governml-to-guide-and-assure-entire-ai-life-cycle/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"

@@ -27,19 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Hardware Market: 44% of Growth to"
-    excerpt: "The Edge AI Hardware Market value is set to grow by USD 6.93 billion, progressing at a CAGR of 17.37% from 2021 to 2026, as per the latest report by Technavio. This growth can be attributed to rise in IoT application by various end-user industries coupled with increase in demand for smart homes and smart cities."
-    publishedDateTime: 2022-04-01T17:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-44-growth-originate-from-/2022/04/01/9575316.htm"
+  - title: "Warehouse Robotics Market Reach a Value of US$ 11.3 Billion by 2027 | CAGR 13.20%"
+    excerpt: "IMARC Group’s latest research report, titled “Warehouse Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast"
+    publishedDateTime: 2022-04-05T08:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/warehouse-robotics-market-reach-a-value-of-us-11-3-billion-by-2027-cagr-13-20"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 49
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Industrial Robotics Market is expected to reach the value of 7.4 billion dollars by the end of 2027"
+    excerpt: "As per our research analysis, The Industrial Robotics Market size was estimated to be worth 47.5 billion dollars in 2021, and it is predicted to be worth"
+    publishedDateTime: 2022-04-05T07:19:00Z
+    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-is-expected-to-reach-the-value-of-7-4-billion-dollars-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 40
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Facial Recognition Market is Reach a Valuation of US$ 22.5 Bn by 2032"
+    excerpt: "According to a recent study done by FMI, the  Facial Recognition Market  is expected to reach US$ 22.5 billion by 2032, up from US$ 5.2 billion in 2022,"
+    publishedDateTime: 2022-04-04T03:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-is-reach-a-valuation-of-us-22-5-bn-by-2032"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1778061/Edge_AI_Hardware_Market_Infographic.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Military Robots Market Size, Share, Growth, Global Trends, Key Players and Report 2021-2026"
+    excerpt: "According to IMARC Group’s latest report, titled “Military Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-04-04T05:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-size-share-growth-global-trends-key-players-and-report-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "qQ61zIuzrRlbG5vLxikIGPdb3zheABc+DlZ2tSQgKUGFIYzvhn/4fml0i2x+zMEJdYj85AffQfXegkPVVF9a4OnVuI4A9Re7hQAmSKZ1XuH9XKoSsHcQNGAV0YUA1ZVGdJwHK/cuKDDXZ7+lPKZqnzO4xYTt835doEZE75AoRjZK1acm+/3cwK+Z75r1Q0p2yzrbRR55hYngIniLhZ3NEUI+KwCgqXXVZFrXXXWeZxSCclMEzl8+xJwuboLNJLwaF/DiJDZke9bnxyqMvaMYkpw/ksPW8gBuCSn8GcF6PWTdIsSAWHBH688CC5HsETNNl0aP4roiV25baRYTOkiFGITBY+JAzNtz0NBB4Zx/W60=;ZzYSi50lkKiyxenRyHNYow=="

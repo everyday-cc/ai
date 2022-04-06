@@ -25,14 +25,14 @@ images:
 
 related:
   - title: "Forbes Names Torch.AI one of America's Best Startup Employers"
-    excerpt: "Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U."
-    publishedDateTime: 2022-04-05T10:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/forbes-names-torch-ai-one-of-america-s-best-startup-employers-1031332405"
+    excerpt: "LEAWOOD, Kan., April 5, 2022 /PRNewswire/ -- Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U.S ..."
+    publishedDateTime: 2022-04-05T10:53:00Z
+    webUrl: "https://www.klfy.com/business/press-releases/cision/20220405CG14274/forbes-names-torch-ai-one-of-americas-best-startup-employers/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: KLFY
+      domain: klfy.com
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1780450/Torch_AI.jpg"
         width: 400

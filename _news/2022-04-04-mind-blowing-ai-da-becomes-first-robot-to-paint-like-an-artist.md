@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-d
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

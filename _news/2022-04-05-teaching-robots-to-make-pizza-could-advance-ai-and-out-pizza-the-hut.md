@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Single-Neuron-Based AI Reacts to the Human Voice"
-    excerpt: "Stemming from research conducted by two universities, the engineers developed an artificial neuron that eventually responded to conversations in the lab."
-    publishedDateTime: 2022-04-01T05:05:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237552/electronic-design-single-neuronbased-ai-reacts-to-the-human-voice"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/03/Promo_Neuron_ED.62435f8061d88.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "06DEr45KTYTZuT66ktIBBY/Xdpkwuqvi0Dx0kJelyP5lC+oI9hu0NXcK6TpB+AEAGJkfsKwdKKpyufOdkMqzrJefYPOIgqA/1o41wuxn0Y3zwDPDEIfN0LOA588ltXDVdUbrjfTRkIhBDXZ/4zO67TATKNEeuT4DcGbOf4D/EjHjSk/wkNieOVqyp1G+4U/8dC68H09WSH2j9aKS9xCf/TfZf2ajAsrC2c1iRxbQ83enHmKiSzCm4GLnaoBDitjHaOSzvVZIex5mdCn1PXy/n96ELAmqnRkuBkg8+viDaIX0Sy6cetv533SWQW4VajUjjXfdAValYM7Z/CgzMM6X/8VrmEkjJI6A5qg2jZv3jvm9jiouesW1TezMP0F7RUzt2rBSpmv3tApT7Evd+pckbNeYoaqeTjqX151oIVs5lfX4SCJEojAj8J18Sj8bXg7lDTeIWeh90gA67gfwdAeGsPjz1UIL9fUI6Qx8AazXo36I26dP8OJcXERZ7feZX7oW8gzwG4aqkmas8f8cpUBiaw==;3pR+pOLGhx4DhPqkvMtYfQ=="
 ---

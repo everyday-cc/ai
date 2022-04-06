@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidde
 webUrl: "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:
