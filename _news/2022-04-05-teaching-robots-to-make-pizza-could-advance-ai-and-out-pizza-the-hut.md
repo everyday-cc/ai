@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI And The Secret To Employee Happiness"
-    excerpt: "People want a better work experience—and they’ll take their talents elsewhere if they don’t get it. AI can help you deliver."
-    publishedDateTime: 2022-04-01T18:14:00Z
-    webUrl: "https://www.forbes.com/sites/servicenow/2022/04/01/ai-and-the-secret-to-employee-happiness/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Bridging the Gap Between Neuroscience and Artificial Intelligence"
     excerpt: "Throughout history, neuroscience has had a significant impact on the development of artificial intelligence (AI), such as Perceptron - the first artificial neural network, and computer vision models."
     publishedDateTime: 2022-04-06T08:03:00Z

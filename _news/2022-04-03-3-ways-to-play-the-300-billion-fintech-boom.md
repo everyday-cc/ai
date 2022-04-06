@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Fintech Road to Carbon Neutrality"
-    excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
-    publishedDateTime: 2022-04-01T18:45:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-fintech-road-to-carbon-neutrality/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 4
   - title: "Israel takes global lead in fintech"
     excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
     publishedDateTime: 2022-04-04T15:11:00Z

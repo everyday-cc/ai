@@ -34,6 +34,15 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "The AI Revolution Accelerates - 63 Percent of Companies to Invest in AI Hiring Solutions in 2022"
+    excerpt: "PandoLogic, a wholly owned subsidiary of Veritone, Inc. (NASDAQ: VERI) and leading provider of artificial intelligence (AI) hiring solutions, today shared findings from a new report published by Aptitude Research."
+    publishedDateTime: 2022-04-06T11:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-revolution-accelerates-63-percent-companies-invest-ai-/2022/04/06/9577656.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "ZAYF8ZZvTZrtGUSZgwTwEIlHRiaL4riPy1dLxYDriwclUNODAhZxOu9xw3HiaRlRYv7u2L9OK/s7VRIBx7e9nkawGOVhgftIlnAnbihMjDvp4pXyWnZd5YhyNtIkRUzt6C0usMhS4Vy3ftWtxj4W8X7PlHxxElTykZv8y3exmJAQITvSykN40G54Zmetqvph99+uZNX5JdQ6Q+EWwokjeSJotvDcmqIC+OT2GRKW41vGB87h2Xh82HvYvwfqIKOLlIl4WzN9QxWCIHz8L20LYpD5zzCHXwqJCV+iJzVLTo9CU6eGBbv+JyovXjEZMbFYhZO4WZI8BjKoSroEBKPdkLu4GW1TxYSmhkOPP+iOkDI=;8WK5ZD1i86/8PqDoth35cw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-de
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 34
-  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
-    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
-    publishedDateTime: 2022-04-01T17:26:00Z
-    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 19
   - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
     excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
     publishedDateTime: 2022-04-04T11:50:00Z

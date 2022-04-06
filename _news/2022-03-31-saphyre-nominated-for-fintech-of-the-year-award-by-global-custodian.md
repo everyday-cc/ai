@@ -1,56 +1,26 @@
 ---
 category: news
-title: "Saphyre Nominated for \"Fintech of the Year\" Award by Global Custodian"
-excerpt: "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their"
-publishedDateTime: 2022-03-31T14:19:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian/article_9f8665e5-9224-53eb-9e9d-e17c1315e48a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian/article_9f8665e5-9224-53eb-9e9d-e17c1315e48a.html"
+title: "Saphyre Nominated for “Fintech of the Year” Award by Global Custodian"
+excerpt: "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual “Fintech of the Year” award. Global Custodian’s Leaders in Custody awards is holding their ceremony in-person at The Savoy in London on May 4th 2022,"
+publishedDateTime: 2022-03-31T15:05:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/53/0534993a-2991-5ae7-ba23-1246f5a037ae/6245bb7d61c86.image.jpg?crop=1920%2C1008%2C0%2C31&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "Saphyre Nominated for \"Fintech of the Year\" Award by Global Custodian"
-    excerpt: "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual \"Fintech of the Year\" award. Saphyre nomination for Fintech of the Year award."
-    publishedDateTime: 2022-04-01T07:19:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian-1031323021"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian-1031323021"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian-1031323021"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 24
-  - title: "Provenir Named 2022 Fintech Innovator of the Year Finalist by the Canadian Lenders Association"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced that it is a finalist in the “Fintech Innovator of the Year” category for the 2022 Leaders in Lending Awards by the Canadian Lenders Association (CLA)."
-    publishedDateTime: 2022-03-31T16:44:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-parsippany-0fd1764b36854eb29437338973f9aec1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "XVgTdprNuGUVfHXOP/1b6eMYCKRb2FxsSctLzr08psR/DOBJ5UglDNUfZbUsWRdExg6ZhpZoxvSHcqwBf+9VuxHUAcq6Cf4WzJnQpFQbwNFcBETI6Cb2o06QC3UPCljCWg+G/WcPhlpPR9bL3AxE/h4H5z+jlPfL7HVo/oFBByRgF87rcqavB9y8HtX5I0PghVzmcZveKg2EEJynlmCik8bmVLHhpTpOfo8+wrdnO/46fdJKCmORVK2CtZg/NBu+KjRqmweZjIfmIiTWNudgLDqV+6oMf0ilnqWbhWBB4E1ExHzFj0BDaxgVeX+cyuI1dIdIrovMB20hYU/BwshpLG4igT3GDiBWADz99zz4ZfxaWO7FACpXX4Xx+zeW8ZbLlQ230y4DNmmVLH1WPC3U2/Je+yUhC5wuIHOTVfStU2cx6tShiopc8Z116uAV1qYD4GGKlnpzTy6J44EfzmUeyoPgKsUymHmLGMYm9/7zOWj9eywyi0REL9/pL2QRfzo6PWpxjKR4N3ZQEm6pr1kN4w==;7CcCZdZSZzIBEhJgzADyUg=="
+secured: "hNIzjOroqPgaGHr0SLuNkCSb1/+OiZ0EZ0wTE+lbfs6MIHjhVQvvy4v+5jgLOvxpOeLXEiDjxq3g08u+nX1bIVtQSmvONHkRYsmw+zfzBgpUBjHYmt6b0JBj23F2MRUFeDTa37N/lYmOlMed1f7V4zFRdF+qHYYO4zEf5XKyDfH9zBZDlsBL6e2wSjb2ow4yGDZkCs4+u+6TQu2ERJkGPK4mzLns8tT6wtsgtX5PzMKRSFc6PYIaPDaMgS/gC74FTCBnIuL+ObuicurH/rZkEasxVwy/P4rDtLxpfGUtAH71ulYDr9RSh3DUyTzcAfGQeholHmg4BACwQVPKwT1RyW61rjOxgy0+VIBBAM+jNB4=;AUwZ30l8WBfMU8zHdVI3iA=="
 ---
 

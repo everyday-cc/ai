@@ -107,15 +107,6 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 34
-  - title: "AMD reminds us that its mobile GPU is more powerful than Intel's"
-    excerpt: "Intel had a pretty exciting week with the announcement of its Arc 3 laptop GPUs. During its presentation, Intel showed off several slides showing how the Arc 3 mobile graphics silicon fares against their own previous gen Iris X."
-    publishedDateTime: 2022-04-01T17:26:00Z
-    webUrl: "https://www.pcgamer.com/au/amd-reminds-us-that-its-mobile-gpu-is-more-powerful-than-intels/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 19
   - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
     excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
     publishedDateTime: 2022-04-04T11:50:00Z
@@ -126,6 +117,6 @@ related:
       domain: electronicsforu.com
     quality: 7
 
-secured: "RZDnX9UnVXEz8tOQ4IiquIUx0SR6347Qy4xWmK0EIxHxJ1YKmCU57tp9d/q0WYWPxHbEztDVUWseVPC4ChbRyGYc3Mu7syxjJw5/hgr3c6vQC468qaSMdzB+0NziD6Fb6c7g3sKmboZG1StUzCA0VkxA0n9DKg8mwFvZ/VSZLTCiFgJ8VejUIZRT6qsK2tfcC19oCLDeJOmxWqMoD4LIsG/8jAi9w+NywRdCTZhz3Y6LkBm2iMTs4J63jpZ7VJKSvys8Ct4XpIVxW898onc1UKF4Xegno63YQUGzEhIcS7xzXyEbprA4HubcrP89a9KQpEBsjbm5MoAIhbcStSK03l7B0A3fXyoaDbFss0ZN3Ms=;VJ7EUyZ8yMaMUVz8p4kSJg=="
+secured: "MhHvH1JSoPYDawJy9R5Ore9uW8uSGasCDa8V7FzydL1sC+XSRtnID44e1W2EOGjcWFI5/+9UnbUQgjK52cV585CuRcBdp7C55gdYIVZrAPaPoOz67B5gleLzxiDQ6BbofvDykCt2w8+X8RLOPDWjnd3No49ZiOQmGI7zwW7ZrBnM/VmuQAr83G7B60WvMoTGC/DkGWJ56HQaeBVEE+rkBDIDTIToXtHL0nF0DU/EF58FaJnDZ+a2HdcnJkxibhyEHjoplrDygE2DNUpMZglexBnzWdhBDN3Iw+barfrWpM7ghuQMIeuUe4kfTqvHhxZFNTTeyLf2Ei36ANZ3S1SIraNinsrpJevlF9ks64QNDm3ewv/NR2NiBe/hA1Xl0LJuhXYgPyixFQhQt1RX7MYauqMobaLZo/BRCcpbAyGUC4XNluZvPo3KpsLU6nq8QjTj6YBYtwCdGpZvcb5K9cJZ1dBKsQ1+sUeQWFfCw3xjP2yBN2B34MoVkyxK1dFgj127KgKDg6Ct4EAe4a5eAq4qBw==;tgMdCBmfXvu5S9Q615VEQg=="
 ---
 

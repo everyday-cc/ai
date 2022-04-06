@@ -25,17 +25,6 @@ images:
     height: 429
     isCached: true
 
-related:
-  - title: "Why AI In Insurance Is The Key To Survival"
-    excerpt: "Insurance is one of these areas, with providers increasingly leveraging AI to understand risk and reduce costs. Examples within the consumer field include \"black box\" telematics platforms that allow providers to gather all the relevant data points necessary to understand someone's driving style and adjust their premiums."
-    publishedDateTime: 2022-04-01T17:20:00Z
-    webUrl: "https://insurancenewsnet.com/innarticle/why-ai-in-insurance-is-the-key-to-survival"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 17
-
 secured: "Ak71DDOAuGwt9vD72hZw1vim+GTWbBmlzrYRPODtLr+/f7cRb2bQ72PDJa/yzpVGIwNaMMYV6gAf88SLgW9GazPjvSd4nTuH+9dEHG3XD/tz+vPeDrtXQADxBZWAE8Hehi0DYpbTLuN5RBSVerhh7ibFj6FDfopQNCVsKvBFyNhOy/jiDOJA2GzNRk7JMKVP0Woru8bYeY1yCYrkaaSGUn4mAzrmA0q7GQZmwVNPP4c4YM+5A2vMi3jnU6Kr8FdxFEKRJ9q06q4uS9fiKjN91MpvYKyFr2iR0mF3H4RZOTuLaL630V5D7+x+ryDhSGLkW7UH9yTGoEpQ+xsZkob1xdSnCh+IZQ7rsnm7wMJUAFY=;goE2dAYe2zG2e+ppw6AMPA=="
 ---
 

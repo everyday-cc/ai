@@ -1,15 +1,15 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "\" Clemson's partnership with SAS has greatly benefitted our faculty, staff and students, and I am grateful for this gift that will continue to provide them with the best software"
-publishedDateTime: 2022-03-24T15:43:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/article_c7c53b51-318c-5866-9bfb-f95f6d207a5c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research/article_c7c53b51-318c-5866-9bfb-f95f6d207a5c.html"
+excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
+publishedDateTime: 2022-03-24T15:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -18,11 +18,11 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/c0/0c0a025b-2822-5127-b4aa-b4b41f9acebe/623c92a466690.image.jpg?crop=1765%2C927%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1772498/Watt_Center_Clemson.jpg"
+    width: 400
+    height: 266
     isCached: true
 
-secured: "j5p7jk9MIJITNxr07tnMeY72EYqCR2/AmV2ZKaJJ2NG0heQGikCXMURxcfP6YUyHgYNYn5lgWodphj8NFgeeTKbYXs97AhztCfQXAfYZpfeH4iNHqiO30ZiWh+2H+meUXJf63Dr556VJjRQguTdn+6jGjAGNpae4r5D0KSSDXRPmkJa0Qbzxjog6uP6b6+8lVDHm+83QAEJS+PJDT+QplZcZInLQVCNfwgzeIumMPDx2y61LwJ2JQ6iGAwWgpuaVqIOjGLZoLLJfUlDh0uZGCOxoT8RCKEmw+Oqc9/l5XeZQExRgvPMOEQzELkeLYXiIDVI8x7G2fH1Ldhd9zWyAbZrHqKJjntJ+azNTm6TKBjbxFxwGeuX4HhmvS9fCw0PKb+zuBQ8YwcVHiX0Nd2/kCglyMO5ZBfUslVwq0u4EfVvsEenYFR/VNyNFjizwIFflNzMlz/pIyIcyqLj7zBEYBNdKNzPNrhxRPlaTWhWAgf0wkwBdKS37Rn65IQSej/08kS4SW8JeWQNMmyu3kAvxXg==;gN0rn2L7kQGSki6ovntdxA=="
+secured: "VsJhbwtNDOWhst4FgR3zgbdou8qqSivh5w7JnrDM1tvbRHxdBoBLKEtfhjdeuqjpaqVJCeqK/Zj8U/ArSM8qACza9VMc4yZOcvawekkrPOAZQ73aX6MSepGml+7Si8MJf/c0kPwYbnX2HfGwZ4bKK2NdvX+sfaIrEo+tnkcqH4iEH1rwveWjs355ZOLGjE61fbaSsy4YjTdvO8Q1AWSK76htzxdOk0wTNJE+X2KkkQ17qpHnQVK1y8t7TlTc+83H6roijvMDXWBeuzwZZbUziofqfEWywR5LTti07BxRt6YhlgT7fSyYTfdnr61DDm1DG94S5Sowgid4HccsTW/GYyUJxqHeN0mIo+MCU/3+Oz4=;LrmwbRU85nYJAAXnpS0ETA=="
 ---
 

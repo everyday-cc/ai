@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
+      "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
+      "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26480381",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381",
+      "publishedDateTime": "2022-04-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-why-its-time-to-address-the-ethical-dilemmas-of-artificial-intelligence.md",
       "title": "Why it's time to address the ethical dilemmas of artificial intelligence",
       "excerpt": "AI's perceived risk isn't only from autonomous weapon systems that countries like the US, China, Israel and Turkey produce that can track and target humans and assets without human intervention. It's equally about the deployment of AI and such technologies for mass surveillance,",
@@ -209,6 +252,40 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-health-advocate-improves-understanding-of-member-health-needs-using-artificial-intelligence.md",
+      "title": "Health Advocate Improves Understanding of Member Health Needs Using Artificial Intelligence",
+      "excerpt": "New Patent-Pending Methodology Provides Members' Real-Time Risk Stratification, Leading to Earlier Interventions and Improved Outcomes PLYMOUTH MEETING, Pa., March 31, 2022 /PRNewswire/ -- Health Advocate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220331ph08755/health-advocate-improves-understanding-of-member-health-needs-using-artificial-intelligence",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220331ph08755/health-advocate-improves-understanding-of-member-health-needs-using-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1250,93 +1327,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-artificial-intelligence-is-everywhere-now-this-report-shows-how-we-got-here.md",
-      "title": "Artificial intelligence is everywhere now. This report shows how we got here.",
-      "excerpt": "Stanford's new report reveals what artificial intelligence is capable of these days, and how widely used it is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/",
-      "originalUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/03/16/brain-g4b6db4261_1920-1024x576.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/stanford-artificial-intelligence-index-report/?amp",
-      "publishedDateTime": "2022-03-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.md",
-      "title": "Deploying artificial intelligence to prevent delayed and missed care",
-      "excerpt": "Medical imaging is one of the most widely used diagnostic tools in health care with providers ordering dozens of imaging studies for their patients every day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220316/Deploying-artificial-intelligence-to-prevent-delayed-and-missed-care.aspx",
-      "publishedDateTime": "2022-03-16T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

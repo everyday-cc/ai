@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can Peloton’s new AI transform my midlife body?"
+    excerpt: "“AI won’t pick that up. Instruction is paramount for strength training and it’s not a one-size-fits-all strategy.” There is also the not insubstantial expense to consider. The Guide costs £275 on top of your regular Peloton subscription. If you ..."
+    publishedDateTime: 2022-04-06T11:42:00Z
+    webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-pelotons-new-ai-transform-midlife-body/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 37
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2022/04/06/TELEMMGLPICT000291903126_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNpPHkRvugymKLtqq96r_VP8.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Peloton AI tool to exercise at home"
     excerpt: "US start-up Peloton proved popular during the pandemic, providing its bespoke exercise bikes linked to live and recorded classes as a home based fitness solution. It was important exercise for many stuck at home in lockdown."
     publishedDateTime: 2022-04-06T03:31:00Z

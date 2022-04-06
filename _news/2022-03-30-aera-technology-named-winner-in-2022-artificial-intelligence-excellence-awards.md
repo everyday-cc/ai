@@ -1,33 +1,25 @@
 ---
 category: news
 title: "Aera Technology Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "Aera Technology, the Decision Intelligence company, today announced it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Aera was recognized for its innovative Aera Decision Cloud™ platform,"
-publishedDateTime: 2022-03-30T13:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm"
+excerpt: "Innovator in Decision Intelligence Recognized for its Ability to Digitize, Augment, and Automate Business Decisions"
+publishedDateTime: 2022-03-30T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aera-technology-named-winner-in-2022-artificial-intelligence-excellence-awards/article_6f43d65e-8205-59d4-addf-ee8d95a2bc76.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aera-technology-named-winner-in-2022-artificial-intelligence-excellence-awards/article_6f43d65e-8205-59d4-addf-ee8d95a2bc76.html"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-related:
-  - title: "Marchex® Wins AI Excellence Award for Marchex Conversation Intelligence, Powered by Marchex Conversation DNA™"
-    excerpt: "Marchex (NASDAQ: MCHX), the award-winning AI-powered conversation intelligence company that helps businesses turn strategic insights into the actions that drive their most valued sales outcomes, today announced that The Business Intelligence Group has named Marchex a winner in its second annual Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2022-03-31T13:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-marchexreg-wins-ai-excellence-award-marchex-conversation-intelligence-/2022/03/31/9574497.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c69f539-7e3c-574b-90e1-61f1566ec9a9/60491c3f81ecf.image.jpg?crop=1789%2C939%2C209%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "SOpgfOdTSe+ij/94OEVl/TTpZyg0huOgAOz884Xm8UlY/CUXP0wzJ6icvuFTUKQ3RKggyHHa+v/f57a+pLc88waCua7fWoG0zHbghpcQMWk7Cr2DsjlkyT0vuC2VH/UjlBbtI8vKOn7SshGta3HGPWW5Y9AMZSBpDs/gX+/d+GoOszaVEQBr31q4RsYBl3NZ9OqwcId85JM1mhltYi/1QNypR5xFY9+RAXvISGxBNOd9fpjZ0YvZ+50HJ2KIyKtKR4aJ6qIlD8QiRmf1BeFQPzz3XVHJcMqxlsSJ74Jc5g60TYtDDQf/xfEEo6rx1iPVq7RAusdxcLNUFaspICp9S3qz4bono0E91WkScyLGl2Q+vZo3Rabf9vvDhrzvck5krwehIsTm1CDC+pP2Ot4xHHy1h5qe0oafzstY6PJQybwu29rQJYWXg546lGAwS7oN+V1aSGVeB1i6XXRmMYHwgHsFRoKcBThnvk2scKKAbRTdA6Uoz4hbnzhMRYnXU9bk8OczmT5g54DvajsCfErfLg==;qv7334kcvyl5P4V75XEyZQ=="
+secured: "uqERvb+eazilPs2K6JGj6qkFhXGIlRQUrM6nbfbbSJCDEh0JxMD5Cyj49OiKcuHqbXPjTF4iNvy4tupR5jDsap/ayAb167GEQP7sqzsADgU745TimeQIi1Y7EzVgNutXJ2yf5Tytu8cY0wyhjyvwd4/WW6hddmDnl91j6BhSg20EWr/Vi/uNpvshX++CS+uiEKQVrHAF+PsCrwCPW8la87oagwkyrnw+I07PAvPVCvQJfcmehaYGnNkpPn57fPSZUK0SCdPct66ljTI6lb+fO81WzV/omX7arx/lgRtQjI8b73U3HezMVeBvREVBJrv4CNbTYVb83wuqrbux2Tdh0Gi3EkhZ+5Xkq7xXHaz8GXY=;T2ALiRYdY4uvqiuH5m2lOQ=="
 ---
 

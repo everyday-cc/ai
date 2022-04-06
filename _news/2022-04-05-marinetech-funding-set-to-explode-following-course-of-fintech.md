@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Fintech Road to Carbon Neutrality"
-    excerpt: "Fintech companies have huge implications in the world on the global economy, and on global warming. Currently, the world is facing one of its greatest challenges yet, to prevent rising global temperatures,"
-    publishedDateTime: 2022-04-01T18:45:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-fintech-road-to-carbon-neutrality/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 4
   - title: "3 Ways To Play The $300 Billion Fintech Boom"
     excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
     publishedDateTime: 2022-04-02T19:00:00Z

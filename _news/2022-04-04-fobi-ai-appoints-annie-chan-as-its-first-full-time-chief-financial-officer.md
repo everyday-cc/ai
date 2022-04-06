@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Fobi AI Announces Changes to the Board of Directors"
+    excerpt: "Fobi AI Inc. (FOBI: TSXV FOBIF: OTCQB) (the “Company” or “FOBI”), a leader in providing real-time data analytics throug"
+    publishedDateTime: 2022-04-06T11:00:00Z
+    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8517231/fobi-ai-announces-changes-to-the-board-of-directors/"
+    type: article
+    provider:
+      name: WKRN
+      domain: wkrn.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Ryan-Johansen-Hat-Trick.png?w=2000&#038;ssl=1"
+        width: 529
+        height: 381
+        isCached: true
   - title: "Fobi AI names industry veteran as CFO"
     excerpt: "Fobi AI (FOBIF) appointed Annie Chan as its CFO, effective Apr.1, 2022; it is the first time the company has invested in a full-time CFO since it was founded.Ms"
     publishedDateTime: 2022-04-04T10:19:00Z

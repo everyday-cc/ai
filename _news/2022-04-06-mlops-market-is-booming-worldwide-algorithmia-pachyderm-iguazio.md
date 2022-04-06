@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-06T08:24:00Z
 originalUrl: "https://www.digitaljournal.com/pr/mlops-market-is-booming-worldwide-algorithmia-pachyderm-iguazio"
 webUrl: "https://www.digitaljournal.com/pr/mlops-market-is-booming-worldwide-algorithmia-pachyderm-iguazio"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/56c7c203b2ef4d0bcec8810d927277de2636fe92-600x337.jpg"

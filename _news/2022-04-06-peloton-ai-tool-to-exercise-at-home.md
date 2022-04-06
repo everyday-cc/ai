@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theaustralian.com.au/life/gadgets/peloton-guides-movemen
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Can Peloton’s new AI transform my midlife body?"
+    excerpt: "“AI won’t pick that up. Instruction is paramount for strength training and it’s not a one-size-fits-all strategy.” There is also the not insubstantial expense to consider. The Guide costs £275 on top of your regular Peloton subscription. If you ..."
+    publishedDateTime: 2022-04-06T11:42:00Z
+    webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-pelotons-new-ai-transform-midlife-body/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 37
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2022/04/06/TELEMMGLPICT000291903126_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNpPHkRvugymKLtqq96r_VP8.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "The Peloton Guide Brings AI To Fitness"
     excerpt: "Home fitness giant Peloton have released the Guide, the closest thing you can get to your very own AI personal trainer.  The Guide builds upon Peloton’s current subscription offerings by adding functionality and interactivity to their large database of workouts."
     publishedDateTime: 2022-04-05T23:34:00Z
