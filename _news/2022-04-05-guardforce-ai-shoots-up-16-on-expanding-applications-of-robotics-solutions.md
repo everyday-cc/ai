@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions"
 type: article
 quality: 87
-heat: 107
+heat: 137
 published: true
 
 provider:
@@ -55,6 +55,33 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Guardforce AI stock slides on pricing $10M share offering"
+    excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"
+    publishedDateTime: 2022-04-06T13:46:00Z
+    webUrl: "https://seekingalpha.com/news/3821156-guardforce-ai-stock-slides-on-pricing-10m-share-offering"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+  - title: "Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated"
+    publishedDateTime: 2022-04-06T13:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-pricing-of-10-0-million-registered-direct-offering"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+  - title: "Guardforce AI Co., Limited: Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced that"
+    publishedDateTime: 2022-04-06T13:59:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55712146-guardforce-ai-co-limited-guardforce-ai-announces-pricing-of-dollar-10-0-million-registered-direct-offering-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "TFgJ9xO6snVB95OEkgXix4oXTtwqPl1rNE35sekIgl0vC9puM1H4KDdM0MPQqW2aWmowHyJbecO1eQDMOhXu+yNPVZ/8bZMR0Geh9Dmyv4fVQHDS4qRMXdQe4NX+D6/D1J+uHTTJV8VCn1H2lUffk+p/CyNMi4Ev/jMzW3VjQ6RzCkM5rUilTfRyksfuqCDa5oQsd6nBVvKhxxVQEPK/ejNFmqxE5YsMXKm2RcohFNFaDyV/y61rjeQkpb9AlWJqPZm3g/t37QQKerlWJuigRHVrXw22TbZIbeKMmiLd7m8eil0I8zd3j95yaOv2nGtO3zgKQ5UemSOLvdEUshqeg0FwNb1Ilt4fUFBXENTJMWI=;g0iI0NNCJxbuQHScWZdd/Q=="
 ---

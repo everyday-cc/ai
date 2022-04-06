@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/customer-experience-is-everything-get-it
 webUrl: "https://www.cuinsight.com/customer-experience-is-everything-get-it-right-for-your-lending-process-using-ai/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Upstart Holdings stock gets new Buy rating at Loop on AI lending strength"
+    excerpt: "Loop Capital is picking up coverage of Upstart Holdings (UPST), which provides AI-driven technology to banks and other institutions for making lending decisions, with a"
+    publishedDateTime: 2022-04-06T15:20:00Z
+    webUrl: "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 58
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213474705/image_1213474705.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "District Says No Looking Back After Using Artificial Intelligence Routing System"
     excerpt: "Butch Sargent was contacted by the Jasper Police, telling him about a disturbance in a certain area. “I don’t want anyone to think Jasper’s unsafe but we had a police problem one afternoon and a whole community was shut down,"
     publishedDateTime: 2022-04-04T23:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3820242-fobi-ai-names-industry-veter
 webUrl: "https://seekingalpha.com/news/3820242-fobi-ai-names-industry-veteran-as-cfo"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,18 +26,13 @@ images:
 related:
   - title: "Fobi AI Announces Changes to the Board of Directors"
     excerpt: "Fobi AI Inc. (FOBI: TSXV FOBIF: OTCQB) (the “Company” or “FOBI”), a leader in providing real-time data analytics throug"
-    publishedDateTime: 2022-04-06T11:00:00Z
-    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8517231/fobi-ai-announces-changes-to-the-board-of-directors/"
+    publishedDateTime: 2022-04-06T10:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fobi-ai-announces-changes-the-board-directors-/2022/04/06/9577612.htm"
     type: article
     provider:
-      name: WKRN
-      domain: wkrn.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Ryan-Johansen-Hat-Trick.png?w=2000&#038;ssl=1"
-        width: 529
-        height: 381
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Fobi AI appoints Annie Chan as its first full-time chief financial officer"
     excerpt: "\"As CFO, Annie is another key strategic addition to our team, and I look forward to working together and seeing her impact on our"
     publishedDateTime: 2022-04-04T10:55:00Z

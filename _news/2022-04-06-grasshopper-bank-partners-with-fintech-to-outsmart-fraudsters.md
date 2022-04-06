@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/fiverity-grasshopper-bank-look
 webUrl: "https://www.americanbanker.com/news/fiverity-grasshopper-bank-look-to-outsmart-con-artists"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "SmartHop raises $30M to boost trucking fintech products"
+    excerpt: "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year."
+    publishedDateTime: 2022-04-06T13:30:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "3 Ways To Play The $300 Billion Fintech Boom"
     excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
     publishedDateTime: 2022-04-02T19:00:00Z
@@ -33,15 +42,6 @@ related:
     provider:
       name: Crude Oil Prices
       domain: oilprice.com
-    quality: 4
-  - title: "Israel takes global lead in fintech"
-    excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
-    publishedDateTime: 2022-04-04T15:11:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
     quality: 4
   - title: "MarineTech funding set to explode, following course of FinTech"
     excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."

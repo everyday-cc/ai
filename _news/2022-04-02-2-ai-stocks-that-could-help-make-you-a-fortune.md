@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-02T11:48:00Z
 originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
 webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Nasdaq

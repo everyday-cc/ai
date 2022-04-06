@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/"
 type: article
 quality: 121
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 960
         height: 675
         isCached: true
+  - title: "Brainchip and Sifive Collaborate To Bring AI and ML to Edge Computing"
+    excerpt: "BrainChip and SiFive have announced that they have combined their respective technologies to offer chip designers optimized Artificial"
+    publishedDateTime: 2022-04-06T11:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/brainchip-and-sifive-collaborate-to-bring-ai-and-ml-to-edge-computing/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 51
 
 secured: "jTYuRoK5Ozn3YqE9XpS1c5MFLL9lYJZvcdBGqQn4eaPv8hrtXZmYfGZD2KKm3aal9F41XlKc2R9w5XE8UT8yMbhusRGXpUzLEAliOzJK5NZfnb2LT8KPv1A7Jk1/6CoctuuTSj2zbrZKfVFp+LLrhzXRvVxOd3oVBlHrAr0+v+1saA/7vcTdmmqNF3ke07yLJAl6YJVVNGTUzdVoJjVT1jeY5lfmv3XkZiomM7RIYjOVfaKcISqOEVMCPcicL7Vt7F52SBcwFt5oM0m4XyRol+dEoPIpZhbs0WrC6tVHh7TTM0kU3XvS0Ji7QOEeeqIp1Oa0NLdS8mNhwaqtOJGsS5J2326bK4xt4hNSFf7pVYZtTDRBJXkc8qjGVr6QVT1JQyIsOJpnYRtAN4TDmM+YZX/79XEmnPKjB5CY9Q8BwOqEEsNIpRoZ4YufshUuZhRAnVLm7nvDx1QR/5koq09hbqCtnnQQe3/wL06i/MyynCLi4W4BLpr374fuIGZg1CVw4kVc8AwVQ5bgJ56D3PsBUg==;6H3nvg4N6CcIligcmJzT3g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T13:51:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=642937"
 webUrl: "https://us.acrofan.com/detail.php?number=642937"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: 아크로팬
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Healthcare Artificial Intelligence Market Size Projection, Sales Statistics, Research Insights and Business Overview by 2027"
+    excerpt: "The global healthcare artificial intelligence market is likely to thrive at a healthy CAGR of over 51.9% during the review timeframe. The report further predicts that the market will attain USD 12.22 Billion by the end of 2027, says Market Research Future ..."
+    publishedDateTime: 2022-04-04T11:30:00Z
+    webUrl: "https://www.medgadget.com/2022/04/healthcare-artificial-intelligence-market-size-projection-sales-statistics-research-insights-and-business-overview-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 26
 
 secured: "Fay6PusNdnRxbTJiBJJs5x1vS6q2WnO+qik/UfJ0kYCd3eHbJUVE+EcWMD0lbtIRuzl5udjaOwdsOnBkO/Et1FC88flAha1GjOTJIU8tP2/7XMnRPNrA/nsHH80tmLHlakUt5SmErz4FCdeuN2lvfTTOv4ielOpz2JLQQi8GXeNlueTijJz8IVBG/YlgmcD9nojnCKXZ0ttTIBtTf3sRt1ZOmpULXVo4C8quqGLvRsBJFl0Hc/Sm4Z+N3fI2SjWPSgOrboto8Nkfic7mAeIEOuBCqZDedmVw0BXFxFvi0C7k+a2BOg8hL7cSt+vGE9dlYPgtNRYrrpJyDXNG68yYrSSWqR6gWLuwqHjeP62ZEa0=;pg5GiCsXbOEu4l3nxpt1sQ=="
 ---

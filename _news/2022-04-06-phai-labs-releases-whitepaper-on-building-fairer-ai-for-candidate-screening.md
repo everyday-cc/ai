@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/phai-labs-releases-whitepaper-on-building-fairer-ai-for-candidate-screening/article_1c7420a7-ddaf-58d8-9cf6-827d56dc5db0.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/phai-labs-releases-whitepaper-on-building-fairer-ai-for-candidate-screening/article_1c7420a7-ddaf-58d8-9cf6-827d56dc5db0.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: WFMZ-TV

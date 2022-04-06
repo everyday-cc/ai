@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Upstart Holdings stock gets new Buy rating at Loop on AI lending strength"
+    excerpt: "Loop Capital is picking up coverage of Upstart Holdings (UPST), which provides AI-driven technology to banks and other institutions for making lending decisions, with a"
+    publishedDateTime: 2022-04-06T15:20:00Z
+    webUrl: "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 58
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213474705/image_1213474705.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Customer experience is everything. Get it right for your lending process using AI"
     excerpt: "One thing every industry will agree on today is – customer experience is everything. With companies like Netflix and Amazon driving customer expectations higher using Artificial intelligence (AI) and machine learning,"
     publishedDateTime: 2022-04-04T17:30:00Z

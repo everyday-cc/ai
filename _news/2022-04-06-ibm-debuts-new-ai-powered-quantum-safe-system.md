@@ -27,15 +27,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "IBM introduces real-time AI for transaction processing"
-    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
-    publishedDateTime: 2022-04-05T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "ndG/vfEPje+5AyFPf3j3OMEjFHr/iONRYGZABRnAnuRpwFDjf3CyH8ffLIhoab6zL0MaMrX40ThT/f9AGyd0gMkpEHJEdTy/1F1f4yvAgcdhWFwlhm5b/sCswadH5PN5rf7pIX25e0z4eX3j2Ucvs9AABd///pHCNcnnFoZgTS5v78aUIMtE8Eu97du64r9qjBpxiPtEiRgsOD6lw7YZh+GVR4a/FkzwEMrMqaqaQwGNfsWs6009Y8y/YeMvulciZWwTCvcc2rsgT1ZzubIBwr+xDwjav3wt/i0HgNDV3f6+7L8xyNSXpiKuBqmlX3xHaeUwWf+Huvpjonkce0hOFFU5lF5T4uY63FzguBPeH6cyV1oUpmafWjO3xKAGPhZV1uw6pycnLxIop/JmqoUAjgLM+3NUO6N255Eyfg0bs33c8yJ4/G4HP4jlpeW5gWtMAMsfTVKNu7Th05phxqCn5acjSDpIt/vzOt1fYTfCVRO0vtyZy55/vPohcC9ZS0gGfo5NW3Pbl9J/iFU/0jvyDA==;2mq/JRR5GiEVmF+ZrrYDJg=="
 ---

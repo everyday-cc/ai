@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-opt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-04/05/AT_16587image_story.jpg"
         width: 600
         height: 414
+        isCached: true
+  - title: "More employers investing in AI hiring solutions"
+    excerpt: "As companies continue to struggle to find the talent they need, employers are increasing their overall investment in talent acquisition technology and artificial intelligence (AI). Overall, 63 per cent are planning to invest in AI hiring solutions this year — compared to 42 per cent in 2020,"
+    publishedDateTime: 2022-04-06T14:25:00Z
+    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/more-employers-investing-in-ai-hiring-solutions/365556"
+    type: article
+    provider:
+      name: Canadian HR Reporter
+      domain: hrreporter.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0299_637359552172117926.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Responsible AI Initiative launches at Carnegie Mellon University following panel discussion including government, industry leaders"
     excerpt: "As artificial intelligence systems become more prevalent throughout all ways of life, Carnegie Mellon University wants to be at the forefront of ensuring that such AI technologies are being deployed in an ethical manner, limiting the potential for types of ..."

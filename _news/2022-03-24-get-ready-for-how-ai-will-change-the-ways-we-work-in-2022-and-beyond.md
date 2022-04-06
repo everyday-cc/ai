@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s.hdnux.com/photos/01/24/63/45/22231402/3/rawImage.jpg"

@@ -2,6 +2,376 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
+      "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
+      "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "publishedDateTime": "2022-04-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
+      "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
+      "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg",
+          "width": 1279,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "publishedDateTime": "2022-04-05T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks-fintech-companies.md",
+      "title": "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies",
+      "excerpt": "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
+      "originalUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/03/mergernacquisition2-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
+      "publishedDateTime": "2022-04-05T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before.md",
+      "title": "Vivienne Ming: A Force In AI Unlike Any We Have Seen Before",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to have a conversation with Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624bc25428c6d4f79594b9e5/0x0.jpg?format=jpg&crop=3000,1688,x0,y72,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
+      "publishedDateTime": "2022-04-04T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-spot-goes-to-pompeii-why-a-robot-dog-is-patrolling-ancient-ruins.md",
+      "title": "Spot goes to Pompeii: Why a robot dog is patrolling ancient ruins",
+      "excerpt": "Boston Dynamics’ robot dog Spot has been tasked with a new job - patrolling the ancient ruins of Pompeii. The robot will be used to inspect the site for safety issues and record structural changes over time to better manage the historic ruins.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
+      "originalUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1fd4b68/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa0%2F73%2F3a41043447099cb7763ce64776e8%2Fspot-2-1200x900.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
+      "publishedDateTime": "2022-04-04T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-startup-clickup-launches-whiteboard-to-develop-wfh-analytics.md",
+      "title": "Startup ClickUp launches Whiteboard to develop WFH analytics",
+      "excerpt": "ClickUp developers are working on an AI/ML-based feature that would be valuable for time management and work-from-anywhere collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1286802156-e1643643094506.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/",
+      "publishedDateTime": "2022-04-04T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
+      "title": "Tech roundup: Pizza chains put robots on the phone",
+      "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
+      "sourceUrl": null,
+      "webUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "originalUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-04/background/tech-roundup_1626880425.gif?VersionId=a3EXtwkfUCrhVtJBTO6Ib_6aflhWEk8w",
+          "width": 903,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "cdnAmpWebUrl": "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "publishedDateTime": "2022-04-04T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Restaurant Business",
+        "domain": "restaurantbusinessonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-humanoid-robot-paints-portraits-with-ai.md",
+      "title": "Humanoid robot paints portraits with AI",
+      "excerpt": "Da. This robot is dubbed the “world’s first ultra-realistic humanoid robot artist” by its creators. Ai-Da was built in 2019, and the robot now features an upgraded r",
+      "sourceUrl": null,
+      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
+      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/04/robot-painter.jpg?w=1280",
+          "width": 1280,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
+      "publishedDateTime": "2022-04-04T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wane",
+        "domain": "wane.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space.md",
       "title": "This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space",
       "excerpt": "The post This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space appeared first on The AI Blog.\n",
@@ -348,7 +718,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -574,49 +944,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-04-microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin.md",
-      "title": "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn",
-      "excerpt": "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559",
-      "originalUrl": "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg",
-          "width": 559,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
       "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
       "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
@@ -814,7 +1141,7 @@
       "originalUrl": "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -836,332 +1163,6 @@
         "name": "الشرق الأوسط",
         "domain": "aawsat.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-beats-top-players-at-bridge-in-two-day-tournament.md",
-      "title": "AI beats top players at Bridge in two-day tournament",
-      "excerpt": "In brief AI algorithms crushed eight world champions playing the card game Bridge, marking another milestone in machine learning systems becoming better than humans at specific games. Top Bridge players were invited to play against NooK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/03/in_brief_ai/",
-      "originalUrl": "https://www.theregister.com/2022/04/03/in_brief_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2017/07/18/poker.jpg",
-          "width": 648,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/03/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/03/in_brief_ai/",
-      "publishedDateTime": "2022-04-03T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts.md",
-      "title": "Dubai Police officer named among 30 leading Arab artificial intelligence experts",
-      "excerpt": "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region’s top 30 leading Arab experts in AI by MIT Technology Review Arabia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts",
-      "originalUrl": "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=d604be45-d523-53db-8a93-891b33e1a701&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84016&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1",
-      "publishedDateTime": "2022-04-03T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx.md",
-      "title": "HC Wainwright Reiterates Buy Rating for Renalytix AI (NASDAQ:RNLX)",
-      "excerpt": "Renalytix AI (NASDAQ:RNLX – Get Rating)‘s stock had its “buy” rating restated by equities researchers at HC Wainwright in a research note issued on Friday, TipRanks reports. They presently have a $30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX",
-          "width": 600,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/",
-      "publishedDateTime": "2022-04-03T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings.md",
-      "title": "AI Weekly: As demand for chatbots increases, so does the need for better offerings",
-      "excerpt": "Chatbots are blossoming in functionality as well as in other essential areas such as business sales, analytics, customer service and overall end-user satisfaction. But the architectures of these offerings can sometimes be limiting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
-      "publishedDateTime": "2022-04-02T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
-      "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
-      "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "originalUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11703938_40222-maher-amazon-deepracer-students-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "publishedDateTime": "2022-04-02T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai.md",
-      "title": "Centaur rising: How a decades-old paradigm is changing the way that top institutions look at AI",
-      "excerpt": "The theory that advanced AI will eliminate the need for humans seems false. Enter the centaur: a mutualistic bond between users and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-758285645.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
-      "publishedDateTime": "2022-04-02T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-the-importance-of-data-audits-when-building-ai.md",
-      "title": "The importance of data audits when building AI",
-      "excerpt": "As Zillow recently found out the hard way, if you don't conduct proper data audits, you can run into costly data mismatch problems",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1152951178.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
-      "publishedDateTime": "2022-04-02T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

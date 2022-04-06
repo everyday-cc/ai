@@ -20,20 +20,6 @@ topics:
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw."
-    publishedDateTime: 2022-04-01T21:00:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220401PH11126/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 35
-    images:
-      - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/04/0401.jpg?w=2000&#038;ssl=1"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw."
     publishedDateTime: 2022-04-03T11:24:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2022/04/01/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit"
     type: article

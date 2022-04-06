@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Finals Underway for OpenCV Spatial AI Contest Sponsored by Intel and Microsoft Azure"
-    excerpt: "LEGO® and OAK-D-LITE Edge AI hardware this spring. The top 3 teams will be chosen in April and featured at Microsoft Build 2022. PALO ALTO, Calif., April 1,"
-    publishedDateTime: 2022-04-01T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26435461/finals-underway-for-opencv-spatial-ai-contest-sponsored-by-intel-and-microsoft-azure"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26435461"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26435461"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 82
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
     excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
     publishedDateTime: 2022-04-06T02:37:00Z
@@ -103,6 +87,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Inside the AI2 Incubator: Microsoft co-founder’s unfinished legacy fuels quest for new AI startups"
+    excerpt: "Google Cloud and Microsoft Azure, as well as workstations at the incubator. But without the bankrolls of big tech companies or larger institutions, they need to be creative and scrappy in their approach, starting with pre-trained AI models in creating ..."
+    publishedDateTime: 2022-04-06T14:21:00Z
+    webUrl: "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/"
+    ampWebUrl: "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 70
   - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
     excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
     publishedDateTime: 2022-04-04T18:01:00Z

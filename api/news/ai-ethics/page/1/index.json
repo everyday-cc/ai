@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-06-artificial-intelligence-is-already-upending-geopolitics.md",
+      "title": "Artificial intelligence is already upending geopolitics",
+      "excerpt": "Angela Kane Contributor Share on Twitter Angela Kane is vice president, International Institute for Peace, Vienna and the former under-secretary-general of the United Nations. Wendell Wallach Contributor Share on Twitter Wendell Wallach is a Carnegie-Uehiro Fellow at Carnegie Council for Ethics in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/AI_geopolitics.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
+      "publishedDateTime": "2022-04-06T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
       "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
       "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
@@ -1338,58 +1390,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-ethics-of-artificial-intelligence-on-the-top-another-take-on-the-draft-artificial-intelligence-regulation-significant-changes.md",
-      "title": "Ethics of Artificial Intelligence on the top. Another take on the draft artificial intelligence regulation. Significant changes",
-      "excerpt": "A few days ago the internal committee of the European Parliament has published its new proposal for amendments to the Artificial Intelligence Act. The proposal is still pending as it has to be approved for further steps,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
-      "originalUrl": "https://www.linkedin.com/pulse/ethics-artificial-intelligence-top-another-take-draft-regulation-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHlQdpetP4wXg/article-cover_image-shrink_720_1280/0/1646908244234?e=1653523200&v=beta&t=xCzuaapOWJ_g4qnrkqOYqOEWBKXHch1VVx32Mp4GalE",
-          "width": 1083,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T02:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

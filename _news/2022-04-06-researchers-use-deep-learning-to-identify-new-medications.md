@@ -41,20 +41,6 @@ related:
         width: 1379
         height: 775
         isCached: true
-  - title: "Self-Driving Cars Are Predicting Driving Personalities"
-    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
-    publishedDateTime: 2022-04-02T00:00:00Z
-    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
-        width: 800
-        height: 426
-        isCached: true
   - title: "Researchers at the GIST identify new medicines using interpretable deep learning predictions"
     excerpt: "In the drug discovery process, drugs are tested for their ability to bind or interact with target molecules in the body. While deep learning models have made this process quite efficient, their predictions often lack interpretability."
     publishedDateTime: 2022-04-05T13:05:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T12:50:00Z
 originalUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
 webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Insurance

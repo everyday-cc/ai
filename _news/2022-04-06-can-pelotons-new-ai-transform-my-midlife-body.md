@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T11:41:00Z
 originalUrl: "https://www.telegraph.co.uk/health-fitness/body/can-pelotons-new-ai-transform-midlife-body/?fr=operanews"
 webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-pelotons-new-ai-transform-midlife-body/?fr=operanews"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -13,6 +16,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Peloton AI tool to exercise at home"
+    excerpt: "US start-up Peloton proved popular during the pandemic, providing its bespoke exercise bikes linked to live and recorded classes as a home based fitness solution. It was important exercise for many stuck at home in lockdown."
+    publishedDateTime: 2022-04-06T03:31:00Z
+    webUrl: "https://www.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+    ampWebUrl: "https://amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 37
+  - title: "The Peloton Guide Brings AI To Fitness"
+    excerpt: "Home fitness giant Peloton have released the Guide, the closest thing you can get to your very own AI personal trainer.  The Guide builds upon Peloton’s current subscription offerings by adding functionality and interactivity to their large database of workouts."
+    publishedDateTime: 2022-04-05T23:34:00Z
+    webUrl: "https://www.channelnews.com.au/the-peloton-guide-brings-ai-to-fitness/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 37
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/04/Peloton-Guide.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "GW0GLBgWftDzSFBCLvduPCt9IlJF8AGu7LS1BeP0boSLuEJOPIlO+PsAcswDPi9yUiun24KJG6DhPfye0IJ2N8RGdI6a5pcSUDIVD4tYKGLjHe+1MVh1THgJr1wUDyjQ3UuLApnvRf5N31gdHxqQDXLgjL9L/iCUH7hzaeOEp7ZcgzXbJ0nMnJDAbMI+UMx2Iiud+3o/PrhgqAP9qaEN+S+/CPP4bVgEfsiA+xLrpyXMZsankPoAFP/nB6uXlZ7tQyDMiyvYLaYMDVs2TFHxPltEl/HTUM+Nvt8elPOkLp71gnBoAhjM43R8yfWaPGpCvWwCleFIl9Uq7649ABHaS8lCmfAuZY280T4D/K9oJR24Z5jzGHn0iSeSkn15nj8CgLfyC0AU/fj8ru3VOT3fsN5auPXSASD8XxlOMTvqLUlQJ08Y0/cRSGyXFLAwnFnxnCwggUvEmIXgRmTCo1YUI5NL5BSxmP9PfWt8LXsvheJc8dyoiscJEzfX7QaXSONnNZKujhRBPEgQgxSTFN5JCw==;oFsJscYQ1GE3DY0uFF4kuQ=="
 ---

@@ -1,84 +1,22 @@
 ---
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
-excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently —"
-publishedDateTime: 2022-04-01T21:16:00Z
-originalUrl: "https://www.tribstar.com/region/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/article_df4d9a00-06e1-5d81-a143-e7441ab7a73e.html"
-webUrl: "https://www.tribstar.com/region/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/article_df4d9a00-06e1-5d81-a143-e7441ab7a73e.html"
+excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ..."
+publishedDateTime: 2022-04-01T22:10:00Z
+originalUrl: "https://www.fresnobee.com/news/business/article260029910.html"
+webUrl: "https://www.fresnobee.com/news/business/article260029910.html"
+ampWebUrl: "https://amp.fresnobee.com/news/business/article260029910.html"
+cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article260029910.html"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Tribune Star
-  domain: tribstar.com
+  name: The Fresno Bee
+  domain: fresnobee.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/custom/image/604bc538-2923-11ea-8d06-df03a003c410.jpg?resize=600%2C472"
-    width: 600
-    height: 472
-    isCached: true
-
-related:
-  - title: "Face Scanner Clearview AI Aims to Branch out Beyond Police"
-    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently — the Ukrainian military is now p"
-    publishedDateTime: 2022-04-03T10:03:00Z
-    webUrl: "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police"
-    ampWebUrl: "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 57
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/04/03/1000.jpeg?itok=BR_JAnpB"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world's people for use by police, national governments and – most recently – the Ukrainian military is now planning to offer its technology to banks and other private businesses."
-    publishedDateTime: 2022-04-04T07:45:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/04/face-scanner-clearview-ai-aims-to-branch-out-beyond-police"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/04/1538710.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Clearview AI plans to offer face biometrics services to banks, other private businesses"
-    excerpt: "Clearview AI is planning a new business venture verifying people’s identity using facial recognition targeting banks and other private businesses."
-    publishedDateTime: 2022-04-04T22:40:00Z
-    webUrl: "https://www.biometricupdate.com/202204/clearview-ai-plans-to-offer-face-biometrics-services-to-banks-other-private-businesses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
-        width: 2048
-        height: 1298
-        isCached: true
-  - title: "Clearview AI to sell technology to private sector as well as government agencies"
-    excerpt: "Facial recognition technology company Clearview AI is looking to sell services to banks and other private sector companies in addition to working with government agencies. Clearview co-founder and CEO Hoan Ton-That told the Associated Press Friday of the company’s further growth plans,"
-    publishedDateTime: 2022-04-04T18:49:00Z
-    webUrl: "https://www.fedscoop.com/clearview-ai-to-sell-technology-to-private-sector-as-well-as-government-agencies/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 12
-
-secured: "Puj6USTdefIJ7O5qHVFhGw3bnHLbNXR9AlpjNvhUa/97p++0FJ5Mryk4A+opdQMZjI0qEzvcethGAnXurJIwQNYHibrSiFcgz04EAahlxwGkIe5OaYhYzf1CoFcBnFOpnSQ3MGYLMRk3X0/09JpeWGB28QR3TxPZnpuuevIbAj5/gg0NpDH/KFBmupasU8Kr8ZFL6iqjFoqXkMguJ7JhlbaTpMNWRFxJ5p/TqSR5GWCtSIoNd46jdb/TZdfKhsVQZ2NGwhzkLRIJnnsyp0pbWXdLWdylfDx+e17o7+Gqy4rl77kmrjXEuAHM8xYblK/jVsqID+udioNKM9cpYiq8nNo5OFfwchlNRIP4tFJ8h9I=;vlVMzTIWv7XRrs8Eyigfdg=="
+secured: "ARCwtZ5CoANfEpBGuOuRaM4C5r399qYgyyQIulY327WSZiYCiSc0DQs59iqzk9B7D9hSYNtlkdNCX2luu3Gr1PCahk6IPGsAYWFMUYG/6N3BVL420XQP5F+mz4pw9TdJHZVPgqsq9kPGatpAPQIwI/C2XIrCP+ewmIGSSPHKNwf1y3hsNmn8gxk9axp+BY8iMjI61qXykQmUsZpDzLDU8Zg4BzsP5cK8cty5yoZ6Hw/+NCoJy3pZ/rUK9emzfpqT5eMuN4o1ZknAgewt/h9wpy0fysLftw1Ea5657zqxzeovpsoEVC4i56tD3WTufDvPHbqQiyzznN1eCGDn7iev2lIZtj7zp7o4z9bhSnrYnMS4DhXfPKSh41MZlHPvkFGbGKbbf1JomvFvfTK90FHkTutMvZYgHvyZOS/8pPe//U+2O/leAUAJ5AlpaccGbgnWRZ8s2hKOH9tuHmtZYHkTEhOTOpBJwcwrObymdXRkADAHSz7hjwIT/18lu1R2k5I3+vKAkZGXWc1+jwJlPRr/ZQ==;UGmDlxl6U85++GmWsmaNHA=="
 ---
 

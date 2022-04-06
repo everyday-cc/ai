@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T12:12:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20220406005289/harvard-medtech-appoints-peter-predmore-as-vice-president-market-partnerships"
 webUrl: "https://www.morningstar.com/news/business-wire/20220406005289/harvard-medtech-appoints-peter-predmore-as-vice-president-market-partnerships"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Morningstar%2c Inc.

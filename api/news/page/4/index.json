@@ -2,6 +2,379 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-01-ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia.md",
+      "title": "AI could be used to generate more biographies of women on Wikipedia",
+      "excerpt": "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed. The idea is to be able to submit, in an automatic fashion, a multitude of profiles so that they can then be validated and completed by the editors of",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "publishedDateTime": "2022-03-31T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
+      "title": "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler",
+      "excerpt": "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It’s a necessary and important step of any ML workflow in order to generate meaningful insights",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/24/ML-8541-image001-1232x630.png",
+          "width": 1232,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:07:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-boston-dynamics-spot-is-being-tested-as-a-robotic-security-guard-protecting-the-remains-of-pompeii.md",
+      "title": "Boston Dynamics' Spot Is Being Tested as a Robotic Security Guard Protecting the Remains of Pompeii",
+      "excerpt": "Serving as a robotic security guard might feel like a dystopic use of the amazing technology powering Boston Dynamics’ Spot, but the robotic dog is actually well suited to protecting a historically significant area like Pompeii,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
+      "originalUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f6a978c9f31ae8972ef8b84f56b07f90.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
+      "publishedDateTime": "2022-03-31T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-times-technology-went-straight-up-evil.md",
+      "title": "Times Technology Went Straight Up Evil",
+      "excerpt": "Technology is meant to make our lives easier, and most of the time it does. But there have been instances when technology doesn't go as planned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "originalUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/times-technology-went-straight-up-evil/l-intro-1648759618.jpg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-better-learning-through-complex-dough-manipulation.md",
+      "title": "Better learning through ‘complex dough-manipulation’",
+      "excerpt": "A disproportionate number of the early industrial food-making robots we’ve seen have been focused on pizza. I’ve long posited that this is for two key reasons. First: People like pizza. We eat a lot of it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "originalUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/MIT-DiffSkill-01-PRESS_0.jpeg?w=900",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "publishedDateTime": "2022-03-31T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-new-citi-field-entrance-option-facial-recognition.md",
+      "title": "New Citi Field entrance option: Facial recognition",
+      "excerpt": "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "originalUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-ace.newsday.com/ace/c:YmI3NTJjODctOGI2ZS00:MTlhZTE0/preview/1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "publishedDateTime": "2022-03-31T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-why-and-where-should-healthcare-companies-increase-ai-investments.md",
+      "title": "Why and Where Should Healthcare Companies Increase AI Investments",
+      "excerpt": "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "originalUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "publishedDateTime": "2022-03-31T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
+      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
+      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "publishedDateTime": "2022-03-31T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
       "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
       "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
@@ -796,394 +1169,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-estee-lauder.md",
-      "title": "AI Visionary, Leader And 21st Century Maverick Sol Rashidi Of Estée Lauder",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Sol Rashidi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
-      "publishedDateTime": "2022-03-30T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
-      "title": "NSW government AI projects face ethics assessment under new assurance framework",
-      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design.md",
-      "title": "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design",
-      "excerpt": "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-cea-leta-finds-inspiration-for-edge-ai-in-insects-nervous-systems.md",
-      "title": "CEA-Leta finds inspiration for edge AI in insect’s nervous systems",
-      "excerpt": "Scientist Elisa Vianello has received a grant to use novel nanoscale memory technologies that mimic the biological mechanisms from insects to create silicon-based, energy-efficient nanoscale systems for edge AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/crickets.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/amp/",
-      "publishedDateTime": "2022-03-30T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-spirit-uses-facial-recognition-at-atlanta-ga-airport.md",
-      "title": "Spirit Uses Facial Recognition at Atlanta, Ga., Airport",
-      "excerpt": "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
-      "originalUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
-      "publishedDateTime": "2022-03-30T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-513-billion-by-2026.md",
-      "title": "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026",
-      "excerpt": "[246 Pages Report] AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR of 26.3% from 2021 to 2026. The report “AI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/56c7c203b2ef4d0bcec8810d927277de2636fe92-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies.md",
-      "title": "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies",
-      "excerpt": "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all",
-          "width": 800,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/",
-      "publishedDateTime": "2022-03-30T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance.md",
-      "title": "How Nvidia is harnessing AI to improve predictive maintenance",
-      "excerpt": "Nvidia is pursuing a tech-stack-based approach starting with new silicon to help manufacturers make sense of the massive amount of data and help with predictive maintenance, which is core to many organizations' Maintenance,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/",
-      "publishedDateTime": "2022-03-30T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

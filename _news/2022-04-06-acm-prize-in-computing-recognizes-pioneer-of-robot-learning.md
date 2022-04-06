@@ -1,25 +1,30 @@
 ---
 category: news
-title: "ACM Prize in Computing Recognizes Pioneer of Robot Learning"
-excerpt: "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022"
-publishedDateTime: 2022-04-06T12:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476"
-webUrl: "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476"
+title: "ACM Prize in Computing recognizes pioneer of robot learning"
+excerpt: "ACM, the Association for Computing Machinery, today named Pieter Abbeel the recipient of the 2021 ACM Prize in Computing for contributions to robot learning, including learning from demonstrations and deep reinforcement learning for robotic control."
+publishedDateTime: 2022-04-06T14:31:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/948924"
+webUrl: "https://www.eurekalert.org/news-releases/948924"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
   - AI in Robotics
 
-secured: "UKTJDaYVSEBXRS7xvTpc3vGMmF/tA+pwaItQSvoa4HS2+bNn8WajDQciMSJ+Q5PS4ImKhzbgWvTGffla9B7eG8tKc4ukDaUCszi55eLFgy+E6FFAC+SuIVWDLjwAs7K6x3zmvZm5M81XU6IugP37O/UCdLzSdOEgfk0pb9gW8yaV+I0ZjAhpZupFd2mI23P6zFG+GZiMfOTR8YXbyX4cPMLkYgSNXYdRU4U3AEzdNE/Ww3e7eIRHq1d3W7JGfDKFEYwyJtFNV/xRlM0Uku/2WffwQc+ns9ioRQLqTrUAq+kDiSWo4lxzlHHqf4Tvgkbqy0oC7+maMeLCusUcgJaWfQkCckZfr48uNfEEj6+InK4kCdloNZd6BeBOAiJ8t0BfPIyAjzvJx6J/zo6LVmJbvOuiRCVWoVNwyVTgney8WrWe+FNkTp1TwCFAKMNsKPJPmO/mq9XA3rQ161lj9HQykmBzvjBOKxcTIXqu5yto3jFXIyWGEhAomm4diyh+NtO0QdwWGARvkSdqP9BNOyJUkg==;IejeSdep1whvlsyfSmp5dg=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eb8a09a1-59ce-4c35-8b9f-95b9dc6917eb/Rendition/low-res/Content/Public"
+    width: 467
+    height: 700
+    isCached: true
+
+secured: "R8pLY9yt4WVTKRB3pOxk2Bv/xB+zsfGjMZptc8KfUWF0403pWW1IuhgMfVwvJ/zG18Af2hcuzvz9QgW3HDZYOdoZgaRTGTL3HqyubfZw4J1fbjeEgAKCwVzNbQYDCQwSXunI69EaNGTtCkoJrqGuT9W7uebA+efrntCH8GG2KxW0ove4TxVawQT+dPMtsPKvwnj+1vnPZ09WvxRMhDA0M6LTuXR5Mn56ZExbSi/+6ry/Iaq/iq7BzGwnN1xu3SR+aJrGftld8xaEvlnk0a00QF3ZRYKnQgPnhQN+3iA6ty5swHC249Fg4QZ5rRMDeukxOEG+Zz+NeXC4XrMp5Q7yofI7ka9ufCEposnbl908IWg=;u13/PhqMXxvjC+cY/iR8pw=="
 ---
 

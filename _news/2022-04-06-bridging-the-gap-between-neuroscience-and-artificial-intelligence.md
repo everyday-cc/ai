@@ -35,6 +35,15 @@ related:
         width: 708
         height: 419
         isCached: true
+  - title: "Does this artificial intelligence think like a human?"
+    excerpt: "MIT researchers developed a method that helps a user to better understand a machine-learning model’s reasoning, and how that reasoning compares to that of a human. The technique enables a user to rapidly identify and analyze patterns in a model’s behavior."
+    publishedDateTime: 2022-04-06T14:38:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948925"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "zt+sNPKkh6uCAlNZQ9d4HzJmqQII83UHaAEJXM4Hs5rfi4Y4Vn88mXyNoDr+0VEIuNt+xcgivMTGC67OTLMjYakuyvJGubKMBwRrFdZ5Hs3c5NzNR4iVUOXetbF7su47Kac+kW8mxaKZJ/yxgjIHS/pZSjPR49p9sgGpGQwtvS9xxS3S1X1iQ/YJ86oBcdM8MXfF9M3cC5OGgSo5OxNqpSfGLlqsCaFIjjnCfQHsdYMFkKxVizgJ59PmTGhE1X05+tv/vp2EvnNylr+5sUGYGZq46sc4Crth8ZHto0meEgPowPp/aT7fWgFZbaAj27D6zL9PLslPGWHKccAx6wx4xi7CL21CauOGH8jnLLHNJs0=;6Mr6QqHoYZozAwBLWQDmAA=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 960
         height: 675
         isCached: true
+  - title: "Brainchip and Sifive Collaborate To Bring AI and ML to Edge Computing"
+    excerpt: "BrainChip and SiFive have announced that they have combined their respective technologies to offer chip designers optimized Artificial"
+    publishedDateTime: 2022-04-06T11:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/brainchip-and-sifive-collaborate-to-bring-ai-and-ml-to-edge-computing/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 51
 
 secured: "Dug/DT8TCsXKh38stdhl75X+aRnckijapcFLT6s5DiZxf0l5JFTg0NW8zc1i3i3d0sn+PO7aBCkAFKbfjfuDF3FTBhSoFTEleK1AbCGA9k+HCXbCvZ7lhYhMPsrK3U8nFf8+dglm/dsMoOdJE5qFw3tKWY+PqIKR8N03uNwbPD2jMOs2tOeFhSM0Q77sbMmd1nuvkcENUtyxW32dZTBE+JCrAgAFKC0B7wJWTgjfEBUfVoug4hSGi4UAYZDdA++0zGkcCNcuibZUB13T33xgQhv3cyZBcpZA1GOmwR5GSjEjqp/w+iWWfh+TCBHnM7/PyYF8f7+OnPxFhuU1PJL/1u25BmczAlBFDhl26jAWqSWnfcHLyaHEBcHcl4vJVALQJ0DMQXx89P+JatnkfYBZAJy+0NNJh3CGNE5BG27qZWNF1By5MZSc8ltMGbdc+ikrrHeGo4evanqwYNuEKMCWUitm/uPQBRwOVLaJt2moInbQ+/kwwQp1oqqba5kj4UBcVZEs6gI4ukqYIOnfLvI6yw==;C5r/dScEGl00pShHHYxLzA=="
 ---

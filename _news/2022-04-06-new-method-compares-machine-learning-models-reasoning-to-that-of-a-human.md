@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T13:21:00Z
 originalUrl: "https://techxplore.com/news/2022-04-method-machine-learning-human.html"
 webUrl: "https://techxplore.com/news/2022-04-method-machine-learning-human.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: techxplore

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Moorhead High Speech Team earns national recognition"
-    excerpt: "The National Speech and Debate Association recently recognized the Moorhead High Speech Team for excellence. The Moorhead High Speech Team received the Leading Chapter Award and the Team Sweepstakes Award,"
-    publishedDateTime: 2022-04-01T20:11:00Z
-    webUrl: "https://www.inforum.com/news/moorhead/moorhead-high-speech-team-earns-national-recognition"
-    type: article
-    provider:
-      name: INFORUM
-      domain: inforum.com
-    quality: 24
-    images:
-      - url: "https://cdn.forumcomm.com/dims4/default/1a9079d/2147483647/strip/true/crop/860x418+0+33/resize/1440x700!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Finforum%2Fbinary%2FForum%20Brief_binary_875276.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "NDSU engineering students earn national recognition"
     excerpt: "The school says competition teams like GeoWall are an important part of the NDSU experience, giving students a chance to develop skills that stand out to employers."
     publishedDateTime: 2022-04-04T14:40:00Z

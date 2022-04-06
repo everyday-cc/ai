@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T13:02:00Z
 originalUrl: "https://venturebeat.com/2022/04/06/how-lightbeams-new-data-privacy-automation-platform-uses-ai-to-identify-personal-data/"
 webUrl: "https://venturebeat.com/2022/04/06/how-lightbeams-new-data-privacy-automation-platform-uses-ai-to-identify-personal-data/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: VentureBeat

@@ -54,6 +54,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Brainchip and Sifive Collaborate To Bring AI and ML to Edge Computing"
+    excerpt: "BrainChip and SiFive have announced that they have combined their respective technologies to offer chip designers optimized Artificial"
+    publishedDateTime: 2022-04-06T11:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/brainchip-and-sifive-collaborate-to-bring-ai-and-ml-to-edge-computing/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 51
 
 secured: "+QmSq/fKYz2sWwvAIZGksr0Aoh5T0dBInrKYLPCYeutT3pqVeGrPoZ4pZoebmU/C1ZAoafKxVhH/oAs4ADRQI695QK4AiEw0BmQYq1XX6zjGDAHbCtmJuENzoAcmiiOjXTEGnRtp07NH6U3qTkXcVRYPbUMvaLJpUg3Z2wrI93gvqkq1p9zP3v2DwnN/t9wyXiRkQo5/alSptLqFsEgB5voGR4CYHIzqH0Ewf61iJrBLQcqAfAQ8AxuhPV6P85x73hM8wUscu5+ML6bndASzxNJTxeJCSiOXiFdxrhZjUQvMIcF0qK7PAFojbJaepjw47cywxzCOjBRM+Lb02RnmZUVl+sqBP3+vS0BAEjn3VWkjxcWfKxtFFdWSZ0pyaM7r5lxJ9IwKPs5sRHWKQeoaLkx3GgYBedW4PvN6qcgHbn0IXfZFBi51HWzcgjC4aUxOJbC02RJobMR6VfGbktvgOy1GDIyMy+EG5/cXBzvDa8PBQoT3ZXIYUqAFzxJC55ublew9UUh7Yh46shbJr+kYIw==;QMTVxVUNt5br/EnIH2wTdA=="
 ---

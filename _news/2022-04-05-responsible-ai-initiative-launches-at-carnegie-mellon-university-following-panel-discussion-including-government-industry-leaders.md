@@ -48,6 +48,20 @@ related:
         width: 600
         height: 414
         isCached: true
+  - title: "More employers investing in AI hiring solutions"
+    excerpt: "As companies continue to struggle to find the talent they need, employers are increasing their overall investment in talent acquisition technology and artificial intelligence (AI). Overall, 63 per cent are planning to invest in AI hiring solutions this year — compared to 42 per cent in 2020,"
+    publishedDateTime: 2022-04-06T14:25:00Z
+    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/more-employers-investing-in-ai-hiring-solutions/365556"
+    type: article
+    provider:
+      name: Canadian HR Reporter
+      domain: hrreporter.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0299_637359552172117926.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "zRS7qoRJzi3dYzDq4a1oMTnyruQr8lPYE9LGC7H9BBOTyFxY8uqMJjffe4rvfQFTWSOUZOyipn0RaUmUoQ5HK6mUt6CAhKyuFX5Tn7uYvhr1M0oHzMzTNtSta/U1wtJqYLrOV+TZ2/uwqwHbXukPIOtxIPI2szvmJkDSUDPYPuuRfTJ8sgbM0kJ2sx13j0eN16s65jlGv5XAqeBBG1bbQn4ZcFFrOGuCK6IQPdeJkr8ZVKiYQKU3BYTA+tdu3/RAxUDEjPD+lrrUzSnpl1inyJLJrNyp98j4wQfQiRNfbofxnnCzVw73fQJAFhLB6Bgg1a/BD4mgDcXfA9DlQrLwCNtScEBF6mNeWN8TRGIp2G6EU3J5cidF4O/CikzYBojzH6VtRbU4Dp1CHLS7yYYpjYhdeBaUkS8rxvEI/aCBH6hlalThuTeuBhSv6OgfpJWKj1UzKZquO0+6kZyRCXXy8yhQBb3noSYIYU0YYdwX1t/l7zMgwUxCT5LERkaxVIWUaysNbr0N35UWJUh6ouZ70g==;KpMVu+VI90wzsb9TSuKDXQ=="
 ---

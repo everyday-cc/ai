@@ -29,6 +29,24 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 37
+  - title: "The Barriers and Benefits of Contract AI Report Now Available"
+    excerpt: "Malbek commissioned benchmark study from the World Commerce & Contracting to deliver deep industry insights about AI's evolving role in Contract Lifecycle Management"
+    publishedDateTime: 2022-04-06T13:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-barriers-and-benefits-of-contract-ai-report-now-available/article_7cf97b7b-7bda-5bd1-9582-8034cca44539.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
+  - title: "Artificial Intelligence in the Education Sector Market Emerging Growth, Recent Trends, Outlook, Insights and Forecasts Report 2027"
+    excerpt: "The Global Artificial Intelligence in the Education Sector Market Report offers extensive knowledge and information about the Artificial Intelligence in"
+    publishedDateTime: 2022-04-06T13:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-the-education-sector-market-emerging-growth-recent-trends-outlook-insights-and-forecasts-report-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 4
 
 secured: "2OXpORVDIjYD+1d/joKG4AgJmLR55mpLpQFRi25aK7dOBUM7kOVk1uv90xzI7jmFyvpuRcbxq60QNwxQzwKLRB+LrauncIWYT1t6B5UPyuvON17rXagc2aM2SVHJTIPjt7ztfPsUIaSe1hIt79zVicCqKi44ZSV5HrxYqnuRnmbyjRkomNFvOvlmAVH6G8cv2sk15rqZKEd87EqQEqJCQVJVSjyYCvHRvQXxq4qJg37r77vOFD5csjPWV4jxACY45v9pQC6v6Y8e0odgA2iHrQMelO5hO89UPeDtGMhVg9eYvhgA8Z/P4+nz1etyUvngN/9n2rVPCpD9nBrhQU0/K54+LUsP23y4lts+Uv+INbc=;11TbO4Z9TpkRqqJR36mIhg=="
 ---

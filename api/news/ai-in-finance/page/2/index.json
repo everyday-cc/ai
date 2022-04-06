@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
+      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
+      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
+          "width": 3024,
+          "height": 3236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-standard-bank-employs-aws-technology-to-boost-shariah-banking-services.md",
       "title": "Standard Bank employs AWS technology to boost Shari’ah Banking services",
       "excerpt": "Standard Bank, which offers a range of Shari’ah-compliant banking solutions, is introducing a dedicated call centre line for its Shari’ah banking customers, which is powered by cutting-edge technology and promises to provide customers with personalised and efficient customer service experiences.",
@@ -1297,58 +1340,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-truecircle-scoops-55m-to-use-ai-to-drive-recycling-efficiency.md",
-      "title": "TrueCircle scoops $5.5M to use AI to drive recycling efficiency",
-      "excerpt": "UK-based TrueCircle, a computer vision startup founded just last year, has nabbed $5.5 million in pre-seed funding in a bid to bring data-driven AI to the recycling industry to improve recovery rates and quality — with the overarching goal of transforming the economics of waste reuse to",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
-      "originalUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/TrueCircle-Fundraise-Feb-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
-      "publishedDateTime": "2022-03-02T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

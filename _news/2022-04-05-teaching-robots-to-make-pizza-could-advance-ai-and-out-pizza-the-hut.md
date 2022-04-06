@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
 type: article
 quality: 74
-heat: 84
+heat: 95
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     provider:
       name: Frontiers
       domain: frontiersin.org
+    quality: 19
+  - title: "Does this artificial intelligence think like a human?"
+    excerpt: "MIT researchers developed a method that helps a user to better understand a machine-learning model’s reasoning, and how that reasoning compares to that of a human. The technique enables a user to rapidly identify and analyze patterns in a model’s behavior."
+    publishedDateTime: 2022-04-06T14:38:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948925"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 19
 
 secured: "06DEr45KTYTZuT66ktIBBY/Xdpkwuqvi0Dx0kJelyP5lC+oI9hu0NXcK6TpB+AEAGJkfsKwdKKpyufOdkMqzrJefYPOIgqA/1o41wuxn0Y3zwDPDEIfN0LOA588ltXDVdUbrjfTRkIhBDXZ/4zO67TATKNEeuT4DcGbOf4D/EjHjSk/wkNieOVqyp1G+4U/8dC68H09WSH2j9aKS9xCf/TfZf2ajAsrC2c1iRxbQ83enHmKiSzCm4GLnaoBDitjHaOSzvVZIex5mdCn1PXy/n96ELAmqnRkuBkg8+viDaIX0Sy6cetv533SWQW4VajUjjXfdAValYM7Z/CgzMM6X/8VrmEkjJI6A5qg2jZv3jvm9jiouesW1TezMP0F7RUzt2rBSpmv3tApT7Evd+pckbNeYoaqeTjqX151oIVs5lfX4SCJEojAj8J18Sj8bXg7lDTeIWeh90gA67gfwdAeGsPjz1UIL9fUI6Qx8AazXo36I26dP8OJcXERZ7feZX7oW8gzwG4aqkmas8f8cpUBiaw==;3pR+pOLGhx4DhPqkvMtYfQ=="

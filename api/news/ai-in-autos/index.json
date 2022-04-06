@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-06-aurora-werner-enterprises-testing-self-driving-tractor-trailers.md",
+      "title": "Aurora, Werner Enterprises testing self-driving tractor-trailers",
+      "excerpt": "Aurora Innovation announced on Wednesday that it had initiated a self-driving truck pilot test with Werner Enterprises. According to the report, Aurora's self-driving system, named Aurora Driver,",
+      "sourceUrl": null,
+      "webUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
+      "originalUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttweb.net/News/images/251217.jpg?preset=w800_q70",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.teletrader.com/amp/news/details/57638486",
+      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486",
+      "publishedDateTime": "2022-04-06T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "teletrader.com",
+        "domain": "teletrader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
       "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
       "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -669,26 +712,17 @@
       "title": "Artificial intelligence beats eight world champions at bridge",
       "excerpt": "Victory marks milestone for AI as bridge requires more human skills than other strategy games",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "originalUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
+      "webUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews",
+      "originalUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=620&quality=85&auto=format&fit=max&s=96b559e5e97e6b4eb1d1e90d48241536",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-28T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -713,8 +747,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -1336,49 +1369,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence.md",
-      "title": "Perseverance Rover To Self On Drive On Mars Soon, Thanks To Artificial Intelligence",
-      "excerpt": "Perseverance is collecting rock cores for return to Earth which makes for the first part of the Mars Sample Return campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
-      "originalUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/n/nasas-pers/nasas-perseverance-has-a-little-family-portrait-easter-egg_enwu.620.png",
-          "width": 620,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/29044/perseverance-rover-to-self-on-drive-on-mars-soon-thanks-to-artificial-intelligence?amp=1",
-      "publishedDateTime": "2022-03-22T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

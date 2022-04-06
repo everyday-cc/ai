@@ -7,7 +7,7 @@ originalUrl: "https://www.grandforksherald.com/prairie-business/ndsu-engineering
 webUrl: "https://www.grandforksherald.com/prairie-business/ndsu-engineering-students-earn-national-recognition"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Moorhead High Speech Team earns national recognition"
-    excerpt: "The National Speech and Debate Association recently recognized the Moorhead High Speech Team for excellence. The Moorhead High Speech Team received the Leading Chapter Award and the Team Sweepstakes Award,"
-    publishedDateTime: 2022-04-01T20:11:00Z
-    webUrl: "https://www.inforum.com/news/moorhead/moorhead-high-speech-team-earns-national-recognition"
-    type: article
-    provider:
-      name: INFORUM
-      domain: inforum.com
-    quality: 24
-    images:
-      - url: "https://cdn.forumcomm.com/dims4/default/1a9079d/2147483647/strip/true/crop/860x418+0+33/resize/1440x700!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Finforum%2Fbinary%2FForum%20Brief_binary_875276.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Greater West Dayton Incubator earns national recognition"
     excerpt: "The Greater West Dayton Incubator received national recognition from AACSB International ... recognizes the incubator’s understanding of the challenges entrepreneurs face, and its push to identify, educate and assist entrepreneurs in underserved ..."
     publishedDateTime: 2022-04-05T13:08:00Z

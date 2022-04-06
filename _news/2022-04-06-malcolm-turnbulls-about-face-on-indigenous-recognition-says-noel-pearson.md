@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-06T09:43:00Z
 originalUrl: "https://www.theaustralian.com.au/nation/politics/malcolm-turnbulls-aboutface-on-indigenous-recognition-says-noel-pearson/news-story/f6b51d8c48542c7114883a6bf90abcbb"
 webUrl: "https://www.theaustralian.com.au/nation/politics/malcolm-turnbulls-aboutface-on-indigenous-recognition-says-noel-pearson/news-story/f6b51d8c48542c7114883a6bf90abcbb"
 type: article
-quality: 1
-heat: 1
+quality: 3
+heat: 3
 published: false
 
 provider:

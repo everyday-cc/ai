@@ -1,15 +1,19 @@
 ---
 category: news
 title: "SAS and Clemson University deploy AI and machine learning software for education and research"
-excerpt: "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,"
-publishedDateTime: 2022-03-24T15:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm"
+excerpt: "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson"
+publishedDateTime: 2022-03-24T15:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -23,6 +27,6 @@ images:
     height: 266
     isCached: true
 
-secured: "VsJhbwtNDOWhst4FgR3zgbdou8qqSivh5w7JnrDM1tvbRHxdBoBLKEtfhjdeuqjpaqVJCeqK/Zj8U/ArSM8qACza9VMc4yZOcvawekkrPOAZQ73aX6MSepGml+7Si8MJf/c0kPwYbnX2HfGwZ4bKK2NdvX+sfaIrEo+tnkcqH4iEH1rwveWjs355ZOLGjE61fbaSsy4YjTdvO8Q1AWSK76htzxdOk0wTNJE+X2KkkQ17qpHnQVK1y8t7TlTc+83H6roijvMDXWBeuzwZZbUziofqfEWywR5LTti07BxRt6YhlgT7fSyYTfdnr61DDm1DG94S5Sowgid4HccsTW/GYyUJxqHeN0mIo+MCU/3+Oz4=;LrmwbRU85nYJAAXnpS0ETA=="
+secured: "qMOqq67jaBD+dC0sqZUKvwrgnZIdSIbQpG0UOVJvTv1ItQml9sNWXyI+SSPZDp1XAtCnRQNKceWhAKb32lLGPEI+WUb+VoMC4Ov9ZNiWWbmPEp8t5T2kSSXYQMvovSyujiEEKwkIKZz9SLk8zfNUCNmlTemGKxdyYQJsS0h7OAQI/qhQvrtBW9WNwXI99sS7ZVaknG2xnaDi74o186wGVWK5EHuuDaNn3/cUO/9Mn2yaowZqL330jsemMm1HFn/LNAW14L2g7VaJmGVOLW30rzG6SxITD9HqZN0JxG4SFcYiH6CeLu1scOcSMVTNiSpGJt4zziIdXDfD6hxVaEZLCapjv+zz8oVWi2oy7nelGcw=;k6GYNQrG6UAu2vdQbjsBtQ=="
 ---
 

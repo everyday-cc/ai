@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T13:10:00Z
 originalUrl: "https://www.healio.com/news/ophthalmology/20220406/deep-learning-algorithm-shows-accuracy-in-detecting-glaucoma-on-fundus-photographs"
 webUrl: "https://www.healio.com/news/ophthalmology/20220406/deep-learning-algorithm-shows-accuracy-in-detecting-glaucoma-on-fundus-photographs"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Healio

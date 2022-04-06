@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-06-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength.md",
+      "title": "Upstart Holdings stock gets new Buy rating at Loop on AI lending strength",
+      "excerpt": "Loop Capital is picking up coverage of Upstart Holdings (UPST), which provides AI-driven technology to banks and other institutions for making lending decisions, with a",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
+      "originalUrl": "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213474705/image_1213474705.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
+      "publishedDateTime": "2022-04-06T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks-fintech-companies.md",
       "title": "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies",
       "excerpt": "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,",
@@ -521,10 +564,10 @@
     {
       "path": "_news/2022-03-24-sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research.md",
       "title": "SAS and Clemson University deploy AI and machine learning software for education and research",
-      "excerpt": "Clemson students and faculty will have access to powerful data science and analytics software from SAS thanks to a new, $3.3 million donation to support teaching and academic research. Extending a 2017 partnership,",
+      "excerpt": "SAS skills among students and supports analysis of massive datasetsCARY, N.C., March 24, 2022 /PRNewswire/ -- Clemson",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sas-clemson-university-deploy-ai-machine-learning-software-/2022/03/24/9570473.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-and-clemson-university-deploy-ai-and-machine-learning-software-for-education-and-research-1031305613",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -543,12 +586,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:51:00-07:00",
+      "publishedDateTime": "2022-03-24T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1271,49 +1323,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
-      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
-      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
-          "width": 3024,
-          "height": 3236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

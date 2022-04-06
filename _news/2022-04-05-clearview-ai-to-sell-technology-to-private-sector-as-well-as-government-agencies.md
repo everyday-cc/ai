@@ -35,20 +35,6 @@ related:
         height: 320
         isCached: true
   - title: "Face scanner Clearview AI aims to branch out beyond police"
-    excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently —"
-    publishedDateTime: 2022-04-01T21:16:00Z
-    webUrl: "https://www.tribstar.com/region/face-scanner-clearview-ai-aims-to-branch-out-beyond-police/article_df4d9a00-06e1-5d81-a143-e7441ab7a73e.html"
-    type: article
-    provider:
-      name: Tribune Star
-      domain: tribstar.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/custom/image/604bc538-2923-11ea-8d06-df03a003c410.jpg?resize=600%2C472"
-        width: 600
-        height: 472
-        isCached: true
-  - title: "Face scanner Clearview AI aims to branch out beyond police"
     excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world's people for use by police, national governments and – most recently – the Ukrainian military is now planning to offer its technology to banks and other private businesses."
     publishedDateTime: 2022-04-04T07:45:00Z
     webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/04/face-scanner-clearview-ai-aims-to-branch-out-beyond-police"

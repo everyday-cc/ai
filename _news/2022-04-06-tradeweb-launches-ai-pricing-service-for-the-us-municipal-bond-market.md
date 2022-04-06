@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T13:18:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/04/06/tradeweb-launches-a-i-pricing-service-for-the-u-s-municipal-bond-market"
 webUrl: "https://stockhouse.com/news/press-releases/2022/04/06/tradeweb-launches-a-i-pricing-service-for-the-u-s-municipal-bond-market"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Stockhouse

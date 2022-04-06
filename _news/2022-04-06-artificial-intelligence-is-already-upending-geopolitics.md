@@ -5,7 +5,12 @@ excerpt: "Angela Kane Contributor Share on Twitter Angela Kane is vice president
 publishedDateTime: 2022-04-06T13:24:00Z
 originalUrl: "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/"
 webUrl: "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/"
+ampWebUrl: "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "0XPOlc58DVXv5EzLwfw9LsGnvrDA91OewnFUbbqu5Z1puRzmrwPpKQr1NMQCc7HG4Jv3ApPrUK6/NVDxbBQM2/cLjOk1inmt4Rd/zAUA6tbAhZLFqtz7ytb8Kxdwdr3o1a64c7kVik1BLRPjjWxQNWCYavllWHysISGnjqFrFR1hJctwkN8nRE2uIOKmM325Yl4foov96+npmolNUp1VyQjeSEUE8sqAHhwrIlGh6KYMEr41QZ2NLZk1VK9pVOoUOWVOKFShFp7omCPAZIb5wQT/U43G2WqFG04n6i3NrxfRde930O0WK8t8ajYP5ygxLTF69eIIBISkeBlpAQ6DpBb4XIjBYijSaKYdX01Inx0jCnULuv3BOvOdVl4rrxcQBvt0hm+w3cg389krsvNHPTeYGSu7cM9iVfaKHZ4cNSfsh6yFe1n+/87K1s/Xuu4JOlqDFfE8+yw2fotGAb9alEuFafjieriWu5uRq2tbeWQ+dnnHOAmrYLJBUlzDd6rHMtiKypkhojeJMBEIXIva4w==;bDlVis6ZAdhy2pYJEOQESg=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/04/AI_geopolitics.jpg?w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "Qd+RR28pe9Dl5c22B8M7WdUXV1BZ/9lU95j06I4wMEhfvFC2RRTf5WVRV03vj4nWHRf7ZxEr3Tckr9tQ7bcBjfxyJB6B19weE9b4SLO+KZL7TtBJRW9upKMtKcpTcOSFgX6NihucjLSUgl96XthwHQRMf4LNFUSSTPXThe5GuqX9VlJf4Bi5wywiKxs9gjLGTmeDw+BZY4Ph+pHwEJzvOhf1l+R4Of3lINzoz8Ydz6h9fqB9EJ03ux9zYc1bBoD+sfx8uWX2Sae9qnrhu5+NiAZjSj/Ubep8hJNYFpK++fBQc2pRCHPp9lIWoLo7bGlEM8hlC9QAyc4EOArgxi0yC1J+AvfaNmTV3ygD43hKe18=;aKze95InNJZfxpoyJJj3kA=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-06-facial-recognition-by-police-ban-it.md",
+      "title": "Facial recognition by police: Ban it",
+      "excerpt": "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/",
+      "originalUrl": "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
+      "publishedDateTime": "2022-04-06T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-facial-recognition-system-at-pune-airport-by-march-2023.md",
       "title": "Facial recognition system at Pune airport by March 2023",
       "excerpt": "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner",
@@ -31,6 +74,40 @@
       "provider": {
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
+      "title": "Face scanner Clearview AI aims to branch out beyond police",
+      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fresnobee.com/news/business/article260029910.html",
+      "originalUrl": "https://www.fresnobee.com/news/business/article260029910.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.fresnobee.com/news/business/article260029910.html",
+      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article260029910.html",
+      "publishedDateTime": "2022-04-01T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Fresno Bee",
+        "domain": "fresnobee.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -230,7 +307,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/56c7c203b2ef4d0bcec8810d927277de2636fe92-600x337.jpg",
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg",
           "width": 600,
           "height": 337,
           "title": null,
@@ -1252,103 +1329,6 @@
         "name": "WLRN",
         "domain": "wlrn.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and.md",
-      "title": "Here's how Americans view facial recognition and...",
-      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
-      "sourceUrl": null,
-      "webUrl": "https://wfuv.org/content/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "originalUrl": "https://wfuv.org/content/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png",
-          "width": 342,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFUV",
-        "domain": "wfuv.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
-      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
-      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
-          "width": 3421,
-          "height": 1924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "publishedDateTime": "2022-03-18T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM introduces real-time AI for transaction processing"
-    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
-    publishedDateTime: 2022-04-05T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
   - title: "IBM debuts new AI-powered, quantum-safe system"
     excerpt: "IBM z16 also is specifically designed to help protect against near-future threats that might be used to crack today’s encryption technologies. IBM debuts new AI-powered, quantum-safe system. AI, cryptography,"
     publishedDateTime: 2022-04-06T08:24:00Z
