@@ -29,6 +29,20 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 37
+  - title: "The Continuous of Artificial Intelligence in Our Society"
+    excerpt: "Artificial intelligence is changing the modern workplace, raising important questions for our society. Everybody knows artificial intelligence (AI) is meant to bring a huge competitive edge to those who successfully adapt it."
+    publishedDateTime: 2022-04-06T17:20:00Z
+    webUrl: "https://www.bbntimes.com/technology/the-continuous-of-artificial-intelligence-in-our-society"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Continuous_of_Artificial_Intelligence_in_Our_Society.jpeg"
+        width: 786
+        height: 524
+        isCached: true
   - title: "The Barriers and Benefits of Contract AI Report Now Available"
     excerpt: "Malbek commissioned benchmark study from the World Commerce & Contracting to deliver deep industry insights about AI's evolving role in Contract Lifecycle Management"
     publishedDateTime: 2022-04-06T13:05:00Z

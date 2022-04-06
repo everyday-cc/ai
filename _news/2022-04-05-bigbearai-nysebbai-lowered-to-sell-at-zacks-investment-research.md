@@ -45,6 +45,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Benchmark test of AI's performance, MLPerf, continues to gain adherents"
+    excerpt: "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency."
+    publishedDateTime: 2022-04-06T17:45:00Z
+    webUrl: "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "AI-based data analytics firm BigBear.ai stock rockets 52% in pre-market action"
     excerpt: "AI-based data analytics firm BigBear.ai (BBAI) stock rocketed 52% in pre-market trading Wednesday on heavy volume"
     publishedDateTime: 2022-04-06T13:27:00Z

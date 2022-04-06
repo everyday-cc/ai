@@ -5,10 +5,12 @@ excerpt: "SmartHop, a startup that uses AI to help interstate truckers make thei
 publishedDateTime: 2022-04-06T13:30:00Z
 originalUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
 webUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
+ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 139
+published: true
 
 provider:
   name: TechCrunch
@@ -22,7 +24,29 @@ topics:
   - AI in Finance
   - AI
 
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024"
+    width: 1024
+    height: 683
+    isCached: true
+
 related:
+  - title: "Top ex-fund managers launch £30m AI and fintech fund"
+    excerpt: "A group of top ex-fund managers is launching their third fund in as many years aimed at channelling funds into fast-growing AI, fintech and mobility"
+    publishedDateTime: 2022-04-04T05:00:00Z
+    webUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/"
+    ampWebUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2022/02/GettyImages-1238230801.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Grasshopper Bank partners with fintech to outsmart fraudsters"
     excerpt: "The bank's CEO, Mike Butler, finds signs of fraud using software from FiVerity that identifies suspicious behavior patterns across its client network."
     publishedDateTime: 2022-04-05T20:44:00Z
@@ -36,6 +60,22 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/666187a/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb6%2F76%2Fbf53ea474c7da458030f8cef1706%2Fgrasshopper-fiverity.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
+    excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
+    publishedDateTime: 2022-04-02T15:51:00Z
+    webUrl: "https://www.freepressjournal.in/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 29
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-03/7f3c4e87-b81a-4cc4-b09a-ba8fabd7cd0b/pexels_photo_393034.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 500
+        height: 333
         isCached: true
   - title: "3 Ways To Play The $300 Billion Fintech Boom"
     excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
@@ -56,6 +96,6 @@ related:
       domain: seatrade-maritime.com
     quality: 4
 
-secured: "sZl5GUYiD9NfjVHUz/+/HWmx7dpOTXfd3tcfi4gVLrvyWjyp5YIQmesSlLurdCPepooJCTrCFvwNYmS5+yATiQDLKs5AZ9cdgZKlzqft06NACWlf4kE1FZkTiHSG+v51tdC3YMD3KlXBpLZKWfpbMWk22xUg/5wTSSPIogZwK4zxVQ58BLNmxx5wrtT6/vtAznfROGRbTyFrtD1adER2dSRkLjUIqsmH6mPfzk11t4sXdvELa2GQdYjETKZDtI9Nvm5EQilDB/5EjAxc6jyDyZC0iMMlASaW5YiFg41JY4/1OqVMI5DkdQq4GPKHghSxqIXLM0DFCGqIRZxGLPTOKxmPH9LilXbb19m+ooo0Bm0=;7kMezY4TXO7NNY0nc9tfVw=="
+secured: "oGIwRA5zEB9NXiJc8Qz21dSg4z6RqOQJZzyHwcB++p7RBWQR/lsUN9p9XuDsBq6v7vIi0bS2/AfzBFbbu1HAyO6g6MCPUOQRYJjnBq5SkigzPmHVDCBMWEKjY5ZeLboAm7HyRAs9mVUWY/r4kxCIFFfL3FRmO/TU0jEYfbLHGWbdVyIfaBaPIATvgI6RO+A61eJ+ooqKt0JOPxip0nKY9B9afgBmPAIOzNtwstTOhrXwg2hrHEPoc8thUfDFdwTcegGXdU3J3t+GzLzErZnk8geUUh4yz7bA1E7NZAneu7m0dF+vrjedNcS2Lvxl3IOqMRpYSFTYzHyGboAF0qHv06ogaRoG0+ax/IniR1EFIcw=;eOKsqaIbrzo82CubxB0l9w=="
 ---
 

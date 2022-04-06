@@ -27,47 +27,70 @@ images:
     isCached: true
 
 related:
-  - title: "Adversarial AI and the dystopian future of tech"
-    excerpt: "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms."
-    publishedDateTime: 2022-04-03T23:10:00Z
-    webUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
+  - title: "SmartHop raises $30M to boost trucking fintech products"
+    excerpt: "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year."
+    publishedDateTime: 2022-04-06T13:30:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
+    ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Grasshopper Bank partners with fintech to outsmart fraudsters"
+    excerpt: "The bank's CEO, Mike Butler, finds signs of fraud using software from FiVerity that identifies suspicious behavior patterns across its client network."
+    publishedDateTime: 2022-04-05T20:44:00Z
+    webUrl: "https://www.americanbanker.com/news/fiverity-grasshopper-bank-look-to-outsmart-con-artists"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/666187a/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb6%2F76%2Fbf53ea474c7da458030f8cef1706%2Fgrasshopper-fiverity.jpg"
         width: 1200
-        height: 626
+        height: 630
         isCached: true
-  - title: "Our Human Future in an Age of Artificial Intelligence"
-    excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bringing disciplines together is the best way to address challenges and opportunities posed by rapid advancements in computing. What"
-    publishedDateTime: 2022-04-05T13:34:00Z
-    webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
-    ampWebUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
+  - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
+    excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
+    publishedDateTime: 2022-04-02T15:51:00Z
+    webUrl: "https://www.freepressjournal.in/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 61
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 29
     images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Technologies-Concept-Illustration-777x583.jpg"
-        width: 777
-        height: 583
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-03/7f3c4e87-b81a-4cc4-b09a-ba8fabd7cd0b/pexels_photo_393034.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 500
+        height: 333
         isCached: true
-  - title: "AI and machine learning are the future of retail: Survey"
-    excerpt: "The technologies provide an opportunity to enhance customer experiences, improve revenue growth potential, undertake rapid innovation and create smart operations – all of which can help businesses to stand out from the competition."
-    publishedDateTime: 2022-04-06T07:00:00Z
-    webUrl: "https://www.itp.net/emergent-tech/ai-and-machine-learning-are-the-future-of-retail-survey"
+  - title: "3 Ways To Play The $300 Billion Fintech Boom"
+    excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
+    publishedDateTime: 2022-04-02T19:00:00Z
+    webUrl: "https://oilprice.com/Finance/the-Markets/3-Ways-To-Play-The-300-Billion-Fintech-Boom.html"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 4
+  - title: "MarineTech funding set to explode, following course of FinTech"
+    excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
+    publishedDateTime: 2022-04-05T10:34:00Z
+    webUrl: "https://www.seatrade-maritime.com/finance-insurance/marinetech-funding-set-explode-following-course-fintech"
+    type: article
+    provider:
+      name: Seatrade - UBM
+      domain: seatrade-maritime.com
+    quality: 4
 
 secured: "BIU2LeJfcm625FvvRvOHLIIo4bs+TvWuuPqQRJFjs+r1xNCYax2F3HxPj7wqrcYErAKmsSFBdr0ni5QhnT7/6aO9PrAGtRoPm6SGBzCbpmjDsp5pPFlIxso0EQBsZolq5OXx4L0aRysDl4CDWBq6A5A8hkcgKIfzhNZx+ulBFLFdo434Z3Z5P6YfbFjlLod91JkyodRCnaJ6i9Vn4aGV55OvBt+oZgeC19TZ1QjZzz3ukHK+FEKS1e5P3Mdjzr9FOrkUTzphnJ5n2mV6FT6XPdNJz4FHyfLgwxtlWBbJgsiLOjITzFMIARFayRlCkZb6soI5fySGfG73Ffc2wv6eVp3lyoEgzVyLrdz6qYlXJBrBLqqKxwdYVPG/S+EheE8NtEKDFl5JkbvqBpkFSZj+QqWJ6YyX9cVS2tJ6UquXFi4h5abV/Y76AXtRiwrfT/fF8xHfM/m0P/8srVoc3aqTgATRPjce+tGm9PsGdTMcjBO6bOJNfSFQQdYkD2AjD1/J6MneMiNSvFQw0FBHIIteOQ==;ZrMrnpP+M+mpHfbfJjJpyw=="
 ---

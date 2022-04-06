@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-18-workloads-every-nonprofit-should-move-to-the-cloud.md",
+      "title": "Workloads Every Nonprofit Should Move to the Cloud",
+      "excerpt": "Whether the goal is to minimize maintenance or maximize capabilities, nonprofits have a lot to gain from embracing the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud",
+      "originalUrl": "https://biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202203/GettyImages-1350641373.jpg?itok=ZZ1EO48J",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/03/workloads-every-nonprofit-should-move-cloud?amp",
+      "publishedDateTime": "2022-03-17T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-the-detail-of-the-courses-offered-by-amazon-web-services-aws-to-learn-about-computing-at-no-cost.md",
       "title": "The detail of the courses offered by Amazon Web Services (AWS) to learn about computing at no cost",
       "excerpt": "Within this framework, Amazon Web Services (AWS) launched two new free, hands-on training initiatives to enable people to acquire computer skills in the cloud, so that young students and professionals alike will be able to gain more knowledge and experience in computing jobs.",
@@ -1317,58 +1360,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-snowflake-simplifies-data-app-development-with-streamlit-acquisition.md",
-      "title": "Snowflake simplifies data app development with Streamlit acquisition",
-      "excerpt": "Snowflake has announced the acquisition of data app framework Streamlit as part of an effort to expand its data cloud ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/snowflake.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/amp/",
-      "publishedDateTime": "2022-03-03T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

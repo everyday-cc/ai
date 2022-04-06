@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://scitechdaily.com/images/Artificial-Intelligence-Technologies-Concept-Illustration-777x583.jpg"
         width: 777
         height: 583
-        isCached: true
-  - title: "Top ex-fund managers launch £30m AI and fintech fund"
-    excerpt: "A group of top ex-fund managers is launching their third fund in as many years aimed at channelling funds into fast-growing AI, fintech and mobility"
-    publishedDateTime: 2022-04-04T05:00:00Z
-    webUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/"
-    ampWebUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/02/GettyImages-1238230801.jpg"
-        width: 594
-        height: 396
         isCached: true
   - title: "AI and machine learning are the future of retail: Survey"
     excerpt: "The technologies provide an opportunity to enhance customer experiences, improve revenue growth potential, undertake rapid innovation and create smart operations – all of which can help businesses to stand out from the competition."

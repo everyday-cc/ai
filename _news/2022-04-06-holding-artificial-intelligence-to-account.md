@@ -49,20 +49,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "The Human Side of Artificial Intelligence"
-    excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
-    publishedDateTime: 2022-04-01T23:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/08/MachineLearningFeature-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "The importance of AI-enabled drug research to develop effective therapies"
     excerpt: "AI’s ability to quickly scan and synthesize huge volumes of information is being adopted for numerous healthcare initiatives, including use in pharmaceutical drug discovery and development."
     publishedDateTime: 2022-04-04T18:00:00Z

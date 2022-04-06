@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-whe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
         width: 720
         height: 480
-        isCached: true
-  - title: "The Human Side of Artificial Intelligence"
-    excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
-    publishedDateTime: 2022-04-01T23:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/08/MachineLearningFeature-640x353.jpg"
-        width: 640
-        height: 353
         isCached: true
   - title: "Holding artificial intelligence to account"
     excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."

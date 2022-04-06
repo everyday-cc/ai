@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "The Human Side of Artificial Intelligence"
-    excerpt: "The use of computer algorithms to differentiate patterns from noise in data is now commonplace due to advances in artificial intelligence ... using deep learning neural networks."
-    publishedDateTime: 2022-04-01T23:37:00Z
-    webUrl: "https://www.extremetech.com/extreme/333588-the-human-side-of-artificial-intelligence"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/08/MachineLearningFeature-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Holding artificial intelligence to account"
     excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
     publishedDateTime: 2022-04-05T23:46:00Z

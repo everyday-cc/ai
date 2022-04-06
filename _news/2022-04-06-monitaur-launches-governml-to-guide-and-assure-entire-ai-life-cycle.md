@@ -33,6 +33,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
+    excerpt: "Monitaur, an AI governance software company, has released GovernML, the latest addition to its ML Assurance platform, designed for enterprises committed to responsible AI. Offered as a web-based SaaS application,"
+    publishedDateTime: 2022-04-06T17:00:00Z
+    webUrl: "https://tdwi.org/articles/2022/04/06/monitaur-governml.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 19
 
 secured: "XF0ilAC4vaK1UhmhuHvd25dFARNvS930RogqcCcxOp2dmiyw1auWBMv7bvnQmiVK6xNcRJ8IyhYl9H94tryuEeRmQviH76yasHDwx2j/TIH2iPMM6t1x1HyAgvUjOdPqLUMihQhicLWmIPZpdvg8AkhWYKyivGQGdMoABe0mC92KZVjBo8Tr8RxBpnIT+KBOB3CmGBtgvnqIIHdsapb2Imwr0pO2b46oY/QO2nT0vE6IaAx1XhI/yYCJsWPDP1ZsXwfoVhUVwtdDsfbqbcSLTv0H0foHFX9eEkzvAigwbuXKbJ54P4IwxgCxEB0i0Mp7gMtnVMuiRMS89judSvihiOS51r8F28t2TgkBJngTPCo=;zCUC/v+pIFLl6J2morm47A=="
 ---

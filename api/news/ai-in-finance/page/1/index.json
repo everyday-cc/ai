@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
+      "title": "SmartHop raises $30M to boost trucking fintech products",
+      "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
+      "publishedDateTime": "2022-04-06T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks-fintech-companies.md",
       "title": "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies",
       "excerpt": "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1288,41 +1340,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-tempe-machine-learning-startup-sells-to-new-mexico-cybersecurity-firm.md",
-      "title": "Tempe machine learning startup sells to New Mexico cybersecurity firm",
-      "excerpt": "Cyr3con uses machine learning to analyze digital threats and risk. Aaron Sandeen, CEO of Cyber Security Works, told Business First that the deal closed in January before being announced on March 15. He declined to disclose financial details and said that Tempe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
-      "originalUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

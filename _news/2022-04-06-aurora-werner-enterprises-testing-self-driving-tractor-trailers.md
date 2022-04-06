@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/57638486"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: teletrader.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Are Predicting Driving Personalities"
-    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
-    publishedDateTime: 2022-04-02T00:00:00Z
-    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
-        width: 800
-        height: 426
-        isCached: true
   - title: "Aurora and Werner Enterprises Are Testing Self-Driving Tractor-Trailers on a Lonely Texas Highway"
     excerpt: "Aurora and Werner are testing self-driving tractor-trailer trucks on a crucial stretch of highway in Texas. The road, between Fort Worth and El Paso, is a key part of the busy Atlanta-to-Los Angeles truck route,"
     publishedDateTime: 2022-04-06T13:18:00Z

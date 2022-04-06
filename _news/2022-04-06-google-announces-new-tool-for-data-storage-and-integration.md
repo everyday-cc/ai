@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-dat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Accelerating the integration of artificial intelligence solutions: SCALE AI announces a $24-million investment in five new projects"
+    excerpt: "SCALE AI, Canada's supercluster dedicated to strengthening the country's leadership role in the fields of artificial intelligence (AI) and data science, today announced it is investing $24 million to support five innovative AI projects."
+    publishedDateTime: 2022-04-06T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accelerating-integration-artificial-intelligence-solutions-scale-ai-announces-/2022/04/06/9578165.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "jmppXHKNDV9u8lsdmCjbIdPhb4Ex5CDmXg0oPuYr6v6eaX0LSC2f5zYaKdFIl7Osbgwhqedva122pfVK7IPyhlHBRCtTa5HyR+bP9nlx8LlStJodWG48HBg5/odDVYVWFKPbzacpmvXVxGTXgK2l0tBCS5q3s03c4E96vKdmUu9cs4vFVHc1ixScdyHvCnjLJADVxoonmo0Rv1tqtKAKHNtK1UeoARrgNoiiWDqfn4x6kocexQN3/1oqgbAk+HNuTAcqAPPKItg5dOPIyS4wmF0SS9Ay529HaRuE5HLoW/WjIioOJ9JayuOSdj1DQ47vLdYn0RUdV+kVuKSu7u8cwmcgnnwHwb1QPdENFQ+6R2Vjv0Yte+eCgkDstmm5/vgd0bG2S67Re1Afq/283xwAG+QeTwuwpaxvNEF5na74sK2ZxOwYqg6RJ4MzNZkkCUxYxcceJK99fQLXu23Wd5nwSo2IBgYYCdV29RrHHeBIpmRWZvCfZOgaaZRtCtTHdYq5WJCU+91T5JE25OFSu813SA==;ed6k1toH07tMpDOiQOpsiA=="
 ---

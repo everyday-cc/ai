@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI: THE SOMNIUM FILES – nirvanA Initiative Gets A New Gameplay Trailer"
+    excerpt: "Game developers, Spike Chunsoft have released a new gameplay trailer for AI: THE SOMNIUM FILES - nirvanA Initiative. Watch it here!"
+    publishedDateTime: 2022-04-06T17:23:00Z
+    webUrl: "https://gameranx.com/updates/id/296779/article/ai-the-somnium-files-nirvana-initiative-gets-a-new-gameplay-trailer/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 37
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/04/AI-THE-SOMNIUM-FILES-nirvanA-Initiative-1.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "AI: The Somnium Files – nirvanA Initiative Gets New Gameplay Trailer & Bonus DLC Details"
     excerpt: "Today Spike Chunsoft released a new gameplay trailer and details of its upcoming game AI: The Somnium Files – nirvanA Initiative. The trailer provides a look at the gameplay mechanics that we ..."
     publishedDateTime: 2022-04-06T01:11:00Z

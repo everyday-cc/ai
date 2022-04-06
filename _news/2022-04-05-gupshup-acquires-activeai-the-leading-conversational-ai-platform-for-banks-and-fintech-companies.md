@@ -224,22 +224,6 @@ related:
         width: 1024
         height: 500
         isCached: true
-  - title: "Future of fintech: Tech-driven access key to acquiring, delivering products and services to customers"
-    excerpt: "This is expected to drive new business models to enable new customer acquisition, better customer engagement, provide newer financial products and add monetisation layers. India continues to grow and lead in the fintech sector globally,"
-    publishedDateTime: 2022-04-02T15:51:00Z
-    webUrl: "https://www.freepressjournal.in/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/future-of-fintech-tech-driven-access-key-to-acquiring-delivering-products-and-services-to-customers"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 29
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-03/7f3c4e87-b81a-4cc4-b09a-ba8fabd7cd0b/pexels_photo_393034.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Curious Thing Positively Impacts Public Safety, Scales Conversational AI Solutions and Connects Customers Globally Using the Vonage Communications Pla"
     excerpt: "Partnership enabled customer to establish intelligent conversations with 150,000 customers in 10 days at the start of the pandemicSINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation,"
     publishedDateTime: 2022-04-05T03:00:00Z

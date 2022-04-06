@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-me
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220404150324-restricted-windows-11-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Microsoft Hires Ex-Seattle Police Chief Best for Security Role"
-    excerpt: "Microsoft Corp. has hired former Seattle police chief Carmen Best as director of global security risk operations. Best will be in charge of the Redmond, Washington-based company’s “global virtual security operations team,"
-    publishedDateTime: 2022-04-01T23:31:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-04-01/microsoft-hires-former-seattle-police-chief-carmen-best-as-security-executive"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 86
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOzvzxg5BhKM/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
     excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
