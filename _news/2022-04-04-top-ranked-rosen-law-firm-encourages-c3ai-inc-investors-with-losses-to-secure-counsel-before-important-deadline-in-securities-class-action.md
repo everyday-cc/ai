@@ -20,20 +20,6 @@ topics:
 related:
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw."
-    publishedDateTime: 2022-04-01T15:00:00Z
-    webUrl: "https://fox8.com/business/press-releases/cision/20220401PH11126/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 35
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
-        isCached: true
-  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
-    excerpt: "Investors suffering losses on their C3.ai investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 888-638-4847 or by email to howardsmith@howardsmithlaw."
     publishedDateTime: 2022-04-01T21:00:00Z
     webUrl: "https://www.khon2.com/business/press-releases/cision/20220401PH11126/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
     type: article

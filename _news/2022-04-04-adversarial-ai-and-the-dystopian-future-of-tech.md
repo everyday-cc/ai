@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "AI and machine learning are the future of retail: Survey"
+    excerpt: "The technologies provide an opportunity to enhance customer experiences, improve revenue growth potential, undertake rapid innovation and create smart operations – all of which can help businesses to stand out from the competition."
+    publishedDateTime: 2022-04-06T07:00:00Z
+    webUrl: "https://www.itp.net/emergent-tech/ai-and-machine-learning-are-the-future-of-retail-survey"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
 
 secured: "gFB9iafbshcyrdZERn9Tayg64iKRmKLiEvCiCfDpvcqk+9/ZLdBrOlsQZrW3rnC6w63NEGnHcZx8bhUzaoBQAjw4/eNr8cpsLUDLxwOHOZ+fIg76hHrQ6IvQhMi6TZWDyaitTlz3I6586XW9Uc1t3oY7qbgHG4Q/KJzCdIEThj0gq4F9KLgKkNNYt8231+ERwPKD0CvIrV7h1dyusqyaOWrXm364sD3esX6OlXaWT17KkOfkRn+KXQlhcPg1zbeEOxcQSK3BWjmtZ/vspNJ50HWu8lY7utIDw1Xr7AFLhf6B78lK8HjmyGivhpYkHIvKj53aCnkPJ7pitWZzG3uV1jc+rgplWhopATiFxE5rNhI=;LKYPr43GZ+ydCtWPyVn6UA=="
 ---

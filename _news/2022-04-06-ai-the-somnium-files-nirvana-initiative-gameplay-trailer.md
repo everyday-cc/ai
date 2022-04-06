@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'AI: The Somnium Files - nirvanA Initiative' Reveals More Gameplay Details, Free Launch DLCs - Screens & Trailer"
+    excerpt: "AI: The Somnium Files - nirvanA Initiative is a detective adventure by Zero Escape series Director/Scenario Writer Kotaro Uchikoshi."
+    publishedDateTime: 2022-04-06T07:58:00Z
+    webUrl: "https://worthplaying.com/article/2022/4/6/news/131392-ai-the-somnium-files-nirvana-initiative-reveals-more-gameplay-details-free-launch-dlcs-screens-trailer/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 0
 
 secured: "+nE4MBb9AjM7bvbTPWaQ/eb8X/+HgVg6+P2jDmh7OLw5Z8100p81EtHLyDNbolzJZlmMdFJtvBzgcqUSgxg7vrChkpjMI1V05TKjZUsdCHGvICbGFeQVYCGZ5x9zUP5csRfydwqZVLYbSf6x9pUC4ZxgweQZuZ0OvwbXPSj/rmAvleiuQeNpcmkJ4Mzdl45NXFoguP6QlH52YHeVmcaStJRt3QiWh9co4HzUtunmgQSUaivr+0pTvAnq1dXAj1m74VbXtLqyD8cH8iOSxxHD4+pfM1qufZ0xVO/fh+qXo8n3C4xo9+QDn/sC+HDplatlPhUy4GKvF/XfHoAwSQgrw/hBKiV5QeOIxNy6tOIGmbo=;I1W7MKd8ZGZ7TqoZAA9L0w=="
 ---

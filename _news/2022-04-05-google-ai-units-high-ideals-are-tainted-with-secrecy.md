@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Google AI Unit’s High Ideals Are Tainted With Secrecy"
-excerpt: "The high-flying DeepMind division has been too guarded about staff mistreatment."
-publishedDateTime: 2022-04-05T06:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
-webUrl: "https://www.bloomberg.com/opinion/articles/2022-04-05/google-ai-unit-s-high-ideals-are-tainted-with-secrecy"
+excerpt: "But it’s clear that DeepMind has a lot of work to do to confront a broader culture of secrecy that led some at the organization to attempt to suppress grievances rather than work quickly to address them."
+publishedDateTime: 2022-04-05T13:01:00Z
+originalUrl: "https://www.washingtonpost.com/business/google-ai-unitshigh-ideals-are-tainted-with-secrecy/2022/04/05/54beb05a-b4b2-11ec-8358-20aa16355fb4_story.html"
+webUrl: "https://www.washingtonpost.com/business/google-ai-unitshigh-ideals-are-tainted-with-secrecy/2022/04/05/54beb05a-b4b2-11ec-8358-20aa16355fb4_story.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTYPJZ9BCGuE/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQPF3UFUWII6ZA2YECVBMNK7WQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -62,6 +58,6 @@ related:
         height: 341
         isCached: true
 
-secured: "HHjMm/wGj9FDAlkhirboIeaygr0sKdu2jwD5fkaEW+2Y68QZSy5A7Wl7Q8nrozf5gWJG8JZZOL+Zc7fQzqk/Lso6DS897IcTPGQXSZNeoZJkPHFM+o1kHZV1/cZkpDbcWwTLHCJjqDyHZlofHbdkPxa0RWnwWq6Ve98eq96mXFWxffy0WKCtm1MMNSPt8Q1jqpds3PNv0gB1DWBhmE3FLiH+Kufad/KLZ+x8o7iIgHgxvHLLlLWkcnNIra0iuIfd2ZJ7F6OJl6WRkA6cs7HsPk7S1s/uSLSUm9+zy1xalOnlZzP6g7ZWtxcM+Zv08EFubJg/dt6QcMzIDOhh3Rh9NrNvZ1Z9O/T/FbdDQ41TZua7/j/u6efx/DFi31IAhgihVcPgd1hTFn2hubgOC/iVFEI9W5Qm5bl8IZmJxovaQjtkDVU4KQwNMksWZxDy2dnd9PCjkfwdq0NgnODlchAkPidXZrLn/o7j9PoHxxaIB0rz71LdcKLkEX8BDCpfX2BW/MKgyRr4LP1sVIg9skwx1Q==;70nHe1zXULjAdIgHfqkb/A=="
+secured: "L3Xlp9JnpQycrnzgiDBRRXoR2jwVAhdObztC8nb/atuK55FokEXTBZqsGyWcUSfHG/RcSQGpASOcikTZTJHiWEos9lStsx4U91q+6hdBJqgFSDl747Fhwrn4/xXlvWqVQ9q1t7VJi9ATP5DX7ZpelcDcxWh3KFgnGkWMSBSGRkHycm2W7PfDiXOhSrqiZQQpHM7Fbyt2nuHRSRmE+wfw0ZAniwr1d6ODhqBIS//6p6lNeysZhJ0suyWELEUJ+f/JVQsfZNKqTNGDg8IB+mB8rIJAHdTWPJg7BCmg1vdJL9iXuu3AYGseq6KgQ51HZktXMjT+jLrvdnLxtbvSeCSLbBIzYY5yCTRSM3xTgbBADKc=;GdYqiu6Wicj7K2Ufuw+szQ=="
 ---
 

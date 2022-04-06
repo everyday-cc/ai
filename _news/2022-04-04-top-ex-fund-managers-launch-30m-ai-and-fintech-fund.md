@@ -59,6 +59,15 @@ related:
         width: 777
         height: 583
         isCached: true
+  - title: "AI and machine learning are the future of retail: Survey"
+    excerpt: "The technologies provide an opportunity to enhance customer experiences, improve revenue growth potential, undertake rapid innovation and create smart operations – all of which can help businesses to stand out from the competition."
+    publishedDateTime: 2022-04-06T07:00:00Z
+    webUrl: "https://www.itp.net/emergent-tech/ai-and-machine-learning-are-the-future-of-retail-survey"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
 
 secured: "BIU2LeJfcm625FvvRvOHLIIo4bs+TvWuuPqQRJFjs+r1xNCYax2F3HxPj7wqrcYErAKmsSFBdr0ni5QhnT7/6aO9PrAGtRoPm6SGBzCbpmjDsp5pPFlIxso0EQBsZolq5OXx4L0aRysDl4CDWBq6A5A8hkcgKIfzhNZx+ulBFLFdo434Z3Z5P6YfbFjlLod91JkyodRCnaJ6i9Vn4aGV55OvBt+oZgeC19TZ1QjZzz3ukHK+FEKS1e5P3Mdjzr9FOrkUTzphnJ5n2mV6FT6XPdNJz4FHyfLgwxtlWBbJgsiLOjITzFMIARFayRlCkZb6soI5fySGfG73Ffc2wv6eVp3lyoEgzVyLrdz6qYlXJBrBLqqKxwdYVPG/S+EheE8NtEKDFl5JkbvqBpkFSZj+QqWJ6YyX9cVS2tJ6UquXFi4h5abV/Y76AXtRiwrfT/fF8xHfM/m0P/8srVoc3aqTgATRPjce+tGm9PsGdTMcjBO6bOJNfSFQQdYkD2AjD1/J6MneMiNSvFQw0FBHIIteOQ==;ZrMrnpP+M+mpHfbfJjJpyw=="
 ---
