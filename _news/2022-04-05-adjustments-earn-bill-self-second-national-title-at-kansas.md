@@ -43,6 +43,17 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Adjustments earn Bill Self second national title at Kansas"
+    excerpt: "Bill Self won his elusive second national title with a masterful second-half coaching job and a spicy dash of Remy Martin."
+    publishedDateTime: 2022-04-06T01:52:00Z
+    webUrl: "https://www.miamiherald.com/sports/article260119475.html"
+    ampWebUrl: "https://amp.miamiherald.com/sports/article260119475.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/sports/article260119475.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 24
   - title: "Adjustments earn Bill Self second national title at Kansas | Charlotte Observer"
     excerpt: "Bill Self won his elusive second national title with a masterful second-half coaching job and a spicy dash of Remy Martin."
     publishedDateTime: 2022-04-05T04:43:00Z

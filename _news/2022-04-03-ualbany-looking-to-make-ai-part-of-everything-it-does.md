@@ -51,6 +51,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Google releases new online Manga Tool that uses AI to optimize your art"
+    excerpt: "Google has just released a new online manga tool called Giga Manga. It allows users to create sketches and turn them into fully colored manga art that uses AI and machine learning. Using Giga Manga is ridiculously simple and could be the next big thing,"
+    publishedDateTime: 2022-04-06T00:11:00Z
+    webUrl: "https://goodereader.com/blog/manga-and-anime-news/google-releases-new-online-manga-tool-that-uses-ai-to-optimize-your-art"
+    type: article
+    provider:
+      name: Good e-Reader
+      domain: goodereader.com
+    quality: 37
+    images:
+      - url: "https://assets.goodereader.com/blog/uploads/images/2022/04/05200859/unnamed.jpg"
+        width: 1200
+        height: 713
+        isCached: true
 
 secured: "PA8xYeacj77HNrMkGSbLiA/rW+fnbiOyOFk8xea2SiEgvWut5m6eMjuJCYo1J6vjh6coBMc4LVHhjXfxYabicTddtY13L2jaYfbVv+9cgV7Qlbd2hmN937jtMuiC5AIdljSDodbhNBMsVKwliNRIy8tLa3q5ptk/267vfmrMvRCHG4WNSFAMZWaI1ownkZFlbDR/adqf6QGcV6IThk1wi9B956LreMuKv4/sPSLyvWMs/ajGk569rVUvXyR+TCerrHvC2ndPbXt/b9o56efRe4GU0uv5w++C8TLSWx3DkpdXJQTc0XMK3l4JIJ+XsPoTjOgmiZ0nEnBeKi2dWF9ko33fOwOj31BaXyDhketZ1JfxKWfsgf3MC4qxHGRbwYXpdZev08trNtSmzUx07VM5/us1axoaUMnHxez6XRoLQFcVn/IWKAs1VEW1fxT2ROcNT/HsbcOpSAaRdJb3Pam3P/YkSieHOkGGD7k56uXx+3WetwT96n0bQcAFMriqzg7Z8EU/Fl7vqLwvGufZVNxtSg==;lYlIFnSjTlNrZHv6+7+RYQ=="
 ---

@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-25-clearview-ai-unveils-version-20-of-its-facial-recognition-software.md",
+      "title": "Clearview AI unveils version 2.0 of its facial recognition software",
+      "excerpt": "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367222/clearview-ai-version-20-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1622114219/itpro/Clearview_AI_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards.md",
+      "title": "SparkCognition acquires Bangalore-based AI startup Integration Wizards",
+      "excerpt": "\"The team is excited to capitalize on SparkCognitions incredible depth of talent, considerable IP portfolio, and deep subject matter expertise, providing our customers with even greater value and a broader AI based portfolio,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-846637,msid-90445030/automation_ai_thumb-image_ettech3.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms",
+      "publishedDateTime": "2022-03-25T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-zestyai-welcomes-10m-infusion-from-fintech-firm-brex.md",
       "title": "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex",
       "excerpt": "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,",
@@ -101,8 +195,8 @@
       "title": "Chasing The World’s First Brain-on-Chip AI Computer",
       "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
       "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
-      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
+      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
+      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1034,109 +1128,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-why-you-shouldnt-be-using-ai-for-hiring.md",
-      "title": "Why you shouldn’t be using AI for hiring",
-      "excerpt": "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
-      "originalUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
-      "publishedDateTime": "2022-03-24T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-digits-aims-to-disrupt-fintech-with-real-time-analytics.md",
-      "title": "Digits aims to disrupt fintech with real-time analytics",
-      "excerpt": "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
-      "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1180543360.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
-      "publishedDateTime": "2022-03-24T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

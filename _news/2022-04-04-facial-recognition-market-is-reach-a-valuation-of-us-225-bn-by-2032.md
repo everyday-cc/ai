@@ -67,20 +67,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence as a Service Market to Garner USD 38.99 Billion With CAGR of 39.2 % By Forecast 2027"
-    excerpt: "Artificial Intelligence as a Service Market size is expected to grow at a CAGR of 39.2 % through 2021 to 2027, reaching nearly USD 38.99 Billion."
-    publishedDateTime: 2022-04-01T07:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-to-garner-usd-38-99-billion-with-cagr-of-39-2-by-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/aef0bb667ac62bccbac8d816d53a436b40ef43f5-1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "e5zoVxP+SN9CnaYiaVXaPnp3SXTfNIm1iexLYDjnPa/CyWuJ1OK54V1ibk4SNB49MxMtbmukbF6DNUBsAvkkuele+VSWyVq8v7xCPe2ygRupchRDdIhOiOm8InYiNYagityROoN/b3gh0By7wS4ytcU6C/OpKNsc9AS2pmFekLTHSnOx0Rr4y3TxZEgy4MAu+rsqxPo33B+JA/kcIupfuUK6IwYaPzUlds+ogH2fLdSf8OsBqgpW1GXFaDXZRDn9uuAetFGI/SRrGuzOLTppnOi/dQTgZAt8oUpL/fq4uz5YtlUx//wj9MCZSoByjlRXaf3JgmM7BmplH7DyGHRbeM2qX4BHjgY+LlnHFZOnks8=;vymxwznMO0uwykrdQ9Pszw=="
 ---

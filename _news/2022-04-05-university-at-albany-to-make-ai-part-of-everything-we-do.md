@@ -43,6 +43,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Google releases new online Manga Tool that uses AI to optimize your art"
+    excerpt: "Google has just released a new online manga tool called Giga Manga. It allows users to create sketches and turn them into fully colored manga art that uses AI and machine learning. Using Giga Manga is ridiculously simple and could be the next big thing,"
+    publishedDateTime: 2022-04-06T00:11:00Z
+    webUrl: "https://goodereader.com/blog/manga-and-anime-news/google-releases-new-online-manga-tool-that-uses-ai-to-optimize-your-art"
+    type: article
+    provider:
+      name: Good e-Reader
+      domain: goodereader.com
+    quality: 37
+    images:
+      - url: "https://assets.goodereader.com/blog/uploads/images/2022/04/05200859/unnamed.jpg"
+        width: 1200
+        height: 713
+        isCached: true
   - title: "UAlbany looking to make AI part of everything it does"
     excerpt: "And Thenkurussi \"Kesh\" Kesavadas wants to make sure that the University at Albany - and the Capital Region - take full advantage of all the opportunities and technological advances that are coming with the widespread use of AI in society - a tech revolution that is  taking place whether we are ready or not."
     publishedDateTime: 2022-04-03T13:00:00Z

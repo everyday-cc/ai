@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Dieta's Stool Image AI is Validated as Superior to Gastroenterology's Industry Standard, Published Clinical Study"
-excerpt: "Peer-reviewed publication in the American Journal of Gastroenterology found Dieta's AI to be comparable in accuracy to expert gastroenterologists and superior to patients in classifying stool LOS ANGELES, April 5, 2022 /PRNewswire/ -- Dieta Health ..."
-publishedDateTime: 2022-04-05T21:28:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220405la15236/dietas-stool-image-ai-is-validated-as-superior-to-gastroenterologys-industry-standard-published-clinical-study"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220405la15236/dietas-stool-image-ai-is-validated-as-superior-to-gastroenterologys-industry-standard-published-clinical-study"
+excerpt: "Peer-reviewed publication in the American Journal of Gastroenterology found Dieta's AI to be comparable in accuracy to expert gastroenterologists and superior to patients in classifying stool LOS ANGELES,"
+publishedDateTime: 2022-04-05T21:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-dietas-stool-image-ai-validated-as-superior-gastroenterologys-/2022/04/05/9577457.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-dietas-stool-image-ai-validated-as-superior-gastroenterologys-/2022/04/05/9577457.htm"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 225
     isCached: true
 
-secured: "xerFDUOs7dbuW6nR4S8Jtd4scx+kdU8G/r06EeU0NmTQFStSJ48X9S/0mgtcIugOmrWPOwBL3HMChXymVJVgJB3z/CktFNfnu1OUtYv4xxzEUmWDs7IDxLPJmkc7awhc/mZlZghzK7DeTW/YmYrzIPZoNFf+57ydDlwV0yXkvIYJ2q7Wr17jrJblZE7uhIuDE88BzcuINchVqO/yqhAN2YJSGiN2TDHoaVc4wWii/hRZXEpVk2TflGxADFYkBvFS2zn040YpSDmZnFu0SU9DdHNX8mpdF//6X32r9zxdvWGbNnCQvxcYCbS+d5hMAipWvJUjXJi6X8fsCHh/XeO4Y9IFaUmzOo+lPqffpFJcxCk=;rPnNWpa6tJDZgVAow88n9Q=="
+secured: "zOvwqzUSqTkPfzJTJKLZtWj6SqPp/AtIs6p6vwTQrGyRoe8XDp3pu9WlixZzW+l2+ZqdxHGNxJJtwP8nnv0Pp97fg8tb6B+sDNZ1oBWddL1fhT78EzkUvsEIUMsh/i3NFIPKmoNWdHLpfnejPiFdKVXyLwsUHdSd327rWanA104IyCvThkcRtraE8SgHaJPrIPTZ/e9uYLBbBqeIqsKq46qzAZsxEal7TH1b7PbQHOk20q15Foub87/IP97MNVo2lbfWPd0bjxz2wnTI3EEfC3bQHEYlIoaOZfwZxStMWFM1Det+wYbpq3FmqUJC3/pFDjwpT03Z244iYnseKz/yPuQPLOaH5QshB0W+f3cCPBo=;WVfhTSNxivqrvYzAy7pFeQ=="
 ---
 

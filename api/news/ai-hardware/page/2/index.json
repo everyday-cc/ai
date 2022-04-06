@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-18-chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics.md",
+      "title": "Chipotle Tests Chippy: An AI Kitchen Assistant From Miso Robotics",
+      "excerpt": "Chipotle Mexican Grill has revealed a new autonomous kitchen assistant that makes tortilla chips. The unit, dubbed Chippy, was developed in collaboration with Miso Robotics, whose Flippy robots have seen deployments in several White Castle restaurants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
+      "originalUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.iotworldtoday.com/files/2022/03/5138.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iotworldtoday",
+        "domain": "iotworldtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
       "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
       "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
@@ -1354,58 +1398,6 @@
         "name": "enterprisetalk",
         "domain": "enterprisetalk.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-qualcomm-announces-ai-powered-snapdragon-x70-5g-modem-with-up-to-10gbps-download-speed.md",
-      "title": "Qualcomm announces AI-powered Snapdragon X70 5G modem with up to 10Gbps download speed",
-      "excerpt": "At the ongoing Mobile World Congress, Qualcomm has announced its latest next-generation modem for smartphones –Qualcomm Snapdragon X70 5G. It comes with increased uplink and downlink speed as well as new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/",
-      "originalUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Qualcomm-Snapdragon-X70-Modem.jpg",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/01/qualcomm-snapdragon-x70-5g-modem-announced/?amp=1",
-      "publishedDateTime": "2022-02-28T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

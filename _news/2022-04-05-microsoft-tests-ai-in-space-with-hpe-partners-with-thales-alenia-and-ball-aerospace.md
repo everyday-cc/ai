@@ -126,20 +126,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
-    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
-    publishedDateTime: 2022-04-01T08:57:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 47
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "Microsoft, HPE put AI to work checking astronaut gloves"
     excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"
     publishedDateTime: 2022-04-05T17:58:00Z

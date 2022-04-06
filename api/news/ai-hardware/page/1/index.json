@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-06-brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing.md",
+      "title": "BrainChip, SiFive partner to bring AI and ML to edge computing",
+      "excerpt": "The integration of BrainChip's Akida technology and SiFive's multi-core capable RISC-V processors is expected to provide an efficient solution for integrated edge AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
+      "publishedDateTime": "2022-04-05T18:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-ibm-releases-new-server-that-uses-ai-chip-developed-in-albany.md",
       "title": "IBM releases new server that uses AI chip developed in Albany",
       "excerpt": "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -53,7 +106,7 @@
       "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -889,8 +942,8 @@
       "title": "Chasing The World’s First Brain-on-Chip AI Computer",
       "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
       "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
-      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_The_World’s_First_Brain-on-Chip",
+      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
+      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1386,50 +1439,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics.md",
-      "title": "Chipotle Tests Chippy: An AI Kitchen Assistant From Miso Robotics",
-      "excerpt": "Chipotle Mexican Grill has revealed a new autonomous kitchen assistant that makes tortilla chips. The unit, dubbed Chippy, was developed in collaboration with Miso Robotics, whose Flippy robots have seen deployments in several White Castle restaurants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
-      "originalUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.iotworldtoday.com/files/2022/03/5138.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iotworldtoday",
-        "domain": "iotworldtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

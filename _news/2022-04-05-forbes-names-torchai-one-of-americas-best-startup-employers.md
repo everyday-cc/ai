@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Forbes Names Torch.AI one of America's Best Startup Employers"
-excerpt: "LEAWOOD, Kan., April 5, 2022 /PRNewswire/ -- Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U.S ..."
-publishedDateTime: 2022-04-05T10:53:00Z
-originalUrl: "https://www.klfy.com/business/press-releases/cision/20220405CG14274/forbes-names-torch-ai-one-of-americas-best-startup-employers/"
-webUrl: "https://www.klfy.com/business/press-releases/cision/20220405CG14274/forbes-names-torch-ai-one-of-americas-best-startup-employers/"
+excerpt: "Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U."
+publishedDateTime: 2022-04-05T10:39:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/forbes-names-torch-ai-one-of-america-s-best-startup-employers-1031332405"
+webUrl: "https://markets.businessinsider.com/news/stocks/forbes-names-torch-ai-one-of-america-s-best-startup-employers-1031332405"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 48
 published: false
 
 provider:
-  name: KLFY
-  domain: klfy.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1780450/Torch_AI.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "AKASA Lands Spot on the Forbes America's Best Startup Employers 2022 List"
@@ -62,6 +60,6 @@ related:
         height: 1074
         isCached: true
 
-secured: "M8EDR1IeZwup4zUPegUsLVSyK49E6+cRpNxhfVjScwSE5NJtrLlmTP7zmUyXQWpJYf93pBzwRic2ZWa/1/Q2fUXiuPShKCWJKBpUDZMCenqmUPdAcszc1gYEGo+sBesw47YwVVD3v2L10zI+WIMfyjYnUJb7zoQ+H0dUcyD6aNiZwsqR9sJpFXxJ5TVw80186eE2n9ErRUrWZ6sre372Gy5HrAqPNsLXO7XNhySxbmsA3cDbHZd7aa6ZPF0hB9Ik53P8c7QfnGeyy8tEJYpVDO2NQy80CMQXuRSa49g7V4IzYFIP8sx8On5YAp9dl4V5JqOXsxXTgWIIivg+oYF5fuYNCHOS0QwefN8OYMOw7V0=;fEk/NJfC/OYvrNEBG7Lp6w=="
+secured: "0PT2zhH3sIzeKS+75wGwawr4eZLZ32d5DRlPhjPE4kJOOK5FC/nqOnejgWigycpi41pQM02eMHEdXFhi54zcofmG7uAoVk8W06G5giTNFr2daNr+5+VvGikgtnRbr/RvBWMCU9kH92hRy3lf/MlELKKAnhyn3xITHTgIkLhE+R+ScRZa5xvjDds/rPa/JLCHmAmSlbQMBDxLnP8N1x1aksemC/+iv3odZkP4GNZI6tS+ef4GUDs2zIRSdj2ZkecNxARE+chy5zS3VtgaGTaFyBu+jcT5/RMd6oxX3M6nwxnxdKo1t7188cLwJuYsDQZC3oc82wd4Px0+h6Av3as+ZMm21n29BeL7OZMf6IX5I91wP+92Tcm50ujj5sOPW4ABmUc+4Y4UaC1tw3aJ13C+R37RxZYyYTPLG0Ce/1sf2rAI9hXGAoJOzWK0wjCPCJX5eFA7kFbdVkq8a8hwuxC16MFK3mE38UyFLXTurA0RJStMrMIoN5rwJBKHraYxBKEvVklUyWnvGY+lBPAm9mC8Ug==;KE6ruWodjWhj4wXHzcUE9w=="
 ---
 

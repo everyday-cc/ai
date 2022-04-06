@@ -1,14 +1,11 @@
 ---
 category: news
 title: "DeepMind accused of mishandling sexual misconduct allegations"
-excerpt: "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how grievances are dealt with at the Google-acquired company."
-publishedDateTime: 2022-03-30T15:35:00Z
+excerpt: "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how ..."
+publishedDateTime: 2022-03-30T15:42:00Z
 originalUrl: "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/"
 webUrl: "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/"
 type: article
-quality: 69
-heat: -1
-published: false
 
 provider:
   name: Ars Technica
@@ -28,54 +25,6 @@ images:
     height: 380
     isCached: true
 
-related:
-  - title: "Former DeepMind employee acuses company of mishandling sexual abuse complaint"
-    excerpt: "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations.."
-    publishedDateTime: 2022-03-30T17:28:00Z
-    webUrl: "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
-    ampWebUrl: "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e"
-        width: 1600
-        height: 1000
-        isCached: true
-  - title: "DeepMind Appeared At The Center Of Sexual Harassment Scandal"
-    excerpt: "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ..."
-    publishedDateTime: 2022-03-31T13:16:00Z
-    webUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/"
-    ampWebUrl: "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Deepmind rubbish at spotting sexual harassment"
-    excerpt: "In this case it is a human problem It is starting to look like the humans behind AI are worse than the actual technology as a former DeepMind employee has blasted the AI lab for being “grossly inadequate\" in dealing with internal sexual harassment."
-    publishedDateTime: 2022-04-01T09:56:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/54624-deepmind-rubbish-at-spotting-sexual-harassment"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/07d580bdbdac081780e69bc19a2dbef5_L.jpg"
-        width: 620
-        height: 453
-        isCached: true
-
-secured: "mB7Wan4b6+4jTKosxCT3lke8cS9GXkO3CfEh0ZiP4h5WFlck1RyPzxXTTnLB5iQUVALjkt5XwVbz3DMcqs4N5DqpUYMiuf9R9ovtElEozm28d+6qLrSFHqZ5fLfky+1DYSV4NC+Feb3xCLcDWXwWzpukpZ5oMUKfOu8TuIZltjeV5WR1ezrE+x08IQQPGmlbHXe3GlQiHEnv4b3VKrPgzXW4dm6bmquIho19nbKK4us4CEWQTsnpZsSGWlJoFsjYbn0R2IXSfs2c9UeGJrYZKrp3/GUiQYXh7fvlzBrGIaBQLEgixa5lOy6NgPdjBZ3Frbw/xp8kMen5/M4q8lqEvoO9iE+Nq2yDzkr5mfuh99xrTxHchH4uhPN53dvjEGztHUUrHQEHBxKRI9Qwl2ForOQg1Xm1sY+M4tULIvfT7mWAEkLc9ZsDtfIUuBlclsZDTlWQK8dll5ju+fPFljwcRsWGkUtt8AIoTmIFGZLRj3VW9laNbdwTSiQGUate1WSz2qC8ngrUFd3G3wnhmpKm/A==;nnpXScVtH9rRbKzJ7ptHrw=="
+secured: "hrkcoMaDWfxDT4lvCfF+qJ7WXKX79D4LerjtisSHuqaDfBsWwX49KUbgI7yITsrp/w/Ui047bAOiZVgf4Dstksg+feS2TiLHAVkZbhXoBv5u2djruapk+dvyN04N8orRbB4YWILtVEFprivsMeDFvzIYNx6NxPAE83yeT1ehTYSX+EQec4MLx2UJZVw/vIPA3/zcgybCagGVDIGbRip5MlW5GfdlCxeks7J05l8tyRQndoAgu+sXmK0Mx3LfxlI0KjPZ0ex921SnTcJLF3VNPTEGpFW/E5ByYAe82qvtMQQl9R3UFoSiKmy71qlxE/wu1OJeloAw4CAOklecuddFcJhFIj/BikKEQhPP8Ne3hZ0=;uEpgPD/OlZPHRpFyq9YDlA=="
 ---
 

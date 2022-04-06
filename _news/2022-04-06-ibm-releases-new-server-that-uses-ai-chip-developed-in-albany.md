@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesunion.com/business/amp/IBM-releases-new-server-that
 cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/aa7c503/2147483647/strip/true/crop/1440x751+0+105/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9e%2F71%2F67a0aaf546c78384ec8f6ce8981d%2Funiversity-at-albany.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Google releases new online Manga Tool that uses AI to optimize your art"
+    excerpt: "Google has just released a new online manga tool called Giga Manga. It allows users to create sketches and turn them into fully colored manga art that uses AI and machine learning. Using Giga Manga is ridiculously simple and could be the next big thing,"
+    publishedDateTime: 2022-04-06T00:11:00Z
+    webUrl: "https://goodereader.com/blog/manga-and-anime-news/google-releases-new-online-manga-tool-that-uses-ai-to-optimize-your-art"
+    type: article
+    provider:
+      name: Good e-Reader
+      domain: goodereader.com
+    quality: 37
+    images:
+      - url: "https://assets.goodereader.com/blog/uploads/images/2022/04/05200859/unnamed.jpg"
+        width: 1200
+        height: 713
         isCached: true
   - title: "UAlbany looking to make AI part of everything it does"
     excerpt: "And Thenkurussi \"Kesh\" Kesavadas wants to make sure that the University at Albany - and the Capital Region - take full advantage of all the opportunities and technological advances that are coming with the widespread use of AI in society - a tech revolution that is  taking place whether we are ready or not."

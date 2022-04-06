@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-me
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp"
 type: article
 quality: 106
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Space-Symposium-main-art_frame_394.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
-    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
-    publishedDateTime: 2022-04-01T08:57:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 47
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
-        width: 2560
-        height: 1920
         isCached: true
   - title: "Microsoft tests AI in space with HPE, partners with Thales Alenia and Ball Aerospace"
     excerpt: "Microsoft this week announced a slew of announcements for its space division. The company successfully trialed an artificial intelligence application in space, and signed deals with Ball, Thales Alenia,"

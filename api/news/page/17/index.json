@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-19-daos-will-never-develop-above-their-present-state-without-the-help-of-robots.md",
+      "title": "DAOs will never develop above their present state without the help of robots",
+      "excerpt": "DAOs (decentralized autonomous organizations) are already transforming the world by empowering significant groups of individuals to make autonomous choices. These groups are reducing the need for centralized management teams,",
+      "sourceUrl": null,
+      "webUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "originalUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tokeneo.com/uploads/2022/03/AI.jpg",
+          "width": 640,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "cdnAmpWebUrl": "https://tokeneo-com.cdn.ampproject.org/c/s/tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "publishedDateTime": "2022-03-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tokeneo",
+        "domain": "tokeneo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
+      "title": "Neuro-symbolic AI could provide machines with common sense",
+      "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
+      "originalUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1341811309-e1647616199862.jpg?fit=800%2C500&strip=all",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
+      "publishedDateTime": "2022-03-18T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-artificial-intelligence-paves-the-way-to-discovering-new-rare-earth-compounds.md",
       "title": "Artificial intelligence paves the way to discovering new rare-earth compounds",
       "excerpt": "Artificial intelligence advances how scientists explore materials. Researchers trained a machine-learning (ML) model to assess the stability of rare-earth compounds. The framework they developed builds on current state-of-the-art methods for experimenting with compounds and understanding chemical instabilities.",
@@ -1001,100 +1096,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi.md",
-      "title": "AI Startup Aibee Becomes Unicorn With Fresh Funds From Xiaomi",
-      "excerpt": "Aibee, a Chinese artificial intelligence startup, is getting fresh funding from smartphone maker Xiaomi Corp, which propels its valuation to more than $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTtsHgCl1wk/v1/1200x859.png",
-          "width": 1200,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-speech-recognition-software-helps-tibetans-communicate-better.md",
-      "title": "Speech recognition software helps Tibetans communicate better",
-      "excerpt": "CHENGDU: When away from home, Gerong, who speaks only Kamba Tibetan, a Tibetan dialect, often found himself in awkward situa­tions where few people could understand him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/03/18/speech-recognition-software-helps-tibetans-communicate-better",
-      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/03/18/speech-recognition-software-helps-tibetans-communicate-better",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

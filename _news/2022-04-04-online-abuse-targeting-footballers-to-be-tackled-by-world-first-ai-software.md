@@ -2,9 +2,9 @@
 category: news
 title: "Online abuse targeting footballers to be tackled by ‘world first’ AI software"
 excerpt: "The A-Leagues and players’ union will use new technology which acts as a filter to stop racist, homophobic, sexist and other harmful comments"
-publishedDateTime: 2022-04-03T23:58:00Z
-originalUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software?fr=operanews"
-webUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software?fr=operanews"
+publishedDateTime: 2022-04-04T07:01:00Z
+originalUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
+webUrl: "https://www.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
 ampWebUrl: "https://amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/football/2022/apr/04/online-abuse-targeting-footballers-to-be-tackled-by-world-first-ai-software"
 type: article
@@ -42,6 +42,6 @@ related:
       domain: mirror.co.uk
     quality: 31
 
-secured: "NoEG26Kfgd/ebkOl6Bh9g7UM20j/qjA3acsHmGd851GovH5q3SsdWuIVEl3AaAzIhsH+PBv7ohj7imi4xjTnqIOVwkCJlB8XOIrRiumJI1k2JvVzwVs+YsvdHJvrgTwgWObrTBOiqBp01pLRu0KtZCO3XXnOu/fEyKf6TQmLAnRvUn/JxPuxgw21wHzMsxM0lVvlFmMB+brI992rm3zRKq9mnzNNPM0rzlrrfj6kbvzFtttkcDuw+PcUyty1rOwW9D7JO7b98DYWMvkGwcfjULYtLvv42ZfHESOTRHcpz8p19AAokdun8HSQdkuMf2KXcOpyXAB0fClmjgupYoSB43A+dW0H6U8Ofu6rOstN5Ao=;QuXuwkbYDw6VzM6YO6URaw=="
+secured: "BNgxboLGoN+OIL+fuFmjBhgl9I6YikhKkvJ2daUCuxj5eFpJ+828/NHQH+ZaIsEfMiStSQOnfFXVX5ZZgfizLuJGb9r1VX/nVd3Yt5NONLaf3i5yYGCBv4yWKE6fr/Bs8vT/125D2nCX8epPHUGrcgMinyuCCAD027bF5ONCIpFOQNuBTFwYcqzwiK19RsNhC7lL614zBARq4JgrZbUWncrXA6Vg+35lHzVI/tjqe4uJ/V4BwC4FqHQqMxN6qeshT+sZFcnd7dRXgIpOK+tYJd2VD0RKkEE0iJK5OWP3+3pZDd6tOCDniAa1ubQUck9eF14v577KuBwhIGk4hBSDgv9WHDYYed3Sokm2S0xlp0Q=;FrogMWN2poy3Me7kmlxi7Q=="
 ---
 

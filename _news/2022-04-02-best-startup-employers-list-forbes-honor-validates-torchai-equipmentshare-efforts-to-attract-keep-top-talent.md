@@ -25,19 +25,14 @@ images:
 
 related:
   - title: "Forbes Names Torch.AI one of America's Best Startup Employers"
-    excerpt: "LEAWOOD, Kan., April 5, 2022 /PRNewswire/ -- Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U.S ..."
-    publishedDateTime: 2022-04-05T10:53:00Z
-    webUrl: "https://www.klfy.com/business/press-releases/cision/20220405CG14274/forbes-names-torch-ai-one-of-americas-best-startup-employers/"
+    excerpt: "Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U."
+    publishedDateTime: 2022-04-05T10:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/forbes-names-torch-ai-one-of-america-s-best-startup-employers-1031332405"
     type: article
     provider:
-      name: KLFY
-      domain: klfy.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1780450/Torch_AI.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "AKASA Lands Spot on the Forbes America's Best Startup Employers 2022 List"
     excerpt: "AKASA™, the leading developer of AI for healthcare operations, has been recognized by Forbes as one of America's Best Startup Employers in 2022. This prestigious award is presented by Forbes and Statista Inc."
     publishedDateTime: 2022-04-05T13:07:00Z
