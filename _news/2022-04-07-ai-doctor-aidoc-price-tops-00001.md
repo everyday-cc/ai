@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges"
-    excerpt: "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ..."
-    publishedDateTime: 2022-04-02T17:41:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 54
   - title: "Fetch.ai Price Tops $0.46 on Exchanges (FET)"
     excerpt: "Fetch.ai (FET) traded down 3.9% against the U.S. dollar during the 1 day period ending at 9:00 AM E.T. on April 3rd. One Fetch.ai coin can now be bought for about $0.46 or 0.00001000 BTC on major exchanges. In the last week, Fetch.ai has traded up 11.1% ..."
     publishedDateTime: 2022-04-03T13:19:00Z
     webUrl: "https://www.etfdailynews.com/2022/04/03/fetch-ai-price-tops-0-46-on-exchanges-fet/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
+  - title: "Spectre.ai Dividend Token (SXDT) Tops 1-Day Volume of $6.00"
+    excerpt: "Spectre.ai Dividend Token (SXDT) traded flat against the U.S. dollar during the 1-day period ending at 14:00 PM E.T. on April 3rd. During the last week, Spectre.ai Dividend Token has traded flat against the U."
+    publishedDateTime: 2022-04-03T18:24:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/03/spectre-ai-dividend-token-sxdt-tops-1-day-volume-of-6-00/"
     type: article
     provider:
       name: ETF Daily News

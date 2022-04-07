@@ -57,15 +57,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "3 Ways To Play The $300 Billion Fintech Boom"
-    excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
-    publishedDateTime: 2022-04-02T19:00:00Z
-    webUrl: "https://oilprice.com/Finance/the-Markets/3-Ways-To-Play-The-300-Billion-Fintech-Boom.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 4
   - title: "MarineTech funding set to explode, following course of FinTech"
     excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
     publishedDateTime: 2022-04-05T10:34:00Z

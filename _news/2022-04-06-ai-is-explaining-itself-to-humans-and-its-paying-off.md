@@ -56,6 +56,20 @@ related:
         width: 1360
         height: 1067
         isCached: true
+  - title: "Deep learning rising in importance within booming AI sector"
+    excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
+    publishedDateTime: 2022-04-06T01:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
+        width: 720
+        height: 480
+        isCached: true
   - title: "AI breakthrough explained to human operators"
     excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
     publishedDateTime: 2022-04-06T11:45:00Z

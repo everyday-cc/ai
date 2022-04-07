@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
+    excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
+    publishedDateTime: 2022-04-07T11:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "5/Jq1WogpEwNWbuSkiTqsyeKvwbwW2quzAeGtjdTts4VeIlraWJ4CC7ZrPnXYbhLTNLb/PhBw6SPIcWPdzHwiz9ixxGcwhaUJune1xx1Yf6OY4kz6N+sglFkfweihI5fAzp+7jYsrcTmLp18OruO4CGIK+hU+/3cOTy7Dp2iNASMEydcRfJIek99Sh8SnlvCtk7QtyXX94C75kJY2XWT83yOamVXjOzra8oQGiJ0mVoAtY1MTsHDZ4PcTtZFfhopbm2LL0zNs7rl9sh5pA4LC0LZv1hUVAbloX2j7mRKhWTdeA298y5dhKm/DeMN+qe6HBV+gGmXUVZchvPD51vj5isYd4kz3YwaEN0fAI221CQ=;M+20BjOhx11FsGE5MhIlvQ=="
 ---

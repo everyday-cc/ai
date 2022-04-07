@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-07T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/datarobot-releases-ai-cloud-8-0-all-new-features-and-updates/"
 webUrl: "https://analyticsindiamag.com/datarobot-releases-ai-cloud-8-0-all-new-features-and-updates/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/DataRobot-1.jpg"

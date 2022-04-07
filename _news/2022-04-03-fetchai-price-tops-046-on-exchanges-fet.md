@@ -7,7 +7,7 @@ originalUrl: "https://www.etfdailynews.com/2022/04/03/fetch-ai-price-tops-0-46-o
 webUrl: "https://www.etfdailynews.com/2022/04/03/fetch-ai-price-tops-0-46-on-exchanges-fet/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,17 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges"
-    excerpt: "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ..."
-    publishedDateTime: 2022-04-02T17:41:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/"
+  - title: "Spectre.ai Dividend Token (SXDT) Tops 1-Day Volume of $6.00"
+    excerpt: "Spectre.ai Dividend Token (SXDT) traded flat against the U.S. dollar during the 1-day period ending at 14:00 PM E.T. on April 3rd. During the last week, Spectre.ai Dividend Token has traded flat against the U."
+    publishedDateTime: 2022-04-03T18:24:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/03/spectre-ai-dividend-token-sxdt-tops-1-day-volume-of-6-00/"
     type: article
     provider:
       name: ETF Daily News
       domain: etfdailynews.com
-    quality: 54
+    quality: 17
   - title: "AI Doctor (AIDOC) Price Tops $0.0001"
     excerpt: "AI Doctor (AIDOC) traded 4.8% lower against the US dollar during the 1 day period ending at 15:00 PM E.T. on April 6th. AI Doctor has a market capitalization of $54,789.71 and approximately $51.00 worth of AI Doctor was traded on exchanges in the last day."
     publishedDateTime: 2022-04-06T21:06:00Z

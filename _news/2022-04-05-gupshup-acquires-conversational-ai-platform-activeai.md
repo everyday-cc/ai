@@ -43,6 +43,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai"
+    excerpt: "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai. | Crowdfund Insider: Global Fintech News, including"
+    publishedDateTime: 2022-04-07T11:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 60
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Telephone-Communicate-Talk-Call.jpeg"
+        width: 1196
+        height: 1280
+        isCached: true
   - title: "Gupshup acquires VC-backed Active.ai; eyes $100-200 mn in pre-IPO round"
     excerpt: "This is Gupshup’s second acquisition in 2022. Earlier in February it acquired cloud telephony company Knowlarity Communications, which is backed investors such as Sequoia Capital and Mayfield."
     publishedDateTime: 2022-04-05T05:03:00Z

@@ -43,6 +43,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai"
+    excerpt: "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai. | Crowdfund Insider: Global Fintech News, including"
+    publishedDateTime: 2022-04-07T11:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 60
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Telephone-Communicate-Talk-Call.jpeg"
+        width: 1196
+        height: 1280
+        isCached: true
   - title: "Gupshup acquires conversational AI platform Active.Ai"
     excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 5.."
     publishedDateTime: 2022-04-05T11:30:00Z

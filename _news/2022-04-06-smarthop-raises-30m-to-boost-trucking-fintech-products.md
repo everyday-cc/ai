@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-truck
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3 Ways To Play The $300 Billion Fintech Boom"
-    excerpt: "Fintech, aided by the emergence of artificial intelligence and big data, is one of the world’s fastest-growing - and most lucrative - new industries"
-    publishedDateTime: 2022-04-02T19:00:00Z
-    webUrl: "https://oilprice.com/Finance/the-Markets/3-Ways-To-Play-The-300-Billion-Fintech-Boom.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 4
   - title: "MarineTech funding set to explode, following course of FinTech"
     excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
     publishedDateTime: 2022-04-05T10:34:00Z

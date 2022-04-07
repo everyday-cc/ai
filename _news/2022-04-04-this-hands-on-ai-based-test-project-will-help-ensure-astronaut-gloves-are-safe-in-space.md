@@ -7,7 +7,7 @@ originalUrl: "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based
 webUrl: "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "International space station launches AI program to test astronaut gloves"
+    excerpt: "Spaceborne Computer-2 is providing insights in real-time, just months after it was delivered to the ISS, Nextgov confirmed."
+    publishedDateTime: 2022-04-07T11:00:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/04/international-space-station-launches-its-first-ai-program-test-astronaut-gloves/364039/"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 38
+    images:
+      - url: "https://cdn.defensesystems.com/media/img/cd/2022/04/05/040422spacebourneNG/860x394.jpg?1649170862"
+        width: 860
+        height: 394
+        isCached: true
   - title: "International Space Station Launches its First AI Program to Test Astronaut Gloves"
     excerpt: "Spaceborne Computer-2 is providing insights in real-time, just months after it was delivered to the ISS, Nextgov confirmed."
     publishedDateTime: 2022-04-04T20:30:00Z

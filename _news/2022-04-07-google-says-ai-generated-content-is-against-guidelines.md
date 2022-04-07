@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Consistent AI Video Content Editing with Text-Guided Input"
+    excerpt: "While the professional VFX community is intrigued – and occasionally feels a little threatened – by new innovations in image and video synthesis, the lack of temporal continuity in most AI-based video editing projects relegates many of these efforts to the ‘psychedelic’ sphere,"
+    publishedDateTime: 2022-04-07T11:33:00Z
+    webUrl: "https://www.unite.ai/consistent-ai-video-content-editing-with-text-guided-input/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/04/text2live-MAIN.jpg"
+        width: 818
+        height: 514
+        isCached: true
 
 secured: "VwFBuzHA6n8fBKr+TLWTjn/+hjiB354tpO19sWCJYVBrMi6dTuRnyhpp/iDzVDEXVQRR24UF6s5zfhDJ4bhE6tIuLTfRrojHqn/rA4LibLZjF0keBBwpzBEUu0CcJEA3aqQ2pVxk29V+bFlDuN4d9pu8cCH+QWWgmc2gqO5L91ONBuIGqyfcduMBWgqzbf6frkuc7aUsovxyZKlENbWxMY13XwIVKngyO00jKy6p+hXMmosvFGNPXURsmciENxrFNTyKJX80Rjliaf2yhd2re33SfmwiMAK5ZMpKVdTvy8rDRfbvUwtz2nKCYQ765Xxb3lzKHGWl1sgFN3XKeU0ilCvYjvArZPx1G32tFgcQLFI=;v/nlWgHoESBxZwHgtWqRog=="
 ---

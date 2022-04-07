@@ -51,6 +51,20 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 39
+  - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
+    excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
+    publishedDateTime: 2022-04-07T11:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "Nbf74iTp37xdj4VNtI+W3vvh/UMaDKdu7Haz4riu9kFGxWo0QGeELyH1nRrvnUy8I301ZF2fKuen1TIlva0SYekcYKfnkKSKiuv3NpADx4V7g72Tb1Nc+xbl3tO4jrawU/NXFw9nenJHsoVJ6s8VOg57hWUvJPK6sSaqbn4x73tcACSzynj9PtzuFFsa5FICD7SulsoN3BaWz6Q2B4zV1ykXqsGEafJ/l1gz6+5jy7y4PXMZKMgXgj7DMaUmzB3yE7I0B2z8gl2ETWGMF709PD82YoDpVP16rQMFSMMzGrpIkQ8H3/cJBTJQSWdAHEEr5zHcm9SyUTy96o7L24PNGk2sH6IbisQGDy8JMT4/EqOeT/nwU3q1xXY1pGJwq11/aeJSzWunSITp6mhPuOizRLOKx08H19QeE1qCD7U9RY2QYouUszFH2bJxiSdCLEaA4+O93MCiOzKS7mkXEPsNJbstRMW5lWa4NbKBhJdb10dltuAkfeatIEj9ohip84SsneuQIFMkhSmBKnlLn/68Cg==;5GBv23UxkcuZlWZIo1c1Ew=="
 ---

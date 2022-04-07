@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100
 webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,7 +55,21 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 39
+  - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
+    excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
+    publishedDateTime: 2022-04-07T11:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
-secured: "XyDYwQdJv/ICi7XmSSr+RXZ3fBjxN7i47hrSFa3FDr5/DWDm61nm/m31d0WIbbDxftDjfwxXN9klt/93qUSImem8TxlxjXu2ItxQqJG/UrxyFBuFcZxiChOg1h8lSY07r2TTW38NwRMlJuJS7Dy3lWk+qGOh02uxXwGJXapEIbahgmP7HgH0CZdmYd2UeTsDs+X7f7wVmtP4PKu/csMtusxwaU4STirayYUT6IZ+m9N0rV+dqoyBn6PylM1KFJd0yEcfHtQ4r7g8ja2kdxDkmB0prVWOQYkrULdWXuRTBndkXk4nGDLAzggUZ5B5AANCN8dGpXXcCGlJlNZX5Se9LxYr2DmLXbpFZQUNiZeHmIs=;Fy3izuTx8OnI+xBXpq94jA=="
+secured: "sY+5Rq6zQrLucG8WbEWk4yTXXQYAR6JiitQ52nloN7GLnvSAwgOXjaGAn2OWYyWg4ISpLghWDXSiqtQ6FWeiRLJVHCWDQKcaNAU15vREAbbzkChtN+Gel76yudWM8OJFt7oB+R9SzKNWMmcfMuRL2goaqDPHn7AohShPRHPret+FlxhXFiyDCTvJ4ZwXMcyFBQJrUEyQoNpgJ8Z1Y5sUjW3QF6Zyx8pCX4EGCAQdi5+4clQPgus3VUfBHwRH7yZ+kqDsr4zRlMyVcsclwmZtaDORvnJtVYFUKRNxxcMsdfChJub+i2uiK9jilNAXF43SZ2Arx/vbr67uyFHigTXwefl9D03QOzJfGnbE3fXgGmNB6N5ED+UYNFeOb7qB9mf4qXVwT3rZ4Tcd8TsLGJW2sTjA/Oc2tFx2/Th7RDGExBED1IGGF9h2RKLX7KSVusIC2cgruKkwuqgqXd1ffK4ztq3jwfFqysueXQUMc4vLh3oNKLbfCa/QjUFcdlPrGpmtn4geGSqwmm3HqSsEVlafLQ==;RF8xdfRm0tcd7OUqnADAvg=="
 ---
 
