@@ -20,16 +20,16 @@ topics:
 
 related:
   - title: "Examples of 'financial manager' in a sentence"
-    excerpt: "These examples have been automatically selected and may contain sensitive content that does not reflect the opinions or policies of Collins, or its parent company HarperCollins. We welcome feedback: report an example sentence to the Collins team."
+    excerpt: "These examples have been automatically selected and may contain sensitive content that does not reflect the opinions or policies of Collins, or its parent company HarperCollins. The financial manager shared his password with her on at least two occasions by e-mail."
     publishedDateTime: 2022-04-06T19:14:00Z
-    webUrl: "https://www.collinsdictionary.com/sentences/english/financial-manager"
+    webUrl: "https://www.collinsdictionary.com/jp/sentences/english-sentences/financial-manager"
     type: article
     provider:
       name: Collins Dictionary
       domain: collinsdictionary.com
     quality: 24
     images:
-      - url: "https://www.collinsdictionary.com/external/images/social/logo-THESAURUS.png"
+      - url: "https://www.collinsdictionary.com/jp/external/images/social/logo-THESAURUS.png"
         width: 596
         height: 310
         isCached: true

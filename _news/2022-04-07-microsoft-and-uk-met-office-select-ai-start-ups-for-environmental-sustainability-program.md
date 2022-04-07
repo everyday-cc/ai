@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft, Mlytics Partner To Scale AI Capabilities And Improve Web Performance"
-    excerpt: "further reiterating the importance of the decision to choose Microsoft as its AI cloud computing partner, and Azure Machine Learning as a key part of Mlytics’ AI strategies. Microsoft Azure Machine Learning has maintained agility, scalability ..."
-    publishedDateTime: 2022-04-02T09:23:00Z
-    webUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/"
-    ampWebUrl: "https://techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/microsoft-mlytics-partner-to-scale-ai-capabilities-and-improve-web-performance/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 70
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Inside the AI2 Incubator: Microsoft co-founder’s unfinished legacy fuels quest for new AI startups"
     excerpt: "Google Cloud and Microsoft Azure, as well as workstations at the incubator. But without the bankrolls of big tech companies or larger institutions, they need to be creative and scrappy in their approach, starting with pre-trained AI models in creating ..."
     publishedDateTime: 2022-04-06T14:21:00Z
@@ -128,6 +112,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/MicrosoftHPEastronautSpaceborneNA.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
+    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
+    publishedDateTime: 2022-04-07T01:57:00Z
+    webUrl: "https://cbs58.com/news/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better"
+    type: article
+    provider:
+      name: CBS 58
+      domain: cbs58.com
+    quality: 39
+    images:
+      - url: "https://newscdn2.weigelbroadcasting.com/2fGhW-1649297005-223113-blog-hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Microsoft, HPE put AI to work checking astronaut gloves"
     excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"

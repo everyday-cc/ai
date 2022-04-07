@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Examples of 'financial manager' in a sentence"
-excerpt: "These examples have been automatically selected and may contain sensitive content that does not reflect the opinions or policies of Collins, or its parent company HarperCollins. We welcome feedback: report an example sentence to the Collins team."
+excerpt: "These examples have been automatically selected and may contain sensitive content that does not reflect the opinions or policies of Collins, or its parent company HarperCollins. The financial manager shared his password with her on at least two occasions by e-mail."
 publishedDateTime: 2022-04-06T19:14:00Z
-originalUrl: "https://www.collinsdictionary.com/sentences/english/financial-manager"
-webUrl: "https://www.collinsdictionary.com/sentences/english/financial-manager"
+originalUrl: "https://www.collinsdictionary.com/jp/sentences/english-sentences/financial-manager"
+webUrl: "https://www.collinsdictionary.com/jp/sentences/english-sentences/financial-manager"
 type: article
 quality: 24
 heat: 24
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.collinsdictionary.com/external/images/social/logo-THESAURUS.png"
+  - url: "https://www.collinsdictionary.com/jp/external/images/social/logo-THESAURUS.png"
     width: 596
     height: 310
     isCached: true
@@ -35,6 +35,6 @@ related:
       domain: collinsdictionary.com
     quality: 4
 
-secured: "VmY8JdA7RiBOFH96b3SiPTBOrEGQShJDIPudF3hHGT9CW5pR6w/VOTkAp4xvodpKSQjG0ItwyHrJUtc/gmTkjOQA9N0TsHBR+1o6uGqWCoAfRPicXqdOXlsyjdorhMBv6N7ChK9jzoaXD+yiLPGFtb6Q2OdfbAklZ4RWqO5VGaBrueNRpmLRFl7kdYgnoYlb5QbTZ+MhAj2znLLo+C2W/i0EMaAdYsielxKAWn0U6J6NHqFuCBlCxlv9k8P4ZpguKESw1URxxWFeBPcpSRV0sKfw207JlPCsXxFxTaayR6Z4KtCJVxLTwfbZfAhKMrQWCbVif6psZviwTqWCDMeOCbkb/BRv/Gibrod2vvjIBfo=;XXQtY4Io70Voc2Fo9zwkNQ=="
+secured: "Tf2qpmY7n1Ndsn49kz4CdeY0Mo3maHaoFXTi78Qfma75b5oi8+ItmFaYCDCk/xlco1sI2gMMAzRUfJBbPgAUdPJ5o74zYLUP4pU2uxet/1oAMgTjWHf4tCJU1MDv7PX2LjNuQY5Lv1BrzMnIx6zwXOsse7Fz6UkF+f8rR5vz1U904EF2iDvg5UD8DPbY7cOS+2ALCYVpxJRvLtpNY6RFfQshXgvfG0tZjQqNS9viSeSPeEFQJoCzGdEVXnul2ER0Z1s1FKsYS6sghuPnWNAAJWS84sUGHk271kMGIcjgMrITR1+iocykx8neTJG07F1VUVGRhrc4WdlwkGiBXb2rcGoJOnxY9jONatlyLlmaOgI=;w2XLuIX0+UGVtcaNdu2RGQ=="
 ---
 
