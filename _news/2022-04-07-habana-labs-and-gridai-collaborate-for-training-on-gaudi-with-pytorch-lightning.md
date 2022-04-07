@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Hardware
 
 secured: "BZguymJjlXGPeGuWNRaitn8JqwfhAI/k/imwEH4GQ/ezU1kCSv9VQL6Sywex6fNNRpknkaNTfNVuyBnuXn+zuoBqcJb9BljddQ/M2hqfjG3w5a/J/Tk9qISWEXWt9IWLiOO7tILrSY99HHZcIU9R0EtSojoohYNQTYqbdKnuUiSnxT/tY2RqVaYHNaEY8YdBG5Q4Td8Vmxn9RtHJVojiVklVKJGx8uWbuO0GwJJ0hRYE8pueQa6ADcfxcslk0hTXYcYj9UMvrWAkwOWPGzy/nV6MBbU2wGweXrSWN3rXQSPpzSoZVMG17NS/gMWFs+rp+7roqHflPWxpxaGK6ztjQjLtb3vdfpk6prqLdHRHD5o=;bXwkFGc7TiMNPmPqsfn15A=="
 ---
