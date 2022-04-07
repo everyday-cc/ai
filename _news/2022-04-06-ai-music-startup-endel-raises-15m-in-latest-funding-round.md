@@ -81,6 +81,34 @@ related:
       name: Joplin Globe
       domain: joplinglobe.com
     quality: 17
+  - title: "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation"
+    excerpt: "Round will fuel global expansion of AI-driven healthcare platform that accelerates access to life saving treatmentsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Viz.ai, the leading AI-powered disease detection and care coordination platform,"
+    publishedDateTime: 2022-04-07T14:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-04-07/vizai-raises-100-million-in-series-d-funding-led-by-tiger-global-and-insight-partners-at-12-bil"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 15
+    images:
+      - url: "https://www.pharmiweb.com/Content/1x/roundal.png"
+        width: 656
+        height: 656
+        isCached: true
+  - title: "Kumo Emerges From Stealth to Launch Next Generation Predictive AI for Businesses; Raises $18.5 Million in Series A Funding led by Sequoia"
+    excerpt: "Kumo, a new SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions, today announced it has emerged from stealth with $18.5 million in Series A funding led by Sequoia Capital,"
+    publishedDateTime: 2022-04-07T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-282d8344fa7741e094e7d8cc09abfe87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "i8cVcY9TmiO8LZKzlm/uZS6o4UtfYSA8UQBISppVYxVeuF5EIUoZQeEkaz7Sr1Xvh9ApFoSGnBTF1lwoZiN+i4jDigPD/gNI4QJrRc3Szd3R7fi+8J8AXWPKYKkuyN9QI5RyK7vrTNONHfwjukwbsHKqd2C+2BP3eG/BtsjJop9hfzM1kkjpT/P9u9p1DUwSHTFDOPfZBQ+tZZqO1WrPSvl+ObcV1TTjXrPRf+vCBEFubqZ4ge4+/MeO5RtkYZi05024PPpZybJHbdgqcv+sC9cCNx2TVUo2Ff1qM8vxhqFHihX0Gph0D5twBL1o/5wDOVnIlYHY45w0tDfCUGHJO2TW/fc3guqzdsZyasW2NGbd6Krtg4XhcNmlZ5bP52w7cWZA8zZ/oPKarK0kenaJ+vwt4D0GLYeDjLPJVfUoE5PQoX+l9V31uRYPH7bPkLE3nkJtNNdLtHwGs9o/pTUP2ykavF1twd/5qVn4n3cAav8rtCIDnc7ypm/LhTHtpAh1B6W4Z+dOQsO7gmw82xKDiQ==;ROXCgKojxhFdSVkmZ4+QDQ=="
 ---

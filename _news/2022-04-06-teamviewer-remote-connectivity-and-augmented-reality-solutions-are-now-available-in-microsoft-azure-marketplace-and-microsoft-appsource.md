@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "TripleBlind Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Enterprises can now leverage TripleBlind to derive more value from the intellectual property of data and algorithms. KANSAS CITY, Mo., April 07, 2022 (GLOBE NEWSWIRE) -- TripleBlind, one of the only solutions that enables enterprises to combine data and algorithms while preserving privacy and ensuring compliance,"
+    publishedDateTime: 2022-04-07T13:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-data-privacy-0e01117d152d1037cfddb1b0d87329dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "TeamViewer Remote Connectivity and Augmented Reality Solutions Are On Available Microsoft Azure Marketplace and Microsoft AppSource"
     excerpt: "TeamViewer announced Microsoft customers can now purchase TeamViewer's enterprise remote connectivity suite, TeamViewer Tensor, and"
     publishedDateTime: 2022-04-06T10:21:00Z
@@ -42,6 +56,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/TeamViewer-Remote-Connectivity-and-Augmented-Reality-Solutions-Now-Available-in-Microsoft-Azure-Marketplace-and-Microsoft-AppSource-as-Transactable-Offers-01.jpg"
         width: 700
         height: 400
+        isCached: true
+  - title: "Microsoft Translator now translates isiZulu"
+    excerpt: "Microsoft has added isiZulu to its Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the company’s ecosystem of products and services."
+    publishedDateTime: 2022-04-05T08:50:00Z
+    webUrl: "https://gadget.co.za/microsoft-translator-now-translates-isizulu/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/04/Microsoft-translator.jpg?resize=630%2C600&#038;ssl=1"
+        width: 630
+        height: 600
         isCached: true
 
 secured: "+GLM9X2jDBQDztxOTND97L7cJPQuAOiKc7fOnEd7gY0ArDVJ2CnHgapl13JopvB4XAenrSonPYo3SzQrRHL39ktw9kljTV7OubG5QxlWfAQARifeUJfgNILRoDPTHHhFsrZWqYi+zPnlwtBJBoSF8+8wAm1vGGHAm6WT2RfjTsduikhyRgK585Ilj923dfP3DnUCOsZLDh2CFKvDvETPrPLcBxWwKHV74LYCfZvcuNpv/ybjGyd9Lc3t6d1eO2BtBoouX4EwnqIS3gl0JQXNslbbD0DmdRHIp05J1do9KLjV6DFg1LX6838TT85KZtfLKtwvoecNOmW8kZvsR1qE9un8foUd6MCfeEhbA3B90U3KKAy4aPhL1kKElYzjE8+rVn3RUKDQ5pMtOjXg5NlNcttCSrvrVUXXEJ1a/5t1aEMDmM22kk9HiB2nkecbSESDBY9UI/V1E8nZKzj7tX1DvwuaSlNDSx0OJexpekUxv7B3TlJYBrjnq7g1hmhBXcqMr7AbWC2ctp16WtJ9MciclQ==;XaQ7/HDIJAs7xNFppQgd9A=="

@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
-publishedDateTime: 2022-03-29T10:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
-webUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits"
+publishedDateTime: 2022-03-29T08:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "VRaQMSkQiD6q/cD63mPwz59wF1GwD4N3V4/hxM9oPD1Mbjt2uZ8N0noDFRj088t1logCy6Tfm+5tseGoDQ/H7QCld7Upgtoc+BxTFRoWdrtDImTOcyyyilyX0KXP9G3a+vnI1ACoeGqyjy7KceilZHFA2unh6gg+lNxUx3kwwasBM+LqWdsKgzfcqlGMZQDqZ16NGAqnEOwRvmgIN0M76IXj6FY4TTVc8vwWI8SNUW6XXT7HQgHchKDgNW+11G1mq4q/44tQLcSHw0C3LoJCXoibw3CWNniUtN6jIJJHy/RzROX6MjrcwEl6gg72g6acYIzDHMXkHow933eXkHNHEmRnzYZkxjmFclaAG3ZM3gw=;BJ9IvwDOIPdkTcRfzVtg+g=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "Vl7gL3qGn4m6cf6UALUpt2x17P7IW6p8W0rgu4s1Y3CWhk6Njhw6y/TcSyJUXYYqlU4b15KIfdPeVWUF80Z5+nfDtVByVhYVT3eW4W+meRgUQZBtIxuS2zGcrKXIxa3WugxX48sfk8+kx0ASVCNiJ5u69SYFApHAo5NvrOVO+CfCu24AWB2yOk/fepnv8lG6ZiNvV+8uPX8leLlRR6kqa4PuFdtxLOmGqRwqNdKvLExWklT4072IcAEW+r7EyW+fUFl+rDj/gHqs8prxfJ/z0kwfUX9MesfP00A7DWDiSbUZLneSJB/iWdiEyl7SuRnM3oLuasmvC9scwsD5HtDogqnH5DNISqJpVnCJIMm/0Sk=;+ZNPW0ouGu25ES+gehbLyw=="
 ---
 

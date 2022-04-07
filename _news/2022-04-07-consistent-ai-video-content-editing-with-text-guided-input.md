@@ -38,20 +38,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Deepfakes and AI-generated faces are corroding trust in the web"
-    excerpt: "It may not appear so but Vladimir Bondarenko, a Ukrainian blogger, has a lot in common with Keenan Ramsey, a “growth specialist” at Silicon Valley communications firm RingCentral"
-    publishedDateTime: 2022-04-02T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/falling-faker-makers-online-videos-kim-kardashian-p5bjzlwsd"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F8b9d214c-b1f1-11ec-b03d-8bd1be808b51.jpg?crop=3333%2C1875%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PpS9ZArtwreq1c+hDBa6FF3GtNFFL2GCzDh8Hkqrc4sqxQfyzpCKu2GtOt0Zvj+GIvjCTcF1HViKXXaUly/C34EHIExkK3Qg67rJm0UWmBPrqwyRkGh06uVbuiXXHZw+PHXGZug96TvDcntz5D12Ip/e7DeorwMrt22JjhWfuqZzVHVViy4S6MeEc9nHSK8GSDnFv1AOwQMsw1l5cPnlDxD5CVLXYtJu7I2Jm3OBf7yILnYPMepGodJjDZ3QaolrJuDARwX8fryvu5ODwPkam4CokvYC+52+guChajKCR5DJsPn+HYNxj0mDGjwnUy/pWlc1mHOGnUDGk0rd2IgrkSHL2KGyDhdvZk2moygSYxg=;3m0V7jBORitVNiByMV2pPg=="
 ---

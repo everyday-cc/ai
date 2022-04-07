@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/alexlazarow/2022/04/07/putting-the-green-back-into-greenbacks-with-climate-fintech/"
 webUrl: "https://www.forbes.com/sites/alexlazarow/2022/04/07/putting-the-green-back-into-greenbacks-with-climate-fintech/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

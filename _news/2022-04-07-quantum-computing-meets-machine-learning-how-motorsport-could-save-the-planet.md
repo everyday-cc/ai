@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T12:25:00Z
 originalUrl: "https://physicsworld.com/a/quantum-computing-meets-machine-learning-how-motorsport-could-save-the-planet/"
 webUrl: "https://physicsworld.com/a/quantum-computing-meets-machine-learning-how-motorsport-could-save-the-planet/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Physics World

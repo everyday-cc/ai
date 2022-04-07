@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T13:39:00Z
 originalUrl: "https://www.washingtonpost.com/business/confronting-ais-potential-to-create-new-chemical-weapons/2022/04/07/f271571a-b676-11ec-8358-20aa16355fb4_story.html"
 webUrl: "https://www.washingtonpost.com/business/confronting-ais-potential-to-create-new-chemical-weapons/2022/04/07/f271571a-b676-11ec-8358-20aa16355fb4_story.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Washington Post

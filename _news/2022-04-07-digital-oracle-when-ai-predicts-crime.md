@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T13:48:00Z
 originalUrl: "https://www.sify.com/technology/digital-oracle-when-ai-predicts-crime-news-ai-analytics-wehmMEdgebaef.html"
 webUrl: "https://www.sify.com/technology/digital-oracle-when-ai-predicts-crime-news-ai-analytics-wehmMEdgebaef.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Sify.com

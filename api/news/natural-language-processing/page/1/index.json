@@ -238,6 +238,40 @@
       ]
     },
     {
+      "path": "_news/2022-03-30-global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research.md",
+      "title": "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome",
+      "excerpt": "DeepBrain AI, an artificial intelligence (AI) company, announced today that it participated in the \"NVIDIA GTC 2022,\" the world's largest AI developer conference, and announced AI human-based research results and overall technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
+      "originalUrl": "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX21 News",
+        "domain": "fox21news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-how-speech-recognition-and-ai-are-fighting-insurance-fraud.md",
       "title": "How Speech Recognition and AI are Fighting Insurance Fraud",
       "excerpt": "By Nigel Cannings, CTO at Intelligent Voice. Speech recognition and AI technology are at the forefront of the fight against fraud in the insurance sector. As fraudulent individuals and organisations evolve,",
@@ -412,34 +446,34 @@
     {
       "path": "_news/2022-03-29-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility.md",
       "title": "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility",
-      "excerpt": "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences",
+      "excerpt": "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility/article_aa3c43f1-35a6-57cf-99b0-7683165e3dc8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T03:00:00-07:00",
+      "publishedDateTime": "2022-03-29T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1101,20 +1135,20 @@
     },
     {
       "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
-      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator’s 2022 Language Service Provider Index",
-      "excerpt": "Enhanced Localization and Globalization Services Solidifies Pactera EDGE as a Market Leader in Effective Brand Translations",
+      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index",
+      "excerpt": "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index",
-      "originalUrl": "https://www.digitaljournal.com/pr/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/03/SLATOR-LSPSI-Image.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1124,11 +1158,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T11:40:00-07:00",
+      "publishedDateTime": "2022-03-24T11:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1383,40 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-emotion-detection-and-recognition-market-worth-433-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

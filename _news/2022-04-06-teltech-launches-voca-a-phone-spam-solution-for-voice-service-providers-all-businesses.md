@@ -2,32 +2,28 @@
 category: news
 title: "Teltech Launches Voca, A Phone Spam Solution for Voice Service Providers & All Businesses"
 excerpt: "RoboKiller, the award-winning mobile app that blocks 99% of spam calls and text messages, is expanding beyond the consumer space. Today, it announced the launch of Voca, a robocall blocker and robocall mitigation solution for enterprise voice networks."
-publishedDateTime: 2022-04-05T20:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/teltech-launches-voca-a-phone-spam-solution-for-voice-service-providers-all-businesses-1031334699"
-webUrl: "https://markets.businessinsider.com/news/stocks/teltech-launches-voca-a-phone-spam-solution-for-voice-service-providers-all-businesses-1031334699"
+publishedDateTime: 2022-04-05T20:40:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-caa14ffdbdfb826c6a3b3b9c2fa25ce2"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-caa14ffdbdfb826c6a3b3b9c2fa25ce2"
 type: article
-quality: 45
-heat: 45
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1781028/Voca_Logo.jpg"
-    width: 600
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Xechw7NSV0v7+ZtgJ7CUmQde2SQf6OYstWSouwJabOyht5qbPkV+Cp/qOlm5bIwxnwS1nlPwydXiNy7/dXQxb1f0hhk1vyG1FtUTLhuvQjYhUMPKh251EZa9A3ohLVXlsKHPutX2pqj9rBfQQA1iwhd2v+W+3tOCMne35qK6EknBEDR9j0qcXxALwc12gKhhushen7FuZbmR+y0JQDhg8JU+OLW/6xB7IueDbH+8tnQmlQ5z3doIubdyXJlvyfrSueY7GjQVw7aOK2zBhwVIA2SfiT16PiUXEudGt0/yj48wEFbmZoloxr7bNrrVLFFBUVKSn3lKnSAsgiehKX5IcGD6LoSaF6vm0tmQcwkWMqmawBynbnzdYyiJ9X5LUeiQIkhqMJm8CJe2pEJh4nWvlNKZa5TO10+F5Dy9kCd2iLDp7KZsHz3te1ydH16qivEjc0yKanLshSdE9FWH8HG675JhCbjpnmCYtuh66JixoXr+bQC6HjGwVJPviCTSayL1HcW+Ivtnxp4pLraM8LI+0g==;8FZnp1YZhB6Bdhp9cA2v1Q=="
+secured: "nbDSJOM+nh9asmeHNNJjPqqPns7RKD62hCqb71nHeexWyB6ErsRegdN8Ap6Rks7LF2UHENmTPgLkzZznHEdOc4PtWBDYXpuhWN8umBGj3MVoDBLphvDEDKeoZFoxh9XRES6z/4TvZMykF8UHQZ4+PtPLgU3iEaQlCbmcXPQc+Sce10i2FKL2RalmAH+y/z/dFRuKjlHhqm/zmqV7rGsBBUOwCrWlhtzKGD0aqINEKyJhRrQ9W54Kze4tFPn0JRIlPGyIQOmhxzc+pKIv2u+J/Cb69Z648lIgI59ZQ6hGw4uosoV3SlV7SOOkvqhUgiHy1r5RXpCP8KnCltAj3lvXGu2R2MS7ujiRE5k7sB6vWRc=;zF5nh6k0P6WOsOmo8WV2PQ=="
 ---
 

@@ -35,6 +35,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
+    excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
+    publishedDateTime: 2022-04-07T12:00:00Z
+    webUrl: "https://techhq.com/2022/04/toyota-and-tesla-camera-project-to-lead-to-affordable-self-driving-vehicles/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 16
   - title: "Breaking News Live: Toyota joins Tesla in developing self-driving tech with low-cost cameras"
     excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss:"
     publishedDateTime: 2022-04-06T19:20:00Z

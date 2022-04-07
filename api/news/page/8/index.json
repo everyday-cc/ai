@@ -2,6 +2,195 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-30-otterai-which-powers-speech-transcription-with-ai-unveils-updates.md",
+      "title": "Otter.ai, which powers speech transcription with AI, unveils updates",
+      "excerpt": "The new Otter.ai hopes to streamline communication with what the company claims is \"the first use of conversational AI to power meetings.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
+      "publishedDateTime": "2022-03-29T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow.md",
+      "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
+      "excerpt": "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-boostupai-raises-29m-to-better-support-revenue-operations.md",
+      "title": "BoostUp.ai raises $29M to better support revenue operations",
+      "excerpt": "Santa Clara headquartered revenue operations platform BoostUp.ai today raised $28.5 million as part of its series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-680315933.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
+      "publishedDateTime": "2022-03-29T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told.md",
+      "title": "Lisa Smith chose to go to area controlled by ‘demonic’ terrorist group, court told",
+      "excerpt": "Lisa Smith, a former soldier who denies membership of Isis, chose to travel to an area controlled by the “demonic” terrorist organisation having rejected peace and integration to embrace what is militant and violent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
+      "originalUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/image-creator/?id=1.4839459&origw=1440",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-personalize-cross-channel-customer-experiences-with-amazon-sagemaker-amazon-personalize-and-twilio-segment.md",
       "title": "Personalize cross-channel customer experiences with Amazon SageMaker, Amazon Personalize, and Twilio Segment",
       "excerpt": "Today, customers interact with brands over an increasingly large digital and offline footprint, generating a wealth of interaction data known as behavioral data. As a result, marketers and customer experience teams must work with multiple overlapping tools to engage and target those customers across",
@@ -940,49 +1129,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-29-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility.md",
-      "title": "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility",
-      "excerpt": "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-29-concertai-a-startup-focused-on-cancer-research-raises-150-million.md",
       "title": "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million",
       "excerpt": "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion",
@@ -1030,156 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta.md",
-      "title": "Reid Hoffman's new start-up poaches first staff from Google and Meta",
-      "excerpt": "Inflection AI, the start-up launched by LinkedIn billionaire Reid Hoffman and DeepMind co-founder Mustafa Suleyman, has poached staff from Google and Meta.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta/ar-AAVBWX6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102361208-20150122-0467-1057.jpg?v=1421960237",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-      "publishedDateTime": "2022-03-29T01:48:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-        "domain": "com/2022/03/29/inflection-ai-reid-hoffmans-start-up-poaches-staff-from-google-meta.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
-      "title": "Artificial Intelligence (AI) in construction",
-      "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
-      "sourceUrl": null,
-      "webUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "originalUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AEC Magazine",
-        "domain": "aecmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics",
-        "AI in Finance",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins.md",
-      "title": "At Pompeii, A Robot Dog Is Helping Guard And Protect The Ruins",
-      "excerpt": "A quadruped robot named Spot is the latest piece of cutting-edge technology to come into service at Italy’s Archeological Park of Pompeii in a bid to protect the ancient site.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242ad9c2e9bb89728dcafe3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/amp/",
-      "publishedDateTime": "2022-03-29T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

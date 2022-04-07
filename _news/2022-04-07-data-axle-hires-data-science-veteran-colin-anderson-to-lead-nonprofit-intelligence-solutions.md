@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/data-axle-hires-data-science-veteran-colin-anderson-to-lead-nonprofit-intelligence-solutions/article_ee4866b6-27d2-5660-9450-282c87e94b63.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/data-axle-hires-data-science-veteran-colin-anderson-to-lead-nonprofit-intelligence-solutions/article_ee4866b6-27d2-5660-9450-282c87e94b63.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

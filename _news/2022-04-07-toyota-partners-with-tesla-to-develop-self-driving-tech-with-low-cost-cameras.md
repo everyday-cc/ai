@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
+    excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
+    publishedDateTime: 2022-04-07T12:00:00Z
+    webUrl: "https://techhq.com/2022/04/toyota-and-tesla-camera-project-to-lead-to-affordable-self-driving-vehicles/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 16
   - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
     excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
     publishedDateTime: 2022-04-06T18:25:00Z

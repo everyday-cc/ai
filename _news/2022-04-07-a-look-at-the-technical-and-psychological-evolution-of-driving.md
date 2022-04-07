@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T12:54:00Z
 originalUrl: "https://thenextweb.com/news/the-evolution-of-driving-towards-vehicle-automation-2"
 webUrl: "https://thenextweb.com/news/the-evolution-of-driving-towards-vehicle-automation-2"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Next Web

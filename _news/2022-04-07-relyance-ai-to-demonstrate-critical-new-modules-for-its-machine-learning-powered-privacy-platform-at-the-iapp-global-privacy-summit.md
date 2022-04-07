@@ -3,27 +3,57 @@ category: news
 title: "Relyance AI to Demonstrate Critical New Modules for its Machine Learning Powered Privacy Platform at the IAPP Global Privacy Summit"
 excerpt: "Relyance AI, the leading provider of AI-powered privacy, data governance, and compliance solutions, today announced it will showcase its groundbreaking platform and new software products at the upcoming IAPP Global Privacy Summit."
 publishedDateTime: 2022-04-07T10:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/relyance-ai-to-demonstrate-critical-new-modules-for-its-machine-learning-powered-privacy-platform-at/article_0cc0839b-0e94-5493-9d5a-ec4682c6998b.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/relyance-ai-to-demonstrate-critical-new-modules-for-its-machine-learning-powered-privacy-platform-at/article_0cc0839b-0e94-5493-9d5a-ec4682c6998b.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-199473ff096848f3b0e4deac12245c87"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-199473ff096848f3b0e4deac12245c87"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "WCSFXhDFVmp9lDUtJcBNZ7iOZSciLMxM2f5XwCzW1pUpYAaFMmAz+iidLSgIIhgRiFt8t2NV3SFbvxmMOAfAozSymHhf4lJSPj/cRLIbYR/5hSA83oBEqCOjkbdnUT5OF9ja1fDA3u3NwuZ2sHJg9wi+6wx7nAaY2V3qo0bY65sQeaP08NRt5nYOaSqEbzgSlRTgroVtdmRMYHykRYRhClsKF4jT3IIWdBv4kSJwXj/qG2kM3SgTVE7rqb402/9y5nPSZTlSFXPuu3mZyG7AIysr7RvkE5kEUZpzshzNOXZmBzLkBljRk7ZdEuyzKz8jkzUEalftUZqQHZbVz6XL8kkTQavwtRjLGnHBVg4Cx5tMAUz/ujQ3vaBgwBM7ghP2nkhsdPPcZc4WgRga/jt/5odovU8djAwO7qjyIxicD3mjeyFjZbjMLaNQ2qfhRodnykNXmaob9Pu1KotaiUvcCmAQsR0+oMscqoFRcFVV9F1CMoax2VcVp8KJN6mM2sANLYsmj1ViNmuEiwmrsYM9Wg==;KYmtBWYQj3xmgEsGJuGk0A=="
+related:
+  - title: "Next-generation AI cardiac imaging platform launches with new, FDA-approved modules"
+    excerpt: "Arterys announced it has added several new elements to its artificial intelligence-enhanced cardiac MRI platform and an additional FDA clearance for two quantification modules. According to a company press release,"
+    publishedDateTime: 2022-04-07T15:29:00Z
+    webUrl: "https://www.healio.com/news/cardiology/20220407/nextgeneration-ai-cardiac-imaging-platform-launches-with-new-fdaapproved-modules"
+    type: article
+    provider:
+      name: Healio
+      domain: healio.com
+    quality: 31
+    images:
+      - url: "https://www.healio.com/~/media/slack-news/stock-images/pulmonology/a/approved-fda_shutterstock.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Aidoc Delivers the Most Comprehensive Neuroscience Package for AI-driven Coordination with New FDA 510(k) Clearance for Brain Aneurysm"
+    excerpt: "Aidoc, the leading provider of healthcare AI solutions, announced today that it received its 9th FDA 510(k) clearance for triage and notification of brain aneurysm. This announcement further strengthens Aidoc's position as the leading provider of the most comprehensive,"
+    publishedDateTime: 2022-04-06T20:00:00Z
+    webUrl: "https://www.mystateline.com/business/press-releases/cision/20220406LN14767/aidoc-delivers-the-most-comprehensive-neuroscience-package-for-ai-driven-coordination-with-new-fda-510k-clearance-for-brain-aneurysm/"
+    type: article
+    provider:
+      name: WTVO
+      domain: mystateline.com
+    quality: 5
+    images:
+      - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/snapshot-4-1.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "HOT4u9O/yAyhbVnSBjDaF5xEarIxdGdKdKnLUNrxkamZf/bYKbJCbgoCsQOOo3ehum7bOmxq0Y8R9or/K0xG+mbsa3CmAirWJLnrPmLxWXJoPccPZaTdaEnD4rCUsCBSynkoRabu7o7yfyrxFNfd8p12MEgFvqBrDlWM0fL4pWEFHJe3T0XSmRRx/zkPkNGyWwIuNITYVJC4Ovyi2xAYqcA57Ziv1UQPkFwWRJbYbKSVtATggcP6TsKOS/CuGOQbo/+gqUSdvS9qaDoHpAQ4z6OO+nWLJ1tcolMdBuf3z76Vgt5ZcsdQ7QYv6JK9K4y9l3bRMVouYtMnekIs/wqHKG8IeC9Bhj3xuI7+8yDyp4k=;ue/+mkeUatTXmgWIZllQXw=="
 ---
 

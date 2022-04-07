@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T13:05:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/botgates-new-ai-bot-triples-conversions-with-conversational-marketing/article_3ddcd465-00e0-5954-9e19-d9b1f1bb648e.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/botgates-new-ai-bot-triples-conversions-with-conversational-marketing/article_3ddcd465-00e0-5954-9e19-d9b1f1bb648e.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: WFMZ-TV

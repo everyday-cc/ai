@@ -2,6 +2,142 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-30-how-to-find-the-business-value-in-ai-and-ml.md",
+      "title": "How to find the business value in AI and ML",
+      "excerpt": "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/",
+      "publishedDateTime": "2022-03-30T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-aera-technology-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Aera Technology Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "Aera Technology, the Decision Intelligence company, today announced it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Aera was recognized for its innovative Aera Decision Cloud™ platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve.md",
+      "title": "The Scarcity Of AI Talent: A Problem Of Our Own Making Is A Problem We Can Solve",
+      "excerpt": "The scarcity of AI talent is not an inevitable state of nature — it’s just easy to tell ourselves the story that it is, even as our own actions perpetuate the problem. The good news is that the problems we create,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/",
+      "originalUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622772ce83369a21d3beb604/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/",
+      "publishedDateTime": "2022-03-30T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-lotus-eletre-suv-revealed-with-hidden-self-driving-tech-tesla-doesnt-use.md",
       "title": "Lotus Eletre SUV revealed with hidden self-driving tech Tesla doesn't use",
       "excerpt": "The Eletre is slightly longer than a Ford Explorer, but only has two rows of seats. It’s equipped with a 600 hp all-wheel-drive system that Lotus says will be able to accelerate",
@@ -162,22 +298,13 @@
       "title": "Palo Alto Networks Launches a Managed Next-Generation Firewall Service for AWS to Accelerate Enterprise Journey to Cloud",
       "excerpt": "Palo Alto Networks (NASDAQ: PANW), a 10-time leader in network firewalls, today announced that it has teamed up with Amazon Web Services (AWS) to unveil the new Palo Alto Networks Cloud NGFW for AWS — a managed Next-Generation Firewall (NGFW) service designed to simplify securing AWS deployments — enabling organizations to speed their pace of innovation while remaining highly secure.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox16.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/",
-      "originalUrl": "https://www.fox16.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.fox16.com/wp-content/uploads/sites/84/2022/04/81e606ea50a7473fa4a22d4f4c4925c9.jpg?w=2000&#038;ssl=1",
-          "width": 1999,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -185,8 +312,8 @@
       "publishedDateTime": "2022-03-30T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox16.com",
-        "domain": "fox16.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -436,6 +563,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research.md",
+      "title": "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome",
+      "excerpt": "DeepBrain AI, an artificial intelligence (AI) company, announced today that it participated in the \"NVIDIA GTC 2022,\" the world's largest AI developer conference, and announced AI human-based research results and overall technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
+      "originalUrl": "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX21 News",
+        "domain": "fox21news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -986,195 +1147,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-otterai-which-powers-speech-transcription-with-ai-unveils-updates.md",
-      "title": "Otter.ai, which powers speech transcription with AI, unveils updates",
-      "excerpt": "The new Otter.ai hopes to streamline communication with what the company claims is \"the first use of conversational AI to power meetings.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
-      "publishedDateTime": "2022-03-29T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow.md",
-      "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
-      "excerpt": "TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran Bill Parsons has joined the firm as Executive Vice President & General Manager of TIFIN Grow.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-ef2bfcfef318948975a1a828c66b4ee2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-boostupai-raises-29m-to-better-support-revenue-operations.md",
-      "title": "BoostUp.ai raises $29M to better support revenue operations",
-      "excerpt": "Santa Clara headquartered revenue operations platform BoostUp.ai today raised $28.5 million as part of its series B round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-680315933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
-      "publishedDateTime": "2022-03-29T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told.md",
-      "title": "Lisa Smith chose to go to area controlled by ‘demonic’ terrorist group, court told",
-      "excerpt": "Lisa Smith, a former soldier who denies membership of Isis, chose to travel to an area controlled by the “demonic” terrorist organisation having rejected peace and integration to embrace what is militant and violent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
-      "originalUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4839459&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

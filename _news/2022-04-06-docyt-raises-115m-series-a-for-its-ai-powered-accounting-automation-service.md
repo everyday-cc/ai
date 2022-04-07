@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -85,6 +85,34 @@ related:
       name: Joplin Globe
       domain: joplinglobe.com
     quality: 17
+  - title: "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation"
+    excerpt: "Round will fuel global expansion of AI-driven healthcare platform that accelerates access to life saving treatmentsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Viz.ai, the leading AI-powered disease detection and care coordination platform,"
+    publishedDateTime: 2022-04-07T14:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-04-07/vizai-raises-100-million-in-series-d-funding-led-by-tiger-global-and-insight-partners-at-12-bil"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 15
+    images:
+      - url: "https://www.pharmiweb.com/Content/1x/roundal.png"
+        width: 656
+        height: 656
+        isCached: true
+  - title: "Kumo Emerges From Stealth to Launch Next Generation Predictive AI for Businesses; Raises $18.5 Million in Series A Funding led by Sequoia"
+    excerpt: "Kumo, a new SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions, today announced it has emerged from stealth with $18.5 million in Series A funding led by Sequoia Capital,"
+    publishedDateTime: 2022-04-07T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-282d8344fa7741e094e7d8cc09abfe87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "2+9UZzTtTZwNkaAf97+GFnAM7pO8gEEzNyr0ACYevXtPQi7UfS+MLOM7AP2rfmCi5kJa+PS2jANku06EJMLudx0z5JaMf9i9QRE5Ob6nbADHvTEQkygvAXs2bnzP8DGntGFQGT14FM3TN+DPRNZ/zlql0oxlP9FD56AdSSHc2AILY3OAFmBYGqusbc6gip04k6wE0eNl8N7gt0yakxl6F05NJIEn8+2dAHtgkzFRLCsa7p9sBCof9T2d8DqsjdlrEBEnjlL59dB9OHr0fSNCCcv0WPWMtAPB+4LVKmzkeDVg7plJBdEOutbsknQ9i1QstYphAp8T4XWQW/5WVfVMYF/sZobdab8VJCyU2/nXXcEd3DIKYSf5SEkERjEJEtTHub6MHqgghxGaBIC1v98uFBujA9PaMslwKU5SZVD+xFS2YuuA4tw9wZlzIcwY0leZwX2qXZ+nG/tKPpTdjgbXCRgWrfax3Yk2yNKI4tiYE3vBD+3KBR4L6GyWHY9sOLKNL5vr1FxoBOR3DCgD+TIUwQ==;Bi6Sa3GoLQCzJCtS9BYU1A=="
 ---

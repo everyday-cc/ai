@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T12:54:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272460050/jobaskit-wins-accolades-for-its-smart-recruitment-solutions-involving-human-and-artificial-intelligence"
 webUrl: "https://www.bignewsnetwork.com/news/272460050/jobaskit-wins-accolades-for-its-smart-recruitment-solutions-involving-human-and-artificial-intelligence"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Big News Network.com

@@ -1,20 +1,29 @@
 ---
 category: news
 title: "Benzema finds recognition at last after magical night for Real Madrid"
-excerpt: "Real Madrid might want both Kylian Mbappe and Erling Haaland this summer but Karim Benzema’s latest Champions League hat-trick shows they already have the world’s deadliest number nine. There is an even an argument to say Benzema is the finest player in the world"
-publishedDateTime: 2022-04-07T13:15:00Z
-originalUrl: "https://www.malaymail.com/news/sports/2022/04/07/benzema-finds-recognition-at-last-after-magical-night-for-real-madrid/2052181"
-webUrl: "https://www.malaymail.com/news/sports/2022/04/07/benzema-finds-recognition-at-last-after-magical-night-for-real-madrid/2052181"
+excerpt: "Real Madrid might want both Kylian Mbappe and Erling Haaland this summer but Karim Benzema’s latest Champions League hat-trick shows they already have the world’s deadliest number nine. There is an even an argument to say Benzema is the finest player in the world full-stop right now,"
+publishedDateTime: 2022-04-07T11:40:00Z
+originalUrl: "https://worldsoccertalk.com/2022/04/07/benzema-finds-recognition-at-last-after-magical-night-for-real-madrid/"
+webUrl: "https://worldsoccertalk.com/2022/04/07/benzema-finds-recognition-at-last-after-magical-night-for-real-madrid/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: World Soccer Talk
+  domain: worldsoccertalk.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "irkiBnkTKObetByriZtI6kLuFb54xvFYCp/V6fiYX/QPN85633ndAXRUI9a9JFQrz3v3vL54gmZ6eXg/4ybcvew/xV+EyJmIJtRfj2ftxnEsVoNsiY6rimdsekxbXOBqFIt/7daZaVcxWfNiOx5ZmunwE2A/P07Jq6AVaIVW+0CVaMIqvx5wJRigE4wQlMYurJCfMtUmdJ0VzPbesy9WqPJU/wR5MmveHl6EquFQhyJy4OoU3xWjpTennQSWzDJh5I4zfQ4daNCpEfVVr7KauDgSJnOc/9QOmSsW8ihTwyhdIx92PWo7TwMKw0PuDtLRfR2T8m5iK/dWD6aZ0LA6/n7LJmbob0I5M7SEEO0gc38UZxgGwbbsEGyk87+qaau6mq4D0oQg/+t9iWx3COdxGbOKQgT/NU28Ojp7n6i0BEyOZepkk3ekpe47gi8tWDmfqchxNvEdSSntCwenjsV70N6OzFbowQ3Tvc2K8Yk/3o97po3F7aCKoSK7LQeldjxzt8UXCbItnDwDGbWbClK6Ag==;aTZUh+Ze8nuA5YRemu4Qdw=="
+images:
+  - url: "https://worldsoccertalk.com/wp-content/uploads/2022/04/534fe0e3bf3435e969a62502280f259aa4c31e8b.jpg"
+    width: 768
+    height: 511
+    isCached: true
+
+secured: "/ugYUOjWv+VPbqNuDjpzacwBeMHAmu7X5aoaynTElk213VaZkV3gkdq7M8UrDGl9TGO58Sh5bhPM6gLWtCQeUlWnXmnViZOwu3gxFPRushZAH5FMfnxS3yYsHDLQkV32wvmgirXwlwk2dhN8t7KFD2Eykhey7DrBNm3ogb2B3zo3AeS0YA41wAO6AH/DS51plnW2UN6BKRBHm4gxL4+FrHZGYOCgTwHQ+fKRqBrSlP2+INKs9g2ZuSqo8/cspbamUg36upzO7kO/mprExbPxhEILRDV2fg9dZaDORpfpUKT8zOLX1g7VV/nBp2q/U+wZY6y8V5JMGG/EQi4yUD+l2HKxZUEWyg0HTtVhZDqdSes=;JBp6ERi26BDiXDDm/9SPpg=="
 ---
 

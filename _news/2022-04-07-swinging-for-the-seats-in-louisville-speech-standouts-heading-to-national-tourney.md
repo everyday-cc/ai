@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T12:00:00Z
 originalUrl: "https://mtstandard.com/news/local/swinging-for-the-seats-in-louisville-speech-standouts-heading-to-national-tourney/article_e252d1c0-5bfc-5884-b228-0594c1954165.html"
 webUrl: "https://mtstandard.com/news/local/swinging-for-the-seats-in-louisville-speech-standouts-heading-to-national-tourney/article_e252d1c0-5bfc-5884-b228-0594c1954165.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Montana Standard

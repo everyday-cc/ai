@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-07T11:30:00Z
 originalUrl: "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=12898&navigationaction=home&page=1&newssection=technology"
 webUrl: "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=12898&navigationaction=home&page=1&newssection=technology"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:

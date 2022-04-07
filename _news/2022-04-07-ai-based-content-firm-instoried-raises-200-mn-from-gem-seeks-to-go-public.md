@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T13:01:00Z
 originalUrl: "https://www.business-standard.com/article/companies/ai-based-content-firm-instoried-raises-200-mn-from-gem-seeks-to-go-public-122040701061_1.html"
 webUrl: "https://www.business-standard.com/article/companies/ai-based-content-firm-instoried-raises-200-mn-from-gem-seeks-to-go-public-122040701061_1.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Business Standard
