@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/57638486"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Virginia-based Self-Driving Truck Developer Torc Robotics is Opening a Tech Center in Stuttgart as its Ramps Up its Collaboration with Daimler Trucks"
+    excerpt: "Virginia-based self-driving truck developer Torc Robotics is opening a technology and software development center in Stuttgart, Germany named Torc Europe GmbH. The Stuttgart team will support the ongoing development of SAE Level 4 virtual driver for deployment in autonomous trucks in the United States."
+    publishedDateTime: 2022-04-06T23:15:00Z
+    webUrl: "https://www.futurecar.com/5327/Virginia-based-Self-Driving-Truck-Developer-Torc-Robotics-is-Opening-a-Tech-Center-in-Stuttgart-as-its-Ramps-Up-its-Collaboration-with-Daimler-Trucks"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 32
+    images:
+      - url: "https://img.futurecar.com/202204/06/l_624e1f14aa49e.jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
     excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
     publishedDateTime: 2022-04-06T17:45:00Z

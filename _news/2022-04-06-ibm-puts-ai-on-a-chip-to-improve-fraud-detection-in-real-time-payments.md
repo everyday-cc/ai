@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/04/IBM-z16.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 757
+        isCached: true
+  - title: "IBM’s z16 mainframe boasts on-chip AI acceleration"
+    excerpt: "IBM is refreshing its mainframe range by putting an artificial intelligence accelerator on the processor and surrounding it with new cryptographic features."
+    publishedDateTime: 2022-04-07T08:04:00Z
+    webUrl: "https://www.reseller.co.nz/article/696888/ibm-z16-mainframe-boasts-on-chip-ai-acceleration/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_204939925_3.jpg"
+        width: 473
+        height: 315
         isCached: true
   - title: "IBM z16 mainframe announced, with cryptography and real-time AI"
     excerpt: "IBM has today announced its next generation of mainframe, z16, to mitigate rising fraud and increase cyber resiliency"

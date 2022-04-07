@@ -24,59 +24,48 @@ images:
     isCached: true
 
 related:
-  - title: "Council Post: When AI met metaverse"
-    excerpt: "The metaverse is the distant evolution of Web3– a network of decentralised, virtual worlds powered by blockchain technology."
-    publishedDateTime: 2022-04-04T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-when-ai-met-metaverse/"
+  - title: "Velocity Capital Invests in AI-based Open-banking Personalised Offers Platform Network B"
+    excerpt: "Confidence in the AI-based personalised offers platform Network B continues to build thanks to recent investment from Velocity Capital Advisors. Network B is one of the leading open-banking and card-linked rewards platforms,"
+    publishedDateTime: 2022-04-07T09:10:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/velocity-capital-invests-ai-based-open-banking-personalised-offers"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Financial IT
+      domain: financialit.net
+    quality: 45
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/julien-tromeur-EOSHmMbjT8g-unsplash-copy.jpg"
-        width: 1600
-        height: 900
+      - url: "https://financialit.net/sites/default/files/twitter-card.png"
+        width: 700
+        height: 260
         isCached: true
-  - title: "Council Post: Beyond Explainable AI—How to infuse trust in AI systems"
-    excerpt: "Contractual trust is a concept that dictates and quantifies trustworthy AI. This is done by incorporating a set of phases in the DS workflow."
-    publishedDateTime: 2022-04-07T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-beyond-explainable-ai-how-to-infuse-trust-in-ai-systems/"
+  - title: "RAD Offers Cloud-based AI-powered E2E Network Diagnostics Service"
+    excerpt: "RAD, a global leader in network access, has released RADinsight PM, the first cloud-based, AI-powered performance monitoring service"
+    publishedDateTime: 2022-04-05T02:20:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24074-rad-offers-cloud-based-ai-powered-e2e-network-diagnostics-service"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
-        width: 512
-        height: 288
+      - url: "https://www.thefastmode.com/media/k2/items/src/71767c22d5b46c22062837edbb3d106f.jpg?t=20220405_020807"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Find Out How Artificial Intelligence Is Transforming Our Lives: Government, Metaverse, Climate Change, Health & More"
-    excerpt: "Find Out How Artificial Intelligence Is Transforming Our Lives: Government, Metaverse, Climate Change, Health & MoreThis is a Guest Blog by By Mr Animesh Samuel, CEO and Co-founder, E42Artificial Inte"
-    publishedDateTime: 2022-04-07T05:17:00Z
-    webUrl: "https://trak.in/tags/business/2022/04/07/find-out-how-artificial-intelligence-is-transforming-our-lives-government-metaverse-climate-change-health-more/"
-    ampWebUrl: "https://trak.in/tags/business/2022/04/07/find-out-how-artificial-intelligence-is-transforming-our-lives-government-metaverse-climate-change-health-more/amp/"
-    cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2022/04/07/find-out-how-artificial-intelligence-is-transforming-our-lives-government-metaverse-climate-change-health-more/amp/"
+  - title: "Australians demand for more digital services in government and are comfortable with personalised artificial intelligence, according to survey"
+    excerpt: "There is a large and growing demand for government services across Australia with the public comfortable using personalised artificial intelligence, according to the inaugural Publicis Sapient Digital Citizen survey."
+    publishedDateTime: 2022-04-07T00:11:00Z
+    webUrl: "https://itwire.com/your-it/australians-demand-for-more-digital-services-in-government-and-are-comfortable-with-personalised-artificial-intelligence,-according-to-survey.html"
     type: article
     provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 38
+      name: ITWire
+      domain: itwire.com
+    quality: 4
     images:
-      - url: "https://trak.in/wp-content/uploads/2022/04/Artificial-Intelligence-Banner-Opt-1280x720.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://itwire.com/media/k2/items/cache/2c5136e139e3d98baf9d8009e3477022_M.jpg"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Council Post: Does a lack of XAI put AI startups at risk of failing?"
-    excerpt: "Most startups offering AI/ML tools for decision making don’t make it because they can’t get a vote of confidence from the decision makers."
-    publishedDateTime: 2022-04-06T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-does-a-lack-of-xai-put-ai-startups-at-risk-of-failing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
 
 secured: "jFKOTFh7R9Z3dxAY33uoc4ODpzboBx+TDGkw02lvoj1g5eTg7VYnJupiruQHQ8MjLkBb1ACwZewm021S7QbsQk+LG5n60ItlPFULeKWco2DKPLePsAO+cJbKWWDGhhTxkmg07hVJn6P18pUVwOhTEg7mvhrVg6BfRAi+ha0QbWLoIE4x4k/HJlFobYi674H2x3V8mTyUkSm+Xrl2odK2STN1RrZfpMKnyO80lwTKK6ZDhBmyU6Wi6LRmNsjxHyI68E7EbsOQiNovxcB8yM6J9ViN/MmN0RhrnVhyArD4wswoJuu0FJiLljXY3t9xKd5AnelvcgF4yNXPBZv7yTV1dyd/UcYGJjcGpF3CLG5PzbQ=;zj4nskHFNp+cI8J43Fl43Q=="
 ---

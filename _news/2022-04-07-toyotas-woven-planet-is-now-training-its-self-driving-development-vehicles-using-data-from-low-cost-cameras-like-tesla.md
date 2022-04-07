@@ -35,6 +35,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Virginia-based Self-Driving Truck Developer Torc Robotics is Opening a Tech Center in Stuttgart as its Ramps Up its Collaboration with Daimler Trucks"
+    excerpt: "Virginia-based self-driving truck developer Torc Robotics is opening a technology and software development center in Stuttgart, Germany named Torc Europe GmbH. The Stuttgart team will support the ongoing development of SAE Level 4 virtual driver for deployment in autonomous trucks in the United States."
+    publishedDateTime: 2022-04-06T23:15:00Z
+    webUrl: "https://www.futurecar.com/5327/Virginia-based-Self-Driving-Truck-Developer-Torc-Robotics-is-Opening-a-Tech-Center-in-Stuttgart-as-its-Ramps-Up-its-Collaboration-with-Daimler-Trucks"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 32
+    images:
+      - url: "https://img.futurecar.com/202204/06/l_624e1f14aa49e.jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Aurora and Werner Enterprises Are Testing Self-Driving Tractor-Trailers on a Lonely Texas Highway"
     excerpt: "Aurora and Werner are testing self-driving tractor-trailer trucks on a crucial stretch of highway in Texas. The road, between Fort Worth and El Paso, is a key part of the busy Atlanta-to-Los Angeles truck route,"
     publishedDateTime: 2022-04-06T13:18:00Z

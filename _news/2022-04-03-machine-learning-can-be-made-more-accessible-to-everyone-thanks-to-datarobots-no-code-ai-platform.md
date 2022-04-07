@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/machine-learning-can-be-made-more-access
 webUrl: "https://bestgamingpro.com/machine-learning-can-be-made-more-accessible-to-everyone-thanks-to-datarobots-no-code-ai-platform/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 600
     height: 350
     isCached: true
+
+related:
+  - title: "DataRobot’s vision to democratize machine learning with no-code AI"
+    excerpt: "The growing digitization of nearly every aspect of our world and lives has created immense opportunities for the productive application of machine learning and data science. Organizations and ..."
+    publishedDateTime: 2022-04-03T13:15:00Z
+    webUrl: "https://thenextweb.com/news/datarobots-vision-to-democratize-machine-learning-with-no-code-ai"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FDataRobot-hed.jpg&signature=72c189e0d98284d7f1e24b48dbee894c"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "DataRobot releases AI Cloud 8.0: All new features and updates"
+    excerpt: "Boston-headquartered AI platform DataRobot has released AI Cloud 8.0 to help organisations drive growth, reduce operational costs, and improve customer engagement. DataRobot AI Cloud 8.0 can be deployed to public clouds,"
+    publishedDateTime: 2022-04-07T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/datarobot-releases-ai-cloud-8-0-all-new-features-and-updates/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/DataRobot-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "ZAdfS3PAOYFQPXBzzgGo+sVZNPg2Xdpb03a4wU9dsoV0DgNk9VQEpmLOOiVOzPqGoBs/CZ+r5j3g77DCegxcOLhenrjU688IB1USJGWpGskmznjTCjIDkM0Suv0dnol66aIduWYPDrSWIvKiN82Mn+uoA4b2lw/d+2SUVMPA37q0FGJbEw54X9ZUzZH5qehTkHndAG0linlSfcRo8zrSuxc12VHayCgKmMXDcaORixc4OLqGTTW1zQC6myeki46v/M0DjiHttZ5zXSOdWNZibZJt543NfORWJD1Ew7R9VbsLWn3zaQZH/DQNu5WyFdMhH5EQdizF6VP2XOCQVHExxQi5M+NdFXrrydWfbmyXJ9e0VENGOHMWNkrPpMGyO0IM7XA4W3vfy3+LeALY9JbsCER6tOyXENENsY43033No1YyfBnX+7Md9pntrPyNfyLO7wRvACLJl3BaZoMaV5V9bu1Wkg8gKQ2pWp+GpJaKhR48ELrN2XLbEDMu37MqV99r+4ojTUecprXOf+Sjk5aJoQ==;jjWv088BXofQyPhqCvt4kQ=="
 ---

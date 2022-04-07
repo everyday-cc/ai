@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Microsoft Azure off-planet space solutions are here"
+    excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
+    publishedDateTime: 2022-04-06T19:20:00Z
+    webUrl: "https://www.windowscentral.com/new-microsoft-azure-planet-space-solutions-are-here"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 54
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/04/azure.jpg"
+        width: 800
+        height: 445
+        isCached: true
   - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
     publishedDateTime: 2022-04-07T01:57:00Z

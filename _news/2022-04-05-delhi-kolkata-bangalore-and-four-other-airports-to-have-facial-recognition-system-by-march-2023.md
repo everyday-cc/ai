@@ -25,72 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition system at Pune airport by March 2023"
-    excerpt: "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner"
-    publishedDateTime: 2022-04-04T16:11:00Z
-    webUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html"
-    ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
+  - title: "Bangalore International Airport, AWS to open joint innovation center"
+    excerpt: "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement."
+    publishedDateTime: 2022-04-06T10:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: India Times
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg"
-        width: 1600
-        height: 900
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Facial recognition system to be launched at Pune airport in 2023"
-    excerpt: "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\"."
-    publishedDateTime: 2022-04-05T08:39:00Z
-    webUrl: "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
+  - title: "Bangalore International Airport, AWS announce Joint Innovation Center"
+    excerpt: "The JIC will focus on driving digital innovation for the airport, enhancing passenger experience, and creating positive impact for the community where the airport operates."
+    publishedDateTime: 2022-04-07T05:03:00Z
+    webUrl: "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
+    ampWebUrl: "https://www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
+    cdnAmpWebUrl: "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
+      name: media4growth
+      domain: media4growth.com
     quality: 74
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/5_tue/img_1649144346258_275.jpg?"
-        width: 537
-        height: 356
+      - url: "https://www.media4growth.com/public/thumbs/news/2022/04/6135/BIAL_Thumnail_440_851.jpg"
+        width: 715
+        height: 440
         isCached: true
-  - title: "Major airports will have facial recognition-based boarding by next year, says Civil Aviation Ministry"
-    excerpt: "DigiYatra, the government's paperless air travel project which uses facial recognition, will be implemented in major airports by 2023."
-    publishedDateTime: 2022-04-05T15:05:00Z
-    webUrl: "https://www.medianama.com/2022/04/223-facial-recognition-airports-india/"
+  - title: "Bangalore International Airport and AWS Announce New Joint Innovation Center"
+    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web Services"
+    publishedDateTime: 2022-04-06T11:51:00Z
+    webUrl: "https://technuter.com/breaking-news/bangalore-international-airport-and-aws-announce-new-joint-innovation-center.html"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 41
+      name: technuter.com
+      domain: technuter.com
+    quality: 51
     images:
-      - url: "https://www.medianama.com/wp-content/uploads/2020/07/morning-brew-U03369z5UBA-unsplash-scaled.jpg-e1649170570189.jpg"
-        width: 1280
-        height: 854
+      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
+        width: 277
+        height: 239
         isCached: true
-  - title: "Face Tech By 2023 | India's First Face Recognition Based Boarding System To Start"
-    excerpt: "In a bid to decongest airports and streamline passenger experience, the government has said it is going to roll out the facial recognition technology at airports across India by March 2023. Varanasi,"
-    publishedDateTime: 2022-04-04T13:43:00Z
-    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100"
-    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
+  - title: "Bangalore Airport and AWS Announce New Joint Innovation Center"
+    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web"
+    publishedDateTime: 2022-04-06T13:00:00Z
+    webUrl: "https://www.traveltrendstoday.in/news/technology/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
+      name: T3
+      domain: traveltrendstoday.in
     quality: 34
-  - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
-    excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
-    publishedDateTime: 2022-04-04T11:09:00Z
-    webUrl: "https://www.india.com/business/facial-recognition-technology-at-these-7-airports-by-march-next-year-govt-5319480/"
+  - title: "Bangalore International Airport and AWS Announce Joint Innovation Center"
+    excerpt: "Center will advance BLR's digital transformation vision, and enable startup-led innovation in aviation, smart infrastructure, utilities and mobility."
+    publishedDateTime: 2022-04-06T19:24:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21263167/kempegowda-international-airport-bengaluru-kiab-blr-bangalore-international-airport-and-aws-announce-joint-innovation-center"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 32
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 33
+  - title: "Advancements to Explore how Artificial Intelligence and Healthcare Information Technology are Reinventing Patient Care"
+    excerpt: "Learn about recent innovations in AI-powered healthcare applications. In this segment, Advancements will explore how innovations in technology and real-time data are solving real-world problems within healthcare intelligence."
+    publishedDateTime: 2022-04-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advancements-to-explore-how-artificial-intelligence-and-healthcare-information-technology-are-reinventing-patient-care/article_39cf7a79-1438-51be-90e2-01db84638e5e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "t59zwR4cQ07MhXUpQQE0niY21o8RYwYViLrBkcItNGs6xfa/MD7dYy/Gb/tcSuiJNlyRMhzSLnCMtMANAC2drb2kx5jmvnMmJomVgTaD0jVEXFjsy4hl2AB7JqdcpL1kGCotMGrSNWopAOUKxMNRZIXFiGdTEbFFWwfpv0dcqusZSXvO/QWbHCLEtEKofJ+/VwoslUYCP5JkcCvkYHJ/qjGyVBGsmH6/IuKAkJYofSc9cO5z+senJu+VUrCPmOLLiCvYjPm9IoO8xnl/LqRC2VF4WCQiOhCyOnLtuwJj0nP3gwXP/CKZe1iYyvJer/9rb3Yju+kjCjW+rPHz/roD5+Gf+XCRlgarJfL+Yx1zrKCdacQEwE1MHvMUCNkqgByJYVN7x3i+QgT6/m+1DiRyA+BvDSlms9UIRMTWcgKTVkQb5/IcZX22mxRnMHKMIoqTMW0aStfrzyQnyxsCqEhSYm/u0VZzi242pe3rNoj32GnnpHMfDZaGMSAepigUw8jak4dGkM2HZh+M9l45WYOQ7Q==;l3DgqF0ciw8Ltw+Q9lv9mw=="
 ---

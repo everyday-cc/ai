@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/pti-stories/indian-ame
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Standard
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indo-American AI startup Vianai System raises $200 mn; expands leadership team"
-    excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centred AI platform and products company,"
-    publishedDateTime: 2022-04-07T04:35:00Z
-    webUrl: "https://www.freepressjournal.in/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 53
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-05/7202a783-6eae-4f97-876a-26f15c7b697a/startup.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Indian-American's AI startup enlarges leadership team after raising $200 mn"
     excerpt: "Indian-American's AI startup enlarges leadership team after raising $200 mn - An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has"
     publishedDateTime: 2022-04-07T04:19:00Z

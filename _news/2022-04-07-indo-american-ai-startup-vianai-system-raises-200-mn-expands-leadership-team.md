@@ -26,36 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Indian-American's AI startup expands leadership team after raising $200 mn"
-    excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised USD200 million so far and added key members to its leadership team"
-    publishedDateTime: 2022-04-07T02:30:00Z
-    webUrl: "https://www.business-standard.com/article/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html"
+  - title: "Health-Tech Startup Viz.ai Raises $100 Million"
+    excerpt: "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion."
+    publishedDateTime: 2022-04-07T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 55
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg"
-        width: 620
-        height: 464
+      - url: "https://images.wsj.net/im-520037/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Indian-American's AI startup enlarges leadership team after raising $200 mn"
-    excerpt: "Indian-American's AI startup enlarges leadership team after raising $200 mn - An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has"
-    publishedDateTime: 2022-04-07T04:19:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/indianamericans-ai-startup-enlarges-leadership-team-after-raising-200-mn-nid-218560-cid-19.html"
+  - title: "Tata Capital infuses $10 Million in healthcare startup DeepTek"
+    excerpt: "Tata Capital announced $10 million in funding in Pune-based healthcare startup DeepTek recently. Tata Capital Healthcare Fund II."
+    publishedDateTime: 2022-04-04T04:13:00Z
+    webUrl: "https://www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/"
+    ampWebUrl: "https://www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/amp/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 35
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/pclJFatQ.jpeg"
-        width: 570
-        height: 367
-        isCached: true
+      name: PCQuest
+      domain: pcquest.com
+    quality: 39
 
 secured: "Nbf74iTp37xdj4VNtI+W3vvh/UMaDKdu7Haz4riu9kFGxWo0QGeELyH1nRrvnUy8I301ZF2fKuen1TIlva0SYekcYKfnkKSKiuv3NpADx4V7g72Tb1Nc+xbl3tO4jrawU/NXFw9nenJHsoVJ6s8VOg57hWUvJPK6sSaqbn4x73tcACSzynj9PtzuFFsa5FICD7SulsoN3BaWz6Q2B4zV1ykXqsGEafJ/l1gz6+5jy7y4PXMZKMgXgj7DMaUmzB3yE7I0B2z8gl2ETWGMF709PD82YoDpVP16rQMFSMMzGrpIkQ8H3/cJBTJQSWdAHEEr5zHcm9SyUTy96o7L24PNGk2sH6IbisQGDy8JMT4/EqOeT/nwU3q1xXY1pGJwq11/aeJSzWunSITp6mhPuOizRLOKx08H19QeE1qCD7U9RY2QYouUszFH2bJxiSdCLEaA4+O93MCiOzKS7mkXEPsNJbstRMW5lWa4NbKBhJdb10dltuAkfeatIEj9ohip84SsneuQIFMkhSmBKnlLn/68Cg==;5GBv23UxkcuZlWZIo1c1Ew=="
 ---

@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "Speech Recognition Market Size, Share | Analysis & Future Trends – 2026"
+    excerpt: "According to the study published by Allied Market Research, the global Speech Recognition Market is projected to register remarkable growth from 2021 to"
+    publishedDateTime: 2022-04-07T09:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-size-share-analysis-future-trends-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Mobile Robot Market Size, Future Trends, Segmentation, Total Margin, Opportunity Assessment Up to 2027"
+    excerpt: "The Global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
+    publishedDateTime: 2022-04-05T14:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-size-future-trends-segmentation-total-margin-opportunity-assessment-up-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
     excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
     publishedDateTime: 2022-04-04T06:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon
 webUrl: "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/"
 type: article
 quality: 104
-heat: 125
+heat: 124
 published: true
 
 provider:

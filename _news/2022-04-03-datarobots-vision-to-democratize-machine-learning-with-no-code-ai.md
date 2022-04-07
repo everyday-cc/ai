@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/datarobots-vision-to-democratize-machi
 webUrl: "https://thenextweb.com/news/datarobots-vision-to-democratize-machine-learning-with-no-code-ai"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: The Next Web
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Elevating human-machine relationships with no-code, reusable AI"
-    excerpt: "As shown in Figure 2, the bottom layer is a set of general-purpose machine learning models that any AI system relies on. For example, data-driven neural (deep) learning models, such as BERT and ..."
-    publishedDateTime: 2022-04-02T16:36:00Z
-    webUrl: "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/"
+  - title: "Machine learning can be made more accessible to everyone thanks to DataRobot’s no-code AI platform"
+    excerpt: "Because of the increasing digitalization of practically every part of our daily lives, machine learning and data science have opened up a plethora of new potential applications. There is a pressing need for organisations and institutions to innovate and reimagine themselves via the application of artificial intelligence and the proper use of their data."
+    publishedDateTime: 2022-04-03T16:20:00Z
+    webUrl: "https://bestgamingpro.com/machine-learning-can-be-made-more-accessible-to-everyone-thanks-to-datarobots-no-code-ai-platform/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 42
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/DataRobots-vision-to-democratize-machine-learning-with-no-code-AI.png"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "DataRobot releases AI Cloud 8.0: All new features and updates"
+    excerpt: "Boston-headquartered AI platform DataRobot has released AI Cloud 8.0 to help organisations drive growth, reduce operational costs, and improve customer engagement. DataRobot AI Cloud 8.0 can be deployed to public clouds,"
+    publishedDateTime: 2022-04-07T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/datarobot-releases-ai-cloud-8-0-all-new-features-and-updates/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/DataRobot-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "IhCRG18MI5lvqszHWBJ9JCqFia3/ShfsZ5b6hNhufira82FDv6iSxl4jFdKBejRxu0FnME8ROhXSjVHT7MT1Xc0KVQO6ismEhAvRbvi8C4Yj7+rmBzFyYVmwH8eNMObgNd2FswSFWGX6+pD3jiSuVdEkC9XTwRoUDckB2h8lrcF5atZVbNC8IHJA2ApWOeeYLHfnFYzjQLsHsMWrSghTZrF3J7y15w26Eh+oY9S46wJoyUZwIYFs8bYMpz8/hbzQdyIeNqMKLojPoCNppxfZ3qPC356D2MxjCB8Rdv1jwM75A8li8PhyFu/lPEivyeI90zKyxr4e9Ahi1Mqw3nAoA8fLp7T9qs+1aiBdPgQalbNvhMqHuv62u2LVamCU+N5YwiuCkffmaqsy2RcC0cGZdB9wGappLfxc/2UHM+mkXSHWn8nzVznHT9VeAekNPAHFhk7I54zB6oMd6zAzz3S2Z3viPeZx2GagmTVKLilGovbOtsz6RKdZ7/+Jj9/y20Nz8KoRAk1SPab556lejzmkrA==;a+otooUrkvB+5w6DQmRCzg=="

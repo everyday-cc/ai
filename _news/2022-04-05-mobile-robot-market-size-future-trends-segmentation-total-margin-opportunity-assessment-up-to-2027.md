@@ -25,47 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-04-05T08:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2028"
+  - title: "Speech Recognition Market Size, Share | Analysis & Future Trends – 2026"
+    excerpt: "According to the study published by Allied Market Research, the global Speech Recognition Market is projected to register remarkable growth from 2021 to"
+    publishedDateTime: 2022-04-07T09:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-size-share-analysis-future-trends-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 27
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Retail and e-Commerce Market 2022 Growth by Opportunities, Application, Current Trend and Forecast by 2031"
-    excerpt: "Comserve / -- Global AI in Retail and e-Commerce Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2031 Overview Globally, the retail industry has become more competitive than ever as customers have plenty of choices while buying any product."
-    publishedDateTime: 2022-04-03T21:39:00Z
-    webUrl: "https://menafn.com/1103954850/AI-in-Retail-and-e-Commerce-Market-2022-Growth-by-Opportunities-Application-Current-Trend-and-Forecast-by-2031"
+  - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
+    excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
+    publishedDateTime: 2022-04-04T06:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-size-share-growth-trends-industry-analysis-2030%EF%BF%BC"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?757197"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Speech Analytics Market Study Reveals Growth Factors and Competitive Outlook for Future Forecast 2022-2031"
-    excerpt: "The speech analytics market was valued at USD 1.34 billion in 2019 and is expected to reach a value of USD 4.38 billion by 2025 at a CAGR of 21.6%, over the forecast period. Speech analytical solutions have the ability to enable users to gain insights,"
-    publishedDateTime: 2022-04-06T22:32:00Z
-    webUrl: "https://menafn.com/1103968966/Speech-Analytics-Market-Study-Reveals-Growth-Factors-and-Competitive-Outlook-for-Future-Forecast-2022-2031"
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+  - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
+    excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
+    publishedDateTime: 2022-04-04T08:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/enterprise-manufacturing-intelligence-market-size-share-growth-opportunity-competitive-outlook-and-industry-trends-2021-2026"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?629956"
-        width: 375
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "Qwijp3ELWaF4+Ino9L2eYDI6dDoUSP0s6vAlwW3NI/+Z8IGXAcKsqttMWJAsOfeNMs/NFYhvZNIaTC1qE7Dxdsm8S3pCkXbMr8/EUDdJmXdQNUvaSdUrINQ1ADf9EBzctg14gZx+/IcjgHzH67P0UYWoAj+0vgCt4fEyhiiGNqVaTnT4Or02N2EDuxN4HrEd9MvHPXCiOyzRmRpRqEpazE2YxCAk9iYTA7agRr3T9mpm+GPLHXRtWb6aa39CWKZ9MQUq1rJSANfcIjlJmy1bwHOsfDvrfHELFT2K1lXFdmNEMnbzLL0vL7gaw6gYco3e4UVcEYLudbKfxs3Nb3OX8EbOsVdbI/BfFQMT2JeBfh/5jK65lny0n3MrsRcc+bX0S548LDuvrk8OSlcFbGhJEfBA2vklDeitmTFL76a8pqcNqurO8cIj7qfd7qKQO/tSJJuuQEmihJmyBRUzkbHBE/jZRgvGRcciOjmiAl2oTzLQAblGGmlC+C7PgvFjaZKAE1VmxLG3vsVMjiPNZiwcsg==;LVfSwOAAuL+wH6cFD25WMQ=="

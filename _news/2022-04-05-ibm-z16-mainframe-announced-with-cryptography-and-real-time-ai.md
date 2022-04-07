@@ -72,6 +72,20 @@ related:
         width: 1024
         height: 757
         isCached: true
+  - title: "IBM’s z16 mainframe boasts on-chip AI acceleration"
+    excerpt: "IBM is refreshing its mainframe range by putting an artificial intelligence accelerator on the processor and surrounding it with new cryptographic features."
+    publishedDateTime: 2022-04-07T08:04:00Z
+    webUrl: "https://www.reseller.co.nz/article/696888/ibm-z16-mainframe-boasts-on-chip-ai-acceleration/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_204939925_3.jpg"
+        width: 473
+        height: 315
+        isCached: true
   - title: "IBM introduces real-time AI for transaction processing"
     excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
     publishedDateTime: 2022-04-05T14:25:00Z

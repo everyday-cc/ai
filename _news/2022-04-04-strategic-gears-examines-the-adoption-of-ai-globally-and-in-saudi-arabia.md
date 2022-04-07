@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Saudi Aramco pursues diversification with artificial intelligence center"
+    excerpt: "Saudi’s state-owned oil company announced today its plan to support artificial intelligence (AI) research in the kingdom. Aramco signed a memorandum of understanding with King A"
+    publishedDateTime: 2022-04-06T22:29:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/04/saudi-aramco-pursues-diversification-artificial-intelligence-center"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 36
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-04/GettyImages-1229199670.png?h=a5ae579a&itok=jr1gk1BD"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Saudi Arabia issues new start-up licences to drive $608m investment, create 2,400 jobs"
     excerpt: "Saudi Arabia’s Ministry of Investment says licences are evidence of the kingdom’s burgeoning start-up and venture capital ecosystem Saudi Arabia issues new start-up licences to drive $608m investment,"
     publishedDateTime: 2022-04-03T13:00:00Z

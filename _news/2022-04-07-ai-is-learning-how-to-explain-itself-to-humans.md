@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
 type: article
 quality: 59
-heat: 100
+heat: 99
 published: true
 
 provider:
