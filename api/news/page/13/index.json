@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-24-how-fluid-organizations-use-ai-to-strengthen-their-people.md",
+      "title": "How Fluid Organizations Use AI To Strengthen Their People",
+      "excerpt": "Although easier said than done, in a world where technology is power, it’s time to share some of that power with your employees so they can help steer your company in the direction you want it to go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b21add5d49c100fe53d75/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "publishedDateTime": "2022-03-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-diversity-is-key-to-the-future-of-ai.md",
       "title": "Diversity Is Key To The Future Of AI",
       "excerpt": "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML.",
@@ -1139,40 +1190,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-emotion-detection-and-recognition-market-worth-433-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

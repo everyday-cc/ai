@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
+      "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
+      "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
+      "publishedDateTime": "2022-04-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-australian-football-uses-machine-learning-to-block-abusive-social-media-posts.md",
       "title": "Australian Football Uses Machine Learning To Block Abusive Social Media Posts",
       "excerpt": "Australia's A-Leagues and players’ union Professional Footballers Australia (PFA) are taking their own steps against online abuse by filtering player's social media proactively.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1087,49 +1139,6 @@
         "AI",
         "AWS AI",
         "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform.md",
-      "title": "How GE Healthcare Plans to Accelerate AI with a Digital Health Platform",
-      "excerpt": "Enterprise Data & AI featured guest speaker is Vignesh Shetty, SVP & GM, Edison Platform & Artificial Intelligence at GE Healthcare and his presentation ‘How GE Healthcare Plans",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/",
-      "originalUrl": "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ]
     }

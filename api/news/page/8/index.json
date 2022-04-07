@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-29-pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists.md",
+      "title": "Pinecone announces $28M Series A for purpose-built database aimed at data scientists",
+      "excerpt": "When Pinecone launched last year, the company’s message was around building a serverless vector database designed specifically for the needs of data scientists. While that database is at the core of what the company is doing,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
+      "originalUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1225803116.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
+      "publishedDateTime": "2022-03-29T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-isg-acquires-ai-platform-solution-agreemint.md",
+      "title": "ISG Acquires AI Platform Solution Agreemint",
+      "excerpt": "Information Services Group (Nasdaq: III), a leading global technology research and advisory firm, said today it has acquired automated contracting solution Agreemint from its foun",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
       "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
       "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
@@ -144,49 +230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
-      "title": "Artificial intelligence: A tool for the future of mining",
-      "excerpt": "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1131,58 +1174,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-datarobots-cloud-80-uses-ai-and-ml-to-predict-the-unpredictable.md",
-      "title": "DataRobot’s Cloud 8.0 uses AI and ML to predict the unpredictable",
-      "excerpt": "With the release of Cloud 8.0, DataRobot’s Continuous AI capabilities are available in on-premises environments and leading public clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1145968976.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/datarobots-cloud-8-0-uses-ai-and-ml-to-predict-the-unpredictable/amp/",
-      "publishedDateTime": "2022-03-28T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

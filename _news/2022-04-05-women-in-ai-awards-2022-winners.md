@@ -38,6 +38,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Annual Artificial Intelligence Summit"
+    excerpt: "Looking for the latest Government Contracting News? Check out more stories about Annual Artificial Intelligence Summit."
+    publishedDateTime: 2022-04-04T20:40:00Z
+    webUrl: "https://executivegov.com/tag/annual-artificial-intelligence-summit/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 37
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/04/ad/2a/5c/bc/ff/d4/4e/74/unnamed-file-2-480x384.jpeg"
+        width: 480
+        height: 384
+        isCached: true
 
 secured: "dNy/j4QVM38irJw7uvwHFoN6kxdtFcUQjV7qdrg4w+emTe9SNk3+7U173IkTlprZqQUuhg6xKQLejT9BhgtDRbP1RSIjmorlnyK8VrpC7VeZ3pwjRnaree64X1C1rM410k+F/jUg34OzN3zmSD+CK/26W1FQjrPoESZVdFkcBiZpmlIBfO4VTXBrQUAMmR07sgUU7Jm8CrKN3I4xkgl8UdPeilbtaWfKaNpVv8LVRlDfD5IA+8SurqS2VmoUr03xfuPWElhA88oWFOrAHMOmWMGCNroADID1R95J97zhAOV9wz0yxPBt3am+UwckJpojGxG+ge8BIIQ2Va6MG7NNWNjGbi6wDy7eQtqkmC6Xdsg=;fSiKfhyxWb3f4dBgyDLqNQ=="
 ---

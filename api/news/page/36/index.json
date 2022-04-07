@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-03-04-intel-12th-gen-alder-lake-vpro-arrives-with-ai-enhanced-security-for-smbs-and-enterprise.md",
+      "title": "Intel 12th Gen Alder Lake vPro Arrives With AI Enhanced Security For SMBs And Enterprise",
+      "excerpt": "One of the big upgrades of Intel's vPro platform for 12th Gen CPUs is a cutting-edge anomalous behavior detection (ABD) capability to thwart supply chain-style attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "originalUrl": "https://hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57870/content/Intel_vPro_12th_Gen_Badges.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-vpro-12th-gen-alder-lake-ai-enhanced-security-businesses",
+      "publishedDateTime": "2022-03-03T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-a-baby-cry-translator-a-company-uses-machine-learning-to-translate-your-infant.md",
       "title": "A baby cry translator? A company uses machine learning to translate your infant",
       "excerpt": "Switzerland-based startup Zoundream is working on a proprietary device that translates what they call the \"universal language\" of babies, with help of A.I.",
@@ -1125,58 +1169,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-gpu-market-size-2022-growth-status-and-forecast-by-2024.md",
-      "title": "GPU Market Size 2022| Growth, Status and Forecast by 2024",
-      "excerpt": "The GPU Market Size is projected to surpass $80 billion mark by 2024, according to a report by Global Market Insights, Inc. The accelerated adoption of AI & IoT technologies across a plethora of industrial sectors is expected to turn graphic processing unit (GPU) market into an extremely lucrative investment ground over the forthcoming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2022-growth-status-and-forecast-by-2024-2022-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2022-growth-status-and-forecast-by-2024-2022-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

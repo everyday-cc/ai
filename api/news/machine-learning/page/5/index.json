@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-03-02-researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.md",
-      "title": "Researchers explore a human speech recognition model based on machine learning",
-      "excerpt": "Hearing loss is a rapidly growing area of scientific research as the number of baby boomers dealing with hearing loss continues to increase as they age.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hearing_Loss-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220302/Researchers-explore-a-human-speech-recognition-model-based-on-machine-learning.aspx",
-      "publishedDateTime": "2022-03-01T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-03-02-global-deep-learning-chipset-market-share-2022-top-players-demands-trends-future-developments-and-investments-unique-business-prospects.md",
       "title": "Global Deep Learning Chipset Market Share 2022: Top Players, Demands, Trends, Future Developments and Investments, Unique Business Prospects 2028",
       "excerpt": "Mar 02, 2022 (The Expresswire) -- The most recent update on Global \"Deep Learning Chipset Market\" 2022 Report gives significant bits of knowledge on market improvements, valuable opportunities ...",
@@ -1412,6 +1368,49 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-21-researchers-use-magnetic-systems-to-artificially-reproduce-the-learning-and-forgetting-functions-of-the-brain.md",
+      "title": "Researchers use magnetic systems to artificially reproduce the learning and forgetting functions of the brain",
+      "excerpt": "Neuromorphic computing, a new brain-inspired computation paradigm, reproduces the activity of biological synapses by using artificial neural networks. Such devices work as a system of switches ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.html",
+      "originalUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-reproduce.jpg",
+          "width": 1410,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-magnetic-artificially-functions-brain.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-magnetic-artificially-functions-brain.amp",
+      "publishedDateTime": "2022-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

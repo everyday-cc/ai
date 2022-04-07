@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-02-how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform.md",
+      "title": "How GE Healthcare Plans to Accelerate AI with a Digital Health Platform",
+      "excerpt": "Enterprise Data & AI featured guest speaker is Vignesh Shetty, SVP & GM, Edison Platform & Artificial Intelligence at GE Healthcare and his presentation ‘How GE Healthcare Plans",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe.md",
       "title": "Machine Learning as a Service (MLaaS) Market Next Big Thing : Major Giants IBM, AWS, Microsoft, HPE",
       "excerpt": "This press release was orginally distributed by SBWireNew Jersey, NJ -- (SBWIRE) -- 04/01/2022 -- The Latest research study released by HTF MI",
@@ -1138,49 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
-      "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
-      "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
-      "originalUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
-      "publishedDateTime": "2022-03-31T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

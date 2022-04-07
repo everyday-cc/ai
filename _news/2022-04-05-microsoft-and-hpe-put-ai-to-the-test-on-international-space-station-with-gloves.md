@@ -57,8 +57,8 @@ related:
         isCached: true
   - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
     excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
-    publishedDateTime: 2022-04-06T02:37:00Z
-    webUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+    publishedDateTime: 2022-04-06T03:29:00Z
+    webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
     type: article
     provider:
       name: TechRadar

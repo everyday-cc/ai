@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
         height: 453
         isCached: true
 
-secured: "eno+FnDiAiAGqkU+Gg3FzsLXhQNc3wvRt6t09gfwyJQkFR0Flvi/kcxDWZdotLMPFonfhKNi9LU5fMPl3eNeHYPPL7l+uKuf2UdFj0XLFnZL2YrUeTZyZ1qDxbceJQQ8EAUUMf7nSlv9v9yDjJ8jg95UKyRh6t2diuphS7+N+m86BYohUG1TWm6Tlg5PL/m/OkFSeubzSNO/ielv6GejP2nXbxRWnqFFoWKSKUwvDANlZdxBSsu2e6JaMBP7jOW1vl6V/nQi21g1Q5WjMLDXxHm+Z9siza8FBsPMJ0sy5nazXO6QQBVS7B8m2cmYvHxoleZjUhKxMENBGw7QfxBjFepIRfxSuRStVQ+CmxGas+g=;oV8yBJnHuAYx27iiCygVCA=="
+secured: "ZgS0MyJSzvJxPA+CBqxNhy3dUHaoAdEH8uA5JOMH5cbXcqtWWDWZfKFQ83egDce/5Eh4i9E+Qngrwbt2oIBZQcIgzfIcRDCE392UB4TVh9G8uKL85HxuRw3fKcSiO3ncq5U8bJszz6PmyxolgEsUuNawv/Tjv3sLL/A1JXTaJmcJ4fNwhZoMpZmPQ/fI++yqpgXbXIAnI4Hi85kIRJ3+UY1z3D6HDFMAy078yGPsQQ+ixxYwFZpG+5LMHCtEQ4ob0FeWzv9aDW3nvhse3127ne5n0etVh6Eff/iC5C8QHElU31vDZL+wANnSHNjBi089LeUp7jEGLWGpQa+XpYhVRVIDEEebCdj+CUi6TuFsCSyiDdoG9wWFODvFs2T/iAdh3lylVlnawsP8hq47dzl4/7W4omedf+4nqqBGdf7TuSh3lVqMWWxG1rpk0E6vsCrZ/rnLjal/75QChM/l6L8x/EgCgtd1P86RBL9wHUJKi3b2WgGzzNAlCAIj3EdTF6PUXY4hRZXnYvnmmVrs/by4Kw==;PgoiF4JLKtIFUxBHuOMCiA=="
 ---
 

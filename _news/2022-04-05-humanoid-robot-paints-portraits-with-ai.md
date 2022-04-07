@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-
 cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

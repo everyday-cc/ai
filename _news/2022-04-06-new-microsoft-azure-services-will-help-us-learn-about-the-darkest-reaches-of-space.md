@@ -2,9 +2,9 @@
 category: news
 title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
 excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
-publishedDateTime: 2022-04-06T02:37:00Z
-originalUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
-webUrl: "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+publishedDateTime: 2022-04-06T03:29:00Z
+originalUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
+webUrl: "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space"
 type: article
 quality: 78
 heat: -1
@@ -153,6 +153,6 @@ related:
       domain: kyma.com
     quality: 19
 
-secured: "VNOUWVKwUCH50vQw3sQxUHlhRCx+rf8M8BXzY0/+cjFHeifDW5c4SbNV01sq0qLCM+sNIpuSHgH27tH6JIsVBYWexzHSOtk0xB+C9DWFowwbLU+AzEshNIfC2fZj5erXhew78yAk+Udq/tWtJpgTAIz+cWzZVHcA0vhKkqVrY//XkQyKWJ7D+i0tep7rP3Jjb4eovduCj4Zl4NC+FRXqvQoGy7aeLnvut9CR4O6Np0fRQ0XFqsaZQaqZ1mnIHdlwsvtrFQKxYNU7I6VXCdmkNNx9X5At8HBZ0vPXpzgUBgpn+frbxRFxU6nl0h0Ahbqm10LdLu98mI0s5laI/6kgGc4GppFjnqFLhQpNHF43XoUuZMn61mxmhvYkv4zaR6ykjPXs9shr+IjvxUyU6DS37gbICNKoGE9MGaVIuZQ8AriuDhHxzzIe0xFmryyigbFemo9MuufQOczjTdnqMv01x1M9eNMjA3KwP0BjGbUM3ITANX34B2qEpQ6AEzodt6AtvU/Bfd7rI73JMk9YbLTwhQ==;jam6gcP75qEO7qgRaum2bA=="
+secured: "Vu+c/mWXWclMOMfDpqrTuglyU/ZetIa3b7z1qrlr1+AI5dREJhSCbz2m4aPeToh7CfwalFz4GCHtrQoVm67z4/RyLQXmYSwVmUsksbndOpGmf5O+drmfvGU4Xpd1yAin/5L7Ed4JfCIMp6y5uy+Y5mhcSgmhiH2yYzAhWDPlLyYug3iuWjshSUyDETEkB5c9LXd4ZJ0NNl8Kj/OutNLztI/AsDwdqb1gA+Ghp4u4m/1l01M3X0MmxOh+482wuJVtpSMezDHuiF2dyx6Sl+B4l3/bKgt/3Ycgu+i8tFl/fvuY/uekO1y1NenZCTgqQv6w1mF0swuYlGpwRlavjW4VaF1m0wD2VwhMsKljkkPiduE=;xfNzZy6826uPwANhuNSN5A=="
 ---
 

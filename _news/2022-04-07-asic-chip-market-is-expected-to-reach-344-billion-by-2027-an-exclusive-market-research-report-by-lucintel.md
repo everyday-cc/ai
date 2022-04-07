@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market Size [2022-2029] Worth USD 1394.30 Billion | Exhibiting a CAGR of 20.1%"
+    excerpt: "The worldwide Artificial Intelligence Market hit USD 328.34 billion in 2021. The market valuation is slated to increase from USD 387.45 billion in 2022 to USD 1,394.30 billion by 2029 , expanding a 20."
+    publishedDateTime: 2022-04-06T22:29:00Z
+    webUrl: "https://menafn.com/1103969806/Artificial-Intelligence-Market-Size-2022-2029-Worth-USD-139430-Billion-Exhibiting-a-CAGR-of-201"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?629956"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Managed Services Market to reach USD 557.10 billion in 2028 , exhibiting a CAGR of 12.6% during the forecast period."
     excerpt: "Top Players in Managed Services Market are Fujitsu Ltd., Microsoft Corporation, NOKIA Corporation, Deutsche Telekom AG​, Verizon Communications Inc.,"
     publishedDateTime: 2022-04-06T09:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-s
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
       name: India.com
       domain: india.com
     quality: 32
-  - title: "Facial recognition firm to expand reach"
-    excerpt: "A controversial facial recognition company that's built a massive photographic dossier of the world's people for use by police, natio"
-    publishedDateTime: 2022-04-02T05:12:00Z
-    webUrl: "https://www.journalgazette.net/business/20220402/facial-recognition-firm-to-expand-reach"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 19
 
 secured: "YCchtGttmWdLtA5zPCilEwPysHFi2fgEsAjRmPjm55v3xNRy3t5lhPGs9OCKzp3HNW5+QYNAccQ0yObvIfGrRWE43Y0Sl44M6Qwvn4POrLNTwRG92gcUSNjEXpgAAHdIo295A6/z0D5HeCb9ET2WrJCxXvDpWkw7BSKyKwHNjradm+29mTcR440Odba9IeLN3VU+NBqebUxW591mKM5A0p2tg/meZNaZtqwBIF0VmUBDWe5V7DKOtxs1NdkfteJVDfOy0QIaBiq+YBh2rEUkSm2uxvUr9CBe2VCgH4WqRgWa39ZPFMGiDspRzHHdDXBaUk/jWnvpvdrIKaMnm+4VWd5HDhTVxb88xyLI8TyqmTU=;dWdFhNVMzeYeZwO2a7qE+A=="
 ---

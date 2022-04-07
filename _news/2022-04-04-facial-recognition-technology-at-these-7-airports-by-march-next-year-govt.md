@@ -90,15 +90,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 34
-  - title: "Facial recognition firm to expand reach"
-    excerpt: "A controversial facial recognition company that's built a massive photographic dossier of the world's people for use by police, natio"
-    publishedDateTime: 2022-04-02T05:12:00Z
-    webUrl: "https://www.journalgazette.net/business/20220402/facial-recognition-firm-to-expand-reach"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 19
 
 secured: "l7mGnWKuMK0C0jXfHCgSHfz8rxBpS60F9grXcna0T6wKV9HiFibpi67rBf0NRWXyrF7GUeejaWLiogBzpbk5/quARI9v/a3nM0WwPfT8VzdV1CrZaDpODZXzS6q78bccoA5L1HJLoflZrw59/XEfcR8cdVA6omW88KYU8PTag1gPB4nnwu0qKutNs+nz4V8ams2VPiTHX9cVqkAnTdZyYVDCYjX8TRLWGSeu/9C7DdwVzj+19eVynNbxDv4F90yRxzuPGFPA0/3IoEf0xnmFDude7A74QjDWtij3Pi5oi3rZ0mMK90gFnPDJNZPEFuDF0vgDSAc12QfcENR+Xk4PyaCii0G12saJAyHjm9G918ZqiRW7E0/yKAuGw/DWjusENj8B9RIfZ5n4MG1/vydHOGczSXsIGY2Npg8ZywyAIK8zHBpPbhSC/x3E7BHJciVSPC2kNO6oRv+k2S7ExyLE4FsxsRNUN2p+p+NSluRyTInCoNQbZYEz9EX2D5o9mLaDVE35CmFTBPNSWYmjckgDSQ==;sjuylJpsTLskTKAsWTNNoQ=="
 ---

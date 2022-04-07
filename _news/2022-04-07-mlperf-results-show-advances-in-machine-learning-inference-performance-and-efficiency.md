@@ -3,26 +3,25 @@ category: news
 title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
 excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
 publishedDateTime: 2022-04-06T17:01:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-engineering-0e2d26144038438787e6933a734718b2"
+webUrl: "https://apnews.com/press-release/business-wire/technology-engineering-0e2d26144038438787e6933a734718b2"
 type: article
-quality: 49
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
-  - Microsoft AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -48,20 +47,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Deci Boosts Computer Vision & NLP Models' Performance at MLPerf"
-    excerpt: "TEL AVIV, Israel, April 6, 2022 /PRNewswire-PRWeb/ -- Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were ..."
-    publishedDateTime: 2022-04-06T17:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/article_817fca60-097e-5e6a-9858-1e1659d1cd40.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 56
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "MLPerf Results Highlight Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons, an open engineering consortium, released new results for three MLPerf benchmark suites – Inference v2.0, Mobile v2.0, and Tiny v0.7. MLCommons said the three benchmark suites measure the performance of inference – applying a trained machine learning model to new data."
     publishedDateTime: 2022-04-06T19:55:00Z
@@ -76,7 +61,16 @@ related:
         width: 500
         height: 261
         isCached: true
+  - title: "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf"
+    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2."
+    publishedDateTime: 2022-04-06T18:08:00Z
+    webUrl: "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 36
 
-secured: "nwSiSdOE9n8U2BwBoIn8KdETJ2EKiTs+s08ccyOm+uujlXSwhlIPKmkAmZhYJCl7XW+ls3Jb5Ef+WQpNOSyope/xWxgp+KorWt3iIRfLt7X+0GwrzT0iGL3fPdhsY+ntUY40BoCsp9SQGpVhUKt14GEQ8cM092cglr4GZM2NDM3YmN9OoikIOafLUgqN/KPPwpjRmCEKGZIEWNqG3X6u23tJvcIyYR8hUZz2DQeq+fHWfI/xHhDo2NHeIZbcl9d8I/WFPN9L8logckIIPWld16B5AcxnNkBGbtTR6aakwfq9MkOPVUcFsgP/wmoAaEiDgL2xoOYLbd7aqrkqrZAtclPFVDAJctFJ0/2wvvhyAY4=;fYuHRoDkBWRLU2h7durarw=="
+secured: "W892Pon0rd9NNbK4TC273OODa8QrHtGlSORJZR12am8ISpOW15lganJ26Y99flvO1wzfal+PW6rLZy97RXI7ld1KkjH6TWmA/o2bBmoW5TVfCIwWTpq7kJazIuoZ30ijk14PaOv0PPx7IcqSigFcL9GIPIeXcdSBM870uQxF2eZMDUjq2n3fSYBPBpczdIsHRYM2UbhU4xPQkFtW6n+Lbcst+nh9VwVOthNES2qCCNea+/xqxR9NZ+qSJ0xhimKvyySAogjsiKqyF6usa44ZyQlyJg7z016Ju/ygoyFrJ0bpeKlYgk2J+b7xxHaO2akC+EUqU6Is76DyFNmVC1kf/t691MokL3WtoWLaxYhT5iY=;iVGQWWvUSUnTABS7adrrqg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/forbes-names-torch
 webUrl: "https://markets.businessinsider.com/news/stocks/forbes-names-torch-ai-one-of-america-s-best-startup-employers-1031332405"
 type: article
 quality: 47
-heat: 48
+heat: 47
 published: false
 
 provider:

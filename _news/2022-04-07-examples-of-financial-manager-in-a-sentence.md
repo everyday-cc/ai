@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Examples of 'financial manager' in a sentence"
-excerpt: "These examples have been automatically selected and may contain sensitive content that does not reflect the opinions or policies of Collins, or its parent company HarperCollins. The financial manager shared his password with her on at least two occasions by e-mail."
+excerpt: "These examples have been automatically selected and may contain sensitive content that does not reflect the opinions or policies of Collins, or its parent company HarperCollins. We welcome feedback: report an example sentence to the Collins team."
 publishedDateTime: 2022-04-06T19:14:00Z
-originalUrl: "https://www.collinsdictionary.com/jp/sentences/english-sentences/financial-manager"
-webUrl: "https://www.collinsdictionary.com/jp/sentences/english-sentences/financial-manager"
+originalUrl: "https://www.collinsdictionary.com/sentences/english/financial-manager"
+webUrl: "https://www.collinsdictionary.com/sentences/english/financial-manager"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.collinsdictionary.com/external/images/social/logo-THESAURUS.png"
+    width: 596
+    height: 310
+    isCached: true
 
 related:
   - title: "Ejemplos de \"financial manager\" en una oración"
@@ -29,6 +35,6 @@ related:
       domain: collinsdictionary.com
     quality: 4
 
-secured: "5tINz7JPJc4XURN9xenaZZN7nqLUYM4YTvRQc2KAeZLNy2ohPqU54RXZcqAHthcS4TMulNL7DiorNUNV44BO7KvjHl73j5mB9TdsT5hvzGlBas1EsG/auhGwz+dwNNpsC8O7KNIIJ3g2nB2pxe/OktyamUXYZvd09dWzJ+fkGC0xpYeunxxeuIbOrhylRNcqckA2mdqynLjK7Y0HAdOsB0OZ22im/efnIky0w/3TTTCKJGos/4gvW9c7wu2KsJ+6cqn64vDK0GwRY9vOSDNpIjrdXrf/cxq0+pKs0nPbv3rYKauEA5KapdEyZ1M4+NW7ovG8rJ6MmORNz8wUVCiP2OcKvSdhXVdHjcLacE9lJNIPWX/eAzHBnmTWligSZ1Rz9PEr0aKmCNEoMAGXcBFRYSKeXSf9cPqoEcG4p5zeky0UNI8Z0v1ROevxyARhx/cOjPV4uq10Iq76TTZ139ZYRUQdbgk5Gz92VOgPBZKKSJZQnnA+QhmJS8/WSvSB+bDBhaETqMjxjP2MHyyArsaTrA==;Ef4lkxkJs9Hz8B7/LYbPWg=="
+secured: "VmY8JdA7RiBOFH96b3SiPTBOrEGQShJDIPudF3hHGT9CW5pR6w/VOTkAp4xvodpKSQjG0ItwyHrJUtc/gmTkjOQA9N0TsHBR+1o6uGqWCoAfRPicXqdOXlsyjdorhMBv6N7ChK9jzoaXD+yiLPGFtb6Q2OdfbAklZ4RWqO5VGaBrueNRpmLRFl7kdYgnoYlb5QbTZ+MhAj2znLLo+C2W/i0EMaAdYsielxKAWn0U6J6NHqFuCBlCxlv9k8P4ZpguKESw1URxxWFeBPcpSRV0sKfw207JlPCsXxFxTaayR6Z4KtCJVxLTwfbZfAhKMrQWCbVif6psZviwTqWCDMeOCbkb/BRv/Gibrod2vvjIBfo=;XXQtY4Io70Voc2Fo9zwkNQ=="
 ---
 

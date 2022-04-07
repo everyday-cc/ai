@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Market Size [2022-2029] Worth USD 1394.30 Billion | Exhibiting a CAGR of 20.1%"
+    excerpt: "The worldwide Artificial Intelligence Market hit USD 328.34 billion in 2021. The market valuation is slated to increase from USD 387.45 billion in 2022 to USD 1,394.30 billion by 2029 , expanding a 20."
+    publishedDateTime: 2022-04-06T22:29:00Z
+    webUrl: "https://menafn.com/1103969806/Artificial-Intelligence-Market-Size-2022-2029-Worth-USD-139430-Billion-Exhibiting-a-CAGR-of-201"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?629956"
+        width: 375
+        height: 250
+        isCached: true
   - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
     excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
     publishedDateTime: 2022-04-06T20:50:00Z

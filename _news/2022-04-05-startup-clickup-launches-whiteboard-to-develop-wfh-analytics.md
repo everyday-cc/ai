@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
 type: article
 quality: 72
-heat: 83
+heat: 82
 published: true
 
 provider:

@@ -2,6 +2,42 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-03-17-these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist.md",
+      "title": "These 2 Artificial Intelligence Stocks Are Set for Strong Growth, Says Truist",
+      "excerpt": "Let’s talk about artificial intelligence. AI is a growing segment of the tech sector, finding uses in almost every industry, especially those featuring autonomous systems. Self-driving cars, industrial robots,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
+      "originalUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
+      "publishedDateTime": "2022-03-16T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-5-key-themes-in-americans-views-about-ai-and-human-enhancement.md",
       "title": "5 key themes in Americans’ views about AI and human enhancement",
       "excerpt": "Americans regard advances in artificial intelligence and human enhancement technologies ... media companies to find false information on their sites and a future with driverless passenger vehicles. It also explores three developments tied to the ...",
@@ -1049,39 +1085,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance.md",
-      "title": "Startup Aims To Bring AI Technology To Defense, Starting With Maritime Surveillance",
-      "excerpt": "Modern Intelligence, a startup technology company, on Wednesday emerged from stealth mode with a $5 million funding round to help bring a new artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.defensedaily.com/startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance/business-financial/",
-      "originalUrl": "https://www.defensedaily.com/startup-aims-to-bring-ai-technology-to-defense-starting-with-maritime-surveillance/business-financial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense Daily Network",
-        "domain": "defensedaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

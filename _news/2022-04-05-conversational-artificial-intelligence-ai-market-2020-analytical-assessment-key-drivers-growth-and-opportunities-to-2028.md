@@ -53,6 +53,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Speech Analytics Market Study Reveals Growth Factors and Competitive Outlook for Future Forecast 2022-2031"
+    excerpt: "The speech analytics market was valued at USD 1.34 billion in 2019 and is expected to reach a value of USD 4.38 billion by 2025 at a CAGR of 21.6%, over the forecast period. Speech analytical solutions have the ability to enable users to gain insights,"
+    publishedDateTime: 2022-04-06T22:32:00Z
+    webUrl: "https://menafn.com/1103968966/Speech-Analytics-Market-Study-Reveals-Growth-Factors-and-Competitive-Outlook-for-Future-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 6
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?629956"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "kc1Ae4aDD2FRbNWFlTlBqBykTw5I4H1xC+2UQwH3IPcBeuKjzeFCqSxogiO/OG1mTn1uvpmIs5zcNFMUmWln4K2pl1qUEMa5MFd9Gz8yXg911qeywEKlPrzGnm//igkcg33+3zbvW83gdkXvQTJ5MyGVZrkpacvPLI9zb6tip2Y5MaAcDNNHyUBzjUqQp0xHwKUKQYrFnf/b4hivDMP+iOBSWTC7m1pfKzR/OFYyG6q470MrIPZi2dhz6p+IFBIWHB/dHRy1ALc03ARCd3kOif+FQhfFJGnZcAI8Di6l4JqpGbUIj9icnVKUJmQDPLViAqpwVGsMtRg2mM/A2lz4XQBrrA0rUcqGihS7c2eB7LI=;bqTxEUDhM2lq+OvzIxGUrA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=642351"
 webUrl: "https://us.acrofan.com/detail.php?number=642351"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Monitaur launches GovernML to manage AI data lifecycle"
+    excerpt: "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio."
+    publishedDateTime: 2022-04-06T22:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/"
+    ampWebUrl: "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
     excerpt: "Monitaur, an AI governance software company, announced the general availability of GovernML, the latest addition to its ML Assurance platform, designed for enterprises committed to responsible AI. Offered as a web-based,"
     publishedDateTime: 2022-04-05T20:36:00Z

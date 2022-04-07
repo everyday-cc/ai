@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

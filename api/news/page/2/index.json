@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-05-customize-the-amazon-sagemaker-xgboost-algorithm-container.md",
+      "title": "Customize the Amazon SageMaker XGBoost algorithm container",
+      "excerpt": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/18/ML-2441-archdiag.png",
+          "width": 570,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T10:24:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
       "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
@@ -475,7 +527,7 @@
       "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -562,7 +614,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -665,7 +717,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -759,7 +811,7 @@
       "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -897,7 +949,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -949,7 +1001,7 @@
       "originalUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1128,58 +1180,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations.md",
-      "title": "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations",
-      "excerpt": "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/",
-      "publishedDateTime": "2022-04-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

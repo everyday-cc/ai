@@ -91,15 +91,6 @@ related:
       name: India.com
       domain: india.com
     quality: 32
-  - title: "Facial recognition firm to expand reach"
-    excerpt: "A controversial facial recognition company that's built a massive photographic dossier of the world's people for use by police, natio"
-    publishedDateTime: 2022-04-02T05:12:00Z
-    webUrl: "https://www.journalgazette.net/business/20220402/facial-recognition-firm-to-expand-reach"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 19
 
 secured: "t59zwR4cQ07MhXUpQQE0niY21o8RYwYViLrBkcItNGs6xfa/MD7dYy/Gb/tcSuiJNlyRMhzSLnCMtMANAC2drb2kx5jmvnMmJomVgTaD0jVEXFjsy4hl2AB7JqdcpL1kGCotMGrSNWopAOUKxMNRZIXFiGdTEbFFWwfpv0dcqusZSXvO/QWbHCLEtEKofJ+/VwoslUYCP5JkcCvkYHJ/qjGyVBGsmH6/IuKAkJYofSc9cO5z+senJu+VUrCPmOLLiCvYjPm9IoO8xnl/LqRC2VF4WCQiOhCyOnLtuwJj0nP3gwXP/CKZe1iYyvJer/9rb3Yju+kjCjW+rPHz/roD5+Gf+XCRlgarJfL+Yx1zrKCdacQEwE1MHvMUCNkqgByJYVN7x3i+QgT6/m+1DiRyA+BvDSlms9UIRMTWcgKTVkQb5/IcZX22mxRnMHKMIoqTMW0aStfrzyQnyxsCqEhSYm/u0VZzi242pe3rNoj32GnnpHMfDZaGMSAepigUw8jak4dGkM2HZh+M9l45WYOQ7Q==;l3DgqF0ciw8Ltw+Q9lv9mw=="
 ---
