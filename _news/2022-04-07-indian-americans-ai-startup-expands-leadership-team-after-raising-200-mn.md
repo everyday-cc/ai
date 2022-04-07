@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/pti-stories/indian-ame
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 620
     height: 464
     isCached: true
-
-related:
-  - title: "Indian-American's AI startup enlarges leadership team after raising $200 mn"
-    excerpt: "Indian-American's AI startup enlarges leadership team after raising $200 mn - An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has"
-    publishedDateTime: 2022-04-07T04:19:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/indianamericans-ai-startup-enlarges-leadership-team-after-raising-200-mn-nid-218560-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 35
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/pclJFatQ.jpeg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "syV3kM/Eq89XoeJoIb7o/LhhM9DIiVMypPwdbN6s7RX3ZivljJlkXMWgGOoF1q215gQ8dRc3JfSgD3zy3dLEcli2pFKWFkV/guBdNn57Fmobx+xtA06DtyLadNfbIWaf+OGTnUsHwHn/sb+hMkLNxs3HsA0UaUAZuCxZt4McxDx8saed+4xTwaP89qmAgiYrtYTzsifvr8nywC6n7sPAb0lNVnjSOa76tTnGYKsMItD6Zn24WcPWD8TF0R8/ZPt1EpAvw5kbv+YKUXumO7dJaFFsxcxMAeAW5sYWBK0j95Nghp77vAB/ybwM1Ru12vBqB6YBrojO/yI6jd+Z7XDQlZ1ikZLpGJr7TbIirDzoaLQ3p7FPbk91oOQ9SGvXfp4jATB2vA2dL/R1ybQsEqZ5V5YcfFMLGupexmxwXLYtR3n/Odu/kG6OW3AWDEmLqwB+uyjP8c4mxAerIOCcyEdKpV/qcPJIX5aF/wcOEQ6Spz1nZXsT5sj1SjcoYX9O1IzkCePffxBR9P/STg6untZbUQ==;NqboWd3oVLi0MBxJImAM5A=="
 ---

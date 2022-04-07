@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence may improve diabetes diagnosis, study shows"
+    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study."
+    publishedDateTime: 2022-04-07T18:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220405102823.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "QEl7ahpAItrBkpOGJcQLfERzWTAJqM6QAbea8ekXKj13iyyvP7JHTJCjlXyZ+zVnw+My9m2uq+wOeixAaJFg6ZKbhzlkObiAJ9tLDG7QWykz0pb3QhRl68xPHNOrFHqE6Wc5QdMEN5RNdzP3uTRT/lUqGlRcgTwoZvRFwRT+MOi26XsGXF+vQxNn+JGyBPoUmNBJBVDiE7hgIAj4qJU31Funpz8pMsgkCc9MDeSLonDrWxui+bny/p2J9pU7tYwyRKLqrFcP6xL9VImggazFMujob0WNEU9gq9BahKJr4b4Nl2lwDrAzCUaiC3mCKYzS0O78xfaud4FKM8VWypEdyMwcv+DcK73rN7mDS64+ROrYH524qM4dcIfJShJodusJ4hWE2m+RxS2eI3TcPqWZzEYR5T3iAOoRljQB3T+m6DLqa7rR0uFYQ52LP9Mk8o1nJMf/6t6Sb31fMHd3VLZ8IolgAsPsTyf7Xb1BIgKu/uYtlZV4hsebjeLxs7ZCLHLRbRgku6k+2dCaJ16rhS0fRA==;wE4Xk815QUKhB5Ys0YYc0w=="
 ---

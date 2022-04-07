@@ -27,6 +27,20 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 26
+  - title: "Geospatial Analytics Market Business Growth Demand, Strategies, Overview, Competitive Strategies and Forecasts 2021 – 2028"
+    excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
+    publishedDateTime: 2022-04-07T20:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-market-business-growth-demand-strategies-overview-competitive-strategies-and-forecasts-2021-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/8821b7bd68ca3d819c72088119a90b66b9cc5271-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Fay6PusNdnRxbTJiBJJs5x1vS6q2WnO+qik/UfJ0kYCd3eHbJUVE+EcWMD0lbtIRuzl5udjaOwdsOnBkO/Et1FC88flAha1GjOTJIU8tP2/7XMnRPNrA/nsHH80tmLHlakUt5SmErz4FCdeuN2lvfTTOv4ielOpz2JLQQi8GXeNlueTijJz8IVBG/YlgmcD9nojnCKXZ0ttTIBtTf3sRt1ZOmpULXVo4C8quqGLvRsBJFl0Hc/Sm4Z+N3fI2SjWPSgOrboto8Nkfic7mAeIEOuBCqZDedmVw0BXFxFvi0C7k+a2BOg8hL7cSt+vGE9dlYPgtNRYrrpJyDXNG68yYrSSWqR6gWLuwqHjeP62ZEa0=;pg5GiCsXbOEu4l3nxpt1sQ=="
 ---

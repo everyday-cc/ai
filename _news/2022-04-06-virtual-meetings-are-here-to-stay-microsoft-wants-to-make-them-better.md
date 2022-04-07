@@ -175,20 +175,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 25
-  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
-    publishedDateTime: 2022-04-07T17:58:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220407TO17861/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 25
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
 
 secured: "4iDoM6jVDHk+3KjMwQ0pkfkK6ZFDZwlSns3NUQoSCXa2hNn/JPG88y1BW0026IuV/6BsHOZXSQpVF4ojvzX9DSFsCqMba6LPeOUDamO0q06TVzsC8iDF+vh3tzRu2604UygG9xMShjFoOmF06DvAFEcDs/CYQwROBz1ynk1lba9w958b1IaKa7/DgR6pk8bomFfH0STFU/iHfSkfZLspKsPoBTaS7YSdtIDUiJJud7xtjGHxYkqtV/Aepkxu5tshzKWj0tRSp1uu9KWkHQ2+A1kkHqiymnOmOz8cYeVFtuihVU3HIgi02akM3NMYYmubPaezbRWtELcX7C1sCPNOJj1FaIxjMPEPgVEO+X97hozoa1MXQ4e6bjhQ7gEIRZ4wwdqyHiMyb5Vp0nD9Yh0ad28pl0UBTWo7d8atW1Jc7of1vFKbSOBG9uvg5rM3a8200JPunM8IX1VwgRJtMaYkQ/yyj5xt8yr4GyVmgwzDp3UHHJ+buLoYVfX6kaoJeV7FNFU7C/iqHM2zrsuyWUe8gA==;SCvRdLT0L0ZdC++4kysbCQ=="
 ---

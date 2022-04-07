@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-05T15:30:00Z
 originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
 webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: theregister

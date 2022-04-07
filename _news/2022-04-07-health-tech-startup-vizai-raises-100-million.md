@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100
 webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
+    excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
+    publishedDateTime: 2022-04-07T21:39:00Z
+    webUrl: "https://www.bioworld.com/articles/517713-vizais-valuation-surges-to-12b-with-100m-series-d"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "sY+5Rq6zQrLucG8WbEWk4yTXXQYAR6JiitQ52nloN7GLnvSAwgOXjaGAn2OWYyWg4ISpLghWDXSiqtQ6FWeiRLJVHCWDQKcaNAU15vREAbbzkChtN+Gel76yudWM8OJFt7oB+R9SzKNWMmcfMuRL2goaqDPHn7AohShPRHPret+FlxhXFiyDCTvJ4ZwXMcyFBQJrUEyQoNpgJ8Z1Y5sUjW3QF6Zyx8pCX4EGCAQdi5+4clQPgus3VUfBHwRH7yZ+kqDsr4zRlMyVcsclwmZtaDORvnJtVYFUKRNxxcMsdfChJub+i2uiK9jilNAXF43SZ2Arx/vbr67uyFHigTXwefl9D03QOzJfGnbE3fXgGmNB6N5ED+UYNFeOb7qB9mf4qXVwT3rZ4Tcd8TsLGJW2sTjA/Oc2tFx2/Th7RDGExBED1IGGF9h2RKLX7KSVusIC2cgruKkwuqgqXd1ffK4ztq3jwfFqysueXQUMc4vLh3oNKLbfCa/QjUFcdlPrGpmtn4geGSqwmm3HqSsEVlafLQ==;RF8xdfRm0tcd7OUqnADAvg=="

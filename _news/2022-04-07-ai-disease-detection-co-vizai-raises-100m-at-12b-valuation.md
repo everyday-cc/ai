@@ -65,6 +65,20 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 39
+  - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
+    excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
+    publishedDateTime: 2022-04-07T21:39:00Z
+    webUrl: "https://www.bioworld.com/articles/517713-vizais-valuation-surges-to-12b-with-100m-series-d"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "mjb2zUfEprIpLnxy21WVXtICxs05Q2gQ93hPWlroo1IH5h0JgcrVBGoFPMy8nDSRQ6LmtjQhV+ajjyAsSPoIR9/A4AWEU9d2e3p39Sbt3DO5lA2FLHaBNbPfDY55FcPjwXQpXiTzEDbcMQx5MMLtF6X1qzemuYOL1+yZmqTZBJbz0MxuA8Qi8i5dwpPmYGupzQGAX9AaIP2kL+b0Db6B3Kv4h9zsKEehYCogqWTh7b1/E0rYHuFVuJ1Kryx7LB7JvdEWJElUEE2rzL+yPSLsGKSoqAPOeTvmlORz3t7CbgTOtN2GgsMYN8hyvucLQND/6AzcGLDmJj60fasWiptVgNfN6wVJqKRXF90jf2rE3q0=;oWmiUGxJSZv+0rNt1WTuHg=="
 ---

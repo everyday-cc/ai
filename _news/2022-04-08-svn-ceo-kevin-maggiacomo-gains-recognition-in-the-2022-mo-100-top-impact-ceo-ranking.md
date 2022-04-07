@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T17:59:00Z
 originalUrl: "https://kfor.com/business/press-releases/globenewswire/8518585/svn-ceo-kevin-maggiacomo-gains-recognition-in-the-2022-mo-100-top-impact-ceo-ranking/"
 webUrl: "https://kfor.com/business/press-releases/globenewswire/8518585/svn-ceo-kevin-maggiacomo-gains-recognition-in-the-2022-mo-100-top-impact-ceo-ranking/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Oklahoma's News

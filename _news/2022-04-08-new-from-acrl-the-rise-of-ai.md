@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T18:15:00Z
 originalUrl: "https://acrl.ala.org/acrlinsider/new-from-acrl-the-rise-of-ai/"
 webUrl: "https://acrl.ala.org/acrlinsider/new-from-acrl-the-rise-of-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: American Library Association

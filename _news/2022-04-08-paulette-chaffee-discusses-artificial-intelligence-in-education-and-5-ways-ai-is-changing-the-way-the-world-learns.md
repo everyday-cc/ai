@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T18:44:00Z
 originalUrl: "https://www.dailyuw.com/ask_the_experts/paulette-chaffee-discusses-artificial-intelligence-in-education-and-5-ways-ai-is-changing-the-way/article_c20cebda-b6a2-11ec-b3f5-67f6385a1aac.html"
 webUrl: "https://www.dailyuw.com/ask_the_experts/paulette-chaffee-discusses-artificial-intelligence-in-education-and-5-ways-ai-is-changing-the-way/article_c20cebda-b6a2-11ec-b3f5-67f6385a1aac.html"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: dailyUW.com

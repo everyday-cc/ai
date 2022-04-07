@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T19:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/woman-owned-ai-startup-unifies-shopify-customer-data-for-independent-ecommerce-stores/article_d972b6aa-07db-533b-8b1a-8d6fa3698bcd.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/woman-owned-ai-startup-unifies-shopify-customer-data-for-independent-ecommerce-stores/article_d972b6aa-07db-533b-8b1a-8d6fa3698bcd.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: WFMZ-TV

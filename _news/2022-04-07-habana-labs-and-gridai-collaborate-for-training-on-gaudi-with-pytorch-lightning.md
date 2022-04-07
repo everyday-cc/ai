@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-07T16:56:00Z
 originalUrl: "https://insidehpc.com/2022/04/habana-labs-and-grid-ai-collaborate-for-training-on-gaudi-with-pytorch-lightning/"
 webUrl: "https://insidehpc.com/2022/04/habana-labs-and-grid-ai-collaborate-for-training-on-gaudi-with-pytorch-lightning/"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:

@@ -65,6 +65,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
+    excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
+    publishedDateTime: 2022-04-07T21:39:00Z
+    webUrl: "https://www.bioworld.com/articles/517713-vizais-valuation-surges-to-12b-with-100m-series-d"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "Nbf74iTp37xdj4VNtI+W3vvh/UMaDKdu7Haz4riu9kFGxWo0QGeELyH1nRrvnUy8I301ZF2fKuen1TIlva0SYekcYKfnkKSKiuv3NpADx4V7g72Tb1Nc+xbl3tO4jrawU/NXFw9nenJHsoVJ6s8VOg57hWUvJPK6sSaqbn4x73tcACSzynj9PtzuFFsa5FICD7SulsoN3BaWz6Q2B4zV1ykXqsGEafJ/l1gz6+5jy7y4PXMZKMgXgj7DMaUmzB3yE7I0B2z8gl2ETWGMF709PD82YoDpVP16rQMFSMMzGrpIkQ8H3/cJBTJQSWdAHEEr5zHcm9SyUTy96o7L24PNGk2sH6IbisQGDy8JMT4/EqOeT/nwU3q1xXY1pGJwq11/aeJSzWunSITp6mhPuOizRLOKx08H19QeE1qCD7U9RY2QYouUszFH2bJxiSdCLEaA4+O93MCiOzKS7mkXEPsNJbstRMW5lWa4NbKBhJdb10dltuAkfeatIEj9ohip84SsneuQIFMkhSmBKnlLn/68Cg==;5GBv23UxkcuZlWZIo1c1Ew=="
 ---

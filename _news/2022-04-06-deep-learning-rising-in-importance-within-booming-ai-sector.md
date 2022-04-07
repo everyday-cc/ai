@@ -57,6 +57,20 @@ related:
         width: 1360
         height: 1067
         isCached: true
+  - title: "How to Hire the Best AI & Machine Learning Engineers"
+    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
+    publishedDateTime: 2022-04-06T23:30:00Z
+    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI breakthrough explained to human operators"
     excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
     publishedDateTime: 2022-04-06T11:45:00Z
@@ -70,34 +84,6 @@ related:
       - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/unnamed-e96ece15-2289-4681-a62e-9356e71b473b.jpeg"
         width: 740
         height: 453
-        isCached: true
-  - title: "AI Is Explaining Itself To Humans. And It's Paying Off"
-    excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion."
-    publishedDateTime: 2022-04-06T11:00:00Z
-    webUrl: "https://www.ibtimes.com/ai-explaining-itself-humans-its-paying-3463844"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/06/a-3d-printed-logo-of-microsoft-is-seen.jpg"
-        width: 1200
-        height: 819
-        isCached: true
-  - title: "AI is explaining itself to humans. And it's paying off"
-    excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8 per cent after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at"
-    publishedDateTime: 2022-04-07T07:10:00Z
-    webUrl: "https://www.asiaone.com/digital/ai-explaining-itself-humans-and-its-paying"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2022/07032022_linkedin.jpg?itok=uvIpxfMz"
-        width: 800
-        height: 567
         isCached: true
 
 secured: "eWvFoh9nQyrTmMZOIc0RucEM0bS3XOqQ4J8thmpKoZd7ioFRFTr3yHvkuZYlIMDXvrs5UG4x8lMxgMcAPOdVCB19/MIIIC24vuYLj/zxlPrRD4iRRBSnOXnJJY8NEd/4v+Cbip9C9UCCZdAHIc2y3RfD8YY0ODSVLQPo4dBUCBN57a+b34AxgACuKF+SolD5SB2E/jltc8YqXMGfmCDKsNfRoOh4Ugt5FpkDDFl6aojOZo9FuBv3DyE56VXZ4cAxLyDR+xX0BZs2OnqhptIu+ylPQH81vgdMlL+AY7cr54OZC1Arsy2pVZh5OiJfUI8GdSP+ZqCzzcoPc1Z/D8HU+FYsWG5R0wknhELiWbyYyrituwdK06KCXs/Xg2hfTC+f6fWluL3+6gWX8rbHXPP9eEpa1Ajcz8YbgHUJttDZsQO1jxqtagUJwDdMTbz8csivPlkTirHc2CdoK9S/vRLG+eecS9Uzb1cmZW59woo2WZDg1DMGsEVRMUJXx5OMbMdxD53tqUjpmkp4iQeoSOg08A==;tDFV8Ah9nf82KWdhulmtbw=="

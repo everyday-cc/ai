@@ -7,8 +7,8 @@ originalUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
 webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: ICTSD
@@ -27,19 +27,28 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™ Various factors such as growth of data-based AI and advancement in deep learning and need to achieve"
-    publishedDateTime: 2022-04-07T13:30:00Z
-    webUrl: "https://www.asiaone.com/business/artificial-intelligence-ai-market-worth-3096-billion-2026-exclusive-report"
+    excerpt: "Healthcare and Life Sciences segment to have ... MarketsandMarkets's flagship competitive intelligence and market research platform, 'Knowledge Store' connects over 200,000 markets and entire ..."
+    publishedDateTime: 2022-04-07T20:47:00Z
+    webUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-worth-3096-billion-by-2026-Exclusive-Report-by-MarketsandMarkets™"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_369.jpg?h=10d202d3&itok=s47WoaVN"
-        width: 600
-        height: 316
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?94765"
+        width: 444
+        height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
+    publishedDateTime: 2022-04-07T13:32:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
 
 secured: "T+3L9ZD21X6l1IBH8uXK1NEmkUX6FK8I+T2Ld6TkQkhaQTwP7jBWrKsYGmyxtam97/Dn3O1PwHujTMWvxkzLlWvCGpJhyK7HfZmMjDwAHFmSCOsWRla6XEg4QVkXIv9BWtHW+V26yBMvUUFYnTDvKnAIRUhC2adUJtmm3TCZ4VhQzqre+C87a7J2Jk5RuFglfMHm95NR3gXIqR7d3olMQt1RvkQGcstXEasN77zsbMjfJOBSc70M9dghacF765um+VHtDVyajjlGaKkTx6p7JRccKmaSZxl1lNTb+GMTDc5k9v9WEUp5rFdzSvadjqZWYz0woMC523fQiW6LyCqr7IkkFkI/h5qLj3YPZNXHr1o=;qZXT+J3fu5ISY4zTXBmPdQ=="
 ---

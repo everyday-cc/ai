@@ -166,20 +166,6 @@ related:
       name: theregister
       domain: theregister.com
     quality: 34
-  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
-    publishedDateTime: 2022-04-07T17:58:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220407TO17861/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 25
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
     publishedDateTime: 2022-04-05T19:43:00Z

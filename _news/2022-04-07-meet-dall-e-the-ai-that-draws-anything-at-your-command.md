@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Salvador DALL-E: OpenAI releases Artificial Intelligence tool that can produce a full image from a text description - or even create new angles for existing images"
+    excerpt: "The artificial intelligence research group won't be releasing the system ... Its original version, named after Spanish surrealist artist Salvador Dali, and Pixar robot WALL-E, was released in January 2021 as a limited test of ways AI could be used to ..."
+    publishedDateTime: 2022-04-07T18:30:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10696719/OpenAI-releases-Artificial-Intelligence-tool-produce-image-text.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "+A8xGUHzE2IpENbwt0siWXPvgqLX6PPIrD+ogNgKcLztZxxKze2+vcOjEb9MQh2yTew9vvht9/OCKNNo8B7cPBDk/EsDsT30jWnG4dbHzblsyxCamnN2F2Ck2DiRYTzrWl198mDtn5l6p/GMwzHKRC1yJgZUfjp4q1R2mAn3mBhAnfhUD+eJf6YPYeiFHFRinIHv8Sx3ey0+lfINWD1x2pZiS95YH/KlRbL72bMj2Y5A8Z0EtEUaMzGhR63nb2XKQF/oAeIAjZ3iqZhNuZr+/jBjRg31JCkvT2JKkA/Ud3J+sznlK5oKEFLNm7FvgfsqffUE7cSBJpeRabL++vukijG2I65noKhKv2yoQQXgwtw=;A1RMSXA+PlHhiqpVpXbMBg=="
 ---

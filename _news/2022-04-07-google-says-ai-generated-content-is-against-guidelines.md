@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google doesn’t want your AI-generated SEO spam content"
+    excerpt: "Mueller was asked about AI-based content creation tools like Jasper and tweeted back: “Content generators / spinners have been around since the start of the web. People have used all kinds of ..."
+    publishedDateTime: 2022-04-07T20:35:00Z
+    webUrl: "https://searchengineland.com/google-ai-generated-content-spam-383454"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 39
+    images:
+      - url: "https://searchengineland.com/wp-content/seloads/2022/04/man-robot-writing.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Consistent AI Video Content Editing with Text-Guided Input"
     excerpt: "While the professional VFX community is intrigued – and occasionally feels a little threatened – by new innovations in image and video synthesis, the lack of temporal continuity in most AI-based video editing projects relegates many of these efforts to the ‘psychedelic’ sphere,"
     publishedDateTime: 2022-04-07T11:33:00Z

@@ -42,6 +42,15 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Lilt raises $55M to bolster its business-focused AI translation platform"
+    excerpt: "Lilt, a startup developing an AI-powered translation platform geared toward the enterprise, has raised $55 million in a Series C funding round."
+    publishedDateTime: 2022-04-07T18:35:00Z
+    webUrl: "https://techcrunch.com/2022/04/07/lilt-raises-55m-to-bolster-its-business-focused-ai-translation-platform/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 48
   - title: "Finnish SaaS company received €1.2M in seed funding for its SME-focused and AI-powered shopping assistant"
     excerpt: "Helsinki-based AI-powered shopping helper Upsy has raised 1.2 million euros in seed round led by Gorilla Capital. The round also saw participation from Korpun"
     publishedDateTime: 2022-04-04T06:36:00Z
@@ -80,6 +89,15 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
+    quality: 17
+  - title: "Viz.ai Raises $100M in Series D Funding"
+    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
+    publishedDateTime: 2022-04-07T17:52:00Z
+    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
     quality: 17
   - title: "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation"
     excerpt: "Round will fuel global expansion of AI-driven healthcare platform that accelerates access to life saving treatmentsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Viz.ai, the leading AI-powered disease detection and care coordination platform,"

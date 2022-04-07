@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T18:46:00Z
 originalUrl: "https://www.bizjournals.com/atlanta/news/2022/04/07/zoo-atlanta-enhances-visitor-experience-with-ai.html"
 webUrl: "https://www.bizjournals.com/atlanta/news/2022/04/07/zoo-atlanta-enhances-visitor-experience-with-ai.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

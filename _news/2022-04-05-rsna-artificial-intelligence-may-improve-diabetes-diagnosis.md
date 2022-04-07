@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26480381"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence may improve diabetes diagnosis, study shows"
+    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study."
+    publishedDateTime: 2022-04-07T18:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220405102823.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial intelligence may improve diabetes diagnosis"
     excerpt: "Using a fully-automated artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook ..."
     publishedDateTime: 2022-04-05T14:05:00Z

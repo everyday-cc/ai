@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T19:20:00Z
 originalUrl: "https://www.bizjournals.com/birmingham/news/2022/04/07/firms-use-ai.html"
 webUrl: "https://www.bizjournals.com/birmingham/news/2022/04/07/firms-use-ai.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Business Journals

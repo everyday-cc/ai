@@ -2,6 +2,414 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-03-10-predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks.md",
+      "title": "Predictive Analytics And Machine Learning Market May See a Big Move | Alteryx, Globe Telecom, Schneider Electric, SAS Institue, MakinaRocks",
+      "excerpt": "The latest independent research document on Predictive Analytics And Machine Learning examine investment in Market. It describes how companies deploying",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks",
+      "originalUrl": "https://www.digitaljournal.com/pr/predictive-analytics-and-machine-learning-market-may-see-a-big-move-alteryx-globe-telecom-schneider-electric-sas-institue-makinarocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-deepmind-introduces-ai-model-to-decipher-ancient-texts.md",
+      "title": "DeepMind introduces AI model to decipher ancient texts",
+      "excerpt": "Normally, historians demonstrated an accuracy of 25 per cent when working on their own, but the outcome improved to 72 per cent after Ithaca.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
+      "originalUrl": "https://analyticsindiamag.com/deepmind-introduces-ai-model-to-decipher-ancient-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/unnamed-1300x459.gif",
+          "width": 1300,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-a-quick-guide-to-deep-learning-with-python.md",
+      "title": "A Quick Guide To Deep Learning With Python",
+      "excerpt": "Deep learning is a part of the larger application of machine learning, which, in turn, is a subset of artificial intelligence (AI). Generally, deep learning deals with algorithms that seek to imitate how the human brain is structured and how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/",
+      "originalUrl": "https://gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gisuser.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-09-at-8.20.33-PM-1024x685.png",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/03/a-quick-guide-to-deep-learning-with-python/amp/",
+      "publishedDateTime": "2022-03-09T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-baidus-autonomous-driving-chief-wants-robotaxis-to-ditch-human-drivers-but-regulatory-hurdles-are-steep.md",
+      "title": "Baidu’s autonomous driving chief wants robotaxis to ditch human drivers, but regulatory hurdles are steep",
+      "excerpt": "Nine years after Baidu started researching autonomous driving, the internet search and artificial intelligence giant says its self-driving cars are ready for a broader roll-out across China and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/09/0abbbbc8-a33e-4370-9d0d-bc9cdccc6a0c_9c02ce79.jpg?itok=2Tg9lSzs&v=1646836338",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3169873/baidus-autonomous-driving-chief-wants-robotaxis-ditch-human-drivers",
+      "publishedDateTime": "2022-03-09T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation.md",
+      "title": "Redefining Workplace Meetings Could Be Key To Employee Retention During The Great Resignation",
+      "excerpt": "Prior to CLIPr, Chen was the head of Amazon Rekognition and the chief product officer of fast-growing video intelligence company VidMob. CLIPr was born from the pandemic to solve this challenge of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622912e15d266438042edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/03/10/redefining-workplace-meetings-could-be-key-to-employee-retention-during-the-great-resignation/amp/",
+      "publishedDateTime": "2022-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-robot-that-seems-to-convey-emotion-while-reading.md",
+      "title": "Robot that seems to convey emotion while reading",
+      "excerpt": "Robot that seems to convey emotion while reading Date: March 10, 2022 Source: University of Tsukuba Summary: Researchers have created a robot with an internal weight that can give the impression ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-uoft-spinout-halt-ai-launches-tool-to-measure-brands-diversity-across-social-media.md",
+      "title": "UofT spinout Halt AI launches tool to measure brands’ diversity across social media",
+      "excerpt": "Co–founder and chief marketing officer Amanda Cosco (a former BetaKit contributor) said Halt AI was created around the time a former Facebook product manager and whistleblower revealed internal research about the social media site last year. Facebook’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/uoft-spinout-halt-ai-launches-tool-to-measure-brands-diversity-across-social-media/",
+      "originalUrl": "https://betakit.com/uoft-spinout-halt-ai-launches-tool-to-measure-brands-diversity-across-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/03/Amanda-Cosco_HaltAI.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment.md",
+      "title": "Extract granular sentiment in text with Amazon Comprehend Targeted Sentiment",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. As a fully managed service, Amazon Comprehend requires no ML expertise and can scale to large volumes of data. Amazon Comprehend provides several different APIs to easily integrate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-granular-sentiment-in-text-with-amazon-comprehend-targeted-sentiment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/08/Screen-Shot-2022-03-08-at-9.37.08-AM.png",
+          "width": 756,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T13:51:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-ai-and-machine-learning-in-financial-services.md",
+      "title": "AI and machine learning in financial services",
+      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.csoonline.com/resources/231729/ai-and-machine-learning-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-transfer-learning-offers-new-insight-into-machine-learning-error-estimation.md",
       "title": "Transfer learning offers new insight into machine-learning error estimation",
       "excerpt": "Omar Maddouri, a doctoral student in the Department of Electrical and Computer Engineering at Texas A&M University, is working with Dr. Byung-Jun Yoon, professor, and Dr. Edward Dougherty, Robert M. Kennedy Chair Professor,",
@@ -770,426 +1178,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-the-future-course-of-process-automation-will-be-driven-by-ai-not-bots.md",
-      "title": "The Future Course Of Process Automation Will Be Driven By AI, Not Bots",
-      "excerpt": "Despite its name, robotic process automation doesn’t require physical robots trudging through corporate hallways. It’s the robotic performance of repetitive tasks with well-defined input and outputs—not unlike the coded instruction for factory machines—that gives RPA its name.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/09/the-future-course-of-process-automation-will-be-driven-by-ai-not-bots/amp/",
-      "publishedDateTime": "2022-03-09T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ai-rudder-raises-50-million-in-series-b.md",
-      "title": "AI Rudder Raises $50 Million In Series B",
-      "excerpt": "The funds will be used to double its headcount, enable job creation for highly specialized and sophisticated roles in technology across the region",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421779",
-      "originalUrl": "https://www.entrepreneur.com/article/421779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
-      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
-      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
-      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
-      "publishedDateTime": "2022-03-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-speech-voice-recognition-systems-market-size-2022-global-growth-trends-industry-analysis-key-players-and-forecast-to-2027.md",
-      "title": "Speech & Voice Recognition Systems Market Size 2022 Global Growth, Trends, Industry Analysis, Key Players and Forecast to 2027",
-      "excerpt": "Global Speech & Voice Recognition Systems Market segments and their analysis offer a complete In-depth view of the industry to readers including stakeholders, vendors, suppliers, investors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-size-2022-global-growth-trends-industry-analysis-key-players-and-forecast-to-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-voice-recognition-systems-market-size-2022-global-growth-trends-industry-analysis-key-players-and-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-2-monster-growth-stocks-shaping-the-future-of-technology.md",
-      "title": "2 Monster Growth Stocks Shaping the Future of Technology",
-      "excerpt": "To that end, GPUs are used to accelerate compute-intensive workloads like artificial intelligence ... By comparison, rivals like Alphabet's Waymo and GM's Cruise measure their miles in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology",
-      "originalUrl": "https://www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-monster-growth-stocks-shaping-the-future-of-technology?amp",
-      "publishedDateTime": "2022-03-09T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-does-ai-need-nutrition-facts.md",
-      "title": "Does AI need ‘Nutrition Facts’?",
-      "excerpt": "The Food and Drug Administration, which oversees AI that meets the criteria for a medical device, has cleared more than 200 of what it calls AI- and machine learning-enabled medical devices in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/technology/does-ai-need-nutrition-facts",
-      "originalUrl": "https://www.modernhealthcare.com/technology/does-ai-need-nutrition-facts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/1200x630/public/AI%20labeling%20web%20image%20copy.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-a-text-reading-robot-with-heart.md",
-      "title": "A text-reading robot with heart",
-      "excerpt": "Tsukuba, Japan – Scientists from the Faculty of Engineering, Information and Systems at the University of Tsukuba devised a text message mediation robot that can help users control their anger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/945987",
-      "originalUrl": "https://www.eurekalert.org/news-releases/945987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e28441c5-578b-46f9-b2ab-6562ad8819fe/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-predicting-the-past-with-ithaca.md",
-      "title": "Predicting the past with Ithaca",
-      "excerpt": "Restoring, placing and dating ancient texts through collaboration between AI and historians.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
-      "originalUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/7pHp20oChCga-7e2QR2jlbMnfZPVRzMp2HAKkzw9WGLYI3oyJKf2Czhn-I3ra5AqHmI_6WVUQKsiFy3d8DHwlPosD6jVISBa6XPCi-wVq94CdPLq8Q",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-how-ivanti-hopes-to-redefine-cybersecurity-with-ai.md",
-      "title": "How Ivanti hopes to redefine cybersecurity with AI",
-      "excerpt": "Ivanti's quickness in using AI and machine learning to take on these challenges is noteworthy. In the span of fewer than eighteen months, they've delivered their AI-based Ivanti Neurons platform to enterprise customers and continued to innovate it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1222958278.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/amp/",
-      "publishedDateTime": "2022-03-08T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

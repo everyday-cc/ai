@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T19:22:00Z
 originalUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/your-endoscope-is-going-to-start-to-look-like-your-smartphone-gi-innovations-to-keep-an-eye-on.html"
 webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/your-endoscope-is-going-to-start-to-look-like-your-smartphone-gi-innovations-to-keep-an-eye-on.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Becker's ASC

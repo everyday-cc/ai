@@ -47,6 +47,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Deci Boosts Computer Vision & NLP Models' Performance at MLPerf"
+    excerpt: "TEL AVIV, Israel, April 6, 2022 /PRNewswire-PRWeb/ -- Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV ..."
+    publishedDateTime: 2022-04-06T17:40:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/article_817fca60-097e-5e6a-9858-1e1659d1cd40.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "MLPerf Results Highlight Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons, an open engineering consortium, released new results for three MLPerf benchmark suites – Inference v2.0, Mobile v2.0, and Tiny v0.7. MLCommons said the three benchmark suites measure the performance of inference – applying a trained machine learning model to new data."
     publishedDateTime: 2022-04-06T19:55:00Z
@@ -61,15 +75,6 @@ related:
         width: 500
         height: 261
         isCached: true
-  - title: "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf"
-    excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2."
-    publishedDateTime: 2022-04-06T18:08:00Z
-    webUrl: "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 36
 
 secured: "DghIVCDb+rGUzi//a5Uxsn4UwRPI+RW/VsPIJPucRH6nrYZ6aEWW9amKSzhIka2c3r+xWZwwlhj8r4XY5ZJ2plXUNmDtENPb2O13CpSrofkXH1OpHbg5+sAMAsSN56xSpkx+EyC/oimvMqJSujCdx9Sgny/QB4jCDc3Qfq8bUV5tmvyJWuBxB8DzgPbtU4Qm7DL3MQyw4f5UgqtW8Sn8QaHWfRUjsmrA2dUMvN3OHAfaCYHce8j9wuJhEWZBkt6EsUGieZlToN/FF/HmjvTilm0ByXUW/1qQ32lZXpfDkDBe0PuwXJDvRzY+3q4pXTV5r6DWiu2rCitO7iLzdP35FRYgmEvv7kzoGcIorhoAS7OAZcWPtQDa7mO/42etgNhsYjr97lVd3wyu2Qh8ZSmOtdouCC2NhERNrKTxfmpo0mAQ4DTxX2y51ZWAsSxmCy+iG6qr0w/MSzrQTOQfgazQGTvQ8575j41ygveUQpB31RlrroX9SoA9RTU1I0Gt2kGhccgh/ewfHpP/6LemhYxwzg==;oXOstyiM1ETWcHQAHpkBnQ=="
 ---

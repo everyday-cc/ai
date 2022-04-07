@@ -46,12 +46,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+    quality: 4
 
 secured: "sn2rdjNYrZ237M3HMdg/nBHyqFeqnI3t6ZmKLA1MBzBXKrwIU7Yoh4NEGeZyifypzFQFNUpuuUOmVpPAwjsmkGzXmu2bPHVYlkCagywiRPDx2ZQFYhtCxFNC7gumb3LyRP2a+4oOnmhbXQF9F41Pi1zjGi+mjU4hjdMWpuIwXiDADpTyk6VIKMVP04Q+EhFFxCHKw4pw6nQ0ttATPHoSNp0wyMcG/oGO9WFWUEOuLmmWxwCVbLpkct2SmB7ZGcUJ1KkzL8cMxU2lmajxgj1p5BDuUxygsdk4lGrQheTmkEA4bwbvNuKfsWaH4Q+bSs9fTl3radPGFJsUY19VE306+uIHS0jDRg/llIYi5dO6wyA=;AdiUh79hkhoNRKwv+KMUcw=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud"
-excerpt: "Run:ai, the company simplifying AI infrastructure orchestration and management, today announced details of a completed proof of concept (POC) which enables multi-cloud GPU flexibility for companies using NVIDIA GPUs in the cloud."
-publishedDateTime: 2022-03-24T20:14:00Z
-originalUrl: "https://www.localsyr.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
-webUrl: "https://www.localsyr.com/business/press-releases/cision/20220324LN03235/runai-completes-proof-of-concept-with-nvidia-to-maximize-gpu-workload-flexibility-on-any-cloud/"
+title: "Run:ai Completes Proof of Concept with NVIDIA to Maximize GPU Workload Flexibility on Any Cloud'"
+excerpt: "The Run:ai Atlas Platform brings simplicity to GPU management by providing researchers with on-demand access to pooled resources for any AI workload and has built-in integration with NVIDIA Triton ..."
+publishedDateTime: 2022-03-25T09:30:00Z
+originalUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
+webUrl: "https://menafn.com/1103910949/Runai-Completes-Proof-of-Concept-with-NVIDIA-to-Maximize-GPU-Workload-Flexibility-on-Any-Cloud"
 type: article
 
 provider:
-  name: LocalSYR
-  domain: localsyr.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "ym1zRY3Sww8LLV5x73C1f06eXbUR+mcEMyWsdWwBqrTjRdzLZpDdJ3fc7SzICG0VmwDq0ukSeNXchjd2EMInXSoZYQjZba1UPKeHmx3K8E7SKHD8G0n8p5QQzDQGjWCIImMaJp3HUmFD6WZQve6E+wk5h0Fg0tuACBWGcCce1MEaf36GKr9YhqfiuHXBiY1uGeHlJLDE6FbH+cRAdmhP0p+8uDgMvBBm126NWTpUgQeIj6B1aIoPRZDMWXLHnH21/o3y31bGtW7+xurAO3erHQyKdH1pFFMJ8xF8VlxMj01Rnk16khCrOHe+hbb/TLb8VCnTRktgzFD3vN8P+ElSLkR2TihOqXPCkoOn0ltEC8Q=;GWVbgdkOz/g0qwiWRboxCg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?94765"
+    width: 444
+    height: 250
+    isCached: true
+
+secured: "AQUk40U+bSnXvq+MlF5q5Hgmcg3QV4XlxBMt6r2VozvzFqSoc89uautnKKzLSjW/xIoHCYkqszdEneIBLouW7FhFH+WhqSZJ4RnnmLce7+I1MTZwfU0/bW6R4FMXJYiZyTeaXWmoTGfVjSGByK58zWvZIyY6BZ98fzRz5ISGpOSYRQs+HaFWy0DgeO28f5OZjSCLWd26b648PcNb5b8/HjE5gqhKcDm7BwlbTf5o+p++DX5kufzaDu3NyQyCu9L4W0ot15UQgNyserOVF5N86qdb1c7nU3vDJRIkE/bPqcvbXjR2C2NiW2X4hGb/x/3DHUnigpQyJ7GWWgfGNxIE7zHo4yAe+bPwnheb3t2fcmk=;oHCekA4xSXxBxGhOfZmX6w=="
 ---
 

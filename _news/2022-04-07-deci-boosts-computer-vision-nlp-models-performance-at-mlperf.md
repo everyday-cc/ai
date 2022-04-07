@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf"
-excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2."
-publishedDateTime: 2022-04-06T18:08:00Z
-originalUrl: "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/"
-webUrl: "https://insidebigdata.com/2022/04/06/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/"
+title: "Deci Boosts Computer Vision & NLP Models' Performance at MLPerf"
+excerpt: "TEL AVIV, Israel, April 6, 2022 /PRNewswire-PRWeb/ -- Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV ..."
+publishedDateTime: 2022-04-06T17:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/article_817fca60-097e-5e6a-9858-1e1659d1cd40.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/article_817fca60-097e-5e6a-9858-1e1659d1cd40.html"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Benchmark test of AI's performance, MLPerf, continues to gain adherents"
@@ -71,6 +77,6 @@ related:
         height: 261
         isCached: true
 
-secured: "clfm0WjoLjswLPQEhxDx+fEaP6sJq/7VCm0YMbTIOml0QGwNJZlRhuCm2X7SgeqIxjRcrbvUCHF8iUePszXuxZi0FOwc5ocM7xndQJH6kMrKukK/xDoyHzfMMWl8rXwhqIBK00tHcxMaJcoqPjDWQ8M67binHLLf6zfMlhqmT+G4kOkhHmaWIqgy0TtNkzb22hhCRHDGesZEom8fDdOEvsosq/xM677ZUTpc4DHItLaG0JoTmWfp/trlvoYq1YBXipUPmt5NgsPQTA9ipjru0XVdBu4K9Im+GeuGtV4psugdu3/PmlT55qtYYpCZL6qPcfqlwLWhPsdQmrtCDUfzr2pBVhyyXdv5Kkza63TgFIddogwLyhPrN05vTfC4xqRkftJ2ADB7w+rc81zbQuYLsUxS+mVK+zJ8O1kQPhWaPuSwFlynn/bbligySrja3J6g1fD7RszamfbGWSpYbwRue7FQwIjIKhO/jlH2CKLfbfq8RH0Z5MH1rZ2/jkoVDqjskZhltSdSQNsloNFR0TM2oQ==;2+G70Q/Yrc8gWZhMcSxVag=="
+secured: "z2Ik8ZQ0dludq9WfneU/BHHB5tb4ZugICt1Ev/yxqPvoy8wOXsxg6HIuvks15TCGwdFxZxc0ECeV43wF445WHxjat36CMrQIJ6AJEy25mJjmXumSPkQCMNotcRr9x/JGdQ7gO8JvRJ7WGYuFrK1SYlYUSab2MBDPbqYBopvd5Y98tkEChHzu7o7gWnxOnVFJkAbd69ln3dOLGryeyiC85qdiSQ7w64isdpa411UFFLZFByQPkCT15Gz2sj7osTt2BZyYsfOqgDR4ZwfH/KTu2Tni3uRzlZL8gHmPDYH/NQeMVpOf0/0nEm5f6Hp+/ZxArbt2bctRebVadHULGFef8ALqAbAxFRlACb+CLbwNYFU=;6QxkxlwCcWIg5aMemvZg/w=="
 ---
 

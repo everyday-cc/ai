@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Google doesn’t want your AI-generated SEO spam content"
+    excerpt: "Mueller was asked about AI-based content creation tools like Jasper and tweeted back: “Content generators / spinners have been around since the start of the web. People have used all kinds of ..."
+    publishedDateTime: 2022-04-07T20:35:00Z
+    webUrl: "https://searchengineland.com/google-ai-generated-content-spam-383454"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 39
+    images:
+      - url: "https://searchengineland.com/wp-content/seloads/2022/04/man-robot-writing.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "PpS9ZArtwreq1c+hDBa6FF3GtNFFL2GCzDh8Hkqrc4sqxQfyzpCKu2GtOt0Zvj+GIvjCTcF1HViKXXaUly/C34EHIExkK3Qg67rJm0UWmBPrqwyRkGh06uVbuiXXHZw+PHXGZug96TvDcntz5D12Ip/e7DeorwMrt22JjhWfuqZzVHVViy4S6MeEc9nHSK8GSDnFv1AOwQMsw1l5cPnlDxD5CVLXYtJu7I2Jm3OBf7yILnYPMepGodJjDZ3QaolrJuDARwX8fryvu5ODwPkam4CokvYC+52+guChajKCR5DJsPn+HYNxj0mDGjwnUy/pWlc1mHOGnUDGk0rd2IgrkSHL2KGyDhdvZk2moygSYxg=;3m0V7jBORitVNiByMV2pPg=="
 ---

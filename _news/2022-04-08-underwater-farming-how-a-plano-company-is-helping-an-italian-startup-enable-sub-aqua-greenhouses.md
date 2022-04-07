@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T18:08:00Z
 originalUrl: "https://dallasinnovates.com/underwater-farming-how-a-plano-company-is-helping-an-italian-startup-enable-sub-aqua-greenhouses/"
 webUrl: "https://dallasinnovates.com/underwater-farming-how-a-plano-company-is-helping-an-italian-startup-enable-sub-aqua-greenhouses/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Dallas Innovates

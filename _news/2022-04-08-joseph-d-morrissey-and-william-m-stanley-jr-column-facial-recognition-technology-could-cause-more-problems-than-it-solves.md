@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T19:00:00Z
 originalUrl: "https://richmond.com/opinion/columnists/joseph-d-morrissey-and-william-m-stanley-jr-column-facial-recognition-technology-could-cause-more/article_7a8189b0-9519-5f81-9250-7c8171454095.html"
 webUrl: "https://richmond.com/opinion/columnists/joseph-d-morrissey-and-william-m-stanley-jr-column-facial-recognition-technology-could-cause-more/article_7a8189b0-9519-5f81-9250-7c8171454095.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Richmond

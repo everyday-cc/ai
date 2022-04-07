@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-08-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
-      "excerpt": "San Francisco Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and effectively train its self ...",
+      "path": "_news/2022-04-07-toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras.md",
+      "title": "Toyota partners with Tesla to develop self-driving tech with low-cost cameras",
+      "excerpt": "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html",
-      "originalUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html",
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/11/Toyota_afp.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp",
-      "publishedDateTime": "2022-04-07T10:31:00-07:00",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
+      "publishedDateTime": "2022-04-06T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
+        "name": "hindustantimes.com",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -53,7 +53,7 @@
       "originalUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

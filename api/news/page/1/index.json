@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-08-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
-      "excerpt": "San Francisco Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and effectively train its self ...",
+      "path": "_news/2022-04-08-ai-sucks-at-telling-jokes-but-its-great-at-analyzing-them.md",
+      "title": "AI sucks at telling jokes — but it’s great at analyzing them",
+      "excerpt": "Google's new AI system, PaLM, is seriously good at explaining jokes. Its understanding of comedy shows language models are improving rapidly.",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html",
-      "originalUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html",
+      "webUrl": "https://thenextweb.com/news/google-palm-ai-sucks-at-telling-jokes-but-great-at-analyzing-them",
+      "originalUrl": "https://thenextweb.com/news/google-palm-ai-sucks-at-telling-jokes-but-great-at-analyzing-them",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/11/Toyota_afp.jpg",
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-3.jpg&signature=77320dbf490918b6d0817db241f94f5d",
           "width": 1280,
-          "height": 720,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,116 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp",
-      "publishedDateTime": "2022-04-07T10:31:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T14:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-new-snapchat-filter-teaches-users-american-sign-language.md",
+      "title": "New Snapchat Filter Teaches Users American Sign Language",
+      "excerpt": "The ASL Alphabet lens shows users how to fingerspell their name, practice the ASL alphabet and test their sign-language fluency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
+      "originalUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
+      "publishedDateTime": "2022-04-07T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-15-upcoming-azure-cloud-services-for-developers-security-ai.md",
+      "title": "15 Upcoming Azure Cloud Services For Developers, Security, AI",
+      "excerpt": "Cool Microsoft tools still in preview or planned for general availability include Azure Video Analyzer, Azure Cognitive Search Speaker Recognition and Azure Object Anchors",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0274-14da973e3242-cc6af0cf06a8-1000/microsoft-azure-1_20210301195736.jpg",
+          "width": 606,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +143,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -105,7 +209,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -156,7 +260,7 @@
       "originalUrl": "https://www.wsj.com/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -242,6 +346,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-artificial-intelligence-b2b-marketing.md",
+      "title": "Artificial Intelligence B2b Marketing?",
+      "excerpt": "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j",
+      "sourceUrl": null,
+      "webUrl": "https://www.ictsd.org/artificial-intelligence-b2b-marketing/",
+      "originalUrl": "https://www.ictsd.org/artificial-intelligence-b2b-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg",
+          "width": 626,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ICTSD",
+        "domain": "ictsd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-health-tech-startup-vizai-raises-100-million.md",
       "title": "Health-Tech Startup Viz.ai Raises $100 Million",
       "excerpt": "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion.",
@@ -250,7 +398,7 @@
       "originalUrl": "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -289,6 +437,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras.md",
+      "title": "Toyota partners with Tesla to develop self-driving tech with low-cost cameras",
+      "excerpt": "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
+      "publishedDateTime": "2022-04-06T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hindustantimes.com",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -500,7 +691,7 @@
       "originalUrl": "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -638,7 +829,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -879,7 +1070,7 @@
       "originalUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1014,214 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
-      "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
-      "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "originalUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
-      "title": "SmartHop raises $30M to boost trucking fintech products",
-      "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
-      "publishedDateTime": "2022-04-06T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-artificial-intelligence-is-already-upending-geopolitics.md",
-      "title": "Artificial intelligence is already upending geopolitics",
-      "excerpt": "Angela Kane Contributor Share on Twitter Angela Kane is vice president, International Institute for Peace, Vienna and the former under-secretary-general of the United Nations. Wendell Wallach Contributor Share on Twitter Wendell Wallach is a Carnegie-Uehiro Fellow at Carnegie Council for Ethics in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/AI_geopolitics.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
-      "publishedDateTime": "2022-04-06T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
-      "title": "Europe Is Building a Huge International Facial Recognition System",
-      "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
-      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/624ca6e922287e54ebc7f22d/master/pass/Europe-Facial-Recognition-1041091610.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp",
-      "publishedDateTime": "2022-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

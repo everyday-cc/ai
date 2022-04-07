@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T17:47:00Z
 originalUrl: "https://kfor.com/business/press-releases/globenewswire/8518570/update-calypsoai-and-carahsoft-partner-to-deliver-ai-ml-technology-to-the-public-sector/"
 webUrl: "https://kfor.com/business/press-releases/globenewswire/8518570/update-calypsoai-and-carahsoft-partner-to-deliver-ai-ml-technology-to-the-public-sector/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Oklahoma's News

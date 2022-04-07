@@ -42,6 +42,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
+    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
+    publishedDateTime: 2022-04-06T15:37:00Z
+    webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 38
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
     excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
     publishedDateTime: 2022-04-06T17:45:00Z

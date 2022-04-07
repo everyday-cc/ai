@@ -23,6 +23,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Is AI Really a Threat to Cybersecurity?"
+    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
+    publishedDateTime: 2022-04-07T19:55:00Z
+    webUrl: "https://www.geeksforgeeks.org/is-ai-really-a-threat-to-cybersecurity/"
+    type: article
+    provider:
+      name: GeeksforGeeks
+      domain: geeksforgeeks.org
+    quality: 17
+
 secured: "/xSQhN9QdZJBKI2nU/Jc48O8Vyb9kNGtbtjupkw6Rzg6HAK1jVwrq2s/BIJhqpP3Y8eV4HW43QUo/KFSdysDFwC9W6hdaSuTBlrkQsTVfRvcVUWDxzSQfzu/vEePBscYLVhZpemN+t3ujh7TPdmPVfE8hcSP8BykzYRcRykUE4ccIS2KAY2LGgLe+w/vkcqfuYnpcZcL44taAjSL5kmQzLvge3ogF9liG4WBBTTTI25Xy9l+cHd0ZydY8PrSRLcaiw8ju1SuSPja5yc5kLOfolrDOVglpZeLcIUwwWdbBrdhiW9zuWVSqVnSYedu089t/g5q6vySs27mxxpX4+/bbjxPujruZ9bAfnOEYDdC2ZlOvO4itPdUYoF55k3hXRhcieZzDSnczR9T1Ex0ZRGHkYjLNe6xAvNhMFwFJM9uu1Hj2N1BpMbsDKeI8AycgWR47QRDGLQ1C2evYsMUpUYtrjFg/mJZarVvEPn46H2HcpdtAZa1GnaLptl3RsIbnyNjC7NgC2Ea0C5vNyk/IAb5vg==;zVQKRvD4hg/UrbWwR2m2mg=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Risk management is the next frontier for AI adoption"
-    excerpt: "As firms increase AI investments, risk management is the next frontier. Data quality remains a hurdle, according to industry survey."
-    publishedDateTime: 2022-04-06T11:08:00Z
-    webUrl: "https://www.bobsguide.com/articles/risk-management-is-the-next-frontier-for-ai-adoption/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 37
-    images:
-      - url: "https://www.bobsguide.com/wp-content/uploads/2020/06/v-32085.png"
-        width: 2363
-        height: 1108
-        isCached: true
 
 secured: "8lLJMiV9gNtk6hbjn/9NfcOSqWMVohRrY2IX95ws0BAiumlMj6aLj+3N4ni2bRZMvFeYH6cswjeCigSZbcr09SclgVXBsMsyT3M4Nz+Lcl9bZYGB91KDpZUTV38B8qL+gUSipXDUKEpdgu3jujZP03W0c5UEmOt126RVOUe5y5qoFGsyCjD/m/NyX4E4UZ72TuGtA4jwqCXYZMe5QeT+x0pAXi5kd6Y4HImO2d86OlUg83zBZYqWpHMT2ABpfHIZCUlrE0e9uAa6wvnCPPjAX1Y3qRENUewI5j+H6k/0CT713tUMvwbOW68Te2Es8luBhMSh0ybbf31B6O77k5MjA7nYwwfjPko3+B3C9bg0BNM=;SHJDEIc/e4TLgX96cDQMrA=="
 ---

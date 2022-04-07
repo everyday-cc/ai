@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T19:27:00Z
 originalUrl: "https://phys.org/news/2022-04-team-universal-ai-algorithm-in-depth.html"
 webUrl: "https://phys.org/news/2022-04-team-universal-ai-algorithm-in-depth.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Phys.org
