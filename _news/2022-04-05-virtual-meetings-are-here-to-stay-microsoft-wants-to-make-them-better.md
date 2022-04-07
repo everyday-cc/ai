@@ -47,6 +47,22 @@ related:
         width: 1023
         height: 669
         isCached: true
+  - title: "Microsoft launches its AI-powered notetaking app Journal as an official Windows app"
+    excerpt: "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,"
+    publishedDateTime: 2022-04-06T17:22:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/"
+    ampWebUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 98
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680"
+        width: 679
+        height: 382
+        isCached: true
   - title: "New Microsoft Azure services will help us learn about the darkest reaches of space"
     excerpt: "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ..."
     publishedDateTime: 2022-04-06T03:29:00Z

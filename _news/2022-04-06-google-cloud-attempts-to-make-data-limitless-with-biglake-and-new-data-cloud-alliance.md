@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-attempts-to-ma
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -32,28 +32,21 @@ images:
 
 related:
   - title: "Google Cloud releases BigLake to unify data platforms"
-    excerpt: "Google Cloud describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
-    publishedDateTime: 2022-04-07T01:28:00Z
-    webUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/"
+    excerpt: "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
+    publishedDateTime: 2022-04-06T18:00:00Z
+    webUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
+    ampWebUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 24
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 74
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_19.jpg"
-        width: 472
-        height: 315
+      - url: "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 525
         isCached: true
-  - title: "Google shoots for \"limitless\" data with Big Cloud and new alliance"
-    excerpt: "Google has announced the preview of a new storage engine aimed at making it easier for enterprises to analyse the information in their data lakes and data warehouses, without having to worry about the underlying storage format or systems."
-    publishedDateTime: 2022-04-06T10:57:00Z
-    webUrl: "https://www.computing.co.uk/news/4047893/google-shoots-limitless-big-cloud-alliance"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 4
 
 secured: "2uOCGjnOlX2x6URcWZilXjmKqVocBjjDoIR02jCikgre8NvujUCN2bMK++nuIhwVoBF5gz+O3dWe24OLo3uMcEnjiYJ2YIgjB8VZwv+b2XaAyMtS0HFIGC4pD85dlISDIfb7Cxz/Iz1ZNM5j178VQRPTxHezrjsvj1WsNZBeU+2r9E9xYzoUdrAbnGSWDZByoqKaA9u0RjqPo1o6PTOLMzz6F7D0VdQC/kcPpRtSEGdxyxh3jIlSG/ibXJY1AcrF+vSrclYODnBIV4i/iDX8hFI0XFyvGpRTMDiGuFmF2IorbQ/id86dOes2F+JXzrbSaY9IlLmwoFENC8t+W9NpFJhsj8AzpzdNJe4Z3+fQbCI=;KEBmCBK3inZijOPkcSg0Pw=="
 ---

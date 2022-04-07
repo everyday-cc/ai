@@ -2,6 +2,163 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-02-19-deci-simplifies-deep-learning-apps-on-cpus.md",
+      "title": "Deci simplifies deep learning apps on CPUs",
+      "excerpt": "Deci, has positioned itself as a deep-learning software provider that uses AI to build AI-powered apps, classification models, dubbed DeciNets, specifically for servers using Intel Cascade Lake ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
+      "originalUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/07/cpu.jpg?w=1200&strip=all",
+          "width": 665,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/deci-simplifies-deep-learning-apps-on-cpus/amp/",
+      "publishedDateTime": "2022-02-18T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-walmart-is-expanding-autonomous-delivery-pilot-with-gms-cruise-this-year.md",
+      "title": "Walmart is expanding autonomous delivery pilot with GM’s Cruise this year",
+      "excerpt": "Cruise plans to expand the self-driving delivery pilot it has with Walmart in Arizona ... state legislators. The autonomous vehicle company, which is a subsidiary of GM, is mostly focused on ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/",
+      "originalUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/cruise-av-gif.gif",
+          "width": 674,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/gms-self-driving-car-unit-cruise-walmart-pilot/amp/",
+      "publishedDateTime": "2022-02-18T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research.md",
+      "title": "AI Weekly: Eric Schmidt’s new AI fund points to the challenge of financing basic AI research",
+      "excerpt": "like Meta (formerly Facebook), as largely toothless and ineffective. A number of experts, speaking to Wired for a 2020 piece, point out that corporate AI research can lead to an “unscientific ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/",
+      "originalUrl": "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/alexander-mils-lCPhGxs7pww-unsplash-e1629134618323.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/18/ai-weekly-eric-schmidts-new-ai-fund-points-to-the-challenge-of-financing-basic-ai-research/amp/",
+      "publishedDateTime": "2022-02-18T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-machine-learning-breakthroughs-have-sparked-the-ai-revolution.md",
       "title": "Machine Learning Breakthroughs Have Sparked the AI Revolution",
       "excerpt": "This decades-in-the-making “AI Revolution” is just getting started. That’s because AI is mostly built on what industry insiders call “machine learning” (ML) and “natural language processing” (NLP) models. And these models are informed with data.",
@@ -1090,144 +1247,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-robot-tractors-may-be-heading-to-a-farm-near-you.md",
-      "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. “I’m sure that’s really expensive. And I kind of want to be out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/01/06/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/01/06/1433425.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai.md",
-      "title": "Upstart CEO says company is ‘at the forefront’ of tackling ancient problem of lending through AI",
-      "excerpt": "That upbeat view on the potential for AI-driven lending is one reason Upstart announced ... in a move viewed as somewhat surprising for a rapidly growing fintech name. The company cited the recent volatility in its share price, which has come down 64% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "originalUrl": "https://www.marketwatch.com/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-273793/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/upstart-ceo-says-company-is-at-the-forefront-of-tackling-ancient-problem-of-lending-through-ai-11645127568",
-      "publishedDateTime": "2022-02-17T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-idaho-lawmakers-introduce-a-new-bill-that-would-bar-animals-and-ai-from-personhood.md",
-      "title": "Idaho lawmakers introduce a new bill that would bar animals and AI from ‘personhood’",
-      "excerpt": "Idaho ... bill that would prevent animals, natural resources and artificial intelligence from gaining “personhood status” in Idaho, the Idaho State Journal reports. What’s happening: Idaho’s House State Affairs Committee on Tuesday introduced new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/idaho-lawmakers-introduce-a-new-bill-that-would-bar-animals-and-ai-from-e2-80-98personhood-e2-80-99/ar-AAU0qRB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/HTz6hZFtz94Up4QZx7Gb5gQ-Chw=/0x0:1024x683/1400x1050/filters:focal(431x261:593x423):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70522752/AP22011796683524.0.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deseret.com/platform/amp/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-      "publishedDateTime": "2022-02-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-        "domain": "deseret.com/u-s-world/2022/2/17/22939000/idaho-lawmakers-new-bill-animals-personhood",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -41,6 +41,22 @@ related:
         width: 1023
         height: 669
         isCached: true
+  - title: "Microsoft launches its AI-powered notetaking app Journal as an official Windows app"
+    excerpt: "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,"
+    publishedDateTime: 2022-04-06T17:22:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/"
+    ampWebUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 98
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680"
+        width: 679
+        height: 382
+        isCached: true
   - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
     excerpt: "(CNN Business)Microsoft is unveiling new Windows features ... a deaf senior product manager at Azure Cognitive Services, who said she was struggling to keep up in meetings. She needed a device ..."
     publishedDateTime: 2022-04-05T15:11:00Z
@@ -147,6 +163,6 @@ related:
       domain: kyma.com
     quality: 19
 
-secured: "5ZadHfGJcvCos/X1Hx9t5hhzaclC9s9EHmdM7XpXlAgEcCtvZXOJvJJ0JkQ5aS0aOaN8HVfKZb1mXQ7Lh/XXi2Bu7Rvb4wDDFCL3lvaakPDarHVQPZNxPuOKQDukxlrr50GdefCbOVdjWUQpVd/DP7r4rb8xDFOObS4ZWWQ/1VB/ON+qtiwTp5igY3wJySIlJ21+PtAuhRIbu8S+GkYAM/0mOITYw98Gx0QDSbvjSVKbdDrv4LaXUaG13wWDVuF10wDkizZ6DeMjeVlqenEa4qHoAPN9gLohj0BgETAOVtmgLmFjhOHVYO8MU9D1WsCPeCBHHfKsEAOnK5bn1/qfd+KwVdDURZ0PWE/XNxBBz6Y=;JSN5T+cmUlCJS7aHv6nVzw=="
+secured: "WUu9ObLxy4HzuwDKlgypdwXT9IalnsArFEHaDpq9jeLJ+51nO6YgaOl5JEYIr0qvOegSpM/eZD8j2EvAvsvWFab4e3UPYwwYVMbI3KASs5PCDl/YpkuV+lCutzjMaRktqtwRXZ4J/Yav7Z7mvL8QKAW0SwVCHWCi6feQw+X3p6cjgoVdP+Iw3Z4PVHAMEwnuV0eIBnX+W1aeOwSBmjj9oN5c4e4EPQes6eLPPUA6r4IquENacSk6NBajDByt+m7pU0WGUdEa+TTB8lC1hzKTyDhxIrS4k3qF1YpoGzO8sVG8Gu3esuE9jyGEuK43wzJuNBFrdVUrdTgtZJOGv9z/KYF68iLxP5B97WzNL6b0Zm7rQL7L1DiLet8cM1n0jukTHPVdGPbGfWtFnxt+fz2BtLhIB8GTSMe+Evm03x36RGugE6DfoX9EtuVF+SULUDWEXsntH8GKFTNOKzttS/1K3hI6iIZ6XRs5DGbrTmWZSgjCahkuiarCj+kXPYOywzOtu42LzRD3a05UG9ketT0yFw==;NLqf/uKC9MCCuVDhoL21dg=="
 ---
 

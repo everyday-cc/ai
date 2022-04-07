@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-06-google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance.md",
-      "title": "Google Cloud attempts to make data 'limitless' with BigLake and new data cloud alliance",
-      "excerpt": "BigLake has been designed to be completely open-source and central to Google Cloud's investments going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "originalUrl": "https://www.zdnet.com/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb35c1dab488a746bf271031fcbc7db3f0cd417f/2022/04/05/faaeb6ed-ce23-486d-92b3-f107ca54462f/biglake-jpg.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "publishedDateTime": "2022-04-05T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing.md",
       "title": "Google’s cloud-based approach offers open ecosystem for data sharing",
       "excerpt": "Google's new releases emphasize breaking barriers between clouds from different merchants and also self-hosting options by the customers.",
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1460,6 +1408,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
+      "title": "Microsoft announces auto-generated captions for images in Edge",
+      "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "originalUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1607862765_edgenew_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "publishedDateTime": "2022-03-17T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

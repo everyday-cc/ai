@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is explaining itself to humans. And it's paying off"
+    excerpt: "The system, introduced last July and described in a LinkedIn blog post on Wednesday, marks a breakthrough in getting AI to \"show its work\" in a helpful way. While AI scientists have no problem ..."
+    publishedDateTime: 2022-04-07T05:30:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90697888,imgsize-91086,width-1200,height-628,overlay-etcio/ai-is-explaining-itself-to-humans-and-it-s-paying-off.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Adding AI to museum exhibits increases learning, keeps kids engaged longer"
     excerpt: "Hands-on exhibits are staples of science and children's museums around the world, and kids love them. The exhibits invite children to explore scientific concepts in fun and playful ways."
     publishedDateTime: 2022-04-05T14:48:00Z

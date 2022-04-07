@@ -58,22 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "The Age of Artificial Intelligence and Cloud Computing"
-    excerpt: "The use of AI in legacy modernization will reduce time-to-market, boost reliability, and motivate organizations to modernize applications at a faster pace."
-    publishedDateTime: 2022-04-02T11:08:00Z
-    webUrl: "https://www.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    ampWebUrl: "https://amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/age-artificial-intelligence-cloud-computing-63720"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
-    images:
-      - url: "https://data.ibtimes.sg/en/full/56509/vaidyanathan-ganesa-sankaran.jpg"
-        width: 960
-        height: 675
-        isCached: true
 
 secured: "Ql8mF9c4/nXBgsRSLdOhSfgZlNp0Wa/CdQP4qfJ4P/lNK4oRrw/6PjBJz3/Zvj5o0mr657bsJFGDUi88yMuepIMXsQOy08YE9FOLdUrl7p/xSxN9ctsoutKGnsWZxyylY8uUjg1iHe4kF34pwuX0uQ1p/nWFVC+mTIdQLiL/Wey+f0vaiYYoSphDfo/sDf3HGwRl2qu4BvMpRxllRYccPtJ/xpaOTcoP04HTXNPZH4k/kUKy76rj0iuYFu6IQ8OkxMIPLAXqVXoKDprhS2rqHs+FW7pNNemtMHYjrZ+BQY4Rle/NvrBYke4aMZoLaJg9B1BKwsindYlpph9BJ6PpoGLtMwjTEYRBL1z/qP4g4Z0=;r/hp/EtRnkLnDHxdl0tstw=="
 ---

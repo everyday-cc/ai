@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Toyota partners with Tesla to develop self-driving tech with low-cost cameras"
+    excerpt: "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology."
+    publishedDateTime: 2022-04-07T04:38:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
+    type: article
+    provider:
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
     excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
     publishedDateTime: 2022-04-06T18:25:00Z

@@ -23,6 +23,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Supply Chain Market is expected to reach the value of 30.39 billion USD by the end of 2027."
+    excerpt: "As per our research analysis, The Artificial Intelligence in Supply Chain Market size was estimated to be worth 20.73 billion dollars in 2021, and it is"
+    publishedDateTime: 2022-04-07T04:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-supply-chain-market-is-expected-to-reach-the-value-of-30-39-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "M5wbotU353Va8/TPA9XsPHAELiVahRqgVU4mbBnzJdTA/hpA46Waa8Jb5oNaWvFejTbxMy1JUlQ3RymlCUC+PlrEy+0WLAQ8EQShkqPBp48DoO+N1ToXf4C/ruGM9jBNIpHFUD3RnBEH6Hf7qmOvJ0KgCSC6WZuvqiAEQNu+2Wy/2g5o4wMiFgc92UWnDg9CcdbY1Esb9SNMzYDUYJPDXsldtTtnbdyY7NRqTzAWzzknlhEvxYf+abWSFujePxzvKune9Lqt76YwdjcPRnwoZPK/S6UGBVkmLxTRBlbHB6pcz0bu8DG6UmXJkir1WiUqgUgyN9s/anw3jK5XzseC6CwPOq7SYkJibsjexQLO2Pk=;T5vTxvxZMszcHYD+HdpLjg=="
 ---
 

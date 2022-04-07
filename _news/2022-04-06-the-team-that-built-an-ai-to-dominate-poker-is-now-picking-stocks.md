@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-05T19:37:00Z
 originalUrl: "https://thenextweb.com/news/team-built-ai-dominate-poker-now-picking-stocks"
 webUrl: "https://thenextweb.com/news/team-built-ai-dominate-poker-now-picking-stocks"
 type: article
-quality: 49
-heat: 49
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - Google AI
   - AI
 
-secured: "k8S6H2ZXI7yJcSdhbchVHFqCI7YaCfUdSY7Z0oR8QCpxov/0XjQGAFcezbYnbQc9qk7aE8b99QMJq0qeQco8e9A85XRAWmvtN3vPHHnrhoBeCBZDGj+M0WAQxD3OBd82mc6DLiUV5cbbQnXhwFJtcMF5zp4F+QBPrsICz0tQM7liz8D3DwbhMyNxIhNHSA1lSF4FUne+9jzjo1ANeAFW9en6u8ZoAtCmXlXHQUfNUaePTe0VJKsZAy8hTvJ+UZkgU2IXYVTHN9If1Sr3NOLxABRbhwsvBE6XKTjTGsgy/f1C7/iX1kKJFA9AZBT1xlETC9GbTIbY/9PCzu2bewQQ4aTIhFxtK95RL/bK1eNrOIw=;RI6UBPbfZER7nxsypT9X0w=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fstockbrain.jpg&signature=0f3852661316b2744698a4000f0d194a"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "YFrH8NOL9e4TN91tZnqcXpN2CIAVwrDZBWWiVKxiPw25sC6wGUw4VdX4HjY5HmUlyWg6FK6sKjftLRuQQYRqYJB13IsOOMX3rwdICi5E+wBh/Zk3xpZr6ss3+d+JLyN27q7yrMqI9x1gJwGAnqldTF0BmErz+kVScBRYQQHZ/liDh4tCF1l6LSsQ6h5EbG1T/zPpsbmbsojqIiBhgezzcwXysWfki+G4zZFHV6VW0CobCVYm/pnocaojgURyUI+G4rGkA3kczqnebYEpGkjX92RxgZClPiwOBOocNNlVH75PQjR4zMgcdXAszAAX13m+PayOOqWmcoTtJnyhogS2MhEzMi1ZdmBqaJGRJYMjGNc=;9PStQCMMBADmXxLoqjsEPQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-me
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches its AI-powered notetaking app Journal as an official Windows app"
+    excerpt: "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,"
+    publishedDateTime: 2022-04-06T17:22:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/"
+    ampWebUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 98
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680"
+        width: 679
+        height: 382
+        isCached: true
   - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
     excerpt: "(CNN Business)Microsoft is unveiling new Windows features ... a deaf senior product manager at Azure Cognitive Services, who said she was struggling to keep up in meetings. She needed a device ..."
     publishedDateTime: 2022-04-05T15:11:00Z

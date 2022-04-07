@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-07-toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras.md",
+      "title": "Toyota partners with Tesla to develop self-driving tech with low-cost cameras",
+      "excerpt": "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
+      "publishedDateTime": "2022-04-06T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hindustantimes.com",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-indian-americans-ai-startup-expands-leadership-team-after-raising-200-mn.md",
+      "title": "Indian-American's AI startup expands leadership team after raising $200 mn",
+      "excerpt": "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised USD200 million so far and added key members to its leadership team",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html",
+      "originalUrl": "https://www.business-standard.com/article/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/pti-stories/indian-american-s-startup-raises-usd200-million-expands-leadership-team-122040700094_1.html",
+      "publishedDateTime": "2022-04-06T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-monitaur-launches-governml-to-manage-ai-data-lifecycle.md",
       "title": "Monitaur launches GovernML to manage AI data lifecycle",
       "excerpt": "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio.",
@@ -62,7 +147,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -149,6 +234,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
+      "title": "Google Cloud releases BigLake to unify data platforms",
+      "excerpt": "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "publishedDateTime": "2022-04-06T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-ai-is-learning-how-to-explain-itself-to-humans.md",
       "title": "AI is learning how to explain itself to humans",
       "excerpt": "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human",
@@ -157,7 +294,7 @@
       "originalUrl": "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -840,7 +977,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -914,58 +1051,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance.md",
-      "title": "Google Cloud attempts to make data 'limitless' with BigLake and new data cloud alliance",
-      "excerpt": "BigLake has been designed to be completely open-source and central to Google Cloud's investments going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "originalUrl": "https://www.zdnet.com/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb35c1dab488a746bf271031fcbc7db3f0cd417f/2022/04/05/faaeb6ed-ce23-486d-92b3-f107ca54462f/biglake-jpg.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-attempts-to-make-data-limitless-with-biglake-and-new-data-cloud-alliance/",
-      "publishedDateTime": "2022-04-05T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1073,7 +1158,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1115,92 +1200,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-arcanum-takes-its-ai-platform-into-awss-co-sell-programme.md",
-      "title": "Arcanum takes its AI platform into AWS's co-sell programme",
-      "excerpt": "Wellington-based AI and machine learning company Arcanum is joining the Amazon Web Services independent software vendor accelerate programme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/696926/arcanum-takes-its-ai-platform-into-aws-co-sell-programme/",
-      "originalUrl": "https://www.reseller.co.nz/article/696926/arcanum-takes-its-ai-platform-into-aws-co-sell-programme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/asa_cox.jpg",
-          "width": 471,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-ibm-releases-new-server-that-uses-ai-chip-developed-in-albany.md",
-      "title": "IBM releases new server that uses AI chip developed in Albany",
-      "excerpt": "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
-      "originalUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/04/73/22302450/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
-      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
-      "publishedDateTime": "2022-04-05T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

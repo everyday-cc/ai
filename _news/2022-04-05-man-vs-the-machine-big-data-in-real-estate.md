@@ -7,7 +7,7 @@ originalUrl: "https://dsnews.com/daily-dose/04-04-2022/man-vs-the-machine"
 webUrl: "https://dsnews.com/daily-dose/04-04-2022/man-vs-the-machine"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 426
     isCached: true
+
+related:
+  - title: "Rise of the Machines: This time the robots are coming for influencers"
+    excerpt: "The age of the Kardashians is waning, replaced by artificial intelligence and digital influencers embraced by those under their influence."
+    publishedDateTime: 2022-04-07T05:31:00Z
+    webUrl: "https://www.startupdaily.net/2022/04/rise-of-the-machines-this-time-the-robots-are-coming-for-influencers/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 39
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2022/04/lilmiquela.jpg"
+        width: 769
+        height: 533
+        isCached: true
 
 secured: "bUFBA4sIdrFnkUA2DT2xLdGgHXcRjnY02S005nMTqfyxhxiMES1RsYn9eskyyRzBRx5ScpIsE480x23UHANNxjvTif7ZTfeuxRpnWC6VA17ap02yii0pJ/azcevCk1R8LOE//c0gdQ2Cs9wlBZAVUQYDdMeA7zTfoQyTREsgYJrDLX6NTP8mmVlruD/gQNCNgLxMIlfePb2SxcqkJY1T1FaatKer9BDSDGW6F24MGaPmvbDLoGoSPD56Ji/vKUxZC7MwEJOPINiQ00wbD66CTCMCM6+kQt9E5ywUZDAsYzSLXwwx9JFtFwDdu8MUQq1TARRz8vq0IfoaCIvnkJHsm2TwWAT3LY+LMAKSj3jYhbLswMorOC6j3lwCQOTygQ6VEo/wrZQcP0j7eu4AC8A3+X2F9BlhwtFo2k91YhE6pdpOazAcUc2pdgwxJL8Mh1lXy4cAxjDWT2P9cBNiHz/1rlV3DbMn71ENRwxxqNdUMVBIexoYbW2MnNdQQjd7KXIKElDp+qe/a3hRLVVKH40FaA==;bIafYjHTsLx0CwyzB4qCdg=="
 ---

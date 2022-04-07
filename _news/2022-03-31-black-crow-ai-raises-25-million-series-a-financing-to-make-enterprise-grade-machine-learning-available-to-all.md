@@ -3,8 +3,8 @@ category: news
 title: "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All"
 excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’."
 publishedDateTime: 2022-03-31T13:37:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
-webUrl: "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "eK4HyciOOyMKmcurT1Y2biQIRYJMjO7Ejdw5V0I6nF53/MGUUO4CKNCbdb6ph/EstSbIh0EESEx93EfTg1cj+2gd5AdKVibEVC5W1KW4+jPtREaycb4zTEB1cOO1z8VEjwLO8dPlT+PR3sOS6w9Q2i7EtpzhcczYCIwTtqk/bweO2v7cQeRz5HNFamvevSm07NkAHfdHNhNiZ+iVXMUMAm5HvA5OsDajaQhDuczamCwgkeA3itNJpZXMLEb9GZ9KAEwBObe/63urjHZ88PJdrSjIX/rMg0sXE1uUXJH5/zpl+aUk7eTRpOVoRCQAG14OSW8lz5yXD51Fn0p7NOmH/vYZWbxZOP6fobUitPQwRPw=;7gKhAQKQkSf0liujNG66Kw=="
+secured: "mpFwT06wZrRb0FQbZ2mbn8MvH/8Flfp7477u92+mzsqBn2wM169yHSqAqYoAhaCLaIv7v4a9mdL4zaYc/vZersmpEpwk53hNzbaW27h40Bgw3Cn9m+a0X0dII8OWf7tz9sHRQa24JsPyL8QUElOwzUj8nMdyuStc5MXcHdyIHw/aoZLUZTh5AoV+YOLX/lkXw3HYurzlwtM6F+4mvCBEXmrsjZemarWXRwnZ8iYPPZTJjDOBTtkWAcUHjp6HozeRsAM01nbJ+Ech9FY2wovhA0VCy1m7+0WyYPE27013Kleasf/HX/c2Ygk+YO7gUR9nNx3Ewcz2u4YDg5dM0gvVRH5NzPfngHCAhGZ3Zh8Tq78=;wK6nVzuaAjrpa7yJR5ejxw=="
 ---
 

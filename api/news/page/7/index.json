@@ -2,6 +2,151 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-30-syniverse-and-koreai-form-partnership-to-offer-cpaas-professional-services-for-enterprises.md",
+      "title": "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises",
+      "excerpt": "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
+      "originalUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/d9/8d988135-5218-5ce3-b387-8d6e62d636e9/62444a53293a0.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m.md",
+      "title": "AI-powered building design platform BeamUP emerges from stealth with $15M",
+      "excerpt": "BeamUP, a startup developing an AI-powered building design platform, has raised $15 million in a venture round. It plans to use the funds to expand its team.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/",
+      "originalUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-863910288.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m/amp/",
+      "publishedDateTime": "2022-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner.md",
+      "title": "Will Zalatoris On Predictive Analytics, Fantasy Golf And Tips For Picking A Masters Winner",
+      "excerpt": "Last year’s Masters runner-up Will Zalatoris offers tips to fantasy golf players on how to pick winners in Augusta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62434ef83c1a23cbed4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2022/03/30/will-zalatoris-on-predictive-analytics-fantasy-golf-and-tips-for-picking-a-masters-winner/amp/",
+      "publishedDateTime": "2022-03-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-builderai-raises-100m-series-c-led-by-insight-partners-to-scale-up-its-software-automation.md",
       "title": "Builder.ai raises $100M Series C led by Insight Partners to scale up its software automation",
       "excerpt": "When we started covering Builder.ai a few years ago, the startup was tapping into a new wave of businesses wanting their own native apps. The previous wave of agency-built and outsourced apps was waining,",
@@ -1029,152 +1174,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
-      "title": "Go with the flow state: What music and AI have in common",
-      "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
-      "originalUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Music_AI_hero-01.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
-      "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
-      "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20309928.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20309928.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-the-quantum-tech-arms-race-is-bringing-us-better-ai-and-unhackable-comms.md",
-      "title": "The quantum tech arms race is bringing us better AI and unhackable comms",
-      "excerpt": "Quantum tech promises breakthroughs in weapons, communications, sensing, and computing tech that could change the balance of military power.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms",
-      "originalUrl": "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fvriuw.jpg&signature=b5c3eff22090df30c2826d7b023f28fc",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

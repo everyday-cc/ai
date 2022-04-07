@@ -5,9 +5,11 @@ excerpt: "Researchers created an algorithm that uses infrared images to recreate
 publishedDateTime: 2022-04-06T19:07:00Z
 originalUrl: "https://interestingengineering.com/full-color-night-vision"
 webUrl: "https://interestingengineering.com/full-color-night-vision"
+ampWebUrl: "https://amp.interestingengineering.com/full-color-night-vision"
+cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/full-color-night-vision"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "OeAJqCitN2oK4S8K1+P0XBMidhWq8Ponp41JFQI/d49SuocbN/mF+8WVHY5i6sJ3xAIX7dK2lKjt43E6bAiGbBEfrP2dnYJoR/MVre6Ai7O2nkYZF1ApB3ujB7wcFtplbu0B+vT4dqGUrNp39KlOWNLD7LIFX0o1Rp9P8963PzU7744HdM8g0rn1duUiJn5z1kMUsG9Fu6d4DZmJ3+2KcKYYAwal9ZkN35jQOLlnB8j6eIWJ6mqBpnh4YC70GRA8Pa5he+aMXvc1T7KABRzDxK4ZvrPA4I9xJA46A5b4Hqg/RhhgkqRjRpIJEZq9dz0R9eUVnbtzUnRnaNm2pdGyjmrGnbTCPPKbD6NCt+Tw7yE=;Daafmu1/WPEQs31UlEwAUw=="
+images:
+  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nR6bJZZY6o/sizes/press-image_resize_md.jpg"
+    width: 744
+    height: 374
+    isCached: true
+
+secured: "xwWVGTlRU8L4HJiRwOBdBTRuS6lDFc2vpJm4xxmybZLR3tabcp3+HqPV/vGjU9i990Zfcy0tBTQMWBaSaI0MPv4Gbhy+PrVj/l2Mjh2FYwZlYWpeAfHEQth0dJAp2CaWTZKYV4edK0rBUSy96/zCGRWxKHZCvhgSUsEO4ChzVqVnNKnesZyRQy6fw6sj4GmNmtc0TsRW/X2lSdjl/+PVpRTUqksLtwHYQfC+pXW5e4NOEQTwGQwBxVu00wf7ikF3LDy6rScIJNRAehGavxxUmgylulPClf/WH5VaqmWYzb4RugBsr0m+sjSIZ5nFqBvRPiHXZrDZbsnQ2Tschxo/MxwfrYLNp3qBIzrML1+/Cug=;4K2P5q+7Lv7/dEthPaw5kQ=="
 ---
 

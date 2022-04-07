@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Edge AI Hardware Market is expected to reach the value of 20 billion USD by the end of 2027."
+    excerpt: "As per our research analysis, The Edge AI Hardware Market size was estimated to be worth 16 billion dollars in 2021, and it is predicted to be grow high"
+    publishedDateTime: 2022-04-07T04:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-hardware-market-is-expected-to-reach-the-value-of-20-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
     excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
     publishedDateTime: 2022-04-06T20:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

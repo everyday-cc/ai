@@ -81,6 +81,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Edge AI Hardware Market is expected to reach the value of 20 billion USD by the end of 2027."
+    excerpt: "As per our research analysis, The Edge AI Hardware Market size was estimated to be worth 16 billion dollars in 2021, and it is predicted to be grow high"
+    publishedDateTime: 2022-04-07T04:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-hardware-market-is-expected-to-reach-the-value-of-20-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence Market Size [2022-2029] Worth USD 1394.30 Billion | Exhibiting a CAGR of 20.1%"
     excerpt: "The worldwide Artificial Intelligence Market hit USD 328.34 billion in 2021. The market valuation is slated to increase from USD 387.45 billion in 2022 to USD 1,394.30 billion by 2029 , expanding a 20."
     publishedDateTime: 2022-04-06T22:29:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
+      "title": "Google Cloud releases BigLake to unify data platforms",
+      "excerpt": "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "publishedDateTime": "2022-04-06T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions.md",
       "title": "Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions",
       "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -190,6 +242,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-google-announces-new-tool-for-data-storage-and-integration.md",
+      "title": "Google announces new tool for data storage and integration",
+      "excerpt": "Google wants its to offer the control of the best data warehouses with the seemingly endless availability of cloud storage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "publishedDateTime": "2022-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1323,84 +1418,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
-      "title": "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS",
-      "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a… | London | Technology | Technology |",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/iFJg6ldR3QdXTRrS0MWiI9D6hovcMvFg4IW9okwb.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=3986c8ad3f1bbc4e1be11c102d82efb8",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market May See Big Move | Siemens, GE, Google, Microsoft",
-      "excerpt": "HTF MI introduce new research on Artificial Intelligence (AI) in Manufacturing covering micro level of analysis by competitors and key business segments. The Artificial Intelligence (AI) in Manufacturing explores comprehensive study on various segments like opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/18/artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/18/artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

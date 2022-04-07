@@ -38,6 +38,36 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Council Post: Beyond Explainable AI—How to infuse trust in AI systems"
+    excerpt: "Contractual trust is a concept that dictates and quantifies trustworthy AI. This is done by incorporating a set of phases in the DS workflow."
+    publishedDateTime: 2022-04-07T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-beyond-explainable-ai-how-to-infuse-trust-in-ai-systems/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "Find Out How Artificial Intelligence Is Transforming Our Lives: Government, Metaverse, Climate Change, Health & More"
+    excerpt: "Find Out How Artificial Intelligence Is Transforming Our Lives: Government, Metaverse, Climate Change, Health & MoreThis is a Guest Blog by By Mr Animesh Samuel, CEO and Co-founder, E42Artificial Inte"
+    publishedDateTime: 2022-04-07T05:17:00Z
+    webUrl: "https://trak.in/tags/business/2022/04/07/find-out-how-artificial-intelligence-is-transforming-our-lives-government-metaverse-climate-change-health-more/"
+    ampWebUrl: "https://trak.in/tags/business/2022/04/07/find-out-how-artificial-intelligence-is-transforming-our-lives-government-metaverse-climate-change-health-more/amp/"
+    cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2022/04/07/find-out-how-artificial-intelligence-is-transforming-our-lives-government-metaverse-climate-change-health-more/amp/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 36
+    images:
+      - url: "https://trak.in/wp-content/uploads/2022/04/Artificial-Intelligence-Banner-Opt-1280x720.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Council Post: Does a lack of XAI put AI startups at risk of failing?"
     excerpt: "Most startups offering AI/ML tools for decision making don’t make it because they can’t get a vote of confidence from the decision makers."
     publishedDateTime: 2022-04-06T12:30:00Z
