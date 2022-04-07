@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-11-deepminds-new-ai-gives-historians-a-powerful-new-tool-to-interpret-the-past.md",
+      "title": "DeepMind’s new AI gives historians a powerful new tool to interpret the past",
+      "excerpt": "Google DeepMind has collaborated with classical scholars to create a new AI tool that uses deep neural networks to help historians decipher the text of damaged inscriptions from ancient Greece.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/",
+      "originalUrl": "https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ithaca2CROP-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-using-ai-to-fill-in-the-missing-gaps-in-ancient-texts.md",
       "title": "Using AI to fill in the missing gaps in ancient texts",
       "excerpt": "A team of AI researchers at DeepMind, working with colleagues from the University of Venice, the University of Oxford and Athens University of Economics and Business, has developed an artificial intelligence (AI) application to help historians fill in the gaps of text missing from stone,",
@@ -1413,49 +1465,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor.md",
-      "title": "DeepMind’s AI can control superheated plasma inside a fusion reactor",
-      "excerpt": "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
-      "originalUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/TCV-purple-plasma-visible-light-cam.jpeg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/amp/",
-      "publishedDateTime": "2022-02-16T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

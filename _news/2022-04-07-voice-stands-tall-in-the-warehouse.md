@@ -24,6 +24,22 @@ images:
     height: 534
     isCached: true
 
+related:
+  - title: "Voice stands tall in the warehouse"
+    excerpt: "A market that’s growing at a rate of 14.7% annually, the voice picking sector continues to innovate to meet the needs of today’s warehouses and distribution centers.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-04-07T17:04:00Z
+    webUrl: "https://www.scmr.com/article/voice_stands_tall_in_the_warehouse"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 24
+    images:
+      - url: "https://www.mmh.com/images/2021_article/MMH2204_Voice_Zebra_Inline2.jpg"
+        width: 800
+        height: 462
+        isCached: true
+
 secured: "78JQLg/3uWe3DNN8DXuSoZ4ED0bhHwpKT5KQrGQ+4yKRD5j2QGpWTiT5WmmO8vImkOATQJ7Qb3utpapb+EoVBDC6UkO7TaeTXLFpbSEeJdTuWPMyRX3HZaT2NmCcZ/YGjJLhXnBatWELZZ6I5xyyTeVnjiu0QWq9mtfQQVwWVQxixo1wsnSrKisuFhsLlgoOxBTMOlKeyWPj4ijxXu1aCwidJXWdJzzgoIfaUclUVmI6Z9v6EO3Yj3Zk+XJvhPkX6gmJWel+yh57FXdfQtA87xApz7Hsb4LNr786dn/6nJDqnPLX9yoWE+BM9jzHm8fVmY46qiysStAdmh0kxhu9VwDBdLf8W+SyopI1achFEX4=;qlKk3V2HSjFJGbXz2uN4iQ=="
 ---
 

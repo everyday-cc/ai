@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: hindustantimes.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "San Francisco Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and effectively train its self ..."
+    publishedDateTime: 2022-04-07T17:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/Toyota_afp.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
     excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
     publishedDateTime: 2022-04-07T12:00:00Z
@@ -55,6 +71,6 @@ related:
       domain: indiatimes.com
     quality: 8
 
-secured: "clyzErob28sl8Ze/YXCl0hOy+mxHPRktMWcYX15/B1b1c8AW7MEH88Mj+UgU1Ey6rqYw8D+fXtqGj+VCKHCrDaysAwx6xrhAyK9uW76u8NsdTPfi5pv0gMfXx8Ugk/ketyVA7ZGzd2rpZDuvKTtg2rfcg8GXr3yAdrwao/Y6aS3gUoAX2ATNH27Mro6feOvun+vvr3nSGjiGGsuEO16yDVGDlOYtTG0jmoueXaW16/VnZQ3R/oNTYwKWFgiTzauJNSm/OzgtNF2G2b3ZJ/lmDxmeUFQA/BaRjVFDPdQQCFVa1szPcYNLF5fGp/qWW0Av3DFhS4DWrXFfi+mg8b42Wd2EEU1aG4xLRZtHAGl/Waw=;/h8CO5vsQ2zGC0mvQLCijw=="
+secured: "3zS/72JSariHHDHax+4nuMrcDL6/Dfego4Vy10XrggvCg9BTIvoneu5/AxFS3bmfzSgJDZ+2JiKRRAAjRsPwrL3P4ZmmVZBT4gR7StUH7uH/X5hCfLk8ma1wDRfvi3X28g/WzJn48tSHb3mtAa7tAoVXPHudYgztna9tHqTMcBJ1375CwTAcx7/iYlCv3HGFKRw1c2opcDkEBnE9d5DWR/b2ppMIrnZa6bl09VsDkC+ZlOApN4AOs2VLlhhf0RVHoMryJZ2A0sBQn7KkQ/FBDVnYafJw1jgkIDZvHLbogd7kA3GMXBqJ+QGmoevy15AEMsjw2rtbsr8zWPtrIj6ofp4aNdt5+BGBYuF5Yjr0ufkz4PHulxAenekt+JUqcn8pckzHG+JxfokorLej7A64fCjy/9SZv3iC8T9WyMofVZRFZ4O3fhKOdyYeaNAGf7uiw68s5GChURm5M3vG9C1v2W33zdGb9KOz+Ur5ZL/g74KR3wjq8OWuy4PjaEVNCowXNTNh4y4uiitUGQKuGudsaQ==;Zg9Ufdy+p+xlbzGl6BUfQA=="
 ---
 

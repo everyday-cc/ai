@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activea
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
 type: article
 quality: 62
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -255,6 +255,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Salt Security Discovers Critical API Security Vulnerability That Would Have Enabled Administrative Account Takeover on FinTech Platform Serving"
+    excerpt: "Gain administrative access to the banking system Access users' banking details and financial transactions Leak users' personal data Perform unauthorized funds transfers into bad actors' bank accounts The SSRF flaw was already actively integrated into many of the FinTech company's systems and had the potential to compromise every user account and transaction data served by its customer banks."
+    publishedDateTime: 2022-04-07T17:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/07/9578764.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rV61pFTJKfdk+AWysQ3YIBPDxI8Zhvb6fK2gi019XgcIMYz01fGkTnMTKur0H6KJwME0pZd4eWSePS8km5VTm5vJSjWGfskTxcmR467dgrvZmv4PxkVGxdBJ2UZuYKmz6VWr/n30cfVY6gE4gj1Uvq7nLOG7P8CNoPKlbJj736XJydBL27c1fuYDampgUjHeoCoMek8DVz1i5eHjjL144haAuXmQzzGUqYpiwytQjtcAyBC9vwyMVrJY/8ISTy2w7zSZha5eZoxEi3Oov96b7Y47gZUaRZUp0RzynL+/LYJZVgvB9pIJut+VFUVnjXCjJVMgjcgnBpac61ql2ir0iixDzF7kLaVMB2MglZY2vkjXMK3CgITxvIR/Ex1d947HohuG58bMLexXuDMrAqHlfx5OjM3fNSDdQui4+HHSsoZKj0PnAsxM0IXRfUmnsUkBk0ot71PMcZY+9b5FuskqfYuxV/ha12zZkktihVTJCjuKdpwRS9kInTOuUrXLeW8BXN9zkinmwyODhf33uAIZQg==;ZCwDZiefc+xDRuRtVjjEJg=="
 ---

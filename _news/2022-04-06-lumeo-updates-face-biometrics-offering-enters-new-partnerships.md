@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Daltrey integrates Idemia face biometrics with access control platform"
+    excerpt: "VisionPass can include additional biometric modalities, and provides a digital identity that can be used across all physical and digital access points."
+    publishedDateTime: 2022-04-07T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202204/daltrey-integrates-idemia-face-biometrics-with-access-control-platform"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/28163438/idemia-visionpass.jpg"
+        width: 1073
+        height: 711
+        isCached: true
   - title: "Face biometrics for payments continue advance with PopID-Visa partnership"
     excerpt: "PopID has recently entered a new collaboration with Visa to launch its PopPay face biometrics-powered payments solution in the Middle East region."
     publishedDateTime: 2022-04-06T21:55:00Z

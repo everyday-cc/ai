@@ -2,6 +2,214 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-02-18-why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022.md",
+      "title": "Why AI and machine learning are vital cybersecurity tools for 2022",
+      "excerpt": "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
+      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-baidus-robotaxi-service-is-now-available-in-all-first-tier-chinese-cities.md",
+      "title": "Baidu's robotaxi service is now available in all 'first-tier' Chinese cities",
+      "excerpt": "Baidu expects to serve 65 cities by 2025, and won't reach 100 cities until 2030. It also faces growing competition from rivals like AutoX, which also offers self-driving rides to the public.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/baidu-apollo-go-robotaxi-shenzhen-141727050.html",
+      "originalUrl": "https://www.engadget.com/baidu-apollo-go-robotaxi-shenzhen-141727050.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/09517790-90bf-11ec-bf6f-eea717f2cd1a",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-apollo-go-robotaxi-shenzhen-141727050.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-go-robotaxi-shenzhen-141727050.html",
+      "publishedDateTime": "2022-02-18T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-37-black-investors-changing-the-vc-industry-with-firms-dedicated-to-funding-diverse-startup-founders.md",
+      "title": "37 Black investors changing the VC industry with firms dedicated to funding diverse startup founders",
+      "excerpt": "Burks Solomon cofounded Partpic, an object-recognition company that sold to Amazon in 2016 (she also heads Google for Startups in the US in addition to her work at Collab Capital); Givens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/black-vc-investors-started-firms-invest-diverse-underrepresented-startup-founders-2022-2",
+      "originalUrl": "https://www.businessinsider.com/black-vc-investors-started-firms-invest-diverse-underrepresented-startup-founders-2022-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/620ab27716a6300018c8fb40?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-leveraging-computer-vision-for-monitoring-alzheimers-disease-progression.md",
+      "title": "Leveraging Computer Vision For Monitoring Alzheimer's Disease Progression",
+      "excerpt": "The growing involvement of technologies such as AI and computer vision in healthcare enables health experts to predict and track the advancement of Alzheimer’s disease in patients. The mere possibilit",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-monitoring-alzheimers-disease-naveen-joshi",
+      "originalUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-monitoring-alzheimers-disease-naveen-joshi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFaoO-s7Tt0IA/article-cover_image-shrink_720_1280/0/1643831757120?e=1651104000&v=beta&t=7yKLv7ACZO-opMqqhV85Sxd5Zl3u-2ffos9KOsaFO30",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-sirona-medical-acquires-nines-ais-algorithms-to-rebuild-radiologys-it-from-the-ground-up.md",
       "title": "Sirona Medical Acquires Nines AI’s algorithms to rebuild radiology’s IT from the ground up",
       "excerpt": "This acquisition comes during a somewhat shaky moment in AI-based radiology. But Sirona is betting this move proves out its thesis: to bring AI into the clinical workflow, we need to rebuild ...",
@@ -1002,188 +1210,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-inside-facebooks-african-sweatshop.md",
-      "title": "Inside Facebook’s African Sweatshop",
-      "excerpt": "Some said they had done research that showed content moderators ... and no users nor Facebook’s AI systems have flagged specific points in the video. Through its prioritization of speed and ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/",
-      "originalUrl": "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2022/02/TIM220228.Facebook.Cover_.jpg?quality=85&w=1012",
-          "width": 1011,
-          "height": 1349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos.md",
-      "title": "IBM creates free sustainability accelerator for non-profits and NGOs",
-      "excerpt": "IBM has already conducted a pilot of the project with The Nature Conservancy India, Heifer International and Plan21.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-creates-free-sustainability-accelerator-for-non-profits-and-ngos/",
-      "publishedDateTime": "2022-02-17T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
-      "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
-      "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
-      "originalUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
-      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
-      "publishedDateTime": "2022-02-17T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Security",
-        "domain": "healthitsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-googler-wants-to-add-every-voice-to-ai.md",
-      "title": "This Googler wants to ‘add every voice’ to AI",
-      "excerpt": "Early in his career, Laurence Moroney was working on an equation — not something related to his job in tech, but to his bank account. “At one point, I calculated I was about three weeks away from being homeless,” Laurence says. “My motivation was to put a meal on the table and keep a roof over my head.”Today",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
-      "originalUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_2_LZXl4TX.max-1300x1300.png",
-          "width": 1201,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/laurence-moroney-every-voice-ai/amp/",
-      "publishedDateTime": "2022-02-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

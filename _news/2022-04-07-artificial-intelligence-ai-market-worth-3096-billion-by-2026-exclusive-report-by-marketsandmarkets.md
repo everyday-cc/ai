@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
-publishedDateTime: 2022-04-07T13:32:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
+excerpt: "Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™ Various factors such as growth of data-based AI and advancement in deep learning and need to achieve"
+publishedDateTime: 2022-04-07T13:30:00Z
+originalUrl: "https://www.asiaone.com/business/artificial-intelligence-ai-market-worth-3096-billion-2026-exclusive-report"
+webUrl: "https://www.asiaone.com/business/artificial-intelligence-ai-market-worth-3096-billion-2026-exclusive-report"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_369.jpg?h=10d202d3&itok=s47WoaVN"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 417
         isCached: true
 
-secured: "qFbujDIhk8kAvW2qDHwRN2BEwYez464j4FnzOlo88HmdmFCqOMWRqEi/60W9VYiicywYi6AeZ0oweLlz8Hmm2Ce9YPxJX71J3m65OcHvbLbI1XsMaw1qGs/ChRX04uJAEZ4ENJMo1+z4l050yeN6axVIbvNWFVjb0aCP0HldGaWJG2ARJKpJ1uxyYhVpyNnq26tQ3x+yyU2xvFXFA4J3UVQAusQnDoQCwbpfLoB/Yuws3VyywYPaC0ZxeuJzdgIbaUjeociPKki23f83t1Mq05vzjzKP66ZHaJoyPqnFfrCwVkTy2qp2qlN8c20kQVJh7buLsrXYr+ax9mvv+UjC4pQvRdvV3nTJ2x9UDdhw45M=;BhuoPiuANs42kXkYjemK0g=="
+secured: "BWMTP09YE2g0ZdaqU8t6H1+IAr7rf6QChmSC5uUlyLtfLIBmZMp0Qfzx67JGyf+Bh7mk1q+lYBrEQ5m2x7LbHFsF7WXRtWIBcZHHtz7eM8kOPktrmLH1Ll4KfXHHR3cZGvavydd32MCUZQHqAwvhnXRwfIkFsE7OMeGbFYlRCIst3HyciIUNqEYA7d9Krshpt2myHQd8rmSCcu87BII4VDHcX8C+dFe2/+h1yaELSzbvCdiopRSqaFcbMesGtygCnNGPfMkeWvlACBwLHnfcT1lIiSQSaohbE1p46r0wtBU8JTDmAp1OSA7cLGdxQT8ps5Rh2v98WtBmJTX1AgdoBgw0rqBBEY3IRCBZ6ZtPSBk=;S/iw9Mqs5vw2S29txoF0Jg=="
 ---
 

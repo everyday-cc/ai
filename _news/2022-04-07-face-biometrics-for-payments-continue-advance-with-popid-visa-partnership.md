@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202204/face-biometrics-for-payment
 webUrl: "https://www.biometricupdate.com/202204/face-biometrics-for-payments-continue-advance-with-popid-visa-partnership"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Daltrey integrates Idemia face biometrics with access control platform"
+    excerpt: "VisionPass can include additional biometric modalities, and provides a digital identity that can be used across all physical and digital access points."
+    publishedDateTime: 2022-04-07T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202204/daltrey-integrates-idemia-face-biometrics-with-access-control-platform"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/28163438/idemia-visionpass.jpg"
+        width: 1073
+        height: 711
+        isCached: true
   - title: "Lumeo updates face biometrics offering, enters new partnerships"
     excerpt: "San Francisco-based computer vision solutions provider Lumeo has unveiled a number of new updates to its technology and business operations."
     publishedDateTime: 2022-04-05T18:46:00Z

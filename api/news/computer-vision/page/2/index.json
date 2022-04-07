@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-20-mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces-even-whilst-wearing-a-mask.md",
+      "title": "Mask and you shall receive: New facial recognition technology can recognise faces even whilst wearing a mask",
+      "excerpt": "The problem is that many facial recognition softwares fail liveness checks when a mask is present, due to the inability to see a whole face - or worse they will validate a fraudulent scan due to a low number of data points being scanned and poor liveness ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/contactless/mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces",
+      "originalUrl": "https://financialit.net/blog/contactless/mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/aimnmgpiuvngsvi.png",
+          "width": 473,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.kpbs.org/dims4/default/ab640a7/2147483647/strip/false/crop/3037x1594+0+342/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPBS",
+        "domain": "kpbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-ai-and-the-science-of-facial-emotion-recognition.md",
+      "title": "AI and the science of facial emotion recognition",
+      "excerpt": "How AI is Revolutionising Facial Emotion Recognition (FER) From unlocking our phones to accessing personal documents on our computers, facial recognition technology has become a part and parcel in ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/08/Kunal-Kislay-CEO-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "publishedDateTime": "2022-03-18T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
       "title": "Here's how Americans view facial recognition and driverless cars",
       "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
@@ -1196,153 +1326,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders.md",
-      "title": "tinyML’s Role in Enabling Computer Vision at the Edge – Thought Leaders",
-      "excerpt": "Founder & Chief Product Officer, Deeplite Computer vision has great potential to improve our everyday lives – and there are many applications and uses for it. A few examples include: Smart doorbells for home security help prevent “porch pirates” and break-ins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
-      "originalUrl": "https://www.unite.ai/tinymls-role-in-enabling-computer-vision-at-the-edge-thought-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:595/q:auto/https://www.unite.ai/wp-content/uploads/2019/12/computer-vision1-e1575654264450.png",
-          "width": 1000,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-online-sleuths-are-using-face-recognition-to-id-russian-soldiers.md",
-      "title": "Online Sleuths Are Using Face Recognition to ID Russian Soldiers",
-      "excerpt": "Within about an hour, using face recognition services available to anyone online, he identified that the soldier was likely Hussein Mezhidov, a Chechen commander close to Kadyrov involved in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facial-recognition-identify-russian-soldiers/",
-      "originalUrl": "https://www.wired.com/story/facial-recognition-identify-russian-soldiers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62290fb9e9f8d17d4c9f8153/master/pass/Business_Russian%20Soldier-1238022567.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facial-recognition-identify-russian-soldiers/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-identify-russian-soldiers/amp",
-      "publishedDateTime": "2022-03-10T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-this-app-can-diagnose-rare-diseases-from-a-childs-face.md",
-      "title": "This App Can Diagnose Rare Diseases From a Child's Face",
-      "excerpt": "In 2012, Moti Shniberg sold his face recognition startup to Facebook and started looking for a new challenge. “We wanted to take our expertise and do something good,” he says. Then he met the head of a medical genetics center, who explained the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
-      "originalUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62211b214c3ecf8a19eb6d10/master/pass/Business_Glass%20DNA%20Structure-1133773271.jpg",
-          "width": 2400,
-          "height": 1595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/app-diagnose-rare-diseases-childs-face/amp",
-      "publishedDateTime": "2022-03-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

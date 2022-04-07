@@ -26,7 +26,7 @@ related:
     provider:
       name: HUB
       domain: jhu.edu
-    quality: 35
+    quality: 37
     images:
       - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/Echo%20Plus%2C%20Heather%20Gray%2C%20Kitchen.jpeg?itok=seygesPR"
         width: 2000

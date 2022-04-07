@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-07-opinion-calif-should-extend-facial-recognition-ban.md",
+      "title": "Opinion: Calif. Should Extend Facial Recognition Ban",
+      "excerpt": "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "originalUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "publishedDateTime": "2022-04-06T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
       "title": "Massaging AI language models for fun, profit and ethics",
       "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
@@ -242,22 +286,31 @@
       "title": "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome",
       "excerpt": "DeepBrain AI, an artificial intelligence (AI) company, announced today that it participated in the \"NVIDIA GTC 2022,\" the world's largest AI developer conference, and announced AI human-based research results and overall technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
-      "originalUrl": "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
+      "webUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
+      "originalUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1775564/image_5001494_28856558.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T00:09:00-07:00",
+      "publishedDateTime": "2022-03-29T23:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX21 News",
-        "domain": "fox21news.com",
+        "name": "We Are Green Bay",
+        "domain": "wearegreenbay.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1375,58 +1428,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr.md",
-      "title": "Ontology of the everyday: PeopleReign's automation of IT and HR",
-      "excerpt": "Automating language is not magic; it can take years of careful work to piece together what people mean in the context of corporate help desks, HR programs and the like. Such is the work of startup PeopleReign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "originalUrl": "https://www.zdnet.com/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b8c3c61245fb6311b85af7daca54859aa4c28c06/2022/03/23/d32bdea8-f6c0-4505-9758-f2da721df4b2/dan-turchin-peoplereign.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
-      "publishedDateTime": "2022-03-23T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

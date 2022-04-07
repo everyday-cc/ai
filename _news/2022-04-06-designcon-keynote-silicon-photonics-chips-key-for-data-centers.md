@@ -33,7 +33,7 @@ related:
     provider:
       name: Design News
       domain: designnews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.designnews.com/sites/designnews.com/files/laurencemoroney.jpg"
         width: 770

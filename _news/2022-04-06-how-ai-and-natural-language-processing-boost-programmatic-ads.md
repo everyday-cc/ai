@@ -7,7 +7,7 @@ originalUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-ai-an
 webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-ai-and-natural-language-increase-programmatics-potential/2410601"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How AI and imagery build a self-updating map"
+    excerpt: "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into"
+    publishedDateTime: 2022-04-07T17:00:00Z
+    webUrl: "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/"
+    ampWebUrl: "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pexels-suzy-hazelwood-2679323.max-1300x1300.jpg"
+        width: 1300
+        height: 812
+        isCached: true
 
 secured: "iYX1l+sFhpm3OUN14XPbPYgoGBaVxAqQEq2vKuMP9ZPjIKoNwjbg6Cj8Zm/bkWG4glkrkUCuC5ptEDEXfc9NHO8UQVKdphJsjcwfFLqx6jBBMcKJHnuUQ7EDlo3G35KynTf03kIwAnYjM7MTptM1HTguW+O5oqe+DIx094ehsAJ+Qm8cZH2R6NA08qV59EPyNTzh+Imnn64hd21UJ04SU0pIeAwqXMNHIZgaxbnbQTuUFtYZ6ImPdwEsLSgQ/shJNtMxD+jDO/TcFFkhzQf1cxESaYW3/tE3U7XCPZxeJveizBurj0qmD2dAN7QjGZBp+s2JVvh6n52HCBD6Jl7d+o1W8wNo05kIGjUoZ8z+JC40ljJQspi798QaR1m4veapQRNgxURrAoWVb43Jq4gmhgrKbIHoN1PKFiiuQ3apsMTrYxMyY14OpiBIL2xv4DvjGXl1PxFyYcSTFjdS0vwvPac1EsUe7AgkBZ0fOOr5x6tQlbJKs/Em6YKUHbGSuLVvpG6yQVTVO6ARN7b1tRzFkQ==;0mDDhsuoyMXOVXAigV2Gaw=="
 ---

@@ -3,16 +3,16 @@ category: news
 title: "South Jersey animal shelter lands \"Voice of the Eagles\" for public service announcement"
 excerpt: "Merrill Reese, the \"Voice of the Eagles\", records public service announcement to support the Burlington County Animal Shelter."
 publishedDateTime: 2022-04-06T09:00:00Z
-originalUrl: "https://www.courierpostonline.com/story/news/2022/04/06/merrill-reese-lends-voice-burlington-county-animal-shelter-psa/9471446002/"
-webUrl: "https://www.courierpostonline.com/story/news/2022/04/06/merrill-reese-lends-voice-burlington-county-animal-shelter-psa/9471446002/"
+originalUrl: "https://www.burlingtoncountytimes.com/story/news/2022/04/06/merrill-reese-lends-voice-burlington-county-animal-shelter-psa/9471446002/"
+webUrl: "https://www.burlingtoncountytimes.com/story/news/2022/04/06/merrill-reese-lends-voice-burlington-county-animal-shelter-psa/9471446002/"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Courier Post
-  domain: courierpostonline.com
+  name: Burlington County Times
+  domain: burlingtoncountytimes.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "s2MmGrVRx1SrePsR6EJcWhjJW2d2kMerPVte0XVZmyrFOf1JDKE6MlQhHWm6mn3OhIuxGVj7EKdB7w4qB9BK9/SfIuD7TAFMHy8QsDY64cJ8PcA7ySDDJDvPXKeWbxyvgr9h2G6NY59hN8w1tmiv0k5kUBl6UZYpwToWlPQtYOI1plel6gfd2STiYp1ZPy4nIa7FoEP2ggsheXlq6hg4dmmFRyxI+oWyk9HfHdVjvFV7DXRJLiRHPGe5aZPOJHwt3Od0vOCHEkfAh/LKDguw9084CcG+L6/eZd4R/ld0jc+vsXhpfiwFxzQw/uDpPznsMTSD9tXscqiOH7xSgXr7F5MiNSE6WzkCEaGtfg1xD5lSNLgD19VyEWyivAtegfzOPgUz0uHaKO7xBTne8Xmg0TgRKqtC5jsMlE7sSn6IQvkNZs9FmzgcfUjKmcFUR/Le60omqgu8qlRfXeImDWfwtu7qcbVr0KRK4Zk2mYV4JyQY1nSF2UnBg/atx+m5YJ6mySKAIajfs1Y3czwU0pMjGw==;9ykEag3/XExSr6di/qQxsw=="
+secured: "OO0cfHhZNasrHz8j+osmnryhZZc13DV4CGPxZAnnDtJYg1KNCa7FuPsrzJem6EsWkh6Kx67MyEKAqNUA6kjlSKZTiSaalZeYTBVaghxEE5OZqSPE47I8VwYi+f/YC6CNf1b0E/nq0dxEOXRZK/cS301bDf6xCTeEHjUSdHQK8S3hSxc6ev66owT0zpSAUouZFixaoNnH4liM5E4bcjq9Xr0TcNcuPGYhKh7Q0whD2hnPFk0KcIzA4oP3n4/43AkDcNNkyGH9mwEyt6jrXYTQZ4m4YDl978nbAFbyUXKOY12Y/UROKeH2bHUyydLTiEH9MaloN23ZNGmScbrZ9iZk+AEFtY4/3hstK6pnRwx4l0E=;6+ZWrx2/mwZM1oyY/GIcLg=="
 ---
 

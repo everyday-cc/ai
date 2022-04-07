@@ -2,6 +2,195 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-27-are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-pu.md",
+      "title": "Are dystopian societies always flawless and meant to introduce a rebellious character who will pu...",
+      "excerpt": "Are dystopian societies always flawless and meant to introduce a rebellious character who will put an end to it ? by Ana Goerrian 1. Types of Dystopias 1.1. Animal Farm. 1.1.1. bu",
+      "sourceUrl": null,
+      "webUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
+      "originalUrl": "https://www.mindmeister.com/2231619053/are-dystopian-societies-always-flawless-and-meant-to-introduce-a-rebellious-character-who-will-put-an-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mindmeister.com/export/image/2231619053?height=600&t=4RmeP3jIMT&variable_size=1&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-26T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MindMeister",
+        "domain": "mindmeister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-27-how-to-avoid-buying-ai-based-marketing-tools-that-are-biased.md",
+      "title": "How to avoid buying AI-based marketing tools that are biased",
+      "excerpt": "If your marketing team is looking to buy an off-the-shelf AI-powered marketing product, ask the vendor these 5 questions first.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/",
+      "originalUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/",
+      "publishedDateTime": "2022-03-26T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-27-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
+      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
+      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
+      "sourceUrl": null,
+      "webUrl": "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "originalUrl": "https://www.rochesterfirst.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/03/CBP-IMAGE-ASTs.png?w=1280",
+          "width": 896,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "cdnAmpWebUrl": "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "publishedDateTime": "2022-03-26T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WROC-TV",
+        "domain": "rochesterfirst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-the-ten-commandments-for-using-ai-in-hiring-decisions.md",
+      "title": "The Ten Commandments For Using AI In Hiring Decisions",
+      "excerpt": "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623f3fae815938bb87ae6396/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/03/26/the-ten-commandments-for-using-ai-in-hiring-decisions/amp/",
+      "publishedDateTime": "2022-03-26T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-languages-in-the-metaverse-why-ai-is-critical-for-communication-in-the-brave-new-world.md",
       "title": "Languages in the metaverse: Why AI is critical for communication in the brave new world",
       "excerpt": "We don’t have the superpower of universal understanding in real life. But what if it’s indeed possible to achieve it in the metaverse?",
@@ -707,6 +896,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-26-bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award.md",
+      "title": "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award",
+      "excerpt": "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20305538.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20305538.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
       "title": "Sandia Researcher Starts Muslim Community Robotics Team",
       "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
@@ -746,48 +978,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award.md",
-      "title": "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award",
-      "excerpt": "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -973,187 +1163,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards.md",
-      "title": "SparkCognition acquires Bangalore-based AI startup Integration Wizards",
-      "excerpt": "\"The team is excited to capitalize on SparkCognitions incredible depth of talent, considerable IP portfolio, and deep subject matter expertise, providing our customers with even greater value and a broader AI based portfolio,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/articleshow/90443970.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-846637,msid-90445030/automation_ai_thumb-image_ettech3.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/sparkcognition-acquires-bangalore-based-ai-startup-integration-wizards/amp_articleshow/90443970.cms",
-      "publishedDateTime": "2022-03-25T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai-and-machine-learning.md",
-      "title": "Inspur Information and Feinberg School of Medicine at Northwestern University Improve Patient Outcomes Using AI and Machine Learning",
-      "excerpt": "At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-northwestern-university-diagnostic-imaging-d7399cded95c41719cb6bd15c518a0a7",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-northwestern-university-diagnostic-imaging-d7399cded95c41719cb6bd15c518a0a7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-zestyai-welcomes-10m-infusion-from-fintech-firm-brex.md",
-      "title": "Zesty.ai Welcomes $10M Infusion From Fintech Firm Brex",
-      "excerpt": "U.S. Fintech company Brex has provided $10 million in growth capital via venture debt to Zesty.ai, a provider of predictive data analytics in the climate risk space. The financing will help Zesty.ai expand into use cases beyond insurance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/11/US-Dollars-Money-Grant.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188867-zesty-ai-welcomes-10m-infusion-from-fintech-firm-brex/amp/",
-      "publishedDateTime": "2022-03-25T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
-      "title": "Facial Recognition, Climate Change, And Dumplings",
-      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

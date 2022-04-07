@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "San Francisco Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and effectively train its self ..."
+    publishedDateTime: 2022-04-07T17:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/Toyota_afp.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Toyota partners with Tesla to develop self-driving tech with low-cost cameras"
     excerpt: "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology."
     publishedDateTime: 2022-04-07T04:38:00Z

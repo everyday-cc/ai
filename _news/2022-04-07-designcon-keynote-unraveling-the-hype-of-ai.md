@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-07T15:23:00Z
 originalUrl: "https://www.designnews.com/artificial-intelligence/designcon-keynote-unraveling-hype-ai"
 webUrl: "https://www.designnews.com/artificial-intelligence/designcon-keynote-unraveling-hype-ai"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.designnews.com/sites/designnews.com/files/laurencemoroney.jpg"

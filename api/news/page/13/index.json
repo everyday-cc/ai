@@ -2,6 +2,195 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-25-why-you-shouldnt-be-using-ai-for-hiring.md",
+      "title": "Why you shouldn’t be using AI for hiring",
+      "excerpt": "It’s virtually impossible to create bias-free AI recruiting tools. Here are strategies to mitigate the potential damage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281172753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/why-you-shouldnt-be-using-ai-for-hiring/amp/",
+      "publishedDateTime": "2022-03-24T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-digits-aims-to-disrupt-fintech-with-real-time-analytics.md",
+      "title": "Digits aims to disrupt fintech with real-time analytics",
+      "excerpt": "Digits, a leading fintech platform, announced today that it has raised a series C funding round led by SoftBank, with participation from Benchmark and GV, reportedly bringing total funds raised to $97.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1180543360.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/24/digits-aims-to-disrupt-fintech-with-real-time-analytics/amp/",
+      "publishedDateTime": "2022-03-24T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-bear-robotics-raises-81m-in-series-b-funding.md",
+      "title": "Bear Robotics Raises $81M in Series B Funding",
+      "excerpt": "Bear Robotics, a Redwood City, CA-based provider of hospitality robotics and artificial intelligence solutions, raised $81M in Series B funding",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/03/bear-robotics-raises-81m-in-series-b-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/03/bear-robotics-2.jpeg",
+          "width": 1250,
+          "height": 1875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service-provider-index.md",
+      "title": "Leveraging its AI-Driven Technology, Pactera EDGE Climbs Four Positions on Slator's 2022 Language Service Provider Index",
+      "excerpt": "Growth in its AI-Enhanced Localization and Globalization Services ... Provider Index is a ranking and an index of the world's largest translation, localization, interpreting, and language technology companies. \"We've experienced significant organic growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leveraging-its-ai-driven-technology-pactera-edge-climbs-four-positions-on-slators-2022-language-service/article_9e4966e0-a8b8-5215-a906-c97477c8b704.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-top-ai-execs-including-richard-socher-launch-aix-ventures.md",
       "title": "Top AI execs, including Richard Socher, launch AIX Ventures",
       "excerpt": "Richard Socher, former Salesforce chief scientist, is among the founding partners of AIX Ventures, a new $50 million AI venture fund.",
@@ -989,180 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
-      "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
-      "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
-      "originalUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/07/cloud-security-expert_casb_binary_cloud-computing_cloud-security_by-metamorworks-getty-100803072-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
-      "publishedDateTime": "2022-03-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics.md",
-      "title": "How To Eliminate Ethical Bias From Machine Learning And Data Analytics",
-      "excerpt": "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "originalUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg",
-          "width": 2400,
-          "height": 1727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "publishedDateTime": "2022-03-24T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-what-are-the-main-challenges-of-reinforcement-learning-and-how-to-overcome-them.md",
-      "title": "What are the main challenges of reinforcement learning, and how to overcome them?",
-      "excerpt": "As popular as it may be, RL does not come without its challenges. Analytics India Magazine has noted some common RL challenges and ways to overcome them.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/what-are-the-main-challenges-of-reinforcement-learning-and-how-to-overcome-them/",
-      "originalUrl": "https://analyticsindiamag.com/what-are-the-main-challenges-of-reinforcement-learning-and-how-to-overcome-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/rl-_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030.md",
-      "title": "Image Recognition Market Segmentation Analysis and Global Industry Trends Forecast 2030",
-      "excerpt": "pattern recognition, object recognition, and digital image processing. The category of code recognition technology segment is estimated to be the leading segment in the world market for image ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

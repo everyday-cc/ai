@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 155
 published: true
 
 provider:

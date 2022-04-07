@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-06-bangalore-international-airport-aws-to-open-joint-innovation-center.md",
+      "title": "Bangalore International Airport, AWS to open joint innovation center",
+      "excerpt": "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
+      "publishedDateTime": "2022-04-06T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans.md",
+      "title": "Praisidio Utilizes Machine Learning to Determine At-Risk Employees and Build Tailored Retention Plans",
+      "excerpt": "Praisidio, the leader in talent retention management, today announced the general availability of Procaire 3.0, which includes new patent",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/",
+      "originalUrl": "https://enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Praisidio-Uses-Machine-Learning-to-Identify-At-Risk-Employees-and-Build-Tailored-Retention-Plans-with-Procaire-3.0-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/amp/",
+      "publishedDateTime": "2022-04-06T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing.md",
       "title": "Google’s cloud-based approach offers open ecosystem for data sharing",
       "excerpt": "Google's new releases emphasize breaking barriers between clouds from different merchants and also self-hosting options by the customers.",
@@ -287,7 +373,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -572,7 +658,7 @@
       "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -667,7 +753,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -891,7 +977,7 @@
       "originalUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1076,92 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
-      "title": "Tech roundup: Pizza chains put robots on the phone",
-      "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
-      "sourceUrl": null,
-      "webUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "originalUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-04/background/tech-roundup_1626880425.gif?VersionId=a3EXtwkfUCrhVtJBTO6Ib_6aflhWEk8w",
-          "width": 903,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "cdnAmpWebUrl": "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "publishedDateTime": "2022-04-04T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Restaurant Business",
-        "domain": "restaurantbusinessonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-humanoid-robot-paints-portraits-with-ai.md",
-      "title": "Humanoid robot paints portraits with AI",
-      "excerpt": "Da. This robot is dubbed the “world’s first ultra-realistic humanoid robot artist” by its creators. Ai-Da was built in 2019, and the robot now features an upgraded r",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
-      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/04/robot-painter.jpg?w=1280",
-          "width": 1280,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
-      "publishedDateTime": "2022-04-04T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

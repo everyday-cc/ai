@@ -2,6 +2,180 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
+      "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
+      "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
+      "originalUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/07/cloud-security-expert_casb_binary_cloud-computing_cloud-security_by-metamorworks-getty-100803072-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3654910/extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.amp.html",
+      "publishedDateTime": "2022-03-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics.md",
+      "title": "How To Eliminate Ethical Bias From Machine Learning And Data Analytics",
+      "excerpt": "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
+      "originalUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg",
+          "width": 2400,
+          "height": 1727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
+      "publishedDateTime": "2022-03-24T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-what-are-the-main-challenges-of-reinforcement-learning-and-how-to-overcome-them.md",
+      "title": "What are the main challenges of reinforcement learning, and how to overcome them?",
+      "excerpt": "As popular as it may be, RL does not come without its challenges. Analytics India Magazine has noted some common RL challenges and ways to overcome them.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/what-are-the-main-challenges-of-reinforcement-learning-and-how-to-overcome-them/",
+      "originalUrl": "https://analyticsindiamag.com/what-are-the-main-challenges-of-reinforcement-learning-and-how-to-overcome-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/rl-_11zon.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030.md",
+      "title": "Image Recognition Market Segmentation Analysis and Global Industry Trends Forecast 2030",
+      "excerpt": "pattern recognition, object recognition, and digital image processing. The category of code recognition technology segment is estimated to be the leading segment in the world market for image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-robotic-abela-enjoys-upper-hand-as-grech-adopts-combative-mode-in-first-tv-debate.md",
       "title": "Robotic Abela enjoys upper hand as Grech adopts combative mode in first TV debate",
       "excerpt": "Robert Abela enjoyed the upper hand in his first televised debate with Bernard Grech, although this is unlikely to be an election game changer. The Labour leader arrived late for the debate that was recorded at TVM on Wednesday morning,",
@@ -1000,195 +1174,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation.md",
-      "title": "Mizuho Financial Group and Google Announce Strategic Collaboration to Accelerate Digital Transformation",
-      "excerpt": "Mizuho Financial Group, Inc. and Google Cloud have announced a strategic collaboration to accelerate the Group's digital transformation and retail innovation strategy. \"The global spread of COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mizuho-financial-group-and-google-announce-strategic-collaboration-to-accelerate-digital-transformation/article_eef9eeeb-2a8a-52f7-a3ee-e808910c4c48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-how-ai-is-primed-to-disrupt-hr-and-recruiting.md",
-      "title": "How AI Is Primed To Disrupt HR And Recruiting",
-      "excerpt": "Artificial intelligence technology will help businesses augment their entire HR lifecycle from mapping talent needs to identifying the best ways to attract new talent while keeping existing talent on their teams engaged and happy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fec939448bdb0f06c51ff22/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/23/how-ai-is-primed-to-disrupt-hr-and-recruiting/amp/",
-      "publishedDateTime": "2022-03-23T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-labor-groups-aim-to-block-autonomous-tractors-in-california.md",
-      "title": "Labor groups aim to block autonomous tractors in California",
-      "excerpt": "Agricultural groups see driverless electric tractors as a ... Along with GPS systems, sensors, cameras and artificial intelligence software included in the tractors, Monarch is proposing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.agri-pulse.com/articles/17414-labor-groups-aim-to-block-autonomous-tractors-in-california",
-      "originalUrl": "https://www.agri-pulse.com/articles/17414-labor-groups-aim-to-block-autonomous-tractors-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.agri-pulse.com/ext/resources/California-Bureau/Monarch-Tractor-836x627.jpg?height=635&t=1646163543&width=1200",
-          "width": 836,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Agri-Pulse",
-        "domain": "agri-pulse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-programming-languages-python-just-got-a-boost-from-facebooks-meta.md",
-      "title": "Programming languages: Python just got a boost from Facebook's Meta",
-      "excerpt": "Meta, which owns Facebook, has given $300,00 to the Python Software Foundation (PSF), the group that maintains Core Python (CPython) – the open-source programming language that powers most machine learning (ML) and artificial intelligence apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
-      "originalUrl": "https://www.zdnet.com/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d356be695cdf709763e99fddffcf0d879708410e/2022/03/23/d20302d3-4f81-4089-a04f-847d852941fa/guido-van-rossum-small.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/programming-languages-python-just-got-a-boost-from-facebooks-meta/",
-      "publishedDateTime": "2022-03-23T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

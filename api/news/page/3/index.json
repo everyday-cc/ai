@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
+      "title": "Tech roundup: Pizza chains put robots on the phone",
+      "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
+      "sourceUrl": null,
+      "webUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "originalUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-04/background/tech-roundup_1626880425.gif?VersionId=a3EXtwkfUCrhVtJBTO6Ib_6aflhWEk8w",
+          "width": 903,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "cdnAmpWebUrl": "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
+      "publishedDateTime": "2022-04-04T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Restaurant Business",
+        "domain": "restaurantbusinessonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-humanoid-robot-paints-portraits-with-ai.md",
+      "title": "Humanoid robot paints portraits with AI",
+      "excerpt": "Da. This robot is dubbed the “world’s first ultra-realistic humanoid robot artist” by its creators. Ai-Da was built in 2019, and the robot now features an upgraded r",
+      "sourceUrl": null,
+      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
+      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/04/robot-painter.jpg?w=1280",
+          "width": 1280,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
+      "publishedDateTime": "2022-04-04T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wane",
+        "domain": "wane.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space.md",
       "title": "This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space",
       "excerpt": "The post This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space appeared first on The AI Blog.\n",
@@ -149,6 +235,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-04-facial-recognition-system-at-pune-airport-by-march-2023.md",
+      "title": "Facial recognition system at Pune airport by March 2023",
+      "excerpt": "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
+      "publishedDateTime": "2022-04-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
       "title": "Massaging AI language models for fun, profit and ethics",
       "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
@@ -190,6 +319,58 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
+      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
+      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
+      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
+      "publishedDateTime": "2022-04-04T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -980,189 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings.md",
-      "title": "AI Weekly: As demand for chatbots increases, so does the need for better offerings",
-      "excerpt": "Chatbots are blossoming in functionality as well as in other essential areas such as business sales, analytics, customer service and overall end-user satisfaction. But the architectures of these offerings can sometimes be limiting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
-      "publishedDateTime": "2022-04-02T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
-      "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
-      "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "originalUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11703938_40222-maher-amazon-deepracer-students-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
-      "publishedDateTime": "2022-04-02T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai.md",
-      "title": "Centaur rising: How a decades-old paradigm is changing the way that top institutions look at AI",
-      "excerpt": "The theory that advanced AI will eliminate the need for humans seems false. Enter the centaur: a mutualistic bond between users and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-758285645.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
-      "publishedDateTime": "2022-04-02T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-lisk-machine-learning-lml-price-reaches-00235-on-top-exchanges.md",
-      "title": "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges",
-      "excerpt": "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
-      "publishedDateTime": "2022-04-02T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

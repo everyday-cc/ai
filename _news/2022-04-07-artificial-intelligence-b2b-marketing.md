@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
-    publishedDateTime: 2022-04-07T13:32:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
+    excerpt: "Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™ Various factors such as growth of data-based AI and advancement in deep learning and need to achieve"
+    publishedDateTime: 2022-04-07T13:30:00Z
+    webUrl: "https://www.asiaone.com/business/artificial-intelligence-ai-market-worth-3096-billion-2026-exclusive-report"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Asia One
+      domain: asiaone.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_369.jpg?h=10d202d3&itok=s47WoaVN"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "T+3L9ZD21X6l1IBH8uXK1NEmkUX6FK8I+T2Ld6TkQkhaQTwP7jBWrKsYGmyxtam97/Dn3O1PwHujTMWvxkzLlWvCGpJhyK7HfZmMjDwAHFmSCOsWRla6XEg4QVkXIv9BWtHW+V26yBMvUUFYnTDvKnAIRUhC2adUJtmm3TCZ4VhQzqre+C87a7J2Jk5RuFglfMHm95NR3gXIqR7d3olMQt1RvkQGcstXEasN77zsbMjfJOBSc70M9dghacF765um+VHtDVyajjlGaKkTx6p7JRccKmaSZxl1lNTb+GMTDc5k9v9WEUp5rFdzSvadjqZWYz0woMC523fQiW6LyCqr7IkkFkI/h5qLj3YPZNXHr1o=;qZXT+J3fu5ISY4zTXBmPdQ=="

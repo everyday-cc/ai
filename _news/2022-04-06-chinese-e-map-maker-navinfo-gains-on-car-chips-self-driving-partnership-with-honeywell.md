@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Chinese E-Map Maker NavInfo Gains After Joining With Honeywell on Car Chips, Self-Driving"
+    excerpt: "NavInfo’s shares rose after the Chinese digital mapping services provider announced a partnership with the Chinese unit of US automation giant Honeywell on vehicle chips, self-driving technology, and intelligent networks."
+    publishedDateTime: 2022-04-07T17:39:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-e-map-maker-navinfo-gains-on-car-chips-self-driving-partnership-with-honeywell"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 30
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-e-map-maker-navinfo-gains-on-car-chips-self-driving-partnership-with-honeywell/8434632874693.jpg"
+        width: 720
+        height: 480
+        isCached: true
+
 secured: "liDa7qQyY+I1PprekTY00GA3ABc5IS9CYOF7/OVvXIVenKEzdP5lBoviuD3pyxwvO5CD1gCmc+1yAjWFGRv7WXNwgW1toSW5cbLM9AlR6K0WYDXuuNEStpgox7JQR1CLBgjTbwITCtePZKFpOQEiuIFBrehiX+/3RWckkD1nG4LLwXEXcy4wkmh/P1M9gvNUUHBrYM5U+M/XgiFtk5qMeg5WO1Uo3iKL+ZEeAxyhv3vBLhAvJp4Q4L2FtzrBpaM3UT/UK+fVR6xAbIvB8oxyRnbEBViAs0hE+ViZTKmfimrWFmJw7CbHxdQgsjAQfYQZElZDise/CNdfjx1PxaRhksH+n/fezwtmzj393gkGNU2bIE/FgY0boypqBHKS+H32082qWuYPZpORdeygyIfmN2IX6pTSheucgIIav/oHZYdR1+nBE5ifVsUplQFwAtLY9tU7xVJ9I+IfQQzOQl4rN5hwf4jWzOtRryWIU6Q39IC71+1yVyw3/FMLrFeCC1bONVTdwWssmYzKzJp3zIPQdQ==;145cr7d6MVGs0w2G56Ftwg=="
 ---
 

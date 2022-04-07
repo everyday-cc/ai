@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-08-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
+      "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
+      "excerpt": "San Francisco Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and effectively train its self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html",
+      "originalUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/11/Toyota_afp.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras-8331921.html/amp",
+      "publishedDateTime": "2022-04-07T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-how-ai-and-imagery-build-a-self-updating-map.md",
+      "title": "How AI and imagery build a self-updating map",
+      "excerpt": "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
+      "originalUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pexels-suzy-hazelwood-2679323.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
+      "publishedDateTime": "2022-04-07T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding.md",
+      "title": "New Salesforce AI chief eyes a future with voice-driven coding",
+      "excerpt": "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
+      "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
+      "publishedDateTime": "2022-04-07T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-how-ai-and-humans-can-best-collaborate-at-work.md",
       "title": "How AI and Humans Can Best Collaborate at Work",
       "excerpt": "Who decides who does what? And how can humans learn to trust AI? Research offers some answers.",
@@ -96,58 +242,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-facial-recognition-goes-to-war.md",
-      "title": "Facial Recognition Goes to War",
-      "excerpt": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/04/05/business/00facerec-01/00facerec-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
-      "publishedDateTime": "2022-04-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-07-health-tech-startup-vizai-raises-100-million.md",
       "title": "Health-Tech Startup Viz.ai Raises $100 Million",
       "excerpt": "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion.",
@@ -195,49 +289,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Toyota partners with Tesla to develop self-driving tech with low-cost cameras",
-      "excerpt": "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
-      "publishedDateTime": "2022-04-06T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hindustantimes.com",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -302,7 +353,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -345,6 +396,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-opinion-calif-should-extend-facial-recognition-ban.md",
+      "title": "Opinion: Calif. Should Extend Facial Recognition Ban",
+      "excerpt": "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "originalUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "publishedDateTime": "2022-04-06T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
       "title": "Google Cloud releases BigLake to unify data platforms",
       "excerpt": "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data.",
@@ -353,7 +448,7 @@
       "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -879,7 +974,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1079,21 +1174,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
-      "title": "ACM Prize in Computing Recognizes Pioneer of Robot Learning",
-      "excerpt": "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022",
+      "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
+      "title": "Europe Is Building a Huge International Facial Recognition System",
+      "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg",
-          "width": 267,
-          "height": 400,
+          "url": "https://media.wired.com/photos/624ca6e922287e54ebc7f22d/master/pass/Europe-Facial-Recognition-1041091610.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,16 +1196,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T05:23:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "publishedDateTime": "2022-04-06T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1126,94 +1221,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-bangalore-international-airport-aws-to-open-joint-innovation-center.md",
-      "title": "Bangalore International Airport, AWS to open joint innovation center",
-      "excerpt": "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
-      "publishedDateTime": "2022-04-06T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans.md",
-      "title": "Praisidio Utilizes Machine Learning to Determine At-Risk Employees and Build Tailored Retention Plans",
-      "excerpt": "Praisidio, the leader in talent retention management, today announced the general availability of Procaire 3.0, which includes new patent",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/",
-      "originalUrl": "https://enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Praisidio-Uses-Machine-Learning-to-Identify-At-Risk-Employees-and-Build-Tailored-Retention-Plans-with-Procaire-3.0-01.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans/amp/",
-      "publishedDateTime": "2022-04-06T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "Computer Vision",
         "AI"
       ]
     }

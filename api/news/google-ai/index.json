@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-07-how-ai-and-imagery-build-a-self-updating-map.md",
+      "title": "How AI and imagery build a self-updating map",
+      "excerpt": "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
+      "originalUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pexels-suzy-hazelwood-2679323.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
+      "publishedDateTime": "2022-04-07T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-google-ai-deepminds-high-ideals-are-tainted.md",
       "title": "Google AI DeepMind's high ideals are tainted?",
       "excerpt": "It’s discouraging but perhaps not surprising that an organization such as DeepMind, which proclaims such high ideals, would have trouble recognizing that harassment and bullying are occurring within its walls,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1407,58 +1459,6 @@
         "name": "Queen Mary University of London",
         "domain": "qmul.ac.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-deepminds-new-ai-gives-historians-a-powerful-new-tool-to-interpret-the-past.md",
-      "title": "DeepMind’s new AI gives historians a powerful new tool to interpret the past",
-      "excerpt": "Google DeepMind has collaborated with classical scholars to create a new AI tool that uses deep neural networks to help historians decipher the text of damaged inscriptions from ancient Greece.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/",
-      "originalUrl": "https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ithaca2CROP-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

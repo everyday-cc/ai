@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-07-facial-recognition-goes-to-war.md",
-      "title": "Facial Recognition Goes to War",
-      "excerpt": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
+      "path": "_news/2022-04-07-opinion-calif-should-extend-facial-recognition-ban.md",
+      "title": "Opinion: Calif. Should Extend Facial Recognition Ban",
+      "excerpt": "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
+      "webUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "originalUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/04/05/business/00facerec-01/00facerec-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
+          "width": 840,
+          "height": 438,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
-      "publishedDateTime": "2022-04-07T02:00:00-07:00",
+      "ampWebUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "publishedDateTime": "2022-04-06T12:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,7 +41,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -107,26 +99,182 @@
       ]
     },
     {
+      "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
+      "title": "Europe Is Building a Huge International Facial Recognition System",
+      "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/624ca6e922287e54ebc7f22d/master/pass/Europe-Facial-Recognition-1041091610.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "publishedDateTime": "2022-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-facial-recognition-system-at-pune-airport-by-march-2023.md",
+      "title": "Facial recognition system at Pune airport by March 2023",
+      "excerpt": "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
+      "publishedDateTime": "2022-04-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
+      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
+      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
+      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
+      "publishedDateTime": "2022-04-04T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
       "title": "Face scanner Clearview AI aims to branch out beyond police",
-      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ...",
+      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.fresnobee.com/news/business/article260029910.html",
-      "originalUrl": "https://www.fresnobee.com/news/business/article260029910.html",
+      "webUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
+      "originalUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.fresnobee.com/news/business/article260029910.html",
-      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article260029910.html",
-      "publishedDateTime": "2022-04-01T15:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1218,136 +1366,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces-even-whilst-wearing-a-mask.md",
-      "title": "Mask and you shall receive: New facial recognition technology can recognise faces even whilst wearing a mask",
-      "excerpt": "The problem is that many facial recognition softwares fail liveness checks when a mask is present, due to the inability to see a whole face - or worse they will validate a fraudulent scan due to a low number of data points being scanned and poor liveness ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/contactless/mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces",
-      "originalUrl": "https://financialit.net/blog/contactless/mask-and-you-shall-receive-new-facial-recognition-technology-can-recognise-faces",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/aimnmgpiuvngsvi.png",
-          "width": 473,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
-      "title": "Here's how Americans view facial recognition and driverless cars",
-      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "originalUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.kpbs.org/dims4/default/ab640a7/2147483647/strip/false/crop/3037x1594+0+342/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPBS",
-        "domain": "kpbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-and-the-science-of-facial-emotion-recognition.md",
-      "title": "AI and the science of facial emotion recognition",
-      "excerpt": "How AI is Revolutionising Facial Emotion Recognition (FER) From unlocking our phones to accessing personal documents on our computers, facial recognition technology has become a part and parcel in ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/08/Kunal-Kislay-CEO-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "publishedDateTime": "2022-03-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

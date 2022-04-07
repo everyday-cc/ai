@@ -255,6 +255,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Salt Security Discovers Critical API Security Vulnerability That Would Have Enabled Administrative Account Takeover on FinTech Platform Serving"
+    excerpt: "Gain administrative access to the banking system Access users' banking details and financial transactions Leak users' personal data Perform unauthorized funds transfers into bad actors' bank accounts The SSRF flaw was already actively integrated into many of the FinTech company's systems and had the potential to compromise every user account and transaction data served by its customer banks."
+    publishedDateTime: 2022-04-07T17:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/07/9578764.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "3OKcy0Bm1O3asbbRkFTBT+uOvq6GSmeaj4mAT5MgO+bvkqyIXwz5FQJQPctXmPmJF5p1LSRltEKx8xaqhysH0i+7k0lKMGYqMJAj+2YzyHK7uVQAaMkJ9XN8/qkdEpKNK34HLTrh/5U308V6KR03ojK0gzp9tkG19s+HKj0kFEIbcJX4mqbf8+ffWeT+2YHQdW4cDlLUJLvYTIwYeeeYqNdPvAaDN2ql5h0jS8egfjQZidPkbxwfxBSzT5U6LPEtMPTME1/1/IeWOLDx7dbjDbl7lt/u7NAZCmFWUFtwP7GRhTDsCBlPNZ9qRrdgIaJygOjiISb3Z5tIrvk+CWSGsCCeW9IPr6D+u57bxjwIe1N5D2cYOG3Wk7SmAgqfz5wkkr5dlbI8WfwPo7Vy5OquEyHkT730Cvl2oXa17i2q/gV8+rqqCQB1FbpoZR7AKrgb9Co20ewYPxuVbCj/sZva1qWCWjak4XwT3AjoeQZnOjHoK6v+nDnwtTm6PYZ2x5iCP0FTwqYBBJRXxyejV/nOUA==;bHr0SzuNACQ0Hyu5XdIF0w=="
 ---

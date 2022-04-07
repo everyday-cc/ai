@@ -2,6 +2,189 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-03-ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings.md",
+      "title": "AI Weekly: As demand for chatbots increases, so does the need for better offerings",
+      "excerpt": "Chatbots are blossoming in functionality as well as in other essential areas such as business sales, analytics, customer service and overall end-user satisfaction. But the architectures of these offerings can sometimes be limiting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
+      "publishedDateTime": "2022-04-02T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
+      "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
+      "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
+      "originalUrl": "https://abc7chicago.com/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/11703938_40222-maher-amazon-deepracer-students-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/amazon-web-service-deepracer-league-ai-artificial-intelligence/11703457/",
+      "publishedDateTime": "2022-04-02T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai.md",
+      "title": "Centaur rising: How a decades-old paradigm is changing the way that top institutions look at AI",
+      "excerpt": "The theory that advanced AI will eliminate the need for humans seems false. Enter the centaur: a mutualistic bond between users and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-758285645.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
+      "publishedDateTime": "2022-04-02T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-lisk-machine-learning-lml-price-reaches-00235-on-top-exchanges.md",
+      "title": "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges",
+      "excerpt": "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
+      "publishedDateTime": "2022-04-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-the-importance-of-data-audits-when-building-ai.md",
       "title": "The importance of data audits when building AI",
       "excerpt": "As Zillow recently found out the hard way, if you don't conduct proper data audits, you can run into costly data mismatch problems",
@@ -246,24 +429,33 @@
     {
       "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
       "title": "Face scanner Clearview AI aims to branch out beyond police",
-      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ...",
+      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.fresnobee.com/news/business/article260029910.html",
-      "originalUrl": "https://www.fresnobee.com/news/business/article260029910.html",
+      "webUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
+      "originalUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.fresnobee.com/news/business/article260029910.html",
-      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article260029910.html",
-      "publishedDateTime": "2022-04-01T15:10:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -977,189 +1169,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
-      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
-      "excerpt": "A woman runs as a commuter train passes through Kibera slum, in Nairobi, Kenya, March 24, 2022. [Monicah Mwangi, Reuters] Daniel Nzoma's face glows in the light of a computer screen as he reviews ...",
-      "sourceUrl": null,
-      "webUrl": "https://standardmedia.co.ke/health/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
-      "originalUrl": "https://standardmedia.co.ke/health/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.standardmedia.co.ke/images/friday/fast_internet_brings62468e8ddbac2.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/health/amp/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/health/amp/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
-      "publishedDateTime": "2022-03-31T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-machine-models-for-cognitive-science.md",
-      "title": "Machine Models for Cognitive Science",
-      "excerpt": "Introduction. During the past two decades philosophers of psychology have considered a large variety of computational models for philosophy of mind and more recently for cognitive science. Among the suggested models are computer programs, Turing machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
-      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
-      "title": "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler",
-      "excerpt": "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It’s a necessary and important step of any ML workflow in order to generate meaningful insights",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/24/ML-8541-image001-1232x630.png",
-          "width": 1232,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T16:07:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-boston-dynamics-spot-is-being-tested-as-a-robotic-security-guard-protecting-the-remains-of-pompeii.md",
-      "title": "Boston Dynamics' Spot Is Being Tested as a Robotic Security Guard Protecting the Remains of Pompeii",
-      "excerpt": "Serving as a robotic security guard might feel like a dystopic use of the amazing technology powering Boston Dynamics’ Spot, but the robotic dog is actually well suited to protecting a historically significant area like Pompeii,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
-      "originalUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f6a978c9f31ae8972ef8b84f56b07f90.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
-      "publishedDateTime": "2022-03-31T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
