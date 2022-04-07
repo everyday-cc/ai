@@ -1,28 +1,26 @@
 ---
 category: news
 title: "AI is explaining itself to humans. And it's paying off"
-excerpt: "The system, introduced last July and described in a LinkedIn blog post on Wednesday, marks a breakthrough in getting AI to \"show its work\" in a helpful way. While AI scientists have no problem ..."
-publishedDateTime: 2022-04-07T05:30:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
+excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8 per cent after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at"
+publishedDateTime: 2022-04-07T07:10:00Z
+originalUrl: "https://www.asiaone.com/digital/ai-explaining-itself-humans-and-its-paying"
+webUrl: "https://www.asiaone.com/digital/ai-explaining-itself-humans-and-its-paying"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-90697888,imgsize-91086,width-1200,height-628,overlay-etcio/ai-is-explaining-itself-to-humans-and-it-s-paying-off.jpg"
-    width: 1200
-    height: 628
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2022/07032022_linkedin.jpg?itok=uvIpxfMz"
+    width: 800
+    height: 567
     isCached: true
 
 related:
@@ -87,6 +85,6 @@ related:
         height: 819
         isCached: true
 
-secured: "GCZRuPGYC2Cp6WfkG9Fa8ZKbU1heZ9atn018XXtaMKHXDB2/L5c987CVj1YPzgBFFQ9GC5HZzMWMkqDZGNvUNRY5tEqZBx4odp3Hgn0DsMSxkb9nWlzod5RB5RRAeeVMQ34hWSiqf8NwoyOp1Kb30vE5IzZniylPCunbD6Xfb2izM8xbTS58+fRrHNlClkrPNzWlSM/K7HNtIY0IFIgmnt5IZxPg+TDJbPIdOFdLCM2iM/uiRR6dRhAkBVgX6AzE/DfAiLFhRlW1LuTqpHAOQVyvz2R8iLF6Df6lAtNzeizTiuWX8pTctJ9V1k8Q8t8RXF76MztJ/4mQkudxBuulIIUYlPNRLsiZ/NYD1i+gX2c=;d9kWq42rgf99B2vUbeZ4KQ=="
+secured: "h60uUo8dybKUdzJskFk3BQ5uyyqZuUjzI43TsfGWNYXZuS4CYTsQMAEGtpkEMZNxMUKKTIICn8WTqyCl74nlEQhXbRtWwNR6J2P/10clPSBmsmxlhHDQ694CPM93mvUdCFGEjD6lzPqe9Icvb0Tz0ZrDj4RUciQbq5hw/q+vcGFNFTFOJkNJUgXXqz6X8PFofDWd0YjrOAfcweVi4IiUxayNCzFYoFVCWlBZdvnQxOUKZwzkWl9XdpAaySbj8rKBBc3/vCjkssiscbhvAf2ptdXN5hG84LXl7gSs+ho/UAzX4GwZFEjDURPEk+aY1g2FE1B7Mn6FuOlFt2B8LtqMSt3QaAJS4CtdZqNYeDL3wGw=;CYKt5NIb/fVtf4xO8ysZ2Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/04/06/bay-area-inno-madness-enters-round-2-vote-here.html"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Dayton Inno Madness 2022 champion using AI technology to help businesses predict the future"
-    excerpt: "Dayton Inno Madness Champion MinedXAI sat down with DBJ to discuss its explainable AI software and how it helps local businesses predict what's coming and grow."
-    publishedDateTime: 2022-04-02T13:51:00Z
-    webUrl: "https://www.bizjournals.com/dayton/inno/stories/awards/2022/04/02/minedxai-inno-madness-2022.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 7
 
 secured: "VuJwabnOCmbz3X+4oGt+OyXn/Yqqn+OqDNTQ56RlZt/1CxE5u0JR+g98c1Mp00tsY41Mmu0/FbBrGrdnEMSIsIHCygwIAObPPMbHjszhK+2omAtEKuIEVkOONu3vV8/9klNHvRkV391rFue5/vsq2LONBDXWTFDoCae7bkjS/Zkmxj/S28Xk5LnrWXpnt49oJPClPKGRqYboXQtGCRvW3Vjtd/H9r5vMNQqIeDtbdxeQt315pP1wBWHInTxpy7yofCN+dYoGTMPUa6ftvk2HbVHcGtYnb5vlauVIlFtorz3qZkkY6aG25nltruanIVFSgxYxqyGHiuMSd4j65qQANiQakpF70PVR3pedRAWy7qhMy4u0GskjJTLK8NqPFujBDr59X2A4S+yFpNS9l+gIW1tWkKrmW9dgHvIXieMrbDEsDg9Xss1H18dmuDZcBjxCQBUct+eLAAk1+PAfAQALwWyI25kUMsPaK3nK1ISaiNyrDrw1bNi7E+rw/Mk5CMUcIrg53VYkWrI77QZr5soByA==;MHWK/mKAqcYKNNsHDu3MGg=="
 ---

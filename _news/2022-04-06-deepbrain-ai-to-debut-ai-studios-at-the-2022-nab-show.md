@@ -23,6 +23,19 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "DeepBrain AI to Debut AI Studios at the 2022 NAB Show"
+    excerpt: "AI Studios streamlines video creation with Virtual Humans and script-to-video content generationSAN MATEO, Calif., April 6, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-04-07T07:58:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/deepbrain-ai-to-debut-ai-studios-at-the-2022-nab-show-1031337210"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/deepbrain-ai-to-debut-ai-studios-at-the-2022-nab-show-1031337210"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/deepbrain-ai-to-debut-ai-studios-at-the-2022-nab-show-1031337210"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 37
+
 secured: "KvpwdSYib4dyuvDpSxt7frVtKTtdT6GB15ETuKDM4+AIhLFZY+NCD3BicdHQ4yu6xD7VdfLng/qULB59MaHFqDP7T8OytnTu4Mg7bJosJzrsQOxMg5QDGuH5DF8YebSQEAc7cVPRpIrPUETZp6lTg3VwLBYWPpVi6GAXp9V/i07fNicWswgY3ivw6ttp3ZWzIJVLefAtR4D7UIY9gNxNvs2UrKaWvGjFS/YUIS7PXgjItytER4FxqV6cc35EPZw1Fc0T5tGHyhhiUx+Gqzlc/FR/YRzD0EyRYVS/0D2lstTkyUcPCCwV/3q7JFac+CjsMQ/iphRdwvGkv9/f/B57zafqp7MLDoK7l+2clmqcECs=;jVHMZuoECLeSw6AjDauSHg=="
 ---
 

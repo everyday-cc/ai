@@ -354,6 +354,40 @@
       ]
     },
     {
+      "path": "_news/2022-04-01-machine-models-for-cognitive-science.md",
+      "title": "Machine Models for Cognitive Science",
+      "excerpt": "Introduction. During the past two decades philosophers of psychology have considered a large variety of computational models for philosophy of mind and more recently for cognitive science. Among the suggested models are computer programs, Turing machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
       "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
       "excerpt": "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services.",
@@ -552,6 +586,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-microsofts-dynamics-365-creates-peace-of-mind-for-business.md",
+      "title": "Microsoft’s Dynamics 365 creates peace of mind for business",
+      "excerpt": "Wide-ranging benefits range from modernising sales and customer service to creating intelligent supply chain operations and e-commerce platforms",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesspost.ie/commercial-reports/microsofts-dynamics-365-creates-peace-of-mind-for-business-89879d0f",
+      "originalUrl": "https://www.businesspost.ie/commercial-reports/microsofts-dynamics-365-creates-peace-of-mind-for-business-89879d0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTI5Y2MyN2FkLTBlMjUtNTU1NC04NjlkLTg1MDIzNzc4OWUyOSZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MTY1OS4yNjk2NjI5MjEzJndpZHRoPTI5NTMmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA0MTE5ODUwMTg3MjY1OTE3JmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjg0MjY5NjYxOTIxMzQ4XCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJ1c2luZXNzcG9zdC5pZVxcXC9zYnAtbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjljNmNhMTI3MjJjZjJjZTI3OTQzYjViN2QyZTUzNjMyYWMzN2U2ZGQifQ==/microsoft-s-dynamics-365-creates-peace-of-mind-for-business.84269661921348",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sunday Business Post",
+        "domain": "businesspost.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1373,110 +1451,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc.md",
-      "title": "Don’t miss the Microsoft Azure + NVIDIA breakthroughs at spring GTC",
-      "excerpt": "Headlining Microsoft’s sessions at GTC will be two executive keynotes with the chance to win a free NVIDIA Jetson Nano 4GB Developer Kit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
-      "originalUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1322658147.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
-      "publishedDateTime": "2022-03-17T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
-      "title": "Microsoft announces auto-generated captions for images in Edge",
-      "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "originalUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1607862765_edgenew_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "publishedDateTime": "2022-03-17T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

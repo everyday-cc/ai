@@ -3,18 +3,15 @@ category: news
 title: "Should law enforcement use facial recognition technology?"
 excerpt: "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate."
 publishedDateTime: 2022-04-01T15:07:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-ampWebUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+originalUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+webUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+ampWebUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
 type: article
-quality: 59
-heat: 89
-published: true
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: Fox 4
+  domain: fox4now.com
 
 topics:
   - Computer Vision
@@ -26,42 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "BitCenter UK Ltd. launches the first real-time mobile-facial recognition technology, FarFaces Security"
-    excerpt: "Bitcenter UK has developed real-time facial recognition technology-FarFaces for mobile devices that allow detection and recognition of faces with an impressive recognition distance and speed at"
-    publishedDateTime: 2022-04-04T14:39:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/bitcenter-uk-launches-real-time-mobile-co-1649062199-ga-npr.1649063227.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 40
-  - title: "Gastroenterology technology: 5 updates from last 30 days"
-    excerpt: "Artificial intelligence and other gastroenterology technology developments are shifting the way gastroenterologists perform procedures. Five updates in gastroenterology technology from the last 30 days: 1."
-    publishedDateTime: 2022-04-01T20:53:00Z
-    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html?tmpl=component"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 24
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Login.gov plans to scale up without facial recognition tech – for now"
-    excerpt: "The General Services Administration isn't ruling out using biometrics in its Login.gov service, but the agency has concerns about equity and accessibility."
-    publishedDateTime: 2022-04-04T14:54:00Z
-    webUrl: "https://www.nextgov.com/it-modernization/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363972/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 19
-
-secured: "m1os8AEeliq3tcru0IplGf2kZPPQpEgcE83JSP5B0h8usNmHgul8HK5w632RfVYixjHCXwQ7xk1YyqWrR9ptWpQzmjhpI938x2qaaQ7VOyZHLHWRTP1jaA6JJaWnfCFLSUNYyH141wDJ86zF5eFJQZ5oFPBo9BTmHv98dXC9vEbrXgidpJhg2DvzSQT+ZxCFGK/RIQ58DGg8Tx/SNMVQvdIUUUEQGhGGieAGgrc60KC0dgop6FT7xBdqwCDq4+9LKKOvzLHGA+kLlsOBetcEOuwdyosiffbeiTgpX+iTSUdIehG5LzFs3mcz/EgGXUuujSdo3IPa8gGXDUj18blG0WmRuVqr+IK7pP9yuaVu0AseyLPGKuzGFKBTNGt3Y+oE2HKROG2PpgfxrS1p6AvH/gjdLk4Ck7knisYU3K7wZ0JOAmMrP4eiOvfybs8x2cppg7b+fo7M60OsX4DxDGEJCotp+kjoLO7gtBii8mR5OQm5mvDWKailZqgFlmmWQp8q/9eGfcLYdvAkmCn2Q6uLrg==;fqYP/iHlk1+yxXIgkjhM/w=="
+secured: "f3MeXdIiyZZtFxjjLKmFabHR6uETX4djRw8gXhZ8ySkOy/yjtAiOIchWSYgoEMyFXwCa38S1dyl6cm9LaFSHj9UpWguO09CunIEINEOT+pPsJHhgKa0jQ/Tvjh5n11MwEgWLAV6Ps1QELMCs2w2KjUd2ERgkV9V8A/S9BX3VXgZToK6uW42st1hKLh9sOnOsII6CTCyI2//5IkX6img7P3PXNT93yEN8rEdRI/PNgF+HpynDeqd9r0MJt/z2j2U762YomxvPsfA8KCC6QRS7GuTOM0hqzVqolcMbgt7xVMsSu88PKY+3iohet3NNrpHHpddLy5mH587X1jH+qSpK8MFno3nkYJb/gfIazI1ob7o=;k8wCVT0E3uV4ALpiWYLClQ=="
 ---
 

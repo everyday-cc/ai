@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Quantum memristor points to new neural networks"
-excerpt: "A project at the University of Vienna has now described a new integrated quantum processor operating on single photons, which could have implications for artificial intelligence and neural networks. The Vienna device is a memristor, a form of electronic ..."
-publishedDateTime: 2022-04-05T12:58:00Z
-originalUrl: "https://optics.org/news/13/4/6"
-webUrl: "https://optics.org/news/13/4/6"
+excerpt: "Studies of quantum computing and its overlap with photonics have gathered pace in recent years, with groups such as the Danish PhotoQ consortium investigating the development of photonic quantum processors."
+publishedDateTime: 2022-04-05T15:25:00Z
+originalUrl: "https://optics.org/dcs/news/13/4/6"
+webUrl: "https://optics.org/dcs/news/13/4/6"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 254
     isCached: true
 
-secured: "NChO2RNBR52sObF9ICJoYTFWbHXGp0AdZ/dMp1xUw8A8exBJ/KaQUFfvcx5hDaa1t8pEHjA4WK1TmWinzNmGsWCFBDYFdqjq8tWrQ3VPvAl8wNvMiqHhkLL5nFJocp31QiSG6HsR3l5BCiWJ3Ys+CG1xgBcw7DD3RjcWEm98Kdg1xpZxOx67KuZvBSzmADlxCNiEpPhExw4I+A33A2M0vADnlcAfiBQ7jULXZ101vo9WUbz5BUk3m/BPmjcoTHwwd5UFviHbzR+uTW5MfI7wGEvwAhWyLNrmSFQQlATgwm0w8MvieyJbyHc98uzMNLzUCUPfsQYFQDi1vVDaa4CtcdQX1b52b9fNXI+8K6rX9gM=;H6wOAJDGolIrquSC4O535Q=="
+secured: "X4flYFoWc4KAh2OD76ltbTdJgslx9FJzwspn8V/w4A/gSUr4tabq4u6TB9BhpkvBa964kgo8K18Fh3SER8npDfmI7jH+4i5xQID9PRcvuh6nOV0WqPY8ZcDy/rXlRaZ9UqWQK1unYIkVbunk7MiEhMPSanUmJSlSE6/zUifa7xoUETrazgNGiuXoUP5pWResPow/qlmndJ4b7MYzpOa6IPNe/KlJerNqnMUz94IdfbR4GzVaJGvvkONNHUI8BG2bzOkjhGG5Rkj9RYJlq1EvRd3BDjQKJkegmgu5l/d/AP6lRv5y3vEUee2g+BF/YLGePuhwQQKsrH7MCcGUhXI/FGgCTIEsi+kYEY2zjiTx4+M=;u7W1msbmR14kwgjJFcw0Xg=="
 ---
 

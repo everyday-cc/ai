@@ -42,20 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "Best startup employers list: Forbes honor validates Torch.AI, EquipmentShare efforts to attract, keep top talent"
-    excerpt: "As disruptive startups scale into some of Missouri’s biggest employers, gaining an advantage within the workforce is key to their expansion and evolution, company leaders said. For two fast-growing area startups,"
-    publishedDateTime: 2022-04-02T13:26:00Z
-    webUrl: "https://www.startlandnews.com/2022/04/forbes-torch-ai-equipmentshare/"
-    type: article
-    provider:
-      name: startlandnews
-      domain: startlandnews.com
-    quality: 16
-    images:
-      - url: "https://www.startlandnews.com/app/uploads/2022/04/EquipmentShare-2022-facility.jpg"
-        width: 1624
-        height: 1074
-        isCached: true
 
 secured: "WEPQUjbg8kKMAXt4SrJ+p7ai+IQ1UbzsiP7WsuH/MryRFzotOlmJccPFZYHyRhtwKwzP3oGyNVSRg1q0xWWEizBl1exfAOClNXZ7qFpOVUKdlavrJQz+NrG7WONyVfUbJgvLdi/so7rDygQF+QFmP2R4cdwtrigZVt55aNU3BVZJNuMo7LzH55BqKUI0uyvZCtzN+IFBZahToNnoOxKGGHZ0LxlMjHtk3NbkzSSIEESipppMzuWHTSaeMDx/gFsJq/59qLVf6ho4OSwOlV2VzUXZutXpbAYlFunPI1K1THSZRh5RqAha2tr7JxS/ZZwP1PyH1L09TqBXiha5p4yjkh0E3fp/L+f8VJ97OCxNFaDb88+v/k+zGFxsqICQN6IhOxKxBmjLuuzbf7CsBC38gXXFo1IjHcqcnnQtDTeGOk2bV6K9+YxE/hFDpcBUjkoOKdvtlqMpNhGpla+52vfUarE/PqgyWMvB32QStz44z+qyhhDBJIv/cwnW3aMgybh2mYjVZGqhEbxmuMlFWLrIIw==;+CdfTBdXrVSfZggj9AAEzg=="
 ---

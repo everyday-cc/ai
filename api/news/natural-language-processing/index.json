@@ -411,6 +411,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-29-how-ulg-transitioned-to-outcome-driven-language-solutions.md",
+      "title": "How ULG Transitioned to Outcome-Driven Language Solutions",
+      "excerpt": "In the American healthcare industry, language access for patients with limited English proficiency has been a hot-button issue for years. In many cases, mandates requiring healthc",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/how-ulg-transitioned-outcome-driven-language-solutions/",
+      "originalUrl": "https://slator.com/how-ulg-transitioned-outcome-driven-language-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2022/03/SlatorCon-Nic-McMahon-ULG.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility.md",
       "title": "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility",
       "excerpt": "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences into quantum circuits",
@@ -1384,40 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-emotion-detection-and-recognition-market-worth-433-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

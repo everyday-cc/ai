@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adidas to launch personality-based AI generated avatars for metaverse"
-    excerpt: "Adidas has partnered with the cross-app avatar platform Ready Player Me to launch personality-based avatars where the characters are generated using artificial intelligence (AI). Digital characters travel the"
-    publishedDateTime: 2022-04-06T23:39:00Z
-    webUrl: "https://www.econotimes.com/Adidas-to-launch-personalized-AI-generated-avatars-for-metaverse-1630930"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 37
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202204078df3a754a849b7ef3_th_1024x0.jpg"
-        width: 1000
-        height: 451
-        isCached: true
   - title: "Council Post: Beyond Explainable AI—How to infuse trust in AI systems"
     excerpt: "Contractual trust is a concept that dictates and quantifies trustworthy AI. This is done by incorporating a set of phases in the DS workflow."
     publishedDateTime: 2022-04-07T05:31:00Z
@@ -47,7 +33,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
         width: 512
@@ -63,11 +49,25 @@ related:
     provider:
       name: Trak.in - India Business Blog
       domain: trak.in
-    quality: 36
+    quality: 38
     images:
       - url: "https://trak.in/wp-content/uploads/2022/04/Artificial-Intelligence-Banner-Opt-1280x720.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Adidas to launch personality-based AI generated avatars for metaverse"
+    excerpt: "Adidas has partnered with the cross-app avatar platform Ready Player Me to launch personality-based avatars where the characters are generated using artificial intelligence (AI). Digital characters travel the"
+    publishedDateTime: 2022-04-06T23:39:00Z
+    webUrl: "https://www.econotimes.com/Adidas-to-launch-personalized-AI-generated-avatars-for-metaverse-1630930"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 37
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202204078df3a754a849b7ef3_th_1024x0.jpg"
+        width: 1000
+        height: 451
         isCached: true
   - title: "Council Post: Does a lack of XAI put AI startups at risk of failing?"
     excerpt: "Most startups offering AI/ML tools for decision making don’t make it because they can’t get a vote of confidence from the decision makers."

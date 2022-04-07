@@ -7,7 +7,7 @@ originalUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-l
 webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "How And Why Fintech Embraces Blockchain"
+    excerpt: "In this new financial landscape, where fintech is reshaping the sector, blockchain development companies have a leg up. The adoption of the new economic model by users will have a major impact on the rate and scope of this transition."
+    publishedDateTime: 2022-04-07T07:56:00Z
+    webUrl: "https://www.finextra.com/blogposting/22108/how-and-why-fintech-embraces-blockchain"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "EWbkRj6+iyiwRxf0P0VJKxSEqp3OtoW5NEPiVCHTN5h+cMHkJfezGmEzBskYWfGQawcBR39Y1AIYctmW3/lj8mLfj7ZqE8Ic2zwlEMtKiM45WVwQbe9zsxDRlr/K1Y3rzF0SO/GoLAHBnR2cozwDmNYXbZAgLS1FBpMUJ3G117/LgV9I056R4KsExSIIC0r9hErSo1LfsKtrSQ/hwF9oCZ6CnKyUr1KCuPA1ShyiMyBTifQe29UVBs9pGPg9aiYtW73+PN4iQAoU4TLgiajmX5rEtPPNg3Yrzqv7H0Rv54MppwzPUO6uy3IXcBe6gwEyPXDqDwt/ny4aG8SHNWZbPBnWW4RCHv64cQQGM4GAeUKK9jXvEMiY85nM6xcfPqHxqbaIGjakDwXa/yXmT4wePkBLV0HDIyI+82a981JPCWak7dF8M+CI1VzC/k7uPTiKqoQJeJMNiVhKBvqpsM6un/6emdGd1/10+Z+dUOonNkU2XFGboi8M2Oy5g1aXNXk0YbMEN9rbuvcU0aNLXSQ3PQ==;OIOy1U3MlNIKQLol7vTh7Q=="
 ---

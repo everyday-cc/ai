@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Face scanner Clearview AI aims to branch out beyond police"
-excerpt: "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t"
-publishedDateTime: 2022-04-01T20:29:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-webUrl: "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522"
+excerpt: "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ..."
+publishedDateTime: 2022-04-01T22:10:00Z
+originalUrl: "https://www.fresnobee.com/news/business/article260029910.html"
+webUrl: "https://www.fresnobee.com/news/business/article260029910.html"
+ampWebUrl: "https://amp.fresnobee.com/news/business/article260029910.html"
+cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article260029910.html"
 type: article
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Fresno Bee
+  domain: fresnobee.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "Wy/tDjsL3JDaZTQhWwqsdcylufJjQontmbQyop25hsw8rCGeWPkNe8Jc6E/rE7MSE8Z50bVvwWdnIGoKZM2JM4woJK1wjjIbRz/H6oIwWbbcly42e6FbtvWjKovoKw3aWMdPlS8FnufugOXN+z07+WI86THxr4edSifF6mL6pKM7tsWRewnOwGpa93H7tEJ7aeU+X1acoz1tyBju/ki/5kk54w0juid13YYJ51+U1eA2wUsMNSGEr0JU5DFSTEMzrsGtULohm8mdDAyP5x7iu+HB3cauBr0nwZ+5IFEHXTDEUi0k6Oc3wo9t/G5lULBkl8O/G5SkMgD09ycNCNRTQSPhrE6M+WGIFQgxF1lhCxjwkttKndP+uC33b10hvfU3sA8AK3saVm4N9UFOE15bPI+uTkMBpQi6ANGfbMk8Jhfg2rKTXz4bz4zi8yOOkc+p0as9hrzZgIa3xL2zXxjzlxyXzJ8+wBpI4KlgYoB3DGBO0UuME3sVbGyWgShEWK+iIhxJtqZcpfDGuh+M4dweTg==;WzShifV2feqmKWk6458HYw=="
+secured: "Ye9AB1d5gULto1WmMm13W4Zq/Q/N3jrf8m2L+t43I6Ov8vQITEbLxzfVx+IMKEJNoqzXwvcOshm1ZEZsqp/3B1O2Bng2kYBve2kMTGYTwnpmm1VK4995g5nUNhzAXEQynWFWvTdWzhSLYpa2IDsbCnxobKn78sJLGw5uawW7Ye2RD6hMff+MosHmAcqCbvUswakXxUerKBMI+yX0nqXt7YQRPU0RCb75qfzH/w6wQY7Ry0Z9xa7upspWlx6SRmMffes7QavGdiSoDdUNFTBIgQJqeRGaQOWuE23/ZIhk+HPN8nWw9TWzaoe2JW10dZfKemEwwvLgNHn/jPxFawfcVhkdnPM9nHpGU6RR7zAHpuNbd8EDNRhzWrQ6S8FC+1sDS/zlFa018L1U5yoqhkMqfQZdO4yK36f27rGMVp8fsll+t4Dx8wV9/ItSF4zF7u/nxNtb2yyrHr0LGG17fmdtmXNsr7zkIvUv2R/tr3hPX+N5NdnHQIzOvLIj+nDHcDNyvNCNvVc2UYjxMCn5rg8fuQ==;TvQ5j0/QnKRx8icat2mIUA=="
 ---
 

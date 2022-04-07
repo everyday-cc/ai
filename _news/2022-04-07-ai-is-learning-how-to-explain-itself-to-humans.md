@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is explaining itself to humans. And it's paying off"
-    excerpt: "The system, introduced last July and described in a LinkedIn blog post on Wednesday, marks a breakthrough in getting AI to \"show its work\" in a helpful way. While AI scientists have no problem ..."
-    publishedDateTime: 2022-04-07T05:30:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-explaining-itself-to-humans-and-its-paying-off/90697888"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90697888,imgsize-91086,width-1200,height-628,overlay-etcio/ai-is-explaining-itself-to-humans-and-it-s-paying-off.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Adding AI to museum exhibits increases learning, keeps kids engaged longer"
     excerpt: "Hands-on exhibits are staples of science and children's museums around the world, and kids love them. The exhibits invite children to explore scientific concepts in fun and playful ways."
     publishedDateTime: 2022-04-05T14:48:00Z
@@ -86,6 +70,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/06/a-3d-printed-logo-of-microsoft-is-seen.jpg"
         width: 1200
         height: 819
+        isCached: true
+  - title: "AI is explaining itself to humans. And it's paying off"
+    excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8 per cent after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at"
+    publishedDateTime: 2022-04-07T07:10:00Z
+    webUrl: "https://www.asiaone.com/digital/ai-explaining-itself-humans-and-its-paying"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2022/07032022_linkedin.jpg?itok=uvIpxfMz"
+        width: 800
+        height: 567
         isCached: true
 
 secured: "ZgS0MyJSzvJxPA+CBqxNhy3dUHaoAdEH8uA5JOMH5cbXcqtWWDWZfKFQ83egDce/5Eh4i9E+Qngrwbt2oIBZQcIgzfIcRDCE392UB4TVh9G8uKL85HxuRw3fKcSiO3ncq5U8bJszz6PmyxolgEsUuNawv/Tjv3sLL/A1JXTaJmcJ4fNwhZoMpZmPQ/fI++yqpgXbXIAnI4Hi85kIRJ3+UY1z3D6HDFMAy078yGPsQQ+ixxYwFZpG+5LMHCtEQ4ob0FeWzv9aDW3nvhse3127ne5n0etVh6Eff/iC5C8QHElU31vDZL+wANnSHNjBi089LeUp7jEGLWGpQa+XpYhVRVIDEEebCdj+CUi6TuFsCSyiDdoG9wWFODvFs2T/iAdh3lylVlnawsP8hq47dzl4/7W4omedf+4nqqBGdf7TuSh3lVqMWWxG1rpk0E6vsCrZ/rnLjal/75QChM/l6L8x/EgCgtd1P86RBL9wHUJKi3b2WgGzzNAlCAIj3EdTF6PUXY4hRZXnYvnmmVrs/by4Kw==;PgoiF4JLKtIFUxBHuOMCiA=="

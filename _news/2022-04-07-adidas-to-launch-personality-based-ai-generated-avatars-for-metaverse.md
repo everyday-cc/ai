@@ -46,7 +46,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
         width: 512
@@ -62,7 +62,7 @@ related:
     provider:
       name: Trak.in - India Business Blog
       domain: trak.in
-    quality: 36
+    quality: 38
     images:
       - url: "https://trak.in/wp-content/uploads/2022/04/Artificial-Intelligence-Banner-Opt-1280x720.jpeg"
         width: 1280
