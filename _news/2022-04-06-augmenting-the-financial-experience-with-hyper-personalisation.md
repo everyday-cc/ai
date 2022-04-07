@@ -26,6 +26,22 @@ images:
     height: 414
     isCached: true
 
+related:
+  - title: "Australians demand for more digital services in government and are comfortable with personalised artificial intelligence, according to survey"
+    excerpt: "There is a large and growing demand for government services across Australia with the public comfortable using personalised artificial intelligence, according to the inaugural Publicis Sapient Digital Citizen survey."
+    publishedDateTime: 2022-04-07T00:11:00Z
+    webUrl: "https://itwire.com/your-it/australians-demand-for-more-digital-services-in-government-and-are-comfortable-with-personalised-artificial-intelligence,-according-to-survey.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 4
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/2c5136e139e3d98baf9d8009e3477022_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
+
 secured: "82om8NBlxjnll9vwkzWZv03qDMYejWMjsplUnYpHpOEoZucR3ciG5c9TeRu/BIwEHbwcNEVK3wU9my/uA1lfvjPRQN+VJ4uIJJR41nkVHVZG9FgvcU+aPhc0dvvP/x4XFYoQzmlNAKuJeFTadOrdL4kePh480lhAh3e+L3myozFiBFTXJoM8CAweGnvup/vmyIXsozn1/FsJGWqNNL7OL+JnQxKI/Td7qX+DZKqnjn0qja2bHjq/20Hbuyeg/k8VkBkki/SYiDeFR+/3K59knH7VkFlniy5zBX7ZCgjV+Wzt0kVKEXEETlqoOVP3nWYOQ0cimgXmGhw46owriVLdp+SNkm5/APcuLFx85gsAY6o=;VAzeUHREBY3OjyJCLxSFBQ=="
 ---
 

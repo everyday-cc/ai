@@ -32,14 +32,19 @@ images:
 
 related:
   - title: "Google Cloud releases BigLake to unify data platforms"
-    excerpt: "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
-    publishedDateTime: 2022-04-06T18:00:00Z
-    webUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
+    excerpt: "Google Cloud describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
+    publishedDateTime: 2022-04-07T01:28:00Z
+    webUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 36
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 24
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_19.jpg"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Google shoots for \"limitless\" data with Big Cloud and new alliance"
     excerpt: "Google has announced the preview of a new storage engine aimed at making it easier for enterprises to analyse the information in their data lakes and data warehouses, without having to worry about the underlying storage format or systems."
     publishedDateTime: 2022-04-06T10:57:00Z

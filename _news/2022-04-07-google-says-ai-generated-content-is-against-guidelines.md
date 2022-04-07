@@ -1,0 +1,45 @@
+---
+category: news
+title: "Google Says AI Generated Content Is Against Guidelines"
+excerpt: "Content generated automatically using AI writing tools is against Google’s Webmaster Guidelines, says Search Advocate John Mueller."
+publishedDateTime: 2022-04-07T00:11:00Z
+originalUrl: "https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/"
+webUrl: "https://www.searchenginejournal.com/google-says-ai-generated-content-is-against-guidelines/444916/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Search Engine Journal
+  domain: searchenginejournal.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/04/google-ai-generated-content-624e2ae7c061d-sej.png"
+    width: 1600
+    height: 840
+    isCached: true
+
+related:
+  - title: "Deepfakes and AI-generated faces are corroding trust in the web"
+    excerpt: "It may not appear so but Vladimir Bondarenko, a Ukrainian blogger, has a lot in common with Keenan Ramsey, a “growth specialist” at Silicon Valley communications firm RingCentral"
+    publishedDateTime: 2022-04-02T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/falling-faker-makers-online-videos-kim-kardashian-p5bjzlwsd"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F8b9d214c-b1f1-11ec-b03d-8bd1be808b51.jpg?crop=3333%2C1875%2C0%2C0&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "VwFBuzHA6n8fBKr+TLWTjn/+hjiB354tpO19sWCJYVBrMi6dTuRnyhpp/iDzVDEXVQRR24UF6s5zfhDJ4bhE6tIuLTfRrojHqn/rA4LibLZjF0keBBwpzBEUu0CcJEA3aqQ2pVxk29V+bFlDuN4d9pu8cCH+QWWgmc2gqO5L91ONBuIGqyfcduMBWgqzbf6frkuc7aUsovxyZKlENbWxMY13XwIVKngyO00jKy6p+hXMmosvFGNPXURsmciENxrFNTyKJX80Rjliaf2yhd2re33SfmwiMAK5ZMpKVdTvy8rDRfbvUwtz2nKCYQ765Xxb3lzKHGWl1sgFN3XKeU0ilCvYjvArZPx1G32tFgcQLFI=;v/nlWgHoESBxZwHgtWqRog=="
+---
+

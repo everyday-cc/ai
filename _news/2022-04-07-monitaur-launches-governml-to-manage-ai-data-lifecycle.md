@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage
 ampWebUrl: "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all"
@@ -63,6 +64,6 @@ related:
       domain: tdwi.org
     quality: 19
 
-secured: "WEX6UR4U60yUt6WSJGWkAdao5BdZHlWdFFOJvCetuCKDZoNlX/til2X43uuGUfGi1aXBdy1Ze5sIHxx5DOJmREiCgf55+ppd3Qj/G1hdTQX1+d4AYpd7FECyxeTrjGdCeIrAW5g+J7D7hYb2eoDfLbB2+e+lnlSvPRtX//wHYYp/L6NceRf2Hw+IauoXAvzZjwU4eV8nhbQzAEk8hXfCemzwg2QHUkSznC3TzU5NbPMaU9sQqQ3EJFCPe1hiuOTZdgXTElHHa0IqokRRwXMYX0jsGYOMsco7YlcuyyycYNrDOUU8ALHSw+haXxJ1PV7hN8fNTIErLJp8CZ+RntLOPYy2t7LXzPRoqpiLBwRQeH0=;1BozmvvB2t1sS+BWsM5wgg=="
+secured: "Zh7DEiKtdsQLtqhbQ+f4fOlMmtN92gbudP0siYicXXa38yiV3r4PEoQOK1o8e1RdQcw4LP1tCV4IKVO18k9wi30pVD7wL4lIDf6F3Az2LcuKyRoMxS4EiCxkSzHybC3w55T+PuWOhiaBpgwObCRn3jBm69oiIQaP6fuFhPC7QLc9Eq//LP+njg2IraPaogfTmvWn01r+532MyRFmTf0ZlQ6XihJvXHYK0Dka45NM4tmx49azhcIsWRUiYAa10gU7aZEHVzXuOL4MBsFMThR4NhYJAow/ymjT5QmmtaYPeeA0DlI9Yi4tLAiHM8IOUTqfiYGIwbUfcEuw1vDGed8U6bCSLKIwYTbsRNE6gO+FFH3p4CIijiOeZ7MVHUVl+q3SBILGgRfreWUDSXfnu/FF3t1ETY3uWNLhW93sWd/MHLc7pgv31mOpglZblj2UYgvh0CuvDk3S4uw1DQMuRPvQuUIMX+QIMkLPg+dQGiUIp2Xkyo0sBoyfqmOPpvN8IAbJSyJfFnfMD+/tvLHOPgqGNA==;9r4PX4DnmBt8P1zgGAbTRA=="
 ---
 

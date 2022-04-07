@@ -51,16 +51,16 @@ related:
   - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
     publishedDateTime: 2022-04-06T17:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-engineering-0e2d26144038438787e6933a734718b2"
+    webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 47
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf"
     excerpt: "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2."

@@ -7,7 +7,7 @@ originalUrl: "https://www.designnews.com/artificial-intelligence/intel-keysight-
 webUrl: "https://www.designnews.com/artificial-intelligence/intel-keysight-step-stem-initiatives-ai-iot"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ images:
     width: 770
     height: 400
     isCached: true
+
+related:
+  - title: "Intel Unveils First AI Incubator Lab"
+    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
+    publishedDateTime: 2022-04-03T15:39:00Z
+    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 37
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intel To Acquire Israeli AI Workload Optimization Firm Granulate For $650M"
+    excerpt: "US chipmaker giant Intel Corporation, announced on Thursday it will acquire Tel Aviv-based AI-powered optimization software developer Granulate Cloud Solutions Ltd. Financial details were not publicly disclosed, although TechCrunch learned from sources ..."
+    publishedDateTime: 2022-04-03T13:08:00Z
+    webUrl: "https://nocamels.com/2022/04/intel-granulate-ai-computing/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 15
 
 secured: "GWuj95sDENy7859ohUTbGM0zXoQTJuQeiAhb4E27zZg8m8p6N0y11H1PFbdrwHGLPdm2Xx0ZfRTIUKL/4VnMllYcJsBLjLhOTj/ku5C4ZRDLsrGNpUcvp+JWXT6CasssZ4x+xjSDFU796yCAVpVJfrtTLTUrktYQFboV95aK8qexn/cQMLCWq9+dnnfGXcEvPaCRjka17jLJbxQyYClMZ2KR419UvhUBbI28cFsSzLvpB4HuEwVPGVKPziPHC9z38MZHXcuskJZ+UatinfnlS8lM3pVxxCUtKeDAt+wz53CVhRR8S1TRps9RU36MmrjgAZMFzF0V8va/YNUA8cU4c88B0cuKuuuk0S5sO7cWw8c=;RFkNpd1UarJXIZyhKdMXJQ=="
 ---

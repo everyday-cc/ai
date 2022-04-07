@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Shows Off its First Ever Desktop Gaming GPU"
-    excerpt: "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps"
-    publishedDateTime: 2022-04-02T07:15:00Z
-    webUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/"
-    ampWebUrl: "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "The Intel Arc GPU Lineup May Be A Serious Competitor"
     excerpt: "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?"
     publishedDateTime: 2022-04-04T10:27:00Z
@@ -84,20 +68,6 @@ related:
       name: GSM Arena
       domain: gsmarena.com
     quality: 38
-  - title: "Intel Unveils First AI Incubator Lab"
-    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
-    publishedDateTime: 2022-04-03T15:39:00Z
-    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 37
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
     excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
     publishedDateTime: 2022-04-05T13:48:00Z

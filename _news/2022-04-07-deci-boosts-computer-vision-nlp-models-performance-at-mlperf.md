@@ -45,16 +45,16 @@ related:
   - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
     publishedDateTime: 2022-04-06T17:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-engineering-0e2d26144038438787e6933a734718b2"
+    webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 47
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "MLPerf Results Highlight Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons, an open engineering consortium, released new results for three MLPerf benchmark suites – Inference v2.0, Mobile v2.0, and Tiny v0.7. MLCommons said the three benchmark suites measure the performance of inference – applying a trained machine learning model to new data."
@@ -71,6 +71,6 @@ related:
         height: 261
         isCached: true
 
-secured: "HqUba+TVwZm+ylUdr/5G5Aj4rZjg2dk5Y+Z9AeYGHyNjaoRuP7r+XaOtvTELWpLeHe3boomA87UKA+gq5HltfAKdh4GNMOvjE7UXWrsTQr+RySc/H1TbMMOYd93yt6bHy/pvnaoH4jEe1Iq0BeT49WymDfk37wyihethTVq3pUuduuiDEGBemtblfsScCB2pN2IxyNOosKYFrd3AYQi8gupZc0tfz/v7pS06vvP5T6qEuBf9HZVfuTbukGIvPivjBwordPTAFh3xcNJEMT5BkSgwvxzqpZveIYRqFtCEiVD/uETF1MX5fQpqaPjcJi4PvUBFpht+R4sFRdpjfh6XzJ+FYlRj4yOzI44FlGMNNkI=;uL81FntQto8Br+rPi8h0eQ=="
+secured: "clfm0WjoLjswLPQEhxDx+fEaP6sJq/7VCm0YMbTIOml0QGwNJZlRhuCm2X7SgeqIxjRcrbvUCHF8iUePszXuxZi0FOwc5ocM7xndQJH6kMrKukK/xDoyHzfMMWl8rXwhqIBK00tHcxMaJcoqPjDWQ8M67binHLLf6zfMlhqmT+G4kOkhHmaWIqgy0TtNkzb22hhCRHDGesZEom8fDdOEvsosq/xM677ZUTpc4DHItLaG0JoTmWfp/trlvoYq1YBXipUPmt5NgsPQTA9ipjru0XVdBu4K9Im+GeuGtV4psugdu3/PmlT55qtYYpCZL6qPcfqlwLWhPsdQmrtCDUfzr2pBVhyyXdv5Kkza63TgFIddogwLyhPrN05vTfC4xqRkftJ2ADB7w+rc81zbQuYLsUxS+mVK+zJ8O1kQPhWaPuSwFlynn/bbligySrja3J6g1fD7RszamfbGWSpYbwRue7FQwIjIKhO/jlH2CKLfbfq8RH0Z5MH1rZ2/jkoVDqjskZhltSdSQNsloNFR0TM2oQ==;2+G70Q/Yrc8gWZhMcSxVag=="
 ---
 

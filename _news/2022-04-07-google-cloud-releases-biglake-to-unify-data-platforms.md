@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Google Cloud releases BigLake to unify data platforms"
-excerpt: "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
-publishedDateTime: 2022-04-06T18:00:00Z
-originalUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
-webUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
+excerpt: "Google Cloud describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
+publishedDateTime: 2022-04-07T01:28:00Z
+originalUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/"
+webUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/"
 type: article
-quality: 36
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
   - AI
-  - Microsoft AI
+
+images:
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_19.jpg"
+    width: 472
+    height: 315
+    isCached: true
 
 related:
   - title: "Google Cloud attempts to make data 'limitless' with BigLake and new data cloud alliance"
@@ -50,6 +51,6 @@ related:
       domain: computing.co.uk
     quality: 4
 
-secured: "ecohM8RQifIhINW2z1nGRg9qIGazQOYU/o02BJNMpNW0JCdxhDjVceQI5GE5vfeFRBoMjGykaaYVVIZkIn6zJIMMxV4yd9+aEKxP8n6BvCjgos+ob28hLR2QLdEtb5ED1xYSOsIKbgDTcR8pFshNjRnUElytC3zobUaMHFL/SKUGL51v4w8UpnppFbnjO+vih0zmVXxJGpsk/dv8i2bG7ZoFURHCCS+yHTZzbr9PCwAkz/ujADg0Q4o+uXo+3f/h9GiYCeQj+KdprJZIuRHkR8oxQkOUJxwdqy567fo29VhZIgMqPCEGFaXbEJP+qBemLICHBw8xslVMXV55btCf9ZKSglZYmR9ERvs0q1Cz3ECzGnepGjo/f9EWDI00yP3ZICJZ3HYNxmwCihjxc2CCjLWgjIUokI7lw7mVZUPgp+CBXZhSZAYChcX5kSkoN3VlDwuXY5y8TOuETJ1MyggaKGPT+CetJyBGOjEK148SDuFGb4ZLixLmV86oqgXU9TObptv7cn7UCman1F12FbLI3w==;O5G5V3NIpU7uSjr2Y+tJSA=="
+secured: "RuVkd310YzryRGZ4m60OSQ2K85DD9qpy4hnp/xGi7AEjrtmSRV+dnia8Q1ulPzY4WVstMp/edign8E1/cPofaynF4/qvBSjGy4NCKG6k4MWvl2v/2XJteLxod1gHn5msiEmrPFvhz0MK8clCg4q1fZOlRq/cgKzL19W9gjdDubXig6Xllcp/x5uFxTRTFopaDqVo5HZxlBZX/gwqu6o1ot5ZKFLq4EOvrph2lzF3qSloGUAfRjKTbbR+PKxMGUvpZoyeGYDlAcu+X/V1yHr0Is7uFo+1og6gG4v750PFhSqkcKfF7QzuZ63xc8xhKZ/bsj2TGH0rK7VU+A30V6SmEVdYqCdxnFNmSzkQiEgq+jY=;FJ6Ht4V6Oi+CMRSd9nBgLg=="
 ---
 

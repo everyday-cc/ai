@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Guardforce AI announces pricing of $10M registered direct offering"
+    excerpt: "Under the terms of the securities purchase agreement, the company has agreed to sell around 8.7 million shares of its ordinary shares at"
+    publishedDateTime: 2022-04-07T00:40:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979020"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979020"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 57
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA2LTExLTEzLTQ3LWYwNjZmNTAxNTA5MTlkNzBjNGU0YWU4N2JiNTIxNWU2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Synaptics shows off edge AI kit for IoT and monitoring applications"
     excerpt: "The Katana EVK integrates detection of human bodies, sounds, voice, and movement in a low-power edge AI package for IoT applications."
     publishedDateTime: 2022-04-05T21:21:00Z

@@ -3,25 +3,25 @@ category: news
 title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
 excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
 publishedDateTime: 2022-04-06T17:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-engineering-0e2d26144038438787e6933a734718b2"
-webUrl: "https://apnews.com/press-release/business-wire/technology-engineering-0e2d26144038438787e6933a734718b2"
+originalUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -71,6 +71,6 @@ related:
       domain: insidebigdata.com
     quality: 36
 
-secured: "W892Pon0rd9NNbK4TC273OODa8QrHtGlSORJZR12am8ISpOW15lganJ26Y99flvO1wzfal+PW6rLZy97RXI7ld1KkjH6TWmA/o2bBmoW5TVfCIwWTpq7kJazIuoZ30ijk14PaOv0PPx7IcqSigFcL9GIPIeXcdSBM870uQxF2eZMDUjq2n3fSYBPBpczdIsHRYM2UbhU4xPQkFtW6n+Lbcst+nh9VwVOthNES2qCCNea+/xqxR9NZ+qSJ0xhimKvyySAogjsiKqyF6usa44ZyQlyJg7z016Ju/ygoyFrJ0bpeKlYgk2J+b7xxHaO2akC+EUqU6Is76DyFNmVC1kf/t691MokL3WtoWLaxYhT5iY=;iVGQWWvUSUnTABS7adrrqg=="
+secured: "ntTCVkiPMKmExVpsGNzen8zkYatSSEkRQYnQ6lQJAk750L8KTzMdnOZjou+OWVSFIhuL+oVBokfZ+XlN8wBfJBqFzX8pl0TGTEl6UK8gAmzPk5VuBp6OSAKG9pm0jYuqD2SUl0NLvu0VDF9sAa3h8MsT4HdZCzdYuhoGgU8elL7upZI8jSXX87gviyMWwkSURA1oXnyygcgHQmqDOZgrrKKzCqLDlKpW2aQh7BXn5pwvvzWnbqAVik5or0MydFS6wpEeQDvMJc6YmZKEyhkYkAiDgBmoxNkFuQdUwsKrsQvFJR9DxAwu10V+hfL90R4IeMhNHk01DDd9mYT6rl1qXUH5vjXmamMSpgn7KpULvIM=;z+HyV/dG7x9gM4tZZ7g4mg=="
 ---
 
