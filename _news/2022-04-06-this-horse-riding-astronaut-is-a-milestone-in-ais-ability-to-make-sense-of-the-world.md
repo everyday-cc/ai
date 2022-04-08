@@ -38,7 +38,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/space-cowboy2.jpg?w=3000"
         width: 3000

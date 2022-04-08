@@ -69,15 +69,6 @@ related:
         width: 733
         height: 356
         isCached: true
-  - title: "Telus Using Artificial Intelligence to Lower Energy Costs at Data Centres"
-    excerpt: "TELUS and Vector have even elected to open-source the EOS algorithm as a contribution to the energy conservation community."
-    publishedDateTime: 2022-04-03T16:43:00Z
-    webUrl: "https://www.iphoneincanada.ca/carriers/telus/telus-using-artificial-intelligence-to-lower-energy-costs-at-data-centres/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 16
   - title: "Tredence strengthens its foothold in India by opening AI Delivery and R&D centers"
     excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, a leading data science solutions provider, today announced the opening of delivery centers in Bengaluru, Gurugram and Chennai,"
     publishedDateTime: 2022-04-06T05:22:00Z

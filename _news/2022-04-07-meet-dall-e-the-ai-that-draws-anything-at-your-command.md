@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1024
     height: 536
     isCached: true
+
+related:
+  - title: "Meet DALL-E, the AI that draws anything at your command"
+    excerpt: "DALL-E, new technology from OpenAI, blends language and images could serve graphic artists — and speed disinformation campaigns."
+    publishedDateTime: 2022-04-08T08:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/meet-dall-e-the-ai-that-draws-anything-at-your-command/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/meet-dall-e-the-ai-that-draws-anything-at-your-command/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/meet-dall-e-the-ai-that-draws-anything-at-your-command/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "HUSB0ZlcgzAp5UrjJV8FNdkdYesWO0nIDks1UpWGdXSzcds9aTSnS9BZ15XlGxLUg8EJ3TL3AMT9Pvtm75uvQEcKr6Or4T0/AD1o3oPgNiNA9W9wXioFkjXdCkGk4WXKl423/qte6y/NrqNUUaDijl2rW8V+oknwndXiZNVYET2taYKOPp5sjmWW6nFuKlobzwLUKYS9IlLncZ8gDtYzmNOxfkBLFxr1KamgGyt7/9WPBsv2q5q16LzYm0MperthA/peKF0G3AB/x/CMmCtBpMgNvNQqY/5gsed71wqYVDVeSYmTg6407Ul+uB/B5RWkSzRu5yhaRjoxso+ms5UtLf/oopD0Lzyrir0fHj32T7I=;y+tds1Lk2iRwSsXISGXQ2g=="
 ---

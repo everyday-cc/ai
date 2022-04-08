@@ -35,6 +35,20 @@ related:
         width: 768
         height: 1024
         isCached: true
+  - title: "08/04 – Weekly Fintech Recap"
+    excerpt: "Partnerships Mollie Teams Up With Recharge to Offer Best-in-class Product Subscription Solution Mollie, one of the fastest-growing payment service providers in Europe, announced its partnership with the leading subscription management solution,"
+    publishedDateTime: 2022-04-08T09:43:00Z
+    webUrl: "https://financialit.net/news/blockchain/0804-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_7.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EWbkRj6+iyiwRxf0P0VJKxSEqp3OtoW5NEPiVCHTN5h+cMHkJfezGmEzBskYWfGQawcBR39Y1AIYctmW3/lj8mLfj7ZqE8Ic2zwlEMtKiM45WVwQbe9zsxDRlr/K1Y3rzF0SO/GoLAHBnR2cozwDmNYXbZAgLS1FBpMUJ3G117/LgV9I056R4KsExSIIC0r9hErSo1LfsKtrSQ/hwF9oCZ6CnKyUr1KCuPA1ShyiMyBTifQe29UVBs9pGPg9aiYtW73+PN4iQAoU4TLgiajmX5rEtPPNg3Yrzqv7H0Rv54MppwzPUO6uy3IXcBe6gwEyPXDqDwt/ny4aG8SHNWZbPBnWW4RCHv64cQQGM4GAeUKK9jXvEMiY85nM6xcfPqHxqbaIGjakDwXa/yXmT4wePkBLV0HDIyI+82a981JPCWak7dF8M+CI1VzC/k7uPTiKqoQJeJMNiVhKBvqpsM6un/6emdGd1/10+Z+dUOonNkU2XFGboi8M2Oy5g1aXNXk0YbMEN9rbuvcU0aNLXSQ3PQ==;OIOy1U3MlNIKQLol7vTh7Q=="
 ---

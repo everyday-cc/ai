@@ -39,15 +39,34 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-    excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp 7203.T unit Woven Planet is following the lead of Tesla Inc TSLA.O in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data ..."
-    publishedDateTime: 2022-04-07T17:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras"
+  - title: "Like Tesla, Toyota Develops Self-driving Tech With Low-cost Cameras"
+    excerpt: "Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras."
+    publishedDateTime: 2022-04-07T17:30:00Z
+    webUrl: "https://www.ibtimes.com/tesla-toyota-develops-self-driving-tech-low-cost-cameras-3466016"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tesla will bring “dedicated” self-driving taxi with futuristic look"
+    excerpt: "Tesla CEO Elon Musk stated on Thursday that Tesla will be making a \"Dedicated\" self-driving taxi with a futuristic look."
+    publishedDateTime: 2022-04-08T08:08:00Z
+    webUrl: "https://techstory.in/tesla-will-bring-dedicated-self-driving-taxi-with-futuristic-look/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/unnamed.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
     excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
     publishedDateTime: 2022-04-08T04:35:00Z

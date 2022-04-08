@@ -2,28 +2,21 @@
 category: news
 title: "AI in Genomics Start-Up MNM Bioscience Gets nearly $1M Eureka Eurostars Funding for AI-Based Cancer Patient Stratification Tool"
 excerpt: "MNM Bioscience, a technological start-up using genomic data and artificial intelligence algorithms to develop solutions for personalized medicine, received an $800 000 grant from the Eureka’s Eurostars Programme."
-publishedDateTime: 2022-04-04T16:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-cancer-artificial-intelligence-e7b29399075b4238b4d443c4c7dcd638"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-cancer-artificial-intelligence-e7b29399075b4238b4d443c4c7dcd638"
+publishedDateTime: 2022-04-04T11:31:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220403005068/ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool"
+webUrl: "https://www.morningstar.com/news/business-wire/20220403005068/ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool"
 type: article
-quality: 11
-heat: 11
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "vdMa2WI/9LSNaq7hYH3U6010EW0EQGtsvvo8MOXKsceMZLWTXmKo/m9lbLpC8Qa74hGff3YG1viiZptOpm/rDlyFCCW+Em3IqvtgrlkSfw5zfLRfqlW8mzm4KYbB/U4KiRIPO1Hj+TVLDly/a/R54dm/pWb7n/u4bkhZHkpUYeykdlpYOxyrHIZKqGT9wO0H83GmTmBywrvY5VRAMjtD+shm7kyBjx31BG8cOSJzZEPkTwkwET0DJre69CnxCHS5dYOKmXVzEKykczxSXL0rN6btwi2OXwveoLe5/HcRuUvluZjj0NzxK8nVn+d5DT3BF8cSzcKk958OuahFOxMzbfMSiQWsF4l/ju6r78VifaM=;TlT9g/5PHlbYYACQFgS4Ug=="
+secured: "Pklel/0BkWkVOM6wl4rAf8AHayWcRwRdfRcJUoqFGSOaoBmZGgwr4gGKB9pZFRFnN8ofb+D7GcrFvwLPmL+nM7aWqxj/conrUbVwcF3YRJs25veWKYosxkJOhqyalSpjWt6I+aYnSXgy0hN8+YIsxdZjNlhkF6IRJ/hoiyf3QQJrU/QKRMaiQd4950C8CxGoKjmxT7t9pyM1tGt2S81DpPfIuyVwKfzPZz00G0AjX4RLU7aWX3bekkPwhWtYSt99iQM6fVQi+oTuuvqH5EkHwRdW3j03zMsnX+2BK87eooHdC2b36aubwL8AcsB1nk6hDJz82gGWMsmoTCkoEM+Gu5Mp/u8/umV05v5UKeT6eY0=;O8UUlEQP5FgwnIyeB7sjZg=="
 ---
 

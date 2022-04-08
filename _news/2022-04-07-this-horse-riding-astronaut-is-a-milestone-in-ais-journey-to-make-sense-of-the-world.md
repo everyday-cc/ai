@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-a
 ampWebUrl: "https://www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-ai-agi-multimodal-image-generation/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-ai-agi-multimodal-image-generation/amp/"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/space-cowboy2.jpg?w=3000"
@@ -44,6 +45,6 @@ related:
         height: 1688
         isCached: true
 
-secured: "8EaMrVBbYp8E70oCJ2SIroSY+hr6LP4pRLDJENdUTX5vjXpM2+eF1c93IbO/zpgClt8fvgFbC36lEkgAJI97cEIM3ULo/xR4yyRXvMVvVKzXogZg2l0zTZTpgCqv3EYNSYiPav6UJJUyruPWgzo3VNZTehitBjrzDWeiUQ8IfRUDmq4n2sotQ7VEKyqYAXYmFSwVlifKlMtXbLgeEm4SgueCmTi1pEylorpcQguNBidlLcYozKFxc/TgWK2d0EbZwNRCHRp+PmJcFZ5DEg1GKrCCf5FE9ZIAYdtVmJ8h2Z6j5A1mvcNgawVoY/MVrL6uk6yUdZxlMVmkit9SNkLmdKx/pndSbvXTaepp5+jXwmk=;XlWf8VLBbaxoHpz+c2lFFg=="
+secured: "jMcgVbtQjhfRE8gYZ+uJ9D6YRFWFiDLMl4tARSvz7v/e8CJNKJ5VXRytd95KonEAW+KeDdOwAD2STYgg8fY8F+HaF9hKi+tUoXsdwtIO7kLSYJW/BINxGGEt4WPt5B6LbOPOUCM2IW4NcB1UzJGm8ixSlG+4BQLlTES6XOXQvksTfahtoMcFF9A6h8NiQQItnDaSBOglsVr5AZ/1m5CgnW+4u7hkv9r7rPi+UOMWgxpL0GvMdPyADGWM7Ro6HrgmHB6GaXiDJnXL+xNGtQMd41dWKxGH46Hx2tilN258zQ3RgK98kM92GWDY9Ea0TjG85Q6yDlKSfyR9/ImiSZ8grvkzSWMQivquqsmWh/bbCii6AjxfDOkIm+H47Kl2C2ALR2RqCdGK3Ghd4FKDUsCqszi3iL94aUolozulLhb8/6eOx5cvCgoO5lh2209++R49NlGlMKwHI+8lhvwNuEfDUj8GKSwq1KJbA2U+adMcTS29wLppzEIFHrkvvthpmmSnzCSc252/wXimOyP+luWDFg==;u5wV5yvKZMzo9BVbRfo/Fg=="
 ---
 

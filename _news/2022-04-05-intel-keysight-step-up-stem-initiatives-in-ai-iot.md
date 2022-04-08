@@ -7,7 +7,7 @@ originalUrl: "https://www.designnews.com/artificial-intelligence/intel-keysight-
 webUrl: "https://www.designnews.com/artificial-intelligence/intel-keysight-step-stem-initiatives-ai-iot"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 770
     height: 400
     isCached: true
-
-related:
-  - title: "Intel Unveils First AI Incubator Lab"
-    excerpt: "Intel's AI for Workforce program, an effort to promote workforce skills in artificial intelligence through partnerships with community colleges, governments and other organizations, has announced its first AI incubator lab. Housed at Chandler-Gilbert ..."
-    publishedDateTime: 2022-04-03T15:39:00Z
-    webUrl: "https://campustechnology.com/Articles/2022/03/29/Intel-Unveils-First-AI-Incubator-Lab.aspx?p=1"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 37
-    images:
-      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/CTlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "GWuj95sDENy7859ohUTbGM0zXoQTJuQeiAhb4E27zZg8m8p6N0y11H1PFbdrwHGLPdm2Xx0ZfRTIUKL/4VnMllYcJsBLjLhOTj/ku5C4ZRDLsrGNpUcvp+JWXT6CasssZ4x+xjSDFU796yCAVpVJfrtTLTUrktYQFboV95aK8qexn/cQMLCWq9+dnnfGXcEvPaCRjka17jLJbxQyYClMZ2KR419UvhUBbI28cFsSzLvpB4HuEwVPGVKPziPHC9z38MZHXcuskJZ+UatinfnlS8lM3pVxxCUtKeDAt+wz53CVhRR8S1TRps9RU36MmrjgAZMFzF0V8va/YNUA8cU4c88B0cuKuuuk0S5sO7cWw8c=;RFkNpd1UarJXIZyhKdMXJQ=="
 ---

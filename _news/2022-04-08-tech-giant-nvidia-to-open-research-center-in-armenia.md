@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "Intel Arc is off to a bad start on laptops — Nvidia blows it away"
-    excerpt: "the Intel A370M is off to a tricky start. As spotted by our sister site, Tom’s Hardware, the YouTube channel Benchmark Lab has been testing Intel’s Arc Alchemist debut against the Nvidia GeForce GTX 1650 Mobile across ten gaming benchmarks. The result?"
-    publishedDateTime: 2022-04-03T15:30:00Z
-    webUrl: "https://www.tomsguide.com/news/intel-arc-is-off-to-a-bad-start-on-laptops-nvidia-blows-it-away"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 22
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VDHdG2hYWc7mJSeegAXAEb-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "M2vJ0vt9bjxcVMusHMsyFMo9LuDbKYp/G8aEF5P//vtHtF/ySWnGZ2QkuA2FF7EUPa3VDv5DbTVsxeYDZmowgKpQM8EPPag5TZy8I0rxmKjtaluHQUaqTE/tbzHBwhaz+aDVzuB4y87FWCSc4RNpDKKeGke9zUZuMMMYUcEOH0cudDiZK87kh6FHxGGELgCkGMAdb80d0zPT5K9yRCm4CY0aVd5xAFvnASECilzEvlEn6axiT2dl34w3u5uOr36t7fsiHE5UYuv/0Le673LdhKBUHZALuLFcPBKL2ktj90cwS4f7HmpQOzG+ugv/fKkHe+JqLFwyZ7E+GrFz/eP+x5pNc68uPwzcZ5iD9wMso2BMqrO8qBlJfmxseQUziUKLC4+UC4leMO/PT4DaVtuchNLONASTFf8K/moYRSnBbEPCQyst8KD9XHjxTFQznoo6Sty8wwWXwf/rnf27O2e6es0xBF5YZMgCKn5xNvAmRwonXHwZHGKIkpjhKarOW8FlX2MtiOBEApwOTMjinYSXcQ==;2dzCgAqqveEs45/ypb3FqA=="
 ---

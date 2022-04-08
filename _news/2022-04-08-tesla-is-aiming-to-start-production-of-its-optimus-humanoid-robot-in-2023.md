@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-rob
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/"
 type: article
 quality: 120
-heat: 122
+heat: 123
 published: true
 
 provider:

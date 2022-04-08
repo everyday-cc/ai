@@ -61,6 +61,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 17
+  - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
+    excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
+    publishedDateTime: 2022-04-08T09:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-share-revenue-latest-trends-future-growth-analysis-and-forecast-to-2028-grand-view-research-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/ce940272b36ea8ce186f15593531a992ec1a2244-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "fxuVpf8XjReHeFKcnboFDhp81ZNoXiAn5MjfuRXCrp/iorJn3vIC2uZRp3m0VZH7LQ12GsPc22WK8PA+jJyp53Jl8bbF/xhuSC8BfMa9Q2cuLpfI/7oH1RJe+OiIRWga716SEQX95Hp/7e0JCaKp6YjfQ9REoTlhgjTQDPAVSKJzo10vj4nJ5On6BQGyqvfR9JIB0whO/KHrfWJLG1ugC5gulTTLSr2h+R0V1+OQe1O4oTlesuB9tK9+/3iCmpcHR9yOxfKwQFb+nGHX5YxuKbLlCIH9vK9rpjmGXxHAcLlLvuQIpeBPfKdCWxrKT9zy8mJnJk9n9T9BIBZsycIVv9KQE58YIm6AdR2e5uU/9xg=;iOZm2lJB8MsV7pwbHjMVag=="
 ---
