@@ -2,21 +2,27 @@
 category: news
 title: "AI in Genomics Start-Up MNM Bioscience Gets nearly $1M Eureka Eurostars Funding for AI-Based Cancer Patient Stratification Tool"
 excerpt: "MNM Bioscience, a technological start-up using genomic data and artificial intelligence algorithms to develop solutions for personalized medicine, received an $800 000 grant from the Eureka’s Eurostars Programme."
-publishedDateTime: 2022-04-04T11:31:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220403005068/ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool"
-webUrl: "https://www.morningstar.com/news/business-wire/20220403005068/ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool"
+publishedDateTime: 2022-04-04T16:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-cancer-artificial-intelligence-e7b29399075b4238b4d443c4c7dcd638"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-cancer-artificial-intelligence-e7b29399075b4238b4d443c4c7dcd638"
 type: article
-quality: 0
-heat: 0
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "Pklel/0BkWkVOM6wl4rAf8AHayWcRwRdfRcJUoqFGSOaoBmZGgwr4gGKB9pZFRFnN8ofb+D7GcrFvwLPmL+nM7aWqxj/conrUbVwcF3YRJs25veWKYosxkJOhqyalSpjWt6I+aYnSXgy0hN8+YIsxdZjNlhkF6IRJ/hoiyf3QQJrU/QKRMaiQd4950C8CxGoKjmxT7t9pyM1tGt2S81DpPfIuyVwKfzPZz00G0AjX4RLU7aWX3bekkPwhWtYSt99iQM6fVQi+oTuuvqH5EkHwRdW3j03zMsnX+2BK87eooHdC2b36aubwL8AcsB1nk6hDJz82gGWMsmoTCkoEM+Gu5Mp/u8/umV05v5UKeT6eY0=;O8UUlEQP5FgwnIyeB7sjZg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "2R20H/CoD+WhwTm0pgZxnnYjrfo0o/16jsy3wli2j+E+t22Uf802BCPmWsDq9I989zcVtZs7COchhJOMpCQ/nrLCvoPhI43vMfOL7RfaG2J7O30gGj1zC+7Fv7iHOMfBBx6MUdQZgm1aHeVr9S19imkcOSYe7ABqkVMpjZEkmJ20C1bnqh2uDLnl4JBPZsTJHMxTjEc2dOU5HdxDzlBox14avPxp9IpyWyZRsz2Urr49bq8ZJIBEg+evm4WNiCRDbXIOgDByxh2X9aQj4Cy2rjAkLxkjtW9dhpozfK97YhefsF4SpMXbGbQAOV9QJCkHgcTXosRmIvf45L/gWDFrV1g0mBt4xvKKfsBH3vxky/Q=;acM9Az8FdcmbRfYgyNaIvg=="
 ---
 

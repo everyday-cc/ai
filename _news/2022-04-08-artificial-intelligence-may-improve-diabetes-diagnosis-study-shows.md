@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial intelligence may improve diabetes diagnosis"
-    excerpt: "Using a fully-automated artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook ..."
-    publishedDateTime: 2022-04-05T14:05:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948056"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/da510660-503b-44d3-8029-cfd904db8c25/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "tm2DOz5DXtaMvOHNQaGyo2OFi7MBTN0X72lI0W/ayAdcEHY/xMkr5jM4O77PV0F3VIyFr5fC/UYt7kxW9nZCHOHiv8EAfBBQFmLs0rkOdpE1erKCv0tk+6RwD+vtD+Q6mKZdXepgV+o1p9mp1xLFWN+NoEdTXQkG3OiN1xbiYB4+6UBoEDIykODEvQpUw980wyyhhI16y4Ity/wNPZhJpdXzLi0b+s4rGkRX/I+o1WAvm7PgZMd3wTQl8j7ZIRFQU2/QboM3dJjPZ8lAyPSjnV8g1Psx4ow4rR/ON+FpUwyqaKahXCiqs+BJgCgBrgDejS1qsNetnSIvM4yFZkw7osiHvVEzwZbAtXCN2WQ6ceA=;MtMEqe04s7gBOyXC1UDo8Q=="
 ---

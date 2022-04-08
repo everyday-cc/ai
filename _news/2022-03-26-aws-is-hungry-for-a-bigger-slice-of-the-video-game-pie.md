@@ -1,14 +1,11 @@
 ---
 category: news
 title: "AWS is hungry for a bigger slice of the video game pie"
-excerpt: "Cloud adoption has transformed the way games are built, distributed, and played,” said Bill Vass, Vice President, AWS Engineering. “Game developers continue to accelerate t"
-publishedDateTime: 2022-03-25T17:07:00Z
-originalUrl: "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
-webUrl: "https://www.techradar.com/uk/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
+excerpt: "and artificial intelligence and machine learning.” AWS already boasts a long list of high-profile customers from the video game sector, including the makers of Fortnite, League of Legends ..."
+publishedDateTime: 2022-03-25T17:10:00Z
+originalUrl: "https://www.techradar.com/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
+webUrl: "https://www.techradar.com/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: TechRadar
@@ -28,6 +25,6 @@ images:
     height: 545
     isCached: true
 
-secured: "5OeuF/rMCKwn4FJnQz3Lkn3Gladq7Ti8aYGPLhcFeVGj8ASw88NCQ5UjuNoFDegecFz2wjvgz5nNsw1t8pQN/1lGeNDnUwW/yTt/toQjIl/l+vNXKWzdkTq2NdDT8O3Tku47JVYEltLU8z5VnhrEDICyq7fFpP19UTLaUr6mGJcO3ZTO2lQUMjhS9vp7m627RqtZ5tEsMLJibJKCA67AgsQsgo8TZKR/Da8vlRHBzfDQCrvPiY5BYxqgeGmgYxWLzXTDn732FZOLfHfdq50qaRzunIcSXNcPaFBPJNXW6JY1TzalFS3vQUWzZTt8w2GuXFvN5u4yEIZ2sZQErYLYsyZvhXB70lApS5gdTXQTw5sLOVM6Mg+QaL6h91ghzDVpv6cMoUYqREHbfdkkBuZBXqR8N8a9c74C+RAirMUTfHltHLmhn0DT+G35+iE6srswJwE/xrJVW7WS8d5P4J4ssc3qUb2awC4RdWGzkYdevIFyyiVi06XkQu2r4xrfMen6QOFUQ38L+EX954XbGf/Mww==;5oguIKfm/qLLNiNTmGX5Gw=="
+secured: "GKWhqcEZXe9CvSq3E4wYXYA80ZPm61VRux/g26P4YohGO4xWja4p1nrlqinnSYMIiETVg2nFrbJ4T6a8jINoVp48SgbG5oE0Cs4tnNq6QrPF+Ms6O952Q32Vv3DTonCRPr0ySTAIqt9rAR/Vn0+Dp0S8LAugmLA62CFo4Yb9ElABNWgtsdKLxA/0PMzL6EAnxS75FM6jHPLqHWxaofDb6+uV3UsN25xrZh0W+tJGeXqfWciJTQY5y1fAKhJRKDMC+2A4bCNcnlDQIIi+uLFzCSXRaJ5p+1144GhOL+iJ6YBbkyyNmbUT+NLEbhJsje9Dwo2Wc7AK7O0jsv0KGeCUGbSz8Zh+VmFP6eEZ8Oth4ps=;YzPxnkzwfQPk0cKiuaUN0Q=="
 ---
 

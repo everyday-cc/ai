@@ -60,7 +60,7 @@ related:
   - title: "Real-time data analytics firm Tinybird nets $37m in Series A"
     excerpt: "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,"
     publishedDateTime: 2022-04-05T15:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/05/tinybird_series_a/"
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
     type: article
@@ -138,15 +138,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Global Portable Ultrasound Equipment Market Trajectory & Analytics Report 2022: Artificial Intelligence at the Forefront in New Portable Ultrasound Sy"
-    excerpt: "The \"Portable Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Portable Ultrasound Equipment Market to Reach $2.5 Billion by 2026 The global market for Portable Ultrasound Equipment estimated at US$1."
-    publishedDateTime: 2022-04-04T00:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=641570"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "rruWjyHgBYmZeQ0EU58E/OsdqQy9dfMhSIgeNVwWb73CsBYLSdOa95fGbx65m2toHRdFNYSSElfb5q+fdZ7TmHbuPIxNDXpXE4lvcAAod6HfafaMbWpEtiDfX9EZuS65vyjbOVUFdoHTaUhabw9FYiWvRVbb0wZjVAWiOELAWEr/upARM8HhSISrz9BfAU4LQYshct9TQZhl5+cnII/MAgKczTPQ57+G5t/ytuk8K3Yn/IpRsgGtNMopAfRvcmwzoWPeF7kgvDNTjoQlRMForBXyrMfUv7e5TziD69AcY6rT+T5XbC187M6Y0fci1sIPRQbA3mAb2+jncLpHKAl0ImbMYIbM/oFlwUnQT7BE/JU=;gM3MRM3CMTGURidcqR8Ipg=="
 ---

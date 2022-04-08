@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Darktrace AI Stops Sophisticated Ransomware Attack At South African Financial Services Provider"
-excerpt: "Darktrace, a global leader in cyber security AI, today announced that its Autonomous Response technology, Antigena, successfully stopped an in-progress ransomware attack that recently targeted a financial services company in South Africa."
-publishedDateTime: 2022-04-05T09:54:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220405LN14376/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220405LN14376/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider/"
+excerpt: "The company, a growing firm providing various financial services to customers across ... the subtle signs of a threat and fight back at machine speed. In the early morning hours in mid-March ..."
+publishedDateTime: 2022-04-05T08:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider-1031332219"
+webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider-1031332219"
 type: article
-quality: 25
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
 
 related:
   - title: "Swedish AI Fund looks to back African start-ups"
@@ -55,6 +54,6 @@ related:
         height: 327
         isCached: true
 
-secured: "+z/KkelUj8P42waFeZwo6na6X9elii6yCGPKPuJkH5OuvJojeS82x8zttB+RKxah/spfwVKHDDlIolytpNmf9CaIxu/4Xd3sSfXpzAnpM0lxiyEpSqWr0NU6zOCeCsdLddUghc+ibJ203eALNRbrx9GvGMDpJCqyGbTQ9lyqzFAWR8TuuNhXiT7n9bMJkLvVJmPisLIaQ/I5huoDrTulUJlU+1t17CLmZbyiqpcbf7KWvLZVryhQM5gm+g4/i07SacVXVH5XpVdXhP9tnSs7QoS2pYP5n3dS7gYASZ1ioDASrMtSHunryiuPs7PF3T7wv9YTS/2AlurNQCDPfbKyURNGpCEmPsPpjym0PAAMBAY=;SuIlJUaT7TZo4l4BVvpH4A=="
+secured: "vR0s3TMxGE43Mdb2nSusMmW4jQS7ooLd4J6SsHzK+xLbr4v9ipTplQcrj09z4BXQpv+/6ynbwX9Bp5w8JQri9xTaag47LfaoZL9A1qJMzNF4gKN7XjwIz8wKit7+RrO6XcbGLshltZbUrR97bc9em3GeCyCpnkte/q8KCQ575Q8WT1hbIwHhUkjvabjVHuDoGHO48Bo/sy26ffvZnKKbRmT6KXbtwR70NGdFt2HjaPp1ju4L4B/m8Ee6dVqai91gy5yFzL8Le6eA8Po9J90kCr8/9qx+ccJf63eYInYK6pbWgSS3aEZx3qagTXWuoeEzTiNoxk8wPmRbfwEbcbH60gM4153iHDVBTqb0h6B3Il8=;dJi3h9e3qs3pWuJQDXhylA=="
 ---
 

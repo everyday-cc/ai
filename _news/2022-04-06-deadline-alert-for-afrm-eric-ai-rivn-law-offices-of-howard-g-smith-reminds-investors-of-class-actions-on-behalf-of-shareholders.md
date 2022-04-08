@@ -38,15 +38,6 @@ related:
         width: 789
         height: 434
         isCached: true
-  - title: "TOP RANKED ROSEN LAW FIRM Encourages C3.ai, Inc. Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - AI"
-    excerpt: "TOP RANKED ROSEN LAW FIRM Encourages C3.ai, Inc. Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - AI"
-    publishedDateTime: 2022-04-03T23:45:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/03/top-ranked-rosen-law-firm-encourages-c3-ai-inc-investors-with-losses-to-secure"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
   - title: "Investor Action Alert: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
     excerpt: "The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (“C3” or “the Company”)  (NYSE:  AI) for violations of the federal securities laws."
     publishedDateTime: 2022-04-05T18:32:00Z

@@ -20,43 +20,59 @@ topics:
   - AI
 
 related:
-  - title: "Who is funding AI research?"
-    excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
-    publishedDateTime: 2022-04-08T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
+  - title: "Artificial Intelligence Enhanced Heart Disease Diagnosis in Ultrasounds"
+    excerpt: "Following the implementation of an artificial intelligence system into ultrasound procedures, researchers from the RIKEN Center for Advanced Intelligence Project (AIP) noticed a sharp increase in the accuracy of heart disease diagnoses."
+    publishedDateTime: 2022-04-08T17:02:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
-        width: 896
-        height: 504
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
         isCached: true
-  - title: "DataX is funding eight new AI research projects across disciplines"
-    excerpt: "Eight new interdisciplinary research projects have won seed funding from Princeton University’s Schmidt DataX Fund, marking the third round of grants undertaken by the fund since 2019. The fund, supported through a major gift from the Schmidt Futures ..."
-    publishedDateTime: 2022-04-04T21:00:00Z
-    webUrl: "https://www.princeton.edu/news/2022/04/04/datax-funding-eight-new-ai-research-projects-across-disciplines"
+  - title: "Artificial intelligence may improve diabetes diagnosis"
+    excerpt: "Using a fully-automated artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook ..."
+    publishedDateTime: 2022-04-05T14:05:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948056"
     type: article
     provider:
-      name: Princeton University
-      domain: princeton.edu
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/da510660-503b-44d3-8029-cfd904db8c25/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Doctors diagnosing fetal heart disease benefit from explanatory AI"
+    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project (AIP) and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting. Both hospital residents and fellows made more accurate diagnoses when they used a graphical interface that represented the AI’s analysis of fetal cardiac ultrasound screening videos."
+    publishedDateTime: 2022-04-04T14:24:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948616"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 37
     images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/04/iStock-1347146698_3000x1688.jpg?itok=u76Ew8rx"
-        width: 1440
-        height: 810
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5737e064-4109-40bf-bfa6-e000c02df732/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
-  - title: "AI Betting Agents Weigh In On Reproducibility Of Research Findings"
-    excerpt: "For scientists like Rajtmajer, AI bidding agents could help put individual studies in the context of a larger body of literature so they know if the findings would hold if repeated, possibly in a different population or using a different analysis method ..."
-    publishedDateTime: 2022-04-05T05:00:00Z
-    webUrl: "https://www.bio-itworld.com/news/2022/04/05/ai-betting-agents-weigh-in-on-reproducibility-of-research-findings"
+  - title: "Explanatory AI system enables more accurate diagnosis of fetal congenital heart disease"
+    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting."
+    publishedDateTime: 2022-04-05T12:23:00Z
+    webUrl: "https://www.news-medical.net/news/20220405/Explanatory-AI-system-enables-more-accurate-diagnosis-of-fetal-congenital-heart-disease.aspx"
     type: article
     provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 17
+      name: News Medical
+      domain: news-medical.net
+    quality: 9
 
 secured: "WXVkUE19zlnuCm3zgOQdYbgVEmdQzq+aw43zBwtajK1xIlmZ5UxXHsKc3MT7UmQlfaRMrKd7vJ/Du2L1d4oUvRfRKpM80OSeOv3KP4qJ+k+bLkPPeRFX5g1YEkQpoT+BDJKPvYzlPn5LMGexq0LODIld/p5mANTk2k5kDp1PooN1PJHUHfuZeKJJNcg8HwcoaHXhp658o8yp/LNOpwLOgQRJKmVO5h80Ltv7FjqydByPSLgtUdRDUIYFaTofY8zTTgqF+knyFeJ5TTJSU529NblAN06p0kilbD+uN/t6OyW4tbl7HQ8TpZ20AX0v6c/fSBg4vq01EOlSGCHkEOzGZrqL8NvhzW0BO1uHN1Sm4jFqAurTl0wTfrvBiiEAv8dvJ1jUhDxEl5H9WRkHqsTwsm/hOsMK1S90WKelEfk0kHrrPCO6d+aJjt8P/bfOvR6MCfWKmHjFE6eRxlbQVZBip7qArk3Mdvj0/bwKchvoCHKSuWnE06EiROgdR7sC9NGgZrq2OscbHJzyo/0iJExyDw==;mKl+Uw9XxukEMPvSSEL6Ow=="
 ---

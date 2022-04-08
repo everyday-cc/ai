@@ -24,45 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "Upstart Holdings stock gets new Buy rating at Loop on AI lending strength"
-    excerpt: "Loop Capital is picking up coverage of Upstart Holdings (UPST), which provides AI-driven technology to banks and other institutions for making lending decisions, with a"
-    publishedDateTime: 2022-04-06T15:20:00Z
-    webUrl: "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
+  - title: "Incorporating Artificial Intelligence Into Everyday Business Practices"
+    excerpt: "Americans harbor a uniquely negative view of artificial intelligence, being fearful that A.I. machines could one day replace human workers."
+    publishedDateTime: 2022-04-08T17:32:00Z
+    webUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/"
+    ampWebUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
+    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 58
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 59
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213474705/image_1213474705.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "District Says No Looking Back After Using Artificial Intelligence Routing System"
-    excerpt: "Butch Sargent was contacted by the Jasper Police, telling him about a disturbance in a certain area. “I don’t want anyone to think Jasper’s unsafe but we had a police problem one afternoon and a whole community was shut down,"
-    publishedDateTime: 2022-04-04T23:07:00Z
-    webUrl: "https://stnonline.com/partner-updates/district-says-no-looking-back-after-using-artificial-intelligence-routing-system/"
-    type: article
-    provider:
-      name: Stnonline.com
-      domain: stnonline.com
-    quality: 32
-    images:
-      - url: "https://stnonline.com/wp-content/uploads/2022/04/Transfinder_Jasper1_Main.jpg"
+      - url: "https://innotechtoday.com/wp-content/uploads/2022/04/possessed-photography-dRMQiAubdws-unsplash.jpg"
         width: 1920
-        height: 1280
+        height: 1470
         isCached: true
-  - title: "Holding artificial intelligence to account"
-    excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
-    publishedDateTime: 2022-04-05T23:46:00Z
-    webUrl: "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00068-1/fulltext"
+  - title: "Google Maps Is Using AI To Update Business Hours Of Places"
+    excerpt: "Google Maps will use AI to update the business hours of stores that haven't been altered from time immemorial to offer correct information."
+    publishedDateTime: 2022-04-08T09:14:00Z
+    webUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/"
+    ampWebUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
     type: article
     provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 19
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/04/Untitled-design-24.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why Lemonade's AI-Fueled Business Is Getting Squeezed"
+    excerpt: "However, six months later, Lemonade ran into the after-effects of the pandemic, which put its business model under stress. Despite quarterly reports showing high customer and premium growth, investors have recently become more concerned about the company's lack of profitability."
+    publishedDateTime: 2022-04-05T11:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-lemonades-ai-fueled-business-is-getting-squeezed"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
+  - title: "Google may update business hours in local listings with AI"
+    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
+    publishedDateTime: 2022-04-07T17:33:00Z
+    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Are AI hiring tools adding risks to your business?"
+    excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
+    publishedDateTime: 2022-04-07T13:27:00Z
+    webUrl: "https://www.benefitspro.com/2022/04/07/are-ai-hiring-tools-adding-risks-to-your-business/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 17
 
 secured: "+Fj8O3p5L99LyVJwOJyy3Uk0BpO5qpSb1aGemc5D37H6X766r4ch2a5kNRzmrmHhw1eYIx2CFmFtunRVqkdL7q5eWF4NOx9hae5Qm2ixGr0JSl9GoNfVcLw9X2dAHLLHx2qVF1sARF3aKPK395VOKQ8pIoBie0gM4IdZj/RCAgmeNDyVChVX+xZcaZSwy7vjd5wsQneVH+/mb4ZnuKwQXHO6gXRMsFmPQzGkCK8//76Fq8uqClR+NCp/3O+qYI9HTBrd6EnRMR3kNtjp75w5jUGKEMqmPWxYyf0/eIbTPf4ZbopBy9N7GIcYWYuWGCAif8zT+R/FbTVxEvrCRurGROIcCDClpVTo+CECD/fGs84=;0759SkgDQ4NEkMUoRUjAyA=="
 ---

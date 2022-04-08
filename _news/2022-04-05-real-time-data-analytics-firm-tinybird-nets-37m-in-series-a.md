@@ -3,8 +3,8 @@ category: news
 title: "Real-time data analytics firm Tinybird nets $37m in Series A"
 excerpt: "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,"
 publishedDateTime: 2022-04-05T15:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/05/tinybird_series_a/"
-webUrl: "https://www.theregister.com/2022/04/05/tinybird_series_a/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
 type: article
@@ -124,15 +124,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Global Portable Ultrasound Equipment Market Trajectory & Analytics Report 2022: Artificial Intelligence at the Forefront in New Portable Ultrasound Sy"
-    excerpt: "The \"Portable Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Portable Ultrasound Equipment Market to Reach $2.5 Billion by 2026 The global market for Portable Ultrasound Equipment estimated at US$1."
-    publishedDateTime: 2022-04-04T00:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=641570"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
   - title: "Geospatial Analytics Market Business Growth Demand, Strategies, Overview, Competitive Strategies and Forecasts 2021 – 2028"
     excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
     publishedDateTime: 2022-04-07T20:53:00Z
@@ -148,6 +139,6 @@ related:
         height: 337
         isCached: true
 
-secured: "Cd0wPVFax1dBMzqpdanOIGm634HNEURcbNIFyx8Ar2KuMxF6dWuanZwooJmMtnSKRVvo0qFC3eLn6L5BSCH79wLJfxlfC34ttDdShSLjUqgqPiz6FxiEMZGjwccXz0yAn2eEnZyAjeZEcqYgQiA9C5IniCHV1gu+1utj4EJ8rI6cj0NjyESC9zPyqbIunEpcAM7AAPT3Cll2J0h5UFE2xOTcWYTw5yyZ1fO2GB2DVHmb4w4yfObQ7/mmC9G5JMGBKGJyldyfhKCR1TaLG5KMDnHuogi6s26N178hrnf1k2h5ahI/x4Q92DZX+IdrbIUIBtZ39d49aJ4UHJROLSSRLVG+m18Q6xIdmRcxFtM4tUs=;n2U5oRmJXw+IxzCix0cqUA=="
+secured: "B0EK74WiWQxEOQVYsVVBD2RjNvE/7C0qnmYmmRO0fKtYKJzeqFj+ycScVKQ9weOwxRFUDSgKQu5SRaP27ZeCGEpGg3dYSIMXDm7vL1opJXqpH4u8z79fmiUg9xjz9J+Yzf+7X/pSgHc5pRczObew8rOjXuQQUwI7KaMidvbLU7n3C4nqwF6/ZdmGxnJbcarAXNuifCfMtPXOHS1+wMSdibxuQTpEgPB5Wd5CBykLZgNqts8TlhO+FZKHFEKSVw+PPF1SJNf4FLeiAmwk5k6G4Q663UGKxN1ZACQ49hGFDLSHv12KmMH2VeuxWtTzUVW6rxiklG0vt7mddQbqFcIdkHFdLotGesqKfYwZQW3Umts=;zyXGnNVS+kOWmLEjvgPd7w=="
 ---
 

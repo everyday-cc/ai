@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Looking at how AI could reduce the carbon footprint of your dinner"
-    excerpt: "One of the most immediate ways for anyone to reduce their own environmental impact is with a change in diet – but for most people, how to do that isn’t necessarily obvious. Researchers at E.Mission, a West Midlands climate advocacy agency,"
-    publishedDateTime: 2022-04-04T00:09:00Z
-    webUrl: "https://www.nesta.org.uk/project-updates/looking-at-how-ai-could-reduce-the-carbon-footprint-of-your-dinner/"
+  - title: "Why Enterprises Need AI Democratization"
+    excerpt: "In an ideal world, democratized AI will one day be accepted as the norm for interacting with the data universe. Click here to read more:"
+    publishedDateTime: 2022-04-08T12:14:00Z
+    webUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democratization/"
+    ampWebUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
     type: article
     provider:
-      name: Nesta
-      domain: nesta.org.uk
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
     images:
-      - url: "https://media.nesta.org.uk/images/Experiment_2.max-1200x600.jpg"
-        width: 900
-        height: 600
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Why-Enterprises-Need-AI-Democratization-01.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "Artificial intelligence could help night vision cameras see color in the dark"
     excerpt: "Scientists from UC Irvine multiple wavelengths of infrared light to capture images in the dark before feeding these images to an AI algorithm."

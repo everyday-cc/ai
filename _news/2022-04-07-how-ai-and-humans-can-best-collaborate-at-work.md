@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-and-humans-can-best-collabor
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024"
         width: 1024
         height: 762
+        isCached: true
+  - title: "Our Human Future in an Age of Artificial Intelligence"
+    excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bringing disciplines together is the best way to address challenges and opportunities posed by rapid advancements in computing. What"
+    publishedDateTime: 2022-04-05T13:34:00Z
+    webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
+    ampWebUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 61
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Technologies-Concept-Illustration-777x583.jpg"
+        width: 777
+        height: 583
         isCached: true
   - title: "Why we need human-centered AI"
     excerpt: "Expert, Ben Shneiderman, believes we can create AI systems that can have both high levels of automation and human control."

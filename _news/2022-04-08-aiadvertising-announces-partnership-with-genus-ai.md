@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AiAdvertising Announces Partnership with Genus AI"
-excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI&CloseCurlyQuote;"
-publishedDateTime: 2022-04-08T10:06:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/08/aiadvertising-announces-partnership-with-genus-ai"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/08/aiadvertising-announces-partnership-with-genus-ai"
+excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
+publishedDateTime: 2022-04-08T11:15:00Z
+originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8518747/aiadvertising-announces-partnership-with-genus-ai/"
+webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8518747/aiadvertising-announces-partnership-with-genus-ai/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: WKRN
+  domain: wkrn.com
 
 topics:
   - AI
+
+images:
+  - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Roman-Josi-Ottawa.png?w=2000&#038;ssl=1"
+    width: 654
+    height: 374
+    isCached: true
 
 related:
   - title: "Predicting and preventing road crashes with AI"
@@ -34,6 +40,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Deep learning rising in importance within booming AI sector"
+    excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
+    publishedDateTime: 2022-04-06T01:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
     excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
     publishedDateTime: 2022-04-07T21:44:00Z
@@ -49,6 +69,22 @@ related:
       - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/WTVT-Still-2022-04-07-17h39m38s402.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Combining AI and computational science for better, faster, energy efficient predictions"
+    excerpt: "Predicting how climate and the environment will change over time or how air flows over an aircraft are problems too complex even for the most powerful supercomputers to solve. Scientists rely on models to fill in the gap between what they can simulate and what they need to predict."
+    publishedDateTime: 2022-04-08T16:19:00Z
+    webUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-faster-energy-e.jpg"
+        width: 1500
+        height: 559
         isCached: true
   - title: "3 Ways Artificial Intelligence Can Help With Pricing"
     excerpt: "Is artificial intelligence smart enough to set prices on your products? Some early adopters of this application of AI think the answer is yes. AI-powered algorithms help companies price items based on data like competitor pricing, inventory levels ..."
@@ -83,6 +119,6 @@ related:
       domain: acrofan.com
     quality: 0
 
-secured: "kgpmH52JwVpwnXisOhlnzKPLO3kIeLdWrbZb9h6doVyrdXtLvRLD2a5GatmAKr8GRejQt7ikgPtSrdG1uZZZnwyrKRDtlHF4pBFBwLPX4BdjPTdpadzylDM20n08b2MAJvm9b+8uarwu+52OLRyBpDntw8PCF4mhSP8bY8Am/FpjagandsKwY9VG53u90HNa1P43wFU6yMwITCt0FzOLAFaWUkHanS3T/8v13qf69xcUxGXqKkAK3Q0TyMgaG9OomIbw5z/QcSBJl3eAWFyfgFj8XoMJGRYSqFD6Jo/R4jrdubj85rjEr/oEuFgxzyt4mKaXPgtAhyGDrNrTww/ncF5dQ45Iqyw2LesRT7FCCjaIMeEGo3Rw7P0NhhMUOEHkvCwXagyKv0chNzCQ1AelTwli7V6JE+OPPvpBjtfec9lAD7Hdwo3SANP4JFLcb1yek6eJ4utnJTQX1GJFbU1txXH5Gkm2mNnm7XrTIqSks+r9aXDlNoVpEk4IDIW2fx9TP3sj+0M8AJOdlPeTRsP4WQ==;hn4+hVtIGVmZ9XJHAIXC3g=="
+secured: "jM4rPsi7Q5TGDxm3hF4xqp/idor7jEP5kSaZQxrzEZMqt6tW+PiRexx5yW1bCw4YHIKFYbP+33A34FsyAN/s8CYYiOHEX3bpGgKl1krsC2AYOAloCpiGQiQdxZepyckDyselx09BLJAhz1aH3NIZi5YRi700gon2DiM1VRYm0hpgnmQEkaacH6k7hwyz2YNuM+pZZl0vymNPmHPcbakvh7cWMwbG5UcrV++AKJirGhUpyM+8Gkh4aRET1P1C1lVxroM3/K0bJ4UUuKaJbdkHV18v8Q2mmA/PbHH/IhDHzW5FzTYpumGmRtv3HMHZrMC2m2D1Y1FiK2WHtEj8hj4J6iE5NBDj1/DliC65NqN4c4o=;fOHcGB5qwIqgZJ/j2zGmYA=="
 ---
 

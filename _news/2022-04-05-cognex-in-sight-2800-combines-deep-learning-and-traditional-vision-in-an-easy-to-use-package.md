@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cogne
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cognex-in-sight-2800-combines-deep-learning-and-traditional-vision-in-an-easy-to-use/article_ef2ff6c7-725c-5355-b694-f3b148fd19ae.html"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Cognex In-Sight 2800 Combines Deep Learning and Traditional Vision in an Easy-to-Use Package"
-    excerpt: "Cognex Corporation, the leader in industrial machine vision, has released the In-Sight 2800 series vision system. In-Sight 2800 puts the power of a full-featured vision system into an easy-to-use package that gets applications running in minutes."
-    publishedDateTime: 2022-04-04T00:00:00Z
-    webUrl: "https://www.automation.com/en-us/products/april-2022/cognex-in-sight-2800-deep-learning-vision"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 28
-    images:
-      - url: "https://www.automation.com/getmedia/c933e291-b5cb-41d6-8267-5c75f534e572/Cognex-prod-April-4-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "XDP6mJltcxbf+yClKbIo4SPXqTZHCT6jhrTmR9vRYqweGZWbisxebiavGvWMiYi+rbbuapnhVVCgnPWlGt+SpFKf7k5bF0BCP85gMiljyd0M08aCKI7bKPzy6xOjA3HUnYVbwC8uXzdLGS2f7t5fCl8a/A87F25HcayVGW2SvomlzxQ9f0FLlrWRge3v+AP8PkSI8x2V05Q+EXwF3ktWdUr7cSASDTum9SibuarQlP6ZGnlhDSsVj7/UbA/JgIiB2nqVzX60PlwM2Agy6tas6Z1OZZenlNOe+bGOKpOl0rHaKbylTYwvfcp+A0JhH6nNGTejdskz30sKEr0hdTla4HxgO5dWE3OP/0N0vZHjERs=;4CRHEV2jKJFBCfrlt8UMPA=="
 ---

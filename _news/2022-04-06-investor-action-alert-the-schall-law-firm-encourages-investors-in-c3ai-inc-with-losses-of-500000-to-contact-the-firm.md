@@ -46,15 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "TOP RANKED ROSEN LAW FIRM Encourages C3.ai, Inc. Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - AI"
-    excerpt: "TOP RANKED ROSEN LAW FIRM Encourages C3.ai, Inc. Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - AI"
-    publishedDateTime: 2022-04-03T23:45:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/03/top-ranked-rosen-law-firm-encourages-c3-ai-inc-investors-with-losses-to-secure"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "2/wAzoGn/KHYyuy+VdfTReOi37BmHkEJ0k+VrUh3J9qjc0LJbq1PnsGfDuBSOIRx07KeT6477yKjuZGsb2j9CF96LKx/plPPpx4hTt/KdEtGzw7h39cs9tOYI7PU/w19Tdgo0enGsEGuKPzct09QSOrnWZspDxnb+57FLv1L10nW8MRNwsBpel615+tX6JrsxkXyedaOOAWOFDAtliGlTAm0qqy4kHy6T889J9S3jx971qG/4JFdsYExFppchbbWKHcvFMzAHxU6KLnft7gviH8dksPc661n4r4w4rgUUM6tcFQxJ+A/tTYcWrznP0izwAPgKAZijUHvWypr/iejQr77iO+Nly7H9p6DLcmvEgQ=;INabp3nu5bgf/GlQ1W1yBg=="
 ---

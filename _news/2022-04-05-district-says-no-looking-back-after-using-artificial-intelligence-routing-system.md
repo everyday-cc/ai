@@ -40,20 +40,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Customer experience is everything. Get it right for your lending process using AI"
-    excerpt: "One thing every industry will agree on today is – customer experience is everything. With companies like Netflix and Amazon driving customer expectations higher using Artificial intelligence (AI) and machine learning,"
-    publishedDateTime: 2022-04-04T17:30:00Z
-    webUrl: "https://www.cuinsight.com/customer-experience-is-everything-get-it-right-for-your-lending-process-using-ai/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 32
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/02/bigstock-d-Abstract-Hud-Brain-And-Nerv-401073950.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Holding artificial intelligence to account"
     excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
     publishedDateTime: 2022-04-05T23:46:00Z

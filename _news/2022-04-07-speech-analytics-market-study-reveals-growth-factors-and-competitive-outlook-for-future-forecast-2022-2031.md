@@ -60,7 +60,7 @@ related:
   - title: "Real-time data analytics firm Tinybird nets $37m in Series A"
     excerpt: "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,"
     publishedDateTime: 2022-04-05T15:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/05/tinybird_series_a/"
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
     type: article
@@ -124,15 +124,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 13
-  - title: "Global Portable Ultrasound Equipment Market Trajectory & Analytics Report 2022: Artificial Intelligence at the Forefront in New Portable Ultrasound Sy"
-    excerpt: "The \"Portable Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Portable Ultrasound Equipment Market to Reach $2.5 Billion by 2026 The global market for Portable Ultrasound Equipment estimated at US$1."
-    publishedDateTime: 2022-04-04T00:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=641570"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
   - title: "Geospatial Analytics Market Business Growth Demand, Strategies, Overview, Competitive Strategies and Forecasts 2021 – 2028"
     excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
     publishedDateTime: 2022-04-07T20:53:00Z

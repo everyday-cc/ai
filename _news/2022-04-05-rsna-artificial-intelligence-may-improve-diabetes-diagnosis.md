@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26480242"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Artificial intelligence may improve diabetes diagnosis"
-    excerpt: "Using a fully-automated artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook ..."
-    publishedDateTime: 2022-04-05T14:05:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948056"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/da510660-503b-44d3-8029-cfd904db8c25/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "dFFAWsVPskJGm2XqIXTGKY9kmhrWT0JT/BLe2lnMehlvBkpyxNEcHIfzFFIvr5uLFwKH3FEJuH5SqV29zmbVm/BIG9WtFlOvZ17t7xIfTjqLWJ1Ykw6IVJgH/BcEtq+AtrACSsDdZP9Y0Ny3B4Yfo9g+nh44YVOlo/7xdtX+mHWX1RSn4ch40mgWhI87le7kej1ht+sviWMIZ5/08fCHLnuzbHNLfGOLt60BqtZkvyjeUiBC0fcq8SKW+Fcqnk0ddq7Lhn+MDcbSvJFyjXfs3vsSoX3m0pxJChUVZ0o5CEkiuTyco/zammxs2DYPpK1Xh8Dkhx5KKZhlfAIJAd4gzSaL4f+OeXepJePqxrrRS98=;w/oSAUMze7o5mNHiLo+zEg=="
 ---

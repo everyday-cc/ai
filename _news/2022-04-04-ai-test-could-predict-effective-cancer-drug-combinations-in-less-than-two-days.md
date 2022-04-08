@@ -34,6 +34,20 @@ related:
         width: 605
         height: 340
         isCached: true
+  - title: "Artificial intelligence predicts side effects of combination therapies"
+    excerpt: "Researchers develop an AI model to predict the adverse effects of combination therapies and present their preliminary findings at AACR 2022."
+    publishedDateTime: 2022-04-08T17:01:00Z
+    webUrl: "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/"
+    type: article
+    provider:
+      name: BioTechniques
+      domain: biotechniques.com
+    quality: 39
+    images:
+      - url: "https://www.biotechniques.com/wp-content/uploads/2022/04/Drug-combination-therapeis.png"
+        width: 802
+        height: 344
+        isCached: true
   - title: "AI test could predict effective cancer drug combinations in less than two days"
     excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours.Their cutting-edge technique uses artificial intelligence to analyse large-scale protein data from tumour samples,"
     publishedDateTime: 2022-04-05T16:26:00Z

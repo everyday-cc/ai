@@ -1,26 +1,19 @@
 ---
 category: news
 title: "Health Advocate Improves Understanding of Member Health Needs Using Artificial Intelligence"
-excerpt: "New Patent-Pending Methodology Provides Members' Real-Time Risk Stratification, Leading to Earlier Interventions and Improved Outcomes"
-publishedDateTime: 2022-03-31T12:44:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/health-advocate-improves-understanding-of-member-health-needs-using-artificial-intelligence/article_3ff329a7-d4f1-5f10-b468-0e0d87f854e1.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/health-advocate-improves-understanding-of-member-health-needs-using-artificial-intelligence/article_3ff329a7-d4f1-5f10-b468-0e0d87f854e1.html"
+excerpt: "Health Advocate, a leading provider of health advocacy, navigation, well-being and integrated benefits programs, announced today that it has launched a patent-pending enhanced approach using Natural Language Processing (NLP) to transform real-time member interactions into digital information that provides new insights into a member's health and improves Health Advocate's capability to proactively engage with that member."
+publishedDateTime: 2022-03-31T12:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-health-advocate-improves-understanding-member-health-needs-using-/2022/03/31/9574339.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-health-advocate-improves-understanding-member-health-needs-using-/2022/03/31/9574339.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "ZAEviZ3KatqZ8l6SKLBrZ0UZbTW3g2QdlxpV4hjX2uBatLSxx63TC1zugsto0nxL+y+I1ihN20Qk5l9lzeSIEc3TIVXhAh34KkRhsa0VYef1DkSveW6RDqmLYYomCDB+gsqF4veawKuBIPS9eSlLLXjD0MsHyX1DBChOvtrI9SkIWkcPOlZrMaofRXIKeT5L1jR6uJqDwiPyZKo1bdxNk5mx/XVgotrZ/gJ2FzBvjItkVYIFeXCFexC6FSRytlxV0WZo2orTcDWF8fZABtJdWbsadFf35YAHM663o35r7U9jWzW6tLxtjyGlatKvue9vjyHsG53CkMh4p1I8tdcUKx77fQ7aLziX5W7gDXbVoFI=;lMKsiLSqRv7y8RoYsLD0rg=="
+secured: "f/0+7/vbrxPJg/CRCSk2YHZ0Aj7yGioL0RSj/eonqtCS79q3rijfo8adsQ77MFC8mH3h2oL9XhsOD/6TADa1JKACzVzuo0E/Figu2M7oXXIc+gQ8B0UNBWfPmDZOg6MyYQtXHXnckZgfFtyuK9pNyJW7l9xwM2G3u1O8QL7hG9uJ32xYYg1611OlYVCYa3YxsNF67qPECvLq00h1YcMJ6bp+8ARCx9+x9UYD9uy03GD44utlesauFou/iehTTJKg9wNCu+ycBTlZGUM1qKCAVwrmCcGTWd/sSWQ3zXRDgjgTgwmGw/IvJhnVi0dPvpsDAf5EcIMpJ+HxIa+UIef80XS5aHtkpUbqywTJ7qZnNIk=;hkBmGJswKjOToyu1SW6Yog=="
 ---
 

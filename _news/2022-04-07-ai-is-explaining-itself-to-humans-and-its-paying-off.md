@@ -1,26 +1,30 @@
 ---
 category: news
 title: "AI is explaining itself to humans. And it's paying off"
-excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8 per cent after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at"
-publishedDateTime: 2022-04-07T07:10:00Z
-originalUrl: "https://www.asiaone.com/digital/ai-explaining-itself-humans-and-its-paying"
-webUrl: "https://www.asiaone.com/digital/ai-explaining-itself-humans-and-its-paying"
+excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion."
+publishedDateTime: 2022-04-06T20:33:00Z
+originalUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/"
+webUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 107
+published: true
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Apr2022/07032022_linkedin.jpg?itok=uvIpxfMz"
-    width: 800
-    height: 567
+  - url: "https://www.reuters.com/resizer/z-sgHrCDLFLhJaQSc1xDQ3jFThc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IVAL5CVXIBOONBVVSKCLRL5B5M.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -38,6 +42,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI is learning how to explain itself to humans"
+    excerpt: "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human"
+    publishedDateTime: 2022-04-06T17:46:00Z
+    webUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/"
+    ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/artificial-intelligence-1.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "AI breakthrough explained to human operators"
+    excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
+    publishedDateTime: 2022-04-06T11:45:00Z
+    webUrl: "https://www.bna.bh/en/AIbreakthroughexplainedtohumanoperators.aspx?cms=q8FmFJgiscL2fwIzON1%2bDuKVdDoWIY%2fbZQiQNY3%2bYiQ%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 37
+    images:
+      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/unnamed-e96ece15-2289-4681-a62e-9356e71b473b.jpeg"
+        width: 740
+        height: 453
+        isCached: true
   - title: "AI Is Explaining Itself To Humans. And It's Paying Off"
     excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion."
     publishedDateTime: 2022-04-06T11:00:00Z
@@ -53,6 +87,6 @@ related:
         height: 819
         isCached: true
 
-secured: "bJ04eB1YApJWln7aIeb3q8driEf12QkzpJkE8c1HoeLV+lO09ncFCIYVEPWtRk00WJW3dijWLz+TO762OmVaDiUSrcRmAqV3RLXYedjyS/adHPJ78stGyzDD5rva4kPnUMamtEEC0qkFeLhn1BsxqrnFhmg3rdH0tKMiJsL2jBTCmAW3sHpCwmkv6HSFjx2Gnt2YY6IB5QMCIsRVHWkfmGRUiQB8aKjW/YBcmLeCiiHS015hBLWTGtj800HQG7vsHVbJBa8+OY4XTUvL5DMif83PrSt+bsZ1VTT/1o2tvhCYsrH5PjLH4FjX42GGu6OEjOZ+KoWkb/4V80OtveQHJg5ZI+csNHwEWLnw/qItzxACMyd1sMHSioeP1epQVcDBTRalbWc3RS/WpUyR2o9MahuSSiDRFLbOVD4u1gAkv8arJ6sQznTatNvEAzFrBjjrvVUHmbG7H57W28EZiiDnbes5QM9JrIP+2uwIda1BiCi6q1wXc5FKpJoeQItnd78jfTzHgIx1GSjBZpBF4Ovjvw==;qi4THo2y/ePvzFh5AEDvwA=="
+secured: "OyG1KfmigyB1pye1ZWlhuO1P81qpa9YC9DQK18WudOTmSXvZH/xhN4+Obz6QDpFibCL3tYagqhV8VzI6wZUrvGyGh92X3VkZ8RSL6RnuylCO+8jF/bBMEIBQ/Ts0u2tilYcnh+14j5aMbD7i4QVUUSd1YeY9ra9vbJYLpDhUrVWMj7o3tBCLbtBFnDs++ACyyZaSC5EnpfeAXgg4uQseUPP68HIpKAMcHgpGP75UMGkAX/+U26JO59ePYJ8VJIglrPjRv1FZKGWpGxdqBhhmrsBat0e4l3KkewX04eslj+iTRfatNQTwKHxNHbgT6cDdg/SEK9uPWi//87tsw1VhUhStOlaQXet+NfzLWnW4yEo=;Tdn6WhOgmg+ELYj/KoE/zw=="
 ---
 

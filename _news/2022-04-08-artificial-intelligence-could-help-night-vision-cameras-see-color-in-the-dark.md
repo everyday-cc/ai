@@ -34,19 +34,21 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Looking at how AI could reduce the carbon footprint of your dinner"
-    excerpt: "One of the most immediate ways for anyone to reduce their own environmental impact is with a change in diet – but for most people, how to do that isn’t necessarily obvious. Researchers at E.Mission, a West Midlands climate advocacy agency,"
-    publishedDateTime: 2022-04-04T00:09:00Z
-    webUrl: "https://www.nesta.org.uk/project-updates/looking-at-how-ai-could-reduce-the-carbon-footprint-of-your-dinner/"
+  - title: "Why Enterprises Need AI Democratization"
+    excerpt: "In an ideal world, democratized AI will one day be accepted as the norm for interacting with the data universe. Click here to read more:"
+    publishedDateTime: 2022-04-08T12:14:00Z
+    webUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democratization/"
+    ampWebUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
     type: article
     provider:
-      name: Nesta
-      domain: nesta.org.uk
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
     images:
-      - url: "https://media.nesta.org.uk/images/Experiment_2.max-1200x600.jpg"
-        width: 900
-        height: 600
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Why-Enterprises-Need-AI-Democratization-01.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "qgnf0tZQZzPMCpcyiNiaOWJiB68pT/7qZ71K4ADk5vr1UXLd4FvyU64PHg7DgC2KVKLupGSnsDTheVVHXtYG6CJQ37NsKa6g3EGMkmVh/s6SwtX/d8Hsxed2e7ticggIG0Oga2Hjen7dO+76kK8IRmXkmItpf4Qz6pftMWWmMlX9oaD/vaKOdMhswti75elkY/fgAS8R/gN2CaC/Un3/MCMij/lJDzHio4OqsEAzXNsrIgTN7XePOLeIbgkVcKK36c1MODQ2NUSxShtXYG2oN+ZeOAcw1SFC9X9eQktB4TePOLLLL7mecwTc1vZXLkhqV3j5lid5wxJknnkDDTgPHAgRBetFoYFGGMdKi6jNa7K0bDTt3HhQRctyT2A7eVSjH9PJ0bGKiIYCOylmdFRPpIOZI+Kipp+enVN7oLctwa/e5zZkjCsqzIRDS7glq7HEAskKBIgrXnN3u+pP3VZTvYUYcHIGmbIxhOBsXHoIAEUGr5pRzoK3CZNJ6xnt87RTryzfvFmoBDIVu9lTmUDmGw==;RFCBosvb4lJcpbeUvpKscg=="

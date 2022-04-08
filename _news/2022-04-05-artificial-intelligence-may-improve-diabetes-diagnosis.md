@@ -25,47 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis"
-    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in the journal Radiology. Type 2 diabetes affects ..."
-    publishedDateTime: 2022-04-05T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26480242"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242"
+  - title: "Artificial Intelligence Enhanced Heart Disease Diagnosis in Ultrasounds"
+    excerpt: "Following the implementation of an artificial intelligence system into ultrasound procedures, researchers from the RIKEN Center for Advanced Intelligence Project (AIP) noticed a sharp increase in the accuracy of heart disease diagnoses."
+    publishedDateTime: 2022-04-08T17:02:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
         isCached: true
-  - title: "'Virtually no difference' between AI and humans in diagnosing prediabetes"
-    excerpt: "Deep-learning algorithms have shown themselves equal to humans in detecting patients at high-risk of developing Type-2 diabetes by analyzing CT scans of their pancreases, according to a research paper published on Tuesday."
-    publishedDateTime: 2022-04-06T10:33:00Z
-    webUrl: "https://www.theregister.com/2022/04/06/ai_prediabetic_screening/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/06/ai_prediabetic_screening/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/06/ai_prediabetic_screening/"
+  - title: "Doctors diagnosing fetal heart disease benefit from explanatory AI"
+    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project (AIP) and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting. Both hospital residents and fellows made more accurate diagnoses when they used a graphical interface that represented the AI’s analysis of fetal cardiac ultrasound screening videos."
+    publishedDateTime: 2022-04-04T14:24:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948616"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: "https://regmedia.co.uk/2021/12/21/shutterstock_doctor.jpg"
-        width: 1200
-        height: 600
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5737e064-4109-40bf-bfa6-e000c02df732/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
-  - title: "Artificial intelligence may improve diabetes diagnosis, study shows"
-    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study."
-    publishedDateTime: 2022-04-07T18:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220405102823.htm"
+  - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
+    excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"
+    publishedDateTime: 2022-04-04T17:14:00Z
+    webUrl: "https://healthitanalytics.com/news/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+  - title: "Explanatory AI system enables more accurate diagnosis of fetal congenital heart disease"
+    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting."
+    publishedDateTime: 2022-04-05T12:23:00Z
+    webUrl: "https://www.news-medical.net/news/20220405/Explanatory-AI-system-enables-more-accurate-diagnosis-of-fetal-congenital-heart-disease.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 9
 
 secured: "QEl7ahpAItrBkpOGJcQLfERzWTAJqM6QAbea8ekXKj13iyyvP7JHTJCjlXyZ+zVnw+My9m2uq+wOeixAaJFg6ZKbhzlkObiAJ9tLDG7QWykz0pb3QhRl68xPHNOrFHqE6Wc5QdMEN5RNdzP3uTRT/lUqGlRcgTwoZvRFwRT+MOi26XsGXF+vQxNn+JGyBPoUmNBJBVDiE7hgIAj4qJU31Funpz8pMsgkCc9MDeSLonDrWxui+bny/p2J9pU7tYwyRKLqrFcP6xL9VImggazFMujob0WNEU9gq9BahKJr4b4Nl2lwDrAzCUaiC3mCKYzS0O78xfaud4FKM8VWypEdyMwcv+DcK73rN7mDS64+ROrYH524qM4dcIfJShJodusJ4hWE2m+RxS2eI3TcPqWZzEYR5T3iAOoRljQB3T+m6DLqa7rR0uFYQ52LP9Mk8o1nJMf/6t6Sb31fMHd3VLZ8IolgAsPsTyf7Xb1BIgKu/uYtlZV4hsebjeLxs7ZCLHLRbRgku6k+2dCaJ16rhS0fRA==;wE4Xk815QUKhB5Ys0YYc0w=="
 ---

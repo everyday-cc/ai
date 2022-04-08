@@ -40,17 +40,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
-    excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"
-    publishedDateTime: 2022-04-04T17:14:00Z
-    webUrl: "https://healthitanalytics.com/news/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
   - title: "AI Betting Agents Weigh In On Reproducibility Of Research Findings"
     excerpt: "For scientists like Rajtmajer, AI bidding agents could help put individual studies in the context of a larger body of literature so they know if the findings would hold if repeated, possibly in a different population or using a different analysis method ..."
     publishedDateTime: 2022-04-05T05:00:00Z

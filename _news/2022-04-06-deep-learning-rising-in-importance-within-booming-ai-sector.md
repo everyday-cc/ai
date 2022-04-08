@@ -25,66 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "AI is learning how to explain itself to humans"
-    excerpt: "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human"
-    publishedDateTime: 2022-04-06T17:46:00Z
-    webUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/"
-    ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
+  - title: "Predicting and preventing road crashes with AI"
+    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
+    publishedDateTime: 2022-04-07T11:03:00Z
+    webUrl: "https://360.here.com/ai-aware-project"
+    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: HERE
+      domain: here.com
+    quality: 57
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/artificial-intelligence-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "How to Hire the Best AI & Machine Learning Engineers"
-    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
-    publishedDateTime: 2022-04-06T23:30:00Z
-    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
+  - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
+    excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
+    publishedDateTime: 2022-04-07T21:44:00Z
+    webUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes"
+    ampWebUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 56
+      name: Fox 13
+      domain: fox13news.com
+    quality: 54
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
-        width: 1000
-        height: 600
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/WTVT-Still-2022-04-07-17h39m38s402.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "Adding AI to museum exhibits increases learning, keeps kids engaged longer"
-    excerpt: "Hands-on exhibits are staples of science and children's museums around the world, and kids love them. The exhibits invite children to explore scientific concepts in fun and playful ways."
-    publishedDateTime: 2022-04-05T14:48:00Z
-    webUrl: "https://phys.org/news/2022-04-adding-ai-museum-kids-engaged.html"
-    ampWebUrl: "https://phys.org/news/2022-04-adding-ai-museum-kids-engaged.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-adding-ai-museum-kids-engaged.amp"
+  - title: "Combining AI and computational science for better, faster, energy efficient predictions"
+    excerpt: "Predicting how climate and the environment will change over time or how air flows over an aircraft are problems too complex even for the most powerful supercomputers to solve. Scientists rely on models to fill in the gap between what they can simulate and what they need to predict."
+    publishedDateTime: 2022-04-08T16:19:00Z
+    webUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
+      name: techxplore
+      domain: techxplore.com
+    quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/adding-ai-to-museum-ex.jpg"
-        width: 1360
-        height: 1067
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-faster-energy-e.jpg"
+        width: 1500
+        height: 559
         isCached: true
-  - title: "AI breakthrough explained to human operators"
-    excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
-    publishedDateTime: 2022-04-06T11:45:00Z
-    webUrl: "https://www.bna.bh/en/AIbreakthroughexplainedtohumanoperators.aspx?cms=q8FmFJgiscL2fwIzON1%2bDuKVdDoWIY%2fbZQiQNY3%2bYiQ%3d"
+  - title: "3 Ways Artificial Intelligence Can Help With Pricing"
+    excerpt: "Is artificial intelligence smart enough to set prices on your products? Some early adopters of this application of AI think the answer is yes. AI-powered algorithms help companies price items based on data like competitor pricing, inventory levels ..."
+    publishedDateTime: 2022-04-05T09:31:00Z
+    webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-pricing.html"
     type: article
     provider:
-      name: bna.bh
-      domain: www.bna.bh
+      name: Inc
+      domain: inc.com
     quality: 37
     images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/unnamed-e96ece15-2289-4681-a62e-9356e71b473b.jpeg"
-        width: 740
-        height: 453
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1260129922_498795_dfgr55.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "AiAdvertising Announces Partnership with Genus AI"
+    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
+    publishedDateTime: 2022-04-08T11:15:00Z
+    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8518747/aiadvertising-announces-partnership-with-genus-ai/"
+    type: article
+    provider:
+      name: WKRN
+      domain: wkrn.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Roman-Josi-Ottawa.png?w=2000&#038;ssl=1"
+        width: 654
+        height: 374
+        isCached: true
+  - title: "Gradient AI targets both underwriting and claims"
+    excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
+    publishedDateTime: 2022-04-06T12:50:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
+    type: article
+    provider:
+      name: Insurance
+      domain: insurancebusinessmag.com
+    quality: 17
+  - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
+    excerpt: "The \"Spotting Future Unicorns - Predicting Startup Success using an AI Model\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the established unicorns and map it against the predicted unicorns using the analyst's AI model."
+    publishedDateTime: 2022-04-06T13:51:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=642937"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "eWvFoh9nQyrTmMZOIc0RucEM0bS3XOqQ4J8thmpKoZd7ioFRFTr3yHvkuZYlIMDXvrs5UG4x8lMxgMcAPOdVCB19/MIIIC24vuYLj/zxlPrRD4iRRBSnOXnJJY8NEd/4v+Cbip9C9UCCZdAHIc2y3RfD8YY0ODSVLQPo4dBUCBN57a+b34AxgACuKF+SolD5SB2E/jltc8YqXMGfmCDKsNfRoOh4Ugt5FpkDDFl6aojOZo9FuBv3DyE56VXZ4cAxLyDR+xX0BZs2OnqhptIu+ylPQH81vgdMlL+AY7cr54OZC1Arsy2pVZh5OiJfUI8GdSP+ZqCzzcoPc1Z/D8HU+FYsWG5R0wknhELiWbyYyrituwdK06KCXs/Xg2hfTC+f6fWluL3+6gWX8rbHXPP9eEpa1Ajcz8YbgHUJttDZsQO1jxqtagUJwDdMTbz8csivPlkTirHc2CdoK9S/vRLG+eecS9Uzb1cmZW59woo2WZDg1DMGsEVRMUJXx5OMbMdxD53tqUjpmkp4iQeoSOg08A==;tDFV8Ah9nf82KWdhulmtbw=="
 ---

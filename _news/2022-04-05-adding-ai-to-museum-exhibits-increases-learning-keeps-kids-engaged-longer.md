@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-04-adding-ai-museum-kids-engaged.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-adding-ai-museum-kids-engaged.amp"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,64 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI is learning how to explain itself to humans"
-    excerpt: "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human"
-    publishedDateTime: 2022-04-06T17:46:00Z
-    webUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/"
-    ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
+  - title: "Artificial intelligence keeps kids engaged at museums"
+    excerpt: "Researchers are supporting children’s learning using AI to create a new genre of interactive, hands-on exhibits.<br /><br />"
+    publishedDateTime: 2022-04-08T13:40:00Z
+    webUrl: "https://www.dpaonthenet.net/article/190274/Artificial-intelligence-keeps-kids-engaged-at-museums.aspx"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/artificial-intelligence-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "How to Hire the Best AI & Machine Learning Engineers"
-    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
-    publishedDateTime: 2022-04-06T23:30:00Z
-    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 56
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Deep learning rising in importance within booming AI sector"
-    excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
-    publishedDateTime: 2022-04-06T01:40:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "AI breakthrough explained to human operators"
-    excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
-    publishedDateTime: 2022-04-06T11:45:00Z
-    webUrl: "https://www.bna.bh/en/AIbreakthroughexplainedtohumanoperators.aspx?cms=q8FmFJgiscL2fwIzON1%2bDuKVdDoWIY%2fbZQiQNY3%2bYiQ%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 37
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/unnamed-e96ece15-2289-4681-a62e-9356e71b473b.jpeg"
-        width: 740
-        height: 453
-        isCached: true
+      name: dpaonthenet
+      domain: dpaonthenet.net
+    quality: 17
 
 secured: "TG+9IzMx/xXpuyXHVo3GBuQUscx759WXy/HqH+OGsmtjj7PHyBLTIAUu77kSxE4RExYQnVd6tf2dTT5Fa06R97Dtpsk4/GnM+tithfATwGzARp5egdinEVfm32AhWQgAUvMC1df4y0/Q3DtdTrUNKEIRnAL/KUpasCV/o2y/KH0xqddlT32pJXOYPD18hY5EkjB9uTUfUkfdu4y+0kGDj05o+8GTHp8z2ClKCBG2TCEtqR8nXZZxTVzVZlc6FexFCMa/z6CuE607wBxddVThDtsUD/RgvyN3EDs1nprm6z6n2QH0NTytlAffV66JqRfYZxcm3GJM3Jo7K84S7Cq1l7Ba8yEvhTWIiE06VFPqGn+ldL7g9QqkpM85C4Gf16cKoTt8lgcYY9OnkgfiCo9vgMOSVqz/MdGsmqotLB3gUthVvhAH0dGnbLQeZcBk4nKQGoiWVgBW2i9nBgL6YXLkUFmc46TR7wcou/elFX3/7uYGUYkbNcHY41eiX8hB8Nn+J7BdRsjpqWkcCAfUdBS07A==;ZMgri84QUa3YvWVKMf6Zww=="
 ---
