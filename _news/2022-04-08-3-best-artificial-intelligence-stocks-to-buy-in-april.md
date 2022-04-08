@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 related:
   - title: "Hats Off To You In Recognition of April’s National Child Abuse Month"

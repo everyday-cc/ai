@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Digi-Key Electronics and Analog Devices to Host Webinar on New Edge Artificial Intelligence Use Cases"
-excerpt: "Digi-Key Electronics, which offers the world's largest selection of electronic components in stock for immediate shipment, will host a webinar in"
+excerpt: "Digi-Key Electronics, which offers the world's largest selection of electronic components in stock for immediate shipment, will host a webinar in collaboration with Analog Devices, Inc. (ADI) on Thursday,"
 publishedDateTime: 2022-03-28T13:37:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use/article_89661c54-bd22-58ac-add7-5c13f5e70175.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use/article_89661c54-bd22-58ac-add7-5c13f5e70175.html"
+originalUrl: "https://fox8.com/business/press-releases/cision/20220328CG05440/digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use-cases/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220328CG05440/digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use-cases/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI
-  - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/1e/b1e399d8-9d40-53c4-8118-2482507b8b49/612cef6fa04be.image.jpg?resize=850%2C500"
-    width: 850
-    height: 500
-    isCached: true
-
-secured: "e4hQG6HnO+1uNPj9mc3FS7wOPoru2txk8gyVmLWRDTPt/Th/muDRQRBgKqDe/6TrnvsWzRLDKwDNNIadD13WiG1hWpmlkULn7K3FFIE/aGYR0rEE8uWNCGumcHcZd2UiketuuSKZSh0T/Grz2jc4UCv/vhEdVJE/stxzC3ygRXE3sMUaFG8Qh+3571ogBBBTV4cg4+XGq7n9ED+ju6qAlwtZwRw/BbOECE6Q3WMEDthg7I4s0axzrJGDKPMtFQ1Cj9+wZ1WSkKwsOs/SYESQ5u9UbPYs8ipV6BqszzhrzCvJy9yTMAeTB8TESjwE+tLAZjoGNR1Q5uC+ntJl+msdsobM0QKQ6Zifx7tnJiA04g1NHA7B9f/ChPDCzWC/mJ2wvbE8THdJC1SueYzd0l7+CE69E34pHDRZCbHe+dpcwFcmTrxSTK+9MTQ2cjSCHGb1ErlvGoCP/AJLc+DvW6Y2m67CF/gIlxtH76dXPjL/N50JGcOTQT6qt222l/ms/psRUkU4m0bCP+dL+e5Q/ztlHw==;HjJU+5wSbkn4BaFamaLqgA=="
+secured: "nyFRALoq26/HEfaEe2QwpAUh56bdsLGeeBWW7ZCQjJ8fur463ZAWTDAPmno5Nw94a98K8azbuIERRbx2sdYbiyERmhEpIFE87FpDA5iC4vcnvj1VNIXDM8TMGHJj2oY3JwrIomx9qKXb0kj+DKQtUayreh4LQliO+tFnVv97TVf0BTuW1i/BTba7WfgkvVhi3B02h2M6JvX9Jmt21WpddO76eDFmrFinWU0nIM/5x50GyxMeoUdDUIolhnBZhXwma5WkDg25j+c277HhW4y8z2PzTHB/lo/680C36GeXLmvzvwuTqv5hFFpud+t0kqvK5yM3fycfJUQoU9zKE5BWtJN2TxVKfhUmAs084t5cWm4=;/cE9Hwqblps1E2Xgy8E2lg=="
 ---
 

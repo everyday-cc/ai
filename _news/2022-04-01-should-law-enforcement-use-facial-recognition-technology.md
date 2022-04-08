@@ -3,26 +3,18 @@ category: news
 title: "Should law enforcement use facial recognition technology?"
 excerpt: "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate."
 publishedDateTime: 2022-04-01T15:07:00Z
-originalUrl: "https://www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-webUrl: "https://www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-ampWebUrl: "https://www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+originalUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+webUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
 type: article
 
 provider:
-  name: WTXL ABC 27
-  domain: wtxl.com
+  name: Fox 4
+  domain: fox4now.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "dU0nJ71tSU9US2doN+uoRvaAPk3E6hNy0zvi1H+DMFQJ7LfANCWSf+AWkkUIHVw+c6Bf9Z/kpMH2XN4eQkk16cBZcVHvH2wtg25zTy/zK+SI3tzaf60MU0l3VenFJAjFUstFvfvOMCjbe0wWI9nfRDfs2SUgIplmDZU8L33j7uMLPHSv66Di4VSuRMN4lrEDiWoYZljMVWDyBHRZ9sHzxQlJhEi1WurDMReWH6weJhsVXhgMYNknyoI8nR5QKMZJHkOI0XTm04/PMoo4zok+hFUqa3zbR5VkiaSFSLkpEgbCUMdmBWKHTGgBeeezbeCOl3ach6VzoRD5r7wxClOE32sLUepdazzorIKWSlFShcg=;ay8zGHFindQ7qsGwZcBM5A=="
+secured: "JJMdY0MLOxRub+bCeZaloaWIBTnH4IgDelT4FqfXjEmbPZAWjPVTc/XWhxmlfIkFfVyq6zuTCTi5A3fhJ3xHN7JLkXXfDKMypNQmTKOtPMzRtokRf4C6niycAeZBxQBbpKjwJwE1oPnBeh3Kff2wZCuthwilt6Xp95z/7OJsDsbzC9EOXUvZtA4sGsm3fLtFIwLOUh44asLuIaIxcDm0izfKkTuXWd11DJ/r71hiY0brlGsytZ0BGpxViASNVYyMqCuWjvvxaTZzN4/bW9ivupiALvt/hBje24/cwmKkx2z2iHgkOZ6n/L/iDPq8u1rNUmLxmPi/K1R6hynUo9Ox/Z0XUj9Iv+1PaYsN495txwRPr7vCXnNrgPmo6ha2tpfpba18061KotFp0QtyLzbVPQZp90kq/czEpa5uZgrwDYtPh9LwZC6bFP3CDc+Kpbp2RA1vr7mxZeSvQA/uxH9uKi3kmfLQiHOcpTSAexsg/erBqXJX/EygvNA/B/e7TSGAZp5MmS+pCjmfs4Ddls5jYA==;tpaEG4mh3esxWG7zNGUVtw=="
 ---
 
