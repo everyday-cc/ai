@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 713
         isCached: true
-  - title: "UAlbany looking to make AI part of everything it does"
-    excerpt: "And Thenkurussi \"Kesh\" Kesavadas wants to make sure that the University at Albany - and the Capital Region - take full advantage of all the opportunities and technological advances that are coming with the widespread use of AI in society - a tech revolution that is  taking place whether we are ready or not."
-    publishedDateTime: 2022-04-03T13:00:00Z
-    webUrl: "https://www.timesunion.com/business/article/UAlbany-looking-to-make-AI-part-of-everything-it-17048647.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 19
 
 secured: "J41+SjAnVoznTqigPo3++o2FovIMmz4egjWIKTH9a95p0H2Za/9wcnYKB0VwpIjxZwNaUzpoMlvlYtx9mbWRySSQ2ycCYQ6dsXOkbLXmUETORjLCpfDX0N6YcGp6aeR4dT8OHKxFpdaH7H+1C0/17JaPPkGaQ3VihVo7bW2CKcq6/UizpjNT6Oq2MNEqCuGvwRRVd7VX22r5NnyGorV3WD520aCBELLkw3y7lswRypoDbaCYucj8w2BBXt140lqD1jEt2t7pXkCkFLnKCB4/80SOEGwmjAhugxIjRLqvnqDC6JzEIK0EGDuVvfPMz3iQQkMJpaTYzictGNDw48pJZ/O1h0KwZHWvECv4qg7Mv85SKTYyL94bwsuVo9pBYEydkwXToc1lFrd17Do1FbyOu68GWQ9o6iznI3olOPll+O3FmTJvm54xiIkZwaVDKiOaIBHmMYyCbHJHza25g5nz9DtNRiYA0KW/65PEc9Qy7+X5Ged3GRvEnh7iX+6B7IQkh3vhjPX0ntfbCEyD97Ti7w==;sU0fxMJ0Abia/tzBoufIAQ=="
 ---

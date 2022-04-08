@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
-    excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"
-    publishedDateTime: 2022-04-04T17:14:00Z
-    webUrl: "https://healthitanalytics.com/news/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/yale-researchers-develop-ai-model-for-heart-condition-diagnosis"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
   - title: "Explanatory AI system enables more accurate diagnosis of fetal congenital heart disease"
     excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting."
     publishedDateTime: 2022-04-05T12:23:00Z

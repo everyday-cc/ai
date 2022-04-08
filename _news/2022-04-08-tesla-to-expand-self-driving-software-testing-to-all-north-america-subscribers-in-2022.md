@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp 7203.T unit Woven Planet is following the lead of Tesla Inc TSLA.O in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data ..."
-publishedDateTime: 2022-04-07T17:12:00Z
-originalUrl: "https://www.nasdaq.com/articles/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras"
-webUrl: "https://www.nasdaq.com/articles/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras"
+title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
+excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
+publishedDateTime: 2022-04-08T04:35:00Z
+originalUrl: "https://www.straitstimes.com/business/companies-markets/tesla-to-expand-self-driving-software-testing-to-all-north-america-subscribers-in-2022"
+webUrl: "https://www.straitstimes.com/business/companies-markets/tesla-to-expand-self-driving-software-testing-to-all-north-america-subscribers-in-2022"
 type: article
-quality: 49
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/08/md_teslacar_08042022.jpg?VersionId=TwYKs19UQiir.gvLsqJlTVOX9vH34N9_"
+    width: 860
+    height: 573
+    isCached: true
 
 related:
   - title: "Toyota partners with Tesla to develop self-driving tech with low-cost cameras"
@@ -35,6 +41,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp 7203.T unit Woven Planet is following the lead of Tesla Inc TSLA.O in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data ..."
+    publishedDateTime: 2022-04-07T17:12:00Z
+    webUrl: "https://www.nasdaq.com/articles/like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Why Toyota’s camera-only approach to self-driving is a bad idea"
     excerpt: "It ditched radars and initiated a camera-only approach, dubbed “Tesla Vision.” And while we’re used to Elon’s unorthodox methods, Toyota’s decision to follow suit is definitely surprising. The car maker’s self-driving subsidiary Woven Planet will be the second company to adopt a vision-based strategy in pursuit of fully autonomous driving."
     publishedDateTime: 2022-04-07T18:34:00Z
@@ -44,20 +59,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 34
-  - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
-    excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
-    publishedDateTime: 2022-04-08T04:35:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/tesla-to-expand-self-driving-software-testing-to-all-north-america-subscribers-in-2022"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 31
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/08/md_teslacar_08042022.jpg?VersionId=TwYKs19UQiir.gvLsqJlTVOX9vH34N9_"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
     excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
     publishedDateTime: 2022-04-07T12:00:00Z
@@ -86,6 +87,6 @@ related:
       domain: indiatimes.com
     quality: 8
 
-secured: "Q+AWLbfEQE8o7ZIBkU8eXEb1xEeXg3nY1mr17HuZzVEIoP8RrNEyUlutwooy6Y1/kWxyU79u2f7sVuhqJy7+Nj+T11qlAGMZq1FUnxGT9Bbh7lHfaPnz1mHIUM0Ba/U0wKLLUd8A7Y222slxDMAkPj0ZezilaKpi4MCXB0bvBUi0jCohKM+lghxbewue/Lp+qZ+voLHluj055iqbw/qV7NHGncF35YtCJWX5ToxDeUZAh24e3VWvG11pgi0DsHZYdvod3dcy5J+AkqaSEeCGWwAnuMl52fMRnwo+te6qrOhW55b5ofp+0cfQ/J8boaRH3gS3mC4OQY+G8qRfDHRMHdqnyWpa4jPrxQbVcprMfiAUjNkYztzQx+jmYbo7gSj78/RaOu6JIRcDIzVESB5KkpDubSxWfG1pxKZu8PKRmDzf71kKJJftfkXT8fVqBTdARYppPSTcnlffMwLChtDf6zBIipjYifXtgL8jR6+mKeOcXZdz98Gbwkfq6aI1MTg/xJRQJbGuDACGqlOFgpFTMg==;+/Yigm3ruWm6/nMUcZyYjQ=="
+secured: "bD9+roraagA+Px2UbkYviLftUtq9LIMaHqZpdYiID2u9zecC+opGR0CAqL3O9RVEqrUm3G3ZUcJUKDEcCzlKtEuY5oRKpLf9zmOh75LOK5iPGX9Wy/VmytzQJbeX7bbSkpaKiqU/w4pPUl9dHRt+10dwRSZbazoXTbofCRK+oTT8bbYY037jtj3vZzZXeYsBDsMk3JgPhSJOHCZ39lHZevhbkdubxunGIERbX1uw1JYHXwme5tnv36mz94rn+EpiF+M2IRka/ZA4eguviXJVVm5w0H3aZbFIbryoPoEJ4lXPFkmtvG2uwRn0gOnA7ipEe+i+8moBmD/7djvczgwnrA8hJu9A7QS/SfU2UXywb3Y=;f/ALvcZF+4sXKI12RDYdAg=="
 ---
 

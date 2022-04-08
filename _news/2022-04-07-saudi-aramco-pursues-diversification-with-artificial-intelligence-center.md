@@ -38,15 +38,6 @@ related:
         width: 624
         height: 350
         isCached: true
-  - title: "Saudi Arabia issues new start-up licences to drive $608m investment, create 2,400 jobs"
-    excerpt: "Saudi Arabia’s Ministry of Investment says licences are evidence of the kingdom’s burgeoning start-up and venture capital ecosystem Saudi Arabia issues new start-up licences to drive $608m investment,"
-    publishedDateTime: 2022-04-03T13:00:00Z
-    webUrl: "https://www.arabianbusiness.com/startup/saudi-arabia-issues-new-start-up-licences-to-drive-608m-investment-create-2400-jobs"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 0
 
 secured: "shT2Bd2cIOq5z+RGm4OgqyBh1cYAaRNw0wVQuFcCKqzMZnE7tG2yxFJlcxRiQeUxjkVjFgJ+XeFNnI/JA/fWb9+8Nh03mGva0WNur4yhLOh4PmgNmLyo3akJ9TeooA33q0WfjjJizPU5czEzfCbj5wDG7VvGE1evR4Dw53chh3u/7iAecIXnqdgzwyQGLpTvjvEl5dQVstGV+/eT6gtI07ceAG9oU9mCQJWkcAC9FxAJ0IQXlKUhTflhU9MZXlTPb0uZw4T29wrE+d8iP6ijA0kF359wHFFcdQPVIJisoD1SOW393BXVTiWwyRVOpkhMNvhPvGn76/OWza4eKnJ82XffbRi86lpNF2RHSCNlJnG4MYRAUMVVA65VU14pjDvXS0Vw/rqHxfsZ4e9jBLeBIxdQfpV86TNEtnc/bqTemakCX0UxRbnSs4M9Cn/IUCag7/Fzc6t4EDWYVRmfl2XsKDhfgSvXYhlSBVm6qjUePLP5ZSDelEK9RdeD1EhseuKWD6of/vf0RBo3KLCUXmtSPA==;6mCuBy0UGKHs/oIVslvk1w=="
 ---

@@ -12,7 +12,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - Computer Vision
   - AI
 
 images:
@@ -21,6 +20,6 @@ images:
     height: 2000
     isCached: true
 
-secured: "oqoq1O6iubtZZ80TCtMN231NqpKaumPcnsSRMduVrg/j+Ge1h4/+SX4jsvpNlkzf168CP0G4Yg+v6Tkb3qL30iU2qTeTb9zE7HrmKC3cSEn2zmsx9fMMdwQP6Cpmz1cdD6/hCW/NuowYe3oUnN8BH/DLpOWQ1oLbG/ieorarCDS7/xOk36wwsvlQveR0RKMSHKNHr2ruNGAgEIyr/Q/4X2vnGZ9ibv0t1i+hn84xrV9RoWNbJ41y59/cJ0q6GPl2GDzKk8A5oJ+SnHia24WbX90bQDQiB/GNPyEzk5+OeocxP9mXl2ptQRbCw+6JcyDZu0PVtpBMC2bU638A7s8L9fMf1zgnkM5ohwLFqDMyjK0=;ZWPOWwNm876F1SQxTKHQtA=="
+secured: "WO9872Mvl83J4bvNbZAa8vUFT2g21+fn8NKLc1QpKZS364cTtZr+qUkOYtoEIwYf/2ThgnBmg3r2f9fB/esQRBLSVf44anhdgrPcLm4zTWf7ImfLyTxG7ylM4U01dxHfW/1FRbXhrVllfrRWm0bSfev9l9NjY3IYQY7zYCXUWPLHitb+IJXFZ5WVNSjhrYdBMAMI0h3IqNCluetvitSygBAQCpQRE3KMICRWrFyCyIxtndZc98SuDXOuoC0Fz0eCcIxtTQsLEc2nFZ29+uvWqbE+IUxU8j0MUQ4Nv5nGOxcHclvki7jYyJCwexBTwVn39DlqECbSZAAOJSxy8FxD6/nSR7rsSwC8pVy5ltW9Rts=;UBMxc+4e6eyvN74KMKcXOA=="
 ---
 

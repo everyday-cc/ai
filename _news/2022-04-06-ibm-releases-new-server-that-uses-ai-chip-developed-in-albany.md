@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesunion.com/business/amp/IBM-releases-new-server-that
 cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 1200
         height: 713
         isCached: true
-  - title: "UAlbany looking to make AI part of everything it does"
-    excerpt: "And Thenkurussi \"Kesh\" Kesavadas wants to make sure that the University at Albany - and the Capital Region - take full advantage of all the opportunities and technological advances that are coming with the widespread use of AI in society - a tech revolution that is  taking place whether we are ready or not."
-    publishedDateTime: 2022-04-03T13:00:00Z
-    webUrl: "https://www.timesunion.com/business/article/UAlbany-looking-to-make-AI-part-of-everything-it-17048647.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 19
 
 secured: "PPGxco/qvn0jNFDLAPszFOlK7n9CKy9R/oLG1WYZM8ThaGrwXFXJjFMiJOeZN4MBjMxflo/xzVh8jMhnlCT6yV2vtb0JpTABEjNJA5eC/I9agqx0bDp/Q4nuPCLYjhGqae3M9t1rlqSd0iQ0gTnrLtcjhqLgUGyNYj6v/aam6mt6KDDjN+b1kV8xMjsf2qyI5qEbRwa8PNSGosIUUsW6BH7b3woEEAZyTjq5e4W4487GILdlpW8MyEgx5MlOgAO0LyAMrdWpPG7jZvdNHYJtdtrHw3VekHYubHBJMnAmaOYmuUHww61iBKU+2KMNeAuYlUap+83p5eOt3iHvp2HPM6v3zpgMLa4pUhUd1wbgcxGShCx0nxk1CSbpJTEUHbb1lfaVX3fSi0MpY0nNrW2S9PI6V/HFeKQC56hjK5WdTOyLync+SVqHc7NRuUsC9uuh33LTzJwABDI4kazs8UERhgrhtV0rLVVtUTTU9sp7re0uTSrsN2kPmOxWkYagiUWG3f4C+k+tyWncXq+Jvr3t0Q==;KPZi6RbyiEew1RRLflwWPg=="
 ---

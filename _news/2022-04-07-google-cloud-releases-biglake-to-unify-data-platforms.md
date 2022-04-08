@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-bigl
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

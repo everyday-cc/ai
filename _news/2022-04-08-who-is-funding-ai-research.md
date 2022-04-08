@@ -1,37 +1,30 @@
 ---
 category: news
-title: "AI Betting Agents Weigh In On Reproducibility Of Research Findings"
-excerpt: "For scientists like Rajtmajer, AI bidding agents could help put individual studies in the context of a larger body of literature so they know if the findings would hold if repeated, possibly in a different population or using a different analysis method ..."
-publishedDateTime: 2022-04-05T05:00:00Z
-originalUrl: "https://www.bio-itworld.com/news/2022/04/05/ai-betting-agents-weigh-in-on-reproducibility-of-research-findings"
-webUrl: "https://www.bio-itworld.com/news/2022/04/05/ai-betting-agents-weigh-in-on-reproducibility-of-research-findings"
+title: "Who is funding AI research?"
+excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
+publishedDateTime: 2022-04-08T05:30:00Z
+originalUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
+webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
 type: article
-quality: 17
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Bio IT World
-  domain: bio-itworld.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
+  - Google AI
   - AI
 
+images:
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
+    width: 896
+    height: 504
+    isCached: true
+
 related:
-  - title: "Who is funding AI research?"
-    excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
-    publishedDateTime: 2022-04-08T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
-        width: 896
-        height: 504
-        isCached: true
   - title: "DataX is funding eight new AI research projects across disciplines"
     excerpt: "Eight new interdisciplinary research projects have won seed funding from Princeton University’s Schmidt DataX Fund, marking the third round of grants undertaken by the fund since 2019. The fund, supported through a major gift from the Schmidt Futures ..."
     publishedDateTime: 2022-04-04T21:00:00Z
@@ -57,7 +50,16 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 37
+  - title: "AI Betting Agents Weigh In On Reproducibility Of Research Findings"
+    excerpt: "For scientists like Rajtmajer, AI bidding agents could help put individual studies in the context of a larger body of literature so they know if the findings would hold if repeated, possibly in a different population or using a different analysis method ..."
+    publishedDateTime: 2022-04-05T05:00:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/04/05/ai-betting-agents-weigh-in-on-reproducibility-of-research-findings"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 17
 
-secured: "VQyeEF/t7f5Imj31NkQ9sv9sSg2UbSUlLfc/oylfasMKejPoHpA0fdgmzgbvOQi1C0qCeaI6BBW2/Fma9U9NyudtolslSjp9Ld1rbvU4FpWB4Nhct4RRcmxOua3cz5liFL88mtI2WxBZ2peelKaFnva81SohzbTpS15VRRHgW2CDBJ5pXKkXg0HyXHJlmVyKou049UI2/P7kYvgSjrziHleApDLrRwH5Zqn4tz927RRcECVHjeF0RXa01LJ0C3PZuaQDdjd3jc3eJjrGyNfcrnPFrZXLe92a0111P4OkSrG3RJLzLsWdk3ZvCGJnUywuC4DSqd5a1l9iI8rv4rmytHoZw77xOrLS9wKspEajT7I=;cFhW1bShwtRRzBwwAx7ToA=="
+secured: "NioPS14nqigWSTvtBzOAtcg4P0GP9bUPLLpqQ1Mtz7LuiN2tvxzWq4PwPntF+csVpYrINpapCEzB8ljs1Ar80BrFfECe+q64q7vJYUN3Q0PQlNFTHtdiV0VoUBxAa1aGl15HrGord5+D3xf9pU9jSTJTNZ0wAgT7Kq/9BOzNCIJEtokZT7zb06ZhNA3u0SIkMsdIi3lwq8Df3uOpeHczfqQnF8Kdpvz3SWzxKLRWWgrxK742HEfkUZV/KKKNtSseoFcrPa1LHgdCEAUiL2CL3OhiILpvjHE+lyQHk13o6R646UF5bq2EpRMRL4YM7W65mEaRmacEAPG2/2c42REPbylAYtbVdTZzt2wlFAoY6uA=;8vNN6D5iDj2aKYH+Yx90Cw=="
 ---
 

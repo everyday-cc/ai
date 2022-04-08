@@ -53,6 +53,20 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 34
+  - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
+    excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
+    publishedDateTime: 2022-04-08T04:35:00Z
+    webUrl: "https://www.straitstimes.com/business/companies-markets/tesla-to-expand-self-driving-software-testing-to-all-north-america-subscribers-in-2022"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 31
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/08/md_teslacar_08042022.jpg?VersionId=TwYKs19UQiir.gvLsqJlTVOX9vH34N9_"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
     excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
     publishedDateTime: 2022-04-07T12:00:00Z
