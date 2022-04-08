@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-rob
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/"
 type: article
 quality: 120
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Elon Musk says production of Tesla's Optimus humanoid robot could start next year"
+    excerpt: "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday."
+    publishedDateTime: 2022-04-08T09:19:00Z
+    webUrl: "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 101
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "4RENT4uPAnwdAVoYUjK/h7iY2rLx+wtqZSLVu6DArYT6+hsDhIY39O6+eie8BvHRC9jeSRbuaYGKyplNWNYjkF/YbcL3UrAZmmMhMbN5J3QnUonLmkxo9ongQO3mh4ioCVrYkD52oz0IWPlz79g7N00BXrmLV0D/9hQoVtnWlN/sMZVk8ri/GLFyP1cN72fKODuSPoWLYu5a5booHnyOJph+z2yQTXW3eZ0vadwk5yvf8oahoLr0SMs6eZI1I8qxsiVClaNpG8ZBaqH+8/sBhENBWDd/MyIToTacmx+QIwlElQ3afVQlfkuXICUl2+dhS8Qb4eymP4u+/kaDkO94mkozJmpBTayCDoJRgopXLKLtYRUyO41cjTKtHV3wvc0WxJnDVOwahJMTVFGhI1headgPyMsFz6nZNhbxDocOkiB0Ja3RcYVi0RrRZ6maYDAizgbw6orcGY70zyp7OxRQMJZu48pPc6O+gAeRyaDsecKDBl3mP0aE+n5IHooUqqTw7m1UlNLeEoUzB1Jee9MOnA==;8fTf9tXP3SfyroL8EEpHjQ=="
 ---

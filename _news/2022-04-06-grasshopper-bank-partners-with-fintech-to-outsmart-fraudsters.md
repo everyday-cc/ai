@@ -57,6 +57,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Meet The Fast And Furious of Fintech"
+    excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
+    publishedDateTime: 2022-04-08T13:07:00Z
+    webUrl: "https://www.entrepreneur.com/article/424292"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 34
   - title: "MarineTech funding set to explode, following course of FinTech"
     excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
     publishedDateTime: 2022-04-05T10:34:00Z

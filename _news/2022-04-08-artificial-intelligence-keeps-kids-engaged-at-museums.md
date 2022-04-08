@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:40:00Z
 originalUrl: "https://www.dpaonthenet.net/article/190274/Artificial-intelligence-keeps-kids-engaged-at-museums.aspx"
 webUrl: "https://www.dpaonthenet.net/article/190274/Artificial-intelligence-keeps-kids-engaged-at-museums.aspx"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: dpaonthenet

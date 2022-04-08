@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T09:00:00Z
 originalUrl: "https://www.courierpostonline.com/story/news/2022/04/06/merrill-reese-lends-voice-burlington-county-animal-shelter-psa/9471446002/"
 webUrl: "https://www.courierpostonline.com/story/news/2022/04/06/merrill-reese-lends-voice-burlington-county-animal-shelter-psa/9471446002/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Courier Post

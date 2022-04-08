@@ -79,6 +79,20 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "Neurosurgeon's startup hits $1.2B valuation"
+    excerpt: "Artificial intelligence startup Viz.ai raised $100 million in its fourth round of funding and has reached a valuation of $1.2 billion, the company announced April 7. Neurosurgeon Chris Mansi, MD, is co-founder and CEO of the company,"
+    publishedDateTime: 2022-04-08T15:00:00Z
+    webUrl: "https://www.beckersspine.com/spine/item/54048-neurosurgeon-s-startup-hits-1-2b-valuation.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 22
+    images:
+      - url: "https://www.beckersspine.com/templates/beckers/assets/images/spine-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Nbf74iTp37xdj4VNtI+W3vvh/UMaDKdu7Haz4riu9kFGxWo0QGeELyH1nRrvnUy8I301ZF2fKuen1TIlva0SYekcYKfnkKSKiuv3NpADx4V7g72Tb1Nc+xbl3tO4jrawU/NXFw9nenJHsoVJ6s8VOg57hWUvJPK6sSaqbn4x73tcACSzynj9PtzuFFsa5FICD7SulsoN3BaWz6Q2B4zV1ykXqsGEafJ/l1gz6+5jy7y4PXMZKMgXgj7DMaUmzB3yE7I0B2z8gl2ETWGMF709PD82YoDpVP16rQMFSMMzGrpIkQ8H3/cJBTJQSWdAHEEr5zHcm9SyUTy96o7L24PNGk2sH6IbisQGDy8JMT4/EqOeT/nwU3q1xXY1pGJwq11/aeJSzWunSITp6mhPuOizRLOKx08H19QeE1qCD7U9RY2QYouUszFH2bJxiSdCLEaA4+O93MCiOzKS7mkXEPsNJbstRMW5lWa4NbKBhJdb10dltuAkfeatIEj9ohip84SsneuQIFMkhSmBKnlLn/68Cg==;5GBv23UxkcuZlWZIo1c1Ew=="
 ---

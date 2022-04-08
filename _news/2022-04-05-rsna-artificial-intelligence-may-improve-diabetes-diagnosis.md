@@ -1,15 +1,15 @@
 ---
 category: news
 title: "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis"
-excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in"
-publishedDateTime: 2022-04-05T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
-ampWebUrl: "https://www.benzinga.com/amp/content/26480381"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381"
+excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in the journal Radiology. Type 2 diabetes affects ..."
+publishedDateTime: 2022-04-05T16:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
+ampWebUrl: "https://www.benzinga.com/amp/content/26480242"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242"
 type: article
-quality: 59
-heat: 89
+quality: 57
+heat: 87
 published: true
 
 provider:
@@ -18,7 +18,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
@@ -67,6 +66,6 @@ related:
         height: 250
         isCached: true
 
-secured: "7qAADsfvsm2zyQwIitULJNf5CEsJbd27uhRn+YjV7GozEq8xNITRkyurR4UzEHT4ZHGyRTNBRCaUXYm3IoxCzE+Y9IikSUBG9r4nDuJYBz/ytlpTSXoG+4I38DiBX1XhodEeit/P4enIFGtGVyRdDQbBn3Gac/rq/eqIoIt2J6aVY4A3Ocw86Oq2ZEEx+i3bJjz9kPmAzjf/NbRjAhq1+GDtyVoFbRL8FKCJhKpj9lretUe8EN/Wn3o+/UyaThTDcS/eo/Y7uMpwTJMR0Hw7lRvz/KxZ380EcU3twRVx0zda2uBC5vX+Yoc1En2j9JtkCqc9acDODvP8Pnu+UCFRMRlk3q7Cdtv1sSEUjD8u/YLBj0vRNQiMJ6SqJsGQZYJfEi38/ibGTMxGY3Lay8oFXvbjNwsCNNZ7g1VTCh039nbW18kgioe7PkrJqIPKmkd3z41/YyU+BJShgvSvH6yYanQDX1su6ULNtQIdrx6GROjiSEiaegPbPMUCcxhxsOEsBc5ju/AfgiSRGOohlotC9Q==;2/HdzzssLYfjrHp7Mdy+Xg=="
+secured: "dFFAWsVPskJGm2XqIXTGKY9kmhrWT0JT/BLe2lnMehlvBkpyxNEcHIfzFFIvr5uLFwKH3FEJuH5SqV29zmbVm/BIG9WtFlOvZ17t7xIfTjqLWJ1Ykw6IVJgH/BcEtq+AtrACSsDdZP9Y0Ny3B4Yfo9g+nh44YVOlo/7xdtX+mHWX1RSn4ch40mgWhI87le7kej1ht+sviWMIZ5/08fCHLnuzbHNLfGOLt60BqtZkvyjeUiBC0fcq8SKW+Fcqnk0ddq7Lhn+MDcbSvJFyjXfs3vsSoX3m0pxJChUVZ0o5CEkiuTyco/zammxs2DYPpK1Xh8Dkhx5KKZhlfAIJAd4gzSaL4f+OeXepJePqxrrRS98=;w/oSAUMze7o5mNHiLo+zEg=="
 ---
 

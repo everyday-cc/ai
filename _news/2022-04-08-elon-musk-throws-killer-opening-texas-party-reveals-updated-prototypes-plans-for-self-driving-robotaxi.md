@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T12:15:00Z
 originalUrl: "https://www.bizpacreview.com/2022/04/08/elon-musk-throws-killer-opening-texas-party-reveals-updated-prototypes-plans-for-self-driving-robotaxi-1223011/"
 webUrl: "https://www.bizpacreview.com/2022/04/08/elon-musk-throws-killer-opening-texas-party-reveals-updated-prototypes-plans-for-self-driving-robotaxi-1223011/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: BizPac Review

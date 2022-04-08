@@ -79,6 +79,15 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
+    excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
+    publishedDateTime: 2022-04-08T10:17:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/979273/guardforce-ai-partners-software-provider-blue-pin-hk-to-begin-robotics-solutions-upgrades-in-hotels-979273.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 35
   - title: "Guardforce AI stock slides on pricing $10M share offering"
     excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"
     publishedDateTime: 2022-04-06T13:46:00Z

@@ -44,6 +44,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
+  - title: "Teaching AI to identify colors in the dark"
+    excerpt: "A team of researchers at the University of California used deep learning to enable limited color vision in the dark. The group published a paper describing their work on the open-access site PLOS ONE."
+    publishedDateTime: 2022-04-08T12:04:00Z
+    webUrl: "https://techxplore.com/news/2022-04-ai-dark.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "zt+sNPKkh6uCAlNZQ9d4HzJmqQII83UHaAEJXM4Hs5rfi4Y4Vn88mXyNoDr+0VEIuNt+xcgivMTGC67OTLMjYakuyvJGubKMBwRrFdZ5Hs3c5NzNR4iVUOXetbF7su47Kac+kW8mxaKZJ/yxgjIHS/pZSjPR49p9sgGpGQwtvS9xxS3S1X1iQ/YJ86oBcdM8MXfF9M3cC5OGgSo5OxNqpSfGLlqsCaFIjjnCfQHsdYMFkKxVizgJ59PmTGhE1X05+tv/vp2EvnNylr+5sUGYGZq46sc4Crth8ZHto0meEgPowPp/aT7fWgFZbaAj27D6zL9PLslPGWHKccAx6wx4xi7CL21CauOGH8jnLLHNJs0=;6Mr6QqHoYZozAwBLWQDmAA=="
 ---

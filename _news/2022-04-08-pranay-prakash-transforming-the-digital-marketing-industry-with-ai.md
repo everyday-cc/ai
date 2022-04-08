@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:40:00Z
 originalUrl: "https://www.ibtimes.sg/pranay-prakash-transforming-digital-marketing-industry-ai-63859"
 webUrl: "https://www.ibtimes.sg/pranay-prakash-transforming-digital-marketing-industry-ai-63859"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Ellen

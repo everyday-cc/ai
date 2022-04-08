@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103960112/Thought-leaders-and-early-adopters-o
 webUrl: "https://menafn.com/1103960112/Thought-leaders-and-early-adopters-of-AI-to-share-insights-at-the-35th-global-edition-of-WorldAIShow-Dubai&source=30"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Rate Insights uses AI, machine learning to match freight for shippers and carriers"
+    excerpt: "Truckstop.com’s new spot market rate tool will be released for its load board and premium customers later in April on its mobile and desktop portals."
+    publishedDateTime: 2022-04-08T13:18:00Z
+    webUrl: "https://www.fleetowner.com/technology/article/21238515/rate-insights-uses-ai-machine-learning-to-match-freight-for-shippers-and-carriers"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 28
 
 secured: "3tFmkbU6xLVQSaZzF7pdw+nW+MEtgYKIVdHbu0m9KMxhs5XuDtAse9411+4X2K59vaJwi4WexrKU+bx7MacZ6ViYvZQGN90ltRszAXWJKUrQgz2qn15uftQk8A46Q4ETmBPLQexjPRHWMXgkl8GXxM5T2Ix6TbTzu7AcZReDKUw8Qp8IoSchHponXlJg1Yv0jkSSRSMoDII7LlvkyKKeky+y67N7GKFfg2HhekCMZKTvv1SF/Iltf5MNNYdByh02//fqKfOsPZyPX7fmAGj0oPISDy/1AjdTzz6EpGOjvhVj6JhNoHeg+NMc/yuuE1HNabj3Np7Pwhz4VMhelvU7eufR7nNHD74gmvpAh5I1un0=;SBjhArLRfXaxRZAvla4MDQ=="
 ---

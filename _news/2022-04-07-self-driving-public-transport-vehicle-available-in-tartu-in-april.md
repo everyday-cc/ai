@@ -24,6 +24,17 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "A Self-Driving Vehicle Will be Servicing the Public Transport Route in Tartu in April"
+    excerpt: "The self-driving vehicle will be servicing the route in cooperation with the City of Tartu, the University of Tartu and the companies Traffest OÜ, AS Bercman Technologies and Modern Mobility OÜ."
+    publishedDateTime: 2022-04-08T12:59:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12882"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 0
+
 secured: "c31SKOOqpIDyPI2ab/d7nv+8DOCctckvsrtvwEXGPAc8XHQtrmHdBpgchkeqJUHotm0TKkimBcOvHZOeWPwBmiCaPG/hjvoesVuF8Vq58M6/skmKeneCLjOmvb/XMI5aAATU/f2//1JMmdCJQLsNz2gAqfDYLalwYEVPRBzLPTLbuGZI1iQ3/gwwThM1uBxx3nV5tIydXWbuOX9KlwMHDBr/Gb9mte5SXLaswawo7YInhNfUrlcqGhAeBiwGSR7sN8q1gXLnl1N4fYVkR9iBL3+3oJq9Lo6tI8qEd6OZZMuN5bD+GzMwYnBzQX/yBnfmTq//q4iLpo8P1174co2cWDmp/rucGgA6ISN53AcHKL6vNDjhqCzJT6RQSa2EEUVsjX8up5oniWqz4G8fq5ZI8z8TZCj/yY++fqTuhZ4QBeqHLAfrWVR5Bytktzk6PwpgxAmnYmiwkB6HCcxZPB6OuLuNCG6O4ITdpzmiejeBwqEymayzBUFoFzs/vfErbfW7KlkGwlhfzcE6JVYOQtHvoQ==;HdQx3ALCmqSzUAA+HP9aBw=="
 ---
 

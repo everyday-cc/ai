@@ -20,6 +20,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Enough promises. Get on with vote on Indigenous voice"
+    excerpt: "One thing is becoming clearer as the federal election approaches: voters are assessing whether the words spoken now will translate into real action after May."
+    publishedDateTime: 2022-04-08T13:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/enough-promises-get-on-with-vote-on-indigenous-voice/news-story/4340d9b707b53aa5d8c149f9d39f9691"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+
 secured: "XzohojsKuDj99SJkAz46zU5fZ5+4jkDDy65JNqhZr1ic8B8zpnpPhWZh1sFLAUN0ROACvhgqIcpKQjyhFNDZwhtFkZGD+uuU6r9oDtTR9PzqFYrCe1qgOFbfCKSZnBsYj9jPVnTQICDeleDmGJrpLJTI9Q8/7yhtNePCZluveH/9oLA/O26SWHEBVbgp7jv0FAhQLDprdTNtz/aTobvC5W38ON2twifC2eln75ykeWQzhnFY+9ppqBv+4A2Jfel5i7ur/bpxOP0W06C7/dsIMjwwSCdksR4DZSIwEWesPLsheucNHtS4XLFdCu09Z4d9bTBigoPZVDpR3afjya9COOKI771QbmKjeF8pjxvk2KVmq1MZLwriDs9afBL/VqfMkgZFBrp+y/H963CrFoFXjvqMi9S+SdE6ihSaNhR5/tbkRm9tQBmacygNwBhRcEx6Bog97kvxBeo9MXwsGuqnvtCA3X6dwgYDHSfUBUqam5maUnDb2X85UCJgGYvlviCtggUYc146rW9A6S23Q0Hbzg==;zriR3bwH8qEHCYudNvc/Bw=="
 ---
 

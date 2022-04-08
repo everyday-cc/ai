@@ -49,6 +49,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "AI predicts if and when someone will experience cardiac arrest"
+    excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
+    publishedDateTime: 2022-04-08T15:04:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
     excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
     publishedDateTime: 2022-04-08T07:52:00Z

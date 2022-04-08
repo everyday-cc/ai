@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T12:15:00Z
 originalUrl: "https://hbr.org/2022/04/preparing-for-your-companys-first-meeting-with-a-startup-collaborator"
 webUrl: "https://hbr.org/2022/04/preparing-for-your-companys-first-meeting-with-a-startup-collaborator"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Harvard Business Review

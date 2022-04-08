@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:55:00Z
 originalUrl: "https://www.siliconindia.com/news/weekly-review/the-week-that-was-indian-startup-news-overview-3-march8-march-nid-218584-cid-83.html"
 webUrl: "https://www.siliconindia.com/news/weekly-review/the-week-that-was-indian-startup-news-overview-3-march8-march-nid-218584-cid-83.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: SiliconIndia

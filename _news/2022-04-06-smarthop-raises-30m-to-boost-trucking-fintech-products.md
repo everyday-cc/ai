@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-truck
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meet The Fast And Furious of Fintech"
+    excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
+    publishedDateTime: 2022-04-08T13:07:00Z
+    webUrl: "https://www.entrepreneur.com/article/424292"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 34
   - title: "MarineTech funding set to explode, following course of FinTech"
     excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
     publishedDateTime: 2022-04-05T10:34:00Z

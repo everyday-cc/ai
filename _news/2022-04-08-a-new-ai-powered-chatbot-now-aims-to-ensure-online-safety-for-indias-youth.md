@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:08:00Z
 originalUrl: "https://indianexpress.com/article/cities/pune/new-ai-powered-chatbot-aims-ensure-online-safety-for-indias-youth-7860295/"
 webUrl: "https://indianexpress.com/article/cities/pune/new-ai-powered-chatbot-aims-ensure-online-safety-for-indias-youth-7860295/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Indian Express

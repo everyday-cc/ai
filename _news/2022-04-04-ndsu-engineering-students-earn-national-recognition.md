@@ -28,6 +28,15 @@ related:
       name: University of Dayton
       domain: udayton.edu
     quality: 4
+  - title: "BPS students earn recognition in Scholastic Art and Writing awards program"
+    excerpt: "The Scholastic Art and Writing Awards program was established in 1923 and has aimed to foster the creativity and talent of millions of students, including distinguished alumni Stephen King, Kay"
+    publishedDateTime: 2022-04-05T16:00:00Z
+    webUrl: "https://nonpareilonline.com/community/bellevue/bps-students-earn-recognition-in-scholastic-art-and-writing-awards-program/article_87f128ae-af76-11ec-867d-9fdfd3e8988b.html"
+    type: article
+    provider:
+      name: Daily Nonpareil
+      domain: nonpareilonline.com
+    quality: 2
 
 secured: "7Ccj98Se+VJ/kzd3ObGTguSicFrhsR/bsJVNdr3l1/FcZdjl49irhgVqoAseAkmPhdsvT82N1bZPcvCP9LqbEvo/JZIfNexX8X0T5ao3j2PZM4Ji8trjrDi0b7F69YntNXrD1XofY3HhG6n/5WXXb1eb9KsLRC3g32IeVbojCFRSgAwED1+0mFqGPlcw3K59oERW94o5cwPCGTJyHrLqxH51AxxM9blMZ6o4jeDGY9pQmps6oXEYphlmIA1Xk1n5QQxBErtbuggsiLmj39bpWqtQYOk7vj4BENSM/ZyJKr9g3Am0nNeg7RGUyPjassXvM47JiUBSkMO5eRDUDBD9st3gzCMRP50QGDx3QxAKvGb2kDLCEwzIVapWIj3TMCQsn1lzMVwWiiuklnIl6GWSwWwS8GODQPK0AGAGmuRJ8KuoTSJsCC5zqFrIw8KiyRFo0pR+2tY/YWIj8xoZIriFQVjZlCux/i+Xw9ghJI7wNd5/te8RGUqwXX+QzZ4iXgMTwWyV9xcG07M/pf3RG+o2kA==;j2WsIyMFl+7nnCNERwMtWw=="
 ---

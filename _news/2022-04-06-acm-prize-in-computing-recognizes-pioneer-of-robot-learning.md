@@ -1,22 +1,18 @@
 ---
 category: news
-title: "ACM Prize in Computing Recognizes Pioneer of Robot Learning"
-excerpt: "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022"
-publishedDateTime: 2022-04-06T12:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476"
-webUrl: "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476"
+title: "ACM Prize in Computing recognizes pioneer of robot learning"
+excerpt: "ACM, the Association for Computing Machinery, today named Pieter Abbeel the recipient of the 2021 ACM Prize in Computing for contributions to robot learning, including learning from demonstrations and deep reinforcement learning for robotic control."
+publishedDateTime: 2022-04-06T14:31:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/948924"
+webUrl: "https://www.eurekalert.org/news-releases/948924"
 type: article
-quality: 71
-heat: 81
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
@@ -24,9 +20,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg"
-    width: 267
-    height: 400
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eb8a09a1-59ce-4c35-8b9f-95b9dc6917eb/Rendition/low-res/Content/Public"
+    width: 467
+    height: 700
     isCached: true
 
 related:
@@ -47,6 +43,6 @@ related:
         height: 3868
         isCached: true
 
-secured: "KJsw/3DIZKPe9ujqDduTHcst8IPJTcKDFulYqknw976ampf13DIedPt0QLl7+ZUgI/GMlfaVh07L5Qje2vnSR6eb6g1F/OMnsxkt0K8GllFKjAXWVw9U13XqQwNrQMRYQCI1Qbx/nq/TnEfUrp/bXtgeVdXUoaK3PiIfhdiiFJLcnnJGpZWw44ei1CZKxtr8UAgRy9f7bU0vrdpSqXqzJKRK33slxAqcyQv8AYXTTzIO1ktNH6L0Xs6+TG7bc56v5bYBhzU62CFh8ABsgOPrRVUhsApQDlkF/nlXYWrpWx2XgH9t4eeSz56rmF6+rFaLBmawD+kXKQIKMohoK+RhA0X4KT+GMVzqobwPOb8wQ/Zkp4OKUmruk0ahYp9B2fVOW57K6Ymnw/AcdrdtttUlf+xE6zxCb/eACOhEW6V2nzZG42mQJtaz1tqw1xUp2UpqQTZke1NKrYIn8gaqqwT5NTiC4iT6BaGAtP/uFVaWTUesyTLRmb6DDw0a2iA72NZS2xGI9ds/IyrUxg5MRVvHOA==;I3XiV1R/I04fyPoJIjClhw=="
+secured: "mdScy+iect8i0ZLU215PGdLG/zv7NqE7qOYIt+rXRSc7eCuHQ4bTXshVQq6fjVaMTrfqbZEQMBHN4APQfBaZR7UtYNTik3i2WmPQFPA7kqV2gys9euWIubSlJGcjOJ8qs6nvAsTRdtpc2AJ5umh/WuV3COqFD1btsKeAWB3ffPNt3qHJMq7xW5CioBI/QaFCfYy8yYMfEQJr/DK3Nwo1l78Ccr1xA+l9a5lxs60i9WdMFbhD3RYNaKlFEKd0nF8FC/+8UQFhjgoOeYBtk0CFIgZKUJSyucnFSSzk8MMZlgCLBIuVETXjkfS1MSlGT9ieygBjgWc4orSz/C3PAjdKqE18U6KceQUQEwsZR7lBzMs=;KojsfujpcGdO3Sf8rYi7Kw=="
 ---
 

@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis"
-    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in"
-    publishedDateTime: 2022-04-05T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26480381"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381"
+    excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in the journal Radiology. Type 2 diabetes affects ..."
+    publishedDateTime: 2022-04-05T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26480242"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/heart-illustration-thumb040722.jpg?itok=WRWdIIaS"
         width: 900
         height: 600
+        isCached: true
+  - title: "AI predicts if and when someone will experience cardiac arrest"
+    excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
+    publishedDateTime: 2022-04-08T15:04:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
     excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"

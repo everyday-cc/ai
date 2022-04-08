@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:09:00Z
 originalUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
 webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SourceSecurity

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:49:00Z
 originalUrl: "https://www.technologynetworks.com/informatics/news/can-ai-reveal-why-languages-change-over-time-360471"
 webUrl: "https://www.technologynetworks.com/informatics/news/can-ai-reveal-why-languages-change-over-time-360471"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: technologynetworks

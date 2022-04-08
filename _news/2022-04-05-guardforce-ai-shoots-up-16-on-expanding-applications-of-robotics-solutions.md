@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
+    excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
+    publishedDateTime: 2022-04-08T10:17:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/979273/guardforce-ai-partners-software-provider-blue-pin-hk-to-begin-robotics-solutions-upgrades-in-hotels-979273.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 35
   - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin (HK) Limited (\"BP\") to integrate BP's Guest Services RobotTM (\"GSR\") into the Company's concierge robots (T-series) and co-market the integration within the hotel industry."
     publishedDateTime: 2022-04-08T11:29:00Z

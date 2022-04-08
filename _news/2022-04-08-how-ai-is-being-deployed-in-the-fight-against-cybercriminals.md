@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T12:29:00Z
 originalUrl: "https://techcentral.co.za/how-ai-is-being-deployed-in-the-fight-against-cybercriminals/209872/"
 webUrl: "https://techcentral.co.za/how-ai-is-being-deployed-in-the-fight-against-cybercriminals/209872/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TechCentral

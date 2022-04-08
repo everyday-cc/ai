@@ -35,6 +35,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "UPDATE 1-Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and ..."
+    publishedDateTime: 2022-04-08T12:19:00Z
+    webUrl: "https://cn.reuters.com/article/toyota-wovenplanet-idCNL2N2W51O7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 46
   - title: "Like Tesla, Toyota Develops Self-driving Tech With Low-cost Cameras"
     excerpt: "Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras."
     publishedDateTime: 2022-04-07T17:30:00Z
@@ -86,6 +95,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock."
+    excerpt: "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla"
+    publishedDateTime: 2022-04-08T12:29:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 31
   - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
     excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
     publishedDateTime: 2022-04-06T18:25:00Z

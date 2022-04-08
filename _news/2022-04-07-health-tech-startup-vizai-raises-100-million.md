@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100
 webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
         width: 847
         height: 635
+        isCached: true
+  - title: "Neurosurgeon's startup hits $1.2B valuation"
+    excerpt: "Artificial intelligence startup Viz.ai raised $100 million in its fourth round of funding and has reached a valuation of $1.2 billion, the company announced April 7. Neurosurgeon Chris Mansi, MD, is co-founder and CEO of the company,"
+    publishedDateTime: 2022-04-08T15:00:00Z
+    webUrl: "https://www.beckersspine.com/spine/item/54048-neurosurgeon-s-startup-hits-1-2b-valuation.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 22
+    images:
+      - url: "https://www.beckersspine.com/templates/beckers/assets/images/spine-og-image.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "sY+5Rq6zQrLucG8WbEWk4yTXXQYAR6JiitQ52nloN7GLnvSAwgOXjaGAn2OWYyWg4ISpLghWDXSiqtQ6FWeiRLJVHCWDQKcaNAU15vREAbbzkChtN+Gel76yudWM8OJFt7oB+R9SzKNWMmcfMuRL2goaqDPHn7AohShPRHPret+FlxhXFiyDCTvJ4ZwXMcyFBQJrUEyQoNpgJ8Z1Y5sUjW3QF6Zyx8pCX4EGCAQdi5+4clQPgus3VUfBHwRH7yZ+kqDsr4zRlMyVcsclwmZtaDORvnJtVYFUKRNxxcMsdfChJub+i2uiK9jilNAXF43SZ2Arx/vbr67uyFHigTXwefl9D03QOzJfGnbE3fXgGmNB6N5ED+UYNFeOb7qB9mf4qXVwT3rZ4Tcd8TsLGJW2sTjA/Oc2tFx2/Th7RDGExBED1IGGF9h2RKLX7KSVusIC2cgruKkwuqgqXd1ffK4ztq3jwfFqysueXQUMc4vLh3oNKLbfCa/QjUFcdlPrGpmtn4geGSqwmm3HqSsEVlafLQ==;RF8xdfRm0tcd7OUqnADAvg=="

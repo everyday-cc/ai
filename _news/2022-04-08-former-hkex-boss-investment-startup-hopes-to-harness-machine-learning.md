@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T12:34:00Z
 originalUrl: "https://www.caixinglobal.com/2022-04-08/former-hkex-boss-investment-startup-hopes-to-harness-machine-learning-101867488.html"
 webUrl: "https://www.caixinglobal.com/2022-04-08/former-hkex-boss-investment-startup-hopes-to-harness-machine-learning-101867488.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Caixin Global

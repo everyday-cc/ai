@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T13:02:00Z
 originalUrl: "https://financialpost.com/globe-newswire/the-vitrine-ai-quebec-introducing-a-key-reference-on-quebecs-artificial-intelligence-sector"
 webUrl: "https://financialpost.com/globe-newswire/the-vitrine-ai-quebec-introducing-a-key-reference-on-quebecs-artificial-intelligence-sector"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Financial Post

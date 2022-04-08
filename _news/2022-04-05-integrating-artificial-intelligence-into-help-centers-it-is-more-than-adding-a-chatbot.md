@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Telco Digital AI Assistants & Chatbots Market Is Going To Boom | Globe Philippines, Amazon, KT"
+    excerpt: "The most recent market research on Telco Digital AI Assistants & Chatbots has recently been published. The market presents an analysis of the current"
+    publishedDateTime: 2022-04-08T14:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/telco-digital-ai-assistants-chatbots-market-is-going-to-boom-globe-philippines-amazon-kt"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/cd56930519c9e53bd473ac8d7168066c70b97d17-e1649377538248-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "KyJed4AnjUxYRCQiLQaiBMc6TAEqRZe5dHANYl9ZUFRfXg+wbhwgYqoLf1u/oXdJ4gMFpgTUvdfzMxxC7TxRrcJEbwdvbBteycn4oZ2ekoyGeve+pdMx9QK0//6a0l1KL+BuWnMOpag+IcImVgeC5bBM2mZhATOVjkbnrn0Xv1gRI6LzzZ01/vXBxo5MlHvYvH3maSgDxxXmrzZA6O2tskEgTYST8GxrWFcsBQYTg8RmuBVhnH6EJs4SUILNiVTEDJSTk4fhZM3h/zcG7PP3ToqzuLlEyru+8DDCW+D6peic3nrTS3Ewmfdx1dbaCl05iWrm+ktuOApQitgBkMS37nu5Z1nby23NJCr/jlBir0W891gpKFpB5LkYSUdijbSqrPiNNE4fJ21xCVrJGUcu4JKElr/REW5EmVi7GeyRo+JQJXCp9xjUWYFsuda74Wsvf0s6c/fjwcSgctE4UfwAhwOt0TDGvpsSb4LsIA/gesg+anScnrk2DxZ+JxugN76N+blu7yj/hdDcBU54CPg42A==;mAEwOTtQjBl4Ua+8tskNEQ=="
 ---

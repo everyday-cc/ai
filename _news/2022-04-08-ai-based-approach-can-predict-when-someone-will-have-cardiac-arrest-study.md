@@ -57,6 +57,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AI predicts if and when someone will experience cardiac arrest"
+    excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
+    publishedDateTime: 2022-04-08T15:04:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "fdL+xmqloYUwg3HyJY9noz/rpvac5jY/yJJJs9rgAtmKBl1YTXoHLqRA9KeyTnmdFQo5CZ/xsOs/BiTTL+89EBjZMhF1cG1s/uQWrWkkkd61rNLcyCaVHYni4yeO3oM31IgKADyTZKeiIzrVdvilZbCkiwd84tnxpNw/EtiJKkzk6VcqfKs3w6pA0TpSLN8IsSLtbuUpnb6fvzCcDbvlyTUvC+0BcrBeQTEaBD49JfIkMM8SaH4q9XQjdZUxYEgX/P3y4ze81bonXcMbno+tDoWKS78er8HNwl4UMHdX6yJkjgl8iQzAcRoMxf8dWerrs6QX/81YBp2sedRoL8bZeP7eQVcC1NzQIeDju3eQETo=;yCfZIlJguaSnQEZBXBShiw=="
 ---

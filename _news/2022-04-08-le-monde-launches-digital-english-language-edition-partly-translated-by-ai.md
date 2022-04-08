@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2022/apr/07/le-monde-launches-digi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2022/apr/07/le-monde-launches-digital-english-language-edition-partly-translated-by-ai"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "How AI and ML makes language translation more efficient for non-English speakers"
+    excerpt: "Of the thousands of spoken languages in the world ... Series C funding round, offers translation technology and services through a human-in-the-loop AI approach. This branch of AI creates machine ..."
+    publishedDateTime: 2022-04-08T13:46:00Z
+    webUrl: "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
 
 secured: "vqtKmNzyZZ1/D/x2ww1h+9gyzdsJdd5rMGXe21VbEwp+R9/H2ss7uoRbNYJG3LrrNzUGymUmtsHdL6XZxrbPHl3jyqYMqn2vGSwC/MCJQc+MafjavrP2oNamy9unflcgNrGnY4ZMcRsUmqUUsZ4+ra7RR2jFBOuRd90Whhg0gOmiCD5BhmF5mmIqMmlktMOz6YFBYEaqWVYrfnRvtMpAZ4hONavUWLzPX5LMSy8OOgMbhbb319wMbI4zP++woRuNXzh+HKSRDyUrhIQ+jenHHy977KcdGgQ3355i5YgLALdw8Ab5myqG7kzmbFUAR55dhMx56DVUw0bz1RzIrWz+/ftkX+jqMO+qgDr0k2k5xxGifn+F+qTPCix19sqSpDWVv555ZFD9+Vn/f8a9Hy/WloHdr3myDSMluCWTnLSzSGh4Ogy7BooMas7wAVnPcV5dgC/R2q7Yd/y9ywKkD69StCgo6euiJ0A2oE91rpb0ueEEbCXI1/2CclzrgExeJm9wtT1Rn4LXkh5snO/HOTChBg==;bke36XIz0FIM+AN8KTK2Mw=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Why the age of artificial intelligence is great for your heart"
+    excerpt: "Knowing when someone is likely to suffer a heart attack would allow for lifesaving interventions. And thanks to a new artificial intelligence (AI) led approach pioneered by Johns Hopkins University researchers,"
+    publishedDateTime: 2022-04-07T13:00:00Z
+    webUrl: "https://www.innovatorsmag.com/why-the-age-of-artificial-intelligence-is-great-for-your-heart/"
+    type: article
+    provider:
+      name: innovatorsmag
+      domain: innovatorsmag.com
+    quality: 17
 
 secured: "8lLJMiV9gNtk6hbjn/9NfcOSqWMVohRrY2IX95ws0BAiumlMj6aLj+3N4ni2bRZMvFeYH6cswjeCigSZbcr09SclgVXBsMsyT3M4Nz+Lcl9bZYGB91KDpZUTV38B8qL+gUSipXDUKEpdgu3jujZP03W0c5UEmOt126RVOUe5y5qoFGsyCjD/m/NyX4E4UZ72TuGtA4jwqCXYZMe5QeT+x0pAXi5kd6Y4HImO2d86OlUg83zBZYqWpHMT2ABpfHIZCUlrE0e9uAa6wvnCPPjAX1Y3qRENUewI5j+H6k/0CT713tUMvwbOW68Te2Es8luBhMSh0ybbf31B6O77k5MjA7nYwwfjPko3+B3C9bg0BNM=;SHJDEIc/e4TLgX96cDQMrA=="
 ---

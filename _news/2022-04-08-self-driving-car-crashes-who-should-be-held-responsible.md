@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T12:47:00Z
 originalUrl: "https://fleetworld.co.uk/self-driving-car-crashes-who-should-be-held-responsible/"
 webUrl: "https://fleetworld.co.uk/self-driving-car-crashes-who-should-be-held-responsible/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fleet World

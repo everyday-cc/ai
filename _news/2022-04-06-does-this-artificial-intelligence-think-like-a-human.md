@@ -44,6 +44,15 @@ related:
       name: Frontiers
       domain: frontiersin.org
     quality: 19
+  - title: "Teaching AI to identify colors in the dark"
+    excerpt: "A team of researchers at the University of California used deep learning to enable limited color vision in the dark. The group published a paper describing their work on the open-access site PLOS ONE."
+    publishedDateTime: 2022-04-08T12:04:00Z
+    webUrl: "https://techxplore.com/news/2022-04-ai-dark.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "NfA072lhXNyj8n5yPcW14DPu0FNRv98PeZJEoXtGGs+yFpCFqk10Qw5hUNVFDcjgikGfqH5pJs25V6m18I2G2ssCFVsM7bT6DbW05twa3AS9YEhuCzXmukASf4klMn/EbmgvSxOCKaSRsJ5OCKSMTByVXuMz0IIwESGNWNgIjyroodBnq01XRKnR6nFjtWqnyQcYetcPCGEMY3rklT6FuxLB2SQAqac0gT8XMSS+mKu8Sg2SLtywr4P+WpT1/hSzhWjHTKDK+kNqyj051gnz9+dDjB+ps/DnfYHDLm2ryqc8OShR0XmHNWIiPMUEPB9FGNCa1irIb5Cv9/Ps4GMtMyYC6j0UTO6QhJSUrqBkhMU=;CI7E8FNioaDrd6p6ASgyKQ=="
 ---

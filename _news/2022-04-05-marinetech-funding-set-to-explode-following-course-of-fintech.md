@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meet The Fast And Furious of Fintech"
+    excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
+    publishedDateTime: 2022-04-08T13:07:00Z
+    webUrl: "https://www.entrepreneur.com/article/424292"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 34
 
 secured: "VOSnISKp8qb7ZzneTX2YVf1pZUMGOrbLzvydigrtdSb5fLw5ogha/KIPEScbnzmVOgqzACRlPBBYhQA2AuOssi39k+mzPEhXWag9j57mr0YdjE0w3yF9cFAyIMPy9owWmyTrvt3OuRGnRKdmdb4q081zf/xvf8YDOuEfDDqioCHrNP2HnrReSQCATxYOXukKnYioNE9XqLC5U/wZHvnqBsgEjrNtm+3JlQsHK2cukuhhVBryk5jQB/N+56Ugw7qyZ1quJFlLM8ZmQBiJvDfzC7mEITDee/QY0xC5wxTo9QcuUQoY8YB942SCr+DTD1jtP7lPuxZjgf9JcSWAf7J3lveBFs4rZp0mr9gXDRuKdt4=;hnLN72eexp+r2GeD5zNkWg=="
 ---

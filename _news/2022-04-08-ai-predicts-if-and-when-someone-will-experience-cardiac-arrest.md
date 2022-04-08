@@ -1,0 +1,78 @@
+---
+category: news
+title: "AI predicts if and when someone will experience cardiac arrest"
+excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
+publishedDateTime: 2022-04-08T15:04:00Z
+originalUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
+webUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: HUB
+  domain: jhu.edu
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
+    width: 600
+    height: 400
+    isCached: true
+
+related:
+  - title: "AI predicts if—and when—someone will have cardiac arrest"
+    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-07T15:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-if----and.jpg"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "AI predicts if -- and when -- someone will have cardiac arrest"
+    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T00:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "AI predicts if and when someone will experience cardiac arrest"
+    excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can"
+    publishedDateTime: 2022-04-07T15:00:00Z
+    webUrl: "https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/heart-illustration-thumb040722.jpg?itok=WRWdIIaS"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
+    excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T07:52:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220408/3928947.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
+
+secured: "EV1/ojgXVmfM9hhhuFxCExpKGhD/m/5Lrzz8pVWuFO/uN6wC77dFEaR+DoqYepL6TBHxivEwqwaDlzsYSQYeUTqc2N4cvdlrmkjji+LwhdShiF7+HD9WhCVcSCREZPEo9VU82XD90/+8Eyj/bezvw3fKPHUC0SgVTXi+KxJsgFGcHIXUXCR16bExHidRFAFQuBt/xXQwpQxTjq1Mlm+LjZz0abk1AaP7DhJ+pLnCbuRutal+evfk60Buis8opNyU0SGmU4zHWeFMXshi+Us/kY0OqHV6W/kf1kxa0XXqK75GPSLcyRF1MHh7u/rz5ylx+5xo8YfvzL/a1wajOt8k2vy72ZW5qmiSg4NEYegYRqM=;BvlcDgiYW1OSTRJvnVrLaQ=="
+---
+
