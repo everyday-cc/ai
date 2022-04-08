@@ -9,7 +9,7 @@ ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
 cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     provider:
       name: Insurance
       domain: insurancebusinessmag.com
+    quality: 17
+  - title: "AiAdvertising Announces Partnership with Genus AI"
+    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI&CloseCurlyQuote;"
+    publishedDateTime: 2022-04-08T10:06:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/08/aiadvertising-announces-partnership-with-genus-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 17
   - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
     excerpt: "The \"Spotting Future Unicorns - Predicting Startup Success using an AI Model\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the established unicorns and map it against the predicted unicorns using the analyst's AI model."

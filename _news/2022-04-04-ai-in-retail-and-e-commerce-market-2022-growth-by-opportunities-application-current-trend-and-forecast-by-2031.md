@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-04-05T08:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "5cQu/Ji/zb1Wxd8rh8LBmGYrzlOwkaVSIpF7K6xGbaxFj+it+icW5ixyTpMM13WtldvDiY54IE25yQ7+W8qUcA9ps0/TDt3AlObTKLHT/uFUriHHxM+hK7Xszp0LY2THks/BsFLd0ZfV7NNzjEhXWBu+4dzlB+NSxcJZ4gLBuFbh8yB7XbI5S9uMn2e1OON2Y26dmfRN1VORtEGiEUeGJXUyitUKHVVhHF4aduJltHJNUCpQeDMU6+PWntYHHuuIbS8nCbBMH4slnFOoqV85bS5CxjpLBQ5unWv/h/L+UScGadBK5hJdH0Q3jHk3mhTu1E1Luv/1DG9bLR7+hUiuzWGgJ0o3uF8NMXuLr1VduqA=;FclQlmNIQej0weaCwKVftg=="
 ---

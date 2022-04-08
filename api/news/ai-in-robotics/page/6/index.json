@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-area-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
+      "title": "Artificial intelligence and robotics could be 'growth area' for Bradford - but there are still gaps in tech inequality",
+      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-area-bradford---still-gaps-tech-inequality/",
+      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-area-bradford---still-gaps-tech-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "publishedDateTime": "2022-02-23T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-are-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
       "title": "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality",
       "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
@@ -1305,50 +1348,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot.md",
-      "title": "AITX unit, Robotic Assistance Devices bags order for Wally Security Robot",
-      "excerpt": "Artificial Intelligence Technology Solutions' (OTCPK ... Previously (Jan. 21): Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport To ensure this doesn ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "originalUrl": "https://seekingalpha.com/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320950393/image_1320950393.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799163-aitx-unit-robotic-assistance-devices-bags-order-for-wally-security-robot",
-      "publishedDateTime": "2022-02-11T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

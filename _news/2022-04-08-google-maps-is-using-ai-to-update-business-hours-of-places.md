@@ -9,7 +9,7 @@ ampWebUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/
 cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Google AI system to show updated business hours on Maps"
+    excerpt: "To help companies keep up with the fast pace of change, Google has developed a machine learning model that automatically identifies if business hours are likely wrong and then instantly updates them with AI-generated predictions."
+    publishedDateTime: 2022-04-08T10:39:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=945912"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/English_Movie-1a.jpg"
+        width: 640
+        height: 411
+        isCached: true
   - title: "Are AI hiring tools adding risks to your business?"
     excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
     publishedDateTime: 2022-04-07T13:27:00Z
@@ -87,6 +101,6 @@ related:
       domain: benefitspro.com
     quality: 17
 
-secured: "mh5JXE+XZ04z36iFGsANiW6n9hg4ziz7Ajj+k2BnOn6x1RzoStkv4eecH+Bd/G/bD1/bwKg9gh474Y5bAa4YdfYnTR7iwAHKmZ2DtHE8l+4V8Q51zVRjlWDpzjCxpJBTlvIzoP0FXCEvyc1Y2xQ78+MxRWXkkRVQsWamoTa7W6AMGSCwk8DKitFuXuLkXk7DP11O+XZ8/L70yS/Kqg1ltZ5v/1MAUfNk6YIPMVFtQOFlFic4OvssNmUA4VUauQ+svGPQqTMNmUry9nTz4wadJStCZZp1t023AJILKRC7A9dyq+/4vU1wLJCkaxMtP7Ya7oTbDwPxelNSNUtJson9s/iYUSfLmR7+nm7CFJdGu6U=;jBxhVLiYAz/uTvXQ1DD19g=="
+secured: "t6ydQ9UU5aL6UlwX4onGO46gBsF8hjs0uw07N5IIBbn2qOUip8coR9EFQwFZzzPeLxijViDyBKjIPxnLUN2FXMrthwViKvrFi9l2sUvKGSuuYxDlnST4I/6NHAwug92qGpxaaeqH1DnKRBh+Oe0kQsG59Ru/w8senmdVz3yRRwqNfRfYH+A0RMs44YQhCtE8bFck2IA9AyP7SnkYO+XDPiCf7eMSlzmLbsjMBL21PMYyT7YgQlDiuEn4/Qknnr5qsY+27u2bPW/3xIVjM5pOiM5ar23uX+CYn+3z08d+NQVAHopmMqtTX5kf/s06OykkdvxYPJ1Qc0NLa8T6Ub3uLns6nrrwS6KbC/xmUDq+ZF54Bla3iWqp8zzIyFGwoDNmCrRxm3evZRMFtmKS7Y1AJ5bd0PS6IOmJ2e2LXvKs6EuZmd4z7LNxgbMw8VRJvaS5w3Iq7v2U8lvB6+cYz5WfWj5gxhRNnaILWJTfsR5WWeFelECxomNonFG7BmnYrx1lDn1jvQ+msBdwJr6qYigy9w==;1JcQTB2trVmAC8K2O5y6Fw=="
 ---
 

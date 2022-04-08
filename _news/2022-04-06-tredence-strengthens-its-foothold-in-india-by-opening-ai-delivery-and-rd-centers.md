@@ -76,15 +76,6 @@ related:
         width: 733
         height: 356
         isCached: true
-  - title: "Moveworks opens first office in India to strengthen its leadership in conversational AI"
-    excerpt: "The company will hire top engineers at its new headquarters in Bengaluru to improve the world's leading conversational AI platform. Founded in 2016, Moveworks is one of the fastest-growing AI ..."
-    publishedDateTime: 2022-04-03T18:38:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1244815&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 9
 
 secured: "DDsfq79qmIBPgf2EQqGB8nJyX7HF+WjgKxorb0Sd5yMRW3iqM+FaHne0LHHuCLGYTwK+eEW3xDWA1f1F2U9o/2lVS5uWP73hm9t7QRoJW25Z7Ot1iRGcl3KYnRUUX4pXjLipynv0POLEqrWBnMv9T25aJXdi3uhkpV20UUthGZrNd0z+OEaj1EYVbCyzCAZlGIP50CTAITT5Rby6q4acabuvqiok6CENqkHBE881Nre4rJGI/hG/+E0KhAv2d4e2W8jSI8EzHzEGcFZMN46eA6rxo6vg2E3KXTDQtKwgkTe+x+YRjPrt4KhL0ofXdYSJysRk/z7MSpGGfs7zYzw8Xlj4AuQZ2swKDvSnjYHuSKc=;0h5fWJarb60xULhYtT4F9w=="
 ---

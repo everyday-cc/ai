@@ -34,15 +34,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AI-based data analytics firm BigBear.ai stock rockets 52% in pre-market action"
-    excerpt: "AI-based data analytics firm BigBear.ai (BBAI) stock rocketed 52% in pre-market trading Wednesday on heavy volume"
-    publishedDateTime: 2022-04-06T13:27:00Z
-    webUrl: "https://seekingalpha.com/news/3821144-ai-based-data-analytics-firm-bigbearai-stock-rockets-52-in-pre-market-action"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
 
 secured: "0JRNRlZn3hWlhm8lCvNF9wdGzDpgySByxUQowK4zmMcYYWgIVqAK6Q9v21/CDha6dHAFN5BF0njOE1s1oEfcMi6g73F2iu2gtl9X4zVdAMW3iQFROKSL9frSCvbB3LQOqpRIQvlesNzHY1pd3v3QC4OKQ4gUc8SWzUCfYOR990Ljqsa5scJAVqT7Smmxn3H7gBqGyG/qeGZ3Dj9CiwCbxsmyYfL7sEV2AHzBfw5NVd4qqUg0ojUuCenOMFT4HQQh6lfcxGtJ/kY8mwHNlhgnsGaS2Yyaemnu1ycwpd7Rxdch8NORMqeDcb+9rtjeq54JdKcrO8HSN0MA/X9nUNQalAf9Rg4Uy8G8Q58VUwr7NmY=;nLpUr5TzuQnIcFwRjc3xXQ=="
 ---

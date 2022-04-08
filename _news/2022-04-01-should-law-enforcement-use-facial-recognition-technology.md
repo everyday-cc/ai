@@ -3,15 +3,15 @@ category: news
 title: "Should law enforcement use facial recognition technology?"
 excerpt: "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate."
 publishedDateTime: 2022-04-01T15:07:00Z
-originalUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-webUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-ampWebUrl: "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-cdnAmpWebUrl: "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+originalUrl: "https://www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+webUrl: "https://www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+ampWebUrl: "https://www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
 type: article
 
 provider:
-  name: Fox 4
-  domain: fox4now.com
+  name: WTXL ABC 27
+  domain: wtxl.com
 
 topics:
   - Computer Vision
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WuWQYRTKA2VDcm+bCCaImOrSRnbnSMbl/wSpvjkMuBb078Me/H6w9JmIxbb8QMePe25RSE3F6U4ZWF3c2CzpMJd1bGBRcQ5M77qd+UOkCfSivkrmWqvkigPsV+Hy7ofXjCRt6AEeqmrGuz7875VxBZL9uspkGWrxLfJ1J5MZJsfebIn1Vu+BqkvDVv8bo04XCy7gFkF9LZH4Kz5NLWf+uFul3/sH38fCFjbZuz7kzZYxbUU6XIIs1IGZEAERox63iWn0qqwNuM/PHlmiucvvBOM2LJO2Pueh+Ehw+c5wW5uOlb8m0WggTuEU1OOalimBnC7joTnsojB6m9FwIDQ8WCb6jIzS30Bkedb/Pb8Inl0=;Oot2lxipZH41t6oQ+OJJ+A=="
+secured: "dU0nJ71tSU9US2doN+uoRvaAPk3E6hNy0zvi1H+DMFQJ7LfANCWSf+AWkkUIHVw+c6Bf9Z/kpMH2XN4eQkk16cBZcVHvH2wtg25zTy/zK+SI3tzaf60MU0l3VenFJAjFUstFvfvOMCjbe0wWI9nfRDfs2SUgIplmDZU8L33j7uMLPHSv66Di4VSuRMN4lrEDiWoYZljMVWDyBHRZ9sHzxQlJhEi1WurDMReWH6weJhsVXhgMYNknyoI8nR5QKMZJHkOI0XTm04/PMoo4zok+hFUqa3zbR5VkiaSFSLkpEgbCUMdmBWKHTGgBeeezbeCOl3ach6VzoRD5r7wxClOE32sLUepdazzorIKWSlFShcg=;ay8zGHFindQ7qsGwZcBM5A=="
 ---
 

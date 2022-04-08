@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-wi
 webUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-bigbear-ai-stock-today-1031337260"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 37
-  - title: "AI-based data analytics firm BigBear.ai stock rockets 52% in pre-market action"
-    excerpt: "AI-based data analytics firm BigBear.ai (BBAI) stock rocketed 52% in pre-market trading Wednesday on heavy volume"
-    publishedDateTime: 2022-04-06T13:27:00Z
-    webUrl: "https://seekingalpha.com/news/3821144-ai-based-data-analytics-firm-bigbearai-stock-rockets-52-in-pre-market-action"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
 
 secured: "U6vylO5ORuyVoY3oSy7Ys27G1uUz9SodPf11I0/blxbi3pc8OXfUF6lZlxEahauMTM+11t3eD/RrRyY3Mu+/U9HdWaWtNtXY7ouoc/eUp68CVb7UCvqrzes9S7be1p4i/kbOsMHfx5q2AOm/F2T2m071w7bqiuQsZe1RhXv9SPCua1UKJ5P5mEi3wLAmLg+0gbF5jBLFADzQouGNvAWaxUvcmiXSj4yYA3MAIGq6+0KqzsdqovSNEWJvrQMiFLHGi/E/o5jKpZhXhcyURoyL6LFTXSQJlOwI4nkTTmn02PTKEiXF6LYW1uvbAw+PR55yae4hsAuP7XYC8gew6qyNwsp530MdX7TCrbCAmzu7XjwzskkEbSKps+J4PWr/fXWV8BCOTWysZiWWhXJqJ6N8Nys2rNr9cPcwRcC0bjCOtey/7HGenbqaYWWfEo3BDY0pkGgXeOd3xBFhiKVenwqbg9Fft2/j9rCbdItM8uwXONdnO8GLvc5IwYVBEBPeK25CrrdbfRdoop0FxQmAmBTFyw==;m/PC5L092/qHf3Ld9sBu0A=="
 ---

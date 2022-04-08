@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-08-storage-requirements-for-ai-ml-and-analytics-in-2022.md",
+      "title": "Storage requirements for AI, ML and analytics in 2022",
+      "excerpt": "We look at what is needed for artificial intelligence and machine learning, and the pros and cons of block, file and object storage to store and access very large amounts of often unstructured data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
+      "originalUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
+      "publishedDateTime": "2022-04-07T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-tesla-is-aiming-to-start-production-of-its-optimus-humanoid-robot-in-2023.md",
       "title": "Tesla is aiming to start production of its Optimus humanoid robot in 2023",
       "excerpt": "Elon Musk gave a timeline to production for the first time for the Tesla Optimus project, a humanoid robot capable of doing general tasks. The CEO believes the company can bring the ambitious project to production as soon as next year.",
@@ -149,7 +193,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1336,49 +1380,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now.md",
-      "title": "GOOGL Stock News: 4 Biggest Headlines That Alphabet Investors Should Know Now",
-      "excerpt": "Earlier this month, Waymo received permits from the California ... Sandbox operates as a quantum computing and artificial intelligence (AI) company. It was founded in 2016 as an independent ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/",
-      "originalUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/goog1600f.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/amp/",
-      "publishedDateTime": "2022-03-23T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

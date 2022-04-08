@@ -159,6 +159,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
+      "title": "ACM Prize in Computing Recognizes Pioneer of Robot Learning",
+      "excerpt": "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg",
+          "width": 267,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-isaac-asimovs-three-laws-of-robotics-wont-stop-robots-from-harming-humans.md",
       "title": "Isaac Asimov’s “three laws of robotics” won’t stop robots from harming humans",
       "excerpt": "On the 30th anniversary of Isaac Asimov’s death, it’s time to see if the “three laws of robotics” mean something outside of his stories. Isaac Asimov was an American writer and professor, considered (during his lifetime) as one of the “Big Three” science fiction writers along with Robert A.",
@@ -348,7 +401,7 @@
       "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1379,52 +1432,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
-      "title": "Artificial Intelligence (AI) in construction",
-      "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
-      "sourceUrl": null,
-      "webUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "originalUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AEC Magazine",
-        "domain": "aecmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics",
-        "AI in Finance",
         "AI in Robotics"
       ]
     }

@@ -73,6 +73,15 @@ related:
       name: Insurance
       domain: insurancebusinessmag.com
     quality: 17
+  - title: "AiAdvertising Announces Partnership with Genus AI"
+    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI&CloseCurlyQuote;"
+    publishedDateTime: 2022-04-08T10:06:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/08/aiadvertising-announces-partnership-with-genus-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 17
 
 secured: "Fay6PusNdnRxbTJiBJJs5x1vS6q2WnO+qik/UfJ0kYCd3eHbJUVE+EcWMD0lbtIRuzl5udjaOwdsOnBkO/Et1FC88flAha1GjOTJIU8tP2/7XMnRPNrA/nsHH80tmLHlakUt5SmErz4FCdeuN2lvfTTOv4ielOpz2JLQQi8GXeNlueTijJz8IVBG/YlgmcD9nojnCKXZ0ttTIBtTf3sRt1ZOmpULXVo4C8quqGLvRsBJFl0Hc/Sm4Z+N3fI2SjWPSgOrboto8Nkfic7mAeIEOuBCqZDedmVw0BXFxFvi0C7k+a2BOg8hL7cSt+vGE9dlYPgtNRYrrpJyDXNG68yYrSSWqR6gWLuwqHjeP62ZEa0=;pg5GiCsXbOEu4l3nxpt1sQ=="
 ---

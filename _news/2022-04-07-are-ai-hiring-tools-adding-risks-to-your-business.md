@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Google AI system to show updated business hours on Maps"
+    excerpt: "To help companies keep up with the fast pace of change, Google has developed a machine learning model that automatically identifies if business hours are likely wrong and then instantly updates them with AI-generated predictions."
+    publishedDateTime: 2022-04-08T10:39:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=945912"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/English_Movie-1a.jpg"
+        width: 640
+        height: 411
+        isCached: true
 
 secured: "b1ZArsZc8X1d7m7dpDzeWkc7dCYTmm2Y6yplyFmT7dr4lXBNwymc0EJEo7we8t4vibe8D+cVC3s1msRlGeBxf/v7ap2DKbAQfvZ+gqZM8y5jYVO40W6Jx0hwjH0UdbC2R4y5tzcPBAA/m0fkEIMmTxynlNhpd5QCijV+2UIBCVZ1OZ7e2Ep64dd9P2cvR6FbC2Ykfm8eDvHxTpKG4Dmnxl+YwE+S7d0jfhfbVds7OaQMP2euwZeJCvtTPO+rK7nhNjXfq3SCrdtrgitkB+tlGTJ/RrzRKu8WwxG7x1tl48a5m4CNQoO1edVS7/IC1a/+vRGk4megfWTvxx5uj+bZMGBEfUTNcOn+90aiHCIHhRY=;+p41vLQuFJiZyb0UG+arow=="
 ---

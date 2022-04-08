@@ -41,6 +41,22 @@ related:
         width: 1300
         height: 812
         isCached: true
+  - title: "Google AI Can Update Local Listing Hours Including Live Traffic, Street View Imagery & More"
+    excerpt: "Google announced that it will update the local business hours listed in Google Maps and Google Search of over 20 million businesses using AI. How? Google said it looks at a multitude of things includ"
+    publishedDateTime: 2022-04-08T11:31:00Z
+    webUrl: "https://www.seroundtable.com/google-local-listings-hours-ai-33215.html"
+    ampWebUrl: "https://www.seroundtable.com/amp/google-local-listings-hours-ai-33215.html"
+    cdnAmpWebUrl: "https://www-seroundtable-com.cdn.ampproject.org/c/s/www.seroundtable.com/amp/google-local-listings-hours-ai-33215.html"
+    type: article
+    provider:
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 47
+    images:
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-store-hours-local-1649353406.jpg"
+        width: 640
+        height: 326
+        isCached: true
 
 secured: "iYX1l+sFhpm3OUN14XPbPYgoGBaVxAqQEq2vKuMP9ZPjIKoNwjbg6Cj8Zm/bkWG4glkrkUCuC5ptEDEXfc9NHO8UQVKdphJsjcwfFLqx6jBBMcKJHnuUQ7EDlo3G35KynTf03kIwAnYjM7MTptM1HTguW+O5oqe+DIx094ehsAJ+Qm8cZH2R6NA08qV59EPyNTzh+Imnn64hd21UJ04SU0pIeAwqXMNHIZgaxbnbQTuUFtYZ6ImPdwEsLSgQ/shJNtMxD+jDO/TcFFkhzQf1cxESaYW3/tE3U7XCPZxeJveizBurj0qmD2dAN7QjGZBp+s2JVvh6n52HCBD6Jl7d+o1W8wNo05kIGjUoZ8z+JC40ljJQspi798QaR1m4veapQRNgxURrAoWVb43Jq4gmhgrKbIHoN1PKFiiuQ3apsMTrYxMyY14OpiBIL2xv4DvjGXl1PxFyYcSTFjdS0vwvPac1EsUe7AgkBZ0fOOr5x6tQlbJKs/Em6YKUHbGSuLVvpG6yQVTVO6ARN7b1tRzFkQ==;0mDDhsuoyMXOVXAigV2Gaw=="
 ---

@@ -78,6 +78,15 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin (HK) Limited (\"BP\") to integrate BP's Guest Services RobotTM (\"GSR\") into the Company's concierge robots (T-series) and co-market the integration within the hotel industry."
+    publishedDateTime: 2022-04-08T11:29:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/08/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
   - title: "Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated"
     publishedDateTime: 2022-04-06T13:34:00Z

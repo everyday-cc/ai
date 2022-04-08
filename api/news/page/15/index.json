@@ -2,6 +2,150 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-03-24-edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi.md",
+      "title": "Edtech startup TagHive all set to deploy its AI-powered app 'Class Saathi'",
+      "excerpt": "Class Saathi is designed to integrate into the education ecosystem and enable data-driven strategy without additional infrastructure. It is an AI-powered self-learning app from TagHive Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/03/24/1600x900/20220324_165758_0000_(1)_1648122980524_1648122990806.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/edtech-startup-taghive-all-set-to-deploy-its-ai-powered-app-class-saathi-101648122883812-amp.html",
+      "publishedDateTime": "2022-03-24T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-how-fluid-organizations-use-ai-to-strengthen-their-people.md",
+      "title": "How Fluid Organizations Use AI To Strengthen Their People",
+      "excerpt": "Although easier said than done, in a world where technology is power, it’s time to share some of that power with your employees so they can help steer your company in the direction you want it to go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b21add5d49c100fe53d75/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/how-fluid-organizations-use-ai-to-strengthen-their-people/amp/",
+      "publishedDateTime": "2022-03-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-diversity-is-key-to-the-future-of-ai.md",
+      "title": "Diversity Is Key To The Future Of AI",
+      "excerpt": "Personally, I felt this film sparked an incredibly important conversation for the technology sector: it urgently needs diverse and underrepresented backgrounds to contribute to the development of AI and ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b68a3912723ed0abcdd19/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/03/24/diversity-is-key-to-the-future-of-ai/amp/",
+      "publishedDateTime": "2022-03-24T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-extrahop-adds-heat-map-to-its-aws-cloud-native-security-solution.md",
       "title": "ExtraHop adds heat map to its AWS cloud-native security solution",
       "excerpt": "A cloud-native security provider announced Wednesday that it has added heat-mapping capabilities to its Amazon Web Service (AWS) flagship product. The new tier of service, called ExtraHop Reveal(x) 360,",
@@ -1035,145 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
-      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
-      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure.md",
-      "title": "Microsoft continues its push to convince more game developers to use Azure",
-      "excerpt": "Microsoft is targeting game developers with a new Game Development Virtual Machine and its ID@Azure program, which is generally available as of today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/45b4e96e6d7f77ec3908f32d51722ee3ca4d3a17/2022/03/22/a4f977f6-3561-4d80-bea7-bd0d86039d14/microsoftgamedevtoolsazure.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-its-push-to-convince-more-game-developers-to-use-azure/",
-      "publishedDateTime": "2022-03-23T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-emotion-detection-and-recognition-market-worth-433-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-433-billion-2027-/2022/03/23/9569467.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

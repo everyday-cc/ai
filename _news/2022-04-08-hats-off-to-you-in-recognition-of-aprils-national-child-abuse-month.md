@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/hats-off-to-you-in-recognition-o
 webUrl: "https://www.digitaljournal.com/pr/hats-off-to-you-in-recognition-of-aprils-national-child-abuse-month"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 608
     height: 608
     isCached: true
+
+related:
+  - title: "3 Best Artificial Intelligence Stocks to Buy in April"
+    excerpt: "Just about everyone knows artificial intelligence (AI) is taking hold in many parts of our lives. What most people are referring to when they say AI is actually machine learning (ML) -- the use of algorithms to mimic the way humans take in information and ..."
+    publishedDateTime: 2022-04-08T10:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "UuNppZjjj9Zg4qkxgfIKEowsCfbul3V7vUuyy1lPI5FGJ9SstgG+cnyTwl1CFrETBh+FVw33cOvkWOBeNDXEtGaYZyFWAeZ48mAmL50/B4UB5RUvCKzpFOKMaYDu5vDPuiOngAJIojpTrtXEucLQEYNzz/0amOkrVqYxw8yYuXW6raisJ/7urLndVa1Q1lnsBP2nnwFAYD5Aa9NuEzfcM35Mq+CJAH+152HwQ+KiQuZjs6WtKSs17FYRJ3qm3+fF0ZkF1hv8fyP0O6suJVSiR5AsBCJUFBOq6NEVBxWOvBendTKhuOcUt5yEU3rYZsDrS+ZFSRScH/iJybBsa6fdQVbAnHOeyw4k7wMW3Pg92xU=;6K18KCSdJH/KI6LZEkjmvQ=="
 ---

@@ -77,6 +77,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Google AI system to show updated business hours on Maps"
+    excerpt: "To help companies keep up with the fast pace of change, Google has developed a machine learning model that automatically identifies if business hours are likely wrong and then instantly updates them with AI-generated predictions."
+    publishedDateTime: 2022-04-08T10:39:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=945912"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/English_Movie-1a.jpg"
+        width: 640
+        height: 411
+        isCached: true
   - title: "Are AI hiring tools adding risks to your business?"
     excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
     publishedDateTime: 2022-04-07T13:27:00Z

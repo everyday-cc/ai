@@ -38,6 +38,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Smart AI Toys Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global Smart AI Toys market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimate"
+    publishedDateTime: 2022-04-08T11:19:00Z
+    webUrl: "https://galleonnews.com/news/246063/smart-ai-toys-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 17
 
 secured: "M5wbotU353Va8/TPA9XsPHAELiVahRqgVU4mbBnzJdTA/hpA46Waa8Jb5oNaWvFejTbxMy1JUlQ3RymlCUC+PlrEy+0WLAQ8EQShkqPBp48DoO+N1ToXf4C/ruGM9jBNIpHFUD3RnBEH6Hf7qmOvJ0KgCSC6WZuvqiAEQNu+2Wy/2g5o4wMiFgc92UWnDg9CcdbY1Esb9SNMzYDUYJPDXsldtTtnbdyY7NRqTzAWzzknlhEvxYf+abWSFujePxzvKune9Lqt76YwdjcPRnwoZPK/S6UGBVkmLxTRBlbHB6pcz0bu8DG6UmXJkir1WiUqgUgyN9s/anw3jK5XzseC6CwPOq7SYkJibsjexQLO2Pk=;T5vTxvxZMszcHYD+HdpLjg=="
 ---

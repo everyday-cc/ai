@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
+      "title": "Artificial Intelligence (AI) in construction",
+      "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
+      "sourceUrl": null,
+      "webUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
+      "originalUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AEC Magazine",
+        "domain": "aecmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins.md",
       "title": "At Pompeii, A Robot Dog Is Helping Guard And Protect The Ruins",
       "excerpt": "A quadruped robot named Spot is the latest piece of cutting-edge technology to come into service at Italy’s Archeological Park of Pompeii in a bid to protect the ancient site.",
@@ -1276,40 +1322,6 @@
       "provider": {
         "name": "Automation World",
         "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
-      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
-      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "publishedDateTime": "2022-03-22T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null

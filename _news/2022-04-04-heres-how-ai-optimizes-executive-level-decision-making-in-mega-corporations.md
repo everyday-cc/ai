@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-opt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making"
+    excerpt: "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years."
+    publishedDateTime: 2022-04-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US developing AI for critical combat decisions"
     excerpt: "The US Defense Advanced Research Projects Agency (DARPA) is looking to develop AI algorithms that can make complex decisions in situations where"
     publishedDateTime: 2022-04-05T09:46:00Z

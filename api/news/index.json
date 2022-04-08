@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-08-3-best-artificial-intelligence-stocks-to-buy-in-april.md",
+      "title": "3 Best Artificial Intelligence Stocks to Buy in April",
+      "excerpt": "Just about everyone knows artificial intelligence (AI) is taking hold in many parts of our lives. What most people are referring to when they say AI is actually machine learning (ML) -- the use of algorithms to mimic the way humans take in information and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april",
+      "originalUrl": "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp",
+      "publishedDateTime": "2022-04-08T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-understanding-baumols-cost-disease-and-its-impact-on-healthcare.md",
+      "title": "Understanding Baumol’s Cost Disease And Its Impact On Healthcare",
+      "excerpt": "While the impact of Baumol’s cost disease is inevitable in healthcare, technologies like automation offer exciting possibilities for mitigating rising costs—now and in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee52559c49dfcd9ca5af6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/amp/",
+      "publishedDateTime": "2022-04-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-google-maps-is-using-ai-to-update-business-hours-of-places.md",
       "title": "Google Maps Is Using AI To Update Business Hours Of Places",
       "excerpt": "Google Maps will use AI to update the business hours of stores that haven't been altered from time immemorial to offer correct information.",
@@ -10,7 +95,7 @@
       "originalUrl": "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -92,6 +177,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-storage-requirements-for-ai-ml-and-analytics-in-2022.md",
+      "title": "Storage requirements for AI, ML and analytics in 2022",
+      "excerpt": "We look at what is needed for artificial intelligence and machine learning, and the pros and cons of block, file and object storage to store and access very large amounts of often unstructured data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
+      "originalUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
+      "publishedDateTime": "2022-04-07T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -544,7 +673,7 @@
       "originalUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -783,7 +912,7 @@
       "originalUrl": "https://360.here.com/ai-aware-project",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1054,145 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-opinion-calif-should-extend-facial-recognition-ban.md",
-      "title": "Opinion: Calif. Should Extend Facial Recognition Ban",
-      "excerpt": "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
-      "originalUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
-      "publishedDateTime": "2022-04-06T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
-      "title": "Google Cloud releases BigLake to unify data platforms",
-      "excerpt": "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "publishedDateTime": "2022-04-06T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-ai-is-learning-how-to-explain-itself-to-humans.md",
-      "title": "AI is learning how to explain itself to humans",
-      "excerpt": "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/",
-      "originalUrl": "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/04/artificial-intelligence-1.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/",
-      "publishedDateTime": "2022-04-06T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
