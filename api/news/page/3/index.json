@@ -1064,7 +1064,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1133,21 +1133,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
-      "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
-      "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
+      "path": "_news/2022-04-04-swedish-ai-fund-looks-to-back-african-start-ups.md",
+      "title": "Swedish AI Fund looks to back African start-ups",
+      "excerpt": "The Swedish AI Fund (SAIF) − a global non-governmental organisation (NGO) − is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa,",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "webUrl": "https://www.itweb.co.za/content/P3gQ2qGxDwkvnRD1",
+      "originalUrl": "https://www.itweb.co.za/content/P3gQ2qGxDwkvnRD1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/04/04/machine_learning_dbi_braintoy_bangladesh.jpeg?itok=HejUIn11",
-          "width": 750,
-          "height": 393,
+          "url": "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428",
+          "width": 816,
+          "height": 414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1155,13 +1155,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
-      "publishedDateTime": "2022-04-03T21:56:00-07:00",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1",
+      "publishedDateTime": "2022-04-04T02:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1171,7 +1171,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

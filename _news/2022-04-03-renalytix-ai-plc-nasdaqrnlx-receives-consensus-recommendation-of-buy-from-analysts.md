@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "HC Wainwright Reiterates Buy Rating for Renalytix AI (NASDAQ:RNLX)"
-    excerpt: "Renalytix AI (NASDAQ:RNLX – Get Rating)‘s stock had its “buy” rating restated by equities researchers at HC Wainwright in a research note issued on Friday, TipRanks reports. They presently have a $30."
-    publishedDateTime: 2022-04-03T08:10:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 57
-    images:
-      - url: "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX"
-        width: 600
-        height: 385
-        isCached: true
   - title: "Renalytix AI (NASDAQ:RNLX) PT Lowered to $15.00"
     excerpt: "Renalytix AI (NASDAQ:RNLX – Get Rating) had its price target cut by BTIG Research from $24.00 to $15.00 in a report published on Friday, The Fly reports. They currently have a buy rating on the stock."
     publishedDateTime: 2022-04-04T07:50:00Z

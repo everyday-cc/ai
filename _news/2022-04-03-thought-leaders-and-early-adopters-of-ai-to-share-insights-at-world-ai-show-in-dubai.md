@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
-    excerpt: "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region’s top 30 leading Arab experts in AI by MIT Technology Review Arabia."
-    publishedDateTime: 2022-04-03T08:26:00Z
-    webUrl: "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts"
-    ampWebUrl: "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 67
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=d604be45-d523-53db-8a93-891b33e1a701&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84016&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Dubai Police officer named among 30 leading Arab artificial intelligence experts"
     excerpt: "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region's top 30 leading Arab experts in AI by MIT Technology Review Arabia."
     publishedDateTime: 2022-04-03T18:43:00Z
     webUrl: "https://menafn.com/1103956202/Dubai-Police-officer-named-among-30-leading-Arab-artificial-intelligence-experts"

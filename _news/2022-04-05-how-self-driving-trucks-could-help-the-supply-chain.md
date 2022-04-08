@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Logistics Giants Hedge Their Bets In Uncertain U.S. Self-driving Truck Race"
+    excerpt: "U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers."
+    publishedDateTime: 2022-04-04T11:00:00Z
+    webUrl: "https://www.ibtimes.com/logistics-giants-hedge-their-bets-uncertain-us-self-driving-truck-race-3460745"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/04/autonomous-trucking-in-tucson.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "A4wEXr/q6s2ed8qbD3xO68CapBG1e62Wwlp3iXo5axGdv8i2P689VmPcoUdILi1KsLaAOTBFq472+gsZGSmCFYNgVxzuFrh7p99It4Vxgt0dE+UC/rvWA46CcfdfX8PlOL/WpC74OtRkvDH4ggJSm5mOdZ+9Zts9HIFzN22yxC+0wy2dMY1+doERWml3GwPJI5zNSIhGeUbEpE+p4N7xHQrY+tr+whom8XgitxkrGlZE4D4iac+RQSF58fkOco8qjYsXRXBJhQBadjLb7o0UPNsgRUMDci4+T2pDTQG5wtazdBTQ4FJbxkbowyFC5q3Nv9XlOm9CpoR+ramD1cPTDahfxo/8tZugELo8XVP26eeHSXEIGuErL9gOg6ajIeZJ3tVtPZlClmR3JN+HMlnTim/NShVKNx56kqPkNLbelp/73epYBDXrUmRHraEMMQ6zq6XqQouW0X+efSXDUSmYfo55yvKmAOOUzOcvGfoX5G+7FtbrvYQYpk7oNhHXSQvJfFPF/xrBMXw/4+drILREUw==;/spGXh73/+jZN8+9Uk/Xiw=="
 ---

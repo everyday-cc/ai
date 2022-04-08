@@ -23,6 +23,17 @@ images:
     height: 207
     isCached: true
 
+related:
+  - title: "Fundmore.ai Inc. and Filogix announce strategic partnership interface"
+    excerpt: "FundMore.ai Inc and Filogix partner to create a better digital mortgage experience.TORONTO, April 7, 2022 /PRNewswire/ - Fundmore.ai Inc., an"
+    publishedDateTime: 2022-04-08T01:58:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/fundmore-ai-inc-and-filogix-announce-strategic-partnership-interface-1031339478"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 17
+
 secured: "rHZKSXUiluZ9cfCUc5elt0A3q3K94nLQrZPQpW8LeJYiMm5NugF58ilLsPmtrWG8itKuun5+TiAEEKiRUSi9V9AG1UV9tO4lqf+FHPdknMD6QXP/qpniod9QQGKJ7lRDn29n9xyWMymaVSGGoWIDtRTERCrfMyq7XTYvBPxqpJwPoGcBjcfTbE/5QPWsH2Ia2X9v8j4Xl1MfTl9s9CHRKdWgVgJ2x31brC+cw9CQRd6fYGd69M7ZAeJC64/LGqx3ZugbAkH1rWjfI9XuUeF9EO+uIsyfDWbZC8nKm1PkTOjB5et2wQIszxeCq2ELLeqQokM3OUzjdIzVUrqlCKFNPnXFy9OiSSb1EIau1aM5xOw=;K2DJZc3jv6QMxsTHLftyrw=="
 ---
 

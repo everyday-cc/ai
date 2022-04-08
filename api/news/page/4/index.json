@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
+      "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
+      "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/04/04/machine_learning_dbi_braintoy_bangladesh.jpeg?itok=HejUIn11",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
+      "publishedDateTime": "2022-04-03T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
       "title": "Adversarial AI and the dystopian future of tech",
       "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
@@ -796,24 +839,33 @@
     {
       "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
       "title": "Face scanner Clearview AI aims to branch out beyond police",
-      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ...",
+      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.fresnobee.com/news/business/article260029910.html",
-      "originalUrl": "https://www.fresnobee.com/news/business/article260029910.html",
+      "webUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
+      "originalUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T15:10:00-07:00",
+      "publishedDateTime": "2022-04-01T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1055,8 +1107,8 @@
       "title": "Should law enforcement use facial recognition technology?",
       "excerpt": "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
-      "originalUrl": "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "webUrl": "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "originalUrl": "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1073,13 +1125,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "ampWebUrl": "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
       "publishedDateTime": "2022-04-01T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 4",
-        "domain": "fox4now.com",
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1091,59 +1143,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning.md",
-      "title": "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning",
-      "excerpt": "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/08/Oracle-e1617192273881.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
-      "publishedDateTime": "2022-04-01T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

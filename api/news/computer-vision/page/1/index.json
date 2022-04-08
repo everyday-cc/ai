@@ -248,24 +248,33 @@
     {
       "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
       "title": "Face scanner Clearview AI aims to branch out beyond police",
-      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other ...",
+      "excerpt": "A controversial face recognition company that's built a massive photographic dossier of the world's people for use by police, national governments and — most recently — the Ukrainian military is now planning to offer its technology to banks and other private businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.fresnobee.com/news/business/article260029910.html",
-      "originalUrl": "https://www.fresnobee.com/news/business/article260029910.html",
+      "webUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
+      "originalUrl": "https://apnews.com/article/russia-ukraine-technology-business-europe-national-governments-4a4db5b7340792f8a8b08c41c4653f5a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5b9defe112f648c79fe90ad49bf2b37b/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T15:10:00-07:00",
+      "publishedDateTime": "2022-04-01T15:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -284,8 +293,8 @@
       "title": "Should law enforcement use facial recognition technology?",
       "excerpt": "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
-      "originalUrl": "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "webUrl": "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "originalUrl": "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -302,13 +311,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox4now-com.cdn.ampproject.org/c/s/www.fox4now.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "ampWebUrl": "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
       "publishedDateTime": "2022-04-01T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 4",
-        "domain": "fox4now.com",
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -901,6 +910,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-25-siw-tech-notes-from-isc-west-2022-day-2.md",
+      "title": "SIW Tech Notes from ISC West 2022 – Day 2",
+      "excerpt": "The BLK247 includes a multi-stream processor, and is packed with sensors, the output of each can be overlayed on each (see figure), providing the user with maximum recognition potential through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21261738/siw-tech-notes-from-isc-west-2022-day-2",
+      "originalUrl": "https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21261738/siw-tech-notes-from-isc-west-2022-day-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/Hailo.623db82c5aec8.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-ukraine-is-using-facial-recognition-tech-to-identify-dead-russian-soldiers-and-inform-their-families.md",
       "title": "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families",
       "excerpt": "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers.",
@@ -1315,58 +1367,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-leveraging-computer-vision-for-effective-crowd-management-in-smart-cities.md",
-      "title": "Leveraging Computer Vision For Effective Crowd Management In Smart Cities",
-      "excerpt": "Government organizations can implement computer vision in smart cities to maintain social distancing and avoid stampedes and other disasters in crowded areas. As the global population continues to grow at an alarming rate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-effective-crowd-management-naveen-joshi",
-      "originalUrl": "https://www.linkedin.com/pulse/leveraging-computer-vision-effective-crowd-management-naveen-joshi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE20RsUcujCmg/article-cover_image-shrink_600_2000/0/1643833710753?e=1653523200&v=beta&t=eRvNdillJADcwCRaRpGpIRZQJrC_4s1Tj8L-ky5VJiw",
-          "width": 1000,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T21:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

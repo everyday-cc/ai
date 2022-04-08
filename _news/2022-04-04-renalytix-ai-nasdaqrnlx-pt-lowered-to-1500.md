@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/04/renalytix-ai-nasdaqrnlx-pt-l
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/04/renalytix-ai-nasdaqrnlx-pt-lowered-to-15-00/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "HC Wainwright Reiterates Buy Rating for Renalytix AI (NASDAQ:RNLX)"
-    excerpt: "Renalytix AI (NASDAQ:RNLX – Get Rating)‘s stock had its “buy” rating restated by equities researchers at HC Wainwright in a research note issued on Friday, TipRanks reports. They presently have a $30."
-    publishedDateTime: 2022-04-03T08:10:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 57
-    images:
-      - url: "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX"
-        width: 600
-        height: 385
-        isCached: true
   - title: "Renalytix AI plc (NASDAQ:RNLX) Receives Consensus Recommendation of “Buy” from Analysts"
     excerpt: "Renalytix AI plc (NASDAQ:RNLX – Get Rating) has been assigned a consensus rating of “Buy” from the seven brokerages that are currently covering the stock, MarketBeat.com reports. One equities research analyst has rated the stock with a hold rating and five have given a buy rating to the company."
     publishedDateTime: 2022-04-03T11:28:00Z

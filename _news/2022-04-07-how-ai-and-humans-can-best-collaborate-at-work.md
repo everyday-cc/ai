@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-and-humans-can-best-collabor
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How ML Ops Can Help Scale Your AI and ML Models"
+    excerpt: "Machine learning operations, or ML Ops, can help enterprises improve governance and regulatory compliance, automation, and production model quality."
+    publishedDateTime: 2022-04-08T00:49:00Z
+    webUrl: "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html"
+    ampWebUrl: "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 74
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024"
+        width: 1024
+        height: 762
+        isCached: true
   - title: "Why we need human-centered AI"
     excerpt: "Expert, Ben Shneiderman, believes we can create AI systems that can have both high levels of automation and human control."
     publishedDateTime: 2022-04-04T14:10:00Z

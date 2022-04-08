@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://musically.com/wp-content/uploads/2022/04/endel-logo.jpg"
         width: 1500
         height: 500
+        isCached: true
+  - title: "Viz.ai raises $100M Series D"
+    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
+    publishedDateTime: 2022-04-07T19:28:00Z
+    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
+    images:
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
         isCached: true
   - title: "AI-Powered Accounting Automation Platform, Docyt, Raises $11.5M"
     excerpt: "Docyt turbocharges accounting ledgers, like QuickBooks®, by using machine learning to intelligently automate financial data collection, digitization, categorization and reconciliation. By replacing multiple income,"

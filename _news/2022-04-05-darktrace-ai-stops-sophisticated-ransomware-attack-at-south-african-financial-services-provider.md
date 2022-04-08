@@ -40,6 +40,20 @@ related:
         width: 816
         height: 414
         isCached: true
+  - title: "Swedish AI Fund Looks for African Start-ups to Support"
+    excerpt: "is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa, primarily at pre-seed stage, that have developed solutions and services leveraging AI, adding that selected ..."
+    publishedDateTime: 2022-04-04T23:03:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/swedish-ai-fund-looks-for-african-start-ups-to-support/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 37
+    images:
+      - url: "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/02/AI-image.jpg"
+        width: 608
+        height: 327
+        isCached: true
 
 secured: "+z/KkelUj8P42waFeZwo6na6X9elii6yCGPKPuJkH5OuvJojeS82x8zttB+RKxah/spfwVKHDDlIolytpNmf9CaIxu/4Xd3sSfXpzAnpM0lxiyEpSqWr0NU6zOCeCsdLddUghc+ibJ203eALNRbrx9GvGMDpJCqyGbTQ9lyqzFAWR8TuuNhXiT7n9bMJkLvVJmPisLIaQ/I5huoDrTulUJlU+1t17CLmZbyiqpcbf7KWvLZVryhQM5gm+g4/i07SacVXVH5XpVdXhP9tnSs7QoS2pYP5n3dS7gYASZ1ioDASrMtSHunryiuPs7PF3T7wv9YTS/2AlurNQCDPfbKyURNGpCEmPsPpjym0PAAMBAY=;SuIlJUaT7TZo4l4BVvpH4A=="
 ---

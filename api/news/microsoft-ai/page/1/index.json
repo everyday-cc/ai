@@ -440,6 +440,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-01-cognitive-computing-market-2028-industry-analysis-trends-market-size-and-forecasts.md",
+      "title": "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts",
+      "excerpt": "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts",
+      "originalUrl": "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50125",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning.md",
       "title": "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning",
       "excerpt": "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines.",
@@ -1390,58 +1433,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
-      "title": "Pasqal quantum computers to become available on Azure Quantum this year",
-      "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
-      "originalUrl": "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/367139/pasqal-quantum-computers-to-become-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1581677441/itpro/Azure.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

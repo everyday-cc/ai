@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ITWeb
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Swedish AI Fund Looks for African Start-ups to Support"
+    excerpt: "is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa, primarily at pre-seed stage, that have developed solutions and services leveraging AI, adding that selected ..."
+    publishedDateTime: 2022-04-04T23:03:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/swedish-ai-fund-looks-for-african-start-ups-to-support/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 37
+    images:
+      - url: "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/02/AI-image.jpg"
+        width: 608
+        height: 327
+        isCached: true
   - title: "Darktrace AI Stops Sophisticated Ransomware Attack At South African Financial Services Provider"
     excerpt: "Darktrace, a global leader in cyber security AI, today announced that its Autonomous Response technology, Antigena, successfully stopped an in-progress ransomware attack that recently targeted a financial services company in South Africa."
     publishedDateTime: 2022-04-05T09:54:00Z

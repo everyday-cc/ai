@@ -2,6 +2,91 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-29-otterai-rolls-out-a-new-ai-generated-meeting-summary-feature-and-more-collaboration-tools.md",
+      "title": "Otter.ai rolls out a new AI-generated meeting summary feature and more collaboration tools",
+      "excerpt": "AI-powered voice transcription service Otter.ai is releasing a set of new meeting-focused features to boost collaboration, the company announced on Tuesday. Most notably, the company is adding a new “Automatic Outline” feature that uses Otter’s proprietary AI to automatically",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/",
+      "originalUrl": "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vdmHxFwZCCU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/otter-ai-meeting-summary-feature/amp/",
+      "publishedDateTime": "2022-03-29T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-kyndi-releases-natural-language-search-solution.md",
+      "title": "Kyndi releases Natural Language Search Solution",
+      "excerpt": "Kyndi, a natural language processing (NLP) company, is releasing the Kyndi Natural Language Search Solution, an end-to-end offering designed to maximize the relevancy and speed of finding answers in unstructured, text-based data. Today, individuals still ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Kyndi-releases-Natural-Language-Search-Solution-152116.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
       "title": "Go with the flow state: What music and AI have in common",
       "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
@@ -1084,101 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-tsa-continues-facial-recognition-rollout-at-airports.md",
-      "title": "TSA Continues Facial Recognition Rollout at Airports",
-      "excerpt": "For five years, the Transportation Security Administration has tested facial recognition technology at select airports as a method to automate identity verification at checkpoints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
-      "originalUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5bdf5f/2147483647/strip/true/crop/940x490+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
-      "publishedDateTime": "2022-03-28T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models.md",
-      "title": "Report: 68% of orgs rely on in-house evaluation to tune AI models",
-      "excerpt": "The addition of data annotation to this list of popular AI technologies indicates more sophisticated use cases are on the way as AI matures.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1296686780-e1648496481937.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
-      "publishedDateTime": "2022-03-28T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

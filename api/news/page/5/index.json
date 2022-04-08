@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-01-cognitive-computing-market-2028-industry-analysis-trends-market-size-and-forecasts.md",
+      "title": "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts",
+      "excerpt": "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts",
+      "originalUrl": "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50125",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning.md",
+      "title": "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning",
+      "excerpt": "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/08/Oracle-e1617192273881.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
+      "publishedDateTime": "2022-04-01T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
       "title": "\"World's smartest traffic management system\" launches in Australia",
       "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
@@ -1074,94 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
-      "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
-      "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
-      "sourceUrl": null,
-      "webUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
-      "originalUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jersey Evening Post",
-        "domain": "jerseyeveningpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
-      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
-      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

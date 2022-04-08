@@ -6,9 +6,6 @@ publishedDateTime: 2022-04-01T13:44:00Z
 originalUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
 webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -18,22 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Artificial Intelligence as a Service Market Emerging Trends and Competitive Analysis During Forecast 2031"
-    excerpt: "The rising number of innovative start-up operations working within the domain of AI powered tools and services is one of the key factors driving the"
-    publishedDateTime: 2022-04-04T06:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-market-emerging-trends-and-competitive-analysis-during-forecast-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 26
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50125"
+    width: 443
+    height: 250
+    isCached: true
 
-secured: "E1pkP5POjWmyCSwc+1Vea7nAk/uIraNN4G1ncFEUEwwFv0P+vnroqhkFzezt3D/mcgdgu9J3Hp/hXcvn52Ima6bK5T0ZWsnNNyFpOvGpq4pa8IJJ6pev1kl+yb3HHkH8hbb+eVYipgzrR315k2M82oyYD3g5ZtuF+A2N5UnVj1XcR68f0n02bMfrytTqMY+22Mh1oxP6tKY7mcSofoOjpG+5sFY/xKC5DqZ0I58Ugs0nlmjDCABia2IHypDs5tiHANdAJBgMKZgCiICjWqQ3YGoxZzK7AL8fFCWRyXVixlGCyiPi9rzilUlXGzcxcpMwbpDBfUjZSibH91LpKxJbOzI1c9kvXAR9Q/pR6bUZvEs=;3gmvPFG4FGoqcMt5uK4dOA=="
+secured: "3fPX8xO7xG/hAWFCN6sMDmCyGjMdQrB5SeR9nSk9N+GmL/ARP8MfYduGfckLQUeUn1ATZokxeifA004XDqXkAu1e+0kb/fSDkv2PT8Hrxpg0CG6+QAEovLcecRiXWnHYHbxTkT3Jwff1sKJEpuhtm4jWS4GhgXJw08yy3T9MHZAnOTjK9lfLB2d7/fz4OXbYiPSlE3+YCvs+VlxchXS2tWt9dHTtEvZwHWIowcwOba2eCj3RKNCCiPoa1IVXqus+mMFaLNiM+huZ3mSG/WgotvICHw05vwRhFYNobJhlqV9z7/qwcdG2hY5IAWkMEt42bbOSHT2dsgWkmXYbO0oALko8qiKqZoixekG5QkeaCAQ=;dZ1IxnchF34lsiNyNEO4Vw=="
 ---
 
