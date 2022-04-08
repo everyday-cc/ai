@@ -5,8 +5,6 @@ excerpt: "[246 Pages Report] AI in computer vision market size is projected to g
 publishedDateTime: 2022-03-30T23:08:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/03/ab26388344/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-202"
 webUrl: "https://www.benzinga.com/pressreleases/22/03/ab26388344/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-202"
-ampWebUrl: "https://www.benzinga.com/amp/content/26388344"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26388344"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "AS1qOXEzJFitBu7zh0KtN5DyvSo7r4hab3coowV7EQT3gIxweZu/13zB3BMtWUnEg8q4fF1SG7IcbgO8kdrU/w8ZXB9P+whehN2bYSSK0ppuTSKoy5dl2Te0c+SZcmbf8PnVqTRi9Sp9EWor9F7pw4JbmWZAA4zIcAJcoxFApfZnP6Ne4M6hzAyV4q43+MjMBX4f4BmOiloPboBui43FBBW2OLw5L997qafzLUtFh6qwRJSB0vbV207SJglKEOXK158T5fI6zZcDOLrjTichfGNx0kYELezacsjgUU7HLboH5ukyIVcsIQfUse8NS63xAX6XtzLCuYC3WOGaiEow1P5ggzVf1bhnZzKSEYr6dUyT8S78I61ZxlTnj7viGcbfygwpZTwY1cx75FnhOr37Xv9GgU4Dukk4N/8dx6lwVfpx5fNLRAtbj0Tb+yS1xk7s8dncOWeT0hPHsfveyR5XZe9lrysadIfhDA3B0KKgvu29mGmmULIs3Q4VOOEKq0SbgYRpqBkj2apto5hiT13JNQ==;inqNthCDPKGdBTARaX2ybQ=="
+secured: "jGwXdGmmY3X4wkvvnMo1a9asfx1AkLYNeiJFCKN3XTaxN85oTCT8toVWofEQbe3OJIH/uxLBrzmY/9EtTERfc3oS46bvQ6LcFbcFAwipQrjFe3MexlUmzWM5MjvjcdHeBGvhTKRfg6jJNFUt6jGcO4uKcta4B8zsOq7sLuKe+UIQtwG3WY4643UuXgctjgSCr+Dw55UvIAsqZGLAjl/6fP/bjzK34sgTQNxzz0vVSEweRNs5wlnsFdjYuX+beGGiUqvF99x/0DXY2EFSAZlprPqEgkHjsKUV8yjULdJeT68rTSq1bFv+XCPRF/abyqxPVNx+ZuTH45PQiZ/rJeyK0DLDh8uwDOpfBFSvbeoTOKk=;tQa7r7LpIPH1Zdsc9hm13A=="
 ---
 
