@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "How to Hire the Best AI & Machine Learning Engineers"
+    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
+    publishedDateTime: 2022-04-06T23:30:00Z
+    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 56
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Deep learning rising in importance within booming AI sector"
     excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
     publishedDateTime: 2022-04-06T01:40:00Z
@@ -55,20 +69,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
         width: 720
         height: 480
-        isCached: true
-  - title: "How to Hire the Best AI & Machine Learning Engineers"
-    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
-    publishedDateTime: 2022-04-06T23:30:00Z
-    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "AI breakthrough explained to human operators"
     excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."

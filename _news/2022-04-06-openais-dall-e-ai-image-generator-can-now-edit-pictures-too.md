@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meet DALL-E, the AI that draws anything at your command"
-    excerpt: "At OpenAI, one of the world’s most ambitious artificial intelligence labs, researchers are building technology that lets you create digital images simply by describing what you want to see."
-    publishedDateTime: 2022-04-07T09:40:00Z
-    webUrl: "https://bdnews24.com/technology/2022/04/07/meet-dall-e-the-ai-that-draws-anything-at-your-command"
+  - title: "OpenAI’s DALL-E AI is becoming a scary-good graphic artist"
+    excerpt: "Like its predecessor, the new DALL-E 2 is a neural network that creates images based ... Sullivan covers emerging technology, politics, artificial intelligence, large tech companies, and ..."
+    publishedDateTime: 2022-04-06T18:07:00Z
+    webUrl: "https://www.fastcompany.com/90738554/openais-dall-e-ai-is-becoming-a-scary-good-graphic-artist"
     type: article
     provider:
-      name: bdnews24
-      domain: bdnews24.com
-    quality: 37
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/04/07/ai-images-070422-01-smr.jpg/BINARY/ai-images-070422-01-smr.jpg"
-        width: 1024
-        height: 536
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-dall-e-ai-is-becoming-a-scary-good-graphic-artist.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Salvador DALL-E: OpenAI releases Artificial Intelligence tool that can produce a full image from a text description - or even create new angles for existing images"
     excerpt: "The artificial intelligence research group won't be releasing the system ... Its original version, named after Spanish surrealist artist Salvador Dali, and Pixar robot WALL-E, was released in January 2021 as a limited test of ways AI could be used to ..."

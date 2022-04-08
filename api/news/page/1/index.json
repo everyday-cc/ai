@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
+      "title": "How AI could help enterprises to reduce data storage costs",
+      "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
+      "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
+      "publishedDateTime": "2022-04-07T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-ai-sucks-at-telling-jokes-but-its-great-at-analyzing-them.md",
       "title": "AI sucks at telling jokes — but it’s great at analyzing them",
       "excerpt": "Google's new AI system, PaLM, is seriously good at explaining jokes. Its understanding of comedy shows language models are improving rapidly.",
@@ -544,7 +596,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -639,7 +691,7 @@
       "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -691,7 +743,7 @@
       "originalUrl": "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -766,6 +818,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-meet-dall-e-the-ai-that-draws-anything-at-your-command.md",
+      "title": "Meet DALL-E, the A.I. That Draws Anything at Your Command",
+      "excerpt": "New technology that blends language and images could serve graphic artists — and speed disinformation campaigns. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/04/04/business/00dall-e3/00dall-e3-facebookJumbo-v3.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html",
+      "publishedDateTime": "2022-04-06T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1101,110 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-artificial-intelligence-for-ceos.md",
-      "title": "Artificial Intelligence For CEOs",
-      "excerpt": "So I thought I would share the wealth and pass on some of that knowledge to my fellow CEOs. I will be putting out a post about every quarter focusing on a technology that has three characteristics: 1) in the news;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624da4b02117907c855ca2ca/0x0.png?format=png&crop=1050,590,x0,y98,safe&width=1200",
-          "width": 1050,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/amp/",
-      "publishedDateTime": "2022-04-06T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments.md",
-      "title": "IBM Puts AI On A Chip To Improve Fraud Detection In Real-Time Payments",
-      "excerpt": "IBM has launched a new generation mainframe with artificial intelligence built into the chip to provide financial firms such as banks and credit card companies with the ability to conduct fraud analysis of 100% of their transaction in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624da32e94f20ddb39d7efd7/0x0.jpg?format=jpg&width=1200",
-          "width": 1159,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
-      "publishedDateTime": "2022-04-06T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

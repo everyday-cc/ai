@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Relyance AI to Demonstrate Critical New Modules for its Machine Learning Powered Privacy Platform at the IAPP Global Privacy Summit"
-    excerpt: "Relyance AI, the leading provider of AI-powered privacy, data governance, and compliance solutions, today announced it will showcase its groundbreaking platform and new software products at the upcoming IAPP Global Privacy Summit."
-    publishedDateTime: 2022-04-07T10:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-199473ff096848f3b0e4deac12245c87"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
 
 secured: "sn2rdjNYrZ237M3HMdg/nBHyqFeqnI3t6ZmKLA1MBzBXKrwIU7Yoh4NEGeZyifypzFQFNUpuuUOmVpPAwjsmkGzXmu2bPHVYlkCagywiRPDx2ZQFYhtCxFNC7gumb3LyRP2a+4oOnmhbXQF9F41Pi1zjGi+mjU4hjdMWpuIwXiDADpTyk6VIKMVP04Q+EhFFxCHKw4pw6nQ0ttATPHoSNp0wyMcG/oGO9WFWUEOuLmmWxwCVbLpkct2SmB7ZGcUJ1KkzL8cMxU2lmajxgj1p5BDuUxygsdk4lGrQheTmkEA4bwbvNuKfsWaH4Q+bSs9fTl3radPGFJsUY19VE306+uIHS0jDRg/llIYi5dO6wyA=;AdiUh79hkhoNRKwv+KMUcw=="
 ---

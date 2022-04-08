@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3654965/career-roadmap-machine-lea
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.amp.html"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Computer Vision & Deep Learning Engineer"
+    excerpt: "We are looking for an enthusiastic, curious and proactive software developer who wants to work in an energetic Scrum development team on the best sorting software in the world. Within the team you ..."
+    publishedDateTime: 2022-04-06T14:09:00Z
+    webUrl: "https://tweakers.net/carriere/it-banen/432684/computer-vision-en-deep-learning-engineer-eindhoven-yacht"
+    type: article
+    provider:
+      name: Tweakers
+      domain: tweakers.net
+    quality: 36
 
 secured: "Tbv+wW9OAZo1ig3Dd6JICq5FA3Q5w4qfQIxhh6eOBDzIg9u47XOz9K2PNL/9XK/dcHmIT+ECngitf6vle0BMMKgMNy7WW3UvE+7bTYmreXEQOQIsszKQqXTI/CqZLYLsKAPT2nx+XRZr7hvVFgZFpgz6+4Jr6ptJ2PTQQwaa9U5C7DDR/DDt95AQnlPI1UlUkBg1iXhhdngBmLYxPEyyQ2QvCPkk47ujjTfnA7BjuLcC9Q48h+oCXBEkJcQYx7EXt0yGaXhzjJPmVFZowXt7ngJFMdq84uC78ldf84VGOKkFXUznH3+DKCRMS1TX0FTHsJ5xHABpk6lKfvo6qSPOiLcGnVWLgm2ZqlWPhBbSVmgf9UQga6X4HtXJlnE9A2E9sa8603WKelbyEw6oEbZhBC99lYsQrs8oKhDMi5azK1B909UR5bDqbmnyersQwTGH2TUGCdVTmH4hC75Dy75Mm1iLzimWtn2OGCww3xcXgRYUzhwj8AW8Xc1/vwm/REp5pN64+8du3IcBc3lOWbWH5w==;dIB6AZx2mjIfVrwr43CNCQ=="
 ---

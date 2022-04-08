@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-22-microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup.md",
+      "title": "Microsoft adds Pasqal’s neutral-atom processors to its Azure Quantum cloud computing lineup",
+      "excerpt": "Microsoft’s Azure Quantum cloud computing service will be adding a brand-new tool to its toolbox: Pasqal’s neutral-atom quantum processing system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
+      "originalUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RGqhsC6rUxQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/microsoft-adds-pasqals-neutral-atom-processors-to-its-azure-quantum-cloud-computing-lineup/amp/",
+      "publishedDateTime": "2022-03-21T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-21-global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027.md",
       "title": "Global Cognitive Data Management Market 2021 Key Players Analysis, Segmentation, Industry Size, Growth, Trend and Forecast by 2027",
       "excerpt": "Mar 20, 2022 (CDN Newswire via Comtex) -- Global Cognitive Data Management Market Research Report 2021-2027 crafted by MarketsandResearch.biz encompasses a clear picture of the global market by ...",
@@ -1333,49 +1385,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-microsoft-completes-197b-acquisition-of-nuances-ai-voice-tech.md",
-      "title": "Microsoft completes $19.7B acquisition of Nuance's AI voice tech",
-      "excerpt": "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance",
-      "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-04T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "Tech Giant NVIDIA to Open Research Center in Armenia"
+    excerpt: "NVIDIA, a world leader in visual computing technologies, is establishing a research center in Armenia, Deputy Speaker of the Armenian National Assembly Hakob Arshakyan informs, Ar"
+    publishedDateTime: 2022-04-07T23:28:00Z
+    webUrl: "https://asbarez.com/tech-giant-nvidia-to-open-research-center-in-armenia/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 24
+    images:
+      - url: "https://media.asbarez.com/wp-content/uploads/2022/04/07161750/Nvidia-scaled-1-576x375.jpg"
+        width: 576
+        height: 375
+        isCached: true
 
 secured: "OwOtioCnNmw4JrCHm8ptAEvigzX9XUprHqwVW7UsYA66PZ6jqglvagpF7Ky9kyYvBm2Um+3juHT5srlqXgx3lfKqBFAMW1zpCLb7r62okhfSN7hzq2UfMVxNmOpd7lactttNEM17dCeFID6zlSMrqejaD4mvUPqnAEnslOGwsALZsayNAJ11mlkhxVYsAheUPDAjJt8cNhzqZNdcdN8e8WuvFIoKli+3NnThup/JNkBj192gxn76V+7WaC+8kPXiEfO6uwHI/XXHM5F45krJFxFeanRL0rO45vSKFOk0nRswMr2EcbZqqN/9Epn0jwBX32Ss5VPsZ9B9BjetBINXiTDdhKChLlkrh5rKC41rH9M=;+oJ1FkLMmxEBPpmylKOJuA=="
 ---

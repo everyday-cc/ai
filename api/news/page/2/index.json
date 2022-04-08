@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-06-artificial-intelligence-for-ceos.md",
+      "title": "Artificial Intelligence For CEOs",
+      "excerpt": "So I thought I would share the wealth and pass on some of that knowledge to my fellow CEOs. I will be putting out a post about every quarter focusing on a technology that has three characteristics: 1) in the news;",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624da4b02117907c855ca2ca/0x0.png?format=png&crop=1050,590,x0,y98,safe&width=1200",
+          "width": 1050,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/amp/",
+      "publishedDateTime": "2022-04-06T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments.md",
+      "title": "IBM Puts AI On A Chip To Improve Fraud Detection In Real-Time Payments",
+      "excerpt": "IBM has launched a new generation mainframe with artificial intelligence built into the chip to provide financial firms such as banks and credit card companies with the ability to conduct fraud analysis of 100% of their transaction in real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
+      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624da32e94f20ddb39d7efd7/0x0.jpg?format=jpg&width=1200",
+          "width": 1159,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
+      "publishedDateTime": "2022-04-06T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
       "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
       "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
@@ -634,7 +738,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -824,7 +928,7 @@
       "originalUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -919,7 +1023,7 @@
       "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1014,7 +1118,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1088,99 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape.md",
-      "title": "The Need for a Chief Artificial Intelligence Officer in the Modern Business Landscape",
-      "excerpt": "In the modern business landscape, a Chief Artificial Intelligence Officer (CAIO) role is crucial, but it must be established carefully",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/",
-      "originalUrl": "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/The-Need-for-a-Chief-Artificial-Intelligence-Officer-in-the-Modern-01-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/amp/",
-      "publishedDateTime": "2022-04-05T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence.md",
-      "title": "Overwatch raises $11M for airborne imaging systems with built-in artificial intelligence",
-      "excerpt": "I look forward to working closely with them as we quickly scale our company to support the brave men and women worldwide who rely on intelligence from our systems.” Squandra Ventures managing partner Guy Filippelli and Shield Capital managing partner Raj ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e-BjvA1zBV8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-04-05T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

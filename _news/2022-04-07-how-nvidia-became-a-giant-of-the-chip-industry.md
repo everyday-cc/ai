@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Giant NVIDIA to Open Research Center in Armenia"
+    excerpt: "NVIDIA, a world leader in visual computing technologies, is establishing a research center in Armenia, Deputy Speaker of the Armenian National Assembly Hakob Arshakyan informs, Ar"
+    publishedDateTime: 2022-04-07T23:28:00Z
+    webUrl: "https://asbarez.com/tech-giant-nvidia-to-open-research-center-in-armenia/"
+    type: article
+    provider:
+      name: Asbarez
+      domain: asbarez.com
+    quality: 24
+    images:
+      - url: "https://media.asbarez.com/wp-content/uploads/2022/04/07161750/Nvidia-scaled-1-576x375.jpg"
+        width: 576
+        height: 375
+        isCached: true
   - title: "Intel Arc is off to a bad start on laptops — Nvidia blows it away"
     excerpt: "the Intel A370M is off to a tricky start. As spotted by our sister site, Tom’s Hardware, the YouTube channel Benchmark Lab has been testing Intel’s Arc Alchemist debut against the Nvidia GeForce GTX 1650 Mobile across ten gaming benchmarks. The result?"
     publishedDateTime: 2022-04-03T15:30:00Z

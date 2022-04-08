@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
+      "title": "Adversarial AI and the dystopian future of tech",
+      "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "publishedDateTime": "2022-04-03T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
+      "title": "AI algorithms could disrupt our ability to think",
+      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "publishedDateTime": "2022-04-03T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-datarobots-vision-to-democratize-machine-learning-with-no-code-ai.md",
       "title": "DataRobot’s vision to democratize machine learning with no-code AI",
       "excerpt": "The growing digitization of nearly every aspect of our world and lives has created immense opportunities for the productive application of machine learning and data science. Organizations and ...",
@@ -10,7 +113,7 @@
       "originalUrl": "https://thenextweb.com/news/datarobots-vision-to-democratize-machine-learning-with-no-code-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -598,25 +701,43 @@
     {
       "path": "_news/2022-04-02-2-ai-stocks-that-could-help-make-you-a-fortune.md",
       "title": "2 AI Stocks That Could Help Make You a Fortune",
-      "excerpt": "T he artificial intelligence (AI) software market is expected to grow by 21% this year, while the overall AI market is predicted to grow at a 40% compound annual growth rate throu",
+      "excerpt": "Nvidia's AI leadership puts the company at the doorstep of a $1 trillion total addressable market. IBM provides investors with a bonus as it sets its sights on an AI future. The artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902",
+      "webUrl": "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "originalUrl": "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/668519/a-child-having-fun-programming-a-life-size-robot-with-human-characteristics.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
-      "publishedDateTime": "2022-04-02T04:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-02T00:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -625,7 +746,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "IBM AI",
         "AI"
       ]
     },
@@ -1023,102 +1144,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
-      "title": "\"World's smartest traffic management system\" launches in Australia",
-      "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "originalUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d27f7eb/2147483647/strip/true/crop/2940x1960+146+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2Fa7%2Fd895452c4b34b0bb2bb27d53b99f%2Fdepositphotos-325652746-xl.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "publishedDateTime": "2022-04-01T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-cyber-security-in-robotics-market-is-expanding-at-a-healthy-110-cagr-for-2022-2029.md",
-      "title": "Cyber Security in Robotics Market is Expanding At a Healthy 11.0% CAGR For 2022 – 2029",
-      "excerpt": "Sales in the global cyber security in robotics market are slated to top US$ 3.5 Bn in 2022. Expanding at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. The high demand for firewall security services and similar other solutions such as encryption solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
-      "originalUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-5.jpg",
-          "width": 1008,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

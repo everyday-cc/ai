@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-05-the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape.md",
+      "title": "The Need for a Chief Artificial Intelligence Officer in the Modern Business Landscape",
+      "excerpt": "In the modern business landscape, a Chief Artificial Intelligence Officer (CAIO) role is crucial, but it must be established carefully",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/",
+      "originalUrl": "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/The-Need-for-a-Chief-Artificial-Intelligence-Officer-in-the-Modern-01-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/amp/",
+      "publishedDateTime": "2022-04-05T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence.md",
+      "title": "Overwatch raises $11M for airborne imaging systems with built-in artificial intelligence",
+      "excerpt": "I look forward to working closely with them as we quickly scale our company to support the brave men and women worldwide who rely on intelligence from our systems.” Squandra Ventures managing partner Guy Filippelli and Shield Capital managing partner Raj ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
+      "originalUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e-BjvA1zBV8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-04-05T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
       "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
       "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
@@ -570,7 +663,7 @@
       "originalUrl": "https://www.zdnet.com/article/massaging-ai-language-models-for-fun-profit-and-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -602,7 +695,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Machine Learning"
       ]
     },
     {
@@ -917,7 +1011,7 @@
       "originalUrl": "https://www.infoworld.com/article/3654965/career-roadmap-machine-learning-engineer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1079,109 +1173,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
-      "title": "Adversarial AI and the dystopian future of tech",
-      "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
-      "originalUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
-      "publishedDateTime": "2022-04-03T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
-      "title": "AI algorithms could disrupt our ability to think",
-      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
-      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
-      "publishedDateTime": "2022-04-03T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

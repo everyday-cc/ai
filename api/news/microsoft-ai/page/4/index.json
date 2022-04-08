@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-16-considerations-before-the-decision-making-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid-19.md",
+      "title": "Considerations before the decision-making including fluvoxamine as a treatment option in guidelines on the management of COVID-19",
+      "excerpt": "Unit of Psychiatry, Department of Public Health and Medicinal Administration, & Institute of Translational Medicine, Faculty of Health Sciences, University of Macau, Macao SAR, China Centre for Cognitive and Brain Sciences, University of Macau, Macao SAR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
+      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/considerations-before-the-decisionmaking-including-fluvoxamine-as-a-treatment-option-in-guidelines-on-the-management-of-covid19/D0558A5A5FADE32AE3B5967E50E93198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verified-cloudconnect-to-office-365-and-azure.md",
       "title": "authID.ai Joins Microsoft Partner Network to Expand Verified™ CloudConnect™ to Office 365 and Azure",
       "excerpt": "“authID.ai is committed to delivering intuitive ... we are excited that our new biometric integration with the Microsoft Office 365 and Azure platform will protect the data and IP of an even larger cohort of enterprises and professionals across the ...",
@@ -1296,40 +1330,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-therapeutic-solutions-international-announces-reduction-of-covid-19-associated-cognitive-decline-by-quadramune-nutraceutical-in-animal-model.md",
-      "title": "Therapeutic Solutions International Announces Reduction of COVID-19 Associated Cognitive Decline by QuadraMune® Nutraceutical in Animal Model",
-      "excerpt": "Therapeutic Solutions International announced today filing of a new patent covering data demonstrating QuadraMune administration reduces cognitive decline caused by administration of COVID-19 spike protein in mice. In a series of experiments, mice were ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/07/therapeutic-solutions-international-announces-reduction-of-covid-19-associated",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

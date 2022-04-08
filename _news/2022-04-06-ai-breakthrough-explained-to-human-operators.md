@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "How to Hire the Best AI & Machine Learning Engineers"
+    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
+    publishedDateTime: 2022-04-06T23:30:00Z
+    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 56
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Adding AI to museum exhibits increases learning, keeps kids engaged longer"
     excerpt: "Hands-on exhibits are staples of science and children's museums around the world, and kids love them. The exhibits invite children to explore scientific concepts in fun and playful ways."
     publishedDateTime: 2022-04-05T14:48:00Z
@@ -69,20 +83,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
         width: 720
         height: 480
-        isCached: true
-  - title: "How to Hire the Best AI & Machine Learning Engineers"
-    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
-    publishedDateTime: 2022-04-06T23:30:00Z
-    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "EITb+oACOzmlO4yA+/UNtJtRlYC7tKAk0A3kvLD47D8M2oLSYTAkUweJ7ndV7JEM7VBk1CxGH1MUEMSHtsfKDSiYdwTm1yS9QOkqkXTW5ashxqvMaxh/9ACYYpkyCd7jGB59MLDdKz+UWrC7dYc02tw1oEH3BxUMpVB1ibMDz4yGvGKAL2ncHe5I680rtpKugT7TV6s395l0Q4x1PCQVIWMY27X/4gAZ7gu1vFast+b//jLTPuGc2oKDKJpdV3EcHHrvExiX9UuCQozNb+9N7BsFeFWhgT2KvK7dnEUdEymXY9cQzkaZUSljNqflWovOKiBuOKlNtM49P/yQJWnONcnkIbCp5BMaLgsZ3KI989M=;tuyFz9SKI7IwM9OdRnjjHQ=="

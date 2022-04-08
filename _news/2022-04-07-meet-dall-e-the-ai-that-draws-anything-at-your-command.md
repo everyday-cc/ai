@@ -1,53 +1,35 @@
 ---
 category: news
-title: "Meet DALL-E, the AI that draws anything at your command"
-excerpt: "At OpenAI, one of the world’s most ambitious artificial intelligence labs, researchers are building technology that lets you create digital images simply by describing what you want to see."
-publishedDateTime: 2022-04-07T09:40:00Z
-originalUrl: "https://bdnews24.com/technology/2022/04/07/meet-dall-e-the-ai-that-draws-anything-at-your-command"
-webUrl: "https://bdnews24.com/technology/2022/04/07/meet-dall-e-the-ai-that-draws-anything-at-your-command"
+title: "Meet DALL-E, the A.I. That Draws Anything at Your Command"
+excerpt: "New technology that blends language and images could serve graphic artists — and speed disinformation campaigns. Send any friend a story As a subscriber, you have 10 gift articles to give each ..."
+publishedDateTime: 2022-04-06T17:41:00Z
+originalUrl: "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html"
+webUrl: "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html"
+ampWebUrl: "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: bdnews24
-  domain: bdnews24.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/04/07/ai-images-070422-01-smr.jpg/BINARY/ai-images-070422-01-smr.jpg"
+  - url: "https://static01.nyt.com/images/2022/04/04/business/00dall-e3/00dall-e3-facebookJumbo-v3.jpg"
     width: 1024
     height: 536
     isCached: true
 
-related:
-  - title: "OpenAI’s DALL-E AI image generator can now edit pictures, too"
-    excerpt: "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image."
-    publishedDateTime: 2022-04-06T14:07:00Z
-    webUrl: "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Salvador DALL-E: OpenAI releases Artificial Intelligence tool that can produce a full image from a text description - or even create new angles for existing images"
-    excerpt: "The artificial intelligence research group won't be releasing the system ... Its original version, named after Spanish surrealist artist Salvador Dali, and Pixar robot WALL-E, was released in January 2021 as a limited test of ways AI could be used to ..."
-    publishedDateTime: 2022-04-07T18:30:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10696719/OpenAI-releases-Artificial-Intelligence-tool-produce-image-text.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-
-secured: "+A8xGUHzE2IpENbwt0siWXPvgqLX6PPIrD+ogNgKcLztZxxKze2+vcOjEb9MQh2yTew9vvht9/OCKNNo8B7cPBDk/EsDsT30jWnG4dbHzblsyxCamnN2F2Ck2DiRYTzrWl198mDtn5l6p/GMwzHKRC1yJgZUfjp4q1R2mAn3mBhAnfhUD+eJf6YPYeiFHFRinIHv8Sx3ey0+lfINWD1x2pZiS95YH/KlRbL72bMj2Y5A8Z0EtEUaMzGhR63nb2XKQF/oAeIAjZ3iqZhNuZr+/jBjRg31JCkvT2JKkA/Ud3J+sznlK5oKEFLNm7FvgfsqffUE7cSBJpeRabL++vukijG2I65noKhKv2yoQQXgwtw=;A1RMSXA+PlHhiqpVpXbMBg=="
+secured: "HUSB0ZlcgzAp5UrjJV8FNdkdYesWO0nIDks1UpWGdXSzcds9aTSnS9BZ15XlGxLUg8EJ3TL3AMT9Pvtm75uvQEcKr6Or4T0/AD1o3oPgNiNA9W9wXioFkjXdCkGk4WXKl423/qte6y/NrqNUUaDijl2rW8V+oknwndXiZNVYET2taYKOPp5sjmWW6nFuKlobzwLUKYS9IlLncZ8gDtYzmNOxfkBLFxr1KamgGyt7/9WPBsv2q5q16LzYm0MperthA/peKF0G3AB/x/CMmCtBpMgNvNQqY/5gsed71wqYVDVeSYmTg6407Ul+uB/B5RWkSzRu5yhaRjoxso+ms5UtLf/oopD0Lzyrir0fHj32T7I=;y+tds1Lk2iRwSsXISGXQ2g=="
 ---
 

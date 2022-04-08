@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Business-Ready Data Holds the Key to AI Democratization"
+    excerpt: "Good data is the bedrock of a self-service data consumption model, which in turn unlocks insights, analytics, personalization at scale through AI. Yet many organizations face immense challenges setting up a robust data foundation."
+    publishedDateTime: 2022-04-07T21:55:00Z
+    webUrl: "https://www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/"
+    ampWebUrl: "https://www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/Kamat_forweb.png"
+        width: 509
+        height: 509
+        isCached: true
   - title: "Machine learning can be made more accessible to everyone thanks to DataRobot’s no-code AI platform"
     excerpt: "Because of the increasing digitalization of practically every part of our daily lives, machine learning and data science have opened up a plethora of new potential applications. There is a pressing need for organisations and institutions to innovate and reimagine themselves via the application of artificial intelligence and the proper use of their data."
     publishedDateTime: 2022-04-03T16:20:00Z

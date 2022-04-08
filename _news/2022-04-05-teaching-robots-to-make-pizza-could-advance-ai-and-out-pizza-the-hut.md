@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
 type: article
 quality: 74
-heat: 96
+heat: 94
 published: true
 
 provider:

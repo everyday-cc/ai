@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
 type: article
 quality: 59
-heat: 101
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to Hire the Best AI & Machine Learning Engineers"
+    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
+    publishedDateTime: 2022-04-06T23:30:00Z
+    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 56
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Adding AI to museum exhibits increases learning, keeps kids engaged longer"
     excerpt: "Hands-on exhibits are staples of science and children's museums around the world, and kids love them. The exhibits invite children to explore scientific concepts in fun and playful ways."
     publishedDateTime: 2022-04-05T14:48:00Z
@@ -56,20 +70,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
         width: 720
         height: 480
-        isCached: true
-  - title: "How to Hire the Best AI & Machine Learning Engineers"
-    excerpt: "How to hire & recruit the top 3% of AI & machine learning engineers on an hourly, part-time, or full-time contract basis."
-    publishedDateTime: 2022-04-06T23:30:00Z
-    webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/career-3449422_1280.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "AI breakthrough explained to human operators"
     excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
