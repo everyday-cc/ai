@@ -2,7 +2,7 @@
 name: "Foodvisor"
 overview: "Your personal nutrition and wellbeing guide. \nGet your custom program created by nutritionists on the app and start your journey to a healthier, happier you ✌"
 type: "profile"
-heat: 58
+heat: 50
 
 website: http://www.foodvisor.io/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=H77GQBirQkM"
 
-secured: "juTNDnaKV6flNFZ9EuyXbrh1C7ZVqsjjr4Qu+dfXuDGB0UjJ3Kmw12SecYkkEJd+dV4yuFi0YE4TZKfBsyuFfOcpG41Oz19WZMojPBITunhujNopKrVFnAre6zOLY36YzrC/QyvtKBl/GYAU/+Koorg1n9OUSdNODytJ1zA1Gr/Wrft1/Q8dPqENDblplqO9LiRn7/4kZEm3fbuCal5UTKopBCbDwQvChYjkSnsHdA9gdsPCGgxlPcgR0vesXaP8+gHLaqN2hYCgWrF/hFer/5lKg8fIk9B12H9KHz+Q6jCaQaGvu312KUAY+BHA6AUl8AkDYHTJi9uLhVlNJ5OngsDhxRLFcNdt+ehiJysZSVzgxeqafG1HgnTZb0wqjegTD3Rb1nMByCn6xuwTYhhWh8JAJ0IYozxaylopuXHnGTE=;ZDUjInR338S0He62tptxjA=="
+secured: "k0qzoLSa7l+xXMWevgpBWt8bv12vG88jvt8Fve+OEUn7VW7ESK6tDFmFI0IwBLg3API3jt87Mht8t3symUt7Im9uPkMUoGHPtWn/wORS3mDQMveyBFlmGS3V2gAOYBfLf2yj5dzbaDxe+faItSugx41ad2P32u9upjCVjGljyOsTyALlJUvQVCWWO2qEEJHhKTb17dfVe1Eq18a5iEP0fNp4zIWBg7Y4BLG5MePMZQaSW7C8V33uTm7ii4BIwX2TGs0Tv7WVmTcUDf2etFDsvjcDQI2BnOKYc8pQgeom7NVVm7XQAR9lJvgIurJvfl8ujI2tHLD6NnfCOuG6l+5o0qiCNhMBXvjCZXPQO6D6ioy9TK7i/SrG+Z0g2KSitqUsHBHymUo1brlLPxcdHnOBcmflsdN0pXelfK5CBq4Gyhc=;iMqE3wbQ5xEB8xFJU4Xo8w=="
 ---
 
