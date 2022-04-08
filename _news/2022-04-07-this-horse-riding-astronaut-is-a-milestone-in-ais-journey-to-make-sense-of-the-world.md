@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-a
 ampWebUrl: "https://www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-ai-agi-multimodal-image-generation/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-ai-agi-multimodal-image-generation/amp/"
 type: article
-quality: 54
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/space-cowboy2.jpg?w=3000"

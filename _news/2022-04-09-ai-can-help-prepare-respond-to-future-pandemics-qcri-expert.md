@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T18:14:00Z
 originalUrl: "https://www.gulf-times.com/story/714200/AI-can-help-prepare-respond-to-future-pandemics-QC"
 webUrl: "https://www.gulf-times.com/story/714200/AI-can-help-prepare-respond-to-future-pandemics-QC"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Gulf Times

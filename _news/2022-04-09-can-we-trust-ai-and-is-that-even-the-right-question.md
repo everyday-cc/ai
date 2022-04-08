@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T17:44:00Z
 originalUrl: "https://www.datanami.com/2022/04/08/can-we-trust-ai-and-is-that-even-the-right-question/"
 webUrl: "https://www.datanami.com/2022/04/08/can-we-trust-ai-and-is-that-even-the-right-question/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: datanami.com

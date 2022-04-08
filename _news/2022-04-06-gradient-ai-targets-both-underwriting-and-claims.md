@@ -108,6 +108,20 @@ related:
         width: 654
         height: 374
         isCached: true
+  - title: "AiAdvertising Announces Partnership with Genus AI"
+    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI's technology into our platform,"
+    publishedDateTime: 2022-04-08T20:36:00Z
+    webUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-with-Genus-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
+        width: 295
+        height: 250
+        isCached: true
   - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
     excerpt: "The \"Spotting Future Unicorns - Predicting Startup Success using an AI Model\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the established unicorns and map it against the predicted unicorns using the analyst's AI model."
     publishedDateTime: 2022-04-06T13:51:00Z

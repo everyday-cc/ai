@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
+  - title: "LivePerson upgrades Conversation Assist to supercharge agents with real-time AI recommendations"
+    excerpt: "LivePerson upgrades Conversation Assist to supercharge agents with real-time AI recommendations. Enhanced recommendation engine for content and bots puts Conversational AI to work"
+    publishedDateTime: 2022-04-08T19:34:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/04/08/9579825.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 5
 
 secured: "cwTCY3b9ajuhIGAIo2e4SxGBjlhHocbsJRdk4wfqaNvT1Nee02VR/EHSPlZQPLM2CAD/OznfbDWJlmHKbWW0wfws1BKMHvgCQO/5yEIJXwcjCFGuE+SZAwMw1xXq51uiz0+aikc6om/Duo7jzLlGfKBN+My6V+9WqKKypOACyWqa5UnezOSMXdabHiIBJT/uH9RM4s1jALnvzNcA/IBaeaI21ST3wgrTRNc8ortKTVUg2gDd/z3zqllKysjFu4gy5Cg9GR/RUIvzdky2lnqiqbnJMNbYOIyzbQnh2JysSaAsf7+q4I2gAstPQLSQ4K0h+pvWPHcy4JryRZF4PX9ItuepQcUClBOzHdyk1Z5wSHh9bJ/xi+OH5TmGcjwGjG2BNEI1YCgA1S2n7xAehhxtyB+GmnhiEmkLEGNquIBmgWKbWDGNiVFArGqpqWSgHRXGct82ZiAHkYDFYudmv0Rciqg/l5MSjWxO1seEnTUjGZesCgZwR8MvLSvditavCwk1LTgRKphloFIZtc++TBRRZg==;nUDJhJgMRghGvM3NE16EZg=="
 ---

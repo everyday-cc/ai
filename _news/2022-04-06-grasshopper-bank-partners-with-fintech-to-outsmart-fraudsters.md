@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Top ex-fund managers launch £30m AI and fintech fund"
-    excerpt: "A group of top ex-fund managers is launching their third fund in as many years aimed at channelling funds into fast-growing AI, fintech and mobility"
-    publishedDateTime: 2022-04-04T05:00:00Z
-    webUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/"
-    ampWebUrl: "https://www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/top-ex-fund-managers-launch-30m-ai-and-fintech-fund/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/02/GettyImages-1238230801.jpg"
-        width: 594
-        height: 396
-        isCached: true
   - title: "Meet The Fast And Furious of Fintech"
     excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
     publishedDateTime: 2022-04-08T13:07:00Z

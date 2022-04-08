@@ -31,20 +31,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Brawijaya Student Start-up makes Forbes 30 Under 30 List"
-    excerpt: "(MENAFN- ACN NewsWire) Malang, East Java, Indonesia, Apr 4, 2022 - (ACN Newswire) - An agricultural start-up initiated by three ... and artificial intelligence (AI) to enhance the productivity ..."
-    publishedDateTime: 2022-04-04T03:40:00Z
-    webUrl: "https://menafn.com/1103957317/Brawijaya-Student-Start-up-makes-Forbes-30-Under-30-List"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?682325"
-        width: 380
-        height: 250
-        isCached: true
 
 secured: "dckWHJQqmS4qa0Ahn4NarjhcIsCZ2wcnJtdqOaf4Wm86SgbTFVhjlMvG2RKtKMeHz9senF3Ge+rB/7B8ceLdGdjIwEvrjHaogyGt04x0qIyRK0aaumNeJKOfEHFofo2TkN/kmhutnp2ODN6twuLZEsQjp8HLMES5SVXgQfH+DQZ2RcxQU+X6esQoljC7Oo1LCjUYJO5gaGWbLqJgOCWHbhy3rko15WRzphOdDHezKtEeDSSLTTIyRMZsrV23pEt3O9m5LiNLaOVrsTHDBhmXilkXlyg0mIr0lSyrvHL2G+E4rf4k1wKFlISN3g+LfPNjUNMjIoVyd/pao/30hG7DeAfDyZHsddDl+HcNLEVgJam3i4Xp6x7YhP/zkVUB7s602bg8dDNKzjqh6llDT1A64H1WnLZarhmWZbruNjBuBElRNHYxJPGuYDqfX8e3JfBSmdUwjHSuKowgy7thC/l7KfGJ8NUHVwFprN0IxO2C3wW0APopxaSKg/rma+q40uE2bX1jOaOjziUAYZAcSptOlA==;TT0p7YG8ZfFMdUjftsae2A=="
 ---

@@ -54,17 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tata Capital infuses $10 Million in healthcare startup DeepTek"
-    excerpt: "Tata Capital announced $10 million in funding in Pune-based healthcare startup DeepTek recently. Tata Capital Healthcare Fund II."
-    publishedDateTime: 2022-04-04T04:13:00Z
-    webUrl: "https://www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/"
-    ampWebUrl: "https://www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/amp/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 39
   - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
     excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
     publishedDateTime: 2022-04-07T21:39:00Z

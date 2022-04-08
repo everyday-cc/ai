@@ -25,57 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Market Size, Share | Analysis & Future Trends – 2026"
-    excerpt: "According to the study published by Allied Market Research, the global Speech Recognition Market is projected to register remarkable growth from 2021 to"
-    publishedDateTime: 2022-04-07T09:16:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-size-share-analysis-future-trends-2026"
+  - title: "Machine Learning Market Sales and Revenue Analysis Report 2022 to 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning Market which emphasizes on the la"
+    publishedDateTime: 2022-04-08T20:33:00Z
+    webUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Revenue-Analysis-Report-2022-to-2031"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
+        width: 295
+        height: 250
+        isCached: true
+  - title: "Deep Learning Chipset Market Research Report 2022"
+    excerpt: "The global Deep Learning Chipset market was valued at 1729.9 Million USD in 2021 and will grow with a CAGR of 38.18% from 2021 to 2027, based on Research newly published report. The prime objective of this report is to provide the insights on the post COVID-19 impact wwhich will help market players in this field evaluate their business approaches."
+    publishedDateTime: 2022-04-05T09:26:00Z
+    webUrl: "https://galleonnews.com/news/244910/deep-learning-chipset-market-research-report-2022/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
     quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://galleonnews.com/wp-content/uploads/2022/04/grandresearchstore-43.jpg"
+        width: 670
+        height: 376
         isCached: true
-  - title: "Mobile Robot Market Size, Future Trends, Segmentation, Total Margin, Opportunity Assessment Up to 2027"
-    excerpt: "The Global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-04-05T14:33:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-size-future-trends-segmentation-total-margin-opportunity-assessment-up-to-2027"
+  - title: "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest t"
+    publishedDateTime: 2022-04-07T10:37:00Z
+    webUrl: "https://menafn.com/1103973174/Computer-Vision-Market-2022-Comprehensive-Analysis-Future-Estimations-Growth-Drivers-and-Forecast-to-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?745788"
+        width: 456
+        height: 250
+        isCached: true
+  - title: "AI-based Sensors Market Recent Trends, Future Growth, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2027"
+    excerpt: "The global AI-based Sensors Market is expected to reach USD 152.55 Billion by 2027, according to a new report by Emergen Research. The demand for the"
+    publishedDateTime: 2022-04-05T09:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-based-sensors-market-recent-trends-future-growth-industry-analysis-outlook-insights-share-and-forecasts-report-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
+    quality: 11
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
-    excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
-    publishedDateTime: 2022-04-04T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-size-share-growth-trends-industry-analysis-2030%EF%BF%BC"
+  - title: "Deep Learning Chip Market Research Report Analysis 2021 – 2028 by Size, Share, Trends, Growth, Industry Analysis and Outlook"
+    excerpt: "The Global Deep Learning Chip Market Research Report added by Emergen Research to its expanding repository is an all-inclusive document containing"
+    publishedDateTime: 2022-04-04T19:28:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-research-report-analysis-2021-2028-by-size-share-trends-growth-industry-analysis-and-outlook"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 17
-  - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
-    excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
-    publishedDateTime: 2022-04-04T08:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/enterprise-manufacturing-intelligence-market-size-share-growth-opportunity-competitive-outlook-and-industry-trends-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
+    quality: 9
 
 secured: "vChvUqsf4ihor1rg5RIHH67iy8NAZnT5UIaqEsFCk9Mk2GArn742+7oi+ZvYPlRgdWSN7e/CEC3x3g+DK3+RMZqbLIOOuQlypCkPPxeQe5X/1LSWQlXo+9cypzwVlzrfNs/0imgt9vFRGYyKHeQ0DYI61SE9ThsBaxzdWbHIbTQagGDMNucpusvbDqZoj2zhFRkt7F7gNCJ+O14ner21oQobO1kBD10jOol4tv1EDf/p+eQ4Vmn8gaHUEF3yQXOrV+IbASQxisDfvnwZ/lcuHiAmPfq+X9tlr83x8xXtftyquMXIirwE8MTQ0YVLLdMRXi4GRdqlrCKMlJ+S/IN4PidacuhkGyPIOscRTv+aXkU=;bkCdaz75mq/qgxLBxjKRZQ=="
 ---

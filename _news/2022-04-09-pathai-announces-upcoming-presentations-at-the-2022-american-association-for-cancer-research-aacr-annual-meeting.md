@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T17:15:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-pathai-announces-upcoming-presentations-the-2022-american-association-/2022/04/08/9579800.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-pathai-announces-upcoming-presentations-the-2022-american-association-/2022/04/08/9579800.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

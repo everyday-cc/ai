@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T19:45:00Z
 originalUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
 webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

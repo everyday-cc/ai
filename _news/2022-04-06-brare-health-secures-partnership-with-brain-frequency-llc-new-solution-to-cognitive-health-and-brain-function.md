@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T00:15:00Z
 originalUrl: "https://www.fox21news.com/business/press-releases/cision/20220405LA15126/brare-health-secures-partnership-with-brain-frequency-llc-new-solution-to-cognitive-health-and-brain-function/"
 webUrl: "https://www.fox21news.com/business/press-releases/cision/20220405LA15126/brare-health-secures-partnership-with-brain-frequency-llc-new-solution-to-cognitive-health-and-brain-function/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: FOX21 News

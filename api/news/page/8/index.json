@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-31-opinion-intel-spices-up-pc-market-with-arc-gpu-launch.md",
+      "title": "Opinion: Intel spices up PC market with Arc GPU launch",
+      "excerpt": "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "publishedDateTime": "2022-03-30T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-snowflake-or-is-there-a-better-way-to-play-the-data-cloud.md",
+      "title": "Snowflake, Or Is There A Better Way To Play The Data Cloud?",
+      "excerpt": "Combined they are stronger than the sum of their parts. In fact, Snowflake was the only partner of AWS at the launch of SageMaker Canvas (a visual, no-code, machine learning tool that allows ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4498744-snowflake-better-way-play-data-cloud",
+      "originalUrl": "https://seekingalpha.com/article/4498744-snowflake-better-way-play-data-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1273823720/image_1273823720.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4498744-snowflake-better-way-play-data-cloud",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4498744-snowflake-better-way-play-data-cloud",
+      "publishedDateTime": "2022-03-30T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure.md",
       "title": "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure",
       "excerpt": "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ...",
@@ -844,22 +939,13 @@
       "title": "Palo Alto Networks Launches a Managed Next-Generation Firewall Service for AWS to Accelerate Enterprise Journey to Cloud",
       "excerpt": "Palo Alto Networks (NASDAQ: PANW), a 10-time leader in network firewalls, today announced that it has teamed up with Amazon Web Services (AWS) to unveil the new Palo Alto Networks Cloud NGFW for AWS — a managed Next-Generation Firewall (NGFW) service designed to simplify securing AWS deployments — enabling organizations to speed their pace of innovation while remaining highly secure.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox16.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/",
-      "originalUrl": "https://www.fox16.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.fox16.com/wp-content/uploads/sites/84/2022/04/e7977b4860774960af482ab7e05b0bb0-1.jpg?w=2000&#038;ssl=1",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -867,8 +953,8 @@
       "publishedDateTime": "2022-03-30T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox16.com",
-        "domain": "fox16.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1118,91 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-iktos-announces-a-collaboration-with-ono-in-artificial-intelligence-for-new-drug-design.md",
-      "title": "Iktos Announces a Collaboration With Ono in Artificial Intelligence for New Drug Design",
-      "excerpt": "Iktos, a company specialized in Artificial Intelligence (AI) for new drug design today announced a collaboration agreement with Ono Pharmaceuticals Co., Ltd., a leading pharmaceutical company based in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/b26365755/iktos-announces-a-collaboration-with-ono-in-artificial-intelligence-for-new-drug-design",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/b26365755/iktos-announces-a-collaboration-with-ono-in-artificial-intelligence-for-new-drug-design",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26365755",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26365755",
-      "publishedDateTime": "2022-03-30T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-kt-launches-ai-quarantine-robot.md",
-      "title": "KT launches AI quarantine robot",
-      "excerpt": "KT has launched an artificial intelligence (AI) quarantine robot intended for use at hospitals and other large facilities receiving many visitors. With quarantine robots being just the start of things to come,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/03/133_326427.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202203/2b579531f9c14bba911005012964263f.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326427",
-      "publishedDateTime": "2022-03-29T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

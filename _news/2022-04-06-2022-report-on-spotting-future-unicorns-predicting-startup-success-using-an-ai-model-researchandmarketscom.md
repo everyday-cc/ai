@@ -108,6 +108,20 @@ related:
         width: 654
         height: 374
         isCached: true
+  - title: "AiAdvertising Announces Partnership with Genus AI"
+    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI's technology into our platform,"
+    publishedDateTime: 2022-04-08T20:36:00Z
+    webUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-with-Genus-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
+        width: 295
+        height: 250
+        isCached: true
   - title: "Gradient AI targets both underwriting and claims"
     excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
     publishedDateTime: 2022-04-06T12:50:00Z

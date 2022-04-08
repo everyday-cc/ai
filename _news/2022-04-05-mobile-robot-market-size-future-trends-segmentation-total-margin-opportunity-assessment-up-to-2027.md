@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Natural Language Processing (NLP) Software Market 2022 Size, share, Growth, Analysis and Demand with Forecast Overview and Scope to 2026"
+    excerpt: "Global “Natural Language Processing (NLP) Software Market” 2022 report presents an exclusive analysis of market"
+    publishedDateTime: 2022-04-07T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-2022-size-share-growth-analysis-and-demand-with-forecast-overview-and-scope-to-2026-2022-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
     excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
     publishedDateTime: 2022-04-04T06:48:00Z
@@ -48,20 +57,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 17
-  - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
-    excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
-    publishedDateTime: 2022-04-08T09:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-share-revenue-latest-trends-future-growth-analysis-and-forecast-to-2028-grand-view-research-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/ce940272b36ea8ce186f15593531a992ec1a2244-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
     excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
     publishedDateTime: 2022-04-04T08:07:00Z

@@ -81,13 +81,13 @@ related:
       domain: proactiveinvestors.com
     quality: 35
   - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin (HK) Limited (\"BP\") to integrate BP's Guest Services RobotTM (\"GSR\") into the Company's concierge robots (T-series) and co-market the integration within the hotel industry."
-    publishedDateTime: 2022-04-08T11:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/08/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin ..."
+    publishedDateTime: 2022-04-08T11:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual-agreement-with-blue-pin"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 34
   - title: "Guardforce AI stock slides on pricing $10M share offering"
     excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"

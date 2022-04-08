@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/06/1049061/dalle-openai-gpt3-ai-agi-multimodal-image-generation/amp/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/space-cowboy2.jpg?w=3000"
         width: 3000

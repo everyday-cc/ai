@@ -64,6 +64,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Like Tesla, Toyota Wants To Conduct Self-Driving Research With Cameras Only"
+    excerpt: "When Tesla pulled the sensors from its vehicles in order to run advanced driver assistance systems with cameras only, it received a lot of pushback from experts in autonomous research. Toyota’s self-driving subsidiary,"
+    publishedDateTime: 2022-04-08T21:35:00Z
+    webUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/"
+    ampWebUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 37
   - title: "Why Toyota’s camera-only approach to self-driving is a bad idea"
     excerpt: "It ditched radars and initiated a camera-only approach, dubbed “Tesla Vision.” And while we’re used to Elon’s unorthodox methods, Toyota’s decision to follow suit is definitely surprising. The car maker’s self-driving subsidiary Woven Planet will be the second company to adopt a vision-based strategy in pursuit of fully autonomous driving."
     publishedDateTime: 2022-04-07T18:34:00Z

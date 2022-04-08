@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T14:00:00Z
 originalUrl: "https://www.sourcesecurity.com/news/vivotek-showcase-facial-recognition-tablet-ft9361-co-1795-ga-co-10281-ga.1649425269.html?ref=nav"
 webUrl: "https://www.sourcesecurity.com/news/vivotek-showcase-facial-recognition-tablet-ft9361-co-1795-ga-co-10281-ga.1649425269.html?ref=nav"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: SourceSecurity

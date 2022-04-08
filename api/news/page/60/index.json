@@ -2,6 +2,110 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-02-15-ambientais-stephanie-mcreynolds-on-ais-role-in-physical-security.md",
+      "title": "Ambient.ai’s Stephanie McReynolds on AI’s Role in Physical Security",
+      "excerpt": "I spoke with Stephanie McReynolds, Head of Marketing at Ambient.ai, about how AI can provide a network of cameras with predictive, real-time intelligence, and respect privacy at the same time. Among the topics we covered: The use of AI to boost security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
+      "originalUrl": "https://www.eweek.com/security/ambient-ais-stephanie-mcreynolds-ais-role-in-physical-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/02/New-eSPEAKS-thumbnail-6.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-texas-lawsuit-claims-facebooks-facial-recognition-violated-user-privacy-and-broke-the-law.md",
+      "title": "Texas Lawsuit Claims Facebook's Facial Recognition Violated User Privacy and Broke the Law",
+      "excerpt": "Texas attorney general Ken Paxton has taken yet another swing at Big Tech, this time suing Meta for allegedly capturing and using facial recognition data on millions of users without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "originalUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 424,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/097c4a263d1e62634e634f40e3b2b165.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/texas-ag-sues-facebook-over-facial-recognition-practice-1848534494/amp",
+      "publishedDateTime": "2022-02-14T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive.md",
       "title": "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive",
       "excerpt": "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ...",
@@ -1034,111 +1138,6 @@
         "name": "Boston Herald",
         "domain": "bostonherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-language-is-the-next-great-frontier-in-ai.md",
-      "title": "Language Is The Next Great Frontier In AI",
-      "excerpt": "What is behind these astonishing new AI abilities, which just five years ago ... against which newer models are compared. Much subsequent research on transformers—for instance, Facebook’s influential RoBERTa model (2019)—is based on refining BERT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6206e085c5625214fbd9ed04/0x0.jpg?format=jpg&crop=1934,1088,x0,y185,safe&fit=crop",
-          "width": 1934,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/02/13/language-is-the-next-great-frontier-in-ai/amp/",
-      "publishedDateTime": "2022-02-13T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-13-airstreams-latest-camper-is-solar-powered-has-a-self-driving-trailer-dolly.md",
-      "title": "Airstream’s latest camper is solar-powered & has a self-driving trailer dolly",
-      "excerpt": "The electric vehicle revolution is fast catching some never-before thought segments of human activities. This technological improvement is not unconnected with the growing demand for sustainable solutions to environmental problems, with a greater emphasis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/02/13/airstream-camper-solar-powered-self-driving-trailer-dolly/",
-      "originalUrl": "https://www.gizmochina.com/2022/02/13/airstream-camper-solar-powered-self-driving-trailer-dolly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/Airstream-eStream-Bug-Eye-View.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/02/13/airstream-camper-solar-powered-self-driving-trailer-dolly/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/13/airstream-camper-solar-powered-self-driving-trailer-dolly/?amp=1",
-      "publishedDateTime": "2022-02-13T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

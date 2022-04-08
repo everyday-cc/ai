@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-04T11:31:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20220403005068/ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool"
 webUrl: "https://www.morningstar.com/news/business-wire/20220403005068/ai-in-genomics-start-up-mnm-bioscience-gets-nearly-1m-eureka-eurostars-funding-for-ai-based-cancer-patient-stratification-tool"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Morningstar, Inc.

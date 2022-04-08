@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognit
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 667
     isCached: true
+
+related:
+  - title: "NOPD pushes for facial recognition software"
+    excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
+    publishedDateTime: 2022-04-08T21:49:00Z
+    webUrl: "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/"
+    ampWebUrl: "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 59
+    images:
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/04/nopd-camera.png?w=1280"
+        width: 668
+        height: 376
+        isCached: true
 
 secured: "oneculybRfP8YLBclWmeknP4qfq+4/TANoxBqO7vWIwgakQqUppOPbkgSeUaRDI9wH4V/UmycMmSUzMqtqflDyPAdD86M2mf2E+zaBdahq6fVodShO7Tldeh6oY4mix2wgIKYrLOV0Xjbmccbr17TjAk8aZp2Q6vgjYotcPVmdJld2Q2rwzcCVLsExzU7vCPM4bNicLXssYOD22/QMvx175Pe+uqOLdhYSSVxTOh9+VcU5fvwjyXug83TMvf5Y5frfbRIKhK8x7AdUZvFhVhxSsFA1S0UfeY2yJesoq3W/cW4DfojkVwH3uzX2pER5LZyCXVkStcdkg/IbpK/iawvdqCsOvo40NjK/1OFaTraithyAuwAIxWor0Xa/NKLZfwYnjM8EXw4ACly6SEWn9zzxUGTml6g6qGg4umIbRgUpVwKidcr8XFlA3nUqNhBUt0D7Bb8gzfH90PSgq42NmrPIoXjCaQEkvTd+62tpTt8kun2JW4Uylsr3lWlgSamOq/+zCf9w7zl/ATpZ5GthHjRA==;4aatWbkdBCNkN9E/neBcmQ=="
 ---

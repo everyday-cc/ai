@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Quantum memristor points to new neural networks"
-excerpt: "Studies of quantum computing and its overlap with photonics have gathered pace in recent years, with groups such as the Danish PhotoQ consortium investigating the development of photonic quantum processors."
-publishedDateTime: 2022-04-05T15:25:00Z
-originalUrl: "https://optics.org/dcs/news/13/4/6"
-webUrl: "https://optics.org/dcs/news/13/4/6"
+excerpt: "A project at the University of Vienna has now described a new integrated quantum processor operating on single photons, which could have implications for artificial intelligence and neural networks. The Vienna device is a memristor, a form of electronic ..."
+publishedDateTime: 2022-04-05T12:58:00Z
+originalUrl: "https://optics.org/news/13/4/6"
+webUrl: "https://optics.org/news/13/4/6"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Optics
@@ -15,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "rph669UP8c7x2XInieEU3W6tzUu3Q72tHqS9z21jee3wgaSxMD09aj6/D/6HMpWO7wjuIQD4yhvqcnnqWm1nH33k0oNQ21X9aieztFlZdV9AZqBZcSBFPZl1ziqt8VT94TYDfZxkWk3IidOfyFZFhAzlhxxac+Hdconh6qMP5a1fPSx0zB9A34HDZCvx7fsE/SVic+Qiwu3qqaKFw+NCPLwFXGkCii6/CWg40cMeQMlbUpRmJ5ntoEPfMS53MQMlJ/RVFfmyc5SUVNe6fFTCpDGXIA3amAoLohKSSTHZWSaj9j169Hw8QxKWsJVB+dVzM3526eYLkhfARviNYndxlqH7bshd2h73N4D3+YyMXJ/Km0/bSaZHfBFXs0o3jWBngQoJ2Wc+WIFFw/VbpjevR92FaA5cnEXKBaFH2zk9/GzctAl/zxT/y0gH4+wTo8MNkEM6AckKTOKa59xt8AqE4l7Bg0xSgVeUwkJNA36GOCOci9KVpAPXCCOhJsmkibeHz6eZAMOYbdQF5UVEiXcfmQ==;Gs8Hu9qkMDDPaXbjxsze9Q=="
+images:
+  - url: "https://optics.org/objects/news/thumb/13/4/6/vienna_april22.jpg"
+    width: 380
+    height: 254
+    isCached: true
+
+secured: "6lx0Lpx7jC6gMKCf1YLIL87TVTgYwvlBU37cxw1zgQ19CjBES/DCB4+WRKKCoBSXdVetJeHs45XxS3wwcUyrLKUQoTSzpvSGJCY+Pu0o1B1jj+BEObZqb2cTVSYGrmwR6hZNufVtSCv2NinjJAxMark8LGcU4wbIX2gPI4HABH5M1SfyqF44bI8rU4vvQl8dzlxN/s7fdMbWG0R0qLnIHTPlFAXOISmF/RNgm4FEMoL+g2bu0YSgoPs6TY5E2fpg37JheLrCZcVDyTg1tcXXuRFglGs/dwc6TkoUVFF304UC7Tl5GaK3vTYnBJHv8n04bAaTmS0o+fmM4P3Ith2hG4AOWBR2l0W2LiPvJKDveaY=;cxWllFGNdrxi9wYQ8C78nQ=="
 ---
 

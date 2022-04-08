@@ -76,6 +76,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Like Tesla, Toyota Wants To Conduct Self-Driving Research With Cameras Only"
+    excerpt: "When Tesla pulled the sensors from its vehicles in order to run advanced driver assistance systems with cameras only, it received a lot of pushback from experts in autonomous research. Toyota’s self-driving subsidiary,"
+    publishedDateTime: 2022-04-08T21:35:00Z
+    webUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/"
+    ampWebUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 37
   - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
     excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
     publishedDateTime: 2022-04-08T04:35:00Z

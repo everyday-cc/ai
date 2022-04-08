@@ -24,6 +24,17 @@ images:
     height: 734
     isCached: true
 
+related:
+  - title: "To leapfrog, Bangladesh must adopt AI"
+    excerpt: "The year 2019 was a turning point in Bangladesh’s history when it achieved self-sufficiency in rice production, more so considering that rice provides over 70"
+    publishedDateTime: 2022-04-08T18:10:00Z
+    webUrl: "https://www.thedailystar.net/views/opinion/news/leapfrog-bangladesh-must-adopt-ai-3001021"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 17
+
 secured: "BudKx56mt66NfN0CSwgtJyyVd+Tdka9Vj8bDXssggpdiS5gvirTz68uA+/fXzzQ27YK94EzdlLrGIC2Z3FUfpWIc7IMwMvY0QephrLzwhsqJHOql8s0XzaY0LZ0rLSuZv4mIhYcAC2T1t7ppvolYs97djXK152EBJgl6fO90nGMjbGUswj7jtILJv0PlyUwKkTQqXDiTv07npyP9atvq8MyW5i2Ao8pcs8C2fKybgfn+aLMOkZLxs1vml6Fr6bL/SovciBcwJrO/nM0aL4mB8wBLf/6zu9OyoTo2YRoYx39rYVe2Mixa3i+uKxmK4McSwW0UQyEtovaEqunLgef4Q7+p5WO+skkc7YX/766NwRbPbB3N9pJGb+pPIu9C69N4y66jV+vmTokAzhikyu4m5ggBpQiTVRI8OPL0PnrBWUUqYPyhYbxElYGI1Gcnex3a+kNvw9M9UCOAijWaiEviPXgy40Ttj/FsaLWw5z0gDMia4+dIzY9g91AyeGN9I2Z3KgEH56rMWqLHeaWG8BEfDA==;0WjaqytedSmKyDSIqvUNwg=="
 ---
 

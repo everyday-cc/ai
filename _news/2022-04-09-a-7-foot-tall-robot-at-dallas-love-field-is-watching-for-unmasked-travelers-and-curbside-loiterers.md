@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T19:00:00Z
 originalUrl: "https://dentonrc.com/news/state/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_5b950eba-0e7e-564f-b3ff-3dc597df945c.html"
 webUrl: "https://dentonrc.com/news/state/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_5b950eba-0e7e-564f-b3ff-3dc597df945c.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Denton Record-Chronicle

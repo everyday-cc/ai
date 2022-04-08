@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-08T18:30:00Z
 originalUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
 webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "15 Upcoming Azure Cloud Services For Developers, Security, AI"
+    excerpt: "Cool Microsoft tools still in preview or planned for general availability include Azure Video Analyzer, Azure Cognitive Search Speaker Recognition and Azure Object Anchors"
+    publishedDateTime: 2022-04-07T19:52:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 71
+    images:
+      - url: "https://www.crn.com/resources/0274-14da973e3242-cc6af0cf06a8-1000/microsoft-azure-1_20210301195736.jpg"
+        width: 606
+        height: 455
+        isCached: true
 
 secured: "TmX2BcS4ediYlN07Jxri6nEVOiyLbx8uv7SHgiV25Z8Ce3LtVZFPkHcHMhUHbnOTn1/vNGvSdcVBF5i3YyRPdDoucRwH19yU33oSZ/AgcemAnksF1w4fMv0KEivMIGenfEVWUds+8TLukh0JzPOSEzqKa74jowBEguKHPNd1cuAUrhWo8dAGVrU7tLwpWJOaXbzxFDxLlkVGH57+46bFLrQFXhLKqjc6EACWssuEEhEfOzRjsj2MxPzI+KSSAUByRYaa40+jgJZmTa/ZhRPx6GZb7W293UnmvdRGO/Xnw/usddutzdg+do7RuWtHruBMGoCjFLOYjZAktG6ienrw3BOx8gtdpOAtMbEh2HIvkrJLOrLhE+NEKlTysiS48dMIJrAX/vO6e1/jo1OoJraA29959znrK5tXJBP4OTdaIfZpuhoKoIRFAcuOF9KD5kVVkZsEVZy26Qz5Jcyb+vsc4lAkihFUoShEjhpij9u3D1mQD1MrkgsRuuN68jhniRAPRrovtOVj2wxbqhoh3Ch6Rw==;ujx+bvNu+yfeE4NDn7DD3g=="
 ---

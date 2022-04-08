@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100
 webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tata Capital infuses $10 Million in healthcare startup DeepTek"
-    excerpt: "Tata Capital announced $10 million in funding in Pune-based healthcare startup DeepTek recently. Tata Capital Healthcare Fund II."
-    publishedDateTime: 2022-04-04T04:13:00Z
-    webUrl: "https://www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/"
-    ampWebUrl: "https://www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/amp/"
-    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/tata-capital-infuses-10-million-in-healthcare-startup-deeptek/amp/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 39
   - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
     excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
     publishedDateTime: 2022-04-07T11:00:00Z
