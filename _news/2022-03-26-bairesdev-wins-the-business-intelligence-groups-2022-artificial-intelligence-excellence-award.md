@@ -1,26 +1,25 @@
 ---
 category: news
-title: "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award"
-excerpt: "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,"
-publishedDateTime: 2022-03-25T17:31:00Z
-originalUrl: "https://www.lelezard.com/en/news-20305538.html"
-webUrl: "https://www.lelezard.com/en/news-20305538.html"
+title: "BairesDev wins the Business Intelligence Group’s 2022 Artificial Intelligence Excellence Award"
+excerpt: "The award recognizes BairesDev’s AI-based algorithm, which personalizes the team-building requirements of clients in a fast and effective way and achieves 91% customer satisfaction. SAN FRANCISCO, March 25,"
+publishedDateTime: 2022-03-25T17:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-231e6637e4ffde7ba08a047a330f9ca6"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "42EFrJ3xEpNBsBYtXXNXrHBUlvM661/lSaM07/zO1lqgLw9jH1hV8Rqp24ioxWj1Yh7XmQGq/3ypnLNsE4m9V8sbGyx4i2LEQkfpU3nZ5tKVg6M3rc7SzuCIYOA22xJggIaPxHJQS0svZx8okK9GdcYfDg5K3TqQzmlcvRZwcl/g/JoKqnz3CP5lVzmNl+b8bsPAUT1MzNjAqp0O7+hP7yIjufB6dBv9i0xV8UqlYjMVec8IKkB5l34N2ddHhJDSqi0WpOwWIkcK3lzxD/tP1wAkUUDxoKcZQA/jUe9WnL/ka/ikH7NkpkDppRU4UC8v0Kk7HaLN2ldxUZw5q87GHAwAktMsVLVFlgJ3hdraqyA=;pBNPcaVVe5AC2lDoOpMq5A=="
+secured: "ILWPgJqLeIiIQw6+lgUPmWjiuJkrLyeoWPnEZfyJ42J8tI10hZxMTH6f9gNQYCoF7qM1emv15iEMhwjnRUWAoanBGpt6Lv8J0r8H0NGUGFVgC9zF3alYhAZCZYyxnnme3Alnv+zVnps59EncsuujAPpJItM8tn1jsgHXIqVdUTfCAnD8z8ImFowJDoxVfEcRbEAyajnVvanq8CoA/1wdDGRQAv3PpO1eTrr1qfHM8vt+llUQTnnpcruefey8AhkZlKA2vt6hmVwQElSw/a/HD+KARxEQeSats9+fSuaHspJyrn13Wt5J1lZJOCk1wfqbqGMjHtC0hrdirEyepTKkRdBbJ5ZyUwIgOl9TxwJ7grk=;qCuAsC+eT3vJSLgEKU982Q=="
 ---
 

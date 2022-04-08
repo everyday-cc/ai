@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
+    excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T07:52:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220408/3928947.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "S0yVNRr0LUf+mHMQuD1vI6WEq81dlBS11QzTX+Jk3Z2fzZdTzBZXokspqb8+MyLBtd8KW64P4AU8bb3MQtazhG+wLLc79F+o1RvDflcmEXd/6N3vPQejZZ4320zMEOkrYqZx5lY10bfiAXPVESTo+W5aJ6UakDkSW0kewS3VEl4qTifPK+GL0ruBeNE/Jn/1lBT1EDU/d+U66NzW3z9wBA//20sYcxZ+NJJNZ8spgV8cPmUe9i9tQ82GIKZzZeN1f8j9nZWx5F0+DeHOKRpQINcr5WZaiqP7qp0uToKI/1HAW0iN2VB2hsGqeQqKk6M24fzyk+NYmneC42vR9TDWSLH1c9apTeDdY6AHqNhhjcqlo+FPOlcIO114SaF3WhRd4sHwcrto8clvWgUU7KVxljIi+qMXXy5xOZcTfavPL3pXW6ApB8MXHqf6Tca6tcrEJZ8piTlmXL8ZcBAzke6khZbgG+lKoUtWuLO6hJtnGl45zxb68o8aYn3Bt88aZUrQQ/26uWk1jdGgncvPSsbZyQ==;gp+H03aoSb4dlqakH/qN3Q=="
 ---

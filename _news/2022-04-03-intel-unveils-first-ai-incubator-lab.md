@@ -38,15 +38,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "Intel To Acquire Israeli AI Workload Optimization Firm Granulate For $650M"
-    excerpt: "US chipmaker giant Intel Corporation, announced on Thursday it will acquire Tel Aviv-based AI-powered optimization software developer Granulate Cloud Solutions Ltd. Financial details were not publicly disclosed, although TechCrunch learned from sources ..."
-    publishedDateTime: 2022-04-03T13:08:00Z
-    webUrl: "https://nocamels.com/2022/04/intel-granulate-ai-computing/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 15
 
 secured: "kCBEUqcNUxCU6tSfqPE5CBXI1X+aFzKXoWIwUPs20MMSFUeOqzyUIV0gqSaHz9Az1RIN1dHrGJnjp9iSR3eQI1C/UIfxyExi2Hx5qOi2rhzL+N/zTvY3II60DaUceMvhslvS4bqU0SX2ybRe4pOGCVn/24QqOAZ7sK2LHCDMZx0WsIF8bbREgN5vQuNw0SIIvMPYIvWmZRqeEZf1QAw/bPIx3zK4DQx/ZfGsC5ucfSeZbpDsLsk9Nl12OATz6gOCk7OWyhlgb2Aow2LWTCTrcGtvNMVGRNT+mXiiFSePmKOvcHDWXAiQO7gh1/e5uM67ATDYklr5IukjFReNX7G1LqI9/ZKQeHaoJpPvxdybQSk=;QEtL8Eg1J6Zbu0SQ+Qxvnw=="
 ---

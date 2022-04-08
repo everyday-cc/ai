@@ -3,27 +3,27 @@ category: news
 title: "World's First Marketing AI Built to Understand Emotion Raises Over $1,000,000 in its First Week"
 excerpt: "Rad Intelligence ( RAD AI), a marketing technology company that created the world’s first AI marketing platform with emotional intelligence, launched a community investment round on Wefunder last week."
 publishedDateTime: 2022-04-07T14:16:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/worlds-first-marketing-ai-built-to-understand-emotion-raises-over-1-000-000-in-its/article_f6e30816-38ae-5616-9107-b87c28336db0.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/worlds-first-marketing-ai-built-to-understand-emotion-raises-over-1-000-000-in-its/article_f6e30816-38ae-5616-9107-b87c28336db0.html"
+originalUrl: "https://www.kentuckytoday.com/news/business/worlds-first-marketing-ai-built-to-understand-emotion-raises-over-1-000-000-in-its/article_9e32ded7-37df-5921-ae5a-ff21d7a76b9e.html"
+webUrl: "https://www.kentuckytoday.com/news/business/worlds-first-marketing-ai-built-to-understand-emotion-raises-over-1-000-000-in-its/article_9e32ded7-37df-5921-ae5a-ff21d7a76b9e.html"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Kentucky Today
+  domain: kentuckytoday.com
 
 topics:
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "WcTxZuACqgiHoWyouWMz3U1HF+ilioAZEmg8J+jM2ZRZD/PqUcp2IJN+Chbc3IDWU4MX1vKwPMIidBou5EQBunwd/0WsEsbV788uLAIne7myhpQaxu2jRqOAgTPazxQEVFh/zeaTUmp53wp/x/fXelKIY+TDdaf/lDyUuvRB33Izu12SV8Qee3SbtBDJD/pzik63mt7nv7iFYVgi6yeuAMNA/MKkJpKwKlbQ47tO22g5j+YonN1uXM//D8FNax0kE40+ZRRojG4y+YTeKVqE+ZZ+zKogcJf/ZGyJXF+hQwXfYbQkaI/89Q21Ral8a7kc05EyNBa4jVBTsDuZBfTvSe5c9BK/lPswxO6NGnrrPgrWn93jF6gWCaljK1B1B3E77bJWnSjSMvFkhNEnEfX1zs4wh28LLjhKgB35NS5ldLIRc8QYuML7lv4uz5z9I7Bhgi41n4JlP/n7vL1Lfxqhb2keav60N+m8HBoyS5iFdgGk0gGchV3osnUr8SqSa+X898opINxCJa9XBqrwxWR8aQ==;ffaD85ieSgwNS9okW5QXkg=="
+secured: "7Pk9jaSdm08kF//QRmsagOWWiFBdRAjpBWezDOvXDh8OrAMCMq+BusemHLY5gC1w4HJCg0C4TnPjVZSkNE9Noha5NhzdrotQu0ip0TlZgm/PaR/gGYyebGEZfX4UDx4RWKDDQNYHw/gGy9+7mqietF5UwQ6rpgZ/N1QNNX0ESMQtYSMJVlY6lshbcxF4XPtxY0TxX29vw9lvBeHmS/QRAQy1xLSfyHUihgupCrIDrJcMGMQo4vxlzjU/3gBrgfNmz9A3eGHaQk6sE7obL3m3MUusSHm1e/DvTjaeUUHAfHtPk+/7/d1ShUmAlJOHlCbqyAy1UXo3U80AMX0PFRZBjzyJuIIAhl0EeF5dX3YXpAo=;yNCjFIbqwX+y4xSj5UbxPg=="
 ---
 

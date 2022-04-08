@@ -32,7 +32,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
         width: 896

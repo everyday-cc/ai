@@ -49,6 +49,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
+    excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T07:52:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220408/3928947.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "xil1Jl9tMUHliDZxElgbPL7Axpf3PZMgsbezFEpVLeHfVthVmnIo1fmtmyR0VcWKZNyCU3eBCY6vONfCj73ks701U2CgnAbdoRJeCffOzhO5KQy9rAOpL8/7zrF+PwgP5wnxqDRbxa2PmzB+epX0sGjdueHzrcqwvmkLjqAmmGzyRn03FFwLx7y+7sw4+LBahMbqW00CWyyZQY/vd8xACyeq1N/63VHRbWEulv/KPeGFI6RZuSDmZ4AryJQeGtsqK383de9ozW8OIqOUS/+FrMeSGuH8ocHSgZ4QhFGsmteYGx5iezXPk5irbAJe0SyIHWHjdmPCTq88dAOO/WA0TK3TRQ3t7Gf4Vcq462YkwsjEK4q00YL0/uo3nkYcv2Bk72LHflfq4X5ro+FFl3zP2QM3hX5PumOZxCFOAVWJl60xEO/6KLbs5imtJQuzuiSXY9qVkCrJC1JjKeGrri3enDh7KRyTrrBLAU8DI96xHgt04N3BU2ltGRn6F2XYFTb3YDF4aqQa8w49wEEip5/d/g==;rqflxITrGH2yDuX6xmy4qg=="
 ---

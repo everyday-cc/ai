@@ -7,7 +7,7 @@ originalUrl: "https://www.scl.org/articles/12560-ai-algorithms-and-accountabilit
 webUrl: "https://www.scl.org/articles/12560-ai-algorithms-and-accountability-the-uk-s-pilot-on-algorithmic-impact-assessments-in-healthcare"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "AI algorithms could disrupt our ability to think"
-    excerpt: "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences."
-    publishedDateTime: 2022-04-03T13:20:00Z
-    webUrl: "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/"
-    ampWebUrl: "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all"
-        width: 1200
-        height: 798
-        isCached: true
 
 secured: "u+spKtnnYxubcnQJBkICWHfmDE1xoFsmvG8B3m7t9QYnsV0qLXIIictqk6yFG8oiFFAgDuhJLMWXtvUptgqDRuw48PFMTpP3taTns6/9ozmaVNxmP6whvYWwHwUoym6NdZn14RwFWVrHVY6JhaVIHbpmOq/i6P8VMjvvcbiD+ZYuMRJlJbd148zC2IcWCQbU4sqeNTWjMWQ4DCrYsTTwLryuUReWaBP9q7qfGtQyYhtHXqUFgGugHVFXZ3edUwvMVy3M9PPxzRq2F3p+6BpYTj8utrvusMyZgrEZi8pIXAwCoW5CLd9BZjJ2ONNSg9nKClUP0l9/g8EuVAbOcryu7DFHrIsx0Z63NClmtKKT9zY=;kONFg2UYMJgJ62koW2zm8w=="
 ---

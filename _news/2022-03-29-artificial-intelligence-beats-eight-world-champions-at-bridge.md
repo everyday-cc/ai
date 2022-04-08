@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence beats eight world champions at bridge"
 excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
 publishedDateTime: 2022-03-29T04:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
-webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
+originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?source=techstories.org"
+webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?source=techstories.org"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "a987fJ74T8dbhtam/QFGkuPNaSp5djEQl7QPMwWHZ9IMub42+0QvbLk2di8QClFMPG7oaj1Sl12iMiAhsV7+q0su75z4nUk6a8OEKwmGz54pIMAFZuj0Ehd0rgOjC1Qbuob7mg2OGaKt4lupiSkrxvclpBnXOe8vZAXeFMd268mf90XBAz9f8+16VjsfZLu3Pmt56B0qLplJFgOXQ46evf15huMebxFa0T0eItmoJcLd9WHUzTfQ2Rq+njzd3aYwttUSPBzcXHxyFvTmO/xX4F4QeSTdQmgDCwAXjivn3Qq/bK658OZA8vdf9XG4V2P0OF+KZ0YwWXPOrpbvvBO3urEezuTgkp5Hqb3C4NkXh/M=;sAN2Vc2cVwUdpthORO/VVQ=="
+secured: "Mo7+r5fwJVKfVj+s0eg9Z3PpF4/eZhcl7JyAUkM6ADeFioA2EPeblfJ6paevGxV3ky9wEL3Z460rREoG0peQ51tVrLPA3Ek+7UYvz40XTM7KMTaULi0ITtEOoPno6FxHvmdc78XMz3NQ2ycJpfK2i9gPSCd0X2zVTrCcTMV/Jql4hzeMo0Le4u8Yu6pFTKpLz/1tvUJP80Do06CRL8NvFs9e78BtI5vj5bkVNKS5CHRdZjLXoMvtzhYkmBem/0eoNGBU2v5zttjf+cdc8YQG7cN2EgKsx7OgCmMqhjlbrozBZxjwZk8cgUtuPON0U6leU0aXeIpwp6PKEGciBFMLVD7HPgW49w066GN+NEm5xio=;ZnkOWKoFs0sW00yQKUDU6Q=="
 ---
 
