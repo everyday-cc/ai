@@ -43,6 +43,17 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Impervious AI Releases Internet Browser Built On Bitcoin"
+    excerpt: "Impervious is a new internet browser that does not track or sell data, is censorship resistant and is built on top of Bitcoin’s peer-to-peer Lightning network. The Impervious browser by Impervious AI was released at Bitcoin 2022 Impervious is built on top of Bitcoin as a programmatic layer allowing developers to utilize Bitcoin as a base layer for verification,"
+    publishedDateTime: 2022-04-07T15:53:00Z
+    webUrl: "https://www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin"
+    ampWebUrl: "https://www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Google releases new online Manga Tool that uses AI to optimize your art"
     excerpt: "Google has just released a new online manga tool called Giga Manga. It allows users to create sketches and turn them into fully colored manga art that uses AI and machine learning. Using Giga Manga is ridiculously simple and could be the next big thing,"
     publishedDateTime: 2022-04-06T00:11:00Z

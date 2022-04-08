@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts"
-excerpt: "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In"
-publishedDateTime: 2022-04-01T13:44:00Z
-originalUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
-webUrl: "https://menafn.com/1103949522/Cognitive-Computing-Market-2028-Industry-Analysis-Trends-Market-Size-and-Forecasts"
+title: "Cognitive Computing Market 2028 - Industry Analysis, Trends, Market Size and Forecasts"
+excerpt: "The global Cognitive Computing market is estimated to attain noticeable growth over the next 6-7 years, owing to digital transformation taking place across several services such as R&D & Testing ..."
+publishedDateTime: 2022-04-01T08:32:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2028---industry-analysis-trends-market-size-and-forecasts-2022-04-01"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2028---industry-analysis-trends-market-size-and-forecasts-2022-04-01"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?50125"
-    width: 443
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "3fPX8xO7xG/hAWFCN6sMDmCyGjMdQrB5SeR9nSk9N+GmL/ARP8MfYduGfckLQUeUn1ATZokxeifA004XDqXkAu1e+0kb/fSDkv2PT8Hrxpg0CG6+QAEovLcecRiXWnHYHbxTkT3Jwff1sKJEpuhtm4jWS4GhgXJw08yy3T9MHZAnOTjK9lfLB2d7/fz4OXbYiPSlE3+YCvs+VlxchXS2tWt9dHTtEvZwHWIowcwOba2eCj3RKNCCiPoa1IVXqus+mMFaLNiM+huZ3mSG/WgotvICHw05vwRhFYNobJhlqV9z7/qwcdG2hY5IAWkMEt42bbOSHT2dsgWkmXYbO0oALko8qiKqZoixekG5QkeaCAQ=;dZ1IxnchF34lsiNyNEO4Vw=="
+secured: "Whh3cqgHDU0tTXV+g53p6eHMf3HJxFL+DmZJN1H4V6J504Ui9KqFy6yo1AWkV9v/bFSWYW4kFJgsRBuXGlx7Hi7rlOY/dRs/+RwKeMKWJ08gbZWgzNaWg2NRjEtkxfB21awmLzBVQD/1HJL7sDriXiejB7N/hO9FKhqft8r91lrOHsjGCus5LRLl52x03Wo9AFBB2GCjqVLH929nFwnnyVTUvAiFCCRSzQniNsGQL6s0Dn5lg/arzwnPBmvb5cLXO1y+9RKSAJ58ps4M3iv3ZmflCMDGOQn90Hq5GkdDIn+LI7fVjxLl+wAs6YrTpGaxM+Sc0wt1g5319nBzJM5+7UFGhCYiTfEGte3n/hIArCs=;la+2BxUhymDR0/dmtKjOXA=="
 ---
 

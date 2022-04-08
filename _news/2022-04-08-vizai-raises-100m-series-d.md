@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-07T19:28:00Z
 originalUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
 webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
@@ -142,6 +143,6 @@ related:
         height: 450
         isCached: true
 
-secured: "S8BsuA80M6eyYnMjd+HiAAP7ZYSdhEFkHnFmvGkhNgTZFhOqoJJIDmjgW6Fqc/tlrQ2c1Nlyn8/jf+xpMcVJrs0Ygcy8e4okPWbA8UM1gUlTSJjBIHMArUoGxe+TnR2ZX6zTC9MseYdTi1EksS9tAMt5IQVpwvPR1/e9b5pULwCH3kr1oyGv3ZZzb7cD/xHavxX5m7B/epMa8TLfLMv7tcUfLUde5P3lVWu2o7R6n4BCxO5XzuMSiQj0VrAXuXEx27kkxfp4OFK4BwGeqLoVAWouKMA3+ZthAEV96vN6xrgyjGTbwseCAQH7lYff6+aqMnkIk/mZZbL61VQL7wFyOb2S58imY8/ltjrep1ep2sY=;nbwKfDkOWAO6vzZALLbUgw=="
+secured: "i2OqW01/9VTC+6XDY5JOEctXQO+bBkvin9U2+KB1eCUcCAEVs+wueKqx5uwZtzpl9HuesajDidrG7pJyKYaCfZBZKswlJzfNeciVYbSndey0s2xwtW+ReuRXpEwfGmjaPY+rQnjOMqoAOVRbk18ns5ZEPyqt39bbediTa0HA1xRKAUrU4bpMfHUUr9DH3QZiugyem9l0S3sKLhfWz/ghIGS3tY9pGFef3PCOdqpBC1r/jRY4dCfDreZvkM3mAIszvb3qzs2TgU42omLM7aWVROg37LtTZGmG6WcEDwdoXUNc/KxE+QZTPd+BkR+QQFXZmhvKr4tOe3rm5rvPeazNT6sHAoGo3p6JGrS+YeAz5cWXEywF6LsqX9H8COIoTa5HhGO6oi8sM2QmthfyTuwxGy11l0UwHrwrUtdxj0Toa4FzJQtox3AxUezsgX9cD7TlkpO941BHJAJ6jOdKSCSSkFASA+syN3ld0kzhEsqNpzOGoM7IvyeBntS1jXxQg9F7jUC0pBJdTNGK3B4i2YBSrA==;Mc2splq3C/XMFCwxTikHHw=="
 ---
 

@@ -84,6 +84,20 @@ related:
         width: 450
         height: 250
         isCached: true
+  - title: "Can artificial intelligence reveal why languages change over time?"
+    excerpt: "Deaf studies scholar Naomi Caselli and a team of researchers found that American Sign Language (ASL) signs that are challenging to perceive—those that are rare or have uncommon handshapes—are made closer to the signer’s face,"
+    publishedDateTime: 2022-04-07T19:15:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949148"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/281a7d14-9f9f-4aad-831f-34022e26966d/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Researchers used artificial intelligence to analyze thousands of videos from a database of American Sign Language (VIDEO)"
     excerpt: "Researchers used artificial intelligence to analyze thousands of videos from a database of American Sign Language—this clip shows the sign for “believe”—to figure out where the hands are in relation to the face and body."
     publishedDateTime: 2022-04-07T20:39:00Z

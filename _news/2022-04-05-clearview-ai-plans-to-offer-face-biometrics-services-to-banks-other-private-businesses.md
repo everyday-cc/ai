@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Scanner Clearview AI Aims to Branch out Beyond Police"
-    excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and — most recently — the Ukrainian military is now p"
-    publishedDateTime: 2022-04-03T10:03:00Z
-    webUrl: "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police"
-    ampWebUrl: "https://english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3570036/face-scanner-clearview-ai-aims-branch-out-beyond-police?amp"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 57
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/04/03/1000.jpeg?itok=BR_JAnpB"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Face scanner Clearview AI aims to branch out beyond police"
     excerpt: "A controversial face recognition company that’s built a massive photographic dossier of the world's people for use by police, national governments and – most recently – the Ukrainian military is now planning to offer its technology to banks and other private businesses."
     publishedDateTime: 2022-04-04T07:45:00Z

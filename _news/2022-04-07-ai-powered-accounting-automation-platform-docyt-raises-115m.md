@@ -75,6 +75,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Viz.ai raises $100M Series D"
+    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
+    publishedDateTime: 2022-04-07T19:28:00Z
+    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 39
+    images:
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI music startup Endel raises $15m in latest funding round"
     excerpt: "Fresh from its latest artist collaboration with James Blake, AI music startup Endel has raised a new round of funding. It’s a $15m Series B round led by VC firms Waverley Capita"
     publishedDateTime: 2022-04-06T09:41:00Z
@@ -88,20 +102,6 @@ related:
       - url: "https://musically.com/wp-content/uploads/2022/04/endel-logo.jpg"
         width: 1500
         height: 500
-        isCached: true
-  - title: "Viz.ai raises $100M Series D"
-    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
-    publishedDateTime: 2022-04-07T19:28:00Z
-    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 37
-    images:
-      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
-        width: 300
-        height: 250
         isCached: true
   - title: "Viz.ai Raises $100M in Series D Funding"
     excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"

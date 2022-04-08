@@ -89,7 +89,7 @@ related:
     provider:
       name: MassDevice
       domain: massdevice.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
         width: 300

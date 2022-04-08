@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/04/03/a-hybrid-ai-just-beat-eight-wo
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/04/03/a-hybrid-ai-just-beat-eight-world-champions-at-bridge-and-explained-how-it-did-it/?amp=1"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI beats top players at Bridge in two-day tournament"
-    excerpt: "In brief AI algorithms crushed eight world champions playing the card game Bridge, marking another milestone in machine learning systems becoming better than humans at specific games. Top Bridge players were invited to play against NooK,"
-    publishedDateTime: 2022-04-03T09:49:00Z
-    webUrl: "https://www.theregister.com/2022/04/03/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/03/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/03/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2017/07/18/poker.jpg"
-        width: 648
-        height: 348
-        isCached: true
   - title: "How did AI beat eight world champions at bridge?"
     excerpt: "French AI startup NukkAI claimed on Twitter that in the following week, they would host a competition where the research firm would beat eight Bridge world champions. Bridge, unlike Chess or Go, is a more complicated game that involves cooperation and even covert signalling between players."
     publishedDateTime: 2022-04-05T05:15:00Z

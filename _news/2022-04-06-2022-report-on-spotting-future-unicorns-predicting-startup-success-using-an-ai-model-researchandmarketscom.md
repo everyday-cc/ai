@@ -18,29 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Size Projection, Sales Statistics, Research Insights and Business Overview by 2027"
-    excerpt: "The global healthcare artificial intelligence market is likely to thrive at a healthy CAGR of over 51.9% during the review timeframe. The report further predicts that the market will attain USD 12.22 Billion by the end of 2027, says Market Research Future ..."
-    publishedDateTime: 2022-04-04T11:30:00Z
-    webUrl: "https://www.medgadget.com/2022/04/healthcare-artificial-intelligence-market-size-projection-sales-statistics-research-insights-and-business-overview-by-2027.html"
+  - title: "Predicting and preventing road crashes with AI"
+    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
+    publishedDateTime: 2022-04-07T11:03:00Z
+    webUrl: "https://360.here.com/ai-aware-project"
+    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 26
-  - title: "Geospatial Analytics Market Business Growth Demand, Strategies, Overview, Competitive Strategies and Forecasts 2021 – 2028"
-    excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
-    publishedDateTime: 2022-04-07T20:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-market-business-growth-demand-strategies-overview-competitive-strategies-and-forecasts-2021-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
+      name: HERE
+      domain: here.com
+    quality: 57
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/8821b7bd68ca3d819c72088119a90b66b9cc5271-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
+    excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
+    publishedDateTime: 2022-04-07T21:44:00Z
+    webUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes"
+    ampWebUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 54
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/WTVT-Still-2022-04-07-17h39m38s402.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "3 Ways Artificial Intelligence Can Help With Pricing"
+    excerpt: "Is artificial intelligence smart enough to set prices on your products? Some early adopters of this application of AI think the answer is yes. AI-powered algorithms help companies price items based on data like competitor pricing, inventory levels ..."
+    publishedDateTime: 2022-04-05T09:31:00Z
+    webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-pricing.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1260129922_498795_dfgr55.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Gradient AI targets both underwriting and claims"
+    excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
+    publishedDateTime: 2022-04-06T12:50:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
+    type: article
+    provider:
+      name: Insurance
+      domain: insurancebusinessmag.com
+    quality: 17
 
 secured: "Fay6PusNdnRxbTJiBJJs5x1vS6q2WnO+qik/UfJ0kYCd3eHbJUVE+EcWMD0lbtIRuzl5udjaOwdsOnBkO/Et1FC88flAha1GjOTJIU8tP2/7XMnRPNrA/nsHH80tmLHlakUt5SmErz4FCdeuN2lvfTTOv4ielOpz2JLQQi8GXeNlueTijJz8IVBG/YlgmcD9nojnCKXZ0ttTIBtTf3sRt1ZOmpULXVo4C8quqGLvRsBJFl0Hc/Sm4Z+N3fI2SjWPSgOrboto8Nkfic7mAeIEOuBCqZDedmVw0BXFxFvi0C7k+a2BOg8hL7cSt+vGE9dlYPgtNRYrrpJyDXNG68yYrSSWqR6gWLuwqHjeP62ZEa0=;pg5GiCsXbOEu4l3nxpt1sQ=="
 ---

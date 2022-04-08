@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can a Robot Pet Provide Comfort During the Pandemic?"
+    excerpt: "It’s estimated that the global Artificial Intelligence (AI) robots market is expected to reach $21.4 billion by 2026. With the rapid improvement in technology, decreasing costs of electronic ..."
+    publishedDateTime: 2022-04-08T03:09:00Z
+    webUrl: "https://eturbonews.com/3065540/can-a-robot-pet-provide-comfort-during-the-pandemic/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 39
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/04/A-HOLD-FreeRelease-1.jpg"
+        width: 418
+        height: 290
+        isCached: true
   - title: "Robotics Company SMOROBOT Launches Revolutionary Smart Robotic Pool Cleaner with Intelligent Path Planning Technology"
     excerpt: "In the middle of summer, when the scorching heat is at its peak, swimming has always been a constant for relaxation, exercise, and a soothing for the mind"
     publishedDateTime: 2022-04-05T14:45:00Z

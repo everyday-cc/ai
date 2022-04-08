@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-use
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://thesouthasiantimes.info/wp-content/uploads/2022/04/Zelenskyy-Photo-UN-News-450x250.jpg"
         width: 450
         height: 250
+        isCached: true
+  - title: "Can artificial intelligence reveal why languages change over time?"
+    excerpt: "Deaf studies scholar Naomi Caselli and a team of researchers found that American Sign Language (ASL) signs that are challenging to perceive—those that are rare or have uncommon handshapes—are made closer to the signer’s face,"
+    publishedDateTime: 2022-04-07T19:15:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949148"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/281a7d14-9f9f-4aad-831f-34022e26966d/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
   - title: "Indian-American's AI startup enlarges leadership team after raising $200 mn"
     excerpt: "Indian-American's AI startup enlarges leadership team after raising $200 mn - An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has"

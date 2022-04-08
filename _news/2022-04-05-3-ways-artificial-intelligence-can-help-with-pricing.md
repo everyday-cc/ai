@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-pricing.
 webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-pricing.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,58 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Predicting and preventing road crashes with AI"
+    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
+    publishedDateTime: 2022-04-07T11:03:00Z
+    webUrl: "https://360.here.com/ai-aware-project"
+    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
+    type: article
+    provider:
+      name: HERE
+      domain: here.com
+    quality: 57
+    images:
+      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
+    excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
+    publishedDateTime: 2022-04-07T21:44:00Z
+    webUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes"
+    ampWebUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 54
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/WTVT-Still-2022-04-07-17h39m38s402.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Gradient AI targets both underwriting and claims"
+    excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
+    publishedDateTime: 2022-04-06T12:50:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
+    type: article
+    provider:
+      name: Insurance
+      domain: insurancebusinessmag.com
+    quality: 17
+  - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
+    excerpt: "The \"Spotting Future Unicorns - Predicting Startup Success using an AI Model\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the established unicorns and map it against the predicted unicorns using the analyst's AI model."
+    publishedDateTime: 2022-04-06T13:51:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=642937"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "936Nl/6dBHeuWGfaku12dB8oVuKI2pHtXUWd3Qm+2eBmKmT/FXc1C+KTEBkAHo0oORM5BKx3sfN25v7zm54LwU7+ly/zzq8LItL2WqMp13spcg1JPHIv3uju0Xe4udtZ+7j4y7SeCq4nLj3ytWygsaUzjbC4UztDk3XE/M2zmVQnqhq9IQKZ9UW9j6yfrywvw1bfz/1d2Rt4gx+L8qugsfE1fqkmev7lgK0AHJ9cYNl8kDZBo/bupM/7sXLq+GY82yRdffdDqZT++UzShFsUEYwtTJhig7NkwOGK1ynF2zbnP8f+C/UiCLhy+VfKZHXeGygymryNeLw/ib+D/cvg6xpX6xFlSFw7LMPbm7ZXZqw=;Ar4X1gt9dasx/ZB8kFyzLg=="
 ---

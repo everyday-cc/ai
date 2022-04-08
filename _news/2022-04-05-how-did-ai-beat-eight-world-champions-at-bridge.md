@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI beats top players at Bridge in two-day tournament"
-    excerpt: "In brief AI algorithms crushed eight world champions playing the card game Bridge, marking another milestone in machine learning systems becoming better than humans at specific games. Top Bridge players were invited to play against NooK,"
-    publishedDateTime: 2022-04-03T09:49:00Z
-    webUrl: "https://www.theregister.com/2022/04/03/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/03/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/03/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2017/07/18/poker.jpg"
-        width: 648
-        height: 348
-        isCached: true
   - title: "A Hybrid AI Just Beat Eight World Champions at Bridge—and Explained How It Did It"
     excerpt: "French startup NukkAI and its NooK bridge-playing AI outplayed eight bridge world champions in a competition held in Paris last week."
     publishedDateTime: 2022-04-03T14:00:00Z

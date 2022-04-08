@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence beats eight world champions at bridge"
 excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
 publishedDateTime: 2022-03-29T04:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
-webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?fr=operanews"
+originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?source=techstories.org"
+webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?source=techstories.org"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "V8xrh353W/FoC+yXr5QdQIu5RGY4D+vKCfKh+cyaaB2QlXboky5XjUmWcbHzpt2swcg2pWj+hLlwMIsWjkcjA8zHcjOlejVzfowN7hi8yNtMsY+EohdvBbI6wmRwiF+ls+bFl9lHetLA+IKmhXW0NKqOA7axBWZZ0Ie9qPCMwI7ZGDdOSMg2XqYr2K5zmj98roJeTmjASzK19epuFX+wAH/BpGj3hs03I5yNftiZASrGgEXhfZ4RhIsw9H83KzF/q2tOCQpRrbeKqWN26wHYNFuZUsPXbxTLrfcPeBt83jDxEy5tgbbm9ARHaF8dDKkTL2J0C6QfqL9K3tfF9zwmblIKhBBYsy2lJ0G61uBhIT3c9kxt4nGH/lMWsIN8GKmPWr4wOzQv5lCKyZJhSk1f0OBR1nlWmIzV+7GYQ6KFcvWKQPvzYh+qT32Fp8NFD6N8wIehjFE/pXKrnLO3mnPYzOcQRMQTTEFfMFoGU0wO4ZvyinnV5k8ZAuZkoJAiYYEJzQFtZAhgAAZt5NFi2I2Cdg==;xP7pxqHeBlYpjiTKYfTSTg=="
+secured: "z2ZoNQrHO6jLtXk4pJ03lbV2ksuEOZRBd6IYAqydH6fwt+RwQQrgn06YcTpdl6X4cvhKB5C92MTpSjuoXGLUIzDRsS3u3UQnfpSFG9ryOX/OjgzvMGnslIPbY2oGZIk/bjKXxIRNfBPBA4+Jf/D+HvuVj7cWGGbbQr6MDF4A7uPUwauNasXL8N8OUOrbBaWaaLiGy0Ro803MdyDELz9rxqyV/GJA1x9gBXzEhspbUbl//COpkoYrK7z7H777U/5K7sV7tmumGLbbO9A+01km3xtnqI1iNiUMJbiTEVjz2wLGcS63yhDcM/TU4zCSPvTc8VV1f7BtsAL+4w9GotI/U1QEKxlgEC18QfPjfLyHkBg=;UIKbID39Z8uBreeGC0Lkxg=="
 ---
 

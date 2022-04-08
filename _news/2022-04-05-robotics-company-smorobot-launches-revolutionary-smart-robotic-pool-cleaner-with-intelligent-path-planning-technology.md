@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Can a Robot Pet Provide Comfort During the Pandemic?"
+    excerpt: "It’s estimated that the global Artificial Intelligence (AI) robots market is expected to reach $21.4 billion by 2026. With the rapid improvement in technology, decreasing costs of electronic ..."
+    publishedDateTime: 2022-04-08T03:09:00Z
+    webUrl: "https://eturbonews.com/3065540/can-a-robot-pet-provide-comfort-during-the-pandemic/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 39
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/04/A-HOLD-FreeRelease-1.jpg"
+        width: 418
+        height: 290
+        isCached: true
 
 secured: "j+XGcVoeFUaG/T9jFCBOrJLQLOulZQuVi17hs6wkxnILEUIGD8L+i/x2kLwfWuMmrcYkXN1lbZt/qzifGs2dSTX2KX/uo2rkeGNIAo2kAzJDGUvf9U2A5fORUucMsF8BCtL0RiCCQutNDTqq639IFMblV4WdXXrGUrXnjZ9LBq75v+KM8GbYPlo3I7c7x8UzCHR8MiBwWOXzVHQZhagWTRhhMgSfdMS/5n3Rc/Clf+mfa9DFS/XCtR5r2a+YBP4b/G7RggN51JTH6DBhmvcMHQ4p2FAJE1379BAYlY+Qco6tMu8VRtgqUG+Th+miSNwOayjzvLysTLISJinwlGvQI4tRQgmMdXeugktodEZ0VbRLFhEkKr180O0PcbIw6Dgj0UDg4FjaSvC+/ocMJAp6XQVQlc3HwMr69JTprDNNEcWuufAj38TL/iNcZVdYduonT7A9qn8XieKT6wQfchJP+EqrzeBgv35Rmd29RQspCYcu58ve0P9xRpTbSnJ7PecYlgIjQ6Y9TUNpUPEcgAtoKA==;vJ271d7aIx2fj+OBEy7hbg=="
 ---
