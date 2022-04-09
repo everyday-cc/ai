@@ -25,20 +25,18 @@ images:
 
 related:
   - title: "China uses AI software to improve its surveillance capabilities"
-    excerpt: "Dozens of Chinese firms have built software that uses artificial intelligence to sort data collected on residents, amid high demand from authorities seeking to upgrade their surveillance tools, a Reuters review of government documents shows."
-    publishedDateTime: 2022-04-08T15:35:00Z
-    webUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/"
-    ampWebUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
+    excerpt: "Uniview surveillance cameras overlook a street next to a residential building in Beijing, China December 10, 2021. Picture taken December 10, 2021. REUTERS/Carlos Garcia Rawlins"
+    publishedDateTime: 2022-04-08T06:10:00Z
+    webUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/china-surveillance-05.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220408&t=2&i=1596721193&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI370A5"
+        width: 810
+        height: 540
         isCached: true
 
 secured: "NbC3IOjgWnJ8lKgtZUj+FecKLBA06fEOWcFErd7UIHKJn9ml0bM67TtMtdeBBJKQhhgvLGbCIdQpg1WfZCKO4qF11I9qpeRZW0jMiQVPEJuy71s08HK0KjdV0fr27KjFoTGsPkQCOIAShMlPvIYdWtAxFLZUPmtVYV7U27mDgvk6zWUGU5LyvTjLJvi1ISIeCIo/+F3mtpTwx1zFc6JSseQjlD6Ov10K7RmJAg3kMggxyllVvG0hrx+KEM5UBix03TLi0zoC6l1Qi0xt9xqFpQI6V+YluKQe3wffXZfV8YLqa6l7nDwE+xSfMFto6aVaxO3KEjl7g1IcqcCW1E/03KXBK08Jan/Ax7WlmKQHOLpNmEMpTDcJDfb/eapzZ7C8tN+AsYz5igBOLa7jlnI81CSaDHKsqW+lDZ7uONutWx0gy3Loj+W8eD1UHHISM1xcuOYCm+noAMWoRnFD8Rg6yiRDLnWs75ns5WwSs//eWBMaSz1pMTdqBZMzwEik2wl7BfhLrDmi+1kSZArbyoqiWA==;cGYS+KZvtTKyYzU0l6+YHw=="

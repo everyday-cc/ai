@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-06T17:40:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/article_817fca60-097e-5e6a-9858-1e1659d1cd40.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deci-boosts-computer-vision-nlp-models-performance-at-mlperf/article_817fca60-097e-5e6a-9858-1e1659d1cd40.html"
 type: article
+quality: 56
+heat: -1
+published: false
 
 provider:
   name: WFMZ-TV
@@ -16,6 +19,64 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "yUHPgdTCGxobnlulGJBzHCTcZaOrFVHkedQth8cxVzQSVhOQ6lDO7LvuS3/DlBPRXMtQcrlZJiTeSeh39hdqJxAYvrOQpOT2+HS9gjbULt7guzCA0j+yPshh3sKRDOA/Vhnf34Yt9Z8yZjL9oRq3UJOH4tbU+xb++5LcuyvuqVy7HDoSmhuWxsTXanL/mmHbhwl/b4YG3gh9jwGshIkND1x76CppZdQQ4XiIcdLpgHBefzJ31MkhKsY+k+P0opwFKPxwGnbuOnIT2SXz0FEZfMpjqyOJRQKUD1ydJGf+WV7fT/fNxtMbwOvYj++t6oN+U2EXxxOqZAuogcdruQZ9hTBG7lWSdCYt5G3fyT7JtO4=;fRa31nYXLA8eFtf0garOdw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+related:
+  - title: "Benchmark test of AI's performance, MLPerf, continues to gain adherents"
+    excerpt: "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency."
+    publishedDateTime: 2022-04-06T17:45:00Z
+    webUrl: "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "BigBear.ai Continues To Gain"
+    excerpt: "BigBear.ai Holdings, Inc. (BBAI) shares are adding more than 9 percent on Wednesday morning trading continuing an uptrend since March 30 as it started trading on New York Stock Exchange. Currently, shares are 11."
+    publishedDateTime: 2022-04-06T14:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain"
+    ampWebUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
+    excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
+    publishedDateTime: 2022-04-06T17:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 47
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "MLPerf Results Highlight Advances in Machine Learning Inference Performance and Efficiency"
+    excerpt: "MLCommons, an open engineering consortium, released new results for three MLPerf benchmark suites – Inference v2.0, Mobile v2.0, and Tiny v0.7. MLCommons said the three benchmark suites measure the performance of inference – applying a trained machine learning model to new data."
+    publishedDateTime: 2022-04-06T19:55:00Z
+    webUrl: "https://insidehpc.com/2022/04/mlperf-results-highlight-advances-in-machine-learning-inference-performance-and-efficiency/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 46
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/04/MLCommons-logo.jpg"
+        width: 500
+        height: 261
+        isCached: true
+
+secured: "eYzLqtMaRuQJUGTvAg+qiNT1Q5lqSTJrWkmxIg7faxQLL5v1KGwU7jQcR7Vow2GeWwfPDpa/ZekvVUqB5E8n3Q8wpqoN9psWWkaiPjqcnLJtwXuDCouw03bXph3F6PIWgVsUndmEA14LKxVRCmm6t+OauvdmPf5tTuO4bU69F7wwOM3npKjaoXa9hnk7B/o+UxNEWvz177j9yMs59Q2pfridcEr7MguenubYC5E7uATXYZb4R2NEMBdnJ5+JbgdFbQYnJrP+zNf9b7PR/QjKT2+MdZvAArvzfdPWJYi1Xj6cUAWMS4RVzHXiSWkuNOb9vPmg1XcXyPzfXjI4OBwEvA0Wx7tvbqdTCm+pDWqp0QQ=;WIAfk9yuOycusXCAyT3p+w=="
 ---
 

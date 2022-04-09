@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Google Cloud releases BigLake to unify data platforms"
-excerpt: "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data."
-publishedDateTime: 2022-04-06T18:00:00Z
-originalUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
-webUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html"
-ampWebUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html"
+excerpt: "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. Looker gets two new features New Looker features, Connected Sheets for Looker and the ability to access Looker data models within Data Studio ..."
+publishedDateTime: 2022-04-07T00:56:00Z
+originalUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/"
+webUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/"
 type: article
-quality: 74
-heat: 86
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70"
-    width: 700
-    height: 525
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_19.jpg"
+    width: 472
+    height: 315
     isCached: true
 
 related:
@@ -47,7 +41,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google shoots for \"limitless\" data with Big Cloud and new alliance"
+    excerpt: "Google has announced the preview of a new storage engine aimed at making it easier for enterprises to analyse the information in their data lakes and data warehouses, without having to worry about the underlying storage format or systems."
+    publishedDateTime: 2022-04-06T10:57:00Z
+    webUrl: "https://www.computing.co.uk/news/4047893/google-shoots-limitless-big-cloud-alliance"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 4
 
-secured: "ud6NabtdT1trnSgNjQzteCSF8mRgaLhnpdmhHyXW+L1w23V9Zrn5KjOa1Dd5GkNJ+47ak1SvkH4dOkg0ZM+h0uVHoXRvuuYGxzMiYLOMAOoX/hzGzG2+DBiCOJo7FIuPe8v78dYKixz9cmuojKt64P+cI3VeXaSuPjwS0Xxt9rVxZkksQ2zCIttfOJ6JJ6QGcDTDoMYuz5Y53yzTZI9dKHwaQmnbNfiyb86m8bHdbMpP8mpv8oX+rklql3RAZMSwnfwYUQXlJzKkJPM1FSC9YOwfbhLZy2MfFgBgwD8wMFH/4VdsEIdvnPkHIpGfLGBLjE+QWYFWRrT44wPGKuw8YDMuuiWDcGTTJe5p2cjO/1HGeYgu1Kug08hFazGKtTTczuNGWRhon5LgHBBJ6C0/FAL+d/F+Hef+idq+b3nUnhAX03kKZLrC7wmrWEsvJ2XzPy0yLd5waRGXVcPmIFXRjXXxUCYyDxvHoan7S42rzRpkBBv1lusFl3TiQvkaxC3NeHMFfXrd6X/cjz4qoIKDYQ==;wdUfyJC97K63LjLL1lAWQQ=="
+secured: "qlZZVWDCLWNXqledxU8qZGasA2it1j+W3Kw+4Qzwr8vzBudkgq0N/iM40cvK2MNcDNEP4qxLCZgnSpDczDNoRVAAvXGVrpKbfZ4RgVCLyPk9qfOb2wd8pYLQpSuyvDl6pA8WO4CMHiazZwRJNDu18DSyok97b7TS1A57tA5SPdSl1D9qzz27AzXvHUftD95Qn7UbsR8SBdjgE3RvMksioUIrKGI/52SbtraNtZDQLqYTof/tLsEEC5KJrDnU+s2TWRFXwEr0s5MB+uyN/zPqAfp1sKbMXkBuWai4e3GXRqyNKC8p+q4V3tQ1mE4Gr23o/FcQP5B620fSLMxGvUKC42ucv8hSoxvT52OSmZGovPY=;b1dPoXoJFGA4lIdxhpVZMg=="
 ---
 

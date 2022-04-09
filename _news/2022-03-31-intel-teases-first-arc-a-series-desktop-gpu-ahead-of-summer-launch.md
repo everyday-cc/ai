@@ -3,8 +3,10 @@ category: news
 title: "Intel teases first Arc A-series desktop GPU ahead of summer launch"
 excerpt: "Intel says it will release its first Arc A-series desktop GPU this summer, and has offered a brief peek at the card itself.."
 publishedDateTime: 2022-03-30T17:13:00Z
-originalUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html?src=rss"
-webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html?src=rss"
+originalUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+webUrl: "https://www.engadget.com/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+ampWebUrl: "https://www.engadget.com/amp/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/intel-arc-a-series-limited-edition-desktop-gpu-release-date-163842328.html"
 type: article
 
 provider:
@@ -25,6 +27,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "yKcA7a5OnTIm7SXH68qgWcl6i61T/RTEwaM8+BEdMHNVwzjtztMAXdoQWCeJQPjVUnLwlcrSkXNpurcIT/u/TVnUSflbFuspTp8LTnGcs/SJG/OGXZOM35wcdvkXd4opAKYSO5OGP41fcG2s0xbF+xDhKFEHryCc0rmBdnpoSYH3GJEGRVLIwBSedgW4B1dCp8Zhve3w2PV+7vQTG3TlTFZeDlTc4LKenS8AH98p/J4Q5Ym0EA7CQT/xDa0eC9zIR8IF53USuEYaYIt2bCKT9FhzNzZHYcdvoUs+RPoLsQSW7Y6AzZuxo6JAC7NKE+5qTmjzh8lFefIj8ZId41Iz/hbBp3/xUzWC6DaEC2DjAyEb8BACt0VxXcRsaB+iuMTeEdBnbhHSNZdEhx9J5Kz2x3tF66wS6wuKff2nuDwKQBfzYH6wQNRAgo+RE+xrMWwwiGERg/NEf0SXhBV96qOJxgSUFMv3TBNKzi0T2XPAylnTE3q7M8+q2878+eebtM08xbaUTCdrwjbwvajdgcw+zg==;VC4DYKd7+I3lV/NVZN808Q=="
+secured: "k7U85iganI9mbtjMACgGi3qV9iLWzoy/zRO2DBKLM2Gz9TMBBVM52/S3nUCVj9XpZXk7dUvamGywH7LQk7hR1My2Z83sKnVn7KARNzXzmsb4IKzkHtvdk/wp0qfrte4iBX5jfCHs4Scjymvw8imd5jytBo6qAqCvr6EDQ/z+Q+nqquS/CyklE7p4d9lHxhODTBmbTqXWQm801GTSi3AGdB5uJLGE3RZXkGIrPDn9C82cDMyqjUpPMMsSLQHggu0PdrLmqFT6TZJI9ZPU5T47QsDK937Xl+DpzmFR9xOgkpq3noq+oAnGH1Dd/zIU93Rf6bP8vUjZTP0J7dGKZeQNC9MyHAupVMpr3M74URS1drw=;uW4+Q8DEiPfMuzx9p2kKoA=="
 ---
 

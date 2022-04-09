@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/the-need-for-a-chief-artificial-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/the-need-for-a-chief-artificial-intelligence-officer-in-the-modern-business-landscape/amp/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "deputy chief digital and AI office"
-    excerpt: "Looking for the latest Government Contracting News? Check out more stories about deputy chief digital and AI office."
-    publishedDateTime: 2022-04-04T20:40:00Z
-    webUrl: "https://executivegov.com/tag/deputy-chief-digital-and-ai-office/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 37
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/04/ad/2a/5c/bc/ff/d4/4e/74/unnamed-file-2-480x384.jpeg"
-        width: 480
-        height: 384
-        isCached: true
 
 secured: "PWsQTLlCjnLxHfD7u4DdWE7Xpqs52EuHUFPfsWqMSEeWhrW0E+6p3/46f0CBr0Ev9yMfx/3HEnFR+qThgQfsiPaG0LIJO+P/EqY1cLtX/UsVvpZRkk3cFIFFQwhYOaxbWagagGAKkfyX6+e+mHUEfZGOlA51YKvje3wfxXo/nTU5rjhjmHf/uyQQ+K2OvrKYmGgQuZpoOIRdv2LWBod8yvyd9Gl3G07SAylAIJByqBMErUrVxdOMIkeGP+RuWW1PhKeO5C4pI+p9Tlys//l1pC0wy3IAWDCB/bXnbQmsTNKh4SmnbNXpKvPdokYsGZMtYnnkyP5duC4P9DqbW9YLj4WmIgFS9YXF7br82/bcshhM6nvMW01cxAVkn2qJSKNl4bWpx8Dll3clMp/9Upx66vSJsG7O63CTcMZEarSSajH4SeMD9ZnhaA7J97F78Lhdx2xXyy/Zru/LnnHb0d58q6bITDs3hypsVuEYDQ8h/FWaEYJKCgwwgiGedak4ATzv2TquqKijEh6SuZLlZ0nmvA==;u14x/WWO/A4/HIzXm/Hnrw=="
 ---

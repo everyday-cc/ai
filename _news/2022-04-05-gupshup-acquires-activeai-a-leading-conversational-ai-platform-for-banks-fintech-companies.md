@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activea
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
 type: article
 quality: 62
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -198,20 +198,6 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/12/india-unsplash-1-e1638778305264.jpg"
         width: 979
         height: 543
-        isCached: true
-  - title: "Minority-Founded Clockwork Secures $2M for Its AI Fintech Platform"
-    excerpt: "With $2 million raised in its first seed round, Clockwork wants to help other minority-founded startups better understand their business’ finances."
-    publishedDateTime: 2022-04-04T20:56:00Z
-    webUrl: "https://www.builtinchicago.org/2022/04/04/clockwork-raises-2m-minority-fintech-startup"
-    type: article
-    provider:
-      name: Built In Chicago
-      domain: builtinchicago.org
-    quality: 39
-    images:
-      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2022-04/Minority%20founded%20Clockwork%20secures%202%20million%20fintech.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Real Chemistry acquires AI firm ConversationHealth"
     excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"

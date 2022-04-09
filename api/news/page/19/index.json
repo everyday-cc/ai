@@ -2,6 +2,126 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
+      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
+      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "publishedDateTime": "2022-03-22T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
+      "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
+      "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
+      "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
+      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
+      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1765967/Patient_Centered_Care_and_Contracts.jpg?w=500",
+          "width": 500,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-breyer-capital-backs-quantum-ai-startup-sandbox-aq.md",
       "title": "Breyer Capital Backs Quantum AI Startup, Sandbox AQ",
       "excerpt": "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202",
@@ -952,162 +1072,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-explainable-ai-from-black-box-to-transparency.md",
-      "title": "Explainable AI: from black box to transparency",
-      "excerpt": "Financial organizations and their customers need to learn more about how AI works, citing the “black box” of AI as a complete mystery. They don’t understand how decisions are reached or for what reasons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/explainable-ai-from-black-box-transparency-brighterion",
-      "originalUrl": "https://www.linkedin.com/pulse/explainable-ai-from-black-box-transparency-brighterion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFABoDNNLZUBw/article-cover_image-shrink_720_1280/0/1647885679200?e=1654128000&v=beta&t=3yKZb43IR3X4ScbjkyXlkwr2jZuCfpDJZEm5byAbZyo",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity.md",
-      "title": "Dennis Fong’s GGWP raises $12M for AI to combat game toxicity",
-      "excerpt": "GGWP has raised $12 million in seed funding to use AI and content moderation to reduce toxicity in online games.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/",
-      "originalUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ggwp_logo_vertical.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/21/dennis-fongs-ggwp-raises-12m-for-ai-to-combat-game-toxicity/amp/",
-      "publishedDateTime": "2022-03-21T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-why-ai-is-harder-than-we-think-human-intelligence-vs-machine-intelligence.md",
-      "title": "Why AI is Harder Than We Think - Human Intelligence vs Machine Intelligence",
-      "excerpt": "Melanie Mitchell wrote a paper titled \"Why AI is Harder Than We Think\" almost a year back. My observation is very similar, it is hard problem to crack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
-      "originalUrl": "https://www.linkedin.com/pulse/why-ai-harder-than-we-think-human-intelligence-vs-machine-m-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHR-AdLzu4Uaw/article-cover_image-shrink_600_2000/0/1647870433150?e=1653523200&v=beta&t=0mBOXeajSXYBsfM6FkX8ZnFr_MTHX0fMT-BD51c6_r4",
-          "width": 877,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

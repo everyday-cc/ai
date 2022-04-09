@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202204/daltrey-integrates-idemia-f
 webUrl: "https://www.biometricupdate.com/202204/daltrey-integrates-idemia-face-biometrics-with-access-control-platform"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI plans to offer face biometrics services to banks, other private businesses"
-    excerpt: "Clearview AI is planning a new business venture verifying people’s identity using facial recognition targeting banks and other private businesses."
-    publishedDateTime: 2022-04-04T22:40:00Z
-    webUrl: "https://www.biometricupdate.com/202204/clearview-ai-plans-to-offer-face-biometrics-services-to-banks-other-private-businesses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
-        width: 2048
-        height: 1298
-        isCached: true
   - title: "Wicket joins leader ranks in NIST face biometrics 1:1 test"
     excerpt: "The computer vision and biometrics company submitted its facial recognition algorithm for assessment by NIST for the FRVT 1:1 test in February 2022."
     publishedDateTime: 2022-04-08T22:04:00Z

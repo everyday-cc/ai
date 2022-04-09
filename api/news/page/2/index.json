@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
+      "title": "How AI could help enterprises to reduce data storage costs",
+      "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
+      "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
+      "publishedDateTime": "2022-04-07T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-business-ready-data-holds-the-key-to-ai-democratization.md",
+      "title": "Business-Ready Data Holds the Key to AI Democratization",
+      "excerpt": "Good data is the bedrock of a self-service data consumption model, which in turn unlocks insights, analytics, personalization at scale through AI. Yet many organizations face immense challenges setting up a robust data foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/",
+      "originalUrl": "https://www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/Kamat_forweb.png",
+          "width": 509,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/07/1049152/business-ready-data-holds-the-key-to-ai-democratization/amp/",
+      "publishedDateTime": "2022-04-07T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-new-snapchat-filter-teaches-users-american-sign-language.md",
+      "title": "New Snapchat Filter Teaches Users American Sign Language",
+      "excerpt": "The ASL Alphabet lens shows users how to fingerspell their name, practice the ASL alphabet and test their sign-language fluency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
+      "originalUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
+      "publishedDateTime": "2022-04-07T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-15-upcoming-azure-cloud-services-for-developers-security-ai.md",
       "title": "15 Upcoming Azure Cloud Services For Developers, Security, AI",
       "excerpt": "Cool Microsoft tools still in preview or planned for general availability include Azure Video Analyzer, Azure Cognitive Search Speaker Recognition and Azure Object Anchors",
@@ -577,58 +723,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
-      "title": "Google Cloud releases BigLake to unify data platforms",
-      "excerpt": "Google describes BigLake as a one-stop data platform that allows data analytics and data engineering on both structured and unstructured data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "publishedDateTime": "2022-04-06T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-07-benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents.md",
       "title": "Benchmark test of AI's performance, MLPerf, continues to gain adherents",
       "excerpt": "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency.",
@@ -1109,110 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-artificial-intelligence-for-ceos.md",
-      "title": "Artificial Intelligence For CEOs",
-      "excerpt": "So I thought I would share the wealth and pass on some of that knowledge to my fellow CEOs. I will be putting out a post about every quarter focusing on a technology that has three characteristics: 1) in the news;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624da4b02117907c855ca2ca/0x0.png?format=png&crop=1050,590,x0,y98,safe&width=1200",
-          "width": 1050,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2022/04/06/artificial-intelligence-for-ceos/amp/",
-      "publishedDateTime": "2022-04-06T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments.md",
-      "title": "IBM Puts AI On A Chip To Improve Fraud Detection In Real-Time Payments",
-      "excerpt": "IBM has launched a new generation mainframe with artificial intelligence built into the chip to provide financial firms such as banks and credit card companies with the ability to conduct fraud analysis of 100% of their transaction in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624da32e94f20ddb39d7efd7/0x0.jpg?format=jpg&width=1200",
-          "width": 1159,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
-      "publishedDateTime": "2022-04-06T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

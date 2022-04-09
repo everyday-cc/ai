@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-07T21:59:00Z
 originalUrl: "https://www.axios.com/ai-creates-images-from-words-openai-607b76e5-9980-48f1-8b5e-0f85628a151d.html"
 webUrl: "https://www.axios.com/ai-creates-images-from-words-openai-607b76e5-9980-48f1-8b5e-0f85628a151d.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Axios

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-09T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/can-smarter-robots-meet-amazons-insatiable-demands-for-speed-while-protecting-workers/"
 webUrl: "https://www.seattletimes.com/business/can-smarter-robots-meet-amazons-insatiable-demands-for-speed-while-protecting-workers/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Seattle Times

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-dat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: VentureBeat
@@ -25,15 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Google shoots for \"limitless\" data with Big Cloud and new alliance"
-    excerpt: "Google has announced the preview of a new storage engine aimed at making it easier for enterprises to analyse the information in their data lakes and data warehouses, without having to worry about the underlying storage format or systems."
-    publishedDateTime: 2022-04-06T10:57:00Z
-    webUrl: "https://www.computing.co.uk/news/4047893/google-shoots-limitless-big-cloud-alliance"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 4
   - title: "Accelerating the integration of artificial intelligence solutions: SCALE AI announces a $24-million investment in five new projects"
     excerpt: "SCALE AI, Canada's supercluster dedicated to strengthening the country's leadership role in the fields of artificial intelligence (AI) and data science, today announced it is investing $24 million to support five innovative AI projects."
     publishedDateTime: 2022-04-06T14:18:00Z

@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Taiger liquidates Singapore entity, over 80 staff cut"
-    excerpt: "TAIGER, an artificial intelligence (AI) startup backed by government-owned SGInnovate and corporate investors, is shutting its Singapore headquarters and liquidating its local entity after racking up debts it cannot pay."
-    publishedDateTime: 2022-04-04T21:50:00Z
-    webUrl: "https://www.businesstimes.com.sg/garage/ai-startup-taiger-liquidates-singapore-entity-over-80-staff-cut"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
   - title: "AI startup TAIGER liquidates Singapore entity, to focus on Europe and LatAm"
     excerpt: "Singapore-based artificial intelligence (AI) startup TAIGER has liquidated its local entity due to an inability to repay liabilities."
     publishedDateTime: 2022-04-05T19:45:00Z

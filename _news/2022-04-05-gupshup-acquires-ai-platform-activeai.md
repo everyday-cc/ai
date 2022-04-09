@@ -198,20 +198,6 @@ related:
         width: 979
         height: 543
         isCached: true
-  - title: "Minority-Founded Clockwork Secures $2M for Its AI Fintech Platform"
-    excerpt: "With $2 million raised in its first seed round, Clockwork wants to help other minority-founded startups better understand their business’ finances."
-    publishedDateTime: 2022-04-04T20:56:00Z
-    webUrl: "https://www.builtinchicago.org/2022/04/04/clockwork-raises-2m-minority-fintech-startup"
-    type: article
-    provider:
-      name: Built In Chicago
-      domain: builtinchicago.org
-    quality: 39
-    images:
-      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2022-04/Minority%20founded%20Clockwork%20secures%202%20million%20fintech.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Real Chemistry acquires AI firm ConversationHealth"
     excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
     publishedDateTime: 2022-04-05T14:00:00Z

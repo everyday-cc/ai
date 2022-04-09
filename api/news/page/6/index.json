@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-01-mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain.md",
+      "title": "Mayflower Autonomous Ship to Attempt Second Ocean Crossing With AI Captain",
+      "excerpt": "Roughly a year after a mechanical problem forced it to turn around, the Mayflower Autonomous Ship is poised to cross the Atlantic, traveling autonomously from Plymouth, United Kingdom, to Plymouth, Massachusetts.",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
+      "originalUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seapowermagazine.org/wp-content/uploads/2022/04/MAS-seatrials-March-2021-II-002-scaled.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-should-law-enforcement-use-facial-recognition-technology.md",
+      "title": "Should law enforcement use facial recognition technology?",
+      "excerpt": "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "originalUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "publishedDateTime": "2022-04-01T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIVI Boise",
+        "domain": "kivitv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-cognitive-computing-market-2028-industry-analysis-trends-market-size-and-forecasts.md",
       "title": "Cognitive Computing Market 2028 Industry Analysis, Trends, Market Size and Forecasts",
       "excerpt": "Key Companies Covered in the Cognitive Computing Market Research Report Are  3M, Google LLC, Hewlett Packard Enterprise Development LP, In",
@@ -1066,102 +1152,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
-      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
-      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
-      "publishedDateTime": "2022-03-31T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian.md",
-      "title": "Saphyre Nominated for “Fintech of the Year” Award by Global Custodian",
-      "excerpt": "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual “Fintech of the Year” award. Global Custodian’s Leaders in Custody awards is holding their ceremony in-person at The Savoy in London on May 4th 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

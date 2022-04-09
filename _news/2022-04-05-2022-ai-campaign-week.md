@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Annual Artificial Intelligence Summit"
-    excerpt: "Looking for the latest Government Contracting News? Check out more stories about Annual Artificial Intelligence Summit."
-    publishedDateTime: 2022-04-04T20:40:00Z
-    webUrl: "https://executivegov.com/tag/annual-artificial-intelligence-summit/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 37
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/04/ad/2a/5c/bc/ff/d4/4e/74/unnamed-file-2-480x384.jpeg"
-        width: 480
-        height: 384
-        isCached: true
   - title: "Women in AI Awards 2022: Winners"
     excerpt: "The Women in AI Awards Australia and New Zealand for 2022 were held in Melbourne last week, and the trophies were awarded to the top women committed to using AI in the region. The most prestigious award of the night,"
     publishedDateTime: 2022-04-05T02:15:00Z

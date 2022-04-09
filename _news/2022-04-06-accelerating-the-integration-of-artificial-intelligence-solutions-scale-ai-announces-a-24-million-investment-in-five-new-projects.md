@@ -29,15 +29,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 54
-  - title: "Google shoots for \"limitless\" data with Big Cloud and new alliance"
-    excerpt: "Google has announced the preview of a new storage engine aimed at making it easier for enterprises to analyse the information in their data lakes and data warehouses, without having to worry about the underlying storage format or systems."
-    publishedDateTime: 2022-04-06T10:57:00Z
-    webUrl: "https://www.computing.co.uk/news/4047893/google-shoots-limitless-big-cloud-alliance"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 4
 
 secured: "WnhypAuNJPEGmzZmXcc1KunSVcttdukB9YZ4Kmup9qkQXyLPinEb37DE2kULLCc70I4ebdWHT+1UIx05GmIjgMc9PA9sH+RR9OgvTzmsf4z4msGXeY/YtfndyDjrtOaalB/pPR14uhGZlF+6ZFXk7x/cJTejugIZ6BrSSTsLHsg/rBYOmfWwNamBRBc8lOKlvt5f6xwM5SmSm0EYb7Yo1v851OtktfcbquoG/k9VgB+hDpMwQZUzUmTsfZtYi9EdJyIUFVCauPv082dAzARJE7RrCvtz3F0m/+vCICn8MxpH3L9A+8dAPcIhGCg+BAUH4fasWqAfQQcJV6l1WckpHbIHns5IIjB9COCLAWoymgI=;nx7I+Ac7qTSqKbgQ/kWPYQ=="
 ---

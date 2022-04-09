@@ -29,18 +29,13 @@ images:
 related:
   - title: "A 7-foot-tall robot at Dallas Love Field is watching for unmasked travelers and curbside loiterers"
     excerpt: "Yes, those 7-foot-tall machines at Dallas Love Field are watching you. They want to make sure you’re wearing a mask if you’re boarding a flight or not parking too long"
-    publishedDateTime: 2022-04-08T22:16:00Z
-    webUrl: "https://www.eagletribune.com/region/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_b98fdd7e-7ee6-5067-995f-9554c25c0d26.html"
+    publishedDateTime: 2022-04-08T22:53:00Z
+    webUrl: "https://theeagle.com/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_ae6d6fb8-b78e-11ec-b134-47a3816d14cd.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 25
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
+      name: The Eagle
+      domain: theeagle.com
+    quality: 5
 
 secured: "qIsY2NDMoA0g1+aREOyGXVxKzIRRWq8FdiIIcQA085IsCGlkRiBJp7amy7rYbtLzDDDhkL+18HGSsl85DYNasiWy4OU0hm4yqjXwglYWEID6GOmxQLQy9fHgpa6x5YavD2lWfSX2syJFRv21FEwyi2fExGjdotcVsurLy1eUiFcANQOf+48k/SKT8FYZu8mWdyvzXRF7wQ1roO+oS1XENjeBDvIg9t33T56oM2ZBvvJoR8SbMxwvR6nHYX+iY3MjXrKy8RYqZZDf0bDuyvdui7ay1l2ScqShQy76/rkg1Agj2d6YcBAUcus8IowBrPcQYSK51hFetl8ctTaNxc+Z7BWx05WJy7vFafP3bQkam8vmSmZrbopV/Xmv0SzOdogIpxq7HmumBph7wwfL0xtZdFXWfCttA519ITdGmvXg2T/cExYBYuy3cnkT1CZf4qfyhubKPVZw+WAGLG6ynZmNtpBe7Cig7PnrJBjS/r6hdu8nMO4RSVQsauJ+k5Ob/Uh5LMQtYYKh6J+pts6ah4u9/A==;vczMAnZO8hjp5tYi45Hsmg=="
 ---

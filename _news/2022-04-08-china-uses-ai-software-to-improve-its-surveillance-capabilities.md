@@ -1,28 +1,30 @@
 ---
 category: news
 title: "China uses AI software to improve its surveillance capabilities"
-excerpt: "Dozens of Chinese firms have built software that uses artificial intelligence to sort data collected on residents, amid high demand from authorities seeking to upgrade their surveillance tools, a Reuters review of government documents shows."
-publishedDateTime: 2022-04-08T15:35:00Z
-originalUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/"
-webUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/"
-ampWebUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
+excerpt: "Uniview surveillance cameras overlook a street next to a residential building in Beijing, China December 10, 2021. Picture taken December 10, 2021. REUTERS/Carlos Garcia Rawlins"
+publishedDateTime: 2022-04-08T06:10:00Z
+originalUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001"
+webUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/china-surveillance-05.jpg?w=1024"
-    width: 1024
-    height: 682
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220408&t=2&i=1596721193&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI370A5"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 400
         isCached: true
 
-secured: "FziTQjqqdpo4iGJe5yB6Vjb4vsJCGpPq8oCFHTeo/p4rh+VD6hdfW14UifOr8HpoY7PYpv3iBxLSa6OZtD5dicg8DVDbHgLaeK7pKPSEfqe4xo/PkFQqS+hC5tXOLBJoPiJmYZs7eTQIKF8qVnuPyluKTtVH1vvQTyICijHfWAQQDy5152x/c6iC/A0cmkXVYJc1aHDBeQ6C3yFG4wbll+Ww3R/kabQkTqtomXr1iAsSPzCOoTey94U3QesQFDIkDDjp5GbRayNpHVdkYe+qzM9ZuBCmMZ6NBmbiCg5JKZtg+xudr4BsDqZCAdGSa4dnYdegtmuzYTHLPI4Az5g+Oj0L026X8/NkZ7Ff+shibwjT0KHFiTxpW4rlxM2h4SVEmy47hxhBhW5RY9LpUWS0oUC5kA5USGV7K1JIOmyThMTX763PBNQsvmCMgjGtBgt/C56wxrAZ8QWQfHS6Y7vDnWCQBBZjRkp4DMxQKVz/dbQv7f/OeIeGYdweLo3TyvRHAStyF8K8cpzqAdzizoYXFw==;W2j13R5H7L2mC3ir/GImmw=="
+secured: "WnRicvRFPKkYT3Ecp0bM/AzKaXl8CLdfWN/NtkUlFbt8bs27SLPbiOEh0q1nGvAbzormcw7IRKlmZodA+9LvPVMNbJ3t5JsUnQN8LOfUu0ryv2NJwLEqEZpQAPaH5bZ0ucZnWDSBGsyGJmCmceJ/8xEWQ3McleAQNZq8cOPFsjU80M9RDnJTHUP6B/WNyVTWTdaAbbHrzBqc+hDW7uupGGAx257TvgBQ7zv0h0AHK/9SqLV8GPC57SQQTN0BErD8zYLmsTjVkSsyjHv9CBy6Rg6VBuE1VT76VjGgTM9Cik/5YmZz5vAeGHgl3/oQKj/N7El4bEz/wbayNNfms5rZmWZtvryhPgh4mZHkToIZOJg=;LKnMvfmBgkc9oMU5Ry2IDw=="
 ---
 

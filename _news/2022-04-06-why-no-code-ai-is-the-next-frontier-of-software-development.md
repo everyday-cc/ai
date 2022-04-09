@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/no-code-ai-chatbots-ibm"
 webUrl: "https://www.siliconrepublic.com/machines/no-code-ai-chatbots-ibm"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "‘No code’ brings the power of AI to the masses"
-    excerpt: "Sean Cusack, a software engineer at Microsoft and beekeeper on the side, wanted to know if anything besides bees was going into his hives. So he built a tiny photo booth (a sort of bee vestibule) that took pictures whenever something appeared around it."
-    publishedDateTime: 2022-04-05T06:49:00Z
-    webUrl: "https://bdnews24.com/technology/2022/04/05/no-code-brings-the-power-of-ai-to-the-masses"
+  - title: "MIT AI Hardware Program Aims To Lead in Artificial Intelligence Technology Development"
+    excerpt: "MIT AI Hardware Program launches with five inaugural companies to advance AI technologies for the next decade. The MIT AI Hardware Program is a new academia and industry collaboration aimed at defining and developing translational technologies in hardware and software for the AI and quantum age."
+    publishedDateTime: 2022-04-09T15:52:00Z
+    webUrl: "https://scitechdaily.com/mit-ai-hardware-program-aims-to-lead-in-artificial-intelligence-technology-development/"
     type: article
     provider:
-      name: bdnews24
-      domain: bdnews24.com
-    quality: 37
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 46
     images:
-      - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/04/05/no-code-050422-01-smr.jpg/BINARY/no-code-050422-01-smr.jpg"
-        width: 1024
-        height: 536
+      - url: "https://scitechdaily.com/images/MIT-AI-Hardware-Program.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Why the age of artificial intelligence is great for your heart"
-    excerpt: "Knowing when someone is likely to suffer a heart attack would allow for lifesaving interventions. And thanks to a new artificial intelligence (AI) led approach pioneered by Johns Hopkins University researchers,"
-    publishedDateTime: 2022-04-07T13:00:00Z
-    webUrl: "https://www.innovatorsmag.com/why-the-age-of-artificial-intelligence-is-great-for-your-heart/"
-    type: article
-    provider:
-      name: innovatorsmag
-      domain: innovatorsmag.com
-    quality: 17
 
 secured: "8lLJMiV9gNtk6hbjn/9NfcOSqWMVohRrY2IX95ws0BAiumlMj6aLj+3N4ni2bRZMvFeYH6cswjeCigSZbcr09SclgVXBsMsyT3M4Nz+Lcl9bZYGB91KDpZUTV38B8qL+gUSipXDUKEpdgu3jujZP03W0c5UEmOt126RVOUe5y5qoFGsyCjD/m/NyX4E4UZ72TuGtA4jwqCXYZMe5QeT+x0pAXi5kd6Y4HImO2d86OlUg83zBZYqWpHMT2ABpfHIZCUlrE0e9uAa6wvnCPPjAX1Y3qRENUewI5j+H6k/0CT713tUMvwbOW68Te2Es8luBhMSh0ybbf31B6O77k5MjA7nYwwfjPko3+B3C9bg0BNM=;SHJDEIc/e4TLgX96cDQMrA=="
 ---

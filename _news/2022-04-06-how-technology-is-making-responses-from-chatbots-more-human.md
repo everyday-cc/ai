@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Integrating Artificial Intelligence Into Help Centers – It Is More Than Adding A Chatbot"
-    excerpt: "The smart companies will be looking at how to improve customer service by better integrating artificial intelligence into the service flow, both pre- and post-sales – in more ways than only chatbots."
-    publishedDateTime: 2022-04-04T19:52:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2022/04/04/integrating-artificial-intelligence-into-help-centers--it-is-more-than-adding-a-chatbot/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 38
   - title: "Telco Digital AI Assistants & Chatbots Market Is Going To Boom | Globe Philippines, Amazon, KT"
     excerpt: "The most recent market research on Telco Digital AI Assistants & Chatbots has recently been published. The market presents an analysis of the current"
     publishedDateTime: 2022-04-08T14:39:00Z

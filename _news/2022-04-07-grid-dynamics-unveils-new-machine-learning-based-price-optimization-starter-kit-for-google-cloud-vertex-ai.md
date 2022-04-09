@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI"
-excerpt: "Grid Dynamics’ machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company’s unique data sets and external factors, speeding time to market and driving revenue growth."
-publishedDateTime: 2022-04-06T20:16:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba"
-webUrl: "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba"
+excerpt: "Grid Dynamics’ new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ..."
+publishedDateTime: 2022-04-06T20:23:00Z
+originalUrl: "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai"
+webUrl: "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "JSv+wJNu9Sy63KVst713ZuHm5abSkdsqBr9wsPw8FYZ61opnUC9eHsgGCwbTcQgT6e070TaZxwKb7mQE1YSsOcywWAXCozL8msbEvG2XazRP8hIATz/q5w4CrwvNvckneu6x6y13Jl0AceNFtVTytkUe+1de93p84qrVSuGRxxu8YAR4qsM0/Dhg3f/hvBfN0HWRa5mSVXMIBB31yafiMUS8DdfhIRZQzuwQSO0h+/wTBc5tnJz0vyjx+wSSxdfY7uEouuWjJmYavJFTJCNDBJLUqlJQe1nd4Fptz0LfkTKI2PglvjuOQOMMu9yy1YFc+HZ6wezNwsnhDOLfSBtPjIwQdIXhMJV0xSWMDnUSMiw=;C5GjT9WjhZqpXhM4RAba7g=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Boris-Johnson-AFP-1K-01-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "/J5+yUggZxETfDeHTZVOjxn3oBFMjWCWnJKZlmORXY/rVl2H8Ouw4E/MBWckTPcjJUN/CihpxxgFGFjcpb6heUMRcvCLqlRuPBibOu5POB6cD6zkmO1zRIMSZg/9tcIUN0SZCdCiA8JZFjMKru+sbGXi1FwcpVCSvRx62m/1gc6/vRkeS1N2Hes0sP9S/luodPyoxj7NX4jDteh/a8lI+gxhN8APXplSMzBGP0CGetpZU+dcPxAtwkMV6g36ORJqncOKUap+nO1AL6bp7QwZVCANJIlWQIv9deMd2Nju33Taz/SMKWU27XOm5bUbN8pKB8r1jQpgT+/JjEOT/9C6xEGolrSAYU/YlLqi7ajZnUU=;S4nnPrc9VXuN3ts3EJ8yCQ=="
 ---
 
