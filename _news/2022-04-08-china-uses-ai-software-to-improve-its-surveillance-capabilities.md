@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: New York Post
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biases in Artificial Intelligence Led to Healthcare Disparities"
-    excerpt: "Although artificial intelligence (AI) continues to become a critical aspect of healthcare, researchers from PLOS digital health biases and data gaps involved in AI production can lead to healthcare disparities."
-    publishedDateTime: 2022-04-07T17:24:00Z
-    webUrl: "https://healthitanalytics.com/news/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
   - title: "AI Software Detects Breast Cancer Metastases in Lymph Nodes"
     excerpt: "Paige now has CE-IVD and UKCA marks for a new AI medical device software designed to help pathologists detect if breast cancer has spread to lymph nodes."
     publishedDateTime: 2022-04-06T19:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/bangalore-international-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 33
-  - title: "Advancements to Explore how Artificial Intelligence and Healthcare Information Technology are Reinventing Patient Care"
-    excerpt: "Learn about recent innovations in AI-powered healthcare applications. In this segment, Advancements will explore how innovations in technology and real-time data are solving real-world problems within healthcare intelligence."
-    publishedDateTime: 2022-04-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advancements-to-explore-how-artificial-intelligence-and-healthcare-information-technology-are-reinventing-patient-care/article_39cf7a79-1438-51be-90e2-01db84638e5e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "TZxLaEF1obd0R5LVtM9Y/5MNAxoiaB7ue1ezX36Q/TUKow7JAwY6sHOJ1DCrvI119kYZoU4Gd/tt1a9A/LiEyPJr5SvTH6laXULBuluPL5wnopXlr5Gl5C+04xDeoxn9F81BIY6fBKH5YcX0fA/ECRlxxmWxPy9EjEHhYRKvAmh1XhqzJwfKurwMTZQ24kIm02yHpxgTVIhMq+ldpgzNJRuAuV5m5RYztBKf8DQFt1Up0BbbrFpljA3e1RQNBzqZwIbRkdqnrpd9uY9LDdkhhdd8dcdXXA8w6Cwj3gFf6BjcGz3MRHGU1JeM4XVXrq6ETiq3J283UM0QNibro+j7RkeEB3XP3iLBHZIfJhNtWEbgnmAn5i4VvAQs98bqhxabjFjOf01IrPlOpUsgWy20jeShMW9Za3AP1dxKZQGNU8ucSq5eEvuy/4lD+Gk6Jdcr9itIPekmbTPMyQLfkADPVyHnRXN1WioaCwZDNzu6g/xBhUlNIMh90kjajU4QzU89THOE5jzv6XnmY3AbEx3JSA==;jjPKwjKpbRTdThATEmpN1Q=="
 ---

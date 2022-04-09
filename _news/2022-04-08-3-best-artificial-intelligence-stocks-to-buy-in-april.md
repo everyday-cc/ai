@@ -24,12 +24,14 @@ related:
   - title: "2 Top AI Stocks Ready for A Bull Run"
     excerpt: "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications."
     publishedDateTime: 2022-04-08T12:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1"
+    webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?time=1649419801"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 49
+    quality: 67
   - title: "Hats Off To You In Recognition of April’s National Child Abuse Month"
     excerpt: "NFL Wife Theresa Bowe to Host Community Event for Former Victims On Sunday, April 10th at the Forum Aventura from 5pm -"
     publishedDateTime: 2022-04-08T05:25:00Z

@@ -81,15 +81,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
-    excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
-    publishedDateTime: 2022-04-04T11:09:00Z
-    webUrl: "https://www.india.com/business/facial-recognition-technology-at-these-7-airports-by-march-next-year-govt-5319480/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 32
 
 secured: "bLXzGbSEBxHn3Kz/H+0dPuwzJzf4Q47ODNOSMFzb9rLn72NNGN79mWDtTFxMuufpdIVtMwBUamS3FCUewoOa5bpJ/N7QlMSfsb7jUqAEZSbmpr9VDBJNeoyYN2CkGkwPMPcGPGN3eQ39YLq+JnoYGY4EhiOcpf9ikBiDaAdRjqkOdVdz1Pr16tuEcjMkM1gWHNL7mqDaZ9VNAG7tFY6zKAlvPk7+lgxRRJfYNtBx+9SnB+DPJ8oQ2ajGugbnjr4ULmgWKUdEk+3Cr6TqaJFTFY68rFWKF0oCGU55tXImekPVRXmIDzZo5vrVahcsjO20RGbrgDelrgKw++q2x+KDElwE8Q2h2ulU4mOZwD0hJJ3fpyHCj3seretBBOipk+tp72V/aTknJGevtPZhFMNUQb+CrfdGWa7kXk4iPlenI49ee9rAhOGJ2IviaCOw+YVWqVY7f78azXmuzEgjK0FAWgfnLej2WDbXvMZdXG1qqOz1bD2ykeGPJ8O/QPx/XrWyCKTPI20SgiLusB9x/Wowxw==;43PQmTU/0xRdW8cuqyxTqw=="
 ---

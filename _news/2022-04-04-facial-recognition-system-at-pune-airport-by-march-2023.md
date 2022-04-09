@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-s
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 34
-  - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
-    excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
-    publishedDateTime: 2022-04-04T11:09:00Z
-    webUrl: "https://www.india.com/business/facial-recognition-technology-at-these-7-airports-by-march-next-year-govt-5319480/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 32
 
 secured: "YCchtGttmWdLtA5zPCilEwPysHFi2fgEsAjRmPjm55v3xNRy3t5lhPGs9OCKzp3HNW5+QYNAccQ0yObvIfGrRWE43Y0Sl44M6Qwvn4POrLNTwRG92gcUSNjEXpgAAHdIo295A6/z0D5HeCb9ET2WrJCxXvDpWkw7BSKyKwHNjradm+29mTcR440Odba9IeLN3VU+NBqebUxW591mKM5A0p2tg/meZNaZtqwBIF0VmUBDWe5V7DKOtxs1NdkfteJVDfOy0QIaBiq+YBh2rEUkSm2uxvUr9CBe2VCgH4WqRgWa39ZPFMGiDspRzHHdDXBaUk/jWnvpvdrIKaMnm+4VWd5HDhTVxb88xyLI8TyqmTU=;dWdFhNVMzeYeZwO2a7qE+A=="
 ---

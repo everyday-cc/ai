@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon
 webUrl: "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s growing enterprise gaps explain why AWS SageMaker is growing"
-    excerpt: "O'Reilly's latest survey of AI adoption identifies troubling gaps in the importance enterprises place on security, compliance, fairness, bias and ethics."
-    publishedDateTime: 2022-04-04T12:10:00Z
-    webUrl: "https://venturebeat.com/2022/04/04/ais-growing-enterprise-gaps-explain-why-aws-sagemaker-is-growing/"
-    ampWebUrl: "https://venturebeat.com/2022/04/04/ais-growing-enterprise-gaps-explain-why-aws-sagemaker-is-growing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/ais-growing-enterprise-gaps-explain-why-aws-sagemaker-is-growing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
   - title: "Detect adversarial inputs using Amazon SageMaker Model Monitor and Amazon SageMaker Debugger"
     excerpt: "Research over the past few years has shown that machine learning (ML) models are vulnerable to adversarial inputs, where an adversary can craft inputs to strategically alter the model’s output (in image classification, speech recognition, or fraud detection). For example, imagine you have deployed a"
     publishedDateTime: 2022-04-05T17:19:32Z

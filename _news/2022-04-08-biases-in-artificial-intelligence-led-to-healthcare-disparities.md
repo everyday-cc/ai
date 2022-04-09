@@ -21,35 +21,86 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "China uses AI software to improve its surveillance capabilities"
-    excerpt: "Dozens of Chinese firms have built software that uses artificial intelligence to sort data collected on residents, amid high demand from authorities seeking to upgrade their surveillance tools, a Reuters review of government documents shows."
-    publishedDateTime: 2022-04-08T15:35:00Z
-    webUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/"
-    ampWebUrl: "https://nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/08/china-uses-ai-software-to-improve-its-surveillance-capabilities/amp/"
+  - title: "The Truth About AI In Healthcare"
+    excerpt: "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?"
+    publishedDateTime: 2022-04-09T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/china-surveillance-05.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI Software Detects Breast Cancer Metastases in Lymph Nodes"
-    excerpt: "Paige now has CE-IVD and UKCA marks for a new AI medical device software designed to help pathologists detect if breast cancer has spread to lymph nodes."
-    publishedDateTime: 2022-04-06T19:55:00Z
-    webUrl: "https://www.mddionline.com/digital-health/ai-software-detects-breast-cancer-metastases-lymph-nodes"
+  - title: "Prime Healthcare Group: Transformation and artificial intelligence in healthcare"
+    excerpt: "Say hello to artificial intelligence. It’s now a part of our everyday life. On World Health Day, it bears reiteration that artificial intelligence is not just the big picture; it’s also the fine print and everything else in healthcare."
+    publishedDateTime: 2022-04-07T11:33:00Z
+    webUrl: "https://gulfnews.com/lifestyle/prime-healthcare-group-transformation-and-artificial-intelligence-in-healthcare-1.1649331186931"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 51
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/04/07/World-Health-Day-Prime-Hospital-for-web_18003cc6b4c_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "The Continuous of Artificial Intelligence in Our Society"
+    excerpt: "Artificial intelligence is changing the modern workplace, raising important questions for our society. Everybody knows artificial intelligence (AI) is meant to bring a huge competitive edge to those who successfully adapt it."
+    publishedDateTime: 2022-04-06T17:20:00Z
+    webUrl: "https://www.bbntimes.com/technology/the-continuous-of-artificial-intelligence-in-our-society"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
     quality: 37
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/breast%20cancer.png"
-        width: 770
-        height: 400
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Continuous_of_Artificial_Intelligence_in_Our_Society.jpeg"
+        width: 786
+        height: 524
+        isCached: true
+  - title: "Advancements to Explore how Artificial Intelligence and Healthcare Information Technology are Reinventing Patient Care"
+    excerpt: "Learn about recent innovations in AI-powered healthcare applications. In this segment, Advancements will explore how innovations in technology and real-time data are solving real-world problems within healthcare intelligence."
+    publishedDateTime: 2022-04-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advancements-to-explore-how-artificial-intelligence-and-healthcare-information-technology-are-reinventing-patient-care/article_39cf7a79-1438-51be-90e2-01db84638e5e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Auction companies thinking hard about AI"
+    excerpt: "They've cast aside science fiction-inspired apprehension about AI replacing humans, and now they want to see how this technology can be used to hone the vehicle imaging and inspection process. Take ACV Auctions, for example. The used-vehicle online auction ..."
+    publishedDateTime: 2022-04-05T16:38:00Z
+    webUrl: "https://www.autonews.com/retail-technology/auction-companies-thinking-hard-about-ai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+  - title: "‘We need to be much more diverse’: More than half of data used in health care AI comes from the U.S. and China"
+    excerpt: "\"The biggest concern now is that the algorithms that we’re building are only going to benefit the population that’s contributing to the dataset. And none of that will have any value to those who carry the biggest burden of disease."
+    publishedDateTime: 2022-04-06T08:40:00Z
+    webUrl: "https://www.statnews.com/2022/04/06/machine-learning-health-datasets-global/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/04/AdobeStock_30826633-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "hWFnxgVcmzSkX/VjD8rEpDaWCjOFSLdiQhkUr4pHIc9bA8dH21ySfskqXAGCh2xMWZ4zmymilpu4BR/qXJXkiRLZTWuROf/9tihV8Z70A9bS1HtYLBYGhoJsd6h8O0STfZ29h3AJSqRHYxX8puwe10eKNfjtuB3aUXzqFtgPNQZ7bXeAMXDNBfpbyhMjhJdrpEF1kSjP2tgW0Tj8FlD0gQ2hY3ocADSV4bO+GUlZg7TTTAhJLqLnQP3kP0A0wETwBJH6xgRu8BaQjbiyKFtIfDFzHK3G/bGjJhZA92ET2XUlCMje1bXwEGbo4Py8wkxGT/lEEXFEgO07FTPEVM0W8EhERyyJi/+90TKfr0z87jey4fc/7cPb5r17jURKa4nUGyUiEsJ3lvFK2948NPporIwC3DGx9YnFHcZBGnm1M1ePZseJIUm8QsderTmTYpyKPOxGJ4wo0AcEW/QeA2Czjf4xNycVf/h3INfWVlWqio6Ft6KQ/7q9u2+sPqZOZwnryX48Zb+o+SYxiX+VR8/u1Q==;kE5V2knAVW6THaB2KcMlKw=="

@@ -38,20 +38,6 @@ related:
         width: 295
         height: 250
         isCached: true
-  - title: "Computer Vision Market Share, Trend, Opportunity, Effect on Demand By COVID-19 Pandemic and Forecast 2022-2031"
-    excerpt: "Apr 04, 2022 (AmericaNewsHour) -- Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the latest trends ..."
-    publishedDateTime: 2022-04-04T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-trend-opportunity-effect-on-demand-by-covid-19-pandemic-and-forecast-2022-2031-2022-04-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Chipset Market Research Report 2022"
     excerpt: "The global Deep Learning Chipset market was valued at 1729.9 Million USD in 2021 and will grow with a CAGR of 38.18% from 2021 to 2027, based on Research newly published report. The prime objective of this report is to provide the insights on the post COVID-19 impact wwhich will help market players in this field evaluate their business approaches."
     publishedDateTime: 2022-04-05T09:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-wo
 webUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-worth-3096-billion-by-2026-Exclusive-Report-by-MarketsandMarkets™"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence B2b Marketing?"
-    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
-    publishedDateTime: 2022-04-07T09:55:00Z
-    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 56
-    images:
-      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
     publishedDateTime: 2022-04-07T13:32:00Z

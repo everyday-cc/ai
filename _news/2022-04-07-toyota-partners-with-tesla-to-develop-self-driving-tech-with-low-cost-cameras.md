@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
 type: article
 quality: 56
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: hindustantimes.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
+    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
+    publishedDateTime: 2022-04-07T07:26:00Z
+    webUrl: "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras"
+    ampWebUrl: "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 58
+    images:
+      - url: " https://i.tribune.com.pk/media/images/1049633-toyotareuters-1455778608/1049633-toyotareuters-1455778608.jpg  "
+        width: 644
+        height: 423
+        isCached: true
   - title: "UPDATE 1-Like Tesla, Toyota develops self-driving tech with low-cost cameras"
     excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and ..."
     publishedDateTime: 2022-04-08T12:19:00Z
@@ -84,6 +100,20 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 34
+  - title: "Tesla To Expand Self-driving Software Testing To All N. America Subscribers In 2022"
+    excerpt: "Tesla chief executive Elon Musk said on Thursday the automaker will expand its \"Full Self-Driving (FSD)\" beta software to all North American FSD subscribers this year and promised a \"dedicated robotaxi\","
+    publishedDateTime: 2022-04-08T04:40:00Z
+    webUrl: "https://www.ibtimes.com/tesla-expand-self-driving-software-testing-all-n-america-subscribers-2022-3466640"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 33
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/07/construction-continues-on-the-tesla-gigafactory-in-austin.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
     excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
     publishedDateTime: 2022-04-08T04:35:00Z

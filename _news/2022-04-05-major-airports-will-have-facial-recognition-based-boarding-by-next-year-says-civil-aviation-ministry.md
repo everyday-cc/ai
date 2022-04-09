@@ -83,15 +83,6 @@ related:
       name: timesnownews
       domain: timesnownews.com
     quality: 34
-  - title: "Facial Recognition Technology at THESE 7 Airports by March Next Year: Govt"
-    excerpt: "Earlier in December last year, Singh had said that FRT has not yet been introduced at any of the airports in India."
-    publishedDateTime: 2022-04-04T11:09:00Z
-    webUrl: "https://www.india.com/business/facial-recognition-technology-at-these-7-airports-by-march-next-year-govt-5319480/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 32
 
 secured: "G7lWe2ankWykoPOysFXYAyCTlRTAHrtXukZRoA30v+Vte38v8jZlUZvLP6JPHw47UYdfddH/0r6ldGFV4ScyWOjeJ2aaaz7Bb2gMV0BDBPN5xw/Xx1cyZJe4VntoOwn4Us0G1wK9Uu6bZ+CGPvI2/Y9X9hjbMYn5MWkEIlCONr5ChXSK7RhbN4+O0ScTORw0jJOemF1ER/qL+oPeZfNa/eziOVEFvMXLLPY+W51f+uDod4c1uvTda5XQdaUv2V6ZD9cm4D7F0TdIHEm8SNJ1xz5rTh07szv5W5LTBvshr8nbjVwXoAy71isnZwXH+lr/hsZaTJ7n9n09voq8exMkHa7xjXZmB4hvtcmdaLGnhIYSY99eEHgNYOGx9jkjpY1FD0aD3z0A/T2XCUc2fbnT+UGk5Ufy6TLu28H1gpSyJJj9FKbi6Rr7xS3316UtFKXWkYFCmLQ+Ycy/R/QxrvTvPS9IUwzxZVBbO2KLevT1kduenwJQlTx0exgS8j4+zXbHJ11f/WppDsA1WuZVZzathA==;aJ10VAVebv01JoB1z88Stw=="
 ---

@@ -74,20 +74,6 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 33
-  - title: "Advancements to Explore how Artificial Intelligence and Healthcare Information Technology are Reinventing Patient Care"
-    excerpt: "Learn about recent innovations in AI-powered healthcare applications. In this segment, Advancements will explore how innovations in technology and real-time data are solving real-world problems within healthcare intelligence."
-    publishedDateTime: 2022-04-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advancements-to-explore-how-artificial-intelligence-and-healthcare-information-technology-are-reinventing-patient-care/article_39cf7a79-1438-51be-90e2-01db84638e5e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "sJdHDLygKhprziYVAt1hWza6yk+Su71yxGd7ln51YwMO7S8yoaVrzZifam+SQ7wOZCZChPTugS0C/RVZLREKZe6k89WtNosvgXbMisvdme+KbtW+Wt8JSxrkxsx/4NeERdpyxivbKVifjD9dTS1f2tqY/VeFZ0jS4qwcbkrz6+7QklGGpGIbHYy7zeN0fMPBBWq4URgVkDX2sFdHsE0qYG+JzwBABZ490XLlrW7AXP0SiFUjwBY4++QxISTDSBbUOgqXmGdD8BJDKKGZdwuhIy2aGBo6sJG9i+gaf39bAosA5ficCjmnrFt3fpGx/BCJpMu5UUOxdU0WsN50d/BP4aoFzYTAjfjMzFup93gJ5oE=;g5WUBpmhf618wNS/oAvLxQ=="
 ---

@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Salesforce upgrades marketing, field service, and sales tools with AI"
+    excerpt: "Salesforce launched a series of AI- and automation-powered updates to its sales, marketing, and field service tools during an event in April 2022."
+    publishedDateTime: 2022-04-06T17:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/IMG_3027.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "New Salesforce AI chief eyes a future with voice-driven coding"
     excerpt: "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers."
     publishedDateTime: 2022-04-07T16:52:00Z
@@ -38,6 +54,29 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Artificial Intelligence B2b Marketing?"
+    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
+    publishedDateTime: 2022-04-07T09:55:00Z
+    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 56
+    images:
+      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
+        width: 626
+        height: 417
+        isCached: true
+  - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin ..."
+    publishedDateTime: 2022-04-08T11:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual-agreement-with-blue-pin"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
 
 secured: "BVyt9rohbjogwkKfAkXlo9v30y7DN8WJ3iC3Lp73yrXDgWDwcNXyDVdOpL3q2EL+BDEqHPWSs2XzTGwDl9v4Keu7RDfirCCCii5jIC9aIT8SA5T53hg58nZNTGQyhyuLiLb8FEu9ierIRsqieWZ2EZC2I/1R1dtqVkdQcm3Qui+r5aRh4h+ZamtzOzIeSmzjkWH2TGRY0rJMvkLuNvbjbvZZsb+NKarn5yVB40XJoeTSKeDsgGmcc+fDkLZW7Yz6pgXJ8BT5bUk6GKOfxSUD5dwZuPmPvPAKdxniYmEnRm0XuuWbU8qsGyUr1qgPmXSIYGEiw7oPNXILfQQ+/RtxFEJMA95B131fZ3zTe3Uc9oUw4aDnzhXe2nFdwgUOPsq1XwiiN+WayuzfKz3cZcNbsWef8eBu8D+uWferAYbGEPOxQvnRD/F4KHXRKTU8ucRNYp+OIbNF/e//DRR+PCG2WVzbCg63j45SHK0eAAg0ErYePKseBAuIH3iKgX/Zn8hcJIgL+Ir82TBoma1KLF57fA==;WnaOAhvWAr4DQJYgnE17KQ=="
 ---

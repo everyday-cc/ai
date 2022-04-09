@@ -39,12 +39,14 @@ related:
   - title: "2 Top AI Stocks Ready for A Bull Run"
     excerpt: "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications."
     publishedDateTime: 2022-04-08T12:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1"
+    webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?time=1649419801"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 49
+    quality: 67
 
 secured: "UuNppZjjj9Zg4qkxgfIKEowsCfbul3V7vUuyy1lPI5FGJ9SstgG+cnyTwl1CFrETBh+FVw33cOvkWOBeNDXEtGaYZyFWAeZ48mAmL50/B4UB5RUvCKzpFOKMaYDu5vDPuiOngAJIojpTrtXEucLQEYNzz/0amOkrVqYxw8yYuXW6raisJ/7urLndVa1Q1lnsBP2nnwFAYD5Aa9NuEzfcM35Mq+CJAH+152HwQ+KiQuZjs6WtKSs17FYRJ3qm3+fF0ZkF1hv8fyP0O6suJVSiR5AsBCJUFBOq6NEVBxWOvBendTKhuOcUt5yEU3rYZsDrS+ZFSRScH/iJybBsa6fdQVbAnHOeyw4k7wMW3Pg92xU=;6K18KCSdJH/KI6LZEkjmvQ=="
 ---

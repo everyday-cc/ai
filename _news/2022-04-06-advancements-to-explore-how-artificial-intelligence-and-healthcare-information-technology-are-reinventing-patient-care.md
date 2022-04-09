@@ -25,70 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Bangalore International Airport, AWS to open joint innovation center"
-    excerpt: "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement."
-    publishedDateTime: 2022-04-06T10:47:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
+  - title: "The Truth About AI In Healthcare"
+    excerpt: "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?"
+    publishedDateTime: 2022-04-09T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg"
-        width: 600
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Bangalore International Airport, AWS announce Joint Innovation Center"
-    excerpt: "The JIC will focus on driving digital innovation for the airport, enhancing passenger experience, and creating positive impact for the community where the airport operates."
-    publishedDateTime: 2022-04-07T05:03:00Z
-    webUrl: "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
-    ampWebUrl: "https://www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
-    cdnAmpWebUrl: "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
+  - title: "Biases in Artificial Intelligence Led to Healthcare Disparities"
+    excerpt: "Although artificial intelligence (AI) continues to become a critical aspect of healthcare, researchers from PLOS digital health biases and data gaps involved in AI production can lead to healthcare disparities."
+    publishedDateTime: 2022-04-07T17:24:00Z
+    webUrl: "https://healthitanalytics.com/news/biases-in-artificial-intelligence-led-to-healthcare-disparities"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
     type: article
     provider:
-      name: media4growth
-      domain: media4growth.com
-    quality: 74
-    images:
-      - url: "https://www.media4growth.com/public/thumbs/news/2022/04/6135/BIAL_Thumnail_440_851.jpg"
-        width: 715
-        height: 440
-        isCached: true
-  - title: "Bangalore International Airport and AWS Announce New Joint Innovation Center"
-    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web Services"
-    publishedDateTime: 2022-04-06T11:51:00Z
-    webUrl: "https://technuter.com/breaking-news/bangalore-international-airport-and-aws-announce-new-joint-innovation-center.html"
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+  - title: "Prime Healthcare Group: Transformation and artificial intelligence in healthcare"
+    excerpt: "Say hello to artificial intelligence. It’s now a part of our everyday life. On World Health Day, it bears reiteration that artificial intelligence is not just the big picture; it’s also the fine print and everything else in healthcare."
+    publishedDateTime: 2022-04-07T11:33:00Z
+    webUrl: "https://gulfnews.com/lifestyle/prime-healthcare-group-transformation-and-artificial-intelligence-in-healthcare-1.1649331186931"
     type: article
     provider:
-      name: technuter.com
-      domain: technuter.com
+      name: Gulf News
+      domain: gulfnews.com
     quality: 51
     images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
+      - url: "https://imagevars.gulfnews.com/2022/04/07/World-Health-Day-Prime-Hospital-for-web_18003cc6b4c_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "Bangalore Airport and AWS Announce New Joint Innovation Center"
-    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web"
-    publishedDateTime: 2022-04-06T13:00:00Z
-    webUrl: "https://www.traveltrendstoday.in/news/technology/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center"
+  - title: "The Continuous of Artificial Intelligence in Our Society"
+    excerpt: "Artificial intelligence is changing the modern workplace, raising important questions for our society. Everybody knows artificial intelligence (AI) is meant to bring a huge competitive edge to those who successfully adapt it."
+    publishedDateTime: 2022-04-06T17:20:00Z
+    webUrl: "https://www.bbntimes.com/technology/the-continuous-of-artificial-intelligence-in-our-society"
     type: article
     provider:
-      name: T3
-      domain: traveltrendstoday.in
-    quality: 34
-  - title: "Bangalore International Airport and AWS Announce Joint Innovation Center"
-    excerpt: "Center will advance BLR's digital transformation vision, and enable startup-led innovation in aviation, smart infrastructure, utilities and mobility."
-    publishedDateTime: 2022-04-06T19:24:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21263167/kempegowda-international-airport-bengaluru-kiab-blr-bangalore-international-airport-and-aws-announce-joint-innovation-center"
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 37
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Continuous_of_Artificial_Intelligence_in_Our_Society.jpeg"
+        width: 786
+        height: 524
+        isCached: true
+  - title: "Auction companies thinking hard about AI"
+    excerpt: "They've cast aside science fiction-inspired apprehension about AI replacing humans, and now they want to see how this technology can be used to hone the vehicle imaging and inspection process. Take ACV Auctions, for example. The used-vehicle online auction ..."
+    publishedDateTime: 2022-04-05T16:38:00Z
+    webUrl: "https://www.autonews.com/retail-technology/auction-companies-thinking-hard-about-ai"
     type: article
     provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 33
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
+  - title: "‘We need to be much more diverse’: More than half of data used in health care AI comes from the U.S. and China"
+    excerpt: "\"The biggest concern now is that the algorithms that we’re building are only going to benefit the population that’s contributing to the dataset. And none of that will have any value to those who carry the biggest burden of disease."
+    publishedDateTime: 2022-04-06T08:40:00Z
+    webUrl: "https://www.statnews.com/2022/04/06/machine-learning-health-datasets-global/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/04/AdobeStock_30826633-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "7cqz2GDbSly8JBU2AdTmFqD0pBtD68/rzKTh3f4RmElAiFe/GY/vKLH6XAlEdpH1WvlNbT0HS+5kwUuYg/RIVw5FAGHgOyhotwNgF6sN/P/naK5Bfq+qFmw5vMGg5nC/n5sD683cjS9SP25VqjDLoPKNal8IhE6FsEtE/IOCMewkJ+7PE6Q2d8aP9mX+NqmR33+SYBbe6ZuBcJFg7gxIQe5/k4J643HA+nEP3PGSZOySQj0f2RngxkH6RGqg5v/+XJR8RKzkD4FTwrPyqD0wspCmlEN2erwYIVR//5PGy59MNGXn5g9puxM13eoNCVGNYZXU8DhrvL0umT3QfsDgbE862g2aDeaytGsmdVdBnH4l+w996C57aDyWExOyt8uzLov9P9BeGQ7KCBGU3oTrdmuVq0kn5UIqZIz8UQ8XrkfuUFnC8mJ69CmTM6y5L6pcoIm5AQ9t7iQAjm76yWfkeeACkCfFzSNMoOJDJeVblV84n2f67chJ7W9+PWb1MB02QH7zociOeZ8oKwCiykBdog==;ml/i8KYXC20jneW6lb7FBg=="
 ---

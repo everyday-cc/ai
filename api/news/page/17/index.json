@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-23-investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age.md",
+      "title": "Investigation into the potential of artificial intelligence in the digital age",
+      "excerpt": "As a general-purpose technology, artificial intelligence (AI) has the potential to change our lives. It could bring many benefits, from increasing farming efficiency to helping to fight climate change and making transport safer,",
+      "sourceUrl": null,
+      "webUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
+      "originalUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/03/EPRS-AaG-729329-Investigation-artificial-intelligence-digital-age-FINAL.png?fit=1024%2C545&ssl=1",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
+      "cdnAmpWebUrl": "https://epthinktank-eu.cdn.ampproject.org/c/s/epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
+      "publishedDateTime": "2022-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EP Research Service",
+        "domain": "epthinktank.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
       "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
       "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
@@ -1095,50 +1138,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100.md",
-      "title": "New DDN Storage Appliance Doubles Performance for NVIDIA DGX AI Solutions and Speeds Up Analytics and Machine Learning in the Cloud by 100%",
-      "excerpt": "Powering thousands of NVIDIA DGX™ systems, including NVIDIA's Selene and Cambridge-1 DGX SuperPOD systems, DDN offers a broad range of optimized AI data storage solutions for ap",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

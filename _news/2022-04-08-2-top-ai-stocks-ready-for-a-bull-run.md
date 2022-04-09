@@ -3,10 +3,12 @@ category: news
 title: "2 Top AI Stocks Ready for A Bull Run"
 excerpt: "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications."
 publishedDateTime: 2022-04-08T12:10:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1"
-webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1"
+originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?time=1649419801"
+webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?time=1649419801"
+ampWebUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
 type: article
-quality: 49
+quality: 67
 heat: -1
 published: false
 
@@ -15,7 +17,6 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - AI Hardware
   - AI
 
 related:
@@ -45,6 +46,6 @@ related:
         height: 608
         isCached: true
 
-secured: "8LL9uMOhfIdKZ3Xxod3HrR4CGg+FIhMdLlefIH1NX54Topj924FTIwvnjX92kthH8LfZ51oLsOBK2ZbQD7GHajOceViU/kcHoTN7y8Mx+wxfKtmMVd/S/b3Cr2JYof3kfY+A+dDlvL4CskBv5Yv//YQNQyRhuXaHD4QKTPWdYFtyNFkhX9HLmIfRpBOiUixabXtMUt+GwIOuUSIzR18L59Q8UNs8J6tEaX1gbpJAs28FBji95x5GRCRj3Xez+9x97aFM97mt96J/MRhVzH8q3AOA6wKAGt7JLZtJVxT3WAU4LL+nAsP6LdcJJizqMQ+ecpZqVlxepwlcwH87v5J/xAWKqaF9NTTalWebl+3p1PI=;aYBCb5F2hkuHAPbKXNRS6g=="
+secured: "WMn+Lt15e7wiket1YfYOVQ5bnEC1qNC/jqSZMH0LPstZslQrRWoJABHq7JpscMl0GpEECLwFHNKPIqn8o4wFapOROTORg47d5+6h2McY/Jld2ec0GRnxpLgXJV9CTUaiBILmB6sJrbwZonsXUISRzHsMh8hMVHaHqpH+qYvT/LRi/z718rqgulODUn0Yiqw+6Or19AfY3NmfHQWI7vxgjCPArn+vEcz98zCfDUEOvUhofmbO1lZU1p01p81g4nRpdPWFV/F8+i1Z6GEHExe8AGkJcYtJ3d2bAqJX5NbIJ4TbG488wnIVnlagq1YmxleyDPoL+n2U5j9Z4WuFYIt00aWa7tbR30a5YJ6m1M8EfG0=;sMVCRrwzMvSV9+iwDW2ESg=="
 ---
 

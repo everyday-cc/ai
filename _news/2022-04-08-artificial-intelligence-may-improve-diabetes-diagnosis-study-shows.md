@@ -40,19 +40,17 @@ related:
         isCached: true
   - title: "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis"
     excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in the journal Radiology. Type 2 diabetes affects ..."
-    publishedDateTime: 2022-04-05T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26480242"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242"
+    publishedDateTime: 2022-04-05T16:20:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-artificial-intelligence-may-improve-diabetes-diagnosis/article_3107457f-075d-5d7e-bbad-5fe2ef788084.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "tm2DOz5DXtaMvOHNQaGyo2OFi7MBTN0X72lI0W/ayAdcEHY/xMkr5jM4O77PV0F3VIyFr5fC/UYt7kxW9nZCHOHiv8EAfBBQFmLs0rkOdpE1erKCv0tk+6RwD+vtD+Q6mKZdXepgV+o1p9mp1xLFWN+NoEdTXQkG3OiN1xbiYB4+6UBoEDIykODEvQpUw980wyyhhI16y4Ity/wNPZhJpdXzLi0b+s4rGkRX/I+o1WAvm7PgZMd3wTQl8j7ZIRFQU2/QboM3dJjPZ8lAyPSjnV8g1Psx4ow4rR/ON+FpUwyqaKahXCiqs+BJgCgBrgDejS1qsNetnSIvM4yFZkw7osiHvVEzwZbAtXCN2WQ6ceA=;MtMEqe04s7gBOyXC1UDo8Q=="

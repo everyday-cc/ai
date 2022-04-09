@@ -54,57 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding.md",
-      "title": "New Salesforce AI chief eyes a future with voice-driven coding",
-      "excerpt": "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
-      "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
-      "publishedDateTime": "2022-04-07T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-07-ai-predicts-ifand-whensomeone-will-have-cardiac-arrest.md",
       "title": "AI predicts if—and when—someone will have cardiac arrest",
       "excerpt": "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,",
@@ -283,50 +232,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-artificial-intelligence-b2b-marketing.md",
-      "title": "Artificial Intelligence B2b Marketing?",
-      "excerpt": "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictsd.org/artificial-intelligence-b2b-marketing/",
-      "originalUrl": "https://www.ictsd.org/artificial-intelligence-b2b-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ICTSD",
-        "domain": "ictsd.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2022-04-07-health-tech-startup-vizai-raises-100-million.md",
       "title": "Health-Tech Startup Viz.ai Raises $100 Million",
       "excerpt": "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion.",
@@ -378,21 +283,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Toyota partners with Tesla to develop self-driving tech with low-cost cameras",
-      "excerpt": "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology.",
+      "path": "_news/2022-04-07-toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras.md",
+      "title": "Toyota joins Tesla in developing self-driving tech with low-cost cameras",
+      "excerpt": "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ...",
       "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html",
+      "webUrl": "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras",
+      "originalUrl": "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 178,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG",
-          "width": 600,
-          "height": 337,
+          "url": " https://i.tribune.com.pk/media/images/1049633-toyotareuters-1455778608/1049633-toyotareuters-1455778608.jpg  ",
+          "width": 644,
+          "height": 423,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -400,13 +305,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html",
-      "publishedDateTime": "2022-04-06T21:38:00-07:00",
+      "ampWebUrl": "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1",
+      "publishedDateTime": "2022-04-07T00:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "hindustantimes.com",
-        "domain": "hindustantimes.com",
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -763,6 +668,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai.md",
+      "title": "Salesforce upgrades marketing, field service, and sales tools with AI",
+      "excerpt": "Salesforce launched a series of AI- and automation-powered updates to its sales, marketing, and field service tools during an event in April 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/IMG_3027.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/",
+      "publishedDateTime": "2022-04-06T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
       ]
     },
     {
@@ -1162,7 +1120,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1203,6 +1161,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
+      "title": "ACM Prize in Computing Recognizes Pioneer of Robot Learning",
+      "excerpt": "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg",
+          "width": 267,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

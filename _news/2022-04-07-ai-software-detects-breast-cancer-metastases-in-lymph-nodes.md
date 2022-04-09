@@ -40,17 +40,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Biases in Artificial Intelligence Led to Healthcare Disparities"
-    excerpt: "Although artificial intelligence (AI) continues to become a critical aspect of healthcare, researchers from PLOS digital health biases and data gaps involved in AI production can lead to healthcare disparities."
-    publishedDateTime: 2022-04-07T17:24:00Z
-    webUrl: "https://healthitanalytics.com/news/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
 
 secured: "NbC3IOjgWnJ8lKgtZUj+FecKLBA06fEOWcFErd7UIHKJn9ml0bM67TtMtdeBBJKQhhgvLGbCIdQpg1WfZCKO4qF11I9qpeRZW0jMiQVPEJuy71s08HK0KjdV0fr27KjFoTGsPkQCOIAShMlPvIYdWtAxFLZUPmtVYV7U27mDgvk6zWUGU5LyvTjLJvi1ISIeCIo/+F3mtpTwx1zFc6JSseQjlD6Ov10K7RmJAg3kMggxyllVvG0hrx+KEM5UBix03TLi0zoC6l1Qi0xt9xqFpQI6V+YluKQe3wffXZfV8YLqa6l7nDwE+xSfMFto6aVaxO3KEjl7g1IcqcCW1E/03KXBK08Jan/Ax7WlmKQHOLpNmEMpTDcJDfb/eapzZ7C8tN+AsYz5igBOLa7jlnI81CSaDHKsqW+lDZ7uONutWx0gy3Loj+W8eD1UHHISM1xcuOYCm+noAMWoRnFD8Rg6yiRDLnWs75ns5WwSs//eWBMaSz1pMTdqBZMzwEik2wl7BfhLrDmi+1kSZArbyoqiWA==;cGYS+KZvtTKyYzU0l6+YHw=="
 ---

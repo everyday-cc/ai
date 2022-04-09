@@ -79,15 +79,20 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 35
-  - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin ..."
-    publishedDateTime: 2022-04-08T11:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual-agreement-with-blue-pin"
+  - title: "Guardforce AI Announces Closing of $10.0 Million Registered Direct Offering"
+    excerpt: "Guardforce AI Announces Closing of $10.0 Million Registered Direct OfferingNEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited"
+    publishedDateTime: 2022-04-08T20:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-closing-of-10-0-million-registered-direct-offering"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 34
+    quality: 35
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Boris-Johnson-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Guardforce AI stock slides on pricing $10M share offering"
     excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"
     publishedDateTime: 2022-04-06T13:46:00Z

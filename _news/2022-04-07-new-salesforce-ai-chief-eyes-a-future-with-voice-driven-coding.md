@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-fut
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/"
 type: article
 quality: 87
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "Salesforce upgrades marketing, field service, and sales tools with AI"
+    excerpt: "Salesforce launched a series of AI- and automation-powered updates to its sales, marketing, and field service tools during an event in April 2022."
+    publishedDateTime: 2022-04-06T17:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/IMG_3027.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Artificial Intelligence B2b Marketing?"
+    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
+    publishedDateTime: 2022-04-07T09:55:00Z
+    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 56
+    images:
+      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
+        width: 626
+        height: 417
+        isCached: true
   - title: "Salesforce Is Empathetically Humanizing The Customer Experience With AI And Data"
     excerpt: "Salesforce has introduced new service and marketing cloud features that humanize the customer experience with new AI-powered conversational intelligence. These technologies help service teams and marketers create more personalized experiences that drive lifelong customer relationships."
     publishedDateTime: 2022-04-07T19:12:00Z
@@ -39,6 +69,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin ..."
+    publishedDateTime: 2022-04-08T11:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual-agreement-with-blue-pin"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
 
 secured: "DAEldQ60z/WH3S4wFuoN4eSfK+VM/N0lgTmsT5YxANblOYvniQ+CYPfLjLh5U4G9hUyccORsV5mQTRbpeS8DbZr4iElxUFXCZjjh2sR6Hc2DvtPFV0hnEZpWx3AzxeD+k4wcNHjlUSgoKIxrfOPaTR6pK/H1yUJkxoiq427lfKyHPHuF49dPTywbHriKPCAw6yVVu4V1x4/pkHs0i38iqDbWhEjWccw5XydDlMRwyLe4lbHfCGhgNJJLS2Qc/oyH24YLUfZRDhAq04ZS2nttN9CloQJnN4IOME7jJezskF9tamiFtkvc/xuFiLNHOHx+uXI8CLjQTPQ5BDwUkEDu2awt4+dvniXRRjw7RLWf9i04VfsqQQ9OMrbegc4EPr9i6CkTzNYHqwcF0SflXkxj0yAXipF40KpnO2O7Ms+kBhEEz406KYJMKwAlx7Bf2Ij5HbJMOEx6zmFJIMn4jmG9Kw1q+V4lMZnJHFp0LlpXgJPptNSwBw2EgN+cEUd+1Kjno0Q4yhRLP6OX41qLEOYFtw==;qTiBcEPghW6uDTuIakr9ZA=="
 ---

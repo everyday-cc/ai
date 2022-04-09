@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
+      "title": "How Samsung is using AI software to up the camera game on its smartphones",
+      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "publishedDateTime": "2022-03-23T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
       "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
       "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
@@ -1127,49 +1179,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age.md",
-      "title": "Investigation into the potential of artificial intelligence in the digital age",
-      "excerpt": "As a general-purpose technology, artificial intelligence (AI) has the potential to change our lives. It could bring many benefits, from increasing farming efficiency to helping to fight climate change and making transport safer,",
-      "sourceUrl": null,
-      "webUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
-      "originalUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2022/03/EPRS-AaG-729329-Investigation-artificial-intelligence-digital-age-FINAL.png?fit=1024%2C545&ssl=1",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
-      "cdnAmpWebUrl": "https://epthinktank-eu.cdn.ampproject.org/c/s/epthinktank.eu/2022/03/23/investigation-into-the-potential-of-artificial-intelligence-in-the-digital-age/?amp=1",
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EP Research Service",
-        "domain": "epthinktank.eu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

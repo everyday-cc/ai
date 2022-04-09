@@ -95,15 +95,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
-  - title: "LivePerson upgrades Conversation Assist to supercharge agents with real-time AI recommendations"
-    excerpt: "LivePerson upgrades Conversation Assist to supercharge agents with real-time AI recommendations. Enhanced recommendation engine for content and bots puts Conversational AI to work"
-    publishedDateTime: 2022-04-08T19:34:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/04/08/9579825.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 5
 
 secured: "UdXXocyAWLxW67ozwkq0lOpqilZWkdoDCTM2QTcUkdldKBDaQIsYsDtoTDAZE2c7oMjdd82kA7USD3akka0Pi3SYCZwMnX8fiLsfc5Iv0WfRQJgrKnAJ3pXhl4QtWOIb63qJMNLY7OZWt9gJlGPSGcp21Fn4znKDBnWnLZPh2AUcZE5m0rfSD2wzwoWwxGR0wZs6Qz2DRB5gSTGhFEpvNLZNlQTz0tQpeKHpATkCJg4Sv6EN3CCsFySPXlvrpueJM8PHayoYBwDKb1UwtAzYA/1oht4bJ8tBzRo6FbasvZccq9Fy1ThS8nxz7M9Z4VYBC5zIXZObMUFPeRvonbT6QUkmN1DPfmyQPjnTpsuyGi8=;6D17K6dY1VAQXj/vvNuF6g=="
 ---
