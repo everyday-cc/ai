@@ -41,15 +41,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Israel takes global lead in fintech"
-    excerpt: "Effects of the war in Ukraine set aside, the Israeli fintech sector is expected to continue growing this year and attract more global investments."
-    publishedDateTime: 2022-04-04T15:11:00Z
-    webUrl: "https://www.al-monitor.com/originals/2022/04/israel-takes-global-lead-fintech"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 4
 
 secured: "dHd/emWmdJf1dbVrRzv9c3H9AdzWEPjl7a1CmE/5K79IOsYcwkMRHEN1l/VT0Rvj6CCZG5D92bOlrKKeqRnM6dWeN0kOhbp5ARZFGl4i7oWeqrwKIqZ5Evm2eGOyPon6Drrp9VfSG36xT31vtRUrK7o/SHl2pKk4k8wZh+1/0ITnSlVrPUvJ06YO/iEhawGGyGYbUl7pgrvws2ymtoxMMqKFyyv6mcP4XzxrBjANQiLcPpqoh18gZtefoZRm1zy+Sa4TcE7h9Yr8hwMbX3nmfLUuXRsNlZf+epZXBJ7Cl8xYqUv3uuDBCsEYZjhG4bV5dj6l1le315tHEEwOddysBEhmeNdHOWA6S3COsBuZiSg=;y7COpDfAPRPx8W9BHrzptA=="
 ---

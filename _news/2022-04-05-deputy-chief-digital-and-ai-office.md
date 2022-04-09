@@ -40,15 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "World’s first chief data officer launches AI research center in Boston"
-    excerpt: "The new university research center will bring human-centered, applied data science and artificial intelligence opportunities to local students."
-    publishedDateTime: 2022-04-04T15:25:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2022/04/04/northeastern-ai-research-center-launch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "qKF9TAZFpS3b4++rge88gO5Srr9V52A6mp4tJjPl6EweRCNLFenGkWFbiq0IVxnrSl4vk9Fzd+v0kgx4bNKT482lnj7pupjqi7o2lkylVTCkdnMmhnTYMqaGBF+4yL0GBjCqvEXI72b4KP9NFe79TDBxlSkJaYa4QjeAIztlqnYxI0op74gjPvrTcRMbgOh9zIvtvZ44JPsXxwEn5Zv8zVOEDg1IQkTYWQdKTMhNfPlIn8elbHaEYoPmGkbmS9hA4EBX4JafAfkz9te4LpdTMMNigaYKFSpDmOCciGIekPV5qRVIoFR/fVA8quiIF5VXCe9lJ+LR+IFv2xzvSq1QhTko6j1LyN9HBUU2EnjlvFw=;Wlr/c+vWy9vJcg+ysvXUZw=="
 ---

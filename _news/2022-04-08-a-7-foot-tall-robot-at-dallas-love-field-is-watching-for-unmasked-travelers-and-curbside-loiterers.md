@@ -29,15 +29,15 @@ images:
 related:
   - title: "A 7-foot-tall robot at Dallas Love Field is watching for unmasked travelers and curbside loiterers"
     excerpt: "Yes, those 7-foot-tall machines at Dallas Love Field are watching you. They want to make sure you’re wearing a mask if you’re boarding a flight or not parking too long"
-    publishedDateTime: 2022-04-08T22:53:00Z
-    webUrl: "https://theeagle.com/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_ae6d6fb8-b78e-11ec-b134-47a3816d14cd.html"
+    publishedDateTime: 2022-04-08T21:56:00Z
+    webUrl: "https://dentonrc.com/news/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_76710fdc-6028-5051-b84e-aef6bbad70a3.html"
     type: article
     provider:
-      name: The Eagle
-      domain: theeagle.com
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
     quality: 25
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/a/e6/ae6d6fb8-b78e-11ec-b134-47a3816d14cd/6250c01cafcab.preview.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/3/1a/31a2f4fe-d0cf-5fb5-b3bf-552e7fb9525c/6250b0a558157.image.jpg?crop=1660%2C872%2C0%2C31&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

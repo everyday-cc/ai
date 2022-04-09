@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition system at Pune airport by March 2023"
-    excerpt: "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner"
-    publishedDateTime: 2022-04-04T16:11:00Z
-    webUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html"
-    ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facial recognition system to be launched at Pune airport in 2023"
     excerpt: "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\"."
     publishedDateTime: 2022-04-05T08:39:00Z

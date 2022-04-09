@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/nvidia-became-giant-chip-industry-1524
 webUrl: "https://www.aol.com/finance/nvidia-became-giant-chip-industry-152417706.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Giant NVIDIA to Open Research Center in Armenia"
-    excerpt: "NVIDIA, a world leader in visual computing technologies, is establishing a research center in Armenia, Deputy Speaker of the Armenian National Assembly Hakob Arshakyan informs, Ar"
-    publishedDateTime: 2022-04-07T23:28:00Z
-    webUrl: "https://asbarez.com/tech-giant-nvidia-to-open-research-center-in-armenia/"
+  - title: "Inside Intel’s Strategy to Compete With Nvidia in the AI-Chip Market"
+    excerpt: "Nvidia has dominated the growing artificial-intelligence business. Intel wants to change that."
+    publishedDateTime: 2022-04-09T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
+    ampWebUrl: "https://www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
     type: article
     provider:
-      name: Asbarez
-      domain: asbarez.com
-    quality: 24
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
     images:
-      - url: "https://media.asbarez.com/wp-content/uploads/2022/04/07161750/Nvidia-scaled-1-576x375.jpg"
-        width: 576
-        height: 375
+      - url: "https://images.wsj.net/im-519480/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
+    excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
+    publishedDateTime: 2022-04-05T13:48:00Z
+    webUrl: "https://www.pcgamesn.com/intel/gpu-nvidia-gtx-1650-comparison"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 34
 
 secured: "2HmbOa+5eWifHiwoZLNJkTLWet9ZBBMkR1Ng92u51WF51+pVDEL1zLIWGGkWtZDLBL3OVTRT/Q3EgX1kk+43S0YTb+twrGuuXc1lrkB4d21pc4LygyHf6QbGcrc0L5LYhAUOeyn4xDo+ZzCr4yQwHQ/Pb8+ccSlcdOGYEf/q3lYmyzn8tFR1KAtc1AYfvWD5RXT+dhKEKNzsCAYGy/ojkAklqwDSXEVlK/tgqdeg6FBU/2BylnCb5uchH1KItZJNSQHkOHNgllIaqOhpQgGxL77AzK2iL/2Dsqw0yTWoBT9DvT5htqEmvzq0lq7NTJWTgqfzVBDvZXA7fcbhaRDnoZQwkYagq5ZYyoPKX2nNHhI=;KaSsgfzn6tetdQM8N1UPIQ=="
 ---

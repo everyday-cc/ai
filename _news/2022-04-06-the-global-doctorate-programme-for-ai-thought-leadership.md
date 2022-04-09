@@ -38,15 +38,6 @@ related:
         width: 471
         height: 315
         isCached: true
-  - title: "UNESCO’s Information for All Programme launches the inaugural conference on Ethics of AI"
-    excerpt: "Adopted at UNESCO's 41 st session of the General Conference, the Recommendation on the Ethics of Artificial Intelligence is the first global standard-setting instrument, to ensure that digital transformation and innovation promote human rights and contribute to the achievement of the Sustainable Development Goals."
-    publishedDateTime: 2022-04-04T15:11:00Z
-    webUrl: "https://www.unesco.org/en/articles/unescos-information-all-programme-launches-inaugural-conference-ethics-ai"
-    type: article
-    provider:
-      name: UNESCO
-      domain: unesco.org
-    quality: 25
 
 secured: "j9QWvlV6ZTjHJizLevGvtTJ93jiVz33qflRfNpgod3un0/zqJ718jh0wV5f+BEOIclehFA3p3rr/pQbMlX9oAEr0WTvzIfWDgm1IOcX/o2vy99kGp7efo6p8szLh0cuoyQG3My6gHy9XsAxYLhQqmkIz5i0tNYyT5jxdQYtjLRF+Apsd1qqf2InqiiCEO3QyBoXxG+cbnE5sm9hIzpDpC0tAoltmovWl5yQGBglyUbzJv4shSfQSUL+fP0AIFIT8NGHLqpLjiBsV1Us4gghBxNJJZkUAqVkTjd41aWGq06pB28/79/wMlN3tEtSP56sKLoerFN4IRRr7qVaj8LyVTXRi5qCKogXyCLsrShw37Og=;qZLgJglglDd58g0cocOQwA=="
 ---

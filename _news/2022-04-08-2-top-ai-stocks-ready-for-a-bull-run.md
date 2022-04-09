@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

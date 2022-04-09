@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/5-ways-artificial-intelligence-help-your-it-dep
 ampWebUrl: "https://techbullion.com/5-ways-artificial-intelligence-help-your-it-department/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-artificial-intelligence-help-your-it-department/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/04/artificial_intelligence.jpg"
@@ -25,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "ZIDpkgtGiz7zW1FUqStTmHRFWaicfS3g32q0WzkfyPEM6eNBK/+KvwcsSyrR251sWd1ywWfwhTn0S4Mxv0A3pMuDUmyrYwpkPc7mY0vQqMVxDoBeWlwOO7KEk6wuw9k5jlWZP0xM7igK/8U+ISqC8OGoR+UZRO2WXZx1jgH53vbngqIk9pgOqSVmI+t4dFhhMXWYU/KU09Jpr+9M1iTePzOXYDU87gRSUxM2lex4rrG70lX1q6cExb1dOM1rCXm9j1OkHBDmgatnMAr29idn2kzWrCVRTtwFMiP2FW/QBzNJdpZwPCPQjPneuHQxmYQ2BxZecDpCmeMFpmNUp1m+EUuiTSgOk7DLBXXIiJSaGas=;Fr/eDBZiKabJhyhq8FKWAg=="
+secured: "75iYVWIK+cpDz4u2/ztzjg8woYGxMDwwdO94gIfhi4g4McXf90J80wAEzuwocDAK5s0HZ4ofWwDCOgLNmJCNCMIK0mnfXV9vDMS4H+0qAtZpqtunH1DPezVoq4AtMrCjspeuOlzh04p6mOXoK0SODLUGxZUASKTcYM+UBOobcpR9jGHFWPXSR8M13ARYibY48C53CIRZC4HZ2yM3HXuMdGnPlwDC97QVYiBGTsNWcFB9x27uusHu2Fz8TVjYz1C5aATARarh7euusKh8Wm8aOoLHnTgj9rx1cR3C+1G7eHN3cniGuGFLitfGMTge5VwRcYhMKah4N4eQMQibvhv0jkuOZDFsQy67pl8Bi+5l09dhy7QwdEfOGdOREqoLi/Phj2WFjw84XO0AzBcLMdwmETmU5erOwh3V4pOO5TBzO6dal6W5gVRKsrqjbSuuYN7nFsXSpx4sibMdqkUqhbnY1pHeDMuaCFYnpy0q8sYIrhHuR6s8THIPto2RW6tbdWae3jaoYxHnEhfyITBSATNBcQ==;XA+aPuytlg1aTKs3gI16gA=="
 ---
 

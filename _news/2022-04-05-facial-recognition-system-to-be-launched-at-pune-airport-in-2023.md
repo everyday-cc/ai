@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-l
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Inshorts
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition system at Pune airport by March 2023"
-    excerpt: "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner"
-    publishedDateTime: 2022-04-04T16:11:00Z
-    webUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html"
-    ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Delhi, Kolkata, Bangalore And Four Other Airports To Have Facial Recognition System By March 2023"
     excerpt: "The government on Monday (4 April) said that the Facial Recognition System (FRS) under the Digi Yatra initiative will implemented in a phased manner. \"The first phase is planned a"
     publishedDateTime: 2022-04-05T04:59:00Z

@@ -56,17 +56,6 @@ related:
         height: 340
         isCached: true
   - title: "AI test could predict effective cancer drug combinations in less than two days"
-    excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours."
-    publishedDateTime: 2022-04-04T15:14:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-effective-cancer-drug-combinations.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
-  - title: "AI test could predict effective cancer drug combinations in less than two days"
     excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours.Their cutting-edge technique uses artificial intelligence to analyse large-scale protein data from tumour samples,"
     publishedDateTime: 2022-04-05T16:26:00Z
     webUrl: "https://www.pharmiweb.com/press-release/2022-04-05/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days"

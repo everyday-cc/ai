@@ -3,15 +3,15 @@ category: news
 title: "Should law enforcement use facial recognition technology?"
 excerpt: "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate."
 publishedDateTime: 2022-04-01T15:07:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-webUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
-ampWebUrl: "https://www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+originalUrl: "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+webUrl: "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology"
+ampWebUrl: "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
+cdnAmpWebUrl: "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true"
 type: article
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: KIVI Boise
+  domain: kivitv.com
 
 topics:
   - Computer Vision
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "D1HWa1/v/CQxwCERNJYVW7g7wKOuEdpOrit/395hVLSRYTTqG9hiOUT1PTkNFRyEcA9EPRj85JLP0v5Kv48Kjw8YTyC0deZv2bOQQKytvInwq6sN2ieBe8JtwlH3i3uLlynmuiCSNYPaOBzfLP4gPSPOChyl9eWYaG/aDsJV30vtUC3oSjefRQA8tTfy4jOjF2T7RmdwlMqrE/5m+wqJGEZLZpX+TZznx7FZAA3xlToR3aFBN7e2z1xsX61wZVlVAfGYaLtXbrEQG/tIRlTEnG8OxUjO8rnQt0z7QDG5y7lxHEXigv+TG1cV/2PR46ILuFhLxxLs23c6dkUHLKxTPOy9a/oguf7RbEB0qZ47FRU=;I5vMHeacYLMDQOT+SD6WZA=="
+secured: "HItsSOBnJpmZ7YWBwnri5kJS8oRevlUzTv37RA+gz95cGEfLdTApyYJ9KkBNkQHTSVtvnASBfS2xcgznNx14NuZmsG+1SoGwuZiGuULPjnf+w40E/NSFhCXgze0sk7uNjYxnsxYhgXXh7lQcQq4QBRraUq/dQmhoHbFjzNZuG/TGhWnd3Nrxuc6qyblzF7X+T4HiwIbBTGvY4GE4e4ovg0BTodcmqfI+fQLusiZGRsA1kxf/59bqHyhc+Jt4LCPnrEus3embeGDwivBoXijPav6K+/0CZH11o2qitvwMur6mqrXK91m2U1Z50Z0CzbM8WQA3JjlHii+0e6LABLrlX0daS9YcAvUqJ7aCbFxYuOE=;J7klJWrf/lhYReg7a1tdEA=="
 ---
 

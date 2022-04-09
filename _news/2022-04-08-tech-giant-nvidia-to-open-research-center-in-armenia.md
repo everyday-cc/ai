@@ -7,7 +7,7 @@ originalUrl: "https://asbarez.com/tech-giant-nvidia-to-open-research-center-in-a
 webUrl: "https://asbarez.com/tech-giant-nvidia-to-open-research-center-in-armenia/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 576
     height: 375
     isCached: true
-
-related:
-  - title: "How Nvidia became a giant of the chip industry"
-    excerpt: "It’s safe to say Nvidia has become a giant within the chip industry. A leader in the creation of graphics chips and cards for gaming, in addition to content creation, the compan"
-    publishedDateTime: 2022-04-07T15:24:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-became-giant-chip-industry-152417706.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/iKqX29jVKxtHhQUYXx0IbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzY-/https://s.yimg.com/uu/api/res/1.2/kfKbStsLsWaw_ytnK1KPHg--~B/aD0yMjYyO3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_yahoo_finance_433/c6c9c1aaf540760f71e43a5dac3b54d8"
-        width: 1200
-        height: 776
-        isCached: true
 
 secured: "M2vJ0vt9bjxcVMusHMsyFMo9LuDbKYp/G8aEF5P//vtHtF/ySWnGZ2QkuA2FF7EUPa3VDv5DbTVsxeYDZmowgKpQM8EPPag5TZy8I0rxmKjtaluHQUaqTE/tbzHBwhaz+aDVzuB4y87FWCSc4RNpDKKeGke9zUZuMMMYUcEOH0cudDiZK87kh6FHxGGELgCkGMAdb80d0zPT5K9yRCm4CY0aVd5xAFvnASECilzEvlEn6axiT2dl34w3u5uOr36t7fsiHE5UYuv/0Le673LdhKBUHZALuLFcPBKL2ktj90cwS4f7HmpQOzG+ugv/fKkHe+JqLFwyZ7E+GrFz/eP+x5pNc68uPwzcZ5iD9wMso2BMqrO8qBlJfmxseQUziUKLC4+UC4leMO/PT4DaVtuchNLONASTFf8K/moYRSnBbEPCQyst8KD9XHjxTFQznoo6Sty8wwWXwf/rnf27O2e6es0xBF5YZMgCKn5xNvAmRwonXHwZHGKIkpjhKarOW8FlX2MtiOBEApwOTMjinYSXcQ==;2dzCgAqqveEs45/ypb3FqA=="
 ---
