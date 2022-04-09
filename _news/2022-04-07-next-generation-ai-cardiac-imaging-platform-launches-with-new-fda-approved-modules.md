@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Relyance AI to Demonstrate Critical New Modules for its Machine Learning Powered Privacy Platform at the IAPP Global Privacy Summit"
+    excerpt: "Relyance AI, the leading provider of AI-powered privacy, data governance, and compliance solutions, today announced it will showcase its groundbreaking platform and new software products at the upcoming IAPP Global Privacy Summit."
+    publishedDateTime: 2022-04-07T10:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/relyance-ai-to-demonstrate-critical-new-modules-for-its-machine-learning-powered-privacy-platform-at/article_0cc0839b-0e94-5493-9d5a-ec4682c6998b.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Aidoc Delivers the Most Comprehensive Neuroscience Package for AI-driven Coordination with New FDA 510(k) Clearance for Brain Aneurysm"
     excerpt: "Aidoc, the leading provider of healthcare AI solutions, announced today that it received its 9th FDA 510(k) clearance for triage and notification of brain aneurysm. This announcement further strengthens Aidoc's position as the leading provider of the most comprehensive,"
     publishedDateTime: 2022-04-06T20:00:00Z

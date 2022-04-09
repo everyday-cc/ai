@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "California suggests taking aim at AI-powered hiring software"
-    excerpt: "A newly proposed amendment to California's hiring discrimination laws would make AI-powered employment decision-making software a source of legal liability. The proposal would mak"
-    publishedDateTime: 2022-04-07T22:11:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/07/california_ai_hiring/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/07/california_ai_hiring/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/07/california_ai_hiring/"
+  - title: "Next-generation AI cardiac imaging platform launches with new, FDA-approved modules"
+    excerpt: "Arterys announced it has added several new elements to its artificial intelligence-enhanced cardiac MRI platform and an additional FDA clearance for two quantification modules. According to a company press release,"
+    publishedDateTime: 2022-04-07T15:29:00Z
+    webUrl: "https://www.healio.com/news/cardiology/20220407/nextgeneration-ai-cardiac-imaging-platform-launches-with-new-fdaapproved-modules"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 57
+      name: Healio
+      domain: healio.com
+    quality: 31
     images:
-      - url: "https://regmedia.co.uk/2021/02/20/hiring.jpg"
-        width: 1000
-        height: 584
+      - url: "https://www.healio.com/~/media/slack-news/stock-images/pulmonology/a/approved-fda_shutterstock.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Aidoc Delivers the Most Comprehensive Neuroscience Package for AI-driven Coordination with New FDA 510(k) Clearance for Brain Aneurysm"
+    excerpt: "Aidoc, the leading provider of healthcare AI solutions, announced today that it received its 9th FDA 510(k) clearance for triage and notification of brain aneurysm. This announcement further strengthens Aidoc's position as the leading provider of the most comprehensive,"
+    publishedDateTime: 2022-04-06T20:00:00Z
+    webUrl: "https://www.mystateline.com/business/press-releases/cision/20220406LN14767/aidoc-delivers-the-most-comprehensive-neuroscience-package-for-ai-driven-coordination-with-new-fda-510k-clearance-for-brain-aneurysm/"
+    type: article
+    provider:
+      name: WTVO
+      domain: mystateline.com
+    quality: 5
+    images:
+      - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/snapshot-4-1.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "eymc2uGKxQeUNR5cfiSkRhNBwHiyCLrur7PHE7p729iqx+nl/fDlz/qQPXPxK5AZ2rHf6fJZvRQFZXTGAnl1nHK0Qn8GqIwdJgvRFwkmvCCP7J8vwHrqHf4osyWUKWTv2TOt9kVw5Ro4jEYy8zH9xaPBeQHMjHBel1+sFBYxBWzxxN3rgwBThAJI+uXm+JVj9IZQOZZGbQvlYktrhjQu4YiyRuqixR3ZtLaebWE5fsmUZ3XV+hKZTSlH82QF0U1hb6TKZSEvP6JEn8rTTQhU9Di4u98/KaQ7pnO9wQFhsXDkobg+dAywnYldLk9kGcYc391K0V4TzHcGjiunHpfjn8ro5lctijsFRKTBzPIWkwp9vZcHtuFrD26So0zqgktouAMjpXcM3USlaYF3FGERfDigT9zNELCfZq+TERuKeVDmf7tDPooa0gDqdv9LXCY3StARA2e8jMkDynwkexjy7Pi+ZmAFA2ruxGrj4Tw2eiH/HJAq70dfWMWIGhZVdd/dUvnxHPDKZ4qtaxY7WGXoig==;djhIQ06syu2MF+Eqr4dUbA=="

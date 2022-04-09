@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Swedish AI Fund looks to back African start-ups"
-    excerpt: "The Swedish AI Fund (SAIF) − a global non-governmental organisation (NGO) − is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa,"
-    publishedDateTime: 2022-04-04T09:04:00Z
-    webUrl: "https://www.itweb.co.za/content/P3gQ2qGxDwkvnRD1"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
-        width: 816
-        height: 414
-        isCached: true
   - title: "Darktrace AI Stops Sophisticated Ransomware Attack At South African Financial Services Provider"
     excerpt: "The company, a growing firm providing various financial services to customers across ... the subtle signs of a threat and fight back at machine speed. In the early morning hours in mid-March ..."
     publishedDateTime: 2022-04-05T08:50:00Z

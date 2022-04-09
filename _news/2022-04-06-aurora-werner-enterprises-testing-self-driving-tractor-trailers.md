@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
-    excerpt: "Gathering diverse driving data using a massive fleet of cars is critical to developing a robust self-driving car system, but it is costly and not scalable to test autonomous vehicles with ..."
-    publishedDateTime: 2022-04-06T15:31:00Z
-    webUrl: "https://www.channelnewsasia.com/business/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-2612566"
+  - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
+    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
+    publishedDateTime: 2022-04-06T15:37:00Z
+    webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 38
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--h4xdRBH7--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-04-06t153552z_1_lynxnpei350tg_rtroptp_3_toyota-wovenplanet.jpg?itok=xnJxXJCv"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
   - title: "Virginia-based Self-Driving Truck Developer Torc Robotics is Opening a Tech Center in Stuttgart as its Ramps Up its Collaboration with Daimler Trucks"
     excerpt: "Virginia-based self-driving truck developer Torc Robotics is opening a technology and software development center in Stuttgart, Germany named Torc Europe GmbH. The Stuttgart team will support the ongoing development of SAE Level 4 virtual driver for deployment in autonomous trucks in the United States."

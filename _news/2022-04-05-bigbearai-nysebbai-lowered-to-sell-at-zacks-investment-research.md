@@ -34,6 +34,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Tony Barrett Promoted to President of Cyber and Engineering at BigBear.ai"
+    excerpt: "Looking for the latest Government Contracting News? Read about Tony Barrett Promoted to President of Cyber and Engineering at BigBear.ai."
+    publishedDateTime: 2022-04-08T21:00:00Z
+    webUrl: "https://executivegov.com/2022/04/tony-barrett-promoted-to-president-of-cyber-and-engineering-at-bigbear-ai/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 36
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/08/07/66/a8/44/33/18/24/f4/unnamed-file-16.jpeg"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "0JRNRlZn3hWlhm8lCvNF9wdGzDpgySByxUQowK4zmMcYYWgIVqAK6Q9v21/CDha6dHAFN5BF0njOE1s1oEfcMi6g73F2iu2gtl9X4zVdAMW3iQFROKSL9frSCvbB3LQOqpRIQvlesNzHY1pd3v3QC4OKQ4gUc8SWzUCfYOR990Ljqsa5scJAVqT7Smmxn3H7gBqGyG/qeGZ3Dj9CiwCbxsmyYfL7sEV2AHzBfw5NVd4qqUg0ojUuCenOMFT4HQQh6lfcxGtJ/kY8mwHNlhgnsGaS2Yyaemnu1ycwpd7Rxdch8NORMqeDcb+9rtjeq54JdKcrO8HSN0MA/X9nUNQalAf9Rg4Uy8G8Q58VUwr7NmY=;nLpUr5TzuQnIcFwRjc3xXQ=="
 ---

@@ -25,61 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "Here's How AI Optimizes Executive-Level Decision-Making In Mega-Corporations"
-    excerpt: "Artificial intelligence's application is altering business and at the same time, it is evolving as significant gains in computing capability allow for more complicated programs than ever before. Enterprise AI,"
-    publishedDateTime: 2022-04-04T10:51:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/04/heres-how-ai-optimizes-executive-level-decision-making-in-mega-corporations/amp/"
+  - title: "Velocity Capital Invests in AI-based Open-banking Personalised Offers Platform Network B"
+    excerpt: "Confidence in the AI-based personalised offers platform Network B continues to build thanks to recent investment from Velocity Capital Advisors. Network B is one of the leading open-banking and card-linked rewards platforms,"
+    publishedDateTime: 2022-04-07T09:10:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/velocity-capital-invests-ai-based-open-banking-personalised-offers"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Financial IT
+      domain: financialit.net
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6239aa5f2d68c629702662a8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1200
+      - url: "https://financialit.net/sites/default/files/twitter-card.png"
+        width: 700
+        height: 260
         isCached: true
-  - title: "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making"
-    excerpt: "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years."
-    publishedDateTime: 2022-04-08T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
+  - title: "RAD Offers Cloud-based AI-powered E2E Network Diagnostics Service"
+    excerpt: "RAD, a global leader in network access, has released RADinsight PM, the first cloud-based, AI-powered performance monitoring service"
+    publishedDateTime: 2022-04-05T02:20:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24074-rad-offers-cloud-based-ai-powered-e2e-network-diagnostics-service"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.thefastmode.com/media/k2/items/src/71767c22d5b46c22062837edbb3d106f.jpg?t=20220405_020807"
+        width: 752
+        height: 408
         isCached: true
-  - title: "US developing AI for critical combat decisions"
-    excerpt: "The US Defense Advanced Research Projects Agency (DARPA) is looking to develop AI algorithms that can make complex decisions in situations where"
-    publishedDateTime: 2022-04-05T09:46:00Z
-    webUrl: "https://menafn.com/1103963914/US-developing-AI-for-critical-combat-decisions&source=30"
+  - title: "Adidas to launch personality-based AI generated avatars for metaverse"
+    excerpt: "Adidas has partnered with the cross-app avatar platform Ready Player Me to launch personality-based avatars where the characters are generated using artificial intelligence (AI). Digital characters travel the"
+    publishedDateTime: 2022-04-06T23:39:00Z
+    webUrl: "https://www.econotimes.com/Adidas-to-launch-personalized-AI-generated-avatars-for-metaverse-1630930"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/05/AT_16587image_story.jpg"
-        width: 600
-        height: 414
+      - url: "https://s1.econotimes.com/assets/uploads/202204078df3a754a849b7ef3_th_1024x0.jpg"
+        width: 1000
+        height: 451
         isCached: true
-  - title: "Responsible AI Initiative launches at Carnegie Mellon University following panel discussion including government, industry leaders"
-    excerpt: "As artificial intelligence systems become more prevalent throughout all ways of life, Carnegie Mellon University wants to be at the forefront of ensuring that such AI technologies are being deployed in an ethical manner, limiting the potential for types of ..."
-    publishedDateTime: 2022-04-04T23:29:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/04/04/cmu-responsible-ai-initiative.html"
+  - title: "Australians demand for more digital services in government and are comfortable with personalised artificial intelligence, according to survey"
+    excerpt: "There is a large and growing demand for government services across Australia with the public comfortable using personalised artificial intelligence, according to the inaugural Publicis Sapient Digital Citizen survey."
+    publishedDateTime: 2022-04-07T00:11:00Z
+    webUrl: "https://itwire.com/your-it/australians-demand-for-more-digital-services-in-government-and-are-comfortable-with-personalised-artificial-intelligence,-according-to-survey.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: ITWire
+      domain: itwire.com
+    quality: 4
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/2c5136e139e3d98baf9d8009e3477022_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "iM0DGn650KcBu1QStlClWKgzR1Uh3vRYgsoyogexFJ6ziTuXy9/YqOvLrsXHahwM1rsiF69jRN1KLqVROz61PyBmh7Rza2I1MIzE1J2K415Ojt9DcTPdIIJ+JpkXpMglJXORiKBNBfHEx4wu6JeU7uXPlnUEwwar7qzvO6w08tLQHjGZD4XdrIuh7rIOHHYM2ybwkjcsRKbpcHavx3s/2Sx/pq1s02SK1SMwuXTNGyZa3iVIzdGOPFcuWmVtAWbcLOvwdcKm832pEd0TQxEOlUnWoFvlOXDIgYNjwuhcqOzJmcRaj50wVFd1kMBOQkAfUG2UFe/dwkn7pICPfwkkdcen+gO3vzfHww4HiEsZBjQHB3ToTKaf/f5dRNuFCY6vT8aH7c9vjM1+dkiEbF3oQdW5rjKCwoOHrWwi1cakAKKS4sJ5AOpfp3ED4jIlbNKJms3ZiJRXbM1WXlgUjDQwwqMc11hWW+BMPrlqFaU6DEg91tOm/LhRzHOa49Vr/A+15CDFAxZymIJOxjxDehA7RA==;DqHZysxww+cHscKr06cw3w=="
 ---

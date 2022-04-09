@@ -168,18 +168,18 @@ related:
       domain: insidehpc.com
     quality: 25
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft’s market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
-    publishedDateTime: 2022-04-07T16:30:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-4381f5d165f3ad463be34179c97c47ca"
+    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and"
+    publishedDateTime: 2022-04-07T16:29:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
         isCached: true
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
@@ -202,6 +202,6 @@ related:
       domain: kyma.com
     quality: 19
 
-secured: "aF2Ris6dG1gnKtCDLHTy0U1+mB/35Cft7WABbGw6l9PwKE6BOC6f3QdoncxEjIkjCsoaGMf9beZQBrRkk6i0JRu0pdWp0JpKmk2YDVVup+JQJHOuHPVbyuwu3DrwmJpLtJYoshFrH1HFnLIbo31mzBXQNBALD2PAiaOGAIPyHTlvElxw6IPAXKajG8Lc0BTvVV78R9WIVPbCwc12ff9blL1s7bH2yIvpQckRbhoUDLJNJRD3GyvOgitCbiLCVZ+taPCAcPjr2xY6V2SGkCJ754k6H18uNmAQY3ptDYeHlSiOuHUV3zXLNZeO3cZThQVmV/EZiq4s7yA2uAwrI473ZydsEh0xsM7XeHsKmerITQQ=;Cwpe3eBBUPMiLHsekHi8mg=="
+secured: "jwPfkUnpyw3Ytnw6Z1HHKdeaQelvr0rQZHE9ps4s+grS5eI7rG0RS2NuWvBeRYRBOrXVgT2CjuLEoKvaJp7oJAd3Hl9d/K/JeiS23VwPtcFi142CQvIRwtmoQRIF6S1BEMXmhfAs7mQ8O3+962nstawR7HFNQtChZKV9pfqcGjicd9m01T9zlxFqfdfBe7l36zJhRW7jBWgzuxP5b5zIR885NLcE6BmYAEhCEXTyAq5fhPnVZvof1eEmJ84sZybFMouDRanSpeRrv5uZjG/eVZh8wiAqeajKHOUxE98yXWRK8vsMdfoPEEH3qh0uC9Z05Zenf8ikaGvElQJwcLD0sKNCno14gVN2FMMjK5wPWBUSig4oKSTJYF/mhMTG8/bcJqdkOJ1ol8Jum9FmyJV0OszGHO//rk5XtEdJNKADel+T1EhW7TJfDt6a3VTLqEptd/h8hdxzxS7By3lyLvj+Pgy1KKCSVFPETH6P6M+KlV0r8ztci7o4/zyhk5sbsJySmI3chiy16jswFdFOuf3Jdg==;8Eseh5LxUIejo0HxKQB9PA=="
 ---
 

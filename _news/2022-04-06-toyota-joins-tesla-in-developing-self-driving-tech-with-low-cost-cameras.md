@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
-excerpt: "Gathering diverse driving data using a massive fleet of cars is critical to developing a robust self-driving car system, but it is costly and not scalable to test autonomous vehicles with ..."
-publishedDateTime: 2022-04-06T15:31:00Z
-originalUrl: "https://www.channelnewsasia.com/business/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-2612566"
-webUrl: "https://www.channelnewsasia.com/business/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-2612566"
+title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
+excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
+publishedDateTime: 2022-04-06T15:37:00Z
+originalUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
+webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--h4xdRBH7--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-04-06t153552z_1_lynxnpei350tg_rtroptp_3_toyota-wovenplanet.jpg?itok=xnJxXJCv"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
     width: 1200
-    height: 676
+    height: 800
     isCached: true
 
 related:
@@ -88,6 +88,6 @@ related:
       domain: nbcnewyork.com
     quality: 6
 
-secured: "emDfTFweoXslwmxKu1BGadPl1Fl0zEnfCTFwwnxm028Blr0MVyrPUMpg+lvaTBRh1vduGRHKm/DBlB8XCVP4Za4X7Gn4SR72KXA0IJdRV1dVLRqXmT60EoglIuoPTQoWIW8rKfcWxs2GTn/ClSsLV4L72yzVZuv1+djnRk8JzAFErkGFC7E7NDLg05s1OSqWfxyn/InCsnF2wUnokoH9DRvHWj5WK9d16ycG2KW4BXkEiYUJENMbxaexhHQaXaQ+MCJmWxdX18lIHYoCg3qN2KCM0XziFCm6weosuLt6GzHppBUm901HW7IOff2X05El0ykWEjZhb2rqelt3AKy9ONUr9phemknSiyvakRYI9Xc=;7cNqUbs9R5cdxyo0ZsEOyg=="
+secured: "IIUt2+5Qco3bE9ndJbDqB/45Z4q3hDr2yYjyVQ8ripp0UjOZ6tx8dy04TmbOEG0uoPcTGI93YHxQgIaw6oYqzvQCgObDqqadtw1CJeilFOUSCnyd5dDzEfjXv4IutdYd2m9fUa0/pmJ0HF01ML1wiMYYoWhbNSYoyDDpjBHD5U2yo3PnhIFSp/VBY54oaqXZrKBrMP7g18GEVgkFz1NhzpDUYqOr9WDZBTyEVs1sjCPQ5OXLCzItGyVDl/ZzOTXu/mhYnkpKIadBqqhBaLjKkkafjJ/1JZxW/vKGbl8iRmmy4nc0yuxdfS/lSr6feZZuXSBo0jCJQxkRpIBc8ybFGfQdf5y99WZQiMZHm7Q/eIA=;soHshf/5fi0bSUaa1SvyMA=="
 ---
 

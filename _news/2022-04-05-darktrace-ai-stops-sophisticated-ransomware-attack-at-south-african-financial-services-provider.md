@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops
 webUrl: "https://markets.businessinsider.com/news/stocks/darktrace-ai-stops-sophisticated-ransomware-attack-at-south-african-financial-services-provider-1031332219"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Swedish AI Fund looks to back African start-ups"
-    excerpt: "The Swedish AI Fund (SAIF) − a global non-governmental organisation (NGO) − is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa,"
-    publishedDateTime: 2022-04-04T09:04:00Z
-    webUrl: "https://www.itweb.co.za/content/P3gQ2qGxDwkvnRD1"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
-        width: 816
-        height: 414
-        isCached: true
   - title: "Swedish AI Fund Looks for African Start-ups to Support"
     excerpt: "is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa, primarily at pre-seed stage, that have developed solutions and services leveraging AI, adding that selected ..."
     publishedDateTime: 2022-04-04T23:03:00Z
