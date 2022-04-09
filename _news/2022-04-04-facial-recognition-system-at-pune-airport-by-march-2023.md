@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/pune-news/facial-recognition-s
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -71,17 +71,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Face Tech By 2023 | India's First Face Recognition Based Boarding System To Start"
-    excerpt: "In a bid to decongest airports and streamline passenger experience, the government has said it is going to roll out the facial recognition technology at airports across India by March 2023. Varanasi,"
-    publishedDateTime: 2022-04-04T13:43:00Z
-    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100"
-    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 34
 
 secured: "YCchtGttmWdLtA5zPCilEwPysHFi2fgEsAjRmPjm55v3xNRy3t5lhPGs9OCKzp3HNW5+QYNAccQ0yObvIfGrRWE43Y0Sl44M6Qwvn4POrLNTwRG92gcUSNjEXpgAAHdIo295A6/z0D5HeCb9ET2WrJCxXvDpWkw7BSKyKwHNjradm+29mTcR440Odba9IeLN3VU+NBqebUxW591mKM5A0p2tg/meZNaZtqwBIF0VmUBDWe5V7DKOtxs1NdkfteJVDfOy0QIaBiq+YBh2rEUkSm2uxvUr9CBe2VCgH4WqRgWa39ZPFMGiDspRzHHdDXBaUk/jWnvpvdrIKaMnm+4VWd5HDhTVxb88xyLI8TyqmTU=;dWdFhNVMzeYeZwO2a7qE+A=="
 ---

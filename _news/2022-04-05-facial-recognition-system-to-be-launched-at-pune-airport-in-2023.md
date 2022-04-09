@@ -71,17 +71,6 @@ related:
         width: 1280
         height: 854
         isCached: true
-  - title: "Face Tech By 2023 | India's First Face Recognition Based Boarding System To Start"
-    excerpt: "In a bid to decongest airports and streamline passenger experience, the government has said it is going to roll out the facial recognition technology at airports across India by March 2023. Varanasi,"
-    publishedDateTime: 2022-04-04T13:43:00Z
-    webUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100"
-    ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/face-tech-by-2023-indias-first-face-recognition-based-boarding-system-to-start-video-90646100/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 34
 
 secured: "vj6E/HdonUDIco9odsH8Tx0xCCokvPI8WBctNKXGZxAXthMczIKQbG6FXw8BB5KuHegOW0nHZnmQC7Wvb0TkfkztkzWikBjX+fAJLkhPe1uBgfUx1OWvCsWbW5uZO7gxj5h0sKZstBI9DZ60K/9s2rcJlSL+sbuBp9qLRVE7YSykSzc74/A0YN+bUGjmOb2MDKc8vfiJ7HKPO7tkl0T9CxXWuSOtQ0oo2k3ApjxfnMiB9lg30N0LEBn+2j2VHYgWrqXU5RBaD5rgkzPfasW2ip3xruFoaE0YIpUUOJ2SLHPe2zg1uvi0EN+4ZrONokT9z48WuZS9V0dyGsYr4LMq4cF/OsVe6bgDIx9HLu1KQSVb0oiVAMHxlSbzR5bP40kSbACvI7qVbu83MJBDUEpw5U8RGs1nDl0Q0QAwCBJBdBZYORm/wRjb1vke3kuO5lzsTIXrlhlWBhPvr7iKH0+gai5ZnB5UgrzlpVqSevmHM09AlbNZgm0AD0o0WHh1J5Tse2c0rNQfIU+4j2jsJ6N+QA==;h/RzG6UrX7IsZ1gmTZ5D8w=="
 ---

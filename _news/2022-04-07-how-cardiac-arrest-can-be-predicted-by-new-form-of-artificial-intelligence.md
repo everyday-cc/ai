@@ -72,15 +72,6 @@ related:
         width: 777
         height: 583
         isCached: true
-  - title: "Why we need human-centered AI"
-    excerpt: "Expert, Ben Shneiderman, believes we can create AI systems that can have both high levels of automation and human control."
-    publishedDateTime: 2022-04-04T14:10:00Z
-    webUrl: "https://thenextweb.com/news/we-need-human-centered-ai"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 47
 
 secured: "FVmEWLi7ro2vNfizfasMEYN5vRtOts+d8dsXXzv0U382UTHv1GNFMBQLHVcJQQ8PyLXZ+yD3gbMq/9rKgOHVwhSuda/9rky1ZaVpeEzRpcTJes+SobdH6WdF7t8+BweEvYTEDnVtPMOrO+KkBaqTRKzjsQgWDJmwUYm+oukpT8Ok/HrIbXeR0cyZjBc/9zej2WW/XdECg/zELR/8h2+NbqDkwnTDT19C7kv6gn0qwvNoFbI6gVJBrj9xa3zwAAN9aN5TPNLG6yy9lYJ8rBh6q0mLiyPKglmkupm0l5xVyHBL8xPl+4E/x5mtevSWxsDu6bqoOvW++KSzM1AvAVXnolc/kB9szGxP+zlw70S7+Qo=;nKfccI5cqegGvxsKmdHXAA=="
 ---

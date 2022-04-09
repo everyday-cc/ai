@@ -34,7 +34,7 @@ related:
   - title: "Europe Is Building a Huge International Facial Recognition System"
     excerpt: "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces."
     publishedDateTime: 2022-04-06T11:00:00Z
-    webUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ"
+    webUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/"
     ampWebUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/amp"
     cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp"
     type: article

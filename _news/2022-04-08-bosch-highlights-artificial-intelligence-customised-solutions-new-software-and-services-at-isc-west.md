@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Bosch highlights artificial intelligence, customised solutions, new software and services at ISC West"
-excerpt: "At ISC West on March 23 - 25, 2022 in booth 11053, Bosch showcased new products, services, and software for creating customised solutions that enhance security, improve safety, and deliver data"
-publishedDateTime: 2022-04-08T13:09:00Z
-originalUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
-webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
+excerpt: "Booth visitors will experience deep neural network-based video analytics ... our industry moves toward the next-generation Internet of Things (IoT) that combines artificial intelligence (AI) with IoT, there are new possibilities for connected security ..."
+publishedDateTime: 2022-04-08T12:53:00Z
+originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
+webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/bosch-highlights-artificial-intelligence-customised-solutions-co-289-ga-co-951-ga.1649398000.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "RrmjcK1qeI5IXMyRDscip4tSBm3uPA8ap/1K2er5sIK0VNbXlo/qEWbBA6jj+/HukwRFzEaHbF5A9BFBGCnwkiss7RiRNNpayxXHiR0hdFbPu9tQm+Ut6izK61lrQSJ39ox7QMgP414CAGXqUSEx1sWVePlHGghHKFeDEfmnPOUZ0caoebse1dzsYnYQjHI1nSnqBMmV6X56nLuIZB5nH1VDAL2uoWjufbnAOhQoBWNfSjfWOohbDxqveHpTbF15T0I5H+gCfbp707D0rtk39u7r2mqlLfhdL5g3+5ioBDCeD+Asvq2WGRvVA5Ib219O7ZnSr5LxqCcc8Z92Yj1baAtBVeHb0kV9H7X3qd4fdD+e53Ft++iiNNoH3iYEQdfj6dAjU3o+4+NBxRPe0TNkD15mUUiefDlj62QrDLltxqChW2EayEzz84VQboMn4pjOFPca0807hmWmPQ/ToQtyvh/FTfP5HF/hCcVj7LNM6luVNcGiC/eRtpjFmoMIK3GaEsaa/Go5CPTDJl8XKvoUDQ==;RlqQbrNFauV4NaN4hMCWkA=="
+secured: "BJu+VLYQfYsfVkoKmZjIrRpFmlRYKGyscFttnjJCBbN43a/wV25v6sf40DWRf9MASYYy6ryhclaHksIrk+bhLAFc92jWJxfkpE+ARA+Ki3WBNAQy8aOpIWn3Z/YBnWXrO3QEOQ4Ydt+RW5NaYhtw8VzNd+7X1t90GR0zsG+k5xuY+a4o9/LDQhsmJR/NWJrJAP4jctmyKCZyfOQ8tWbYgiB/5g97kuQX/1xpZSQb2GWhkq0xTy/7CpYp+zO02LHau4vc8+2PKcFPNNnMccjiSbD2oc//UC81IunQkJH6JtJN3dJrAqkMLpo/qoU7zCFYBxrkEa9jH7MymUvDTLgnv93ZduJFce9oaGShRV7lwi63U2w0pBlUaRe3GxcIt/SYUUqltFn4okMZ9DCaUeEU1I0H8wDWxyYwC0rpnu0A3VvhflBi13JZqB8G0+Mp6qMwn/SpV/bsdzVuWCp9/NJgQ3Km5kZmjZNOZdlfwJVs+gnUY9TwPsdYr1/r+/Ka8h0PeEUpGNTOVw9+atyD/aDuxw==;pRId43GfpyKtmR27wY87kw=="
 ---
 

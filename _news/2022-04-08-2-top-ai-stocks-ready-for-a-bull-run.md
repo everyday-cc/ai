@@ -3,20 +3,21 @@ category: news
 title: "2 Top AI Stocks Ready for A Bull Run"
 excerpt: "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications."
 publishedDateTime: 2022-04-08T12:10:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?time=1649419801"
-webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?time=1649419801"
+originalUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1"
+webUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1"
 ampWebUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
   domain: nasdaq.com
 
 topics:
+  - AI Hardware
   - AI
 
 related:
@@ -31,21 +32,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Hats Off To You In Recognition of April’s National Child Abuse Month"
-    excerpt: "NFL Wife Theresa Bowe to Host Community Event for Former Victims On Sunday, April 10th at the Forum Aventura from 5pm -"
-    publishedDateTime: 2022-04-08T05:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/hats-off-to-you-in-recognition-of-aprils-national-child-abuse-month"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.getnews.info/wp-content/uploads/2022/04/1649377112.png"
-        width: 608
-        height: 608
-        isCached: true
 
-secured: "WMn+Lt15e7wiket1YfYOVQ5bnEC1qNC/jqSZMH0LPstZslQrRWoJABHq7JpscMl0GpEECLwFHNKPIqn8o4wFapOROTORg47d5+6h2McY/Jld2ec0GRnxpLgXJV9CTUaiBILmB6sJrbwZonsXUISRzHsMh8hMVHaHqpH+qYvT/LRi/z718rqgulODUn0Yiqw+6Or19AfY3NmfHQWI7vxgjCPArn+vEcz98zCfDUEOvUhofmbO1lZU1p01p81g4nRpdPWFV/F8+i1Z6GEHExe8AGkJcYtJ3d2bAqJX5NbIJ4TbG488wnIVnlagq1YmxleyDPoL+n2U5j9Z4WuFYIt00aWa7tbR30a5YJ6m1M8EfG0=;sMVCRrwzMvSV9+iwDW2ESg=="
+secured: "K+rIAScKaM18oDxk7cyQvv6Ta8ZHNMUm46Bx5mevmbfkYYBddsfgDVvlkCYAcGtVVK+HgrlpScPQmJUKhfc1vrdrlg6AwuuPgFiKeo7mgwzRj1ea7/ti7O9ppgIx3NaMH3cbs6MDcYANGvAthrYbetTMIOP3WsT0QcS/Xtz/enbdJIoCPqjpX0LyFbiiBrpkyOExA5vIZ5qz1yuDZxhBrXrI3nXFy8G62aeYRaf1LTJ6vyWiy5AQvHcS8tPAkBlbcslHMkfdgN92pGuAttWYWUClroOqSqMO6zogbkr96zWdE4bUvDphmYylMcab6pzjiT+E+eU22HQ2q5+6V6/HQtAajfxfQl7Jkq5EHKZiozs=;7bm2cVxoNFdERrK3v0QYtA=="
 ---
 

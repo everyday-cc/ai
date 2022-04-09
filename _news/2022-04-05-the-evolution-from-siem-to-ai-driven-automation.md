@@ -9,8 +9,8 @@ ampWebUrl: "https://securityboulevard.com/2022/04/the-evolution-from-siem-to-ai-
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/04/the-evolution-from-siem-to-ai-driven-automation/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Security Boulevard
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Take a Deep Dive Into the AI Revolution"
-    excerpt: "The World AI Cannes Festival (WAICF) is the first global event dedicated exclusively to AI, to tech leaders who innovate in the field and to the economic, human and societal issue"
-    publishedDateTime: 2022-04-04T14:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-take-deep-dive-into-ai-revolution-/2022/04/04/9576020.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "The AI Revolution Accelerates - 63 Percent of Companies to Invest in AI Hiring Solutions in 2022"
     excerpt: "PandoLogic, a wholly owned subsidiary of Veritone, Inc. (NASDAQ: VERI) and leading provider of artificial intelligence (AI) hiring solutions, today shared findings from a new report published by Aptitude Research."
     publishedDateTime: 2022-04-06T11:06:00Z

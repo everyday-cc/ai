@@ -3,8 +3,8 @@ category: news
 title: "Europe Is Building a Huge International Facial Recognition System"
 excerpt: "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces."
 publishedDateTime: 2022-04-06T11:00:00Z
-originalUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ"
-webUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ"
+originalUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/"
+webUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/"
 ampWebUrl: "https://www.wired.com/story/europe-police-facial-recognition-prum/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 550
         isCached: true
 
-secured: "XeOPyhkfEbhvMMuqEfNgPMVPrkOMMzZXiEZNAiZ3+/p9G2XEDyqzAptfEgnzlu7Zzka7fX+zl1CfYTyy91J5r+LV+ryMp0jxs+xEVjJOVkRduR1GfUTiqlbNslYX/3yxhdhsA9b7T5OpG7x5XEPIfN51Rnl9NKCO957lrwy5m/OuotuZc85nYIQUEfJBBWfCMIQycpKIbpw2s6h9/KQnFCs8vEjMcxwkOLxbXgFhmyF1Vtep+B58jw96YlghZT8RGIssDjtoL8RbtsD2bMVIM7WensIN5u1FYfLWpc6S2frrp8QB8fVJChLA2k3QpPLsrH7fwjhDYm2htfGYCKx+4KoCF++SB9uibb/OwyzOQJx4uRjnEre2k+gOq5xRvphcR7EzN7M6XeKPxsjoWXgL+1nMfSvUL9dntQ1pHC4spoo6kut6DyJTyC9nI45koEt196WdJ4nmf8noxTUsVgJnQZr842gZiLq05a62YyyNksV3J+R0JhhAaFKyul3OcoPJsD/Pjh6vPFSAyye79fyDHw==;WfY0PhRHmoSB4yVl83Rhhg=="
+secured: "gyyGnUMYYidL2exR97fTSUMQDM77RNI/dEFO+1zSxYIde8MFZRD48Jfo85dDb0pM85VumeT2zuDca3x9pwRhwm7CxBStmyUFxXCseD40+ytZub525CJO2OkzRgVV5sBV0v9nfnYGF2V2fxoSSpnEOzNy3mp+2sKaYM2x19/HBvWlSsdehzwPSe1/wlpFpf8M4HdfKh0jL4vC6L1ZcJIAVKmf+xdOQvlX2+EvcrNw+OAh7mDUXLFEMLMM9eqjKQ/1cGn165/3EpAfEIAvh/IoNgfPB3XythI2TAWxGe7tcvHQaHEiQRr9NaUHmB6GOC3/t7mvDSLST8NTopxf0izgzdKxSKjO8Xavcy2KaZ5L7AE=;3paEcdJBqXKwMASSaIOVXw=="
 ---
 

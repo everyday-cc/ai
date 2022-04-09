@@ -162,8 +162,8 @@
       "title": "Europe Is Building a Huge International Facial Recognition System",
       "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
-      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/?esrc=AUTO_PRINT&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ",
+      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/",
+      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
@@ -911,48 +911,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-05-the-evolution-from-siem-to-ai-driven-automation.md",
-      "title": "The Evolution from SIEM to AI Driven Automation",
-      "excerpt": "Kumar Saurabh, LogicHub CEO and Co-founder, discusses his experience in the SIEM space and what he sees as the natural evolution from SIEM technology to AI and automation driven detection and response.",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/04/the-evolution-from-siem-to-ai-driven-automation/",
-      "originalUrl": "https://securityboulevard.com/2022/04/the-evolution-from-siem-to-ai-driven-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.logichub.com/hubfs/shutterstock_2010729512_624%20x%20351.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/04/the-evolution-from-siem-to-ai-driven-automation/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/04/the-evolution-from-siem-to-ai-driven-automation/amp/",
-      "publishedDateTime": "2022-04-05T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Boulevard",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-05-google-ai-deepminds-high-ideals-are-tainted.md",
       "title": "Google AI DeepMind's high ideals are tainted?",
       "excerpt": "It’s discouraging but perhaps not surprising that an organization such as DeepMind, which proclaims such high ideals, would have trouble recognizing that harassment and bullying are occurring within its walls,",
@@ -1140,7 +1098,7 @@
       "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1172,6 +1130,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
+      "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
+      "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg",
+          "width": 1279,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "publishedDateTime": "2022-04-05T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -59,15 +59,6 @@ related:
         width: 777
         height: 583
         isCached: true
-  - title: "Why we need human-centered AI"
-    excerpt: "Expert, Ben Shneiderman, believes we can create AI systems that can have both high levels of automation and human control."
-    publishedDateTime: 2022-04-04T14:10:00Z
-    webUrl: "https://thenextweb.com/news/we-need-human-centered-ai"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 47
   - title: "How Cardiac Arrest Can Be Predicted by New Form of Artificial Intelligence"
     excerpt: "Researchers say a new form of artificial intelligence may be able to predict if and when someone will die from cardiac arrest"
     publishedDateTime: 2022-04-07T08:08:00Z

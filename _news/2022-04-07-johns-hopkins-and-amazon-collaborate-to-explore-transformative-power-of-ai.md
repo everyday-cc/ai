@@ -24,17 +24,6 @@ images:
     height: 1500
     isCached: true
 
-related:
-  - title: "Four Practices Your Organization May Need to Lead Its AI Transformation"
-    excerpt: "Even as the pandemic has accelerated transformation in many aspects of business, artificial intelligence (AI) has advanced over the past two years with notable speed. As more leaders recognize and rely on AI’s utility in uncovering and scaling data-driven insights and freeing their workforce to solve problems with creativity,"
-    publishedDateTime: 2022-04-04T13:50:00Z
-    webUrl: "https://hbr.org/sponsored/2022/04/four-practices-your-organization-may-need-to-lead-its-ai-transformation"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
-
 secured: "a4yoLYjc+kahz8dtxltmHSIz17AdIz/pG6Uef4vj3cGNe6ogVwi3xNLkAfhCiBClqHV8CQc+QHD4ASWOKYxLTjNB+fgBgHTQeEMZjCy9OtStUga9BE+SJeizn1fDXn/OUfIX5qFN2PxWdEzoYLfbswMVIurmwdKbx5lJIRvEzTgPdcRUsAs6zOneucaXVkdzSNbCBK1qy151HiW6PxyTzhvLUZAprgDyRcrH3cnF/eRVg9deNU6jrmYe15gYTJTWJFB19JMOpEf/8+vy6H7YRhaokD1Xq0kzh5611ylcNLS1dCX6BTfl8AqJz87/oMPRSP4t/sERFxvwZSVyw+z6NSdaVdF2pZ44ffv6LpnsNrZApM1miCxqrvpyZjsIQgGJwiAEue/qFGi4Xhxv6sY4gqKHA6OZRZMfaAMB1fUriSZpu3tWWykxZ+eQuHGX79hNTlQLcukty4pyy8blGgcy12FW5G5Bri2CeqQ9+8olDO78FLto5qp4RYJVuTvDtu6rNkGLTQcYhBOkKW3EVxJlMw==;Ko1xtLgnmrOgutBU7wUE5Q=="
 ---
 

@@ -1,25 +1,29 @@
 ---
 category: news
-title: "AI predicts if -- and when -- someone will have cardiac arrest"
-excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
-publishedDateTime: 2022-04-08T00:12:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
+title: "Artificial Intelligence predicts time, probability of cardiac arrest occurring"
+excerpt: "A new artificial-intelligence-based approach can predict, accurately than a doctor, if and when a patient could die of cardiac arrest."
+publishedDateTime: 2022-04-09T06:40:00Z
+originalUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/"
+webUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/"
+ampWebUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
+cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
 type: article
-quality: 47
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Vanguard
+  domain: vanguardngr.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/heart-e1649486331323.jpg"
+    width: 599
+    height: 575
+    isCached: true
 
 related:
   - title: "AI predicts if—and when—someone will have cardiac arrest"
@@ -38,22 +42,15 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Artificial Intelligence predicts time, probability of cardiac arrest occurring"
-    excerpt: "A new artificial-intelligence-based approach can predict, accurately than a doctor, if and when a patient could die of cardiac arrest."
-    publishedDateTime: 2022-04-09T06:40:00Z
-    webUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/"
-    ampWebUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
+  - title: "AI predicts if -- and when -- someone will have cardiac arrest"
+    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T00:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 53
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/heart-e1649486331323.jpg"
-        width: 599
-        height: 575
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "AI predicts if and when someone will experience cardiac arrest"
     excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can"
     publishedDateTime: 2022-04-07T15:00:00Z
@@ -92,6 +89,6 @@ related:
       domain: webindia123.com
     quality: 15
 
-secured: "knQURaweANGu7xYopDcGcWRHpEO9BR2pPZ8Gb1m41SOquR+46KX2raDv99i1NO5rXY+omR6G6AhIeNbCaDxaNIZrnC18+JBEdSn8e7iK+6jZMlyx35N1c5XxIX+JT3Je4kOyURBmHBUl+MEvHUqYChK1jsXcLFb0MLim7xNa60weMLH7ifOm9XZbExec+mdoaiiBnHYiB0qLpB/txPGCHVksNNAciFDGrg1gaZ4XoR662zzilEukFrtJ/6C9jzJIJQv23AHnEW3tL4ePZUchNgCcCrCwwBFm50+l0soHqJ2BmqHfy0fYoSAeO/GMGV2fwjmESmeogGB6hgMjYRDoboo4NHbvEAUkHJnojxWNgO0=;/lVMGW3cF1xrFmSVj9sAbQ=="
+secured: "uXotOdMigu47I1L/6HpvxOK74ut8DUAO7B1npwc1EDvtmhFq4sxobygFyNzI85LjWc2F8znqKd9k7KPTvcbvVYu9vMva64+8RN3Xbt0EetGcQyWMvPgrQoOlDRM/r/N9fVko6d77cj3Xxpajh6uT+7k5l84qlDvOlrGgy64H9jz3pObU78XE4cLs6yl1kKQ+/hIVxv6ydtHur/ofCdyFVTf8meeR0k2YY2ns2NC4k1fvr4bkZY15aEHIzlIsffIXwaoOq/odBtRQJCKwxt+qRrHh4mLjU7mE/sW1NYjBb5eOh3uAlXIY0rPuGr4V3Wpapzp9KixF4tIEBHQepRnFAdYoyHWk7XslVwHc1ynOBho=;WRa9TMvZwop6HDAQCWNtCw=="
 ---
 

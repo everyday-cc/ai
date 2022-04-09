@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-enhan
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/da510660-503b-44d3-8029-cfd904db8c25/Rendition/thumbnail/Content/Public"
         width: 300
         height: 250
-        isCached: true
-  - title: "Doctors diagnosing fetal heart disease benefit from explanatory AI"
-    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project (AIP) and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting. Both hospital residents and fellows made more accurate diagnoses when they used a graphical interface that represented the AI’s analysis of fetal cardiac ultrasound screening videos."
-    publishedDateTime: 2022-04-04T14:24:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948616"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5737e064-4109-40bf-bfa6-e000c02df732/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
         isCached: true
   - title: "Yale Researchers Develop AI Model For Heart Condition Diagnosis"
     excerpt: "Yale School of Medicine researchers have developed an artificial intelligence (AI) model that can help diagnose heart rhythm and conduction disorders based on electrocardiograms (ECG) images. Machine learning has become increasingly prominent in healthcare,"

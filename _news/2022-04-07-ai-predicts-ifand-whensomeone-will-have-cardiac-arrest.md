@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence predicts time, probability of cardiac arrest occurring"
+    excerpt: "A new artificial-intelligence-based approach can predict, accurately than a doctor, if and when a patient could die of cardiac arrest."
+    publishedDateTime: 2022-04-09T06:40:00Z
+    webUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/"
+    ampWebUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 53
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/heart-e1649486331323.jpg"
+        width: 599
+        height: 575
+        isCached: true
   - title: "AI predicts if -- and when -- someone will have cardiac arrest"
     excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
     publishedDateTime: 2022-04-08T00:12:00Z

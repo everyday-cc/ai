@@ -64,6 +64,17 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
+    excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
+    publishedDateTime: 2022-04-09T07:15:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979273/guardforce-ai-partners-software-provider-blue-pin-hk-to-begin-robotics-solutions-upgrades-in-hotels-979273.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979273"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979273"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 55
   - title: "Synaptics shows off edge AI kit for IoT and monitoring applications"
     excerpt: "The Katana EVK integrates detection of human bodies, sounds, voice, and movement in a low-power edge AI package for IoT applications."
     publishedDateTime: 2022-04-05T21:21:00Z
