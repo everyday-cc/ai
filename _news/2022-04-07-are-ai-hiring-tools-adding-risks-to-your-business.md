@@ -73,20 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Customer experience is everything. Get it right for your lending process using AI"
-    excerpt: "One thing every industry will agree on today is – customer experience is everything. With companies like Netflix and Amazon driving customer expectations higher using Artificial intelligence (AI) and machine learning,"
-    publishedDateTime: 2022-04-04T17:30:00Z
-    webUrl: "https://www.cuinsight.com/customer-experience-is-everything-get-it-right-for-your-lending-process-using-ai/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 32
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/02/bigstock-d-Abstract-Hud-Brain-And-Nerv-401073950.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "b1ZArsZc8X1d7m7dpDzeWkc7dCYTmm2Y6yplyFmT7dr4lXBNwymc0EJEo7we8t4vibe8D+cVC3s1msRlGeBxf/v7ap2DKbAQfvZ+gqZM8y5jYVO40W6Jx0hwjH0UdbC2R4y5tzcPBAA/m0fkEIMmTxynlNhpd5QCijV+2UIBCVZ1OZ7e2Ep64dd9P2cvR6FbC2Ykfm8eDvHxTpKG4Dmnxl+YwE+S7d0jfhfbVds7OaQMP2euwZeJCvtTPO+rK7nhNjXfq3SCrdtrgitkB+tlGTJ/RrzRKu8WwxG7x1tl48a5m4CNQoO1edVS7/IC1a/+vRGk4megfWTvxx5uj+bZMGBEfUTNcOn+90aiHCIHhRY=;+p41vLQuFJiZyb0UG+arow=="
 ---

@@ -75,15 +75,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Clearview AI to sell technology to private sector as well as government agencies"
-    excerpt: "Facial recognition technology company Clearview AI is looking to sell services to banks and other private sector companies in addition to working with government agencies. Clearview co-founder and CEO Hoan Ton-That told the Associated Press Friday of the company’s further growth plans,"
-    publishedDateTime: 2022-04-04T18:49:00Z
-    webUrl: "https://www.fedscoop.com/clearview-ai-to-sell-technology-to-private-sector-as-well-as-government-agencies/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 12
 
 secured: "1UHt4fjZvqB8XSG9zZ/esPtshLrDeX4TsaQAEHGqs0AQdw7jTw+SBthMeOlMh4RqULf4MC7LMIIngF2Ieo/Jx1W5EcgLIGBxNW36465Wel6J7zL7ANoDt/XJyaoh/NhqOOMj7e9P8fKOiZPXgY0w12rcxgdSs9iDWt+qHCl+E4CHmAxE99g4qVc9S5r+Qu/vHwCSWutsCWIIZA9BeUWIQe0GCxb3q0fSAoq3On85EJdiYvSFY+9z/PtAf9KNJuLgXwlGcKp3RZTVilX2DF6Fc1UW7tHzOnepLu6bdJo4D9sSpZfcv4nWozChTd/pYPtmT/KLi7B/iAEHEDfZ+Nq32xEkZjCl+WaMk7ydluOgGB1kU9xU84p4dbLsmvNBDOJ6YV6npDobyudGmEWR1CUamYoVMvvnOSd2sCvt7iaKaAs069XaUPpHfLHLh8q5JIpfE3talMdU0el8417V8MWdsCvf9bwIZ64rb5RXGBALCEUdPs/rKf6pS/tpcy+BNb++GirjwS9xza9IPGuCUYRvVw==;HZZ/OhdF+v4OqVCjTx0q8A=="
 ---

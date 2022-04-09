@@ -2,26 +2,26 @@
 category: news
 title: "A 7-foot-tall robot at Dallas Love Field is watching for unmasked travelers and curbside loiterers"
 excerpt: "Yes, those 7-foot-tall machines at Dallas Love Field are watching you. They want to make sure you’re wearing a mask if you’re boarding a flight or not parking too long"
-publishedDateTime: 2022-04-08T21:56:00Z
-originalUrl: "https://dentonrc.com/news/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_76710fdc-6028-5051-b84e-aef6bbad70a3.html"
-webUrl: "https://dentonrc.com/news/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_76710fdc-6028-5051-b84e-aef6bbad70a3.html"
+publishedDateTime: 2022-04-08T22:16:00Z
+originalUrl: "https://www.eagletribune.com/region/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_b98fdd7e-7ee6-5067-995f-9554c25c0d26.html"
+webUrl: "https://www.eagletribune.com/region/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_b98fdd7e-7ee6-5067-995f-9554c25c0d26.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Denton Record-Chronicle
-  domain: dentonrc.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/3/1a/31a2f4fe-d0cf-5fb5-b3bf-552e7fb9525c/6250b0a558157.image.jpg?crop=1660%2C872%2C0%2C31&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+    width: 600
+    height: 333
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7TBMtC3Td+tHzXU4Xbx9X4joGipdf4L05CM3JUy0rzebkGmS42jB2zEFb4nnW7WRuRcU7rKW+U4aHeltcPEESU+IEEhk+iYMtxvrEfp8nh7oNmyJeDkW/J8uFaqMrCPP50h+Xmy6SyC3LcYgRH4TVPdeP95ETBzRdpYcjQl1/gIC1RK323rpiDcqSl1nf9Kf7LeDjy/YKwy5jOOoNAtRgKoQn1ddnnzB2rpokirnz2rXMgcNNPbrzPW/jV/EpBA3vD7+yBIHYhtm/U9pSrQNK9txYuWmUcmebyRj/bJLgdtFS8+zzXxbYfAzD86hlKN2NJ2ieKFiMUdIb3IE4b0oIMKbUaFYRkFsMk361P3O8S4=;GmtM9MWqsNYAhbYZQ8kaQw=="
+secured: "e4sAWWJiDTz1C13DcPb7NZW+g+mpbnG1YaotHxX/cvViqz8Wzn9V9P2W1///WR1BrHXDYakdOFyBbWB0l266uMX4+9Welyix+JxSa7IhE9/0ugVIcTxnJUTyJwjNBMZ4KdnJJ8O7ToqQ/Y610k/tapAJCz2CgWrsWvi4BIjo3hQhHIIrBNJob1lrGbUDxg3rLIxxaEzc+GlSb1VNK1S1xTQP+Jj7rB/CETcRgoRVpXi8Pfzr1HJlgmIevtT0JaTt/lPO2/W13YiaTj8CylAhQPpEmuS58dMrLk7HtWgKE+9k5BANLPp4mvS/9ObWcWXTd0/kF0CUNwutAG+HTpfLiThFrrJw0eXJ/I3PH+hx9P0=;EIxyopMMjga+9+FYTuDoMQ=="
 ---
 

@@ -65,20 +65,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Customer experience is everything. Get it right for your lending process using AI"
-    excerpt: "One thing every industry will agree on today is – customer experience is everything. With companies like Netflix and Amazon driving customer expectations higher using Artificial intelligence (AI) and machine learning,"
-    publishedDateTime: 2022-04-04T17:30:00Z
-    webUrl: "https://www.cuinsight.com/customer-experience-is-everything-get-it-right-for-your-lending-process-using-ai/"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 32
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2022/02/bigstock-d-Abstract-Hud-Brain-And-Nerv-401073950.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Are AI hiring tools adding risks to your business?"
     excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
     publishedDateTime: 2022-04-07T13:27:00Z

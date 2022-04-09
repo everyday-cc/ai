@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with
 webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-box-connector/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Enable Amazon Kendra search for a scanned or image-based text document"
-    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content repositories"
-    publishedDateTime: 2022-04-04T18:07:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-amazon-kendra-search-for-a-scanned-or-image-based-text-document/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
 
 secured: "gfz62ICcgSVTd7k0bxaKv1cuu3Dl05mC4ax23hYi1rWvEn0urqYY1ZLm9s/sxmexsyOI7v2MDUVFlRzewtSq5W9+UgShHFQBLZj67NL7QTui/9Ne+AQbYr2mFkdt1Oo9NLNTB+P2UUrVQ9Yyg/kdnYjkIYlelNifKokCkpUGZNGz5rYFgKEuwOhq0oVwtKgl1bCm2F9IrsieS+zrKBYDcNttP0il+ci8tymG13DGBACjz2bJCtIcjuVvv4fOXYNJTHrWHNtslYdtbCXEHIrHlS1EMqB4OoMz5amk4Y2Syil78QJVUm1NOZjquY6rS1EqB8BwymsJMxDOUwVL9CapaE+OYv6mKltAyyvoICGA3hk=;g3DMHQwwkmi7/iQaR0XIjQ=="
 ---

@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "A camera system to collect data and advance self-driving car technology developed by Toyota's subsidiary Woven Planet is seen atop an autonomous test vehicle in San Francisco Bay Area, U.S., in this u"
+    publishedDateTime: 2022-04-07T15:48:00Z
+    webUrl: "https://www.reuters.com/news/picture/like-tesla-toyota-develops-self-driving-idUSKCN2LY1JO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220406&t=2&i=1596556642&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI350TG"
+        width: 810
+        height: 486
+        isCached: true
   - title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
     excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
     publishedDateTime: 2022-04-07T07:26:00Z
@@ -89,6 +103,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/04/unnamed.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
+    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
+    publishedDateTime: 2022-04-06T15:37:00Z
+    webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 38
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Why Toyota’s camera-only approach to self-driving is a bad idea"
     excerpt: "It ditched radars and initiated a camera-only approach, dubbed “Tesla Vision.” And while we’re used to Elon’s unorthodox methods, Toyota’s decision to follow suit is definitely surprising. The car maker’s self-driving subsidiary Woven Planet will be the second company to adopt a vision-based strategy in pursuit of fully autonomous driving."
@@ -162,6 +190,15 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
+    quality: 8
+  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
+    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
+    publishedDateTime: 2022-04-06T17:45:00Z
+    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
     quality: 8
 
 secured: "FJDNQ8axLSHwB01G46Jje2cI+JeVmMgD2p8RajKWhrRHTVRQO0yePkAmUujDYaapaxrdlf21aFiUVK9MzYOENo9XxQGdel3BavDd4Sbp9eFamnG86M/qV1OM4r6cdt/bp7Jc1h+e36MnYG1QjA65CNe/pRPCjgahfLtnVQIqMKVNIu/u0j267HKMs5mFLqvbEw0q/aPynxXrlkZMgp+0UtM7h6QHQSIne3YOovri6tSRUa7IwN4PFZ2CnJrhH5AGUw6fXsXSalbRhhSA2WRVSkhH57aswYUYVSfCa/yNO/0zN/38duzOWD5aP321BC0oKjqJUlsFBRm/sgOwyM+lnGtkGWuDaLDSvPc2JghOW3BFakMXSXch5zp56qBtEMlcDGmLdtZWJOzlJfPFTZUQZwSV1+20nXF69oxYMmekHhwMqhgKv4VQ3Njj+yyTUTpIMQbpysMPYj8ksa56Fl7PtdHyo0Uoyj3BzvEPyq7hOCcAS9HAkwjFz9R8PxWPRp7I/0uKnyhjcCcPPvbqQzaCGA==;KeZZHQ5OgbBHd9q+2tDQ5A=="

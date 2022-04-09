@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/
 webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "DataX is funding eight new AI research projects across disciplines"
-    excerpt: "Eight new interdisciplinary research projects have won seed funding from Princeton University’s Schmidt DataX Fund, marking the third round of grants undertaken by the fund since 2019. The fund, supported through a major gift from the Schmidt Futures ..."
-    publishedDateTime: 2022-04-04T21:00:00Z
-    webUrl: "https://www.princeton.edu/news/2022/04/04/datax-funding-eight-new-ai-research-projects-across-disciplines"
+  - title: "Google's DeepMind research lab took nearly a year for firing researcher accused of sexual misconduct"
+    excerpt: "An ex-employee from Google's DeepMind AI research lab posted an open letter on Medium, where she accused the company of waiting months before firing a researcher she had filed a formal complaint against. As reported by Financial Times, the letter details ..."
+    publishedDateTime: 2022-04-05T07:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-research-lab-took-nearly-a-year-for-firing-researcher-accused-of-sexual-misconduct-8318591.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/googles-deepmind-research-lab-took-nearly-a-year-for-firing-researcher-accused-of-sexual-misconduct-8318591.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/googles-deepmind-research-lab-took-nearly-a-year-for-firing-researcher-accused-of-sexual-misconduct-8318591.html/amp"
     type: article
     provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 37
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
     images:
-      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/04/iStock-1347146698_3000x1688.jpg?itok=u76Ew8rx"
-        width: 1440
-        height: 810
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
-  - title: "AI Betting Agents Weigh In On Reproducibility Of Research Findings"
-    excerpt: "For scientists like Rajtmajer, AI bidding agents could help put individual studies in the context of a larger body of literature so they know if the findings would hold if repeated, possibly in a different population or using a different analysis method ..."
-    publishedDateTime: 2022-04-05T05:00:00Z
-    webUrl: "https://www.bio-itworld.com/news/2022/04/05/ai-betting-agents-weigh-in-on-reproducibility-of-research-findings"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 17
 
 secured: "PQnhd2CQ/Sig1B9mzcUT/Mybbj7TjuhL1dCHcWbclbEDFArtjJjXDw/mpPA2fhKDwIb2/lXoQ7mJTjxH0MzGt2/trg+J+A3NzPBfhlkpyNb3WyzbetHEk76DAIRnGbwlgjRVznE4QBIeldMRiSZSfPhJ/T2/nxqRLbhTqSKp4x2aM10PxOuv1FtQhqMu0PrXEvx3j+vlDbrJTs062bMHz4NyZjIr0X0eHMQbLQ5YjU+wfjLVCbw49I9oRM6MrradeCeTIl2/PAOZcbZOtMUrT6tRj7hBlUrbsJZiWUDvjpHJtAr0B6l5dbQJPUKZ24Ftpq90BesSDgA4r5Va4uhvXytfD7NtlOEVyc9dknf3S/fueHQJUNFzd33kKrqtDcih8ARnYrfU262Cd5qLg09ri8MwulmLrX9K+H37DAkZaeqEG6mQtrcA3t0E8UShyhiS8WNXJBjAWvdGo+2IK4eofFmcnBh21wrF/qvQ1fLz1FQcGi6tE9PCjEoKtPS3G5043c5o5XIHkxM/BWALYI5tvg==;asGqosu+CybrwVakBcI+Fw=="
 ---

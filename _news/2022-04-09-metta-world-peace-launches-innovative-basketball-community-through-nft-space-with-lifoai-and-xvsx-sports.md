@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Metta World Peace Launches Innovative Basketball Community Through NFT Space With Lifo.ai and XvsX Sports"
-excerpt: "Basketball superstar Metta World Peace has announced the launch of a brand-new NFT community, Meta Panda Club (MPC) in collaboration with software company Lifo.ai and XvsX Sports. MPC is an exclusive community that connects thousands of NFT holders worldwide to tangible services such as physical merchandise,"
-publishedDateTime: 2022-04-08T17:23:00Z
-originalUrl: "https://apnews.com/press-release/Newswire/space-launches-sports-business-basketball-f4de40297628b6445697ec2e23a234cf"
-webUrl: "https://apnews.com/press-release/Newswire/space-launches-sports-business-basketball-f4de40297628b6445697ec2e23a234cf"
+excerpt: "XvsX is Creating the World's Largest Decentralized Basketball Community for the Metaverse & Physical World  LOS ANGELES - April"
+publishedDateTime: 2022-04-08T17:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/metta-world-peace-launches-innovative-basketball-community-through-nft-space-with-lifo-ai-and-xvsx-sports"
+webUrl: "https://www.digitaljournal.com/pr/metta-world-peace-launches-innovative-basketball-community-through-nft-space-with-lifo-ai-and-xvsx-sports"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.newswire.com/files/x/7d/c7/960eadbe7574fb777e01b319c212.jpg"
+    width: 512
+    height: 472
     isCached: true
 
-secured: "nogyBzAsrse5mkNalnsHTe491IZOPffGymPURc6tX9a4y5n+nWU4tHjBMPxsKCMQUpwVT4NbE++fykmaUZZR9QHRGVBzDuWMRKmOq2T1V1zLEI7c2BSUjt9erBMlqcs8ejeCNkZML+RKcQA9tbgaShYNFFuQQM8Vw7yd8Lz7TcDwfDMUfx+ywwvEaNliiMzbZAk4NlBz/fjs6uzhMW5rk6Yj7QxeibfpnREq0/bCRGN3WJiRBYmwS8xrP21yIgKc0irD3RHDK6NChQH6zb67N36AYF3jS/0t6Q0sbRBLEK+0ipMtrf69RgtUOTPEbTRBLVr1eHad94w/MLXaitEn9aHXRTZ3DFUsLNrCYoySXJ8=;OrcxPJFYnNXcwH6aXMhwxg=="
+secured: "wXj9UFL/ZCoyNU4SUtr2wHeXXPhYSqSfyG9u0YYlYZjXB9Zsdwf8v9ymjv5Kk6ex2HduBbgMCaWyQluhhhY0/hHuhFAM5C0HmizlG/+JG2gsSU1PCpzfNQid0TFlrqFoIsRjYPi+12T5byPKzUmigJ3IEMvTNyNhMl8HmF+FwE2up1/Kv+QPYRSI1tN5nsmsAPrhxXjZlIFFLTXbgJRPabEn2e4aX09ltO9c1LSMPAWdiO08Z1i9RH4sKI17dO5wIecfjSZo2xJw1Iz64qCZ1nmLq85ChgRMlkKkeN9G9PT3FQPzcvYYE4txmKPd+PvjzoR3UJWnPP/8V9B6jQytVaJ3luADAJ5TIw7nVNzQlvM=;xGszMJqfBhhkP6KB+JWXYQ=="
 ---
 

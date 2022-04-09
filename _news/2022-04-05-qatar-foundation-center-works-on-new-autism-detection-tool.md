@@ -55,15 +55,6 @@ related:
         width: 960
         height: 720
         isCached: true
-  - title: "QF centre develops tool for early diagnosis of autism"
-    excerpt: "The success of an innovative eye tracking screening tool in diagnosing Autism Spectrum Disorder (ASD) in children is a major advancement in the early diagnosis, Dr Fouad Alshaban, senior scientist at the Neurological Disorders Research Centre (NDRC) of Qatar Biomedical Research Institute (QBRI),"
-    publishedDateTime: 2022-04-04T18:26:00Z
-    webUrl: "https://www.gulf-times.com/story/713948/QF-centre-develops-tool-for-early-diagnosis-of-aut"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 4
 
 secured: "OEuWEceIHjK5oc1tmNVx/5bqBpO6Id29hazF+v5dMzqS3ZGTsY+7/ft/8nXoVc0q6dcrCPpN9u5cSKRFhko6i7DotEYPpmFVL2GRtFxoe3OJTZnVqld7FXH/lpyW19x+qjqguY6kbfU8upbOgC8l14KeDexuQhFkCrhXJMnQWcZtMrLUaWZB1Cx3KoBEU2B9F384lYRmLFVKZckxvTWLv+A1J7fPbK3TDCPsxgK+hCdyRr/DL6LLFa1oy8mWHpAMRPOiU2tRZI8jZGzWOKD8eXPwlxWigHd36eFk3E/eJIQaIzXv1M71WNdG0ptX/Drvhdpu0AufGUIGH0fbJQ0z8z5AxZA6v2d0hiwcGWhZ2CUc9zly5eHlk6ztn7qLWuh2PdmXfYxF47sA5W5/ZjRurlbDvKl+jw1HhzvrOrlcbyvx3EU7Mp7sCQOaIQO4jM4O9w/SZ3BINmIZ8E8uaPtlzc/WnXciR0aBUOXn+/6d+bCahvB/VO2UNz8JXYGXHguUB1VvUXbyuDBSTREJtup5rg==;QWoQGJWKkQfUU+ZbNMH3vg=="
 ---

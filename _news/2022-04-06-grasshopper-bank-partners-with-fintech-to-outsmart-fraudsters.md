@@ -50,6 +50,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 34
+  - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
+    excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
+    publishedDateTime: 2022-04-09T11:28:00Z
+    webUrl: "https://businessghana.com/site/news/Business/260444/Barrows-Hotel-Enterprises-launches-new-Hotel-Fintech-Review-Booster"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 24
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2022-04-09-11134700.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "MarineTech funding set to explode, following course of FinTech"
     excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
     publishedDateTime: 2022-04-05T10:34:00Z

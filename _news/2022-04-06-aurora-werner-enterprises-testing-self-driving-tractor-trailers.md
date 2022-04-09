@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/57638486"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
-    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
-    publishedDateTime: 2022-04-06T15:37:00Z
-    webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 38
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Virginia-based Self-Driving Truck Developer Torc Robotics is Opening a Tech Center in Stuttgart as its Ramps Up its Collaboration with Daimler Trucks"
     excerpt: "Virginia-based self-driving truck developer Torc Robotics is opening a technology and software development center in Stuttgart, Germany named Torc Europe GmbH. The Stuttgart team will support the ongoing development of SAE Level 4 virtual driver for deployment in autonomous trucks in the United States."
     publishedDateTime: 2022-04-06T23:15:00Z
@@ -69,15 +55,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
-    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
-    publishedDateTime: 2022-04-06T17:45:00Z
-    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 8
   - title: "Aurora and Werner Enterprises Are Testing Self-Driving Tractor-Trailers on a Lonely Texas Highway"
     excerpt: "Aurora and Werner are testing self-driving tractor-trailer trucks on a crucial stretch of highway in Texas. The road, between Fort Worth and El Paso, is a key part of the busy Atlanta-to-Los Angeles truck route,"
     publishedDateTime: 2022-04-06T13:18:00Z

@@ -98,15 +98,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 70
-  - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
-    excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
-    publishedDateTime: 2022-04-04T18:01:00Z
-    webUrl: "https://www.geekwire.com/2022/microsoft-and-hpe-put-ai-to-the-test-on-international-space-station-with-gloves/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 59
   - title: "New Microsoft Azure off-planet space solutions are here"
     excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
     publishedDateTime: 2022-04-06T19:20:00Z

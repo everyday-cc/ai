@@ -7,7 +7,7 @@ originalUrl: "https://defensesystems.com/ai-analytics/2022/04/international-spac
 webUrl: "https://defensesystems.com/ai-analytics/2022/04/international-space-station-launches-its-first-ai-program-test-astronaut-gloves/364039/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space"
-    excerpt: "The post This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-04-04T18:15:20Z
-    webUrl: "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space/"
+  - title: "GrapeTree Medical Staffing launches conversational AI solution built on Teneo"
+    excerpt: "Iowa-based specialist healthcare recruitment organization, GrapeTree Medical Staffing, has launched a Conversational AI (CAI) solution which has been built using Artificial Solutions’ SaaS platform, Teneo."
+    publishedDateTime: 2022-04-06T09:25:00Z
+    webUrl: "https://www.intelligentcio.com/north-america/2022/04/06/grapetree-medical-staffing-launches-conversational-ai-solution-built-on-teneo/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 60
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 34
+    images:
+      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/04/AdobeStock_209863873-W.jpg"
+        width: 1000
+        height: 450
+        isCached: true
   - title: "International Space Station Launches its First AI Program to Test Astronaut Gloves"
     excerpt: "Spaceborne Computer-2 is providing insights in real-time, just months after it was delivered to the ISS, Nextgov confirmed."
     publishedDateTime: 2022-04-04T20:30:00Z

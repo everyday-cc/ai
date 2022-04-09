@@ -151,21 +151,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Toyota joins Tesla in developing self-driving tech with low-cost cameras",
-      "excerpt": "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ...",
+      "path": "_news/2022-04-07-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
+      "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
+      "excerpt": "A camera system to collect data and advance self-driving car technology developed by Toyota's subsidiary Woven Planet is seen atop an autonomous test vehicle in San Francisco Bay Area, U.S., in this u",
       "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras",
-      "originalUrl": "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras",
+      "webUrl": "https://www.reuters.com/news/picture/like-tesla-toyota-develops-self-driving-idUSKCN2LY1JO",
+      "originalUrl": "https://www.reuters.com/news/picture/like-tesla-toyota-develops-self-driving-idUSKCN2LY1JO",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 219,
       "tags": null,
       "images": [
         {
-          "url": " https://i.tribune.com.pk/media/images/1049633-toyotareuters-1455778608/1049633-toyotareuters-1455778608.jpg  ",
-          "width": 644,
-          "height": 423,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20220406&t=2&i=1596556642&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI350TG",
+          "width": 810,
+          "height": 486,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,14 +173,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1",
-      "publishedDateTime": "2022-04-07T00:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T08:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -202,7 +211,7 @@
       "originalUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {

@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft and HPE put AI to the test on International Space Station … with gloves"
-    excerpt: "“We’re bringing AI to space and empowering space developers off the planet with Azure, and it’s enabling the ability to build in the cloud and then deploy in space,” Steve Kitay, senior director of Azure Space at Microsoft, told GeekWire. The glove ..."
-    publishedDateTime: 2022-04-04T18:01:00Z
-    webUrl: "https://www.geekwire.com/2022/microsoft-and-hpe-put-ai-to-the-test-on-international-space-station-with-gloves/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 59
   - title: "Microsoft deploys and tests AI models in space aboard the ISS"
     excerpt: "Microsoft Corp. today revealed how it has been working with Hewlett Packard Enterprise Co. and the National Aeronautics and Space Administration to develop and test what they say are the first artificial intelligence models in orbit aboard the International Space Station."
     publishedDateTime: 2022-04-05T00:12:00Z

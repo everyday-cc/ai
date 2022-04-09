@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-31-new-robotics-hub-opens-in-west-cumbria.md",
+      "title": "New robotics hub opens in West Cumbria",
+      "excerpt": "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
+      "originalUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/146899/s960_RAICo_1_Soft_Opening_GOV1.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Department of Health",
+        "domain": "www.gov.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-conversational-data-platform-taps-ai-for-sentiment-analysis.md",
+      "title": "Conversational data platform taps AI for sentiment analysis",
+      "excerpt": "Arena's no-code communication platform uses engagement data gained from conversations and combines it with artificial intelligence (AI) to better understand who might want to buy what among its customers,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
+      "originalUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/youappi-App-Re-Engagement-Image-for-VB.jpg?w=1200&strip=all",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-03-31T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
       "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
       "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
@@ -1068,101 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-peopleai-ceo-oleg-rogynskyy-on-using-ai-to-promote-sales-and-revenue.md",
-      "title": "People.ai CEO Oleg Rogynskyy on Using AI to Promote Sales and Revenue",
-      "excerpt": "An expert in the field explains that AI is very much in its infancy – but has enormous potential in the near term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
-      "originalUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-9.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymos-self-driving-cars-are-coming-to-downtown-phoenix.md",
-      "title": "Waymo's self-driving cars are coming to downtown Phoenix",
-      "excerpt": "The autonomous car company has already been operating its self-driving vehicles around the East Valley for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "originalUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/7b3c006d-a483-4340-8e5c-9b34900ab441/7b3c006d-a483-4340-8e5c-9b34900ab441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "publishedDateTime": "2022-03-30T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
