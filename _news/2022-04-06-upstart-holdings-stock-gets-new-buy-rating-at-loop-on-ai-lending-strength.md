@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-get
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Seeking Alpha
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Stock Market in the Eye of the Storm, Visualising AI Tech Stocks Buying Levels"
+    excerpt: "What if you could know the future, had a chart that showed you how the stock market could trend into the middle of May 2022, how much value would you put on it? More than $4 bucks? We'll that's what my Patrons got in a market brief at the end of March 2022,"
+    publishedDateTime: 2022-04-09T21:00:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article70137.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 35
+    images:
+      - url: "http://www.marketoracle.co.uk/images/2021/Aug/morpheus-red-pill-blue-pill.jpg"
+        width: 465
+        height: 443
+        isCached: true
   - title: "Holding artificial intelligence to account"
     excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
     publishedDateTime: 2022-04-05T23:46:00Z

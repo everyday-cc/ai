@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "RAD Offers Cloud-based AI-powered E2E Network Diagnostics Service"
-    excerpt: "RAD, a global leader in network access, has released RADinsight PM, the first cloud-based, AI-powered performance monitoring service"
-    publishedDateTime: 2022-04-05T02:20:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24074-rad-offers-cloud-based-ai-powered-e2e-network-diagnostics-service"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/71767c22d5b46c22062837edbb3d106f.jpg?t=20220405_020807"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Adidas to launch personality-based AI generated avatars for metaverse"
     excerpt: "Adidas has partnered with the cross-app avatar platform Ready Player Me to launch personality-based avatars where the characters are generated using artificial intelligence (AI). Digital characters travel the"
     publishedDateTime: 2022-04-06T23:39:00Z

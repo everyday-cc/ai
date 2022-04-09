@@ -62,20 +62,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Government plans $44 million for new AI centres to increase jobs and skills for SMEs"
-    excerpt: "Minister for Science and Technology Melissa Price said she wanted Australia to accelerate the development and adoption of AI products and services using homegrown research."
-    publishedDateTime: 2022-04-05T01:22:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/government-plans-ai-centres-jobs-skills-smes/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 30
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/12/Melissa-Price-AAP-Image_Mick-Tsikas.jpg"
-        width: 733
-        height: 356
-        isCached: true
 
 secured: "DDsfq79qmIBPgf2EQqGB8nJyX7HF+WjgKxorb0Sd5yMRW3iqM+FaHne0LHHuCLGYTwK+eEW3xDWA1f1F2U9o/2lVS5uWP73hm9t7QRoJW25Z7Ot1iRGcl3KYnRUUX4pXjLipynv0POLEqrWBnMv9T25aJXdi3uhkpV20UUthGZrNd0z+OEaj1EYVbCyzCAZlGIP50CTAITT5Rby6q4acabuvqiok6CENqkHBE881Nre4rJGI/hG/+E0KhAv2d4e2W8jSI8EzHzEGcFZMN46eA6rxo6vg2E3KXTDQtKwgkTe+x+YRjPrt4KhL0ofXdYSJysRk/z7MSpGGfs7zYzw8Xlj4AuQZ2swKDvSnjYHuSKc=;0h5fWJarb60xULhYtT4F9w=="
 ---

@@ -54,17 +54,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 24
-  - title: "Adjustments earn Bill Self second national title at Kansas | Charlotte Observer"
-    excerpt: "Bill Self won his elusive second national title with a masterful second-half coaching job and a spicy dash of Remy Martin."
-    publishedDateTime: 2022-04-05T04:43:00Z
-    webUrl: "https://www.charlotteobserver.com/sports/article260119475.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/sports/article260119475.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/sports/article260119475.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 20
 
 secured: "yOwRSh7Av4rzTO9bApCCZbexJ0YsFZVmUeLcRhH5xJz0Ta+9qvWHsV1x52DsNvHDjws51bWj5jsNbiuSIPHO05n2Uqz3PnPVvXZulAwdH1M/gKvNCUXDiItccK9AIuJZGoNsLp7S7+L5JLpnrpFZNaqqEAAYxn/vuaC2XMRpttjgkhXKI2rUec6gcoiEtUtk74Cam8stAdQFUds/aC8ZxXCVJ/eLWeLqg4889yxbCvfzEWMIotmgnG/yS5wPIvdDGcIl7CrYBgozN7e6h6e26VLBKRsvZcI6w2CyhuUmoCcSubJb7ysO0SH885ef8nj2sEX5HJtvUMfqx2zRTfU7UdmkUEJJg6x0CCvtt+qGCZo=;sjOAD4OfVert+yRDrmHqyQ=="
 ---

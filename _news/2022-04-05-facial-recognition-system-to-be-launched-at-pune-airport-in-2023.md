@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-l
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delhi, Kolkata, Bangalore And Four Other Airports To Have Facial Recognition System By March 2023"
-    excerpt: "The government on Monday (4 April) said that the Facial Recognition System (FRS) under the Digi Yatra initiative will implemented in a phased manner. \"The first phase is planned a"
-    publishedDateTime: 2022-04-05T04:59:00Z
-    webUrl: "https://swarajyamag.com/tech/delhi-kolkata-bangalore-and-four-other-airports-to-have-facial-recognition-system-by-march-2023"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 41
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2019-03%2F620ad963-7a27-474c-b371-8139916a89b7%2F1280px_Sculpture_of_hasta_mudras_at_Indira_Gandhi_International_Airport.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Major airports will have facial recognition-based boarding by next year, says Civil Aviation Ministry"
     excerpt: "DigiYatra, the government's paperless air travel project which uses facial recognition, will be implemented in major airports by 2023."
     publishedDateTime: 2022-04-05T15:05:00Z

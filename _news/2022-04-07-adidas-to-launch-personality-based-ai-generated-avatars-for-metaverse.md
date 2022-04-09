@@ -52,20 +52,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "RAD Offers Cloud-based AI-powered E2E Network Diagnostics Service"
-    excerpt: "RAD, a global leader in network access, has released RADinsight PM, the first cloud-based, AI-powered performance monitoring service"
-    publishedDateTime: 2022-04-05T02:20:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24074-rad-offers-cloud-based-ai-powered-e2e-network-diagnostics-service"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/71767c22d5b46c22062837edbb3d106f.jpg?t=20220405_020807"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Australians demand for more digital services in government and are comfortable with personalised artificial intelligence, according to survey"
     excerpt: "There is a large and growing demand for government services across Australia with the public comfortable using personalised artificial intelligence, according to the inaugural Publicis Sapient Digital Citizen survey."
     publishedDateTime: 2022-04-07T00:11:00Z

@@ -5,7 +5,12 @@ excerpt: "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to g
 publishedDateTime: 2022-04-09T18:00:00Z
 originalUrl: "https://www.theregister.com/2022/04/09/ai_trickledown_economics/"
 webUrl: "https://www.theregister.com/2022/04/09/ai_trickledown_economics/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/"
 type: article
+quality: 78
+heat: 78
+published: true
 
 provider:
   name: theregister
@@ -14,7 +19,15 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
+  - AI Hardware
 
-secured: "pC/JchKWtDeVpcq+r3FIqXFQAhCy/j7z8zFtsigYSXG1WsyI8QI0uA820D02hSVxP+w6LKBY5F+IkfIpfjaiBBIRyVfjGE3WNlMYVcaeU33x3iCIJcLLamgQ7klbFkq47fY5SHKjqG8jH1gT2xq3BgJCuQgzb9fg2+l7df3A70nsvuyYXvV022FarhUM1VK/zmwpVUTmSYEdwt4UXi3QO/HgrPvCHXTRh0A/51HDCj5RGRJMjGBoaUo8umLO47IELK/LcE3IR8sLSR7hIWHIeJESGnITvh7P8crUJ17/A86ulFxLnjoMZL4orDqc2vZNBecBeSIv669rTIVKLKNfRuTUP12CMWJEI1v/VijIxLED6LWw4upuUXn1KVBOgNyisRFDvDnYrPJ0+hJV96Wvg/7rBWunBwV2TLbGq7n5b6sTP/StfEiztZtSizJ79mCtQcrLXBGHIpAA07p2AZfvCzpFy/ZIMst5NIQGKlbesW2JUMYI3e20mWd9nBJX4NzIcy+wEKWZQ7ZQaxEald1zcQ==;P7VS0cvGHS9HvC77XrLWCw=="
+images:
+  - url: "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "GobIY6EOek0jKZStKDjGfB9WIbQlrzzKrHCwdZLR2Pgh8fAvsTfRAMmeXb3XS87nTET4bdysWkigv61yXmPXMk7PsYFnQSsS6qsuCCEN+ZZRouB2juTKw+5FTxLd38pjcKNfWF+VNiKRzym847p66FhD2LQQgBWbCq5Jazh4MxOyu6Hx3VSGYu62vxulMpxz2ka9hpVedCAeihGmQkxc9mqGhtNx5gm76VpWaJSPSzI3z5hpi+XHZYcT6SBVugAmhW6H407cVrm6sZU6H8TTysj/xiiZ5jOOBLdIlXfeOtY3QTPXa+xEMgO4qfOOwxIBU0gWd/0vvwbT6oDBM9WiQOKrqFtU2X14gJc3wIvW3lw=;2YOqV2HMMc8jhcn7RJ0zCA=="
 ---
 

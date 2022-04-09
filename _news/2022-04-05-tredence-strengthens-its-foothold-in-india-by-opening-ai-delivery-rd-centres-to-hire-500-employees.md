@@ -54,20 +54,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Government plans $44 million for new AI centres to increase jobs and skills for SMEs"
-    excerpt: "Minister for Science and Technology Melissa Price said she wanted Australia to accelerate the development and adoption of AI products and services using homegrown research."
-    publishedDateTime: 2022-04-05T01:22:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/government-plans-ai-centres-jobs-skills-smes/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 30
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/12/Melissa-Price-AAP-Image_Mick-Tsikas.jpg"
-        width: 733
-        height: 356
-        isCached: true
   - title: "Tredence strengthens its foothold in India by opening AI Delivery and R&D centers"
     excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, a leading data science solutions provider, today announced the opening of delivery centers in Bengaluru, Gurugram and Chennai,"
     publishedDateTime: 2022-04-06T05:22:00Z

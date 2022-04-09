@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 111
 published: true
 
 provider:

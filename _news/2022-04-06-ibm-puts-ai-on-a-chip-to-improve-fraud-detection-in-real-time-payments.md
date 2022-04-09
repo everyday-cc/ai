@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/a34c08ea19028cf054495ef3d99f0e3595cb268b/2022/04/06/f0b70892-91dd-416d-a150-a849e99a615b/ibm-new-server2.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 900
-        isCached: true
-  - title: "IBM’s z16 mainframe boasts on-chip AI acceleration"
-    excerpt: "Slated to be available May 31, 2022, the IBM z16 will offer CIOs a way to deploy AI inferencing in the same secure environment, and at the same speed, as their transaction processing. According to IBM’s internal benchmarking, with the on-chip integrated ..."
-    publishedDateTime: 2022-04-05T05:01:00Z
-    webUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html"
-    ampWebUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/04/IBM-z16.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 757
         isCached: true
   - title: "IBM’s z16 mainframe boasts on-chip AI acceleration"
     excerpt: "IBM is refreshing its mainframe range by putting an artificial intelligence accelerator on the processor and surrounding it with new cryptographic features."

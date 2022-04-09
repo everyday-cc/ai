@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "IBM’s z16 mainframe boasts on-chip AI acceleration"
-    excerpt: "Slated to be available May 31, 2022, the IBM z16 will offer CIOs a way to deploy AI inferencing in the same secure environment, and at the same speed, as their transaction processing. According to IBM’s internal benchmarking, with the on-chip integrated ..."
-    publishedDateTime: 2022-04-05T05:01:00Z
-    webUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html"
-    ampWebUrl: "https://www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/307884/ibms-z16-mainframe-boasts-on-chip-ai-acceleration.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/04/IBM-z16.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 757
-        isCached: true
   - title: "IBM z16 mainframe announced, with cryptography and real-time AI"
     excerpt: "IBM has today announced its next generation of mainframe, z16, to mitigate rising fraud and increase cyber resiliency"
     publishedDateTime: 2022-04-05T05:42:00Z

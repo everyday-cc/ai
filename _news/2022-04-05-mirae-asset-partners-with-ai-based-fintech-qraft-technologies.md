@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Gupshup acquires VC-backed Active.ai; eyes $100-200 mn in pre-IPO round"
-    excerpt: "This is Gupshup’s second acquisition in 2022. Earlier in February it acquired cloud telephony company Knowlarity Communications, which is backed investors such as Sequoia Capital and Mayfield."
-    publishedDateTime: 2022-04-05T05:03:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/gupshup-acquires-vc-backed-active-ai-eyes-100-200-mn-in-pre-ipo-round-11649134755619.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/gupshup-acquires-vc-backed-active-ai-eyes-100-200-mn-in-pre-ipo-round/amp-11649134755619.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/gupshup-acquires-vc-backed-active-ai-eyes-100-200-mn-in-pre-ipo-round/amp-11649134755619.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/04/05/600x338/09dea914-b733-11eb-b2e0-990fd466194c_1621280767880_1649134954859.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Gupshup acquires AI platform Active.Ai in its 2nd acquisition this yr"
     excerpt: "Conversational messaging unicorn Gupshup has acquired Active.Ai, a conversational AI platform used by banks and fintech firms. Gupshup had acquired Knowlarity Communications, a cloud communications startup,"
     publishedDateTime: 2022-04-06T08:11:00Z
@@ -212,34 +196,6 @@ related:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/John_Reeves_web.jpg"
         width: 1024
         height: 500
-        isCached: true
-  - title: "Gupshup Acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies"
-    excerpt: "Apr 5, 2022--Gupshup, a global leader in conversational engagement, announced today the acquisition of Active.Ai, the l"
-    publishedDateTime: 2022-04-05T05:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-india-singapore-9965e61e0087445482e67a56b5c7aec9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Curious Thing Positively Impacts Public Safety, Scales Conversational AI Solutions and Connects Customers Globally Using the Vonage Communications Pla"
-    excerpt: "Partnership enabled customer to establish intelligent conversations with 150,000 customers in 10 days at the start of the pandemicSINGAPORE--(BUSINESS WIRE)--Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation,"
-    publishedDateTime: 2022-04-05T03:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=641920"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Salt Security Discovers Critical API Security Vulnerability That Would Have Enabled Administrative Account Takeover on FinTech Platform Serving"
     excerpt: "Gain administrative access to the banking system Access users' banking details and financial transactions Leak users' personal data Perform unauthorized funds transfers into bad actors' bank accounts The SSRF flaw was already actively integrated into many of the FinTech company's systems and had the potential to compromise every user account and transaction data served by its customer banks."

@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
+      "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
+      "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox7austin.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
+      "originalUrl": "https://www.fox7austin.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/04/932/470/GettyImages-173671212.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox7austin.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
+      "cdnAmpWebUrl": "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
+      "publishedDateTime": "2022-04-09T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 7 Austin KTBC",
+        "domain": "fox7austin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-04-10-ai-pioneer-suggests-trickle-down-approach-to-machine-learning.md",
+      "title": "AI pioneer suggests trickle-down approach to machine learning",
+      "excerpt": "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
+      "originalUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
+      "publishedDateTime": "2022-04-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market.md",
       "title": "Inside Intel’s Strategy to Compete With Nvidia in the AI-Chip Market",
       "excerpt": "Nvidia has dominated the growing artificial-intelligence business. Intel wants to change that.",
@@ -62,7 +151,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -191,7 +280,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -413,40 +502,6 @@
       "provider": {
         "name": "Unbox",
         "domain": "unbox.ph",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-2-ai-stocks-that-could-help-make-you-a-fortune.md",
-      "title": "2 AI Stocks That Could Help Make You a Fortune",
-      "excerpt": "T he artificial intelligence (AI) software market is expected to grow by 21% this year, while the overall AI market is predicted to grow at a 40% compound annual growth rate throu",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
-      "publishedDateTime": "2022-04-02T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1393,49 +1448,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-chasing-the-worlds-first-brain-on-chip-ai-computer.md",
-      "title": "Chasing The World’s First Brain-on-Chip AI Computer",
-      "excerpt": "New project BayesBrain aims to build the world’s first computer that combines brain cells and silicon microchips. Besides being the most intelligent computing system ever, the brain is also very energy efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
-      "originalUrl": "https://siliconsemiconductor.net/article/114480/Chasing_the_world’s_first_Brain-on-Chip_AI_computer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.angel.digital/images/imager.php?w=655&h=300&type=b2&zc=1&i=1648050917-ERC_Diverse_@Fostering_Science_copy.jpg",
-          "width": 655,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "siliconsemiconductor",
-        "domain": "siliconsemiconductor.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

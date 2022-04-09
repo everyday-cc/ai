@@ -24,22 +24,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "Women in AI Awards 2022: Winners"
-    excerpt: "The Women in AI Awards Australia and New Zealand for 2022 were held in Melbourne last week, and the trophies were awarded to the top women committed to using AI in the region. The most prestigious award of the night,"
-    publishedDateTime: 2022-04-05T02:15:00Z
-    webUrl: "https://www.itnews.com.au/digitalnation/news/women-in-ai-awards-2022-winners-578331"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/WAI_306.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "TUKfZ7xtgLxXj7JiZkZYRkbfcDUH57/XJRAcBF2Xz9vNmDgqHsi6jgjtD9t3s9nQsgUM+zYMwO/Jadl/PyI+kldaZu7/kYs4mtKr2Y5YdbC16B4XPJicQ+R123zfruSAo8yGmMegOdtI+QVAe12cR6/MRPfW/pDt3UhEdqq8/BBvs6uvDBmjJSE5VlPLZQ+mCgKVKBAFYK8Jzm80SV88Cv61nrR3zX2e/gDMu+sJADqucFmxNO6tAGVyDO91Ep0tLtQ91JbtpYbhhsnyEHvSlX6158Q7mBaW/eHXxXX1rOxeOd39dB7HLCJRamx5HcSYJkkC6GdtNbqNsLSy7W3af8Cp2uPt2EdATwGZpDd8D0IwKQGwoTB8/rMAt8sYpMlJBrwzWeEujAZ3h4dahbSJaq15oMRITOnqaWZrfRhrbHVZeZ4oeg4Yd2VXF9BGdeP4zKmGZ+EN0mbwaqBCzqeGTERfuUFnQc9hSjX5kAvqbwtsBVR4oLtMUB7N7xH0Ks7H9fmeZ760RFZJzLSDqoI/lA==;ARUhbpN8kWuDep7Co+kFGw=="
 ---
 
