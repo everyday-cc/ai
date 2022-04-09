@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-get
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Seeking Alpha
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "District Says No Looking Back After Using Artificial Intelligence Routing System"
-    excerpt: "Butch Sargent was contacted by the Jasper Police, telling him about a disturbance in a certain area. “I don’t want anyone to think Jasper’s unsafe but we had a police problem one afternoon and a whole community was shut down,"
-    publishedDateTime: 2022-04-04T23:07:00Z
-    webUrl: "https://stnonline.com/partner-updates/district-says-no-looking-back-after-using-artificial-intelligence-routing-system/"
-    type: article
-    provider:
-      name: Stnonline.com
-      domain: stnonline.com
-    quality: 32
-    images:
-      - url: "https://stnonline.com/wp-content/uploads/2022/04/Transfinder_Jasper1_Main.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Holding artificial intelligence to account"
     excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
     publishedDateTime: 2022-04-05T23:46:00Z

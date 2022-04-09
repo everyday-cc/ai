@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Startup ClickUp launches Whiteboard to develop WFH analytics"
-    excerpt: "ClickUp developers are working on an AI/ML-based feature that would be valuable for time management and work-from-anywhere collaboration."
-    publishedDateTime: 2022-04-04T23:40:00Z
-    webUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/"
-    ampWebUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1286802156-e1643643094506.jpg?w=1200&strip=all"
-        width: 1200
-        height: 610
-        isCached: true
   - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
     excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
     publishedDateTime: 2022-04-05T08:08:00Z

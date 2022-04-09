@@ -40,20 +40,6 @@ related:
         width: 509
         height: 509
         isCached: true
-  - title: "Why AI is the Only Way to Cope with Enhanced Regulation"
-    excerpt: "Against this backdrop, the need for AI has never been greater. At present, many law firms and organisations still rely on rudimentary tools and traditional ‘manual’ review techniques to locate relevant information. Not only do these methods result in ..."
-    publishedDateTime: 2022-04-06T04:55:00Z
-    webUrl: "https://www.law.com/international-edition/2022/04/06/why-ai-is-the-only-way-to-cope-with-enhanced-regulation/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2022/04/Eleanor-Weaver-headshot-767x633.jpg"
-        width: 767
-        height: 634
-        isCached: true
 
 secured: "EDMWiDnFAmJFkwA5PYlK6InSsUS2OMRzMCkUKnmy4UrA8gqiRJvSoMNPaP17QkUNNDgIY6wy+xY+3EUzLRlIgsax88vE8d6hikZ4u0m4YdrM+w16VaxD+sevCSKvK93/zZ/izkwSqDCrj/TD8KEIc6nDT30u4lCngOWtZdHT0ki1d0mGQbKYdQJQ1KHdgFKF+g9Fk7jq1UiiI97rVZmtdWC1XM0xrk2RwBIaQVNmT0j0wo0CRK8A9/4KFhHadI6m6t/sd/pYQrrKjKV/AaNGOht8jz1SwINKjnEM2oSllHjzv9grmNhjZu1CyZX/fivAVNXRo6Z7HRa57h/skI6XTPKx0FwBfcEJNQvH6CNzRLsOlGXVPePi7sT7sIBBoUflmEJClI3ygJg1AY8j+ewYHGjS9q8zdCm4EGsx5KvUaCvCnL3vKAujSFgZt0i6T8y/7heZltEix+P0QpwzRH8ssGC2MdE6witkB49W+eDu8oCDsbm4w87u04DxYTg7ibG/7kriyImkI66mgl5YwbkHww==;Fn6GL8dN4YyOWwi2+Yuehw=="
 ---

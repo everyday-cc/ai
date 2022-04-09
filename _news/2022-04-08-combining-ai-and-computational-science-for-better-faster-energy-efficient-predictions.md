@@ -114,6 +114,20 @@ related:
         width: 295
         height: 250
         isCached: true
+  - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
+    excerpt: "Unicorn Prediction Model of the analyst, a leading data and analytics company, predicted all potential startups across sectors that have the potential to become unicorns (valuatio"
+    publishedDateTime: 2022-04-06T10:51:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_44cde9c5-c361-50fb-875f-7780a75d4529.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 17
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Gradient AI targets both underwriting and claims"
     excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
     publishedDateTime: 2022-04-06T12:50:00Z
@@ -123,15 +137,6 @@ related:
       name: Insurance
       domain: insurancebusinessmag.com
     quality: 17
-  - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
-    excerpt: "The \"Spotting Future Unicorns - Predicting Startup Success using an AI Model\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the established unicorns and map it against the predicted unicorns using the analyst's AI model."
-    publishedDateTime: 2022-04-06T13:51:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=642937"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "4o58HX2WiE64ifsfixe1ote7IQBWxwRfFHEJrZ0TFbnggDrgFlAFkW18+n3o1seyiHTMoHWuy4rkXHFkH0dtyjDbVJpqwYUBiGFvqTLjlt+QE3WjuW87gnlNHhNLjqwI4x+F2tOKBBg/etxvlX3xGdQIGbJ9ZLOR8Cx7cfN2OdkjLSL9A+pue4aL3JAl5m2Nb8IG3I4uD06arG2ITTLSNhmCzo1eKQniWLpXbSspnFpNKxIRgO9BjlTACwyPJz0soRj19IAhmhSEVyL5ZY40JRQHF2OsSHCNRKUiIJ4H4WU7Vui/9rXscAMifWkGw+quqMserHU6KMJBSNOXNV9zZFvn0auFHqrT16y3vAGTJDUfm4xw4GPC4VRoO7d2yGU+oCR+AzezbPZI/kUEJqUXihD5ZUnKB9QOuBEljoqwqWjFRB6VtJQq8/HzzxLrWh+S+L8Ew6pKaBgxFyJo9ZygUrbd6x2PFImjE5v8XDyiceQDrgCZI09WdU0HN2xtb4o/3BHM8r8WKaMYCKgb4xf53Q==;dDtiwQhrnSeUxovQNpfu/w=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Startup ClickUp launches Whiteboard to develop WFH analytics"
-    excerpt: "ClickUp developers are working on an AI/ML-based feature that would be valuable for time management and work-from-anywhere collaboration."
-    publishedDateTime: 2022-04-04T23:40:00Z
-    webUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/"
-    ampWebUrl: "https://venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/04/startup-clickup-launches-whiteboard-to-develop-wfh-analytics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1286802156-e1643643094506.jpg?w=1200&strip=all"
-        width: 1200
-        height: 610
-        isCached: true
   - title: "Real-time data analytics firm Tinybird nets $37m in Series A"
     excerpt: "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,"
     publishedDateTime: 2022-04-05T15:30:00Z

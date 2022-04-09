@@ -1,21 +1,27 @@
 ---
 category: news
 title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
-excerpt: "The \"Spotting Future Unicorns - Predicting Startup Success using an AI Model\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the established unicorns and map it against the predicted unicorns using the analyst's AI model."
-publishedDateTime: 2022-04-06T13:51:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=642937"
-webUrl: "https://us.acrofan.com/detail.php?number=642937"
+excerpt: "Unicorn Prediction Model of the analyst, a leading data and analytics company, predicted all potential startups across sectors that have the potential to become unicorns (valuatio"
+publishedDateTime: 2022-04-06T10:51:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/article_44cde9c5-c361-50fb-875f-7780a75d4529.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_44cde9c5-c361-50fb-875f-7780a75d4529.html"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Predicting and preventing road crashes with AI"
@@ -132,6 +138,6 @@ related:
       domain: insurancebusinessmag.com
     quality: 17
 
-secured: "Fay6PusNdnRxbTJiBJJs5x1vS6q2WnO+qik/UfJ0kYCd3eHbJUVE+EcWMD0lbtIRuzl5udjaOwdsOnBkO/Et1FC88flAha1GjOTJIU8tP2/7XMnRPNrA/nsHH80tmLHlakUt5SmErz4FCdeuN2lvfTTOv4ielOpz2JLQQi8GXeNlueTijJz8IVBG/YlgmcD9nojnCKXZ0ttTIBtTf3sRt1ZOmpULXVo4C8quqGLvRsBJFl0Hc/Sm4Z+N3fI2SjWPSgOrboto8Nkfic7mAeIEOuBCqZDedmVw0BXFxFvi0C7k+a2BOg8hL7cSt+vGE9dlYPgtNRYrrpJyDXNG68yYrSSWqR6gWLuwqHjeP62ZEa0=;pg5GiCsXbOEu4l3nxpt1sQ=="
+secured: "bTO7AkmAt18+kkDpbwEZA9TXI8AeYN+Ziia/AwKn1WOeaJ4xQ7Sk847k/J0uU4tLE+dUrg6b+CPX4uMf0OGCAYkdOPiYE8j7hbXUJzLrSl4PVAwMd4EyHCDkC9/jLZnj5ycCPT+yDRz9AiDJrvGkRU6EiGOJDLQpXI1WX/7Mhr6NIZdHCYp6vhKUeUi23sCGTEqHunuYpFLi/Ty1nGeCbZRWssqmhx5UOTiBEo+Fg5wyVlSX8Ehoe/NyREunCA3j8U2Z4gHYq+8W2p8Mv4WgQLYFBPJDBe5PXPJkfHpNj42A/EScuVqjl10WqeLWY/F6GbvH9mVqkau8xlIdv37UdaNl0zjkhqRrKijX3tNdmY4=;ovF2S7+slRB45872sdJfxA=="
 ---
 

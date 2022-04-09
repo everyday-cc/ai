@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-08-the-census-is-broken-can-ai-fix-it.md",
+      "title": "The Census Is Broken. Can AI Fix It?",
+      "excerpt": "Machine learning can help count people to deliver government funding and decide political representation, but the technology still makes mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
+      "originalUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/624f885dd8687dcbd6e67c3e/master/pass/Ping-Pong-Balls-Census-Broken-AI-Fix-Business-1192111792.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-census-undercount-ai-satellites/amp",
+      "publishedDateTime": "2022-04-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
       "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
       "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
@@ -1317,49 +1369,6 @@
       "provider": {
         "name": "Euronews",
         "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-how-darpas-rd-model-brings-ai-advancements-to-the-enterprise.md",
-      "title": "How DARPA's R&D model brings AI advancements to the enterprise",
-      "excerpt": "How it matters to the enterprise. For almost five decades, DARPA has led the application of rule-based and statistical-learning-based AI technologies. Today DARPA funds a wide range of activities from basic research to technology development, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
-      "originalUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-08/shutterstock_696395281.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
-      "publishedDateTime": "2022-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
         "images": null,
         "publishers": null,
         "authors": null

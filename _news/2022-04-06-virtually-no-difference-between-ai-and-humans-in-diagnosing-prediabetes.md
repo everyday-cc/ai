@@ -35,7 +35,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 47
+    quality: 49
   - title: "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis"
     excerpt: "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in the journal Radiology. Type 2 diabetes affects ..."
     publishedDateTime: 2022-04-05T16:20:00Z

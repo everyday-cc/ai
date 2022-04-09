@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-07T18:38:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/04/220405102823.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/04/220405102823.htm"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "'Virtually no difference' between AI and humans in diagnosing prediabetes"

@@ -336,8 +336,8 @@
       "title": "Face scanner Clearview AI aims to branch out beyond police",
       "excerpt": "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -354,8 +354,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/face-scanner-clearview-ai-aims-branch-police-83819354",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
       "publishedDateTime": "2022-04-01T13:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -558,11 +558,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26388344",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26388344",
       "publishedDateTime": "2022-03-30T16:08:00-07:00",
       "updatedDateTime": null,
       "provider": {

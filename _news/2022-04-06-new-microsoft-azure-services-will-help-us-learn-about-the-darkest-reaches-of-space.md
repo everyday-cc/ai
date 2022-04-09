@@ -88,20 +88,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 70
-  - title: "Microsoft deploys and tests AI models in space aboard the ISS"
-    excerpt: "Microsoft Corp. today revealed how it has been working with Hewlett Packard Enterprise Co. and the National Aeronautics and Space Administration to develop and test what they say are the first artificial intelligence models in orbit aboard the International Space Station."
-    publishedDateTime: 2022-04-05T00:12:00Z
-    webUrl: "https://siliconangle.com/2022/04/04/microsoft-deploys-tests-ai-models-space-aboard-iss/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Space-Symposium-main-art_frame_394.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "New Microsoft Azure off-planet space solutions are here"
     excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
     publishedDateTime: 2022-04-06T19:20:00Z

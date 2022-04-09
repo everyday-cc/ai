@@ -35,20 +35,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "District Says No Looking Back After Using Artificial Intelligence Routing System"
-    excerpt: "Butch Sargent was contacted by the Jasper Police, telling him about a disturbance in a certain area. “I don’t want anyone to think Jasper’s unsafe but we had a police problem one afternoon and a whole community was shut down,"
-    publishedDateTime: 2022-04-04T23:07:00Z
-    webUrl: "https://stnonline.com/partner-updates/district-says-no-looking-back-after-using-artificial-intelligence-routing-system/"
-    type: article
-    provider:
-      name: Stnonline.com
-      domain: stnonline.com
-    quality: 32
-    images:
-      - url: "https://stnonline.com/wp-content/uploads/2022/04/Transfinder_Jasper1_Main.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "c3HoPXxuuIAJiNC0a2dVz+rQGWRAPnFU0qN0ryKmWcBC2/ru2w5DlD8ejMA8KvfYXAzuBrYgpXCBPyMB6Y+EINvUja7vB0xwHSUzx1iDeLlJVjyEeNiaM9xsHCqkzEJ7epRq5m/YdHTpcU8NS/TSHxYS3wbFNc/VkizVcyn2balgJG6egOK9MHxaoDiFCGUPJrRNeR2WJIX08fo8h+dNtQFl1RUJ5WK+LNh5tTxIG1Kix1CJuDIEhdmVU2nZUxybkLS7+qJ6z7+4Na0xPwGlXWMSPhm+eu9tBveg2b9sjOlvUR71Ibtk9Qym5g6QMLJ51mxbV3XMEZasgtW3ciPe9N6sroPUnf0L6zSAmv/gCyTK2Ch4yEzGZX1GJQ8g/d+A1aKc3MVh+Ko6NFPBJUQZNbMnB/tn9eKiE3TkCW4Tj9WYZ5WObB5uc9ZkK0BGkk3khv6UXaeXshldlRuHti+Lk1tmpk8nop/oD2p9UJy+f3sCS5Mc0D7cgWhxCGxm6H4HVZqTVSBVaMFR/5VfcNFPXA==;D0FobefwxaOgtQkvRNGj7Q=="
 ---
