@@ -51,20 +51,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
-    excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
-    publishedDateTime: 2022-04-04T08:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/enterprise-manufacturing-intelligence-market-size-share-growth-opportunity-competitive-outlook-and-industry-trends-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "D/75je6kW+T+/llcQK4rvJ5iZzkVfAdo9b2fEZslW6D2epp9x1qFXltr5qCg7BvI+1QwoAH+28OdotTvHSnDGHQ6QIiR02R9Ccf0Cqwy0z1dkThA/hajdZ4dwz92bSe0c7Wr6lTVXDAeDvf5XCEaII5Klvjyn9dEaGaSvUd0WoluLs2pPSw7nS3OJzvcgbKrkW0hFpw4yHuZki2UsliIsu5+NoeZupIuiFGu5mQPogC6ZK5S9XRB0zeb7UZUx/wIiWOfxJElG278axOaVPaMScnLjCzYWvICgKEU431VABzTf2ymEOeiaNkasJCatLDxXawt9h3QFklABsgJoVj0if7fT55UDzC04J4m9ewsdp8=;NrQBjM2MA+whHOsNV+YyZA=="
 ---

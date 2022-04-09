@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-08T21:28:00Z
 originalUrl: "https://www.bloomberg.com/professional/blog/estimating-greenhouse-gas-emissions-with-machine-learning/?tactic-page=618107"
 webUrl: "https://www.bloomberg.com/professional/blog/estimating-greenhouse-gas-emissions-with-machine-learning/?tactic-page=618107"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Mitigating bias with machine learning"

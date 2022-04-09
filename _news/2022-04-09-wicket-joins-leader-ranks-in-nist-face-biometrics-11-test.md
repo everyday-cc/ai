@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI plans to offer face biometrics services to banks, other private businesses"
+    excerpt: "Clearview AI is planning a new business venture verifying people’s identity using facial recognition targeting banks and other private businesses."
+    publishedDateTime: 2022-04-04T22:40:00Z
+    webUrl: "https://www.biometricupdate.com/202204/clearview-ai-plans-to-offer-face-biometrics-services-to-banks-other-private-businesses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg"
+        width: 2048
+        height: 1298
+        isCached: true
   - title: "Daltrey integrates Idemia face biometrics with access control platform"
     excerpt: "VisionPass can include additional biometric modalities, and provides a digital identity that can be used across all physical and digital access points."
     publishedDateTime: 2022-04-07T17:26:00Z
@@ -53,6 +67,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Clearview AI to sell technology to private sector as well as government agencies"
+    excerpt: "Facial recognition technology company Clearview AI is looking to sell services to banks and other private sector companies in addition to working with government agencies. Clearview co-founder and CEO Hoan Ton-That told the Associated Press Friday of the company’s further growth plans,"
+    publishedDateTime: 2022-04-04T18:49:00Z
+    webUrl: "https://www.fedscoop.com/clearview-ai-to-sell-technology-to-private-sector-as-well-as-government-agencies/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 12
   - title: "Lumeo updates face biometrics offering, enters new partnerships"
     excerpt: "San Francisco-based computer vision solutions provider Lumeo has unveiled a number of new updates to its technology and business operations."
     publishedDateTime: 2022-04-05T18:46:00Z
@@ -63,6 +86,6 @@ related:
       domain: biometricupdate.com
     quality: 4
 
-secured: "WShWhT+QraNEaoJ8zvZo+e83xdMThxQUo4FQV3UCkEkll+4kI/rlapZBC0jqhkkBeypWXnE7uHKCNxnqRVHFhp5cR4EQ3ArdQkINv/klHzTQiIcHd3S6wrlZYBdw4K+rGc6pTwI79Ps142azMLadLQXBQ7Wa5Uh9JYYF5FGK36xy9E8IWvNqxZNTMFsvqhisjj7y1RMrufJ+o1s4vg7rKpl+rgJVsyol9i2v1jRwdLUPhLd23D1iUBAtU9RRctm7EK3CoPBh2hsyxxbDA8RiLTOO117R6JidxYgcS49IZl6YAUcHjERJTjZBWnuXWxc2Pgp3Te6HkZpm5aezd0oc8H15i2+lVeHU1EPlD8H3XIU=;epqLfHzgYC2Jp3SqArHcSg=="
+secured: "QgMHshjVxMaErpriXnTV8pOPpkF1DQDdqP2cqPx5xJG2CsOEVR2gkanyhSGNKDi4vNf/0TwfUdAGD8VGN4DnMkQg/3G5w/Zt9eY0Hjszp6wh/P2XGwuPpMsy7MHzwmKld1NMFgbWSgTGGIkwG/o8PmRmjsIZ1FGlm2jHhpwOvJZ5O2d6a7jjYKOtpcURrTuDfSN88BqhXzUn60+Fks5kdamETtCRumJZOmUj7GcGNOj2YS+X1KTJxTbm+u7F936Ucv33dFKbAjZuUjm4WCmi7Qd1kt7vN+JCah3/kSFHnrxLNSlWLF7ILDUBqpKv3gbHoQEVBDb+zDwujjkfKYyvjcg2x9fs3XaoXklO9eLYxxz26md7XFOlCZ1oW+I5NccgfLAEsD54tKAtFHLk2Q/IlKpirGYGUgVcl4NBE94DAAR2Z3OvME6jpSA4CxzUr/RiGTNmgx5+fQzqQFoNtZqwLG27RsrrB5Cq10NA50hU75E4mPXx9yYVNCAloDtjg8PO0zQu+9Zk+9Yy8ErfC/OvRQ==;nKd8uINFs0JxKNg16X4KAg=="
 ---
 

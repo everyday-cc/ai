@@ -56,19 +56,19 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
-    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
-    publishedDateTime: 2022-04-06T15:37:00Z
-    webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
+  - title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
+    excerpt: "Gathering diverse driving data using a massive fleet of cars is critical to developing a robust self-driving car system, but it is costly and not scalable to test autonomous vehicles with ..."
+    publishedDateTime: 2022-04-06T15:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-2612566"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 38
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--h4xdRBH7--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-04-06t153552z_1_lynxnpei350tg_rtroptp_3_toyota-wovenplanet.jpg?itok=xnJxXJCv"
         width: 1200
-        height: 800
+        height: 676
         isCached: true
   - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
     excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
