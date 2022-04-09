@@ -37,20 +37,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Intel inadvertently leaks the details of its flagship Arc GPU"
-    excerpt: "Arc Control is the name of the software that Intel is set to introduce to support Arc GPUs. The Arc Control software includes GPU monitoring capabilities, which was the source of"
-    publishedDateTime: 2022-04-04T06:37:00Z
-    webUrl: "https://www.pcgamer.com/au/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Releases it’s First Discrete GPU Series With Game-Boosting and Super-Sampling Technology"
     excerpt: "Intel has recently launched Intel Arc, a Discrete Graphics family for Laptops and has announced Intel Arc 5 and Intel Arc 7 for desktops and workstations. The Arc A-series is based on Intel’s new Xe High-Performance Graphics microarchitecture also called Xe HPG,"
     publishedDateTime: 2022-04-06T08:09:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://sporttechie.com/new-ibm-digital-feature-predicts-golfers-s
 webUrl: "https://sporttechie.com/new-ibm-digital-feature-predicts-golfers-scores-masters"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "IBM’s Watson Predicted Tiger Woods Masters Scores By Analyzing 120,000+ Golf Shots"
+    excerpt: "IBM's Watson, the company's infamous supercomputer, predicted Tiger Woods' scores at The Masters by analyzing 120,000+ golf shots."
+    publishedDateTime: 2022-04-06T17:28:00Z
+    webUrl: "https://brobible.com/sports/article/ibm-watson-predicts-tiger-woods-masters-scores-perdicted-cut-augusta/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 33
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2022/04/tiger-woods-augusta-national-the-masters-2022.jpg"
+        width: 1250
+        height: 833
+        isCached: true
 
 secured: "8jqy3Fs8+aO+RuHiCZsvDDByTjJs4hC+WlQGOWkA4Q6cReJrZj8L3PbCKx3+eLPk9dPsHqawms3PzNXH0D0TRMmbhwjPRueRAFeJCHaP/U3VYfZt0tTg0R3LmWqWkZ0chsZOo9hQHZqJ4OhqYML9l14sZQVtQjuYX7TYcAFHhJG2RmeoLHYMq9pHib4THIEWWAK7LMZHLceFafRaYrPjeyEC1xEhZSViSIJ8Q9WkplF+qttodn1RCCvmhOo/F9w5T4xa7/bqeLMT22qTQI9yNQyyJUt1v1S7SvKqxiptNbIRAtSh8B4NvItz6ztcMiCguGpPDDy8O12vNCP/33p/ID4vBbZr66Pb2nC23PjyP2U=;5cRIrEQOJViR2YVVaEaupQ=="
 ---

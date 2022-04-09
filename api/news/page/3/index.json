@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
-      "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
-      "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "originalUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
       "title": "SmartHop raises $30M to boost trucking fintech products",
       "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
@@ -253,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-06-virtually-no-difference-between-ai-and-humans-in-diagnosing-prediabetes.md",
+      "title": "'Virtually no difference' between AI and humans in diagnosing prediabetes",
+      "excerpt": "Deep-learning algorithms have shown themselves equal to humans in detecting patients at high-risk of developing Type-2 diabetes by analyzing CT scans of their pancreases, according to a research paper published on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/06/ai_prediabetic_screening/",
+      "originalUrl": "https://www.theregister.com/2022/04/06/ai_prediabetic_screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/12/21/shutterstock_doctor.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/06/ai_prediabetic_screening/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/06/ai_prediabetic_screening/",
+      "publishedDateTime": "2022-04-06T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-praisidio-utilizes-machine-learning-to-determine-at-risk-employees-and-build-tailored-retention-plans.md",
       "title": "Praisidio Utilizes Machine Learning to Determine At-Risk Employees and Build Tailored Retention Plans",
       "excerpt": "Praisidio, the leader in talent retention management, today announced the general availability of Procaire 3.0, which includes new patent",
@@ -399,7 +390,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -668,48 +659,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
-      "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
-      "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in the journal Radiology. Type 2 diabetes affects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26480242/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26480242",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242",
-      "publishedDateTime": "2022-04-05T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
       "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
@@ -960,7 +909,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1171,6 +1120,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
+      "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
+      "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg",
+          "width": 1279,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
+      "publishedDateTime": "2022-04-05T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

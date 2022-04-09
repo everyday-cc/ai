@@ -2,58 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2022-03-24-amds-fsr-20-is-john-henry-versus-nvidia-dlsss-machine-learning.md",
-      "title": "AMD’s FSR 2.0 is John Henry versus Nvidia DLSS’s machine learning",
-      "excerpt": "AMD's FSR 2.0 is coming soon to games like DeathLoop, and it is closing the gap against Nvidia's DLSS technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/deathloop-fsr.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/23/amds-fsr-2-0-is-john-henry-versus-nvidia-dlsss-machine-learning/amp/",
-      "publishedDateTime": "2022-03-23T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-24-ai-visionary-and-leader-dr-jane-pinelis-of-the-us-department-of-defense.md",
       "title": "AI Visionary And Leader Dr. Jane Pinelis Of The U.S. Department Of Defense",
       "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to interview Dr.",
@@ -1180,6 +1128,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
+      "title": "São Paulo subway ordered to suspend use of facial recognition",
+      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "publishedDateTime": "2022-03-23T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

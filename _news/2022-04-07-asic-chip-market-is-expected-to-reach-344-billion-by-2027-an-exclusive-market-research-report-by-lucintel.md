@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Military Robots Market Size, Share, Growth, Global Trends, Key Players and Report 2021-2026"
-    excerpt: "According to IMARC Group’s latest report, titled “Military Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-04-04T05:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-size-share-growth-global-trends-key-players-and-report-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Edge AI Hardware Market is expected to reach the value of 20 billion USD by the end of 2027."
     excerpt: "As per our research analysis, The Edge AI Hardware Market size was estimated to be worth 16 billion dollars in 2021, and it is predicted to be grow high"
     publishedDateTime: 2022-04-07T04:59:00Z

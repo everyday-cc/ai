@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-03-29-go-with-the-flow-state-what-music-and-ai-have-in-common.md",
-      "title": "Go with the flow state: What music and AI have in common",
-      "excerpt": "Carrie Cai, Ben Zevenbergen and Johnny Soraker all work on developing artificial intelligence (AI) responsibly at Google, in the larger research community and across the technology industry. Carrie is a research scientist focusing on human-AI interaction, Ben is an ethicist and policy advisor and Johnny",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
-      "originalUrl": "https://blog.google/technology/ai/go-flow-state-what-music-and-ai-have-common/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Music_AI_hero-01.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
       "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
       "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment",
@@ -1170,6 +1118,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
+      "title": "STEM programs launch at the county library for Robotics Month",
+      "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
+      "originalUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2022/03/AD8F06836FB07EDFE09279FCDB51733A.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
+      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
+      "publishedDateTime": "2022-03-28T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc4.com",
+        "domain": "abc4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

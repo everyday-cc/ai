@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -429,7 +429,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -774,7 +774,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1015,7 +1015,7 @@
       "originalUrl": "https://www.teletrader.com/aurora-werner-enterprises-testing-self-driving-tractor-trail/news/details/57638486",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1154,21 +1154,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
-      "title": "ACM Prize in Computing Recognizes Pioneer of Robot Learning",
-      "excerpt": "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022",
+      "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
+      "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
+      "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "webUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
+      "originalUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg",
-          "width": 267,
-          "height": 400,
+          "url": "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png",
+          "width": 1024,
+          "height": 536,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1178,14 +1178,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:11:00-07:00",
+      "publishedDateTime": "2022-04-06T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1201,9 +1201,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

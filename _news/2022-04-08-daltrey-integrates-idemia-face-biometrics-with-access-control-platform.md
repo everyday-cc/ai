@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wicket joins leader ranks in NIST face biometrics 1:1 test"
+    excerpt: "The computer vision and biometrics company submitted its facial recognition algorithm for assessment by NIST for the FRVT 1:1 test in February 2022."
+    publishedDateTime: 2022-04-08T22:04:00Z
+    webUrl: "https://www.biometricupdate.com/202204/wicket-joins-leader-ranks-in-nist-face-biometrics-11-test"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Face biometrics for payments continue advance with PopID-Visa partnership"
     excerpt: "PopID has recently entered a new collaboration with Visa to launch its PopPay face biometrics-powered payments solution in the Middle East region."
     publishedDateTime: 2022-04-06T21:55:00Z

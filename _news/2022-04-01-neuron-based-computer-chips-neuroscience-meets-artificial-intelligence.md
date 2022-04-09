@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "JF8Bl5vmZIUE66G4ICfTmHZm/L3liJ3u+kREI0xJrAgjIJN7FBGvAvWTCCTQBN3UI+BsVV2MpahLGP7jYx0vR3DtuV0s+MmzhDrODDP8LOq5XbF5h8T6N/F2oi9xPRfFWxolTGBN3PbJDH+D5RRt6JVJ0o8y8zJyGCvToTm86wdjEyGKpyehxt2YxNgjyaDyVHELcLEWaoNKuFq/riIt+1blW8oF95KwVQrXLr+BXsS6JWa1yFQT6P8LdyW4d1UUR5fQNquoAPrsRYlwIW5Xm8aBcNPmXUSjRR09KgClXX/OZQuPFWdAxZUeXZWnM/A4TSa+k719HaU1IrRD8gpfI3JyMkv/u/DPQ7grj0Z/enI=;OPBeYcmNaROx56NOs7QfQw=="
+secured: "QMct197zSSTwygrdCQffuGj6Yk8Osm+tfvHblSDdBLnsTzLwTQbk5SBUVoDb8r8Hq4xS3F7NIT2qEv9jRj8A0HyPZe9H56AIIr03No1D94wx/zuKSKKKPZknO9OTk9Gzhv181verm0jYHGsBph+pWbyxLmPJyxTPGN6tjxr12QvAWDWXkyZVbosvM35+SXhG/1E0iCTgswQuBGYGLrISAl3IKO1+0Wplc3fiJIKQCOe78GbwL5isnVY+BRJoqFtSD9fzZRXsP8JGVDOmtVhM13gYCvFixR0qDf5+MY39AC3jmu/WmlvRIuAByNgdJdPzUSmDWAF+ipqmB0uF+f2qbmL/0Sl6ZuUllnXtHSrZiIvsi39Re7S6qotSNQt86Addw7DEW3X97sLiOTdyyUm7PWVirG0kcEjmXHioYSOQfUi4bBasxFDVFmKvubAEtI+b7dQBlAg4EvM/HxgwTpQiqAE1hgvPm80oeQkqL7+1wdSPWQafx/+QgRM5jQUjzGi6qFqjO3Rh2Lll9pnqdZEmIw==;2RS1uCjjkaO07fpchcOx/A=="
 ---
 

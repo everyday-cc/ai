@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26480242"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480242"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -36,7 +36,7 @@ related:
     provider:
       name: theregister
       domain: theregister.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://regmedia.co.uk/2021/12/21/shutterstock_doctor.jpg"
         width: 1200

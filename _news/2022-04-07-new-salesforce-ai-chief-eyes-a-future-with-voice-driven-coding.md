@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-fut
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

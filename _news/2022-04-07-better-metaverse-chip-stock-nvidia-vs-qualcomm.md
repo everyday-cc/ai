@@ -18,22 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Council Post: When AI met metaverse"
-    excerpt: "The metaverse is the distant evolution of Web3– a network of decentralised, virtual worlds powered by blockchain technology."
-    publishedDateTime: 2022-04-04T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-when-ai-met-metaverse/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/julien-tromeur-EOSHmMbjT8g-unsplash-copy.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "zOwxmk5+y3xeW1E7smKumuc9tdoWEC7Mniu41UK/5uuOaTxE543h/w44iUYj0j9w9xXzOTFI3Dn7xhTPigSBKkY3+tIyXeaBzLEf7U1tbMUtpuvKn/fuK4Ja72K4eUmqdNhbv4YWGPSQ5/6zzvoNT71bqNzdOonLfV1S2i99CpeUHsQks8zvcCZB0E7/prsaZdr3bGWAOF6Pc/fvBM+z0SPjdFHyxBLwQtS49hkRQk8TycU1ABnujgefCp3+1nxdpUkE/7rk3ca2oeIi0FHrqxXd2lbBiyWa39YdOJXE6u96io93pW5AhfEEGMkQygSm9C1V74gQbvf6lb8j/UFxye9QELSvVMiTYdXKI1QtPYm6c8bNpWhW220dGEmMIaQqX2hC1KFZrizx7lcRIzgwDe16xaoit3oTYylTJxjbYTcznkJC1B1Lejd72cn06kJ9k9foTdSIviBQfv0C0zmjYYRkuCOTsHHMnZgVuyL8Kw5XtItYCZ5K3XdnbwivM47p5LJEXxK4hR3j9bWKKNjdGQ==;50mfvWWcOKWxSKsfPUGJgQ=="
 ---
 

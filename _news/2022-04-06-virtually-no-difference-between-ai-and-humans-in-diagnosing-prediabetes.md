@@ -8,9 +8,9 @@ webUrl: "https://www.theregister.com/2022/04/06/ai_prediabetic_screening/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/06/ai_prediabetic_screening/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/06/ai_prediabetic_screening/"
 type: article
-quality: 56
-heat: -1
-published: false
+quality: 58
+heat: 78
+published: true
 
 provider:
   name: theregister
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://regmedia.co.uk/2021/12/21/shutterstock_doctor.jpg"
@@ -52,6 +53,6 @@ related:
       domain: sciencedaily.com
     quality: 47
 
-secured: "c49OsEne1hK/DKSUtmPl7RHO2os8Q/b5fqSOzaluN34PwMUKdrgL5WieGTXLpsIPJKIhxGh1jNMUwZyo6gITOTXhL2b5XbAFHMdMWN71eYjTVrEJodTw+kmd1Axax47gLvteNNfYImT2+xcK6sCYKmVh9KjfWIAc4tLqfcDaUxZsSJnEKHjlM5kU5rMD+POhLXWDVmDj+pL2qXEwryL9I5IJJ8a0Wrq2MbR+kIdIiSau2LmJ5L0VFJZGqf3FgchvPUyB1OQG3ZMffTUlky1Mjd31d26zR1NI6FxL53Ykmp32GZHiBkufCVVhRJs9snNJ7S3WGhz70qBYDSZ0R44iTVSC1IicNGwY8XSJVMb1MXE=;PanwNNRcRjq188FujXe2ow=="
+secured: "Mq80eP3+QiQMnmEP2VtUBlwSNWw589yUfwfQE3B4gRIPUq+F3/moTByl6LMERmlLGakYMqg1c/Ck7oPD3sCa25TpZpESdo/arhC7emqHdypQGs0HsBjM4TA6FAOznouRYMeBp34k+wsNgiufAwxGxyKAdcitLYeOFnf2vjmUlbdP8IyyWMR549XGawPpsKv6bmJL2pJVIW+UJ6mkFk02tKUuuz61ypXmAFr+/CZxWuK6ro5a5z2aGxUUifKoQPZ0u0AeY3CGr8jyfKRy81szP5fHmdGLwUxxC/Zakzo1zUbumy8x0i4p95KFzcL18eyaWb93LMpVp7uUTYuctBTnGzWzSujh5LgXwn3cOkag08+niwnPd77ON0k6oLxpPqY23kPoD4rrUcHqsr2s2RSQUCBlFWQ09FfkwX6FyRzyd2VbMoKmeK2w4WIkd9vtgumxlhy9CWpvaX9QNRnf147Tx+Z5p+zYxzu7jJtnVqNXcIrVHjYplnEJ5IFi51CAHHAG9q0xyd0Ua5fGrr4HFfrUMw==;NTZhN9zd1zBWAwLiU3Tn7Q=="
 ---
 

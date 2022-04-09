@@ -43,20 +43,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Intel inadvertently leaks the details of its flagship Arc GPU"
-    excerpt: "Arc Control is the name of the software that Intel is set to introduce to support Arc GPUs. The Arc Control software includes GPU monitoring capabilities, which was the source of"
-    publishedDateTime: 2022-04-04T06:37:00Z
-    webUrl: "https://www.pcgamer.com/au/intel-inadvertently-leaks-the-details-of-its-flagship-arc-gpu/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VoteNKabkNvagt7a9RJyMg-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel shares specs of top Arc GPU - 175W TDP, up to 2250 MHz clock speed"
     excerpt: "Intel has accidentally (or not?) shared parts of the specs of its upcoming highest-end Arc GPU for desktop. The specs appear at the 29-second mark of a promo video for Intel Arc Control - Intel's GPU monitoring app (similar to NVIDIA GeForce Experience),"
     publishedDateTime: 2022-04-04T15:05:00Z

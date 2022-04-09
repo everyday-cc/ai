@@ -53,20 +53,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Military Robots Market Size, Share, Growth, Global Trends, Key Players and Report 2021-2026"
-    excerpt: "According to IMARC Group’s latest report, titled “Military Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    publishedDateTime: 2022-04-04T05:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/military-robots-market-size-share-growth-global-trends-key-players-and-report-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/bitcoin-illustration-DJC-1600px-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence Market Size [2022-2029] Worth USD 1394.30 Billion | Exhibiting a CAGR of 20.1%"
     excerpt: "The worldwide Artificial Intelligence Market hit USD 328.34 billion in 2021. The market valuation is slated to increase from USD 387.45 billion in 2022 to USD 1,394.30 billion by 2029 , expanding a 20."
     publishedDateTime: 2022-04-06T22:29:00Z

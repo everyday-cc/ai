@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/57638486"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/57638486"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk hails his self-driving taxi in Texas"
+    excerpt: "Elon Musk trailed a dedicated self-driving taxi and promised that Tesla would start making its delayed Cybertruck next year as he opened the carmaker’s $1.1 billion factory in Texas. Wearing a black cowboy hat and sunglasses on stage at the site’s ..."
+    publishedDateTime: 2022-04-08T23:05:00Z
+    webUrl: "https://www.thetimes.co.uk/article/musk-hails-his-self-driving-taxi-in-texas-393pfn2mh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3644b8dc-b74f-11ec-8ba8-f6bf3099f5f6.jpg?crop=1513%2C851%2C792%2C269&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
     excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
     publishedDateTime: 2022-04-06T15:37:00Z

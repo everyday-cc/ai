@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-04-01-podcast-transcript-do-we-need-ai-regulation.md",
-      "title": "Podcast transcript: Do we need AI regulation?",
-      "excerpt": "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-01-metas-ai-exodus-top-talent-quits-as-the-lab-tries-to-keep-pace-with-rivals.md",
       "title": "Meta's A.I. exodus: Top talent quits as the lab tries to keep pace with rivals",
       "excerpt": "Facebook parent Meta has lost some top artificial intelligence scientists in recent weeks as the company continues with its pivot toward the metaverse.",
@@ -510,7 +458,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1150,6 +1099,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
+      "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
+      "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
+      "originalUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
+      "publishedDateTime": "2022-03-31T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

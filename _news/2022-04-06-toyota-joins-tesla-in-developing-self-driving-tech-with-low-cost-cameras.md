@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Elon Musk hails his self-driving taxi in Texas"
+    excerpt: "Elon Musk trailed a dedicated self-driving taxi and promised that Tesla would start making its delayed Cybertruck next year as he opened the carmaker’s $1.1 billion factory in Texas. Wearing a black cowboy hat and sunglasses on stage at the site’s ..."
+    publishedDateTime: 2022-04-08T23:05:00Z
+    webUrl: "https://www.thetimes.co.uk/article/musk-hails-his-self-driving-taxi-in-texas-393pfn2mh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3644b8dc-b74f-11ec-8ba8-f6bf3099f5f6.jpg?crop=1513%2C851%2C792%2C269&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Virginia-based Self-Driving Truck Developer Torc Robotics is Opening a Tech Center in Stuttgart as its Ramps Up its Collaboration with Daimler Trucks"
     excerpt: "Virginia-based self-driving truck developer Torc Robotics is opening a technology and software development center in Stuttgart, Germany named Torc Europe GmbH. The Stuttgart team will support the ongoing development of SAE Level 4 virtual driver for deployment in autonomous trucks in the United States."
     publishedDateTime: 2022-04-06T23:15:00Z

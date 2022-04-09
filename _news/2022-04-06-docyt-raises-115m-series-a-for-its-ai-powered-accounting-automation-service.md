@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/"
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 48
-  - title: "Finnish SaaS company received €1.2M in seed funding for its SME-focused and AI-powered shopping assistant"
-    excerpt: "Helsinki-based AI-powered shopping helper Upsy has raised 1.2 million euros in seed round led by Gorilla Capital. The round also saw participation from Korpun"
-    publishedDateTime: 2022-04-04T06:36:00Z
-    webUrl: "https://arcticstartup.com/upsy-received-e1-2m-in-seed/"
-    ampWebUrl: "https://arcticstartup.com/upsy-received-e1-2m-in-seed/"
-    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/upsy-received-e1-2m-in-seed/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 42
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2022/04/upsy-received-e1-2m-in-seed-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "SilverSky Acquires Cybraics To Offer AI-Powered Advanced Threat Detection and Threat Hunting Platform"
     excerpt: "SilverSky, a cybersecurity innovator offering powerful managed detection and response (MDR) services, today announced it completed the acquisition of Fort Lauderdale,"
     publishedDateTime: 2022-04-05T12:05:00Z

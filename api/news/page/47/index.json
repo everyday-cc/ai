@@ -2,49 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2022-02-24-nobleai-announces-rollout-of-aws-govcloud.md",
-      "title": "Noble.AI Announces Rollout of AWS GovCloud",
-      "excerpt": "Noble.AI announced the rollout of AWS GovCloud support for their Science-Based AI Platform. By choosing to enable GovCloud, Noble.AI",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "originalUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Noble.AI-Announces-Rollout-of-AWS-GovCloud_-Enabling-Customers-to-tackle-their-most-strategic-R_D-workloads-01-1.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "publishedDateTime": "2022-02-24T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-24-zf-to-develop-chassis-for-baidus-smart-ev-brand-jidu.md",
       "title": "ZF to develop chassis for Baidu's smart EV brand Jidu",
       "excerpt": "German supplier ZF Friedrichshafen will assist Jidu, a smart electric-vehicle brand of Chinese self-driving technology developer Baidu, to develop chassis and other components. Under an agreement ...",
@@ -1157,6 +1114,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care.md",
+      "title": "How InpharmD uses Amazon Kendra and Amazon Lex to drive evidence-based patient care",
+      "excerpt": "The intersection of DI and AI: Drug information refers to the discovery, use, and management of healthcare and medical information. Healthcare providers have many challenges associated with drug information discovery, such as intensive time involvement, lack of accessibility, and accuracy of reliable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-inpharmd-uses-amazon-kendra-and-amazon-lex-to-drive-evidence-based-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/15/ml-6682-graphic-2.png",
+          "width": 766,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T10:42:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

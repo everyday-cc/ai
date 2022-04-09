@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-h
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

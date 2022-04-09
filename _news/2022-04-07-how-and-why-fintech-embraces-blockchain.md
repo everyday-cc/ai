@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/22108/how-and-why-fintech-emb
 webUrl: "https://www.finextra.com/blogposting/22108/how-and-why-fintech-embraces-blockchain"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "PoorToRich Finance Decentralized Marketplace Combined Blockchain and Artificial Intelligence to Increase Passive Income"
+    excerpt: "Ever since cryptocurrency became a medium of transaction for the common man, the need for a secure decentralized platform arose? Though there are some,"
+    publishedDateTime: 2022-04-08T21:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/poortorich-finance-decentralized-marketplace-combined-blockchain-and-artificial-intelligence-to-increase-passive-income"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 45
+    images:
+      - url: "https://www.getnews.info/wp-content/uploads/2022/04/1649321662.png"
+        width: 996
+        height: 541
+        isCached: true
 
 secured: "Q5DnYWV/rfq0GwA8K74fPPX7mzn4f3JPaEF5In5gznbTuuQ+mF80P90AwVO29XGqcPwRjllB1lh/Dv9XvieEVUcEqHdN4lHt8skcs2gj+jI228gNKGspUn24Wo0AA+gw7pHzG+OLBhtc4I24CHutdsGIjA/DXfXb6lBAE1qGw3g+SIESkWByf6cDO+/sNsAlGgvqmpwuGrvxS9ieg/NHzKsrjZyXCOmUiAve8fuNEUsolDiEqMWsIucj2WuP3K62fzOLcXSHAB+zyhn13cQXBZvQn5kCVXpGj1nN3Xb91K1KNxQFQykdGS7E8EZWNX/rnaFR3eVHkChUEPWpRxaNnwp1G/BKS0ZcpENmALaqhhQ=;U0VIr3FJ+lcmPOYbWjeZBw=="
 ---

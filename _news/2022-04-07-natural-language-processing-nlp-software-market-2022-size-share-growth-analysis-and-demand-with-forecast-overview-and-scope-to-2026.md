@@ -51,15 +51,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI CCTV Market Size, Share, Growth, Trends | Industry Analysis 2030"
-    excerpt: "According to a new report published by Allied Market Research, titled, “ AI CCTV Market by Offering, Camera Type, Deployment, and End User: Global Opportunity Analysis and Industry Forecast, 2021–2030”, the global AI CCTV industry size was valued at ..."
-    publishedDateTime: 2022-04-04T06:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-cctv-market-size-share-growth-trends-industry-analysis-2030%EF%BF%BC"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
   - title: "Enterprise Manufacturing Intelligence Market Size, Share, Growth, Opportunity, Competitive Outlook and Industry Trends 2021-2026"
     excerpt: "According to IMARC Group’s latest report, titled “Enterprise Manufacturing Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity"
     publishedDateTime: 2022-04-04T08:07:00Z

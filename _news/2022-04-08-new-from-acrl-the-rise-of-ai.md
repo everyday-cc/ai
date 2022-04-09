@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-07T18:15:00Z
 originalUrl: "https://acrl.ala.org/acrlinsider/new-from-acrl-the-rise-of-ai/"
 webUrl: "https://acrl.ala.org/acrlinsider/new-from-acrl-the-rise-of-ai/"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - IBM AI
 
-secured: "NzjoVBSyAmBtil+A7wkOvFUvQiFNP1OI+fFL9ka90XEIme3mpn5sQEk4ZGQYEf+zgLB5nK6Rri4IEqBgnL+DPCHrvFR+PLToHLsVU6gw7EgdLW2/VnrSglS6l7SAp7/toDOtznvjJdl8rYXTmFoxm2kPNVf2rK/EZylvcl7FjqVv7ZshjSA7iIpwCOTgxHPaOPLBaT95gXlALwBoTx6+HLjZ2qxWRkefuGe61iTDTNDyuPnfTqpG9Wip9UrXmcwKMpCJu6yL7tXbe6mZTwG46fDnG+03VYwXslGTOvB+mLZqJG8TCt6tmu7SJdCY9bLLuRKGeLeIdUz6KUQOHrRbXcpHh/g55ZV5hKkDnXr4M6r66awhnVntpeZOIbXueORRcLzg3ZFdp8Am35C7/kRSnS/MhoeRBKuJ3MwzFAYye0xdE7mODY/vRAYDlz01/YkerVxAJb90K/dSDB0xb4zszQrjsVsG1/eiA5w53/ds1uiaxfiz4T8HwuWDesc2qDZ7DGnROkRSQzP+m1uxg/DL7Q==;CCyHqDQxaUGWRdsWjvMjSQ=="
+images:
+  - url: "https://acrl.ala.org/acrlinsider/wp-content/uploads/My-project-3-1-678x381.png"
+    width: 678
+    height: 381
+    isCached: true
+
+secured: "qhyv6zKahP0RCfy8s6DaPnB1EXELjElIADDwmaaMiNF9GmdNkS7KoiQMtjwspCy3EnpedNK9+XbLTWs+0Y19ZRSJPgxvn+inFnf8Ws1ROfU6g8GibEhS6LIwzYF4boRjlzntZLSLMFGhuTc2r+50hzNOnkwnedNtPHi0p9Ysf5OV9SdfEPm4udRzLBqRyJ1qDu/mCorBM7qemDhpy/PG+h56aZ6nVmCgtLXPCzpEey14yJZEuv50RH5Mtso3DVtd7t8U8Cspl69gjSsLGwjYCKfZ8dExB1pI4ColVeckt+v7YB5ppoDuxCkgOhg7cCeTsYtNNzDbZtSw9apLIzI+vVbwiXWT9hxrTkiZWoB4PQw=;erZBZPHbE0o1HzPv0Vq5yw=="
 ---
 
