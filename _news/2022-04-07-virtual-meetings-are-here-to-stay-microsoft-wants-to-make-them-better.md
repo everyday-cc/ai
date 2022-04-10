@@ -97,7 +97,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 70
+    quality: 72
   - title: "New Microsoft Azure off-planet space solutions are here"
     excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
     publishedDateTime: 2022-04-06T19:20:00Z
@@ -111,20 +111,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/04/azure.jpg"
         width: 800
         height: 445
-        isCached: true
-  - title: "Microsoft tests AI in space with HPE, partners with Thales Alenia and Ball Aerospace"
-    excerpt: "Microsoft this week announced a slew of announcements for its space division. The company successfully trialed an artificial intelligence application in space, and signed deals with Ball, Thales Alenia,"
-    publishedDateTime: 2022-04-05T11:21:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-tests-ai-in-space-with-hpe-partners-with-thales-alenia-and-ball-aerospace/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 47
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftHPEastronautSpaceborneNA.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft, HPE put AI to work checking astronaut gloves"
     excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"

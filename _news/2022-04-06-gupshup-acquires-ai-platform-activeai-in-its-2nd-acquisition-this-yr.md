@@ -43,38 +43,6 @@ related:
         width: 1196
         height: 1280
         isCached: true
-  - title: "Gupshup acquires conversational AI platform Active.Ai"
-    excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 5.."
-    publishedDateTime: 2022-04-05T11:30:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/gupshup-acquires-conversational-ai-platform-active-ai/90663719"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90663719,imgsize-10898,width-1200,height-628,overlay-etcio/gupshup-acquires-conversational-ai-platform-active-ai.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Conversational messaging platform Gupshup acquires Active.Ai in all-cash deal"
-    excerpt: "The acquisition is expected to help Gupshup – which offers conversational messaging services to businesses - strengthen its customer experience solutions for the banking, financial services and insurance (BFSI) clients."
-    publishedDateTime: 2022-04-05T11:12:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/articleshow/90664081.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/amp_articleshow/90664081.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/conversational-messaging-platform-gupshup-acquires-active-ai-in-all-cash-deal/amp_articleshow/90664081.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-125744,msid-90664177/beerud-sheth.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Real Chemistry acquires AI firm ConversationHealth"
     excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
     publishedDateTime: 2022-04-05T14:00:00Z

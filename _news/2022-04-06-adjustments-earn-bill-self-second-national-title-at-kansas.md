@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.sacbee.com/sports/article260119475.html"
 cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/sports/article260119475.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Adjustments earn Bill Self second national title at Kansas"
-    excerpt: "Self had his elusive second national title. Grounded by North Carolina in an ugly first half, Kansas tightened up on defense to rev up its transition ga"
-    publishedDateTime: 2022-04-05T11:54:00Z
-    webUrl: "https://www.seattlepi.com/sports/article/Adjustment-earn-Self-second-national-title-at-17057731.php"
-    ampWebUrl: "https://www.seattlepi.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/sports/amp/Adjustment-earn-Self-second-national-title-at-17057731.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 44
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/04/37/22300669/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "JyhJ9YKhWLTN6DkLQA8A6wFUHYblYLWbTXYL/a+vj65phGjcarjutlFKcXa1vBYxvuNywGwinaZigszYjAzxZMgR2P7g7jNcz0WWJ+iU+5v5hokeEy5f/CHRI7zTJ1Bo1HD9ZUXOs5sha0mIUhtnrvYi/bDfn4BaSWuuhedDQSLvsAJk+aKnI14s7qqF1n0ZUgph69KNLF5s02iqT8Rho9Zr2TSTLerDMZCVcIlSGg/diQ7uO1uL41j5lbu1zeEd89xlyspTe0YPP/CTMyXqmfg2MNdnwInpVe86y1t6scxsz2yqSZZwt0Bx5fMXQd+gmwaHCsX2GfMClOxrUtquMwh3zmelunSRaB7vCiga7ZJ2Hfh7liNCxH5fumgfPrRIztz2TjID9/fgc8bjJGi2bEA36XzR6ouyE0xpJfe6ce1NLrIrvd1+kmPUZL8d1G52S7C0DMIEPbctI7BNDEcab6767w6kgbMKceIMc+EsbR4AzxHbo44NNw4tmTBBvB5NilGhsqSHAX1hcGd7ssZhXA==;jddaeKHpLqtGB/Dxq+yuWA=="
 ---

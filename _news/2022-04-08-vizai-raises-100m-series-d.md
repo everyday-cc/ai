@@ -50,22 +50,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 48
-  - title: "SilverSky Acquires Cybraics To Offer AI-Powered Advanced Threat Detection and Threat Hunting Platform"
-    excerpt: "SilverSky, a cybersecurity innovator offering powerful managed detection and response (MDR) services, today announced it completed the acquisition of Fort Lauderdale,"
-    publishedDateTime: 2022-04-05T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26470950/silversky-acquires-cybraics-to-offer-ai-powered-advanced-threat-detection-and-threat-hunting-platf"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26470950"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26470950"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "AI music startup Endel raises $15m in latest funding round"
     excerpt: "Fresh from its latest artist collaboration with James Blake, AI music startup Endel has raised a new round of funding. It’s a $15m Series B round led by VC firms Waverley Capita"
     publishedDateTime: 2022-04-06T09:41:00Z

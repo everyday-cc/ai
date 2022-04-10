@@ -8,7 +8,7 @@ webUrl: "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-fou
 ampWebUrl: "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 related:
   - title: "Microsoft taps AI to make you look your best in video meetings"
@@ -100,20 +101,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/04/azure.jpg"
         width: 800
         height: 445
-        isCached: true
-  - title: "Microsoft tests AI in space with HPE, partners with Thales Alenia and Ball Aerospace"
-    excerpt: "Microsoft this week announced a slew of announcements for its space division. The company successfully trialed an artificial intelligence application in space, and signed deals with Ball, Thales Alenia,"
-    publishedDateTime: 2022-04-05T11:21:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-tests-ai-in-space-with-hpe-partners-with-thales-alenia-and-ball-aerospace/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 47
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftHPEastronautSpaceborneNA.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"

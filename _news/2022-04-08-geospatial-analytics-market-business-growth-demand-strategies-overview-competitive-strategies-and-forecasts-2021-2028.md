@@ -57,20 +57,6 @@ related:
         width: 648
         height: 348
         isCached: true
-  - title: "Lifestream AI-Enabled Video Analytics Helps Restaurants and Food and Beverage Operations Optimize Operations"
-    excerpt: "LOS ANGELES, April 05, 2022 (GLOBE NEWSWIRE) -- Lifestream is announcing its entry into the USA restaurant and hospitality industries, providing its proprietory advanced, and presently unavailable, Video AI software and services to analyze on-site and off ..."
-    publishedDateTime: 2022-04-05T11:10:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8516017/lifestream-ai-enabled-video-analytics-helps-restaurants-and-food-and-beverage-operations-optimize-operations"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 18
-    images:
-      - url: "https://cdn.newswire.com/files/x/e8/f9/6bdcad4d7bdb50770e3ee398f95b.jpg"
-        width: 512
-        height: 370
-        isCached: true
   - title: "SpIntellx is ushering a new era of unbiased spatial analytics and explainable AI in precision pathology at AACR 2022"
     excerpt: "SpIntellx announces that it will attend the 2022 Annual Meeting of American Association for Cancer Research in New Orleans, April 9-13, Booth # 3028 and Poster # 454 to present"
     publishedDateTime: 2022-04-05T16:00:00Z

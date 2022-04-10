@@ -41,15 +41,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Explanatory AI system enables more accurate diagnosis of fetal congenital heart disease"
-    excerpt: "Researchers from the RIKEN Center for Advanced Intelligence Project and colleagues have tested AI-enhanced diagnosis of fetal congenital heart disease in a clinical setting."
-    publishedDateTime: 2022-04-05T12:23:00Z
-    webUrl: "https://www.news-medical.net/news/20220405/Explanatory-AI-system-enables-more-accurate-diagnosis-of-fetal-congenital-heart-disease.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 9
 
 secured: "QEl7ahpAItrBkpOGJcQLfERzWTAJqM6QAbea8ekXKj13iyyvP7JHTJCjlXyZ+zVnw+My9m2uq+wOeixAaJFg6ZKbhzlkObiAJ9tLDG7QWykz0pb3QhRl68xPHNOrFHqE6Wc5QdMEN5RNdzP3uTRT/lUqGlRcgTwoZvRFwRT+MOi26XsGXF+vQxNn+JGyBPoUmNBJBVDiE7hgIAj4qJU31Funpz8pMsgkCc9MDeSLonDrWxui+bny/p2J9pU7tYwyRKLqrFcP6xL9VImggazFMujob0WNEU9gq9BahKJr4b4Nl2lwDrAzCUaiC3mCKYzS0O78xfaud4FKM8VWypEdyMwcv+DcK73rN7mDS64+ROrYH524qM4dcIfJShJodusJ4hWE2m+RxS2eI3TcPqWZzEYR5T3iAOoRljQB3T+m6DLqa7rR0uFYQ52LP9Mk8o1nJMf/6t6Sb31fMHd3VLZ8IolgAsPsTyf7Xb1BIgKu/uYtlZV4hsebjeLxs7ZCLHLRbRgku6k+2dCaJ16rhS0fRA==;wE4Xk815QUKhB5Ys0YYc0w=="
 ---

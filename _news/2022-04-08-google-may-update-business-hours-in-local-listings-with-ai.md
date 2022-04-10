@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Lemonade's AI-Fueled Business Is Getting Squeezed"
-    excerpt: "However, six months later, Lemonade ran into the after-effects of the pandemic, which put its business model under stress. Despite quarterly reports showing high customer and premium growth, investors have recently become more concerned about the company's lack of profitability."
-    publishedDateTime: 2022-04-05T11:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-lemonades-ai-fueled-business-is-getting-squeezed"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
   - title: "Are AI hiring tools adding risks to your business?"
     excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
     publishedDateTime: 2022-04-07T13:27:00Z

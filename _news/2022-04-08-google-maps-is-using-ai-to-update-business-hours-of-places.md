@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1470
         isCached: true
-  - title: "Why Lemonade's AI-Fueled Business Is Getting Squeezed"
-    excerpt: "However, six months later, Lemonade ran into the after-effects of the pandemic, which put its business model under stress. Despite quarterly reports showing high customer and premium growth, investors have recently become more concerned about the company's lack of profitability."
-    publishedDateTime: 2022-04-05T11:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-lemonades-ai-fueled-business-is-getting-squeezed"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
   - title: "Google may update business hours in local listings with AI"
     excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
     publishedDateTime: 2022-04-07T17:33:00Z

@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Tredence strengthens its foothold in India by opening AI delivery, R&D centres; to hire 500 employees"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, data science solutions provider, today announced the opening of delivery centres in Bengaluru, Gurugram and Chennai, which will be operational by May 2022 with 1400 seaters."
-    publishedDateTime: 2022-04-05T11:30:00Z
-    webUrl: "https://www.freepressjournal.in/business/tredence-strengthens-its-foothold-in-india-by-opening-ai-delivery-rd-centres-to-hire-500-employees"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tredence-strengthens-its-foothold-in-india-by-opening-ai-delivery-rd-centres-to-hire-500-employees"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tredence-strengthens-its-foothold-in-india-by-opening-ai-delivery-rd-centres-to-hire-500-employees"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 42
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2022-04/ead76392-0006-4a99-8c49-fc378a3375d6/Tredence_Office.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google paper cites AI research at centre of its staff firestorm"
-    excerpt: "NEW YORK (BLOOMBERG) - Google in 2020 and 2021 dismissed the two co-heads of its artificial intelligence ethics team in a dispute over research that was critical of the company's work. Now, Google Research has published another paper on the same topic that ..."
-    publishedDateTime: 2022-04-06T08:17:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/google-paper-cites-ai-research-at-centre-of-its-staff-firestorm"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/06/AK_ggl_060422.jpg?VersionId=70IrGCEfROAtaGQ_00e4X15DPafpf6Xb"
-        width: 860
-        height: 573
-        isCached: true
   - title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
     excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
     publishedDateTime: 2022-04-06T03:52:00Z
@@ -61,6 +31,20 @@ related:
       - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
         width: 990
         height: 550
+        isCached: true
+  - title: "Aidoc Delivers the Most Comprehensive Neuroscience Package for AI-driven Coordination with New FDA 510(k) Clearance for Brain Aneurysm"
+    excerpt: "Aidoc, the leading provider of healthcare AI solutions, announced today that it received its 9th FDA 510(k) clearance for triage and notification of brain aneurysm. This announcement further strengthens Aidoc's position as the leading provider of the most comprehensive,"
+    publishedDateTime: 2022-04-06T20:00:00Z
+    webUrl: "https://www.mystateline.com/business/press-releases/cision/20220406LN14767/aidoc-delivers-the-most-comprehensive-neuroscience-package-for-ai-driven-coordination-with-new-fda-510k-clearance-for-brain-aneurysm/"
+    type: article
+    provider:
+      name: WTVO
+      domain: mystateline.com
+    quality: 5
+    images:
+      - url: "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/snapshot-4-1.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "DDsfq79qmIBPgf2EQqGB8nJyX7HF+WjgKxorb0Sd5yMRW3iqM+FaHne0LHHuCLGYTwK+eEW3xDWA1f1F2U9o/2lVS5uWP73hm9t7QRoJW25Z7Ot1iRGcl3KYnRUUX4pXjLipynv0POLEqrWBnMv9T25aJXdi3uhkpV20UUthGZrNd0z+OEaj1EYVbCyzCAZlGIP50CTAITT5Rby6q4acabuvqiok6CENqkHBE881Nre4rJGI/hG/+E0KhAv2d4e2W8jSI8EzHzEGcFZMN46eA6rxo6vg2E3KXTDQtKwgkTe+x+YRjPrt4KhL0ofXdYSJysRk/z7MSpGGfs7zYzw8Xlj4AuQZ2swKDvSnjYHuSKc=;0h5fWJarb60xULhYtT4F9w=="

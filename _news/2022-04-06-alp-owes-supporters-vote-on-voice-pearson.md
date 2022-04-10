@@ -43,15 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Election 2022: ‘From my heart, hear our voice’, says Pat Anderson"
-    excerpt: "Pat Anderson, the Aboriginal elder who shepherded the nations Indigenous leadership to a historic consensus on a voice to parliament, is preparing for what many see as the most important federal election for her people in decades."
-    publishedDateTime: 2022-04-05T11:17:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/election-2022-from-my-heart-hear-our-voice-says-pat-anderson/news-story/0acee88594f1506cf5bb9854ef6994f0"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "aR7eUUkVWZGKR0CZlJDxdpnC6spqHL/tGT3JVZRR7jxXBzweU/kWddIgqvkh17be7jGBp3pHakLKZ/nus4XryoY6+4erektqfJG4hKGCtlKf+Ngi3aHmOhm87XMD1PXZrVeQFZzfj5FAN4tK4fch/jeY423XUbc6X5uAMvOII8KTSLinbRA6fFIihXY0LkpRwyknU0GSdKeh7mOAL6HvV7MCWqn+KgDZgexVywyOrCA5EVu3uKwZgJODmLX7ItTDoKJ8lDcf+bVFrA6oJkhmuBYohu9U5j6Ik6dYQ+QNl1AxjBLUiOXHe2vkWjvjxclGDpMEgNCXrX/Ii1prSRtt4Vf//uiADp9oehi6O6Qtpy/20ye5yx0J1uGL1wy40x7lPEOmKkIQJ+Fb9ruVNr4G5C7Lv/yLVzBfE1jw8oE/OtVZWBqFScxx7Q8kOCly40Qg3UoruChglI7oYerCvXcU4axzBKbhEt6HKFeSttPYg9pFh7KlnbczgGnTlPKmMK+NDw8toqqb1bkPTONjcCJUiA==;83xCAgU+VHsPYzDUWeUCrw=="
 ---

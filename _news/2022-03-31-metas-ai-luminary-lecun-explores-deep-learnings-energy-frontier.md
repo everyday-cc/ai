@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp"

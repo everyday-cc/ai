@@ -39,22 +39,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "SilverSky Acquires Cybraics To Offer AI-Powered Advanced Threat Detection and Threat Hunting Platform"
-    excerpt: "SilverSky, a cybersecurity innovator offering powerful managed detection and response (MDR) services, today announced it completed the acquisition of Fort Lauderdale,"
-    publishedDateTime: 2022-04-05T12:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26470950/silversky-acquires-cybraics-to-offer-ai-powered-advanced-threat-detection-and-threat-hunting-platf"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26470950"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26470950"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Viz.ai raises $100M Series D"
     excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
     publishedDateTime: 2022-04-07T19:28:00Z

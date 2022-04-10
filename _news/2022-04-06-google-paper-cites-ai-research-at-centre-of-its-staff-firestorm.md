@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tredence strengthens its foothold in India by opening AI delivery, R&D centres; to hire 500 employees"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, data science solutions provider, today announced the opening of delivery centres in Bengaluru, Gurugram and Chennai, which will be operational by May 2022 with 1400 seaters."
-    publishedDateTime: 2022-04-05T11:30:00Z
-    webUrl: "https://www.freepressjournal.in/business/tredence-strengthens-its-foothold-in-india-by-opening-ai-delivery-rd-centres-to-hire-500-employees"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tredence-strengthens-its-foothold-in-india-by-opening-ai-delivery-rd-centres-to-hire-500-employees"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tredence-strengthens-its-foothold-in-india-by-opening-ai-delivery-rd-centres-to-hire-500-employees"
+  - title: "Who is funding AI research?"
+    excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
+    publishedDateTime: 2022-04-08T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 42
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2022-04/ead76392-0006-4a99-8c49-fc378a3375d6/Tredence_Office.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
+        width: 896
+        height: 504
         isCached: true
-  - title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
-    publishedDateTime: 2022-04-06T03:52:00Z
-    webUrl: "https://www.peoplematters.in/news/technology/tredence-strengthens-india-presence-with-new-ai-delivery-and-rd-centres-33474"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
-        width: 990
-        height: 550
-        isCached: true
-  - title: "Tredence strengthens its foothold in India by opening AI Delivery and R&D centers"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, a leading data science solutions provider, today announced the opening of delivery centers in Bengaluru, Gurugram and Chennai,"
-    publishedDateTime: 2022-04-06T05:22:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220406/3928042.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
 
 secured: "Y/jbkt1J2IEK4cQ9ABQwaUce0JLYHU0csGESUDvkUHVqx0aCTyorCFhTDBVgQxmYvBcIkeEJHlcTUJu31dPHm6JIi9q3y34DP4vchHUdj0A0T3sMchgB+ylNb18/dx8y+3pq6I3KSZKN+KNughZmCMe70iSWRTsHz3/3R6x7RzhQMDVEFZpDAdUT0cmF4s/sAtvcubTuae8FGg4RnE/341cPPMJrMaMwj6a6C9vfmP1K0JdQgltEc4Warj8aqgUMGmvlMjLiMQ7pEP+n8mM7v1MWpN5UFcjQgUvfAvmTwWkm0G4H0YVwjz0Jru6uGstU6Mtz81acBF5gnrTVVRQoZEfbD7Pxlwc7S4kkqVS9Cl8=;ldzP0E1Le8ePMwzAGlV3cg=="
 ---
