@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189429-conversational-messa
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/6_wed/img_1649229679921_740.jpg?"
         width: 1080
         height: 761
-        isCached: true
-  - title: "Real Chemistry acquires AI firm ConversationHealth"
-    excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
-    publishedDateTime: 2022-04-05T14:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/real-chemistry-acquires-ai-firm-conversationhealth/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 37
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/John_Reeves_web.jpg"
-        width: 1024
-        height: 500
         isCached: true
 
 secured: "E6KuvawV4OX5G86rxRq4THlukqKe2jD87QNUGchp56x/3bwvwp0mTNEmu2fsyk8Scwm0mOiVYshaC1oDzcvAAuhIAsQJbads7pVLfI/ahOWkygIulxxmEkr+p9589JM7UgVDhdFoAlzqBfxaPXGzsj/0DjN+A1bBi9jar7AmTFKBR7HdBT78/uvlF1IK9X6yRKD0c05iOIPz3R3aeBbdBMyyqZrmP2M2y2mAkCLgIX4SsVs9t2siV2B2F+/JjcBLdJowWvqMiiRr1IjA7J8xXtKSnVOPvcj48rUCRa515QB/KXM6F+STt0AtCRzk9uB2eA1n8iszFp+Yq/MK4tvwbBvqABlSoSa85bTr/OJ6UGYvvtSDuUatJjU7f3H0EDATYl9AeT9Q8jTarwElWq4JL0Z1XVgqUlYM4uw0pe7XZyFPJyXWBNfAIWRcOSk4CbfM8skNq2Zr+tahXcSo1V7Q24xX/pRK4PwZr/Ixb6xKsIRbHhS85xCzSezIibmrzEjfqmAKrYv3xemlOVnTXtrU4Q==;PLXG3dPF1bKOciw01XCuFg=="

@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
-    excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
-    publishedDateTime: 2022-04-05T13:48:00Z
-    webUrl: "https://www.pcgamesn.com/intel/gpu-nvidia-gtx-1650-comparison"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 34
 
 secured: "2HmbOa+5eWifHiwoZLNJkTLWet9ZBBMkR1Ng92u51WF51+pVDEL1zLIWGGkWtZDLBL3OVTRT/Q3EgX1kk+43S0YTb+twrGuuXc1lrkB4d21pc4LygyHf6QbGcrc0L5LYhAUOeyn4xDo+ZzCr4yQwHQ/Pb8+ccSlcdOGYEf/q3lYmyzn8tFR1KAtc1AYfvWD5RXT+dhKEKNzsCAYGy/ojkAklqwDSXEVlK/tgqdeg6FBU/2BylnCb5uchH1KItZJNSQHkOHNgllIaqOhpQgGxL77AzK2iL/2Dsqw0yTWoBT9DvT5htqEmvzq0lq7NTJWTgqfzVBDvZXA7fcbhaRDnoZQwkYagq5ZYyoPKX2nNHhI=;KaSsgfzn6tetdQM8N1UPIQ=="
 ---

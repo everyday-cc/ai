@@ -67,7 +67,7 @@ related:
   - title: "PathAI Announces Upcoming Presentations at the 2022 American Association for Cancer Research (AACR) Annual Meeting"
     excerpt: "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, today announced that their recent research will be presented at the 2022 AACR annual meeting, which will be held in New Orleans from April 8 to April 13,"
     publishedDateTime: 2022-04-08T17:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
     type: article
     provider:
       name: Associated Press

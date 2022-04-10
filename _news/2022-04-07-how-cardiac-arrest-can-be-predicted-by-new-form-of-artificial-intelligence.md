@@ -56,22 +56,6 @@ related:
         width: 1024
         height: 762
         isCached: true
-  - title: "Our Human Future in an Age of Artificial Intelligence"
-    excerpt: "For the MIT Schwarzman College of Computing Dean Dan Huttenlocher, bringing disciplines together is the best way to address challenges and opportunities posed by rapid advancements in computing. What"
-    publishedDateTime: 2022-04-05T13:34:00Z
-    webUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/"
-    ampWebUrl: "https://scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/our-human-future-in-an-age-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 61
-    images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Technologies-Concept-Illustration-777x583.jpg"
-        width: 777
-        height: 583
-        isCached: true
 
 secured: "OUtcDvaJp8S1mpBXHbc+IWPF4uEKvORL2OJJHCSnHFVnH1G8wxCyAI/8tQTnJzheUP/U21jOL9rVyRlW0oyqqYtvkwxmsA5as+jt8gpTGSt5nxIVxqUEKrVjFfEfr8qb6mXWpH/5tQyJFu9v4oIdW9ZUtcFeP9owFpBOytvrH46+rGyCr1tQaW8lNkmcS1nejy5fnto091JDRG5L52qa5ajs2hPg3QNd/5SdoDzCVONSiPdt2YABr2lyrrJj+U6MWTCOVVjEkQZ7uepNbM1ywtDHJaD+NRx1LgZ0TQY3+dZ7JKht4L0mtIyJAuW9/bAlC9Wew0j0kwuPtbJAjIUbziXVH6GcD1Pcu1lvp8TdaV3PKQp9rwW34U5IdmGLuWSBJ0TGkKiEMXV+k1Os5yBS93XuGHH/vL+unAcgXKOP21TGb5JbKeY+7iJ5hWjVOAC9U0Ozu7k+BB2SH2Aba6+hxfhwbya4LRbJdvdp+y5GpJzZqrN/2KMUPWZl6QDfZPPc7qaEKhgQRRnOti0gK74Qqw==;FlmHVfbfPpJEjNk6uRnvJw=="
 ---

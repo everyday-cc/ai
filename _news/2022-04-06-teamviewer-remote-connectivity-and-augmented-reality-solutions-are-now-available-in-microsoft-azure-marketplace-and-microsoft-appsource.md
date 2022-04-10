@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TripleBlind Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Enterprises can now leverage TripleBlind to derive more value from the intellectual property of data and algorithms. KANSAS CITY, Mo., April 07, 2022 (GLOBE NEWSWIRE) -- TripleBlind, one of the only solutions that enables enterprises to combine data and algorithms while preserving privacy and ensuring compliance,"
-    publishedDateTime: 2022-04-07T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-data-privacy-0e01117d152d1037cfddb1b0d87329dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "TeamViewer Remote Connectivity and Augmented Reality Solutions Are On Available Microsoft Azure Marketplace and Microsoft AppSource"
     excerpt: "TeamViewer announced Microsoft customers can now purchase TeamViewer's enterprise remote connectivity suite, TeamViewer Tensor, and"
     publishedDateTime: 2022-04-06T10:21:00Z

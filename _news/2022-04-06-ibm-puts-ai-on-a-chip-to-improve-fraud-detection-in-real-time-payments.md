@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "IBM introduces real-time AI for transaction processing"
-    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
-    publishedDateTime: 2022-04-05T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "cwTCY3b9ajuhIGAIo2e4SxGBjlhHocbsJRdk4wfqaNvT1Nee02VR/EHSPlZQPLM2CAD/OznfbDWJlmHKbWW0wfws1BKMHvgCQO/5yEIJXwcjCFGuE+SZAwMw1xXq51uiz0+aikc6om/Duo7jzLlGfKBN+My6V+9WqKKypOACyWqa5UnezOSMXdabHiIBJT/uH9RM4s1jALnvzNcA/IBaeaI21ST3wgrTRNc8ortKTVUg2gDd/z3zqllKysjFu4gy5Cg9GR/RUIvzdky2lnqiqbnJMNbYOIyzbQnh2JysSaAsf7+q4I2gAstPQLSQ4K0h+pvWPHcy4JryRZF4PX9ItuepQcUClBOzHdyk1Z5wSHh9bJ/xi+OH5TmGcjwGjG2BNEI1YCgA1S2n7xAehhxtyB+GmnhiEmkLEGNquIBmgWKbWDGNiVFArGqpqWSgHRXGct82ZiAHkYDFYudmv0Rciqg/l5MSjWxO1seEnTUjGZesCgZwR8MvLSvditavCwk1LTgRKphloFIZtc++TBRRZg==;nUDJhJgMRghGvM3NE16EZg=="
 ---

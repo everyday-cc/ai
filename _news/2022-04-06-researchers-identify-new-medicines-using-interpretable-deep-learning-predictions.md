@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Researchers at the GIST identify new medicines using interpretable deep learning predictions"
-    excerpt: "In the drug discovery process, drugs are tested for their ability to bind or interact with target molecules in the body. While deep learning models have made this process quite efficient, their predictions often lack interpretability."
-    publishedDateTime: 2022-04-05T13:05:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948739"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 8
 
 secured: "4vgvda8EPXh2+hNNqCIxWI6gKHOCK7Y58mP7Fwv57R8Ku5rdGkoAmF7fPVtj07mOyLBFZE+QnkrRXtDW8u+UMMVWgRD7c42r+fZu0W1U397fEvdT0LKkMwoJRoEVNtVAKFDHrkH5Nu4e9gakBOO/kjG4WDIGtSDAZNDyaZ0OtsZ+4og1OFeiXDrZIjqIyfSMLahNZy5vaxddxegKYBJluCMs1RbW1mKWMk7KWoK4kLwriGsXl6YKlttzSi88LtMbZ6rOGxrMG5TUH6WVngKZhe/JF43bJcQwpnr16HkaRMklQRL2fGMFi9OXVH4Ob3QvRTm6pyxePjpjQaZp/q+2XDBBL+B1nKwWaE2ON1Vd/OPqUFWkN1aNC3RUG5fIIMkVvkWF6UqWzJtJmXsg+1uehi2oG2tRdfFG2JcDLwONw7F6lpNuROE8+eWh4Boip35H8zT3nPC6t7jStIFZZAf4fRGoofmO/NdYigylHaU8RAUWwBofwWMMFs1o869lXiUlmFx528+1oz0s3xGkylsppg==;7sGdYvFGnggxCUH3cruNjg=="
 ---

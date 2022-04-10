@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/inside-intels-strategy-to-compete-w
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 776
         isCached: true
-  - title: "First discrete Intel GPU falls flat against Nvidia GTX 1650"
-    excerpt: "It’s also early days for the blue team’s newcomer, as game-changing features like Intel XeSS AI upscaling won’t arrive until the summer. Blue GPU: Here’s everything we know about Intel Arc Alchemist. Phil longs for the bleeps and bloops of old ..."
-    publishedDateTime: 2022-04-05T13:48:00Z
-    webUrl: "https://www.pcgamesn.com/intel/gpu-nvidia-gtx-1650-comparison"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 34
 
 secured: "+Mqu/wQxm1+DDy+t1wnJ4ROpVLvp8vZbTtOuXAorwXsi2MH5CAxmdpHmOC/W7p7uCXiClGlxBHu1QuXHrawfoH4a60f4VqNAnjjPQb7qg/1OdpGY/Re83DrX0yfe3LcREjgpip/UOzrTaVjnkvUrC+FZ0ltdFtvaSVcFs0a4g3yzCQAOL8kyVYXjfeL2tz6vzpdvHy2lVOwwiooA7ge7k5DzJ+HYzBIPqUNWDKwFiHYYRikNnyS+wzzLEu+tdLs17/iFR+kBvBl94ggPwAF5jvWJL1u9MNWkzg+qnC4aNcrYHf/boUNPYQFSnjARUSaEeu2/zQQCsP5LSXRH3KwxIod2HvqxhtiRbweK/127+LM=;tHzCVAvHdSqPuxeg/SZezQ=="
 ---

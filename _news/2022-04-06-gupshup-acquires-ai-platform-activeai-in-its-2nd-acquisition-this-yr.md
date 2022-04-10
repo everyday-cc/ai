@@ -43,20 +43,6 @@ related:
         width: 1196
         height: 1280
         isCached: true
-  - title: "Real Chemistry acquires AI firm ConversationHealth"
-    excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
-    publishedDateTime: 2022-04-05T14:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/real-chemistry-acquires-ai-firm-conversationhealth/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 37
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/John_Reeves_web.jpg"
-        width: 1024
-        height: 500
-        isCached: true
 
 secured: "gKutrcpGjx3q4wqeIYtBnGzxk0xJBkenXENJEClWGtukuPJ3633FJjXXyntBifrqowH82Su/0FnX+jhkQF3E+9aJhypJYuDSfsecz6LrTCwOWRr4ed4dOY99NNM+6vRddiybHwrsQk3Ycu89x4Q7I6MpEvViWrYUNbII8UHht+JxcTaCJ4jcMLj0Em/BsWVqwhFdpyZ/FPhkivb27ERDqUO2yrQq3sRNG3jl5qEbw+2fDg1bznceQ7LiF0TLOL7LmzqrPIh7ETe1hggLs7iG4AZnhBVM6bJkQ9ELNBzT57lCbrCD3j1fblsfWqKtToki91dLFKDRMQ6UUgkAXyKdHjpxM3qckn/wiRg4MINHP10=;WvkfNsCItLChiiNkvtwfCw=="
 ---

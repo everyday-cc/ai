@@ -39,20 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Robotics Company SMOROBOT Launches Revolutionary Smart Robotic Pool Cleaner with Intelligent Path Planning Technology"
-    excerpt: "In the middle of summer, when the scorching heat is at its peak, swimming has always been a constant for relaxation, exercise, and a soothing for the mind"
-    publishedDateTime: 2022-04-05T14:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/robotics-company-smorobot-launches-revolutionary-smart-robotic-pool-cleaner-with-intelligent-path-planning-technology"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://www.getnews.info/uploads/31dc90868418dd8ddb64a6ebfd53380c.png"
-        width: 480
-        height: 480
-        isCached: true
 
 secured: "pnHNnhE3CmJva9Hpx4UR8d5jZpt84m1xbhGe3RxqPvs/9286xLq+QqsEl0uzbpE4e16scWMmj5jiouI9NfLgUKiaETEyJX3PeO/0rCUa12ripu2sVE0/X9ykQ/RpjDLpRpgIGxWnpVtloNcvVY2DYlSE9rnl8fajPO4JhfsoAx/zi6Nu9OshQh4QCG0ZE5QeJXjKHu63O9HoATqEOyRFKZj2oxDQNDrTg4E1rjjjbugrNH9czCpxzjxneYt7TOUPAyUGDp2AnUOnK4SWG9o9BlQdOADjfCHSAQYQ+XCOc58PFXAWQZLbjMrIiZ0B6gKFK0ARlbQE1KEFWU5jM0VIaIRJ2Rxg4YTO3OHn6h2fR26riHU1eq/ZRPtXSmHxbEPKdjh67RdnROhOGOw3sOl78+YfUrviODQcyh3aQaCj6Frdw18slKXZeKBiTg1fuWUVLRTvTh4tL6HZOjPUllKVoYZ0rbfugwLKSCIWyUVySzwHPJkBvOYPOsJnMBAjtwASXc9dLfSyBzWI5jvXfMKFnA==;5Wp6QUeDotCDNiPsgTuvEA=="
 ---

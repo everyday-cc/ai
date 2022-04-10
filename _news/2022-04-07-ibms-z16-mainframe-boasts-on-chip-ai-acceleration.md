@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "IBM introduces real-time AI for transaction processing"
-    excerpt: "IBM is harnessing the power of real-time AI to help banks analyse for fraud during transactions on a \"massive scale\"."
-    publishedDateTime: 2022-04-05T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40012/ibm-introduces-real-time-ai-for-transaction-processing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "xZBQk1+Y0UKPreR7wcB16RG5diUGJ9cdr+pyr1ekzz9cxdphpfopUMA54886o2tokkJY85lNWZW1oRdCKoAtUWkdvKnY2Dp8oJssSp8taJ3v5hP2B1aTpXMJF05hHOX7i4TVrODBtIojKeRYIGjEd4s1O7fDwWdj5UAUSlJ0+co1VFPyeZLsfpt5yfbi9XW4HPgDiS6/LcPNT1CbcLhUUSVJ6AjHxe4APVPnWr75eY5jRwyOkDQ03iclcCXqfVbJ2I1gdRcOlxxemHlqRmo3poK5ERQpTew4HyfOlmOUjalkEjG9zs3WFQP2AFmVCCnWi/Cniigug/BBDimwGU7nwdiB7kMT0Kv2RiFHgZzwbEayQJbWDrwkgRz8MP9eUjniEZgB+WgNDwkB+jIykJbadvrI+vdnexQkuq6WOYWfX2fyJe36zt1DWZ69ODabvORzmU/iIz9QUMGYmIbOiFoTVbvalNGUwlOjGMsvHg7/xLgeRuYctqKD3pCfqA9m+PQ2DuFh/ziBRMXb+zxU0ewYkg==;ohlCDFaSkKNtR6Y8HKnHLg=="
 ---

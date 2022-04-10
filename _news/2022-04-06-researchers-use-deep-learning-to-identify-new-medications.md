@@ -50,15 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "Researchers at the GIST identify new medicines using interpretable deep learning predictions"
-    excerpt: "In the drug discovery process, drugs are tested for their ability to bind or interact with target molecules in the body. While deep learning models have made this process quite efficient, their predictions often lack interpretability."
-    publishedDateTime: 2022-04-05T13:05:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948739"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 8
 
 secured: "Y/lrvkv3SFzBXHYeGNMnqKJViqYDRAChCVQxFnVQ92dZLQJ3jiEXiwPE+qdi3OsBOMVhvbLwhl7tN7b3GwOcvJcMuFiVUQn9YdCdh2Gb0mGIZQGPEhG1IuAn6yZzW/bZlpC4VpgOcj61geyn2VptMvUqjVf4JRbOnKVEX8wym95WcUXnJxS+pVpfevJkII3EHrodWqqG4Ss0qjeN2fANFWqvU2LnlQx7LjWAOwcYTaw/P1WxZkRYHpEFZYLWSS3CMyZ+k1QfvuzuWeDYrATWd175vR/2t4JFtFW7NJJ7nk3qv2p8vibs31tqat8UvC2G9dZFTfkgDXuHd6zL2MwkPOakVOEAfc6R9amkyqTaipQ+cEiNg3SDRBfNbd9epcF+tqqRWuULje34G0upWsDFXkuM1GJkGrERZ4ZD0cHnbZwh8Uj22L/lSuoP+amhevG8BPvu70QHEpJ/SHzgIEcW0yXnaxn4dfCjakQHUfQMToCDnNfybL3j3f7qk8HhxqsDIBqYaVJp87h+MwxY5d8RMA==;4keWvKbabQnV0Ujx0K65hg=="
 ---
