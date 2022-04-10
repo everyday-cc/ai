@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-wi
 webUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-bigbear-ai-stock-today-1031337260"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "BigBear.ai (NYSE:BBAI) Lowered to “Sell” at Zacks Investment Research"
-    excerpt: "Zacks Investment Research cut shares of BigBear.ai (NYSE:BBAI – Get Rating) from a hold rating to a sell rating in a research report released on Monday morning, Zacks.com reports. According to Zacks,"
-    publishedDateTime: 2022-04-05T08:38:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/05/bigbear-ai-nysebbai-lowered-to-sell-at-zacks-investment-research/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/05/bigbear-ai-nysebbai-lowered-to-sell-at-zacks-investment-research/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/05/bigbear-ai-nysebbai-lowered-to-sell-at-zacks-investment-research/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 37
   - title: "Tony Barrett Promoted to President of Cyber and Engineering at BigBear.ai"
     excerpt: "Looking for the latest Government Contracting News? Read about Tony Barrett Promoted to President of Cyber and Engineering at BigBear.ai."
     publishedDateTime: 2022-04-08T21:00:00Z

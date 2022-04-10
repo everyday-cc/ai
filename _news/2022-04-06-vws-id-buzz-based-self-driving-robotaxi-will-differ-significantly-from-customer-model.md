@@ -26,22 +26,6 @@ images:
     height: 1279
     isCached: true
 
-related:
-  - title: "VW plans ID Buzz-based self-driving taxi, delivery van"
-    excerpt: "Using technology developed with Argo AI, VW wants to establish shuttle services and self-driving delivery services worldwide."
-    publishedDateTime: 2022-04-05T08:47:00Z
-    webUrl: "https://europe.autonews.com/automakers/vw-plans-id-buzz-based-self-driving-taxi-delivery-van"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/VW%20ID%20Buzz%20AD1%20%28Autonomous%20Driving%29%20test%20vehicle%281%29.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "Bl/xvXU4Gp68vwSqRCUG4lcA/6iDgcAwkoBqUYa1do52b7SyoH9k7+LmJ0LXRG1T6Dkeq1deMpf8x5lbHqK/QSF9+k8RmlUm21RQJTrYHpJJL8DMtVMch9VxaN4O+NN83se+PMaWwaUe7hQ0HnF38lNEcGTVntRCcuJdgYGphubTGoX8FJvUQOc0/sg3L9Cx+QHRSoCj8iStl+jAs5S7cLYETSkm4017N/73vKuz2iKXdsUmq28ksFFhMorzs3NKz1nGW+10D561reG7sJadC35Zi4+/JRnruR8sz98K3yoKxl/R31+RY1wRQg/ABcte4KwUX+ML+8IUJEKuXLY65NVJsgNk6ZStY1JPr3Dmz5miLoym+XMErMnz4oVHd9Ml9y6lCVIPAn5ed6jSikpykbMnEJPXoUSZL4CElHhka8JkxloBAwQHvOdhEdxqfrrPVZbZCelQIK/ZQLU+u51n5YTJmEtrFov11KL35W1/n+WjD4lmQvMKty9P+jxoTSOWOMlO+sijOB/4aBfAhh2Kkg==;EiLk14szlV0UQRq53QEfcg=="
 ---
 

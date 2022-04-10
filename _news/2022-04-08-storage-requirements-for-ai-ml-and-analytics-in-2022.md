@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/feature/Storage-requirements-for-AI-M
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1"
 type: article
 quality: 76
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg"
         width: 648
         height: 348
-        isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2028"
-    excerpt: "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected to register a CAGR of 22.6%, during"
-    publishedDateTime: 2022-04-05T08:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Lifestream AI-Enabled Video Analytics Helps Restaurants and Food and Beverage Operations Optimize Operations"
     excerpt: "LOS ANGELES, April 05, 2022 (GLOBE NEWSWIRE) -- Lifestream is announcing its entry into the USA restaurant and hospitality industries, providing its proprietory advanced, and presently unavailable, Video AI software and services to analyze on-site and off ..."

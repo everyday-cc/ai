@@ -57,20 +57,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Microsoft Translator now translates isiZulu"
-    excerpt: "Microsoft has added isiZulu to its Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the company’s ecosystem of products and services."
-    publishedDateTime: 2022-04-05T08:50:00Z
-    webUrl: "https://gadget.co.za/microsoft-translator-now-translates-isizulu/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/04/Microsoft-translator.jpg?resize=630%2C600&#038;ssl=1"
-        width: 630
-        height: 600
-        isCached: true
 
 secured: "+GLM9X2jDBQDztxOTND97L7cJPQuAOiKc7fOnEd7gY0ArDVJ2CnHgapl13JopvB4XAenrSonPYo3SzQrRHL39ktw9kljTV7OubG5QxlWfAQARifeUJfgNILRoDPTHHhFsrZWqYi+zPnlwtBJBoSF8+8wAm1vGGHAm6WT2RfjTsduikhyRgK585Ilj923dfP3DnUCOsZLDh2CFKvDvETPrPLcBxWwKHV74LYCfZvcuNpv/ybjGyd9Lc3t6d1eO2BtBoouX4EwnqIS3gl0JQXNslbbD0DmdRHIp05J1do9KLjV6DFg1LX6838TT85KZtfLKtwvoecNOmW8kZvsR1qE9un8foUd6MCfeEhbA3B90U3KKAy4aPhL1kKElYzjE8+rVn3RUKDQ5pMtOjXg5NlNcttCSrvrVUXXEJ1a/5t1aEMDmM22kk9HiB2nkecbSESDBY9UI/V1E8nZKzj7tX1DvwuaSlNDSx0OJexpekUxv7B3TlJYBrjnq7g1hmhBXcqMr7AbWC2ctp16WtJ9MciclQ==;XaQ7/HDIJAs7xNFppQgd9A=="
 ---

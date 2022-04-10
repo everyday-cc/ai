@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Warehouse Robotics Market Reach a Value of US$ 11.3 Billion by 2027 | CAGR 13.20%"
-    excerpt: "IMARC Group’s latest research report, titled “Warehouse Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast"
-    publishedDateTime: 2022-04-05T08:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/warehouse-robotics-market-reach-a-value-of-us-11-3-billion-by-2027-cagr-13-20"
+  - title: "Artificial Intelligence Market to be a 1394.30 Billion USD Industry by 2029"
+    excerpt: "The global artificial intelligence market size stood at USD 35.92 Billion in 2020 and is projected to reach USD 360.36 Billion by 2028 The global"
+    publishedDateTime: 2022-04-05T17:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-to-be-a-1394-30-billion-usd-industry-by-2029"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 49
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Industrial Robotics Market is expected to reach the value of 7.4 billion dollars by the end of 2027"
-    excerpt: "As per our research analysis, The Industrial Robotics Market size was estimated to be worth 47.5 billion dollars in 2021, and it is predicted to be worth"
-    publishedDateTime: 2022-04-05T07:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-is-expected-to-reach-the-value-of-7-4-billion-dollars-by-the-end-of-2027"
+  - title: "Artificial Intelligence in Supply Chain Market is expected to reach the value of 30.39 billion USD by the end of 2027."
+    excerpt: "As per our research analysis, The Artificial Intelligence in Supply Chain Market size was estimated to be worth 20.73 billion dollars in 2021, and it is"
+    publishedDateTime: 2022-04-07T04:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-supply-chain-market-is-expected-to-reach-the-value-of-30-39-billion-usd-by-the-end-of-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 40
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/1b83bda4765f950c07304372d550d2af03c571b6-e1649095440591-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
         width: 600
         height: 337
         isCached: true
@@ -67,34 +67,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-04-06T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+  - title: "Smart AI Toys Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global Smart AI Toys market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimate"
+    publishedDateTime: 2022-04-08T11:19:00Z
+    webUrl: "https://galleonnews.com/news/246063/smart-ai-toys-market-global-outlook-and-forecast-2022-2028/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.abnewswire.com/uploads/1649249589.png"
-        width: 449
-        height: 300
-        isCached: true
-  - title: "Managed Services Market to reach USD 557.10 billion in 2028 , exhibiting a CAGR of 12.6% during the forecast period."
-    excerpt: "Top Players in Managed Services Market are Fujitsu Ltd., Microsoft Corporation, NOKIA Corporation, Deutsche Telekom AG​, Verizon Communications Inc.,"
-    publishedDateTime: 2022-04-06T09:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/managed-services-market-to-reach-usd-557-10-billion-in-2028-exhibiting-a-cagr-of-12-6-during-the-forecast-period"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/56c7c203b2ef4d0bcec8810d927277de2636fe92-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 17
 
 secured: "/PSlg9x2bAJsZWsty3fxxf5P7+58wZqN7gvIxf4H7c1h6xdaTtEHi2oF7Ig14KA0FJG0y+oNWW4bubyg9+/Ba00bMI2EyVpQ2otYjm1N0BiIjA47mVLmuRPEN8+6s39Ql+/ubrfENeOlLVe8H6Ian/gWzfO2IXkTkaNMPeH0MzXW1l7qGOklH2mdnYwO0BFpr+scx55FvTVmZ5hH0lqjC6nQ5NK3aXeFl4eMsLHYVJ9a+jejIot7BPl3PPV2KsdsF+2Uyv/M4IcIkfjjYlslepeqX4FXuDJpePpD86gB57onKHLXcoQppqmttAgVUKIe9sdO/KBHMsFftoHiQYGk1IZ862kOUR4zsZB/T5FMov8=;j4XQP4/EYphM41SmdUQ3VQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-data-pri
 webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-data-privacy-0e01117d152d1037cfddb1b0d87329dc"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/TeamViewer-Remote-Connectivity-and-Augmented-Reality-Solutions-Now-Available-in-Microsoft-Azure-Marketplace-and-Microsoft-AppSource-as-Transactable-Offers-01.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "Microsoft Translator now translates isiZulu"
-    excerpt: "Microsoft has added isiZulu to its Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the company’s ecosystem of products and services."
-    publishedDateTime: 2022-04-05T08:50:00Z
-    webUrl: "https://gadget.co.za/microsoft-translator-now-translates-isizulu/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/04/Microsoft-translator.jpg?resize=630%2C600&#038;ssl=1"
-        width: 630
-        height: 600
         isCached: true
 
 secured: "wCsXMyD6jQidmzLFLMzcrsaC3r7a249ik/n9c97RaKu8XqFiGo7D/QCPaejvqcs/lvDD+eFitkNWJsCsrktyfGUgWw/z4YkwxumFpMCgDT/hin0IIr1GrVcIrnMfOKE5B+zhoVtR/P46kzQw7113DueQsV1WIaHa4cnywczW9q6eXrUEsNez/BlYtwmFUEftZK53S6ynWNKP+D+Cx+6tDRFG3YYkbUqbEcK/bU+BodKoGt/0/c8rqrU2wDHxt7Ls8Va5f0uvkd3vrqOfLAWCIvK5PfnsJlZsCAXrgiAd0eTZlbzmrOO2OuqkWZqqG1nYtnfCXcHoL4QJMdn1KWG1cEgdp0k8P52tIU7jlX2aYKQ=;bufMCp19WHBhX60ErNwL8g=="
