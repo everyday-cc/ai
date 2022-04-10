@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "ACM Prize in Computing Recognizes Pioneer of Robot Learning"
-    excerpt: "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022"
-    publishedDateTime: 2022-04-06T14:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476"
+  - title: "ACM Prize in Computing recognizes pioneer of robot learning"
+    excerpt: "ACM, the Association for Computing Machinery, today named Pieter Abbeel the recipient of the 2021 ACM Prize in Computing for contributions to robot learning, including learning from demonstrations and deep reinforcement learning for robotic control."
+    publishedDateTime: 2022-04-06T14:31:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948924"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eb8a09a1-59ce-4c35-8b9f-95b9dc6917eb/Rendition/low-res/Content/Public"
+        width: 467
+        height: 700
+        isCached: true
 
 secured: "mkSnJluxM4lMEognduwuwcda/nTN1U4vBwBzGRG+rEhtIYHz5ttapxJ5HFZ3MlfphIdzxIfhHyuTilAgRwXzvVOKCbnT5YsbYw1tRHKTBNwnDlkPDKb6ed64x8N+YauQafwyRiLLtstrZQ7FTfQRw3HjNHMErcQfofd5tL9tSc4P1n3QKyn1wl/yEUCACZz2crxdAQlHqevjHv7ggUcfZYkCXfSVYSATqUSg5DD/sSTsQflkltfI7QekKQvWOHfWHvkJ8pYgbxMPygxx7J57GV0KzynoN4HuuyxJOfV0eM/Xu0+fGWu1IuUlkkYjlBuaVncI/Ta1s3bnQY5YoFullAM0D/WS306MYLDGAgIiGEVDF9JzomNgIDdjMHRpOHJmzXuKctd/FzTzhw7KovELreE79Xex8XovvWgh2ZG9FF/eZqo5j5eEIMIRyMFIpwemcFryGr/viY0bGkJHfSBSKCmGUzYHLiPy0SJvxa5Tit2eNvVHN7R+wp+222ovGH95myTrwmyPWTz5N9rZyjC6yg==;S3xFCNkCg4xanfRo3iRXTw=="
 ---

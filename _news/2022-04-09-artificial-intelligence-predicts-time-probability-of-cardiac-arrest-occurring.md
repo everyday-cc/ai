@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Artificial intelligence accurately predicts cardiac arrest death, researchers say"
+    excerpt: "April 7 (UPI) --A new artificial intelligence-based approach ... called Survival Study of Cardiac Arrhythmia Risk, uses neural networks to build a personalized survival assessment for each patient ..."
+    publishedDateTime: 2022-04-07T15:11:00Z
+    webUrl: "https://www.upi.com/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
+    ampWebUrl: "https://www.upi.com/amp/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2701649337182/2022/1/a1823959af5d317b15aa39ad04260675/v1.5/Artificial-intelligence-accurately-predicts-cardiac-arrest-death-researchers-say.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "AI predicts if -- and when -- someone will have cardiac arrest"
     excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
     publishedDateTime: 2022-04-08T00:12:00Z

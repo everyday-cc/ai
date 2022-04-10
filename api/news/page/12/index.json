@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-28-teslas-head-of-ai-is-on-sabbatical-and-people-are-worried.md",
+      "title": "Tesla’s head of AI is on sabbatical and people are worried",
+      "excerpt": "Elon Musk announced that Tesla’s head of AI, Andrej Karpathy, is on a four-month sabbatical, and people are worried since other Tesla execs have left after going on sabbatical. It comes as Tesla expands its Full Self-Driving (FSD) Beta to Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/",
+      "originalUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Andrej-Karpathy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/03/28/tesla-head-ai-andrej-karpathy-sabbatical-people-worried/amp/",
+      "publishedDateTime": "2022-03-28T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use-cases.md",
       "title": "Digi-Key Electronics and Analog Devices to Host Webinar on New Edge Artificial Intelligence Use Cases",
       "excerpt": "Digi-Key Electronics, which offers the world's largest selection of electronic components in stock for immediate shipment, will host a webinar in collaboration with Analog Devices, Inc. (ADI) on Thursday,",
@@ -1116,58 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-10-interesting-facts-about-nvidia-hopper-h100-gpu.md",
-      "title": "10 Interesting Facts About NVIDIA Hopper H100 GPU",
-      "excerpt": "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62404bee2e866c2678125ebb/0x0.jpg?format=jpg&width=1200",
-          "width": 1138,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
-      "publishedDateTime": "2022-03-27T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

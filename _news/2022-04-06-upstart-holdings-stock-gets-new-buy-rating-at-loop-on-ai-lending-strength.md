@@ -35,7 +35,7 @@ related:
     provider:
       name: The Market Oracle
       domain: marketoracle.co.uk
-    quality: 35
+    quality: 37
     images:
       - url: "http://www.marketoracle.co.uk/images/2021/Aug/morpheus-red-pill-blue-pill.jpg"
         width: 465

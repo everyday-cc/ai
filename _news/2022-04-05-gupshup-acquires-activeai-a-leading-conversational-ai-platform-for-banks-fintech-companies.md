@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activea
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
 type: article
 quality: 62
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/04/Social-acquisition.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Gupshup acquires Active.Ai, a conversational AI platform"
-    excerpt: "the conversational artificial intelligence (AI) platform used by banks and fintech firms. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with conversational ..."
-    publishedDateTime: 2022-04-05T05:47:00Z
-    webUrl: "https://gulfbusiness.com/gupshup-acquires-active-ai-a-conversational-ai-platform/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2022/04/GettyImages-1274394138.jpg"
-        width: 930
-        height: 485
         isCached: true
   - title: "India: Conversational messaging platform Gupshup buys SG’s Active.ai"
     excerpt: "Conversational messaging platform Gupshup, operated by Webaroo Inc, said it acquired conversational AI platform for banks and fintech companies Active.Ai, as it looks to strengthen its customer experience solutions for BFSI customers."

@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts"
+    excerpt: "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday."
+    publishedDateTime: 2022-04-09T03:24:00Z
+    webUrl: "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Tesla to start production of Optimus humanoid"
     excerpt: "Elon Musk hints at the production of the Tesla bot Optimus humanoid will be able to accomplish human roles AI researcher Gary Marcus warns that we are far from robots taking over Elon Musk, the CEO of Tesla (NASDAQ:TSLA),"
     publishedDateTime: 2022-04-08T19:27:00Z

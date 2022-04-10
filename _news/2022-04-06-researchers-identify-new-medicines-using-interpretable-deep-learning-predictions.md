@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:

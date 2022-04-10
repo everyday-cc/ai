@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/technology/meet-dall-e-the-ai-tha
 ampWebUrl: "https://www.seattletimes.com/business/technology/meet-dall-e-the-ai-that-draws-anything-at-your-command/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/meet-dall-e-the-ai-that-draws-anything-at-your-command/?amp=1"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Meet DALL-E, the A.I. That Draws Anything at Your Command"

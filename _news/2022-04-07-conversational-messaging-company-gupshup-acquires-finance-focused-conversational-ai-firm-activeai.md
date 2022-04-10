@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Gupshup acquires Active.Ai, a conversational AI platform"
-    excerpt: "the conversational artificial intelligence (AI) platform used by banks and fintech firms. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with conversational ..."
-    publishedDateTime: 2022-04-05T05:47:00Z
-    webUrl: "https://gulfbusiness.com/gupshup-acquires-active-ai-a-conversational-ai-platform/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2022/04/GettyImages-1274394138.jpg"
-        width: 930
-        height: 485
-        isCached: true
   - title: "India: Conversational messaging platform Gupshup buys SG’s Active.ai"
     excerpt: "Conversational messaging platform Gupshup, operated by Webaroo Inc, said it acquired conversational AI platform for banks and fintech companies Active.Ai, as it looks to strengthen its customer experience solutions for BFSI customers."
     publishedDateTime: 2022-04-05T07:19:00Z

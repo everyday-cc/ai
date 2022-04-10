@@ -64,20 +64,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "IBM z16 mainframe announced, with cryptography and real-time AI"
-    excerpt: "IBM has today announced its next generation of mainframe, z16, to mitigate rising fraud and increase cyber resiliency"
-    publishedDateTime: 2022-04-05T05:42:00Z
-    webUrl: "https://www.information-age.com/ibm-z16-mainframe-announced-with-cryptography-real-time-ai-123499119/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/04/ibm-z16-mainframe-released-with-cryptography-real-time-ai-e1649135015327.jpg.optimal.jpg"
-        width: 913
-        height: 618
-        isCached: true
 
 secured: "Cz5lZug7syI5/OXMh46XruCKQeQlFzBGp0uze0w40Ayj3TiBUmIFOpAvyac6xbYEXOLcw3RqaJV//iPsVreQr0eWOEdBL2GjQNq8JJFOrcDy9iRo7G/K5h+xZK/nSP2H2Rx2lDGF0BtJDqoN71jkXZrSKge3HKGRKnm7CHNhM2pmrAqKKWTJt8Xac85tn67lIE86ULjkGFR1mHoY30deG3uE9FS8ZxJvbVhL0f1jqIY7TQItCxhjURnyTcoIZFikgEldIy0boWLUWo0Mg1u9ISpHIA5GwlMvZVJ29hoLasQTnZbO3VSgo2DxoRhCdxuABUWnoVduquuZEhLs+Oz3ebVFmjZPmp3R6mu3us4R22Ka7SP3PaRCKo5/YkXiPl48kkVJInKznYlR9bYCaHkj0I9s3GwjXAtFS1MzrT14PMgjlse4NnGI+OO0q61CHYoBdvdhYD3CA2CfGoeFW3R4frVJL+sekJpKE+oxpzxYUH9OIcbPLRX0gUle0fUsfsNMdpt5+o4PKIMqqmemF8Z3bA==;qxmtidrmVBdRS79+ZIZEXw=="
 ---

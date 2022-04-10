@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Gupshup acquires Active.Ai, a conversational AI platform"
-    excerpt: "the conversational artificial intelligence (AI) platform used by banks and fintech firms. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with conversational ..."
-    publishedDateTime: 2022-04-05T05:47:00Z
-    webUrl: "https://gulfbusiness.com/gupshup-acquires-active-ai-a-conversational-ai-platform/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2022/04/GettyImages-1274394138.jpg"
-        width: 930
-        height: 485
-        isCached: true
   - title: "Real Chemistry acquires AI firm ConversationHealth"
     excerpt: "As part of its efforts to buttress its data and analytics capabilities with additional artificial intelligence muscle, Real Chemistry has snapped up AI firm ConversationHealth. The acquisition, announced today,"
     publishedDateTime: 2022-04-05T14:00:00Z

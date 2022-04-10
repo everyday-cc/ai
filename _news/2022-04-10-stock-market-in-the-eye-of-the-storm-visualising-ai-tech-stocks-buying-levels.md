@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-09T21:00:00Z
 originalUrl: "https://www.marketoracle.co.uk/Article70137.html"
 webUrl: "https://www.marketoracle.co.uk/Article70137.html"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "http://www.marketoracle.co.uk/images/2021/Aug/morpheus-red-pill-blue-pill.jpg"
@@ -51,6 +52,6 @@ related:
       domain: thelancet.com
     quality: 19
 
-secured: "Z+Tz6YirHxCWjRu/0GYeK+oEMXksdgV7Gt9TD3RqvpQRUZ3TaxeD9YJyQ1hakrc/vjsNn1FsqPKnp/R31Ao9qaoa68jGKlbvFbfR1byOSm4Lo1EVCUt0uV9iyQkNz3FhFvUd3gza5FWS3Sp8HKGrh40Er8NuGC89xo9DGTb/9h6aMqF+v+4kl6j3gIzG4PyjcgRUUhD7Hg1Wuw1mzWmhKnGFPRRl9jVMbf78T7rxQCkUdA7mPXYzCrkQRVUpTJGVsWb96VBtP1h7UJvNIjMOt4Vo8sehBKNo7dg0qNpFnS9Or3jsjAyYIm51wwL4N15GfgQznh9PpHIn8olXLYstPfNGC6wmWWwsvhsWiHAKgWE=;KbXg9sAzuotTdCvj1eYsBw=="
+secured: "N/51DF69+3vFcwjI1leuBToVFpwabCscegS7zx5XuJaZhCM7uuI1bd92OdISQWqC/FOoX76cLIevI9UscIpzYzMe+7Jo3QfeqA6bcAVPggUFvYsNTqRvuAYxjr50AdHfG0OMKn/gTXrXJGf/6veSGMiec8lEyO9NTY3Tsj6G5Wj6H0q/Unxqj7c4TDD2mpCtYRHep634R/TVO7Svx4hD27rI/qvM8bbc17Bm0yuzyZcxo64f0QkKkua1U+mtBQMxRjwTN8AcSs2lqOir0kXhO8Ry/YL5o3ZEkiPsm0uWMZLC1IuWfI9U7j1TciKIoGB4ypGfWuhi/yu3+jSRgseyVytCKSzByA9FokHyK6X7pf9vrn4S4a7Z5JdJUj9sRODz4S7dv1NY9EP/NB1CIKZUkICDZDA/Iphw0ClnCfid1t0PXek2e/uneQajdnf/nDdzivZ2oyzuSrmXy+bRTXJPbhsYMWWhwqH5o06hpNcu4wUtk0hcCeSLq2jZjx9fCWEdPzSHY/srQcw5IGEPBowSMg==;E4xzY97qCc4Pn5zspXPYIw=="
 ---
 
