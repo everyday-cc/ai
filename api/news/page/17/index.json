@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-24-databricks-unified-analytics-platform-supports-automl-toolkit.md",
+      "title": "Databricks' Unified Analytics Platform Supports AutoML Toolkit",
+      "excerpt": "Databricks, the company behind the Apache Spark data analytics engine, recently announced the Unified Data Analytics Platform, including an automated machine learning tool called AutoML Toolkit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2019/10/databricks-automl/",
+      "originalUrl": "https://www.infoq.com/news/2019/10/databricks-automl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2019/10/databricks-automl/en/headerimage/databricks-automl-1570560795654.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
       "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
       "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
@@ -1119,49 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

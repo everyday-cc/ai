@@ -19,6 +19,17 @@ topics:
   - AI
   - AI Ethics
 
+related:
+  - title: "How San Francisco became an autonomous vehicle test course"
+    excerpt: "go on different missions throughout The City to train the Waymo Driver, its proprietary artificial intelligence, in different environments, a company spokesperson said. The vehicles sometimes travel in groups back to base after a shift. Cruise, which uses ..."
+    publishedDateTime: 2022-04-08T18:48:00Z
+    webUrl: "https://www.sfexaminer.com/findings/how-san-francisco-became-an-autonomous-vehicle-test-course/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 4
+
 secured: "DHzI1khclu2x2h+XbpGNQZSDuY8Larbfhf9ebS42Nz/ZgKiuQXaet0Xsin3qHSuqvVRGFa2vnQQok3NR550oE9JwHhKw7nh9bcgrt5gyKMyAR1Iyp0xOUoTj9Afn2HLrJc3MXPvjKemE8qZwHh+uFPu9aofHtdhqeLfy34BNjj0blDr54g8NA7YoQYwKvVN/B9eoFoGPjrRnXWio4g4CgcAa+E6wPsQojIU1/LZd0d8WPiAw98lHOfkcc4GSiw3xyOE4V11/BEi4UM34+3V5GRKWaSrcV5kM/p7iRo0FD2gHzhzXG8lYcoaEsn/hljUrkObSYA2h4RQ2aNRAYL6AYRgg13pdNeAMahjqGD5w8lJ5QO/dMMDYNjUVthyG2eqIem3EIkVOg7AtPhhSNdl1ep799NXP8dfhHvVT+MOCr+hwqr5drv3kedXZKp2GqN9UA9RDNiq1rUEl6PLoyhxILW3qiGkiHk1gdDbLVQ5EmD3M0tA6cWoRq7y/krXnbYT15qchXDaB/aPew6XV/yGFRQ==;zuAL5Mr/5BVIHtVaVxTyQw=="
 ---
 

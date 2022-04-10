@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/948925"
 webUrl: "https://www.eurekalert.org/news-releases/948925"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,40 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut"
-    excerpt: "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza"
-    publishedDateTime: 2022-04-05T15:48:00Z
-    webUrl: "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
-    ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 74
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg"
-        width: 708
-        height: 419
-        isCached: true
-  - title: "Bridging the Gap Between Neuroscience and Artificial Intelligence"
-    excerpt: "Throughout history, neuroscience has had a significant impact on the development of artificial intelligence (AI), such as Perceptron - the first artificial neural network, and computer vision models."
-    publishedDateTime: 2022-04-06T08:03:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/36632/bridging-the-gap-between-neuroscience-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 19
-  - title: "Teaching AI to identify colors in the dark"
-    excerpt: "A team of researchers at the University of California used deep learning to enable limited color vision in the dark. The group published a paper describing their work on the open-access site PLOS ONE."
-    publishedDateTime: 2022-04-08T12:04:00Z
-    webUrl: "https://techxplore.com/news/2022-04-ai-dark.html"
+  - title: "New method compares machine-learning model's reasoning to that of a human"
+    excerpt: "In machine learning, understanding why a model makes certain decisions is often just as important as whether those decisions are correct. For instance, a machine-learning model might correctly predict that a skin lesion is cancerous,"
+    publishedDateTime: 2022-04-06T13:21:00Z
+    webUrl: "https://techxplore.com/news/2022-04-method-machine-learning-human.html"
     type: article
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 17
+    quality: 3
 
 secured: "NfA072lhXNyj8n5yPcW14DPu0FNRv98PeZJEoXtGGs+yFpCFqk10Qw5hUNVFDcjgikGfqH5pJs25V6m18I2G2ssCFVsM7bT6DbW05twa3AS9YEhuCzXmukASf4klMn/EbmgvSxOCKaSRsJ5OCKSMTByVXuMz0IIwESGNWNgIjyroodBnq01XRKnR6nFjtWqnyQcYetcPCGEMY3rklT6FuxLB2SQAqac0gT8XMSS+mKu8Sg2SLtywr4P+WpT1/hSzhWjHTKDK+kNqyj051gnz9+dDjB+ps/DnfYHDLm2ryqc8OShR0XmHNWIiPMUEPB9FGNCa1irIb5Cv9/Ps4GMtMyYC6j0UTO6QhJSUrqBkhMU=;CI7E8FNioaDrd6p6ASgyKQ=="
 ---

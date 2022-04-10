@@ -42,22 +42,6 @@ related:
         height: 382
         isCached: true
   - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
-    excerpt: "(CNN Business)Microsoft is unveiling new Windows features ... a deaf senior product manager at Azure Cognitive Services, who said she was struggling to keep up in meetings. She needed a device ..."
-    publishedDateTime: 2022-04-05T15:11:00Z
-    webUrl: "https://edition.cnn.com/2022/04/05/tech/windows-11-hybrid-work/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/04/05/tech/windows-11-hybrid-work/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/05/tech/windows-11-hybrid-work/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220404150324-restricted-windows-11-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
     publishedDateTime: 2022-04-07T01:57:00Z
     webUrl: "https://cbs58.com/news/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better"

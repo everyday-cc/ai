@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
+      "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
+      "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
+      "originalUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/03/Microsoft-Edge.jpg",
+          "width": 1066,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thurrott",
+        "domain": "thurrott.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-artificial-intelligence-helps-cut-miss-rate-of-colorectal-polyps.md",
       "title": "Artificial Intelligence Helps Cut Miss Rate of Colorectal Polyps",
       "excerpt": "Intending to put a dent in colorectal cancer (CRC) cases, researchers from the US and UK applied artificial intelligence to colonoscopies in an effort to reduce the number of colorectal polyps missed due to perceptual pitfalls.",
@@ -1050,49 +1093,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
-      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
-      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
-      "originalUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/17/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5/amp/",
-      "publishedDateTime": "2022-03-17T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

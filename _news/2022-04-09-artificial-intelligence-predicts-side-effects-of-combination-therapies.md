@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI test could predict effective cancer drug combinations in less than two days"
-    excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours.Their cutting-edge technique uses artificial intelligence to analyse large-scale protein data from tumour samples,"
-    publishedDateTime: 2022-04-05T16:26:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-04-05/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 33
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "An AI model can help predict adverse events from new drug combinations"
     excerpt: "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said."
     publishedDateTime: 2022-04-08T19:45:00Z
@@ -67,7 +53,7 @@ related:
   - title: "PathAI Announces Upcoming Presentations at the 2022 American Association for Cancer Research (AACR) Annual Meeting"
     excerpt: "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, today announced that their recent research will be presented at the 2022 AACR annual meeting, which will be held in New Orleans from April 8 to April 13,"
     publishedDateTime: 2022-04-08T17:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
     type: article
     provider:
       name: Associated Press

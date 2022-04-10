@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2022-04-method-machine-learning-human.
 webUrl: "https://techxplore.com/news/2022-04-method-machine-learning-human.html"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Does this artificial intelligence think like a human?"
+    excerpt: "MIT researchers developed a method that helps a user to better understand a machine-learning model’s reasoning, and how that reasoning compares to that of a human. The technique enables a user to rapidly identify and analyze patterns in a model’s behavior."
+    publishedDateTime: 2022-04-06T14:38:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/948925"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "ZHap2IhoD5a9OrtkMN2eFHEQa8qs5labUAAe4I6O0kfLbfdKeOkGsY5KS6tDgoHFFgWwghc4Ii4gK1AmebiyXb3b4ydWnpBD7D08vJCSIjHmh5yjPw3z8Kn5Ykv+hDaPOiIokCUAtuJdyO9yetT0nKg70yp2QeqyhoiyX1KDwnWx2AO+5WPUqh1uU//Q47RyDjaGxns9+DJ4Mg588kelddlVMij7gwS40bVBGxVqxRQyqITv1UEyqPzvGv/dHNov97z3634g6Qgx3zoXUEFxUhOt8fkI/8fC6mDdnXEcn0j+eWKulyJ7eFk9hYg8PDUyV4J5J/QWvSUS/u838TdDlAhwGrQ1mJkdWlNmif1fKpvrGgxAw5DjJXGxjysJ/87YVtaY3kZ0oFTJTm6FOgjAW6g4i/Iv6aWVSbWNz95E0M6kIIhm3olP2nD6biApCOFOSU+kqzwfLAuXIYIl+qXVIi5uGC0elhf7oQ9a8PF0l877cuh/+a2nlWnwJYJ43WDQWkfUmxDYDWjBjTWTGqQ3Ew==;/hhZPBiByJnRakIoYrYQqA=="
 ---

@@ -93,15 +93,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Auction companies thinking hard about AI"
-    excerpt: "They've cast aside science fiction-inspired apprehension about AI replacing humans, and now they want to see how this technology can be used to hone the vehicle imaging and inspection process. Take ACV Auctions, for example. The used-vehicle online auction ..."
-    publishedDateTime: 2022-04-05T16:38:00Z
-    webUrl: "https://www.autonews.com/retail-technology/auction-companies-thinking-hard-about-ai"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
 secured: "dSavRxIZbn77pJ/WABQ6GZZsgEOXz7psVE0QpiYhcQUycDve27bdvFxjyeE3kIgKIIM4KjXpYnk++eXgUoLDV5SMtfWVChPzcNeCCUMm9Zd8a3AoX2bkMzdVKW3maSKSyFcmiMDsLv3atmVfiskRYKmDzXF5qSXZL8Qy20wQKAF06u3prpeNar9+MdhJVg9H6bT6uHpkNIpLnEThWvIfosFqKKUw6ZoabEdqKCddvId8pK6IKjdZwiQwXlWxmE+2BN3FgvuL1WQOssFT/VKUDaH+A0ej7mKIQVD1JkpDU/fnEKkmPSVlMuuUAXsTqv9HMEzCxy8Qj032YQgKl+TvS7QvjDNVHAlx72d/NplsljpH2h4MDrOfRotVBAG1xgfHqkq91wBlapMkryfRvPcZOLtqWPOztpfvpjG/6mLymAFrhdwCF66y7KKbfBwfDffJx5bViM7mNQ7JfBNn4h4KTMd5XJFkoVfxm07Bau3TX8tfIypZiRy5WKUEhsf2AlRqUWn1xTK8ka2CRtlqIxT+hA==;xvX5Fet/CS+Sp/HvscuKRA=="
 ---

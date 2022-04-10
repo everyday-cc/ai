@@ -3,8 +3,8 @@ category: news
 title: "PathAI Announces Upcoming Presentations at the 2022 American Association for Cancer Research (AACR) Annual Meeting"
 excerpt: "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, today announced that their recent research will be presented at the 2022 AACR annual meeting, which will be held in New Orleans from April 8 to April 13,"
 publishedDateTime: 2022-04-08T17:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
+webUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
 type: article
 quality: 17
 heat: -1
@@ -55,20 +55,6 @@ related:
         width: 802
         height: 344
         isCached: true
-  - title: "AI test could predict effective cancer drug combinations in less than two days"
-    excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours.Their cutting-edge technique uses artificial intelligence to analyse large-scale protein data from tumour samples,"
-    publishedDateTime: 2022-04-05T16:26:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-04-05/ai-test-could-predict-effective-cancer-drug-combinations-in-less-than-two-days"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 33
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "An AI model can help predict adverse events from new drug combinations"
     excerpt: "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said."
     publishedDateTime: 2022-04-08T19:45:00Z
@@ -79,6 +65,6 @@ related:
       domain: medicalxpress.com
     quality: 19
 
-secured: "AaJxhRowzrDuLbCeSdodZ2oiBrOOVsR6LdXO1+3ZYVW4vNWge35YbNtExoo9VVxXL3Nkq79A9JsyoYunjF3jeBeTBHs5QDkpRsi9Gg86c89L2kTYxQYPnKAsJle0cnOOGSoaKGRc6Kw1bMr3gG3j0Pvm4Gdz6OQv82y2fi0v1DV5GsMvucYufrFJHwxYiTAm7Ma3AGJxkD3TViaqV554CV8kdMsRC1caqN0KTzOjzYjn3W4HvP3XiLAT8sNOqw2myXYLBzP6aK07JBCsdwbc02kAcnq9SI8HcEQgKzv4AEe0LyxFQCy8SRfQjQKGdUQCqK9Kau8aQHcAt/xVVevCvCLS2Vnhon249RIyenDexjs=;UqqyFS8ez5FndIc9o4RJsA=="
+secured: "+jNJyzfJUiUSyohZ/p5ZHTNHFHGmowa0ts36msE5ZPISGWvQTvVNjTJoAalapVqvOEGZ8XOqQysZevGhw+RkHzj+Craqpuk8KcJks8QDa1AkbYm9LrWzailH2aEJU98sHLLOwKdtsqOUjsI+8ZemzgeQdU+oIT1xttjsvcf/QKrcb/K5FIi2MApNEGH1Hmk4MgZFKzmGsEvBqP75Q2ECVi7FnQYWJRaP7Uhrm0TO3qjVcoHwgQiCbdxup4oieM6TSHTocQtgzjMh7U3li2X9HyVIdTeXaId+cHw4qToAP8aoo4+6RzOHsops5tlGAYANER2KU9Jf3iIkhMSyjTCVpQ6mJyAMFOlo6BHolYs1pts=;ccDWi2zE1h8rrTnEJa/jHw=="
 ---
 

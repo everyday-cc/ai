@@ -333,6 +333,49 @@
       ]
     },
     {
+      "path": "_news/2022-03-28-sygno-joins-ing-labs-2022-programme.md",
+      "title": "Sygno joins ING Labs 2022 programme",
+      "excerpt": "Sygno, provider of Automated Machine Learning (AutoML) transaction monitoring models, has joined the most recent cohort of scale-ups that will enter the ING Labs 2022 Programme. During the 2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/92043",
+      "originalUrl": "https://www.finextra.com/pressarticle/92043",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-digi-key-electronics-and-analog-devices-to-host-webinar-on-new-edge-artificial-intelligence-use-cases.md",
       "title": "Digi-Key Electronics and Analog Devices to Host Webinar on New Edge Artificial Intelligence Use Cases",
       "excerpt": "Digi-Key Electronics, which offers the world's largest selection of electronic components in stock for immediate shipment, will host a webinar in collaboration with Analog Devices, Inc. (ADI) on Thursday,",
@@ -1088,57 +1131,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-how-ai-is-creating-a-safer-online-world.md",
-      "title": "How AI is creating a safer online world",
-      "excerpt": "By using AI and ML algorithms to identify and categorize content, companies can identify and remove unsafe content as soon as it is created.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/",
-      "originalUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1150416246.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/27/how-ai-is-creating-a-safer-online-world/amp/",
-      "publishedDateTime": "2022-03-27T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

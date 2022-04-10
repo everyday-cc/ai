@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2315047-ai-turns-infrared-image
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2315047-ai-turns-infrared-images-taken-in-total-darkness-into-full-colour/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "Teaching AI to identify colors in the dark"
+    excerpt: "A team of researchers at the University of California used deep learning to enable limited color vision in the dark. The group published a paper describing their work on the open-access site PLOS ONE."
+    publishedDateTime: 2022-04-08T12:04:00Z
+    webUrl: "https://techxplore.com/news/2022-04-ai-dark.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "hcZBtxADwystaGLepFdBM3dlYfIT7pn/T9vgL/NScgJAURXR2jmVnbjiy83hxXomzfV26ziuoLGabgka9Xg7WBVFZvH5nbCIABg4v3cWsl9xzB63ByFjq3TKmjrYxyOQ7AgMAHfXt8LDGAZ/URpOXCcJ49HSCxtroYGT5jeGTVXOkJe99XDSJ4hgNCy8NNhOsLHzKHTOEfUOqiVjg9OP0PtBA8dGO6++/0FJ3uQzznYGd9WSTq5Flx1Eg9yW4hAPhUgs4so2nlugPAwXtX+k4L1ZQ1ItqJ97vWgBulzmkTDyHjqkWWNA3orUVjs7qW2EmiX2lRYoXxk21rq+LUyL1ZINipBjkJHxg2WGoBxIZPo=;AT4pjkpKj8z28NLupUM0dA=="
 ---

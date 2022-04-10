@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-03-19-upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships.md",
+      "title": "Upstart presents free webinar on leveraging AI and fintech partnerships!",
+      "excerpt": "Upstart is partnering with AgFed to bring you a free webinar this Wednesday, on how credit unions can leverage AI and fintech partnerships to expand into new product lines and grow their membership. This virtual event features Jeff Keltner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
+      "originalUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png",
+          "width": 792,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Credit Union Insight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
       "title": "Here's how Americans view facial recognition and driverless cars",
       "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
@@ -1052,48 +1095,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform.md",
-      "title": "Startup Quadric Secures $21M to Advance Its Disruptive Edge AI platform",
-      "excerpt": "Quadric, the company building high-performance edge processing platform optimized for on-device AI at the network edge, this week announced a $21M Series B funding round. NSITEXE, a group company of a leading mobility supplier DENSO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/investments-and-expansions/23729-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform",
-      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/23729-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/739d77f9a9c67df18cdb344cc13ccf05.jpg?t=20220318_004635",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

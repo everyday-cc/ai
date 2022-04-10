@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-03-26-echonous-wins-2022-artificial-intelligence-excellence-award.md",
+      "title": "EchoNous Wins 2022 Artificial Intelligence Excellence Award",
+      "excerpt": "EchoNous, the leader in portable AI-guided ultrasound tools and software, announced today that the Business Intelligence Group named EchnoNous a winner in its Artificial Intelligence Excellence Awards program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20305699.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20305699.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world.md",
       "title": "A language of no importance: the consequences of neglecting marginalized languages in the digital world",
       "excerpt": "Most major platforms and services are still only available or functional in a small number of geopolitically dominant languages.",
@@ -1112,49 +1146,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-baidu-to-launch-self-driving-taxi-service-in-zhejiang.md",
-      "title": "Baidu to launch self-driving taxi service in Zhejiang",
-      "excerpt": "Chinese tech giant Baidu Inc said it will offer self-driving taxi service in Wuzhen, Zhejiang province, on Saturday, as part of the company's broader drive to accelerate the large-scale commercialization of autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/25/623d6a6ca310fd2bec7e59fd.jpeg",
-          "width": 714,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

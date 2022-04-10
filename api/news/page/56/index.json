@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-02-18-5-it-services-stocks-to-buy-in-february.md",
+      "title": "5 IT Services Stocks to Buy in February",
+      "excerpt": "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/419226",
+      "originalUrl": "https://www.entrepreneur.com/article/419226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-jaguar-land-rover-nvidia-will-collaborate-on-in-vehicle-software.md",
       "title": "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software",
       "excerpt": "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ...",
@@ -1135,57 +1187,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-soul-machines-is-making-new-gen-avatars-life-like.md",
-      "title": "How Soul Machines is making new-gen avatars life-like",
-      "excerpt": "San Francisco-based Soul Machines, a company that is rooted in both the animation and artificial intelligence (AI) sectors, is jumping at the opportunity to create animated digital avatars to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.soulmachines.com/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/how-soul-machines-is-making-new-gen-avatars-life-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smitpurchase.wpengine.com/wp-content/uploads/Lia-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

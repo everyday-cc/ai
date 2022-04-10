@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Auction companies thinking hard about AI"
-    excerpt: "They've cast aside science fiction-inspired apprehension about AI replacing humans, and now they want to see how this technology can be used to hone the vehicle imaging and inspection process. Take ACV Auctions, for example. The used-vehicle online auction ..."
-    publishedDateTime: 2022-04-05T16:38:00Z
-    webUrl: "https://www.autonews.com/retail-technology/auction-companies-thinking-hard-about-ai"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
   - title: "‘We need to be much more diverse’: More than half of data used in health care AI comes from the U.S. and China"
     excerpt: "\"The biggest concern now is that the algorithms that we’re building are only going to benefit the population that’s contributing to the dataset. And none of that will have any value to those who carry the biggest burden of disease."
     publishedDateTime: 2022-04-06T08:40:00Z

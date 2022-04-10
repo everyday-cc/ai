@@ -36,20 +36,6 @@ related:
         height: 675
         isCached: true
   - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
-    excerpt: "Expands AI Governance Software From Policy to ProofML Assurance explained:   Assurance platform:  WIRE)--#AI--Monitaur, an AI governance software company, today announced the general availability of GovernML,"
-    publishedDateTime: 2022-04-05T16:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=642351"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 39
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
     excerpt: "Monitaur, an AI governance software company, announced the general availability of GovernML, the latest addition to its ML Assurance platform, designed for enterprises committed to responsible AI. Offered as a web-based,"
     publishedDateTime: 2022-04-05T20:36:00Z
     webUrl: "https://insidebigdata.com/2022/04/05/monitaur-launches-governml-to-guide-and-assure-entire-ai-life-cycle/"

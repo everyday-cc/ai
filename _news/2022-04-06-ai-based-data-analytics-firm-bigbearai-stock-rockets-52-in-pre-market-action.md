@@ -34,36 +34,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Real-time data analytics firm Tinybird nets $37m in Series A"
-    excerpt: "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,"
-    publishedDateTime: 2022-04-05T15:30:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/05/tinybird_series_a/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 44
-    images:
-      - url: "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg"
-        width: 648
-        height: 348
-        isCached: true
-  - title: "SpIntellx is ushering a new era of unbiased spatial analytics and explainable AI in precision pathology at AACR 2022"
-    excerpt: "SpIntellx announces that it will attend the 2022 Annual Meeting of American Association for Cancer Research in New Orleans, April 9-13, Booth # 3028 and Poster # 454 to present"
-    publishedDateTime: 2022-04-05T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/spintellx-is-ushering-a-new-era-of-unbiased-spatial-analytics-and-explainable-ai-in-precision/article_60f939a5-133b-5664-b879-d82d6a01cfc7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Speech Analytics Market Study Reveals Growth Factors and Competitive Outlook for Future Forecast 2022-2031"
     excerpt: "The speech analytics market was valued at USD 1.34 billion in 2019 and is expected to reach a value of USD 4.38 billion by 2025 at a CAGR of 21.6%, over the forecast period. Speech analytical solutions have the ability to enable users to gain insights,"
     publishedDateTime: 2022-04-06T22:32:00Z

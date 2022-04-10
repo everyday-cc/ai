@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-02-25-ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation.md",
-      "title": "IBM, NVIDIA and Bloomberg tout KServe becoming incubation project for LF AI & Data Foundation",
-      "excerpt": "IBM and Bloomberg announced on Thursday that KServe is joining the LF AI & Data Foundation as its latest incubation project. KServe provides a Kubernetes Custom Resource Definitio",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d19ca28ac531ef8f675fd64e4e99a7d409af47f4/2022/02/24/06de4d18-d1b2-4991-852a-4909e53450a9/pasted-image-0-4.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "publishedDateTime": "2022-02-24T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-23-this-new-dataset-shows-that-ai-still-lacks-commonsense-reasoning.md",
       "title": "This new dataset shows that AI still lacks commonsense reasoning",
       "excerpt": "In a new study, researchers attempt to measure the extent to which AI systems can abductively reason like humans.",
@@ -1410,6 +1357,60 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-its-machine-learning-not-ai.md",
+      "title": "It's machine learning, not AI.",
+      "excerpt": "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
+      "originalUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8",
+          "width": 1385,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-03-03-sanctuary-cognitive-systems-closes-c755-million-us58.md",
+      "title": "Sanctuary Cognitive Systems Closes C$75.5 Million (US$58.…",
+      "excerpt": "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, today announced the successful closing of an oversubscribed C$75.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook",
+          "width": 2104,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-02T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness.md",
       "title": "Doctors Using AI, Supercomputer To Predict And Prevent 50% Of Mental Illness",
       "excerpt": "If we can identify this early ... we can treat for and alleviate almost 50% of the mental illness that goes into adulthood,” Dr. John Pestian told me recently on the TechFirst podcast. “So catching it young,",
@@ -1117,48 +1160,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-uah-researching-artificial-intelligence-to-aid-in-solving-crime.md",
-      "title": "UAH researching artificial intelligence to aid in solving crime",
-      "excerpt": "HUNTSVILLE, Ala. (WHNT) — The University of Alabama in Huntsville is working on ways to use artificial intelligence (AI) to analyze cell phone data to aid in solving crime. Dr. Tathagata ...",
-      "sourceUrl": null,
-      "webUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/",
-      "originalUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://whnt.com/wp-content/uploads/sites/20/2022/03/uah-.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/",
-      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/stem/uah-researching-artificial-intelligence-to-aid-in-solving-crime/amp/",
-      "publishedDateTime": "2022-03-01T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

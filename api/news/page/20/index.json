@@ -2,6 +2,40 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
+      "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
+      "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-pasqal-quantum-computers-to-become-available-on-azure-quantum-this-year.md",
       "title": "Pasqal quantum computers to become available on Azure Quantum this year",
       "excerpt": "Microsoft has agreed a partnership with quantum startup Pasqal which will see its quantum computers become available on Azure Quantum later this year. This will provide users with cloud-based access to Azure’s first quantum processor based on neutral atom architecture,",
@@ -1105,58 +1139,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027.md",
-      "title": "Global Cognitive Data Management Market 2021 Key Players Analysis, Segmentation, Industry Size, Growth, Trend and Forecast by 2027",
-      "excerpt": "Mar 20, 2022 (CDN Newswire via Comtex) -- Global Cognitive Data Management Market Research Report 2021-2027 crafted by MarketsandResearch.biz encompasses a clear picture of the global market by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027-2022-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-data-management-market-2021-key-players-analysis-segmentation-industry-size-growth-trend-and-forecast-by-2027-2022-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

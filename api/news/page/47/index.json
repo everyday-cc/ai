@@ -2,6 +2,57 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-02-25-companies-improve-their-supply-chains-with-artificial-intelligence.md",
+      "title": "Companies Improve Their Supply Chains With Artificial Intelligence",
+      "excerpt": "Supply chain vendors have been touting their investments in artificial intelligence (AI) for years. But the number of places AI is being employed, really is increasing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6217e9d6209351e6e9949c9c/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2022/02/24/companies-improve-their-supply-chains-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-02-24T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-putting-ai-to-work-for-cx-and-sales-in-2022.md",
       "title": "Putting AI to work for CX and sales in 2022",
       "excerpt": "In sales, AI is often touted as the new way to forecast and drive results. While it sounds good, you can’t throw AI at just any problem.",
@@ -1097,49 +1148,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-robot-eases-pressures-and-boosts-performance-for-nep.md",
-      "title": "Robot Eases Pressures and Boosts Performance for NEP",
-      "excerpt": "To implement the robot, EAS assigned a dedicated technical developer to work with NEP and worked on a fixed price contract to give the not-for-profit organisation certainty in terms of cost of investment. Craig Alderson sees introducing RPA as the right ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/02/23/robot-eases-pressures-and-boosts-performance-for-nep",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/02/23/robot-eases-pressures-and-boosts-performance-for-nep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/ISyo0cmLv7W4PFKpP4xtr71Dsde7OyMotpHViEqG.jpeg?w=940&h=430&fm=jpg&fit=crop-50-47&s=5d98cded709870de67af2fc70960963f",
-          "width": 940,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

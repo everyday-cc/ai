@@ -2,6 +2,57 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-02-02-former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux.md",
+      "title": "Former Google AI exec joins Trax as top product officer to enhance omnichannel shopping UX",
+      "excerpt": "Trax announced that, Barak Turovsky, is joining as its new chief product officer. Turovsky will apply his expertise to enhance the omnichannel shopping experience of retailers, brands, and consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/online-shopping-shutterstock_224467054-1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
+      "publishedDateTime": "2022-02-01T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-idme-facial-recognition.md",
       "title": "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition",
       "excerpt": "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online.",
@@ -1111,49 +1162,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-a-decades-old-database-became-a-hugely-profitable-dossier-on-the-health-of-270-million-americans.md",
-      "title": "How a decades-old database became a hugely profitable dossier on the health of 270 million Americans",
-      "excerpt": "The deal was based almost entirely on the potential to combine its sprawling databases with the power of IBM’s Watson artificial intelligence engine to “change the face of health care.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/02/01/ibm-watson-health-marketscan-data/",
-      "originalUrl": "https://www.statnews.com/2022/02/01/ibm-watson-health-marketscan-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2022/01/MARKETSCAN_desktop_02-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

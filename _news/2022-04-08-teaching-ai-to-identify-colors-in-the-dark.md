@@ -18,40 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut"
-    excerpt: "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza"
-    publishedDateTime: 2022-04-05T15:48:00Z
-    webUrl: "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
-    ampWebUrl: "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai"
+  - title: "AI turns infrared images taken in total darkness into full colour"
+    excerpt: "The black-and-white images provided by night-vision cameras can be colourised using AI, but it must always be trained on similar images and is unlikely to ever work on unfamiliar general scenes"
+    publishedDateTime: 2022-04-06T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/2315047-ai-turns-infrared-images-taken-in-total-darkness-into-full-colour/"
+    ampWebUrl: "https://www.newscientist.com/article/2315047-ai-turns-infrared-images-taken-in-total-darkness-into-full-colour/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2315047-ai-turns-infrared-images-taken-in-total-darkness-into-full-colour/amp/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 74
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg"
-        width: 708
-        height: 419
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/04/06173348/SEI_97439124.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Bridging the Gap Between Neuroscience and Artificial Intelligence"
-    excerpt: "Throughout history, neuroscience has had a significant impact on the development of artificial intelligence (AI), such as Perceptron - the first artificial neural network, and computer vision models."
-    publishedDateTime: 2022-04-06T08:03:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/36632/bridging-the-gap-between-neuroscience-and-artificial-intelligence"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 19
-  - title: "Does this artificial intelligence think like a human?"
-    excerpt: "MIT researchers developed a method that helps a user to better understand a machine-learning model’s reasoning, and how that reasoning compares to that of a human. The technique enables a user to rapidly identify and analyze patterns in a model’s behavior."
-    publishedDateTime: 2022-04-06T14:38:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/948925"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "mki5AmL9S/WK5AoIqEgSdXoRFYYwpmaL9SYkFXrVQ8WNN+1cb4gxKOe5lFL3UGC7aPskYOZLxh34//ZKWsd7tx9w3CROCJly8Fy1FXDBVZ/gofZcXOqO8veBys2ij5V6SUBFYB7/5x7oMzUFbhCtihuusfF2Nul9YuC3f6GX/sdIFvlbjTGJz0LP3LjwS2LQ15/Mg9VgP7ovefIHuTHA2vCu0+cgHkZbvKHJMUIa5FCX6CAKH+URCF7YhAQSbFTbvq2FbU/AtOxFsT2G2ZfPGaqWpXHcDrtptTX4Ov9kxj4gxUvZhdLrbDSauCUn4w3cotU1EqVcEkylU48D1ajHnr1o2Mf3X43ZyShVsdXhQmO7IrYIqt8EtSV0/w/8emMSLA/MTvYdZ73PXZ7FJBc72A0dpqjJ73kMzMuj+1Iiw8mEoS/xRJ/9N/VxcqjuohgVjr1iSDxN47IftiaM4o5DJN4QHYYMuVZ4jE0Df0yhmcYDg6EjM0ruYVQ2rxDe/uAx//1eMcLylkPMtmdYemkHpg==;OjUebjqiTwu/xYUa9PVUKQ=="
 ---

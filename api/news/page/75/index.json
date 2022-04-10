@@ -2,6 +2,58 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
+      "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
+      "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
+      "originalUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/gm-cruise-car.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
+      "publishedDateTime": "2022-02-02T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-findability-hopes-to-make-ai-adoption-easier-for-enterprises.md",
       "title": "Findability hopes to make AI adoption easier for enterprises",
       "excerpt": "When rolling out a suite like Findability’s, he added, “Now within just a few months their products can be enabled with AI, and it’ll start telling their end customers that ‘This will ...",
@@ -1169,49 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-fintech-cadence-announces-partnership-with-fintel-connect.md",
-      "title": "Fintech Cadence Announces Partnership with Fintel Connect",
-      "excerpt": "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/14/014d7741-65f6-5688-9ccd-386fd168c483/61fa8b489d478.image.jpg?crop=1080%2C567%2C0%2C20&resize=1080%2C567&order=crop%2Cresize",
-          "width": 1080,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
