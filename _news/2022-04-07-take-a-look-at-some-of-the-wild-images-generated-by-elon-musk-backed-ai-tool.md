@@ -18,26 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Peloton AI tool to exercise at home"
-    excerpt: "US start-up Peloton proved popular during the pandemic, providing its bespoke exercise bikes linked to live and recorded classes as a home based fitness solution. It was important exercise for many stuck at home in lockdown."
-    publishedDateTime: 2022-04-06T03:31:00Z
-    webUrl: "https://www.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
-    ampWebUrl: "https://amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/life/gadgets/peloton-guides-movement-tracker-monitors-training-at-home/news-story/e8eeb1e7a326d810af023551eeb6a5d2"
+  - title: "What are the Top 5 Investments of Elon Musk"
+    excerpt: "The title of world’s richest person can vary on any given day, based on business share prices—but Elon Musk has recently held that position. Musk has been dubbed a genius for his business acumen, communication style,"
+    publishedDateTime: 2022-04-10T17:01:00Z
+    webUrl: "https://techstory.in/what-are-the-top-5-investments-of-elon-musk/"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 37
-  - title: "Can Peloton’s new AI transform my midlife body?"
-    excerpt: "With a camera monitoring every sweaty move, the fitness brand hopes real-time weight training feedback will prove addictive to subscribers"
-    publishedDateTime: 2022-04-06T11:41:00Z
-    webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-pelotons-new-ai-transform-midlife-body/?fr=operanews"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 17
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://i.insider.com/60900b1834af8d001859a83f?width=700"
+        width: 700
+        height: 350
+        isCached: true
 
 secured: "9J3jSz2UefB8hBRwB7nO8JPEcp+9dCJJNdg/HYxtvWagTt5QjS96wJS7esVwZF885YnplQ/SlWk7dVFatafs23+Fjj0mvIDCLfPspi3PP1aG6n17BEmWmr8HscV0HHAOxXQDniCo6tr5MB6kLRtfD3H3jVzrAZa4OmRPDemOLTuzj4uzFSZipqxSP6KGh8qHIGiZ3eauRWJ4JwH6WvY1Vpz8F4SIBv+vIoEHHgFSlPwrnAKrlqgwkj755LZR/KDhiNDSTxzUwE50/n90nFw7aLvHtF+bPZAFLd/apBJm9Cb2a1AJ+/DaR66aDQCv61rtq4z4tlrsBq0OugnHwKrZ+bzIgm4P7/BWhFmeHGMAbRQV4f/ZvEw8AsEFRrJaJQ+KNhlGQd7ooo3a/iQJjLyVYA1qNxzpI311vffjKlI30/0tDr7x/7oohWeZuvDsP39/gVS5RTmCWofhOtPzHML9/134nGxLykK0ZMHQ9DPW++NpdhB3FAUt+MYq2y4xAdEKMjAUj6Y7U53LogrdZgAW3g==;tUc8oHYBfskGPUHg+G2VFg=="
 ---

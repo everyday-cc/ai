@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T18:10:00Z
 originalUrl: "https://venturebeat.com/2022/04/10/how-data-scientists-can-create-a-more-inclusive-financial-services-landscape/"
 webUrl: "https://venturebeat.com/2022/04/10/how-data-scientists-can-create-a-more-inclusive-financial-services-landscape/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: VentureBeat

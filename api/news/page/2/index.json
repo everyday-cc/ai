@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-08-the-census-is-broken-can-ai-fix-it.md",
+      "title": "The Census Is Broken. Can AI Fix It?",
+      "excerpt": "Machine learning can help count people to deliver government funding and decide political representation, but the technology still makes mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
+      "originalUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/624f885dd8687dcbd6e67c3e/master/pass/Ping-Pong-Balls-Census-Broken-AI-Fix-Business-1192111792.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-census-undercount-ai-satellites/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-census-undercount-ai-satellites/amp",
+      "publishedDateTime": "2022-04-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-understanding-baumols-cost-disease-and-its-impact-on-healthcare.md",
+      "title": "Understanding Baumol’s Cost Disease And Its Impact On Healthcare",
+      "excerpt": "While the impact of Baumol’s cost disease is inevitable in healthcare, technologies like automation offer exciting possibilities for mitigating rising costs—now and in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ee52559c49dfcd9ca5af6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/understanding-baumols-cost-disease-and-its-impact-on-healthcare/amp/",
+      "publishedDateTime": "2022-04-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-alibabas-artificial-intelligence-tool-to-improve-efficiency-of-chinas-waste-to-energy-plants.md",
       "title": "Alibaba’s artificial intelligence tool to improve efficiency of China’s waste-to-energy plants",
       "excerpt": "Alibaba Cloud’s AI algorithm, currently deployed in 100 waste-burning facilities in 30 Chinese cities, will be installed in 300 more plants by the year-end.",
@@ -356,7 +460,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -504,7 +608,7 @@
       "originalUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -777,7 +881,7 @@
       "originalUrl": "https://360.here.com/ai-aware-project",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1107,93 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-opinion-calif-should-extend-facial-recognition-ban.md",
-      "title": "Opinion: Calif. Should Extend Facial Recognition Ban",
-      "excerpt": "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
-      "originalUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
-      "publishedDateTime": "2022-04-06T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents.md",
-      "title": "Benchmark test of AI's performance, MLPerf, continues to gain adherents",
-      "excerpt": "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "originalUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "publishedDateTime": "2022-04-06T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

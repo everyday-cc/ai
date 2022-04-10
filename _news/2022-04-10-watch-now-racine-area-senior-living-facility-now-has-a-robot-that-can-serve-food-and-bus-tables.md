@@ -24,6 +24,17 @@ images:
     height: 631
     isCached: true
 
+related:
+  - title: "Watch Now: Caledonia senior living facility's robot serves food, buses tables"
+    excerpt: "St. Monica’s Senior Living, 3920 N. Green Bay Road, first implemented Robby, a Servi Robot made by Bear Robotics, on March 21. It’s not meant to replace humans, but instead"
+    publishedDateTime: 2022-04-10T16:00:00Z
+    webUrl: "https://journaltimes.com/news/local/watch-now-caledonia-senior-living-facilitys-robot-serves-food-buses-tables/article_76ab8940-b5f2-11ec-992b-03a81afa1bae.html"
+    type: article
+    provider:
+      name: The Journal Times
+      domain: journaltimes.com
+    quality: 16
+
 secured: "jVQJBguQlyTjdjAcvZC2VDJY/AD1Lbat2wrKMj9yJV/o4xkLx4FhklPV1qTD//zV4/uDF7fgRyG7OvH7XFs70PT/WhydczedZbdVTt7VN2Ul3jAUpyC28DgzbkDRQuBHiAB5LOiMvs1jx9jHUbvw9EZ1N277+mzTqbA94a8Z7JJxs0pFji521ScD6wrncYltfCI71OWwxMyMyq4Fn4z5E1l0m0upGl+mftun1HTJWStt1Ktq4etDHrPvVCZylIMRqNpdhdDQGmQA6cYLLXfi+2nxP8JxwADxgwwDjHlseZxI6mX1ECV1nh2tKeNhgFkt9R1Ypraf0ldcEkw0VCVGgL5K5VCKi1Pt82/jVs3xb8tK65z9vEg2JokfWYjEwla4naKx3yE2+ek3hsQy5QwHv9d5LDIEvdb2684DWqYvZElYl4vzmkswyy4G7/tcoe9Vp4Pdqs+cy0uUA6OdpRVFlW/4Ea+Re1LEcCYWFm9UY58Hm6/ahDT3h0x2Hl3tFF+I/ZK3Tojtm3kaJehCl1iTIA==;eK0yLM0W6T74+MYrgoh1Gg=="
 ---
 

@@ -24,29 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "News: Tredence strengthens India presence with new AI delivery and R&D centres"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, leading data science solutions provider Tredence Inc, today announced the opening of delivery centres in Bengaluru, G"
-    publishedDateTime: 2022-04-06T03:52:00Z
-    webUrl: "https://www.peoplematters.in/news/technology/tredence-strengthens-india-presence-with-new-ai-delivery-and-rd-centres-33474"
+  - title: "Next-generation AI cardiac imaging platform launches with new, FDA-approved modules"
+    excerpt: "Arterys announced it has added several new elements to its artificial intelligence-enhanced cardiac MRI platform and an additional FDA clearance for two quantification modules. According to a company press release,"
+    publishedDateTime: 2022-04-07T15:29:00Z
+    webUrl: "https://www.healio.com/news/cardiology/20220407/nextgeneration-ai-cardiac-imaging-platform-launches-with-new-fdaapproved-modules"
     type: article
     provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 33
+      name: Healio
+      domain: healio.com
+    quality: 31
     images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
-        width: 990
-        height: 550
+      - url: "https://www.healio.com/~/media/slack-news/stock-images/pulmonology/a/approved-fda_shutterstock.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Tredence strengthens its foothold in India by opening AI Delivery and R&D centers"
-    excerpt: "Riding on the growing demand for AI solutions across sectors, Tredence Inc, a leading data science solutions provider, today announced the opening of delivery centers in Bengaluru, Gurugram and Chennai,"
-    publishedDateTime: 2022-04-06T05:22:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220406/3928042.html"
+  - title: "Relyance AI to Demonstrate Critical New Modules for its Machine Learning Powered Privacy Platform at the IAPP Global Privacy Summit"
+    excerpt: "Relyance AI, the leading provider of AI-powered privacy, data governance, and compliance solutions, today announced it will showcase its groundbreaking platform and new software products at the upcoming IAPP Global Privacy Summit."
+    publishedDateTime: 2022-04-07T10:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/relyance-ai-to-demonstrate-critical-new-modules-for-its-machine-learning-powered-privacy-platform-at/article_0cc0839b-0e94-5493-9d5a-ec4682c6998b.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "sn2rdjNYrZ237M3HMdg/nBHyqFeqnI3t6ZmKLA1MBzBXKrwIU7Yoh4NEGeZyifypzFQFNUpuuUOmVpPAwjsmkGzXmu2bPHVYlkCagywiRPDx2ZQFYhtCxFNC7gumb3LyRP2a+4oOnmhbXQF9F41Pi1zjGi+mjU4hjdMWpuIwXiDADpTyk6VIKMVP04Q+EhFFxCHKw4pw6nQ0ttATPHoSNp0wyMcG/oGO9WFWUEOuLmmWxwCVbLpkct2SmB7ZGcUJ1KkzL8cMxU2lmajxgj1p5BDuUxygsdk4lGrQheTmkEA4bwbvNuKfsWaH4Q+bSs9fTl3radPGFJsUY19VE306+uIHS0jDRg/llIYi5dO6wyA=;AdiUh79hkhoNRKwv+KMUcw=="
 ---

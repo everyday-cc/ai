@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-07-opinion-calif-should-extend-facial-recognition-ban.md",
+      "title": "Opinion: Calif. Should Extend Facial Recognition Ban",
+      "excerpt": "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "originalUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true",
+      "publishedDateTime": "2022-04-06T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents.md",
+      "title": "Benchmark test of AI's performance, MLPerf, continues to gain adherents",
+      "excerpt": "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
+      "originalUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
+      "publishedDateTime": "2022-04-06T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-meet-dall-e-the-ai-that-draws-anything-at-your-command.md",
       "title": "Meet DALL-E, the A.I. That Draws Anything at Your Command",
       "excerpt": "New technology that blends language and images could serve graphic artists — and speed disinformation campaigns. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
@@ -62,7 +149,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -556,29 +643,38 @@
       ]
     },
     {
-      "path": "_news/2022-04-06-inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups.md",
-      "title": "Inside the AI2 Incubator: Microsoft co-founder’s unfinished legacy fuels quest for new AI startups",
-      "excerpt": "Google Cloud and Microsoft Azure, as well as workstations at the incubator. But without the bankrolls of big tech companies or larger institutions, they need to be creative and scrappy in their approach, starting with pre-trained AI models in creating ...",
+      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
+      "title": "ACM Prize in Computing Recognizes Pioneer of Robot Learning",
+      "excerpt": "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022",
       "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/",
-      "originalUrl": "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 81,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg",
+          "width": 267,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/",
-      "publishedDateTime": "2022-04-06T07:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -594,9 +690,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI",
-        "AI in Autos"
+        "AI in Robotics"
       ]
     },
     {
@@ -1135,101 +1231,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-researchers-identify-new-medicines-using-interpretable-deep-learning-predictions.md",
-      "title": "Researchers identify new medicines using interpretable deep learning predictions",
-      "excerpt": "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg",
-          "width": 1379,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp",
-      "publishedDateTime": "2022-04-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-customize-the-amazon-sagemaker-xgboost-algorithm-container.md",
-      "title": "Customize the Amazon SageMaker XGBoost algorithm container",
-      "excerpt": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/18/ML-2441-archdiag.png",
-          "width": 570,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T10:24:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -1,42 +1,36 @@
 ---
 category: news
-title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
-publishedDateTime: 2022-04-08T09:37:00Z
-originalUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+title: "Get 42 hours of Microsoft Azure training for under $6 per course"
+excerpt: "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary"
+publishedDateTime: 2022-04-10T21:20:00Z
+originalUrl: "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
+webUrl: "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
 type: article
-quality: 25
-heat: -1
-published: false
+quality: 119
+heat: 209
+published: true
 
 provider:
-  name: finanzen
-  domain: finanzen.at
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
+images:
+  - url: "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp"
+    width: 1200
+    height: 800
+    isCached: true
+
 related:
-  - title: "Get 42 hours of Microsoft Azure training for under $6 per course"
-    excerpt: "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary"
-    publishedDateTime: 2022-04-10T21:20:00Z
-    webUrl: "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Inside the AI2 Incubator: Microsoft co-founder’s unfinished legacy fuels quest for new AI startups"
     excerpt: "Google Cloud and Microsoft Azure, as well as workstations at the incubator. But without the bankrolls of big tech companies or larger institutions, they need to be creative and scrappy in their approach, starting with pre-trained AI models in creating ..."
     publishedDateTime: 2022-04-06T14:21:00Z
@@ -132,6 +126,17 @@ related:
       domain: insidehpc.com
     quality: 25
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
+    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
+    publishedDateTime: 2022-04-08T09:37:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 25
+  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft’s market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
     publishedDateTime: 2022-04-07T16:30:00Z
     webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-4381f5d165f3ad463be34179c97c47ca"
@@ -141,6 +146,6 @@ related:
       domain: apnews.com
     quality: 5
 
-secured: "vw2Xbefsb96OFb+rQ5PQoKcJthkjQBSHu5qh4xhPg7tBEUG98fMzJsIuY7U9kTVAR2gjOhqqzPht0W6sm7d6EFgCSZCGQNHrnWG4RyMqfgbjaeb+uD9IpJIYNGG2hL+6fGacBuLtPZOIzu4ulwoLf2zmUxFT1vHQ02uPEvXKDqvpoNpnrGKLgTO3XQ3/322nSr03g6Ie7wU2ao7htxdM5xfRyjKyerugpcbgyJTiGRfdJ5kzmNZg+YZyFffb0cX9CtoX/gTPe8G4aD7o5iDD8qarAvRFExiLEofo/4GhS4+YNQNelCvx/aWnQ4n+14WC+oybXqtLukWKtIQnpVM50mABQzFPCpsewaJXjvpHOCw=;YKgFAB2kgXzwEi8DzH2/+Q=="
+secured: "ICC6eG/4iYLVBbU6i6ZPh8X0tDb3AnRi/lr7THEtvoHi6bpuXE112+MJr3fFFi4+VEDS03dzN554PLGMpMdnFyGXWRMaG4jP3fnRvE5qjEI9yc6fglUIcZzIKu0CWE/tTigd00vlyAPG8br4+EIP4elW1cOJF+QjJOn0hDNlF9cQ6VDuVintPKAYafCtQgHkeqVI67wPo/1TpdKZhilyH2DYP/+MosvdGY+ZL5n1Af4LahPMVco66f5uFhhWkh/oOnk9qsv++b0z/LcAvMCsxKuQu8SFQF5ih2Yje99iZo3QVQKmNoqh+6nvCPDhiq8OkoBuYSwOSHeJSzQO+71Tmi72M6AsFs7Mcf8fl2O9Mak=;5wSCTkpDd7+RvvyShzWYyw=="
 ---
 

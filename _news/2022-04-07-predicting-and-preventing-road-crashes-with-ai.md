@@ -9,7 +9,7 @@ ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
 cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
 type: article
 quality: 57
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning rising in importance within booming AI sector"
-    excerpt: "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,"
-    publishedDateTime: 2022-04-06T01:40:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
     excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
     publishedDateTime: 2022-04-07T21:44:00Z

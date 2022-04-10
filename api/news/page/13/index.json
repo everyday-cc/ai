@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-28-self-driving-startup-zongmu-raises-157-million-in-new-funds.md",
+      "title": "Self-Driving Startup Zongmu Raises $157 Million in New Funds",
+      "excerpt": "(Bloomberg) --Zongmu Technology Shanghai Co. has raised more than 1 billion yuan ($157 million) in a new round as the Chinese autonomous driving system startup looks to build a new production plant. State-backed funds Dongyang State-Owned Assets Investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/china/self-driving-startup-zongmu-raises-157-million-in-new-funds",
+      "originalUrl": "https://www.bloombergquint.com/china/self-driving-startup-zongmu-raises-157-million-in-new-funds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
+      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
+      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
+      "sourceUrl": null,
+      "webUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "originalUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wreg.com/wp-content/uploads/sites/18/2022/03/CBP-IMAGE-ASTs.png?w=1280",
+          "width": 896,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "publishedDateTime": "2022-03-27T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
       "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
@@ -1087,101 +1173,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-medical-revolution-ai-firm-weiyun-ai-robotics-group-launches-orthodontic-smart-alignment-system-venus-10.md",
-      "title": "Medical Revolution: AI Firm WEIYUN AI & Robotics Group Launches Orthodontic Smart Alignment System Venus 1.0",
-      "excerpt": "Recently, the leading surgical robotic and AI customerized industrial Internet company - Weiyun AI&Robotics Group has successfully developed AI SMILE Orthodontic Smart Alignment System named Venus 1.0,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/space-exploration-science-technology-health-business-98ad2bafd450f18e353b9fdcc283f668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
-      "title": "China’s latest brainwave? Controlling space robots using mind power",
-      "excerpt": "A device that can be controlled by a user’s brain has achieved unprecedented accuracy in tests and could be used at the Chinese space station, scientists say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/25/ed9c6cc4-01e6-4c1b-86b0-38139667623d_72a3c279.jpg?itok=hLxpK9b5&v=1648220192",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "publishedDateTime": "2022-03-25T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

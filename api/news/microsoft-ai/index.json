@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-11-get-42-hours-of-microsoft-azure-training-for-under-6-per-course.md",
+      "title": "Get 42 hours of Microsoft Azure training for under $6 per course",
+      "excerpt": "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "originalUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
+      "publishedDateTime": "2022-04-10T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
       "title": "How AI could help enterprises to reduce data storage costs",
       "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -106,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -147,50 +199,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups.md",
-      "title": "Inside the AI2 Incubator: Microsoft co-founder’s unfinished legacy fuels quest for new AI startups",
-      "excerpt": "Google Cloud and Microsoft Azure, as well as workstations at the incubator. But without the bankrolls of big tech companies or larger institutions, they need to be creative and scrappy in their approach, starting with pre-trained AI models in creating ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/",
-      "originalUrl": "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/",
-      "publishedDateTime": "2022-04-06T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
       ]
     },
     {

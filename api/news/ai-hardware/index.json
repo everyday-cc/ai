@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-11-2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory.md",
+      "title": "2022 DesignCon Shows Evolution Of Electronic Chip Communication And Memory",
+      "excerpt": "DesignCon covered electronic design and integration, including photonic in chip communication. Rambus presented talks discussing the use of various xDDR and HBM memories for various applications including edge AI training,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62534598a4ecd6156f4ebda5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/",
+      "publishedDateTime": "2022-04-10T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
       "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
       "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
@@ -1230,33 +1282,24 @@
     {
       "path": "_news/2022-03-28-ai-chip-company-syntiant-raises-55-million-to-accelerate-growth.md",
       "title": "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth",
-      "excerpt": "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today announced that it has closed $55 million in new funding,",
+      "excerpt": "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552",
+      "webUrl": "https://www.bakersfield.com/ap/news/ai-chip-company-syntiant-raises-55-million-to-accelerate-growth/article_d6e15e7c-c446-5f0d-82c6-862c8aac6ac2.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/ai-chip-company-syntiant-raises-55-million-to-accelerate-growth/article_d6e15e7c-c446-5f0d-82c6-862c8aac6ac2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T05:52:00-07:00",
+      "publishedDateTime": "2022-03-28T05:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1352,58 +1395,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
       "publishedDateTime": "2022-03-27T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-27-nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin.md",
-      "title": "NVIDIA Ups The Ante On Edge AI With Jetson AGX Orin",
-      "excerpt": "With Jetson AGX Orin, NVIDIA promises server-class AI performance at the edge, making it the best-in-class edge platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6240029a9902b9aee86f0b13/0x0.jpg?format=jpg&width=1200",
-          "width": 1138,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/",
-      "publishedDateTime": "2022-03-26T23:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

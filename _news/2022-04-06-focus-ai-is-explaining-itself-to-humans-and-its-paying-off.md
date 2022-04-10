@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "BrainChip, SiFive partner to bring AI and ML to edge computing"
-    excerpt: "The integration of BrainChip's Akida technology and SiFive's multi-core capable RISC-V processors is expected to provide an efficient solution for integrated edge AI computing."
-    publishedDateTime: 2022-04-06T01:27:00Z
-    webUrl: "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/"
-    ampWebUrl: "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/"
+  - title: "How AI and imagery build a self-updating map"
+    excerpt: "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into"
+    publishedDateTime: 2022-04-07T17:00:00Z
+    webUrl: "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/"
+    ampWebUrl: "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pexels-suzy-hazelwood-2679323.max-1300x1300.jpg"
+        width: 1300
+        height: 812
         isCached: true
   - title: "FOCUS-AI is explaining itself to humans. And it's paying off"
     excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion. By Paresh Dave OAKLAND, Calif., April 6 (Reuters) - Microsoft Corp's MSFT.O LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion. The system, introduced last July and described in a LinkedIn blog post on Wednesday, marks a breakthrough in getting AI to \"show its work\" in a helpful way. While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human operators, the AI may need to explain itself through another algorithm. The emerging field of “Explainable AI,” or XAI, has spurred big investment in Silicon Valley as startups and cloud giants compete to make opaque software more understandable and has stoked discussion in Washington and Brussels where regulators want to ensure automated decision-making is done fairly and transparently. AI technology can perpetuate societal biases like those around race, gender and culture. Some AI scientists view explanations as a crucial part of mitigating those problematic outcomes. U.S. consumer protection regulators including the Federal Trade Commission have warned over the last two years that AI that is not explainable could be investigated. The EU next year could pass the Artificial Intelligence Act, a set of comprehensive requirements including that users be able to interpret automated predictions. Proponents of explainable AI say it has helped increase the effectiveness of AI’s application in fields such as healthcare and sales. Google Cloud GOOGL.O sells explainable AI services that, for instance, tell clients trying to sharpen their systems which pixels and soon which training examples mattered most in predicting the subject of a photo. But critics say the explanations of why AI predicted what it did are too unreliable because the AI technology to interpret the machines is not good enough. LinkedIn and others developing explainable AI acknowledge that each step in the process - analyzing predictions, generating explanations, confirming their accuracy and making them actionable for users - still has room for improvement. But after two years of trial and error in a relatively low-stakes application, LinkedIn says its technology has yielded practical value. Its proof is the 8% increase in renewal bookings during the current fiscal year above normally expected growth. LinkedIn declined to specify the benefit in dollars, but described it as sizeable. Before, LinkedIn salespeople relied on their own intuition and some spotty automated alerts about clients' adoption of services. Now, the AI quickly handles research and analysis. Dubbed CrystalCandle by LinkedIn, it calls out unnoticed trends and its reasoning helps salespeople hone their tactics to keep at-risk customers on board and pitch others on upgrades. LinkedIn says explanation-based recommendations have expanded to more than 5,000 of its sales employees spanning recruiting, advertising, marketing and education offerings. \"It has helped experienced salespeople by arming them with specific insights to navigate conversations with prospects. It’s also helped new salespeople dive in right away,\" said Parvez Ahammad, LinkedIn's director of machine learning and head of data science applied research. In 2020, LinkedIn had first provided predictions without explanations. A score with about 80% accuracy indicates the likelihood a client soon due for renewal will upgrade, hold steady or cancel. Salespeople were not fully won over. The team selling LinkedIn's Talent Solutions recruiting and hiring software were unclear on how to adapt their strategy, especially when the odds of a client not renewing were no better than a coin toss. Last July, they started seeing a short, auto-generated paragraph that highlights the factors influencing the score. For instance, the AI decided a customer was likely to upgrade because it grew by 240 workers over the past year and candidates had become 146% more responsive in the last month. In addition, an index that measures a client's overall success with LinkedIn recruiting tools surged 25% in the last three months. Lekha Doshi, LinkedIn's vice president of global operations, said that based on the explanations sales representatives now direct clients to training, support and services that improve their experience and keep them spending. But some AI experts question whether explanations are necessary. They could even do harm, engendering a false sense of security in AI or prompting design sacrifices that make predictions less accurate, researchers say. Fei-Fei Li, co-director of Stanford University's Institute for Human-Centered Artificial Intelligence, said people use products such as Tylenol and Google Maps whose inner workings are not neatly understood. In such cases, rigorous testing and monitoring have dispelled most doubts about their efficacy. Similarly, AI systems overall could be deemed fair even if individual decisions are inscrutable, said Daniel Roy, an associate professor of statistics at University of Toronto. LinkedIn says an algorithm's integrity cannot be evaluated without understanding its thinking. It also maintains that tools like its CrystalCandle could help AI users in other fields. Doctors could learn why AI predicts someone is more at risk of a disease, or people could be told why AI recommended they be denied a credit card. The hope is that explanations reveal whether a system aligns with concepts and values one wants to promote, said Been Kim, an AI researcher at Google. \"I view interpretability as ultimately enabling a conversation between machines and humans,\" she said. INSIGHT-Deepfake anyone? AI synthetic media tech enters perilous phase INSIGHT-Money, mimicry and mind control: Big Tech slams ethics brakes on AI (Reporting by Paresh Dave; Editing by Kenneth Li and Lisa Shumaker) ((paresh.dave@thomsonreuters.com; 415-565-1302;)) The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc. Reuters, the news and media division of Thomson Reuters, is the world’s largest international multimedia news provider reaching more than one billion people every day. Reuters provides trusted business, financial, national, and international news to professionals via Thomson Reuters desktops, the world's media organizations, and directly to consumers at Reuters.com and via Reuters TV."
@@ -48,15 +48,45 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Brainchip and Sifive Collaborate To Bring AI and ML to Edge Computing"
-    excerpt: "BrainChip and SiFive have announced that they have combined their respective technologies to offer chip designers optimized Artificial"
-    publishedDateTime: 2022-04-06T11:56:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/brainchip-and-sifive-collaborate-to-bring-ai-and-ml-to-edge-computing/"
+  - title: "How AI and natural language processing boost programmatic ads"
+    excerpt: "Effectively using DSPs is hampered by a lack of in-depth analytics, but AI and natural language processing help programmatic advertising reach its potential."
+    publishedDateTime: 2022-04-06T16:24:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-ai-and-natural-language-increase-programmatics-potential/2410601"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 51
+      name: Ad Age
+      domain: adage.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/STR_Lead%20in%20Image%20for%20AdAge%20article%20%233_V1.1_0.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google AI Can Update Local Listing Hours Including Live Traffic, Street View Imagery & More"
+    excerpt: "Google announced that it will update the local business hours listed in Google Maps and Google Search of over 20 million businesses using AI. How? Google said it looks at a multitude of things includ"
+    publishedDateTime: 2022-04-08T11:31:00Z
+    webUrl: "https://www.seroundtable.com/google-local-listings-hours-ai-33215.html"
+    ampWebUrl: "https://www.seroundtable.com/amp/google-local-listings-hours-ai-33215.html"
+    cdnAmpWebUrl: "https://www-seroundtable-com.cdn.ampproject.org/c/s/www.seroundtable.com/amp/google-local-listings-hours-ai-33215.html"
+    type: article
+    provider:
+      name: Search Engine Roundtable
+      domain: seroundtable.com
+    quality: 47
+    images:
+      - url: "https://s3.amazonaws.com/images.seroundtable.com/google-store-hours-local-1649353406.jpg"
+        width: 640
+        height: 326
+        isCached: true
+  - title: "Similarity Between Artificial Intelligence and Human"
+    excerpt: "a graduate student in the Visualization Group of the Computer Science and Artificial Intelligence Laboratory (CSAIL). \"On one end of the spectrum, your model made the decision for the exact same reason a human did, and on the other end of the spectrum ..."
+    publishedDateTime: 2022-04-09T18:25:00Z
+    webUrl: "https://www.medindia.net/news/similarity-between-artificial-intelligence-and-human-206542-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "Dug/DT8TCsXKh38stdhl75X+aRnckijapcFLT6s5DiZxf0l5JFTg0NW8zc1i3i3d0sn+PO7aBCkAFKbfjfuDF3FTBhSoFTEleK1AbCGA9k+HCXbCvZ7lhYhMPsrK3U8nFf8+dglm/dsMoOdJE5qFw3tKWY+PqIKR8N03uNwbPD2jMOs2tOeFhSM0Q77sbMmd1nuvkcENUtyxW32dZTBE+JCrAgAFKC0B7wJWTgjfEBUfVoug4hSGi4UAYZDdA++0zGkcCNcuibZUB13T33xgQhv3cyZBcpZA1GOmwR5GSjEjqp/w+iWWfh+TCBHnM7/PyYF8f7+OnPxFhuU1PJL/1u25BmczAlBFDhl26jAWqSWnfcHLyaHEBcHcl4vJVALQJ0DMQXx89P+JatnkfYBZAJy+0NNJh3CGNE5BG27qZWNF1By5MZSc8ltMGbdc+ikrrHeGo4evanqwYNuEKMCWUitm/uPQBRwOVLaJt2moInbQ+/kwwQp1oqqba5kj4UBcVZEs6gI4ukqYIOnfLvI6yw==;C5r/dScEGl00pShHHYxLzA=="
 ---

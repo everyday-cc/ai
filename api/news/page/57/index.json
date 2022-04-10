@@ -2,6 +2,101 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-02-17-how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery.md",
+      "title": "How Digital Therapeutics Platforms Are Revolutionizing Healthcare Delivery",
+      "excerpt": "Digital therapeutics companies are expanding their impact across different parts of the patient journey and are redefining healthcare delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/614ce94ea1ed8a7dd6d4e740/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery/amp/",
+      "publishedDateTime": "2022-02-17T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle.md",
+      "title": "Neural Network Market Trends and Opportunities 2022-2028 | Google, IBM, Oracle",
+      "excerpt": "In this sense, a neural network represents a system of neurons, either organic or artificial in nature. The growing number of cloud-based solution implementations is driving the neural networks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle",
+      "originalUrl": "https://www.digitaljournal.com/pr/neural-network-market-trends-and-opportunities-2022-2028-google-ibm-oracle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/49ad41fac65547ea402e49fd5206b4df4af5321f-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-jaguar-land-rover-teams-up-with-silicon-valley-firm-to-up-its-digital-tech-game.md",
       "title": "Jaguar Land Rover teams up with Silicon Valley firm to up its digital tech game",
       "excerpt": "Detroit - Jaguar Land Rover is teaming up with Silicon Valley-based artificial intelligence company Nvidia ... has a previous deal with Alphabet's Waymo unit to deploy autonomous driving technology.",
@@ -1059,110 +1154,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-prepare-time-series-data-with-amazon-sagemaker-data-wrangler.md",
-      "title": "Prepare time series data with Amazon SageMaker Data Wrangler",
-      "excerpt": "Time series data is widely present in our lives. Stock prices, house prices, weather information, and sales data captured over time are just a few examples. As businesses increasingly look for new ways to gain meaningful insights from time-series data, the ability to visualize data and apply desired",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-time-series-data-with-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-time-series-data-with-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/13/ML-6133-decomposition-1106x630.png",
-          "width": 1106,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T08:35:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
-      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
-      "excerpt": "DETROIT, Feb 16 (Reuters) - Luxury automaker Jaguar Land Rover (TAMOJL.UL) and Silicon Valley artificial intelligence company ... with Alphabet Inc's (GOOGL.O) Waymo unit to deploy autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/lDKr2wQMMv6csePVXeGKl7gImc4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4I3LW5Z4NK5XD3QVCGL5T6TCU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T18:42:00Z
 originalUrl: "https://www.axios.com/texas-self-induced-abortion-dropped-9ffc892b-8acc-40f1-b262-36621bac8b31.html"
 webUrl: "https://www.axios.com/texas-self-induced-abortion-dropped-9ffc892b-8acc-40f1-b262-36621bac8b31.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Axios

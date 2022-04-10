@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-03-15-heres-looking-at-you-kid-the-problematic-adoption-of-facial-recognition-systems.md",
+      "title": "Here's looking at you, kid - the problematic adoption of facial recognition systems",
+      "excerpt": "Facial recognition systems are one of the most controversial areas of real world AI. But despite the ethical qualms, facial recognition is now in use across multiple industries. Can regulation catch up?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "originalUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-12/facial-recognition.jpg",
+          "width": 1265,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "publishedDateTime": "2022-03-15T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-roborock-s7-maxv-ultra-review-this-bot-cleans-its-own-bottom.md",
+      "title": "Roborock S7 MaxV Ultra review: this bot cleans its own bottom",
+      "excerpt": "Essentially a combination of the S7 and the S6 MaxV (which has obstacle avoidance), the S7 MaxV adds an improved object recognition tech Roborock calls “ReactiveAI 2.0 Obstacle Avoidance System.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22960447/roborock-s7-maxv-ultra-review-robot-vacuum-mop-hybrid",
+      "originalUrl": "https://www.theverge.com/22960447/roborock-s7-maxv-ultra-review-robot-vacuum-mop-hybrid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_yX3l06x-COqCm8WssZH3exNjW0=/0x38:1886x1025/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23289965/jtuohy_220303_5047_0018_straightened.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-how-ai-reshapes-the-fintech-landscape.md",
       "title": "How AI reshapes the Fintech Landscape?",
       "excerpt": "AI is no more an enemy of finance space as it was a decade ago when it was met with blank stares by leaders in the field. Enabling technology into the finance landscape has brought in more resilience,",
@@ -1017,100 +1112,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-start-up-kinetix-joins-forces-with-adobe-to-make-ai-assisted-3d-animation-more-accessible-to-all-content-creators.md",
-      "title": "Start-up Kinetix Joins Forces With Adobe to Make AI-assisted 3D Animation More Accessible to All Content Creators",
-      "excerpt": "Press Release Kinetix, a deep tech start-up and AI-assisted 3D animation pioneer, is beefing up its library of 3D assets by joining forces with Adobe. Its unique no-code technology can be used to generate animated 3D characters automatically and instantaneously",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/14/start-up-kinetix-joins-forces-with-adobe-to-make-ai-assisted-3d-animation-more-accessible-to-all-content-creators/",
-      "originalUrl": "https://venturebeat.com/2022/03/14/start-up-kinetix-joins-forces-with-adobe-to-make-ai-assisted-3d-animation-more-accessible-to-all-content-creators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20220314005441/en/1388476/4/Kinetix_Adobe_Mixamo_partnership_%281%29.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/14/start-up-kinetix-joins-forces-with-adobe-to-make-ai-assisted-3d-animation-more-accessible-to-all-content-creators/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/14/start-up-kinetix-joins-forces-with-adobe-to-make-ai-assisted-3d-animation-more-accessible-to-all-content-creators/amp/",
-      "publishedDateTime": "2022-03-14T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-leveraging-standards-to-optimize-ai-at-the-edge-what-agencies-need-to-know.md",
-      "title": "Leveraging Standards to Optimize AI at the Edge: What Agencies Need to Know",
-      "excerpt": "Ryan Luckay is a cloud-enabled artificial intelligence specialist master at Deloitte Consulting and has worked on numerous proofs of concept using edge AI tools, including OpenVino, Google Cloud Platform AutoML Vision and Amazon Web Services SageMaker.",
-      "sourceUrl": null,
-      "webUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know",
-      "originalUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202203/GettyImages-898824628.jpg?itok=pI-2vOYS",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know?amp",
-      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/03/leveraging-standards-optimize-ai-edge-what-agencies-need-know?amp",
-      "publishedDateTime": "2022-03-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fedtechmagazine.com",
-        "domain": "fedtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

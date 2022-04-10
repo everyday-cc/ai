@@ -25,21 +25,78 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches its AI-powered notetaking app Journal as an official Windows app"
-    excerpt: "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,"
-    publishedDateTime: 2022-04-06T17:22:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
+  - title: "Get 42 hours of Microsoft Azure training for under $6 per course"
+    excerpt: "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary"
+    publishedDateTime: 2022-04-10T21:20:00Z
+    webUrl: "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
     type: article
     provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 98
+      name: ZDNet
+      domain: zdnet.com
+    quality: 119
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680"
-        width: 679
-        height: 382
+      - url: "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Inside the AI2 Incubator: Microsoft co-founder’s unfinished legacy fuels quest for new AI startups"
+    excerpt: "Google Cloud and Microsoft Azure, as well as workstations at the incubator. But without the bankrolls of big tech companies or larger institutions, they need to be creative and scrappy in their approach, starting with pre-trained AI models in creating ..."
+    publishedDateTime: 2022-04-06T14:21:00Z
+    webUrl: "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/"
+    ampWebUrl: "https://www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/inside-the-ai2-incubator-microsoft-co-founders-unfinished-legacy-fuels-quest-for-new-ai-startups/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
+  - title: "TripleBlind Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Enterprises can now leverage TripleBlind to derive more value from the intellectual property of data and algorithms. KANSAS CITY, Mo., April 07, 2022 (GLOBE NEWSWIRE) -- TripleBlind, one of the only solutions that enables enterprises to combine data and algorithms while preserving privacy and ensuring compliance,"
+    publishedDateTime: 2022-04-07T13:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-data-privacy-0e01117d152d1037cfddb1b0d87329dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "TeamViewer Remote Connectivity and Augmented Reality Solutions Are On Available Microsoft Azure Marketplace and Microsoft AppSource"
+    excerpt: "TeamViewer announced Microsoft customers can now purchase TeamViewer's enterprise remote connectivity suite, TeamViewer Tensor, and"
+    publishedDateTime: 2022-04-06T10:21:00Z
+    webUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-on-available-microsoft-azure-marketplace-and-microsoft-appsource/"
+    ampWebUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/TeamViewer-Remote-Connectivity-and-Augmented-Reality-Solutions-Now-Available-in-Microsoft-Azure-Marketplace-and-Microsoft-AppSource-as-Transactable-Offers-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "TeamViewer Remote Connectivity and Augmented Reality Solutions Are Now Available In Microsoft Azure Marketplace and Microsoft AppSource"
+    excerpt: "TeamViewer announced Microsoft customers can now purchase TeamViewer's enterprise remote connectivity suite, TeamViewer Tensor, and"
+    publishedDateTime: 2022-04-06T10:24:00Z
+    webUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/"
+    ampWebUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/TeamViewer-Remote-Connectivity-and-Augmented-Reality-Solutions-Now-Available-in-Microsoft-Azure-Marketplace-and-Microsoft-AppSource-as-Transactable-Offers-01.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "New Microsoft Azure off-planet space solutions are here"
     excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
@@ -64,6 +121,26 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 25
+  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
+    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
+    publishedDateTime: 2022-04-08T09:37:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 25
+  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
+    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft’s market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
+    publishedDateTime: 2022-04-07T16:30:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-4381f5d165f3ad463be34179c97c47ca"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
 
 secured: "WUu9ObLxy4HzuwDKlgypdwXT9IalnsArFEHaDpq9jeLJ+51nO6YgaOl5JEYIr0qvOegSpM/eZD8j2EvAvsvWFab4e3UPYwwYVMbI3KASs5PCDl/YpkuV+lCutzjMaRktqtwRXZ4J/Yav7Z7mvL8QKAW0SwVCHWCi6feQw+X3p6cjgoVdP+Iw3Z4PVHAMEwnuV0eIBnX+W1aeOwSBmjj9oN5c4e4EPQes6eLPPUA6r4IquENacSk6NBajDByt+m7pU0WGUdEa+TTB8lC1hzKTyDhxIrS4k3qF1YpoGzO8sVG8Gu3esuE9jyGEuK43wzJuNBFrdVUrdTgtZJOGv9z/KYF68iLxP5B97WzNL6b0Zm7rQL7L1DiLet8cM1n0jukTHPVdGPbGfWtFnxt+fz2BtLhIB8GTSMe+Evm03x36RGugE6DfoX9EtuVF+SULUDWEXsntH8GKFTNOKzttS/1K3hI6iIZ6XRs5DGbrTmWZSgjCahkuiarCj+kXPYOywzOtu42LzRD3a05UG9ketT0yFw==;NLqf/uKC9MCCuVDhoL21dg=="
 ---

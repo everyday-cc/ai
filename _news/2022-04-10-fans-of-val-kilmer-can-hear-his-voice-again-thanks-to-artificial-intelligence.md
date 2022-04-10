@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T14:00:00Z
 originalUrl: "https://www.menshealth.com/health/a39682926/val-kilmer-voice-reconstruction-ai-sonantic/"
 webUrl: "https://www.menshealth.com/health/a39682926/val-kilmer-voice-reconstruction-ai-sonantic/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Men's Health

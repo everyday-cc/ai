@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-31-global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights.md",
+      "title": "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights",
+      "excerpt": "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-understanding-education-40-the-machine-learning-driven-future-of-learning.md",
       "title": "Understanding Education 4.0: The Machine Learning-Driven Future Of Learning",
       "excerpt": "Education 4.0 involves machine learning in education to align with future trends in order to develop and improve individualized education, which will eventually define how future generations of children will work and live.",
@@ -433,6 +485,40 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-breaking-into-the-black-box-of-artificial-intelligence.md",
+      "title": "Breaking into the black box of artificial intelligence",
+      "excerpt": "Similarly, each mathematical neuron in an artificial neural network is weighted with a threshold value. If the result of the calculation surpasses that threshold, it is passed to another layer of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-00858-1",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-00858-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1334,102 +1420,6 @@
         "name": "uibk.ac.at",
         "domain": "uibk.ac.at",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100.md",
-      "title": "New DDN Storage Appliance Doubles Performance for NVIDIA DGX AI Solutions and Speeds Up Analytics and Machine Learning in the Cloud by 100%",
-      "excerpt": "Powering thousands of NVIDIA DGX™ systems, including NVIDIA's Selene and Cambridge-1 DGX SuperPOD systems, DDN offers a broad range of optimized AI data storage solutions for ap",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-openshift-410-red-hat-teams-with-nvidia-to-add-ai-and-machine-learning.md",
-      "title": "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning",
-      "excerpt": "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
-      "originalUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad6d8154638891877cfc5fbbd7c0e66596230e02/2022/03/22/bc702cea-0e8e-4b50-810b-a34d658b876a/gettyimages-924478844-redhat-sign.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
-      "publishedDateTime": "2022-03-22T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
