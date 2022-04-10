@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Raises $55 Million to Accelerate Growth"
-excerpt: "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today announced that it has closed $55 million in new funding,"
-publishedDateTime: 2022-03-28T12:52:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-renesas-electronics-corp-05ead87d8c37109957b3eff68165b552"
+excerpt: "Syntiant Corp., a provider of deep learning solutions making edge AI a reality for always-on voice, sensor, audio and image applications, today"
+publishedDateTime: 2022-03-28T12:50:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/ai-chip-company-syntiant-raises-55-million-to-accelerate-growth/article_d6e15e7c-c446-5f0d-82c6-862c8aac6ac2.html"
+webUrl: "https://www.bakersfield.com/ap/news/ai-chip-company-syntiant-raises-55-million-to-accelerate-growth/article_d6e15e7c-c446-5f0d-82c6-862c8aac6ac2.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "l3GdWgBrzrt7XTkJ5xaKtHzj6Uu02gi5PDl+yNbEQ/0Rl3lOzxZrbxjxPYAeTbyWFY2/VvAvsz1voceImMo3APQ/h9W9x3LNgwq3sCdogKESxU8EbgOoFamM5/CpsxkoN9CiE/PufvqRjmNb9Der0nqYnVaZPsvUBypQuJjygbg/kiNJwlT242lcQeMkeBYIQIWwrT6sXEqcL+jO1VcD4dhN2XNkjTx6LyOnn5SGyV/dvlKAyQpyFajmF3mEy06KDnmcXbMn/iKmu+plJMTD4nKgwzwssFRaYNop6+d0FjqAliBpDW5ZvXMcuT9JJiFfS+PgO2S+aTFR2O8xjenxe/Z0PzyJ/a5r1uCzzc8wmkU=;MF06pvBbcM03x5F7H/QJ9A=="
+secured: "g25knA22VcrxyFajEHtXuzwGIQPEY2a6eYa8UGynhxHG4vbgUchf1IjkOh4z1agOzKGt1NKk0k1MR8s3ipXtzjFvw+eC0XNkMq6vEqI9CQFELBE16ew8P8dLA7heZRsrnKInkFJfnZMMpTt0K08hF+VvwSUEtTZyeotwLda/OhKc7FRxJjJUIReGOjCUW2+g18hoC4Zj2k6l64YEtpXY/rNKR1bQi1pjZbOY8q3DJMtUFJyk1SjyYHXzGfU/KCS6FNdiR4oqVpuRYMoQW8u49qfJVyl/XXxXwXd4rqbVoDoM7Q8aewk2c42BfRIRhBVciVJXvsexCuyNdoXxvot+h9037kMCteka4KcQiAYOWT/YNsqVJPjN4v9v/aVqz0r6igiSaorA2GlmRWjoKLDeTUyF/H8oflS7URpDPIq3kee2pBwGBsp7BDN857ViUkeqSENXBNnvGucsuZZqj3t7ATkzv+TSbTJc2Pv6EoInr3rGFtwBos+n6rmj/4U30s7g1NapYynlJOaZBa2mJT5ebQ==;c6NcciKL4i3qK7QEOK62sw=="
 ---
 
