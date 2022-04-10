@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Adjustment earn Self second national title at Kansas"
-    excerpt: "Bill Self won his elusive second national title with a masterful second-half coaching job and a spicy dash of Remy Martin."
-    publishedDateTime: 2022-04-05T09:16:00Z
-    webUrl: "https://www.click2houston.com/sports/2022/04/05/adjustment-earn-self-second-national-title-at-kansas/"
-    ampWebUrl: "https://www.click2houston.com/sports/2022/04/05/adjustment-earn-self-second-national-title-at-kansas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/sports/2022/04/05/adjustment-earn-self-second-national-title-at-kansas/?outputType=amp"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 44
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2UGHCIM4URCG3LESZH7ANMDAYQ.jpg?_a=ATABld60"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Adjustments earn Bill Self second national title at Kansas"
     excerpt: "Self had his elusive second national title. Grounded by North Carolina in an ugly first half, Kansas tightened up on defense to rev up its transition ga"
     publishedDateTime: 2022-04-05T11:54:00Z

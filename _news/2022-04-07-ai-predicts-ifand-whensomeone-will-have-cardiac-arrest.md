@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "AI Accurately Predicts If – And When – Someone Could Die of Sudden Cardiac Arrest"
+    excerpt: "First-of-its-kind survival predictor detects patterns in heart MRIs invisible to the naked eye. A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest."
+    publishedDateTime: 2022-04-10T02:28:00Z
+    webUrl: "https://scitechdaily.com/ai-accurately-predicts-if-and-when-someone-could-die-of-sudden-cardiac-arrest/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 32
+    images:
+      - url: "https://scitechdaily.com/images/Human-Heart-Cardiology-Concept.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
     excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"

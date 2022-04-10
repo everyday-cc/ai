@@ -1,25 +1,27 @@
 ---
 category: news
-title: "AI predicts if -- and when -- someone will have cardiac arrest"
-excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
-publishedDateTime: 2022-04-08T00:12:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
+title: "AI Accurately Predicts If – And When – Someone Could Die of Sudden Cardiac Arrest"
+excerpt: "First-of-its-kind survival predictor detects patterns in heart MRIs invisible to the naked eye. A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest."
+publishedDateTime: 2022-04-10T02:28:00Z
+originalUrl: "https://scitechdaily.com/ai-accurately-predicts-if-and-when-someone-could-die-of-sudden-cardiac-arrest/"
+webUrl: "https://scitechdaily.com/ai-accurately-predicts-if-and-when-someone-could-die-of-sudden-cardiac-arrest/"
 type: article
-quality: 47
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
   - AI
+
+images:
+  - url: "https://scitechdaily.com/images/Human-Heart-Cardiology-Concept.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "AI predicts if—and when—someone will have cardiac arrest"
@@ -70,6 +72,15 @@ related:
         width: 599
         height: 575
         isCached: true
+  - title: "AI predicts if -- and when -- someone will have cardiac arrest"
+    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T00:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "AI predicts if and when someone will experience cardiac arrest"
     excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can"
     publishedDateTime: 2022-04-07T15:00:00Z
@@ -98,20 +109,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI Accurately Predicts If – And When – Someone Could Die of Sudden Cardiac Arrest"
-    excerpt: "First-of-its-kind survival predictor detects patterns in heart MRIs invisible to the naked eye. A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest."
-    publishedDateTime: 2022-04-10T02:28:00Z
-    webUrl: "https://scitechdaily.com/ai-accurately-predicts-if-and-when-someone-could-die-of-sudden-cardiac-arrest/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 32
-    images:
-      - url: "https://scitechdaily.com/images/Human-Heart-Cardiology-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
     excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
     publishedDateTime: 2022-04-08T07:52:00Z
@@ -122,6 +119,6 @@ related:
       domain: webindia123.com
     quality: 15
 
-secured: "knQURaweANGu7xYopDcGcWRHpEO9BR2pPZ8Gb1m41SOquR+46KX2raDv99i1NO5rXY+omR6G6AhIeNbCaDxaNIZrnC18+JBEdSn8e7iK+6jZMlyx35N1c5XxIX+JT3Je4kOyURBmHBUl+MEvHUqYChK1jsXcLFb0MLim7xNa60weMLH7ifOm9XZbExec+mdoaiiBnHYiB0qLpB/txPGCHVksNNAciFDGrg1gaZ4XoR662zzilEukFrtJ/6C9jzJIJQv23AHnEW3tL4ePZUchNgCcCrCwwBFm50+l0soHqJ2BmqHfy0fYoSAeO/GMGV2fwjmESmeogGB6hgMjYRDoboo4NHbvEAUkHJnojxWNgO0=;/lVMGW3cF1xrFmSVj9sAbQ=="
+secured: "xtviGkKJv81qgcP/4kUefSBzlRhq3nzSiDlhwri6SicVC7UNEla2lTy7M769qv2wQJmjf4Xwss2gyEYldDaKRpjzETLDBMSbq71FquP1AlZ4JNWkI3RfRr1Rr5vDgQgNy3kQAVinzDp+qFfFSESJ+iXwiVfmDXhLrQf2+2Cxbu9cR67He0QEDP43Q8kLpJOdMeYytnFrjVwiDGGulhfR+ueJknn2sg9Ua16DdALAZ678iFoH8kdny/tevht3idOfnL5lJAyj7FC0Ghn0msX+QKw6F+hxp0gmJCeTCCRJq3r9brbWXL60aRlhWRAci0RuHCvjXzeBunq5j110P4liCdKV/c7oVa+hCaVdrIJMjnk=;+9PihmUrzkgkrK8o3k0jKA=="
 ---
 

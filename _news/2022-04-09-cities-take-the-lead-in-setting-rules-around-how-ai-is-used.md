@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-arou
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

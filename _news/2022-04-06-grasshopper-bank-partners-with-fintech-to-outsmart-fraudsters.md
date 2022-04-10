@@ -64,15 +64,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "MarineTech funding set to explode, following course of FinTech"
-    excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
-    publishedDateTime: 2022-04-05T10:34:00Z
-    webUrl: "https://www.seatrade-maritime.com/finance-insurance/marinetech-funding-set-explode-following-course-fintech"
-    type: article
-    provider:
-      name: Seatrade - UBM
-      domain: seatrade-maritime.com
-    quality: 4
 
 secured: "XC/T2llERXgriZM1/UyLYx5RC/TCLfNl7+E0OytlbEk5qOO4DMbPouo0SL1cClXwcF3KC108qrwjlDG2ngXsEqPw7M2At49hZeTzkqiJU1WHPkqXK7wHaY8bHCRsbVJXshXHB411jzFf8uuji5jPRFp4WFWlYytV8nsSw69SBr42yyXlSaBOtcc/vgfHJkfBxu2b6EEa3rnLIetMY9fs9MNJIW1fv0Vr81uBpxVfceJmbq+ZhnaFesv1cCGKxLmJdghsEzhvcZ2Up04F21Ei1MP7fBBPS+nEvmD9f5xj5QJOFHANIxlrEnC8zHJNl8zJkWyJNob0NH2SbIcIUlRKomDyKgFFBd9Ft15fXesvdmUKzpRwGmTr6Y8eZu1xUjPcuepFdcSyqHMIXYXImLettg5vuUwtxLGBFzLd9vyAldfYwTr9yIk3BRyrQtNh31PYMvdtNNdi4nfgmjy2WtK4fSfQJj4nStC7lIkFXjA1f75rrmivs2bRdxwVAQq3Y77bRm7XlAiony5erS0zmPWpfg==;KFLcr57Rne25dZykZB1IrA=="
 ---

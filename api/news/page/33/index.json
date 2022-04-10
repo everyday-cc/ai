@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-03-11-deepminds-new-ai-gives-historians-a-powerful-new-tool-to-interpret-the-past.md",
+      "title": "DeepMind’s new AI gives historians a powerful new tool to interpret the past",
+      "excerpt": "Google DeepMind has collaborated with classical scholars to create a new AI tool that uses deep neural networks to help historians decipher the text of damaged inscriptions from ancient Greece.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/",
+      "originalUrl": "https://arstechnica.com/science/2022/03/deepminds-new-ai-tool-helps-resolve-debate-over-ancient-athenian-decrees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ithaca2CROP-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-11-aci-worldwide-introduces-aci-fraud-scoring-for-financial-institutions.md",
       "title": "ACI Worldwide Introduces ACI Fraud Scoring for Financial Institutions",
       "excerpt": "has announced the launch of Fraud Scoring Services—which is a fraud scoring platform offering next-gen machine learning capabilities for financial institutions of all sizes “to deliver real ...",
@@ -1095,49 +1147,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-10-ai-neural-network-predicts-evolution-of-gene-regulation-in-yeast.md",
-      "title": "AI Neural Network Predicts Evolution of Gene Regulation in Yeast",
-      "excerpt": "Scientists have created an AI model that predicts promoter-driven gene expression in yeast and detects signatures of natural selection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/artificial-intelligence/ai-neural-network-predicts-evolution-of-gene-regulation-in-yeast/",
-      "originalUrl": "https://www.genengnews.com/artificial-intelligence/ai-neural-network-predicts-evolution-of-gene-regulation-in-yeast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2022/03/Neural-network-Martin-Krzywinski_-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

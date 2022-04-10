@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-truck
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "MarineTech funding set to explode, following course of FinTech"
-    excerpt: "An explosion in funding is being seen for MarineTech doubling last year as the pace of digital adoption accelerates in the sector, according to Google Cloud."
-    publishedDateTime: 2022-04-05T10:34:00Z
-    webUrl: "https://www.seatrade-maritime.com/finance-insurance/marinetech-funding-set-explode-following-course-fintech"
-    type: article
-    provider:
-      name: Seatrade - UBM
-      domain: seatrade-maritime.com
-    quality: 4
 
 secured: "8BunR4jvCmbbYnh4aq24SOduK9oBArmfre1nBWQMTgx5yL5lCabGXcgNYf3m3GfGnSlNl5bLNMG2y63eKduRjwmT2dv/BC04wWPv9cXAP8hLD3mj8RjByj6Uev9JoX9qHWSXjc1ykJ9QChRBiDFbbjNxTFNU54yKCqfzw+cvVYLQbrSyM/hOrkHvQy5pWiuJTZYaMkW1InHMGgkt+oyGgjuWCOMzuDAzBTRONdID8+UyyY3JwYwRFTeTZCsVmecnaQqvr0w/UPbH/1WZTgGlZ3jyMkABZfevJ1jtkCWkgWLiPmPVrfoCpPHC0e0svNAqQugi4ZWnuqgGhAeaxV26sLpSXPDz1a0ebSqUZl9c+/uTZmxQkLT9hZVEueejBJOo/+amXnrgGAuLdOtArwVyYHUulM7IyV89QcBVKx7oomHcKJooFO0a8gKky1l8aqI/vpcXkew3jMc0J3Z8GN+EKrIYEOEzSk2zbuPurq5ZW48F/yx0NpSTOgXvDn2Px4mEO2Z1BMvpdGmwkPlYRCeuUA==;VoANdNHrcj5/YTrPMHArQA=="
 ---

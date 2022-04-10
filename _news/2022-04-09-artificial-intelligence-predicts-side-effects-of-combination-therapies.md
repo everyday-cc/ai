@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI test could predict best cancer therapies for patients"
-    excerpt: "Researchers at the Institute of Cancer Research (ICR) in London have designed a prototype test that they think"
-    publishedDateTime: 2022-04-05T09:46:00Z
-    webUrl: "https://pharmaphorum.com/news/ai-test-could-predict-best-cancer-therapies-for-patients/"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2019/08/NICE’s-track-record-in-cancer-drugs-the-impact-of-the-CDF-and-the-role-of-interim-funding-605x340.jpg"
-        width: 605
-        height: 340
-        isCached: true
   - title: "AI test could predict effective cancer drug combinations in less than two days"
     excerpt: "Scientists have created a prototype test that can predict which drug combinations are likely to work for cancer patients in as little as 24 to 48 hours.Their cutting-edge technique uses artificial intelligence to analyse large-scale protein data from tumour samples,"
     publishedDateTime: 2022-04-05T16:26:00Z

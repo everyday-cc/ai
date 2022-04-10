@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies"
-    excerpt: "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,"
-    publishedDateTime: 2022-04-05T09:29:00Z
-    webUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm"
-    ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 62
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/03/mergernacquisition2-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai"
     excerpt: "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai. | Crowdfund Insider: Global Fintech News, including"
     publishedDateTime: 2022-04-07T11:15:00Z
@@ -105,15 +89,6 @@ related:
         width: 1024
         height: 500
         isCached: true
-  - title: "Salt Security Discovers Critical API Security Vulnerability That Would Have Enabled Administrative Account Takeover on FinTech Platform Serving"
-    excerpt: "Gain administrative access to the banking system Access users' banking details and financial transactions Leak users' personal data Perform unauthorized funds transfers into bad actors' bank accounts The SSRF flaw was already actively integrated into many of the FinTech company's systems and had the potential to compromise every user account and transaction data served by its customer banks."
-    publishedDateTime: 2022-04-07T17:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/07/9578764.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Qohw9NUgiE/EF58MFOjvh38jwSw5BgMoVtuuopYndoHt9DmmchY5C0IdyPCJME+mv1Nj6o9naFWx7bouB8pdTfzPdtj8DQUdM8qWv524RZDz1Ddy5qNpDOBmvvsDCqChOCUd1pEFFfixzJzLA9QdRj01PLnylF8k3DMO3YWTDoEEnAf+OffV0qb3z1XNZYAiCIfQNPp0QMSDuqAA9SYBAUJZStYP23GqzFgggsC5enmaKplrkGsqbPpbfQHLzgBSjd4LtJstw9oWkboBc7uDODMQZzXBFIIymrPRpNnn2aeCVnOmHb8ZJ5ZWeItdbXZGjtVgLjr3x06l7PT4yPhUs1ZkE/4EpUG4FNs7WXa30z8AXwF/R4bGXS4qB39kjnKvYjk5QKS3wx6zRr520FV2JAmAHmlcTeATiy1tO1hUKlTuHsBpTKWa2fM7acn+i9KjwHtJA1YZVKy0m6Y2yw/759a9aJK7XW0PdgsTY0FEho9qd/EEwTDh4ugCko1yzCa8/0n7L5tQrU6qE4NoyGnQFg==;ST5JzTlFTeBDOsc+dBcLsg=="
 ---

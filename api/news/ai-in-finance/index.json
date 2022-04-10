@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-07-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-activeai.md",
+      "title": "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai",
+      "excerpt": "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai. | Crowdfund Insider: Global Fintech News, including",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Telephone-Communicate-Talk-Call.jpeg",
+          "width": 1196,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/",
+      "publishedDateTime": "2022-04-07T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength.md",
       "title": "Upstart Holdings stock gets new Buy rating at Loop on AI lending strength",
       "excerpt": "Loop Capital is picking up coverage of Upstart Holdings (UPST), which provides AI-driven technology to banks and other institutions for making lending decisions, with a",
@@ -53,7 +96,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1316,41 +1359,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-hearst-invests-in-startup-that-uses-machine-learning-to-aid-businesses-journalists.md",
-      "title": "Hearst Invests In Startup That Uses Machine Learning To Aid Businesses, Journalists",
-      "excerpt": "Applied XL develops \"event-detection algorithms that replicate the rigorous research process of biotech journalists in order to surface important signals,\" says CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/372223/hearst-invests-in-startup-using-machine-learning-t.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

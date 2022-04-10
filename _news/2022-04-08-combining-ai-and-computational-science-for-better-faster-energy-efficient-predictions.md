@@ -72,20 +72,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "3 Ways Artificial Intelligence Can Help With Pricing"
-    excerpt: "Is artificial intelligence smart enough to set prices on your products? Some early adopters of this application of AI think the answer is yes. AI-powered algorithms help companies price items based on data like competitor pricing, inventory levels ..."
-    publishedDateTime: 2022-04-05T09:31:00Z
-    webUrl: "https://www.inc.com/anna-meyer/artificial-intelligence-ai-pricing.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1260129922_498795_dfgr55.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AiAdvertising Announces Partnership with Genus AI"
     excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
     publishedDateTime: 2022-04-08T11:15:00Z

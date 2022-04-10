@@ -462,7 +462,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -590,6 +590,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-activeai.md",
+      "title": "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai",
+      "excerpt": "Conversational Messaging Company Gupshup Acquires Finance-Focused Conversational AI Firm Active.Ai. | Crowdfund Insider: Global Fintech News, including",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Telephone-Communicate-Talk-Call.jpeg",
+          "width": 1196,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/",
+      "publishedDateTime": "2022-04-07T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-predicting-and-preventing-road-crashes-with-ai.md",
       "title": "Predicting and preventing road crashes with AI",
       "excerpt": "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that.",
@@ -598,7 +641,7 @@
       "originalUrl": "https://360.here.com/ai-aware-project",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1181,59 +1224,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions.md",
-      "title": "Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions",
-      "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/01/ML-3899-image031.jpg",
-          "width": 1584,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T09:46:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

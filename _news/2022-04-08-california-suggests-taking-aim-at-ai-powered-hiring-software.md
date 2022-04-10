@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "US developing AI for critical combat decisions"
-    excerpt: "The US Defense Advanced Research Projects Agency (DARPA) is looking to develop AI algorithms that can make complex decisions in situations where"
-    publishedDateTime: 2022-04-05T09:46:00Z
-    webUrl: "https://menafn.com/1103963914/US-developing-AI-for-critical-combat-decisions&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/05/AT_16587image_story.jpg"
-        width: 600
-        height: 414
-        isCached: true
 
 secured: "SGc6sWzazBOlRoPh3nHTcqGMlYXOhHyptVPshvVpIf0cDaowK8AQnOFKKcvdNvmNZR2zxhakTxR8Lv1med3jmY9O0KFNyfgxVeEBXZwIl4cUijjVOhUjFohhhReVK8eq6qNFRZpdpd8r+LCs/ugB419PvZlsgxGEMXghAho4aC1MnPcNyLPAiEoQOGb42xMQZIgOfQO5R/cvUmA2PaxtP4lmYEexpXRj7UrB0dCG3ZnSIo5DnnD+BJaMcFWtXGSywPdPaIp7tW1ASjiN5Gx0nBkHR8usFeLcqQXLf2MVVZHus8NUEXlHVOSSVeerUoFTUf/DY5YkXqgIIf+KvpnwVkAyldAWQAFIuMylWzZZ/dk=;146aXFYF9HM2K12IsC/f0g=="
 ---

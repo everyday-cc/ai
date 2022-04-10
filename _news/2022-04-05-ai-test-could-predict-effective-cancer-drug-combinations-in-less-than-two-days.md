@@ -40,20 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI test could predict best cancer therapies for patients"
-    excerpt: "Researchers at the Institute of Cancer Research (ICR) in London have designed a prototype test that they think"
-    publishedDateTime: 2022-04-05T09:46:00Z
-    webUrl: "https://pharmaphorum.com/news/ai-test-could-predict-best-cancer-therapies-for-patients/"
-    type: article
-    provider:
-      name: pharmaphorum
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2019/08/NICE’s-track-record-in-cancer-drugs-the-impact-of-the-CDF-and-the-role-of-interim-funding-605x340.jpg"
-        width: 605
-        height: 340
-        isCached: true
   - title: "Artificial intelligence predicts side effects of combination therapies"
     excerpt: "Researchers develop an AI model to predict the adverse effects of combination therapies and present their preliminary findings at AACR 2022."
     publishedDateTime: 2022-04-08T17:01:00Z

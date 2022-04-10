@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://regmedia.co.uk/2021/02/20/hiring.jpg"
         width: 1000
         height: 584
-        isCached: true
-  - title: "US developing AI for critical combat decisions"
-    excerpt: "The US Defense Advanced Research Projects Agency (DARPA) is looking to develop AI algorithms that can make complex decisions in situations where"
-    publishedDateTime: 2022-04-05T09:46:00Z
-    webUrl: "https://menafn.com/1103963914/US-developing-AI-for-critical-combat-decisions&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/05/AT_16587image_story.jpg"
-        width: 600
-        height: 414
         isCached: true
 
 secured: "f+8Kh/pnVNnSkDw3yslvh4/sDJYCve3hWNhHVqAHvMuMgGicq/K8JlkpKW8KzJlR3Ad0NkPepM+wNkBW4OPfb2mondU1vKSX/+cs6u9iTl0kVPQsztT8N8EqE2a+DIVfBRmf7U/675TEIK97abJjv1mQrxez7JffCh23njgvTWdIQWpVdrHrXIHbjTX6ljtHRfvKXZ1Sdu0bFBMj0hcoByFJQbUkBuxUlDeFcIm0YmyNdYGnTHhFyeQRrJ3s0fNGBBuA9pRY/KhSWibciaRAD4hGxeHNvyC77lfZmorcmRktmizFA2JoNXvfTO31GWD4Uy0H6zb28/eBbudhnuUKjTR0jzQgE/GX5w7Z8x/oiCfE76Jw7Zzgy+UQQdOExiwFQe7ixrXxoLfpJCjCPNjFC2picBHH2OXXr1LMhdWb1Y9rNaX4uwNtGVH4pJhO7FOtF18HMGI2X3fC3PRCQIbMKUcshIiwqmUrvLiBXVTWCXhQmLZkjQD4Y9OB6bGh7a/cnmoo1sLTybzGSIwZ26pSpw==;vst5SycZz2MuZkY+Sj0yww=="

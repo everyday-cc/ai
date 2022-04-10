@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189429-conversational-messa
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189429-conversational-messaging-company-gupshup-acquires-finance-focused-conversational-ai-firm-active-ai/amp/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies"
-    excerpt: "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,"
-    publishedDateTime: 2022-04-05T09:29:00Z
-    webUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm"
-    ampWebUrl: "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 62
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/03/mergernacquisition2-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Gupshup acquires conversational AI platform Active.Ai"
     excerpt: "Active.Ai has enabled more than 300 million user interactions via voice, video and messaging, managed over 30 million service requests and fulfilled 5.."
     publishedDateTime: 2022-04-05T11:30:00Z
@@ -105,15 +89,6 @@ related:
         width: 1024
         height: 500
         isCached: true
-  - title: "Salt Security Discovers Critical API Security Vulnerability That Would Have Enabled Administrative Account Takeover on FinTech Platform Serving"
-    excerpt: "Gain administrative access to the banking system Access users' banking details and financial transactions Leak users' personal data Perform unauthorized funds transfers into bad actors' bank accounts The SSRF flaw was already actively integrated into many of the FinTech company's systems and had the potential to compromise every user account and transaction data served by its customer banks."
-    publishedDateTime: 2022-04-07T17:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/07/9578764.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "E6KuvawV4OX5G86rxRq4THlukqKe2jD87QNUGchp56x/3bwvwp0mTNEmu2fsyk8Scwm0mOiVYshaC1oDzcvAAuhIAsQJbads7pVLfI/ahOWkygIulxxmEkr+p9589JM7UgVDhdFoAlzqBfxaPXGzsj/0DjN+A1bBi9jar7AmTFKBR7HdBT78/uvlF1IK9X6yRKD0c05iOIPz3R3aeBbdBMyyqZrmP2M2y2mAkCLgIX4SsVs9t2siV2B2F+/JjcBLdJowWvqMiiRr1IjA7J8xXtKSnVOPvcj48rUCRa515QB/KXM6F+STt0AtCRzk9uB2eA1n8iszFp+Yq/MK4tvwbBvqABlSoSa85bTr/OJ6UGYvvtSDuUatJjU7f3H0EDATYl9AeT9Q8jTarwElWq4JL0Z1XVgqUlYM4uw0pe7XZyFPJyXWBNfAIWRcOSk4CbfM8skNq2Zr+tahXcSo1V7Q24xX/pRK4PwZr/Ixb6xKsIRbHhS85xCzSezIibmrzEjfqmAKrYv3xemlOVnTXtrU4Q==;PLXG3dPF1bKOciw01XCuFg=="
 ---

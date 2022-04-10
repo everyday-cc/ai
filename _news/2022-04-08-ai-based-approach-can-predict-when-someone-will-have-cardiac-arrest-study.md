@@ -103,6 +103,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "AI Accurately Predicts If – And When – Someone Could Die of Sudden Cardiac Arrest"
+    excerpt: "First-of-its-kind survival predictor detects patterns in heart MRIs invisible to the naked eye. A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest."
+    publishedDateTime: 2022-04-10T02:28:00Z
+    webUrl: "https://scitechdaily.com/ai-accurately-predicts-if-and-when-someone-could-die-of-sudden-cardiac-arrest/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 32
+    images:
+      - url: "https://scitechdaily.com/images/Human-Heart-Cardiology-Concept.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "fdL+xmqloYUwg3HyJY9noz/rpvac5jY/yJJJs9rgAtmKBl1YTXoHLqRA9KeyTnmdFQo5CZ/xsOs/BiTTL+89EBjZMhF1cG1s/uQWrWkkkd61rNLcyCaVHYni4yeO3oM31IgKADyTZKeiIzrVdvilZbCkiwd84tnxpNw/EtiJKkzk6VcqfKs3w6pA0TpSLN8IsSLtbuUpnb6fvzCcDbvlyTUvC+0BcrBeQTEaBD49JfIkMM8SaH4q9XQjdZUxYEgX/P3y4ze81bonXcMbno+tDoWKS78er8HNwl4UMHdX6yJkjgl8iQzAcRoMxf8dWerrs6QX/81YBp2sedRoL8bZeP7eQVcC1NzQIeDju3eQETo=;yCfZIlJguaSnQEZBXBShiw=="
 ---
