@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-16-bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe.md",
+      "title": "Bongo Learn provides real-time feedback to improve learning outcomes with Amazon Transcribe",
+      "excerpt": "Real-time feedback helps drive learning. This is especially important for designing presentations, learning new languages, and strengthening other essential skills that are critical to succeed in today’s workplace. However, many students and lifelong learners lack access to effective face-to-face instruction",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bongo-learn-provides-real-time-feedback-to-improve-learning-outcomes-with-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/16/ML-7981-image001.png",
+          "width": 603,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T11:11:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-prepare-time-series-data-with-amazon-sagemaker-data-wrangler.md",
       "title": "Prepare time series data with Amazon SageMaker Data Wrangler",
       "excerpt": "Time series data is widely present in our lives. Stock prices, house prices, weather information, and sales data captured over time are just a few examples. As businesses increasingly look for new ways to gain meaningful insights from time-series data, the ability to visualize data and apply desired",
@@ -1380,40 +1433,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-best-buy-selects-aws-as-its-strategic-cloud-provider.md",
-      "title": "Best Buy Selects AWS as Its Strategic Cloud Provider",
-      "excerpt": "Combining AWS’s advanced cloud technologies with ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220203005266/best-buy-selects-aws-as-its-strategic-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

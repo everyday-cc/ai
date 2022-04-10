@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-06-google-announces-new-tool-for-data-storage-and-integration.md",
+      "title": "Google announces new tool for data storage and integration",
+      "excerpt": "Google wants its to offer the control of the best data warehouses with the seemingly endless availability of cloud storage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "publishedDateTime": "2022-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
+      "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624c5b8daee4a305df4992a3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/",
+      "publishedDateTime": "2022-04-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-teaching-robots-to-make-pizza-could-advance-ai-and-out-pizza-the-hut.md",
       "title": "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut",
       "excerpt": "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza",
@@ -283,6 +378,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat.md",
+      "title": "Outdoor and Dock Exhibitors Offer Whatever Floats Your Boat",
+      "excerpt": "From a Stiletto to a Rekognition Video Analyzer, outdoor and dock exhibitors are giving Sea-Air-Space attendees the opportunity to check out cutting-edge defense technology. The carbon-fiber, 88-foot M-80 Stiletto is a floating platform devoted to",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
+      "originalUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1010,162 +1139,6 @@
         "AI",
         "AI Ethics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-vanderbilt-researchers-using-artificial-intelligence-to-help-basketball-players-improve-their-shots.md",
-      "title": "Vanderbilt researchers using artificial intelligence to help basketball players improve their shots",
-      "excerpt": "Using facial recognition and computer vision, NOAH generates detailed statistics about how and where somebody is shooting, the trajectory of the ball, and where they missed shots from. NOAH ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "originalUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/720/405/iStock-1342205557.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/vanderbilt-artificial-intelligence-players.amp",
-      "publishedDateTime": "2022-04-04T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-empowering-space-development-off-the-planet-with-azure.md",
-      "title": "Empowering space development off the planet with Azure",
-      "excerpt": "Any developer can be a space developer with Azure. Microsoft has a long history of empowering the software development community. We have the world’s most comprehensive developer tools and platforms from Github to Visual Studio, and we support a wide range of industries and use cases from healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/empowering-space-development-off-the-planet-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/empowering-space-development-off-the-planet-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/601d514e-5106-4fa8-b701-d8c20dae5f0e.png",
-          "width": 1024,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T04:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-as-russia-plots-its-next-move-an-ai-listens-to-the-chatter.md",
-      "title": "As Russia Plots Its Next Move, an AI Listens to the Chatter",
-      "excerpt": "With vast amounts of data becoming available to intelligence analysts, new tools will help them sift and interpret it all—but they will introduce new risks, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
-      "originalUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62478eb5eced5c4c5a96ba55/master/pass/Russian-Radio-Interference-AI-Ukraine-Business-1239672875.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-war-ai-surveillance/amp",
-      "publishedDateTime": "2022-04-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

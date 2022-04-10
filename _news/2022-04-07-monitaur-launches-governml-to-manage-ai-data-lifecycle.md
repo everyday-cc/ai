@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-man
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
-    excerpt: "Monitaur, an AI governance software company, announced the general availability of GovernML, the latest addition to its ML Assurance platform, designed for enterprises committed to responsible AI. Offered as a web-based,"
-    publishedDateTime: 2022-04-05T20:36:00Z
-    webUrl: "https://insidebigdata.com/2022/04/05/monitaur-launches-governml-to-guide-and-assure-entire-ai-life-cycle/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 19
   - title: "Monitaur Launches GovernML to Guide and Assure Entire AI Life Cycle"
     excerpt: "Monitaur, an AI governance software company, has released GovernML, the latest addition to its ML Assurance platform, designed for enterprises committed to responsible AI. Offered as a web-based SaaS application,"
     publishedDateTime: 2022-04-06T17:00:00Z

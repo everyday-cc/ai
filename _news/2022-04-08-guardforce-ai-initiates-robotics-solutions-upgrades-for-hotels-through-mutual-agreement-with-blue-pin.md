@@ -90,6 +90,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "IBM, Salesforce Agree to Partner on Artificial Intelligence"
+    excerpt: "IBM and Salesforce.com agreed to mingle their artificial-intelligence technologies in a bid to boost sales of data-analytics offerings. The companies Monday announced plans to offer integrated AI ..."
+    publishedDateTime: 2022-04-07T00:00:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/ibm-salesforce-agree-to-partner-on-artificial-intelligence/news-story/0453fc1a7dd91b1a7d280cbfae13a1b4"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "bb3IGm1x6MPBKvHaGdZaTwfogWtMKvaxy72xXhVZF/5yGaKLljIM8/x5c71NS9gY7/cZfcQue1sZ9tXU3ZBuJiGnpM1jq0EXOn+QL152QNIIWRpXwi5xuUYKxinsi6MY1rocHbm83XyNh2KA95NRJeSM8g2dKFsbA3H0e39j6MT3F3vI8gsFpfripLwOBkRX8RnfU2P6JylNhWEXcfkKlXGSDj1jU8hoiqA93uPdiq/uq4ZETMFXQTl1Vp/BoXvtVT0WLJhLrSboO/TcjpBUc2lb7BRMJ795AiT/KNgWAUyLSTfVaZCj83zazDUrgXE7uMFhVfHbpgPRIR8oCdecTfBPUVtID4XIwSA7OB0GLlo=;qFjBvIvI0p/YpFeQlG3tDQ=="
 ---

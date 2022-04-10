@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-fiel
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
 type: article
 quality: 121
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 34
+  - title: "IBM, Salesforce Agree to Partner on Artificial Intelligence"
+    excerpt: "IBM and Salesforce.com agreed to mingle their artificial-intelligence technologies in a bid to boost sales of data-analytics offerings. The companies Monday announced plans to offer integrated AI ..."
+    publishedDateTime: 2022-04-07T00:00:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/ibm-salesforce-agree-to-partner-on-artificial-intelligence/news-story/0453fc1a7dd91b1a7d280cbfae13a1b4"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "P55ZOdUCfXhxqzEhnRi0B+HvCZ4KC3ZjD1IKzJyfPtVz6SouJDkklJTXtS+lDEqHW3hDlmM1qpWas06KGGYIQH2nQVTWdrUkVfUbcoV0bKqRgzoHZ4iPveC993blo+fv327YBLopvV8gS1xrTn689Pzi3rAGj+WydrfFl2vKuJeGfwM+0VV9stfBXA8p6csnYIX4a1UXLl8sqeooVQwYRBTWxiFEwfNa63fjqj8jGmfjyOPAK1VG3Y7wWntqfuzPC94z7Jdl+z84VSlE92pW+CRWkAmivNueOVov5DDCic3UzsNKMy2VBa9oUnL2pLryoMXNPcoYh45ak5FvZXp+SjvmhYrUkm9Tfg85f0tupk2YPwJnRGYJIsi8Z44iCsP71lJoCm1B7UeiGqvjkDMhgw3rlsq6v1e4s+dU1ptjFwkKMTfR99NnIOKvF1E3IvTq0YSbLU0dfXVBS4EPZaMlLCJ8V1JO7z1lYXeFVeRfSNrXBB2+DkesG0c1BkqbyAXGczthcP22FF8UWXn1qClQyA==;wPrimI60y5xXOVgAU0TLBQ=="
 ---

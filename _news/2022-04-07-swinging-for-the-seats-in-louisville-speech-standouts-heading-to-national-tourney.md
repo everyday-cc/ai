@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-07T12:00:00Z
 originalUrl: "https://mtstandard.com/news/local/swinging-for-the-seats-in-louisville-speech-standouts-heading-to-national-tourney/article_e252d1c0-5bfc-5884-b228-0594c1954165.html"
 webUrl: "https://mtstandard.com/news/local/swinging-for-the-seats-in-louisville-speech-standouts-heading-to-national-tourney/article_e252d1c0-5bfc-5884-b228-0594c1954165.html"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "KiofBq9tSRSSvohT44Gb/rr10uc5C7AagwQ1vbmpxfLo8mgthsjNzu0l24y0TuE96x5QDiDvBCtNgs/ufdnJTWpWfekvElEb9fwau0TBfIIc+j/uUUBvvSnObtD5cwJxyX2AyEqXbu+dtrz76gglsjoQH2/+CA0f8xZYTZ7nGCKSaPPI7k21sMlgC7+8QTey7ngtQTuDpADsPs+XVu9r9kN1HRY8YkqO4uAccsGPfMx9jiee5+l+3T8eYcEi17y6DwDZUR2A8K3FzkYnABej6KxZ+TPXXze6+/QUyIgmrtMz3OzQJ8mBUYjOdRYVeAJm80rybS/vk81Arjw5fTp79sW+WiIuVwWsoKqyubXaliU=;j2daMAsx0vqGgO+J1BPFIw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/b/9f/b9fe70e4-9aaf-5d20-b9cd-8d1effc291b6/624e0d2812cb2.image.jpg?crop=1700%2C893%2C0%2C114&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "FE/g1ucq44xbe2G2kVeILU3M8FGGesWUPhxMmdzN0YxvwFiTWeOquuGttTPXwKXoJNQ/AUEOCN/szHlJazaWFbGfteolB7uDdaFCkQJhu5hrGtIJj3106NXy4C7WIv7E9z54FIZhlzWOf3i96fEN+ZSNN4LljO0w5CXmpYa6PbcAm7EU3CoDfhcZ0vTB+TA56q7Vwrt3MUuXCcedyqFV9E+SobzT0TRrzQvhAJSuEclRQPm7bX8ldG+oDf3MyUJbpiAefcQ7AzSsxofmmPA5mQHuWckPdSyOnZmNEoGPYEYlLKOewY8mnSkAFdhxgnYQKi0bDKFpWNUxXo8pdsFbwCoZofbY8v02jsSxb94xN2Y=;SsPks1jIWF0TLLyRxqBnxA=="
 ---
 

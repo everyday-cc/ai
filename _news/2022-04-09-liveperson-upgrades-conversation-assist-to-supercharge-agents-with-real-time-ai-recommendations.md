@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Augmenting the financial experience with hyper-personalisation"
-    excerpt: "By Rajesh Awasthi, Vice President and Global Head, Managed Hosting and Cloud Services, Tata Communications An environment where the industry landscape and customers’ realities are constantly evolving,"
-    publishedDateTime: 2022-04-05T21:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/augmenting-the-financial-experience-with-hyper-personalisation/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/augmenting-the-financial-experience-with-hyper-personalisation/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/augmenting-the-financial-experience-with-hyper-personalisation/"
+  - title: "Botgate's New AI Bot Triples Conversions with Conversational Marketing"
+    excerpt: "Botgate built an AI bot that communicates with customers almost like a native sales representative fed by dynamic data and unique playbooks. It helps you transform your sales workflows with"
+    publishedDateTime: 2022-04-07T13:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/botgates-new-ai-bot-triples-conversions-with-conversational-marketing/article_3ddcd465-00e0-5954-9e19-d9b1f1bb648e.html"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1096811078.jpg"
-        width: 750
-        height: 414
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
 
 secured: "8XP52AHLKFsMpYtRKw67auW/UE4fAnXtDwcoNw2rV5mR3IpG+9vnAcuI3OHj9Zi6IKo2vo+feQ8wERu5JYTdzJMIWtmDKrFHA/okSRX4Wsp2stJu2fMbO/ukQYLxFG3K11iFnRyEJkDqhVn3DGvKeTjVa3IhJunOT3JxutsiRdsCX6X3r2iyCyzWE0zlPR0FgESisidyb59T1UyB4weVmHkVYOaZRSwRH4Cq11kXB5FLkGmevkHqe4VGlKlEe5sKFXlB3cwkdHrR1V1BE9KxoFTueJK4QOSYLUtc6fxuEY3v1xhIVNxY/b205xUsxkLDvhWDM5jktnQvvnI/3ttZAW9bvb5Pji0x+F0EOJ9l4NY=;XyzsxHqvKtOMpmf8KmryoQ=="
 ---

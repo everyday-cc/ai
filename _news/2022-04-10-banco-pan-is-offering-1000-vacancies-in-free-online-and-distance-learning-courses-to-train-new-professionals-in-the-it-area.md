@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T12:25:00Z
 originalUrl: "https://clickpetroleoegas.com.br/en/bank-pan-is-offering-1-000-places-in-free-online-courses-and-ead-to-train-new-professionals-in-it-area/"
 webUrl: "https://clickpetroleoegas.com.br/en/bank-pan-is-offering-1-000-places-in-free-online-courses-and-ead-to-train-new-professionals-in-it-area/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Click Petroleo e Gas

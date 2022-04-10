@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-
 ampWebUrl: "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031"
 type: article
-quality: 87
-heat: 98
+quality: 89
+heat: 100
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.wsj.net/im-521230/social"

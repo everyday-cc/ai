@@ -18,6 +18,22 @@ topics:
   - AI
   - AI in Marketing
 
+related:
+  - title: "LivePerson upgrades Conversation Assist to supercharge agents with real-time AI recommendations"
+    excerpt: "Enhanced recommendation engine for content and bots puts Conversational AI to work for agents, saving time and improving conversation outcomes. NEW YORK, April 8, 2022 /PRNewswire"
+    publishedDateTime: 2022-04-08T18:02:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/covid-technology-health-business-d62fc513978beee70f6c20196caa00c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "tDjTgqoLge0ZwitpvOZD+OTaPSJFBoVaBqCqI2gXkAXB5shIKgsrFs2n4G8u7TE/C6Qr39ioTgG4cwgX/r2gKcqdDZNJnDcpeDkwd6mXNT5ruNXzfkYJPWGliHDYiKEtIHsSLLi9jNPbnCDbUsmiZJQti+njouzvuZlpt2mmYekZdfVl8z8gG3C8y2C3SfaEs1BTsaeoNhv3lgrZrVD8SX5wdwHlyVmbiJ7xcBMKkuJDDP/A5FXOjM6XdENswt5Oe/0Rqt0EJqFWKd6op4WlFI+wSiJKYInOlb25tLFnkaaodhMlSoGRCz8q1+pk/4Odia7ofNz4s2VdjKPQiMORvCJgHuKrmr7GdWaN5nnsxcM+OIlSME3I9rT3iMNiCAVPhXEWIaRQw1/x1zhRbvxKRvgf3g9A6mnSyq21psejPuZmEcPB2FrU5i2PfbI2gD6tMkyZM4C6/6zEN2ihl6hMMs3clgd8iqafS85J3Z4xvn2JxHSxrNsXjzDzkl1q27PpqfzAIYsLFFRPeFIxlcezag==;ISlvHcvlVUJi36ZJVIR/ZQ=="
 ---
 

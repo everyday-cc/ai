@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T13:12:00Z
 originalUrl: "https://www.express.co.uk/news/uk/1593980/Education-news-uk-surveillance-tsar-facial-recognition-schools-controversial-dfe"
 webUrl: "https://www.express.co.uk/news/uk/1593980/Education-news-uk-surveillance-tsar-facial-recognition-schools-controversial-dfe"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Daily Express

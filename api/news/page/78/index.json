@@ -2,6 +2,152 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-02-01-cfpb-warnings-of-bias-in-ai-could-spook-lenders.md",
+      "title": "CFPB warnings of bias in AI could spook lenders",
+      "excerpt": "Rohit Chopra, the director of the Consumer Financial Protection Bureau, has cautioned banks, credit unions and fintechs about fair-lending violations that may stem from reliance on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/creditunions/news/cfpb-warnings-of-bias-in-ai-could-spook-lenders",
+      "originalUrl": "https://www.americanbanker.com/creditunions/news/cfpb-warnings-of-bias-in-ai-could-spook-lenders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/ec56e5a/2147483647/strip/true/crop/3936x2066+0+279/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F7c%2Fb0%2Fdd18a1c44935b3770f8d2716c7ef%2F380308684.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-31T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-power-bi-and-azure-as-the-future-of-enterprise-analytics.md",
+      "title": "Power BI and Azure as the future of enterprise analytics",
+      "excerpt": "The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you’re trying to predict and what data you have available, and iterates through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
+      "originalUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/06/power-bi-reports.jpg?x75348",
+          "width": 770,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
+      "publishedDateTime": "2022-01-31T21:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-using-cosmic-radiation-to-make-art-with-ai-and-blockchain.md",
+      "title": "Using Cosmic Radiation To Make Art With AI And Blockchain",
+      "excerpt": "AI-generated image as part of art work initative Celestium on the International Space Station. Celestium, developed by Artificial Mind and the artist Cecilie Waagner Falkenstrøm, is a hybrid AI-blockchain algorithm that uses data from cosmic radiation it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f884edf630cd90e840ec2b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1017,
+          "height": 1007,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
+      "publishedDateTime": "2022-01-31T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-amazon-ai-cheat-sheet.md",
       "title": "Amazon AI: Cheat sheet",
       "excerpt": "Where Amazon stands out, Gualtieri said, is in pricing. Take Amazon Rekognition, for example. It typically costs $1.00 per 1,000 images analyzed. Once you pass 1,000,000 images the price drops to ...",
@@ -990,155 +1136,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-budibase-brings-open-source-to-low-code-web-app-development.md",
-      "title": "Budibase brings open source to low-code web app development",
-      "excerpt": "Let the OSS Enterprise newsletter guide your open source journey!  The burgeoning no-code / low-code movement is showing little sign of slowing, with countless new products and companies hitting the market to help coders and non-coders alike make the most of the skills that they have.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
-      "originalUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Budibase.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
-      "publishedDateTime": "2022-01-31T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-no-code-machine-learning-in-power-bi.md",
-      "title": "No-code machine learning in Power BI",
-      "excerpt": "No-code machine learning in Power BI Your email has been sent Can Microsoft democratise AI? The new code-free Power BI integrations with Azure Cognitive Services and Azure Machine Learning are a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/01/power-bi-trcdm.png",
-          "width": 770,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/no-code-machine-learning-in-power-bi/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/no-code-machine-learning-in-power-bi/amp/",
-      "publishedDateTime": "2022-01-31T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-decode-the-possibilities-of-machine-learning-at-scale-with-microsofts-latest-webinar-on-azure-machine-learning.md",
-      "title": "Decode the possibilities of Machine Learning at Scale with Microsoft’s latest webinar on Azure Machine Learning",
-      "excerpt": "Microsoft’s webinar ‘Machine Learning lifecycle management and possibilities with Azure Machine Learning’ introduces the positives of using Azure Machine Learning which enables data science ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "originalUrl": "https://yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Article800X4001-1643612967031.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/01/scale-microsofts-webinar-azure-machine-learning/amp",
-      "publishedDateTime": "2022-01-31T01:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

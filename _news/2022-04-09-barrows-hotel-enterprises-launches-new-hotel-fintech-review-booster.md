@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Grasshopper Bank partners with fintech to outsmart fraudsters"
-    excerpt: "The bank's CEO, Mike Butler, finds signs of fraud using software from FiVerity that identifies suspicious behavior patterns across its client network."
-    publishedDateTime: 2022-04-05T20:44:00Z
-    webUrl: "https://www.americanbanker.com/news/fiverity-grasshopper-bank-look-to-outsmart-con-artists"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/666187a/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb6%2F76%2Fbf53ea474c7da458030f8cef1706%2Fgrasshopper-fiverity.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meet The Fast And Furious of Fintech"
     excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
     publishedDateTime: 2022-04-08T13:07:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T09:52:00Z
 originalUrl: "https://www.kenoshanews.com/opinion/editorial/orange-county-register-editorial-ban-facial-recognition-by-police/article_c2f6ec3a-5323-5864-8a42-1baa760bb989.html"
 webUrl: "https://www.kenoshanews.com/opinion/editorial/orange-county-register-editorial-ban-facial-recognition-by-police/article_c2f6ec3a-5323-5864-8a42-1baa760bb989.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Kenosha News

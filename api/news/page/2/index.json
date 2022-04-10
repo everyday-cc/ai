@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-08-storage-requirements-for-ai-ml-and-analytics-in-2022.md",
+      "title": "Storage requirements for AI, ML and analytics in 2022",
+      "excerpt": "We look at what is needed for artificial intelligence and machine learning, and the pros and cons of block, file and object storage to store and access very large amounts of often unstructured data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
+      "originalUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
+      "publishedDateTime": "2022-04-07T23:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-china-uses-ai-software-to-improve-its-surveillance-capabilities.md",
       "title": "China uses AI software to improve its surveillance capabilities",
       "excerpt": "Uniview surveillance cameras overlook a street next to a residential building in Beijing, China December 10, 2021. Picture taken December 10, 2021. REUTERS/Carlos Garcia Rawlins",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -365,7 +409,7 @@
       "originalUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -450,6 +494,39 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-impervious-ai-releases-internet-browser-built-on-bitcoin.md",
+      "title": "Impervious AI Releases Internet Browser Built On Bitcoin",
+      "excerpt": "Impervious is a new internet browser that does not track or sell data, is censorship resistant and is built on top of Bitcoin’s peer-to-peer Lightning network. The Impervious browser by Impervious AI was released at Bitcoin 2022 Impervious is built on top of Bitcoin as a programmatic layer allowing developers to utilize Bitcoin as a base layer for verification,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin",
+      "originalUrl": "https://www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin?amp",
+      "publishedDateTime": "2022-04-07T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -836,7 +913,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1118,111 +1195,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-microsoft-launches-its-ai-powered-notetaking-app-journal-as-an-official-windows-app.md",
-      "title": "Microsoft launches its AI-powered notetaking app Journal as an official Windows app",
-      "excerpt": "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680",
-          "width": 679,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/",
-      "publishedDateTime": "2022-04-06T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai.md",
-      "title": "Salesforce upgrades marketing, field service, and sales tools with AI",
-      "excerpt": "Salesforce launched a series of AI- and automation-powered updates to its sales, marketing, and field service tools during an event in April 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/IMG_3027.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/",
-      "publishedDateTime": "2022-04-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

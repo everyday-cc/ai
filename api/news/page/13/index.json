@@ -2,6 +2,139 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-03-28-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
+      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
+      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
+      "sourceUrl": null,
+      "webUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "originalUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wreg.com/wp-content/uploads/sites/18/2022/03/CBP-IMAGE-ASTs.png?w=1280",
+          "width": 896,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/news/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
+      "publishedDateTime": "2022-03-27T19:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
+      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "publishedDateTime": "2022-03-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Google AI",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-what-do-sae-automated-driving-levels-mean-anyway.md",
+      "title": "What Do SAE Automated Driving Levels Mean Anyway?",
+      "excerpt": "Waymo! This is why YouTube is clogged with horrifying videos ... Related: Think You Could Win an Autonomous Car Race on an Artificial Intelligence Controlled Course? “This has the implication that the higher the level, then the better, or more advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
+      "originalUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-isight-artificial-intelligence-provides-vision-to-the-visually-impaired.md",
       "title": "ISight - Artificial Intelligence provides Vision to the visually impaired",
       "excerpt": "There are about 2 billion people suffering from mild or severe visual impairment. iSight is a smart app that aims to provide a solution that would help alleviate the suffering of the visually impaired and blind community.",
@@ -1048,150 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-trullion-tackles-applying-ai-to-accounting-workflows.md",
-      "title": "Trullion tackles applying AI to accounting workflows",
-      "excerpt": "Trullion thinks AI may be used to unify the \"unstructured and structured worlds of accounting by translating them into financial workflows.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/",
-      "originalUrl": "https://venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1213844364-e1648239295181.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/trullion-tackles-applying-ai-to-accounting-workflows/amp/",
-      "publishedDateTime": "2022-03-25T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-report-70-of-us-consumers-want-to-use-ai-for-their-jobs.md",
-      "title": "Report: 70% of U.S. consumers want to use AI for their jobs",
-      "excerpt": "While workers are interested in AI, they still want to maintain control over their solutions, rather than have AI run tasks automatically.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/",
-      "originalUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1314526613-e1648140906488.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/report-70-of-u-s-consumers-want-to-use-ai-for-their-jobs/amp/",
-      "publishedDateTime": "2022-03-25T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-artificial-intelligence-key-to-unlock-the-future-dr-kpodar.md",
-      "title": "Artificial Intelligence key to unlock the future - Dr Kpodar",
-      "excerpt": "Artificial Intelligence AI use of simulation of human intelligence in machines that are programmed to think like humans and mimic their actions has assumed national discourse and Ghana must prepare to launch in that space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "originalUrl": "https://www.modernghana.com/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/325202293401-i4dp266gfa-picture-i-tma001-science-artificial-intelligence-.jpg",
-          "width": 800,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1147718/artificial-intelligence-key-to-unlock-the-future.html",
-      "publishedDateTime": "2022-03-25T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

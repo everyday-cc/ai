@@ -3,16 +3,16 @@ category: news
 title: "ShopRite launches test of robot Tally to compete with Stop & Shop’s Marty — but it’s not in CT yet"
 excerpt: "In the world of supermarket roaming robots, Stop & Shop’s mechanized aisle monitor is about to get some competition. ShopRite, which has 20 Connecticut locations, is launching a pilot program to bring robots,"
 publishedDateTime: 2022-04-08T18:10:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php?src=sthpdesecp"
-webUrl: "https://www.stamfordadvocate.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php?src=sthpdesecp"
+originalUrl: "https://www.nhregister.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php"
+webUrl: "https://www.nhregister.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 723
         isCached: true
 
-secured: "6boeta3aESCSVxHB5YwEBheZPEaHDFISVVN7jizyTVjRNcmCRv5T+ZgvIxOXiA3bYJvABpSmo8w0db5DvNqYJzJ52p7NYO3DiRo4QnKDmXmhiFLA4u3jOw6CXAXciTlR/DqFbI6D+uNMysR8u9kBhr+6k0h+ak03Ga2oRnpQW9qiKNgnspDvU3ZMJ1Ku0egrPc05Su4C3N01byzBmqUStKLA//UYU4zBHdk92JDBS+jkwPlKTvRaV2TjgMQU9n7oRzFCEu3AhIss76eNSrozrc0fiCbvcC0vSkI14xRjUE/DA/Uc+CxvNXi7RYhMJuuIPEXJQkItMw1pdAgeh3EnEAN6dLGQ70Xk8AjOysYSGDg/phFA/fJ1lemQZZC6F/Nh2dCmY45ifLD4jsE04jWwvLG/t7N4oMSwRpAXSH5r/tO2pOR2M7ln//PD7eXcc2ypIURV3h0+eQPSg5Lwx7w1wzEo17mSdjkCjtqmyVUocTh2v99St9+ZLBftJDyDKbB1QZPxNPNbdpi93xcQLRdvCg==;C1CgyWII/4wjW/mhUZk4tQ=="
+secured: "K514PhCnjPciUCZ7otc+w7aSt4gP0VM61rZ1fE5lpVz+O58i6lRNgYrYMNBtM+TVjHKda0A/0w6rnf68GXWgjUVaBtqPc01r8cBKRPbvFiQUrF8J6XihHCPLBVYoHJ8pHsJDVbNnldGxHC3OBRw9bOhEbFbRNaOOWli71Otxse7cnLqPM13VeHsJKS3EfuOF0yO/NW5WdX/+AYawclntJ/WJ2ovpWowY6RfuWJ8P5SS/ZSKaRUPMWqppOWgjGxmyR1aZmo+QmrmuVVgaYVpIHpfMEC1ORw882zpN6Zfxu4/RRKyp1WL+SHOvFpAYnRmwEk0eY5pyNjfJaFebA+P2ro+s9Wfz0ot2vA3LKt0VVpQ=;4RHICtWQle3EQFSCXjlZYQ=="
 ---
 

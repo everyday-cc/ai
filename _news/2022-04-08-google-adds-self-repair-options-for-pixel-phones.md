@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-fo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

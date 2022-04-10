@@ -63,15 +63,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
-    publishedDateTime: 2022-04-05T19:43:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 19
 
 secured: "nkh+Hk88eOJC1iTeZldyGWHO73uzZTfH8NNSzZxJbwzfX4QsyJyifwq/wkRvxuq9ZlcEOcKGjHhMd5BPLAxdygD88g5LwDWuutzDddfNoqdtioOo9pqiYsiiro2APSYXC9je+/07+vIxdHnNLv/SL4Z+xY8n4nq1q9rvLz56v+jA/yrvmNpX4r4d1os8dKwr8Adlp0v4g8dwHHsx2CKQaFx5GulD1eyhQ8LuZySpbUIueR8LEpbRqj/iusUVzn8pq2knirqCpt/eMEv7+cOc7aepJhVl6FifQeAAff9bdmMrJ77VzUBUoJocpyGd912jJQay0xtaM5G3lLzwZHYvnKDGc7bDQwFO3m0M8TSfy3I=;o5aBBT9h/RFIGpXDJcKPnA=="
 ---

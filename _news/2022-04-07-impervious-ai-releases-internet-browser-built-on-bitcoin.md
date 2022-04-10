@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/impervious-ai-releases-internet-brow
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/impervious-ai-releases-internet-browser-built-on-bitcoin?amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Nasdaq
@@ -20,36 +20,15 @@ topics:
   - AI
 
 related:
-  - title: "IBM releases new server that uses AI chip developed in Albany"
-    excerpt: "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through."
-    publishedDateTime: 2022-04-05T20:35:00Z
-    webUrl: "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
-    ampWebUrl: "https://www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php"
+  - title: "Phai Labs releases whitepaper on building fairer AI for candidate screening"
+    excerpt: "Phai Labs, the R&D arm of PredictiveHire, has released the whitepaper that informed its FAIRTM Framework, showing how bias in AI can be"
+    publishedDateTime: 2022-04-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/phai-labs-releases-whitepaper-on-building-fairer-ai-for-candidate-screening/article_1c7420a7-ddaf-58d8-9cf6-827d56dc5db0.html"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 74
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/04/73/22302450/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Google releases new online Manga Tool that uses AI to optimize your art"
-    excerpt: "Google has just released a new online manga tool called Giga Manga. It allows users to create sketches and turn them into fully colored manga art that uses AI and machine learning. Using Giga Manga is ridiculously simple and could be the next big thing,"
-    publishedDateTime: 2022-04-06T00:11:00Z
-    webUrl: "https://goodereader.com/blog/manga-and-anime-news/google-releases-new-online-manga-tool-that-uses-ai-to-optimize-your-art"
-    type: article
-    provider:
-      name: Good e-Reader
-      domain: goodereader.com
-    quality: 37
-    images:
-      - url: "https://assets.goodereader.com/blog/uploads/images/2022/04/05200859/unnamed.jpg"
-        width: 1200
-        height: 713
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
 
 secured: "J41+SjAnVoznTqigPo3++o2FovIMmz4egjWIKTH9a95p0H2Za/9wcnYKB0VwpIjxZwNaUzpoMlvlYtx9mbWRySSQ2ycCYQ6dsXOkbLXmUETORjLCpfDX0N6YcGp6aeR4dT8OHKxFpdaH7H+1C0/17JaPPkGaQ3VihVo7bW2CKcq6/UizpjNT6Oq2MNEqCuGvwRRVd7VX22r5NnyGorV3WD520aCBELLkw3y7lswRypoDbaCYucj8w2BBXt140lqD1jEt2t7pXkCkFLnKCB4/80SOEGwmjAhugxIjRLqvnqDC6JzEIK0EGDuVvfPMz3iQQkMJpaTYzictGNDw48pJZ/O1h0KwZHWvECv4qg7Mv85SKTYyL94bwsuVo9pBYEydkwXToc1lFrd17Do1FbyOu68GWQ9o6iznI3olOPll+O3FmTJvm54xiIkZwaVDKiOaIBHmMYyCbHJHza25g5nz9DtNRiYA0KW/65PEc9Qy7+X5Ged3GRvEnh7iX+6B7IQkh3vhjPX0ntfbCEyD97Ti7w==;sU0fxMJ0Abia/tzBoufIAQ=="
 ---

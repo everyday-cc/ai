@@ -92,6 +92,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 34
+  - title: "IBM, Salesforce Agree to Partner on Artificial Intelligence"
+    excerpt: "IBM and Salesforce.com agreed to mingle their artificial-intelligence technologies in a bid to boost sales of data-analytics offerings. The companies Monday announced plans to offer integrated AI ..."
+    publishedDateTime: 2022-04-07T00:00:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/ibm-salesforce-agree-to-partner-on-artificial-intelligence/news-story/0453fc1a7dd91b1a7d280cbfae13a1b4"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "T+3L9ZD21X6l1IBH8uXK1NEmkUX6FK8I+T2Ld6TkQkhaQTwP7jBWrKsYGmyxtam97/Dn3O1PwHujTMWvxkzLlWvCGpJhyK7HfZmMjDwAHFmSCOsWRla6XEg4QVkXIv9BWtHW+V26yBMvUUFYnTDvKnAIRUhC2adUJtmm3TCZ4VhQzqre+C87a7J2Jk5RuFglfMHm95NR3gXIqR7d3olMQt1RvkQGcstXEasN77zsbMjfJOBSc70M9dghacF765um+VHtDVyajjlGaKkTx6p7JRccKmaSZxl1lNTb+GMTDc5k9v9WEUp5rFdzSvadjqZWYz0woMC523fQiW6LyCqr7IkkFkI/h5qLj3YPZNXHr1o=;qZXT+J3fu5ISY4zTXBmPdQ=="
 ---

@@ -64,15 +64,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 25
-  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
-    publishedDateTime: 2022-04-05T19:43:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 19
 
 secured: "jwPfkUnpyw3Ytnw6Z1HHKdeaQelvr0rQZHE9ps4s+grS5eI7rG0RS2NuWvBeRYRBOrXVgT2CjuLEoKvaJp7oJAd3Hl9d/K/JeiS23VwPtcFi142CQvIRwtmoQRIF6S1BEMXmhfAs7mQ8O3+962nstawR7HFNQtChZKV9pfqcGjicd9m01T9zlxFqfdfBe7l36zJhRW7jBWgzuxP5b5zIR885NLcE6BmYAEhCEXTyAq5fhPnVZvof1eEmJ84sZybFMouDRanSpeRrv5uZjG/eVZh8wiAqeajKHOUxE98yXWRK8vsMdfoPEEH3qh0uC9Z05Zenf8ikaGvElQJwcLD0sKNCno14gVN2FMMjK5wPWBUSig4oKSTJYF/mhMTG8/bcJqdkOJ1ol8Jum9FmyJV0OszGHO//rk5XtEdJNKADel+T1EhW7TJfDt6a3VTLqEptd/h8hdxzxS7By3lyLvj+Pgy1KKCSVFPETH6P6M+KlV0r8ztci7o4/zyhk5sbsJySmI3chiy16jswFdFOuf3Jdg==;8Eseh5LxUIejo0HxKQB9PA=="
 ---

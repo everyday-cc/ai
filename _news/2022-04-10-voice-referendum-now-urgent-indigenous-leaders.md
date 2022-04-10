@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-10T11:36:00Z
 originalUrl: "https://www.theaustralian.com.au/nation/voice-referendum-now-urgent-indigenous-leaders/news-story/5e2ad4ed97e9ed4674e637d5429e6678"
 webUrl: "https://www.theaustralian.com.au/nation/voice-referendum-now-urgent-indigenous-leaders/news-story/5e2ad4ed97e9ed4674e637d5429e6678"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

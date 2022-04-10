@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
 type: article
 quality: 98
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 25
-  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
-    publishedDateTime: 2022-04-05T19:43:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 19
 
 secured: "Sva3QJIA9n9XWacyhTGfYdqwBC9yab0NHdDEEDJ2ltxhQEPNrvFZxoOygD14GshYDTHGEV9U4GIcXP0PLs07EM4FTRGf55GQXcOtUS2DJNLxqnRsY0S+ceIwCctYD3TZRLG0Oedr94RagW6Jj8u4RACDRkR7Rv04IoOg685IiO0LRWVICQvJafGZXPPX9KFKJf/FLWsStn6lrL6r150slGBa5BiatO4AW4gtNWp2UqgXxpqicDEE3U2pRyrvxGx4R2nN4gwSJYixY/pmbjzevOXP5IbvFH6Q4VQ8OVLhGl1VIfFj9g5ytUUqt0HtjE98P6hk8uAuqlQtKLdUpeHdVuJi5W9xNkAT3LG5SvR1ZAQ=;gCFGfNBKFmyBiY7TVBvoOA=="
 ---
