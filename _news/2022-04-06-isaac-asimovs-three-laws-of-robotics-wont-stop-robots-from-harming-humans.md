@@ -9,7 +9,7 @@ ampWebUrl: "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-wo
 cdnAmpWebUrl: "https://culturacolectiva-com.cdn.ampproject.org/c/s/culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:

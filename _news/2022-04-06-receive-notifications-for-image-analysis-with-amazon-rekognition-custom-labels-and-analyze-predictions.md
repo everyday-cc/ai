@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/receive-notification
 webUrl: "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1584
     height: 669
     isCached: true
+
+related:
+  - title: "Home Office hears caution but wants action on facial recognition surveillance"
+    excerpt: "It does not look like the United Kingdom will soon find consensus on how facial recognition systems are used by law enforcement."
+    publishedDateTime: 2022-04-06T16:08:00Z
+    webUrl: "https://www.biometricupdate.com/202204/home-office-hears-caution-but-wants-action-on-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "OL4kvgR+nKLjL5WhrNySCWVVNfSzAiqydJRt6+OcZraOjlkrlgO5ruhMteBsXbw53b/7NybUwOH3WL9TaanCTTXj+AC+x797FkGPeOSpuDH9/1ky84U86boQNgQ4zm+0be8Z5phi4MfyHzp9LUEVijP22KQOn6XxDUM43F8bV/PtO+k6Fwlozf/n1mzWveqrJWzZxc2SVpYK0qGDMwLUWs8/UwvRymu4NZTOYBVEGwdEGMko5d9QAidejEbkLS5Db3a7tNYToUwZ1TIkzkVuvyYO/garKC7D1yESGprtjDZ0CU+wry6NvkqWaNJx+4XdElz2cQ8aoWssqfpj3/3IpC5RK7OwVzUR86gpdWgtaI0=;kXstuXO5CTlix6WtcXmvYA=="
 ---

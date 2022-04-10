@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-cre
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/amp/"
 type: article
 quality: 89
-heat: 92
+heat: 93
 published: true
 
 provider:

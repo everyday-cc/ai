@@ -42,15 +42,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Holding artificial intelligence to account"
-    excerpt: "In this issue of The Lancet Digital Health, Xiaoxuan Liu and colleagues give their perspective on global auditing of medical artificial intelligence (AI). They call for the focus to shift from demonstrating the strengths of AI in health care to proactively discovering its weaknesses."
-    publishedDateTime: 2022-04-05T23:46:00Z
-    webUrl: "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00068-1/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 19
 
 secured: "N/51DF69+3vFcwjI1leuBToVFpwabCscegS7zx5XuJaZhCM7uuI1bd92OdISQWqC/FOoX76cLIevI9UscIpzYzMe+7Jo3QfeqA6bcAVPggUFvYsNTqRvuAYxjr50AdHfG0OMKn/gTXrXJGf/6veSGMiec8lEyO9NTY3Tsj6G5Wj6H0q/Unxqj7c4TDD2mpCtYRHep634R/TVO7Svx4hD27rI/qvM8bbc17Bm0yuzyZcxo64f0QkKkua1U+mtBQMxRjwTN8AcSs2lqOir0kXhO8Ry/YL5o3ZEkiPsm0uWMZLC1IuWfI9U7j1TciKIoGB4ypGfWuhi/yu3+jSRgseyVytCKSzByA9FokHyK6X7pf9vrn4S4a7Z5JdJUj9sRODz4S7dv1NY9EP/NB1CIKZUkICDZDA/Iphw0ClnCfid1t0PXek2e/uneQajdnf/nDdzivZ2oyzuSrmXy+bRTXJPbhsYMWWhwqH5o06hpNcu4wUtk0hcCeSLq2jZjx9fCWEdPzSHY/srQcw5IGEPBowSMg==;E4xzY97qCc4Pn5zspXPYIw=="
 ---

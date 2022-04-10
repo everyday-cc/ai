@@ -3,16 +3,16 @@ category: news
 title: "ShopRite launches test of robot Tally to compete with Stop & Shop’s Marty — but it’s not in CT yet"
 excerpt: "In the world of supermarket roaming robots, Stop & Shop’s mechanized aisle monitor is about to get some competition. ShopRite, which has 20 Connecticut locations, is launching a pilot program to bring robots,"
 publishedDateTime: 2022-04-08T18:10:00Z
-originalUrl: "https://www.nhregister.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php"
-webUrl: "https://www.nhregister.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php"
+originalUrl: "https://www.stamfordadvocate.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php?src=sthpdesecp"
+webUrl: "https://www.stamfordadvocate.com/business/article/ShopRite-launches-test-of-robot-Tally-to-compete-17066704.php?src=sthpdesecp"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: New Haven Register
-  domain: nhregister.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 723
         isCached: true
 
-secured: "K514PhCnjPciUCZ7otc+w7aSt4gP0VM61rZ1fE5lpVz+O58i6lRNgYrYMNBtM+TVjHKda0A/0w6rnf68GXWgjUVaBtqPc01r8cBKRPbvFiQUrF8J6XihHCPLBVYoHJ8pHsJDVbNnldGxHC3OBRw9bOhEbFbRNaOOWli71Otxse7cnLqPM13VeHsJKS3EfuOF0yO/NW5WdX/+AYawclntJ/WJ2ovpWowY6RfuWJ8P5SS/ZSKaRUPMWqppOWgjGxmyR1aZmo+QmrmuVVgaYVpIHpfMEC1ORw882zpN6Zfxu4/RRKyp1WL+SHOvFpAYnRmwEk0eY5pyNjfJaFebA+P2ro+s9Wfz0ot2vA3LKt0VVpQ=;4RHICtWQle3EQFSCXjlZYQ=="
+secured: "sOpqLOiUxiSs/EL2b0tajlrTmnR06z/oK7sBObILSV7RbRQg9QUPlHbSkqoxHNDG6ampg76/k8i5Eey1S3VI7xeywJRk5eFpbA2lm5GdkQsaVhECd8t+Km5SIlaDhQryYKpZQ14zKKuakU7fSW3r0eP5c3dnvUve6iaqkugnZAInNO84z3cLZThawmp8WgqN2ppExJ/jeop+co6Mifbkc9uhv05zmq1c979l3ulHHa55Q9xCiug9/l9ceRyisEGcCqOM1I4yWyNhxSEM840TejHxDreQTG0sEHQJH9V4FUHgMLWeLnEk5MYnDtDEhTiuqKsF1H5ADOjT5tWAZz8RUEGMv7wt8vg2jOBwWZHXV7U=;2qGhgvqHiaVFH0YEpat86w=="
 ---
 

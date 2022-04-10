@@ -88,49 +88,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-06-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength.md",
-      "title": "Upstart Holdings stock gets new Buy rating at Loop on AI lending strength",
-      "excerpt": "Loop Capital is picking up coverage of Upstart Holdings (UPST), which provides AI-driven technology to banks and other institutions for making lending decisions, with a",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
-      "originalUrl": "https://seekingalpha.com/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213474705/image_1213474705.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3821219-upstart-holdings-stock-gets-new-buy-rating-at-loop-on-ai-lending-strength",
-      "publishedDateTime": "2022-04-06T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
       "title": "SmartHop raises $30M to boost trucking fintech products",
       "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
@@ -1349,6 +1306,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award.md",
+      "title": "IAIDL To Compete as AIMA Tool Among Big Industry Names in the Peacock Fintech and Banks Award",
+      "excerpt": "Bringing its best foot forward, the International AI Driving Licence (IAIDL) is set to compete against PWC, Mckinsey, and other renowned international",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award",
+      "originalUrl": "https://www.digitaljournal.com/pr/iaidl-to-compete-as-aima-tool-among-big-industry-names-in-the-peacock-fintech-and-banks-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Ukraine-War-Protests-AFP-1K-03-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

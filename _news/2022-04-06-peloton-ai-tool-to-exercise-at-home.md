@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "The Peloton Guide Brings AI To Fitness"
-    excerpt: "Home fitness giant Peloton have released the Guide, the closest thing you can get to your very own AI personal trainer.  The Guide builds upon Peloton’s current subscription offerings by adding functionality and interactivity to their large database of workouts."
-    publishedDateTime: 2022-04-05T23:34:00Z
-    webUrl: "https://www.channelnews.com.au/the-peloton-guide-brings-ai-to-fitness/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 37
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/04/Peloton-Guide.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Can Peloton’s new AI transform my midlife body?"
     excerpt: "With a camera monitoring every sweaty move, the fitness brand hopes real-time weight training feedback will prove addictive to subscribers"
     publishedDateTime: 2022-04-06T11:41:00Z

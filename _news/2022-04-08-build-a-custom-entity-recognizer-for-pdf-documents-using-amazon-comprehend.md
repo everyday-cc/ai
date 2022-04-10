@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entit
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

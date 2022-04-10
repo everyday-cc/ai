@@ -1,24 +1,22 @@
 ---
 category: news
 title: "2 AI Stocks That Could Help Make You a Fortune"
-excerpt: "Nvidia's AI leadership puts the company at the doorstep of a $1 trillion total addressable market. IBM provides investors with a bonus as it sets its sights on an AI future. The artificial ..."
-publishedDateTime: 2022-04-02T07:49:00Z
-originalUrl: "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/"
-webUrl: "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/"
+excerpt: "T he artificial intelligence (AI) software market is expected to grow by 21% this year, while the overall AI market is predicted to grow at a 40% compound annual growth rate throu"
+publishedDateTime: 2022-04-02T11:48:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
+webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
+ampWebUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - IBM AI
+  - AI Hardware
   - AI
 
-secured: "xesJyoxs5Y/7mu6sLELMk/B535NBraH9vCU7ZUHb+QaRJOIvsnJXsDwgpP1UYB9/N4oWbeKq17HE3iyU+9LXzK1ZJfchoSq8zJ933DOKbXOm1GH9n0h/1gTJWmlRubq03H9xJ9wVqyHCRsTsD033BmcrxvfU7r04VPaQHCVE3z3/0lAXCJDQoUMObklsfM4EvGIHwVRoquRuGdIfpkPsW+af4eJ0ton3SIJHMU8R+9E8qAl5tV6UR33RUCvNHodBRk6iL9mCMxE6duUC5r1Ygr+r+WLsHj1rBElJgiXgxm0sKcBTZ1tb1/YbDnLBi3sj8jCDxV1PY0CjbqyuTos+R20s/RoN5haY5qkpKoHc7Jw=;K7dvWLZbcHh4qgHTTN0vYg=="
+secured: "njbMOR2jzix37I19pAO6LGKBrduA7NLGxY5Hxt0v0NHuFlDszB+6BsaMRdQOgsjvcTeOkXrE7nl8yiApr33KD+LlIfYggp2sFcg49gNsnwjVkbQbBUhVRjw/Z7XdM3XpPlhCAaPkhZLguB+Cp3ptlxT+xnt3GmML1Rr630X0o7XiIaxs8gy9aQcwapp5Z1OwjVLKuLyL2TDF9nDuehxjP5kvo2ePLosKGD1TWGWo/wHv2EDlJ9TDPLdIIE+FRnYpiz+VeVwZGgoR57xV00n7e895Jx8BxNzp8uqZtNyXun7vQu5V0HtZOAkymXAT9+KgCZQD7wsoU34Qv0OHvHKC+cai7M8NlVPqSjguN3supRU=;D3EG4FVlOpM4F1Omxa6SQg=="
 ---
 

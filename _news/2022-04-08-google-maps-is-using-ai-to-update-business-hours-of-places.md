@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Incorporating Artificial Intelligence Into Everyday Business Practices"
-    excerpt: "Americans harbor a uniquely negative view of artificial intelligence, being fearful that A.I. machines could one day replace human workers."
-    publishedDateTime: 2022-04-08T17:32:00Z
-    webUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/"
-    ampWebUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
+  - title: "How Hospitals Are Using AI to Save Lives"
+    excerpt: "Emergency rooms and ICUs are turning to artificial intelligence to identify and treat patients who are most at risk."
+    publishedDateTime: 2022-04-10T16:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
     type: article
     provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2022/04/possessed-photography-dRMQiAubdws-unsplash.jpg"
-        width: 1920
-        height: 1470
-        isCached: true
-  - title: "Google may update business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.wsj.net/im-521047/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Are AI hiring tools adding risks to your business?"
     excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."

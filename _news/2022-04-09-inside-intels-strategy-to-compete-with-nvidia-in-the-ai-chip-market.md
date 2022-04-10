@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/inside-intels-strategy-to-compete-w
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
 type: article
 quality: 104
-heat: 114
+heat: 116
 published: true
 
 provider:
