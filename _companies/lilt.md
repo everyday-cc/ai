@@ -2,7 +2,7 @@
 name: "Lilt"
 overview: "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost."
 type: "profile"
-heat: 41
+heat: 71
 
 website: https://lilt.com/
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "YxhLqLa8WlScVaozt5bB/2HPHhsfUL6WPLS5RERG+vF3q0eddht37XBEBReJR11FNorL/0bvlGPCOzjhZRr+qG5S7R/iQ+Fps4LjTNeGvCI3S9FVuYgOKHV28Kc3nGC2aTBK2GCPD+Gd2oUX9BnW2x+4hngnPWU4zsF6cZHU+3/ByR7kRY2absDW3EO241qpFyRZlthNbEeWtztGus8szJGdjqpP/hmNx0ToDjNlZ5lO3sQUvMHtSnYXphchahd7WiwKQr5ZsgRiq0XmJ8kOz7bJbBJlx1C2Ji/vgdqRIK1yWI30se0yLdVzjfplieZUEokKpxLbWDzKwUpjy9LyIxcLvP+FPRDDVUderG01MfEZha0JezCZov6it3U5S8tCFh8VsRJwr7pAwZd8yawi6XX25OQ0LslLHwaDVXslWmY=;QjOLuuTIFoVkidB2vO8yuA=="
+secured: "JaaFyb6cZndz1I/2vXhFyYjo8zBH5YY+GJIIyf58IXjQ46vzTeFYpXIk83ZbPgX1QynGFTiPD+t30RhnpN0Y+sNHh5xmL0TXjfHkh3bCrW8OtkGW3x2ul/gFQKprrpgmBzGhsWw5kQvoChwyrtBGXSTP3cU0/Sd9b6qqzGXOpDoiy+BAC07FEgA7BfM669kekHx/AzgFMIcJ87E8YYkW+bOk07xMCEaNnIYACUbXyguyBmeh0koFqaV+3bEUJ69XfB5kaTwj6lIpxTclWMdPF13Ia5WZKN0J5FGcrRtV8AMDYUolfWoQmiu1ebFLKAcOi2TF7e0+HCkPncAest0hHelIFJxHFHFMx2Owtg0V3njc//4s6FOFO+gHur5jjjAaYnaj1U0lueBt6wIK7e8MvYd+Bao0936FRaRfy2qdzTY=;WKhnA9+PFe8uDO2Ugs3JAA=="
 ---
 
