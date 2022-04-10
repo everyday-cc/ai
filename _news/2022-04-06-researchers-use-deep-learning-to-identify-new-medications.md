@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/researchers-use-deep-learning-to-identify-new
 webUrl: "https://www.unite.ai/researchers-use-deep-learning-to-identify-new-medications/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "Researchers identify new medicines using interpretable deep learning predictions"
-    excerpt: "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking."
-    publishedDateTime: 2022-04-05T17:26:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-medicines-deep.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg"
-        width: 1379
-        height: 775
-        isCached: true
-  - title: "Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)"
-    excerpt: "Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from Defined.ai as they discuss what does it mean to build ethical AI."
-    publishedDateTime: 2022-04-06T18:20:00Z
-    webUrl: "https://venturebeat.com/2022/04/06/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
 
 secured: "Y/lrvkv3SFzBXHYeGNMnqKJViqYDRAChCVQxFnVQ92dZLQJ3jiEXiwPE+qdi3OsBOMVhvbLwhl7tN7b3GwOcvJcMuFiVUQn9YdCdh2Gb0mGIZQGPEhG1IuAn6yZzW/bZlpC4VpgOcj61geyn2VptMvUqjVf4JRbOnKVEX8wym95WcUXnJxS+pVpfevJkII3EHrodWqqG4Ss0qjeN2fANFWqvU2LnlQx7LjWAOwcYTaw/P1WxZkRYHpEFZYLWSS3CMyZ+k1QfvuzuWeDYrATWd175vR/2t4JFtFW7NJJ7nk3qv2p8vibs31tqat8UvC2G9dZFTfkgDXuHd6zL2MwkPOakVOEAfc6R9amkyqTaipQ+cEiNg3SDRBfNbd9epcF+tqqRWuULje34G0upWsDFXkuM1GJkGrERZ4ZD0cHnbZwh8Uj22L/lSuoP+amhevG8BPvu70QHEpJ/SHzgIEcW0yXnaxn4dfCjakQHUfQMToCDnNfybL3j3f7qk8HhxqsDIBqYaVJp87h+MwxY5d8RMA==;4keWvKbabQnV0Ujx0K65hg=="
 ---

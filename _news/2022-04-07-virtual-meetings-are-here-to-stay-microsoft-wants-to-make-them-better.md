@@ -55,15 +55,6 @@ related:
         width: 800
         height: 445
         isCached: true
-  - title: "Microsoft, HPE put AI to work checking astronaut gloves"
-    excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"
-    publishedDateTime: 2022-04-05T17:58:00Z
-    webUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
   - title: "Microsoft and UK Met Office Select AI Start-ups for Environmental Sustainability Program"
     excerpt: "Start-ups selected for the equity-free accelerator program will receive Microsoft Azure cloud credits, advice from experts on AI, technology, commercial development and social impact, workshops, coaching from Microsoft, the Met Office and Social Tech Trust ..."
     publishedDateTime: 2022-04-06T19:10:00Z

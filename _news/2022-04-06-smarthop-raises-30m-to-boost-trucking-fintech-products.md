@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-truck
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 34
-  - title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
-    excerpt: "ToroAlerts, LLC, a Portland, Oregon-based innovative FinTech company has launched a mobile app on iOS and Android that helps traders to take the emotion out of crypto trading. The app is integrated into an Artificial Intelligence (AI) Tool that uses Machine Learning (ML) and trading technical analysis to identify and alert the user with buying and selling points."
-    publishedDateTime: 2022-04-10T08:02:00Z
-    webUrl: "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
     excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
     publishedDateTime: 2022-04-09T11:28:00Z

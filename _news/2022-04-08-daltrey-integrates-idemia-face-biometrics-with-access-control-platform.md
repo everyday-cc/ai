@@ -53,15 +53,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Lumeo updates face biometrics offering, enters new partnerships"
-    excerpt: "San Francisco-based computer vision solutions provider Lumeo has unveiled a number of new updates to its technology and business operations."
-    publishedDateTime: 2022-04-05T18:46:00Z
-    webUrl: "https://www.biometricupdate.com/202204/lumeo-updates-face-biometrics-offering-enters-new-partnerships"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 4
 
 secured: "UEthOuI0GBbUqfSKWjVpdRTEkDBsBn0B+jOA23DTRTzMeS1EvBNiANG/2mWRWYmkt9/FR/jUBMkek/mfdVD4f4zaMNFFq99KRxFW+tSbgB25qdQbPTMpE1Sp2ARj3FQX7InugwKVIcjpsZwDPdAs5PeW9muHqLBLNOQmWn0iu4A+xIAgKQgEdKdb/er52R0KMG3buwRGz2WU32IltKKBQsvg4YeYC0eozNwEYUM9cQleLEOJLhF/dMmSUhc4IvHtvvNsMRL8ifk1ctgMn7o5oY9+tCU5XeW0Xbh6UL08DbpFBl4JhGPebixmG4oesAtOVr2BkTa4MjIDRO+JQNqNbhKDYBmlV+DBEj3560D8bEY=;gV1IIEz4AgNKG+hl8s8KIg=="
 ---

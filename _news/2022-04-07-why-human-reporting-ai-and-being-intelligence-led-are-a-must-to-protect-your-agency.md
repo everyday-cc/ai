@@ -7,7 +7,7 @@ originalUrl: "https://www.govexec.com/assets/why-human-reporting-ai-and-being-in
 webUrl: "https://www.govexec.com/assets/why-human-reporting-ai-and-being-intelligence-led-are-must-protect-your-agency.png"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,49 @@ images:
     width: 1241
     height: 678
     isCached: true
+
+related:
+  - title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
+    excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
+    publishedDateTime: 2022-04-10T07:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
+    excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
+    publishedDateTime: 2022-04-07T16:30:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 42
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Putting The “Green” Back Into Greenbacks With Climate Fintech."
+    excerpt: "Climate change is driving rapid, unprecedented, and in many cases unpredictable shifts across our planet. Enter climate fintech."
+    publishedDateTime: 2022-04-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/04/07/putting-the-green-back-into-greenbacks-with-climate-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
 
 secured: "6BaU+HlyMEd8n9kMxnnTF16XLEc23DEHjeSwfUcCLOw8cdDWEn2s/xti+NgBxuCcIE0qB4/ZzutUmDbmEQrOstvvMv9lBSjLYwaWtjP7dbqjDRFq3W8DL+NaWUsNCDjI5iQNnHs/bjbcm6SH5jDmZ7PjhQ8gd150RxsdYoaOWNdqH73U/VMYGMNIWrmNG0GhScot2gvXCqw645t7SZXXlZVOKjZG7vSSpn9GevlcftOP7N6qi98SjueSkAYUnaJ9XkiBFjB7UF65TqP/Gdgn6xQSu9X/l97fx2v3PoRDpPP16qgj6ABHLRRj7+VFumXs0qkzB0XvCo70RwpIVAgJvGMhK3/cUloEH+5Y4rXCVdg=;/cq1i9Qh+yOKJ902SWExmQ=="
 ---

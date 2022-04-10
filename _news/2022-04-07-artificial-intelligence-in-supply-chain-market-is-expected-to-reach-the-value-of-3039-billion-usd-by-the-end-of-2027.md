@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-suppl
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-supply-chain-market-is-expected-to-reach-the-value-of-30-39-billion-usd-by-the-end-of-2027"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market to be a 1394.30 Billion USD Industry by 2029"
-    excerpt: "The global artificial intelligence market size stood at USD 35.92 Billion in 2020 and is projected to reach USD 360.36 Billion by 2028 The global"
-    publishedDateTime: 2022-04-05T17:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-to-be-a-1394-30-billion-usd-industry-by-2029"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/global-warming-AFP-1K-06-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Edge AI Hardware Market is expected to reach the value of 20 billion USD by the end of 2027."
     excerpt: "As per our research analysis, The Edge AI Hardware Market size was estimated to be worth 16 billion dollars in 2021, and it is predicted to be grow high"
     publishedDateTime: 2022-04-07T04:59:00Z

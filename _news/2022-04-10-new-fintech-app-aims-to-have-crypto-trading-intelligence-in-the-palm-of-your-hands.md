@@ -1,83 +1,72 @@
 ---
 category: news
 title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
-excerpt: "ToroAlerts, LLC, a Portland, Oregon-based innovative FinTech company has launched a mobile app on iOS and Android that helps traders to take the emotion out of crypto trading. The app is integrated into an Artificial Intelligence (AI) Tool that uses Machine Learning (ML) and trading technical analysis to identify and alert the user with buying and selling points."
-publishedDateTime: 2022-04-10T08:02:00Z
-originalUrl: "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635"
-webUrl: "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635"
+excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
+publishedDateTime: 2022-04-10T07:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
+ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 53
+heat: 83
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
-  - title: "SmartHop raises $30M to boost trucking fintech products"
-    excerpt: "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year."
-    publishedDateTime: 2022-04-06T13:30:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
+  - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
+    excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
+    publishedDateTime: 2022-04-07T16:30:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: The Hindu
+      domain: thehindu.com
+    quality: 42
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Grasshopper Bank partners with fintech to outsmart fraudsters"
-    excerpt: "The bank's CEO, Mike Butler, finds signs of fraud using software from FiVerity that identifies suspicious behavior patterns across its client network."
-    publishedDateTime: 2022-04-05T20:44:00Z
-    webUrl: "https://www.americanbanker.com/news/fiverity-grasshopper-bank-look-to-outsmart-con-artists"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/666187a/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb6%2F76%2Fbf53ea474c7da458030f8cef1706%2Fgrasshopper-fiverity.jpg"
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
         width: 1200
-        height: 630
+        height: 1200
         isCached: true
-  - title: "Meet The Fast And Furious of Fintech"
-    excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
-    publishedDateTime: 2022-04-08T13:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/424292"
+  - title: "Putting The “Green” Back Into Greenbacks With Climate Fintech."
+    excerpt: "Climate change is driving rapid, unprecedented, and in many cases unpredictable shifts across our planet. Enter climate fintech."
+    publishedDateTime: 2022-04-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/04/07/putting-the-green-back-into-greenbacks-with-climate-fintech/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Forbes
+      domain: forbes.com
     quality: 34
-  - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
-    excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
-    publishedDateTime: 2022-04-09T11:28:00Z
-    webUrl: "https://businessghana.com/site/news/Business/260444/Barrows-Hotel-Enterprises-launches-new-Hotel-Fintech-Review-Booster"
+  - title: "Why Human Reporting + AI and Being Intelligence-Led are a MUST to Protect Your Agency"
+    excerpt: "You don't have to look far to find a headline about a recent breach or compromise within any sector but from a public sector, phishing was behind 70% of government breaches. As threat actors continue to innovate their approach to lure unsuspecting end users with clever,"
+    publishedDateTime: 2022-04-06T20:08:00Z
+    webUrl: "https://www.govexec.com/assets/why-human-reporting-ai-and-being-intelligence-led-are-must-protect-your-agency.png"
     type: article
     provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 24
+      name: Government Executive
+      domain: govexec.com
+    quality: 30
     images:
-      - url: "https://businessghana.com/site/img/../../cms/img/news/2022-04-09-11134700.jpg"
-        width: 800
-        height: 600
+      - url: "https://cdn.govexec.com/media/state_of_phishing_landscape.png"
+        width: 1241
+        height: 678
         isCached: true
 
-secured: "hkBf2gKrv1SV8p2k0EpVr2Q3hMWkVd6KFgnVOM0mCZSNFUxb/JZgle6tKxIFCl0tM2IfKI07PtB5y4EuFMTK734Ua1iZhlnjr6tE/o9y4Mc74Tx3OCHc3FjMiKIyqBtifNsjfTWfzDf+op80BDbNznhB/YLjt92kxaPTqN9QIoWUV/0l8rflWXPEPPuZJ0AfMFZvnWuboJPZ+poVqwneThvwHQN7Y2dFz+58KKUF3GhA+dNwr4UWCUL7loV3sJWC/BoX594C6MOECHdeUcg2JRbzyU0gNPwt9mH1Hv0aIuNyi8ctCFq1NEF+6JM7VLScuY/8VujjAUK3QS0eT/sszapL/TTgK+2m9YUQmw12M9Y=;nYOBQtFyk44EqFmpu4w3Xw=="
+secured: "q3WtGf30hu8gJBD8HSCDlRSq/G9Y/Wlar0d4tjKyCfc6qLLaOz2dwP+F/NDiNABzD0LvfT24q9eij4PLbkWmYlIwd1VVdQqXqXBYRZnpyI4bBvzekrmhH5+AsgTEmHgVb3w8Kgk0Gdbjp9c3l0669ZpqwB9k3dJqTFQw5zE8GCL+c4Ofv8EKB+QDmgyUcamwIfGBZEISq+NN/Q89YXZkKZl4OSs8cAAfqjPPoXd42YAy2MbfwreUt362BmhubCnjOZ3DakuOHmWTUs9UyfvuTG68n7+ATKxZLJCQDWN+xrkfuLGRFBFpriQtRRFkn3FbvExU1bSq5oWg3OhLMvgDVl8qeHWcqaxD+04qH722z2U=;0Wr3ctHr6rg6wDuhdMrdMQ=="
 ---
 

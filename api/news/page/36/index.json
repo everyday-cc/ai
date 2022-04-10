@@ -2,6 +2,48 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-03-08-artificial-intelligence-aids-doctors-during-colonoscopy-screening.md",
+      "title": "Artificial intelligence aids doctors during colonoscopy screening",
+      "excerpt": "Known as the GI Genius, the deep learning technology uses a database of 13 million images to detect mucosal abnormalities in real-time that might be missed by the naked eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening",
+      "originalUrl": "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/c01/63c1dd2550f243de8acbe752dd0ab1bb/c0148947e0b240feb1b7153a36f2d1ef/poster_4758c2e63f474e1298f89141ebef00c0.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true",
+      "cdnAmpWebUrl": "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/artificial-intelligence-aids-doctors-during-colonoscopy-screening?_amp=true",
+      "publishedDateTime": "2022-03-08T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVR",
+        "domain": "wtvr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-amplitudes-digital-optimization-system-launches-in-aws-marketplace.md",
       "title": "Amplitude's Digital Optimization System Launches in AWS Marketplace",
       "excerpt": "leveraging AWS artificial intelligence (AI) and machine learning services for predictive analytics at scale. Amplitude also achieved the AWS Retail and AWS Digital Customer Experience competencies.",
@@ -1137,58 +1179,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe.md",
-      "title": "AI Ethics Foresees Potential Bad Blood And Feuding Between Humans And AI In An Us Versus Them Daily Tussle, Maybe...",
-      "excerpt": "AI ethics warns us of bad blood and feuds that can arise from an us-versus-them human mindset, illustrated via the possible wrong way of adopting AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/622512861a15fdb604df6af2/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1035,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/07/ai-ethics-foresees-potential-bad-blood-and-feuding-between-humans-and-ai-in-an-us-versus-them-daily-tussle-maybe-even-scuffling-with-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-03-07T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

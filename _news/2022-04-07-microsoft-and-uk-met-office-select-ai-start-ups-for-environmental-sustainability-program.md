@@ -63,15 +63,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft, HPE put AI to work checking astronaut gloves"
-    excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"
-    publishedDateTime: 2022-04-05T17:58:00Z
-    webUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 34
   - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
     publishedDateTime: 2022-04-05T19:43:00Z

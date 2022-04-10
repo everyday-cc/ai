@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-use
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Snapchat's latest lens helps you learn the American Sign Language alphabet"
-    excerpt: "As before, Snap is using SignAll's AI technology (including computer vision and machine learning) to recognize your hand gestures. Snap relied solely on Deaf and Hard-of-Hearing team members to ..."
-    publishedDateTime: 2022-04-05T18:52:00Z
-    webUrl: "https://www.engadget.com/snapchat-american-sign-language-lens-practice-184825207.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/9db22bd0-b50b-11ec-bbfe-74b8881866ca"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "You Can Learn Sign Language With This New Snapchat Lens"
     excerpt: "If you've been interested in learning American Sign Language, well social media is here to help. According to Engadget, Snapchat just unveiled a new lens"
     publishedDateTime: 2022-04-06T17:00:00Z

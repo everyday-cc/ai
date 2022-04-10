@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Snapchat's latest lens helps you learn the American Sign Language alphabet"
-    excerpt: "As before, Snap is using SignAll's AI technology (including computer vision and machine learning) to recognize your hand gestures. Snap relied solely on Deaf and Hard-of-Hearing team members to ..."
-    publishedDateTime: 2022-04-05T18:52:00Z
-    webUrl: "https://www.engadget.com/snapchat-american-sign-language-lens-practice-184825207.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/9db22bd0-b50b-11ec-bbfe-74b8881866ca"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Indian American’s AI startup raises $200 million"
     excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centered AI platform and products company,"
     publishedDateTime: 2022-04-07T16:48:00Z
