@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/google-palm-ai-sucks-at-telling-jokes-
 webUrl: "https://thenextweb.com/news/google-palm-ai-sucks-at-telling-jokes-but-great-at-analyzing-them"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "AI is explaining itself to humans. And it's paying off"
-    excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion."
-    publishedDateTime: 2022-04-06T20:33:00Z
-    webUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/z-sgHrCDLFLhJaQSc1xDQ3jFThc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IVAL5CVXIBOONBVVSKCLRL5B5M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "yqP0qGCHqXVqVVj5+5yk5GybCYDFsy85nM8Wj9k/I5i31isFsScxLUZogmLlfYDDruk1AxyPp2n3v9zMS3UdleImDz7cp67OK9I86iQIRgTBGu4OVAmX0uMLwqt2f8/XSWOsgDVETwEjL0sY+dbfGQcSV4CDvRRMtmbp1rJ7aAvKkdxD1THm5FAuzW1A3ABgOM2lQXJX6Jy2ouSBntM33X9gSkscu/7vgijsc1V0rJAGNOKJ9ayQ9nzH+e6qdiXoIFfizdSXWGRNs8CdQukuif2aWf2rN97yVfEWt2eQvHuMVPxzkwcRrBUhDLaokGkJxfZ55ww6lmHJ905ySocy/PIcqZYtCFj5vyDdvEoBLvE=;uin40WVKgEmQVeM4APRh+w=="
 ---

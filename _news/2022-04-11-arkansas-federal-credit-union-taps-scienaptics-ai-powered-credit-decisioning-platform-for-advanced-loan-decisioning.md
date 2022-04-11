@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:38:00Z
 originalUrl: "https://financialit.net/news/artificial-intelligence/arkansas-federal-credit-union-taps-scienaptics-ai-powered-credit"
 webUrl: "https://financialit.net/news/artificial-intelligence/arkansas-federal-credit-union-taps-scienaptics-ai-powered-credit"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Financial IT
@@ -13,6 +16,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making"
+    excerpt: "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years."
+    publishedDateTime: 2022-04-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "California suggests taking aim at AI-powered hiring software"
+    excerpt: "A newly proposed amendment to California's hiring discrimination laws would make AI-powered employment decision-making software a source of legal liability. The proposal would mak"
+    publishedDateTime: 2022-04-07T22:11:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/07/california_ai_hiring/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/07/california_ai_hiring/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/07/california_ai_hiring/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 57
+    images:
+      - url: "https://regmedia.co.uk/2021/02/20/hiring.jpg"
+        width: 1000
+        height: 584
+        isCached: true
 
 secured: "21yG4c3l8x/va5C5uieMks/ph3aHYnxCuJLaxpvo6J9FJVcTgOb+vKVcW1w402jm61rRrTkneZOuXUT8cBeSVpJZX3r1svpBE+2XmadadLQBtsLprSTSPWoSpkCfTGJo9Fn6lXYDv0g6OUv1mJ6DJHc8lBwyjYFvnwUr/o/clveWDd1LcXN+9BwRqFKzT3g0qrR6qGpM/fZIlR65CnAzakzVjzFgrhD7tb4IjTLjLoLljD3Ha0+94z9qDxYM6SD9EndVv+t18fOntYh5zy6xvssKIfItp5W1ocG4zvPFQX0nAgSEes9umPi0CyPPHLKxObm7+4RCtdUcqNjwYC4+jCRfagjjXaZLzLuaxJ3VJev6l5awuESLk1FAn3Lo0+f8QeV+PEuQCwAS9JHKdmseRvxhOmN9mfOvvyuy0y+sMMMRkNQSG280vGHHDILI7A96SgN5xvitwYDVfqchGgpbrJlVbLEauWdQTZ1PxVfCcD3Hq94Li+Bugv4+e0SYJnKVTiITKYFb8jSaJKyp9fN21w==;gLEXXndDgeRNtmi3qPP0SA=="
 ---

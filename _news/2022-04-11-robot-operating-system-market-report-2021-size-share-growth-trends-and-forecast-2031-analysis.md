@@ -39,6 +39,20 @@ related:
         width: 295
         height: 250
         isCached: true
+  - title: "Military Satellites Market Growth Analysis 2022 by Top Manufacturers, Company Overview, CAGR Status, Revenue and Forecast till 2028"
+    excerpt: "Apr 11, 2022 (The Expresswire) -- \"Military Satellites Market\" report compromises a wide range analysis of market dynamics like current trend,"
+    publishedDateTime: 2022-04-11T05:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-satellites-market-growth-analysis-2022-by-top-manufacturers-company-overview-cagr-status-revenue-and-forecast-till-2028-2022-04-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest t"
     publishedDateTime: 2022-04-07T10:37:00Z
@@ -81,6 +95,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
+    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
+    publishedDateTime: 2022-04-11T12:16:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=644996"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "n5IdWoX/babHPsqjQrZ2LSGBllsPxxCqSzNw0z0sehCK5ePI0ZNQccuk89aRtDR2Kd/WBAEg+2XoWpNEcOJV8iuaA0Bz5aoN0PG5TJb5lq7FAdhM3WWWLwZN8gs+Ud444l7LrY23FEuo7Sz37Z0XGcDMjg5meWGjj/znD7BEur/o4sGv+O2m5JAVzMQsSL6opsmpxTWz71IGPWTfAHA1vE075r225sDSLDb9s1sANvj8/Ygptb6HuOjdCk5L3QmsID8NkW4ks0v1QLJhY1pPixjNXEDte+OJdTA8f6M/ac5toyKDRLWOyvG55UlxTiFCO+z4p9n4C1yWL7VG/ok7gfYXTZX5n3FacPc4/wfLazo=;HOivkpDurYYV4mH3j4Pyug=="
 ---

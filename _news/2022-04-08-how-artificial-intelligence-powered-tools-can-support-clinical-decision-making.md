@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1000
         height: 584
         isCached: true
+  - title: "Arkansas Federal Credit Union Taps Scienaptic’s AI-Powered Credit Decisioning Platform For Advanced Loan Decisioning"
+    excerpt: "Deployment of AI platform to bolster auto loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Arkansas Federal Credit Union has chosen its AI-based underwriting technology to improve the credit union’s loan decisioning process and make advanced decisions for community members."
+    publishedDateTime: 2022-04-11T13:38:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/arkansas-federal-credit-union-taps-scienaptics-ai-powered-credit"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 0
 
 secured: "f+8Kh/pnVNnSkDw3yslvh4/sDJYCve3hWNhHVqAHvMuMgGicq/K8JlkpKW8KzJlR3Ad0NkPepM+wNkBW4OPfb2mondU1vKSX/+cs6u9iTl0kVPQsztT8N8EqE2a+DIVfBRmf7U/675TEIK97abJjv1mQrxez7JffCh23njgvTWdIQWpVdrHrXIHbjTX6ljtHRfvKXZ1Sdu0bFBMj0hcoByFJQbUkBuxUlDeFcIm0YmyNdYGnTHhFyeQRrJ3s0fNGBBuA9pRY/KhSWibciaRAD4hGxeHNvyC77lfZmorcmRktmizFA2JoNXvfTO31GWD4Uy0H6zb28/eBbudhnuUKjTR0jzQgE/GX5w7Z8x/oiCfE76Jw7Zzgy+UQQdOExiwFQe7ixrXxoLfpJCjCPNjFC2picBHH2OXXr1LMhdWb1Y9rNaX4uwNtGVH4pJhO7FOtF18HMGI2X3fC3PRCQIbMKUcshIiwqmUrvLiBXVTWCXhQmLZkjQD4Y9OB6bGh7a/cnmoo1sLTybzGSIwZ26pSpw==;vst5SycZz2MuZkY+Sj0yww=="
 ---

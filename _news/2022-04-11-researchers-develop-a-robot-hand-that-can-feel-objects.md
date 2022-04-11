@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T11:58:00Z
 originalUrl: "https://propakistani.pk/2022/04/11/researchers-develop-a-robot-hand-that-can-feel-objects/"
 webUrl: "https://propakistani.pk/2022/04/11/researchers-develop-a-robot-hand-that-can-feel-objects/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ProPakistani

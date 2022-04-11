@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T12:49:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-nq-medical-partners-with-davis-phinney-foundation-/2022/04/11/9580153.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-nq-medical-partners-with-davis-phinney-foundation-/2022/04/11/9580153.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

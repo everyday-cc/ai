@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:03:00Z
 originalUrl: "https://www.sporttechie.com/techstars-picks-13-sports-tech-startups-for-indianapolis-accelerator"
 webUrl: "https://www.sporttechie.com/techstars-picks-13-sports-tech-startups-for-indianapolis-accelerator"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SportTechie

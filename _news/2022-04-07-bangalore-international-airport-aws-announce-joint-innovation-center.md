@@ -9,7 +9,7 @@ ampWebUrl: "https://www.media4growth.com/ooh-news/lite/bangalore-international-a
 cdnAmpWebUrl: "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Bangalore International Airport and AWS Announce Joint Innovation Center"
-    excerpt: "Center will advance BLR's digital transformation vision, and enable startup-led innovation in aviation, smart infrastructure, utilities and mobility."
-    publishedDateTime: 2022-04-06T19:24:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21263167/kempegowda-international-airport-bengaluru-kiab-blr-bangalore-international-airport-and-aws-announce-joint-innovation-center"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 33
 
 secured: "K72To06JOyswd9VdneVgH868isxgZ7vMrJLE3P+DiwzaWMKHh2Qt4WXpT+B/C90EQHVLVCga2UPk75deX0eyKarmFXSmib0fQWc0yVdzjPcfq/u80QSPrT22Cy994fLK8f296QXcPGuFGy7OyW4RwNPyA23+bqJm7JGkXXfOHmKXFsNMkWUzC+iYlRyeDMzVY4XRU0Oex981wMAGpSzTsZX8Rpjv0+9Pjy2xarvRGP1XX6/19bsYtNfkVnFZgIcyn9mY2fdq1aCAJH+hXHlvjzesZoUycfGi+lq2qJgR809P11PwBf0ztgUoOL9EMVzO/XTSUs5XOMqhVaSgemBRTFmzQUHNQLW8BAPNpNfiulU=;Koi6oM0xpoePbBYogj62cw=="
 ---

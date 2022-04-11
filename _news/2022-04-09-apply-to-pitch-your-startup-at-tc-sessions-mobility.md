@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/08/founders-application-mobility-star
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 468
     isCached: true
+
+related:
+  - title: "Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities"
+    excerpt: "Pssst. Lean in and learn about one of the most value-packed ways to experience TC Sessions: Mobility 2022, our annual deep-dive focused on the rapidly evolving world of transportation technology and early-stage startups."
+    publishedDateTime: 2022-04-11T15:50:00Z
+    webUrl: "https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/"
+    ampWebUrl: "https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-2.png?w=1024"
+        width: 1024
+        height: 468
+        isCached: true
 
 secured: "oiQgqf2/lxYku3jzQrLfNdw5QMZCZDQF9EsjYFyw/p/9/S9DI96bxTkSJRmKGXT3ZDc1E0DcKrpyZkYRnKpka1OsL55NUjY4kVHhBy2e+/YuWtoH79KAGhYbkZ+FuIZIJTeDQsxsRMSTHUFBnQUevmz1bRhRKzIVo6W/atYQ0ewBWxHR42gV9I6lPeJ0aMRN7xZXDDXNBGt3aRM6DxKjWkszNzcwQ7h33fzr6CwGVDQVsXJjVSOrIyxp89vPMrWC3jaawMhUxLP7TtpzpKl5E4al+KdioHssati/goLIdYw+B+emcOcv73qXsIEDW8uQb2aXy8zZKFYpVWybikN7x0B1GAJcWoVSsO62p+jzn8K5OXUZFWFQ7r60BWEgY+Vf7N2Gs4xuh4sEKkJnosb8Bm3eEl6fcisHJFVAdIdwQ8Ac/3/2pqxzQvhCQIbRQy1Lr8OtYLqV2mc9zoyBE6sO60FPnkdxcRLohdY+bsbi+1I2x0UDc2ki+BMBJVKHh4CQMI/EVvY6QRZksSni1WT1SA==;crFjN3+1MF8+6XtoVDZQBQ=="
 ---

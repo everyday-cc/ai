@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
+    excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
+    publishedDateTime: 2022-04-11T12:48:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-703846"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 17
 
 secured: "+8wGu6Pn3AV6EH1W4paXvzatMVFYteOr2DDBaZr64iFmYexSPZSl/U6jwhgPdvaaJNWJmDXrhLbG0CkC0Dwg2dLei9eBIso8hiGQimBqLP4m3AoUuCIBPqWPLU04GaKTm6DwylRjLCmamCXmJlDgOavOWcPBokTJIdQx4VlHPu4C2kEhxgkdXGqUsc8uxGNVAXw9a9ZG19RIgpCAC48byX6/lYZbOdCTZfydzuBEdTglJwNxsbw1js925HLhz/PaOxqsYM3dxdpnVtOx+uCukEQlCahReAVhptPzyX3fZK8phlkBxPZP6xGQUjKppj2xGI3cxQ4LPbDw/CLzfFxxkf3j6FfeeOp9Xwawh7VW1S1KDwolNRZL2eC7xa06v+jBKk6FkCsaKJm9FOqJ3G4rB/L4tlTQE8gG0c00N5BpAIA/mHPy7dVJJP+U1E6Xw63lcur53eoimh2BKWq6BDMeMeslRFlvq8kxmhZaMlKid7od+f5ve6l36qrxYCdTi36b4MObpi76QM99oyJaL5dp4g==;UtMgLxNXp9qApyHsbRF/tg=="
 ---

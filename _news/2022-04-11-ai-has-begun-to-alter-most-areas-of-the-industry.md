@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:54:00Z
 originalUrl: "https://www.leadersleague.com/en/news/we-actively-collaborate-with-insurtechs-in-our-b2c-and-b2b2c-businesses"
 webUrl: "https://www.leadersleague.com/en/news/we-actively-collaborate-with-insurtechs-in-our-b2c-and-b2b2c-businesses"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Leaders League

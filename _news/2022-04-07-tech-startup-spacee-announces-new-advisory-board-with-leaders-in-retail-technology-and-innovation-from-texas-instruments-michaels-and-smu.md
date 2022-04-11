@@ -7,7 +7,7 @@ originalUrl: "https://multichannelmerchant.com/press-releases/tech-startup-space
 webUrl: "https://multichannelmerchant.com/press-releases/tech-startup-spacee-announces-new-advisory-board-with-leaders-in-retail-technology-and-innovation-from-texas-instruments-michaels-and-smu/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Industry Leaders Join Addison-Based AR Startup’s New Advisory Board"
-    excerpt: "Spacee, a computer vision- and AI-powered augmented reality company, found leaders in tech, retail, and innovation for its new advisory board. Brian Crutcher, Jeff Wellen, and Duncan MacFarlane will bring \"valuable insight on leveraging technology to help retailers thrive,"
-    publishedDateTime: 2022-04-06T21:17:00Z
-    webUrl: "https://dallasinnovates.com/industry-leaders-join-addison-based-ar-startups-new-advisory-board/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 22
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/04/Spacee-AdvisoryBoard-970.jpg"
-        width: 970
-        height: 464
-        isCached: true
 
 secured: "5p7Ey/J5ozqfuszWucaNkrbj3lu/1DmpgxX8J+cFYGv34XbE+6xejZPlPOqSzkZBeMc3/P+JVasbgyqj526gkQHAPpPzz8ZNu/TwtjTb5YsTuGclQFrnunxswBP/aJcUWAjM1+bbtin60KzbJykzX4WgLDbebo3/OEz8GpIw7zROJ337N4JycsS4r5secapZhay/qs6biw5EGIgNlR2NUBoPHciCYxp5DxQDHcl1yzBfy8Qttg5U8UXCfRvnnUaZKwXzYzS1IH9Cx/htsvzjKNNmbhSyVp6L50Lhgk9YXHhqThBC4WEK99pRA1SBKgBA4Lj6W5zkwuNSwnpYAnyogRbqXUtlJTIIfDltmI/YEzE=;AT7snoOVR4zg/OmevRT1GA=="
 ---

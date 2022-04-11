@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T12:00:00Z
 originalUrl: "https://vator.tv/news/2022-04-11-diligent-robotics-raises-30m-to-deploy-robots-into-hospitals"
 webUrl: "https://vator.tv/news/2022-04-11-diligent-robotics-raises-30m-to-deploy-robots-into-hospitals"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Vator

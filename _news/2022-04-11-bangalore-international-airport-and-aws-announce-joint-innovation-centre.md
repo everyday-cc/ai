@@ -41,15 +41,6 @@ related:
         width: 715
         height: 440
         isCached: true
-  - title: "Bangalore International Airport and AWS Announce Joint Innovation Center"
-    excerpt: "Center will advance BLR's digital transformation vision, and enable startup-led innovation in aviation, smart infrastructure, utilities and mobility."
-    publishedDateTime: 2022-04-06T19:24:00Z
-    webUrl: "https://www.aviationpros.com/airports/press-release/21263167/kempegowda-international-airport-bengaluru-kiab-blr-bangalore-international-airport-and-aws-announce-joint-innovation-center"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 33
 
 secured: "TemBBvzZgFJC7XbtyU+4de8X8BytNsf/iZ4ZCQUxoUOeCTn6Yok++Gr5iZgAlmIh4BkEhQb7f9ZXpELkEHtAurmYbmEakWY7NmysznHIhetxwhL8C+gzegdRjU6PXeDtCfpM6/Xcz8TaZOu+yS941pcvqUud+BfUxspvO2TFTadd9j9OzqKfMzREpVJl3XQylAr/+MQi+ge3sf7s0FFLFtS/Z9UJprOEUePfVAomdrQePvFCePVH/M48pgy3S9/C+LyRXSxLjeemHBxDFzuNssgaj5IGEQQj7rNutBtNpNcSjgsfgKlgiK2kr5DUhNuqAUg6ZjfXjUsp3d5O7J3+BdahveMFy9KnuOw+LlYS1Rf4jiMlLUa/42OJdnj7jCmbNu1iQ5F1qzGPDahs0mPJ3TiUSgiejHR0dLW3uNGNdXkWluwdNvYWhHzEIFWpL+b4BKAVcPsRWc5XCJ/Pj2Y9i7Ilp6aU2swjzZggTnbelsLLlr25ROIaEEWwfNeteo01GaLgmoYhjftdkXDOSfXDLA==;4EU0YapF2ypFbXIRzpYfUw=="
 ---

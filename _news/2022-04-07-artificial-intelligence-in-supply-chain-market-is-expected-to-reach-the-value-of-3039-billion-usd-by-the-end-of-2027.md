@@ -38,20 +38,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-04-06T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.abnewswire.com/uploads/1649249589.png"
-        width: 449
-        height: 300
-        isCached: true
   - title: "Smart AI Toys Market, Global Outlook and Forecast 2022-2028"
     excerpt: "The global Smart AI Toys market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimate"
     publishedDateTime: 2022-04-08T11:19:00Z

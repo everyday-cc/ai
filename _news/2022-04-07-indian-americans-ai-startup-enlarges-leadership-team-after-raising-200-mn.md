@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This Snapchat Filter Can Help You Learn American Sign Language"
+    excerpt: "Building on the hand-tracking technology that powered 2021s fingerspelling Lenses, the ASL Alphabet lens was launched in partnership with SignAll, a startup that uses AI to translate sign language in real-time. \"We're constantly working to expand the ..."
+    publishedDateTime: 2022-04-11T14:19:00Z
+    webUrl: "https://www.cnet.com/culture/internet/this-snapchat-filter-can-help-you-learn-american-sign-language/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Indian American’s AI startup raises $200 million"
     excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centered AI platform and products company,"
     publishedDateTime: 2022-04-07T16:48:00Z

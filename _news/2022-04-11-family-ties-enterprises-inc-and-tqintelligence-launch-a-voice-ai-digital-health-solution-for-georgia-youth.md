@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Come Closer to Achieving “Emotionally Intelligent” AI"
-    excerpt: "Researchers at the Japan Advanced Institute of Science and Technology have integrated biological signals with machine learning methods to enable “emotionally intelligent” AI. Emotional intelligence could lead to more natural human-machine interactions,"
-    publishedDateTime: 2022-04-06T22:05:00Z
-    webUrl: "https://www.unite.ai/researchers-come-closer-to-achieving-emotionally-intelligent-ai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:905/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/04/face-4776910_1280.jpg"
-        width: 865
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
     excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
     publishedDateTime: 2022-04-11T09:45:00Z

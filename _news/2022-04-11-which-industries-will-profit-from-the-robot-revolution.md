@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T12:00:00Z
 originalUrl: "https://i-hls.com/archives/114084"
 webUrl: "https://i-hls.com/archives/114084"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AUS&R

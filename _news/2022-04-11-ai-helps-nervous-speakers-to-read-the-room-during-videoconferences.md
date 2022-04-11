@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:11:00Z
 originalUrl: "https://www.unite.ai/ai-helps-nervous-speakers-to-read-the-room-during-videoconferences/"
 webUrl: "https://www.unite.ai/ai-helps-nervous-speakers-to-read-the-room-during-videoconferences/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: unite

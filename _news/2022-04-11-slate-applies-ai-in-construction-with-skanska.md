@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:37:00Z
 originalUrl: "https://aecmag.com/ai/slate-applies-ai-in-construction-with-skanska/"
 webUrl: "https://aecmag.com/ai/slate-applies-ai-in-construction-with-skanska/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: AEC Magazine

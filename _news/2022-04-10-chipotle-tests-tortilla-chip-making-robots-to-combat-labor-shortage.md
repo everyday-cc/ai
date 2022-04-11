@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-09T20:05:00Z
 originalUrl: "https://www.fox35orlando.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage"
 webUrl: "https://www.fox35orlando.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: WOFL

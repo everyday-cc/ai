@@ -66,20 +66,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Why Human Reporting + AI and Being Intelligence-Led are a MUST to Protect Your Agency"
-    excerpt: "You don't have to look far to find a headline about a recent breach or compromise within any sector but from a public sector, phishing was behind 70% of government breaches. As threat actors continue to innovate their approach to lure unsuspecting end users with clever,"
-    publishedDateTime: 2022-04-06T20:08:00Z
-    webUrl: "https://www.govexec.com/assets/why-human-reporting-ai-and-being-intelligence-led-are-must-protect-your-agency.png"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 30
-    images:
-      - url: "https://cdn.govexec.com/media/state_of_phishing_landscape.png"
-        width: 1241
-        height: 678
-        isCached: true
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
     publishedDateTime: 2022-04-11T08:05:00Z

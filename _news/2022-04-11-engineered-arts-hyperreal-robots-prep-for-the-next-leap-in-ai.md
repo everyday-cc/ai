@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:15:00Z
 originalUrl: "https://innotechtoday.com/engineered-arts-hyperreal-robots-prep-for-the-next-leap-in-ai/"
 webUrl: "https://innotechtoday.com/engineered-arts-hyperreal-robots-prep-for-the-next-leap-in-ai/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Innovation & Tech Today

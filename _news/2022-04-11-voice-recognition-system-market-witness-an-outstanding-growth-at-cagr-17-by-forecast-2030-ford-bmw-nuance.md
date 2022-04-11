@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:44:00Z
 originalUrl: "https://www.digitaljournal.com/pr/voice-recognition-system-market-witness-an-outstanding-growth-at-cagr-17-by-forecast-2030-ford-bmw-nuance"
 webUrl: "https://www.digitaljournal.com/pr/voice-recognition-system-market-witness-an-outstanding-growth-at-cagr-17-by-forecast-2030-ford-bmw-nuance"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

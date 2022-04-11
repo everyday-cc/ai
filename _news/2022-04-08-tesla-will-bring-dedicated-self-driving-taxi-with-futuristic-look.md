@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Breaking News Live: Toyota joins Tesla in developing self-driving tech with low-cost cameras"
-    excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss:"
-    publishedDateTime: 2022-04-06T19:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-april-7/liveblog/90693729.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 8
 
 secured: "MKM+ZEG7QD0Rbr95kjxj35PaJFxMmZgidPQpGteo//HuG0hjRgWalwbRFrGXsYXombKHc6HaD3o+SijnZKosoXC9xs7AF2s+rnX+xah4pUKbnjYEwFWkD9WtLPVLE3gvshYYTL5ShlDcKJ6nU9DoJw/xTaR82/kQ3p+6KC5mwCsWU2sXty8dXCvxAHTEtFgOuA2h/yxw1wuSbxsWF6bRHlF9ki7DxtdTYF31CmZaW8NnhjiZLhB9sHVdcuidOIwDTFPbvmSn1VWRmq73jruNghSCuna3AOMezIgb7yUPAiLvLF4ILl7P/wSHDDXu3DbRtknAOal+mnpEyf/fnB34emNXJYBJ6I8NORwckfb7eJg=;q7XG79ZsT8En4zZeCunPjg=="
 ---

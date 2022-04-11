@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:10:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-innovator-reinfer-raises-7-6m-for-enterprise-communications-nlp-platform"
 webUrl: "https://www.digitaljournal.com/pr/ai-innovator-reinfer-raises-7-6m-for-enterprise-communications-nlp-platform"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Digital Journal

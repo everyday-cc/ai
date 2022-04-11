@@ -33,20 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Researchers Come Closer to Achieving “Emotionally Intelligent” AI"
-    excerpt: "Researchers at the Japan Advanced Institute of Science and Technology have integrated biological signals with machine learning methods to enable “emotionally intelligent” AI. Emotional intelligence could lead to more natural human-machine interactions,"
-    publishedDateTime: 2022-04-06T22:05:00Z
-    webUrl: "https://www.unite.ai/researchers-come-closer-to-achieving-emotionally-intelligent-ai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:905/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/04/face-4776910_1280.jpg"
-        width: 865
-        height: 600
-        isCached: true
 
 secured: "GSozdVgrpQENgGc4SRRgX/4hvmosX/hwTk2ESE+s3j6PcTULkN/Tehz8K4QthvhHYR0t52ct7C9+HP48qtRMYI3MGuX/bmCITh1Pi46Csap+lMtO3WtfF/7JJ5V5v5lkIbHIYXOKowvhsqug6RI6QwBn4P2kEwhFK493pThnJFkfxUw7O1sOx788fVhO5A67zO1GkjmkqwGc4sHYLSPcCgRHpydvQrBLx8+Dcp8vtX+cfDRK0j8J6L8tboCjhXvelfHj9Xqy2x2qoYb5Gu++zx4oyLKF1q9U9f6ioq8Go43LMCgeBkdDIT6N8NSA4P4RMtw4GCSz1VZyZoLPH9/Wt4FOklqWqKh2VnAoh0xfrnQ=;Vi4uRBVgjysXcd0ultNJVA=="
 ---

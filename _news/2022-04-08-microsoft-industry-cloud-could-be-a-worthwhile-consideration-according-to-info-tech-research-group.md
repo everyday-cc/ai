@@ -51,20 +51,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "New Microsoft Azure off-planet space solutions are here"
-    excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
-    publishedDateTime: 2022-04-06T19:20:00Z
-    webUrl: "https://www.windowscentral.com/new-microsoft-azure-planet-space-solutions-are-here"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/04/azure.jpg"
-        width: 800
-        height: 445
-        isCached: true
   - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
     excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
     publishedDateTime: 2022-04-07T01:57:00Z
@@ -79,24 +65,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Microsoft and UK Met Office Select AI Start-ups for Environmental Sustainability Program"
-    excerpt: "Start-ups selected for the equity-free accelerator program will receive Microsoft Azure cloud credits, advice from experts on AI, technology, commercial development and social impact, workshops, coaching from Microsoft, the Met Office and Social Tech Trust ..."
-    publishedDateTime: 2022-04-06T19:10:00Z
-    webUrl: "https://insidehpc.com/2022/04/microsoft-and-uk-met-office-select-ai-start-ups-for-environmental-sustainability-program/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 25
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft’s market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
-    publishedDateTime: 2022-04-07T16:30:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-4381f5d165f3ad463be34179c97c47ca"
+    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and"
+    publishedDateTime: 2022-04-07T16:29:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "vw2Xbefsb96OFb+rQ5PQoKcJthkjQBSHu5qh4xhPg7tBEUG98fMzJsIuY7U9kTVAR2gjOhqqzPht0W6sm7d6EFgCSZCGQNHrnWG4RyMqfgbjaeb+uD9IpJIYNGG2hL+6fGacBuLtPZOIzu4ulwoLf2zmUxFT1vHQ02uPEvXKDqvpoNpnrGKLgTO3XQ3/322nSr03g6Ie7wU2ao7htxdM5xfRyjKyerugpcbgyJTiGRfdJ5kzmNZg+YZyFffb0cX9CtoX/gTPe8G4aD7o5iDD8qarAvRFExiLEofo/4GhS4+YNQNelCvx/aWnQ4n+14WC+oybXqtLukWKtIQnpVM50mABQzFPCpsewaJXjvpHOCw=;YKgFAB2kgXzwEi8DzH2/+Q=="
 ---

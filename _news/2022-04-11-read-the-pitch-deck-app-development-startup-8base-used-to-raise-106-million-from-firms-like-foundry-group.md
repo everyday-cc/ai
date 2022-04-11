@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T12:15:00Z
 originalUrl: "https://www.businessinsider.com/8base-pitch-deck-series-a-round-2022-4"
 webUrl: "https://www.businessinsider.com/8base-pitch-deck-series-a-round-2022-4"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Business Insider

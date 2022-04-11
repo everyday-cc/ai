@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-imp
 webUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Software Detects Breast Cancer Metastases in Lymph Nodes"
-    excerpt: "Paige now has CE-IVD and UKCA marks for a new AI medical device software designed to help pathologists detect if breast cancer has spread to lymph nodes."
-    publishedDateTime: 2022-04-06T19:55:00Z
-    webUrl: "https://www.mddionline.com/digital-health/ai-software-detects-breast-cancer-metastases-lymph-nodes"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/breast%20cancer.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "China's AI makes its satellites spies in the sky"
     excerpt: "Chinese researchers last month unveiled an advanced AI system that enables low-cost commercial imaging satellites to become potent spy platforms. In a paper published in the domestic peer-reviewed ..."
     publishedDateTime: 2022-04-11T07:48:00Z

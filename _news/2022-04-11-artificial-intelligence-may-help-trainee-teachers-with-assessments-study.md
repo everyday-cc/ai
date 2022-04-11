@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/artificial-intelligen
 cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
 type: article
 quality: 70
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
 related:
   - title: "Trainee teachers made sharper assessments about learning difficulties after receiving feedback from AI"
     excerpt: "A trial which used artificial intelligence to train new teachers to spot potential learning difficulties in pupils found that the approach significantly improved their assessment skills. 178 trainees assessed six fictionalised pupils for potential signs of conditions such as dyslexia and ADHD."
+    publishedDateTime: 2022-04-11T15:21:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220411101341.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 31
+  - title: "Trainee teachers made sharper assessments about learning difficulties after receiving feedback from AI"
+    excerpt: "A trial which used artificial intelligence to train new teachers to spot potential learning difficulties in pupils found that the approach significantly improved their assessment skills. 178 trainees assessed six fictionalised pupils for potential signs of conditions such as dyslexia and ADHD."
     publishedDateTime: 2022-04-10T00:00:00Z
     webUrl: "https://www.eurekalert.org/news-releases/949080"
     type: article
@@ -40,6 +49,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "AI could help trainee teachers identify pupils with learning difficulties"
+    excerpt: "AI could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, according to a new study."
+    publishedDateTime: 2022-04-11T12:56:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/04/ai-could-help-trainee-teachers-identify-pupils-with-learning-difficulties/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 16
 
 secured: "8Av54ec0ToaPdysVOP10tkk+49lixAoySrOfPy2bc7jhN4Xp6j2h8GPZcYD9XTSkr6DosvXeCqWmRw/vWhcJWk6MJra7T3bMXPf9KTvoUcYLAI5OryaF8/c3mKMsHOlP8Wif6lgNBLbN7hBxlHaUEewhVjKyeEvzfG5a+kOp4fSVd2lZlTGXDHXhii3AjchwQ5XslPmkhU3Cpa6XGTB23dPbr4PfhQusi8teyqo3zajin2di+vxpGYo8n4AzYnYAiajZyp73Bb7QhxX7BUb5FQTH5Goyoa8D3Al6HR3YuIiF7bUO+tcYm3uw9SqDxJOsDXzTT2gio5t23Zq0C3EXu8UujQZnS+IDduMXSsgXCU8=;7UW5DSyXWmZVyR+QTd9vlg=="
 ---

@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope"
-excerpt: "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans."
-publishedDateTime: 2022-04-11T13:00:00Z
-originalUrl: "https://www.klfy.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
-webUrl: "https://www.klfy.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
+excerpt: "NESHER, Israel, April 11, 2022 /PRNewswire/ -- Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the ..."
+publishedDateTime: 2022-04-11T12:20:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
-  name: KLFY
-  domain: klfy.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
 
-secured: "rqlNoR/Z0Ifz1gFnbuMyChEE8ifIlAlb8VShkH71kAyiuSApCOvvswuxkOd2xmQjHzXJ5z4k43S3K9EUFbAm0rCBgRoP460jUHTnVUxV13dKiTz/Mo0qpCsJHuv6HRd9Jgw9cN9aZAzaKeIK/Z4ypRpOX1yb54UFRxLFNRAFE5YsUzaeFxr2rtfhEoF4J35PW1YfYOofFI2ivr0sP2fMshwgEVTr5lhQbDjg+gV58G4+vTIbJ0zj3wr1y9k72cPV9+lrCDBklQWv1hUswRweuBfcVMze2zIu5/47ROM47rOc6naCSgjEqBreUwTuFkhnitWKrbW33cZLzq6C4Mma9f15UrgBZGHEaQG5NeLr8t8=;1QgPz4NLNa5zwfiGwz+OgA=="
+images:
+  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+    width: 600
+    height: 207
+    isCached: true
+
+secured: "//gheAwYdyigainHKTU/K2lQfv6NChTW/KCyiP4p/n/lidyas9+pJtq6pVauQxq1di37W0I8B23+oFIJ002CUQSzvSJExmT2ehfeyo6VmeTwpV5l8TCN5sYKovwrSuegPMmjqHG858UcGArzPt++K+dpN53n49Aiiq/+54mxER9e3kgTZCDuBYmWq5wWPKtEb5x7K/Q70q/Ts+CUXF6VrgnMoyQsJIffeGjFZ8+Kun9KezbkBkdbLLq0Qu6H/sjtrx3b3UmU2ZQ0WL8KJM60YpOb4nUpiDg4vHoF39RdZnA7Uq5z8Sv8hBYb7xIdyJjrJR5npgVK0v9yQ0K6LzJnA2uVAQHaRRhsIv4nzT/nz34=;DbU1k2xug4hXQYBxI6KnPQ=="
 ---
 

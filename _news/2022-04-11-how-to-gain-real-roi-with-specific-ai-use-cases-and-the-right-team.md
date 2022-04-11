@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T13:20:00Z
 originalUrl: "https://venturebeat.com/2022/04/11/how-to-gain-real-roi-with-specific-ai-use-cases-and-the-right-team/"
 webUrl: "https://venturebeat.com/2022/04/11/how-to-gain-real-roi-with-specific-ai-use-cases-and-the-right-team/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

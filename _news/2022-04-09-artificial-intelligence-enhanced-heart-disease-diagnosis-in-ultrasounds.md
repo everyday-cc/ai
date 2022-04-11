@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-enhan
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 480
     height: 278
     isCached: true
+
+related:
+  - title: "Deep Bio Presents Research Results of AI-based Cancer Diagnosis and Prognosis at the AACR Annual Meeting 2022"
+    excerpt: "Five abstracts in prostate and breast cancers, Deep Bio's main research areas, are presented during the online sessions."
+    publishedDateTime: 2022-04-11T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/deep-bio-presents-research-results-of-ai-based-cancer-diagnosis-and-prognosis-at-the-aacr/article_0a1c437f-8385-58f2-8dc0-fe42e8d12fdd.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "XYDQvCVaThJYuYXCQY8ezQzG0E4kUieedLXyM653n4e1tz6K8vOil5kn9JykiktTHhydYOmmXm12WH3dGGUaKRdZY1xXc7F1mckAFYxliHcnjQ9CGqjmBCIFlqONo5JY7PF/fX8pRshVzJjwPSaclTdT9ABW3hPNNGMnp65iKi/eLsl0CnIj6QDkaMjrvz0zzJktDIatxc+ENtaxUXZxkjbXAUjrP/zmkxtXNz0Xc8E45/OLPUjnWsTEVhHtQQDuUWCjcw9cIRY1eaaC72qeBkXXMUBmYOVebR+dbhWKoTXnDh5gZyNYxB5oh68cZ7nwB77P3lhG7c3AIFrE9fPv48iT0+y/lOP4rXREwt4ZMcjTqi9v54YiJ+M4J4SCcbB01x4OtUeQv4Qb4dXfTiVMvPId6saU7Dy+TPDTrzKAHNW2ZINRlF4PCekwrwZjAsnuRPcDl2MvcHWjZa26ckvCgYoqkA3BG6CAN18rntm2akjcXEykfKMg/IMTfWypQTH6M2dCc14VggdZHLGPX/JhbA==;YUDZCWu7Q71SgiWL0vCtbA=="
 ---

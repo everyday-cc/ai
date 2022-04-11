@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Opinion: Calif. Should Extend Facial Recognition Ban"
-    excerpt: "California banned the use of facial recognition in police cameras. That law, however, is set to expire at the end of 2022. The state should consider extending the ban based on the tech's limitations."
-    publishedDateTime: 2022-04-06T19:07:00Z
-    webUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban"
-    ampWebUrl: "https://www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/opinion-calif-should-extend-facial-recognition-ban?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "NOPD pushes for facial recognition software"
     excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
     publishedDateTime: 2022-04-08T21:49:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T11:05:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/04/11/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company"
 webUrl: "https://stockhouse.com/news/press-releases/2022/04/11/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Stockhouse

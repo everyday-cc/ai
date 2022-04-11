@@ -41,20 +41,15 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Speech Analytics Market Study Reveals Growth Factors and Competitive Outlook for Future Forecast 2022-2031"
-    excerpt: "The speech analytics market was valued at USD 1.34 billion in 2019 and is expected to reach a value of USD 4.38 billion by 2025 at a CAGR of 21.6%, over the forecast period. Speech analytical solutions have the ability to enable users to gain insights,"
-    publishedDateTime: 2022-04-06T22:32:00Z
-    webUrl: "https://menafn.com/1103968966/Speech-Analytics-Market-Study-Reveals-Growth-Factors-and-Competitive-Outlook-for-Future-Forecast-2022-2031"
+  - title: "BigBear.ai acquires predictive analytics software firm"
+    excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
+    publishedDateTime: 2022-04-11T12:32:00Z
+    webUrl: "https://seekingalpha.com/news/3822280-bigbearai-acquires-predictive-analytics-software-firm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?629956"
-        width: 375
-        height: 250
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "rruWjyHgBYmZeQ0EU58E/OsdqQy9dfMhSIgeNVwWb73CsBYLSdOa95fGbx65m2toHRdFNYSSElfb5q+fdZ7TmHbuPIxNDXpXE4lvcAAod6HfafaMbWpEtiDfX9EZuS65vyjbOVUFdoHTaUhabw9FYiWvRVbb0wZjVAWiOELAWEr/upARM8HhSISrz9BfAU4LQYshct9TQZhl5+cnII/MAgKczTPQ57+G5t/ytuk8K3Yn/IpRsgGtNMopAfRvcmwzoWPeF7kgvDNTjoQlRMForBXyrMfUv7e5TziD69AcY6rT+T5XbC187M6Y0fci1sIPRQbA3mAb2+jncLpHKAl0ImbMYIbM/oFlwUnQT7BE/JU=;gM3MRM3CMTGURidcqR8Ipg=="
 ---

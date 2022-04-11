@@ -395,50 +395,6 @@
       ]
     },
     {
-      "path": "_news/2022-03-28-zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert.md",
-      "title": "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\"",
-      "excerpt": "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220328io05315/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1039696/Zoomd_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
       "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
@@ -1370,6 +1326,49 @@
       "provider": {
         "name": "Euronews",
         "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-how-darpas-rd-model-brings-ai-advancements-to-the-enterprise.md",
+      "title": "How DARPA's R&D model brings AI advancements to the enterprise",
+      "excerpt": "How it matters to the enterprise. For almost five decades, DARPA has led the application of rule-based and statistical-learning-based AI technologies. Today DARPA funds a wide range of activities from basic research to technology development, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
+      "originalUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-08/shutterstock_696395281.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
+      "publishedDateTime": "2022-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
         "images": null,
         "publishers": null,
         "authors": null

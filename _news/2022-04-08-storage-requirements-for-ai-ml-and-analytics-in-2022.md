@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Analytics Market Study Reveals Growth Factors and Competitive Outlook for Future Forecast 2022-2031"
-    excerpt: "The speech analytics market was valued at USD 1.34 billion in 2019 and is expected to reach a value of USD 4.38 billion by 2025 at a CAGR of 21.6%, over the forecast period. Speech analytical solutions have the ability to enable users to gain insights,"
-    publishedDateTime: 2022-04-06T22:32:00Z
-    webUrl: "https://menafn.com/1103968966/Speech-Analytics-Market-Study-Reveals-Growth-Factors-and-Competitive-Outlook-for-Future-Forecast-2022-2031"
+  - title: "BigBear.ai acquires predictive analytics software firm"
+    excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
+    publishedDateTime: 2022-04-11T12:32:00Z
+    webUrl: "https://seekingalpha.com/news/3822280-bigbearai-acquires-predictive-analytics-software-firm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 6
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?629956"
-        width: 375
-        height: 250
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "Geospatial Analytics Market Business Growth Demand, Strategies, Overview, Competitive Strategies and Forecasts 2021 – 2028"
     excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
     publishedDateTime: 2022-04-07T20:53:00Z

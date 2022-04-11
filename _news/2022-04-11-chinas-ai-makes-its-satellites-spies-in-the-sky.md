@@ -38,20 +38,6 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "AI Software Detects Breast Cancer Metastases in Lymph Nodes"
-    excerpt: "Paige now has CE-IVD and UKCA marks for a new AI medical device software designed to help pathologists detect if breast cancer has spread to lymph nodes."
-    publishedDateTime: 2022-04-06T19:55:00Z
-    webUrl: "https://www.mddionline.com/digital-health/ai-software-detects-breast-cancer-metastases-lymph-nodes"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/breast%20cancer.png"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "LFdD9k/AnJS6+r6zh7qBS08lEGmWdtdDeQiPmy93I4CTOb2hc+Vhd8NhKyG2k1s9SLAnh21r1jAjLps1b6TlsiyAKNePJxdFPlwt0TajzeHd8bDwSURA3WJzBuBMykoFdEeQIUbAYw0XmNhYL65SUYRAuNgr2k+/rgLWphWc1KxIlopj/Q+KBDnFzpQOdmGiNMcEshVMSZ3QzKYGEBlRX3m0aDcaEpmMIspLPX66KpXTEGK4Tj34w+ED4uYDjuhZaXxI4nL+TA2cQ0vlkzm7XgfgkcUBHA2RQgZdRoA+W+iC/HW5vjl22UCABrj5JNjVIJKM3ARvZRrzfnGh19LyOACYcmyQklq98WiMWXBhit0=;jTUfR4B0/mpLB7OAuVtyMQ=="
 ---

@@ -53,6 +53,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
+  - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
+    excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
+    publishedDateTime: 2022-04-11T12:48:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-703846"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 17
 
 secured: "4mTyQKqkt7G+NKof0CQN9+85z+AQSZfHhiyUOPWVD49FbE3Cje1XEfUi/OoS5DLS6k9n2TQTN0X7y2Q8Wb/PCB8XpEu7K81Y8d8I8KGM+FvA9TC9/+JD26xSUnY0TJ0SOlsYevwEQkdfwUjQPj61cHlHlUwEAtmBLq7Wa3vlzEvJU/zvMrrGG08o13jlbsdGH3O3AZuYuhM57u2A91PmlP+pGtRdJ73KNoZG+khisaGn9W1SHvCBaYKpmGjza6HZxKvoc2nE9A905fdvTWjikxxiJx0tGx9iPIpme6Vau872aaZkr7MFFzN+VAEVZwZ7GMUXXSsoL032+IGOfn2/1MiZfnwzDx0kUna5cAmfK93pc1zKxr/cWExGA4DNFdILZmbWJU/uOHUsFZbRaCmsWvXBQ3kXQ5nCr1BMhAG6pjAGccUHPDVBRZVZiYEq57NzfzGEIHO0HzzN3Podqlxc9tgRZS+yG8GbYXF71m0PadRI8rLP02Z2lCa8GGKURwJDBtNACIYw02fOAUDMCsQ3kw==;7a7LsGOy40cRoA+0nB0YlA=="
 ---

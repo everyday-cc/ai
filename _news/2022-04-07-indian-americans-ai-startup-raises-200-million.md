@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This Snapchat Filter Can Help You Learn American Sign Language"
+    excerpt: "Building on the hand-tracking technology that powered 2021s fingerspelling Lenses, the ASL Alphabet lens was launched in partnership with SignAll, a startup that uses AI to translate sign language in real-time. \"We're constantly working to expand the ..."
+    publishedDateTime: 2022-04-11T14:19:00Z
+    webUrl: "https://www.cnet.com/culture/internet/this-snapchat-filter-can-help-you-learn-american-sign-language/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Can artificial intelligence reveal why languages change over time?"
     excerpt: "Deaf studies scholar Naomi Caselli and a team of researchers found that American Sign Language (ASL) signs that are challenging to perceive—those that are rare or have uncommon handshapes—are made closer to the signer’s face,"
     publishedDateTime: 2022-04-07T19:15:00Z
