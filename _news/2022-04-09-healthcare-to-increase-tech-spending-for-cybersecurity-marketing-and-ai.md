@@ -40,6 +40,20 @@ related:
         width: 606
         height: 455
         isCached: true
+  - title: "AI in financial services"
+    excerpt: "Artificial intelligence stepped out of science fiction years ago and is at work in Luxembourg in insurance, financial services and fraud. Andreas Braun, director, artificial Intelligence and data science at PwC Luxembourg and Ajay Bali,"
+    publishedDateTime: 2022-04-11T09:53:00Z
+    webUrl: "https://delano.lu/article/ai-in-financial-services"
+    type: article
+    provider:
+      name: Delano
+      domain: delano.lu
+    quality: 39
+    images:
+      - url: "https://assets.paperjam.lu/images/articles/ai-in-financial-services/0.5/0.5/600/400/488342.jpg"
+        width: 1050
+        height: 688
+        isCached: true
   - title: "How AI Is Powering the Future of Financial Services"
     excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
     publishedDateTime: 2022-04-08T18:30:00Z

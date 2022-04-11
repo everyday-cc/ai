@@ -53,20 +53,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "How AI and natural language processing boost programmatic ads"
-    excerpt: "Effectively using DSPs is hampered by a lack of in-depth analytics, but AI and natural language processing help programmatic advertising reach its potential."
-    publishedDateTime: 2022-04-06T16:24:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-ai-and-natural-language-increase-programmatics-potential/2410601"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/STR_Lead%20in%20Image%20for%20AdAge%20article%20%233_V1.1_0.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Similarity Between Artificial Intelligence and Human"
     excerpt: "a graduate student in the Visualization Group of the Computer Science and Artificial Intelligence Laboratory (CSAIL). \"On one end of the spectrum, your model made the decision for the exact same reason a human did, and on the other end of the spectrum ..."
     publishedDateTime: 2022-04-09T18:25:00Z

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "You Can Learn Sign Language With This New Snapchat Lens"
-    excerpt: "If you've been interested in learning American Sign Language, well social media is here to help. According to Engadget, Snapchat just unveiled a new lens"
-    publishedDateTime: 2022-04-06T17:00:00Z
-    webUrl: "https://www.androidheadlines.com/2022/04/snapchat-lens-teach-american-sign-language-asl.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/04/snapchat-lens-teach-american-sign-language-asl.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/04/snapchat-lens-teach-american-sign-language-asl.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/01/Snapchat-AH-NS-01.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Indian American’s AI startup raises $200 million"
     excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centered AI platform and products company,"
     publishedDateTime: 2022-04-07T16:48:00Z

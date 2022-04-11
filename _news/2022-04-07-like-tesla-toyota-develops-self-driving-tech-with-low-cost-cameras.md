@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
-    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
-    publishedDateTime: 2022-04-06T15:37:00Z
-    webUrl: "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 38
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla To Expand Self-driving Software Testing To All N. America Subscribers In 2022"
     excerpt: "Tesla chief executive Elon Musk said on Thursday the automaker will expand its \"Full Self-Driving (FSD)\" beta software to all North American FSD subscribers this year and promised a \"dedicated robotaxi\","
     publishedDateTime: 2022-04-08T04:40:00Z

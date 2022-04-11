@@ -38,6 +38,20 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "China's AI makes its satellites spies in the sky"
+    excerpt: "Chinese researchers last month unveiled an advanced AI system that enables low-cost commercial imaging satellites to become potent spy platforms. In a paper published in the domestic peer-reviewed ..."
+    publishedDateTime: 2022-04-11T07:48:00Z
+    webUrl: "https://menafn.com/1103989476/Chinas-AI-makes-its-satellites-spies-in-the-sky"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/11/AT_a4db1image_story.jpg"
+        width: 850
+        height: 455
+        isCached: true
 
 secured: "NbC3IOjgWnJ8lKgtZUj+FecKLBA06fEOWcFErd7UIHKJn9ml0bM67TtMtdeBBJKQhhgvLGbCIdQpg1WfZCKO4qF11I9qpeRZW0jMiQVPEJuy71s08HK0KjdV0fr27KjFoTGsPkQCOIAShMlPvIYdWtAxFLZUPmtVYV7U27mDgvk6zWUGU5LyvTjLJvi1ISIeCIo/+F3mtpTwx1zFc6JSseQjlD6Ov10K7RmJAg3kMggxyllVvG0hrx+KEM5UBix03TLi0zoC6l1Qi0xt9xqFpQI6V+YluKQe3wffXZfV8YLqa6l7nDwE+xSfMFto6aVaxO3KEjl7g1IcqcCW1E/03KXBK08Jan/Ax7WlmKQHOLpNmEMpTDcJDfb/eapzZ7C8tN+AsYz5igBOLa7jlnI81CSaDHKsqW+lDZ7uONutWx0gy3Loj+W8eD1UHHISM1xcuOYCm+noAMWoRnFD8Rg6yiRDLnWs75ns5WwSs//eWBMaSz1pMTdqBZMzwEik2wl7BfhLrDmi+1kSZArbyoqiWA==;cGYS+KZvtTKyYzU0l6+YHw=="
 ---

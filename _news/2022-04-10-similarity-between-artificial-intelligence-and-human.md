@@ -45,20 +45,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "How AI and natural language processing boost programmatic ads"
-    excerpt: "Effectively using DSPs is hampered by a lack of in-depth analytics, but AI and natural language processing help programmatic advertising reach its potential."
-    publishedDateTime: 2022-04-06T16:24:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-ai-and-natural-language-increase-programmatics-potential/2410601"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/1200x630/public/STR_Lead%20in%20Image%20for%20AdAge%20article%20%233_V1.1_0.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google AI Can Update Local Listing Hours Including Live Traffic, Street View Imagery & More"
     excerpt: "Google announced that it will update the local business hours listed in Google Maps and Google Search of over 20 million businesses using AI. How? Google said it looks at a multitude of things includ"
     publishedDateTime: 2022-04-08T11:31:00Z

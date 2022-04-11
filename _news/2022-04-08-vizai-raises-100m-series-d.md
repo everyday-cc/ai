@@ -25,40 +25,92 @@ images:
     isCached: true
 
 related:
-  - title: "Docyt raises $11.5M Series A for its AI-powered accounting automation service"
-    excerpt: "Docyt, a startup that offers an AI-powered accounting automation platform for small and medium-sized businesses (SMBs), today announced that it has raised an $11.5 million Series A funding round led by Lobby Capital,"
-    publishedDateTime: 2022-04-06T16:51:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/amp/"
+  - title: "Health-Tech Startup Viz.ai Raises $100 Million"
+    excerpt: "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion."
+    publishedDateTime: 2022-04-07T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://i.ytimg.com/vi/5_iqkZLoXCM/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://images.wsj.net/im-520037/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Lilt raises $55M to bolster its business-focused AI translation platform"
-    excerpt: "Lilt, a startup developing an AI-powered translation platform geared toward the enterprise, has raised $55 million in a Series C funding round."
-    publishedDateTime: 2022-04-07T18:35:00Z
-    webUrl: "https://techcrunch.com/2022/04/07/lilt-raises-55m-to-bolster-its-business-focused-ai-translation-platform/"
+  - title: "Startups Join AI Acquisition Rush"
+    excerpt: "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence."
+    publishedDateTime: 2022-04-11T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 48
-  - title: "AI-Powered Accounting Automation Platform, Docyt, Raises $11.5M"
-    excerpt: "Docyt turbocharges accounting ledgers, like QuickBooks®, by using machine learning to intelligently automate financial data collection, digitization, categorization and reconciliation. By replacing multiple income,"
-    publishedDateTime: 2022-04-06T17:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/ai-powered-accounting-automation-platform-docyt-raises-11-5m/article_bf152e68-9bd5-5b82-a7aa-624a5e0bd534.html"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-520831/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Indo-American AI startup Vianai System raises $200 mn; expands leadership team"
+    excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centred AI platform and products company,"
+    publishedDateTime: 2022-04-07T04:35:00Z
+    webUrl: "https://www.freepressjournal.in/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 17
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 53
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-05/7202a783-6eae-4f97-876a-26f15c7b697a/startup.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
+    excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
+    publishedDateTime: 2022-04-07T11:00:00Z
+    webUrl: "https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
+        width: 800
+        height: 392
+        isCached: true
+  - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
+    excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
+    publishedDateTime: 2022-04-07T21:39:00Z
+    webUrl: "https://www.bioworld.com/articles/517713-vizais-valuation-surges-to-12b-with-100m-series-d"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
+        width: 847
+        height: 635
+        isCached: true
+  - title: "Neurosurgeon's startup hits $1.2B valuation"
+    excerpt: "Artificial intelligence startup Viz.ai raised $100 million in its fourth round of funding and has reached a valuation of $1.2 billion, the company announced April 7. Neurosurgeon Chris Mansi, MD, is co-founder and CEO of the company,"
+    publishedDateTime: 2022-04-08T15:00:00Z
+    webUrl: "https://www.beckersspine.com/spine/item/54048-neurosurgeon-s-startup-hits-1-2b-valuation.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 22
+    images:
+      - url: "https://www.beckersspine.com/templates/beckers/assets/images/spine-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Viz.ai Raises $100M in Series D Funding"
     excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
     publishedDateTime: 2022-04-07T17:52:00Z

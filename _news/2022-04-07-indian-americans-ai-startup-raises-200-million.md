@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "You Can Learn Sign Language With This New Snapchat Lens"
-    excerpt: "If you've been interested in learning American Sign Language, well social media is here to help. According to Engadget, Snapchat just unveiled a new lens"
-    publishedDateTime: 2022-04-06T17:00:00Z
-    webUrl: "https://www.androidheadlines.com/2022/04/snapchat-lens-teach-american-sign-language-asl.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/04/snapchat-lens-teach-american-sign-language-asl.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/04/snapchat-lens-teach-american-sign-language-asl.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/01/Snapchat-AH-NS-01.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Can artificial intelligence reveal why languages change over time?"
     excerpt: "Deaf studies scholar Naomi Caselli and a team of researchers found that American Sign Language (ASL) signs that are challenging to perceive—those that are rare or have uncommon handshapes—are made closer to the signer’s face,"
     publishedDateTime: 2022-04-07T19:15:00Z

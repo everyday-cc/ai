@@ -9,7 +9,7 @@ ampWebUrl: "https://www.stattimes.com/amp/logistics/ey-aera-to-help-organisation
 cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/logistics/ey-aera-to-help-organisations-leverage-decision-intelligence-1345083"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "EY announces alliance with Aera Technology to unlock the power of decision intelligence in supply chain transformation"
-    excerpt: "EY today announces an alliance between Aera Technology (Aera) and Ernst & Young LLP (EY US) to help organizations leverage decision intelligence to accelerate their supply chain transformation. Today's supply chains are facing growing pressures from demanding consumers while trying to mitigate the impact of increased disruption."
-    publishedDateTime: 2022-04-07T01:01:00Z
-    webUrl: "https://www.fox21news.com/business/press-releases/cision/20220406NY15155/ey-announces-alliance-with-aera-technology-to-unlock-the-power-of-decision-intelligence-in-supply-chain-transformation/"
+  - title: "Council Post: Tackling ethical challenges in AI within organisations"
+    excerpt: "The components of ethical AI should be incorporated from the product development stage. Every AI/ML product developed should be looked at from an ethical perspective."
+    publishedDateTime: 2022-04-11T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-tackling-ethical-challenges-in-ai-within-organisations-2/"
     type: article
     provider:
-      name: FOX21 News
-      domain: fox21news.com
-    quality: 13
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/www.fox21news.com/wp-content/uploads/sites/37/2021/11/GettyImages-894934800-1-1-1-1.jpg?w=2000&#038;ssl=1"
-        width: 767
-        height: 456
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Aishwarya-Srinivasan.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "Council Post: Beyond Explainable AI—How to infuse trust in AI systems"
+    excerpt: "Contractual trust is a concept that dictates and quantifies trustworthy AI. This is done by incorporating a set of phases in the DS workflow."
+    publishedDateTime: 2022-04-07T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-beyond-explainable-ai-how-to-infuse-trust-in-ai-systems/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
+        width: 512
+        height: 288
         isCached: true
 
 secured: "EXa7IwKk0/l800BDjfPG1xkc/Veejs/1LHWFaJ0aHuKjLDOvYg1qF0zH1t4/OQaHa028NVsbcS8i5LSnJlt4b/k1C2xOALLOHFWVKs/MW9L/VQfOXXIK24hskb7g7C1Ttq6r3Fdf4mBC748mGEO5TxKivt/d1evzvc/cVABxa3djDP8xaEukA6qvG+p1EQ8v6tojBvZRXqIUHFdWRxJ9dfaw2PjRfvh/AMAypyFH6eap+JqAVHiifTfavMp1SboommuzAc9o0cr4l+c9+rk6SQr6VgRJCPFe3PnWQeCq+rz/gm+tJHzNdsJGrIWvTNwp/oZsCh9sYeGEVjpiYRULhzIenpUNtsp+8P653N0IgwQ=;xlizG0RTp7QF9H8xPYzH7Q=="

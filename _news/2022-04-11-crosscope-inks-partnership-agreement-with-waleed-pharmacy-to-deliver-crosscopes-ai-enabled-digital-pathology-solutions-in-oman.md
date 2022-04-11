@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/272470287/crosscope-inks-partn
 webUrl: "https://www.bignewsnetwork.com/news/272470287/crosscope-inks-partnership-agreement-with-waleed-pharmacy-to-deliver-crosscope-ai-enabled-digital-pathology-solutions-in-oman"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 630
     height: 420
     isCached: true
+
+related:
+  - title: "Crosscope inks partnership agreement with Waleed Pharmacy to deliver its AI-enabled digital pathology solutions in Oman"
+    excerpt: "Along with this partnership, Waleed Pharmacy will be an official representative of Crosscope in the Oman region"
+    publishedDateTime: 2022-04-11T08:25:00Z
+    webUrl: "https://www.expresshealthcare.in/news/crosscope-inks-partnership-agreement-with-waleed-pharmacy-to-deliver-its-ai-enabled-digital-pathology-solutions-in-oman/434461/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 13
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/03/23135054/partnership-1.jpg"
+        width: 750
+        height: 400
+        isCached: true
 
 secured: "wHOsuYennTTzg8fk97BmW/rBF5lKeNijgp1bztsgDB/SxtUEwu8a9UBEL/8z3Xb2NsvDLsZG19Pa7H2eoW01ergistBtEcMR0KajqT+8f7IFmE1wPTne00prGzJfrI96wqk6QGDLUqIApRN3B5yjXUeq3Aba4lN0W24cyThWoKJESLzT3im4rhFkzOBGxCtWI3jdF4CYyE4FWaNInoL5p7jt3jKfk1nZUPkgmWnhExNfumLbpMK3847Gr14BvmByG2TfyyaadjUt9dhgK0oVbEH7sv6gWMP1Lo1zaCkfG19wbSF/bS+rxuRzuMkG2jSBwvYl2NhYs4KNeKU9kgYlFa8CuAkkD5wupUEkS3qVgDA=;SzaAeqnP9XAQn3g/nIFwAQ=="
 ---

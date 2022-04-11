@@ -3,12 +3,11 @@ category: news
 title: "Microsoft, HPE put AI to work checking astronaut gloves"
 excerpt: "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,"
 publishedDateTime: 2022-04-05T17:58:00Z
-originalUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/"
-webUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/"
+originalUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top"
+ampWebUrl: "https://www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
   name: theregister
@@ -18,70 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Microsoft launches its AI-powered notetaking app Journal as an official Windows app"
-    excerpt: "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,"
-    publishedDateTime: 2022-04-06T17:22:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 98
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680"
-        width: 679
-        height: 382
-        isCached: true
-  - title: "New Microsoft Azure off-planet space solutions are here"
-    excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."
-    publishedDateTime: 2022-04-06T19:20:00Z
-    webUrl: "https://www.windowscentral.com/new-microsoft-azure-planet-space-solutions-are-here"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/04/azure.jpg"
-        width: 800
-        height: 445
-        isCached: true
-  - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
-    publishedDateTime: 2022-04-07T01:57:00Z
-    webUrl: "https://cbs58.com/news/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 39
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/2fGhW-1649297005-223113-blog-hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Microsoft and UK Met Office Select AI Start-ups for Environmental Sustainability Program"
-    excerpt: "Start-ups selected for the equity-free accelerator program will receive Microsoft Azure cloud credits, advice from experts on AI, technology, commercial development and social impact, workshops, coaching from Microsoft, the Met Office and Social Tech Trust ..."
-    publishedDateTime: 2022-04-06T19:10:00Z
-    webUrl: "https://insidehpc.com/2022/04/microsoft-and-uk-met-office-select-ai-start-ups-for-environmental-sustainability-program/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 25
-  - title: "Virtual meetings are here to stay, Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work."
-    publishedDateTime: 2022-04-05T19:43:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better-2/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 19
+images:
+  - url: "https://regmedia.co.uk/2016/01/13/kopra_spacewalk.jpg"
+    width: 700
+    height: 468
+    isCached: true
 
-secured: "sSHtZmJ4u+A1/+yyR6f2KXhuwGV2Wf1wUuOfaZjIxqW5S+qs0AVuWZV9Oj4yDXmLDDGPDdotuOsps5ZUE7QW3uXa7LqZmbm0ekvakEvjO6mwEYMAjqRuHj9EBcCUe0y16Gcpc1ZwgdXNb7qv8CNBG2E9PBvSeSSSOLZF9q5GW5o9iPa95+12o2Xu88z6WgxmKDMbhD0Za6ZU3kyrVpntZfTmTjxzJCJPfbSIlKidNTNKDucItXwg656fCgQ1LkS0NPTvxn7XgCjuez1I0qTRg+mTj/nX7iddoFEm+2TBFtvXQmlyw0ZBUsgKtWHi6IRR/0wu8mCydcTrYij3QAo5XKSDvxTEH9/akjoJA331IW2nXXPB4Qof24fzUSKDjggdJqinxP6YaA1OsAa7miwjrcDh5bfRboZ3+tMDRrRH2H83UYVz2IsEHrcYHzkaCFAaVauSxZ9SdjVZhCvkn5OHKiVDRKu2Bivnhw7kOyFmKlSxEBhsmrnWOeTnTUs5nINwfbdeTttIrJeeeYGZxjI2VA==;qPtn9wX74JzXRABod0NCYg=="
+secured: "wzffGwxE917hrRbOACxdjj3fDMFjb404Vt33zNohuSCNPTfGm3tslIql/vkNN6WsBgsNTmNhTdi75Z4+hN8zT2PnaBDDfoh7AfPyCbzoDtf1KKv8S7Fv/Ee8x7JMXFuoNEG/1g6BkT2f6l9JUO9sgnelyYVYpF0+e6ix2Fe95zhpL4rhlJYtKk74vqXV9kM3L43RT7aHnSZheOqq7dNgIwfayLOfq8w1iNiTZr/Y2ectBJ49M1Ep1KekS5gSXDSyLTQaOSWUJ+PCnyxRNEhQmmJLU/E99jWnbFHrkcKUTwBZDZhUYDrpK74OlOzFuRupfvPTR6/r8HRbDIj/LzRCdepvpAnnw7BHxAk85u4F0OM=;hSUwX0w6bAs9XW8N2rSr/w=="
 ---
 

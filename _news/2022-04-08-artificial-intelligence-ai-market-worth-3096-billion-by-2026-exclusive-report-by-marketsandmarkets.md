@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-wo
 webUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-worth-3096-billion-by-2026-Exclusive-Report-by-MarketsandMarkets™"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-04-06T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+  - title: "Artificial Intelligence B2b Marketing?"
+    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
+    publishedDateTime: 2022-04-07T09:55:00Z
+    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
+      name: ICTSD
+      domain: ictsd.org
+    quality: 56
     images:
-      - url: "https://www.abnewswire.com/uploads/1649249589.png"
-        width: 449
-        height: 300
+      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
+        width: 626
+        height: 417
         isCached: true
   - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"

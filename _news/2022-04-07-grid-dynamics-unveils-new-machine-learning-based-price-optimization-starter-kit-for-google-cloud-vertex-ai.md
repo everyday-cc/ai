@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI"
-excerpt: "Grid Dynamics’ new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ..."
-publishedDateTime: 2022-04-06T20:23:00Z
-originalUrl: "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai"
-webUrl: "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai"
+excerpt: "Grid Dynamics’ machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company’s unique data sets and external factors, speeding time to market and driving revenue growth."
+publishedDateTime: 2022-04-06T20:16:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba"
+webUrl: "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "1RJXbfHdNPXQ1CdbCq6vmJ4W5up1MqflhtBuC3vy9BVNRw3yPsKDtB45h4HxQXLZwJtAo+0Tuimba6PTUra2jvFQKfHX/WA7A/Qu8x8LN7CZUYmg8szj/yUxNrIs6k9rDm1/GMa40m4DysEX/VnSG1Xvbdw23beVXbIyv4RtKY647qZtdUwcZpz1qTB+arq0PYLn4JkLoFzurGkwml04CqIJbnP6JTvZMkknJPZNUXDDIX5tUYU3nf/U7FFYMEI1pqNxRazToAcPiBAcAKGBSvx+sVGkekW+tC+H+11WMYF7gDFUuza2YULEpu6VEEThAy0qqod5B/z/X/KdQFKLgB87Z/YnXazQlxgiGzWq0qc=;iOcdmvvHp9jYjp9hPTuVuQ=="
+secured: "vOCQ//UpxzWiHFAOiFyboaUAyrajnoOcSmvKP2Fn3QnwC1PAXyVaigQRnx8A9ydKfnSKWBkSxfsY7GzpnLSASNyZHUxc0s84yvoO7g6uWuaTusPtLZdMlJ39tNJACEc0hxqhwz81cEucVsBWJHyTHeSVtbLBRINA2NNfgVQLlktHGOo2o0slCwT8/n7hTwrA2iQPWX45+aTD9WRU9Nj3bAyj4HCOPHjjf+kqrNqBRoh02DMSvpTO6iVgock4CMYRle85iRLbxF56bieAPFgit68mkGhWcpqb71cpLfox5Rk24CH5gwx272gvs3bgKQBnCAOx+Xh8fBFQB7wXzjGMHIFd4M6DRaTH0WTmm8gY7k0=;r5WRUtRaANRSdmHXlImPcQ=="
 ---
 

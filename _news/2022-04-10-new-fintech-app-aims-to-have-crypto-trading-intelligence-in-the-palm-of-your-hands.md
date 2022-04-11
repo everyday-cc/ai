@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "FinTech trends that businesses should follow in 2022"
+    excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
+    publishedDateTime: 2022-04-11T08:05:00Z
+    webUrl: "https://www.israelnationalnews.com/news/325583"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 4
 
 secured: "Y9Y9ya6Qv0/oEoHieRu4W48DDka37TJdWpJ3e0fSaXRDmBdhTcahe0/zG+5sCIRWD7Z6WZhSrUFMEYWdJBmXRopwjc7I5uAOluVQcuETiOlIw2r8XaBvW4IGgHHDZBBp0dXx4WGhs96aj5qy0TcBcvYJtuOmocNt2lUk+hH+LymtEVJayJ63OYV24MoL96P0cOVuAzbIFy5VC7ynMvPnvTTMtDwTpJKTzRRxRD+Xzca/tjXDPCdmBMh1j8bsBD1KGDHPeDXyCjoindFKvgmMR4oKSms6pIQI/rdtNPLOzSCHtQUyrhRscvzlA2Bp8SH8b4ECKaeH09zbqyAR/rsGJxpPn+yD70kCC4X2UFK1e5bSkZKvrbqbTJmD6SLEfzPHfTYCDvcu8UUbiWDJM6MzE81vdpk/uEtV3XKApytuPrp/ZTbXejVatVYu5ai/qHrDZS+cC6nXuMQ3WKI8yT6qfG4tD364nrAeVXFNEvpcWIqQOV6KywI0npXmqm+LJFwJMa74qW6HfEtApJl+wyu6Ag==;Vq1iK+/rwwF2wn7w43RlTg=="
 ---

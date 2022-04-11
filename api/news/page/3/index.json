@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
+      "title": "Google Cloud releases BigLake to unify data platforms",
+      "excerpt": "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. New Looker features, Connected Sheets for Looker and the ability to access Looker data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "publishedDateTime": "2022-04-06T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-guardforce-ai-announces-pricing-of-10m-registered-direct-offering.md",
+      "title": "Guardforce AI announces pricing of $10M registered direct offering",
+      "excerpt": "Under the terms of the securities purchase agreement, the company has agreed to sell around 8.7 million shares of its ordinary shares at",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html",
+      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA2LTExLTEzLTQ3LWYwNjZmNTAxNTA5MTlkNzBjNGU0YWU4N2JiNTIxNWU2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/979020",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979020",
+      "publishedDateTime": "2022-04-06T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-monitaur-launches-governml-to-manage-ai-data-lifecycle.md",
+      "title": "Monitaur launches GovernML to manage AI data lifecycle",
+      "excerpt": "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "originalUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "publishedDateTime": "2022-04-06T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-the-advantages-and-disadvantages-of-ai-in-law-firms.md",
       "title": "The advantages and disadvantages of AI in law firms",
       "excerpt": "Get to know the advantages and disadvantages of deploying AI and machine learning in law firms and what the future holds.",
@@ -155,7 +301,7 @@
       "originalUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -692,6 +838,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
+      "title": "ACM Prize in Computing recognizes pioneer of robot learning",
+      "excerpt": "ACM, the Association for Computing Machinery, today named Pieter Abbeel the recipient of the 2021 ACM Prize in Computing for contributions to robot learning, including learning from demonstrations and deep reinforcement learning for robotic control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/948924",
+      "originalUrl": "https://www.eurekalert.org/news-releases/948924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eb8a09a1-59ce-4c35-8b9f-95b9dc6917eb/Rendition/low-res/Content/Public",
+          "width": 467,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments.md",
       "title": "IBM Puts AI On A Chip To Improve Fraud Detection In Real-Time Payments",
       "excerpt": "IBM has launched a new generation mainframe with artificial intelligence built into the chip to provide financial firms such as banks and credit card companies with the ability to conduct fraud analysis of 100% of their transaction in real-time.",
@@ -741,59 +931,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
-      "title": "ACM Prize in Computing Recognizes Pioneer of Robot Learning",
-      "excerpt": "Pieter Abbeel's Groundbreaking Research Helped Shape Contemporary Robotics and Continues to Drive the Future of the FieldNEW YORK, April 6, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/acm-prize-in-computing-recognizes-pioneer-of-robot-learning-1031336476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1781110/acm_prize_abbeel.jpg",
-          "width": 267,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1097,154 +1234,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-isaac-asimovs-three-laws-of-robotics-wont-stop-robots-from-harming-humans.md",
-      "title": "Isaac Asimov’s “three laws of robotics” won’t stop robots from harming humans",
-      "excerpt": "On the 30th anniversary of Isaac Asimov’s death, it’s time to see if the “three laws of robotics” mean something outside of his stories. Isaac Asimov was an American writer and professor, considered (during his lifetime) as one of the “Big Three” science fiction writers along with Robert A.",
-      "sourceUrl": null,
-      "webUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
-      "originalUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/7VIOAMSXCVFKXB26ATQ7YKO6GU.jpg",
-          "width": 1067,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
-      "cdnAmpWebUrl": "https://culturacolectiva-com.cdn.ampproject.org/c/s/culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
-      "publishedDateTime": "2022-04-05T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "graffiti",
-        "domain": "culturacolectiva.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space.md",
-      "title": "New Microsoft Azure services will help us learn about the darkest reaches of space",
-      "excerpt": "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
-      "originalUrl": "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T20:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing.md",
-      "title": "BrainChip, SiFive partner to bring AI and ML to edge computing",
-      "excerpt": "The integration of BrainChip's Akida technology and SiFive's multi-core capable RISC-V processors is expected to provide an efficient solution for integrated edge AI computing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
-      "originalUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
-      "publishedDateTime": "2022-04-05T18:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

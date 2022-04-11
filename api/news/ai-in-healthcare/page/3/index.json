@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-08-harnessing-ai-and-robotics-to-treat-spinal-cord-injuries.md",
+      "title": "Harnessing AI and Robotics to treat spinal cord injuries",
+      "excerpt": "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220307113045.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-07T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-the-case-for-artificial-intelligence-in-content-marketing-use-cases.md",
       "title": "The Case for Artificial Intelligence in Content Marketing Use Cases",
       "excerpt": "If you go by the marketing materials of most martech companies, AI powered tools are everywhere. The irony is that marketers themselves still struggle with understanding where and how to apply AI to their strategy,",
@@ -1265,41 +1309,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-ibm-watson-could-revolutionize-healthcare.md",
-      "title": "IBM Watson Could Revolutionize Healthcare",
-      "excerpt": "If you’ve been watching Jeopardy! over the past couple days, you probably know that IBM’s highly-advanced artificial intelligence software, Watson, has been competing against Jeopardy!’",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "originalUrl": "https://www.medgadget.com/2011/02/ibm_watson_could_revolutionize_healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

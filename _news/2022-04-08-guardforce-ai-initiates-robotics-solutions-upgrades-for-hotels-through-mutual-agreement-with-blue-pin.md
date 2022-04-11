@@ -19,52 +19,33 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Salesforce upgrades marketing, field service, and sales tools with AI"
-    excerpt: "Salesforce launched a series of AI- and automation-powered updates to its sales, marketing, and field service tools during an event in April 2022."
-    publishedDateTime: 2022-04-06T17:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/salesforce-upgrades-marketing-field-service-and-sales-tools-with-ai/amp/"
+  - title: "Guardforce AI announces pricing of $10M registered direct offering"
+    excerpt: "Under the terms of the securities purchase agreement, the company has agreed to sell around 8.7 million shares of its ordinary shares at"
+    publishedDateTime: 2022-04-07T00:40:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979020"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979020"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 121
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/IMG_3027.jpg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA2LTExLTEzLTQ3LWYwNjZmNTAxNTA5MTlkNzBjNGU0YWU4N2JiNTIxNWU2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
         isCached: true
-  - title: "New Salesforce AI chief eyes a future with voice-driven coding"
-    excerpt: "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers."
-    publishedDateTime: 2022-04-07T16:52:00Z
-    webUrl: "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/"
-    ampWebUrl: "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/"
+  - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
+    excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
+    publishedDateTime: 2022-04-09T07:15:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979273/guardforce-ai-partners-software-provider-blue-pin-hk-to-begin-robotics-solutions-upgrades-in-hotels-979273.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979273"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979273"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Artificial Intelligence B2b Marketing?"
-    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
-    publishedDateTime: 2022-04-07T09:55:00Z
-    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 56
-    images:
-      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
-        width: 626
-        height: 417
-        isCached: true
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 55
   - title: "Guardforce AI partners with Hong Kong's Blue Pin for hotel robotic solutions upgrades"
     excerpt: "The company said the integration between it and Blue Pin will enable a series of self-services, including online booking, check-in, and check-out Guardforce said its concierge robots (T-series) will be integrated with Blue Pin’s Guest Services Robot and ..."
     publishedDateTime: 2022-04-09T03:46:00Z
@@ -81,24 +62,29 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Salesforce Is Empathetically Humanizing The Customer Experience With AI And Data"
-    excerpt: "Salesforce has introduced new service and marketing cloud features that humanize the customer experience with new AI-powered conversational intelligence. These technologies help service teams and marketers create more personalized experiences that drive lifelong customer relationships."
-    publishedDateTime: 2022-04-07T19:12:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2022/04/07/salesforce-is-empathetically-humanizing-the-customer-experience-with-ai-and-data/"
+  - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
+    excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
+    publishedDateTime: 2022-04-08T10:17:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/979273/guardforce-ai-partners-software-provider-blue-pin-hk-to-begin-robotics-solutions-upgrades-in-hotels-979273.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
-  - title: "IBM, Salesforce Agree to Partner on Artificial Intelligence"
-    excerpt: "IBM and Salesforce.com agreed to mingle their artificial-intelligence technologies in a bid to boost sales of data-analytics offerings. The companies Monday announced plans to offer integrated AI ..."
-    publishedDateTime: 2022-04-07T00:00:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/ibm-salesforce-agree-to-partner-on-artificial-intelligence/news-story/0453fc1a7dd91b1a7d280cbfae13a1b4"
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 35
+  - title: "Guardforce AI Announces Closing of $10.0 Million Registered Direct Offering"
+    excerpt: "Guardforce AI Announces Closing of $10.0 Million Registered Direct OfferingNEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited"
+    publishedDateTime: 2022-04-08T20:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-closing-of-10-0-million-registered-direct-offering"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Boris-Johnson-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "bb3IGm1x6MPBKvHaGdZaTwfogWtMKvaxy72xXhVZF/5yGaKLljIM8/x5c71NS9gY7/cZfcQue1sZ9tXU3ZBuJiGnpM1jq0EXOn+QL152QNIIWRpXwi5xuUYKxinsi6MY1rocHbm83XyNh2KA95NRJeSM8g2dKFsbA3H0e39j6MT3F3vI8gsFpfripLwOBkRX8RnfU2P6JylNhWEXcfkKlXGSDj1jU8hoiqA93uPdiq/uq4ZETMFXQTl1Vp/BoXvtVT0WLJhLrSboO/TcjpBUc2lb7BRMJ795AiT/KNgWAUyLSTfVaZCj83zazDUrgXE7uMFhVfHbpgPRIR8oCdecTfBPUVtID4XIwSA7OB0GLlo=;qFjBvIvI0p/YpFeQlG3tDQ=="
 ---

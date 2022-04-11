@@ -2,6 +2,290 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2022-02-09-securethingsai-raises-35-million-in-pre-series-a.md",
+      "title": "SecureThings.ai Raises $3.5 Million In Pre-Series A",
+      "excerpt": "The funds will be utilized to enhance products, increase business growth and to expand the sales and marketing team",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/417696",
+      "originalUrl": "https://www.entrepreneur.com/article/417696",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1644413079-MyPost7.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai.md",
+      "title": "TigerGraph launches $1 million challenge to inspire use of graph AI",
+      "excerpt": "With a $250,000 first prize, entrepreneurs, academics, engineers, scientists can create their own problem statement focused on a topic of their choosing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "originalUrl": "https://www.zdnet.com/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tigergraph-launches-1-million-challenge-to-inspire-use-of-graph-ai/",
+      "publishedDateTime": "2022-02-09T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m.md",
+      "title": "Leaf Logistics, which develops AI-powered logistics software, secures $37M",
+      "excerpt": "Leaf Logistics, which develops AI-powered supply chain and logistics software, has raised $37 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/",
+      "originalUrl": "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/05/truck.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/09/leaf-logistics-which-develops-ai-powered-logistics-software-secures-37m/amp/",
+      "publishedDateTime": "2022-02-09T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-domino-data-lab-adds-autoscaling-to-mlops.md",
+      "title": "Domino Data Lab adds autoscaling to MLOps",
+      "excerpt": "Domino Data Lab 5.0 is focusing heavily on the deployment, autoscaling, and monitoring part of the machine learning lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "originalUrl": "https://www.zdnet.com/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b61c7907e86210dfb3ced032662b9a22a9763d65/2022/02/08/08c0dfa8-2677-4880-ac25-65e91de12f4b/ds.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/domino-data-lab-adds-autoscaling-to-mlops/",
+      "publishedDateTime": "2022-02-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop.md",
+      "title": "Six Flags Magic Mountain hires robot security guard who looks nothing like RoboCop",
+      "excerpt": "An artificial intelligence-driven security guard robot with a Shakespearean ... but nobody will confuse Roameo with RoboCop. The new Roameo security robot will start patrolling Magic Mountain in the next week, according to Six Flags officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
+      "originalUrl": "https://www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconvalley.com/wp-content/uploads/2022/02/ROAMEO-concept-amusement-park-4x3-1.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
+      "cdnAmpWebUrl": "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/02/09/six-flags-magic-mountain-hires-robot-security-guard-who-looks-nothing-like-robocop/amp/",
+      "publishedDateTime": "2022-02-09T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Silicon Valley",
+        "domain": "siliconvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-published-guidance-nice-advice-and-quality-standards.md",
+      "title": "Published guidance, NICE advice and quality standards",
+      "excerpt": "for the treatment of Motor Neurone Disease TA20 23 January 2001 23 January 2001 Guidance on the use of inhaler systems (devices) in children under the age of 5 years with chronic asthma TA10 23 August 2000 23 August 2000 Guidance on the Extraction of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicaldevice-network.com/features/heartflow-nhs/",
+      "originalUrl": "https://www.nice.org.uk/guidance/published?ps=9999",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2021/02/Heartflow2-1038x778.jpg",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Institute for Health and Care Excellence",
+        "domain": "nice.org.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-ibm-watson-powered-ai-virtual-assistant-helps-visitors-on-the-td-precious-metals-digital-store.md",
       "title": "IBM Watson-Powered AI Virtual Assistant Helps Visitors on the TD Precious Metals Digital Store'",
       "excerpt": "IBM ) worked with TD Securities to launch an AI-based virtual assistant powered by IBM Watson Assistant that can help customers with inquiries on the TD Precious Metals digital store , including ...",
@@ -882,271 +1166,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-shen-speech-receives-large-group-all-state-nominations.md",
-      "title": "Shen speech receives large group All-State nominations",
-      "excerpt": "The Shenandoah speech team has received two All-State Large Group Speech nominations. Shenandoah Speech Coach Amy Toye announced Tuesday two large group events have nominated for All-State Large Group Festival in Ames on February 19th.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmaland.com/news/shen-speech-receives-large-group-all-state-nominations/article_fb25ce72-892b-11ec-acd4-9b6ee27d2091.html",
-      "originalUrl": "https://www.kmaland.com/news/shen-speech-receives-large-group-all-state-nominations/article_fb25ce72-892b-11ec-acd4-9b6ee27d2091.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kmaland.com/content/tncms/assets/v3/editorial/5/11/5119c4c8-892c-11ec-ad69-d327ea8f32e3/6202eb6b20e1f.image.jpg?crop=720%2C378%2C0%2C291&resize=720%2C378&order=crop%2Cresize",
-          "width": 720,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMA Land",
-        "domain": "kmaland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-deepening-commitment-to-ai-recruitment-in-china-hiredscore-announces-strategic-partnership-with-tupu.md",
-      "title": "Deepening commitment to AI recruitment in China, HiredScore announces strategic partnership with Tupu",
-      "excerpt": "HiredScore, the leading provider of ethical, compliant Talent Intelligence solutions for global Fortune 500 organizations, officially signed a strategic cooperation agreement with Tupu, a leading technology and content provider of all-in-one recruitment solutions in China.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-china-f8303b3e5f0d8a5ba9011f5a8091a344",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-china-f8303b3e5f0d8a5ba9011f5a8091a344",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-global-industrial-robotics-market-to-surpass-us-691-mn-by-end-of-2027-says-coherent-market-insights.md",
-      "title": "Global Industrial Robotics Market to Surpass US$ 69.1 Mn by end of 2027, Says Coherent Market Insights",
-      "excerpt": "According to Coherent Market Insights, The global industrial robotics market was valued at US$ 49.0 Mn in 2019 and is forecast to reach a value of US$ 69.1 Mn by 2027 at a CAGR of 6.4% between 2020 and 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9541431.htm",
-      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9541431.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2019-aug/2411888530-keyboard-USB-laptop.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-new-chip-rewires-itself-like-the-brain-to-help-ai-learn-continuously.md",
-      "title": "New Chip Rewires Itself Like the Brain to Help AI Learn Continuously",
-      "excerpt": "On top of that, the devices can be manufactured using conventional chip fabrication technology. After testing the performance of individual devices, the researchers then used their data to create simulations of large networks of them. They used the ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
-      "originalUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/02/ramanathan-chipLO.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
-      "publishedDateTime": "2022-02-08T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ais-impact-diversity-and-workforce-automation.md",
-      "title": "AI’s Impact: Diversity and Workforce Automation",
-      "excerpt": "Leaders must leverage AI so that it augments rather than replaces the human workforce, and ensure that AI no longer perpetuates historical bias. Artificial intelligence will shape so much across business and culture — but what will its effects be on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ais-impact-diversity-and-workforce-automation/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ais-impact-diversity-and-workforce-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/LogMeIn-alberts_case_study_large-1.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins.md",
-      "title": "AI-driven Congruence Therapeutics gets $50M to stabilize misfolded proteins",
-      "excerpt": "For proteins to function properly, they must take on the right shape. Misfolded proteins are the root of many diseases. Congruence Therapeutics is using computational tools to discover and develop ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
-      "originalUrl": "https://medcitynews.com/2022/02/ai-driven-congruence-therapeutics-gets-50m-to-stabilize-misfolded-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2017/02/GettyImages-172595086.jpg",
-          "width": 683,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

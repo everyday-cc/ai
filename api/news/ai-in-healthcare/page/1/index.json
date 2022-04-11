@@ -158,6 +158,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-artificial-intelligence-b2b-marketing.md",
+      "title": "Artificial Intelligence B2b Marketing?",
+      "excerpt": "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j",
+      "sourceUrl": null,
+      "webUrl": "https://www.ictsd.org/artificial-intelligence-b2b-marketing/",
+      "originalUrl": "https://www.ictsd.org/artificial-intelligence-b2b-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg",
+          "width": 626,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ICTSD",
+        "domain": "ictsd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia.md",
       "title": "Geisinger, Eisai to Use Artificial Intelligence to Detect Dementia",
       "excerpt": "Geisinger and Eisai plan to study the potential of artificial intelligence (AI) by testing the effectiveness of an algorithm to identify individuals with cognitive impairment who may develop dementia.",
@@ -1337,50 +1381,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-1-how-americans-think-about-artificial-intelligence.md",
-      "title": "1. How Americans think about artificial intelligence",
-      "excerpt": "Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
-      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_01-01.png?w=420",
-          "width": 420,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Startups Join AI Acquisition Rush"
+    excerpt: "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence."
+    publishedDateTime: 2022-04-11T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-520831/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Indo-American AI startup Vianai System raises $200 mn; expands leadership team"
     excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centred AI platform and products company,"
     publishedDateTime: 2022-04-07T04:35:00Z
@@ -53,6 +67,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-05/7202a783-6eae-4f97-876a-26f15c7b697a/startup.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Viz.ai raises $100M Series D"
+    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
+    publishedDateTime: 2022-04-07T19:28:00Z
+    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 39
+    images:
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
         isCached: true
   - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
     excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
@@ -81,6 +109,43 @@ related:
       - url: "https://www.beckersspine.com/templates/beckers/assets/images/spine-og-image.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Viz.ai Raises $100M in Series D Funding"
+    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
+    publishedDateTime: 2022-04-07T17:52:00Z
+    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 17
+  - title: "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation"
+    excerpt: "Round will fuel global expansion of AI-driven healthcare platform that accelerates access to life saving treatmentsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Viz.ai, the leading AI-powered disease detection and care coordination platform,"
+    publishedDateTime: 2022-04-07T14:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-04-07/vizai-raises-100-million-in-series-d-funding-led-by-tiger-global-and-insight-partners-at-12-bil"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 15
+    images:
+      - url: "https://www.pharmiweb.com/Content/1x/roundal.png"
+        width: 656
+        height: 656
+        isCached: true
+  - title: "Kumo Emerges From Stealth to Launch Next Generation Predictive AI for Businesses; Raises $18.5 Million in Series A Funding led by Sequoia"
+    excerpt: "Kumo, a new SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions, today announced it has emerged from stealth with $18.5 million in Series A funding led by Sequoia Capital,"
+    publishedDateTime: 2022-04-07T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-282d8344fa7741e094e7d8cc09abfe87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "mjb2zUfEprIpLnxy21WVXtICxs05Q2gQ93hPWlroo1IH5h0JgcrVBGoFPMy8nDSRQ6LmtjQhV+ajjyAsSPoIR9/A4AWEU9d2e3p39Sbt3DO5lA2FLHaBNbPfDY55FcPjwXQpXiTzEDbcMQx5MMLtF6X1qzemuYOL1+yZmqTZBJbz0MxuA8Qi8i5dwpPmYGupzQGAX9AaIP2kL+b0Db6B3Kv4h9zsKEehYCogqWTh7b1/E0rYHuFVuJ1Kryx7LB7JvdEWJElUEE2rzL+yPSLsGKSoqAPOeTvmlORz3t7CbgTOtN2GgsMYN8hyvucLQND/6AzcGLDmJj60fasWiptVgNfN6wVJqKRXF90jf2rE3q0=;oWmiUGxJSZv+0rNt1WTuHg=="

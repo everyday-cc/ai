@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-imp
 webUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/breast%20cancer.png"
         width: 770
         height: 400
+        isCached: true
+  - title: "China's AI makes its satellites spies in the sky"
+    excerpt: "Chinese researchers last month unveiled an advanced AI system that enables low-cost commercial imaging satellites to become potent spy platforms. In a paper published in the domestic peer-reviewed ..."
+    publishedDateTime: 2022-04-11T07:48:00Z
+    webUrl: "https://menafn.com/1103989476/Chinas-AI-makes-its-satellites-spies-in-the-sky"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/11/AT_a4db1image_story.jpg"
+        width: 850
+        height: 455
         isCached: true
 
 secured: "WnRicvRFPKkYT3Ecp0bM/AzKaXl8CLdfWN/NtkUlFbt8bs27SLPbiOEh0q1nGvAbzormcw7IRKlmZodA+9LvPVMNbJ3t5JsUnQN8LOfUu0ryv2NJwLEqEZpQAPaH5bZ0ucZnWDSBGsyGJmCmceJ/8xEWQ3McleAQNZq8cOPFsjU80M9RDnJTHUP6B/WNyVTWTdaAbbHrzBqc+hDW7uupGGAx257TvgBQ7zv0h0AHK/9SqLV8GPC57SQQTN0BErD8zYLmsTjVkSsyjHv9CBy6Rg6VBuE1VT76VjGgTM9Cik/5YmZz5vAeGHgl3/oQKj/N7El4bEz/wbayNNfms5rZmWZtvryhPgh4mZHkToIZOJg=;LKnMvfmBgkc9oMU5Ry2IDw=="

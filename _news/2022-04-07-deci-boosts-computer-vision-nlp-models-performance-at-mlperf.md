@@ -37,20 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
-    excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
-    publishedDateTime: 2022-04-06T17:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 47
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "MLPerf Results Highlight Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons, an open engineering consortium, released new results for three MLPerf benchmark suites – Inference v2.0, Mobile v2.0, and Tiny v0.7. MLCommons said the three benchmark suites measure the performance of inference – applying a trained machine learning model to new data."
     publishedDateTime: 2022-04-06T19:55:00Z
@@ -66,6 +52,6 @@ related:
         height: 261
         isCached: true
 
-secured: "6ucff2Kz/5y7uu3kBd5923eYLHiocUTDH5trQsAGpkQO8Hjfp2MlCI7LA9rZkPIRh2SJZms+RyNi7DkWvWvOhabGF06J5xc3y/1vUKt9AIKwpE238fl+3Y1zz45PugLTDvts+7iCZYXTHMDU2ZsEponeyimgXHG0AUvDwpXFgkIUOs9LLNcvxr+7j69wyfOoQaWOYunALMuV9JaD+vG8fqKswNjsnhpcJCsHT9/X4soCAl3ReMCg8Gu8bSN7U9kTEjJehaOV00adJHo9toLyOXGUxdQvXFiMmzxdqmsEC/01OlmKEY5D1sNgHGu/cC4ZYRsYmoGViPHKxMvZd09GV8YtazquujLZcGiyIKyYDKg=;hzXMRMjAm7jb35ZcUiJ2HA=="
+secured: "zIVNDLJ+jhD4SYQh584loJIORjHv6pqi/CSGcQBqJf6CMyga34bN5vmfVBZHCwFOV+gP4q0CbVH/EZ61st+eMicEKHT8L5ekXA3sTWKMY5vJSr3bdWLsM4BepLKaBWGL/1vgqYFosgNrTSFbtnsZ9NE9oM3aqQd9MFsQnz1iAq59KnqYt1TgZjFqjkbnkz/Pei+IrNhjT/Doyi9qQR83TllAtWbH9c4mVKahnLTvfNz5SNIjy89rLz+TBPNCvY+TnapMQtKI0Upo9+dcD6EvjiQqhT99aNkLKxNrMHTUxlyBtKNGNi15lRstQC91efrP2P6Xxf9ZEETYcjAlejUHuCpl0Kg9wkoyI5QNTIKspT8=;S6SuegbCM49E8/OGGxDvxA=="
 ---
 

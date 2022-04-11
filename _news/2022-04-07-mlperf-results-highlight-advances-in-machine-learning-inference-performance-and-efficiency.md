@@ -51,20 +51,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
-    excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
-    publishedDateTime: 2022-04-06T17:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 47
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "8xBLvPgTaURZ279Rt+1nz16m/844CUsnZiyvG7nHmkskOQaIHu1waS8LEgug/UnuVIepX72HDoYEHQMUWY0/2wuY3+kglKbiSsPprr9FzFNFY0gPu5kt7c8/ahDUJ+ggdLEv+mbKmctnFqPqD1mAcAZcJSyV/UJhyi08ouL/xowPF50iPPKvg08IjASVeOTeZ67cVdOgpHNmcE63bz40acd6PcYIZFNdvgJodx1RoDuRe3bpt5qylITnV8YK+JD8wYQLsszd1trRS1UVPH+VbfDRg8Q1TAnbYCyKr0MdwFL/OwoU/4KTioTyCXDxQF2a8apPspIEN3rMuedHID/4FFx5hjGbN7JArYTq08rJBx378f6znshHOczZySsjFzAfB1OEbU9GjGpYy1rNP1tOmxfrBAMjgDIZxa0v75B571Mi6FCQ0EbFel5WIXOkDBXmedOCtovMPgj2E+R8eYusIAizoQV59gx41x7c63Zgb9vwPfFq+T6pc7QHb4IM4z37OK3IzaTOKsNOLdirwe6N4w==;EUDRo9U9aINWmbVye0L8xQ=="
 ---

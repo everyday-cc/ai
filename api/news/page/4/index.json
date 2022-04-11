@@ -2,6 +2,240 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-06-isaac-asimovs-three-laws-of-robotics-wont-stop-robots-from-harming-humans.md",
+      "title": "Isaac Asimov’s “three laws of robotics” won’t stop robots from harming humans",
+      "excerpt": "On the 30th anniversary of Isaac Asimov’s death, it’s time to see if the “three laws of robotics” mean something outside of his stories. Isaac Asimov was an American writer and professor, considered (during his lifetime) as one of the “Big Three” science fiction writers along with Robert A.",
+      "sourceUrl": null,
+      "webUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
+      "originalUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/7VIOAMSXCVFKXB26ATQ7YKO6GU.jpg",
+          "width": 1067,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
+      "cdnAmpWebUrl": "https://culturacolectiva-com.cdn.ampproject.org/c/s/culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
+      "publishedDateTime": "2022-04-05T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "graffiti",
+        "domain": "culturacolectiva.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space.md",
+      "title": "New Microsoft Azure services will help us learn about the darkest reaches of space",
+      "excerpt": "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
+      "originalUrl": "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command.md",
+      "title": "Meet DALL-E, an AI algorithm that can draw anything on command",
+      "excerpt": "DALL-E is what artificial intelligence researchers call a neural network, which is a mathematical system loosely modeled on the network of neurons in the brain. That is the same technology that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/findings/meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command/",
+      "originalUrl": "https://www.sfexaminer.com/findings/meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.sfexaminer.com/wp-content/uploads/2022/04/28379800_web1_220406-SFE-OPENAI_1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing.md",
+      "title": "BrainChip, SiFive partner to bring AI and ML to edge computing",
+      "excerpt": "The integration of BrainChip's Akida technology and SiFive's multi-core capable RISC-V processors is expected to provide an efficient solution for integrated edge AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
+      "publishedDateTime": "2022-04-05T18:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-ibm-launches-ai-accelerated-quantum-safe-mainframe.md",
+      "title": "IBM launches AI-accelerated, ‘quantum-safe’ mainframe",
+      "excerpt": "IBM’s z16 mainframe is designed for hybrid cloud environments, features an on-chip AI accelerator and what the company calls the industry’s first quantum-safe system.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/cloud-infrastructure/2022/04/ibm-launches-ai-accelerated-quantum-safe-mainframe/364070/",
+      "originalUrl": "https://gcn.com/cloud-infrastructure/2022/04/ibm-launches-ai-accelerated-quantum-safe-mainframe/364070/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gcn.com/media/img/cd/2022/04/05/IBM_z16_2_GCN_040522/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-ibm-releases-new-server-that-uses-ai-chip-developed-in-albany.md",
       "title": "IBM releases new server that uses AI chip developed in Albany",
       "excerpt": "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through.",
@@ -86,6 +320,49 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-microsoft-hpe-put-ai-to-work-checking-astronaut-gloves.md",
+      "title": "Microsoft, HPE put AI to work checking astronaut gloves",
+      "excerpt": "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/01/13/kopra_spacewalk.jpg",
+          "width": 700,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "publishedDateTime": "2022-04-05T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -417,49 +694,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-05-quantum-memristor-points-to-new-neural-networks.md",
-      "title": "Quantum memristor points to new neural networks",
-      "excerpt": "Studies of quantum computing and its overlap with photonics have gathered pace in recent years, with groups such as the Danish PhotoQ consortium investigating the development of photonic quantum processors.",
-      "sourceUrl": null,
-      "webUrl": "https://optics.org/dcs/news/13/4/6",
-      "originalUrl": "https://optics.org/dcs/news/13/4/6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optics.org/objects/news/thumb/13/4/6/vienna_april22.jpg",
-          "width": 380,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Optics",
-        "domain": "optics.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-05-microsoft-taps-ai-to-make-you-look-your-best-in-video-meetings.md",
       "title": "Microsoft taps AI to make you look your best in video meetings",
       "excerpt": "Microsoft is applying artificial intelligence to meetings, with a host of new AI-driven technologies from Eye Contact, automatic framing, plus improved background blur and echo cancellation.",
@@ -646,6 +880,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-quantum-memristor-points-to-new-neural-networks.md",
+      "title": "Quantum memristor points to new neural networks",
+      "excerpt": "A project at the University of Vienna has now described a new integrated quantum processor operating on single photons, which could have implications for artificial intelligence and neural networks. The Vienna device is a memristor, a form of electronic ...",
+      "sourceUrl": null,
+      "webUrl": "https://optics.org/news/13/4/6",
+      "originalUrl": "https://optics.org/news/13/4/6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optics.org/objects/news/thumb/13/4/6/vienna_april22.jpg",
+          "width": 380,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Optics",
+        "domain": "optics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -854,290 +1131,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before.md",
-      "title": "Vivienne Ming: A Force In AI Unlike Any We Have Seen Before",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to have a conversation with Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624bc25428c6d4f79594b9e5/0x0.jpg?format=jpg&crop=3000,1688,x0,y72,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
-      "publishedDateTime": "2022-04-04T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-spot-goes-to-pompeii-why-a-robot-dog-is-patrolling-ancient-ruins.md",
-      "title": "Spot goes to Pompeii: Why a robot dog is patrolling ancient ruins",
-      "excerpt": "Boston Dynamics’ robot dog Spot has been tasked with a new job - patrolling the ancient ruins of Pompeii. The robot will be used to inspect the site for safety issues and record structural changes over time to better manage the historic ruins.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
-      "originalUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1fd4b68/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa0%2F73%2F3a41043447099cb7763ce64776e8%2Fspot-2-1200x900.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
-      "publishedDateTime": "2022-04-04T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
-      "title": "Tech roundup: Pizza chains put robots on the phone",
-      "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
-      "sourceUrl": null,
-      "webUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "originalUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-04/background/tech-roundup_1626880425.gif?VersionId=a3EXtwkfUCrhVtJBTO6Ib_6aflhWEk8w",
-          "width": 903,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "cdnAmpWebUrl": "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "publishedDateTime": "2022-04-04T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Restaurant Business",
-        "domain": "restaurantbusinessonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-humanoid-robot-paints-portraits-with-ai.md",
-      "title": "Humanoid robot paints portraits with AI",
-      "excerpt": "Da. This robot is dubbed the “world’s first ultra-realistic humanoid robot artist” by its creators. Ai-Da was built in 2019, and the robot now features an upgraded r",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
-      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/04/robot-painter.jpg?w=1280",
-          "width": 1280,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
-      "publishedDateTime": "2022-04-04T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space.md",
-      "title": "This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space",
-      "excerpt": "The post This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space/",
-      "originalUrl": "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T11:15:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
-      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
-      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "publishedDateTime": "2022-04-04T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

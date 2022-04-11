@@ -51,6 +51,22 @@ related:
       name: Proactiveinvestors UK
       domain: proactiveinvestors.com.au
     quality: 55
+  - title: "Guardforce AI partners with Hong Kong's Blue Pin for hotel robotic solutions upgrades"
+    excerpt: "The company said the integration between it and Blue Pin will enable a series of self-services, including online booking, check-in, and check-out Guardforce said its concierge robots (T-series) will be integrated with Blue Pin’s Guest Services Robot and ..."
+    publishedDateTime: 2022-04-09T03:46:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979277/guardforce-ai-partners-with-hong-kong-s-blue-pin-for-hotel-robotic-solutions-upgrades-979277.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979277"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979277"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 50
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA4LTA4LTU1LTE5LThlZWYzYTJhM2U3ZmY0YzQzZjQ3ZDkzYmI5YjE2ODhhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
   - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
     excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
     publishedDateTime: 2022-04-08T10:17:00Z
@@ -60,6 +76,15 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 35
+  - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin ..."
+    publishedDateTime: 2022-04-08T11:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual-agreement-with-blue-pin"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
 
 secured: "agvJM6IEWFgPiKVWVU+G8/RrTfE9DkP50qDiqRNFOQscKgnHJPB0xlVKFRHgyMNyUu/00ICKVf3Wc4SQ+5M08du1Kw4Ij4mVusQXKPpOTVmF2IsQTegZwu5uFcj4qYw3MHUQQ4CByGtifhf34jCKdPXzdqh7QDUQp0pRLGBh2l21vAOYLD19ALhjq8UiQmEGxxReKPqtqZpTryxLhsk+bGjascpEmmToCMsCkdBVa6QFVdvgCEw1s69igd+kdGPm1+mc6rFg8J1MovIxLSFP6bUzK5Nay5d/Eti+2+PYTyyLKYc/ieXrR4ZXI7elcVmIGDakS9i/DLSO/h5koNF7heaajHD3gYGI7fwjHP31ZOSQuJKOWS+EdPS8UArlQYkcpSXEbHPqa/AHGFhMYO6fvsVsGipz6Dj9wKN/5wmyLISPa8g7Egww8XsSzHb0WtPHOPtbSVk0erEHhtKwU18zH2S9TmX7vQn+/PH8OVkOqzyKA5CgnYymQuVJHN7+BT9//TfyuiWTm08QWMP40P+Lkg==;vK4mPzU9LmoUNw5xFbDzYw=="
 ---

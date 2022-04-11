@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-11-council-post-tackling-ethical-challenges-in-ai-within-organisations.md",
+      "title": "Council Post: Tackling ethical challenges in AI within organisations",
+      "excerpt": "The components of ethical AI should be incorporated from the product development stage. Every AI/ML product developed should be looked at from an ethical perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/council-post-tackling-ethical-challenges-in-ai-within-organisations-2/",
+      "originalUrl": "https://analyticsindiamag.com/council-post-tackling-ethical-challenges-in-ai-within-organisations-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Aishwarya-Srinivasan.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-cities-take-the-lead-in-setting-rules-around-how-ai-is-used.md",
       "title": "Cities Take the Lead in Setting Rules Around How AI Is Used",
       "excerpt": "A look at what New York, London, Barcelona and other places are doing to establish regulations that other cities—and countries—may want to copy",
@@ -114,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1390,49 +1433,6 @@
       "provider": {
         "name": "CMS Wire",
         "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-ethics-part-2-mitigating-bias-in-our-algorithms.md",
-      "title": "AI Ethics Part 2: Mitigating bias in our algorithms",
-      "excerpt": "In first part of this article series, we explored the various forms of AI bias, ways to understand and identify them. This second part will cover various tangible measures that can be undertaken to control,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/blog/data-driven-marketing/2022/03/15/ai-ethics-part-2-mitigating-bias-in-our-algorithms/",
-      "originalUrl": "https://www.cmo.com.au/blog/data-driven-marketing/2022/03/15/ai-ethics-part-2-mitigating-bias-in-our-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2021/v2/cmo50_promo_revealed.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

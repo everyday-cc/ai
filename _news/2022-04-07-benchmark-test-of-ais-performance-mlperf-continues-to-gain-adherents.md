@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-perfo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
-    excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
-    publishedDateTime: 2022-04-06T17:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/mlperf-results-show-advances-in-machine-learning-inference-performance-and-efficiency/article_75b1a273-3a37-54d3-9edf-239e3f2b0ff7.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 47
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
         isCached: true
   - title: "MLPerf Results Highlight Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons, an open engineering consortium, released new results for three MLPerf benchmark suites – Inference v2.0, Mobile v2.0, and Tiny v0.7. MLCommons said the three benchmark suites measure the performance of inference – applying a trained machine learning model to new data."

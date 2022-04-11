@@ -83,6 +83,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "FinTech trends that businesses should follow in 2022"
+    excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
+    publishedDateTime: 2022-04-11T08:05:00Z
+    webUrl: "https://www.israelnationalnews.com/news/325583"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 4
 
 secured: "suZJtmODGGVoWEwkBqrU9Bn1IkRe+p2IDWy+pFfxeYknYIMZg7oO3fFt+/NjTRJBK4w6J03R2BwFx+FQ3yeF1CVY1F9bXy/M8kyDgFxpufcGmHDyx3W599+sDw5NWW+fX/p8BHfkEcW09+SOvWUToWPxyvjva1sEYpis0guC5etENXN20HratgDECPUSih9jaTsT/gK3+e2j5kF3HSXH+By+gS58TaliVLjKDAb32j7wQIAHlU4aa1gTe9eM9DenBgpqNLLH7tQPpiP11ZjiYsBsO91dX/tgdcj+mYoNyZ2eR+fRw3iEsIarK7Pqt7SGV2TojjayaHnMgLev+PbqyJrE+Cd89+wxxDVePnTsbtFZOEFramxyE5Z+oeF9neIOrKk7nrRjg0L4TJKj8Y1hSZmSzPoR8N7cGOWMPH3pfgQ3zp/MrhfmCZtNXJaCV0Cy++ctnTiO+40a1LQOvh5plHVlgzGF56GYkfSHk21vn1X5501H1ImLnG79HM3YUITNMcOah2PCPKlp8mFNspFjFA==;2ZD+jahxOphsbwdvQ8n+Ig=="
 ---

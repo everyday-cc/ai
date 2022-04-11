@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence B2b Marketing?"
+    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
+    publishedDateTime: 2022-04-07T09:55:00Z
+    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 56
+    images:
+      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
+        width: 626
+        height: 417
+        isCached: true
   - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Healthcare and Life Sciences segment to have ... MarketsandMarkets's flagship competitive intelligence and market research platform, 'Knowledge Store' connects over 200,000 markets and entire ..."
     publishedDateTime: 2022-04-07T20:47:00Z
@@ -32,20 +46,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?94765"
         width: 444
         height: 250
-        isCached: true
-  - title: "ASIC Chip Market is expected to reach $34.4 Billion by 2027 – An exclusive market research report by Lucintel"
-    excerpt: "\"Trends and Forecast for the Global ASIC Chip Market\"Trends, opportunities and forecast in ASIC chip market to 2027 by type (semi-based custom,"
-    publishedDateTime: 2022-04-06T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asic-chip-market-is-expected-to-reach-34-4-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.abnewswire.com/uploads/1649249589.png"
-        width: 449
-        height: 300
         isCached: true
 
 secured: "2nUJ6NHyvRSOhYszuH9ZIj5N5ImAAoi8mHmW59O3zYdmTDe1v1xzvQTQ23qqyDcZFYXU1PxxK3EssqUNjTRNH0Qml9UotmsMiQTuBP5moWEt43saNd50BYYSSRXpwTHX/EC2Te7Hx/xDjRB1pM2XcPcJXAPYe5VLIWPkERZ624V0t/6EuTDVZSVGhGt6UDAuudSs6kbwbI4XpbFHl73MZ2TV2M5DbXClPliLgoFa6oFOXd69mcW7QatCRX+PdnMiOrS0XzsYG9YgxoW7Vu9pLpcE56IGYeK6WIq5VGq0s13o6l7i3kQ9jWJXu7ZTaiuJFZ5LiAwv+/lvSqhNRVhkAkYRCsRb/g5wMO793XdYWjY=;fjKRHVQe95HTwcnFALJBvA=="
