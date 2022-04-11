@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Call Center AI Market Size, Share, Trends and Demand Growth to 2027 | VynZ Research"
+    excerpt: "Companies may use AWS CCI for text-to-speech, translation, enterprise search, conversational AI, transcription, and language understanding by combining AWS AI and ML-powered services. The ..."
+    publishedDateTime: 2022-04-11T20:29:00Z
+    webUrl: "https://menafn.com/1103992368/Call-Center-AI-Market-Size-Share-Trends-and-Demand-Growth-to-2027-VynZ-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+        width: 353
+        height: 249
+        isCached: true
   - title: "Natural Language Processing (NLP) Software Market 2022 Size, share, Growth, Analysis and Demand with Forecast Overview and Scope to 2026"
     excerpt: "Global “Natural Language Processing (NLP) Software Market” 2022 report presents an exclusive analysis of market"
     publishedDateTime: 2022-04-07T07:36:00Z

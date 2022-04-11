@@ -28,129 +28,107 @@ images:
     isCached: true
 
 related:
-  - title: "Health-Tech Startup Viz.ai Raises $100 Million"
-    excerpt: "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion."
-    publishedDateTime: 2022-04-07T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
+  - title: "10 startups riding the wave of AI innovation"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Organizations are increasingly adopting AI-enabled technologies to address existing and emerging problems within the enterprise ecosystem,"
+    publishedDateTime: 2022-04-11T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/"
+    ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://images.wsj.net/im-520037/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1333935767.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Indo-American AI startup Vianai System raises $200 mn; expands leadership team"
-    excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centred AI platform and products company,"
-    publishedDateTime: 2022-04-07T04:35:00Z
-    webUrl: "https://www.freepressjournal.in/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
+  - title: "Will Artificial Intelligence be driving force behind the future of healthcare startups?"
+    excerpt: "Artificial Intelligence is revolutionising the way the technology industry is developing. From intelligent phones to intelligent cars and refrigerators, every aspect of human lives is being made easier by ‘intelligent’ devices."
+    publishedDateTime: 2022-04-09T16:58:00Z
+    webUrl: "https://www.freepressjournal.in/business/will-artificial-intelligence-be-driving-force-behind-the-future-of-healthcare-startups"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/will-artificial-intelligence-be-driving-force-behind-the-future-of-healthcare-startups"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-artificial-intelligence-be-driving-force-behind-the-future-of-healthcare-startups"
     type: article
     provider:
       name: The Free Press Journal
       domain: freepressjournal.in
-    quality: 53
+    quality: 66
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-05/7202a783-6eae-4f97-876a-26f15c7b697a/startup.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
+      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Viz.ai raises $100M Series D"
-    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
-    publishedDateTime: 2022-04-07T19:28:00Z
-    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
+  - title: "AI already is thinking the way we do"
+    excerpt: "Does AI perform some cognitive tasks like we do because we have made the code or is there just a right way to think some thoughts?"
+    publishedDateTime: 2022-04-07T21:54:00Z
+    webUrl: "https://www.biometricupdate.com/202204/ai-already-is-thinking-the-way-we-do"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 39
-    images:
-      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
-    excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
-    publishedDateTime: 2022-04-07T11:00:00Z
-    webUrl: "https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 37
     images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
-        width: 800
-        height: 392
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
         isCached: true
-  - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
-    excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
-    publishedDateTime: 2022-04-07T21:39:00Z
-    webUrl: "https://www.bioworld.com/articles/517713-vizais-valuation-surges-to-12b-with-100m-series-d"
+  - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
+    excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."
+    publishedDateTime: 2022-04-11T20:39:00Z
+    webUrl: "https://menafn.com/1103992769/Integration-Of-AI-In-Renewable-Energy-Shapes-The-Condensers-Market-Growth"
     type: article
     provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
-        width: 847
-        height: 635
+      - url: "https://menafn.com/updates/pr/2022-04/11/EP_372b0image_story.png"
+        width: 966
+        height: 487
         isCached: true
-  - title: "Neurosurgeon's startup hits $1.2B valuation"
-    excerpt: "Artificial intelligence startup Viz.ai raised $100 million in its fourth round of funding and has reached a valuation of $1.2 billion, the company announced April 7. Neurosurgeon Chris Mansi, MD, is co-founder and CEO of the company,"
-    publishedDateTime: 2022-04-08T15:00:00Z
-    webUrl: "https://www.beckersspine.com/spine/item/54048-neurosurgeon-s-startup-hits-1-2b-valuation.html"
+  - title: "Scale AI moves to scale supply chain AI startups with new funding, partnerships"
+    excerpt: "Scale AI has invested $24 million to support five AI projects in supply chain operations and is partnering with MaRS to support 12 Canadian AI startups."
+    publishedDateTime: 2022-04-11T10:00:00Z
+    webUrl: "https://betakit.com/scale-ai-moves-to-scale-supply-chain-ai-startups-with-new-funding-partnerships/"
     type: article
     provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 22
+      name: BetaKit
+      domain: betakit.com
+    quality: 35
     images:
-      - url: "https://www.beckersspine.com/templates/beckers/assets/images/spine-og-image.png"
-        width: 800
-        height: 600
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/04/MaRS.jpg"
+        width: 1052
+        height: 630
         isCached: true
-  - title: "Viz.ai Raises $100M in Series D Funding"
-    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
-    publishedDateTime: 2022-04-07T17:52:00Z
-    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
+  - title: "Why the age of artificial intelligence is great for your heart"
+    excerpt: "Knowing when someone is likely to suffer a heart attack would allow for lifesaving interventions. And thanks to a new artificial intelligence (AI) led approach pioneered by Johns Hopkins University researchers,"
+    publishedDateTime: 2022-04-07T13:00:00Z
+    webUrl: "https://www.innovatorsmag.com/why-the-age-of-artificial-intelligence-is-great-for-your-heart/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
+      name: innovatorsmag
+      domain: innovatorsmag.com
     quality: 17
-  - title: "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation"
-    excerpt: "Round will fuel global expansion of AI-driven healthcare platform that accelerates access to life saving treatmentsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Viz.ai, the leading AI-powered disease detection and care coordination platform,"
-    publishedDateTime: 2022-04-07T14:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-04-07/vizai-raises-100-million-in-series-d-funding-led-by-tiger-global-and-insight-partners-at-12-bil"
+  - title: "How AI Is Powering the Future of Financial Services"
+    excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
+    publishedDateTime: 2022-04-08T18:30:00Z
+    webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 15
-    images:
-      - url: "https://www.pharmiweb.com/Content/1x/roundal.png"
-        width: 656
-        height: 656
-        isCached: true
-  - title: "Kumo Emerges From Stealth to Launch Next Generation Predictive AI for Businesses; Raises $18.5 Million in Series A Funding led by Sequoia"
-    excerpt: "Kumo, a new SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions, today announced it has emerged from stealth with $18.5 million in Series A funding led by Sequoia Capital,"
-    publishedDateTime: 2022-04-07T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-282d8344fa7741e094e7d8cc09abfe87"
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
+    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
+    publishedDateTime: 2022-04-11T12:16:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=644996"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
 
 secured: "ax+J+CR7zlSCUvRFo3PBREWJ/8SeNkTTbl5Se3dxtqZy9MV8K2DYHiqWV3DY5inNfLrTv6vAHPr+Jp+IJ4lCcGbqGFbfDZx6IaDXDVFtaTqvbZ9TFbcAH1khvSyuAtd82/9zjq9xA7UPu9T3QeRhWsGbyPxVDugDYA4vUld7748GiMU5tXMpOQKg9gJS42Eaf8WZS4Ea/ikxbA38WI4GSMdYFg20RsFmIIN8QoGxDrtdTzsTM+O9a31oTfR7te+SHm1h7EYy1k8oXM1jXu1oW79mkrLH7qKf+Ye9H8DTRL1pcwqLRTapJydXlwPET3dwntmdj6VQ1CbjKoSuNP3kZqsCLSm/a/WiSOY3YvYk/raDqfWp3YxvQK0OHhCBzmJl3Sj0Y5rUgNauD4zJY667ytlGCrBEf9z8jwU6sjfqZADPjcpX8IcKoQeZ2BDpz0UDKS/iBf0gVvMAUa4Tl1XR39w6IRxa6q3MeTS6MAOnjYjlmNoDFbJbE7AjsUIWwG7gbrgDxUSEEfoyumCV1VwNYg==;je6cHHbB+cWrzOvpvQjFRA=="
 ---

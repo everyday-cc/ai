@@ -1,0 +1,53 @@
+---
+category: news
+title: "The AI-Enhanced Military Intelligence Warfare Precedent"
+excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
+publishedDateTime: 2022-04-11T20:46:00Z
+originalUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
+webUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+    width: 353
+    height: 249
+    isCached: true
+
+related:
+  - title: "Family Ties Enterprises, Inc. and TQIntelligence Launch A Voice AI Digital Health Solution for Georgia Youth"
+    excerpt: "Family Ties Enterprises, Inc. and TQIntelligence today announced that Family Ties Enterprises, Inc. will integrate Clarity AI, TQIntelligence's digital health platform, into in-school programs throughout Georgia to provide mental health services to the most vulnerable patient population."
+    publishedDateTime: 2022-04-11T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/family-ties-enterprises-inc-and-tqintelligence-launch-a-voice-ai-digital-health-solution-for-georgia-youth-1031345977"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/1783526/Agency_new_logo_blue_transparent__2_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
+    excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
+    publishedDateTime: 2022-04-11T09:45:00Z
+    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-share-growth-and-forecast-to-2029-datamintelligence.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 16
+
+secured: "yCxQ2uzM0hQ6tbTuQ++u8q3ap7ApSFK11WcMzKSofIG/0eVUHhJ8VEvpdkaHu9odSSOCUbE7xznWnau9rq4SeAVntUhjXJaBB9O0G3+bwQ8oRfXrGC+ZC882kJZB+LMGBaG6QJg3eMPY/DU8ESryhL8o7zkJCnP4W28hg9elZOIZeeZ1QQ5MDGPz1RVcSuLEnuWIx2ICgWlflRtZvIjj29FD+fIKVvGnIEpXCc0Z/bFSJKM1TsBKVRiMUItLwMYYnrww3xJ1899/VJ0oo4Xt0xXRjfivRusFdrXuEJTnVgQsgURq0iEDrA7BnBFzNeVAHh6bsWGJXXd9QkwK3vxOpdGwsb1kklX9z01Jpc57uaQ=;6B08INNktIXTzHLX9qHgzQ=="
+---
+

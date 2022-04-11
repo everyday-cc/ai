@@ -33,6 +33,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
+    excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
+    publishedDateTime: 2022-04-11T20:46:00Z
+    webUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+        width: 353
+        height: 249
+        isCached: true
 
 secured: "GSozdVgrpQENgGc4SRRgX/4hvmosX/hwTk2ESE+s3j6PcTULkN/Tehz8K4QthvhHYR0t52ct7C9+HP48qtRMYI3MGuX/bmCITh1Pi46Csap+lMtO3WtfF/7JJ5V5v5lkIbHIYXOKowvhsqug6RI6QwBn4P2kEwhFK493pThnJFkfxUw7O1sOx788fVhO5A67zO1GkjmkqwGc4sHYLSPcCgRHpydvQrBLx8+Dcp8vtX+cfDRK0j8J6L8tboCjhXvelfHj9Xqy2x2qoYb5Gu++zx4oyLKF1q9U9f6ioq8Go43LMCgeBkdDIT6N8NSA4P4RMtw4GCSz1VZyZoLPH9/Wt4FOklqWqKh2VnAoh0xfrnQ=;Vi4uRBVgjysXcd0ultNJVA=="
 ---

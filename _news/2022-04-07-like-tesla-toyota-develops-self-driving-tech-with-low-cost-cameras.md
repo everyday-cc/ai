@@ -61,22 +61,15 @@ related:
         width: 644
         height: 423
         isCached: true
-  - title: "Toyota partners with Tesla to develop self-driving tech with low-cost cameras"
-    excerpt: "Tesla has been betting big on cameras to collect data from over one million vehicles on the road to develop its automated driving technology."
-    publishedDateTime: 2022-04-07T04:38:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras-41649305836324.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-partners-with-tesla-to-develop-self-driving-tech-with-low-cost-cameras/amp-41649305836324.html"
+  - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
+    excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on \"full self-driving.\""
+    publishedDateTime: 2022-04-11T18:43:00Z
+    webUrl: "https://www.cnn.com/2022/04/11/cars/tesla-fsd-family-friends/index.html"
     type: article
     provider:
-      name: hindustantimes.com
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/04/07/600x338/Model_3_1_1602909794983_1602909801097_1649306189147.JPG"
-        width: 600
-        height: 337
-        isCached: true
+      name: CNN
+      domain: cnn.com
+    quality: 49
   - title: "UPDATE 1-Like Tesla, Toyota develops self-driving tech with low-cost cameras"
     excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and ..."
     publishedDateTime: 2022-04-08T12:19:00Z

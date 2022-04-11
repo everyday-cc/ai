@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-11T17:01:00Z
 originalUrl: "https://www.biometricupdate.com/202204/honors-and-recognition-for-jumio-socure-alcatraz-ai-nec-prove-experian-canaria"
 webUrl: "https://www.biometricupdate.com/202204/honors-and-recognition-for-jumio-socure-alcatraz-ai-nec-prove-experian-canaria"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:

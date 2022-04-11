@@ -68,6 +68,15 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Tesla accelerates hiring for Optimus robot project, develops ‘overall humanoid software architecture’"
+    excerpt: "Tesla is ramping up hiring for its Optimus robot project, also known as Tesla Bot, as it starts using its AI expertise to develop its “overall humanoid software architecture”. As we previously reported,"
+    publishedDateTime: 2022-04-11T19:16:00Z
+    webUrl: "https://electrek.co/2022/04/11/tesla-accelerates-hiring-optimus-robot-project-humanoid-software-architecture/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 51
 
 secured: "81+WV7pFWMtnfMiAULbA0zcL+o+O/hbm/EfGKCsYUBXfvkeaJybgkfWx2VzQKcWwrpUfMglFE7m5Aoa2J6+uxB9RmCTjrwz2OBBRTDrTYzKX1znhY/Lmp3AXc1Tpdco88E+VBD5njd8+gJl1Uiko77fJ0Y/tMTtJYCicp91NfYpLwA4lU5zKkUuWhmLq8JQyDqGDSebZoHNMKTlLQ3OHI91xFVAQK4W1+yJKS4anICa4RSUBZxwOeQcxC0ZBOZ7j7OguogOSSuy5nOF20fXdpOXeS2MNS09h4D5i7KW8X+/PTeMajBJNCtTdHdjAuhmTi9epAjjGI+6WhwOo9M7ipOTZtbAo+EXHEcxCbna4IoY=;NjZiak2zQfx2mjJaGXLaVg=="
 ---

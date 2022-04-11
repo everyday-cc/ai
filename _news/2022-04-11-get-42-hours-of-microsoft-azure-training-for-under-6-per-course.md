@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
 type: article
 quality: 119
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
-    publishedDateTime: 2022-04-07T01:57:00Z
-    webUrl: "https://cbs58.com/news/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 39
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/2fGhW-1649297005-223113-blog-hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and"

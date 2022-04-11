@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-rob
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/"
 type: article
 quality: 120
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Tesla accelerates hiring for Optimus robot project, develops ‘overall humanoid software architecture’"
+    excerpt: "Tesla is ramping up hiring for its Optimus robot project, also known as Tesla Bot, as it starts using its AI expertise to develop its “overall humanoid software architecture”. As we previously reported,"
+    publishedDateTime: 2022-04-11T19:16:00Z
+    webUrl: "https://electrek.co/2022/04/11/tesla-accelerates-hiring-optimus-robot-project-humanoid-software-architecture/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 51
   - title: "Tesla to start production of Optimus humanoid"
     excerpt: "Elon Musk hints at the production of the Tesla bot Optimus humanoid will be able to accomplish human roles AI researcher Gary Marcus warns that we are far from robots taking over Elon Musk, the CEO of Tesla (NASDAQ:TSLA),"
     publishedDateTime: 2022-04-08T19:27:00Z

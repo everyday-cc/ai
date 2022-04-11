@@ -54,15 +54,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How AI Is Powering the Future of Financial Services"
-    excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
-    publishedDateTime: 2022-04-08T18:30:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "lk/+qw4OImUUJqEva50CyioZaLkyH9YtXbryqjeweZewLLw2xaRemzcVKnIJKXRehLBlBrhJhDFHu2Xr+ySd9jUVNAZKru7J1SMLOIcNML1CocyBKSg7LpBh+H1TZw6VWGzCANsKUjKqxS9k2mpbBCtsjJxCgSVnqReVXYmlQg30uKQR7ELDwHTxq3mWzG+qVtFp86UDDDT6y5zYG1hLBCfoIi8a71dyKRT4q4ib/YmXEWFfqq24FA/bPP5eTdRaD8yxbhQsvPQ2ghCRfw+oaoQ/V67SIeLD5VTFsZxmbHsYx+6chyScWryqlsrxYxnOSEeFwyJjXwEQ59meD2Zpxo2zbQRqeZEO5qar5lhO02YchEvBojwpVrkwLBNR8tENtHLK1YMWysXNmX7Um0u1pDPmmARawiFeyBTg3OMFQe5jMsjqg9fyPB3s8Hx3UCo05xotAUP1fWfAk/9tmvVO9K8RaFbVlG/+mkmvc69kh8lnqY/xNbhT7f1RrVJPcq4UXbNOa2+6eLHpERKAH4spFw==;mipYDo5vN4lGyqT9bFzVvg=="
 ---

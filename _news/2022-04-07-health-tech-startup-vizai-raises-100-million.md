@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100
 webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
 type: article
 quality: 67
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startups Join AI Acquisition Rush"
-    excerpt: "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence."
-    publishedDateTime: 2022-04-11T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-520831/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Indo-American AI startup Vianai System raises $200 mn; expands leadership team"
-    excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centred AI platform and products company,"
-    publishedDateTime: 2022-04-07T04:35:00Z
-    webUrl: "https://www.freepressjournal.in/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/indo-american-ai-startup-vianai-system-raises-200-mn-expands-leadership-team"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 53
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-05/7202a783-6eae-4f97-876a-26f15c7b697a/startup.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Viz.ai raises $100M Series D"
     excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
     publishedDateTime: 2022-04-07T19:28:00Z

@@ -75,20 +75,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Indian-American's AI startup enlarges leadership team after raising $200 mn"
-    excerpt: "Indian-American's AI startup enlarges leadership team after raising $200 mn - An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has"
-    publishedDateTime: 2022-04-07T04:19:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/indianamericans-ai-startup-enlarges-leadership-team-after-raising-200-mn-nid-218560-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 35
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/pclJFatQ.jpeg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Researchers used artificial intelligence to analyze thousands of videos from a database of American Sign Language (VIDEO)"
     excerpt: "Researchers used artificial intelligence to analyze thousands of videos from a database of American Sign Language—this clip shows the sign for “believe”—to figure out where the hands are in relation to the face and body."
     publishedDateTime: 2022-04-07T20:39:00Z

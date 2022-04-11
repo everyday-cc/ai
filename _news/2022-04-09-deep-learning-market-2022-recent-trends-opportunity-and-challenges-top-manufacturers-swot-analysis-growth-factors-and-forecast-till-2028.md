@@ -81,6 +81,20 @@ related:
         width: 456
         height: 250
         isCached: true
+  - title: "India Artificial Intelligence Market 2021-2026: Industry Growth, Size, Share, Analysis and Research Report"
+    excerpt: "India Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 11, 2022 /EINPresswire.com / -- According to the late"
+    publishedDateTime: 2022-04-11T20:41:00Z
+    webUrl: "https://menafn.com/1103991600/India-Artificial-Intelligence-Market-2021-2026-Industry-Growth-Size-Share-Analysis-and-Research-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/11/EP_9d67cimage_story.png"
+        width: 640
+        height: 383
+        isCached: true
   - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
     excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
     publishedDateTime: 2022-04-08T09:15:00Z
@@ -95,15 +109,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
-    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
-    publishedDateTime: 2022-04-11T12:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=644996"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "lkxCocYub4WkNwdmmY+m20qqGOVilqWtKIsTRPM5E8uo1xgxx+JFr906urbzg2C08WarWQNhVnLZFwM8XxreJNSERxVDk6zOTgSE/CQXmU4/NdDuA2Qrwfz9YQ7iB97UJRSHQvumS9JytMTRs4lvTNTnOZAcMqt/6ko7mOfNYTvADQenqrI1kI3tF03yq682vZZC6BaP2WnqdyYfwKxZdvicRUSUfBxlaUVCXU0SSKSv/v9DpY3VvTJKvVnTjIO4psjTcSy7k9bGe2YVkLjd57yKbiQ3uCjfXj2wycSDCAiTS10IpZ31XhsFenaPZ3tSQI5XROrkv4S5Rnsgy0xptIvGXwsMaUe6BnlXUMC8Pgc=;CgLVaJhl/Y+TfKPJP0a0LQ=="
 ---

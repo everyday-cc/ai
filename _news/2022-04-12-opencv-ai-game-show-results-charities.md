@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T18:29:00Z
 originalUrl: "https://opencv.org/opencv-ai-game-show-results-and-charitable-donations/"
 webUrl: "https://opencv.org/opencv-ai-game-show-results-and-charitable-donations/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: OpenCV

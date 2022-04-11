@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T18:50:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/04/11/investor-action-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc"
 webUrl: "https://stockhouse.com/news/press-releases/2022/04/11/investor-action-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Stockhouse

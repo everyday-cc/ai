@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T18:28:00Z
 originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/johnny-depp-and-ex-wife-amber-heard-face-off-in-defamation-trial/3640420/?amp"
 webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/johnny-depp-and-ex-wife-amber-heard-face-off-in-defamation-trial/3640420/?amp"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: NBC New York

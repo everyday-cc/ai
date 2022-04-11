@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Virtual meetings are here to stay. Microsoft wants to make them better"
-    excerpt: "Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disa"
-    publishedDateTime: 2022-04-07T01:57:00Z
-    webUrl: "https://cbs58.com/news/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better"
-    type: article
-    provider:
-      name: CBS 58
-      domain: cbs58.com
-    quality: 39
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/2fGhW-1649297005-223113-blog-hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
     publishedDateTime: 2022-04-08T09:37:00Z
@@ -97,6 +83,6 @@ related:
       domain: finanzen.at
     quality: 25
 
-secured: "MkOU/WgEbmmWEKozwQ/EDPE3xqZYXZ+9QMGRGqt1KtylvBxqTHVtPmAFmE0S0dOnqIXD08tjAjMwOp46NuDQJ6qZeqbcTcpVFJuyjvteAGFb5Fenw+0Z3cIo8u52pPObxJV7N7hBtI+fjIWsCX6d+mUVz+yZDDrXLUasKCY5oVdpM/xkcdcF5hfsnAygmH18fCTh7I7iP/UANOM/8NSP9bc3+L0ZgvwXBhKS9c+LEZN3vAsd7E4b1z4RL9nWgxG4Hkw8jqP8aJol74hJZP7YOQGFaDOpESCtcqbmIn98KSqHFRnS6aYTuYfin2WunO+Lifqi1OjhbUHkdCIHcmDRP1EFPOBjVqbapaZKJG9Nb58=;kkYb6Wdo9XAsXHt+1kPGsQ=="
+secured: "16t9u+Mclei3q6CgU4JOAUe0e53CJqZfoao5be+nvHvlwmrxOVeqVarnCq8V6WmlZHi5Azyf390RIZ7ZiYGcdKJbIr6v/wJPVv6k62DN23n9mRsbhnkdADU7q33AJSyrZswd9gV+FqAOyVFa12UlRRzugtYpuZEv0imX3FYJCwD99ugyv4tUIg4O8VHNw1LBjyWt7bYhe1bKKr/b/xtgQGMGiTH3COxymMpfNoK+W0Dl2AxWdKT8KGguJtdNHAUR2QE6QAOTw+zMupLn+l3YKNyya9Qh2t0z+dPwQ2gFW77fcWgwku/XUjzxCrVG4xAzstxbgdeVQ48BU+yFO/9op28TLk2E//O3oVUu58dVg7aSHSWXueL8/G8L2Rv3/OO2XMnN+n3Nx9adzoTWkdzc27icYl91ro26nGrAUNauiwTJSyumyEP0wIlu2yW8mHdqAEl1omj0HS5hJS/l/xoiW4e35TlngCb8Y+JIJRRH5B/KP/O5PDMt+uFyVtGWqYZtZL4LgR1Y+7hhiIp73zLkNg==;+DapN3Bqprqqfjg4kOrQNw=="
 ---
 

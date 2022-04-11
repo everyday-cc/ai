@@ -9,8 +9,8 @@ ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
 cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: HERE
@@ -26,50 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
-    excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
-    publishedDateTime: 2022-04-07T21:44:00Z
-    webUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes"
-    ampWebUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
+  - title: "Using deep learning to predict imminent precipitations"
+    excerpt: "Deep learning models have proved to be very effective for analyzing large amounts of data and accurately predicting future events. This makes them advantageous for a wide range of applications, including weather forecasting."
+    publishedDateTime: 2022-04-08T12:30:00Z
+    webUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
     type: article
     provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 54
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/WTVT-Still-2022-04-07-17h39m38s402.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-deep-learning-to.jpg"
+        width: 746
+        height: 579
         isCached: true
-  - title: "AiAdvertising Announces Partnership with Genus AI"
-    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
-    publishedDateTime: 2022-04-08T11:15:00Z
-    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8518747/aiadvertising-announces-partnership-with-genus-ai/"
+  - title: "Machine learning and proteomics predict cardiovascular risk more accurately"
+    excerpt: "An innovative proteomics-based model that predicts the risk of cardiovascular events with higher accuracy than current clinical models."
+    publishedDateTime: 2022-04-11T01:18:00Z
+    webUrl: "https://www.news-medical.net/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
     type: article
     provider:
-      name: WKRN
-      domain: wkrn.com
-    quality: 37
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
     images:
-      - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Roman-Josi-Ottawa.png?w=2000&#038;ssl=1"
-        width: 654
-        height: 374
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_710322_16496292639184122.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "AiAdvertising Announces Partnership with Genus AI"
-    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI's technology into our platform,"
-    publishedDateTime: 2022-04-08T20:36:00Z
-    webUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-with-Genus-AI"
+  - title: "Machine learning can predict adverse outcomes after abdominal hernia surgery"
+    excerpt: "Machine learning (ML) models developed by surgeons at the University of Texas MD Anderson Cancer Center in Houston have shown a high level of accuracy in predicting which types of patients are ..."
+    publishedDateTime: 2022-04-07T16:42:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
-        width: 295
-        height: 250
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-p.jpg"
+        width: 2233
+        height: 1149
         isCached: true
+  - title: "Artificial intelligence model could predict side effects resulting from new combination therapies"
+    excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
+    publishedDateTime: 2022-04-09T00:54:00Z
+    webUrl: "https://www.news-medical.net/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine Learning to Improve Opioid Prescribing Practices"
+    excerpt: "The Director of Surgical Informatics at Harvard Medical School describes three interlocking pieces of a machine-learning algorithm that predicts outlier opioid consumption: a patient survey, a dashboard with patient data and opioid consumption prediction,"
+    publishedDateTime: 2022-04-07T13:06:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0119"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
 
 secured: "MPHlMudBx3MdFDe3yl8pvsRMMc1jWTMDWBqxAXIpkUFCqk7ExALTKAeOSMD2iHua/VYyehJYfg8hHoxBh5KIhHl69oim9RIOYw4q17c0cqYD/KcXl8qBRp5h2vofh3Xu5lA9Hc2xdk0znuZjkf7LMKT4mHDu+/vI+rDvKSPhAdM/KBAx3s+Qmf777RsNsv6bCG/Pa91OO/BcD3W0ypACQ8dzg0h0tbIxuNpxAI9vCdslj+cMf7va2ZdBMp800rx8dFTVuNey0w70FYX8HCtNYJSWlNA4i601OpDNbDNfpBmsLo8uAG+7wrjFV2m+F25Wq2mjM3qq06ik5bEmW6BWlLMvqyiDn6m32BUeyPvRSUP6dtaMfCe6eaprU+FCjGmv4z1+Rj04S/OtYVpa5Eedz6VbRHiPZ3uu9rLK03Plp+M3gdcKVgW00kKBSH9C3DPcTYIWEs4zvRGc+pjse1CvUYicQ3m92PJMhBnOKKhJq8VGgIJ61rL5Yan2JCRl8UuBGWTp4estvbTmRmu4McKijQ==;Ah5RcVEPFEZmlO5pGE1Y+Q=="
 ---

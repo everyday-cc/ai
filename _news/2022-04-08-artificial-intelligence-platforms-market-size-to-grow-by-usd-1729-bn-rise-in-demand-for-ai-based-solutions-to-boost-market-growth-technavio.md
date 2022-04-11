@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-grow-usd-1729-/2022/04/08/9579737.htm"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Marketing and Tech Company Growth99 Releases SaaS Platform With AI Foundation"
+    excerpt: "On the back end lies Growth99+, which includes features such as CRM, workflow automation, online booking, AI chatbots, virtual consultations, and their robust social media and marketing suite. Growth99 provides continuous support with 24x7x365 coverage ..."
+    publishedDateTime: 2022-04-11T18:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/marketing-and-tech-company-growth99-releases-saas-platform-with-ai-foundation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
 
 secured: "FKDy16hPpUxkvlnvBik1mLGIRd2qeDF1bOzilHwlnZG5mTHVfFxdlBguIYtQj7PB/lpCi+hDpEeuNjxMqNJ0ChykMAT9FXWYnOuJ96EOur5ptFxDUvLCgq3YQm+aEr5Sr/u5I7lrIECpNbJbWNJEuQOjmWd8oQygEcDdYV/vCjpybJIIVfJnzsTFvJGELJpsF4/W4OhhUlE4tQmO13NVQj+htzK+wA5jrsK0afNNKTGQM9Cst2wHO8Z2BQhDYstbEoNuCc7c/jQuThi/x+xyN4GL5UBxjc3MCZTZQu9i9D1emZaZsEheQ9J0DxhvzX+c0nP09i9wNVByHX8osgsftWWKU208CIiKvZaPtjKfQ/2apv8yLrAsS2lCGaTvF7tbRRMJCwLdx7A5jAoduwCYKeH/imB487HmPg4c1mTFiIDweoh4Z2IFrXYD9gF6M53u5+pp4j0nQxUx9A7PumrcVq0jYoswpST0p9klwGyZtDHGZfmNzZLFQyhykLauEcn0OMvO1Ax69GzdtT2ItFGdgg==;uEaciJ59ZWIadL+ufzmfoQ=="
 ---

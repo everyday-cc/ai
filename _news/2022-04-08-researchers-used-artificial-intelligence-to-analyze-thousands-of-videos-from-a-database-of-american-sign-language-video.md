@@ -78,20 +78,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Indian-American's AI startup enlarges leadership team after raising $200 mn"
-    excerpt: "Indian-American's AI startup enlarges leadership team after raising $200 mn - An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has"
-    publishedDateTime: 2022-04-07T04:19:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/indianamericans-ai-startup-enlarges-leadership-team-after-raising-200-mn-nid-218560-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 35
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/pclJFatQ.jpeg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "tNSssvqmHI6E4unSO649Oaf0XVXwmJ9JGzIRUJPmzCC8cwffOUo6lHBDob1C/OOZZQeaFe6XKf2bLOfyndR5l6xJwS7QD18COtLTEmKs8y9kXaYMWCFO/LKMVqOx3qShw5NFyakkf5lJgcXKWg9Fab5Rcgo4h+WhbtN8u2/Ys1S6qxoUVlE80F7srP3IGMbHna1HUe8g35nMlIKu26dWEdUMH5cGnz9hEviCuh8ujiWsZPcP93PVSg0+s0AJ2mDG+APKw3195sifdd0HpwbQv7OVRv0sspBnk8lfOduXhJCghrJY2h1J14PqdmakqO1zCAluOfNCT1RFxDpVK7nKym55g932NSoA2ExWuRK+GKc=;vs9ZTOpMTWSPjog/NVlMOQ=="
 ---

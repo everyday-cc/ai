@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T17:38:00Z
 originalUrl: "https://www.beckershospitalreview.com/innovation/kaiser-permanente-invests-in-nurse-staffing-startup.html"
 webUrl: "https://www.beckershospitalreview.com/innovation/kaiser-permanente-invests-in-nurse-staffing-startup.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Becker's Hospital Review

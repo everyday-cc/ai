@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T18:15:00Z
 originalUrl: "https://sharjah24.ae/en/Articles/2022/04/11/UAE-Cabine"
 webUrl: "https://sharjah24.ae/en/Articles/2022/04/11/UAE-Cabine"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: sharjah24

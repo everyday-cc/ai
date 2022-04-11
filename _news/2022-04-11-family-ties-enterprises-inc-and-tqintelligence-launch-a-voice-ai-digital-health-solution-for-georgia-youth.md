@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
+    excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
+    publishedDateTime: 2022-04-11T20:46:00Z
+    webUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+        width: 353
+        height: 249
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
     excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
     publishedDateTime: 2022-04-11T09:45:00Z

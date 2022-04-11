@@ -53,6 +53,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
+  - title: "Artificial Intelligence in Healthcare Market Size to Hit US$187.95 Bn By 2030"
+    excerpt: "The global artificial intelligence in healthcare market was valued at US$ 11.06 billion in 2021. With the introduction of the digital technologies in the healthcare sector, it has gained a rapid traction across the globe."
+    publishedDateTime: 2022-04-11T20:45:00Z
+    webUrl: "https://menafn.com/1103993606/Artificial-Intelligence-in-Healthcare-Market-Size-to-Hit-US18795-Bn-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+        width: 353
+        height: 249
+        isCached: true
   - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
     excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
     publishedDateTime: 2022-04-11T12:48:00Z

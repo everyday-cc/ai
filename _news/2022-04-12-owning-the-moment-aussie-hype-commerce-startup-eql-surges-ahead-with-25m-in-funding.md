@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Owning the moment: Aussie hype commerce startup EQL surges ahead with $25M in funding"
-excerpt: "Australian hype commerce startup, EQL, today announced that it has raised AUD $25 million in funding. With support from global software investor Insight Partners and Australian investor AirTree Ventures,"
-publishedDateTime: 2022-04-11T19:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/owning-the-moment-aussie-hype-commerce-startup-eql-surges-ahead-with-25m-in-funding-1031347407"
-webUrl: "https://markets.businessinsider.com/news/stocks/owning-the-moment-aussie-hype-commerce-startup-eql-surges-ahead-with-25m-in-funding-1031347407"
+excerpt: "Australian hype commerce startup, EQL, today announced that it has raised AUD $25 million in funding. With support from global software investor Insight"
+publishedDateTime: 2022-04-11T19:02:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/owning-the-moment-aussie-hype-commerce-startup-eql-surges-ahead-with-25m-in-funding/article_4d7e0878-2a65-564d-95ae-8d8e0f54a6fb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/owning-the-moment-aussie-hype-commerce-startup-eql-surges-ahead-with-25m-in-funding/article_4d7e0878-2a65-564d-95ae-8d8e0f54a6fb.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "lcU/NvmVy19KecQBWYWLFUVsUbw71+gTkKYCY4FmNP5Xgrm8ryBWa+ZMZHx/vyhk9qqj0OrEwx+AvFFErckm4X8PPgyoy46D+YTtsGnJyZfdQuAAVi4nTZLvvM/VEpQIqTUN/arVkPBzMGo5KOXSjrCrKas4K43HNPVsXP4tZIoyq3+hU3+Tb7VEqztdRtRAuJsnqhWWXnJoNepFcnnkD5cTOZZsCj4jxUBt+S69rF1xuZLDiq5V8O4KgwehDaJboq3RFApguejqOA3XQCv8T/ETqhHkCOHiqCfxeutciIv5JpAWzWVyLHU0qzf/24zAxmGKXSz75memsAMXdrrQaOyzcrE2LuP9FY6LlsVoIFrKs2B5kyEHT98YZRoopfvz9s9hgzW70Hv9NVEspRkGvPS+YLcFRDCR7iBrlyUWtfYWjU6PWtc3oDgqTfgowHyRdLPdmfan9ZwY9pR7ND2I6bZGXhNuF+6BUFy1D6gJD2Z/UBwNU+l8v1mvIx7ctcAY/Zr4owKYHzfvyC/oJ5M2dQ==;lM5Vsvanr6AVVVeF01EePQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/fa/afab6d27-216c-5faf-a392-299a3e3eeb69/62547bbcca746.image.jpg?crop=1078%2C566%2C0%2C85&resize=1078%2C566&order=crop%2Cresize"
+    width: 1078
+    height: 566
+    isCached: true
+
+secured: "64dAw1iDkCB4uBRevtJftyevREM07yejr8LPz1iE5nJjZNidmvGs2+44i4NSAcPU16N0leiHrqCusdyNoVoZyBeZO0jRc1Bn6bpn6oyhpCwjk2733Rh+v0bjY0BhLmGh/BgKjoyUNRFVDUF/z4AoJAo7TcgjRwWDdcjSXAKIjZzCo9oiohQzW5yAHcB4Toju2RsVbD8ODfiLHXBCqSlvGDGBpecpFmVZgBr3UKEWYMs3ALPSBdul5SxEAOR6ZCZ+ONgrxySnJTtkTXtOjGDmzMhUm0zykjrunyiXlV0McizGqnVSXZ8RVsVbAdyqdhg7+Lhaxqu2M0bU/TmB6S1ryqYmeWIPtUlTt7wyqksE32Q=;7Dj9ieiQgmSp9y2FyOLT3w=="
 ---
 

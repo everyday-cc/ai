@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220408/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,43 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence predicts side effects of combination therapies"
-    excerpt: "Researchers develop an AI model to predict the adverse effects of combination therapies and present their preliminary findings at AACR 2022."
-    publishedDateTime: 2022-04-08T17:01:00Z
-    webUrl: "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/"
+  - title: "Using deep learning to predict imminent precipitations"
+    excerpt: "Deep learning models have proved to be very effective for analyzing large amounts of data and accurately predicting future events. This makes them advantageous for a wide range of applications, including weather forecasting."
+    publishedDateTime: 2022-04-08T12:30:00Z
+    webUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
     type: article
     provider:
-      name: BioTechniques
-      domain: biotechniques.com
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.biotechniques.com/wp-content/uploads/2022/04/Drug-combination-therapeis.png"
-        width: 802
-        height: 344
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-deep-learning-to.jpg"
+        width: 746
+        height: 579
         isCached: true
-  - title: "An AI model can help predict adverse events from new drug combinations"
-    excerpt: "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said."
-    publishedDateTime: 2022-04-08T19:45:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
+  - title: "Predicting and preventing road crashes with AI"
+    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
+    publishedDateTime: 2022-04-07T11:03:00Z
+    webUrl: "https://360.here.com/ai-aware-project"
+    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
+    type: article
+    provider:
+      name: HERE
+      domain: here.com
+    quality: 57
+    images:
+      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Machine learning and proteomics predict cardiovascular risk more accurately"
+    excerpt: "An innovative proteomics-based model that predicts the risk of cardiovascular events with higher accuracy than current clinical models."
+    publishedDateTime: 2022-04-11T01:18:00Z
+    webUrl: "https://www.news-medical.net/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_710322_16496292639184122.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Machine learning can predict adverse outcomes after abdominal hernia surgery"
+    excerpt: "Machine learning (ML) models developed by surgeons at the University of Texas MD Anderson Cancer Center in Houston have shown a high level of accuracy in predicting which types of patients are ..."
+    publishedDateTime: 2022-04-07T16:42:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 19
-  - title: "PathAI Announces Upcoming Presentations at the 2022 American Association for Cancer Research (AACR) Annual Meeting"
-    excerpt: "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, today announced that their recent research will be presented at the 2022 AACR annual meeting, which will be held in New Orleans from April 8 to April 13,"
-    publishedDateTime: 2022-04-08T17:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-health-artificial-intelligence-cancer-4c79a6dd691a4ce4990aa66cac769124"
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-p.jpg"
+        width: 2233
+        height: 1149
+        isCached: true
+  - title: "Machine Learning to Improve Opioid Prescribing Practices"
+    excerpt: "The Director of Surgical Informatics at Harvard Medical School describes three interlocking pieces of a machine-learning algorithm that predicts outlier opioid consumption: a patient survey, a dashboard with patient data and opioid consumption prediction,"
+    publishedDateTime: 2022-04-07T13:06:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0119"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
 
 secured: "V1AdDzZVG9YkUBJjXuufanD5BG+twl2owtccEJQV6Db5mJcnU6JMLC/7sF6Wfp2+Z0KujywpMnzuIaM5gsuebSmmH7uvfwq1YH2LgFkblxhcROzajfw5jW+e67LQtCRSxBHB/g4geK1n3gyvWpE2eDIOqkRKxIi8MAa6tvL+EbHwGAZpSo0lLDM1hcfINBBDwdp85DDVqbK6mVjX/RimBx8m62fgJnQhaVR+NoNHF1S1ba16fQzGNh1m3HFZdaMYZQj3SUhqXitJW5fBX6qVurqwU1BWnk7/k6EFiKiW7YVxZd22g+/2NstdFt4GZFAaGYwZQCAWuzlbxJShuO6SjXS1O5h2PRgG3/qFdal0mjc=;RMd5jFIo27/hJ2/nxn0i4g=="
 ---

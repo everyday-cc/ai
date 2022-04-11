@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at  You can also contact Charles H. Linehan, of GPM at 310-201-9150, Toll-Free at 888-773-9224, or via email at shareholders@glancylaw."
+    publishedDateTime: 2022-04-11T19:00:00Z
+    webUrl: "https://www.fox21news.com/business/press-releases/cision/20220411LA19510/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: FOX21 News
+      domain: fox21news.com
+    quality: 15
   - title: "Class Action Reminder: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Securities Fraud Class Action Lawsuit"
     excerpt: "The law firm of Kessler Topaz Meltzer & Check, LLP ( informs investors that a securities class action lawsuit has been filed against"
     publishedDateTime: 2022-04-11T15:11:00Z

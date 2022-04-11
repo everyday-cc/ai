@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T18:36:00Z
 originalUrl: "https://www.cio.com/article/308324/data-management-on-the-cloud-leveraging-aws.html"
 webUrl: "https://www.cio.com/article/308324/data-management-on-the-cloud-leveraging-aws.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CIO

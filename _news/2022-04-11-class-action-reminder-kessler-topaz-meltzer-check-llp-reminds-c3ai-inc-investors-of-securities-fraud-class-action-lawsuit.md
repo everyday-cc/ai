@@ -38,6 +38,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
+    excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at  You can also contact Charles H. Linehan, of GPM at 310-201-9150, Toll-Free at 888-773-9224, or via email at shareholders@glancylaw."
+    publishedDateTime: 2022-04-11T19:00:00Z
+    webUrl: "https://www.fox21news.com/business/press-releases/cision/20220411LA19510/ai-investors-have-opportunity-to-lead-c3-ai-inc-securities-fraud-lawsuit/"
+    type: article
+    provider:
+      name: FOX21 News
+      domain: fox21news.com
+    quality: 15
 
 secured: "pxEUTXfVK3ZP6u3Egoy4/CONMm/wC1U6Ew4TjL/drNVqx1uc9mBvNJKpDCi0cH0m4GNaPqUplk8dN58oixIe2dJblcn3hmkLXaJ4FIyOo3HRxCSMvghJl/metO5OfvsEjV/XSpW/He6TyMYjL/6jW+ZK29pp5goTn2onilbymyOzLXIQAIYg2CBm7a+Rwa5PyuzXurZgb7JRGegORZ3WfbmRWKO5DRkRhaCQ4+7/O/VpG6IvLgTckq3zIkEXpY397wqM70TO5iBT/mDec2Gh2fdALNHGObGgDvmMe0HUvUZpDEqbmE437538sRQSTBWo4NiiaeRDvXHlh6njqjHlabmDrITz1CicuMItIjZ+4onVDAgAKof9rUJvCpGv9M6NlwjjyYBWVx+/ZIZrG1q+YfTzoJoPXS1ZZI1KldE/kJknIVtWQau8VQCLfG1VrJNz7uQxYMxy2v/jcA6EmmEPl3quU8vqiCGF6TakSsx2Wv4RpmdaHQLGrrjb3gsoY8KmkzFMuErFz6RI02xJY4FJOw==;QuoVM1e590/dvD2G+xVdIA=="
 ---

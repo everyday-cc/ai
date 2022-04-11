@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220410/Machine-learning-and-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220410/Machine-learning-and-proteomics-predict-cardiovascular-risk-more-accurately.aspx"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,81 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Using deep learning to predict imminent precipitations"
+    excerpt: "Deep learning models have proved to be very effective for analyzing large amounts of data and accurately predicting future events. This makes them advantageous for a wide range of applications, including weather forecasting."
+    publishedDateTime: 2022-04-08T12:30:00Z
+    webUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-deep-learning-to.jpg"
+        width: 746
+        height: 579
+        isCached: true
+  - title: "Predicting and preventing road crashes with AI"
+    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
+    publishedDateTime: 2022-04-07T11:03:00Z
+    webUrl: "https://360.here.com/ai-aware-project"
+    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
+    type: article
+    provider:
+      name: HERE
+      domain: here.com
+    quality: 57
+    images:
+      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Machine learning can predict adverse outcomes after abdominal hernia surgery"
+    excerpt: "Machine learning (ML) models developed by surgeons at the University of Texas MD Anderson Cancer Center in Houston have shown a high level of accuracy in predicting which types of patients are ..."
+    publishedDateTime: 2022-04-07T16:42:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-p.jpg"
+        width: 2233
+        height: 1149
+        isCached: true
+  - title: "Artificial intelligence model could predict side effects resulting from new combination therapies"
+    excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
+    publishedDateTime: 2022-04-09T00:54:00Z
+    webUrl: "https://www.news-medical.net/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220408/Artificial-intelligence-model-could-predict-side-effects-resulting-from-new-combination-therapies.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 46
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Machine Learning to Improve Opioid Prescribing Practices"
+    excerpt: "The Director of Surgical Informatics at Harvard Medical School describes three interlocking pieces of a machine-learning algorithm that predicts outlier opioid consumption: a patient survey, a dashboard with patient data and opioid consumption prediction,"
+    publishedDateTime: 2022-04-07T13:06:00Z
+    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0119"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 19
 
 secured: "VBJW8DUhbP+Aj88db06O6hdyvbsZamS7INYy6PwE/EbUb2Q+BAO4pyCuEiFHcqSCpr4/n/RKz6M4SHFkLYN97YpsvgRXot4zeU9ZguYt8fjccsCGsHycBfUQXimIKJts5SEBmGnqmZTXebk+1qWR3vlq9eEHEeGtW3R/h89t+gk0aVK381vECRgnMPXwSTEinZNgucajfe5yuXGKcBAyOcTfe/XxaZKb8kRWqGLK6JQiLB6i7JeQ83P8OPsHPgGfsHbdrb3aTSgoPHvZ5HQBqSs89/zAAczQMZWa1QsCe+T6/Z4ryZsfmIY2ykQZPORZ4hZKww7E4PNaOykng+ddDiwUXpcQn+Sy/hnGgQS2ql1L4qDGgp2SG5qlIel4EwuzLa70ENkhw/6GFHGkOoNQu7Yu0APCtYxXZoE3mKFKn+BhLeKGEyEQnSU+4k25kXZazek2MhL32LjgdV1FvhYmcOn2T0S77pjM3cdAZZHnns+Bsy7DzdELGawiXv1cjACrMHI1hKiUd8hkgvfpvY1D2g==;ciMjkO1CFsZA9NpoMatGzg=="
 ---
