@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Crosscope inks partnership agreement with Waleed Pharmacy to deliver Crosscope's AI-enabled Digital Pathology solutions in Oman"
-excerpt: "MOUNTAIN VIEW, Calif., and PUNE, India, April 11, 2022 /PRNewswire/ -- Crosscope Inc. a leading provider of AI-enabled digital pathology software and Waleed Pharmacy & Stores LLC, an Omar Zawawi Establishment (OMZEST) group company focused on bringing healthcare,"
-publishedDateTime: 2022-04-11T05:38:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1246200&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1246200&cat=PR News Wire"
+excerpt: "Together they plan to bring state-of-the-art technological solutions to Oman enabling their commercialization to deliver comprehensive cancer care thereby red"
+publishedDateTime: 2022-04-11T07:58:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272470287/crosscope-inks-partnership-agreement-with-waleed-pharmacy-to-deliver-crosscope-ai-enabled-digital-pathology-solutions-in-oman"
+webUrl: "https://www.bignewsnetwork.com/news/272470287/crosscope-inks-partnership-agreement-with-waleed-pharmacy-to-deliver-crosscope-ai-enabled-digital-pathology-solutions-in-oman"
 type: article
-quality: 0
-heat: 0
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
 
-secured: "QSo3HeqWNhS1gDibMhr5O+/fXuc3R2J4LOLOucekvAu5+F6YpFRpBYY0TSB9edRtz+slPhd6Hf0MkjNxgwqSGA/Opo9xMYomwQgbNdChKXhGbXDyT7LvA2QQHtYC+HCiri0XchrnSGDvFTcLbArSd/2iXc3XmBBtAE6VCx39ENVi3pE5ANupQLG4Ud4n0i960EmcH6TNec8n4JalZJvCP+6cBUCFTEoQ1x5Cqe5ejzi6NBqTKhPwWpOAtxFI37lXets6E0C3GnLAkzu2WRKjSxVSfNNQhEF/3VBx13BcBAzBCwV/I+AUfhS0EqvpIIdLoE30hVjy3751y80PZZMxIZrBDGfIvO7yAIqqC+ayjuNUjovWuRFO/RviJkkNqFs2qicNdZ6vXMgTJskChvIY++LSp69CxVacHVsRijy+MAcRkcDZ+x4f3EyBUU0trFaVN5XNQP93WsPv36ne+FpM93JX1JbaHV8bkah5W1pwKUV3chAn1M8pH5bCX0Qg8c7DsRIOgC+gtUpMCgrx0zxwTQ==;KdRZF3GOX3COE+AZNjdcXQ=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1649663389.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+secured: "wHOsuYennTTzg8fk97BmW/rBF5lKeNijgp1bztsgDB/SxtUEwu8a9UBEL/8z3Xb2NsvDLsZG19Pa7H2eoW01ergistBtEcMR0KajqT+8f7IFmE1wPTne00prGzJfrI96wqk6QGDLUqIApRN3B5yjXUeq3Aba4lN0W24cyThWoKJESLzT3im4rhFkzOBGxCtWI3jdF4CYyE4FWaNInoL5p7jt3jKfk1nZUPkgmWnhExNfumLbpMK3847Gr14BvmByG2TfyyaadjUt9dhgK0oVbEH7sv6gWMP1Lo1zaCkfG19wbSF/bS+rxuRzuMkG2jSBwvYl2NhYs4KNeKU9kgYlFa8CuAkkD5wupUEkS3qVgDA=;SzaAeqnP9XAQn3g/nIFwAQ=="
 ---
 

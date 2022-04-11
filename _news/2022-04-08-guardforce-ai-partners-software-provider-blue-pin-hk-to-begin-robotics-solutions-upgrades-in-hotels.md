@@ -60,33 +60,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Guardforce AI stock slides on pricing $10M share offering"
-    excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"
-    publishedDateTime: 2022-04-06T13:46:00Z
-    webUrl: "https://seekingalpha.com/news/3821156-guardforce-ai-stock-slides-on-pricing-10m-share-offering"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated"
-    publishedDateTime: 2022-04-06T13:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-pricing-of-10-0-million-registered-direct-offering"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-  - title: "Guardforce AI Co., Limited: Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced that"
-    publishedDateTime: 2022-04-06T13:59:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55712146-guardforce-ai-co-limited-guardforce-ai-announces-pricing-of-dollar-10-0-million-registered-direct-offering-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "lfPVaspgEb5ImGDBGoO3nI66jgZ/66Kmp5bvha6HmY9P5ap1MBV688iJG8mFLgiINYFs0LGaTIHoHLQOJERKuFBNT6pY8gQ69vWMMKHlZs2KAwPSW+CX3RlBIZwtcwmp6lkYpI0fJL0KfhOZsCWJXAmMivc+idohDYcN6KLJ6u7peiHCRcZh8lDtG6af2gBJLGoTHu+d6TO4Y2t1Q/awfL8K9XQIBpe9j/rSl1R2+SxF6Ado7pTO4eEo4UxGlygfekOsB9GEr6Loe+ExtudRnddXW+Gy/xS8c0/noUiHMf6SCXyHwCKll6FcwpAZsW4XdQnFGzVG651VEGONrZ5qylFFVjC62vokqANxdej/Qt2aH0FCu9t55ae9OAFjpIo8153E7M0E32V3O4/ixk1EKojWvn/W1FYTB72t+C7sekDWFR5KYGV3Pa4hKkO4r0ra3rNMYOOSoGUsaV8fne4OlUksK/0yU8fZG8L/eg5gkBOCM9RRw1HQWHO8vh6EwgthQz8txSQxSGbEiLS/c9/dAw==;WjvkXiz2wUhd5b6wzhIQyA=="
 ---

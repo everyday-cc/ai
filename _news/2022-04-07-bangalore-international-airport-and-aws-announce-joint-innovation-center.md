@@ -49,15 +49,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Accelerating the integration of artificial intelligence solutions: SCALE AI announces a $24-million investment in five new projects"
-    excerpt: "SCALE AI, Canada's supercluster dedicated to strengthening the country's leadership role in the fields of artificial intelligence (AI) and data science, today announced it is investing $24 million to support five innovative AI projects."
-    publishedDateTime: 2022-04-06T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accelerating-integration-artificial-intelligence-solutions-scale-ai-announces-/2022/04/06/9578165.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "0iZ/WiVpSnnY9uI32ll78zGx3BrfmbKsyZhgw2UDdrLuoJjKrw87xOZXHtyr9DV8jC2EboPjaddmq+tYbjnr1sIkNpoX+t0cDuq+gE9WXXCxOXsIb41XUXd4nXGaAdQ4QzV4xgf/i7tX3EEgiTCVoWcCMG+CLrk1Z+giYCjunww+JrvukgXt5XE3nq3DNpJVpaRoD3E4cZSBpeVBHd61++DUVcSeXr5T4tFGRH+/DvXo79xKwrXVzSWPe+bHO7WsdxzQWisxDdZh8Pz1IMrDQJK/vUJwgCgokkUmokiXB4OgzovT33FOzbnuRS8Unj4RywifCPhLos/BMv2ZjhcaLXG7Eft0Ji3Vu5bO22PMKOr6dv/NDTrEkuirO79xmD0R7vctyvSOxjDah7uSzmFodPOkKkSmkfWXLL222nqcqe1yLeypMKD39fbFDw5nIrfdG2vnOOHxmpZz8rDG52svD/M2BvllG+bESRwhBa9libfc+h8eUDj9Hozhsd1JoLPsJp1iJM9vVgmh3Y7uPxLFBg==;g0yOq7e2QvyXv+H0WQGfSQ=="
 ---

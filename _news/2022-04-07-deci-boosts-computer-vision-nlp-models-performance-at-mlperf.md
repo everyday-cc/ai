@@ -37,17 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "BigBear.ai Continues To Gain"
-    excerpt: "BigBear.ai Holdings, Inc. (BBAI) shares are adding more than 9 percent on Wednesday morning trading continuing an uptrend since March 30 as it started trading on New York Stock Exchange. Currently, shares are 11."
-    publishedDateTime: 2022-04-06T14:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain"
-    ampWebUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "MLPerf Results Show Advances in Machine Learning Inference Performance and Efficiency"
     excerpt: "MLCommons ™, an open engineering consortium, released new results for three MLPerf™ benchmark suites - Inference v2.0, Mobile v2.0, and Tiny v0.7. These three benchmark suites measure the performance of inference - applying a trained machine learning model to new data."
     publishedDateTime: 2022-04-06T17:01:00Z
@@ -77,6 +66,6 @@ related:
         height: 261
         isCached: true
 
-secured: "KolDdi1XYLjHt7YLSVS75dOsw+RSy4yUp8XrBpnQfKJLNLI1FqZ/EEpBEybxDjPn8h2C2zKt2RRHO5BTUS4pi+Tgf85QWgWWsruaAtd6npudfSVdCByKQFCmNo/VhXRX+HF7v/Z8D3oiM0dX+kv2klJ9y17H3rs5CvfkjMUCFmJ690QZgMIM0qsJeFEL8jfPB7uufRsNNW1wnpRoz1bk9Rkjw6yj3gXh3RXrYYYezpyKyQVqgP5ndKD7iueBNSKtZMkO7NoXotKN8EHeQJ6J4j/iihPUexRVdj4ifLE5bP4yLVkWFh60SvbL/kaXa14CosjB4z61YW52fxkoiYZLthUHN4I+FyMVPNiiagAMYAQ=;YDUkQrEyZh6mbwo36MnSeQ=="
+secured: "6ucff2Kz/5y7uu3kBd5923eYLHiocUTDH5trQsAGpkQO8Hjfp2MlCI7LA9rZkPIRh2SJZms+RyNi7DkWvWvOhabGF06J5xc3y/1vUKt9AIKwpE238fl+3Y1zz45PugLTDvts+7iCZYXTHMDU2ZsEponeyimgXHG0AUvDwpXFgkIUOs9LLNcvxr+7j69wyfOoQaWOYunALMuV9JaD+vG8fqKswNjsnhpcJCsHT9/X4soCAl3ReMCg8Gu8bSN7U9kTEjJehaOV00adJHo9toLyOXGUxdQvXFiMmzxdqmsEC/01OlmKEY5D1sNgHGu/cC4ZYRsYmoGViPHKxMvZd09GV8YtazquujLZcGiyIKyYDKg=;hzXMRMjAm7jb35ZcUiJ2HA=="
 ---
 

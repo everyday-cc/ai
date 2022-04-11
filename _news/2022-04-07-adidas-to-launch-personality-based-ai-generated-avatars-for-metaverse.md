@@ -38,20 +38,6 @@ related:
         width: 700
         height: 260
         isCached: true
-  - title: "More employers investing in AI hiring solutions"
-    excerpt: "As companies continue to struggle to find the talent they need, employers are increasing their overall investment in talent acquisition technology and artificial intelligence (AI). Overall, 63 per cent are planning to invest in AI hiring solutions this year — compared to 42 per cent in 2020,"
-    publishedDateTime: 2022-04-06T14:25:00Z
-    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/more-employers-investing-in-ai-hiring-solutions/365556"
-    type: article
-    provider:
-      name: Canadian HR Reporter
-      domain: hrreporter.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/126/0299_637359552172117926.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Australians demand for more digital services in government and are comfortable with personalised artificial intelligence, according to survey"
     excerpt: "There is a large and growing demand for government services across Australia with the public comfortable using personalised artificial intelligence, according to the inaugural Publicis Sapient Digital Citizen survey."
     publishedDateTime: 2022-04-07T00:11:00Z

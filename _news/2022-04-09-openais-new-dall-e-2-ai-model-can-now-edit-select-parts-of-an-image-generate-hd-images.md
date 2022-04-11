@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-ima
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI’s DALL-E AI image generator can now edit pictures, too"
-    excerpt: "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image."
-    publishedDateTime: 2022-04-06T14:07:00Z
-    webUrl: "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "OpenAI’s DALL-E AI is becoming a scary-good graphic artist"
     excerpt: "Like its predecessor, the new DALL-E 2 is a neural network that creates images based ... Sullivan covers emerging technology, politics, artificial intelligence, large tech companies, and ..."
     publishedDateTime: 2022-04-06T18:07:00Z

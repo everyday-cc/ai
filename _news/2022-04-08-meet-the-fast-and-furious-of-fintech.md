@@ -23,35 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "SmartHop raises $30M to boost trucking fintech products"
-    excerpt: "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year."
-    publishedDateTime: 2022-04-06T13:30:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
+  - title: "Fintech Roundup: How going Fast and furious can ruin your startup"
+    excerpt: "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running."
+    publishedDateTime: 2022-04-10T14:16:00Z
+    webUrl: "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/"
+    ampWebUrl: "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1162497947.jpg?w=1024"
         width: 1024
-        height: 683
-        isCached: true
-  - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
-    excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
-    publishedDateTime: 2022-04-09T11:28:00Z
-    webUrl: "https://businessghana.com/site/news/Business/260444/Barrows-Hotel-Enterprises-launches-new-Hotel-Fintech-Review-Booster"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 24
-    images:
-      - url: "https://businessghana.com/site/img/../../cms/img/news/2022-04-09-11134700.jpg"
-        width: 800
-        height: 600
+        height: 576
         isCached: true
 
 secured: "rGINjfPHtf/ark5FwcVvtrjPDLDSdv6bS7AXROSI+3o9v8V0sofKxeqTPhx2ng+8czctOG/HzMc9mxb1y1DASlu5OI9DVMqu+PACm/8O/1uROakatuFALkMuJITO5iFkpbmD8jO8V1bo5n2clE94JmtbzVkkw7LKuIgTCeor+NrYS3n0CCCJS/NlIokMmrygcQ2ixmPsurns/7brWBuyVg8HPv/nfl4JxktaN6eF5Kz84F9kiicVYfmgeQRbm8s8iIngidLajugZb57Jlh3n+mQTLWlLpImjx3FiU4yDx2N4mcOKLo2bOgS1kGfveBaxArdwqM6nucnYIx3lr7jRsD0kMi34IsfYCzWlGQlktalGeE3PDc/oV7R5jDjeDAJC2FufEwxJtxYG8otpl8HFbhuBd85iFQowXrWsbgKld725dqrFtl2mtnsIoiM58W5Svkw93vMC4J0jsjNXUPp6MtjvB8O1rWbUDTD4LGSsPAhabk9ya837YXMJ3bcp0x6VM3ftOiZ/bRNLY3JOGWheFA==;YNZuAvOb7hSRl6wTH3ZXrg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://cdn.govexec.com/media/state_of_phishing_landscape.png"
         width: 1241
         height: 678
+        isCached: true
+  - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
+    excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
+    publishedDateTime: 2022-04-09T11:28:00Z
+    webUrl: "https://businessghana.com/site/news/Business/260444/Barrows-Hotel-Enterprises-launches-new-Hotel-Fintech-Review-Booster"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 24
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2022-04-09-11134700.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Y9Y9ya6Qv0/oEoHieRu4W48DDka37TJdWpJ3e0fSaXRDmBdhTcahe0/zG+5sCIRWD7Z6WZhSrUFMEYWdJBmXRopwjc7I5uAOluVQcuETiOlIw2r8XaBvW4IGgHHDZBBp0dXx4WGhs96aj5qy0TcBcvYJtuOmocNt2lUk+hH+LymtEVJayJ63OYV24MoL96P0cOVuAzbIFy5VC7ynMvPnvTTMtDwTpJKTzRRxRD+Xzca/tjXDPCdmBMh1j8bsBD1KGDHPeDXyCjoindFKvgmMR4oKSms6pIQI/rdtNPLOzSCHtQUyrhRscvzlA2Bp8SH8b4ECKaeH09zbqyAR/rsGJxpPn+yD70kCC4X2UFK1e5bSkZKvrbqbTJmD6SLEfzPHfTYCDvcu8UUbiWDJM6MzE81vdpk/uEtV3XKApytuPrp/ZTbXejVatVYu5ai/qHrDZS+cC6nXuMQ3WKI8yT6qfG4tD364nrAeVXFNEvpcWIqQOV6KywI0npXmqm+LJFwJMa74qW6HfEtApJl+wyu6Ag==;Vq1iK+/rwwF2wn7w43RlTg=="

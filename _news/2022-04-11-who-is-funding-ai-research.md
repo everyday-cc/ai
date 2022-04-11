@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-11T04:20:00Z
 originalUrl: "https://analyticsindiamag.com/who-is-funding-ai-research/"
 webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
@@ -40,6 +41,6 @@ related:
         height: 504
         isCached: true
 
-secured: "5a/BKx29LclFB32UfpA54VCAzY+nIoOq6MIkcyCf+Jtcz2aj3di+s8UXcNFIo/QgDfhEWbdXJTSl3YWKoKVGBNr2LzM1Ommx9dr5/LRfHccvfVr3jKkciekLODLyqZhWSwv7Q3cD2LfBqydvFKwfXlHJmVWN2WhhaihtaEI1d8bMoKUu8F+AsmQgIWqTXlHeiU5l/OUk/XVOB0uxv16s1EiI2GS5oSiGsAdDx3mLfD3USgZrYP/mN2SPj5dgVMTfGy/nXVvq0Wd8j7J+iAqNlxrfSuMEp7HW6DxZEFzCLsi/uaWf8GckbHK8ejHP4tliN1d9CVqPGFTqdoY+F9uBAHiC8wNWCF1NI4eB7XRreoU=;qBKbgxu3Mh5ZQwLo8PvPlg=="
+secured: "QzGsgY6kb4rZA/HJIZodcR3ECSQAg6q4roPfIANgyGTPHaCMgXpdPeIzcMbppIUWpXz67mBCzjp1u4WCGdgIWHn7WJZ6xzhLsytuYmc1MfDHBuKOuAj301oZIeYgmfZfPSH+t9v/t1fKI+GlqshuTjLue1FVIEz5sp5yKvtRrZ+u/gjEr3sa+wMdeKgyMDX9RudfDki2XtMHGfJAM8HmqcUSlSVVwfHHxVumnKrkNwmXUO3qMFsr2cZCiCpXB8Aluso3VkILv09Vk6FA/88Az1ESxG+jPemOhO9F0WrEpBxE4b3ZoBjUwjJzflXe3KDRzB5FnpqgB1xJyDaGcgTSQf/JDndMfH/B3+5QwzFoAL/R8+XKsDxHCJ5yajoZeloY0QqbfC/mmeRmfsMNH5J31dH46UKdOg0rQbct9GZ3CN5stNzg6bm4EHScsBZcjWF1ClsGGxfwO1MH7QL1+xfjssHtW5NR8gK1jv0chmV6pMxroKcrYq4FrNJcrXj6S/IoUZZLocOZLqNRuBFjxcWfIg==;yCy44nRMfETOtVAEYRnArw=="
 ---
 

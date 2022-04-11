@@ -50,15 +50,6 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 33
-  - title: "Accelerating the integration of artificial intelligence solutions: SCALE AI announces a $24-million investment in five new projects"
-    excerpt: "SCALE AI, Canada's supercluster dedicated to strengthening the country's leadership role in the fields of artificial intelligence (AI) and data science, today announced it is investing $24 million to support five innovative AI projects."
-    publishedDateTime: 2022-04-06T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accelerating-integration-artificial-intelligence-solutions-scale-ai-announces-/2022/04/06/9578165.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "TemBBvzZgFJC7XbtyU+4de8X8BytNsf/iZ4ZCQUxoUOeCTn6Yok++Gr5iZgAlmIh4BkEhQb7f9ZXpELkEHtAurmYbmEakWY7NmysznHIhetxwhL8C+gzegdRjU6PXeDtCfpM6/Xcz8TaZOu+yS941pcvqUud+BfUxspvO2TFTadd9j9OzqKfMzREpVJl3XQylAr/+MQi+ge3sf7s0FFLFtS/Z9UJprOEUePfVAomdrQePvFCePVH/M48pgy3S9/C+LyRXSxLjeemHBxDFzuNssgaj5IGEQQj7rNutBtNpNcSjgsfgKlgiK2kr5DUhNuqAUg6ZjfXjUsp3d5O7J3+BdahveMFy9KnuOw+LlYS1Rf4jiMlLUa/42OJdnj7jCmbNu1iQ5F1qzGPDahs0mPJ3TiUSgiejHR0dLW3uNGNdXkWluwdNvYWhHzEIFWpL+b4BKAVcPsRWc5XCJ/Pj2Y9i7Ilp6aU2swjzZggTnbelsLLlr25ROIaEEWwfNeteo01GaLgmoYhjftdkXDOSfXDLA==;4EU0YapF2ypFbXIRzpYfUw=="
 ---

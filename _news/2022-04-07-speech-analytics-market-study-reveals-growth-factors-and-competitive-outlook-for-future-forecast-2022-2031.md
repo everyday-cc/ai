@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "AI-based data analytics firm BigBear.ai stock rockets 52% in pre-market action"
-    excerpt: "AI-based data analytics firm BigBear.ai (BBAI) stock rocketed 52% in pre-market trading Wednesday on heavy volume"
-    publishedDateTime: 2022-04-06T13:27:00Z
-    webUrl: "https://seekingalpha.com/news/3821144-ai-based-data-analytics-firm-bigbearai-stock-rockets-52-in-pre-market-action"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
   - title: "Geospatial Analytics Market Business Growth Demand, Strategies, Overview, Competitive Strategies and Forecasts 2021 – 2028"
     excerpt: "The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12.1% during the forecast period,"
     publishedDateTime: 2022-04-07T20:53:00Z

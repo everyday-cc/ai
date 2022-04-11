@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukr
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/585ec8f/2147483647/strip/true/crop/4763x2484+0+413/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2Ff7%2F1b7a168b45eab9c0eac2f749ff40%2Fshutterstock-1307848756.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Facial recognition by police: Ban it"
-    excerpt: "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in"
-    publishedDateTime: 2022-04-06T14:25:00Z
-    webUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/"
-    ampWebUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578"
-        width: 1024
-        height: 578
         isCached: true
   - title: "NOPD pushes for facial recognition software"
     excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"

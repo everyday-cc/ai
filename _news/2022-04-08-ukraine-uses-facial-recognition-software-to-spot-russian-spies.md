@@ -59,22 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Facial recognition by police: Ban it"
-    excerpt: "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in"
-    publishedDateTime: 2022-04-06T14:25:00Z
-    webUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/"
-    ampWebUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578"
-        width: 1024
-        height: 578
-        isCached: true
   - title: "NOPD pushes for facial recognition software"
     excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
     publishedDateTime: 2022-04-08T21:49:00Z

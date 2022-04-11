@@ -25,31 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "SmartHop raises $30M to boost trucking fintech products"
-    excerpt: "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year."
-    publishedDateTime: 2022-04-06T13:30:00Z
-    webUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/"
-    ampWebUrl: "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/"
+  - title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
+    excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
+    publishedDateTime: 2022-04-10T07:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Meet The Fast And Furious of Fintech"
-    excerpt: "Over the years Lendingkart has built platforms on data and the team is currently  working on automation of processes"
-    publishedDateTime: 2022-04-08T13:07:00Z
-    webUrl: "https://www.entrepreneur.com/article/424292"
+  - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
+    excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
+    publishedDateTime: 2022-04-07T16:30:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: The Hindu
+      domain: thehindu.com
+    quality: 42
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Putting The “Green” Back Into Greenbacks With Climate Fintech."
+    excerpt: "Climate change is driving rapid, unprecedented, and in many cases unpredictable shifts across our planet. Enter climate fintech."
+    publishedDateTime: 2022-04-07T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/04/07/putting-the-green-back-into-greenbacks-with-climate-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 34
+  - title: "Why Human Reporting + AI and Being Intelligence-Led are a MUST to Protect Your Agency"
+    excerpt: "You don't have to look far to find a headline about a recent breach or compromise within any sector but from a public sector, phishing was behind 70% of government breaches. As threat actors continue to innovate their approach to lure unsuspecting end users with clever,"
+    publishedDateTime: 2022-04-06T20:08:00Z
+    webUrl: "https://www.govexec.com/assets/why-human-reporting-ai-and-being-intelligence-led-are-must-protect-your-agency.png"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 30
+    images:
+      - url: "https://cdn.govexec.com/media/state_of_phishing_landscape.png"
+        width: 1241
+        height: 678
+        isCached: true
 
 secured: "iyqfyGM86tahiEHZXnOn/cT//sF1B3j1ySuQ6XL/ZZ0m2zEaPDrOalH9psvpwJLFxYNAnva0lNNF8hQpbFIdqPBT8oDnEccjpqUAYy5VpKZOk5R6ce8WVMpmbrwa01x3M7IBsEuNyF4hKl6g3H/I6ba6ThExSk8cFMuOb6sT1MjkxwS38wXUTjz3JvmUgUraZ9rL2Oy8V/Q9COe1L+zn2jSZZiFEhpT+VLC0lB1h0gVVLhfv8HJK92XUuRCmv0BqkKoRsenN0sPnY4Pb/TaeBUi04c6hmLNtJH1njzjZkTgmVRZOVSCe8pH8FZltrJ02sfbnpBncMnsFF8EkSjoZy/J1OP5DxGYvzt5U6or/KQc=;A/gcDJKzmAEmkGnhpCyWsw=="
 ---

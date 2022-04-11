@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "AI-based data analytics firm BigBear.ai stock rockets 52% in pre-market action"
-    excerpt: "AI-based data analytics firm BigBear.ai (BBAI) stock rocketed 52% in pre-market trading Wednesday on heavy volume"
-    publishedDateTime: 2022-04-06T13:27:00Z
-    webUrl: "https://seekingalpha.com/news/3821144-ai-based-data-analytics-firm-bigbearai-stock-rockets-52-in-pre-market-action"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
   - title: "Speech Analytics Market Study Reveals Growth Factors and Competitive Outlook for Future Forecast 2022-2031"
     excerpt: "The speech analytics market was valued at USD 1.34 billion in 2019 and is expected to reach a value of USD 4.38 billion by 2025 at a CAGR of 21.6%, over the forecast period. Speech analytical solutions have the ability to enable users to gain insights,"
     publishedDateTime: 2022-04-06T22:32:00Z

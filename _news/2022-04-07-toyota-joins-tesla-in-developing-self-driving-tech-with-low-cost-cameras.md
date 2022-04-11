@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock."
+    excerpt: "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla"
+    publishedDateTime: 2022-04-08T12:29:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://images.barrons.com/im-511644/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
     excerpt: "A camera system to collect data and advance self-driving car technology developed by Toyota's subsidiary Woven Planet is seen atop an autonomous test vehicle in San Francisco Bay Area, U.S., in this u"
     publishedDateTime: 2022-04-07T15:48:00Z
@@ -80,20 +96,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla will bring “dedicated” self-driving taxi with futuristic look"
-    excerpt: "Tesla CEO Elon Musk stated on Thursday that Tesla will be making a \"Dedicated\" self-driving taxi with a futuristic look."
-    publishedDateTime: 2022-04-08T08:08:00Z
-    webUrl: "https://techstory.in/tesla-will-bring-dedicated-self-driving-taxi-with-futuristic-look/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/unnamed.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras"
     excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
     publishedDateTime: 2022-04-06T15:37:00Z
@@ -108,26 +110,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Like Tesla, Toyota Wants To Conduct Self-Driving Research With Cameras Only"
-    excerpt: "When Tesla pulled the sensors from its vehicles in order to run advanced driver assistance systems with cameras only, it received a lot of pushback from experts in autonomous research. Toyota’s self-driving subsidiary,"
-    publishedDateTime: 2022-04-08T21:35:00Z
-    webUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/"
-    ampWebUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 37
-  - title: "Why Toyota’s camera-only approach to self-driving is a bad idea"
-    excerpt: "It ditched radars and initiated a camera-only approach, dubbed “Tesla Vision.” And while we’re used to Elon’s unorthodox methods, Toyota’s decision to follow suit is definitely surprising. The car maker’s self-driving subsidiary Woven Planet will be the second company to adopt a vision-based strategy in pursuit of fully autonomous driving."
-    publishedDateTime: 2022-04-07T18:34:00Z
-    webUrl: "https://thenextweb.com/news/toyotas-camera-only-approach-self-driving-bad-idea"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 34
   - title: "Tesla To Expand Self-driving Software Testing To All N. America Subscribers In 2022"
     excerpt: "Tesla chief executive Elon Musk said on Thursday the automaker will expand its \"Full Self-Driving (FSD)\" beta software to all North American FSD subscribers this year and promised a \"dedicated robotaxi\","
     publishedDateTime: 2022-04-08T04:40:00Z
@@ -156,24 +138,15 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock."
-    excerpt: "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla"
-    publishedDateTime: 2022-04-08T12:29:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903"
+  - title: "Analysis: Tesla faces long road to Europe's OK for Full Self-Driving"
+    excerpt: "CEO Elon Musk admitted last month Tesla still has \"a lot of work\" to do before the carmaker will be ready to show FSD to European regulators."
+    publishedDateTime: 2022-04-07T15:28:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/04/07/analysis-tesla-faces-long-road-europes-ok-full-self-driving-tdn/9496067002/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 31
-  - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
-    excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
-    publishedDateTime: 2022-04-07T12:00:00Z
-    webUrl: "https://techhq.com/2022/04/toyota-and-tesla-camera-project-to-lead-to-affordable-self-driving-vehicles/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 16
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
   - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
     excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
     publishedDateTime: 2022-04-06T18:25:00Z
@@ -183,15 +156,6 @@ related:
       name: tech
       domain: techstory.in
     quality: 16
-  - title: "Breaking News Live: Toyota joins Tesla in developing self-driving tech with low-cost cameras"
-    excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss:"
-    publishedDateTime: 2022-04-06T19:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-april-7/liveblog/90693729.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 8
   - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
     excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
     publishedDateTime: 2022-04-06T17:45:00Z

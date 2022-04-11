@@ -66,6 +66,20 @@ related:
         width: 1241
         height: 678
         isCached: true
+  - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
+    excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
+    publishedDateTime: 2022-04-09T11:28:00Z
+    webUrl: "https://businessghana.com/site/news/Business/260444/Barrows-Hotel-Enterprises-launches-new-Hotel-Fintech-Review-Booster"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 24
+    images:
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2022-04-09-11134700.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "XlBUykRajAJJ23rYixuWH0tbLaI9qCsohgXICALCXdhW350rUv/5J5UguCexYvlq3Y6amIaNw+okzBxgcmMXc6AUdnA3/aqmiwgW2tryFgiBH1La4itwSfytupUjml+MW9oW2GQSZq664Wr4M9CzDoJ+a3hI+lg4+NWXAVFJ0dBxMJiwQ5fMLGa2c/CaUMOHx0/+j3Fg82CsUf7GjLSWgnEFPCPgh5sIJ8hZWa2wgwhsU6mwe/Q/Q5y47mSxfxf6nUkVRyuFAmVYgjzNLWJhEBI64Qku3cqy2OzEsrYzl1Ohv5RKlIwUY/c37deojRHHs4RZw/RPNkunKHOeLwSyyz2HokgddCU93XrqaMwQMIw=;4xk0PKp6uohefxI9opXRUw=="
 ---

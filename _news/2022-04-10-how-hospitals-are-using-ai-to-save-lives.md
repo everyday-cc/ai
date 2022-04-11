@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
 type: article
 quality: 87
-heat: 107
+heat: 120
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://fossbytes.com/wp-content/uploads/2022/04/Untitled-design-24.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google is using AI to update business hours that are out of date on Google Maps"
+    excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"
+    publishedDateTime: 2022-04-11T06:20:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/260465/Google-is-using-AI-to-update-business-hours-that-are-out-of-date-on-Google-Maps"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 33
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-04-09-1258324.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Are AI hiring tools adding risks to your business?"
     excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."

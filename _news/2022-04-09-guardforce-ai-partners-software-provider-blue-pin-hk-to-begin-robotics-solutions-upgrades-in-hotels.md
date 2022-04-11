@@ -60,33 +60,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Guardforce AI stock slides on pricing $10M share offering"
-    excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"
-    publishedDateTime: 2022-04-06T13:46:00Z
-    webUrl: "https://seekingalpha.com/news/3821156-guardforce-ai-stock-slides-on-pricing-10m-share-offering"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated"
-    publishedDateTime: 2022-04-06T13:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-pricing-of-10-0-million-registered-direct-offering"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-  - title: "Guardforce AI Co., Limited: Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced that"
-    publishedDateTime: 2022-04-06T13:59:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55712146-guardforce-ai-co-limited-guardforce-ai-announces-pricing-of-dollar-10-0-million-registered-direct-offering-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "eiuHk8P5LHt4RgTUK6HqCTFNQz1gOvn8jFhl1G4luVfh94gb4XKCpWB8ltpuhQDyRBS77E6Ptd2Iyf7JqroSBbHh6krMbuwqI0jT7I28QszU30gwjMb2DQ+/Qk3qwzZyh8V7crMpbSTidRdeGHEMm3iZ6Te506xf+j+iBoblyCQF9DC91BsjFOQ/9AgpoUln/9c1fNF74RvN/MQYef9Xi9Dn5eb14GNARfRyFv/iWZTMgIv1I1ogV6kM+ypf+ArHzoTwDo4NVhXJMGUKfRkjNxsfrVgdwhVoGblKUpn0OeUMioNccqRT+m3vy8aDbFLI8tHykV5c0MxeVNy0yF1kLcJPFkrD0wd/DCDhpWH8lZI=;k05j30CXeP/oLOmjAVXQwQ=="
 ---

@@ -36,17 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "BigBear.ai Continues To Gain"
-    excerpt: "BigBear.ai Holdings, Inc. (BBAI) shares are adding more than 9 percent on Wednesday morning trading continuing an uptrend since March 30 as it started trading on New York Stock Exchange. Currently, shares are 11."
-    publishedDateTime: 2022-04-06T14:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain"
-    ampWebUrl: "https://www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/bigbear.ai-continues-to-gain?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Deci Boosts Computer Vision & NLP Models' Performance at MLPerf"
     excerpt: "TEL AVIV, Israel, April 6, 2022 /PRNewswire-PRWeb/ -- Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV ..."
     publishedDateTime: 2022-04-06T17:40:00Z

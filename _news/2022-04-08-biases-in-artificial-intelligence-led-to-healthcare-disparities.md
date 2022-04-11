@@ -65,20 +65,6 @@ related:
         width: 786
         height: 524
         isCached: true
-  - title: "Advancements to Explore how Artificial Intelligence and Healthcare Information Technology are Reinventing Patient Care"
-    excerpt: "Learn about recent innovations in AI-powered healthcare applications. In this segment, Advancements will explore how innovations in technology and real-time data are solving real-world problems within healthcare intelligence."
-    publishedDateTime: 2022-04-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/advancements-to-explore-how-artificial-intelligence-and-healthcare-information-technology-are-reinventing-patient-care/article_39cf7a79-1438-51be-90e2-01db84638e5e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "hWFnxgVcmzSkX/VjD8rEpDaWCjOFSLdiQhkUr4pHIc9bA8dH21ySfskqXAGCh2xMWZ4zmymilpu4BR/qXJXkiRLZTWuROf/9tihV8Z70A9bS1HtYLBYGhoJsd6h8O0STfZ29h3AJSqRHYxX8puwe10eKNfjtuB3aUXzqFtgPNQZ7bXeAMXDNBfpbyhMjhJdrpEF1kSjP2tgW0Tj8FlD0gQ2hY3ocADSV4bO+GUlZg7TTTAhJLqLnQP3kP0A0wETwBJH6xgRu8BaQjbiyKFtIfDFzHK3G/bGjJhZA92ET2XUlCMje1bXwEGbo4Py8wkxGT/lEEXFEgO07FTPEVM0W8EhERyyJi/+90TKfr0z87jey4fc/7cPb5r17jURKa4nUGyUiEsJ3lvFK2948NPporIwC3DGx9YnFHcZBGnm1M1ePZseJIUm8QsderTmTYpyKPOxGJ4wo0AcEW/QeA2Czjf4xNycVf/h3INfWVlWqio6Ft6KQ/7q9u2+sPqZOZwnryX48Zb+o+SYxiX+VR8/u1Q==;kE5V2knAVW6THaB2KcMlKw=="
 ---

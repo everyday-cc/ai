@@ -75,22 +75,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Facial recognition by police: Ban it"
-    excerpt: "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in"
-    publishedDateTime: 2022-04-06T14:25:00Z
-    webUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/"
-    ampWebUrl: "https://www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/04/06/facial-recognition-by-police-ban-it/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578"
-        width: 1024
-        height: 578
-        isCached: true
   - title: "Chimpanzees show signs of recognition toward skulls of their own species"
     excerpt: "Chimpanzees are known to interact with dead members of their species, revisiting corpses, and even showing mourning-like behavior. Elephants are also known to do this, and will even interact with elephant skeletons."
     publishedDateTime: 2022-04-07T16:59:00Z

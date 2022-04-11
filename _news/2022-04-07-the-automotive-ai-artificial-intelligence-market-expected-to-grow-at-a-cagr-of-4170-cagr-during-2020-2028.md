@@ -33,6 +33,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Automatic Number Plate Recognition Market to Rise at CAGR of 9.0% During Forecast Period, Observes TMR Study"
+    excerpt: "The automatic number plate recognition market is expected to bring tremendous growth prospects across the forecast period of 2020-2030. The"
+    publishedDateTime: 2022-04-11T07:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automatic-number-plate-recognition-market-to-rise-at-cagr-of-9-0-during-forecast-period-observes-tmr-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "84R/TGNgHJypWhKu3rYU4A9mxfunjq1gfS4LDWONc3OLFDMJjCgGdMAXpB+11wMztOFT1ORDQdLG7NEfk1coKbVDYTCtb0yj/Aee3Ar3oKsJ+lo670xxmVY0FbME5kO+UZ9n/ngzNKD/Kg86tOElMT7Y7WFkzWIGMhCwHr89zXVS5tPrE2fzUDDkoBt4UczVA1IT4ItHYDaMyGSotAD61/tYas/c7HkCKNGqL7D+o9ylaGWXWURhdUjzIlLygA2yke+Bd7rYr3h+C1eMKnLw/peO97wdvunRZDzkyXr8uLpugJc2LpdwuZx/fEcBp45fm/sc391McF2ThrW1czuXevltFb12jN8PIK0Et1dcuLM=;Zla5SpCBe/Y/gcoVlyrmOQ=="
 ---

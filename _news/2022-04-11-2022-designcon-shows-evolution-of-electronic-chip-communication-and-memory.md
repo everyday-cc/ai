@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DesignCon Keynote: Silicon Photonics Chips Key for Data Centers"
-    excerpt: "Photonics expert John Bowers says the continued emergence of integrated silicon photonic chips will drive high-bandwidth future data centers."
-    publishedDateTime: 2022-04-06T14:30:00Z
-    webUrl: "https://www.designnews.com/semiconductors-and-chips/designcon-keynote-silicon-photonics-chips-key-data-centers"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/bowers2keynote.jpg"
-        width: 1500
-        height: 800
-        isCached: true
   - title: "DesignCon Keynote: Unraveling the Hype of AI"
     excerpt: "In Wednesday’s DesignCon keynote session, Google AI expert Laurence Moroney discusses his vision and experiences with this disruptive technology."
     publishedDateTime: 2022-04-07T15:23:00Z
