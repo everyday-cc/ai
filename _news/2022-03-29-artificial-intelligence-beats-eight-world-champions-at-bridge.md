@@ -3,10 +3,8 @@ category: news
 title: "Artificial intelligence beats eight world champions at bridge"
 excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
 publishedDateTime: 2022-03-29T04:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?ref=refind"
-webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge?ref=refind"
-ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=620&quality=85&auto=format&fit=max&s=96b559e5e97e6b4eb1d1e90d48241536"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "hE2CWARSbQgt7auoa+tJGRBMZ83yIcNuhwJXE7UQFArS9ZzOFmv+gqs3BHdfH3Y2qjwcZVr+mVXd91GZVMiMdFYAsB+KdYBUJeSs7pkVirpI0soSoajV4fULKSK31+qgqniOpnbL7LkAAwHR2HOh6LQ8C8LZA+5EWOYFLaj70dHApX1WM1iFfBCt34gWoiH4B4lSWSrQS71aPjl8TZYG/IOhwVrQYfUuTBAIFd/ER5alg14iCBx1Kkul2hpzWyZ59pqSP9l/bPw+P/0xAnFHveF2ksU2d/ViagwgL6a0QyOQfWeXZSK9ixZJWptjxHRhZlZsjr/R1/dWoLN4yZCH/QluAmQfqKJh3d/0fz5wg++nEq7YO7fcfBI7ufrTnch+b/ilUpRgMFRBvleppKN5m648PUqRXIikI5s2rNIl7kmXxSdpMk9wwvZOMksQWegQIs9KAvqfrGP4T3SOAIjHiIjumE+Map9sK2LiuzX/f7Ya1tRWMLCdaGmed82GCds1wqUArppWFMtD4luJm98PCA==;o6dJ4BhUiewuZQ1jItuTqw=="
+secured: "fWrp9gaOHXC15VYG8+XTyXib44CkzaD0NI4MHYuzEEeQeJVYfuHpMCxpmhTVwODJB2Y05s8h1E5MWLaGlX5CRXGdqBbJODoEoVc6dlC6pPgMCn4dTYDEvXK9Lz20v0JxZZ10XmUHBDjkSgv3Iw3Utb6rbOAa3ZgKZHgIcWzQpO7dGU8BLDzHWYXhn/jZF7g6gEk1Lql+Jkd2RjDWXCd6o9XAVkirkeNja0/HhH5BXiSeTu9C1RyaVHMOvaKppzpT4F1tQ8Sa50HGGQEp5mdadyOBd8VRT0i2TAnT/+NL0hM9mA/ejxuuaq2Jz7gscd+nwWr7rgDv9fDLp5rMVWe6cuSSJKzATeTZ0P1IZsXKn5NZqDkVxlpQITZl4z50Mt2j1ggJ5HWWVNVY5uhGrhhk7lFqmTCVR5Qd7dK0EylBhaxcUU2T7tmeg9GmIjPM3yvTC/WwZJ/NhY88ntLRlx+0K8V9ELlS946dtcd7vpVSlbVtui8YtNhZ2gUwEZ3FZ/pkIEN7xWhYD+etxg++y6MSKg==;zVzVBcmdKmoNyzBC2QnuxA=="
 ---
 

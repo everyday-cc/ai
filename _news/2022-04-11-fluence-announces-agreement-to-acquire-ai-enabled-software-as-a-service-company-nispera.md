@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera"
-excerpt: "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,"
-publishedDateTime: 2022-04-11T12:00:00Z
-originalUrl: "https://kfor.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
-webUrl: "https://kfor.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
+excerpt: "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence&CloseCurlyQuote;s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,"
+publishedDateTime: 2022-04-11T11:05:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/04/11/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company"
+webUrl: "https://stockhouse.com/news/press-releases/2022/04/11/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: Oklahoma's News
-  domain: kfor.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
+  - AI in Finance
   - AI
 
-secured: "A+l92Jjk9oAKGr2vZCqKP4ae8MYZj9pw2zcqA1ZIfqxVhf4eHgq10KDUXJQPFxDs+nCcqROOWOptNUCsM0mdGw9FveiF7KOGN9KiXz5x6LGAY+DFgnA7srxqG5HZu2PIuPK97UsNlIn1aPZ+0/kTmfZlVEJD5Gn3/VpEsiOQz+a5SMa9K8kedg+kSguvqlDZhZ2FvJG6w4M2CQnS6nOzqYnF8PKs2hnrOmAYjsA8kU236sWH0NjwcZMU2eZYhm/2QCBDV/D9NDtaHqoRV74OFHIhP06s5c2avDtA58vJjYhZ3mjM11+VO5SExZdV0nYguYewIuGoap0LoxiJT4Z4Pp1E9poc6TUF3PEkdgWS+1w=;yTtuW3JPCtOTTPJFHdwD9A=="
+secured: "Vkre4+3akMbkVE70sNN1I+9XXzuYAWl6s6I/MkviLFILtU5NQcF1OJASjinVBoM/3aKhW7D7Xq9u9afXrgtBh9z9NJ+wxqHB0PBQNl8ZOE5hDrUVehYkDpQeVKHeEpCYfw2CTYJav+cmkBt2ocgzYqYVFIOqWNs+MRXk/JVH1EP84aLejxmQXfyr9cbCrDolqIseT+eFTnS0gNokVSRlT2z5544XsbHYfnF1Vi6g806gi6fAo2H71aMZ2Lo//Hv7m/9SD9e/mABuXn15OuFHPPy8vYI+ot9nbHM0OQnV4oM57r6uqPYBM6PANGQZIi47ci+8Vp4JH/M24Er2Z+8PoyXnYKU6C1+m98YWmlVgtNdAk0w1oF64VuKrQl4MUEpu6kUa0+tktkzF9D1IIOkl7v8/AUdgMKHY34Byyji5JXllo1gnKoRQS9mmQUexgOxtTRi9bmtRlBCpj5lD+UNBPjGpREojeZ4gJXiweAHL6Jq9yZouWMAraytXhTnI95wd3rWTqS0OBN/int2bqj4w4A==;kp4KNTt/7PMqWOC9ilYTmw=="
 ---
 
