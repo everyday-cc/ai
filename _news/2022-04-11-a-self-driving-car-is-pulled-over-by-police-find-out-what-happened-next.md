@@ -43,6 +43,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Video Shows Confused Police Pulling Over Self-Driving Taxi"
+    excerpt: "A now-viral video of San Francisco police officers pulling over a self-driving taxi is as dystopian as it is hilarious. Initially posted to Instagram, the video filmed in San Francisco’s Richmond district shows SFPD officers drive up behind the parked autonomous vehicle — only to have it leap forward and pull over again a couple hundred feet up the road."
+    publishedDateTime: 2022-04-11T17:57:00Z
+    webUrl: "https://futurism.com/the-byte/video-police-pulling-over-self-driving-taxi"
+    ampWebUrl: "https://futurism.com/video-police-pulling-over-self-driving-taxi/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/video-police-pulling-over-self-driving-taxi/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2022/04/sfpd-robotaxi-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "EzLUlo4GnV8tYCtoxMz7ODRzfgeRt2K/hNCWPgn0HmwFg6FxwbFF9vEtWS3c2Ck64AwHsp7I4jcqwNzQdnPwFG+Tw05JbKe54dqx+qL9lRJh6WH6FfVrnXDOGiBsChBPM+8odVYh9ChPIQIPJLa6DLuJKZfBEUJxmvpMiaZLxFBwrKSFkzz1ErOW0rIyes1JxKqThwn/P2YeG+VrSSrRJwYNqdXXXUoiCa1R5PZRtHuDfQV5Pd2z3uM9se9GNhTPGPYRGx78meJEsaM0hD22rzvxf5U4SaDxo6vTYXRwZWdTaG122M3L8LjCrf0pB3omCqDwpFSC1AODy7kWB7xG3EuV9quizOaF7EAMITHhzhxtx01jNSvIyyt9oqxY6nfHTBNXD8huNxWChFO+kvfHIZL4M+R81Lhsm8Y9XVcJcHOmGk0R+dORMJeArkL2MSkEijK6TQ+Y7L7T+WxaAwFhrRN+5czf8enVRo8enx1Mp69qC2c4Tx78PX01/3QAxCAXNw4/Hyoq47fkMdkrNPsQDg==;fuYldtC4FXvTSMEDkh4uKw=="
 ---

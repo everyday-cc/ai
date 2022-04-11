@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-sel
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp"
 type: article
 quality: 74
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Video Shows Confused Police Pulling Over Self-Driving Taxi"
+    excerpt: "A now-viral video of San Francisco police officers pulling over a self-driving taxi is as dystopian as it is hilarious. Initially posted to Instagram, the video filmed in San Francisco’s Richmond district shows SFPD officers drive up behind the parked autonomous vehicle — only to have it leap forward and pull over again a couple hundred feet up the road."
+    publishedDateTime: 2022-04-11T17:57:00Z
+    webUrl: "https://futurism.com/the-byte/video-police-pulling-over-self-driving-taxi"
+    ampWebUrl: "https://futurism.com/video-police-pulling-over-self-driving-taxi/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/video-police-pulling-over-self-driving-taxi/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2022/04/sfpd-robotaxi-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "A self-driving car is pulled over by police, find out what happened next"
     excerpt: "Footage has been released of San Francisco police pulling over a Cruise self-driving car. What happens next is fascinating to watch."
     publishedDateTime: 2022-04-11T11:03:00Z

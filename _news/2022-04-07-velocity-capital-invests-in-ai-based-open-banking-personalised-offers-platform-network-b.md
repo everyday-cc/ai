@@ -24,36 +24,6 @@ images:
     height: 260
     isCached: true
 
-related:
-  - title: "Adidas to launch personality-based AI generated avatars for metaverse"
-    excerpt: "Adidas has partnered with the cross-app avatar platform Ready Player Me to launch personality-based avatars where the characters are generated using artificial intelligence (AI). Digital characters travel the"
-    publishedDateTime: 2022-04-06T23:39:00Z
-    webUrl: "https://www.econotimes.com/Adidas-to-launch-personalized-AI-generated-avatars-for-metaverse-1630930"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 37
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202204078df3a754a849b7ef3_th_1024x0.jpg"
-        width: 1000
-        height: 451
-        isCached: true
-  - title: "Australians demand for more digital services in government and are comfortable with personalised artificial intelligence, according to survey"
-    excerpt: "There is a large and growing demand for government services across Australia with the public comfortable using personalised artificial intelligence, according to the inaugural Publicis Sapient Digital Citizen survey."
-    publishedDateTime: 2022-04-07T00:11:00Z
-    webUrl: "https://itwire.com/your-it/australians-demand-for-more-digital-services-in-government-and-are-comfortable-with-personalised-artificial-intelligence,-according-to-survey.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 4
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/2c5136e139e3d98baf9d8009e3477022_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
-
 secured: "TbjdB2mhzyPP25TeDPc7zJlgI5GIylPa9ZrYlQLlKeHgEMP1mYX545P6tmVSMGMOddvIZtA7EOWAuVV1IG7pdf3R9VQU7SfWuV82ihdjean+t8cgkENFe/7avY5FXIOJBA1BH2rUpWd7w+4qhhQjWDF75SdkbX5JhWd0cP8T1Jw+HgSkcbOQ9XS0ZED6305HKkkcFGYNu/43I7EjhGXbfDHQOx5QlN1SAz8BWahMvab5kNbY3eLG2v5BeUicjwQROA2ZSkDcyPw99tHf4yB5IfQ+v1jrvbemx0UCxfGqpNXkaWLuzDBzbgHR5eYqq/i5OMVjyuc4ipdchoaf6N9EDnFA3Hdl/72kGe1bxwI8z28=;GV0MHt0jL0BeTy8cGluNfQ=="
 ---
 

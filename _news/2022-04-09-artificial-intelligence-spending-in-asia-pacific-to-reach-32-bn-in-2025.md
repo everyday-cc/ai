@@ -7,7 +7,7 @@ originalUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=946257"
 webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=946257"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Asia/Pacific* Artificial Intelligence Spending to Reach $32 Billion in 2025, Says IDC"
+    excerpt: "SINGAPORE – According to IDC's latest Worldwide Artificial Intelligence Spending Guide, Asia/Pacific* spending on AI systems will rise from $17.6 billion in 2022 to around $32 billion in 2025. Businesses invest in artificial intelligence (AI) to gain a ..."
+    publishedDateTime: 2022-04-11T15:41:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 50
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
     excerpt: "New Delhi, April 9 (IANS) Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025 ..."
     publishedDateTime: 2022-04-09T20:28:00Z

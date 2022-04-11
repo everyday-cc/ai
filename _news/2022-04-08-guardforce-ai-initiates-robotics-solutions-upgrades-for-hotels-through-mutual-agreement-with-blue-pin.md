@@ -19,22 +19,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Guardforce AI announces pricing of $10M registered direct offering"
-    excerpt: "Under the terms of the securities purchase agreement, the company has agreed to sell around 8.7 million shares of its ordinary shares at"
-    publishedDateTime: 2022-04-07T00:40:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html"
-    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979020"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979020"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 57
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA2LTExLTEzLTQ3LWYwNjZmNTAxNTA5MTlkNzBjNGU0YWU4N2JiNTIxNWU2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
     excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
     publishedDateTime: 2022-04-09T07:15:00Z

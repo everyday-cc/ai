@@ -98,15 +98,6 @@ related:
       name: Kenosha News
       domain: kenoshanews.com
     quality: 21
-  - title: "LaLiga pilots facial recognition at Osasuna"
-    excerpt: "LaLiga side Osasuna will debut optional facial recognition ticket admission for its match against Deportivo Alavés on April 10. It will mark the first biometric admission offering in LaLiga and will be provided through Osasuna’s partnership with Spanish facial recognition company dasGate."
-    publishedDateTime: 2022-04-07T00:00:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Global/2022/04/07/Osasuna-LaLiga.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 19
 
 secured: "L+ElTiReP14GSom//2NrqnC2/C0y3bbRm4e8kVftRQqz83ycz7Egu9y88Qu3X+cSRl3Ff0r1skOcK3Q0rZCJExyW8cMnT4JEMhvVlXg3zhDx09Ryg5MFo+M4SafpCknYLfAYhnlpOPDADoh+JgYd6E8FE0Av4ZeqWWs3BzBgslojmuAQzxCJ0TxJ/XCAI/OIpYmB3h2QXb26Nozs8ql1u2S6UYpCGnsiJiAmBCGD5GbhH+8NDmtau7NvAUvZ0yRhxN1DyN5M/Lm3Y5EvntZ8sMtAWY+GSSVdtDQRJwfS5Ng/m0YZkJWOkcIyIoi8g5dkcvDN4FqsZn7m2uEnmishdaHORRjc8q8uDWX0PYEgvJI=;y95Mg5Igaxl1KjsCGMUqPA=="
 ---

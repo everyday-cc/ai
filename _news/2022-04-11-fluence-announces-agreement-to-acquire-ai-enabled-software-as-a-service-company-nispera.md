@@ -1,23 +1,45 @@
 ---
 category: news
 title: "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera"
-excerpt: "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence&CloseCurlyQuote;s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,"
-publishedDateTime: 2022-04-11T11:05:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/11/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/11/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company"
+excerpt: "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,"
+publishedDateTime: 2022-04-11T12:00:00Z
+originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
+webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
 type: article
-quality: 11
-heat: 11
+quality: 31
+heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: WKRN
+  domain: wkrn.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Vkre4+3akMbkVE70sNN1I+9XXzuYAWl6s6I/MkviLFILtU5NQcF1OJASjinVBoM/3aKhW7D7Xq9u9afXrgtBh9z9NJ+wxqHB0PBQNl8ZOE5hDrUVehYkDpQeVKHeEpCYfw2CTYJav+cmkBt2ocgzYqYVFIOqWNs+MRXk/JVH1EP84aLejxmQXfyr9cbCrDolqIseT+eFTnS0gNokVSRlT2z5544XsbHYfnF1Vi6g806gi6fAo2H71aMZ2Lo//Hv7m/9SD9e/mABuXn15OuFHPPy8vYI+ot9nbHM0OQnV4oM57r6uqPYBM6PANGQZIi47ci+8Vp4JH/M24Er2Z+8PoyXnYKU6C1+m98YWmlVgtNdAk0w1oF64VuKrQl4MUEpu6kUa0+tktkzF9D1IIOkl7v8/AUdgMKHY34Byyji5JXllo1gnKoRQS9mmQUexgOxtTRi9bmtRlBCpj5lD+UNBPjGpREojeZ4gJXiweAHL6Jq9yZouWMAraytXhTnI95wd3rWTqS0OBN/int2bqj4w4A==;kp4KNTt/7PMqWOC9ilYTmw=="
+images:
+  - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/steelers-backup-qb-dwayne-haskins.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Energy storage provider Fluence acquires AI software service firm Nispera"
+    excerpt: "The company plans to integrate Nispera's artificial intelligence and machine learning-enabled software-as-a-service offering into its existing digital platform in order to evolve the platform and expand its options and capabilities."
+    publishedDateTime: 2022-04-11T17:29:00Z
+    webUrl: "https://pv-magazine-usa.com/2022/04/11/energy-storage-provider-fluence-acquires-ai-software-service-firm-nispera/"
+    type: article
+    provider:
+      name: pv-magazine-usa
+      domain: pv-magazine-usa.com
+    quality: 36
+    images:
+      - url: "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2019/04/Fluence-Escondido-storage-system-e1555941326120-1200x696.jpg"
+        width: 1200
+        height: 696
+        isCached: true
+
+secured: "hPSvGfJQnpkYo2uCxPUzIOQ2vG+RyRTtwncAYIp9VjDAbq3+6jodxz7r3bKz4rk5vud/lW5rezAEIymSxK4BxRPm+y2H4e5dZ4EpJlKWaKGOkR46z1Q2LB2rgMls/vfOUTt4zGHu5AsS9FCy7hVs2hYOKkvNaJROe+TAF9NoOP0kpdwSEzzaRsMPkgR6qkSMMXdFbGE3Y2E/3pjiM0dwhGYuDQLdVelVYVPVf6zAUR2qPeS4yzwdQa2N90UBQ6PBm05SXUHe0yjV42FXxLLz7Iow6VvCgESW1HRmPyxjPKXfWweDloDUAs2UsDgBxr0328uINuMElyYJGKlCCuDGrLOJt7nFr1INRZKcgjZoVG0=;3qkT8982QnZ+7F35wQd08Q=="
 ---
 

@@ -38,15 +38,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "IBM, Salesforce Agree to Partner on Artificial Intelligence"
-    excerpt: "IBM and Salesforce.com agreed to mingle their artificial-intelligence technologies in a bid to boost sales of data-analytics offerings. The companies Monday announced plans to offer integrated AI ..."
-    publishedDateTime: 2022-04-07T00:00:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/ibm-salesforce-agree-to-partner-on-artificial-intelligence/news-story/0453fc1a7dd91b1a7d280cbfae13a1b4"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "BVyt9rohbjogwkKfAkXlo9v30y7DN8WJ3iC3Lp73yrXDgWDwcNXyDVdOpL3q2EL+BDEqHPWSs2XzTGwDl9v4Keu7RDfirCCCii5jIC9aIT8SA5T53hg58nZNTGQyhyuLiLb8FEu9ierIRsqieWZ2EZC2I/1R1dtqVkdQcm3Qui+r5aRh4h+ZamtzOzIeSmzjkWH2TGRY0rJMvkLuNvbjbvZZsb+NKarn5yVB40XJoeTSKeDsgGmcc+fDkLZW7Yz6pgXJ8BT5bUk6GKOfxSUD5dwZuPmPvPAKdxniYmEnRm0XuuWbU8qsGyUr1qgPmXSIYGEiw7oPNXILfQQ+/RtxFEJMA95B131fZ3zTe3Uc9oUw4aDnzhXe2nFdwgUOPsq1XwiiN+WayuzfKz3cZcNbsWef8eBu8D+uWferAYbGEPOxQvnRD/F4KHXRKTU8ucRNYp+OIbNF/e//DRR+PCG2WVzbCg63j45SHK0eAAg0ErYePKseBAuIH3iKgX/Zn8hcJIgL+Ir82TBoma1KLF57fA==;WnaOAhvWAr4DQJYgnE17KQ=="
 ---

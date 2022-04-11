@@ -57,6 +57,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Model Uses EHR Data to Predict Risk of Pancreatic Cancer"
+    excerpt: "AI models could enable earlier detection of pancreatic cancer and improve treatment options for patients, according to researchers."
+    publishedDateTime: 2022-04-11T15:15:00Z
+    webUrl: "https://www.cancertherapyadvisor.com/home/news/conference-coverage/american-association-for-cancer-research-aacr/aacr-2022/pancreatic-cancer-ai-model-uses-ehr-data-predict-risk/"
+    type: article
+    provider:
+      name: Cancer Therapy Advisor
+      domain: cancertherapyadvisor.com
+    quality: 19
 
 secured: "WSChYDgFrlXi4p2qx8BFkwGhoxA1QLX9HBgccpXBmW1TT++nMstLGinIhF6sJkCSSt+G9tEDaw0iu1VErI0ZF27x8nA7NhRuFx0P5fAqSH9414AbPL5SWcEeqPcjNq+NrvbkIdfGjoBMbGwBrLuTWyJd9+YK5gw4pac7YU9ToXVjEy/6+uZpAIFb3iYG4khRX9j22z1l3f8JC7nEW+AGorkoimGSV+wvANF0mkiM6prxrpKWOf4QffxPrqMVF36moxUOdTU2rxsL1/GVUslHMavVO8eRRE/k6yfiGG/Q4lzwlY3bN8Imt87tpH06yGmQY09cnaCndJxDF/qRJvnOvOl0lmeWYWlxb4z8NHnZfRw=;DWrxJXo9NXIR6Hj8vWDuKw=="
 ---

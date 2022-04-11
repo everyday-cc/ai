@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-16-chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips.md",
+      "title": "Chipotle Is Testing An AI-Driven Robot To Make Its Tortilla Chips",
+      "excerpt": "Miso Robotics' Chippy is in test at the Chipotle Cultivate Center with plans to eventually integrate into a Chipotle restaurant in Southern California later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604055621f986bf7c978c45c%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "publishedDateTime": "2022-03-16T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-anyline-visibility-and-control-are-consumers-priorities-for-last-mile-delivery-with-96-indicating-a-desire-for-gps-delivery-tracking.md",
+      "title": "Anyline: Visibility and Control Are Consumers' Priorities for Last-Mile Delivery, With 96% Indicating a Desire for GPS Delivery Tracking",
+      "excerpt": "Additionally, 88% of respondents to Anyline's 2022 consumer survey said the ability to redirect deliveries would be useful Anyline, a market leader in mobile data capture, today announced findings",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55517829-anyline-visibility-and-control-are-consumers-priorities-for-last-mile-delivery-with-96-indicating-a-desire-for-gps-delivery-tracking-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55517829-anyline-visibility-and-control-are-consumers-priorities-for-last-mile-delivery-with-96-indicating-a-desire-for-gps-delivery-tracking-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci-headsets-that-control-devices-through-thought.md",
       "title": "The Metaverse Gets a Boost: NexStem Announces the General Availability of Its Award-winning BCI Headsets That Control Devices Through Thought Alone",
       "excerpt": "NexStem, a MedTech and robotics startup that creates non-invasive robotic solutions controlled exclusively by a user’s thoughts, today announced the finalization of its latest round of funding and the general availability of its NexStem Headsets and Wisdom-SDK (software development kit).",
@@ -1216,92 +1303,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-amp-robotics-expands-partnership-with-evergreen.md",
-      "title": "AMP Robotics Expands Partnership with Evergreen",
-      "excerpt": "AMP’s technology identifies and sorts green and clear PET from post-consumer bales of plastic soft drink bottles at speeds up to three times faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
-      "originalUrl": "https://www.waste360.com/business/amp-robotics-expands-partnership-evergreen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-dubai-humanoid-robot-sophia-to-participate-in-auditors-conference.md",
-      "title": "Dubai: Humanoid robot Sophia to participate in auditors conference",
-      "excerpt": "The conference is sponsored by a number of major international companies such as KPMG, Bee’ah, Protiviti and PricewaterhouseCoopers",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference",
-      "originalUrl": "https://www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=5cffe19b-e5aa-4ab8-ad88-796b4fc59a1b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.94142&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-humanoid-robot-sophia-to-participate-in-auditors-conference?amp=1",
-      "publishedDateTime": "2022-03-05T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

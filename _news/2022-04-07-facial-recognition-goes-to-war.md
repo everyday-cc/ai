@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukr
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
       name: Kenosha News
       domain: kenoshanews.com
     quality: 21
-  - title: "LaLiga pilots facial recognition at Osasuna"
-    excerpt: "LaLiga side Osasuna will debut optional facial recognition ticket admission for its match against Deportivo Alavés on April 10. It will mark the first biometric admission offering in LaLiga and will be provided through Osasuna’s partnership with Spanish facial recognition company dasGate."
-    publishedDateTime: 2022-04-07T00:00:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Daily/Global/2022/04/07/Osasuna-LaLiga.aspx"
-    type: article
-    provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 19
 
 secured: "V/TIN5msSB2QYGuvakCnDXaiMWD7CqV+6kAUdEzfOlYzzuSsNEb0mNrEh4qKoUUhD3E54zVjW3qlj0hmC67PRYCftAU9ktRo1WP75BA2AqgsCGg3+p4Edsu+xWgi5z10R7XzMngr/Ofll5RVJA1Vuvat5fFC0x5+MyJCIy5I6iakuLtNQoXwOu5ZHHauVCS3uFChBwbOhvRklWFLULkDT4GxSrE4w6Bx3uxwsR3PX7AXjfNqyDuerLoaLkUrZiiZianVnkhYz8G8Gy15oupDNlUNgf3+YWWt3z9ws0RWFRMNlMbTq2Qe6ws9c0SPNi8LsKYyNbjpFmRr8SVsmm1vQo46+Q5lnwmHw2vTJ/hN978NU0H0WUC/ijChYN2z5j8NzNR9vqXsIIvfuWmwA/n7uu34PWHRclAmnpURZR9npTn6xQGwzvtbeeKt0O4baLXzHCvZxA7y9vN3s5JCsaONzcNJknExlvixbBkH1rBKQDQI41VJl7QQK/lMes9vrII9H/pOoOKXnAfZcm+iT2z/2g==;2OMBrtJTodBSJrjaMAJ43Q=="
 ---

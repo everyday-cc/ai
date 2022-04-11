@@ -2,23 +2,31 @@
 category: news
 title: "Chipotle tests tortilla chip-making robots to combat labor shortage"
 excerpt: "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips."
-publishedDateTime: 2022-04-09T20:05:00Z
-originalUrl: "https://www.fox35orlando.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage"
-webUrl: "https://www.fox35orlando.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage"
+publishedDateTime: 2022-04-10T12:18:00Z
+originalUrl: "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage"
+webUrl: "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage"
+ampWebUrl: "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp"
+cdnAmpWebUrl: "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
-  name: WOFL
-  domain: fox35orlando.com
+  name: Fox 5
+  domain: fox5dc.com
 
 topics:
   - AI in Robotics
   - AI
   - AI Hardware
 
-secured: "QcOoPp1iCWajOsd9PJl/TPFkUHljKE9xk28AuSfd+CRzes9QiSDuN03K53e/o868qQOxg771YdfLt8ThVJ+GfPdhNsMH73bq2GLLVJDAV93sHhM6g8EV1+goMf/nc91NEz9JVKF/YgYaWaJ09Gg8OKW8aiIwfHodssZ3icM95fYPeoFj106ayXsEEyAo2YN06EH4NTTX3KnPNJQfwTePBLeB1UUMKfMHW8hKYmU58M36m4dcRJ9ax79n3/BzWO37ZKmFtFJgFHMAHDoLZdJKLPI9dO7rRl+O/i69iWhLLBYjrAE+9PJ/svPaRWY1W0UulCxS2q88kElCscPAW2jXkVf0Udk2B/d2mUmM/c1sPbVOY/Zish/9KNhMqXoRtb0FxHpUxl4r6NYkCp5EGLlchFpVatPtXMX0Clc0RDZdR4ADOR1QzkzT+kJojNApIgWajzxy9AR0VkyNEJ/4C0vRaeUvS+GicU/uQA63sFEJebgZxsziI8DoMJ1PAQsZy+WdXun0U8RaeBeNGhwbOmOR7w==;QnF1mjqlzjC33CqmmjONew=="
+images:
+  - url: "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/932/470/GettyImages-173671212.jpg?ve=1&tl=1"
+    width: 932
+    height: 470
+    isCached: true
+
+secured: "/FYmfBfeC0yWdM+gBFR3M/CBgbyiXwcCr/Ftm0AgHjabPAvkaRkIHLfMoubhS7/LLJVWrqS7vca/jdmbj+Rw9/SBoeG+NxjADqDmDuxu+IFbk5oq9+IpvTKX9n9pKQNd5o8amsRcyIhp6w90xCQbUJ/LHKJAy//Y0pz9R9P7YPWIgR9sJEfvCCQVPv2sOR7c85r/R3Uobc/lJrG9nc4tRpkeszvD/SiXD8UvVqG+YNR0b2EQnLkpMJS3rqBLHvApLIC1SOvpOW47OWyvnXeNSRzppvujWUMhzBNQvKS5OVQaxGa2VaKY5MnzRN7N4pUHa2LxA8MMJPN00tJDT2+SO8xgz8lmDm532xZcNONGURs=;rUWkHKtoOK93utuqtRNOPw=="
 ---
 
