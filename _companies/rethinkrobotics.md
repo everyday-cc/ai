@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RethinkRobotics"
   url: "https://twitter.com/RethinkRobotics"
-  followers: 33630
+  followers: 33629
 
 size: 11-50 employees
 yearFounded: 2018
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DSy-NXSldz0"
 
-secured: "KxjorH4agNG5Gpicpt9dUIw7mJc0pWXSXsPBJ2fWQfESdjj4spIN2vwNeO5xDhjM1yhEaixC20jgqKDLDEi9u7IKzOl2FPXf5CZ1ejmWj6Gs07TeRqPqDEAgz7F3b/cyAfDkA0668vbk7F/DCfr9+0AvTqs3iQtFKGHULwydqCTvN42pJVrGE7+PgqfqHPUqRK4H1yw9NW222z/jsNi4CSHPtF+F7Lcp4azP6CUHtIeYtp3zflAeT8lGiqsZF5Pm3ygbTSw89SDME3O8m0XVBuZmTWP6MgeCgA/Bbe2ueN+V9kJe8pOMLxfjYuRJzu/iClPei1UvF7oTSDpf8CziKXjnmr1qtJn/Tkjb8R7Z7rvifvGha4jR60e9tz4mGtu9PVaK2Uw3sTeop+odz9/JBeanx2wngNoFmoBxwBuLhKA=;3xthZZywVzyKHL36N8a5Vw=="
+secured: "w1n2tppVcYwGm9v7HlZtrh4Aejd3yZW+LgaX3BUn/QXDIJwgeIT4zt3Ndh9N+pWAza1zqveb0tPw7aDep7WE2rCSaT/hyca0fM7EzYmXZ5cLY4beRAiquWQA2yZN+81dCuCl68t30pEkaJUiB0vN397Le+U29xvqxKGxYAuXKoYamztroW4ouheQY0LwSJJ1sCCKQA9lEV0TlBw/tWTAzExt1YuB8dOHl6GtO6aPCoBi6l8J8C+BHwVnbgJzfWQfXwaHdoETMonL0QDWkIi0qmJCvjtqc66C4OD/6nilsOtlt96tIgP/a2zvmeSujXvDGFpDYiMeUvXqlGEO+wYNI4aNr7N4hCvw04IjrSfoa9XUhs+t9crxrmCHMrPOhnI15WgfAzefSJ8f72ECHZRPjwR6As9H0l432r+q8VbAi7c=;xVzv844iziNH6rvpBERojw=="
 ---
 
