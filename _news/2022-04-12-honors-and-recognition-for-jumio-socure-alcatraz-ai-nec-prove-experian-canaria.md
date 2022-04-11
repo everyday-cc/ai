@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/24181649/awards.png"
@@ -24,6 +25,6 @@ images:
     height: 540
     isCached: true
 
-secured: "YwutmlZ5/Xa8gpojof6nN90uNH/+ZXgL8lIUjyK7NA5mGdqCy35ok1uPCFp1Ptdj/23WR8qdb6N4TVSRbZPaO4h5qs9szAKgEJNNXafQ0tqfLzvBHi0UvJDvFzawSKqfbeLPTcG6b8E29KqCLIecM8VYyvGt4LJm1IHnQyHrvhGb1nmKs3tJBVjR0hdbgHxm7lS/SQyMNUOUxbbTczGRMAnFFLQONyyURlCE38GBSUmCw+uYRHTtKafLPfaML9KeeGeLnwkQY6SSZgcXPF9BlMlqXiOLAo+U1Y2Gc8SWslLxp5Hsj9llIT8u+9l13OqaYn761Q1HXQBbbu+CtRkx5KAugOWEk6dc8FxPEnn/Vtk=;MwA9VVY5NAYBECZoKeDzew=="
+secured: "+rYSMfobzrwtpPfSBsFbA7uq/ZVpyQp/6/z5pf/bUpoBPlzAKFIeUB3WfxyEavbzJWnGOx/Q34xqzc9OUoAKkAJMxkHiu8cY1122pL1fxuqT8CZEFiQ+p2+hzEcw0Oi0GU8VR77P5oo4QzgxdWAzbD9siCcN6zZd3ojp6kMvjCV7j0a7r2ZCvM5aKP7bS3388v5FbzECaaxIKE41Qz49AkFM2JB5VidgfwziA8nShNp90fGBlgL+U66FI3E81sm0zucXhtaFRouCBDEOEIRnyoTqBxFF02MYR6wtElAaYHk5uPrPnrHpGQ02qcPSd5jPtf9CoAgWFly/MxPHJwpxx1oBTKmW25f9WfpsmRqPArUqn/OzJtxx2nUikXJzirCWJQra8WuRe3xaOk+k5c5gyc7xu+9+bLXMIF60ra1g5njWt6HZ29EqpWaexmdFL6ZKT9V22EN4WAmot9zq5N4OmN5nX2gLwphEZvM6LpaiFUYkNJrKzVTkPAk477HXw3MJenM24hUp1vLucwlydenS5Q==;qiNrDXciHO2owXlQQae1jw=="
 ---
 
