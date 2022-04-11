@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-03-14-how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future.md",
+      "title": "How we handle language in the metaverse could set the tone for its future",
+      "excerpt": "We may need synthetic data to remove language bias in the metaverse so that everyone has a voice -- not just those who shout the loudest.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
+      "originalUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1215375477.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/13/how-we-handle-language-in-the-metaverse-could-set-the-tone-for-its-future/amp/",
+      "publishedDateTime": "2022-03-13T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-how-3d-tech-advances-will-impact-robotics-vision-systems-in-2022.md",
       "title": "How 3D Tech Advances Will Impact Robotics Vision Systems in 2022",
       "excerpt": "Vision technology is shifting from image capture to object recognition and tracking. Robots with advanced 3D capability can differentiate objects, perceive human form. How autonomous robots are ...",
@@ -1089,40 +1141,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-deep-learning-is-hitting-a-wall.md",
-      "title": "Deep Learning Is Hitting a Wall",
-      "excerpt": "\"Let me start by saying a few things that seem obvious,\" Geoffrey Hinton, \"Godfather\" of deep learning, and one of the most celebrated scientists of our time, told a leading AI conference in Toronto in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
-      "originalUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

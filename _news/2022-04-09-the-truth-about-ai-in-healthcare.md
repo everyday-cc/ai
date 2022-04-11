@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "‘We need to be much more diverse’: More than half of data used in health care AI comes from the U.S. and China"
-    excerpt: "\"The biggest concern now is that the algorithms that we’re building are only going to benefit the population that’s contributing to the dataset. And none of that will have any value to those who carry the biggest burden of disease."
-    publishedDateTime: 2022-04-06T08:40:00Z
-    webUrl: "https://www.statnews.com/2022/04/06/machine-learning-health-datasets-global/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 17
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/04/AdobeStock_30826633-1024x576.jpeg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "+8wGu6Pn3AV6EH1W4paXvzatMVFYteOr2DDBaZr64iFmYexSPZSl/U6jwhgPdvaaJNWJmDXrhLbG0CkC0Dwg2dLei9eBIso8hiGQimBqLP4m3AoUuCIBPqWPLU04GaKTm6DwylRjLCmamCXmJlDgOavOWcPBokTJIdQx4VlHPu4C2kEhxgkdXGqUsc8uxGNVAXw9a9ZG19RIgpCAC48byX6/lYZbOdCTZfydzuBEdTglJwNxsbw1js925HLhz/PaOxqsYM3dxdpnVtOx+uCukEQlCahReAVhptPzyX3fZK8phlkBxPZP6xGQUjKppj2xGI3cxQ4LPbDw/CLzfFxxkf3j6FfeeOp9Xwawh7VW1S1KDwolNRZL2eC7xa06v+jBKk6FkCsaKJm9FOqJ3G4rB/L4tlTQE8gG0c00N5BpAIA/mHPy7dVJJP+U1E6Xw63lcur53eoimh2BKWq6BDMeMeslRFlvq8kxmhZaMlKid7od+f5ve6l36qrxYCdTi36b4MObpi76QM99oyJaL5dp4g==;UtMgLxNXp9qApyHsbRF/tg=="

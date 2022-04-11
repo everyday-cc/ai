@@ -56,22 +56,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Combining AI and computational science for better, faster, energy efficient predictions"
-    excerpt: "Predicting how climate and the environment will change over time or how air flows over an aircraft are problems too complex even for the most powerful supercomputers to solve. Scientists rely on models to fill in the gap between what they can simulate and what they need to predict."
-    publishedDateTime: 2022-04-08T16:19:00Z
-    webUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-faster-energy-e.jpg"
-        width: 1500
-        height: 559
-        isCached: true
   - title: "AiAdvertising Announces Partnership with Genus AI"
     excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
     publishedDateTime: 2022-04-08T11:15:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-
 ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 607
     isCached: true
 
-secured: "bu8wlZPXopn5FzMx4/c4TZ+cZZZ6lxbRlPuTOq0XE1d3uPdGaOKYdWXBxSkBmIXulf8a45m9YnU45VOZlBZscMna/eVbhLdA5H/wPjrEW+pK5XFe8WXKIhx99m7NfvkpCOJ482gsUyVc/Z5b6xvIA4Kb889TtpJ16jdIajCZufH6wevaTCJrTLL2+LGw45+SfLHqb7K8Yg40Wtshi2PCAv8OpXzz+U8k5bs5hBUeD5FlfHSZD4ehUmwAsPbLhtqjmWtdNJHpovip6YOlO+aCtoHV9nbNGbY/EQDRUnRNjuiMDp4JFAH1BXf8Y57TQgf1paCaVoUL4PGiwfduDFyA0MGLL0CzGJ+pXZxN88EdwaU=;6pyCsbds4AXQCtq9fIHnZA=="
+secured: "eDFpauS/ajWNXClcEZ6ch4YGDcJwqC5oFVFiH8LdWb/mBHjMILH4qsihGLKYozVIoVaKGp3Xu1Y5gDXMksWScwosbHsZh3GRfus6qzAqvvAURPinwPg5dVPdtw1BX1QFTGf5kiMK6Sqc2NzPjWLd8/qwhVqvmBFn9JGMbHWJkDrYqvY8RMXqdupha9HIU+FRTf5iQV7GoJwvEYKtxgPN2n5/OUrWSyiHBG0CP8ez2Aa/8sObBI9KRU0oUu+4S8JUDN/zYTjegL0wIau2g2cA6QL1NbMc53AzvpxGwezYy0H59rARbYK1wDhQYxfqcR1/TEt/Dy7GtegQBEMmojlt4WMstrszwPgKCo3G6tGceP/daE+KYoCVoVMoJb5d/xPFFwEk6P66AZzkrTostN0H5utFBsJYF2D0GmfhgIFqx9DZfUTYY/heQzSqipA7B/iFCruvEJqjPuUFbA4MbNIPTWMvHdAvLI0DYjLLF3dhlG6i8BDubFf/MFj6orxWWHcM0ylyoFN/0ra66rOSzU1SYQ==;/ssYbbhqi0/aXvFd5vfhPA=="
 ---
 

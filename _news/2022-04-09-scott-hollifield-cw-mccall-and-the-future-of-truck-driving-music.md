@@ -39,6 +39,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Hollifield: C.W. McCall and the future of truck-driving music"
+    excerpt: "I like a good truck-driving song. Was “Convoy” a good truck-driving song? Your artistic mileage may vary, but in terms of commercial success, “Convoy,” released in 1975 at the height of the CB radio craze,"
+    publishedDateTime: 2022-04-11T00:30:00Z
+    webUrl: "https://journalnow.com/news/local/hollifield-c-w-mccall-and-the-future-of-truck-driving-music/article_b0b01456-b6b7-11ec-be76-ebd628b42643.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "a3TMQbqUFZeJA6bfsdTzGU+xvH0ZPHEGV4sf4eQ3sC4EBR4UxSZ321KS6CxsMJwNw4AFGrAp5tksqy290gpHuw+G2Sm2JBrHYrqMY/sYaxaWXEYAU7ufuOOeZQWxKTZOCZ1Oo0VAFEAvNW8UZAmkPExiHSdYuymoyv90WCnvlTEPSNeV8bqc6pa4t0agnqMnW0z9y9GkcnF4OB0cXmt74oz4vAuyOJYG9Ba59aVd+aeSAowcmg0P2IUyZYQGl9ugQkf8fOBZxxdw1h/PPImnc0xNeUD4lNiO7+JIShhiTmrCfxnWqNeFm/+TMjG2CzuPDFd5Ujyw/hI1GPCNQowpPYCK8dN95Ucq+UhH3SCQPWs=;6TpACOZDfqm3/SDZ+AsxWA=="
 ---

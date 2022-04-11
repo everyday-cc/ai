@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Quantinuum Announces Updates to Quantum Natural Language Processing Toolkit λambeq, Enhancing Accessibility"
-excerpt: "OXFORD, England, March 29, 2022 /PRNewswire/ -- The quantum natural language processing team at Quantinuum, the world's leading integrated quantum computing company, has released a major update to its open-source Python library and toolkit,"
-publishedDateTime: 2022-03-29T03:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20220329io06725/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20220329io06725/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-ambeq-enhancing-accessibility"
+excerpt: "λambeq update introduces many new important features to provide researchers and developers with more options and flexibility in turning sentences"
+publishedDateTime: 2022-03-29T10:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
+webUrl: "https://markets.businessinsider.com/news/stocks/quantinuum-announces-updates-to-quantum-natural-language-processing-toolkit-λambeq-enhancing-accessibility-1031314301"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "XNbmm48nLJ0agYJ+eoomMIPWDKGXk8Ljt26V/oE8x+FaOUJkAioMWvkqbmt/f7XmhRKZO5YaOGmR0knoHB6MM0Xn43PLzk3rHqxTYO/slIIDZTKawJ+9PH+O5AP3vyvLThRJx2bf50MoEO/7mCraOd4IaxqKwJA4uTr2mqZ9+kokRP4UofQ1Xi98AeCfZF8zbmmitnnmq/f91lhW9TPkJXpYwLh1YS96mf4ixsZEItQEP+A7EXbOnebfkZ719Bq8QTyX+SlVM4A7L4JqTsfzHbnxsOmMtIvYwb5CAr4+yBcd8nHPCCE+lzT4iS1ygISKHRJag+Zad+Eo+EdmamFRM3uDrrxG1OOYmk7hvfQY/aU=;Mn1y5g7njmxA6dAHMunaIw=="
+secured: "xQkfpUox6Qctu/Q8Beqo/C22Vy1nK8C5FnPhnhTOmco8uSsnmHFZETyke9059msWJEul/sIfRrkdVrKXedc86pnvfQEfuuZus4FJs3l93tdo239X4kg/GIVKZbbdxvNkquSbNNRgmLDsipvWgtAFit7SL2vSbcmkd5lvb0OmSlxRy8mQSdI9ak3dw1QmEVmrVA8irreS9jnTpMmmNnXEOHIjeTXctanM8BTyI9yZglcGAxUDsmtkbAXAElJk8vWlJw/5Y4CltmjdoejH4FfGgR8q89akld9g5lEc2Yl7AzgTOZHaSg0Hn3GVhTjxkTm1L+r6JVsMmVgwJmmsBDeVoNcG8ABln1IUWne6lJRudNM=;HmXcqvyUr62VkZFCx/IDQg=="
 ---
 

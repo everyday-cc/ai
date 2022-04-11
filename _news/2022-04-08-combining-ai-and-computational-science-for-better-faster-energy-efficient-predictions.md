@@ -26,89 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting and preventing road crashes with AI"
-    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
-    publishedDateTime: 2022-04-07T11:03:00Z
-    webUrl: "https://360.here.com/ai-aware-project"
-    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
-    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
+  - title: "Deep Science: Combining vision and language could be the key to more capable AI"
+    excerpt: "In this edition of Deep Science, we highlight new research that illustrates the potential benefits of combining vision and language AI systems."
+    publishedDateTime: 2022-04-10T17:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
     type: article
     provider:
-      name: HERE
-      domain: here.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
     images:
-      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Lakeland officials hope artificial intelligence will prevent traffic crashes"
-    excerpt: "The Florida Department of Transportation just gave Lakeland $500,000 to install artificial intelligence at 25 intersections, in the hopes of reducing the number of traffic crashes in the city.  Last summer,"
-    publishedDateTime: 2022-04-07T21:44:00Z
-    webUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes"
-    ampWebUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
-    type: article
-    provider:
-      name: Fox 13
-      domain: fox13news.com
-    quality: 54
-    images:
-      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/WTVT-Still-2022-04-07-17h39m38s402.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "AiAdvertising Announces Partnership with Genus AI"
-    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
-    publishedDateTime: 2022-04-08T11:15:00Z
-    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8518747/aiadvertising-announces-partnership-with-genus-ai/"
-    type: article
-    provider:
-      name: WKRN
-      domain: wkrn.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Roman-Josi-Ottawa.png?w=2000&#038;ssl=1"
-        width: 654
-        height: 374
-        isCached: true
-  - title: "AiAdvertising Announces Partnership with Genus AI"
-    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI's technology into our platform,"
-    publishedDateTime: 2022-04-08T20:36:00Z
-    webUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-with-Genus-AI"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
-        width: 295
-        height: 250
-        isCached: true
-  - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
-    excerpt: "Unicorn Prediction Model of the analyst, a leading data and analytics company, predicted all potential startups across sectors that have the potential to become unicorns (valuatio"
-    publishedDateTime: 2022-04-06T10:51:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_44cde9c5-c361-50fb-875f-7780a75d4529.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/ezgif-5-a450edf705.gif"
         width: 600
         height: 338
         isCached: true
-  - title: "Gradient AI targets both underwriting and claims"
-    excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
-    publishedDateTime: 2022-04-06T12:50:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
-    type: article
-    provider:
-      name: Insurance
-      domain: insurancebusinessmag.com
-    quality: 17
 
 secured: "4o58HX2WiE64ifsfixe1ote7IQBWxwRfFHEJrZ0TFbnggDrgFlAFkW18+n3o1seyiHTMoHWuy4rkXHFkH0dtyjDbVJpqwYUBiGFvqTLjlt+QE3WjuW87gnlNHhNLjqwI4x+F2tOKBBg/etxvlX3xGdQIGbJ9ZLOR8Cx7cfN2OdkjLSL9A+pue4aL3JAl5m2Nb8IG3I4uD06arG2ITTLSNhmCzo1eKQniWLpXbSspnFpNKxIRgO9BjlTACwyPJz0soRj19IAhmhSEVyL5ZY40JRQHF2OsSHCNRKUiIJ4H4WU7Vui/9rXscAMifWkGw+quqMserHU6KMJBSNOXNV9zZFvn0auFHqrT16y3vAGTJDUfm4xw4GPC4VRoO7d2yGU+oCR+AzezbPZI/kUEJqUXihD5ZUnKB9QOuBEljoqwqWjFRB6VtJQq8/HzzxLrWh+S+L8Ew6pKaBgxFyJo9ZygUrbd6x2PFImjE5v8XDyiceQDrgCZI09WdU0HN2xtb4o/3BHM8r8WKaMYCKgb4xf53Q==;dDtiwQhrnSeUxovQNpfu/w=="
 ---

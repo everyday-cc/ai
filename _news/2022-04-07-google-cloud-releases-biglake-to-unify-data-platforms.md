@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3656650/google-cloud-releases-bigl
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 700
     height: 525
     isCached: true
+
+related:
+  - title: "Google Cloud releases BigLake to unify data platforms"
+    excerpt: "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. Looker gets two new features New Looker features, Connected Sheets for Looker and the ability to access Looker data models within Data Studio ..."
+    publishedDateTime: 2022-04-07T17:24:00Z
+    webUrl: "https://www.reseller.co.nz/article/696968/google-cloud-releases-biglake-unify-data-platforms/?fpid=1"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 24
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_19.jpg"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "ddE4U11CFP1PYCnwTFsGTtUk/kaUIdYU0K2rDdCzLSgNhzJynjt4wyMxpcCG+kmb2ckQINtWiCTRsiBq84wPqzxjnkd0Hl6UitvYr8Wnnj1V4rX99yPNIypPVxbC0xID0HGxlGM6NztbuGl0j/pDSDU21syHQeZ1ItcBhmexkA1ofDB9x3qkcUy59aYzs+JhbPDjQ6HVcFq3JK/5P2PsPyfZWSDdmg8IDbWiqwfzfhTw4OQPXBrD4GIr5aEDPH1gaN3qmbzcEmk2e1o1i1XnAZ88odXitk7CrZk50EI31mnJ6PnNAmMgM4u92G7FTnc6lR8z/0SxqGplWsvyAs9kGpb7Drp6g+9bHSRKaiG3hL4=;L//SkHn1KpflT0NSE88t4w=="
 ---

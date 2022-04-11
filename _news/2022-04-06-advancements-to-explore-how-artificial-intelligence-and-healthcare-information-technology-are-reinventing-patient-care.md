@@ -80,20 +80,6 @@ related:
         width: 786
         height: 524
         isCached: true
-  - title: "‘We need to be much more diverse’: More than half of data used in health care AI comes from the U.S. and China"
-    excerpt: "\"The biggest concern now is that the algorithms that we’re building are only going to benefit the population that’s contributing to the dataset. And none of that will have any value to those who carry the biggest burden of disease."
-    publishedDateTime: 2022-04-06T08:40:00Z
-    webUrl: "https://www.statnews.com/2022/04/06/machine-learning-health-datasets-global/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 17
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/04/AdobeStock_30826633-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "7cqz2GDbSly8JBU2AdTmFqD0pBtD68/rzKTh3f4RmElAiFe/GY/vKLH6XAlEdpH1WvlNbT0HS+5kwUuYg/RIVw5FAGHgOyhotwNgF6sN/P/naK5Bfq+qFmw5vMGg5nC/n5sD683cjS9SP25VqjDLoPKNal8IhE6FsEtE/IOCMewkJ+7PE6Q2d8aP9mX+NqmR33+SYBbe6ZuBcJFg7gxIQe5/k4J643HA+nEP3PGSZOySQj0f2RngxkH6RGqg5v/+XJR8RKzkD4FTwrPyqD0wspCmlEN2erwYIVR//5PGy59MNGXn5g9puxM13eoNCVGNYZXU8DhrvL0umT3QfsDgbE862g2aDeaytGsmdVdBnH4l+w996C57aDyWExOyt8uzLov9P9BeGQ7KCBGU3oTrdmuVq0kn5UIqZIz8UQ8XrkfuUFnC8mJ69CmTM6y5L6pcoIm5AQ9t7iQAjm76yWfkeeACkCfFzSNMoOJDJeVblV84n2f67chJ7W9+PWb1MB02QH7zociOeZ8oKwCiykBdog==;ml/i8KYXC20jneW6lb7FBg=="
 ---
