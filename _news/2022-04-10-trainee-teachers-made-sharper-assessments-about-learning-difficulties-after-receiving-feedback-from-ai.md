@@ -25,20 +25,22 @@ images:
 
 related:
   - title: "Artificial intelligence may help trainee teachers with assessments – study"
-    excerpt: "The tests were scored by researchers, who assessed both their diagnostic accuracy – whether the trainees had correctly identified cases of dyslexia or ADHD – and their diagnos"
-    publishedDateTime: 2022-04-11T01:48:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2022/04/11/artificial-intelligence-may-help-trainee-teachers-with-assessments--study/"
+    excerpt: "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available."
+    publishedDateTime: 2022-04-11T01:50:00Z
+    webUrl: "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
+    ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 50
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 70
     images:
-      - url: "https://www.shropshirestar.com/resizer/y0iYIgkro01sKvfAK0ic6Dum79E=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/WR2O5PG54BE3NAJAVDE75RCQME.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg"
+        width: 1620
+        height: 1080
         isCached: true
 
-secured: "JMz9JsaekQGKDlizjz/rWk6v0z8SarziRUWjAug6RWKDK9VQC/ZhsRTDBkEbiYUops2NiKdK4LerAUOY1XY2RSEuCls8TW3xFMWDzUYrH1EtqaPXaM5920xxoVh5PFpGUMnK1DZm5OcPgvKpnqtDdy6YBKKqkeXYzgCgP6f4asELPy80CPrtxb9pkj2hlu6O0BKFpJ0jgrs/Py6ni1XXy8BvYkTCcYw8IPcgPLiKIvppTPbHhgEQVBUBp60IECDWkWDEaa0WUuCj5/ovb1LqrZFEg3CNtnV5ogLph46irBlaQ6AdZ45bAMdi5Ao1ofDBF7HWEMifvF9FX3fwn8HluQKSFkAji3RNcQUG1XKmh8A=;5NJL8eICYktQ7Z1GPiKnqg=="
+secured: "maS8dt07ZSKlXjrJIDhXRBEBuZBmgcFKtktrZY9W8QeJ4NZWzrdwOs9usrBxT0jXo5QgIneFvGqQWrlxjrsiMJWsXVVyE7H1+kqdupkGXnB0d09L8P9u5Q+smkFm/WLhQDdWV6+8eCMpUpLwgmNanERNukLqunSq1bnCgzy/GlG38+4oZYIdUP8lY8S/D1x3V14ywG2pzidpkpLZplZWnE+eLHFC/yt5HnFd9UpZ50ovNM4/8cVqld8MrQ8t5F0qqJeaP3yBKHI4TG3ju+y5mGeblpnlnk2pcO8JMhcwLW/88SZfV3PNJrW1E7sUWbB3WK1nlXHPf5/fiLKfdGX6U+c/Mzg4flgD7ZPZ1uYZZuRveoGscX/eVAR4RJA89bEral4Gpop6FQ9O6uA1fazSag+Wi1ssQR7zNgKjbMkGg37tOCQjmfYdo4/s/duh04uLTScqNfjhrWoDpltKk/ke5jx2XtThg2D1S6ptHiLRy0OYAPRapzpEd7xHlG/yqNAbUPxX4evK6ShW6r8hgfF0gA==;uMqdHBy4DqqWbjKpAWZocA=="
 ---
 

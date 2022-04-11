@@ -70,15 +70,6 @@ related:
         width: 654
         height: 374
         isCached: true
-  - title: "Gradient AI targets both underwriting and claims"
-    excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
-    publishedDateTime: 2022-04-06T12:50:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
-    type: article
-    provider:
-      name: Insurance
-      domain: insurancebusinessmag.com
-    quality: 17
 
 secured: "eoKQU+IYesPSzIGBP7KqdvZmFmaiO74WAYpdaaGcnQRvfmmZHcm121iPPHR1exlbwUeC60++w6HdrK9g/vfhxnAVJhKGRJEv0JjvyXGuV1qegWuDpMHf7ufcO5XWsl/iIBFdeBX1JUJJDF7AWRL4Ue/Ttoyy8rYYWS4h8Ah2qvaS3Xnn1PlCgsIdiosFVFPhCQmX6oeEwruVy3P8J1YdxY7c5E00WRcgz+v06NNtMWZr04HD4ldYwiwD9/XSmny20uzbUuVtSBTyaVg3gDgaj9DH/+vTP4lc5R61SkQpwXaxLBWXpDDnJ7RsVjUoj15apJS4o/f3WQF7Yc9hyULwydvgfFLFZJNMW25QWSCn8+Y=;HVIQJskDX7ozenyV2a6FEA=="
 ---

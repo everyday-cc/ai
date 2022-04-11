@@ -62,6 +62,20 @@ related:
       name: Galleon News
       domain: galleonnews.com
     quality: 17
+  - title: "Artificial Intelligence in Aviation Market is expected to reach the value of 4.32 billion USD by the end of 2027."
+    excerpt: "As per our research report in 2021, the Artificial Intelligence in Aviation Market size was estimated to be worth 1.25 billion dollars in 2021, and it is"
+    publishedDateTime: 2022-04-11T04:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-aviation-market-is-expected-to-reach-the-value-of-4-32-billion-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "GtZZ0X0rcKoQ/DHbsTXM3iZ2SlZFharM6//rmRoC8LsEvySkWLPYWaYMDzLFUjtzuanZzS/xjjJU3WD7AhgsiWSXswqpy7JnLzdXtgjNCUjVHIGByVszKgUrmxQc82pNZfttb4K8zlj/fJeQfvQvgRPZqSMS5t4+qdw+AhrjpLlkILXVGvoYp4GF3zTXABsGkPw4MND4Wlq2stHBwFyWhUyGiPBq2tStKk84s/yLfLm4BqPpVR9ynTcDWhC9zpbdCEy1C2dRhIKh9RQQVoDaab4Wob+03Qk8rDi8zgI7k2Orh5qWFF3SV5zznd/OG0bcgFlEvxt72Uo5ddPru4092MH5dnoVYoyjT+ElnTVKtXk=;OorIhXGvKPIHixc3CKocHw=="
 ---

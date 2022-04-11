@@ -24,17 +24,6 @@ images:
     height: 288
     isCached: true
 
-related:
-  - title: "Council Post: Does a lack of XAI put AI startups at risk of failing?"
-    excerpt: "Most startups offering AI/ML tools for decision making don’t make it because they can’t get a vote of confidence from the decision makers."
-    publishedDateTime: 2022-04-06T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-does-a-lack-of-xai-put-ai-startups-at-risk-of-failing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
-
 secured: "H796GARRRkoeXZKseV6d8/sHzQfiVws9iGzwAt17RfyycWKfbb4GRc6nfwLSREap4964AIofnLCl2YZnSvp5fQ/pKWk3T1edMEkRQd1/XN8HUqwxMrnkZi9tucHPVn5AbdJd/qghmykCfyOBPEuOJXWZUlj5OQT081386tTLhoYk8QoUI9Vsm5nmkOkePIzY1hZhsEa2+wL95P+whJvb2HbBMDl+87KghwHoaZrBOG2Vz5RvEL1ia3AnhB/AniARrBXJdAQZubW91Xke/2w3uuDQaZ6ZjQNkwGShQCORllmaOkcUtxTOGg8MLVaK3PLpzP9wHtBADLXSVP8RZDRz5zzo3eh9vyKRJe57I9luGIh0mtvWB731shEYMwgO27BkV9U6+6Y3GVe9xbVJWxLpb5EAFp7+kp1xVwH4t27LRbwYXeXmRrtAm/ZvkdllfvfVLRATznJP40GLs7QVj9fiWAN1ovmvFuPGPWVIf/k0qSiUhBv6r/fWZIKhaIbWCvRXS5eZSFMkZPGAUzi3taAaqw==;NWj++2ERrHn8xmH4krmB0Q=="
 ---
 

@@ -58,20 +58,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI breakthrough explained to human operators"
-    excerpt: "Oakland, Apr. 6 (BNA): Microsoft Corp's (MSFT) LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence (AI) software that not only predicts clients at risk of canceling, but also explains how it arrived at its ..."
-    publishedDateTime: 2022-04-06T11:45:00Z
-    webUrl: "https://www.bna.bh/en/AIbreakthroughexplainedtohumanoperators.aspx?cms=q8FmFJgiscL2fwIzON1%2bDuKVdDoWIY%2fbZQiQNY3%2bYiQ%3d"
-    type: article
-    provider:
-      name: bna.bh
-      domain: www.bna.bh
-    quality: 37
-    images:
-      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/unnamed-e96ece15-2289-4681-a62e-9356e71b473b.jpeg"
-        width: 740
-        height: 453
-        isCached: true
 
 secured: "yqP0qGCHqXVqVVj5+5yk5GybCYDFsy85nM8Wj9k/I5i31isFsScxLUZogmLlfYDDruk1AxyPp2n3v9zMS3UdleImDz7cp67OK9I86iQIRgTBGu4OVAmX0uMLwqt2f8/XSWOsgDVETwEjL0sY+dbfGQcSV4CDvRRMtmbp1rJ7aAvKkdxD1THm5FAuzW1A3ABgOM2lQXJX6Jy2ouSBntM33X9gSkscu/7vgijsc1V0rJAGNOKJ9ayQ9nzH+e6qdiXoIFfizdSXWGRNs8CdQukuif2aWf2rN97yVfEWt2eQvHuMVPxzkwcRrBUhDLaokGkJxfZ55ww6lmHJ905ySocy/PIcqZYtCFj5vyDdvEoBLvE=;uin40WVKgEmQVeM4APRh+w=="
 ---

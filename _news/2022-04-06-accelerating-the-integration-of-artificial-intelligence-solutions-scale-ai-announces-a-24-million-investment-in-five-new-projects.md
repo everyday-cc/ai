@@ -48,29 +48,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Bangalore International Airport and AWS Announce New Joint Innovation Center"
-    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web Services"
-    publishedDateTime: 2022-04-06T11:51:00Z
-    webUrl: "https://technuter.com/breaking-news/bangalore-international-airport-and-aws-announce-new-joint-innovation-center.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 51
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
-        isCached: true
-  - title: "Bangalore Airport and AWS Announce New Joint Innovation Center"
-    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web"
-    publishedDateTime: 2022-04-06T13:00:00Z
-    webUrl: "https://www.traveltrendstoday.in/news/technology/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center"
-    type: article
-    provider:
-      name: T3
-      domain: traveltrendstoday.in
-    quality: 34
   - title: "Bangalore International Airport and AWS Announce Joint Innovation Center"
     excerpt: "Center will advance BLR's digital transformation vision, and enable startup-led innovation in aviation, smart infrastructure, utilities and mobility."
     publishedDateTime: 2022-04-06T19:24:00Z

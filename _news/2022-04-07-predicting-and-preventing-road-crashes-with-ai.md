@@ -9,7 +9,7 @@ ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
 cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 295
         height: 250
         isCached: true
-  - title: "Gradient AI targets both underwriting and claims"
-    excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
-    publishedDateTime: 2022-04-06T12:50:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/gradient-ai-targets-both-underwriting-and-claims-401596.aspx"
-    type: article
-    provider:
-      name: Insurance
-      domain: insurancebusinessmag.com
-    quality: 17
 
 secured: "MPHlMudBx3MdFDe3yl8pvsRMMc1jWTMDWBqxAXIpkUFCqk7ExALTKAeOSMD2iHua/VYyehJYfg8hHoxBh5KIhHl69oim9RIOYw4q17c0cqYD/KcXl8qBRp5h2vofh3Xu5lA9Hc2xdk0znuZjkf7LMKT4mHDu+/vI+rDvKSPhAdM/KBAx3s+Qmf777RsNsv6bCG/Pa91OO/BcD3W0ypACQ8dzg0h0tbIxuNpxAI9vCdslj+cMf7va2ZdBMp800rx8dFTVuNey0w70FYX8HCtNYJSWlNA4i601OpDNbDNfpBmsLo8uAG+7wrjFV2m+F25Wq2mjM3qq06ik5bEmW6BWlLMvqyiDn6m32BUeyPvRSUP6dtaMfCe6eaprU+FCjGmv4z1+Rj04S/OtYVpa5Eedz6VbRHiPZ3uu9rLK03Plp+M3gdcKVgW00kKBSH9C3DPcTYIWEs4zvRGc+pjse1CvUYicQ3m92PJMhBnOKKhJq8VGgIJ61rL5Yan2JCRl8UuBGWTp4estvbTmRmu4McKijQ==;Ah5RcVEPFEZmlO5pGE1Y+Q=="
 ---

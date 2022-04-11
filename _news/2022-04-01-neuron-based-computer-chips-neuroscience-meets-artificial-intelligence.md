@@ -5,6 +5,8 @@ excerpt: "Neuroscience meets artificial intelligence. Cortical Labs’ “brain 
 publishedDateTime: 2022-03-31T23:05:00Z
 originalUrl: "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence"
 webUrl: "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence"
+ampWebUrl: "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence"
+cdnAmpWebUrl: "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence"
 type: article
 
 provider:
@@ -15,6 +17,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg"

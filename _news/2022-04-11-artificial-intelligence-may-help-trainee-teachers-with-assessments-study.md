@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence may help trainee teachers with assessments – study"
-excerpt: "The tests were scored by researchers, who assessed both their diagnostic accuracy – whether the trainees had correctly identified cases of dyslexia or ADHD – and their diagnos"
-publishedDateTime: 2022-04-11T01:48:00Z
-originalUrl: "https://www.shropshirestar.com/news/uk-news/2022/04/11/artificial-intelligence-may-help-trainee-teachers-with-assessments--study/"
-webUrl: "https://www.shropshirestar.com/news/uk-news/2022/04/11/artificial-intelligence-may-help-trainee-teachers-with-assessments--study/"
+excerpt: "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available."
+publishedDateTime: 2022-04-11T01:50:00Z
+originalUrl: "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
+webUrl: "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
+ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
+cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
 type: article
-quality: 50
-heat: 60
-published: false
+quality: 70
+heat: 80
+published: true
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: Kent Online
+  domain: kentonline.co.uk
 
 topics:
   - AI
 
 images:
-  - url: "https://www.shropshirestar.com/resizer/y0iYIgkro01sKvfAK0ic6Dum79E=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/WR2O5PG54BE3NAJAVDE75RCQME.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg"
+    width: 1620
+    height: 1080
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 394
         isCached: true
 
-secured: "ZmDCN+AUeXfyELyEtQjvHhn+CnVlsBz89emBi4BHtbFfgE3AYbogc0DWI2HEqPKcEZPuJB0wiUaCiNucCwPsr0yhfjJ7smmptaLTHNHWgoQitNz27/8MH+dZPSGJDj0yw5Yn9mYypVGqKnQvL6GEDQQ62pC8eWxZPUn84FAJGx1lEZ/mX+PIoISOLAMLDNSpNQhiQRrZm3WZutIhcelzXoa8Zl66EgP8sJ0Ymz4HfuPJ/NPBkvg8rVksiwE69habXp1upkkYNER0eWFtedk5fEphidrT80OMPcQRv3aD3rvQbY1F4kDCoBtqboSTYdDNnZMyY5uQFAjKgvYJo/Kc0dGTASOgrFgO+w2WREhlLhGWaVCE3FvAIPsIL6Uo081hT/EMhvFFYKH8FXlrrw0s74X228LtnbnX9FdJT7MdsyejAi5g169K5nagH2w9rTZzUb8XhI8XW+qHLJ1312Yn3gLMaObiKJD/Lz2ax38T443XjZwGKUmZbXF5Na/8TUOSRSJRsBlkEewBolSp/dXLIQ==;LdQXzdXyHiB0gMl9Kw1tZA=="
+secured: "8Av54ec0ToaPdysVOP10tkk+49lixAoySrOfPy2bc7jhN4Xp6j2h8GPZcYD9XTSkr6DosvXeCqWmRw/vWhcJWk6MJra7T3bMXPf9KTvoUcYLAI5OryaF8/c3mKMsHOlP8Wif6lgNBLbN7hBxlHaUEewhVjKyeEvzfG5a+kOp4fSVd2lZlTGXDHXhii3AjchwQ5XslPmkhU3Cpa6XGTB23dPbr4PfhQusi8teyqo3zajin2di+vxpGYo8n4AzYnYAiajZyp73Bb7QhxX7BUb5FQTH5Goyoa8D3Al6HR3YuIiF7bUO+tcYm3uw9SqDxJOsDXzTT2gio5t23Zq0C3EXu8UujQZnS+IDduMXSsgXCU8=;7UW5DSyXWmZVyR+QTd9vlg=="
 ---
 

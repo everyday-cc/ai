@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -343,7 +343,7 @@
       "originalUrl": "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1284,6 +1284,51 @@
       ]
     },
     {
+      "path": "_news/2022-04-01-neuron-based-computer-chips-neuroscience-meets-artificial-intelligence.md",
+      "title": "Neuron-based computer chips: Neuroscience meets artificial intelligence",
+      "excerpt": "Neuroscience meets artificial intelligence. Cortical Labs’ “brain on a chip” may change the field of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "originalUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "publishedDateTime": "2022-03-31T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kr-asia",
+        "domain": "kr-asia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-better-learning-through-complex-dough-manipulation.md",
       "title": "Better learning through ‘complex dough-manipulation’",
       "excerpt": "A disproportionate number of the early industrial food-making robots we’ve seen have been focused on pizza. I’ve long posited that this is for two key reasons. First: People like pizza. We eat a lot of it.",
@@ -1387,50 +1432,6 @@
         "AI",
         "Facebook AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
-      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
-      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

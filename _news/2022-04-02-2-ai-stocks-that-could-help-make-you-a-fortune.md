@@ -1,30 +1,22 @@
 ---
 category: news
 title: "2 AI Stocks That Could Help Make You a Fortune"
-excerpt: "Nvidia's AI leadership puts the company at the doorstep of a $1 trillion total addressable market. IBM provides investors with a bonus as it sets its sights on an AI future. The artificial ..."
-publishedDateTime: 2022-04-02T07:49:00Z
-originalUrl: "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/"
-webUrl: "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/"
+excerpt: "T he artificial intelligence (AI) software market is expected to grow by 21% this year, while the overall AI market is predicted to grow at a 40% compound annual growth rate throu"
+publishedDateTime: 2022-04-02T11:48:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
+webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
+ampWebUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - IBM AI
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/668519/a-child-having-fun-programming-a-life-size-robot-with-human-characteristics.jpg"
-    width: 2121
-    height: 1414
-    isCached: true
-
-secured: "RG4rot36jmV6rFclcPs+xSyHxbnQKKOiMneJAXFx1oBrXRozO1mvYOASyN1cQrMf+/zne5Yvc1cGr17n0hnaPEDv+itF3suo698XT6wS07kGUjhsHHMUIpY1S17Yu6ZwGj7DiBv9PomK9HIDWBkkE8tHOXzT2aBjAdZf6zjjfL18jakYzhy+s/q5fi+5JpWBq32//lEaQVss1zwTr9COeeNhoj5mTP4I1v58+EJjJO8fPCIH/7Y36y4j+rnkn7zREYAb0u3YZfkciL4Jqdm5mPMxbq3SJyQdmIyPgd7GIDr9Ek2m6SgUQGLDVn5UboeEzXvfuera6ShXouWjnBBcaySxiJFyP9uIVnGbpeVUbcQ=;5cZyzye70igLNkDEnlSwmA=="
+secured: "ydqlr/qyY/+W6PGL/U+LfozJNupFLOfsOm+lfaynyE4jeIFksSZ5AOl/BG1+n2FIJbat+0y9iigcEJJAVxyCivlUbblPj7vCJzLhBJthY8+7l6QVUhtk3AGoK8VTUaDLIsAf0708pFBsmP+P9AmQ+Rzbb4Q4uEk8p37pKYeifHF/fyRu+R1ppK4rB945pf6qKvN0rwz7+JCp91sMSzHQbhpiw8TTB+BaPR8Dlh1FnRIiEq37NnW0jPFvsbbAvrdblUyioS1Y7e2JjuDhg0P7nJXRB9lQEfGB61QPPo6P0R0Ow2NWCHW/XM/cCGWarO6uFuAJ597qXuXZvVVjw6YdSJRJvcNe6KN+LdyqAJa0Stg=;8CNswOPQYJWhPkBQLPl4Pg=="
 ---
 

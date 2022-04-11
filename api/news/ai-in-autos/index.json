@@ -687,8 +687,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
       "publishedDateTime": "2022-03-31T16:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -705,7 +705,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "Machine Learning"
       ]
     },
     {

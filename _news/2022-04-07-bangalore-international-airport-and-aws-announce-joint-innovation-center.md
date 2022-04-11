@@ -49,29 +49,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Bangalore International Airport and AWS Announce New Joint Innovation Center"
-    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web Services"
-    publishedDateTime: 2022-04-06T11:51:00Z
-    webUrl: "https://technuter.com/breaking-news/bangalore-international-airport-and-aws-announce-new-joint-innovation-center.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 51
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg"
-        width: 277
-        height: 239
-        isCached: true
-  - title: "Bangalore Airport and AWS Announce New Joint Innovation Center"
-    excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web"
-    publishedDateTime: 2022-04-06T13:00:00Z
-    webUrl: "https://www.traveltrendstoday.in/news/technology/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center"
-    type: article
-    provider:
-      name: T3
-      domain: traveltrendstoday.in
-    quality: 34
   - title: "Accelerating the integration of artificial intelligence solutions: SCALE AI announces a $24-million investment in five new projects"
     excerpt: "SCALE AI, Canada's supercluster dedicated to strengthening the country's leadership role in the fields of artificial intelligence (AI) and data science, today announced it is investing $24 million to support five innovative AI projects."
     publishedDateTime: 2022-04-06T14:18:00Z

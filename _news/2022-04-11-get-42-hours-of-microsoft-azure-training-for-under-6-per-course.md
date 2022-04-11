@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
 type: article
 quality: 119
-heat: 189
+heat: 192
 published: true
 
 provider:
