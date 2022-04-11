@@ -61,6 +61,20 @@ related:
       name: Galleon News
       domain: galleonnews.com
     quality: 17
+  - title: "Managed Services Market to reach USD 557.10 billion in 2028 , exhibiting a CAGR of 12.6% during the forecast period."
+    excerpt: "Top Players in Managed Services Market are Fujitsu Ltd., Microsoft Corporation, NOKIA Corporation, Deutsche Telekom AG​, Verizon Communications Inc.,"
+    publishedDateTime: 2022-04-06T09:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/managed-services-market-to-reach-usd-557-10-billion-in-2028-exhibiting-a-cagr-of-12-6-during-the-forecast-period"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/56c7c203b2ef4d0bcec8810d927277de2636fe92-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ar4//N/SF/eNDDEhT8EboFILgs+kRJT13XXEvnvok7yagV5gFQEp5ReMenzBMhz70m/DAX2hOO+xaKy3bpWqqiaMh6srYtmZs65PNBg8shZ9ErrLb3j3rgjrhb6LYByldqpIDNS5x7Y/Ir6eiN6vEcq2doGTezmu/jXl9X1opdsTDTLmDh8FoEh5/LL0fWO/C1gAIjTBA84/g03e8SUSQR1vQEOG4eMgIvoWQyOnZnVL8yXhAngkpQmhFAV3nhP0yYvtbJisyYTi9tJrgNTt8zlb4tsWwcEJ83fwonuFIHcWN1Z6GJNEeuN7RoEJ7LfD6oSv12gG4pmBP7ibAI28v2XRo9iba+qzUYNT4w0dnVk=;m45i1BZN1znmOs4ZCDY43Q=="
 ---

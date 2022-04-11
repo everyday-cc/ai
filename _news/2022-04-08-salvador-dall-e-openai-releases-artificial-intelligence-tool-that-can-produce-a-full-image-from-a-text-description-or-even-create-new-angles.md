@@ -33,6 +33,22 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
+    excerpt: "OpenAI recently released the next-gen AI model of its previous DALL-E text-to-image bot; Can now generate HD images and edit them too!"
+    publishedDateTime: 2022-04-09T10:58:00Z
+    webUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/"
+    ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 47
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/04/DALL-E-2-AI-model-feat..jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
   - title: "OpenAI’s DALL-E AI is becoming a scary-good graphic artist"
     excerpt: "Like its predecessor, the new DALL-E 2 is a neural network that creates images based ... Sullivan covers emerging technology, politics, artificial intelligence, large tech companies, and ..."
     publishedDateTime: 2022-04-06T18:07:00Z

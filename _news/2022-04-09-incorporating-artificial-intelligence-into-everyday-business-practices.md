@@ -9,8 +9,8 @@ ampWebUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into
 cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
 type: article
 quality: 59
-heat: 71
-published: true
+heat: 69
+published: false
 
 provider:
   name: Innovation & Tech Today

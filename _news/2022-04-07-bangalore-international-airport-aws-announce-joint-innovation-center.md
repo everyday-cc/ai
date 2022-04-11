@@ -43,6 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Bangalore International Airport and AWS announce joint innovation centre"
+    excerpt: "This is the first JIC by AWS established outside of China and its first JIC ... Internet of Things (IoT), analytics, machine learning (ML), artificial intelligence (AI), robotics, and augmented and virtual reality (AR/ VR). The JIC will support BIAL ..."
+    publishedDateTime: 2022-04-10T22:08:00Z
+    webUrl: "https://asianaviation.com/bangalore-international-airport-and-aws-announce-joint-innovation-centre/"
+    type: article
+    provider:
+      name: asianaviation
+      domain: asianaviation.com
+    quality: 53
+    images:
+      - url: "https://asianaviation.com/wp-content/uploads/Bangalore-International-Airport-scaled.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Bangalore International Airport and AWS Announce New Joint Innovation Center"
     excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web Services"
     publishedDateTime: 2022-04-06T11:51:00Z

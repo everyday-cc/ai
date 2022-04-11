@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-serv
 webUrl: "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai"
 type: article
 quality: 71
-heat: 91
+heat: 92
 published: true
 
 provider:

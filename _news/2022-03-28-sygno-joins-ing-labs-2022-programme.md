@@ -2,9 +2,9 @@
 category: news
 title: "Sygno joins ING Labs 2022 programme"
 excerpt: "Sygno, provider of Automated Machine Learning (AutoML) transaction monitoring models, has joined the most recent cohort of scale-ups that will enter the ING Labs 2022 Programme. During the 2022 ..."
-publishedDateTime: 2022-03-28T00:00:00Z
-originalUrl: "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme"
-webUrl: "https://www.finextra.com/pressarticle/92043/sygno-joins-ing-labs-2022-programme"
+publishedDateTime: 2022-03-28T13:58:00Z
+originalUrl: "https://www.finextra.com/pressarticle/92043"
+webUrl: "https://www.finextra.com/pressarticle/92043"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 512
     isCached: true
 
-secured: "ZX6uNcqWTsg5HX7G05IIWRKjVVXJTBuiyIS8a5HDvOtakS42Vx1jgXAbLePJRJFafKBvIEpYL8h4EEpi1dv83Bo1nUGB7ZWYsrbIKenJr2lUgPn0RYG6U+SlyM0OCwsMn3fFtO7McP2FstPRvNkNcnZaTWnKjFo+GB2VAsKQK5SNreIm3FaY8cdywHkzmdz7XfLRNeZvp+HzRrVCPpEuX7drkhdzIY8zBv/ifA8IBhOuSl+DXR6NZ5UwDdFToeVSoDAo7Kc1qRQZnWG6tA60QvfTyn/vDPNxSQirYWqQ+Axrg25bJ7iHTu33xp2X3ozIgpVPiF3hHCXegsO3qIUqeJoOzZE+jDQdZdpBnz/q8Ck=;uSmXrfrzPcCcvf/tKfyz6A=="
+secured: "Z44/QpM53/7XIMuXPIaI2p27r+BM391unHf/pllctZ6v5A2qvwg31N0MKq/6qagAA3v8KiVak0sfUsDJ3BJS4qtT23AXKS9zUTK/SpxU6D1fVEEy+PfgvsKBpQHNSyZoq70XKHU3I0CI+thKgg5zkjiv7ugdWdkdrY6jCMjiECGidGf0mxquJqYxKEmWM4RNgnqdLcCfbOhIxfPdu9MQ1jygz5srvKTpj4dXZDfz9SpCbELaY0UIBaG1B5NGpahXqkgu0BeyzZi7DsTQ5mHGyQuzUQkk/gu91HbRCN+NiDHip8Mf5/FNuqojziUTReIwQq6Wc/ZCcgj8PLH8Zu1McPsRGDG1O4Z9HKffq0DJs2g=;IUXNyUIINjBsk35Q4XoFQg=="
 ---
 

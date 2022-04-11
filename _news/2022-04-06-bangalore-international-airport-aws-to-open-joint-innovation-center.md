@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/bangalore-international-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.media4growth.com/public/thumbs/news/2022/04/6135/BIAL_Thumnail_440_851.jpg"
         width: 715
         height: 440
+        isCached: true
+  - title: "Bangalore International Airport and AWS announce joint innovation centre"
+    excerpt: "This is the first JIC by AWS established outside of China and its first JIC ... Internet of Things (IoT), analytics, machine learning (ML), artificial intelligence (AI), robotics, and augmented and virtual reality (AR/ VR). The JIC will support BIAL ..."
+    publishedDateTime: 2022-04-10T22:08:00Z
+    webUrl: "https://asianaviation.com/bangalore-international-airport-and-aws-announce-joint-innovation-centre/"
+    type: article
+    provider:
+      name: asianaviation
+      domain: asianaviation.com
+    quality: 53
+    images:
+      - url: "https://asianaviation.com/wp-content/uploads/Bangalore-International-Airport-scaled.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Bangalore International Airport and AWS Announce New Joint Innovation Center"
     excerpt: "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web Services"

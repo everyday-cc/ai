@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/feature/Storage-requirements-for-AI-M
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1"
 type: article
 quality: 76
-heat: 108
+heat: 106
 published: true
 
 provider:

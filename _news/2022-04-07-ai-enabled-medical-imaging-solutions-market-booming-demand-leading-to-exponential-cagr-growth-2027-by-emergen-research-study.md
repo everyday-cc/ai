@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solut
 webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-booming-demand-leading-to-exponential-cagr-growth-2027-by-emergen-research-study"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "The Automotive AI (Artificial Intelligence) market expected to grow at a CAGR of 41.70% CAGR during 2020 – 2028"
+    excerpt: "Market Report 2028 published by Reports and Data to its ever expanding database covers critical data about the technological evolution, market share, market size, current and emerging trends, growth opportunities,"
+    publishedDateTime: 2022-04-07T13:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/the-automotive-ai-artificial-intelligence-market-expected-to-grow-at-a-cagr-of-41-70-cagr-during-2020-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
 
 secured: "T9rGl5YLAZGlbkjCf+E/DNekhSoHkpnH+9mJGD+PQYME27OVRMZ7BlFYUtc0MhKKiC1WVf3MAjeQLT/yz4jFl4rrPam8+popQ8/SBfRvIYF0Nvc7xdFLnttYB0G8uzp90V0oGWj+dVJ1PFnb0Niu9+lNaNZcmJgwlyMtpXgPgiVM4oHeCw0Nfo5f4k92vD57oJT839TR8NN3BrOMxxuxCTPlisdI+KPj0dnofLMZ1W2QjMIMi1dGphGsyih6vWt7xdM77a9Vhk6wVLa9Nrrujw2H/+GJ/iErfhqF2mIOsr5Hmw1d4zQUusxtOCAS/VHyi7Umudj6HP3y01c2GdICD2nbRlEn0wZVTd6aSZXTBTQ=;TafMPRbEjS97xaABSQqGpw=="
 ---
