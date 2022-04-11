@@ -68,15 +68,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Fobi AI Announces Changes to the Board of Directors"
-    excerpt: "Fobi AI Inc. (FOBI: TSXV FOBIF: OTCQB) (the “Company” or “FOBI”), a leader in providing real-time data analytics throug"
-    publishedDateTime: 2022-04-06T10:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fobi-ai-announces-changes-the-board-directors-/2022/04/06/9577612.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Guardforce AI Announces Pricing of $10.0 Million Registered Direct Offering"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 6, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated"
     publishedDateTime: 2022-04-06T13:34:00Z

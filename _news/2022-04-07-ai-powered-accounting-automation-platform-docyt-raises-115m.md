@@ -57,20 +57,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "AI music startup Endel raises $15m in latest funding round"
-    excerpt: "Fresh from its latest artist collaboration with James Blake, AI music startup Endel has raised a new round of funding. It’s a $15m Series B round led by VC firms Waverley Capita"
-    publishedDateTime: 2022-04-06T09:41:00Z
-    webUrl: "https://musically.com/2022/04/06/ai-music-startup-endel-raises-15m-in-latest-funding-round/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
-    images:
-      - url: "https://musically.com/wp-content/uploads/2022/04/endel-logo.jpg"
-        width: 1500
-        height: 500
-        isCached: true
   - title: "Viz.ai Raises $100M in Series D Funding"
     excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
     publishedDateTime: 2022-04-07T17:52:00Z

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bangalore International Airport, AWS to open joint innovation center"
-    excerpt: "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement."
-    publishedDateTime: 2022-04-06T10:47:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Bangalore International Airport, AWS announce Joint Innovation Center"
     excerpt: "The JIC will focus on driving digital innovation for the airport, enhancing passenger experience, and creating positive impact for the community where the airport operates."
     publishedDateTime: 2022-04-07T05:03:00Z
@@ -88,6 +72,15 @@ related:
       name: AviationPros
       domain: aviationpros.com
     quality: 33
+  - title: "Accelerating the integration of artificial intelligence solutions: SCALE AI announces a $24-million investment in five new projects"
+    excerpt: "SCALE AI, Canada's supercluster dedicated to strengthening the country's leadership role in the fields of artificial intelligence (AI) and data science, today announced it is investing $24 million to support five innovative AI projects."
+    publishedDateTime: 2022-04-06T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accelerating-integration-artificial-intelligence-solutions-scale-ai-announces-/2022/04/06/9578165.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "sJdHDLygKhprziYVAt1hWza6yk+Su71yxGd7ln51YwMO7S8yoaVrzZifam+SQ7wOZCZChPTugS0C/RVZLREKZe6k89WtNosvgXbMisvdme+KbtW+Wt8JSxrkxsx/4NeERdpyxivbKVifjD9dTS1f2tqY/VeFZ0jS4qwcbkrz6+7QklGGpGIbHYy7zeN0fMPBBWq4URgVkDX2sFdHsE0qYG+JzwBABZ490XLlrW7AXP0SiFUjwBY4++QxISTDSBbUOgqXmGdD8BJDKKGZdwuhIy2aGBo6sJG9i+gaf39bAosA5ficCjmnrFt3fpGx/BCJpMu5UUOxdU0WsN50d/BP4aoFzYTAjfjMzFup93gJ5oE=;g5WUBpmhf618wNS/oAvLxQ=="
 ---

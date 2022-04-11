@@ -68,15 +68,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Fobi AI Announces Changes to the Board of Directors"
-    excerpt: "Fobi AI Inc. (FOBI: TSXV FOBIF: OTCQB) (the “Company” or “FOBI”), a leader in providing real-time data analytics throug"
-    publishedDateTime: 2022-04-06T10:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fobi-ai-announces-changes-the-board-directors-/2022/04/06/9577612.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Guardforce AI stock slides on pricing $10M share offering"
     excerpt: "Guardforce AI <> has priced its offering of ~8.7M shares of its ordinary shares at $1.15 per share.Gross proceeds are estimated to be ~$10M.Offering is expected to close on"
     publishedDateTime: 2022-04-06T13:46:00Z

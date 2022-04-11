@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.a
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/06/technology/openai-images-dall-e.amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-
 webUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/unnamed-e96ece15-2289-4681-a62e-9356e71b473b.jpeg"
         width: 740
         height: 453
-        isCached: true
-  - title: "AI Is Explaining Itself To Humans. And It's Paying Off"
-    excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion."
-    publishedDateTime: 2022-04-06T11:00:00Z
-    webUrl: "https://www.ibtimes.com/ai-explaining-itself-humans-its-paying-3463844"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/06/a-3d-printed-logo-of-microsoft-is-seen.jpg"
-        width: 1200
-        height: 819
         isCached: true
 
 secured: "HWcWnRGELBNwcWwSY0RcqMQld/S9GCZVQ8S5QR1/ruYzuTzxR4OGTctdoWzuvJ+sL8Dwl0B7eOiOob+LPnZMclc2vLXGtRGWqodQAsAQAX/ujvn8OpJ6MugaPpr7t1f3ZN52mHqMv6UzwUiNw2xJ157yp2M02Lq4mIiG7+UvjLko85X97sDmpUylUGj5O+R04AVA+uROYXaJeZDBR5d2bagoPyi2GafmEzj9VCYEgkZlVJPdp2jOaymT9TPQATRCl9D+PYhYh0JfV3uqb3PjwjRWEGWFDIN2azu73aXFtpYmh7Fs6vy+A+QIZDZ7oZ0Powo45EWmE1u5lh2gZFmdC98X7tEQpq4/CSvi+JQ274yaVl9sowAI9ISn9TmWssP6d7bCn7lrDMgWi9x4WJjaeE052InpI6h2wPjodmkvsZYP6G9FRugfAYkLyPvGrKWEQ3e1cQX5KXMxFOKyHb4JaJDEBqMKEqi7VIDMPtAOMyVH5rWqpz3aS0shFdBdmF35N56IQSA0bVxAfgCaaRV/7g==;poSppjR8KK28u0UMTddNgw=="

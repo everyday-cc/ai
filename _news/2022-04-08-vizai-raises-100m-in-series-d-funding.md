@@ -57,20 +57,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "AI music startup Endel raises $15m in latest funding round"
-    excerpt: "Fresh from its latest artist collaboration with James Blake, AI music startup Endel has raised a new round of funding. It’s a $15m Series B round led by VC firms Waverley Capita"
-    publishedDateTime: 2022-04-06T09:41:00Z
-    webUrl: "https://musically.com/2022/04/06/ai-music-startup-endel-raises-15m-in-latest-funding-round/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
-    images:
-      - url: "https://musically.com/wp-content/uploads/2022/04/endel-logo.jpg"
-        width: 1500
-        height: 500
-        isCached: true
   - title: "AI-Powered Accounting Automation Platform, Docyt, Raises $11.5M"
     excerpt: "Docyt turbocharges accounting ledgers, like QuickBooks®, by using machine learning to intelligently automate financial data collection, digitization, categorization and reconciliation. By replacing multiple income,"
     publishedDateTime: 2022-04-06T17:02:00Z

@@ -70,20 +70,6 @@ related:
         width: 654
         height: 374
         isCached: true
-  - title: "2022 Report on Spotting Future Unicorns - Predicting Startup Success using an AI Model - ResearchAndMarkets.com"
-    excerpt: "Unicorn Prediction Model of the analyst, a leading data and analytics company, predicted all potential startups across sectors that have the potential to become unicorns (valuatio"
-    publishedDateTime: 2022-04-06T10:51:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_44cde9c5-c361-50fb-875f-7780a75d4529.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 17
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Gradient AI targets both underwriting and claims"
     excerpt: "Gradient AI uses artificial intelligence to do a lot of things for the insurance industry in both underwriting and claims. Heereen Pathak (pictured), the company’s chief technology officer, describes the technology as having multiple capabilities,"
     publishedDateTime: 2022-04-06T12:50:00Z

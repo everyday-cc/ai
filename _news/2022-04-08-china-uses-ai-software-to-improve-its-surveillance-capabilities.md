@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-imp
 webUrl: "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

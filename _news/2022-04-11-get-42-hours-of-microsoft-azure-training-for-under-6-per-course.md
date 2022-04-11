@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
 type: article
 quality: 119
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -55,38 +55,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "TeamViewer Remote Connectivity and Augmented Reality Solutions Are On Available Microsoft Azure Marketplace and Microsoft AppSource"
-    excerpt: "TeamViewer announced Microsoft customers can now purchase TeamViewer's enterprise remote connectivity suite, TeamViewer Tensor, and"
-    publishedDateTime: 2022-04-06T10:21:00Z
-    webUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-on-available-microsoft-azure-marketplace-and-microsoft-appsource/"
-    ampWebUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/TeamViewer-Remote-Connectivity-and-Augmented-Reality-Solutions-Now-Available-in-Microsoft-Azure-Marketplace-and-Microsoft-AppSource-as-Transactable-Offers-01.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "TeamViewer Remote Connectivity and Augmented Reality Solutions Are Now Available In Microsoft Azure Marketplace and Microsoft AppSource"
-    excerpt: "TeamViewer announced Microsoft customers can now purchase TeamViewer's enterprise remote connectivity suite, TeamViewer Tensor, and"
-    publishedDateTime: 2022-04-06T10:24:00Z
-    webUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/"
-    ampWebUrl: "https://enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/teamviewer-remote-connectivity-and-augmented-reality-solutions-are-now-available-in-microsoft-azure-marketplace-and-microsoft-appsource/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/TeamViewer-Remote-Connectivity-and-Augmented-Reality-Solutions-Now-Available-in-Microsoft-Azure-Marketplace-and-Microsoft-AppSource-as-Transactable-Offers-01.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "New Microsoft Azure off-planet space solutions are here"
     excerpt: "Microsoft is going hard in the paint with its space solutions, ensuring that Azure will get closer to the stars faster than any of us."

@@ -68,20 +68,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI Is Explaining Itself To Humans. And It's Paying Off"
-    excerpt: "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion."
-    publishedDateTime: 2022-04-06T11:00:00Z
-    webUrl: "https://www.ibtimes.com/ai-explaining-itself-humans-its-paying-3463844"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/06/a-3d-printed-logo-of-microsoft-is-seen.jpg"
-        width: 1200
-        height: 819
-        isCached: true
 
 secured: "EITb+oACOzmlO4yA+/UNtJtRlYC7tKAk0A3kvLD47D8M2oLSYTAkUweJ7ndV7JEM7VBk1CxGH1MUEMSHtsfKDSiYdwTm1yS9QOkqkXTW5ashxqvMaxh/9ACYYpkyCd7jGB59MLDdKz+UWrC7dYc02tw1oEH3BxUMpVB1ibMDz4yGvGKAL2ncHe5I680rtpKugT7TV6s395l0Q4x1PCQVIWMY27X/4gAZ7gu1vFast+b//jLTPuGc2oKDKJpdV3EcHHrvExiX9UuCQozNb+9N7BsFeFWhgT2KvK7dnEUdEymXY9cQzkaZUSljNqflWovOKiBuOKlNtM49P/yQJWnONcnkIbCp5BMaLgsZ3KI989M=;tuyFz9SKI7IwM9OdRnjjHQ=="
 ---
