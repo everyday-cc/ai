@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2022/04/07/World-Health-Day-Prime-Hospital-for-web_18003cc6b4c_medium.jpg"
         width: 540
         height: 405
-        isCached: true
-  - title: "The Continuous of Artificial Intelligence in Our Society"
-    excerpt: "Artificial intelligence is changing the modern workplace, raising important questions for our society. Everybody knows artificial intelligence (AI) is meant to bring a huge competitive edge to those who successfully adapt it."
-    publishedDateTime: 2022-04-06T17:20:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-continuous-of-artificial-intelligence-in-our-society"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 37
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Continuous_of_Artificial_Intelligence_in_Our_Society.jpeg"
-        width: 786
-        height: 524
         isCached: true
 
 secured: "+8wGu6Pn3AV6EH1W4paXvzatMVFYteOr2DDBaZr64iFmYexSPZSl/U6jwhgPdvaaJNWJmDXrhLbG0CkC0Dwg2dLei9eBIso8hiGQimBqLP4m3AoUuCIBPqWPLU04GaKTm6DwylRjLCmamCXmJlDgOavOWcPBokTJIdQx4VlHPu4C2kEhxgkdXGqUsc8uxGNVAXw9a9ZG19RIgpCAC48byX6/lYZbOdCTZfydzuBEdTglJwNxsbw1js925HLhz/PaOxqsYM3dxdpnVtOx+uCukEQlCahReAVhptPzyX3fZK8phlkBxPZP6xGQUjKppj2xGI3cxQ4LPbDw/CLzfFxxkf3j6FfeeOp9Xwawh7VW1S1KDwolNRZL2eC7xa06v+jBKk6FkCsaKJm9FOqJ3G4rB/L4tlTQE8gG0c00N5BpAIA/mHPy7dVJJP+U1E6Xw63lcur53eoimh2BKWq6BDMeMeslRFlvq8kxmhZaMlKid7od+f5ve6l36qrxYCdTi36b4MObpi76QM99oyJaL5dp4g==;UtMgLxNXp9qApyHsbRF/tg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-sel
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp"
 type: article
 quality: 74
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "A self-driving car is pulled over by police, find out what happened next"
+    excerpt: "Footage has been released of San Francisco police pulling over a Cruise self-driving car. What happens next is fascinating to watch."
+    publishedDateTime: 2022-04-11T11:03:00Z
+    webUrl: "https://interestingengineering.com/pulling-over-driverless-car"
+    ampWebUrl: "https://amp.interestingengineering.com/pulling-over-driverless-car"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/pulling-over-driverless-car"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QlO7jjomw7/sizes/cruise_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "HhBEMAwFaXJJpGkkCHRjnxTVu3LqIqYv6OkUPAtYIwC3dW8jypU8cHFZiWYBuEvKJFotLSTnNmJ8JvaQ/L400THsfKPlmitLJTonoHzFB08k7CKLLWrT0Acg49AM9ka/CHH7zgkB1UavhlYIBUSOY7gfMVFgUOGOquqB13FVk1241yX8V0AokR+azENIpJadeZ8oqePuD0XXuNJyfzkfyp+/s/Ff+29kmpdAi1cNlpk+Y05HKWwvcoCU2txxZ1ysT57pO7WdbxEm77TRMeG1HQ057ZAVIxjYeaM+05qilFKjwxtSxYQ00Vg6/iSboaBXLmDdsSPMBeaBr+vkwj0GeygppBuS4t+ZI7/IGy0CHH9rSQbZk1RUeU1/O3MrE4OW0oXqyNJROUOk/mlIlp8SonFDt3Y9xbnRX2S/tc+ZscjQeoS2lJTLkcFh1NetYd/PStBUUiI11P9SbW+3OifNBw30Rd1zAnLF7ko0foFjzRIf8MreJqivYCIQhK+zUHyDPAc6y+QaG6Dnco7IoTjIVA==;BX1HeyrMtE725A07QFa+vw=="
 ---

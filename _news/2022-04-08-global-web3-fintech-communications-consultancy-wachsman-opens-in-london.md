@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-web3-fintech-communications-consultancy-wachsman-opens-in-london/article_6af200ae-4ee3-5a80-a924-9978d88a4d42.html"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Global Web3 & FinTech consultancy Wachsman opens in London"
+    excerpt: "Strategic communications consultancy Wachsman, a specialist in Web3, blockchain and fintech verticals with more than 130"
+    publishedDateTime: 2022-04-11T11:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/global-web3-fintech-consultancy-wachsman-opens-in-london/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
+        isCached: true
 
 secured: "llqLI+qxBhzNtrMe8Sr1mywFLEftJ3JKxhfN37xZRclVyeCeTwsASco7Zd+qHODOMRSPU4VQNUXCYyO9FTRowvLGwfA3vRbHT+3AX2JPMP+wR0taSkB+4WoGpAWMoTOGZ+XACSWBH9iywYfif+Ed8+i08kLpQHTALr9KqkPZc77N6XDX/2dWBVplNMHR+Jx0u7NSpip3uhL3oTuc3zxdW5JfSG9tD/lAdqZSmrvNzu/WezhEHN7SPbjyiaww46ASM19+QEvRb7xcpEWIdVS8iFShzrRt8AQP3UTAdFi8IeL0ui5L8tlmXwHt41DLNa2kRjIISR1ilAC3NU09XKKcOo4bJq2i60cqhy0E1bv3N1s=;HFcs1/88ihw4RCF240Z0YQ=="
 ---

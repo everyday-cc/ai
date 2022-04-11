@@ -1,44 +1,46 @@
 ---
 category: news
 title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
-excerpt: "The AI in BFSI Market is expected to surpass USD 140 billion by 2028, as reported in a research study by Global Market Insights Inc. The"
-publishedDateTime: 2022-04-11T07:50:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-bfsi-market-to-hit-us-140-billion-by-2028-says-global-market-insights-inc--850634679.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-bfsi-market-to-hit-us-140-billion-by-2028-says-global-market-insights-inc--850634679.html"
+excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing"
+publishedDateTime: 2022-04-11T07:47:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-bfsi-market-to-hit-us-140-billion-by-2028-says-global-market-insights/article_a416098a-cd54-5f55-aa5f-49f11cab8d21.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-in-bfsi-market-to-hit-us-140-billion-by-2028-says-global-market-insights/article_a416098a-cd54-5f55-aa5f-49f11cab8d21.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1794234/Artificial_Intelligence_BFSI_Market.jpg?p=facebook"
-    width: 1208
-    height: 632
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/e6/9e66f0f3-0b59-5bc3-bcb8-4706eb805df0/6253e09f9cb84.image.jpg?crop=1208%2C634%2C0%2C286&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in BFSI Market is Going To Boom | Aws, Avaamo, Baidu"
-    excerpt: "The latest study released on the Global Artificial Intelligence in BFSI Market by AMA Research evaluates market size, trend, and forecast to 2027. The"
-    publishedDateTime: 2022-04-06T20:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-is-going-to-boom-aws-avaamo-baidu"
+  - title: "Voice Recognition Market to hit US$ 10 billion by 2028, Says Global Market Insights Inc."
+    excerpt: "Major voice recognition market participants include Aculab PLC, Advanced Voice Recognition Systems Inc., Alphabet Inc., Amazon.com Inc., Apple Inc., Aware Inc., Brainasoft, Fujitsu Ltd., IBM etc. SELBYVILLE,"
+    publishedDateTime: 2022-04-11T07:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26561435/voice-recognition-market-to-hit-us-10-billion-by-2028-says-global-market-insights-inc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26561435"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26561435"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 66
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
-secured: "04kPb7kWujH+LuzEHicPabCYhHglHc4Uucfv+beI+tEuU83z17JhXI9DenujkoJJ8KWasGKFDwo54QqCXsV7x3LoTWFRa08d1qU2qkodTNHkvRsGszHkSRnHiR0mdU8ix973JaGn2Ll01IBGRMXvo1yxRz9nfekJ4i3o7eONtabR/OFVc2bJA63Lpkwy3VWyed8qmCx8Y7qW7tAq9auuwdQw2yVPb8c1pvyIJd+s96Nx8D+X0F6hj9QG/NUUB7HqkjGWZn6xwuNFv+xK/1KYDC26xzC0TNp8Yq3mUZN9QHmKWGeULeXHg7OSQH+n2gIVnJwwAgub4SlFWXAUDfe7y0c3fTncpCUTGl3mi/jHh1kcEAaCA0X8QYsVuPaomlIMsoV6ZNxEe6HTew1IK7XJraHq9ZqEVANJagw8uaYd1I74MaTadxMHIJzvZEXIVXPr00+tUP1K1pXXFaKCl7ulKydom9C0NPvuCTVazo6QgFoR2yBwsFdV2KCbplSsUAuzFGOG2JwSNGP9TNX/qqzobw==;ehLgLMC93TAvRoDZC31gDQ=="
+secured: "zrrWD6n4qCfWZdi1H9qQnqKP1UUldyacnYBk4HqfcbQNLM9A85l3QamggfrAEH5EEUKEshoSltvgzNT+0G4sFI+3msWuZr+ym44wwom0+3IMnZCgak+Cd9lUZ7mkzcS4iq+fZTkgAf8FqWI84F40pwGOFQvZKNWQZs7PvG+edjoSAX2mk9KawMab2hyX/UWEAxE2l4E2hx1BeWWaFU97tscGD3je20KCKNcnz3KioIs4z3Sc0wK9+FTT93RS2zhTFkIvpwdF7vDSlkyeuyevGxyQh6LEVVk+l56UB2XakNwfZEOTxu7/iTiUSijdqYaCczRP3hO4nZz38Tyy5sf9hqLvQcOuvNh8g9u/xQgLWfQ=;U/+Et5m9L6+HHif7HjtUKg=="
 ---
 

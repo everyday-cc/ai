@@ -100,6 +100,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "The Art Exhibition That Fools Facial Recognition Systems"
+    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
+    publishedDateTime: 2022-04-11T11:24:00Z
+    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 39
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "LaLiga pilots facial recognition at Osasuna"
     excerpt: "LaLiga side Osasuna will debut optional facial recognition ticket admission for its match against Deportivo Alavés on April 10. It will mark the first biometric admission offering in LaLiga and will be provided through Osasuna’s partnership with Spanish facial recognition company dasGate."
     publishedDateTime: 2022-04-07T00:00:00Z

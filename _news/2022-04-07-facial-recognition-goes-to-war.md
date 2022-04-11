@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukr
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/alas-poor-yorick-i-kne.jpg"
         width: 2880
         height: 1920
+        isCached: true
+  - title: "The Art Exhibition That Fools Facial Recognition Systems"
+    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
+    publishedDateTime: 2022-04-11T11:24:00Z
+    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 39
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Orange County Register editorial: Ban facial recognition by police"
     excerpt: "Facial recognition is “the functional equivalent of requiring every person to show a personal photo identification card at all times in violation of recognized constitutional ri"

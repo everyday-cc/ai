@@ -1,0 +1,44 @@
+---
+category: news
+title: "Monitoring medication adherence for TB treatment in Africa using AI"
+excerpt: "Researchers aimed to develop an AI system that can evaluate medication adherence and non-adherence activities of TB patients based on their visual attributes obtained from videos."
+publishedDateTime: 2022-04-11T11:00:00Z
+originalUrl: "https://www.news-medical.net/news/20220411/Monitoring-medication-adherence-for-TB-treatment-in-Africa-using-AI.aspx"
+webUrl: "https://www.news-medical.net/news/20220411/Monitoring-medication-adherence-for-TB-treatment-in-Africa-using-AI.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20220411/Monitoring-medication-adherence-for-TB-treatment-in-Africa-using-AI.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220411/Monitoring-medication-adherence-for-TB-treatment-in-Africa-using-AI.aspx"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_710368_16496746277451788.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Zindi taps African talent to find AI solutions"
+    excerpt: "The Cape Town-based start-up crowdsources AI by inviting companies to post a challenge on its site, and posing the challenge to a community of more than 40,000 data scientists from across the continen"
+    publishedDateTime: 2022-04-09T22:00:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-04-10-zindi-taps-african-talent-to-find-ai-solutions/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-04-10-zindi-taps-african-talent-to-find-ai-solutions/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-04-10-zindi-taps-african-talent-to-find-ai-solutions/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
+
+secured: "miUe/UUFkgExb52eG6DrN0cfAqW8DjTkdlu3waMJ+iCA0VWQBLZU/LgnSzhYr3s2hRHGUQ0kukfi7L9lXnhq8zID8A/h0R8r2AHSxXFUJ7BHau+k8GZ6T+sMG6oY9nonej6kIaXBzabP760mCOCldSvwDPEvmBDjMTE/TB9Yv1KIp6jU6BGYWdouDRnB4ocKb68gLlcr5wqEWxTx5g2rYmeSqQc4qIKsW60NTnFvOrIjtZKs83u5HhDZVr9G3bwAWLS+6BOk2IP0kc4KDkGGLnT1ymbwhBmJUDDx3Yi5byg8/szeVXgPn8sYWDGb66JgWS20YyUVhZQKbuyMm+LJKGtcYZEaDVRWkz0QxXleAjA=;9fYcQ52blPqEETXwEXSiog=="
+---
+

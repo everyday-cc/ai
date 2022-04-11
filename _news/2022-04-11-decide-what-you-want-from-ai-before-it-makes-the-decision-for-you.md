@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/decide-what-you-want-from-ai-be
 webUrl: "https://www.thetimes.co.uk/article/decide-what-you-want-from-ai-before-it-makes-the-decision-for-you-6p0jl0c3r"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 918
     height: 516
     isCached: true
-
-related:
-  - title: "Immigration Could Decide the U.S.-China Artificial Intelligence Race"
-    excerpt: "Attracting talent has become an increasingly important factor in the growing rivalry between the United States and China for tech dominance."
-    publishedDateTime: 2022-04-10T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/immigration-could-decide-us-china"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/naturalization.jpg"
-        width: 1222
-        height: 815
-        isCached: true
 
 secured: "DARO50pMnxqY5jfmLpcrQrX33YICbpWpR7kMlF0nqrlhmOnbPSUZGJVGqDIR9nniS8z+/eqR+Bwgz2pUvGfHfz1e5QDxM8Gq4Pt9ENySu+U09qkRv3eFhP4Q7VBjbZOSDzJAxOENKG7y0qYwByTStUPhr3kjTgUcpPJnVL72OTp7qzwrZDf3tAQNUGVsHJVGcyQ3Kc/l3iztFoNAxXrH9YDUeueBmiiF+Y2IJzAT6ztImjz3BaSEOzzBlKcIV2yKNP17aMB4PrcBp4qhxe7fhph/KrHrVkuW/FsD4nnig+AX1kp/4Kj5eksQY36G/3+yLXRugjqEEG8xo2SakJsBQizMPhTCY2+aLQ8iYDoAf5c=;POiF/BppataH3g1As/Kizw=="
 ---

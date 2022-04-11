@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-11T09:53:00Z
 originalUrl: "https://delano.lu/article/ai-in-financial-services"
 webUrl: "https://delano.lu/article/ai-in-financial-services"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.paperjam.lu/images/articles/ai-in-financial-services/0.5/0.5/600/400/488342.jpg"
@@ -63,6 +64,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "I4X6bWuQYWTxTwrI5Hk2aQpsVdcP5K0TVErTVy0Qie689UYlmaErTsromoLpVY8QzD/IzCGg35JPNdoSfuJd9e+gnr/tfb6HfTJA8n0vD7j0187XAkhx0tkxejaDwRXMpXsxkjBhqWZrGOHuc9N5TH1FdelGCNl1lrQKNzI9QQt6zjLVcW/S9UBFs+LGTXUqexkrIzPeW0UnyRH31hJgTf7AZoThT0dL+uJkNNuGrUm5ht3xX6g8bcM0ADVdnUZ7mtLizpmoc9NbDwStKKJ8aF9y7iuTtklvvUny0WOdxYFL58Wclj0Vo7D/P/HnhWyM5bZUcdYm+tpIFnWnEROr4oRMcZB41UlPO5ur86QnmaE=;QNSPX3uEYbloQQB8v429GQ=="
+secured: "lk/+qw4OImUUJqEva50CyioZaLkyH9YtXbryqjeweZewLLw2xaRemzcVKnIJKXRehLBlBrhJhDFHu2Xr+ySd9jUVNAZKru7J1SMLOIcNML1CocyBKSg7LpBh+H1TZw6VWGzCANsKUjKqxS9k2mpbBCtsjJxCgSVnqReVXYmlQg30uKQR7ELDwHTxq3mWzG+qVtFp86UDDDT6y5zYG1hLBCfoIi8a71dyKRT4q4ib/YmXEWFfqq24FA/bPP5eTdRaD8yxbhQsvPQ2ghCRfw+oaoQ/V67SIeLD5VTFsZxmbHsYx+6chyScWryqlsrxYxnOSEeFwyJjXwEQ59meD2Zpxo2zbQRqeZEO5qar5lhO02YchEvBojwpVrkwLBNR8tENtHLK1YMWysXNmX7Um0u1pDPmmARawiFeyBTg3OMFQe5jMsjqg9fyPB3s8Hx3UCo05xotAUP1fWfAk/9tmvVO9K8RaFbVlG/+mkmvc69kh8lnqY/xNbhT7f1RrVJPcq4UXbNOa2+6eLHpERKAH4spFw==;mipYDo5vN4lGyqT9bFzVvg=="
 ---
 

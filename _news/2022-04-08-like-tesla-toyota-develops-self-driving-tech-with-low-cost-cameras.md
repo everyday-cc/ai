@@ -133,24 +133,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
-    excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
-    publishedDateTime: 2022-04-06T18:25:00Z
-    webUrl: "https://techstory.in/toyota-joins-tesla-in-advancing-self-driving-technology-without-lidar-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 16
-  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
-    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
-    publishedDateTime: 2022-04-06T17:45:00Z
-    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 8
 
 secured: "+7/EP6Ev63I1sa8m2xvMbQLHOSHSDn7FJVI/cmqw90//HTr3MnXF4ZOWiNyo92iw2hjWZOIp66+dUPFS4iHdboKEfICYiKfpx2rZDijrdk/VD9ELRS1axE5FCNQDKL3o64Jd79P3yyBBCTLweWfhStkO6LBKj51iewEIIR1Ia0g2Qj1CvgnMpQIlgaiR4KGkULO5H8e3eJjUbn8s6XAx8Jg7xh9UiwfU/Vnq9+eCuSvMf1/LU9GMsUCo7bQy8QWOafUZ9rVfQM3/rxH1Fgddox4OqeGDlyORzYf+1xlwjMvSM3TQzEPXlAtN6UHV5DrdGn+nkoyr1WQxDbPjKoniFe/E60oADs4t6aVR/IaqJzfxy1c3cV9wUnqN/+jqJ4oH7ejgIsZBYBWENq1BrDIwyFMX/cyPuH2U8254/V47RsHvsUioNaVkIk6R0y7MdQSdhO3BF+nq2rAkovL63qn4FfsrdVqZKDYLnkgg5kWQBfxV2O+iQg/0epTV/x8Ra/q+iv0t3gfpWQkjPGU70TZ9Rg==;APMY3lRIr6/0sVXy3iz6sA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engi
 webUrl: "https://www.unite.ai/how-to-hire-the-best-ai-machine-learning-engineers/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Teaching AI to identify colors in the dark"
+    excerpt: "A team of researchers at the University of California used deep learning to enable limited color vision in the dark. The group published a paper describing their work on the open-access site PLOS ONE."
+    publishedDateTime: 2022-04-08T12:04:00Z
+    webUrl: "https://techxplore.com/news/2022-04-ai-dark.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "wMu4YFIAEl8ty2kC6Vgre9iSVfTe6NmLk9/oTnFQo/jooW9/0tOyuISZbm9dpjd5ttbsUwpNalnaAcn8ibI7SALsIsDywyYEYZf0qE4nhfdRTGaDrQULC4/zQu+tkHmX1AkkkZhT6mts1Ui5eHq5fpwLagzEG02pk617wqU8E+PXKWjG5Y0S3eUSbSgnq5MT0u5o+E3Mt8Jw9y1LsIqvvL3qDTVhCUtRtWKF6W4BEDqp4/tKfZSmgcmm66Bf0Yffl1Z7y9lP3uO2hhKKEWW07eLce7Ub3mCR7KOklCinrEnJbOqR5aKyCVqRTE2sfXW8bPAJoaMwRkJE75xkSXFElrt+0nEGkmlWpf+40eGpuAJ8BIeXeZgr7T4br/V4paMzfPVUuW44bbATlB/v866T6ghiWlD0xwmciaY3zrs5YD++3qkA3jcYmy66fgH2tKwgJ86wvgJhkNnrrGK7bZWqNJX1RKZEj/DFCGcDIoOJoNVLf0v94bMUw5BEm9xF+UIucJivuoydAl4GiGaKF13I0g==;Z0Lrep7LDxWyveI5FejSaw=="
 ---

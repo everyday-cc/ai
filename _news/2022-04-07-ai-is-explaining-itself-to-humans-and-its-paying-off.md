@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-
 webUrl: "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-3.jpg&signature=77320dbf490918b6d0817db241f94f5d"
         width: 1280
         height: 640
-        isCached: true
-  - title: "AI is learning how to explain itself to humans"
-    excerpt: "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human"
-    publishedDateTime: 2022-04-06T17:46:00Z
-    webUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/"
-    ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/artificial-intelligence-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "HWcWnRGELBNwcWwSY0RcqMQld/S9GCZVQ8S5QR1/ruYzuTzxR4OGTctdoWzuvJ+sL8Dwl0B7eOiOob+LPnZMclc2vLXGtRGWqodQAsAQAX/ujvn8OpJ6MugaPpr7t1f3ZN52mHqMv6UzwUiNw2xJ157yp2M02Lq4mIiG7+UvjLko85X97sDmpUylUGj5O+R04AVA+uROYXaJeZDBR5d2bagoPyi2GafmEzj9VCYEgkZlVJPdp2jOaymT9TPQATRCl9D+PYhYh0JfV3uqb3PjwjRWEGWFDIN2azu73aXFtpYmh7Fs6vy+A+QIZDZ7oZ0Powo45EWmE1u5lh2gZFmdC98X7tEQpq4/CSvi+JQ274yaVl9sowAI9ISn9TmWssP6d7bCn7lrDMgWi9x4WJjaeE052InpI6h2wPjodmkvsZYP6G9FRugfAYkLyPvGrKWEQ3e1cQX5KXMxFOKyHb4JaJDEBqMKEqi7VIDMPtAOMyVH5rWqpz3aS0shFdBdmF35N56IQSA0bVxAfgCaaRV/7g==;poSppjR8KK28u0UMTddNgw=="

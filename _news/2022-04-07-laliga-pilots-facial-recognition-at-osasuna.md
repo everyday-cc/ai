@@ -99,6 +99,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "The Art Exhibition That Fools Facial Recognition Systems"
+    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
+    publishedDateTime: 2022-04-11T11:24:00Z
+    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 39
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Orange County Register editorial: Ban facial recognition by police"
     excerpt: "Facial recognition is “the functional equivalent of requiring every person to show a personal photo identification card at all times in violation of recognized constitutional ri"
     publishedDateTime: 2022-04-10T09:52:00Z

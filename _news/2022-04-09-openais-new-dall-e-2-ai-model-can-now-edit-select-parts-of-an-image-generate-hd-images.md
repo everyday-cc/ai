@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI’s DALL-E AI is becoming a scary-good graphic artist"
-    excerpt: "Like its predecessor, the new DALL-E 2 is a neural network that creates images based ... Sullivan covers emerging technology, politics, artificial intelligence, large tech companies, and ..."
-    publishedDateTime: 2022-04-06T18:07:00Z
-    webUrl: "https://www.fastcompany.com/90738554/openais-dall-e-ai-is-becoming-a-scary-good-graphic-artist"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/p-1-dall-e-ai-is-becoming-a-scary-good-graphic-artist.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Salvador DALL-E: OpenAI releases Artificial Intelligence tool that can produce a full image from a text description - or even create new angles for existing images"
     excerpt: "The artificial intelligence research group won't be releasing the system ... Its original version, named after Spanish surrealist artist Salvador Dali, and Pixar robot WALL-E, was released in January 2021 as a limited test of ways AI could be used to ..."
     publishedDateTime: 2022-04-07T18:30:00Z

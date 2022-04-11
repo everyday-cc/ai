@@ -132,24 +132,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
-    excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
-    publishedDateTime: 2022-04-06T18:25:00Z
-    webUrl: "https://techstory.in/toyota-joins-tesla-in-advancing-self-driving-technology-without-lidar-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 16
-  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
-    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
-    publishedDateTime: 2022-04-06T17:45:00Z
-    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 8
 
 secured: "TRnIXTN/mNsGbI/p8PokUxX4AxFEYdvWpEA54W41uQwmvyiJYcWMFKK1fGVT1ZjYtpPWUfRxrtznjQNiFeB4048iLhZy0HxVlLUL8fDK2ZsIzv1Kp3eZ6+f8NaaUswbnsacVa04+DO0P9nvrjtBZLtZ8DuO4CtkxK1/0gJPi6iteY0GqU2qv2NM27r0nOWNbwsvXSdAXu9MYycnT4Ird0jsKPBvlflmdtMddom4eN/SAt21lsl9wEhxTfIpnaDzjMroKpJN0HxhixhjW+YcIJabvqtJzYxIVPlbNIXOz5MquKqrx4Sd2F4GMntucG+4mkn1J0vMAy6+89V6le8WK2ldn5D2P14ukRyq2ym2VAVTDkQHQAXrvYzD+k5mU7L8tDJ+EaS4pyQDE2NQJd8H5dHC0c3hvWyWTD0Iw4hCT0JK5Qt075ahCPjy6qcKeVfJcgJRzJyTJLFGvlvZpp//KOYptIIhG6jIQifPPr4XH9j3fZr5BlrgoPbmPKwInNz6nsP8jM884l6p5+usMW0BGwQ==;hAE48NxkO+qWnxXqEigFtA=="
 ---

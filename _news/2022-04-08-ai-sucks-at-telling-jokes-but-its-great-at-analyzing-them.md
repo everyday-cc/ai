@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI is learning how to explain itself to humans"
-    excerpt: "While AI scientists have no problem designing systems that make accurate predictions on all sorts of business outcomes, they are discovering that to make those tools more effective for human"
-    publishedDateTime: 2022-04-06T17:46:00Z
-    webUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/"
-    ampWebUrl: "https://nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/06/ai-is-explaining-itself-to-humans-and-its-paying-off/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/artificial-intelligence-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "yqP0qGCHqXVqVVj5+5yk5GybCYDFsy85nM8Wj9k/I5i31isFsScxLUZogmLlfYDDruk1AxyPp2n3v9zMS3UdleImDz7cp67OK9I86iQIRgTBGu4OVAmX0uMLwqt2f8/XSWOsgDVETwEjL0sY+dbfGQcSV4CDvRRMtmbp1rJ7aAvKkdxD1THm5FAuzW1A3ABgOM2lQXJX6Jy2ouSBntM33X9gSkscu/7vgijsc1V0rJAGNOKJ9ayQ9nzH+e6qdiXoIFfizdSXWGRNs8CdQukuif2aWf2rN97yVfEWt2eQvHuMVPxzkwcRrBUhDLaokGkJxfZ55ww6lmHJ905ySocy/PIcqZYtCFj5vyDdvEoBLvE=;uin40WVKgEmQVeM4APRh+w=="
 ---

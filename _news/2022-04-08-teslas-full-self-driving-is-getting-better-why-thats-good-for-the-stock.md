@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-5
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903"
 type: article
 quality: 71
-heat: 171
+heat: 151
 published: true
 
 provider:
@@ -133,24 +133,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Toyota joins Tesla in advancing self-driving technology without lidar sensors"
-    excerpt: "Toyota Motor has joined Tesla in advancing its autonomous driving segment by not using lidar sensors. Instead using low-cost cameras."
-    publishedDateTime: 2022-04-06T18:25:00Z
-    webUrl: "https://techstory.in/toyota-joins-tesla-in-advancing-self-driving-technology-without-lidar-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 16
-  - title: "Toyota's Woven Planet is Now ‘Training' its Self-Driving Development Vehicles Using Data From Low-Cost Cameras, Like Tesla"
-    excerpt: "Toyota’s Woven Planet Holdings, which is working on advanced technology for the automaker including autonomous driving, is taking a new camera-based approach in advancing its self-driving development without the use of expensive vehicle sensors such as lidar,"
-    publishedDateTime: 2022-04-06T17:45:00Z
-    webUrl: "https://www.futurecar.com/5326/Toyota’s-Woven-Planet-is-Now-‘Training’-its-Self-Driving-Development-Vehicles-Using-Data-From-Low-Cost-Cameras-Like-Tesla"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 8
 
 secured: "It691DIEc7ehHimeoa8Q3zsftPMny51P/dzGS2Z1S5pTZ9y5sst6prz8kGJUsbUNS14RwA1RNSYSjlkKVH+dBroLIeFhZ/z2OfdGi+SA6U43aoSGQ5UpI56D2V0jC/+zreECFzabNK6yKcKP68yjEe75G/Xw8wd9z2yrNJRmzkyYJ11XmzDux90d17i5t234N2CCRR/DbcsLoakp/MkkDo6FjOtX/tkq7UtDObEunrZLX6vWVsW+KjxTi7oNBQL1VrRhiOLz9oaodKldZP70qbZ5I6fVqxEP+FJ0ovrHznpAzxyLpcjNSR1Gufwc8MFBHg68eVcKOTCYiAB1lblW3Ff3x4kbp+ssxAzRNcndGfJU682X/7LeaVaAvkM8NijuN+ZAOl5fuVWqfpMFyQ+vx0BE1xDsp85lZnqKIH8jYlzOO2dCOB6zh9Ae7WvpQpxMdwczYUPIpdYu1Imcq59bREhFY6Kwcfw1C0/Z/o1pq0tvqppPwZ64y6+PuxnNWiyQ9CDHsKz9a1wi3leryArcDA==;Uc12t8YOAe3qCZnjSTWXnA=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Fast internet brings tech jobs to Nairobi's poor neighbourhoods"
-excerpt: "Daniel Nzoma's face glows in the light of a computer screen as he reviews computer codes used for driverless cars and crop disease detection, an unusual job in Nairobi's crowded Pipeline neighbourhood."
-publishedDateTime: 2022-03-31T09:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-webUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-ampWebUrl: "https://www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods?amp"
+excerpt: "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ..."
+publishedDateTime: 2022-03-31T14:05:00Z
+originalUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
+webUrl: "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "gpqR44KG8mZVyMaHUsteL35o3Yq+ooxk2vWCvOsKFZPgFZVQXWzO97qAqFGhM/wY35Duzx/tBx3bhSoHykVC5ME3WksXZis9YJyYjjnQtDDiHsmVizhrLWGAetmfzyVKxPQZuj1crTqAV+OhvyM9Vg8rWWGY1qRLTxQqXAQ81FHcB4vGW4dUlaFCF8P56DnelKZXvmrtVkJoinVHLrpPiLpZg3NMzFcsfvPk2unGGVWUNwr2d4S1BgHkgLBl+bX4nlGkRiApqgiY838PmKsD3quDZLzjrIrbM9GWPfIao3i3WIkbUIIeqEzDHs4eg/OcC+uSi/MW0kkhtJspdqPbP6p35XQNBfGwlx4dCp0f8W+G6cJj82EI8uguWPuF0J9AUVgcDCimC1twzX1lPltQGTxnl82DFwB8h3KGI0peW+xQcQyXtG2pdx7cjX2jzDQ2YEDwIzCI1K6aQK/MocB/0fTDZFcn8g5dlzdxg/OF4KjIdY2CZBzCWYs86h9FstwHyo+ijtPUdMF+JFKXCYOEuQ==;93xrSQfVgzh0wqV9FasGtA=="
+images:
+  - url: "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "QP8YtPTZ+vNbPkKlEibnPQnG6czihvV8XE7np+z1vqMICYzvZlXzAUrF5eBoIVQahsW8qcqMkdBv4Eifk1pokIIId51jtrRqHI2q8Ls/K0VgDbFx4LLPiUn8wP5G2BrygvdkC9UBtK/DmWfc3z5cvj4XUDcS5K6+hN6Ae7y7yopbzZeogBAuGfO07MMWjnMf49JMINm0NrtkHM7ntwlKpNcr+hZMS2bmUbaW0yc77nQ3U2Du68QR/BIsL6POKDYEVUPKQEjGui4PrkTcQ4qCquPONvVKS1DfM3SkbnjwNxictQhrTc/kyQ7xE5rjMZqvgdufKFa9WpXBl22asaeiG/4jGhOEb4EtD8bDicSM4lE=;zBUv5MPkOHbLh2F55CKMZQ=="
 ---
 

@@ -51,20 +51,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "The Continuous of Artificial Intelligence in Our Society"
-    excerpt: "Artificial intelligence is changing the modern workplace, raising important questions for our society. Everybody knows artificial intelligence (AI) is meant to bring a huge competitive edge to those who successfully adapt it."
-    publishedDateTime: 2022-04-06T17:20:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-continuous-of-artificial-intelligence-in-our-society"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 37
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Continuous_of_Artificial_Intelligence_in_Our_Society.jpeg"
-        width: 786
-        height: 524
-        isCached: true
 
 secured: "hWFnxgVcmzSkX/VjD8rEpDaWCjOFSLdiQhkUr4pHIc9bA8dH21ySfskqXAGCh2xMWZ4zmymilpu4BR/qXJXkiRLZTWuROf/9tihV8Z70A9bS1HtYLBYGhoJsd6h8O0STfZ29h3AJSqRHYxX8puwe10eKNfjtuB3aUXzqFtgPNQZ7bXeAMXDNBfpbyhMjhJdrpEF1kSjP2tgW0Tj8FlD0gQ2hY3ocADSV4bO+GUlZg7TTTAhJLqLnQP3kP0A0wETwBJH6xgRu8BaQjbiyKFtIfDFzHK3G/bGjJhZA92ET2XUlCMje1bXwEGbo4Py8wkxGT/lEEXFEgO07FTPEVM0W8EhERyyJi/+90TKfr0z87jey4fc/7cPb5r17jURKa4nUGyUiEsJ3lvFK2948NPporIwC3DGx9YnFHcZBGnm1M1ePZseJIUm8QsderTmTYpyKPOxGJ4wo0AcEW/QeA2Czjf4xNycVf/h3INfWVlWqio6Ft6KQ/7q9u2+sPqZOZwnryX48Zb+o+SYxiX+VR8/u1Q==;kE5V2knAVW6THaB2KcMlKw=="
 ---

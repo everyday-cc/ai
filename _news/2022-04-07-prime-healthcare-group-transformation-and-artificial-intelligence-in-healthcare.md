@@ -53,20 +53,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
-  - title: "The Continuous of Artificial Intelligence in Our Society"
-    excerpt: "Artificial intelligence is changing the modern workplace, raising important questions for our society. Everybody knows artificial intelligence (AI) is meant to bring a huge competitive edge to those who successfully adapt it."
-    publishedDateTime: 2022-04-06T17:20:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-continuous-of-artificial-intelligence-in-our-society"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 37
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Continuous_of_Artificial_Intelligence_in_Our_Society.jpeg"
-        width: 786
-        height: 524
-        isCached: true
 
 secured: "4mTyQKqkt7G+NKof0CQN9+85z+AQSZfHhiyUOPWVD49FbE3Cje1XEfUi/OoS5DLS6k9n2TQTN0X7y2Q8Wb/PCB8XpEu7K81Y8d8I8KGM+FvA9TC9/+JD26xSUnY0TJ0SOlsYevwEQkdfwUjQPj61cHlHlUwEAtmBLq7Wa3vlzEvJU/zvMrrGG08o13jlbsdGH3O3AZuYuhM57u2A91PmlP+pGtRdJ73KNoZG+khisaGn9W1SHvCBaYKpmGjza6HZxKvoc2nE9A905fdvTWjikxxiJx0tGx9iPIpme6Vau872aaZkr7MFFzN+VAEVZwZ7GMUXXSsoL032+IGOfn2/1MiZfnwzDx0kUna5cAmfK93pc1zKxr/cWExGA4DNFdILZmbWJU/uOHUsFZbRaCmsWvXBQ3kXQ5nCr1BMhAG6pjAGccUHPDVBRZVZiYEq57NzfzGEIHO0HzzN3Podqlxc9tgRZS+yG8GbYXF71m0PadRI8rLP02Z2lCa8GGKURwJDBtNACIYw02fOAUDMCsQ3kw==;7a7LsGOy40cRoA+0nB0YlA=="
 ---

@@ -48,7 +48,7 @@ related:
     provider:
       name: Delano
       domain: delano.lu
-    quality: 39
+    quality: 41
     images:
       - url: "https://assets.paperjam.lu/images/articles/ai-in-financial-services/0.5/0.5/600/400/488342.jpg"
         width: 1050
