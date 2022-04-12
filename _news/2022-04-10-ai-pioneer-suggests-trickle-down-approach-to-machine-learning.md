@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/"
 type: article
 quality: 78
-heat: 81
+heat: 78
 published: true
 
 provider:

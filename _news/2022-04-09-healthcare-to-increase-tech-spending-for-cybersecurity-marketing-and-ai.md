@@ -40,20 +40,6 @@ related:
         width: 606
         height: 455
         isCached: true
-  - title: "AI in financial services"
-    excerpt: "Artificial intelligence stepped out of science fiction years ago and is at work in Luxembourg in insurance, financial services and fraud. Andreas Braun, director, artificial Intelligence and data science at PwC Luxembourg and Ajay Bali,"
-    publishedDateTime: 2022-04-11T09:53:00Z
-    webUrl: "https://delano.lu/article/ai-in-financial-services"
-    type: article
-    provider:
-      name: Delano
-      domain: delano.lu
-    quality: 41
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/ai-in-financial-services/0.5/0.5/600/400/488342.jpg"
-        width: 1050
-        height: 688
-        isCached: true
 
 secured: "Z4sbeuayv59+tDN5cifby1QGC2rxTlVB/GNdHp7D1MSlUyBg94wb+//7Uh3n9RrB8/DbhAiIBEC7dLekJhiRV/MVTYXbpF/tJWVHtJ//2Oa5c4UcUtFAp/ayEBH1SDNlzD3sW4y0ch9OoPY2dRApCRz6WhPxcPnCYTP3+iFhiiQ9JDzX9nw0byRVZSzT/fIwRgm6/COsIU29bT6fV0Yfq3ZKbDa21yrCrqFeof81PwNfuYGSjC/xNM11WHembNHdPyBtEikWB6PQzskZLDeXmttw5aIqaSR+8mM+u2FwyCCWgOdWfwswL+KY+VWk5MrRC2ZigsmS5mmemIkt8PjxqkhFEdlmcXBAL/PivzLmoWk=;aVqWgLiay4q/5qIPnoy0qg=="
 ---

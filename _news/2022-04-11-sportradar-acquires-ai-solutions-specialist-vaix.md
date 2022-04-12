@@ -7,7 +7,7 @@ originalUrl: "https://igamingbusiness.com/sportradar-acquires-ai-solutions-speci
 webUrl: "https://igamingbusiness.com/sportradar-acquires-ai-solutions-specialist-vaix/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sportradar acquires AI specialist Vaix"
+    excerpt: "New York-listed Sportradar has acquired Artificial Intelligence solutions provider Vaix for an undisclosed amount"
+    publishedDateTime: 2022-04-12T07:29:00Z
+    webUrl: "https://www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/"
+    ampWebUrl: "https://www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/amp/"
+    cdnAmpWebUrl: "https://www-gamingintelligence-com.cdn.ampproject.org/c/s/www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/amp/"
+    type: article
+    provider:
+      name: Gaming Intelligence
+      domain: gamingintelligence.com
+    quality: 57
+    images:
+      - url: "https://assets.gamingintelligence.com/wp-content/uploads/2022/04/11190855/Sportradar_Vaix.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sportradar to boost AI capabilities via Vaix acquisition"
     excerpt: "Sportradar has acquired Vaix, an Artificial Intelligence solutions provider for the gambling industry, building on a previous partnership."
     publishedDateTime: 2022-04-11T12:53:00Z

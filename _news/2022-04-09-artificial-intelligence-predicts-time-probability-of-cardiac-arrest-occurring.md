@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI predicts if—and when—someone will have cardiac arrest"
-    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
-    publishedDateTime: 2022-04-07T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-ifand-whensomeone-cardiac.amp"
+  - title: "Hopkins researchers develop AI technique to predict cardiac arrests"
+    excerpt: "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis."
+    publishedDateTime: 2022-04-11T10:37:00Z
+    webUrl: "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/"
+    ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: The Indian Express
+      domain: indianexpress.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-if----and.jpg"
+      - url: "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg"
         width: 1200
-        height: 750
+        height: 667
         isCached: true
   - title: "Artificial intelligence accurately predicts cardiac arrest death, researchers say"
     excerpt: "April 7 (UPI) --A new artificial intelligence-based approach ... called Survival Study of Cardiac Arrhythmia Risk, uses neural networks to build a personalized survival assessment for each patient ..."
@@ -68,20 +68,6 @@ related:
       domain: sciencedaily.com
     quality: 47
   - title: "AI predicts if and when someone will experience cardiac arrest"
-    excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can"
-    publishedDateTime: 2022-04-07T15:00:00Z
-    webUrl: "https://hub.jhu.edu/2022/04/07/trayanova-artificial-intelligence-cardiac-arrhythmia/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 37
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/heart-illustration-thumb040722.jpg?itok=WRWdIIaS"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "AI predicts if and when someone will experience cardiac arrest"
     excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
     publishedDateTime: 2022-04-08T15:04:00Z
     webUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
@@ -94,20 +80,6 @@ related:
       - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "AI Accurately Predicts If – And When – Someone Could Die of Sudden Cardiac Arrest"
-    excerpt: "First-of-its-kind survival predictor detects patterns in heart MRIs invisible to the naked eye. A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest."
-    publishedDateTime: 2022-04-10T02:28:00Z
-    webUrl: "https://scitechdaily.com/ai-accurately-predicts-if-and-when-someone-could-die-of-sudden-cardiac-arrest/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 32
-    images:
-      - url: "https://scitechdaily.com/images/Human-Heart-Cardiology-Concept.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
     excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"

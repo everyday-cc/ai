@@ -2,6 +2,365 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-04-focus-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
+      "title": "FOCUS-Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
+      "excerpt": "U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
+      "originalUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
+      "publishedDateTime": "2022-04-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-others.md",
+      "title": "Insights on the Entertainment Robot Global Market to 2026 - Featuring Lego, Sony and Hasbro Among Others",
+      "excerpt": "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26442149",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26442149",
+      "publishedDateTime": "2022-04-04T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-swedish-ai-fund-looks-to-back-african-start-ups.md",
+      "title": "Swedish AI Fund looks to back African start-ups",
+      "excerpt": "The Swedish AI Fund (SAIF) − a global non-governmental organisation (NGO) − is searching for early stage African artificial intelligence (AI) start-ups seeking funding. SAIF says it is looking for companies based in Africa,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/P3gQ2qGxDwkvnRD1",
+      "originalUrl": "https://www.itweb.co.za/content/P3gQ2qGxDwkvnRD1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428",
+          "width": 816,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/P3gQ2qGxDwkvnRD1",
+      "publishedDateTime": "2022-04-04T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-cognitive-spending-systems-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
+      "title": "Cognitive Spending Systems Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
+      "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Cognitive Spending Systems Market” (2022) Gives a start to finish investigation of critical angles like development drivers, significant difficulties ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
+      "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
+      "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/04/04/machine_learning_dbi_braintoy_bangladesh.jpeg?itok=HejUIn11",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
+      "publishedDateTime": "2022-04-03T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-ai-music-startup-endel-teams-up-with-artist-james-blake.md",
+      "title": "AI music startup Endel teams up with artist James Blake",
+      "excerpt": "Artist James Blake had a new track featured on Apple Music’s homepage last week, and there’s an interesting story behind it. ‘Wind Down‘ is billed as an “Endel Soundscape”, reflecting its status as a collaboration with AI-music startup Endel.",
+      "sourceUrl": null,
+      "webUrl": "https://musically.com/2022/04/04/ai-music-startup-endel-teams-up-with-artist-james-blake/",
+      "originalUrl": "https://musically.com/2022/04/04/ai-music-startup-endel-teams-up-with-artist-james-blake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://musically.com/wp-content/uploads/2022/04/james-blake.jpg",
+          "width": 1500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Music Ally",
+        "domain": "musically.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
+      "title": "Adversarial AI and the dystopian future of tech",
+      "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "publishedDateTime": "2022-04-03T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
+      "title": "AI algorithms could disrupt our ability to think",
+      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "publishedDateTime": "2022-04-03T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-datarobots-vision-to-democratize-machine-learning-with-no-code-ai.md",
       "title": "DataRobot’s vision to democratize machine learning with no-code AI",
       "excerpt": "The growing digitization of nearly every aspect of our world and lives has created immense opportunities for the productive application of machine learning and data science. Organizations and ...",
@@ -727,236 +1086,36 @@
     {
       "path": "_news/2022-04-02-2-ai-stocks-that-could-help-make-you-a-fortune.md",
       "title": "2 AI Stocks That Could Help Make You a Fortune",
-      "excerpt": "T he artificial intelligence (AI) software market is expected to grow by 21% this year, while the overall AI market is predicted to grow at a 40% compound annual growth rate throu",
+      "excerpt": "Nvidia's AI leadership puts the company at the doorstep of a $1 trillion total addressable market. IBM provides investors with a bonus as it sets its sights on an AI future. The artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902",
-      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
-      "publishedDateTime": "2022-04-02T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-intel-shows-off-its-first-ever-desktop-gaming-gpu.md",
-      "title": "Intel Shows Off its First Ever Desktop Gaming GPU",
-      "excerpt": "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/",
-      "originalUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/",
-      "publishedDateTime": "2022-04-02T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-emerging-ai-technologies-in-higher-education.md",
-      "title": "Emerging AI Technologies in Higher Education",
-      "excerpt": "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "originalUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "publishedDateTime": "2022-04-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
-      "title": "Face scanner Clearview AI aims to branch out beyond police",
-      "excerpt": "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
+      "webUrl": "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "originalUrl": "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://g.foolcdn.com/editorial/images/668519/a-child-having-fun-programming-a-life-size-robot-with-human-characteristics.jpg",
+          "width": 2121,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "publishedDateTime": "2022-04-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-why-its-time-to-address-the-ethical-dilemmas-of-artificial-intelligence.md",
-      "title": "Why it's time to address the ethical dilemmas of artificial intelligence",
-      "excerpt": "AI's perceived risk isn't only from autonomous weapon systems that countries like the US, China, Israel and Turkey produce that can track and target humans and assets without human intervention. It's equally about the deployment of AI and such technologies for mass surveillance,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-110988,msid-90599600/.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
-      "publishedDateTime": "2022-04-01T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences.md",
-      "title": "Whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences",
-      "excerpt": "For customers looking to implement a GxP-compliant environment on AWS for artificial intelligence (AI) and machine learning (ML) systems, we have released a new whitepaper: Machine Learning Best Practices in Healthcare and Life Sciences. This whitepaper provides an overview of security and good ML compliance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whitepaper-machine-learning-best-practices-in-healthcare-and-life-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T11:16:40-07:00",
+      "publishedDateTime": "2022-04-02T00:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -964,140 +1123,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform.md",
-      "title": "How GE Healthcare Plans to Accelerate AI with a Digital Health Platform",
-      "excerpt": "Enterprise Data & AI featured guest speaker is Vignesh Shetty, SVP & GM, Edison Platform & Artificial Intelligence at GE Healthcare and his presentation ‘How GE Healthcare Plans",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/",
-      "originalUrl": "https://www.geekwire.com/calendar-event/how-ge-healthcare-plans-to-accelerate-ai-with-a-digital-health-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Next Big Thing : Major Giants IBM, AWS, Microsoft, HPE",
-      "excerpt": "This press release was orginally distributed by SBWireNew Jersey, NJ -- (SBWIRE) -- 04/01/2022 -- The Latest research study released by HTF MI",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/b6be821d016d05754280ca0ef93d4ae4874badff-e1648768638750-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain.md",
-      "title": "Mayflower Autonomous Ship to Attempt Second Ocean Crossing With AI Captain",
-      "excerpt": "Roughly a year after a mechanical problem forced it to turn around, the Mayflower Autonomous Ship is poised to cross the Atlantic, traveling autonomously from Plymouth, United Kingdom, to Plymouth, Massachusetts.",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
-      "originalUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2022/04/MAS-seatrials-March-2021-II-002-scaled.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

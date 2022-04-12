@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Are AI hiring tools adding risks to your business?"
-    excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
-    publishedDateTime: 2022-04-07T13:27:00Z
-    webUrl: "https://www.benefitspro.com/2022/04/07/are-ai-hiring-tools-adding-risks-to-your-business/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 17
 
 secured: "7PDbq78O31RpieUOO2HGseoxZbDEyCXjTCoIjUihlzXSnhUAYO6NKksIgxPvOpFRaL0Vpnees1ilpUMVCh3img4HSMlAwvsYnwX2phKyD/OfE7rcT9e5JcyhpdX5NSUXz23QP1ajaO4ArTMlwdayG/E6mlLlNIrS/nA6tClhbR49xZaIS5sSbbGLwsqNLlPfh2GMUy5i+KRHLNPNhAX798nPSseKPaI/X0q2bsev/8zy5mzWIjKwkwGq1mF+TLQen3wOKsu20z/t6kSdhf4OY/zcGE2eWuQTWLMJUeC9Nokjlqrgzhm0U2cCTGgYs0x92WBw8+G6y7bc84kFZbXr1q/2VtbQ1nVN+GXwH/7DqfU=;u4Lm2UDJti2XO/NDdi7wDQ=="
 ---

@@ -2,6 +2,377 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-02-03-the-ai-technology-revolution-in-practical-data-protection-in-finance.md",
+      "title": "The AI technology revolution in practical data protection in Finance",
+      "excerpt": "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
+      "originalUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
+      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
+      "publishedDateTime": "2022-02-03T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028.md",
+      "title": "AI In Computer Vision Market Size, Share, Top Key Players, Industry Growth, Trends and Forecast 2028",
+      "excerpt": "Feb 03, 2022 (Heraldkeepers) -- Global AI In Computer Vision Market report spotlights major statistics of the current industry state and is a beneficial source of developments and opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-million-funding.md",
+      "title": "Chip designer mimicking brain, backed by Sam Altman, gets $25 million funding",
+      "excerpt": "(Reuters) - Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million. Gordon Wilson, CEO and co-founder of Rain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
+      "originalUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220202&t=2&i=1589737556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1109U",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2K70JB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2K70JB",
+      "publishedDateTime": "2022-02-02T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-googles-deepmind-says-its-ai-coding-bot-is-competitive-with-humans.md",
+      "title": "Google's DeepMind says its AI coding bot is 'competitive' with humans",
+      "excerpt": "Alphabet-owned AI outfit DeepMind claims it has created an AI that can write programming code, find novel solutions to interesting problems, and do it at the level of the mid-ranking human entrants in coding contests. Dubbed \"AlphaCode\" and detailed in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
+      "publishedDateTime": "2022-02-02T19:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-influencer-robotics-and-the-other-fastest-growing-jobs-in-the-nation.md",
+      "title": "Influencer, robotics and the other fastest-growing jobs in the nation",
+      "excerpt": "Overall, the big winners on job growth for non-degree jobs are in social media, green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
+      "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
+      "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
+      "originalUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/gm-cruise-car.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
+      "publishedDateTime": "2022-02-02T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-findability-hopes-to-make-ai-adoption-easier-for-enterprises.md",
+      "title": "Findability hopes to make AI adoption easier for enterprises",
+      "excerpt": "When rolling out a suite like Findability’s, he added, “Now within just a few months their products can be enabled with AI, and it’ll start telling their end customers that ‘This will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1297913719-e1643839268515.jpg?fit=800%2C429&strip=all",
+          "width": 800,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/02/220203161125.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/02/220203161125.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-robots-are-displacing-manual-labor-jobs.md",
       "title": "Robots Are Displacing Manual Labor Jobs",
       "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
@@ -818,410 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-should-robots-be-able-to-deliver-booze.md",
-      "title": "Should robots be able to deliver booze?",
-      "excerpt": "Greg Nichols covers robotics, AI, and AR/VR for ZDNet ... solutions for our users to ensure their safety and peace of mind on our trusted platform.\" Of course, problems abound with the scheme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/should-robots-be-able-to-deliver-booze/",
-      "originalUrl": "https://www.zdnet.com/article/should-robots-be-able-to-deliver-booze/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2a8dbc068e88efc8eb09519fc5224e25446f0cc6/2022/01/23/3b2392e8-786b-46f3-bfc6-b430a1db722a/starship.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-robots-be-able-to-deliver-booze/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-robots-be-able-to-deliver-booze/",
-      "publishedDateTime": "2022-02-02T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-mental-health-helpline-ends-ai-data-sharing-relationship.md",
-      "title": "Mental health helpline ends AI data-sharing relationship",
-      "excerpt": "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-60218894?via=indexdotco",
-      "originalUrl": "https://www.bbc.com/news/technology-60218894?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1837D/production/_123079199_depressed2gettyimages-1223735400.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform.md",
-      "title": "HireEZ, formerly Hiretual, raises $26M to expand its AI-powered recruitment platform",
-      "excerpt": "HireEZ, formerly Hiretual, has raised $26 million in a funding round to expand its AI-powered tools for job candidate recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
-      "publishedDateTime": "2022-02-02T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-the-rise-of-the-ai-enabled-practitioner.md",
-      "title": "The Rise Of The AI-Enabled Practitioner",
-      "excerpt": "A new role - AI-Enabled Practitioners will be needed as AI dominates all industries. What is an AI-Enabled Practitioner? Why is this needed? How can you become one?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-the-ai-enabled-practitioner/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-the-ai-enabled-practitioner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fa981c63351e17c31fe0fa/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-the-ai-enabled-practitioner/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-the-ai-enabled-practitioner/amp/",
-      "publishedDateTime": "2022-02-02T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-tesla-releases-new-full-self-driving-beta-software-update-1010-to-remove-rolling-stop-address-some-corner-cases-and-more.md",
-      "title": "Tesla releases new Full Self-Driving Beta software update (10.10) to remove ‘rolling stop’, address some corner cases and more",
-      "excerpt": "Tesla has started to releases a new Full Self-Driving Beta software update (10.10) that includes several changes including removing ‘rolling stop’, addressing some corner cases, and more. Tesla Full Self-Driving Beta Since October 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/",
-      "originalUrl": "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-Full-Self-Driving-Beta-v10-e1631354582912.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/amp/",
-      "publishedDateTime": "2022-02-02T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-fintech-cadence-announces-partnership-with-fintel-connect.md",
-      "title": "Fintech Cadence Announces Partnership with Fintel Connect",
-      "excerpt": "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/14/014d7741-65f6-5688-9ccd-386fd168c483/61fa8b489d478.image.jpg?crop=1080%2C567%2C0%2C20&resize=1080%2C567&order=crop%2Cresize",
-          "width": 1080,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-electric-sheep-turns-old-lawnmowers-into-robots.md",
-      "title": "Electric Sheep turns old lawnmowers into robots",
-      "excerpt": "A company that turns old lawn tech into state of the art robots got a big vote of confidence via major fundraising. Electric Sheep, whose name harkens to the Philip K. Dick novel upon which Blade Runner was based,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "originalUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/50cd2f0335ec51b3848ec4da8142562e1997afe7/2022/01/31/b2d2f6d3-9281-43a6-b128-0c1004d57be6/electric-sheep.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "publishedDateTime": "2022-02-02T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-five-fintech-predictions-for-2022.md",
-      "title": "Five Fintech Predictions For 2022",
-      "excerpt": "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
-      "publishedDateTime": "2022-02-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

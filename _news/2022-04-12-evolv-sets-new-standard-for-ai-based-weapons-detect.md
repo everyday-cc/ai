@@ -23,6 +23,17 @@ images:
     height: 590
     isCached: true
 
+related:
+  - title: "Evolv sets new standard for AI-based weapons detection"
+    excerpt: "Evolv Express has been awarded the U.S. Department of Homeland Security SAFETY Act Designation as a Qualified Anti-Terrorism Technology (QATT)"
+    publishedDateTime: 2022-04-11T19:34:00Z
+    webUrl: "https://www.securityinfowatch.com/perimeter-security/threat-detection-imaging-inspection/press-release/21263693/evolv-technology-evolv-sets-new-standard-for-aibased-weapons-detection"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 17
+
 secured: "SUw6EaKVLBgLX3uSrLEYILu2iLurgSZ0ZCUcTky3XCn1OAHEshUxf5MTDHIW8fBToilM+nsU89tPprLK6nOUdkvsIegoT1Pae+1yu+dCUh4uPjwDGvmg6RYcwKkJe9a4EdKp/xmDfEDBy6xLQt8lWBYEgbtwySM5tug7DGujITsR8AVPhLyo6rF/UrcCh0pVkpZcMIGOXG6jo7zZ8lH94+gdcUJVt9aTXydS8iL8vQukt1DSLexlL7/e3JxN8E0pnfbyOwHXtmmCgkAUqG+rlH3U93u7WwwCpXxTpSg4OdaJyGpjvC5V6YzhpBEH8MtH8CtYE3Ee2+zGWPJ549jb4WV18JknPeT1W0hMQQ4vO7I=;qE+64pasVNNthVwRXeOiBA=="
 ---
 

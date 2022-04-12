@@ -2,6 +2,376 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-30-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
+      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
+      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
+      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
+          "width": 1125,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house.md",
+      "title": "Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house",
+      "excerpt": "Shared micromobility company Tier Mobility said on Wednesday it has acquired Fantasmo, a U.S.-based computer vision-powered e-scooter parking startup whose tech Tier had been trialing in multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
+      "originalUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/image001-1-1.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
+      "publishedDateTime": "2022-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program.md",
+      "title": "Sygno, Provider of Automated Machine Learning Monitoring Models, Enters ING Labs Program",
+      "excerpt": "Sygno, the provider of Automated Machine Learning (AutoML) transaction monitoring models, has reportedly joined the recent cohort of scale-ups that will enter the ING Labs 2022 Program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
+          "width": 1280,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
+      "publishedDateTime": "2022-03-29T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-ai-handing-out-rough-justice-in-the-uk.md",
+      "title": "AI Handing Out Rough Justice In The U.K.",
+      "excerpt": "Report raises fears over the use of AI in the U.K. justice system, with algorithms used to determine risk of reoffending and sham marriages",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62430d3e3c540bd1d38590c8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
+      "publishedDateTime": "2022-03-29T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-omniml-releases-platform-for-building-lightweight-ml-models-for-the-edge.md",
+      "title": "OmniML releases platform for building lightweight ML models for the edge",
+      "excerpt": "OmniML’s solution enables users to design, optimize and deploy advanced machine learning models to hardware devices at the network edge. It’s designed to enable enterprises to use small, scalable, and efficient machine learning models to give edge devices the ability to perform AI inference tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
+      "publishedDateTime": "2022-03-29T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-speech-recognition-and-ai-are-fighting-insurance-fraud.md",
+      "title": "How Speech Recognition and AI are Fighting Insurance Fraud",
+      "excerpt": "By Nigel Cannings, CTO at Intelligent Voice. Speech recognition and AI technology are at the forefront of the fight against fraud in the insurance sector. As fraudulent individuals and organisations evolve,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1173091710.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
+      "publishedDateTime": "2022-03-29T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-video-teslas-new-full-self-driving-technology-still-a-work-in-progress.md",
+      "title": "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress",
+      "excerpt": "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the",
+      "sourceUrl": null,
+      "webUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "originalUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.kelownanow.com/files/files/images/tewtes.jpg",
+          "width": 828,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "cdnAmpWebUrl": "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
+      "publishedDateTime": "2022-03-29T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kelowna",
+        "domain": "kelownanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-trendforce-aws-to-give-arm-a-leg-up-to-22-of-datacenter-servers-by-2025.md",
+      "title": "TrendForce: AWS to give Arm a leg up to 22% of datacenter servers by 2025",
+      "excerpt": "The increasing adoption of Arm-compatible processors by cloud service providers is expected to grow the CPU architecture's penetration rate in datacenter servers to 22 percent by 2025, according to a report by Taiwan-based research firm TrendForce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
+      "originalUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
+      "publishedDateTime": "2022-03-29T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
       "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
       "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
@@ -788,367 +1158,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists.md",
-      "title": "Pinecone announces $28M Series A for purpose-built database aimed at data scientists",
-      "excerpt": "When Pinecone launched last year, the company’s message was around building a serverless vector database designed specifically for the needs of data scientists. While that database is at the core of what the company is doing,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
-      "originalUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1225803116.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/29/pinecone-announces-28m-series-a-for-purpose-built-database-aimed-at-data-scientists/amp/",
-      "publishedDateTime": "2022-03-29T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-breaking-into-the-black-box-of-artificial-intelligence.md",
-      "title": "Breaking into the black box of artificial intelligence",
-      "excerpt": "Similarly, each mathematical neuron in an artificial neural network is weighted with a threshold value. If the result of the calculation surpasses that threshold, it is passed to another layer of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-00858-1",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-00858-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-isg-acquires-ai-platform-solution-agreemint.md",
-      "title": "ISG Acquires AI Platform Solution Agreemint",
-      "excerpt": "Information Services Group (Nasdaq: III), a leading global technology research and advisory firm, said today it has acquired automated contracting solution Agreemint from its foun",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-isg-acquires-ai-platform-solution-agreemint-/2022/03/29/9572513.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
-      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
-      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "publishedDateTime": "2022-03-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-dubai-meet-the-genius-who-became-the-worlds-youngest-computer-programmer-aged-6.md",
-      "title": "Dubai: Meet the genius who became the world's youngest computer programmer aged 6",
-      "excerpt": "“I developed some AI projects using IBM Watson and Python including a chatbot, voice assistance and an image recognition system to detect fire and smoke.” Explaining the image recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
-      "originalUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=21481706-ebe9-5dc7-abfb-9e8b2e3da653&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84543&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
-      "publishedDateTime": "2022-03-29T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in.md",
-      "title": "Fell Asleep During That Zoom Meeting? Otter AI Will Fill You In",
-      "excerpt": "AI service will automatically capture the key talking points from online meetings, in case you weren't paying attention!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c3659a2e14fe944650f5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
-      "publishedDateTime": "2022-03-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
-      "title": "Artificial intelligence: A tool for the future of mining",
-      "excerpt": "Given the massive amounts of information that must be analyzed in the early stages of mining exploration, data interpretation is a considerable challenge for geologists. Professor Erwan Gloaguen of Institut national de la recherche scientifique (INRS) and his research partners decided to take developments in this field a step further by adapting existing deep learning architectures to interpret data from airborne imagery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-tool-the-future-mining-/2022/03/29/9572107.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1775269/Institut_National_de_la_recherche_scientifique__INRS__Artificial.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children.md",
-      "title": "How AI Is Using Facial Detection To Spot Rare Diseases In Children",
-      "excerpt": "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200",
-          "width": 620,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "publishedDateTime": "2022-03-29T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

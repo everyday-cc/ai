@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-28-self-driving-trucks-start-to-propel-land-rush-near-major-cities.md",
+      "title": "Self-Driving Trucks Start to Propel Land Rush Near Major Cities",
+      "excerpt": "Alterra Property and Embark are forming an alliance to create autonomous-trucking hubs across the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-492555/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucks-start-to-propel-land-rush-near-major-cities-11646053200",
+      "publishedDateTime": "2022-02-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-27-tesla-starts-rolling-out-of-full-self-driving-beta-in-canada.md",
       "title": "Tesla starts rolling out of Full Self-Driving Beta in Canada",
       "excerpt": "Since October 2020, Tesla has been slowly rolling out what it is calling “Full Self-Driving Beta” (FSD Beta), which is an early version of its self-driving software that is currently being ...",
@@ -1342,59 +1394,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars.md",
-      "title": "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars",
-      "excerpt": "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop",
-          "width": 2097,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

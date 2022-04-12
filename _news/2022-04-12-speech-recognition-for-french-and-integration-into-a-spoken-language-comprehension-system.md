@@ -39,20 +39,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Facial recognition planned for UK schools without Biometrics Commissioner consultation"
-    excerpt: "Fraser Sampson says he was not consulted over plans by the DfE to deploy facial recognition cameras to scan pupils’ biometrics at schools across the country."
-    publishedDateTime: 2022-04-11T15:34:00Z
-    webUrl: "https://www.biometricupdate.com/202204/facial-recognition-planned-for-uk-schools-without-biometrics-commissioner-consultation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
-        isCached: true
 
 secured: "li1+Ua+t1FAfwIo5c/7lFQcUdGD4uuRB/mFUWOXbfWmoNk+gXbM6ViUBF1obP9suD5CZfS39f/TI19M5M9KaV6cwl5OcYhl+YAPz1eNNKYbMf2uQUiu2TWnge5Bo7mdzaTeTj7mUH6/iQ3KFLOMfcdwNTLjXyTQelJWpK2oSwnAm+v6F/193U5LqnxBML6J8sT23m+wUybY0EFToeCJIPowfcsDd39hient5NrRyjmGOQ7V6JZU0awfWmPzipAp6s0v5e3MLGqPlTGQSFuLAoiGTbGu11EfwbGIJgG/qyFxl1ETVFNGQ0SZt1NfDAcF9Lw7wcHHbZExVqVqH1zFg65LNhPDOxMwZv1WPUwlWkyZZyb6+f/HRjEyus36HHnMT6bLFpa2H7B4wCK2fFgHQk0Qb86bozcqHC4H45dxT9bbGndtsM1UewRFSYZcGvkisL3O8mHm9KkWziYJw1s0iT8ByjADpYAcqKh04YLTLTFvhLry6v+fyps/KTvI2JaBUUc9uyQ0mSuVDOkVVdrI9uA==;D+pWYI2ayUW7islz1oZgTQ=="
 ---

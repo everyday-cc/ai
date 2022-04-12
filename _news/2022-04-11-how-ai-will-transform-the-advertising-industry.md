@@ -52,15 +52,6 @@ related:
         width: 295
         height: 250
         isCached: true
-  - title: "3Gtms and Greenscreens.ai Announce Partnership Delivering Intelligent Pricing and Load Optimization empowering freight brokers and 3PLs"
-    excerpt: "Gtms, a global provider of the modern-day transportation management system (TMS), today announced a partnership with Greenscreens.ai integrating intelligent spot market pricing with 3Gtms’ … Continue"
-    publishedDateTime: 2022-04-07T13:45:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/3gtms-and-greenscreens-ai-announce-partnership-delivering-intelligent-pricing-and-load-optimization-empowering-freight-brokers-and-3pls/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 0
   - title: "Scailyte AG Announces a Partnership With Sirona DX for AI-Driven End-Point Specific Single-Cell Analysis"
     excerpt: "The companies will create a powerful biomarker discovery engine, leveraging Sirona Dx technical and laboratory workflow solutions in combination with Scailyte's AI-driven data analytics platform ScaiVision™ to serve Biopharma and Biotech. The joint ..."
     publishedDateTime: 2022-04-11T18:49:00Z

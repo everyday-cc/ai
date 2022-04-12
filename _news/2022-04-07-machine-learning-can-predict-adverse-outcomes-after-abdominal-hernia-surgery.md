@@ -75,15 +75,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine Learning to Improve Opioid Prescribing Practices"
-    excerpt: "The Director of Surgical Informatics at Harvard Medical School describes three interlocking pieces of a machine-learning algorithm that predicts outlier opioid consumption: a patient survey, a dashboard with patient data and opioid consumption prediction,"
-    publishedDateTime: 2022-04-07T13:06:00Z
-    webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0119"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 19
 
 secured: "kGBrBdWLX6pXEbozkHewgSC/DJtxxutdYtDzdOmkIcod3RlJrlzYO/kpufYXrIvDsOrTyhZZVMV56JN+VUQpB9snKyucfvH1CCFa2s5Opoz4YFYHkvIInZH/NnkMSZw5nqlrc5dHDhAjQh8Z2GsduNYjs02+XXiHBCgieulLGy5P+CoX4uH5o+YF7eX7FKhZsPQJqwYVdqEswblIZ24sbmBgBmOxbjQMeuSE0BS2xrS6+sYeWy20J3lYTjeahaTPZloCIm1knI2sfR9yvN0Cn3ezJwoxQOCohKJLpZLGdJH14ZecjWSZGUBW2DPVEjqKOrlcYKicg8UqL7C4aG2j2+HQKJgUmdXWUOXeeyGIeA9un77heDxAgaFjn0JlrzeURBHOUSeHZorWTs/J+rDJ7ZDQzdlXTfAqT2j/NiuHSWGMXiIVnIXopmSK7OE1GCvS2R3aJv2d9Dej9lli8O83jOvU4ELghGkoKtFti6jB3uls8+zmUZVhYi3x+7MXeiKnIrBPN1TlD0mzgg3zXuubCw==;SspwAywksEbsq7i5pkAyKQ=="
 ---

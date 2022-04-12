@@ -2,6 +2,381 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-01-machine-models-for-cognitive-science.md",
+      "title": "Machine Models for Cognitive Science",
+      "excerpt": "Introduction. During the past two decades philosophers of psychology have considered a large variety of computational models for philosophy of mind and more recently for cognitive science. Among the suggested models are computer programs, Turing machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
+      "title": "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler",
+      "excerpt": "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It’s a necessary and important step of any ML workflow in order to generate meaningful insights",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/24/ML-8541-image001-1232x630.png",
+          "width": 1232,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:07:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-neuron-based-computer-chips-neuroscience-meets-artificial-intelligence.md",
+      "title": "Neuron-based computer chips: Neuroscience meets artificial intelligence",
+      "excerpt": "Neuroscience meets artificial intelligence. Cortical Labs’ “brain on a chip” may change the field of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "originalUrl": "https://kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://console.kr-asia.com/wp-content/uploads/2022/03/Cortical-Labs-chief-science-officer-Brett-Kagan-and-co-founder-Hon-Wen-Chong.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/neuron-based-computer-chips-neuroscience-meets-artificial-intelligence",
+      "publishedDateTime": "2022-03-31T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kr-asia",
+        "domain": "kr-asia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-boston-dynamics-spot-is-being-tested-as-a-robotic-security-guard-protecting-the-remains-of-pompeii.md",
+      "title": "Boston Dynamics' Spot Is Being Tested as a Robotic Security Guard Protecting the Remains of Pompeii",
+      "excerpt": "Serving as a robotic security guard might feel like a dystopic use of the amazing technology powering Boston Dynamics’ Spot, but the robotic dog is actually well suited to protecting a historically significant area like Pompeii,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
+      "originalUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f6a978c9f31ae8972ef8b84f56b07f90.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
+      "publishedDateTime": "2022-03-31T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-times-technology-went-straight-up-evil.md",
+      "title": "Times Technology Went Straight Up Evil",
+      "excerpt": "Technology is meant to make our lives easier, and most of the time it does. But there have been instances when technology doesn't go as planned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "originalUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/times-technology-went-straight-up-evil/l-intro-1648759618.jpg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-better-learning-through-complex-dough-manipulation.md",
+      "title": "Better learning through ‘complex dough-manipulation’",
+      "excerpt": "A disproportionate number of the early industrial food-making robots we’ve seen have been focused on pizza. I’ve long posited that this is for two key reasons. First: People like pizza. We eat a lot of it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "originalUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/MIT-DiffSkill-01-PRESS_0.jpeg?w=900",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "publishedDateTime": "2022-03-31T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-new-citi-field-entrance-option-facial-recognition.md",
+      "title": "New Citi Field entrance option: Facial recognition",
+      "excerpt": "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "originalUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-ace.newsday.com/ace/c:YmI3NTJjODctOGI2ZS00:MTlhZTE0/preview/1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "publishedDateTime": "2022-03-31T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-check-out-this-crazy-video-about-neural-tts.md",
+      "title": "Check Out This Crazy Video About Neural TTS",
+      "excerpt": "Deb Adeogba, the host, is senior program manager at Microsoft AI Cognitive Services. (Radio World contributor Dan Slentz shared this video with me. When he was director of engineering at KOB(TV) in Albuquerque, Adeogba was production manager; he saw her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.radioworld.com/tech-and-gear/check-out-this-crazy-video-about-neural-tts",
+      "originalUrl": "https://www.radioworld.com/tech-and-gear/check-out-this-crazy-video-about-neural-tts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.radioworld.com/wp-content/uploads/2022/03/Microsoft.png",
+          "width": 1032,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio World",
+        "domain": "radioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-why-and-where-should-healthcare-companies-increase-ai-investments.md",
       "title": "Why and Where Should Healthcare Companies Increase AI Investments",
       "excerpt": "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ...",
@@ -370,8 +745,8 @@
       "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
       "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -784,370 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
-      "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
-      "excerpt": "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
-      "originalUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp",
-      "publishedDateTime": "2022-03-31T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
-      "title": "Are We Ready To Transform Lives With AI?",
-      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/423551",
-      "originalUrl": "https://www.entrepreneur.com/article/423551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises.md",
-      "title": "Google Using AI To Improve Search Results For Those Experiencing Personal Crises",
-      "excerpt": "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/",
-      "publishedDateTime": "2022-03-30T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-estee-lauder.md",
-      "title": "AI Visionary, Leader And 21st Century Maverick Sol Rashidi Of Estée Lauder",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Sol Rashidi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
-      "publishedDateTime": "2022-03-30T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-expanding-self-driving-car-operations-to-downtown-phoenix.md",
-      "title": "Waymo expanding self-driving car operations to Downtown Phoenix",
-      "excerpt": "On March 30, officials with Waymo announce they are expanding their self-driving car operations in Phoenix, years after they began self-driving car operations in a part of the East Valley. FOX 10's Linda Williams reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/video/1052039",
-      "originalUrl": "https://www.fox10phoenix.com/video/1052039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/video/1052039.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/1052039.amp",
-      "publishedDateTime": "2022-03-30T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
-      "title": "China's Baidu exploring options after U.S. delisting risk",
-      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted. We apologize, but this video has failed to load.",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "publishedDateTime": "2022-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
-      "title": "NSW government AI projects face ethics assessment under new assurance framework",
-      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design.md",
-      "title": "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design",
-      "excerpt": "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

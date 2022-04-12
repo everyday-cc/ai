@@ -41,6 +41,22 @@ related:
         width: 289
         height: 305
         isCached: true
+  - title: "Why AB InBev is betting on fintech and metaverse"
+    excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
+    publishedDateTime: 2022-04-12T03:20:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "f/Yl/W7J2OqltkE4g4/sNXgLrXKBqTjs8KgkQDe22T4oqDyvi3+7voe99ZWXn88A+Rzfu5Ib0xuiW2sEFIUKskRkMpzuLbwVLXEoEkdTJv8E+POy1nXJ+KnHbd1NAVkNsTwFn4MVXNcGf6I1pvxzPPEFOwi1n6mYZ13EQSKjKIM4vgH/gWSaXZXIReLHR5/S41MjtV1x2yMKk/uCRpJpDADd7WvFZVflSdVAlRkrgzEQGnLds3IP1ZFYgs0PzJC3GcbX9MLJ0ZxteWGfHZ34187SnIWibhWzWwQSI8rypb1CPWCkvQKl0MLFEEKIJoQfz/q+YojdCcqtJOHh03TqADl6iyXh/eAhMJisL5LGLu4=;fhs/RGhKb/zsPeryjFmwXg=="
 ---

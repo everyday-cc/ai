@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-12T04:25:00Z
 originalUrl: "https://www.marketdataforecast.com/market-reports/artificial-intelligence-in-manufacturing-market"
 webUrl: "https://www.marketdataforecast.com/market-reports/artificial-intelligence-in-manufacturing-market"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.marketdataforecast.com/images/download.png"
@@ -76,15 +77,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
-    publishedDateTime: 2022-04-07T13:32:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "Smart AI Toys Market, Global Outlook and Forecast 2022-2028"
     excerpt: "The global Smart AI Toys market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimate"
     publishedDateTime: 2022-04-08T11:19:00Z

@@ -42,18 +42,20 @@ related:
         height: 278
         isCached: true
   - title: "Artificial intelligence may improve diabetes diagnosis: Study"
-    excerpt: "According to a new study researchers using a fully-automated artificial intelligence AI deep learning model were able to identify early signs of type 2 diabe"
-    publishedDateTime: 2022-04-12T05:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272473051/artificial-intelligence-may-improve-diabetes-diagnosis-study"
+    excerpt: "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were"
+    publishedDateTime: 2022-04-12T07:30:00Z
+    webUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study"
+    ampWebUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 37
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 57
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/04/Artificial-intelligence-may-improve-diabetes-diagnosis-Study-831x450.jpg"
+        width: 831
+        height: 450
         isCached: true
 
 secured: "xettgwMkxaNjxh8+pMv3/2NFt64bywaxZ8hBHOXaxRHO+PHH3XtW+XtRJSVsiSWVnZhi+edLUT5YV/hGopXYagvPbfkrMr9WpLa/eBO17RQ16fZ2v7orR4dLt2/cwneupYkzzTFA80gfePmKnCGaHAGQuPyOXPruGFpmE/Xj+AtZDNt1sgrUXhs5Ujpgk6oZcO8+MJyJB+8FFD5jperbO1tuepVzNsEVM/1cGSGDKBl/SMhjCqaAWNUM4PmIHWYs8E3nONG175i5gpcDQoreua+Uk833rUAHtKhYF2CHy6qOidC7VdaK8jTT/KH4AXRzICj2wVdvbOnbgJv8gWbYbFCt+3ixGyyid6MlO8NupkjK0xcdrXbS97BNJaDADcLFehBFw+ikDOSUJOamTZkjyVcCE8HQFti19AJfyhSBUaQp81MyWbb39NsfssKFYVDOph9nJgPIijDVQtxPZzJc/nDG1WCslvcQMvxdy8Ws51o3FqsgDLmeUpFnkyhwhZAhNJK4Ouu+322U2GG515Cm5Q==;qD/vtr6c1tRU9kLQDZptcQ=="

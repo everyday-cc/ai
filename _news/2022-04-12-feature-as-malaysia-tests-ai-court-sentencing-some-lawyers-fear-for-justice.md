@@ -1,29 +1,27 @@
 ---
 category: news
-title: "FEATURE - As Malaysia tests AI court sentencing, some lawyers fear for justice"
-excerpt: "Ismail knew courts in Sabah and neighbouring Sarawak were testing the AI tool for sentencing recommendations as part of a nationwide pilot, but was uneasy that the technology was being used before lawyers,"
-publishedDateTime: 2022-04-12T05:47:00Z
-originalUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372"
-webUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372"
-ampWebUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1"
-cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1"
+title: "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice"
+excerpt: "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah."
+publishedDateTime: 2022-04-11T23:01:00Z
+originalUrl: "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7"
+webUrl: "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7"
 type: article
-quality: 53
-heat: 73
+quality: 64
+heat: 84
 published: true
 
 provider:
-  name: Astro Awani
-  domain: astroawani.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://img.astroawani.com/2022-02/81644549897_TBGENERICTAHAN.jpg"
-    width: 590
-    height: 400
-    isCached: true
 
 related:
   - title: "AI is already being tested in Malaysian courts, but this is why it might not be a good idea yet"
@@ -57,6 +55,6 @@ related:
         height: 733
         isCached: true
 
-secured: "XPtLynoNuiBw0FuqSYbnSEnWZ5QLb+VOTD71rxpaZ3jNU4TkuKxTmUYYl48T9Clkyad+n4VYM3IM9iFVQ9dzQpQnOaCOtWvRbMVf4PIZVgEhIajHv4MwUtQJ15K8+hMa9iPkcjPCDC5VRjFCaBGpe4aSszElPG+oaP6EKQRmyCDmvzA5orAfdznkLb6aK7PGX4PDZQBt+iCj0pwJpBH/M9gC0DSwKgwTVlpTfvlirD6QQk/YDESCNTHItUuZxpjrPQSmjfNTpm/0GdGU8zyz+ph4gmdWiVoEPvhjPv65zxoybqhfJAuxTuh8RZdFATlA7jPYdiTijYQn+J+Qpfq71dIc/T+hCMnkEEV56wVyQ+c=;8K9aANCzIXF2GfhuYX/Dkw=="
+secured: "pctiRKDrLQ2SGLdSV17hCYbA3Z0gGdmcZ26IP5HDGHEKkYjtpc2HU1pLyypLMiSeJXMTlrtTmMtqsk56DUtsoWu5Dod/vQ7svOvb2rduIj7NsVFYJYuh1XMBzmk5tPQdtkn6CqSB5mLJZ9eGZJK0d7yWb4LFgAwvtt5THl6AuSIBzIE2IbM9BlRl7BUGo86/OwN/kOHSP+oP7bYvMPnahdeFLJtt44w0YiEm7V4pAJrJgZmiQwGYFtsqi6ph+RgZPnucsmWvjwonyqX7MLi79BSg2pc3DbnTtZsGWJEGF8BLMmrBmX+3mYhMetry1co4HcTg96ZsvvRCoHPSDTDqTP0cZVyNPlqT9tvt5a0manA=;H7NIerGTZlVt43yFyzDufA=="
 ---
 

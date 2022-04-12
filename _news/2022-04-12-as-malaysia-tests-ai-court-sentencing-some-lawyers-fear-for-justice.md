@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "FEATURE - As Malaysia tests AI court sentencing, some lawyers fear for justice"
-    excerpt: "Ismail knew courts in Sabah and neighbouring Sarawak were testing the AI tool for sentencing recommendations as part of a nationwide pilot, but was uneasy that the technology was being used before lawyers,"
-    publishedDateTime: 2022-04-12T05:47:00Z
-    webUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372"
-    ampWebUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1"
+  - title: "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice"
+    excerpt: "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah."
+    publishedDateTime: 2022-04-11T23:01:00Z
+    webUrl: "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7"
     type: article
     provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 53
-    images:
-      - url: "https://img.astroawani.com/2022-02/81644549897_TBGENERICTAHAN.jpg"
-        width: 590
-        height: 400
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "AI is already being tested in Malaysian courts, but this is why it might not be a good idea yet"
     excerpt: "AI is currently being tested and used in Sabah and Sarawak courts, but some are concerned that there was \"no proper consultation on the technology’s use\"."
     publishedDateTime: 2022-04-12T05:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "Scienaptic’s AI-powered credit decisioning platform chosen by Arkansas Federal Credit Union"
+    excerpt: "With Scienaptic’s underwriting platform, Arkansas Federal will be able to increase credit access for its community through instant"
+    publishedDateTime: 2022-04-12T07:38:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/scienaptics-ai-powered-credit-decisioning-platform-chosen-by-arkansas-federal-credit-union/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 27
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
         isCached: true
   - title: "Arkansas Federal Credit Union Taps Scienaptic’s AI-Powered Credit Decisioning Platform For Advanced Loan Decisioning"
     excerpt: "Deployment of AI platform to bolster auto loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Arkansas Federal Credit Union has chosen its AI-based underwriting technology to improve the credit union’s loan decisioning process and make advanced decisions for community members."

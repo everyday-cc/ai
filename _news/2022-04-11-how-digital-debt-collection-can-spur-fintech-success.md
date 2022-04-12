@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why AB InBev is betting on fintech and metaverse"
+    excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
+    publishedDateTime: 2022-04-12T03:20:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Three pillars of success for digital transformation in financial services"
     excerpt: "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide."
     publishedDateTime: 2022-04-08T09:51:00Z

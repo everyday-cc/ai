@@ -34,6 +34,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 37
+  - title: "Self-Driving Car Market is Booming Worldwide with By Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple"
+    excerpt: "A detailed report on Global Self-Driving Car market providing a complete information on the current market situation and offering"
+    publishedDateTime: 2022-04-12T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-booming-worldwide-with-by-tesla-motors-audi-ford-toyota-google-volvo-nissan-baidu-apple"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "qQ8XLRs2aFRfK9XtKNHLEjAvpg+6a/NwcXsj5uhyoTSeNKMK1pxmdu9xTuZMIZ88LIvGymOKRG+BwkwTrJeEVxg9dA2yygeGD4liDDuAHRR714/r4yY+TH3un5NYVD2LCJKOa5vDilQSTmI6YnkzzQaXAM3R06+t4OJ7DMbmR7TZtgHeY+boe3SjD3pZW2rwxAY4Tdorsar1yOprhyRO46TnEnKSqNUlx7fAnIVZxHHhWuR8+JxfyqSO2FYxF35iPzN03UUPqW2lRUVwiCG8STo8lehkQHjg2PzWQnNjwV9AGt9yg0a5PoyQiLi1LnaMuzMMdE5XGSmB7X3PYvmOx48wXyt4ukbzTAbgd2+fK3Vw0y6dsgBrTH/Q9ITbJ85sI1MYU70XQ0Z4HpsurgLrGK9NBhiHsDmM7HK0rd3qYyPli3Svwjx/v9zFm0UictsFL8tcxk/KDfYEonUeN0C8ElFXnDTajYETy0Kz/odSDRI7NQDz9JiOO1rzknbll40FgJbi5MOm+Rp1n4SGBqst0g==;j+7nrpamr6AxNBZNkD9G8A=="
 ---

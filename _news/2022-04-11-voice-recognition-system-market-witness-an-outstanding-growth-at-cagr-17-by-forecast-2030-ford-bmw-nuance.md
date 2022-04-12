@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/voice-recognition-system-market-
 webUrl: "https://www.digitaljournal.com/pr/voice-recognition-system-market-witness-an-outstanding-growth-at-cagr-17-by-forecast-2030-ford-bmw-nuance"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Automatic Number Plate Recognition Market to Rise at CAGR of 9.0% During Forecast Period, Observes TMR Study"
+    excerpt: "The automatic number plate recognition market is expected to bring tremendous growth prospects across the forecast period of 2020-2030. The"
+    publishedDateTime: 2022-04-11T07:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automatic-number-plate-recognition-market-to-rise-at-cagr-of-9-0-during-forecast-period-observes-tmr-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 5
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "hs2+GnmKCBjOIkerQ8jtB8tSMVN5ajwwk8ZJwVR0BR4S/8955Pl4xjAKnU2m+us7gbp5WhFpIO08DITlTFtzCXzcuuYYNbu1Uxe0Qj9KmlVY/uV7KmYL97okcqV7el0YG0RGktux41hpA4oCnhGjKc8mXdjQ8NjQqP0WZLvCWuHb2Zhw83hpCSvhTs/vz/mHoKiB8U6qCx4MuuQcn39hV7JV9HttMnW6BluG6ibX/PC0iATgzJlELoW130UTMP3I4wzOI4BR+PRlUIXlex+APyPhcXZN7Wmk1pXJV4f6bQNZtqAdn2+3C1DDNOar9n1epGsYYs5F+zgga+Ir2I07emf5bnknH3tzdux6ZBSb0zM=;QX9ovvuAPd0nt6hdb8jbeA=="
 ---

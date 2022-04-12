@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bulgaria to develop AI research centre in partnership with Google, AWS"
+    excerpt: "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership"
+    publishedDateTime: 2022-04-11T21:40:00Z
+    webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
+    type: article
+    provider:
+      name: Business New Europe
+      domain: intellinews.com
+    quality: 54
+    images:
+      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/01_1649673621_Cropped.jpg"
+        width: 900
+        height: 510
+        isCached: true
   - title: "Seneca establishes AI research centre"
     excerpt: "Seneca has received $641,800 from the Natural Sciences and Engineering Research Council of Canada (NSERC) to support applied research on artificial intelligence (AI) technologies that are critical to maintaining a strong Canadian economy."
     publishedDateTime: 2022-04-08T11:11:00Z

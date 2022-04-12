@@ -73,6 +73,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Scienaptic’s AI-powered credit decisioning platform chosen by Arkansas Federal Credit Union"
+    excerpt: "With Scienaptic’s underwriting platform, Arkansas Federal will be able to increase credit access for its community through instant"
+    publishedDateTime: 2022-04-12T07:38:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/scienaptics-ai-powered-credit-decisioning-platform-chosen-by-arkansas-federal-credit-union/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 27
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
+        isCached: true
 
 secured: "21yG4c3l8x/va5C5uieMks/ph3aHYnxCuJLaxpvo6J9FJVcTgOb+vKVcW1w402jm61rRrTkneZOuXUT8cBeSVpJZX3r1svpBE+2XmadadLQBtsLprSTSPWoSpkCfTGJo9Fn6lXYDv0g6OUv1mJ6DJHc8lBwyjYFvnwUr/o/clveWDd1LcXN+9BwRqFKzT3g0qrR6qGpM/fZIlR65CnAzakzVjzFgrhD7tb4IjTLjLoLljD3Ha0+94z9qDxYM6SD9EndVv+t18fOntYh5zy6xvssKIfItp5W1ocG4zvPFQX0nAgSEes9umPi0CyPPHLKxObm7+4RCtdUcqNjwYC4+jCRfagjjXaZLzLuaxJ3VJev6l5awuESLk1FAn3Lo0+f8QeV+PEuQCwAS9JHKdmseRvxhOmN9mfOvvyuy0y+sMMMRkNQSG280vGHHDILI7A96SgN5xvitwYDVfqchGgpbrJlVbLEauWdQTZ1PxVfCcD3Hq94Li+Bugv4+e0SYJnKVTiITKYFb8jSaJKyp9fN21w==;gLEXXndDgeRNtmi3qPP0SA=="
 ---

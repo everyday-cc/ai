@@ -26,7 +26,7 @@ related:
     provider:
       name: marketdataforecast
       domain: marketdataforecast.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.marketdataforecast.com/images/download.png"
         width: 1200
@@ -83,15 +83,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
-    publishedDateTime: 2022-04-07T13:32:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "Artificial Intelligence in Manufacturing Market in North America is likely to grow at a Rapid Speed in the Near Future"
     excerpt: "Artificial Intelligence in Manufacturing Market by type/solution, service, organization size, end-use verticals, and Region – Global Artificial"
     publishedDateTime: 2022-04-11T10:55:00Z

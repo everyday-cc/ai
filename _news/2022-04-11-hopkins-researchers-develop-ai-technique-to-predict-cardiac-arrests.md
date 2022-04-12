@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researc
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Indian Express
@@ -26,20 +26,70 @@ images:
     isCached: true
 
 related:
-  - title: "Johns Hopkins and Amazon collaborate to explore transformative power of AI"
-    excerpt: "The new JHU + Amazon Initiative for Interactive AI will advance machine learning, computer vision, natural language understanding, and speech processing while increasing access to these technologies"
-    publishedDateTime: 2022-04-07T14:05:00Z
-    webUrl: "https://hub.jhu.edu/2022/04/07/amazon-whiting-school-collaboration-for-artificial-intelligence/"
+  - title: "Artificial intelligence accurately predicts cardiac arrest death, researchers say"
+    excerpt: "April 7 (UPI) --A new artificial intelligence-based approach ... called Survival Study of Cardiac Arrhythmia Risk, uses neural networks to build a personalized survival assessment for each patient ..."
+    publishedDateTime: 2022-04-07T15:11:00Z
+    webUrl: "https://www.upi.com/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
+    ampWebUrl: "https://www.upi.com/amp/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2701649337182/2022/1/a1823959af5d317b15aa39ad04260675/v1.5/Artificial-intelligence-accurately-predicts-cardiac-arrest-death-researchers-say.jpg"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Artificial Intelligence predicts time, probability of cardiac arrest occurring"
+    excerpt: "A new artificial-intelligence-based approach can predict, accurately than a doctor, if and when a patient could die of cardiac arrest."
+    publishedDateTime: 2022-04-09T06:40:00Z
+    webUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/"
+    ampWebUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 53
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/heart-e1649486331323.jpg"
+        width: 599
+        height: 575
+        isCached: true
+  - title: "AI predicts if -- and when -- someone will have cardiac arrest"
+    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T00:12:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "AI predicts if and when someone will experience cardiac arrest"
+    excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
+    publishedDateTime: 2022-04-08T15:04:00Z
+    webUrl: "https://www.bme.jhu.edu/news-events/news/ai-predicts-if-and-when-someone-will-experience-cardiac-arrest/"
     type: article
     provider:
       name: HUB
       domain: jhu.edu
     quality: 37
     images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/Echo%20Plus%2C%20Heather%20Gray%2C%20Kitchen.jpeg?itok=seygesPR"
-        width: 2000
-        height: 1500
+      - url: "https://www.bme.jhu.edu/wp-content/uploads/2022/04/heart-illustration.jpg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
+    excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
+    publishedDateTime: 2022-04-08T07:52:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220408/3928947.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "iu0W6vBg3cgp6ywfJZ9H4yxsEuP27TwiJNNG6e5T2Dj6b4uaVRyxx7TxQDdQ6uRwLOJtO2o61263uMVtnTjgC+8ZkRYszeS3iwCVCVT+M3E0Ib7J0Rxchj53xA3DO3vPDi/PVcDQEfFc+TQIIML9eoKYeHT5OL6d7bSFrFp84YAEr5l5NxSyjXDwTBiDspS3Y8+W4pgxWEGXwLN7EcSlqAu3WVa1r0YkQRwslb/loH4TX+XifecFBtzvsnv/QqXrwa/fEcaWP7dfqI6rvSbJ/wMcr1u+YOvWG1XwpNNXdyrd61lUGavlhCRCfNCkMVhcqkMkedjpoaXMhGKpZneE1HwFH3sK0d6svOuXE8ty18U=;+Tf3g6wVPkiDlyt/a3aWrw=="
 ---

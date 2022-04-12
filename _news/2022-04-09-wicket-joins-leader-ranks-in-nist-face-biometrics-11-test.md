@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Face value: the ethics of facial recognition biometrics"
+    excerpt: "Despite widespread adoption, there has been some negative press about facial biometrics and whether it encroaches on the individual’s right to privacy, says Gur Geva, co-founder and CEO of iiDENTIFii."
+    publishedDateTime: 2022-04-12T06:38:00Z
+    webUrl: "https://www.itweb.co.za/content/Kjlyrvw1WDZMk6am"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/Kjlyrvw1WDZMk6am"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Kjlyrvw1WDZMk6am"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 56
+  - title: "Facial recognition planned for UK schools without Biometrics Commissioner consultation"
+    excerpt: "Fraser Sampson says he was not consulted over plans by the DfE to deploy facial recognition cameras to scan pupils’ biometrics at schools across the country."
+    publishedDateTime: 2022-04-11T15:34:00Z
+    webUrl: "https://www.biometricupdate.com/202204/facial-recognition-planned-for-uk-schools-without-biometrics-commissioner-consultation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
+        isCached: true
   - title: "Daltrey integrates Idemia face biometrics with access control platform"
     excerpt: "VisionPass can include additional biometric modalities, and provides a digital identity that can be used across all physical and digital access points."
     publishedDateTime: 2022-04-07T17:26:00Z

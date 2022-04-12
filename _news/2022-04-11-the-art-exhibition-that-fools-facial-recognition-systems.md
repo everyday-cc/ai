@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition planned for UK schools without Biometrics Commissioner consultation"
-    excerpt: "Fraser Sampson says he was not consulted over plans by the DfE to deploy facial recognition cameras to scan pupils’ biometrics at schools across the country."
-    publishedDateTime: 2022-04-11T15:34:00Z
-    webUrl: "https://www.biometricupdate.com/202204/facial-recognition-planned-for-uk-schools-without-biometrics-commissioner-consultation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
-        isCached: true
   - title: "Speech recognition for French and integration into a spoken language comprehension system"
     excerpt: "We are faced with an industrialization phenomenon that makes itself felt in literature as well as in every other subject. The reshaping of literature according to the conditions of market capitalism turns literary products into simple consumables. Newly released literary novels, stories, poems, essays, etc. literary products no longer have an artistic quality, they are consumed quickly and resemble Hollywood movies…Identical, fabricated books adorn the shelves of the bookstore. We are faced with books that appeal to the eye, not to the pleasure of reading. Every day, we are showered with novels whose content resembles a movie script, and the most popular ones are immediately adapted to the cinema. Their styles, plots and even the subjects themselves are extremely superficial, identical books are everywhere.There are quite a few pages in such works, but it is possible to read and finish them in a short time. We would like to say that the reason for this is that it is written in a successful language. However, if we consider that the majority of the people who read these books find it boring and they find it boring, this is not the main reason. The main reason is that in such industrial novels, whether it is character analysis, description of environment and events, a very superficial work is done. Writers don't think about these things. Because – a group of authors should be excluded from this – what is important for authors now is the sales figures and the amounts they will earn, rather than the literary and aesthetic characteristics of their works."
     publishedDateTime: 2022-04-12T01:24:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain To Revolutionize the Lending Space In the Fintech Industry"
+    excerpt: "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame"
+    publishedDateTime: 2022-04-12T07:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/424530"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
     excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
     publishedDateTime: 2022-04-10T07:49:00Z
@@ -43,44 +57,19 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Why AB InBev is betting on fintech and metaverse"
-    excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
-    publishedDateTime: 2022-04-12T03:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+  - title: "PoorToRich Finance Decentralized Marketplace Combined Blockchain and Artificial Intelligence to Increase Passive Income"
+    excerpt: "Ever since cryptocurrency became a medium of transaction for the common man, the need for a secure decentralized platform arose? Though there are some,"
+    publishedDateTime: 2022-04-08T21:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/poortorich-finance-decentralized-marketplace-combined-blockchain-and-artificial-intelligence-to-increase-passive-income"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 45
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Putting The “Green” Back Into Greenbacks With Climate Fintech."
-    excerpt: "Climate change is driving rapid, unprecedented, and in many cases unpredictable shifts across our planet. Enter climate fintech."
-    publishedDateTime: 2022-04-07T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/04/07/putting-the-green-back-into-greenbacks-with-climate-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-  - title: "Barrows Hotel Enterprises launches new Hotel Fintech Review Booster"
-    excerpt: "Barrows (BarrowsHotels.com), the provider of hotel investment and advisory services for hotels in the Middle East and Africa, launches a"
-    publishedDateTime: 2022-04-09T11:28:00Z
-    webUrl: "https://businessghana.com/site/news/Business/260444/Barrows-Hotel-Enterprises-launches-new-Hotel-Fintech-Review-Booster"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 24
-    images:
-      - url: "https://businessghana.com/site/img/../../cms/img/news/2022-04-09-11134700.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.getnews.info/wp-content/uploads/2022/04/1649321662.png"
+        width: 996
+        height: 541
         isCached: true
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."

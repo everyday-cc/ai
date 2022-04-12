@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-face-value-the-ethics-of-facial-recognition-biometrics.md",
+      "title": "Face value: the ethics of facial recognition biometrics",
+      "excerpt": "Despite widespread adoption, there has been some negative press about facial biometrics and whether it encroaches on the individual’s right to privacy, says Gur Geva, co-founder and CEO of iiDENTIFii.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Kjlyrvw1WDZMk6am",
+      "originalUrl": "https://www.itweb.co.za/content/Kjlyrvw1WDZMk6am",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Kjlyrvw1WDZMk6am",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Kjlyrvw1WDZMk6am",
+      "publishedDateTime": "2022-04-11T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too.md",
       "title": "AI Ethics Welcomes The Prospects Of A Standardized AI Risk Management Framework, Which Could Bolster Autonomous Self-Driving Car Efforts Too",
       "excerpt": "AI Ethics is embracing the efforts to craft an AI Risk Management Framework (AI RMF) that is being formulated as a standard by the NIST, and which will likely aid the advent too of autonomous self-driving cars.",
@@ -1400,49 +1435,6 @@
       "provider": {
         "name": "Santa Clara University",
         "domain": "scu.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist.md",
-      "title": "What's on Your Artificial Intelligence Compliance, Privacy and Ethics Checklist?",
-      "excerpt": "CIO Anthony McMahon of Target State Consulting suggests in a recent #CIOChat on Twitter that ethical and privacy issues are not unique to artificial intelligence (AI). “Every decision on how to use data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
-      "originalUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/ebd30967e58445b583d6aaf1a1c58b13.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/whats-on-your-artificial-intelligence-compliance-privacy-and-ethics-checklist/amp/",
-      "publishedDateTime": "2022-03-15T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
         "images": null,
         "publishers": null,
         "authors": null

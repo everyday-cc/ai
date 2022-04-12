@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
-      "title": "FEATURE - As Malaysia tests AI court sentencing, some lawyers fear for justice",
-      "excerpt": "Ismail knew courts in Sabah and neighbouring Sarawak were testing the AI tool for sentencing recommendations as part of a nationwide pilot, but was uneasy that the technology was being used before lawyers,",
+      "path": "_news/2022-04-12-blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.md",
+      "title": "Blu Digital unveils FAST, AVOD AI-driven ad detection software",
+      "excerpt": "Blu Digital has launched what it says is the industry’s first cloud-based ad-marking software using AI and validation to enable content distributors to prepare content for monetisation to the FAST and AVOD markets.",
       "sourceUrl": null,
-      "webUrl": "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372",
-      "originalUrl": "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372",
+      "webUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
+      "originalUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://img.astroawani.com/2022-02/81644549897_TBGENERICTAHAN.jpg",
-          "width": 590,
-          "height": 400,
+          "url": "https://www.rapidtvnews.com/images/2022/April_2022/BluSpot_interface_12April2022.jpg",
+          "width": 900,
+          "height": 491,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1",
-      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1",
-      "publishedDateTime": "2022-04-11T22:47:00-07:00",
+      "ampWebUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html",
+      "publishedDateTime": "2022-04-12T00:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Astro Awani",
-        "domain": "astroawani.com",
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -44,6 +44,239 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-bosch-to-buy-automated-driving-company-five.md",
+      "title": "Bosch to Buy Automated-Driving Company Five",
+      "excerpt": "By Kim Richters Robert Bosch GmbH said Tuesday that it has agreed to acquire U.K.-based automated-driving company Five to accelerate its development",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/bosch-to-buy-automated-driving-company-five-271649749321",
+      "originalUrl": "https://www.marketwatch.com/story/bosch-to-buy-automated-driving-company-five-271649749321",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321",
+      "publishedDateTime": "2022-04-12T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-sportradar-acquires-ai-specialist-vaix.md",
+      "title": "Sportradar acquires AI specialist Vaix",
+      "excerpt": "New York-listed Sportradar has acquired Artificial Intelligence solutions provider Vaix for an undisclosed amount",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/",
+      "originalUrl": "https://www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.gamingintelligence.com/wp-content/uploads/2022/04/11190855/Sportradar_Vaix.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/amp/",
+      "cdnAmpWebUrl": "https://www-gamingintelligence-com.cdn.ampproject.org/c/s/www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/amp/",
+      "publishedDateTime": "2022-04-12T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gaming Intelligence",
+        "domain": "gamingintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-blockchain-to-revolutionize-the-lending-space-in-the-fintech-industry.md",
+      "title": "Blockchain To Revolutionize the Lending Space In the Fintech Industry",
+      "excerpt": "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/424530",
+      "originalUrl": "https://www.entrepreneur.com/article/424530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-face-value-the-ethics-of-facial-recognition-biometrics.md",
+      "title": "Face value: the ethics of facial recognition biometrics",
+      "excerpt": "Despite widespread adoption, there has been some negative press about facial biometrics and whether it encroaches on the individual’s right to privacy, says Gur Geva, co-founder and CEO of iiDENTIFii.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Kjlyrvw1WDZMk6am",
+      "originalUrl": "https://www.itweb.co.za/content/Kjlyrvw1WDZMk6am",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Kjlyrvw1WDZMk6am",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Kjlyrvw1WDZMk6am",
+      "publishedDateTime": "2022-04-11T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-future-proof-your-business-with-ai-in-products-and-services.md",
+      "title": "Future Proof Your Business With AI In Products And Services",
+      "excerpt": "Artificial Intelligence (AI) is one of the most potent technologies businesses have ever had access to. In order to thrive and meet the customer expectations of the future, businesses must consider integrating AI into their products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6255147e2792781e826c01b6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/",
+      "publishedDateTime": "2022-04-11T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-machine-learning-models-leak-personal-info-if-training-data-is-compromised.md",
       "title": "Machine learning models leak personal info if training data is compromised",
       "excerpt": "Machine learning models can be forced into leaking private data if miscreants sneak poisoned samples into training datasets, according to new research. A team from Google, the National University of Singapore, Yale-NUS College, and Oregon State University ...",
@@ -52,7 +285,7 @@
       "originalUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -224,6 +457,48 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
+      "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
+      "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "originalUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "publishedDateTime": "2022-04-11T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum.md",
       "title": "Government Deep Tech 2022 Top Funding Focus Explainable AI, Photonics, Quantum",
       "excerpt": "An example is from 2015, where I was invited to help the top 100 CEOs, representing nearly $100 Trillion in assets under management, to look ten years into the future for their investments.",
@@ -274,6 +549,49 @@
         "AI",
         "AI in Finance",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws.md",
+      "title": "Bulgaria to develop AI research centre in partnership with Google, AWS",
+      "excerpt": "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership",
+      "sourceUrl": null,
+      "webUrl": "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria",
+      "originalUrl": "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/01_1649673621_Cropped.jpg",
+          "width": 900,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business New Europe",
+        "domain": "intellinews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -496,6 +814,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
+      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
+      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "publishedDateTime": "2022-04-11T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -806,396 +1166,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai.md",
-      "title": "Deep Science: Combining vision and language could be the key to more capable AI",
-      "excerpt": "In this edition of Deep Science, we highlight new research that illustrates the potential benefits of combining vision and language AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/",
-      "originalUrl": "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/ezgif-5-a450edf705.gif",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/",
-      "publishedDateTime": "2022-04-10T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-how-hospitals-are-using-ai-to-save-lives.md",
-      "title": "How Hospitals Are Using AI to Save Lives",
-      "excerpt": "Emergency rooms and ICUs are turning to artificial intelligence to identify and treat patients who are most at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "originalUrl": "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-521047/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "publishedDateTime": "2022-04-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-fintech-roundup-how-going-fast-and-furious-can-ruin-your-startup.md",
-      "title": "Fintech Roundup: How going Fast and furious can ruin your startup",
-      "excerpt": "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
-      "originalUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1162497947.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
-      "publishedDateTime": "2022-04-10T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
-      "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
-      "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
-      "originalUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/932/470/GettyImages-173671212.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
-      "cdnAmpWebUrl": "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
-      "publishedDateTime": "2022-04-10T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5",
-        "domain": "fox5dc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands.md",
-      "title": "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands",
-      "excerpt": "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26559078",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078",
-      "publishedDateTime": "2022-04-10T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-ai-pioneer-suggests-trickle-down-approach-to-machine-learning.md",
-      "title": "AI pioneer suggests trickle-down approach to machine learning",
-      "excerpt": "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "originalUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "publishedDateTime": "2022-04-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-how-machine-learning-frees-up-creativity-and-strategy-for-marketers.md",
-      "title": "How machine learning frees up creativity and strategy for marketers",
-      "excerpt": "While machine learning in ad tech won't replace humans, it can free marketers from tedious tasks and empower them to be superhuman.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/",
-      "originalUrl": "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1315727841.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/09/how-machine-learning-frees-up-creativity-and-strategy-for-marketers/amp/",
-      "publishedDateTime": "2022-04-09T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-cities-take-the-lead-in-setting-rules-around-how-ai-is-used.md",
-      "title": "Cities Take the Lead in Setting Rules Around How AI Is Used",
-      "excerpt": "A look at what New York, London, Barcelona and other places are doing to establish regulations that other cities—and countries—may want to copy",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "originalUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-521230/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "publishedDateTime": "2022-04-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

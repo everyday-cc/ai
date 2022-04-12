@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-blockchain-to-revolutionize-the-lending-space-in-the-fintech-industry.md",
+      "title": "Blockchain To Revolutionize the Lending Space In the Fintech Industry",
+      "excerpt": "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/424530",
+      "originalUrl": "https://www.entrepreneur.com/article/424530",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum.md",
       "title": "Government Deep Tech 2022 Top Funding Focus Explainable AI, Photonics, Quantum",
       "excerpt": "An example is from 2015, where I was invited to help the top 100 CEOs, representing nearly $100 Trillion in assets under management, to look ten years into the future for their investments.",
@@ -104,49 +156,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands.md",
-      "title": "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands",
-      "excerpt": "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26559078",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078",
-      "publishedDateTime": "2022-04-10T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -566,8 +575,8 @@
       "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
       "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

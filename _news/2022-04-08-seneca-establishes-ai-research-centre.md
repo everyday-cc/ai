@@ -7,7 +7,7 @@ originalUrl: "https://www.ept.ca/2022/04/seneca-establishes-ai-research-centre/"
 webUrl: "https://www.ept.ca/2022/04/seneca-establishes-ai-research-centre/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bulgaria to develop AI research centre in partnership with Google, AWS"
+    excerpt: "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership"
+    publishedDateTime: 2022-04-11T21:40:00Z
+    webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
+    type: article
+    provider:
+      name: Business New Europe
+      domain: intellinews.com
+    quality: 54
+    images:
+      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/01_1649673621_Cropped.jpg"
+        width: 900
+        height: 510
+        isCached: true
   - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
     excerpt: "The Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) was opened in Sofia on Monday. The Swiss Federal Institute of Technology Lausanne (EPFL) and fe"
     publishedDateTime: 2022-04-11T14:16:00Z

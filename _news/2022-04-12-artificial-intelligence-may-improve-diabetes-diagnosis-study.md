@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence may improve diabetes diagnosis: Study"
-excerpt: "According to a new study researchers using a fully-automated artificial intelligence AI deep learning model were able to identify early signs of type 2 diabe"
-publishedDateTime: 2022-04-12T05:58:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272473051/artificial-intelligence-may-improve-diabetes-diagnosis-study"
-webUrl: "https://www.bignewsnetwork.com/news/272473051/artificial-intelligence-may-improve-diabetes-diagnosis-study"
+excerpt: "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were"
+publishedDateTime: 2022-04-12T07:30:00Z
+originalUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study"
+webUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study"
+ampWebUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp"
+cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://telanganatoday.com/wp-content/uploads/2022/04/Artificial-intelligence-may-improve-diabetes-diagnosis-Study-831x450.jpg"
+    width: 831
+    height: 450
     isCached: true
 
 related:
@@ -55,6 +57,6 @@ related:
         height: 338
         isCached: true
 
-secured: "Tub4DGKnYgZL8lWtVnhXtcJbeQ1Gv4snxrDAnFlyMklb11osoX/UEgT5A8ed3t3R9qaU4ly6KU3U5YFVnpTBsQ6Phcf8QE2eN7mJdsdjoOI9bkv1dIuNd1kMmZHOJUZi7V2cnaNwmcMH+gsmQ0+MhG4BXyhcWCgj1jwPp/9QsDa6M8ow+09O+Eu0HW9VgGl8e3M0uYcT7edmn5Bu1dCIVQ4gjFtxZT74Ees889fj+7AY1HnEAj8TT3oLC9QbPWk07irDUauAlisXt+zjpTvG2AIwhSAEHOfRu16mVX4I127IbP0qq01PhP40xxec7sBOOm3Dm1orCQkF9CjHZ1xSDF8T1QH34MEuflo5FHn6z40=;tvp0ZuLoFHwZWtVRsv8WGQ=="
+secured: "4NvOZLsGUShz9MWsazyz60EosTsDriSO9U5Kbl9KAskUWnRuynT0Dd4jajcgUbeaKwDF1ClUJVqIKVg9RSSnV9TkHHq38kY0RQF+Mlc7mxvFOn9jM5zYVgW1Mx2+nx6JfV3re6W2Qbg3d6wEgjQjP19RdP3VzgPDkcy1Pg6vK5wKo96G8z011f7/4PdsQNBhyj+crWid7OYe8YJ1DlErJOghnrmlkJHXb/mgoqHc3aGIBE+cGafVhfd5QPU9geRPvJKOo7mvxMMUk0H+19v03N/o8FTcS9pI4ltOqJX/TODgqPk+hLrO9bbLboKJtwm6DtsRfTqeVbQDc6hF7IWfK2owCD+NLAboPSa8hreYGWw=;bV/NEX9yvNGHtnn0hh3wpA=="
 ---
 

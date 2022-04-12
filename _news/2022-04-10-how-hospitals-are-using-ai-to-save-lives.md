@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
 type: article
 quality: 87
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Are AI hiring tools adding risks to your business?"
-    excerpt: "For many companies, artificial intelligence used in the talent management process lacks proper oversight or formal policies."
-    publishedDateTime: 2022-04-07T13:27:00Z
-    webUrl: "https://www.benefitspro.com/2022/04/07/are-ai-hiring-tools-adding-risks-to-your-business/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 17
 
 secured: "CekkYqNTpR6NE/ARHnYDeS4PExYEiRUb2nreoE8F7R8OJWgw/OezWiKaopuMfcozFId1Z0DsBYECkdoakaHw6Crs+W/sHkYK3EdZKeY+mQK1tox4f+n2/Vi3KjGV86rkb1Nq0Njepn8hu2DG6L6czH2xRYeUfBbsJkhvtcrSrAWxwfhzfBrCp3Al0dDGqGe2zjiJAuxjLaTuQbsvaowT5cXDZTg2cuYG1ZDzvbLB+8dDoNbv9HLdpiwrwj49bd8W6bwXtm/bVr7nh0taLa22J6CghiEwH1EHQ1A7pB3DGbE1YAQhrUJ4pPT1Os6owGmHxHHqHrdDdtlxCr11A+e5GVZYVcbzKwpHYIBnWNGf/6CbL8/tzOM9PgafBR347S0t6qUQrEDrfZd8Mp6M2To9OxGH/JiUWeB3vOPoF6LoDQbkeUFwxeYek6Dnfad2f0GOqeiv81n1Mnl4iqUr4vKqYdPwrDgNwuAHDCfr3IZ88RmJK9o4ZijOO1B+g2SaKA1a4DZ/pn+biRFuGupOmZjQ1A==;XNIYpqIh8BBuOo6nHpf6lQ=="
 ---
