@@ -52,20 +52,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
-  - title: "Prime Healthcare Group: Transformation and artificial intelligence in healthcare"
-    excerpt: "Say hello to artificial intelligence. It’s now a part of our everyday life. On World Health Day, it bears reiteration that artificial intelligence is not just the big picture; it’s also the fine print and everything else in healthcare."
-    publishedDateTime: 2022-04-07T11:33:00Z
-    webUrl: "https://gulfnews.com/lifestyle/prime-healthcare-group-transformation-and-artificial-intelligence-in-healthcare-1.1649331186931"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 51
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/04/07/World-Health-Day-Prime-Hospital-for-web_18003cc6b4c_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
     excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
     publishedDateTime: 2022-04-11T12:48:00Z

@@ -106,15 +106,6 @@ related:
         width: 1052
         height: 630
         isCached: true
-  - title: "Why the age of artificial intelligence is great for your heart"
-    excerpt: "Knowing when someone is likely to suffer a heart attack would allow for lifesaving interventions. And thanks to a new artificial intelligence (AI) led approach pioneered by Johns Hopkins University researchers,"
-    publishedDateTime: 2022-04-07T13:00:00Z
-    webUrl: "https://www.innovatorsmag.com/why-the-age-of-artificial-intelligence-is-great-for-your-heart/"
-    type: article
-    provider:
-      name: innovatorsmag
-      domain: innovatorsmag.com
-    quality: 17
   - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
     excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
     publishedDateTime: 2022-04-11T12:16:00Z

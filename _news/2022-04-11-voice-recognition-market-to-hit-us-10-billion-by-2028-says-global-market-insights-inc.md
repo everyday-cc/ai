@@ -26,22 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
-    excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing digital data and increasing inclination toward the customer-centric business model."
-    publishedDateTime: 2022-04-11T08:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/11/9579974.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1794234/Artificial_Intelligence_BFSI_Market.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "Z8DmqJRYosF/rdb4w+AaQ9bLgVThAuIoEAU4eiqurHrHoVLuTeDkFUMa02LVSR2r0ilEbPRUDGAm/Iw3HnFbtuDGE1RS8iB5t++/dFD3+iQ3mHO2XXl+m6NbRz31Nv2n8S/GUMNiKgxNbL6iiwQL11YbgdQ2k+SlqdB1ifuqYqiGhlb3jWDIq+IEVYauSbeljj/9NBbdy36oXaH1UyvNfyo7r6UN13sB2NMYw6kdhZlMTB/133UqpvHP/2j3cP4WWnRGqL6ShJYW47AcgzsVlNU2C+wgSENXGjv+K48Nw5iGqB86vOTtfHyDjGjAYMgMEQj/tmgwMXRP++P8ojhiHV5+F3btz8qWsyTikaSxyo4=;2AzKYvGQ1UpkDiPJ+2QhmA=="
 ---
 

@@ -3,26 +3,20 @@ category: news
 title: "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera"
 excerpt: "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,"
 publishedDateTime: 2022-04-11T12:00:00Z
-originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
-webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
+originalUrl: "https://kfor.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
+webUrl: "https://kfor.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WKRN
-  domain: wkrn.com
+  name: Oklahoma's News
+  domain: kfor.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/kelli-masters.jpg?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Energy storage provider Fluence acquires AI software service firm Nispera"
@@ -40,6 +34,6 @@ related:
         height: 696
         isCached: true
 
-secured: "soqSF8LxgmgfodQW4oElsLBR968iRMqsSuqhYjFffT7oLle7kxPvDGzD/4ArN25mA1ypkv5jIdbHlj3Ht7WimtAblU6Wm+TN7VWUvmDBXa0qQshm+65yKyCmh2juJQbsgcl0WOSynUJMNbXYzY+foExSuGLEA9rGR7jNvWIGq8oeFv2HAuPxxFodmQJlmV0L/QFEFYEUd83Q1f8fgsSBIBpUgXILzfjB3N7kz1bZ89irv1Zggp8aS5YkzFOUrUYFU8BgYOdEwFuukGGlTfRyATrJSnzY2GCnjAH9wsJFPwNA5Unyusn072daaEX4x/BD/uwdkSWbEXwbadNtVbL69Z8z6a4L/mtX2cqiR/V5Pjo=;lHDdJSd0vLB+Lapj7MSnxA=="
+secured: "8Q77j0lXK/VHbXn8Ddgq3TqKcJlBGQRkpwixFIKjbdGTsCYptA+KR50yyTYxWkmeRbqOGqb/Rg0jqlnnoYbTFCKuE4AsAu7tsVvZPAI4Co7RYy7AFw6FsRzlwm41UTrR/R4jrbFfI+YIsYVJyUX1EalnNZeQX6QuMTfrJGu1dSqBW/33UTQ/Q1teYNbOZTFhO3FuV2zg+iIzML2XvMDwKvMVoKZ8ca+JYJHe+UpeSL3RML87rDY5Diw3cG81faopIpMdN0pcOWAZj4lrWLaDnp1RFASWJh8wW3W2WQOxb+9b/epWJFMxk/lU5tQcbddojukHJj+dgIQ7oXM9SP4MyqROg4WBJqrtMtm/Ao3BOMs=;mA9fz4mkz51oZQLY8+ydUg=="
 ---
 

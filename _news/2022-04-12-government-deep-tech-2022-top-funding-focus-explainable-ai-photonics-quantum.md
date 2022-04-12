@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Silicon Photonics Market Size, Share and Manufacture Development Analysis Report 2022-2028"
+    excerpt: "In addition, the silicon neural network created by the researchers is programmable ... as well as new emerging applications in artificial intelligence (AI), LiDAR and other sensors for driverless cars. The platform co-integrates III-V lasers, semiconductor ..."
+    publishedDateTime: 2022-04-12T05:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/silicon-photonics-market-size-share-and-manufacture-development-analysis-report-2022-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "aWmxMLdVBJmRogaItPEYRnc3En+xepMP8bvf94hOwBn7YOHwSeD8H1Bdthie5rSTGcaagjc0fxvZw+lC3dqYNiVI2h08tvPg7KGnutgSmh0as4OA5bynDfDTjz7E2k/6EX4x+w6zQgOUU3BPTqQsxIQICjAHcC7vIAV8ctBKJelTbRkQpEZyWL4hWNDy2X14VjZFSM1M1/TVYhMcvkva3PLxOK2Gza9fyHnYZld637Db4sw13hofl9YyK1aw24H7sh2SyTru/lX36jNaSwdJqjpa6R0m/J4t0WTOD9z5KEIyCt0qn8rLqTAQFUVn3ucwmf2OKVUvqKGdBxbdeqftA5xi34+D5m04L133tjnbBrLBQqXXbMdVleAhY31BBkMxdgeRoHh7OSJSe9dgJTXY6wQR/EvHXy2SLsQwnsf1wuXtLFZFO56mUgwM+ulLci9VRBpJanRkm9Gbne591oakrwiaV+kT9nUN5IcpCF9dH5dWnaRV3YuKoiWwJT3fYC9X1nb/cNIcoBRQReRo84b7VA==;cbvllHsgPI+4krV5ypcI+w=="
 ---

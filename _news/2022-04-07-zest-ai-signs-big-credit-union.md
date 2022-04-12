@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Redstone Federal Credit Union Selects Zest AI to Bring AI-Driven Lending to More than 650,000 Members Across North Alabama and Tennessee"
-    excerpt: "Redstone Federal Credit Union, one of the 20 largest federal credit unions in the U.S. with more than $8 billion in assets, today announced it has partnered with Zest AI, a leader in software for AI-driven lending."
-    publishedDateTime: 2022-04-07T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/redstone-federal-credit-union-selects-zest-ai-to-bring-ai-driven-lending-to-more-than/article_84fae27c-9846-5e1e-8a0f-79d5d36dcd2d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
 secured: "g/1vurQGQJ2xSExzam/UhKjh5d6S5I3awTmVhUCf8z8eMRAJ181yVFcws+uNNwtbf2Rki0um0kWThWUmzSRf9TdE5JVC+d61vnv7KcneKhWZonaI4ZhhB4iBZxxt0FX2H7GB39rDRWAt+4Nday8z3TB5OL8RLnzqcPhC4iiTOU895H8Q/IEk+0UPdrAmPcjYxwKvxUBmDIzdshd2JOeX6o+j/kVXNbgq1QvHmFD+h37RczCFaz9L0bWJx3NUohsRDS011rLR2/THC8h+NypZ54c5XjVT5hxcYOdU2kFunCNgb3Olwqh6tjEGXGRmUekGevzTghV84++K/kegLjV25Nzpz62SX6I83XBTDY1NNnc=;2ttTkJP1MtGQt6qgOOgdlw=="
 ---
 

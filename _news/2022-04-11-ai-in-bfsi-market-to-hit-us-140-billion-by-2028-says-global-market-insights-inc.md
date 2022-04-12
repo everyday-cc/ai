@@ -24,21 +24,102 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Market to hit US$ 10 billion by 2028, Says Global Market Insights Inc."
-    excerpt: "Major voice recognition market participants include Aculab PLC, Advanced Voice Recognition Systems Inc., Alphabet Inc., Amazon.com Inc., Apple Inc., Aware Inc., Brainasoft, Fujitsu Ltd., IBM etc. SELBYVILLE,"
-    publishedDateTime: 2022-04-11T07:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26561435/voice-recognition-market-to-hit-us-10-billion-by-2028-says-global-market-insights-inc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26561435"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26561435"
+  - title: "Artificial Intelligence in Manufacturing Market"
+    excerpt: "Global Artificial Intelligence in Manufacturing Market has been valued at US$ 1.5 Billion in 2021 and it is expected to reach the high market capital of US$ 17.2 Billion by 2027."
+    publishedDateTime: 2022-04-12T04:25:00Z
+    webUrl: "https://www.marketdataforecast.com/market-reports/artificial-intelligence-in-manufacturing-market"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: marketdataforecast
+      domain: marketdataforecast.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.marketdataforecast.com/images/download.png"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Healthcare and Life Sciences segment to have ... MarketsandMarkets's flagship competitive intelligence and market research platform, 'Knowledge Store' connects over 200,000 markets and entire ..."
+    publishedDateTime: 2022-04-07T20:47:00Z
+    webUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-worth-3096-billion-by-2026-Exclusive-Report-by-MarketsandMarkets™"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?94765"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "MicroAI Offers AI Manufacturing Solution for Real-Time Analysis"
+    excerpt: "MicroAI, a provider of edge-native artificial intelligence (AI) and machine learning software, recently announced the general availability of its MicroAI Factory soft"
+    publishedDateTime: 2022-04-08T11:14:00Z
+    webUrl: "https://www.rfidjournal.com/microai-offers-ai-manufacturing-solution-for-real-time-analysis"
+    type: article
+    provider:
+      name: RFID Journal
+      domain: rfidjournal.com
+    quality: 37
+    images:
+      - url: "https://www.rfidjournal.com/wp-content/uploads/2022/03/MicroAIFactory-1.jpg"
+        width: 1000
+        height: 530
+        isCached: true
+  - title: "Server AI Chip Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global Server AI Chip market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
+    publishedDateTime: 2022-04-12T04:44:00Z
+    webUrl: "https://galleonnews.com/news/246952/server-ai-chip-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 34
+  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a new market research report ” Artificial Intelligence Market by Offering (Hardware, Software, Services), Technol"
+    publishedDateTime: 2022-04-07T13:32:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-science-business-health-040f5edcbea6dc990672da27491797e7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+  - title: "Smart AI Toys Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global Smart AI Toys market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimate"
+    publishedDateTime: 2022-04-08T11:19:00Z
+    webUrl: "https://galleonnews.com/news/246063/smart-ai-toys-market-global-outlook-and-forecast-2022-2028/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 17
+  - title: "Artificial Intelligence in Manufacturing Market in North America is likely to grow at a Rapid Speed in the Near Future"
+    excerpt: "Artificial Intelligence in Manufacturing Market by type/solution, service, organization size, end-use verticals, and Region – Global Artificial"
+    publishedDateTime: 2022-04-11T10:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-in-north-america-is-likely-to-grow-at-a-rapid-speed-in-the-near-future"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market is expected to reach the value of 17.2 million USD by the end of 2027."
+    excerpt: "According to our research analysis, the Artificial Intelligence in Manufacturing Market size was estimated to be worth 1.5 billion dollars in 2021, and it"
+    publishedDateTime: 2022-04-12T04:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-is-expected-to-reach-the-value-of-17-2-million-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "Q6NGmSu3WF3KAbu4rnQ9Jdp24XzubKri0tu0wGo3PwlzGSjdBi5pIQVCDhcEYDQgAMxdPpGtCMoFyjZq80nqoIp2bY+hGqXCTB0Bflg4gbI2pgMIdmDazoS7eO9/ALtwBr1UiPRVJXtLOAkM49DVyqx4GtSGCeQ1fLc9FY5dfVzb2XCJPJVo+PZGx6MLfb7LBbp3+AwXHq6dN6hyaGlC6b0LZHABx5ewjUGBBVGL7uPCPO2z2stIwatp+jDxitBWWXyEXLXK9xpL1TvwWxh85+kSZSZMTr1xAkAHpbNWGF8bmaBs2XvWaTRDYmgs9WmvaYIHYg+FdeIBG3i39yaK1v/p7tbVGj778PfnWm7dq7g=;Q2MkUC65UwTVZtzkPEjPPg=="

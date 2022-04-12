@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Predicting and preventing road crashes with AI"
-    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
-    publishedDateTime: 2022-04-07T11:03:00Z
-    webUrl: "https://360.here.com/ai-aware-project"
-    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
-    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
-    type: article
-    provider:
-      name: HERE
-      domain: here.com
-    quality: 57
-    images:
-      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Machine learning and proteomics predict cardiovascular risk more accurately"
     excerpt: "An innovative proteomics-based model that predicts the risk of cardiovascular events with higher accuracy than current clinical models."
     publishedDateTime: 2022-04-11T01:18:00Z

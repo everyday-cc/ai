@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TripleBlind Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Enterprises can now leverage TripleBlind to derive more value from the intellectual property of data and algorithms. KANSAS CITY, Mo., April 07, 2022 (GLOBE NEWSWIRE) -- TripleBlind, one of the only solutions that enables enterprises to combine data and algorithms while preserving privacy and ensuring compliance,"
-    publishedDateTime: 2022-04-07T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-data-privacy-0e01117d152d1037cfddb1b0d87329dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 69
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and"
     publishedDateTime: 2022-04-07T16:29:00Z

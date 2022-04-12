@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Machine learning models leak personal info if training data is compromised"
-excerpt: "Machine learning models can be forced into leaking private data if miscreants sneak poisoned samples into training datasets, according to new research. A team from Google, the National University of Singapore,"
+excerpt: "Machine learning models can be forced into leaking private data if miscreants sneak poisoned samples into training datasets, according to new research. A team from Google, the National University of Singapore, Yale-NUS College, and Oregon State University ..."
 publishedDateTime: 2022-04-12T02:45:00Z
-originalUrl: "https://www.theregister.com/2022/04/12/machine_learning_poisoning/"
-webUrl: "https://www.theregister.com/2022/04/12/machine_learning_poisoning/"
+originalUrl: "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm"
+webUrl: "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 600
     isCached: true
 
-secured: "lIj66m7l6fofIAqyNYTi1Gpfp7StXSTNkDFNcLX9binw5fytnSTLQqBDoRdLaVqpvlJZCEuB09/2esYyHxvlm1fNRAauX3PwGF0OosA1i4PCxGkF38WMqqoYRftWJkk06sPomrapo89dRd/CaFmQOSpyZjqVS4C3dmF3CeOALUN3q3nwxqTj6ooYYpds8d82tTWJ6ryNkCG+4MHMzcNpCE/1thlY3guykJMfG8i9KxniBAUk/S0gITFkx5eX2Arndstp6vC5d5/RZgndv9qIkpvxUhC1iWAgBqA2MeUm3FsCo3RBU+SCaM6dHVJDJQk3mUY2wLYB75IcVhMnvONkizwey+ozWXd8+sfqszgqIQY=;rYoG4gF802JZZWu07pLCeg=="
+secured: "n8rRiaz8aK4+o3WlbiHYoBsbBgulgxbmVRbhOeJ5V146h1Mm6xpCUmXRz/jrZbAe/QXYovmdJcy4/ByuJfylq7Q9H1tMKyd5BPMXuDl5xKSZChE72DaVt706IOyik437Jx97+N+u9J0T/k6Z3RJ/wVe5T64O5WIO86F1BEEogIqGzHavLv7WIaCtqwwJb87asyxitojR3eq6XnRVj9bL9dHFsSocSYSavGFbKGp1y19qoRW56uoGtzjmAKYtFeTct94bSO4gFcyTBO4p95BzgszmhzyXMICftMTcu7CfnqNFRWT89vWsZS8ptbzHXR7XvNXLd/pyVgSis3oSAfyYWLk2JxlmX3JPfOthqHtC0qk=;mztH5X3S1/kPK9GmjRbsEg=="
 ---
 

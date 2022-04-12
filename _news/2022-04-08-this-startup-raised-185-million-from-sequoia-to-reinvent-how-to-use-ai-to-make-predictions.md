@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
-  - title: "Kumo Emerges From Stealth to Launch Next Generation Predictive AI for Businesses; Raises $18.5 Million in Series A Funding led by Sequoia"
-    excerpt: "Kumo, a new SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions, today announced it has emerged from stealth with $18.5 million in Series A funding led by Sequoia Capital,"
-    publishedDateTime: 2022-04-07T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-282d8344fa7741e094e7d8cc09abfe87"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+9LHRFkM8yVBkZvTZYUrtA65EM23+lu/TQ9J4Alu0idiBY8dLg4XjaQbgPa7JksbZoCiJRUlVqqkBDnys9CO32uSZ/skuON2NrK8HdTpysBuU1Y1B91vaxq0AmAn2B8l0CAD6NUoyL6FGivjMCRHBaSYLuwX/UfXscWPsY2q5iOdi/v3OG69agtGM1i9ee6V+A8UDzrsqi1JHihjAjsJodgOhyXVo5RIjM572j2SnfmtysovD1h4KY6cDmX6zML718cHtSbHnaJByWZKxDdakWj8SqHlJQBwaC63im2U1OuYq/639Axx26gN07iaocj772IU4jrutONZ9XmffdYaLGsnWmoJNHjiuLkznOfXYfM=;J3YR4YhZFSljFFDCmFVTog=="
 ---

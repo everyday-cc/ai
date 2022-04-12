@@ -99,15 +99,6 @@ related:
         width: 1052
         height: 630
         isCached: true
-  - title: "Why the age of artificial intelligence is great for your heart"
-    excerpt: "Knowing when someone is likely to suffer a heart attack would allow for lifesaving interventions. And thanks to a new artificial intelligence (AI) led approach pioneered by Johns Hopkins University researchers,"
-    publishedDateTime: 2022-04-07T13:00:00Z
-    webUrl: "https://www.innovatorsmag.com/why-the-age-of-artificial-intelligence-is-great-for-your-heart/"
-    type: article
-    provider:
-      name: innovatorsmag
-      domain: innovatorsmag.com
-    quality: 17
   - title: "How AI Is Powering the Future of Financial Services"
     excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
     publishedDateTime: 2022-04-08T18:30:00Z

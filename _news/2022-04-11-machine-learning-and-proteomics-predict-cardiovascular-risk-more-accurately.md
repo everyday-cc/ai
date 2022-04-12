@@ -43,22 +43,6 @@ related:
         width: 746
         height: 579
         isCached: true
-  - title: "Predicting and preventing road crashes with AI"
-    excerpt: "What if you could predict when a road crash is about to happen, and take action to prevent it before it does? The Swedish project AI Aware aims to do just that."
-    publishedDateTime: 2022-04-07T11:03:00Z
-    webUrl: "https://360.here.com/ai-aware-project"
-    ampWebUrl: "https://360.here.com/ai-aware-project?hs_amp=true"
-    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/ai-aware-project?hs_amp=true"
-    type: article
-    provider:
-      name: HERE
-      domain: here.com
-    quality: 57
-    images:
-      - url: "https://360.here.com/hs-fs/hubfs/Road-Traffic-Highway-Connected-Cars-LODE.jpg?width=800&name=Road-Traffic-Highway-Connected-Cars-LODE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Machine learning can predict adverse outcomes after abdominal hernia surgery"
     excerpt: "Machine learning (ML) models developed by surgeons at the University of Texas MD Anderson Cancer Center in Houston have shown a high level of accuracy in predicting which types of patients are ..."
     publishedDateTime: 2022-04-07T16:42:00Z

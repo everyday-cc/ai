@@ -7,7 +7,7 @@ originalUrl: "https://indianexpress.com/article/cities/pune/new-ai-powered-chatb
 webUrl: "https://indianexpress.com/article/cities/pune/new-ai-powered-chatbot-aims-ensure-online-safety-for-indias-youth-7860295/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "India, US to hold dialogue on artificial intelligence"
+    excerpt: "Secretary of State Tony Blinken and Defence Secretary Lloyd Austin hosted the fourth 2+2 ministerial dialogue with Defence Minister Rajnath Singh and External Affairs Minister S Jaishankar."
+    publishedDateTime: 2022-04-12T05:34:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/04/FQHBJ4raAAEsnoy.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PCCYmZDWOEAjVOf6whdtDEyYiQk1TWYZeFwNvPT1p/vvudusgr0zKfK0wLPA/qy2oDVW3GXgiGwuxTDTo1Hug5ddPljgsZF83dc9MJBma2j7LZbbpTLB0iRw3m5GOWO30GRQCVmfoVOlINbMszZFkmhowqH8HD2DwXpiXF8OUWHh55uOcXonhqMiMeKw1jISDGiX6YD2RlgVZks++hIoPIyDN6jc36ISk5Sw0nF1UBiYtea//SfvM2tLOKkI+D2Iul679RwNGATMlzskut3LPJIuZXiatW2tQW+wyh8uyC/lcqaf8ciNahxovKiJHFgHgeYt4JzfxLjt2p+0igI+WYQNUXTdURVY+gwJHPh7FYB3WJEtzZZChOsq3gCVgVc4hhGWdU9c8Al7WbuNG4AnnLxw+VJGOFdLQQ2sxRgGkWQv0yEfkaxfSIdOeeZy9BAAbroqf7nHOocl639xhrVr8GtZGnEvoMLz0EuFoanR4sBbWNtx4JFY576Rxww86nM7PbXzWEth/lLN4pyWtiL6+Q==;+KskdLNj9hE08zFm9NI3tQ=="
 ---

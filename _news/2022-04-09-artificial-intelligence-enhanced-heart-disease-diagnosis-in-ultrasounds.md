@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-enhan
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Analytics
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence may improve diabetes diagnosis: Study"
+    excerpt: "According to a new study researchers using a fully-automated artificial intelligence AI deep learning model were able to identify early signs of type 2 diabe"
+    publishedDateTime: 2022-04-12T05:58:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272473051/artificial-intelligence-may-improve-diabetes-diagnosis-study"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Deep Bio Presents Research Results of AI-based Cancer Diagnosis and Prognosis at the AACR Annual Meeting 2022"
     excerpt: "Five abstracts in prostate and breast cancers, Deep Bio's main research areas, are presented during the online sessions."
     publishedDateTime: 2022-04-11T14:00:00Z

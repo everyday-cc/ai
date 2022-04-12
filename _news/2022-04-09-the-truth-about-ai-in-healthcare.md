@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
-  - title: "Prime Healthcare Group: Transformation and artificial intelligence in healthcare"
-    excerpt: "Say hello to artificial intelligence. It’s now a part of our everyday life. On World Health Day, it bears reiteration that artificial intelligence is not just the big picture; it’s also the fine print and everything else in healthcare."
-    publishedDateTime: 2022-04-07T11:33:00Z
-    webUrl: "https://gulfnews.com/lifestyle/prime-healthcare-group-transformation-and-artificial-intelligence-in-healthcare-1.1649331186931"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 51
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/04/07/World-Health-Day-Prime-Hospital-for-web_18003cc6b4c_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size to Hit US$187.95 Bn By 2030"
     excerpt: "The global artificial intelligence in healthcare market was valued at US$ 11.06 billion in 2021. With the introduction of the digital technologies in the healthcare sector, it has gained a rapid traction across the globe."
     publishedDateTime: 2022-04-11T20:45:00Z

@@ -1,29 +1,47 @@
 ---
 category: news
-title: "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice"
-excerpt: "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah."
-publishedDateTime: 2022-04-11T23:01:00Z
-originalUrl: "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7"
-webUrl: "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7"
+title: "FEATURE - As Malaysia tests AI court sentencing, some lawyers fear for justice"
+excerpt: "Ismail knew courts in Sabah and neighbouring Sarawak were testing the AI tool for sentencing recommendations as part of a nationwide pilot, but was uneasy that the technology was being used before lawyers,"
+publishedDateTime: 2022-04-12T05:47:00Z
+originalUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372"
+webUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372"
+ampWebUrl: "https://www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1"
+cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/feature-malaysia-tests-ai-court-sentencing-some-lawyers-fear-justice-356372?amp=1"
 type: article
-quality: 64
-heat: 74
+quality: 53
+heat: 73
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Astro Awani
+  domain: astroawani.com
 
 topics:
   - AI
 
+images:
+  - url: "https://img.astroawani.com/2022-02/81644549897_TBGENERICTAHAN.jpg"
+    width: 590
+    height: 400
+    isCached: true
+
 related:
+  - title: "AI is already being tested in Malaysian courts, but this is why it might not be a good idea yet"
+    excerpt: "AI is currently being tested and used in Sabah and Sarawak courts, but some are concerned that there was \"no proper consultation on the technology’s use\"."
+    publishedDateTime: 2022-04-12T05:46:00Z
+    webUrl: "https://soyacincau.com/2022/04/12/ai-is-already-being-tested-in-malaysian-courts-but-this-is-why-it-might-not-be-a-good-idea-yet/"
+    ampWebUrl: "https://soyacincau.com/2022/04/12/ai-is-already-being-tested-in-malaysian-courts-but-this-is-why-it-might-not-be-a-good-idea-yet/amp/"
+    cdnAmpWebUrl: "https://soyacincau-com.cdn.ampproject.org/c/s/soyacincau.com/2022/04/12/ai-is-already-being-tested-in-malaysian-courts-but-this-is-why-it-might-not-be-a-good-idea-yet/amp/"
+    type: article
+    provider:
+      name: SoyaCincau
+      domain: soyacincau.com
+    quality: 45
+    images:
+      - url: "https://soyacincau.com/wp-content/uploads/2022/04/220412-unsplash-court-scaled.jpg"
+        width: 2560
+        height: 1471
+        isCached: true
   - title: "As Malaysia tests AI court sentencing, some lawyers fear for justice"
     excerpt: "The use of artificial intelligence in the legal system is growing worldwide, but as Malaysia concludes a sentencing tool trial, experts say it is no match for 'human judges'"
     publishedDateTime: 2022-04-11T22:00:00Z
@@ -39,6 +57,6 @@ related:
         height: 733
         isCached: true
 
-secured: "jP4wLcy+X1n1sOwpFp6dvMAT4JRuvzXx8RcML/vzLL560Cz8Y5Z/TDFt0lvQfB7oPE75ZtB9D0Za3k1A3n0Q3VAsI7KsfNfvs3gW1kK+qcMoFsSs86cUC9ohTZc1ANmJ34ceOMXJeV847GGbkN7F+0itEsZ4yhZuBPcQcgE6JpQIdWMAHeRp1zPGygX1yARHcr/US0tLaFYsLAobCqjj/Q1cUmpzUEgPVD61aiB+GNb/Sv9PAbnwfj92WfEA10q19XtzZNRD7feL4c0Wyis3JYhfZ+PrqDBzlVtSgQjjCazX39zBSFak42IoM0KIoCr/2BmxTbMui7FXWKkK3gjXTMUwVPL6uRVr5mZPXEJAyeQ=;odQMoA+Kaeu9AB4hZtNXdQ=="
+secured: "XPtLynoNuiBw0FuqSYbnSEnWZ5QLb+VOTD71rxpaZ3jNU4TkuKxTmUYYl48T9Clkyad+n4VYM3IM9iFVQ9dzQpQnOaCOtWvRbMVf4PIZVgEhIajHv4MwUtQJ15K8+hMa9iPkcjPCDC5VRjFCaBGpe4aSszElPG+oaP6EKQRmyCDmvzA5orAfdznkLb6aK7PGX4PDZQBt+iCj0pwJpBH/M9gC0DSwKgwTVlpTfvlirD6QQk/YDESCNTHItUuZxpjrPQSmjfNTpm/0GdGU8zyz+ph4gmdWiVoEPvhjPv65zxoybqhfJAuxTuh8RZdFATlA7jPYdiTijYQn+J+Qpfq71dIc/T+hCMnkEEV56wVyQ+c=;8K9aANCzIXF2GfhuYX/Dkw=="
 ---
 

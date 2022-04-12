@@ -34,15 +34,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 37
-  - title: "Toyota and Tesla camera project to lead to affordable self-driving vehicles?"
-    excerpt: "Woven Planet Holdings, a unit of Toyota,  is following the footsteps of Tesla in adopting a new camera-based approach instead of expensive vehicle sensors"
-    publishedDateTime: 2022-04-07T12:00:00Z
-    webUrl: "https://techhq.com/2022/04/toyota-and-tesla-camera-project-to-lead-to-affordable-self-driving-vehicles/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 16
 
 secured: "qQ8XLRs2aFRfK9XtKNHLEjAvpg+6a/NwcXsj5uhyoTSeNKMK1pxmdu9xTuZMIZ88LIvGymOKRG+BwkwTrJeEVxg9dA2yygeGD4liDDuAHRR714/r4yY+TH3un5NYVD2LCJKOa5vDilQSTmI6YnkzzQaXAM3R06+t4OJ7DMbmR7TZtgHeY+boe3SjD3pZW2rwxAY4Tdorsar1yOprhyRO46TnEnKSqNUlx7fAnIVZxHHhWuR8+JxfyqSO2FYxF35iPzN03UUPqW2lRUVwiCG8STo8lehkQHjg2PzWQnNjwV9AGt9yg0a5PoyQiLi1LnaMuzMMdE5XGSmB7X3PYvmOx48wXyt4ukbzTAbgd2+fK3Vw0y6dsgBrTH/Q9ITbJ85sI1MYU70XQ0Z4HpsurgLrGK9NBhiHsDmM7HK0rd3qYyPli3Svwjx/v9zFm0UictsFL8tcxk/KDfYEonUeN0C8ElFXnDTajYETy0Kz/odSDRI7NQDz9JiOO1rzknbll40FgJbi5MOm+Rp1n4SGBqst0g==;j+7nrpamr6AxNBZNkD9G8A=="
 ---
