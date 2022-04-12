@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/624ed6f13f392a00193f3fb5?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "9Wt1o5G7JkGnW7X8TaxEarJndHlbkA/ntleFFTL2lw6LZ+OsCZpQ2SI7Uqh3eQA7Ao01xESL6g3F8RFv520Tuwii1kHdkobA+DngqdC2+y0/bLrmsHyohiCLmFbJGVBbnBOM43ezmQFeT6ZNadNwpTbNQNgjnR88TZ8AtO5PyKawB3DNFqzUjtV5N+/jVd1wLpw4LILB63Wk9Ic57dzg3ATlGAcl+SFFpx3dSEsjpFvQ4dBrKwgA3woJnuSFTcJ6NN/H6p9l8Fm7fESngRA+6MRq7FD0AFxVxNWqgyoWDDHvfasO9eTFjAuOtR8Gejo3b9S6iWbwBxNcBQOszqAgLN4pG0z2o58UP1L+RXZaEdk=;xXAQEwgKcD6ESQR2d8Hb9A=="
+secured: "fQORQovY8sGFi/IAp6bY/CWF6dsy6Ap62eLE3k5TA8+xZP9+LRYzzKkwD+BOaVbeOYJQjZ8QT5llIW4FQ2M9PGlHPr/yMr0AM2COB9lCfYsReuE8LwRsXEWtbHHVBl1pDlCBC6S6jQRoDHubSDp89IjXUZuiOAEnVdA05p5k9Nie+RM1ApvVz2S1AzcrnVvwf59CwQ3PiJ4BaQbH0L7Me/NYB0DENMm8l1l0BOT5NwSsO4V6PErdRXnTIlAkrQUclE6Mrlj4efwLVNK2TLjwaYeTa+xkTc4F1dK4MmYFjBLPPLnBaFaDBnw/kkNJT5mMjqBN1ky1X9kg1O9WLoQhjVcD8Wq/eZNE5nmxLb46Hf9ot4bqqmFEoh35HdX6GgVlfUQLzquJt0unDbsa0lIUf7WnniMC7tGmXGd+l7rCHaEEN1u9WkC6VayezZbiYwI8zusfFJfxStMrXrcpRbnyasahDYb1QDISi3IHt3MrCGEBVQ1SAsvmwHQEQCsEHQW8RunS87GpvMT68uCxlTCiwg==;AV+X9xtYus5oJAVBy14Ivg=="
 ---
 

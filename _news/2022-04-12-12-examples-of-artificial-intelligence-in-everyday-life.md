@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/xYwyxwCfS5GBMPoZXJhe8n-1200-80.jpg"

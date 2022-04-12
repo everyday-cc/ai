@@ -1,85 +1,20 @@
 ---
 category: news
 title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and"
-publishedDateTime: 2022-04-07T16:29:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html"
+excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft’s market expansion and what it could mean for industry-specific organizations looking to move to the cloud in 2022."
+publishedDateTime: 2022-04-07T16:30:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-4381f5d165f3ad463be34179c97c47ca"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-4381f5d165f3ad463be34179c97c47ca"
 type: article
-quality: 25
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-related:
-  - title: "Get 42 hours of Microsoft Azure training for under $6 per course"
-    excerpt: "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary"
-    publishedDateTime: 2022-04-10T21:20:00Z
-    webUrl: "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Sorry, developers: Microsoft's new tool fixes the bugs in software code written by AI"
-    excerpt: "Microsoft reckons machine-generated code should be treated with a \"mixture of optimism and caution\" because programming can be automated with large language models, but the code also can't always be trusted."
-    publishedDateTime: 2022-04-11T11:47:00Z
-    webUrl: "https://www.zdnet.com/article/sorry-developers-microsofts-new-tool-fixes-the-bugs-in-software-code-written-by-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sorry-developers-microsofts-new-tool-fixes-the-bugs-in-software-code-written-by-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sorry-developers-microsofts-new-tool-fixes-the-bugs-in-software-code-written-by-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b553df9f6b432740715bbd73bcb357d1d312bc9f/2022/04/04/c113740a-de27-4483-b0b2-f748b8f1e75b/how-to-stand-out-in-a-job-interview.png?width=1200&height=675&fit=crop&format=pjpg&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ed Tech in a Hybrid World With Microsoft's Joe Brazier — ICYMI"
-    excerpt: "Joe Brazier leads K-12 strategy on Microsoft's worldwide education team. This week he answered the \"In Case You Missed It\" crew's questions about the changing needs of educators in the wake of COVID-19."
-    publishedDateTime: 2022-04-11T22:38:00Z
-    webUrl: "https://www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi"
-    ampWebUrl: "https://www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
-    publishedDateTime: 2022-04-08T09:37:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 25
-
-secured: "16t9u+Mclei3q6CgU4JOAUe0e53CJqZfoao5be+nvHvlwmrxOVeqVarnCq8V6WmlZHi5Azyf390RIZ7ZiYGcdKJbIr6v/wJPVv6k62DN23n9mRsbhnkdADU7q33AJSyrZswd9gV+FqAOyVFa12UlRRzugtYpuZEv0imX3FYJCwD99ugyv4tUIg4O8VHNw1LBjyWt7bYhe1bKKr/b/xtgQGMGiTH3COxymMpfNoK+W0Dl2AxWdKT8KGguJtdNHAUR2QE6QAOTw+zMupLn+l3YKNyya9Qh2t0z+dPwQ2gFW77fcWgwku/XUjzxCrVG4xAzstxbgdeVQ48BU+yFO/9op28TLk2E//O3oVUu58dVg7aSHSWXueL8/G8L2Rv3/OO2XMnN+n3Nx9adzoTWkdzc27icYl91ro26nGrAUNauiwTJSyumyEP0wIlu2yW8mHdqAEl1omj0HS5hJS/l/xoiW4e35TlngCb8Y+JIJRRH5B/KP/O5PDMt+uFyVtGWqYZtZL4LgR1Y+7hhiIp73zLkNg==;+DapN3Bqprqqfjg4kOrQNw=="
+secured: "ZcTOPzZHsOB+wW17KY47iq7YaRLUns//fFMPE4j6gnKNnUx0xndIx48qw6DeXcU+v9crTT3pwBnI+ZGce3Y3mtKVKEaHX2Va40FEYkuDnGJgtPx7czlEBgzn860M8vQbtRBq7JDRqxHznNpR5/pXaz7ZqcpmW2uwAb6wJvICOhCMiLsYtnH44e3NzavhOYW4S41JCTdGKaI64TT3ufJnNf0P7A2ZDCPvkhKc2esJVafN9mSA4MbWqNnIpx9QAI84YMogIy5SELkK6vM5XUbBb2d4FSqjXN3N602sT0NrYXJjFcV54X8XrBBnugqUZcBCzal26ZKKfWbY/4yIUPRcM5rXteETVLFNFr8UZTgis0s=;cPNm/US59u0GODt+S9S1pw=="
 ---
 
