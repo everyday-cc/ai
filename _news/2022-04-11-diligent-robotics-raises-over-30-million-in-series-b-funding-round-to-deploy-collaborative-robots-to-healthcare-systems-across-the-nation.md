@@ -50,6 +50,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "AI Pharma Startup METiS Raises $150 Million. IPO In Sight?"
+    excerpt: "The result is a new crop of start-ups specializing in AI-assisted medical services such as AI imaging, AI robots and AI drug development, many of which are soaking up hundreds of millions of dollars in the private equity market. AI pharma companies are a ..."
+    publishedDateTime: 2022-04-12T15:51:00Z
+    webUrl: "https://www.benzinga.com/news/22/04/26596254/ai-pharma-startup-metis-raises-150-million-ipo-in-sight"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26596254"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26596254"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/metis.jpg?width=1200&height=800&fit=crop"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "sd703HqKBlpuT59dCS2fGFbBnB5WSbOoxhtUI5F+c9ahU0t7HKRuoXJdW9YFPo3noVW9Jtm2djzkavR7oo8dgOEWmp609yImz2LE8pyNIh9KTseeucEhB7c5QZu9NHOZ6PDIjFhdo/Kzf1y3AL0BS89Xapihwux7jsiMvtktVj48HAuFUT3OazdhZNA/Km+orekJvrc7HSr0QRh+iefWn0Rp66OfIVwNDvp9l7UXV8DDfO/vQiiKanjQuicBIzjAOwTkNdql8bX2POtEbGG0srWqXHBVGsCUF6CzwWhYh0mcf48Wt2cXfFav8KnU78m0iwn9EjwQ2viTqzO7KsehmZdoEQMrspI+xnZp8je1at4=;O1usAK4D/9S2CfZ0S6qyyg=="
 ---

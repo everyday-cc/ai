@@ -34,6 +34,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 23
+  - title: "Artificial Intelligence in Education Market Size, Share, Trends, Demand Forecast, Industry Revenue, Opportunities, and Impact of COVID"
+    excerpt: "Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period). We will ..."
+    publishedDateTime: 2022-04-12T12:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-size-share-trends-demand-forecast-industry-revenue-opportunities-and-impact-of-covid"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Stop-Putin-Russia-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence Platforms Market Size to Grow by USD 17.29 Bn| Rise in demand for AI-based solutions to boost market growth| Technavio"
     excerpt: "Artificial Intelligence Platforms Market is fragmented and the vendors are deploying various organic and inorganic growth strategies to compete in the market.  The growing competition in the market is compelling vendors to adopt various growth strategies such as promotional activities and spending on advertisements to improve the visibility of their services."
     publishedDateTime: 2022-04-08T15:45:00Z

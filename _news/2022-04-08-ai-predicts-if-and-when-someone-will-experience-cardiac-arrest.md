@@ -56,15 +56,6 @@ related:
         width: 599
         height: 575
         isCached: true
-  - title: "AI predicts if -- and when -- someone will have cardiac arrest"
-    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
-    publishedDateTime: 2022-04-08T00:12:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "AI-based approach can predict when someone will have cardiac arrest: Study"
     excerpt: "A new study, led by researchers at John Hopkins University, has found that a new artificial-intelligence-based approach can predict if and when a patient could die of cardiac arrest. The technology, built on raw images of patients' diseased hearts and patient backgrounds,"
     publishedDateTime: 2022-04-08T07:52:00Z

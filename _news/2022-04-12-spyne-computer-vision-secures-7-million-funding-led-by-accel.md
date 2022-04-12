@@ -45,6 +45,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "AI Pharma Startup METiS Raises $150 Million. IPO In Sight?"
+    excerpt: "The result is a new crop of start-ups specializing in AI-assisted medical services such as AI imaging, AI robots and AI drug development, many of which are soaking up hundreds of millions of dollars in the private equity market. AI pharma companies are a ..."
+    publishedDateTime: 2022-04-12T15:51:00Z
+    webUrl: "https://www.benzinga.com/news/22/04/26596254/ai-pharma-startup-metis-raises-150-million-ipo-in-sight"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26596254"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26596254"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/metis.jpg?width=1200&height=800&fit=crop"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Diligent Robotics Raises Over $30 Million in Series B Funding Round to Deploy Collaborative Robots to Healthcare Systems Across the Nation"
     excerpt: "Led by Tiger Global, funding will accelerate product development to meet demand for healthcare service robot and enhance interoperability, integrations and efficiency in healthcare institutions AUSTIN,"
     publishedDateTime: 2022-04-11T12:35:00Z

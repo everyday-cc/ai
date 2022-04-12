@@ -2,21 +2,27 @@
 category: news
 title: "Fluence Announces Agreement to Acquire AI-Enabled Software-as-a-Service Company Nispera"
 excerpt: "In increasingly sophisticated energy markets, forecast of granular asset availability, production profile, and management becomes imperative for value capture Enhances Fluence’s digital leadership position with a combined digital portfolio of 15 GW contracted or under management Accelerates development and roll-out of new applications on Fluence IQ Digital Platform Strengthens foundation for recurring revenue and expected to be EBITDA accretive by 2024 ARLINGTON,"
-publishedDateTime: 2022-04-11T12:00:00Z
-originalUrl: "https://kfor.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
-webUrl: "https://kfor.com/business/press-releases/globenewswire/8519672/fluence-announces-agreement-to-acquire-ai-enabled-software-as-a-service-company-nispera/"
+publishedDateTime: 2022-04-11T11:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-zurich-europe-artificial-intelligence-1cd436fc96f506548d08ef714d487885"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-zurich-europe-artificial-intelligence-1cd436fc96f506548d08ef714d487885"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Oklahoma's News
-  domain: kfor.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Energy storage provider Fluence acquires AI software service firm Nispera"
@@ -34,6 +40,6 @@ related:
         height: 696
         isCached: true
 
-secured: "8Q77j0lXK/VHbXn8Ddgq3TqKcJlBGQRkpwixFIKjbdGTsCYptA+KR50yyTYxWkmeRbqOGqb/Rg0jqlnnoYbTFCKuE4AsAu7tsVvZPAI4Co7RYy7AFw6FsRzlwm41UTrR/R4jrbFfI+YIsYVJyUX1EalnNZeQX6QuMTfrJGu1dSqBW/33UTQ/Q1teYNbOZTFhO3FuV2zg+iIzML2XvMDwKvMVoKZ8ca+JYJHe+UpeSL3RML87rDY5Diw3cG81faopIpMdN0pcOWAZj4lrWLaDnp1RFASWJh8wW3W2WQOxb+9b/epWJFMxk/lU5tQcbddojukHJj+dgIQ7oXM9SP4MyqROg4WBJqrtMtm/Ao3BOMs=;mA9fz4mkz51oZQLY8+ydUg=="
+secured: "X+NOdCyQbJFUux3khCuQvuKSOL4V1CaXky9Wl/5NL/6rt1DjeK83+9fWgTT4X9LvzELHB7Sl/gOw/jg2QtOhOVYch59mcQEAsjrrARAoZLLULaWKGwXOtDMnqA2Y6jzjflibnUirTlBmfgCC8nwIGnaR9TQfHnZ1kOqwqden2ANN0dR4VVGQ6tnksFJ/9Kbb910wNnWfAi2a6p5talj4SkhWpGEVfxWzwJMRf6LW/+fMdb1iBU7fEI9d0xVkogDWE6uG8i6h2bXq0Ed4h9n0ESnRUuYX+7n1T+y9rt283AgnR6mmtxTtzpoztr8bXgfcmk6VOjKbeIww+w0ZFU+hSiyYCE0Kg8aWu2Jo7jEfOio=;kjxmgiCGz4X1sMWxmTmOjw=="
 ---
 

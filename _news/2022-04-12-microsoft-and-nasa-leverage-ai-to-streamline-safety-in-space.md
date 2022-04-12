@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-na
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
+    excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"
+    publishedDateTime: 2022-04-12T12:35:00Z
+    webUrl: "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 54
+    images:
+      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
+        width: 730
+        height: 400
+        isCached: true
   - title: "BPCL collaborates with Microsoft to leverage cloud and AI to redefine customer experience"
     excerpt: "BPCL will leverage Microsoft's Cloud & AI capabilities to accelerate its digital transformation and shape future innovations in the oil and gas industry."
     publishedDateTime: 2022-04-12T08:23:00Z

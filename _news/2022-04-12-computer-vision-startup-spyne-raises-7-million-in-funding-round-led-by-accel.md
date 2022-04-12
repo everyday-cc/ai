@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/computer-vision-start
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1649757062-Myproject4.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "AI Pharma Startup METiS Raises $150 Million. IPO In Sight?"
+    excerpt: "The result is a new crop of start-ups specializing in AI-assisted medical services such as AI imaging, AI robots and AI drug development, many of which are soaking up hundreds of millions of dollars in the private equity market. AI pharma companies are a ..."
+    publishedDateTime: 2022-04-12T15:51:00Z
+    webUrl: "https://www.benzinga.com/news/22/04/26596254/ai-pharma-startup-metis-raises-150-million-ipo-in-sight"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26596254"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26596254"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/metis.jpg?width=1200&height=800&fit=crop"
+        width: 900
+        height: 600
         isCached: true
   - title: "Diligent Robotics Raises Over $30 Million in Series B Funding Round to Deploy Collaborative Robots to Healthcare Systems Across the Nation"
     excerpt: "Led by Tiger Global, funding will accelerate product development to meet demand for healthcare service robot and enhance interoperability, integrations and efficiency in healthcare institutions AUSTIN,"

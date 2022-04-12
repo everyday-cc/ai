@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Graph data science: What you need to know"
+    excerpt: "GDS 2.0 also brings more machine learning and AutoML capabilities. The ability to create ML pipelines for tasks like link predictions is introduced. This means being able to fill in missing ..."
+    publishedDateTime: 2022-04-12T16:10:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/"
+    ampWebUrl: "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1267467975.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "4o58HX2WiE64ifsfixe1ote7IQBWxwRfFHEJrZ0TFbnggDrgFlAFkW18+n3o1seyiHTMoHWuy4rkXHFkH0dtyjDbVJpqwYUBiGFvqTLjlt+QE3WjuW87gnlNHhNLjqwI4x+F2tOKBBg/etxvlX3xGdQIGbJ9ZLOR8Cx7cfN2OdkjLSL9A+pue4aL3JAl5m2Nb8IG3I4uD06arG2ITTLSNhmCzo1eKQniWLpXbSspnFpNKxIRgO9BjlTACwyPJz0soRj19IAhmhSEVyL5ZY40JRQHF2OsSHCNRKUiIJ4H4WU7Vui/9rXscAMifWkGw+quqMserHU6KMJBSNOXNV9zZFvn0auFHqrT16y3vAGTJDUfm4xw4GPC4VRoO7d2yGU+oCR+AzezbPZI/kUEJqUXihD5ZUnKB9QOuBEljoqwqWjFRB6VtJQq8/HzzxLrWh+S+L8Ew6pKaBgxFyJo9ZygUrbd6x2PFImjE5v8XDyiceQDrgCZI09WdU0HN2xtb4o/3BHM8r8WKaMYCKgb4xf53Q==;dDtiwQhrnSeUxovQNpfu/w=="
 ---

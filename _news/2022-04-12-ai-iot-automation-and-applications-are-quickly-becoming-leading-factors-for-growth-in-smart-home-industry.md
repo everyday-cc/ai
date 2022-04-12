@@ -26,22 +26,31 @@ images:
 
 related:
   - title: "SPYR Technologies says Applied Magix is exploring artificial intelligence applications for IoT systems"
-    excerpt: "SPYR noted that while the popular view of AI, nurtured by Hollywood and mainstream media, portrays robots and supercomputers' ambitions ... including companies developing artificial intelligence (AI) and smart technology products. The Company is a publisher."
-    publishedDateTime: 2022-04-12T15:31:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/979571/spyr-technologies-says-applied-magix-is-exploring-artificial-intelligence-applications-for-iot-systems-979571.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/979571"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/979571"
+    excerpt: "In addition, SPYR continues to identify and target acquisitions that will grow its footprint in the industry and expand the products it offers consumers, including companies developing artificial intelligence (AI) and smart technology products. The Company ..."
+    publishedDateTime: 2022-04-12T16:08:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/979571/spyr-technologies-says-applied-magix-is-exploring-artificial-intelligence-applications-for-iot-systems-979571.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/979571"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/979571"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 43
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 41
     images:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTEyLTExLTI3LTAzLTAzODU1ZjJiOTdlZDMxZTFmZTc4ZTFjZGVlZDkxNzBkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
         isCached: true
+  - title: "FinancialNewsMedia.com: AI & IoT Automation and Applications are Quickly Becoming Leading Factors for Growth in Smart Home Industry"
+    excerpt: "AI and IoT are quickly becoming the leading factors in the growth ... The Pensando team brings world-class expertise and a proven track record of innovation at the chip, software and platform level which expands our ability to offer leadership solutions ..."
+    publishedDateTime: 2022-04-12T14:53:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55762630-financialnewsmedia-com-ai-iot-automation-and-applications-are-quickly-becoming-leading-factors-for-growth-in-smart-home-industry-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
-secured: "dthFOUVbKMWhG3IpcYWvKQTJZmbHlTJ7I+vT39FDfbsDQMbDzNQ9UCTwtNQDCJx0QCt4cUE/blpUq6XXabhhEt3onakdfvn/1gS7I7lT0ljlZzXFLG8MilKbVu5Qlm9bmgA4yIaTX0+gDTjlrMOAbHfHRyazrzdEePQEBNc8NLPR0lbnlPFFFbOYOMquGaAqPt01v+89Ry+G/Vm5XyrJfKZNRqRYV/9z+uJLmZLrWDBEE3oR2CEbIPv+2dZ13mwxkK27t+Nxo3thk8h9m+BlXPMtrX0HnZtduXIMud7JiTv7JhdKrQ+P/le76tZLdzB0EKQeK/VHXYkt1VSwEVesaxeGgiHFcFB5/22/hZ1Gg/o=;xjPbG4FJrOn8iwPIlr+QFQ=="
+secured: "tSIlKfCgr9er9CrUo76uSzU2guXoy9AEK1D3pBrBU4r2LDut2XXtVDR89SiOWHYIthoKjruuoPx/pNWnNaA4dQLcdubYkcJqBO4IvxfcmJZHXzczAKazC55cPkcT3oouGie8xRz+Epv1t/aUeb+llqvMkX58rw9VizlBINfbxqldTDnsuN6CX98gKkuBvmauax8zYzhWrllc7E11WH1ybPdzmHgGrOk3pb9A1zDcWxERuFrnDS2q33vNyXtU05OqyKxdIgu0BgsQc4MXIF/XzK2Cz0eXe0kTvKAl5Ddav0lq8qEamCwHb39dzPXaFrukeEZ0BJnRxsyCE3DtAD1cbTROCCvf1eb/nXJZSDxb3vasWf8wNv80SH/FXy49c8xwV7yjlmtmQwUR4ySkjQj4wj1zMZmYFnPNpqvVFgkTASU8XndFuoIr9jiyRCAxu5nYdkwZY1O0dw6bRXzui70amzWHRRo/gGatYxkwPmmV0OdurZ2yv1oTYMZTVgbJT/vK82wht7aFqBbgEzq5kmMpLg==;lCXp5Bkf/JdFWqbse/JAFQ=="
 ---
 

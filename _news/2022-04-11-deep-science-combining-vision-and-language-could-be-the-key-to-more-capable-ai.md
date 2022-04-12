@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
 type: article
 quality: 83
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Graph data science: What you need to know"
+    excerpt: "GDS 2.0 also brings more machine learning and AutoML capabilities. The ability to create ML pipelines for tasks like link predictions is introduced. This means being able to fill in missing ..."
+    publishedDateTime: 2022-04-12T16:10:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/"
+    ampWebUrl: "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1267467975.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Combining AI and computational science for better, faster, energy efficient predictions"
     excerpt: "Predicting how climate and the environment will change over time or how air flows over an aircraft are problems too complex even for the most powerful supercomputers to solve. Scientists rely on models to fill in the gap between what they can simulate and what they need to predict."
     publishedDateTime: 2022-04-08T16:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researc
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 599
         height: 575
         isCached: true
-  - title: "AI predicts if -- and when -- someone will have cardiac arrest"
-    excerpt: "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,"
-    publishedDateTime: 2022-04-08T00:12:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220407141905.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "AI predicts if and when someone will experience cardiac arrest"
     excerpt: "An algorithm built to assess scar patterns in patient heart tissue can predict potentially life-threatening arrhythmias more accurately than doctors can."
     publishedDateTime: 2022-04-08T15:04:00Z
