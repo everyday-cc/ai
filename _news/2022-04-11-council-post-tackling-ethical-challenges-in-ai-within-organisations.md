@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/council-post-tackling-ethical-challe
 webUrl: "https://analyticsindiamag.com/council-post-tackling-ethical-challenges-in-ai-within-organisations-2/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -40,20 +40,6 @@ related:
       - url: "https://www.stattimes.com/h-upload/2022/04/08/24530-ey-aera.jpg"
         width: 1280
         height: 767
-        isCached: true
-  - title: "Council Post: Beyond Explainable AI—How to infuse trust in AI systems"
-    excerpt: "Contractual trust is a concept that dictates and quantifies trustworthy AI. This is done by incorporating a set of phases in the DS workflow."
-    publishedDateTime: 2022-04-07T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-beyond-explainable-ai-how-to-infuse-trust-in-ai-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
-        width: 512
-        height: 288
         isCached: true
 
 secured: "NMnfwERV1egmM6P883xjCLYBZ3NDoCGH2H5aJten9T39tI8Zo8DWhxkTV0kVjAg+ByV8SgImF0gSwPRaazHm13q5kaGT5GeG1AOpQherOeQJ/+96mIVTC/bJUsGxW9KUtdascORlmybVIkxLw+8K2EY/h00eXhslEpbbTGns3QXOBK3SevD6wtg57iFAvxcaKL82b20K3ivUrdDtaA8CliK0sWqC1oJn2upUb32apxRA1pJs+FPjpGiLy6ly14HhsAupph9gq7oBYz5sQHB/7u6aFf/RBFNPY7JjDNawVHbokbf4BxhYkoycRqdhXSBaXiKLOoXl8t1SiRefbpiHQ428KylWj3Z3o1o3hEQ15PY=;Ov1rpeHHDqF2FRl1Uo1vbA=="

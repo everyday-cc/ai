@@ -61,6 +61,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Ed Tech in a Hybrid World With Microsoft's Joe Brazier — ICYMI"
+    excerpt: "Joe Brazier leads K-12 strategy on Microsoft's worldwide education team. This week he answered the \"In Case You Missed It\" crew's questions about the changing needs of educators in the wake of COVID-19."
+    publishedDateTime: 2022-04-11T22:38:00Z
+    webUrl: "https://www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi"
+    ampWebUrl: "https://www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and"
     publishedDateTime: 2022-04-07T16:29:00Z

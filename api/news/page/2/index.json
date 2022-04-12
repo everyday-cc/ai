@@ -157,7 +157,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1135,6 +1135,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-08-this-startup-raised-185-million-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions.md",
+      "title": "This Startup Raised $18.5 Million From Sequoia To Reinvent How To Use AI To Make Predictions",
+      "excerpt": "A new Stanford-bred startup says it has a solution using a new class of artificial intelligence ... termed “graph neural networks,” which approaches machine learning by treating the data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624eff12a2380fdf7002159a/0x0.jpg?format=jpg&crop=2048,1365,x0,y84,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/",
+      "publishedDateTime": "2022-04-07T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
       "title": "How AI could help enterprises to reduce data storage costs",
       "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
@@ -1143,7 +1195,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1183,58 +1235,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-new-snapchat-filter-teaches-users-american-sign-language.md",
-      "title": "New Snapchat Filter Teaches Users American Sign Language",
-      "excerpt": "The ASL Alphabet lens shows users how to fingerspell their name, practice the ASL alphabet and test their sign-language fluency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
-      "originalUrl": "https://www.cnet.com/culture/internet/new-snapchat-filter-teaches-users-american-sign-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-snapchat-filter-teaches-users-american-sign-language/",
-      "publishedDateTime": "2022-04-07T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

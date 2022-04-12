@@ -2,6 +2,142 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-02-02-alphabet-a-shares-googl-q4-2021-earnings-call-transcript.md",
+      "title": "Alphabet (A shares) (GOOGL) Q4 2021 Earnings Call Transcript",
+      "excerpt": "Q4 2021 Earnings CallFeb 01, 2022, 5:00 p.m. ETContents:  Prepared Remarks Questions and Answers Call Participants  Prepared Remarks:  OperatorWelcome, everyone, and thank you for standing by for the Alphabet's fourth quarter 2021 earnings conference call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/alphabet-a-shares-googl-q4-2021-earnings-call-transcript/ar-AATnP7H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T21:00:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
+        "domain": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-how-to-identify-the-right-ai-model-governance-solution-for-your-business.md",
+      "title": "How to identify the right AI model governance solution for your business",
+      "excerpt": "The right AI model governance solution will reduce your risks and increase the likelihood of the success of your models and business goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/how-to-identify-the-right-ai-model-governance-solution-for-your-business/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/how-to-identify-the-right-ai-model-governance-solution-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1208016240.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-to-identify-the-right-ai-model-governance-solution-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-to-identify-the-right-ai-model-governance-solution-for-your-business/amp/",
+      "publishedDateTime": "2022-02-01T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu.md",
+      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-QD Industrial-grade Edge AI Platform Supporting NVIDIA® RTX A6000/ A4500 GPU",
+      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-QD, which is an edge AI GPU computing platform supporting an NVIDIA® RTX A6000 or RTX A4500 Ampere GPU cards, and Intel® Xeon® E or 9th/ 8th-Gen Core™ (up to 8-core/ 16-thread ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
+      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ferret.com.au/wp-content/uploads/2022/02/PR-Image-Nuvo-8108GC-QD.jpg",
+          "width": 1500,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
+        "domain": "ferret.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-global-natural-language-processing-nlp-in-healthcare-market-2022-worldwide-survey-opportunities-forthcoming-developments-and-forecast-to.md",
       "title": "Global Natural Language Processing (NLP) in Healthcare Market 2022 Worldwide Survey, Opportunities, Forthcoming Developments, and Forecast to 2028",
       "excerpt": "Feb 02, 2022 (CDN Newswire via Comtex) -- Global Natural Language Processing (NLP) in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 recently presented by ...",
@@ -1014,144 +1150,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-ai-collaboration-to-create-personalized-healthcare.md",
-      "title": "AI Collaboration to Create Personalized Healthcare",
-      "excerpt": "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
-      "originalUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
-      "publishedDateTime": "2022-02-01T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer.md",
-      "title": "Trax Names Former Google AI Leader, Barak Turovsky, as Chief Product Officer",
-      "excerpt": "Trax, a leading global provider of computer vision solutions and analytics for retail, today announced the appointment of Barak Turovsky as it (CPO). Under Turovsky’s leadership, Trax combines its product and engineering teams to support the company’s growth and enable development of new solutions to meet market needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
-      "originalUrl": "https://www.eagletribune.com/region/trax-names-former-google-ai-leader-barak-turovsky-as-chief-product-officer/article_fe2658fc-eaf6-5358-a51f-9eb2f242ce91.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/1e/21e303c9-dc91-5caf-b9da-0b1b557da643/61f944cf3e1ea.image.jpg?resize=400%2C566",
-          "width": 400,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-oleg-rogynskyy-founds-people-ai-to-increase-sales-productivity.md",
-      "title": "Oleg Rogynskyy Founds People AI To Increase Sales Productivity",
-      "excerpt": "People.AI is an artificial intelligence (AI) platform for enterprise revenue, helping sales, marketing, and customer success teams uncover every revenue opportunity by capturing all customer contacts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f80bdd2de490a68e5b3a77/0x0.jpg?format=jpg&crop=1360,764,x0,y70,safe&fit=crop",
-          "width": 1360,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
-      "publishedDateTime": "2022-02-01T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

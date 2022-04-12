@@ -40,20 +40,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Council Post: Beyond Explainable AI—How to infuse trust in AI systems"
-    excerpt: "Contractual trust is a concept that dictates and quantifies trustworthy AI. This is done by incorporating a set of phases in the DS workflow."
-    publishedDateTime: 2022-04-07T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-beyond-explainable-ai-how-to-infuse-trust-in-ai-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Shashank-Article.png"
-        width: 512
-        height: 288
-        isCached: true
 
 secured: "EXa7IwKk0/l800BDjfPG1xkc/Veejs/1LHWFaJ0aHuKjLDOvYg1qF0zH1t4/OQaHa028NVsbcS8i5LSnJlt4b/k1C2xOALLOHFWVKs/MW9L/VQfOXXIK24hskb7g7C1Ttq6r3Fdf4mBC748mGEO5TxKivt/d1evzvc/cVABxa3djDP8xaEukA6qvG+p1EQ8v6tojBvZRXqIUHFdWRxJ9dfaw2PjRfvh/AMAypyFH6eap+JqAVHiifTfavMp1SboommuzAc9o0cr4l+c9+rk6SQr6VgRJCPFe3PnWQeCq+rz/gm+tJHzNdsJGrIWvTNwp/oZsCh9sYeGEVjpiYRULhzIenpUNtsp+8P653N0IgwQ=;xlizG0RTp7QF9H8xPYzH7Q=="
 ---

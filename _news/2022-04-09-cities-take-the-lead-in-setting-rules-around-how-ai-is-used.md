@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-arou
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cities Take the Lead in Setting Rules Around How AI Is Used"
+    excerpt: "As cities and states roll out algorithms to help them provide services like policing and traffic management, they are also racing to come up with policies for using this new technology."
+    publishedDateTime: 2022-04-11T22:35:00Z
+    webUrl: "https://www.bangkokpost.com/business/2293810/cities-take-the-lead-in-setting-rules-around-how-ai-is-used"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/dcx/2022/04/12/4278922_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Leading MEPs raise the curtain on draft AI rules"
     excerpt: "The two co-rapporteurs finalised the Artificial Intelligence (AI) draft report on Monday (11 April), covering where they have found common ground. The most controversial issues have been pushed further down the line."
     publishedDateTime: 2022-04-11T14:45:00Z

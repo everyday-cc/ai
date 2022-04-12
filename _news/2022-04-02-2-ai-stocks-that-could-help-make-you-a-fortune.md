@@ -1,22 +1,30 @@
 ---
 category: news
 title: "2 AI Stocks That Could Help Make You a Fortune"
-excerpt: "T he artificial intelligence (AI) software market is expected to grow by 21% this year, while the overall AI market is predicted to grow at a 40% compound annual growth rate throu"
-publishedDateTime: 2022-04-02T11:48:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
-webUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?time=1648899902"
-ampWebUrl: "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp"
+excerpt: "Nvidia's AI leadership puts the company at the doorstep of a $1 trillion total addressable market. IBM provides investors with a bonus as it sets its sights on an AI future. The artificial ..."
+publishedDateTime: 2022-04-02T07:49:00Z
+originalUrl: "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/"
+webUrl: "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - IBM AI
   - AI
 
-secured: "BKJ4CK4c7cKZvnGdIDatocVTlIrkJ/28LSii3n9QoE3+VJoxDVFNkS6NlbBOHyt//R3hJhIRpG3cAMxSzfTGHbm7h+s84R/yGUpYKoZ7bip1cR9UnR1dPfj0dwQRvDpoAdZDsktQclKNaIfJ0vFTSZ6/p8hz0V5/XMBUIbG/L4tbmnhWM5D3QRFX0PnCr6mjQAo6tLjttd/8yPjB1+bL6cqu7JGPvz8SJxTsBXHFozR4p39mjq2NDutfYiuY5xTijrtF1DsNULOt5TjKmrehA3b3dPUxDSRu5ZB1tK1g5f8D1aLS4mx17OYBz6LEoSC81Kndz1CcVHRDIaoYRVsCAx2IJkI4TNQiHYYSkAMDsK0=;umn4P6UgudeI+EGII1Kmpw=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/668519/a-child-having-fun-programming-a-life-size-robot-with-human-characteristics.jpg"
+    width: 2121
+    height: 1414
+    isCached: true
+
+secured: "PrGqA7a8IVs9U36L36Ul5zJrIyRlawzfG7GW1w1Qg3LlC0lVTMCP+zguCLgnRyy1IJDRgZxEQNzrPx58rZypAv5IGKZDRlQhKp9pFWywOMjzDBmoAWx2NDL/0k5xpoSCGMa/Jl5ODrlcz8K3EgLce5pJjPdAiIHuIMVckUVz58NKCZ4yIn7DvorfrPP55uwl+JnYwJDj5wKYie3z3+zqMi9Y6C3egL+nWX3R5pr+6IEJ4zsW48pZDpijYIq9xn/qc60JnLdjubfP5gNBbD/K9lMkQWu5PDda6IoVf8xP7XX5ZTeCsYyukRQKbhcIsVPIpCWI1o2/JewOa9TkbQu29DOX0qPuuNOU0/qmowPYjk8=;5IJeFQpXnHictV4Qko5kpQ=="
 ---
 
