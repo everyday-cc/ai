@@ -34,20 +34,6 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 14
-  - title: "AI-Enabled Medical Imaging Solutions Market Booming Demand Leading to Exponential CAGR Growth 2027 By Emergen Research Study"
-    excerpt: "The global AI-Enabled Medical Imaging Solutions Market is forecasted to be worth USD 4,720.6 Million by 2027, according to a current analysis by Emergen"
-    publishedDateTime: 2022-04-07T09:18:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-booming-demand-leading-to-exponential-cagr-growth-2027-by-emergen-research-study"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "vomCoigOlmy0oCFIniTE8Xij3u0s0JeOFaDuh6GkfLFoTEINu29AYc4tp8uO/NjjMZF7PFNjuaDszkLMCMGVpXZj/NVtRXcE78JaHSuizW3WBlC5M6LTiJDMMEL1+oKaEmHszqk+xq9ZiIzWD4kfNQEUxakxjYZm1ev6vk/lBJwvdWikwRQiHVaWJDLUpyWMuFh66LnvoCVwBvUVNS7slb/n9/xSZF42AdOoojcXfc+LpnGu4dWDRt+rW9ytMT95e1zomSGM6dHs95FIVQKxv2weVXixLc/IDJgUruxHNLyKPyNCI7YOEB0Dzg7ulBbI5PgS91VhpGe4MYWUTt6QEwJzouSY/72FOYogGFTYTH5FG8MAe9UyhgxH6IHNM0uRJaGpc9yhv3cEmSceCaSepiwgNmC7FLMATMPwLWG2tsfurQDFQw2D8oZxrBXoYsGJRVBL3DMpq8vhSJDimHMaNTlOm6uYdRK4FHC6NHizHuJBeFhIOhPMzuPfm35c+2nm5DXX0GVdgBHQHeIxfwnWrQ==;Y+4cerLUS7ixxVbvQnkXWw=="
 ---

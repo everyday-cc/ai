@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Lilt raises $55M to bolster its business-focused AI translation platform"
-    excerpt: "Lilt, a startup developing an AI-powered translation platform geared toward the enterprise, has raised $55 million in a Series C funding round."
-    publishedDateTime: 2022-04-07T18:35:00Z
-    webUrl: "https://techcrunch.com/2022/04/07/lilt-raises-55m-to-bolster-its-business-focused-ai-translation-platform/"
+  - title: "Israeli startup Viz.ai nabs $100m for AI tech that detects brain conditions in scans"
+    excerpt: "and music tech startup JoyTunes. Also joining Viz.ai’s latest round were existing investors Google Ventures and California-based Scale Ventures, among others. Founded in 2016, Viz.ai developed a medical imaging platform that leverages AI algorithms and ..."
+    publishedDateTime: 2022-04-12T02:36:00Z
+    webUrl: "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/"
+    ampWebUrl: "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 48
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 50
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2018/10/iStock-491782345-e1539594942687-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Viz.ai raises $100M Series D"
     excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
     publishedDateTime: 2022-04-07T19:28:00Z
@@ -41,19 +48,19 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Viz.ai Raises $100 Million in Series D Funding, Led by Tiger Global and Insight Partners at $1.2 Billion Valuation"
-    excerpt: "Round will fuel global expansion of AI-driven healthcare platform that accelerates access to life saving treatmentsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Viz.ai, the leading AI-powered disease detection and care coordination platform,"
-    publishedDateTime: 2022-04-07T14:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-04-07/vizai-raises-100-million-in-series-d-funding-led-by-tiger-global-and-insight-partners-at-12-bil"
+  - title: "Viz.ai’s valuation surges to $1.2B with $100M series D"
+    excerpt: "Valuations in the med-tech space lately call into question the old medical adage: “If you hear hoofbeats, think horses.” These days, you would be wise to consider unicorns in the differential diagnosis."
+    publishedDateTime: 2022-04-07T21:39:00Z
+    webUrl: "https://www.bioworld.com/articles/517713-vizais-valuation-surges-to-12b-with-100m-series-d"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 15
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
     images:
-      - url: "https://www.pharmiweb.com/Content/1x/roundal.png"
-        width: 656
-        height: 656
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Money/unicorn-company.png?height=635&t=1588795049&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "aS7AtZfs1lJBn9gIYbUZzHi9NovMIB/nEdQltaKEh+7r4fkMP9Vkg+Zwrk90YVrmq6ETCYdiADtSm6lsEkkKvCFfN8G6P+Qs/Qic0E1+F1Zusg0jpaW/gvhU+n9Y2QUAZVmcPD0UvKl1rtapxK29YMfgueZjKw3nmuXNKeo8Co93Jrede52INVl3ag/KcAnqed4J9bqMM3IfxrXbhhDfJ3Ji5kgFAK44IRUYzVeFbiNL4R8Aw7a711WdA8MCRzJWTisOfk+VZTSZf+Ky1uKuPQXZocnOG+TbStkcCUwzE4dlhTBQmRjCXaATJWGKxlg4EJnhpWh42vruDtRlQjQq+UJgDcFo8iBQeV+sLx7rZTo3iGVXElv8f8YyKlQT6OGEqtefTAl0/ZejpBdHwNVVSFdwt4A6Y1f2uaDarXYDkMvni8ADbrqoPjmjDYoIAGLtunhjo6zKp8KLA93TdT/K2Az3YXK0qLI+f48VtiOoZ220+OPG4U4xH2SEliZPcvvabjnxEtX0T0UDyS4XPDf1lQ==;h3g68MzoEnWjO5P0RFlIUA=="

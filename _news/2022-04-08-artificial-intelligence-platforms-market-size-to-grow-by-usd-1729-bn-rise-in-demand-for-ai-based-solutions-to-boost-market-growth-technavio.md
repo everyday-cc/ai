@@ -24,15 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Marketing and Tech Company Growth99 Releases SaaS Platform With AI Foundation"
-    excerpt: "On the back end lies Growth99+, which includes features such as CRM, workflow automation, online booking, AI chatbots, virtual consultations, and their robust social media and marketing suite. Growth99 provides continuous support with 24x7x365 coverage ..."
-    publishedDateTime: 2022-04-11T18:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/marketing-and-tech-company-growth99-releases-saas-platform-with-ai-foundation"
+  - title: "Call Center AI Market Size, Share, Trends and Demand Growth to 2027 | VynZ Research"
+    excerpt: "Companies may use AWS CCI for text-to-speech, translation, enterprise search, conversational AI, transcription, and language understanding by combining AWS AI and ML-powered services. The ..."
+    publishedDateTime: 2022-04-11T20:29:00Z
+    webUrl: "https://menafn.com/1103992368/Call-Center-AI-Market-Size-Share-Trends-and-Demand-Growth-to-2027-VynZ-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+        width: 353
+        height: 249
+        isCached: true
+  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
+    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
+    publishedDateTime: 2022-04-11T11:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 31
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "FKDy16hPpUxkvlnvBik1mLGIRd2qeDF1bOzilHwlnZG5mTHVfFxdlBguIYtQj7PB/lpCi+hDpEeuNjxMqNJ0ChykMAT9FXWYnOuJ96EOur5ptFxDUvLCgq3YQm+aEr5Sr/u5I7lrIECpNbJbWNJEuQOjmWd8oQygEcDdYV/vCjpybJIIVfJnzsTFvJGELJpsF4/W4OhhUlE4tQmO13NVQj+htzK+wA5jrsK0afNNKTGQM9Cst2wHO8Z2BQhDYstbEoNuCc7c/jQuThi/x+xyN4GL5UBxjc3MCZTZQu9i9D1emZaZsEheQ9J0DxhvzX+c0nP09i9wNVByHX8osgsftWWKU208CIiKvZaPtjKfQ/2apv8yLrAsS2lCGaTvF7tbRRMJCwLdx7A5jAoduwCYKeH/imB487HmPg4c1mTFiIDweoh4Z2IFrXYD9gF6M53u5+pp4j0nQxUx9A7PumrcVq0jYoswpST0p9klwGyZtDHGZfmNzZLFQyhykLauEcn0OMvO1Ax69GzdtT2ItFGdgg==;uEaciJ59ZWIadL+ufzmfoQ=="
 ---

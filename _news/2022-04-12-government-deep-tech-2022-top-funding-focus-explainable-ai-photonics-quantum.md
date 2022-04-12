@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-
 ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/625313b3bdcfa658074ebda5/0x0.jpg?format=jpg&width=1200"

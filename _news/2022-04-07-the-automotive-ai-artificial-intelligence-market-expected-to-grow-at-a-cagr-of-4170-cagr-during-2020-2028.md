@@ -19,20 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI-Enabled Medical Imaging Solutions Market Booming Demand Leading to Exponential CAGR Growth 2027 By Emergen Research Study"
-    excerpt: "The global AI-Enabled Medical Imaging Solutions Market is forecasted to be worth USD 4,720.6 Million by 2027, according to a current analysis by Emergen"
-    publishedDateTime: 2022-04-07T09:18:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-medical-imaging-solutions-market-booming-demand-leading-to-exponential-cagr-growth-2027-by-emergen-research-study"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 10
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Automatic Number Plate Recognition Market to Rise at CAGR of 9.0% During Forecast Period, Observes TMR Study"
     excerpt: "The automatic number plate recognition market is expected to bring tremendous growth prospects across the forecast period of 2020-2030. The"
     publishedDateTime: 2022-04-11T07:34:00Z

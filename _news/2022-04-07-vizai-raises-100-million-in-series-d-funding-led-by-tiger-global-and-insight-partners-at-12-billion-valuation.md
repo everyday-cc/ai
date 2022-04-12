@@ -33,29 +33,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 48
-  - title: "Viz.ai raises $100M Series D"
-    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
-    publishedDateTime: 2022-04-07T19:28:00Z
-    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 39
-    images:
-      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Viz.ai Raises $100M in Series D Funding"
-    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
-    publishedDateTime: 2022-04-07T17:52:00Z
-    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 17
 
 secured: "hnCUDwTAux5oa+5zB42DF83RzCN3rcwinGap4FjFZiqVnrTRndeV8pmUguoKyRh/wfuAEex3IASLUTtIqmMXpOSpZYl90EFaHhUWfhhu5MeM1G1kPEAyUvLh0+53Eum5WlsFMyQOcb8qs6FwTC0VQjd45txEkMRIJhagQZZtXuO/XpUpV/VLx5H6aLXBCJNy4CovFWr12m7pL0xaWufTqvh/9/rSS3wL268iL04VRy8yWIUCvlbLoyhvoTNQwUoXMmTEHnS7HlkegGrzFXgXkT2odR6WsnXYy6u2D0293vSGLFWfaawrgGA2sZToEE5tmwoG4qKFAe/eLQjWVu5Y1O+dSSf9h43P6wWrXp2cgZ4=;6osc1pbaiST/ITTlnXIj3A=="
 ---

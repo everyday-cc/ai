@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest t"
-    publishedDateTime: 2022-04-07T10:37:00Z
-    webUrl: "https://menafn.com/1103973174/Computer-Vision-Market-2022-Comprehensive-Analysis-Future-Estimations-Growth-Drivers-and-Forecast-to-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?745788"
-        width: 456
-        height: 250
-        isCached: true
   - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
     excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
     publishedDateTime: 2022-04-08T09:15:00Z

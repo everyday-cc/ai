@@ -1,47 +1,47 @@
 ---
 category: news
-title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
-excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
-publishedDateTime: 2022-04-10T07:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
-ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
+title: "Why AB InBev is betting on fintech and metaverse"
+excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
+publishedDateTime: 2022-04-12T03:20:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
 type: article
-quality: 53
-heat: 103
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
-  - title: "Why AB InBev is betting on fintech and metaverse"
-    excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
-    publishedDateTime: 2022-04-12T03:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+  - title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
+    excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
+    publishedDateTime: 2022-04-10T07:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
     excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
@@ -92,6 +92,6 @@ related:
       domain: israelnationalnews.com
     quality: 4
 
-secured: "Y9Y9ya6Qv0/oEoHieRu4W48DDka37TJdWpJ3e0fSaXRDmBdhTcahe0/zG+5sCIRWD7Z6WZhSrUFMEYWdJBmXRopwjc7I5uAOluVQcuETiOlIw2r8XaBvW4IGgHHDZBBp0dXx4WGhs96aj5qy0TcBcvYJtuOmocNt2lUk+hH+LymtEVJayJ63OYV24MoL96P0cOVuAzbIFy5VC7ynMvPnvTTMtDwTpJKTzRRxRD+Xzca/tjXDPCdmBMh1j8bsBD1KGDHPeDXyCjoindFKvgmMR4oKSms6pIQI/rdtNPLOzSCHtQUyrhRscvzlA2Bp8SH8b4ECKaeH09zbqyAR/rsGJxpPn+yD70kCC4X2UFK1e5bSkZKvrbqbTJmD6SLEfzPHfTYCDvcu8UUbiWDJM6MzE81vdpk/uEtV3XKApytuPrp/ZTbXejVatVYu5ai/qHrDZS+cC6nXuMQ3WKI8yT6qfG4tD364nrAeVXFNEvpcWIqQOV6KywI0npXmqm+LJFwJMa74qW6HfEtApJl+wyu6Ag==;Vq1iK+/rwwF2wn7w43RlTg=="
+secured: "7WICeo7yj6NZ9yxkzAPKOv1idBXgm5Uh5ZdZcNVFe8qLFq8StU30D41tIOGgt2MSAkrazfYCpZZWTKwkwNwE988iuE2QCP2yq4zzHTSRcvCKo6jr6eM6kcj0HC7qY+DO6K0d9DvKldX0p2NOQaP3EcdswnJZZ/6hFu11+cC4dWhh8CP/Lsr/mmPeIIeSuiPqfenby7G4Jq7tmPWWQqEUbkDkrg3sgN4IH+kcV27dr2cMS9OaFi+1/aIG+Yg0Qou3Z3NsiDWPjqVjVyxOU93vLDqSbVIcA6vtoLLGWrk37enaMZD1EX2oRx+LvS502Kl99NS3a69kKB6kLgVMPvzYFq7yWEFqHB+r5zhL/hxkqAI=;xXc/jmFaqyoYdO5Th3Af8A=="
 ---
 

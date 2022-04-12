@@ -43,6 +43,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Why AB InBev is betting on fintech and metaverse"
+    excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
+    publishedDateTime: 2022-04-12T03:20:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Putting The “Green” Back Into Greenbacks With Climate Fintech."
     excerpt: "Climate change is driving rapid, unprecedented, and in many cases unpredictable shifts across our planet. Enter climate fintech."
     publishedDateTime: 2022-04-07T13:15:00Z

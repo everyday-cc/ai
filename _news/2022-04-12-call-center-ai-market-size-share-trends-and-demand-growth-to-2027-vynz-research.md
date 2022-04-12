@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103992368/Call-Center-AI-Market-Size-Share-Tre
 webUrl: "https://menafn.com/1103992368/Call-Center-AI-Market-Size-Share-Trends-and-Demand-Growth-to-2027-VynZ-Research"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,17 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Market Size, Share | Analysis & Future Trends – 2026"
-    excerpt: "According to the study published by Allied Market Research, the global Speech Recognition Market is projected to register remarkable growth from 2021 to"
-    publishedDateTime: 2022-04-07T09:16:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-size-share-analysis-future-trends-2026"
+  - title: "Artificial Intelligence Platforms Market Size to Grow by USD 17.29 Bn| Rise in demand for AI-based solutions to boost market growth| Technavio"
+    excerpt: "Artificial Intelligence Platforms Market is fragmented and the vendors are deploying various organic and inorganic growth strategies to compete in the market.  The growing competition in the market is compelling vendors to adopt various growth strategies such as promotional activities and spending on advertisements to improve the visibility of their services."
+    publishedDateTime: 2022-04-08T15:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-grow-usd-1729-/2022/04/08/9579737.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1782756/IRTNTR44235.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
+    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
+    publishedDateTime: 2022-04-11T11:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 39
+    quality: 15
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
         width: 600
         height: 337
         isCached: true

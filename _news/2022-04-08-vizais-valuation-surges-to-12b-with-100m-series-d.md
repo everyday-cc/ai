@@ -24,34 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI disease detection co Viz.ai raises $100m at $1.2b valuation"
-    excerpt: "The company has pioneered the use of AI algorithms and machine learning to increase the speed of diagnosis and care for a variety of diseases in hospitals and health systems. AI-powered disease detection and care coordination platform Viz."
-    publishedDateTime: 2022-04-07T11:00:00Z
-    webUrl: "https://en.globes.co.il/en/article-ai-disease-detection-co-vizai-raises-100m-at-12b-valuation-1001408577"
+  - title: "Israeli startup Viz.ai nabs $100m for AI tech that detects brain conditions in scans"
+    excerpt: "and music tech startup JoyTunes. Also joining Viz.ai’s latest round were existing investors Google Ventures and California-based Scale Ventures, among others. Founded in 2016, Viz.ai developed a medical imaging platform that leverages AI algorithms and ..."
+    publishedDateTime: 2022-04-12T02:36:00Z
+    webUrl: "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/"
+    ampWebUrl: "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/"
     type: article
     provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 37
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 50
     images:
-      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1649328980/direct/viz.ai_amysen.jpg"
-        width: 800
-        height: 392
+      - url: "https://static.timesofisrael.com/www/uploads/2018/10/iStock-491782345-e1539594942687-640x400.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "Neurosurgeon's startup hits $1.2B valuation"
-    excerpt: "Artificial intelligence startup Viz.ai raised $100 million in its fourth round of funding and has reached a valuation of $1.2 billion, the company announced April 7. Neurosurgeon Chris Mansi, MD, is co-founder and CEO of the company,"
-    publishedDateTime: 2022-04-08T15:00:00Z
-    webUrl: "https://www.beckersspine.com/spine/item/54048-neurosurgeon-s-startup-hits-1-2b-valuation.html"
+  - title: "Viz.ai raises $100M Series D"
+    excerpt: "Artificial intelligence-based disease detection technology company Viz.ai announced that it raised $100 million in a Series D financing round."
+    publishedDateTime: 2022-04-07T19:28:00Z
+    webUrl: "https://www.massdevice.com/viz-ai-raises-100m-series-d/"
     type: article
     provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 22
+      name: MassDevice
+      domain: massdevice.com
+    quality: 39
     images:
-      - url: "https://www.beckersspine.com/templates/beckers/assets/images/spine-og-image.png"
-        width: 800
-        height: 600
+      - url: "https://939506.smushcdn.com/2491169/wp-content/uploads/2019/05/MDO_webAD_5-19_Vs1.jpg?lossy=1&strip=1&webp=1"
+        width: 300
+        height: 250
         isCached: true
+  - title: "Viz.ai Raises $100M in Series D Funding"
+    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
+    publishedDateTime: 2022-04-07T17:52:00Z
+    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 17
 
 secured: "v5HhDN8DXoqC7G2H8vuMGzuq7W4VjxFIOUWqPtV7MFPB29g6tF4SLjvdkgka5iU//IoeDO/f6YOhAFWL1laJg9zpngjXAi2ifpEfEni5lAdEc8gLAWfG3wsqlENlgr7kCXBFGouv+M9/qMlD1syoZrSpm/yM/KQB60bxx2s13pqK0vz52RcK03eT+cVCc222TnVW5jdeV1sSY+lqxC9kMuXTQArDn+ZPE/kt36LJwsEkrdFnWoOh7anYMFbLYBcdJazyYw7cro2X+C8jnl314ykaxvbEz6cLdNaWNAFV2dvRheuPe06O1Yr+8b1p/agxpC2ZLllU/FN5H9IanZXL5HRhLRpTWAtzbfmcxxWn97k=;rAwc4XYTUkPU3BEwZ+03Qw=="
 ---

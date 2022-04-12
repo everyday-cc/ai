@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence B2b Marketing?"
-    excerpt: "What Is The Difference Between B2B Vs B2C Marketing Automation? What B2C marketing involves is providing marketing and sales services to a specific target and taking care of the j"
-    publishedDateTime: 2022-04-07T09:55:00Z
-    webUrl: "https://www.ictsd.org/artificial-intelligence-b2b-marketing/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 56
-    images:
-      - url: "https://cdnictsd.ictsd.org/artificial-intelligence-b2b-marketing-.jpg"
-        width: 626
-        height: 417
-        isCached: true
   - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Healthcare and Life Sciences segment to have ... MarketsandMarkets's flagship competitive intelligence and market research platform, 'Knowledge Store' connects over 200,000 markets and entire ..."
     publishedDateTime: 2022-04-07T20:47:00Z

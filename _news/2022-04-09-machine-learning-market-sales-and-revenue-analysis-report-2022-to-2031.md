@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Re
 webUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Revenue-Analysis-Report-2022-to-2031"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest t"
-    publishedDateTime: 2022-04-07T10:37:00Z
-    webUrl: "https://menafn.com/1103973174/Computer-Vision-Market-2022-Comprehensive-Analysis-Future-Estimations-Growth-Drivers-and-Forecast-to-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?745788"
-        width: 456
-        height: 250
         isCached: true
   - title: "India Artificial Intelligence Market 2021-2026: Industry Growth, Size, Share, Analysis and Research Report"
     excerpt: "India Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 11, 2022 /EINPresswire.com / -- According to the late"
