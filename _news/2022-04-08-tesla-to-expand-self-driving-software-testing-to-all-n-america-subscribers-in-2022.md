@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-    excerpt: "A camera system to collect data and advance self-driving car technology developed by Toyota's subsidiary Woven Planet is seen atop an autonomous test vehicle in San Francisco Bay Area, U.S., in this u"
-    publishedDateTime: 2022-04-07T15:48:00Z
-    webUrl: "https://www.reuters.com/news/picture/like-tesla-toyota-develops-self-driving-idUSKCN2LY1JO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220406&t=2&i=1596556642&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI350TG"
-        width: 810
-        height: 486
-        isCached: true
   - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
     excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on \"full self-driving.\""
     publishedDateTime: 2022-04-11T18:43:00Z
@@ -101,15 +87,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Analysis: Tesla faces long road to Europe's OK for Full Self-Driving"
-    excerpt: "CEO Elon Musk admitted last month Tesla still has \"a lot of work\" to do before the carmaker will be ready to show FSD to European regulators."
-    publishedDateTime: 2022-04-07T15:28:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/04/07/analysis-tesla-faces-long-road-europes-ok-full-self-driving-tdn/9496067002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "mmySG9fSW4bvI0D0Rf3jzTJdT4wpapR+zdVn2isxwfHNT7v4nH/O5ENnqMfXuJzW3uqsDn8OOrTYluF1LR1IQukQhTlr9rc2MBRNT6Y/DppUsT65yK5jHYNQWRoRpz+dPdXcyQ8HiGZBOuVpgobjSkg5STap/pNLpkyE39b68IP/Dp1M7rIxYBkERC3TQZbspY3gYTFC5j2gJMlkISV+F95ir/A36iYolV/C4SSIuyZh+/fawVPyv0UAkZrb1sGLJe96oOcZzZOV7+U/6cbcpdEQ2ChJ/G1xdsU7l+yi/3XC7iV228YPjSl2wPI5F8/trJj17ov7f9sy14JuwT/O13tpFNmV+HivJRY2+BfR4mneZV2DjfKABd7HQKlNugwH/6Cu3uOpNdd3mMjVt7Vsh7PPvTiGnBieBpptJNOBwhMgsGUpBRIttHJSK1vwJJcoJ9N/xmeeik25ZpzNu2BVZNo8etBminHV+CKCnmMx+4rjElsR4Igg29ddFlX+pTC/SmBvHPdddnI+w3vXiDOO+g==;fa/eNI32tQa7Y2Q/W78BNA=="
 ---

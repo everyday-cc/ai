@@ -63,22 +63,6 @@ related:
         width: 996
         height: 541
         isCached: true
-  - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
-    excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
-    publishedDateTime: 2022-04-07T16:30:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 42
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "0Da+9v4QuExNKV1CiaY5Vh2wFpKqbjTV6eD8C0m8ufgbtBeLEMvveAHr+Y8sCMb9V76Kw6Iu9QvTL/Q1b2K1CodgZEk36yoWqGy4WQh6+5+a2ovqWih2dhhiDPfjDVnFw71OXOP1+MevuknZKryhyC3/3XmLTYRXbnTeS931QDZL70xMQ4wjzW4ZBJsUxiz/QgNrmPDKjJGfI8LdgmhGZABew29bUqPSFgrRDyPlR7LuungYUnnhOpeiyrVQLLAUwqJfKbsYpne6+JTnbWKMVq791uZl5tAPlPstOySKxf3AxjaSXEd3K3svFI2c+4yorGd8+83tizmJ/Jf36tTmH5j/lxzEslLbAf1AUrIeTuRZknuITm4rqqvDTku36fUBBFOBU3frZA9ffR++q1IHuXvKKsgDZE/nwJIhOTPPlRboT1Lpmr4nvc7k4VTJypkGV+2Ktbtvxh5z0tQriXvE8Q/ZoPf8EZjNYYYsLsPMNG2plhEryB2kIzH0gINTcPWrf3NsKmg/V4mJfCZbEA85vA==;bMQCL8Vb5cMM5FEgtHwhUQ=="
 ---

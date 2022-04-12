@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/04/10/2022-designcon-shows-evolution-of-electronic-chip-communication-and-memory/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "DesignCon Keynote: Unraveling the Hype of AI"
-    excerpt: "In Wednesday’s DesignCon keynote session, Google AI expert Laurence Moroney discusses his vision and experiences with this disruptive technology."
-    publishedDateTime: 2022-04-07T15:23:00Z
-    webUrl: "https://www.designnews.com/artificial-intelligence/designcon-keynote-unraveling-hype-ai"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/laurencemoroney.jpg"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "vbf885iPfdbV/mttXvpJRZ1d9St5UHEJ4cpwa5MxuofWy+ihYTx0wRl3Q2N0SUe0sNjLrR18GeB64jEV24nSj8OkryWRptWf6eyjZqyzM8lNNxze07RNFCaeDOkZXKLjl9iVhukYW/tC0BlQsoLu4HMGPE7l5RQpLcS9Qc+wfD6C2ZVUNRBsZoPVjWzPK5LTCwri92baUd4QGFrYWajRiJWBJLluH8t6K8rhYL+Q/245mcz36eCUUEfEubcjgU17cCX2vWSRmAJH5JxSjzrzKjr5gS3pQ7x93sgvDg38DrF9pHZRLpADsQwqI8CfldUQe2aZYX5eFs3MFXVmDtFgfIewMw5n5j2b7MSPWfHUqko=;XLiQcCCKKji0pY2xgJT08g=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Machine learning can predict adverse outcomes after abdominal hernia surgery"
-    excerpt: "Machine learning (ML) models developed by surgeons at the University of Texas MD Anderson Cancer Center in Houston have shown a high level of accuracy in predicting which types of patients are ..."
-    publishedDateTime: 2022-04-07T16:42:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-adverse-outcomes-abdominal-hernia.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-can-p.jpg"
-        width: 2233
-        height: 1149
-        isCached: true
 
 secured: "V1AdDzZVG9YkUBJjXuufanD5BG+twl2owtccEJQV6Db5mJcnU6JMLC/7sF6Wfp2+Z0KujywpMnzuIaM5gsuebSmmH7uvfwq1YH2LgFkblxhcROzajfw5jW+e67LQtCRSxBHB/g4geK1n3gyvWpE2eDIOqkRKxIi8MAa6tvL+EbHwGAZpSo0lLDM1hcfINBBDwdp85DDVqbK6mVjX/RimBx8m62fgJnQhaVR+NoNHF1S1ba16fQzGNh1m3HFZdaMYZQj3SUhqXitJW5fBX6qVurqwU1BWnk7/k6EFiKiW7YVxZd22g+/2NstdFt4GZFAaGYwZQCAWuzlbxJShuO6SjXS1O5h2PRgG3/qFdal0mjc=;RMd5jFIo27/hJ2/nxn0i4g=="
 ---

@@ -34,6 +34,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "India, US to restart commercial dialogue, CEO forum later 2022 as artificial intelligence comes under focus"
+    excerpt: "During the 2+2 Ministerial, the two sides discussed their goal of driving inclusive economic growth in the two countries and across the region, said the US Secretary of State Antony Blinken."
+    publishedDateTime: 2022-04-12T08:19:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 39
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/12/w600X390/India_US_Flag_Reuters.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "PCCYmZDWOEAjVOf6whdtDEyYiQk1TWYZeFwNvPT1p/vvudusgr0zKfK0wLPA/qy2oDVW3GXgiGwuxTDTo1Hug5ddPljgsZF83dc9MJBma2j7LZbbpTLB0iRw3m5GOWO30GRQCVmfoVOlINbMszZFkmhowqH8HD2DwXpiXF8OUWHh55uOcXonhqMiMeKw1jISDGiX6YD2RlgVZks++hIoPIyDN6jc36ISk5Sw0nF1UBiYtea//SfvM2tLOKkI+D2Iul679RwNGATMlzskut3LPJIuZXiatW2tQW+wyh8uyC/lcqaf8ciNahxovKiJHFgHgeYt4JzfxLjt2p+0igI+WYQNUXTdURVY+gwJHPh7FYB3WJEtzZZChOsq3gCVgVc4hhGWdU9c8Al7WbuNG4AnnLxw+VJGOFdLQQ2sxRgGkWQv0yEfkaxfSIdOeeZy9BAAbroqf7nHOocl639xhrVr8GtZGnEvoMLz0EuFoanR4sBbWNtx4JFY576Rxww86nM7PbXzWEth/lLN4pyWtiL6+Q==;+KskdLNj9hE08zFm9NI3tQ=="
 ---

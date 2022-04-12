@@ -55,22 +55,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
-    excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
-    publishedDateTime: 2022-04-07T16:30:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 42
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
     publishedDateTime: 2022-04-11T08:05:00Z

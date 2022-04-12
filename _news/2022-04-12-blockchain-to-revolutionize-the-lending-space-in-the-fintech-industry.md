@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424530"
 webUrl: "https://www.entrepreneur.com/article/424530"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
         width: 996
         height: 541
         isCached: true
-  - title: "IIT-M incubation cell, STPI join hands to support fintech startups in India"
-    excerpt: "India's deep-tech start-up hub, spearheaded by IIT Madras Incubation Cell (IITMIC), Software Technology Parks of India (STPI) and AIC STPINEXT Initiatives, have signed a Memorandum of Understanding (MoU) to work together in developing the ecosystem necessary to identify,"
-    publishedDateTime: 2022-04-07T16:30:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/iit-m-incubation-cell-stpi-join-hands-to-support-fintech-startups-in-india/article65300268.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 42
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
     publishedDateTime: 2022-04-11T08:05:00Z
@@ -85,6 +69,6 @@ related:
       domain: israelnationalnews.com
     quality: 4
 
-secured: "2Zbek+cSIOHpCRPrVUfINrCZI/faxzaDb2H3DzHOOO3eYcbeubBuJr3pkSnI7PL2QSFc+rShrrJTTpumCgKW9vZuk5UTpoOG5exJNXTDGOVfxYtO1J8+UL427J4dbGonZjjEo9VEeKzYAwTzWgvJbxqUJFYANpvIEhmt5tLQ1iJSur91LpY+s66asIInb5tbPN/cvAZpBoJmp1TrxTJ60x3/usEwal/7A/t6agOnMeTEVUWVwI87KFlylmfuztB+hqAZMmpgYA2PwOWPZgJYVGm0OgH3E0yPEeB+LdHpu0uoRnYkbYU6BtwIQQeDekNJOHjxZ6ayaBtUuVl4AQjtjz4O5aaodGf/KxJj0cEkStk=;cfD6RkDJgNmISxm6A+6RJQ=="
+secured: "K9dcQe8J3nsBwL0sMbjrZJaZmRhQ/aJ5BhNqMPHh4yLT6ajFbL3CstK4aWCtw5CBb7WCDxzCbYuwJ9xjSeObNNKiMbdKoYPSLa4Rf4GRIX12ofNsREUgF6SfGgYLgZuRH83x9bHKyBuzYwctRtapGvqI6O82zBsXXOGlq2nUxBCx7Epx55KYK5fvtur4ePaKwKjp1Sa95ANzNWJm0gKt0FgIXkjDPULArqz5dI6SuSxAeT8FF1PbyAaQDk9NDaa5Te9eh71nsISukX5R9Gxfkz/otHkaTTuhh+i+YogcupUBjKI3eNrVWTnDapqLc/yWtMUlUIQKxHMSWP/JUxQNIpNeVm+GtE3c/ITtTBWj0aorwvxq1KsrZrKd5DzpBd6oPCzV1JHo4RFdUGCgRn//JgsHr7sLJhbDr4alyy7HqxR6+6K/I3F5+8JtJROcjmEaIF47GwMk/mq9gL+VKHPgWdMduRX8bSC4g7RMQduwG/xq6Uk0FOS3tOmBeBR/OkGniuu6wRQe7nimiI2RrVoSsQ==;f4e+K1Jq2YPQdhjvklWPxg=="
 ---
 

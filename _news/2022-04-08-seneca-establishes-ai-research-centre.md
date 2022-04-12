@@ -27,7 +27,7 @@ related:
   - title: "Bulgaria to develop AI research centre in partnership with Google, AWS"
     excerpt: "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership"
     publishedDateTime: 2022-04-11T21:40:00Z
-    webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
+    webUrl: "https://www.intellinews.com/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/"
     type: article
     provider:
       name: Business New Europe

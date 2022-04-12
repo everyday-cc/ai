@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researc
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence accurately predicts cardiac arrest death, researchers say"
-    excerpt: "April 7 (UPI) --A new artificial intelligence-based approach ... called Survival Study of Cardiac Arrhythmia Risk, uses neural networks to build a personalized survival assessment for each patient ..."
-    publishedDateTime: 2022-04-07T15:11:00Z
-    webUrl: "https://www.upi.com/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
-    ampWebUrl: "https://www.upi.com/amp/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/04/07/algorithm-predict-cardiac-arrest-death-study/2701649337182/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 54
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/2701649337182/2022/1/a1823959af5d317b15aa39ad04260675/v1.5/Artificial-intelligence-accurately-predicts-cardiac-arrest-death-researchers-say.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Artificial Intelligence predicts time, probability of cardiac arrest occurring"
     excerpt: "A new artificial-intelligence-based approach can predict, accurately than a doctor, if and when a patient could die of cardiac arrest."
     publishedDateTime: 2022-04-09T06:40:00Z

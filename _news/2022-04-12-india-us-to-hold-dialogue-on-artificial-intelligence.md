@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/indi
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: moneycontrol.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "India, US to restart commercial dialogue, CEO forum later 2022 as artificial intelligence comes under focus"
+    excerpt: "During the 2+2 Ministerial, the two sides discussed their goal of driving inclusive economic growth in the two countries and across the region, said the US Secretary of State Antony Blinken."
+    publishedDateTime: 2022-04-12T08:19:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 39
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/12/w600X390/India_US_Flag_Reuters.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "A new AI-powered chatbot now aims to ensure online safety for India’s youth"
     excerpt: "Developed by the Population Foundation of India, SnehAI creates awareness around online risks and provides tips to stay safe while browsing the internet."
     publishedDateTime: 2022-04-08T13:08:00Z

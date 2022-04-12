@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-    excerpt: "A camera system to collect data and advance self-driving car technology developed by Toyota's subsidiary Woven Planet is seen atop an autonomous test vehicle in San Francisco Bay Area, U.S., in this u"
-    publishedDateTime: 2022-04-07T15:48:00Z
-    webUrl: "https://www.reuters.com/news/picture/like-tesla-toyota-develops-self-driving-idUSKCN2LY1JO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220406&t=2&i=1596556642&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI350TG"
-        width: 810
-        height: 486
-        isCached: true
   - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
     excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on \"full self-driving.\""
     publishedDateTime: 2022-04-11T18:43:00Z
@@ -104,15 +90,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Analysis: Tesla faces long road to Europe's OK for Full Self-Driving"
-    excerpt: "CEO Elon Musk admitted last month Tesla still has \"a lot of work\" to do before the carmaker will be ready to show FSD to European regulators."
-    publishedDateTime: 2022-04-07T15:28:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/04/07/analysis-tesla-faces-long-road-europes-ok-full-self-driving-tdn/9496067002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "A6pmB/iOtqANoRwt1TwKKgXyTmh/j/KYWCOZjwqoC63PXOn+KCsMgwBbWO5RooUEaRf3ZBqDnJm//w3rl7aaVm0P6rRobt0OClh+xFBDrYbtAzub6ULWsabFxa/nnQNr0ta64JK7IhV1SwYc7tPDi9jaB5eoIDH2ZWU3tPefaBh9ZfJyJiWYbZSaawpPxYngAPnOp3lsMDKFUBpzSrUGKVyQfLgtioIwjFGbNI7x8sz6OdkzwwU20Zst/F9K1uPZozgGwmZmydO3bbbZTCG55su0jdblWf1OcjOAN9TudLOMTD7/fRDHIDhwsu9N6dRrEP40ATlzMFDExNaclPtoiCp2FZQBvVIxNVuJWWNbI4s=;+NxKbj3Nxpma2GmNRlQ4nQ=="
 ---

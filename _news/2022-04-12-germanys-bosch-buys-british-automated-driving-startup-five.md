@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Germany’s Bosch buys British automated driving startup Five"
-excerpt: "German auto parts and technology company Bosch says it is buying Five, a British automated driving startup, for an undisclosed amount."
-publishedDateTime: 2022-04-12T07:45:00Z
-originalUrl: "https://www.seattletimes.com/business/germanys-bosch-buys-british-automated-driving-startup-five/"
-webUrl: "https://www.seattletimes.com/business/germanys-bosch-buys-british-automated-driving-startup-five/"
-ampWebUrl: "https://www.seattletimes.com/business/germanys-bosch-buys-british-automated-driving-startup-five/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/germanys-bosch-buys-british-automated-driving-startup-five/?amp=1"
+title: "Germany's Bosch buys British automated driving startup Five"
+excerpt: "Bosch said Five, which is based in Cambridge and employs 140 people at six locations in the U.K., currently focuses on a cloud-based development and testing platform for the software used in self-driving cars. Bosch board member Markus Heyn said the ..."
+publishedDateTime: 2022-04-12T09:42:00Z
+originalUrl: "https://www.registercitizen.com/news/article/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
+webUrl: "https://www.registercitizen.com/news/article/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
+ampWebUrl: "https://www.registercitizen.com/news/amp/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
+cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: The Register Citizen
+  domain: registercitizen.com
 
 topics:
   - AI in Autos
@@ -52,6 +52,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cEhmUIPUjvfXI0Q7DHaiiSQMoHNkGK5tSNo5562dJmmETg8zJCBkVO498je8LP/c60RnfDihbCr7tt7hCvvAHsuWwTiwPnAndG46hzXEGfwUBm7YArn9lxKMfrQimD/8kWXH9G6Qdxhf3MlNqjHHJsY0UT/tSnpDYCC1s3elKvKADsehPg/QgtvUxJVa7WWR4CxC02003u0Roj4BFZz9DGSdt4DomwFPCxUSQc0Y/WCX4swleViXK1ApvtbtBY5NZsadzoc7sKV8HYZaEo4mO80xJy0hNdJly6AgLg+t1e+L0zP7Bod829lrJ9v8AIpfBef51uqQCJPFtmkdJYZsXWPiAyhsa8EgxvO3dDlAnWE=;/PeaeUWZC2uGeatwSkQGcw=="
+secured: "YtUNl/eVYcOCWpnW8biOfuQ2XRhYNxOBa/h+HzBPkIQ4OZSAKtr5XJrzTj64Lov2XunSZv/dyqYv1TRjcu0grblk0d4zxJgJ1UxPIyXPlSo01Tiq6D/LNSl4QbJwi8tNme/iQDi43bX1itecVcPm8I8+zRDaPu32dO6BQdMVx2iS08WIeP2iV+vIlIYKsu12c3r1DcbYrh3LCnZyAAjIcOTy47OYT1qfo2DLKem7TAKS8bBf5ifwnIYTN1d4YURQQPag0Xo9tFTx4YZPZ9BZKR0NfOk2vMVWqzV3KDF1HGMwbyHeqORc2wr8Tzer8sLSYsTyt9/3csRVJ6t6h5F7xy7Acgh/VbLu3oCDvkV0qTM=;4/CiE0YPUxGm6DwXT3TGHQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 19
+  - title: "Similarity Between Artificial Intelligence and Human"
+    excerpt: "a graduate student in the Visualization Group of the Computer Science and Artificial Intelligence Laboratory (CSAIL). \"On one end of the spectrum, your model made the decision for the exact same reason a human did, and on the other end of the spectrum ..."
+    publishedDateTime: 2022-04-09T18:25:00Z
+    webUrl: "https://www.medindia.net/news/similarity-between-artificial-intelligence-and-human-206542-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "j7xDcYg/kX5XZk6qQ5P36a2I2rC8F6W3Cqqopgbc9i6WC/WjrObcsNFxMPn1CaUVHirLkXnjBp+4xLernVujfpbuVC834aJ02aUjAd+0t2teA1DUz3chcwsVeEo9yUgwEeBwESEnVUKao/KVDyjD6ol9ttLdgnQQgOuXGIuzTyAEQpT/rt3QKzrswfsIzveURg0HL8JjOyfvEOvll5rNiKs66HClQ9W6K0JSkElalJbmqZXODnxmFQw0axQUnPT4XqQSSPN4DlSqBwB9sG0e/9qPm7XU1mf7Jmu9N3xgI/ZKodVyJ/77iGH/cuCVf80u3YW493vAAwhF6s7SwkPxGfhVhXyydj9lYeoXlkU2TEL/fxZLIWpIkHcOVpbfUe7B9EzU4B32bTk9rDS7RiXhJBRV79RvrqTY48zyQltAOheukD6M1Fhjb4rDtTYZWxYOwUbJf1Ozkxm4Z738GXQV/Qs614EfMt+Zs595PG4ed2sMYbss5jgPGT0dcRHXNGGKFJywEI1JWmoZPcl447VnFA==;LVUw1nGP/aIfyJmmFBWV7A=="
 ---

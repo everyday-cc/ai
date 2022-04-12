@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indian American’s AI startup raises $200 million"
-    excerpt: "An Indian American-led artificial intelligence startup in the Silicon Valley on Wednesday said it has raised $200 million so far and added key members to its leadership team. Vianai System, the human-centered AI platform and products company,"
-    publishedDateTime: 2022-04-07T16:48:00Z
-    webUrl: "https://thesouthasiantimes.info/indian-americans-ai-startup-raises-200-million/"
-    type: article
-    provider:
-      name: thesouthasiantimes
-      domain: thesouthasiantimes.info
-    quality: 37
-    images:
-      - url: "https://thesouthasiantimes.info/wp-content/uploads/2022/04/Zelenskyy-Photo-UN-News-450x250.jpg"
-        width: 450
-        height: 250
-        isCached: true
   - title: "Researchers used artificial intelligence to analyze thousands of videos from a database of American Sign Language (VIDEO)"
     excerpt: "Researchers used artificial intelligence to analyze thousands of videos from a database of American Sign Language—this clip shows the sign for “believe”—to figure out where the hands are in relation to the face and body."
     publishedDateTime: 2022-04-07T20:39:00Z

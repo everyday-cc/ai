@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-    excerpt: "A camera system to collect data and advance self-driving car technology developed by Toyota's subsidiary Woven Planet is seen atop an autonomous test vehicle in San Francisco Bay Area, U.S., in this u"
-    publishedDateTime: 2022-04-07T15:48:00Z
-    webUrl: "https://www.reuters.com/news/picture/like-tesla-toyota-develops-self-driving-idUSKCN2LY1JO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220406&t=2&i=1596556642&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI350TG"
-        width: 810
-        height: 486
-        isCached: true
   - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
     excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on \"full self-driving.\""
     publishedDateTime: 2022-04-11T18:43:00Z
@@ -101,15 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Analysis: Tesla faces long road to Europe's OK for Full Self-Driving"
-    excerpt: "CEO Elon Musk admitted last month Tesla still has \"a lot of work\" to do before the carmaker will be ready to show FSD to European regulators."
-    publishedDateTime: 2022-04-07T15:28:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/04/07/analysis-tesla-faces-long-road-europes-ok-full-self-driving-tdn/9496067002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "bD9+roraagA+Px2UbkYviLftUtq9LIMaHqZpdYiID2u9zecC+opGR0CAqL3O9RVEqrUm3G3ZUcJUKDEcCzlKtEuY5oRKpLf9zmOh75LOK5iPGX9Wy/VmytzQJbeX7bbSkpaKiqU/w4pPUl9dHRt+10dwRSZbazoXTbofCRK+oTT8bbYY037jtj3vZzZXeYsBDsMk3JgPhSJOHCZ39lHZevhbkdubxunGIERbX1uw1JYHXwme5tnv36mz94rn+EpiF+M2IRka/ZA4eguviXJVVm5w0H3aZbFIbryoPoEJ4lXPFkmtvG2uwRn0gOnA7ipEe+i+8moBmD/7djvczgwnrA8hJu9A7QS/SfU2UXywb3Y=;f/ALvcZF+4sXKI12RDYdAg=="
 ---

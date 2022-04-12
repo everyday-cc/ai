@@ -51,6 +51,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Similarity Between Artificial Intelligence and Human"
+    excerpt: "a graduate student in the Visualization Group of the Computer Science and Artificial Intelligence Laboratory (CSAIL). \"On one end of the spectrum, your model made the decision for the exact same reason a human did, and on the other end of the spectrum ..."
+    publishedDateTime: 2022-04-09T18:25:00Z
+    webUrl: "https://www.medindia.net/news/similarity-between-artificial-intelligence-and-human-206542-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "dDATvBcAt2O2QNJLed6m5Wbq0FmcbJxmPhzf2HpbJDC0CGsQasBQW37OyKHWPWzPlJETwmQwOfE+Aiyx3GUNT+FDumVPJEZhG2h6rU4HZcth1DldHJkL+NsNJc59G+YzQE+M02btNioYTx2qnMFDGrtwlXedbfqBjF6eTY27m6qJLuaVMfHlFhDH/zqqbDIESSdtrf6Q0qZUNgMrW12pWTfjpdZ3BJuMflRVv2XzTvBEUqy4ijoNhn5NJxjVgXEWJCWYQnt+1FgIlMcVNw2L+6WO+w/ztl+VIcHokK2jlBRuZis52IlMudMeyvdjUry617SWOgZyA7VrC1vewFLfrSAtVDbvVPG1GKOx9XQAJ3I9jUqzSCPTAPUAkAqDAUKz9wFiUO5jgCDklmTKEVgUI7Mjf7seJPkDWkaSNYA2B6Xo9mjhi6eGln+c3I/WqZvF77rsTsc9wdLRJ8epzd7fwm2vatbVDgwlmW2iTiAV1A7QE1PhfFkN/9JFVeEKBGF0Eht2xdCewQ0Nm8+aqwlVwQ==;AvTBl2zicp59lCch2dG6Og=="
 ---
