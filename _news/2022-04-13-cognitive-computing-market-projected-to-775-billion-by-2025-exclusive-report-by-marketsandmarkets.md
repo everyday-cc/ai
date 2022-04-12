@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T18:33:00Z
 originalUrl: "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139"
 webUrl: "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

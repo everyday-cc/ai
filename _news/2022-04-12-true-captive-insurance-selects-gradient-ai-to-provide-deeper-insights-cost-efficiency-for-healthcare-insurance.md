@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T12:57:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-insurance-industry-422770a3cb0f46dd9fbddca2d5af9e89"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-artificial-intelligence-insurance-industry-422770a3cb0f46dd9fbddca2d5af9e89"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Associated Press

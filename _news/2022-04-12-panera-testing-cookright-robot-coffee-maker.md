@@ -54,6 +54,15 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 34
+  - title: "Panera to Try Robots Serving Coffee"
+    excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
+    publishedDateTime: 2022-04-12T13:45:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/76426/Panera-to-Try-Robots-Serving-Coffee"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "cg9dhersemVXo9ug5Ggmk7c60a5fIVd4yunRwH9m6APxhlFXoOo2M5Zor4Y1WIpM+SPM/0+HL9HPWCAM2diL2a+OgcHOGsri03aGVpGudhxJjeSxWFnVFw0AQlWe0VqsV40MS2utfdESi4aiwthUe+cGP2KpwggKp3drQYb70rog4f5XHpVci6V51iEbitzBfZHeU5b1vCxA/GpuDb78iIzQSjuMvibrMQe4faXfqy1A7iQuMYvYSoDJ93cwNz/tNO3/mADlVOmHJtwhG9eU8FqB1tUVCG7VQztRbWvPkQdQCnNW0RTSH/QyRoxIfTpbMhLQMajkdA2nJdz71dbNzawyy6yI/PWIofRpGJ0n9bNJXrBqBnDlytgyiwcD04XVXOp1Lbf+yCcak7IW+Z2sup4pz+T9u1+ql9rcjMyX/IGtXfck7ShhCM4Kg7pnCeNB/AfK36KxD6I97//FdlREGTz76SNx8EdUPlDOF3UKPqcsiccTSw8nENx27N1WfxRKr80yhX3pA5NLEgV05DQsbQ==;EX0pMPdaBgLa/xoLn0b9NQ=="
 ---

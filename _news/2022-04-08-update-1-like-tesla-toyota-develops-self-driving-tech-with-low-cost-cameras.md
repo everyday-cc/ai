@@ -48,34 +48,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 49
-  - title: "Tesla To Expand Self-driving Software Testing To All N. America Subscribers In 2022"
-    excerpt: "Tesla chief executive Elon Musk said on Thursday the automaker will expand its \"Full Self-Driving (FSD)\" beta software to all North American FSD subscribers this year and promised a \"dedicated robotaxi\","
-    publishedDateTime: 2022-04-08T04:40:00Z
-    webUrl: "https://www.ibtimes.com/tesla-expand-self-driving-software-testing-all-n-america-subscribers-2022-3466640"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 33
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/07/construction-continues-on-the-tesla-gigafactory-in-austin.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
-    excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
-    publishedDateTime: 2022-04-08T04:35:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/tesla-to-expand-self-driving-software-testing-to-all-north-america-subscribers-in-2022"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 31
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/08/md_teslacar_08042022.jpg?VersionId=TwYKs19UQiir.gvLsqJlTVOX9vH34N9_"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "A6pmB/iOtqANoRwt1TwKKgXyTmh/j/KYWCOZjwqoC63PXOn+KCsMgwBbWO5RooUEaRf3ZBqDnJm//w3rl7aaVm0P6rRobt0OClh+xFBDrYbtAzub6ULWsabFxa/nnQNr0ta64JK7IhV1SwYc7tPDi9jaB5eoIDH2ZWU3tPefaBh9ZfJyJiWYbZSaawpPxYngAPnOp3lsMDKFUBpzSrUGKVyQfLgtioIwjFGbNI7x8sz6OdkzwwU20Zst/F9K1uPZozgGwmZmydO3bbbZTCG55su0jdblWf1OcjOAN9TudLOMTD7/fRDHIDhwsu9N6dRrEP40ATlzMFDExNaclPtoiCp2FZQBvVIxNVuJWWNbI4s=;+NxKbj3Nxpma2GmNRlQ4nQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T19:19:00Z
 originalUrl: "https://www.afr.com/technology/ethics-will-be-the-next-big-challenge-for-ai-20220408-p5ac5d"
 webUrl: "https://www.afr.com/technology/ethics-will-be-the-next-big-challenge-for-ai-20220408-p5ac5d"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Australian Financial Review

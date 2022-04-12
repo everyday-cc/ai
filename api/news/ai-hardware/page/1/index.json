@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-ny-state-budget-allots-75m-for-ai-at-university-at-albany.md",
+      "title": "NY State Budget Allots $75M for AI at University at Albany",
+      "excerpt": "Next-generation chips and supercomputers are what's needed to power the AI revolution in which devices take the place of humans in gathering data and making decisions based on that data. \"Together with Albany AI, the proposed reunification of UAlbany and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/aa7c503/2147483647/strip/true/crop/1440x751+0+105/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9e%2F71%2F67a0aaf546c78384ec8f6ce8981d%2Funiversity-at-albany.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true",
+      "publishedDateTime": "2022-04-12T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-future-proof-your-business-with-ai-in-products-and-services.md",
       "title": "Future Proof Your Business With AI In Products And Services",
       "excerpt": "Artificial Intelligence (AI) is one of the most potent technologies businesses have ever had access to. In order to thrive and meet the customer expectations of the future, businesses must consider integrating AI into their products and services.",
@@ -203,7 +246,7 @@
       "originalUrl": "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1363,62 +1406,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
-      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
-      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "publishedDateTime": "2022-03-27T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Google AI",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],

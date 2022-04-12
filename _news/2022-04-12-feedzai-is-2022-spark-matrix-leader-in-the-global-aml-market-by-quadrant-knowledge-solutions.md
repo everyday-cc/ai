@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T13:05:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/feedzai-is-2022-spark-matrix-leader-in-the-global-aml-market-by-quadrant-knowledge-solutions-872804968.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/feedzai-is-2022-spark-matrix-leader-in-the-global-aml-market-by-quadrant-knowledge-solutions-872804968.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: PR Newswire

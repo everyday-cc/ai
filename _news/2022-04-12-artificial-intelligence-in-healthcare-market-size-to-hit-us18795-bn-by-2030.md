@@ -50,6 +50,24 @@ related:
       name: The Jerusalem Post Blogs
       domain: jpost.com
     quality: 17
+  - title: "Ransomware hits rural health centers & a true test of AI"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Ransomware is plunging rural hospitals into crisis ..."
+    publishedDateTime: 2022-04-12T17:39:00Z
+    webUrl: "https://www.statnews.com/2022/04/12/health-ransomware-rural-artificial-intelligence/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
+    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
+    publishedDateTime: 2022-04-12T18:26:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 3
 
 secured: "eTjupkcHbbWdMxMFo401Jf2bJXqzWsikYwzvJsUE+d86m7AwbTDN/e1dYr3iz30sTvQ+PMMLfRwmppiMSjow+1faESuYojf2yFSlaGzkMzYlIi+tRo+BPsh5xhihXqcG8KzuqHu+wdWbLsSpWSytIT23flgVPh/ApX8hkE1OlWSUoDDN5jKs0XWnKzMTu9wrvJIMzl5gvpccQ79N+RT8kuZIsVafZiQxPHdvvYVtkdnO32I3Sv2UVA4Bg8e2fF4xTQE+/xCIEhYFkym0PvDbg9eowfoYN0m7vEAIGPB29BGAVxxdtrW3pB8OUGVDiB1VSU/cz8mci6feoPFjYlBSRDG9jrg7OTqxbMfQGqie448=;cKoBjk8KN/3P6AjrrjW4lA=="
 ---

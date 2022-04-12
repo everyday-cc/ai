@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-15-heres-looking-at-you-kid-the-problematic-adoption-of-facial-recognition-systems.md",
+      "title": "Here's looking at you, kid - the problematic adoption of facial recognition systems",
+      "excerpt": "Facial recognition systems are one of the most controversial areas of real world AI. But despite the ethical qualms, facial recognition is now in use across multiple industries. Can regulation catch up?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "originalUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-12/facial-recognition.jpg",
+          "width": 1265,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
+      "publishedDateTime": "2022-03-15T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-roborock-s7-maxv-ultra-review-this-bot-cleans-its-own-bottom.md",
       "title": "Roborock S7 MaxV Ultra review: this bot cleans its own bottom",
       "excerpt": "Essentially a combination of the S7 and the S6 MaxV (which has obstacle avoidance), the S7 MaxV adds an improved object recognition tech Roborock calls “ReactiveAI 2.0 Obstacle Avoidance System.”",
@@ -1309,49 +1352,6 @@
         "Computer Vision",
         "AI in Security",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-facial-recognition-market-size-worth-1267bn-globally-by-2028-at-142-cagr-exclusive-report-by-the-insight-partners.md",
-      "title": "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25834423",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25834423",
-      "publishedDateTime": "2022-02-25T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

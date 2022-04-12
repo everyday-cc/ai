@@ -2,6 +2,293 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-02-17-jaguar-land-rover-nvidia-will-collaborate-on-in-vehicle-software.md",
+      "title": "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software",
+      "excerpt": "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/jaguar-land-rover-nvidia-will-collaborate-vehicle-software",
+      "originalUrl": "https://www.autonews.com/mobility-report/jaguar-land-rover-nvidia-will-collaborate-vehicle-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Jaguar_NVIDIA.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-h2oai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch.md",
+      "title": "H2O.ai democratizes deep learning for companies of all sizes with Hydrogen Torch",
+      "excerpt": "Mountain View, California-based H2O.ai today unveiled a key new addition to its open-source-based platform: H2O Hydrogen Torch.  This feature is a deep-learning training engine that it claims smooths the way for companies of any size in any industry to make state-of-the-art image,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/",
+      "originalUrl": "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/amp/",
+      "publishedDateTime": "2022-02-17T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai.md",
+      "title": "Global Sampling of ‘Gluon – Deep Learning Co-Processor’ for Vision AI",
+      "excerpt": "AlphaICs, having operations in Bangalore and Milpitas, US, has announced the availability of engineering samples of ‘Gluon’ – an 8 TOPS Edge AI inference co-processor to cus",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai",
+      "originalUrl": "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/02/Left-to-Right-Pradeep-Vajram-and-Prashant-Trivedi-Co-Founder-AlphaICs-e1645111723813.png",
+          "width": 487,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp",
+      "publishedDateTime": "2022-02-17T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars.md",
+      "title": "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars",
+      "excerpt": "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop",
+          "width": 2097,
+          "height": 982,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-02-17T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion.md",
+      "title": "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion",
+      "excerpt": "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
+      "originalUrl": "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
+      "publishedDateTime": "2022-02-17T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-chinas-race-towards-ai-research-dominance.md",
+      "title": "China's Race Towards AI Research Dominance",
+      "excerpt": "Since taking its first steps teaching computers board game strategies in the 1950s, research on artificial intelligence has come a long way. In the 21st century in particular, machine learning and its promise for real-time improvements of algorithms through experience and providing access to more data has become the single biggest research focus in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/china-s-race-towards-ai-research-dominance/ar-AATZOqQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/Infographic/images/teaser/26240.jpeg",
+          "width": 355,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
+      "cdnAmpWebUrl": "https://www-statista-com.cdn.ampproject.org/c/s/www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
+      "publishedDateTime": "2022-02-17T06:52:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
+        "domain": "statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-influential-mlb-players-inc-partnership-empowers-players-to-become-successful-content-creators.md",
       "title": "Influential-MLB Players, Inc. Partnership Empowers Players to Become Successful Content Creators",
       "excerpt": "Influential, the world’s largest influencer marketing company, today announced a partnership with MLB Players, Inc., the business arm of the Major League Baseball Players Association. The agreement gives 1,",
@@ -891,255 +1178,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-dragonfruit-ai-launches-frontier-cloud-vms-with-video-analytics-for-multi-location-enterprises.md",
-      "title": "Dragonfruit AI launches Frontier Cloud VMS with video analytics for multi-location enterprises",
-      "excerpt": "Frontier is designed for multi-location enterprises that can't deploy expensive GPU hardware across all their sites (for on-premise AI), and don't have enough upload bandwidth (for cloud-based AI). Dragonfruit’s patented Split AI (US 11265591 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dragonfruit-ai-frontier-cloud-vms-video-analytics-multi-location-enterprises-co-227-ga-co-4781-ga-co-11239-ga-co-13220-ga-co-1598000326-ga-co-1645083936-ga-npr.1645085491.html",
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-facial-recognition-technology-taken-to-the-next-level-in-virtual-reality.md",
-      "title": "Facial recognition technology taken to the next level in virtual reality",
-      "excerpt": "An international team of researchers from Australia, New Zealand and India has taken facial recognition technology to the next level, using a person’s expression to manipulate objects in a virtual reality setting without the use of a handheld controller or touchpad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/943967",
-      "originalUrl": "https://www.eurekalert.org/news-releases/943967",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9e7498e8-47ec-4a1b-9e70-87d4e94ee325/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-meet-misty-ii-the-robot-as-a-platform-not-a-tool.md",
-      "title": "Meet Misty II: The Robot As a Platform, Not a Tool",
-      "excerpt": "At its core, Misty II is driven by a deep learning processor capable of a variety of machine learning tasks, such as facial and object recognition, distance detection, spatial mapping, and sound and touch sensing. Developers can also 3D print (or even ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
-      "originalUrl": "https://www.designnews.com/electronics-test/meet-misty-ii-robot-platform-not-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Misty%202_%20DevDeskMistyOnly.jpg",
-          "width": 6586,
-          "height": 4391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-the-best-stories-for-national-robotics-week.md",
-      "title": "The Best Stories for National Robotics Week",
-      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
-      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
-      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-what-will-it-take-for-us-to-trust-self-driving-cars.md",
-      "title": "What will it take for us to trust self-driving cars?",
-      "excerpt": "It won't matter if we reach full Level 5 autonomy if people are afraid to get into the cars. Even now, years – perhaps decades – before we'll actually see a fully autonomous ... to AAA's survey, it's that it does show consumers aren't opposed to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theautochannel.com/news/2022/03/03/1113702-survey-says-consumers-arent-comfortable-with-fully-autonomous-vehicles.html",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/what-will-it-take-us-trust-self-driving-cars-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theautochannel.com/news/2022/03/03/1113702-survey-says-consumers-arent-comfortable-with-fully-autonomous-vehicles.3.jpg",
-          "width": 400,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

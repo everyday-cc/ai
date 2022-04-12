@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-15-heres-why-snapchat-got-an-unexpected-shout-out-during-apples-big-iphone-event.md",
+      "title": "Here's Why Snapchat Got an Unexpected Shout-Out During Apple's Big iPhone Event",
+      "excerpt": "However, unlike Apple's other AR features, which are powered by facial recognition technology, Snapchat uses object recognition. Object recognition uses an algorithm that understands the general ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "originalUrl": "https://www.thestreet.com/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTY4NjUwODg5MzcxMjY0OTE5/apple-iphone-x-has-this-powerful-force-behind-it-that-nobody-is-talking-about.png",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "publishedDateTime": "2022-01-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
       "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
       "excerpt": "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. Faster processing, better accuracy, and economic ...",
@@ -1361,58 +1404,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread.md",
-      "title": "LiLz uses computer vision to read gauges and dials where humans prefer not to tread",
-      "excerpt": "No one wants to be the maintenance worker who has to hike through half a mile of damp hallways just to check the pressure gauge on a valve somewhere. LiLz makes it possible to keep an eye on such inconvenient physical interfaces remotely with a clever and practical application of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/lilzgauge-main-image.jpg?w=1024",
-          "width": 1024,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/amp/",
-      "publishedDateTime": "2022-01-04T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

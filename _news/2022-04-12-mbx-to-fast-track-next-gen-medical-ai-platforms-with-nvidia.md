@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Takes on AMD, NVIDIA with First Discrete GPU for PCs"
+    excerpt: "Hyper Compute uses the combined resources of the CPU and GPU to speed up AI workloads. The company has partnered with top OEMs such as Dell, Lenovo, HP, Samsung, and many others to roll out laptops for gamers and professionals that feature Arc 3 GPUs ..."
+    publishedDateTime: 2022-04-12T19:49:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237921/electronic-design-intel-takes-on-amd-nvidia-with-first-discrete-gpu-for-pcs"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 19
 
 secured: "LjnekSYnrZbr17b+jzVUs+nxLKOpTzmgEYtilFvyVF+kotFQQb1zUf6VEgCnoxkH7b/GTSLCIZuFP0GRwL7pIOJEBI7cHa9GYZe66niyWdV+B8DK2zbtJG4GDYuJBd5eHluyHo3aV77Eg008J7O2J3mWtCJgagp4vTlf/wGmgVvQZ/LUuxryQgFivzumJ/A4yhAFAldRnbQ+Pd+9vMOYKpt1dTQrdX303kp2sJ6r36fODRquTvrlN/Og7RWoK0Y4pImzvYPgAnwSbVk9F53pW/IwjHp+eB/QpEFWU7g2vU4SrmYbAsLPENnEDuree+9OaivUhOgZa/7iVQsCgiiQyn+dujwMpCWri+0x+58UoAc=;gRmXTf6BptqY6Q55KtTKxw=="
 ---

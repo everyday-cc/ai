@@ -2,6 +2,303 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-02-18-what-the-history-of-ai-tells-us-about-its-future.md",
+      "title": "What the history of AI tells us about its future",
+      "excerpt": "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "originalUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
+      "publishedDateTime": "2022-02-18T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry.md",
+      "title": "Hisense Breakthrough in 8K AI Image Quality Chip Technology Empowers the Global Display Industry",
+      "excerpt": "It achieves the leapfrog development from 4K to 8K for the first time and makes great breakthroughs in the core technology of AI image quality algorithm. The Hi-View HV8107 chip not only has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1749697/1.jpg",
+          "width": 303,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report.md",
+      "title": "Volkswagen in talks to buy Huawei’s autonomous driving unit: report",
+      "excerpt": "Last September, the duo unveiled the first product of their joint effort, a self-driving electric van. The reported acquisition comes at a delicate time for Huawei’s AV team. Su Jing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/",
+      "originalUrl": "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/arcfox-huawei.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/",
+      "publishedDateTime": "2022-02-18T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-this-aws-database-e-training-bundle-is-just-30-this-week.md",
+      "title": "This AWS Database e-training bundle is just $30 this week",
+      "excerpt": "Then the 2022 Amazon Web Services Database Bundle has you covered ... and implementation of a database), migrating information to the cloud, the basics of AWS Rekognition in machine learning, and more. And since the courses are brought to us by skilled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
+      "originalUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/02/sale_310962_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/613357/this-aws-database-e-training-bundle-is-just-30-this-week.html/amp",
+      "publishedDateTime": "2022-02-17T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly.md",
+      "title": "Student builds a clever AI model that can translate sign language instantly",
+      "excerpt": "Despite American Sign Language (ASL) having been a major communication ... LinkedIn profile about how she managed to develop an artificial intelligence (AI) model that can translate ASL signings into English instantaneously. She revealed that she developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly",
+      "originalUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/priyanjali-gupta-asl-ai-header_3qsh.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1",
+      "publishedDateTime": "2022-02-17T20:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-keep-diving-keep-changing-the-reason-why-i-dived-into-exawizards-after-working-on-numerous-ai-projects-at-ibm-and-line.md",
+      "title": "Keep diving... Keep changing... The reason why I dived into ExaWizards after working on numerous AI projects at IBM and LINE",
+      "excerpt": "The only company that really said, 'Let's do BrainTech' was ExaWizards.” This is a story that introduces the Wizards who work at ExaWizards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
+      "originalUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0jtUalbZGug/article-cover_image-shrink_720_1280/0/1645156885104?e=1651104000&v=beta&t=y8rxwD15WoWX2y6AsGqxWqTYUUTBLD8GtuiuhqRx3tY",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-robot-grocery-delivery-now-available-in-pleasanton.md",
       "title": "Robot grocery delivery now available in Pleasanton",
       "excerpt": "The robots are equipped with an array of cameras and sensors, and use “sophisticated machine learning” and artificial intelligence to travel on sidewalks and avoid obstacles. “The robots can cross streets, climb curbs, travel at night and operate in ...",
@@ -885,293 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-jaguar-land-rover-nvidia-will-collaborate-on-in-vehicle-software.md",
-      "title": "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software",
-      "excerpt": "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/jaguar-land-rover-nvidia-will-collaborate-vehicle-software",
-      "originalUrl": "https://www.autonews.com/mobility-report/jaguar-land-rover-nvidia-will-collaborate-vehicle-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Jaguar_NVIDIA.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-h2oai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch.md",
-      "title": "H2O.ai democratizes deep learning for companies of all sizes with Hydrogen Torch",
-      "excerpt": "Mountain View, California-based H2O.ai today unveiled a key new addition to its open-source-based platform: H2O Hydrogen Torch.  This feature is a deep-learning training engine that it claims smooths the way for companies of any size in any industry to make state-of-the-art image,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/",
-      "originalUrl": "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/h2o-ai-democratizes-deep-learning-for-companies-of-all-sizes-with-hydrogen-torch/amp/",
-      "publishedDateTime": "2022-02-17T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai.md",
-      "title": "Global Sampling of ‘Gluon – Deep Learning Co-Processor’ for Vision AI",
-      "excerpt": "AlphaICs, having operations in Bangalore and Milpitas, US, has announced the availability of engineering samples of ‘Gluon’ – an 8 TOPS Edge AI inference co-processor to cus",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai",
-      "originalUrl": "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/02/Left-to-Right-Pradeep-Vajram-and-Prashant-Trivedi-Co-Founder-AlphaICs-e1645111723813.png",
-          "width": 487,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/global-sampling-of-gluon-deep-learning-co-processor-for-vision-ai/amp",
-      "publishedDateTime": "2022-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars.md",
-      "title": "Moral Judgments About AI Will Shape Legal And Ethical Assignment Of Blame, Including The Particular Use Case Of AI-Based Self-Driving Cars",
-      "excerpt": "Moral judgments about AI are shaping how we ethical and legally treat AI that goes awry, including in the use case of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620c57f8995b45d70b859096/0x0.jpg?format=jpg&crop=2097,982,x0,y31,safe&fit=crop",
-          "width": 2097,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/17/moral-judgments-about-ai-will-shape-legal-and-ethical-assignment-of-blame-including-the-particular-use-case-of-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-02-17T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion.md",
-      "title": "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion",
-      "excerpt": "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "originalUrl": "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "publishedDateTime": "2022-02-17T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-chinas-race-towards-ai-research-dominance.md",
-      "title": "China's Race Towards AI Research Dominance",
-      "excerpt": "Since taking its first steps teaching computers board game strategies in the 1950s, research on artificial intelligence has come a long way. In the 21st century in particular, machine learning and its promise for real-time improvements of algorithms through experience and providing access to more data has become the single biggest research focus in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/china-s-race-towards-ai-research-dominance/ar-AATZOqQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/Infographic/images/teaser/26240.jpeg",
-          "width": 355,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-      "cdnAmpWebUrl": "https://www-statista-com.cdn.ampproject.org/c/s/www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-      "publishedDateTime": "2022-02-17T06:52:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-        "domain": "statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

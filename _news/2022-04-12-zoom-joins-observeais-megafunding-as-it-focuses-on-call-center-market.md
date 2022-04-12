@@ -27,15 +27,6 @@ related:
       name: YAHOO!Finance
       domain: techcrunch.com
     quality: 36
-  - title: "Observe.AI Raises $125M Series C to Usher in AI-Empowered Era for Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has raised $125M in Series C funding led by SoftBank Vision Fund 2 with participation from Zoom Video Communications,"
-    publishedDateTime: 2022-04-12T11:02:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 12
 
 secured: "w2C9C/clABXL7M7IFaQHam8P43dkIeCd86HoJm9HH5k9mnkSupsNX9DBRKIvN9ckZPy1bMkh4DeyqM1ll517XdhrHbOvWEAbLXBB9x8Wl7Tb3CiuK2jsmpiWtAj8ubhftJFUQq097Uf6mozKUtbHT4xFrDmeVwOGH0gTu5m/aGJSt2btuYHGFQwwR8g4Yjk/+HrCPqnSg0euCrwJZSP/AaMUb7YyMKsUTMzfoUOubztuKva1CJ/gPOlLCygFrvSIJRRJxW9dHcvdx/XQGZvJUICv5pk+l4qcE58bgpLqhbYtHUqgzlswh9lBEQXvpImkgR1zA6rKdLClLFbWOHzxqjhZlmrIMBiElhSiZuI3J9o=;d4aLexjnv665QRjg7MlPdA=="
 ---

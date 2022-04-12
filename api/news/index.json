@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-13-neptuneai-raises-8m-to-streamline-ml-model-development.md",
+      "title": "Neptune.ai raises $8M to streamline ML model development",
+      "excerpt": "Register today! Neptune.ai, a Polish startup that helps enterprises manage model metadata, today announced it has raised $8 million in series A funding. Whenever an organization experiments with ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
+      "originalUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-ny-state-budget-allots-75m-for-ai-at-university-at-albany.md",
+      "title": "NY State Budget Allots $75M for AI at University at Albany",
+      "excerpt": "Next-generation chips and supercomputers are what's needed to power the AI revolution in which devices take the place of humans in gathering data and making decisions based on that data. \"Together with Albany AI, the proposed reunification of UAlbany and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/aa7c503/2147483647/strip/true/crop/1440x751+0+105/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9e%2F71%2F67a0aaf546c78384ec8f6ce8981d%2Funiversity-at-albany.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true",
+      "publishedDateTime": "2022-04-12T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-noogata-nabs-16m-to-simplify-ai-access-for-enterprises.md",
       "title": "Noogata nabs $16M to simplify AI access for enterprises",
       "excerpt": "Join AI and data leaders for insightful talks and ... Since launching the platform in March 2021, Noogata’s ARR has grown by 400%. The startup has already roped in major enterprises like Colgate ...",
@@ -106,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -244,7 +330,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -837,7 +923,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1067,100 +1153,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
-      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
-      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
-      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
-      "publishedDateTime": "2022-04-11T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
-      "title": "Investing in Eastern Europe’s AI future",
-      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

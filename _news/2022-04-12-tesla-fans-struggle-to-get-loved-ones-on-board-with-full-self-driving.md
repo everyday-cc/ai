@@ -48,34 +48,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 46
-  - title: "Tesla To Expand Self-driving Software Testing To All N. America Subscribers In 2022"
-    excerpt: "Tesla chief executive Elon Musk said on Thursday the automaker will expand its \"Full Self-Driving (FSD)\" beta software to all North American FSD subscribers this year and promised a \"dedicated robotaxi\","
-    publishedDateTime: 2022-04-08T04:40:00Z
-    webUrl: "https://www.ibtimes.com/tesla-expand-self-driving-software-testing-all-n-america-subscribers-2022-3466640"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 33
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/07/construction-continues-on-the-tesla-gigafactory-in-austin.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Tesla to expand self-driving software testing to all North America subscribers in 2022"
-    excerpt: "Mr Musk has previously missed his targets to achieve full autonomy and launch robotaxis. . Read more at straitstimes.com."
-    publishedDateTime: 2022-04-08T04:35:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/tesla-to-expand-self-driving-software-testing-to-all-north-america-subscribers-in-2022"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 31
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/04/08/md_teslacar_08042022.jpg?VersionId=TwYKs19UQiir.gvLsqJlTVOX9vH34N9_"
-        width: 860
-        height: 573
-        isCached: true
 
 secured: "gUWXpdBn1y9II5NorylX2aj1PFRQXsFfvtCh3PKNsAYBCWIhOgXU4g7L/xZj+LifVazFUFzZDfYMta6YeVnpu2s5/+03HH6rkM4mAEmn+ylOBQqAyS00B/8nJAloG2+FidjI6lP3yA+XmrbJ+T7+rgpDeL9Lm8XomgA0X/bxXZ733KO38tgv8eHg1jPw88ivhekjv432lS/UQm4W5cj2DIjO1zQ9g1f0CXEPNyBkSDaLesw8tbDQbahIOQXO3C0Tg2Fgxh8eQkqU4wi7iDldEkMMCi/zdTstH/cPzJS+/2NUyc5KqoJi1wiv/iVpWeIY7B0LXduxEvrt6aCYHtyPqZbEgR4btjyjXl0Qg+kX70Qf6u0a64yHu6cr7XkoTykFbm/7kARYnysCtvR5hdOdGgKb3zTfB4GLr5YI+g2aDtnC1oIeSlzBZ3parHiSHdec4Zs1IJAHFvdcv6dO+2O6bq9dBQhjlPo774WeGjo0m83HR2Aq2J1FJWB2a9p63CGV/r0sjsxrKikJr/3QkDRAEw==;BmCw3fpIBjohHYNUJUCUDw=="
 ---

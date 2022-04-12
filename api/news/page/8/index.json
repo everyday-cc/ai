@@ -2,6 +2,229 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-03-dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts.md",
+      "title": "Dubai Police officer named among 30 leading Arab artificial intelligence experts",
+      "excerpt": "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region’s top 30 leading Arab experts in AI by MIT Technology Review Arabia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts",
+      "originalUrl": "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=d604be45-d523-53db-8a93-891b33e1a701&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84016&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts?amp=1",
+      "publishedDateTime": "2022-04-03T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx.md",
+      "title": "HC Wainwright Reiterates Buy Rating for Renalytix AI (NASDAQ:RNLX)",
+      "excerpt": "Renalytix AI (NASDAQ:RNLX – Get Rating)‘s stock had its “buy” rating restated by equities researchers at HC Wainwright in a research note issued on Friday, TipRanks reports. They presently have a $30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX",
+          "width": 600,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/",
+      "publishedDateTime": "2022-04-03T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings.md",
+      "title": "AI Weekly: As demand for chatbots increases, so does the need for better offerings",
+      "excerpt": "Chatbots are blossoming in functionality as well as in other essential areas such as business sales, analytics, customer service and overall end-user satisfaction. But the architectures of these offerings can sometimes be limiting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
+      "publishedDateTime": "2022-04-02T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy.md",
+      "title": "Xinhua Headlines: Gen Z's love of Guochao bodes well for Chinese economy",
+      "excerpt": "Wang Junwen thought he could easily snap up a fuzzy Winter Olympics mascot toy at a recent online pre-sale but all the products were",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-02T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
+      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
+      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/amazon-facial-recognition-open-letter/",
+      "originalUrl": "https://bgr.com/tech/amazon-facial-recognition-open-letter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2019/04/face-recognition.jpg?quality=82&strip=all",
+          "width": 1600,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/amazon-facial-recognition-open-letter/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/amazon-facial-recognition-open-letter/amp/",
+      "publishedDateTime": "2022-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-amazons-deepracer-league-drives-chicago-students-into-world-of-ai-machine-learning.md",
       "title": "Amazon's DeepRacer League drives Chicago students into world of AI, machine learning",
       "excerpt": "Students on Chicago's South Side got a deep dive into the world of artificial intelligence and machine learning on Saturday. \"We're using machines and learning to code a car then racing it,\" said student Trevaughn Scott.",
@@ -895,250 +1118,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning.md",
-      "title": "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning",
-      "excerpt": "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/08/Oracle-e1617192273881.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
-      "publishedDateTime": "2022-04-01T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
-      "title": "\"World's smartest traffic management system\" launches in Australia",
-      "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "originalUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d27f7eb/2147483647/strip/true/crop/2940x1960+146+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2Fa7%2Fd895452c4b34b0bb2bb27d53b99f%2Fdepositphotos-325652746-xl.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "publishedDateTime": "2022-04-01T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-cyber-security-in-robotics-market-is-expanding-at-a-healthy-110-cagr-for-2022-2029.md",
-      "title": "Cyber Security in Robotics Market is Expanding At a Healthy 11.0% CAGR For 2022 – 2029",
-      "excerpt": "Sales in the global cyber security in robotics market are slated to top US$ 3.5 Bn in 2022. Expanding at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. The high demand for firewall security services and similar other solutions such as encryption solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
-      "originalUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-5.jpg",
-          "width": 1008,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-podcast-transcript-do-we-need-ai-regulation.md",
-      "title": "Podcast transcript: Do we need AI regulation?",
-      "excerpt": "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-nvidia-lays-out-their-ai-vision.md",
-      "title": "Nvidia Lays Out Their AI Vision",
-      "excerpt": "For Nvidia’s AI stack, the Grace CPU will sit at ... even if you are looking down at a script. It can also translate to multiple languages on the fly, and make your mouth (almost) look like ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "originalUrl": "https://seekingalpha.com/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037018/image_957037018.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "publishedDateTime": "2022-03-31T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

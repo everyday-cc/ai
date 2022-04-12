@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T19:46:00Z
 originalUrl: "https://siliconangle.com/2022/04/12/identity-threat-protection-startup-silverfort-raises-65m/"
 webUrl: "https://siliconangle.com/2022/04/12/identity-threat-protection-startup-silverfort-raises-65m/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SiliconANGLE

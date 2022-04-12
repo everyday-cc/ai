@@ -53,6 +53,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 34
+  - title: "Panera to Try Robots Serving Coffee"
+    excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
+    publishedDateTime: 2022-04-12T13:45:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/76426/Panera-to-Try-Robots-Serving-Coffee"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "12HbkRMwka88MXRw5vSemhalMrvW3vkGxxfSYgx2qnSKUyuFViv13QewnmXVVDEEvCMapFr+erlNViTrzjfCXx9Ki9+AIjC/bmxb3OmgWke4l1SQK5AWw/gqIjoX0K2jdL5iUyP9WfhBhmmOvYYMXmzoy6Lah6DcOdcVpZkE8B6wSNU99aWOEK/GrXBkBsXWXeUJNtSLjEKDofAG0kFQDMyNpyvVmzDUHrDt5OMtj5xlkeVinVLAicDhEQbg760V47RZpzjPhFGc20wQo7RFVh1rAk+AOu0IppyJILvcdh8iL4doZGgTAxxWx7aBQYsGf9CpCCzgneMna1aRwTLz8OQqNvPkmx8e9UKCwiqG1h4=;eOc/gERQnnLpqW/nKdruzQ=="
 ---

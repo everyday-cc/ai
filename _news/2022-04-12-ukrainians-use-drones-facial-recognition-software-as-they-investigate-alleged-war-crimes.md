@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Ukraine uses facial recognition software to spot Russian spies"
-    excerpt: "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,"
-    publishedDateTime: 2022-04-08T03:19:00Z
-    webUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/"
-    ampWebUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 74
-    images:
-      - url: "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "NOPD pushes for facial recognition software"
     excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
     publishedDateTime: 2022-04-08T21:49:00Z
@@ -55,20 +39,43 @@ related:
         width: 668
         height: 376
         isCached: true
-  - title: "Kabul Establishes Diplomatic Ties with Russia, Bidding Formal Recognition"
-    excerpt: "The Islamic Emirates of Afghanistan in its bid for formal recognition established diplomatic ties with Russian government, adding up to the list of at least four other neighboring countries who have previously accredited the Taliban-appointed diplomats."
-    publishedDateTime: 2022-04-11T13:47:00Z
-    webUrl: "https://www.khaama.com/kabul-establishes-diplomatic-ties-with-russia-bidding-formal-recognition-43534/"
+  - title: "The Art Exhibition That Fools Facial Recognition Systems"
+    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
+    publishedDateTime: 2022-04-11T11:24:00Z
+    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
     type: article
     provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 23
+      name: Security Week
+      domain: securityweek.com
+    quality: 39
     images:
-      - url: "https://www.khaama.com/wp-content/uploads/2021/08/7510a4697b2b41698517759203a4d887-880x495.jpeg"
-        width: 880
-        height: 495
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
+  - title: "Serbia Targets Purchase of Powerful Swedish Facial Recognition Software"
+    excerpt: "Serbia’s personal data protection commissioner says Swedish Griffeye facial recognition software would be illegal in the Balkan country, but the interior ministry still plans to buy it."
+    publishedDateTime: 2022-04-12T15:03:00Z
+    webUrl: "https://balkaninsight.com/2022/04/12/serbia-targets-purchase-of-powerful-swedish-facial-recognition-software/"
+    type: article
+    provider:
+      name: balkaninsight
+      domain: balkaninsight.com
+    quality: 39
+    images:
+      - url: "https://balkaninsight.com/wp-content/uploads/2020/12/16-9-surveillance-scaled-e1640876922446.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Facial Recognition debate heats up"
+    excerpt: "Governor Glenn Youngkin can either sign the bill as passed, veto it or amend it. Youngkin's support would put him at odds with some members of his own party like Senator Bryce Reeves, who formerly worked in law enforcement. He fears the resource may be ..."
+    publishedDateTime: 2022-04-12T11:28:00Z
+    webUrl: "https://www.wric.com/video/facial-recognition-debate-heats-up/7595974/"
+    type: article
+    provider:
+      name: WRIC
+      domain: wric.com
+    quality: 19
 
 secured: "MOVdH2cU/PknciigpD3puHNNiR05HY481VYLAMIendLoXcln/qmigfj1uwKPFkNYMZGSBDagjubEtco1JqZclP04xRswb025Nzf7JlC4JdMaGPj84j2r2LR8I80kVuB56U+sVAkDIqxiQSmkIle9JACAQjfJbQ2QvR96r2tj1D2L5vPbkrrH23Tasz4NpUU73b7nam0TSJZ83Dgfwwc/jA4edNFJwzHrJtOqh6rF53FbvKIPmuIi2IrlQU5+DRqEJc1RuqvbvIleUCLpz1gQkb23ImDKSppcDA3ClXd1aiO8m2VFkagvRrvjnMjR6LvIxqXZW2SGmi0uotALj/ONxTmi9BaQO5RJGm/MAWY2wQY0MRDndYXQTjUjtu0DPKRBrnaCNhIXvTawkpB5IqorbfYGDwQrw5tY2FHpztKvIGxF1WytRz3y6r7G/qqtM/YoAR7O2C8RLeQ5k9c6jCuhwfhSs5yy5/GoFQEXiI0MG/9rAtIGHpsfxbokmhWsGN422Bm8X1D2V/Oqi+rKGHpH5A==;dnbQusIBqcG0X7IWqv5k9A=="
 ---

@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-09-mlops-the-key-to-pushing-ai-into-the-mainstream.md",
+      "title": "MLops: The Key to Pushing AI into the Mainstream",
+      "excerpt": "MLops is still an emerging field, so it may be tempting to write it off as just another techy buzzword, but its track-record proves that when designed the right way and targeted at the proper goal: to maximize model performance and improve ROI,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "originalUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "publishedDateTime": "2022-04-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds.md",
+      "title": "Artificial Intelligence Enhanced Heart Disease Diagnosis in Ultrasounds",
+      "excerpt": "Following the implementation of an artificial intelligence system into ultrasound procedures, researchers from the RIKEN Center for Advanced Intelligence Project (AIP) noticed a sharp increase in the accuracy of heart disease diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "publishedDateTime": "2022-04-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-getting-started-with-the-amazon-kendra-box-connector.md",
+      "title": "Getting started with the Amazon Kendra Box connector",
+      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. For many organizations, Box Content Cloud is a core",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-box-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-the-amazon-kendra-box-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T09:10:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-google-adds-self-repair-options-for-pixel-phones.md",
       "title": "Google adds self-repair options for Pixel phones",
       "excerpt": "More positive news for phone owners looking to take matters into their own hands. Google this morning announced that it’s teaming with iFixit to offer a suite of tools for fixing Pixel handsets. At launch (later this year),",
@@ -209,50 +355,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-08-how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers.md",
-      "title": "How AI and ML makes language translation more efficient for non-English speakers",
-      "excerpt": "Of the thousands of spoken languages in the world ... Series C funding round, offers translation technology and services through a human-in-the-loop AI approach. This branch of AI creates machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers/",
-      "originalUrl": "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-04-08-using-deep-learning-to-predict-imminent-precipitations.md",
       "title": "Using deep learning to predict imminent precipitations",
       "excerpt": "Deep learning models have proved to be very effective for analyzing large amounts of data and accurately predicting future events. This makes them advantageous for a wide range of applications, including weather forecasting.",
@@ -304,7 +406,7 @@
       "originalUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -529,6 +631,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-08-elon-musk-says-production-of-teslas-optimus-humanoid-robot-could-start-next-year.md",
+      "title": "Elon Musk says production of Tesla's Optimus humanoid robot could start next year",
+      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
+      "publishedDateTime": "2022-04-08T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-alibabas-artificial-intelligence-tool-to-improve-efficiency-of-chinas-waste-to-energy-plants.md",
       "title": "Alibaba’s artificial intelligence tool to improve efficiency of China’s waste-to-energy plants",
       "excerpt": "Alibaba Cloud’s AI algorithm, currently deployed in 100 waste-burning facilities in 30 Chinese cities, will be installed in 300 more plants by the year-end.",
@@ -588,7 +743,7 @@
       "originalUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1070,153 +1225,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-15-upcoming-azure-cloud-services-for-developers-security-ai.md",
-      "title": "15 Upcoming Azure Cloud Services For Developers, Security, AI",
-      "excerpt": "Cool Microsoft tools still in preview or planned for general availability include Azure Video Analyzer, Azure Cognitive Search Speaker Recognition and Azure Object Anchors",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/15-upcoming-azure-cloud-services-for-developers-security-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0274-14da973e3242-cc6af0cf06a8-1000/microsoft-azure-1_20210301195736.jpg",
-          "width": 606,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-how-ai-and-imagery-build-a-self-updating-map.md",
-      "title": "How AI and imagery build a self-updating map",
-      "excerpt": "Building a map is complex, and keeping it up-to-date is even more challenging. Think about how often your city, town or neighborhood changes on a day-to-day basis. Businesses and shops open and close, stretches of highway are added, and roadways change. In today’s Maps 101 installment, we’ll dive into",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
-      "originalUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pexels-suzy-hazelwood-2679323.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/how-ai-and-imagery-build-self-updating-map/amp/",
-      "publishedDateTime": "2022-04-07T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding.md",
-      "title": "New Salesforce AI chief eyes a future with voice-driven coding",
-      "excerpt": "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
-      "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
-      "publishedDateTime": "2022-04-07T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

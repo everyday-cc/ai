@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-test
 webUrl: "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/"
 type: article
 quality: 62
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 34
+  - title: "Panera to Try Robots Serving Coffee"
+    excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
+    publishedDateTime: 2022-04-12T13:45:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/76426/Panera-to-Try-Robots-Serving-Coffee"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 19
 
 secured: "oBYziWDziT778SnVYOPVNpOv7L5HTEMrGg7NrqaTTwPKmPu+fWRLf6fs3m8ZqrhrnbzGVJj9xKLyRAnTGlUxEwv1MSDD20qkhNuk58O+s/9sbWt/HT7268PnhUS0H3ooo51RKLxGpBgDn2BZWxiGj87Ot/ogSDNc778sze6c0Fix795/85qxzSqKDEyn8uAgYS3gQkzM5NzIXAiUqsQI6JqWFMJ6J4cmQ0WdAkoZ3wXeCpqz5Dygq/kWKCAYydNDbOLJkil/vJinf4u0Vvxuonqbw01vD5x0nxCqXgqiuZ7oE7XODZ/wvisczNyFWwC729qubqSg2nZp3ocyOD/YR1iWb6H3lTOhRJTRrM0WlEY84PRHNo1B0px4KEK0R6f9Tecv6PQ5Svcna4lPxjdlUMu6OBZIb7CeVBgzNEg5hnUKsFZCoH07S+6+i0Cv/F2rTIZsfFmykoCWrpSZS0UfZNd0B/TJY0nM5EItg61ieKaTYSAfy96lnSUXwLxvR/s+Q0q0BEWNlRLo2SOltfltYg==;qogfy0K50xlX9l8EtVjapA=="
 ---

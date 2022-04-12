@@ -48,6 +48,24 @@ related:
         width: 353
         height: 249
         isCached: true
+  - title: "Ransomware hits rural health centers & a true test of AI"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Ransomware is plunging rural hospitals into crisis ..."
+    publishedDateTime: 2022-04-12T17:39:00Z
+    webUrl: "https://www.statnews.com/2022/04/12/health-ransomware-rural-artificial-intelligence/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
+    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
+    publishedDateTime: 2022-04-12T18:26:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 3
 
 secured: "Oiy8ec//OTqU1D0FL2Z+Cmfmo/+YGPeVlsHMlPSPFqGWPQ1EPCSpwvoMVR55n6vsULalJi/qWQ7hIomxrq/1RQOtMy7VIHmJox2SjZrJjb1H3M6sBhH0LoU81xDq0Rr1ig1LiaIzz1Ee2rNE+YZh9MI0G2tzDiwdeg1YGT2Wg2tnSFTNb0KCNJXCZhSdczYEm8bYydlPZBX87ykiBPWrri4BoDIBAgaf35nRYsquRzbfdsw6lvu5ly6Y4+LSxMJ0RDKIVYXmjly49C96qlbK0EP3kMQyDoO8gwbqa0MucKFQES/AY2P9FeFHKlY0H6kgTs1ZZoRB/pNmR71K83TiQ+kIMctWpl6xsNcKf/jkKVE1wAtUc2iNcFDGz5K1YTRNCbxFIcBguICn8+tyCnwX+p5zsWgbZYyTTorBUz9B2TTgG6Xrf+8KYDpFDO7uyXo8dhPsJ5iL3qQi1piqgh8Dp53Xzix2op/sF8CJaiUGPZE5If5t1XvAL0IEu9hFBCJiByWVIHJEQuntV2V6W9+JnQ==;DfKOwaXkwVONUlZwuc60Yw=="
 ---

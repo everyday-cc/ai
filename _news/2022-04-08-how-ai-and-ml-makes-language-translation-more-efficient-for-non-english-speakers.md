@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-tr
 webUrl: "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: VentureBeat
@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
-
-related:
-  - title: "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology"
-    excerpt: "Union.ai offers new services on top of Flyte so that users can integrate ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in minutes.\" Flyte originated at Lyft, where ..."
-    publishedDateTime: 2022-04-12T17:44:00Z
-    webUrl: "https://www.goskagit.com/townnews/commerce/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/article_7459e685-1306-5eae-85ca-94d6f62478a1.html"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/b8/7b826050-6c0e-5053-8fd5-208426d9dc6d/6255b80c81e16.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Lu3263bHNSGvRJSC+tC/uD+8fW19hyX0z1EWISnuua9GN6Eiuvm8urzfs8hw065sZu4l83B9qrHzYlu9UEBVdwaKclNL6cRMzR6oD2ML1bxEuYDyvY35xWSznvlMBwUG9OY4+0ODXfMCiRblYZPFT4LFdU+lEUs686zpa4+rsx53/QCP7R47a/5yG14cHeYlfwBIfEuZagrO9wLi25fUwm0wLMTOZTlZZCGl5gCWvUPdWZFfuKNuOLT7q7A1aJ38bBXW7iFU64sdYda5ujxZILfydhOa8tv8KfgTtCiEF4K9xBmJhO1peBqskPcezglTpmndocKlWvNFTdoRmawSewLd8E7d6sEQ/5lE1XXih34=;Sm6EvkoOR/DR9AzZy72Atg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 600
         height: 337
+        isCached: true
+  - title: "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology"
+    excerpt: "Financing led by NEA will fuel growth and development for the open source Flyte platform, allowing users to scale and optimize AI and ML applications Machine learning (ML) has the potential for explosive impact across all industries. Existing tooling has ..."
+    publishedDateTime: 2022-04-12T17:44:00Z
+    webUrl: "https://www.goskagit.com/townnews/commerce/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/article_7459e685-1306-5eae-85ca-94d6f62478a1.html"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/7/b8/7b826050-6c0e-5053-8fd5-208426d9dc6d/6255b80c81e16.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
     excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."

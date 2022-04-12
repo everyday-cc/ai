@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T15:48:00Z
 originalUrl: "https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/"
 webUrl: "https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Quanta Magazine

@@ -152,50 +152,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-08-how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers.md",
-      "title": "How AI and ML makes language translation more efficient for non-English speakers",
-      "excerpt": "Of the thousands of spoken languages in the world ... Series C funding round, offers translation technology and services through a human-in-the-loop AI approach. This branch of AI creates machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers/",
-      "originalUrl": "https://venturebeat.com/2022/04/08/how-ai-and-ml-makes-language-translation-more-efficient-for-non-english-speakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-04-08-new-snapchat-filter-teaches-users-american-sign-language.md",
       "title": "New Snapchat Filter Teaches Users American Sign Language",
       "excerpt": "The ASL Alphabet lens shows users how to fingerspell their name, practice the ASL alphabet and test their sign-language fluency.",
@@ -312,6 +268,40 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce.md",
+      "title": "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce",
+      "excerpt": "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

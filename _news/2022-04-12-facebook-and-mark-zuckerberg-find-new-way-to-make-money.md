@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T16:40:00Z
 originalUrl: "https://www.thestreet.com/technology/facebook-and-mark-zuckerberg-find-new-way-to-make-money"
 webUrl: "https://www.thestreet.com/technology/facebook-and-mark-zuckerberg-find-new-way-to-make-money"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TheStreet.com

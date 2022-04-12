@@ -23,6 +23,17 @@ images:
     height: 463
     isCached: true
 
+related:
+  - title: "AI Recruitment Specialist ThisWay Global Leverages IBM's AI-Powered Automation Software to Deliver Powerful Diversity Hiring Technology"
+    excerpt: "In September of 2021, ThisWay Global was one of 12 North American startups along with their founders selected for the Google Startup Accelerator Program. This group was chosen for their use of AI/ML to address business challenges and a specific technical ..."
+    publishedDateTime: 2022-04-12T16:54:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220412DA18075/ai-recruitment-specialist-thisway-global-leverages-ibms-ai-powered-automation-software-to-deliver-powerful-diversity-hiring-technology/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 0
+
 secured: "ijfi4t+suqjuO8Wcww/4a6ZWMGoGi0J3oJ5/Tow6VKcl7T0IAK7aBSMA5i6opyI1g0QVkUuaRLLyBwfuF9CqeYmoe+kycFdJtIcm1iXBSgPAM0/59Hd2ohGw7jC9URNOqlecaFnJyc4/VhwVmrvsOgnGhHLOjFCcJvwPIzqyxcfdUzbWFp1Q0UJeV0ryv9PGW17i7mY48AKQCy1439d6odCOx8dXks85zt+1Ua/lTY/J/rBNxKIzaMjNxswPwI27jelxaUeRtjssC/cLUK7Y6eK3hxqTv2YEFj7xlpLpDdS6RDxYx32dIL9SqdjvqS9yMz14TY1CamrkxeMuQU5XyQZNRNBxGaHflLsly3SygUM=;rU0rz1o3o14ccdnGP/HFIQ=="
 ---
 

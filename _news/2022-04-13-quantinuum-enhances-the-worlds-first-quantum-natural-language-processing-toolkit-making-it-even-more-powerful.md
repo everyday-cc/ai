@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T19:07:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2022/04/12/quantinuum-enhances-the-worlds-first-quantum-natural-language-processing-toolkit-making-it-even-more-powerful/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/04/12/quantinuum-enhances-the-worlds-first-quantum-natural-language-processing-toolkit-making-it-even-more-powerful/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Forbes

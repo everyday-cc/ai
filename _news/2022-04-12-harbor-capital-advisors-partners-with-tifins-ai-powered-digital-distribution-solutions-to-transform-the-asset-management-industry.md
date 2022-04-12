@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T13:11:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KTLA

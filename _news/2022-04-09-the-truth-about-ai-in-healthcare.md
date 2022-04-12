@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -54,6 +54,24 @@ related:
       name: The Jerusalem Post Blogs
       domain: jpost.com
     quality: 17
+  - title: "Ransomware hits rural health centers & a true test of AI"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Ransomware is plunging rural hospitals into crisis ..."
+    publishedDateTime: 2022-04-12T17:39:00Z
+    webUrl: "https://www.statnews.com/2022/04/12/health-ransomware-rural-artificial-intelligence/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 17
+  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
+    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
+    publishedDateTime: 2022-04-12T18:26:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 3
 
 secured: "+8wGu6Pn3AV6EH1W4paXvzatMVFYteOr2DDBaZr64iFmYexSPZSl/U6jwhgPdvaaJNWJmDXrhLbG0CkC0Dwg2dLei9eBIso8hiGQimBqLP4m3AoUuCIBPqWPLU04GaKTm6DwylRjLCmamCXmJlDgOavOWcPBokTJIdQx4VlHPu4C2kEhxgkdXGqUsc8uxGNVAXw9a9ZG19RIgpCAC48byX6/lYZbOdCTZfydzuBEdTglJwNxsbw1js925HLhz/PaOxqsYM3dxdpnVtOx+uCukEQlCahReAVhptPzyX3fZK8phlkBxPZP6xGQUjKppj2xGI3cxQ4LPbDw/CLzfFxxkf3j6FfeeOp9Xwawh7VW1S1KDwolNRZL2eC7xa06v+jBKk6FkCsaKJm9FOqJ3G4rB/L4tlTQE8gG0c00N5BpAIA/mHPy7dVJJP+U1E6Xw63lcur53eoimh2BKWq6BDMeMeslRFlvq8kxmhZaMlKid7od+f5ve6l36qrxYCdTi36b4MObpi76QM99oyJaL5dp4g==;UtMgLxNXp9qApyHsbRF/tg=="
 ---

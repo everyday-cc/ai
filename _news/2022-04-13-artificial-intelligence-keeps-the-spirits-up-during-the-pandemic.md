@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T19:04:00Z
 originalUrl: "https://www.afr.com/technology/artificial-intelligence-keeps-the-spirits-up-during-the-pandemic-20220410-p5acfl"
 webUrl: "https://www.afr.com/technology/artificial-intelligence-keeps-the-spirits-up-during-the-pandemic-20220410-p5acfl"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Australian Financial Review

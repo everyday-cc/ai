@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is aiming to start production of its Optimus humanoid robot in 2023"
-    excerpt: "Elon Musk gave a timeline to production for the first time for the Tesla Optimus project, a humanoid robot capable of doing general tasks. The CEO believes the company can bring the ambitious project to production as soon as next year."
-    publishedDateTime: 2022-04-08T03:53:00Z
-    webUrl: "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/"
-    ampWebUrl: "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 120
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk says production of Tesla's Optimus humanoid robot could start next year"
     excerpt: "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday."
     publishedDateTime: 2022-04-08T09:19:00Z
