@@ -1,42 +1,20 @@
 ---
 category: news
-title: "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ 'Voice of the Customer' Report for Digital Commerce"
-excerpt: "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report"
-publishedDateTime: 2022-04-05T13:00:00Z
-originalUrl: "https://www.goskagit.com/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer/article_202bc5f8-844c-5044-b774-7e54d1bfc1ac.html"
-webUrl: "https://www.goskagit.com/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer/article_202bc5f8-844c-5044-b774-7e54d1bfc1ac.html"
+title: "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce"
+excerpt: "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric"
+publishedDateTime: 2022-04-05T14:02:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Skagit Valley Herald
-  domain: goskagit.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/c/f8/cf88a54d-6aac-5c7f-b4da-7130808facc4/624c3ec6e4c03.image.jpg?crop=1878%2C986%2C111%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ 'Voice of the Customer' Report for Digital Commerce"
-    excerpt: "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce reportSEATTLE , April"
-    publishedDateTime: 2022-04-06T08:36:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce-1031333304"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce-1031333304"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce-1031333304"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 0
-
-secured: "IdOUzM5Gq47iYC3T8CP0Xi9WGbxM9Jd1ndDiWZsTskdbiwt0qHDqHDkkVI60oeDy/J73CGuR2Iy8hqO8OakN/zArZuVR7bZpkajGx2rf84oElaFv3pP/RSIdtf6hfYqS47UBYJTYJLsoSiD++q2T1kPLIi2VyDwFUHxS9WP6weZPQ7mKST1qVbPeeT3gTiUObWtV7zdChiKxBlsDDddviqknn2joMF+SGZHkLNV9wM8q44RPZZDweMLBvyvxJqmoDDJPG4VKUibjEpyhE6B2TbPzuhAQrOAA+ZKnuj0KZMpdnQJna9sIxhvs78l1w7ebnF9UJeDh6EbjhvnoA5tNy+lYI5H5Jmoqa8TU2LiDMqHCvAJa2YWz1KX1VRVEfzcpdcVMbfBIHlXWq2EUoar53t6IEfs0sMQvsdyuM7fnKmVoMd8A95jSPquiICa78M/w/LvBVUjFAdq5P+Wu2FaZfnO98yF3mRkIxNVGzhsIHu91xP5LWtmmPVQvaMQJTtaUDYB7FtfnOfXK9i6KmL+4mg==;gso6mY7FOHLoPd0cS2MMbA=="
+secured: "S6rDiaSpbG8VdG3m9VlJI2IcFhSKijAsMqi80jT3OfsVPHsKRcd7AbX7p5xjKDoY68Al5I145NgIf5uS3ic7isrqpS9ZuS/aC6ubJNqqtIS1nTryEUJWtZV5V0/UhumA3glWVrZKBhRuelZzxHMqrEmMyjWuc9ttUNMRyOHyDkwK4YCioutGUtjMBIKzHiXeDvKhffEGfaq9OMc4ZsmumOX+sUK9peU40q4ltfANykgZmt76MDJIFrjsCBNbPlxtt9xsCir8aOaHA9T4yKxzfIqHR85JqIMCjl68JdTAQeupQ2iHnVpPZNq+wsWknnPnCua+C7OzUYi9ulNJ/4e0GBh/SJeye/vCjDcNMsa7xx4=;XsP5s7ol08aRf0gcnstXiQ=="
 ---
 

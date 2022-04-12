@@ -6,9 +6,6 @@ publishedDateTime: 2022-04-12T12:12:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-government-systems-sgs-brings-ai-readiness-the-/2022/04/12/9581020.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-government-systems-sgs-brings-ai-readiness-the-/2022/04/12/9581020.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "C2HGIVGC4EuLBkPoZIpM9zddzbnHalaNXRWD8AiIpBnEzcMsD/hZcb5sC/xL6Fsv9lzY4a7Grk8Oq/BoW272o8mdyQc1j49oGG+wjHAHsyHKnunf7GUSrVHt2usqEGRXkyX0WH8fm1NFC6rhKuHG7Jaxc2mm+rUh+vb12lhgmNtJ1tGzXRh82xwnVSuteLVj4Y3AJwU56NoPsIiR1G29ghh/40Y5kKHdD30lgoBE1tGCtOBjJFTBdZCK69zxBcy28pmNDGPsKuFDHzmz+JeoB7bX4TJf8iSxohq5tr+ShkT/CW2TI/I9pBG/ag8lH+0WZroRU4i4hDCr8s74GDwE48avHy9nIv7SSEcR4n/k4hm8Twv4Hg+aNxU7LxqFbw8fpuygijxC+WvmY99OsODyoaev1ieOqpKv++FFgyFf4Oy+FgUnTjMIe4uOcZVSxTV4xtL4qipHvtOMLU2EHBgbB0q63W8vonBhzUFdhWp9lPw+zrnIOhVKNppr51PCHgDSHe+cqB2prZAKeuGwG7U3pQ==;2Ao2zSx+1b3NV5+JJMpgYA=="
+secured: "IzdvUMQeJBFjooW07MBNnTUi0DWmnK4InJ9Kj0sJXJJkBNrtiuVZ8Suwqo6u79xQlqaKyxTpSdEAiWAfyB1LocYNxf09VC8mxWVTp/x/eUMq79y83cuRRwBZPZP1zI19bVnmzOSkLSy45qwNUu+IFTV2mxPp315eX3fumKj5hdy8PUObIQmqxT6WdlHQa6a7AVwEW7nmHn2CuEPqawPVMU9tK2KmKev9OXz3mQgKRaS8iJiWEqfqFsG3XSaSECYgNNewtCDpdiBLUxLFILlS2fukPwoe4amoROW8NmV/eQLOIlFie2oWLo0km6hU3Je/aMRF9RjL5SuPIAFWJRtxQaWz2jz1h16753ZjBhujLT26R5CCcpwb/XzXRjrCvlKjcMGJeILW+/w0NXcaAmapIzIGKFukVUBFgF9ht56WEQCAdd7LRj5/Q1PEiqi8ThtzVSwFHBAJ5V/eiBWnY5IXpBrBtYStuJGpfQn04+Tri5VIuOkMVwiluGb91ub8VAC8aOox2C2vtQkOIMAAkfw0rw==;EWqVMSkHOejL0hzvT3/12Q=="
 ---
 
