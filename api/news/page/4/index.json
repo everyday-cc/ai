@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-06-receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions.md",
+      "title": "Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions",
+      "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/01/ML-3899-image031.jpg",
+          "width": 1584,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T09:46:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia.md",
+      "title": "Geisinger, Eisai to Use Artificial Intelligence to Detect Dementia",
+      "excerpt": "Geisinger and Eisai plan to study the potential of artificial intelligence (AI) by testing the effectiveness of an algorithm to identify individuals with cognitive impairment who may develop dementia.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
+      "originalUrl": "https://healthitanalytics.com/news/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/2019-11-18-GettyImages-1047719428-67199ff8dd2aaa686fbbb8d60359499a.png",
+          "width": 600,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
+      "publishedDateTime": "2022-04-06T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-whats-going-on-with-bigbearai-stock-today.md",
+      "title": "What's Going On With BigBear.ai Stock Today?",
+      "excerpt": "BigBear.ai Holdings Inc (NYSE:BBAI) shares are trading higher on above-average volume Wednesday. BigBear's average session volume over a 100-day period is about 300,000, according to data from Benzinga Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-bigbear-ai-stock-today-1031337260",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-bigbear-ai-stock-today-1031337260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/bear-ge407e2d7e_1920.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-aurora-werner-enterprises-testing-self-driving-tractor-trailers.md",
       "title": "Aurora, Werner Enterprises testing self-driving tractor-trailers",
       "excerpt": "Aurora Innovation announced on Wednesday that it had initiated a self-driving truck pilot test with Werner Enterprises. According to the report, Aurora's self-driving system, named Aurora Driver,",
@@ -1010,153 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-customize-the-amazon-sagemaker-xgboost-algorithm-container.md",
-      "title": "Customize the Amazon SageMaker XGBoost algorithm container",
-      "excerpt": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/18/ML-2441-archdiag.png",
-          "width": 570,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T10:24:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-google-announces-new-tool-for-data-storage-and-integration.md",
-      "title": "Google announces new tool for data storage and integration",
-      "excerpt": "Google wants its to offer the control of the best data warehouses with the seemingly endless availability of cloud storage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
-      "originalUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
-      "publishedDateTime": "2022-04-05T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
-      "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624c5b8daee4a305df4992a3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/",
-      "publishedDateTime": "2022-04-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

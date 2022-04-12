@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
+      "title": "Ukraine uses facial recognition software to spot Russian spies",
+      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "publishedDateTime": "2022-04-07T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-facial-recognition-goes-to-war.md",
       "title": "Facial Recognition Goes to War",
       "excerpt": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
@@ -1287,58 +1330,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc.md",
-      "title": "Computer Vision Software Market See Huge Growth for New Normal | Algolux, ViSenze, Deep Vision AI Inc.",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2022 (Heraldkeepers) -- The Computer Vision Software Market research report provides all the information related to the industry. It gives the outlook of the market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

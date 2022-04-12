@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How Cardiac Arrest Can Be Predicted by New Form of Artificial Intelligence"
-    excerpt: "Researchers say a new form of artificial intelligence may be able to predict if and when someone will die from cardiac arrest"
-    publishedDateTime: 2022-04-07T08:08:00Z
-    webUrl: "https://www.healthline.com/health-news/how-cardiac-arrest-can-be-predicted-by-new-form-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Healthline
-      domain: healthline.com
-    quality: 35
-    images:
-      - url: "https://post.healthline.com/wp-content/uploads/2022/04/male-chest-pain-on-bed-1200-628-facebook-1200x628.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "j7xDcYg/kX5XZk6qQ5P36a2I2rC8F6W3Cqqopgbc9i6WC/WjrObcsNFxMPn1CaUVHirLkXnjBp+4xLernVujfpbuVC834aJ02aUjAd+0t2teA1DUz3chcwsVeEo9yUgwEeBwESEnVUKao/KVDyjD6ol9ttLdgnQQgOuXGIuzTyAEQpT/rt3QKzrswfsIzveURg0HL8JjOyfvEOvll5rNiKs66HClQ9W6K0JSkElalJbmqZXODnxmFQw0axQUnPT4XqQSSPN4DlSqBwB9sG0e/9qPm7XU1mf7Jmu9N3xgI/ZKodVyJ/77iGH/cuCVf80u3YW493vAAwhF6s7SwkPxGfhVhXyydj9lYeoXlkU2TEL/fxZLIWpIkHcOVpbfUe7B9EzU4B32bTk9rDS7RiXhJBRV79RvrqTY48zyQltAOheukD6M1Fhjb4rDtTYZWxYOwUbJf1Ozkxm4Z738GXQV/Qs614EfMt+Zs595PG4ed2sMYbss5jgPGT0dcRHXNGGKFJywEI1JWmoZPcl447VnFA==;LVUw1nGP/aIfyJmmFBWV7A=="
 ---

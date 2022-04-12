@@ -38,6 +38,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI Spera Unveils New Cyber Threat Intelligence (CTI) Search Engine"
+    excerpt: "AI Spera on Monday announced Criminal IP, a new cybersecurity platform and is a total Cyber Threat Intelligence (CTI) search engine intended to identify potential vulnerabilities that threatening companies or individuals' IT assets."
+    publishedDateTime: 2022-04-12T01:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24228-ai-spera-unveils-new-cyber-threat-intelligence-cti-search-engine"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b9d853e41aca48dbb35e6ffc311d2d38.jpg?t=20220412_010712"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
     excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
     publishedDateTime: 2022-04-11T09:45:00Z

@@ -53,22 +53,6 @@ related:
         width: 810
         height: 486
         isCached: true
-  - title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
-    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
-    publishedDateTime: 2022-04-07T07:26:00Z
-    webUrl: "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras"
-    ampWebUrl: "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 58
-    images:
-      - url: " https://i.tribune.com.pk/media/images/1049633-toyotareuters-1455778608/1049633-toyotareuters-1455778608.jpg  "
-        width: 644
-        height: 423
-        isCached: true
   - title: "UPDATE 1-Like Tesla, Toyota develops self-driving tech with low-cost cameras"
     excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and ..."
     publishedDateTime: 2022-04-08T12:19:00Z

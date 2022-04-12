@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognit
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Indian Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Goes to War"
-    excerpt: "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim."
-    publishedDateTime: 2022-04-07T09:00:00Z
-    webUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html"
-    ampWebUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/04/05/business/00facerec-01/00facerec-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "NOPD pushes for facial recognition software"
     excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
     publishedDateTime: 2022-04-08T21:49:00Z
@@ -59,45 +43,20 @@ related:
         width: 668
         height: 376
         isCached: true
-  - title: "Chimpanzees show signs of recognition toward skulls of their own species"
-    excerpt: "Chimpanzees are known to interact with dead members of their species, revisiting corpses, and even showing mourning-like behavior. Elephants are also known to do this, and will even interact with elephant skeletons."
-    publishedDateTime: 2022-04-07T16:59:00Z
-    webUrl: "https://phys.org/news/2022-04-chimpanzees-recognition-skulls-species.html"
-    ampWebUrl: "https://phys.org/news/2022-04-chimpanzees-recognition-skulls-species.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-chimpanzees-recognition-skulls-species.amp"
+  - title: "Kabul Establishes Diplomatic Ties with Russia, Bidding Formal Recognition"
+    excerpt: "The Islamic Emirates of Afghanistan in its bid for formal recognition established diplomatic ties with Russian government, adding up to the list of at least four other neighboring countries who have previously accredited the Taliban-appointed diplomats."
+    publishedDateTime: 2022-04-11T13:47:00Z
+    webUrl: "https://www.khaama.com/kabul-establishes-diplomatic-ties-with-russia-bidding-formal-recognition-43534/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 43
+      name: Khaama Press
+      domain: khaama.com
+    quality: 23
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/alas-poor-yorick-i-kne.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://www.khaama.com/wp-content/uploads/2021/08/7510a4697b2b41698517759203a4d887-880x495.jpeg"
+        width: 880
+        height: 495
         isCached: true
-  - title: "The Art Exhibition That Fools Facial Recognition Systems"
-    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
-    publishedDateTime: 2022-04-11T11:24:00Z
-    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "Orange County Register editorial: Ban facial recognition by police"
-    excerpt: "Facial recognition is “the functional equivalent of requiring every person to show a personal photo identification card at all times in violation of recognized constitutional ri"
-    publishedDateTime: 2022-04-10T09:52:00Z
-    webUrl: "https://www.kenoshanews.com/opinion/editorial/orange-county-register-editorial-ban-facial-recognition-by-police/article_c2f6ec3a-5323-5864-8a42-1baa760bb989.html"
-    type: article
-    provider:
-      name: Kenosha News
-      domain: kenoshanews.com
-    quality: 21
 
 secured: "oneculybRfP8YLBclWmeknP4qfq+4/TANoxBqO7vWIwgakQqUppOPbkgSeUaRDI9wH4V/UmycMmSUzMqtqflDyPAdD86M2mf2E+zaBdahq6fVodShO7Tldeh6oY4mix2wgIKYrLOV0Xjbmccbr17TjAk8aZp2Q6vgjYotcPVmdJld2Q2rwzcCVLsExzU7vCPM4bNicLXssYOD22/QMvx175Pe+uqOLdhYSSVxTOh9+VcU5fvwjyXug83TMvf5Y5frfbRIKhK8x7AdUZvFhVhxSsFA1S0UfeY2yJesoq3W/cW4DfojkVwH3uzX2pER5LZyCXVkStcdkg/IbpK/iawvdqCsOvo40NjK/1OFaTraithyAuwAIxWor0Xa/NKLZfwYnjM8EXw4ACly6SEWn9zzxUGTml6g6qGg4umIbRgUpVwKidcr8XFlA3nUqNhBUt0D7Bb8gzfH90PSgq42NmrPIoXjCaQEkvTd+62tpTt8kun2JW4Uylsr3lWlgSamOq/+zCf9w7zl/ATpZ5GthHjRA==;4aatWbkdBCNkN9E/neBcmQ=="
 ---

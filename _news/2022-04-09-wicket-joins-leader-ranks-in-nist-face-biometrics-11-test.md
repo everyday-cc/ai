@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202204/wicket-joins-leader-ranks-i
 webUrl: "https://www.biometricupdate.com/202204/wicket-joins-leader-ranks-in-nist-face-biometrics-11-test"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 854
     isCached: true
+
+related:
+  - title: "Daltrey integrates Idemia face biometrics with access control platform"
+    excerpt: "VisionPass can include additional biometric modalities, and provides a digital identity that can be used across all physical and digital access points."
+    publishedDateTime: 2022-04-07T17:26:00Z
+    webUrl: "https://www.biometricupdate.com/202204/daltrey-integrates-idemia-face-biometrics-with-access-control-platform"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/28163438/idemia-visionpass.jpg"
+        width: 1073
+        height: 711
+        isCached: true
 
 secured: "QgMHshjVxMaErpriXnTV8pOPpkF1DQDdqP2cqPx5xJG2CsOEVR2gkanyhSGNKDi4vNf/0TwfUdAGD8VGN4DnMkQg/3G5w/Zt9eY0Hjszp6wh/P2XGwuPpMsy7MHzwmKld1NMFgbWSgTGGIkwG/o8PmRmjsIZ1FGlm2jHhpwOvJZ5O2d6a7jjYKOtpcURrTuDfSN88BqhXzUn60+Fks5kdamETtCRumJZOmUj7GcGNOj2YS+X1KTJxTbm+u7F936Ucv33dFKbAjZuUjm4WCmi7Qd1kt7vN+JCah3/kSFHnrxLNSlWLF7ILDUBqpKv3gbHoQEVBDb+zDwujjkfKYyvjcg2x9fs3XaoXklO9eLYxxz26md7XFOlCZ1oW+I5NccgfLAEsD54tKAtFHLk2Q/IlKpirGYGUgVcl4NBE94DAAR2Z3OvME6jpSA4CxzUr/RiGTNmgx5+fQzqQFoNtZqwLG27RsrrB5Cq10NA50hU75E4mPXx9yYVNCAloDtjg8PO0zQu+9Zk+9Yy8ErfC/OvRQ==;nKd8uINFs0JxKNg16X4KAg=="
 ---

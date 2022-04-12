@@ -7,7 +7,7 @@ originalUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recogniti
 webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,79 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Goes to War"
-    excerpt: "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim."
-    publishedDateTime: 2022-04-07T09:00:00Z
-    webUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html"
-    ampWebUrl: "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html"
+  - title: "Facial recognition planned for UK schools without Biometrics Commissioner consultation"
+    excerpt: "Fraser Sampson says he was not consulted over plans by the DfE to deploy facial recognition cameras to scan pupils’ biometrics at schools across the country."
+    publishedDateTime: 2022-04-11T15:34:00Z
+    webUrl: "https://www.biometricupdate.com/202204/facial-recognition-planned-for-uk-schools-without-biometrics-commissioner-consultation"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://static01.nyt.com/images/2022/04/05/business/00facerec-01/00facerec-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
+        width: 1021
+        height: 729
         isCached: true
-  - title: "Ukraine uses facial recognition software to spot Russian spies"
-    excerpt: "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,"
-    publishedDateTime: 2022-04-08T03:19:00Z
-    webUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/"
-    ampWebUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
+  - title: "Speech recognition for French and integration into a spoken language comprehension system"
+    excerpt: "We are faced with an industrialization phenomenon that makes itself felt in literature as well as in every other subject. The reshaping of literature according to the conditions of market capitalism turns literary products into simple consumables. Newly released literary novels, stories, poems, essays, etc. literary products no longer have an artistic quality, they are consumed quickly and resemble Hollywood movies…Identical, fabricated books adorn the shelves of the bookstore. We are faced with books that appeal to the eye, not to the pleasure of reading. Every day, we are showered with novels whose content resembles a movie script, and the most popular ones are immediately adapted to the cinema. Their styles, plots and even the subjects themselves are extremely superficial, identical books are everywhere.There are quite a few pages in such works, but it is possible to read and finish them in a short time. We would like to say that the reason for this is that it is written in a successful language. However, if we consider that the majority of the people who read these books find it boring and they find it boring, this is not the main reason. The main reason is that in such industrial novels, whether it is character analysis, description of environment and events, a very superficial work is done. Writers don't think about these things. Because – a group of authors should be excluded from this – what is important for authors now is the sales figures and the amounts they will earn, rather than the literary and aesthetic characteristics of their works."
+    publishedDateTime: 2022-04-12T01:24:00Z
+    webUrl: "https://www.amazon.co.uk/Speech-recognition-integration-language-comprehension-ebook/dp/B09XJ3Z775"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 74
+      name: Amazon Associates UK
+      domain: amazon.co.uk
+    quality: 30
     images:
-      - url: "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg"
-        width: 1200
-        height: 667
+      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
+        width: 350
+        height: 450
         isCached: true
-  - title: "NOPD pushes for facial recognition software"
-    excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
-    publishedDateTime: 2022-04-08T21:49:00Z
-    webUrl: "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/"
-    ampWebUrl: "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 59
-    images:
-      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/04/nopd-camera.png?w=1280"
-        width: 668
-        height: 376
-        isCached: true
-  - title: "Chimpanzees show signs of recognition toward skulls of their own species"
-    excerpt: "Chimpanzees are known to interact with dead members of their species, revisiting corpses, and even showing mourning-like behavior. Elephants are also known to do this, and will even interact with elephant skeletons."
-    publishedDateTime: 2022-04-07T16:59:00Z
-    webUrl: "https://phys.org/news/2022-04-chimpanzees-recognition-skulls-species.html"
-    ampWebUrl: "https://phys.org/news/2022-04-chimpanzees-recognition-skulls-species.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-chimpanzees-recognition-skulls-species.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/alas-poor-yorick-i-kne.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Orange County Register editorial: Ban facial recognition by police"
-    excerpt: "Facial recognition is “the functional equivalent of requiring every person to show a personal photo identification card at all times in violation of recognized constitutional ri"
-    publishedDateTime: 2022-04-10T09:52:00Z
-    webUrl: "https://www.kenoshanews.com/opinion/editorial/orange-county-register-editorial-ban-facial-recognition-by-police/article_c2f6ec3a-5323-5864-8a42-1baa760bb989.html"
-    type: article
-    provider:
-      name: Kenosha News
-      domain: kenoshanews.com
-    quality: 21
 
 secured: "L+ElTiReP14GSom//2NrqnC2/C0y3bbRm4e8kVftRQqz83ycz7Egu9y88Qu3X+cSRl3Ff0r1skOcK3Q0rZCJExyW8cMnT4JEMhvVlXg3zhDx09Ryg5MFo+M4SafpCknYLfAYhnlpOPDADoh+JgYd6E8FE0Av4ZeqWWs3BzBgslojmuAQzxCJ0TxJ/XCAI/OIpYmB3h2QXb26Nozs8ql1u2S6UYpCGnsiJiAmBCGD5GbhH+8NDmtau7NvAUvZ0yRhxN1DyN5M/Lm3Y5EvntZ8sMtAWY+GSSVdtDQRJwfS5Ng/m0YZkJWOkcIyIoi8g5dkcvDN4FqsZn7m2uEnmishdaHORRjc8q8uDWX0PYEgvJI=;y95Mg5Igaxl1KjsCGMUqPA=="
 ---

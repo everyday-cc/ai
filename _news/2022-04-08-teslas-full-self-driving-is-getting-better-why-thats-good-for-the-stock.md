@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-5
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20220406&t=2&i=1596556642&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI350TG"
         width: 810
         height: 486
-        isCached: true
-  - title: "Toyota joins Tesla in developing self-driving tech with low-cost cameras"
-    excerpt: "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ..."
-    publishedDateTime: 2022-04-07T07:26:00Z
-    webUrl: "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras"
-    ampWebUrl: "https://tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2351381/toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 58
-    images:
-      - url: " https://i.tribune.com.pk/media/images/1049633-toyotareuters-1455778608/1049633-toyotareuters-1455778608.jpg  "
-        width: 644
-        height: 423
         isCached: true
   - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
     excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on \"full self-driving.\""

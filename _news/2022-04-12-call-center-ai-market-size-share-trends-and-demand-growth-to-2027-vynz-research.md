@@ -39,15 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Natural Language Processing (NLP) Software Market 2022 Size, share, Growth, Analysis and Demand with Forecast Overview and Scope to 2026"
-    excerpt: "Global “Natural Language Processing (NLP) Software Market” 2022 report presents an exclusive analysis of market"
-    publishedDateTime: 2022-04-07T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-2022-size-share-growth-analysis-and-demand-with-forecast-overview-and-scope-to-2026-2022-04-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
 
 secured: "vrK7qUHoQdPitMPD014A0IGSr+nBO5RNCCzmtwqArr/DUq2mALzG0pdY5JpNrVGbemhtg0lrTBvXUuBv5PamxYUgYoCwxJxrxklKHJ9UJiXcF7jGYq+Xcb2hbE2JcGufqfID52pr3DGxPbBrmxCzD+vATR8dwIKD0eMJEARFtLa/1GFOm5ykKpLBX6PzL8YWqOPpsp0Y1GH0Z00krR6YrE7/FU5uPk7nRMTJ7s5g6VkoKEQ2LBrLK+gJ+t8c4/Q2Xxh/nWVMdwJLrdL6PjwER+F5vT7Bli0FrcBRoqiw33bklfUw0+7Iz4DIAM7jtUaKba2gsvR4r/4+Mm5ochRwjWAECHCOo5Z4gn8dyz7T0HM=;24CCyjtFtMET9I07QA0o2g=="
 ---

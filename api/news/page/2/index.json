@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-09-the-truth-about-ai-in-healthcare.md",
+      "title": "The Truth About AI In Healthcare",
+      "excerpt": "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-04-08T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-oracle-data-warehouse-vs-redshift-compare-data-warehouse-software.md",
+      "title": "Oracle Data Warehouse vs Redshift: Compare data warehouse software",
+      "excerpt": "Oracle Data Warehouse and Amazon Redshift are popular data warehousing solutions. Read this feature comparison.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
+      "originalUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/04/istock-1061299140.jpg?x27523",
+          "width": 1258,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
+      "publishedDateTime": "2022-04-08T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-machine-learning-market-sales-and-revenue-analysis-report-2022-to-2031.md",
       "title": "Machine Learning Market Sales and Revenue Analysis Report 2022 to 2031",
       "excerpt": "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning Market which emphasizes on the la",
@@ -607,7 +711,7 @@
       "originalUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1083,21 +1187,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-08-ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become.md",
-      "title": "IBM And MLCommons Show How Pervasive Machine Learning Has Become",
-      "excerpt": "IBM announced its latest Z-series mainframe and MLCommons released its latest benchmark series. The two announcements had something in common – Machine Learning – which is becoming pervasive everywhere from financial fraud detection in mainframes to detecting wake words in appliances.",
+      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
+      "title": "Ukraine uses facial recognition software to spot Russian spies",
+      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
+      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624f9430713ac031f54ebda5/0x0.jpg?format=jpg&width=1200",
+          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1105,23 +1209,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "publishedDateTime": "2022-04-07T19:00:00-07:00",
+      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "publishedDateTime": "2022-04-07T20:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1130,111 +1225,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-this-startup-raised-185-million-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions.md",
-      "title": "This Startup Raised $18.5 Million From Sequoia To Reinvent How To Use AI To Make Predictions",
-      "excerpt": "A new Stanford-bred startup says it has a solution using a new class of artificial intelligence ... termed “graph neural networks,” which approaches machine learning by treating the data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624eff12a2380fdf7002159a/0x0.jpg?format=jpg&crop=2048,1365,x0,y84,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/",
-      "publishedDateTime": "2022-04-07T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
-      "title": "How AI could help enterprises to reduce data storage costs",
-      "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
-      "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
-      "publishedDateTime": "2022-04-07T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "Computer Vision",
         "AI"
       ]
     }

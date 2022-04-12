@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Health-Tech Startup Viz.ai Raises $100 Million"
-    excerpt: "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion."
-    publishedDateTime: 2022-04-07T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-520037/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Kumo Emerges From Stealth to Launch Next Generation Predictive AI for Businesses; Raises $18.5 Million in Series A Funding led by Sequoia"
     excerpt: "Kumo, a new SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions, today announced it has emerged from stealth with $18.5 million in Series A funding led by Sequoia Capital,"
     publishedDateTime: 2022-04-07T13:02:00Z

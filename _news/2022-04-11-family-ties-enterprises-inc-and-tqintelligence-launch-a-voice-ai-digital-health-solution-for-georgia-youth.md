@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Spera Unveils New Cyber Threat Intelligence (CTI) Search Engine"
+    excerpt: "AI Spera on Monday announced Criminal IP, a new cybersecurity platform and is a total Cyber Threat Intelligence (CTI) search engine intended to identify potential vulnerabilities that threatening companies or individuals' IT assets."
+    publishedDateTime: 2022-04-12T01:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24228-ai-spera-unveils-new-cyber-threat-intelligence-cti-search-engine"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b9d853e41aca48dbb35e6ffc311d2d38.jpg?t=20220412_010712"
+        width: 752
+        height: 408
+        isCached: true
   - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
     excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
     publishedDateTime: 2022-04-11T20:46:00Z
@@ -52,6 +66,6 @@ related:
       domain: medgadget.com
     quality: 16
 
-secured: "b/R+gGSxNjwgKkBWAnRhS2NVzsP14V0BJqKv/FdaNycmpbsKVLlsV5XHUvWW1ampNhkQsxW8z/rVDBYZRsxtxTx80+g/7iATAbkusyckCeicn2yXyKNegndyiaMcKq+6wM36Su0Yfe606fnaKxIW7tUH3EioIrUVsyNWOMj9asNK5cuxHlZPSaOdxXSoXru65XhT4KehYCwHkeICmNZEIqGdPRTui0+xeW3iaiaAeO0B6QHcp2ewBZft50QIggL0fXIMqH3RbcmD/HqXAK64wsJ9NTnxhVRl5C3/laqb2SUz9aN+usJM8y5n64bRktAb+ayze/HKvwDZs7CB5ICOvao4SNjGm5mmINVNZ3KmAeA=;ATnKkysJz0/bSomQaOvUng=="
+secured: "F5ksBXu6T4gpcwhJZx2szlA3erRly6oBwWZiXr47Kj5KyZKD+cZh1A3KyeDZcYLNZZA5w5hQn1qOYQE1oXraXZIgflq9cQV0lxyxSTcsXpHGBI/B9f4ZCEeXD8TQOhyzujEeIbAZ4B3mp/3w/OoqLwsXeXMLjPl44RlCtcD2T2yHBMAa4zTg5HnpUeK67OHCt3cbMe/h0MrYepcZAcxJjUvJ7SGfDbFOvwtJo4zB/c5UIV1Fe2XskAGH8eOoYegEhwpDOR6eZeLTIELDtdvoDpjr9UtbP20IRhYBDSUNOK7Q9/x4/0tQh+bMh+KedtFGxoZHdnhlteHgMA1wu0FnSAlZghA5kLXPG4jz1zEyM6uT/caxy5q2uoXkCAG5wZ01Hv4oYrRctkhoHt3f2vhxIxsR6w2P2qHjDZgbdndq7W7JczuYMY66MKaXXnT7pqL9uyGOm5A4vtqlt2V7x29gshHjdSS/tQnWzRzc+5iwzs/l3luKNYcCTc5iKGcue0xI7UkD6wVNFPmcl1Opzo+FrQ==;DJWQNmN+MVFl9jtC8Up82A=="
 ---
 

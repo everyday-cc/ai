@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox13news.com/news/lakeland-officials-hope-artificial-in
 cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/lakeland-officials-hope-artificial-intelligence-will-prevent-traffic-crashes.amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 932
     height: 470
     isCached: true
+
+related:
+  - title: "Lakeland's busiest intersections will get artificial intelligence sensors to prevent crashes"
+    excerpt: "The Florida Department of Transportation is investing $500,000 to expand Lakeland's red light-running detection program."
+    publishedDateTime: 2022-04-11T23:16:00Z
+    webUrl: "https://www.abcactionnews.com/news/region-polk/lakelands-busiest-intersections-will-get-artificial-intelligence-sensors-to-prevent-crashes"
+    ampWebUrl: "https://www.abcactionnews.com/news/region-polk/lakelands-busiest-intersections-will-get-artificial-intelligence-sensors-to-prevent-crashes?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-polk/lakelands-busiest-intersections-will-get-artificial-intelligence-sensors-to-prevent-crashes?_amp=true"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 46
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/5b0/45bf940c346f431c9be273b8942ab6eb/5b05efc895a34ea0b6c5d2f80e3368ec/poster_a450afd2a42847c79fe8dcd0706307ab.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "WdKsN3U3qo45/Z4N5/AnIAzycHrI8yHrt/OLPQBjFe8LiG5TZzw2t4Ct1mJeJ7gOGJDg6Fx2/MT8YW7bgTR0gJe20mAM8Zc1Kr5KhLnNp2mLRMKERisleAuoAjLPp2z7MxgDA6r5gtP8M6y51zKCfrJeU7poo0u4UZkeOOaMpuKjyfp/JEmPQ55McdkJIU66aqPJ3hkymSktfdvTviyfbSNpZlvFBWbi6+UA6T1R0QtsHLwekUUkfdKMUnj/uqS1e+pajaUEyEkR2tTs18dZL5HawGbM8pjogF1VgVV61KoemF7InnOsJQF/55Sd1sXPsiJpc2Bgg5tIjF9aTtzbGPAqn5qA4rDdUrjWpXvRineJxnz7f8XVXnAn33wONSvJWisFPt0puTpyPrRX7ebtePWoyynoX2rjwB7sel1X1IoDEPHjtJ8UXcZsNipxyHzSdV8JQwdEHL95utpvPPMw7axqn4de8beN2kMzgCuJKTl2YMNrjyRRvi8FF/oYxyjOnCV5Thtds/oiwI38ipjUYg==;kUCY4K/+Ec6fXudas9Z5Qg=="
 ---

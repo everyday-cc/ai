@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-05-customize-the-amazon-sagemaker-xgboost-algorithm-container.md",
+      "title": "Customize the Amazon SageMaker XGBoost algorithm container",
+      "excerpt": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/18/ML-2441-archdiag.png",
+          "width": 570,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T10:24:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-google-announces-new-tool-for-data-storage-and-integration.md",
+      "title": "Google announces new tool for data storage and integration",
+      "excerpt": "Google wants its to offer the control of the best data warehouses with the seemingly endless availability of cloud storage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "publishedDateTime": "2022-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
+      "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624c5b8daee4a305df4992a3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/05/ibm-z16--the-mainframe-is-dead-long-live-the-mainframe/amp/",
+      "publishedDateTime": "2022-04-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
       "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
       "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in",
@@ -999,153 +1146,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-interpret-caller-input-using-grammar-slot-types-in-amazon-lex.md",
-      "title": "Interpret caller input using grammar slot types in Amazon Lex",
-      "excerpt": "Customer service calls require customer agents to have the customer’s account information to process the caller’s request. For example, to provide a status on an insurance claim, the support agent needs policy holder information such as the policy ID and claim number. Such information is often collected",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/interpret-caller-input-using-grammar-slot-types-in-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T09:45:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
-      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
-      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "publishedDateTime": "2022-04-04T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-facial-recognition-system-at-pune-airport-by-march-2023.md",
-      "title": "Facial recognition system at Pune airport by March 2023",
-      "excerpt": "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
-      "publishedDateTime": "2022-04-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

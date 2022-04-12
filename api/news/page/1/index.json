@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
+      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
+      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "publishedDateTime": "2022-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
+      "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
+      "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "originalUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "publishedDateTime": "2022-04-11T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum.md",
       "title": "Government Deep Tech 2022 Top Funding Focus Explainable AI, Photonics, Quantum",
       "excerpt": "An example is from 2015, where I was invited to help the top 100 CEOs, representing nearly $100 Trillion in assets under management, to look ten years into the future for their investments.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -49,7 +143,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1109,110 +1204,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-the-truth-about-ai-in-healthcare.md",
-      "title": "The Truth About AI In Healthcare",
-      "excerpt": "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-04-08T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-oracle-data-warehouse-vs-redshift-compare-data-warehouse-software.md",
-      "title": "Oracle Data Warehouse vs Redshift: Compare data warehouse software",
-      "excerpt": "Oracle Data Warehouse and Amazon Redshift are popular data warehousing solutions. Read this feature comparison.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
-      "originalUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/04/istock-1061299140.jpg?x27523",
-          "width": 1258,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/oracle-data-warehouse-vs-redshift/amp/",
-      "publishedDateTime": "2022-04-08T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

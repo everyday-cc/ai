@@ -33,6 +33,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AI Spera Unveils New Cyber Threat Intelligence (CTI) Search Engine"
+    excerpt: "AI Spera on Monday announced Criminal IP, a new cybersecurity platform and is a total Cyber Threat Intelligence (CTI) search engine intended to identify potential vulnerabilities that threatening companies or individuals' IT assets."
+    publishedDateTime: 2022-04-12T01:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24228-ai-spera-unveils-new-cyber-threat-intelligence-cti-search-engine"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b9d853e41aca48dbb35e6ffc311d2d38.jpg?t=20220412_010712"
+        width: 752
+        height: 408
+        isCached: true
   - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
     excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
     publishedDateTime: 2022-04-11T20:46:00Z

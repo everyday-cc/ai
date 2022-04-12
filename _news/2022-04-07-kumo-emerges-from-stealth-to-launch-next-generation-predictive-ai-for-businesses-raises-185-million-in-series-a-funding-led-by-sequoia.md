@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Health-Tech Startup Viz.ai Raises $100 Million"
-    excerpt: "The funding round led by Tiger Global Management and Insight Partners raises the six-year-old company’s valuation to $1.2 billion."
-    publishedDateTime: 2022-04-07T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/health-tech-startup-viz-ai-raises-100-million-11649323800"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-520037/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Read the pitch deck app-development startup 8base used to raise $10.6 million from firms like Foundry Group"
     excerpt: "\"You're with them until the end.\" That's why 8base chose investors like Foundry Group based on their track records of success with similar startups like low-code software startup Infinite Blue and conversational AI firm Quiq, Santalo said. And on Wednesday ..."
     publishedDateTime: 2022-04-11T12:15:00Z

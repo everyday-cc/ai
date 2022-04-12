@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-and-humans-can-best-collabor
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-and-humans-can-best-collaborate-at-work-11649343930"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024"
         width: 1024
         height: 762
-        isCached: true
-  - title: "How Cardiac Arrest Can Be Predicted by New Form of Artificial Intelligence"
-    excerpt: "Researchers say a new form of artificial intelligence may be able to predict if and when someone will die from cardiac arrest"
-    publishedDateTime: 2022-04-07T08:08:00Z
-    webUrl: "https://www.healthline.com/health-news/how-cardiac-arrest-can-be-predicted-by-new-form-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Healthline
-      domain: healthline.com
-    quality: 35
-    images:
-      - url: "https://post.healthline.com/wp-content/uploads/2022/04/male-chest-pain-on-bed-1200-628-facebook-1200x628.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "4ckAu5lyDqzbOerHUlicCpk8KkRmsGF8lCdGWY6/OhgHSKgZ1ryRGnjeXyQ/YgaUgzHa6tJfTpwKtQXbLvNnpMUGqxHZV04BkZZukLaVJLaZo+2u3jsiFAnsj31pEuCxcmxmBRWBPKVTqF0wpK1naBFy3f+LIbnM1rxrvFki2DlXE8C3r5JTJf22OMfErwEZtz9ELeEelxGfxLP9f2B1Du1wMnSZ+fHuE6L1T2EMWrPdaS6A28caBI7zcJOsYXtBYxcInEgPQ4ZXVDyb+Zgiy0BOgLPJq/OyoYpFlQ0Dhtt3DrtL3JRW680Wkd3/C+lGfY0usKDpNoWWbz59R1TTstaXbm10CrwihXFfsAA4ycfkRQOckmyR5acvsjyJaAzt5uZX4VPxwav81xqviRZkc6puSrOvqHup9xCQ0Fyl+wYiKG/GIKNiy3V4YK9xa72UaubdfTdGacGVOVB66eKoxaiLybY+9BwWuWl4b6ZSvJR7OCkqmKSkUMvRTRxvG+dH4ezszM4e3p/7A0UDD3k0DQ==;PFnTYwjbLCbnEc5/wN0xXQ=="

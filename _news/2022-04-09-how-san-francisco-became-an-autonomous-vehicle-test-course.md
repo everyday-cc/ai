@@ -35,6 +35,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
+    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
+    publishedDateTime: 2022-04-12T00:06:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 30
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7A6QC2dRkQ58Bp+gZzh3x9n3dcQZjokpbEsEJZ/UQ8mrx6tf0diz3WXCAiDM0dzlYj/N8o9aCnOJR1ilDPAFReOfEzM6P20pwkBxdNndDOTSz71x3POB4sb3Q4ZGr1uJRlVblxMN1HxCV4R6W9jdZ9HA5lCzw9X+G/FUpajYzlr+ntxk5kP3xXyf2YBCR4i1CujLgGgzzbDcKo/+CZ82en+Ktm6FUPGOodzEl3NNIc834BieNwSAXgJoPOiKC5kFTY31Taib+dmQ/LrsUbRFsauH7GJXdByFFocTQ97Bj3GiBKXuJs913iwnAtnyYnBZ/RSZBDinfN7hUcLyVh47q6BQ6QbaNk/y42PNH9G8AK4=;77rjb7GsGLV/0L4gRHK3ow=="
 ---

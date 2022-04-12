@@ -24,22 +24,6 @@ images:
     height: 705
     isCached: true
 
-related:
-  - title: "BREAKING: Better Origin banks $16m in Balderton-led Series A for its AI insect mini-farms"
-    excerpt: "Better Origin aims to recreate 'upcycling' in nature by feeding food waste to black solider fly larvae - which are then fed to livestock."
-    publishedDateTime: 2022-04-07T08:11:00Z
-    webUrl: "https://agfundernews.com/better-origin-banks-16m-series-a-for-its-ai-powered-insect-mini-farms"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 28
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2022/04/Better-Origin-X1-e1649318991830.jpeg"
-        width: 1000
-        height: 644
-        isCached: true
-
 secured: "QIV0XCULdIu/TnaVZ4rMmSTOODFbarvhX66tLyGBXdaQACcB312YuLZXLDgUqQrawAY1YPBejxTcF9Ve+zGvKmGNaMwvRB7BBtlpU3mjO9NBeygNfiYDFPfySiR/tHG/AS3WEW8CL/P/lEk7p1GIBkr4GCo5ktKLHoQZbOMxxAedio2LoSZYkAGYfdZZH+LdGZKsjnAgBWNpyWYbUVNUkjLpEsrusG/PEQRJmE0avN9+okc9C1aPEpxlpr72qMXfcPqrs2CWvIA3Udyj9Ob/H+d1WusxkxVDKR1j1NLV7YOoeQhCm8T1GHx2PSiGV7QDPnyhoXQHdbfaFOto6jlDf+p+p7zFRemvO0bHAb6PRQs=;FYNLHJfRit60VWQ+65xfgw=="
 ---
 
