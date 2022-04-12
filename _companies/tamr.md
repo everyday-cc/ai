@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Tamr_Inc"
   url: "https://twitter.com/Tamr_Inc"
-  followers: 3873
+  followers: 3872
 
 size: 51-200 employees
 yearFounded: 2012
