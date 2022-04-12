@@ -18,11 +18,11 @@ website: http://alex.smola.org/
 twitter:
   username: smolix
   url: https://twitter.com/smolix
-  followers: 18792
+  followers: 18789
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ
-  citations: 141142
+  citations: 141275
 
 topics:
   - AI
