@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Artificial intelligence could help night vision cameras see color in the dark"
-    excerpt: "Scientists from UC Irvine multiple wavelengths of infrared light to capture images in the dark before feeding these images to an AI algorithm."
-    publishedDateTime: 2022-04-07T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-infrared-night-vision-in-color/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 14
 
 secured: "4kkPEEUqbwq/8HLkvurDJ8kkVGoBWTxyYwHPUj4DGLOBSh8B0NLWEoawl3tDj13iaPrCwBlxyrLXYAIrZpsBQkPTx3q+bTI0MnkAiiu+0aKKKCOXpWsCSRute2cgJaw037OnDx+8N7j7FXRgyDOeaV0/x1YCS1ulJcOExiXziU4VcfP9uxO9kyF8a5fhZBVhyryySfnjCHzqjfizAMEmVGNc46XJ0WAXabSXAYnr6T3/1AjfjxOTQYQK83E4SmnDzuWhxVmWo47WnQzIVy/1+XXSAlTq4zc2fwRu+NChR2zydvcw6qA5B4jHUvG7ghzOhkH76iGRV42sbNrjnvBaUHq7L7Rxi/jogo8PIOVHuJGqmAhhvnCsFpwlCAWopex2rdvM9OoLkpG2z33T53zYbcfpUAn87Knzn7Da8QcLmjSq9xDJJ7xZkK3biraQDr07snMwF+WfUjMK9pXraiejUcTbyYDPFuzQvZu2zsISWgAlalio39Nzwg8rBGTqCN/MIHoeWU7tBv3BxW8h8P04KA==;5URJ52Kjb9v70jx3SgxoGA=="
 ---

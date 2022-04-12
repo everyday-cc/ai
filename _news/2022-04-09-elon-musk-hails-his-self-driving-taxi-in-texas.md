@@ -39,6 +39,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "Toyota's Woven Planet unit uses cameras that are 90 percent cheaper and can be easily installed in fleets of passenger cars."
+    publishedDateTime: 2022-04-09T07:59:00Z
+    webUrl: "https://www.autonews.com/technology/tesla-toyota-develops-self-driving-tech-low-cost-cameras"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vDwW4R1Iz/RpN/IVVotYObnjXQ+Lla+J2o8a7dHYhYuJ9nMx074d7zDyTTtFy2w6yy7m3kzbrCTS+Y6rCYTxLvRICAssNcc4C6iJ6JUpb+YOgEZc3LzGXhTYx5flkB81k8S3Iqq7eBOSDA5x9kv6VoM3+CqdXxKt5Y4SlFgmODUmSYTbI48Xo5t6CgEaVUtbE7F5PE6NQ9h/kBnrIqkuwSYQ0mquSmc8TjbFpPheL6+sL0TstiZpIJR01jpCg1jVFoJqzb2KtK4rKC8kTDF0xOel2US/pD/JQ44zvCjZT6GMIS9te0FPrLbLm4EIbS/6c2/hhyN+ouOVpzttRfFf+/M4ZK21ecvtsII2Y/ou0rc=;QywOU7bYGXGesjQNZtL4BA=="
 ---

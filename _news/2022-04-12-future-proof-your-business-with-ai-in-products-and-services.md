@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-you
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -90,34 +90,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-apr/9179096467-AdobeStock_122524243_chatbots_chat_bubbles_SUPERSIZE.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Google may update business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google may update your business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "6eD6/6XTsH5/IwO74c/pnSpRMwhj//zdm1aEA7TUjHWXMzmB4LOlLzf+JSN15/nfc9PGmSfHEbKRQpz/jlId2K+25o5DSPNTInTGFzUc1HbJW07AV/PfmC7QRnWhg67yfT3d2ZMZNyaXYyFygREf55/8+WixdHQEkVE5/UmNENBrPHx8qTQD4IY2+4ykgK9F34SZXRlCajuMoJ38D/4yaoaX+IEBN6fafikN/PFxLTJ8sVlomXG//z7qTpehpXw4FUhkTjQ4A7yAU3UQA49zsrazm2VFPEPn6zrilexAhgvOnnMbNDy86wm97v1Z8ZSiNMHcziTb9rkm5fxvSsapsVxNOp7AmB2xYWXIOYOLENToy1bwuYois+SpRF2O9OJl+05kX7wGyHMusrmeWBMNWOvGL8iMot+jhmOd830CPY1mO2LwAXcqrd5r4g0Ey0EDRQAbpYlT5yqtKEZaZqrwvGkG/bxKHA38daX+cfr0ZMNPyQwZPUf0MKXnJWNuud6gpBvjp90LaKtgrPoVPKleyA==;LUbH6xqPrBoBgFyJtFayVQ=="

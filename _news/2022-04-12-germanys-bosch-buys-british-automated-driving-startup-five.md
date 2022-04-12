@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Germany's Bosch buys British automated driving startup Five"
-excerpt: "Bosch said Five, which is based in Cambridge and employs 140 people at six locations in the U.K., currently focuses on a cloud-based development and testing platform for the software used in self-driving cars. Bosch board member Markus Heyn said the ..."
-publishedDateTime: 2022-04-12T09:42:00Z
-originalUrl: "https://www.registercitizen.com/news/article/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
-webUrl: "https://www.registercitizen.com/news/article/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
-ampWebUrl: "https://www.registercitizen.com/news/amp/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
-cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
+title: "Germany’s Bosch buys British automated driving startup Five"
+excerpt: "German auto parts and technology company Bosch says it is buying Five, a British automated driving startup, for an undisclosed amount. Bosch said Five, which is based in Cambridge and employs 140 people at six locations in the U."
+publishedDateTime: 2022-04-12T11:51:00Z
+originalUrl: "https://kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/"
+webUrl: "https://kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/"
+ampWebUrl: "https://kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/?amp"
+cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/?amp"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: KSTP
+  domain: kstp.com
 
 topics:
   - AI in Autos
@@ -52,6 +52,6 @@ related:
         height: 720
         isCached: true
 
-secured: "YtUNl/eVYcOCWpnW8biOfuQ2XRhYNxOBa/h+HzBPkIQ4OZSAKtr5XJrzTj64Lov2XunSZv/dyqYv1TRjcu0grblk0d4zxJgJ1UxPIyXPlSo01Tiq6D/LNSl4QbJwi8tNme/iQDi43bX1itecVcPm8I8+zRDaPu32dO6BQdMVx2iS08WIeP2iV+vIlIYKsu12c3r1DcbYrh3LCnZyAAjIcOTy47OYT1qfo2DLKem7TAKS8bBf5ifwnIYTN1d4YURQQPag0Xo9tFTx4YZPZ9BZKR0NfOk2vMVWqzV3KDF1HGMwbyHeqORc2wr8Tzer8sLSYsTyt9/3csRVJ6t6h5F7xy7Acgh/VbLu3oCDvkV0qTM=;4/CiE0YPUxGm6DwXT3TGHQ=="
+secured: "5AmtemU5S7fIIvEguGJpp8KUaJWFKS4YJnDjzarHEY6xZwj6mz/vFKLbJqsNCLE4ovtDn0g2Z8PUr9BVYpt8zJC4jy5I2rQORqvGAD3+zlD4fG20DW4QkXnxxyUwbDgyyp9JaETIfk42GgKArSO0Z+3ECbZ5edId2SHEer36w3CY/nZyFWyv0YHQ+weTS39m2BPXEoUfD6+lfETu/NYt8H6IVLSHOBY6n7tNzPbxhwD0yrAdQn5LM0uxvyAuXJd174VU3w5wtmYE0yQFl4Kl9oEKKF0A2jQKzmMM0xkvlnDTDDR9svQ/Af/SomRSycQM7H2dXR56Phzq8JS4ggRQnXT+WoMarIAuOVd7SGdj2Bs=;9Ti36IHj2ztCHUES1JQHNw=="
 ---
 

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Artificial intelligence could help night vision cameras see color in the dark"
-    excerpt: "Scientists from UC Irvine multiple wavelengths of infrared light to capture images in the dark before feeding these images to an AI algorithm."
-    publishedDateTime: 2022-04-07T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-infrared-night-vision-in-color/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 14
 
 secured: "LYOKSeN9zYq6rpEfYVeY8xHiQwkBzdhFthjzvZKR2iLrZVe5IAvFqba8z0nSb45h2M149aMr59JnLOc4I8yLh/Qgf0XiMWRpyFGq9/pwe8pVdTrQK9nVC4MdmuW3TJR5cDCJ0JhHxPIsxYJ9fU4AkSMSRk9pvvZUeQNopWWdk2AvEYhaxM6yLOw+XJXbAsoyYKvz0GXSRYy5azTjOJiOVln10vQM8ZxmjL3WkA2Qh5jmRXDpekCmretl89qP+ZSHeZ2DrZrv5bUwM4aVnx0DuFxhTPr9NVYt4j32KqdJVFEnLm/2+LMFKwu3kuOQ5ciMtZ+RL4pYPFdcvo1BXW+phyofNgY+t9fyE/Dz7cBLRVk=;POgTCr8aRfyUoe4DPM6Umg=="
 ---

@@ -37,20 +37,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 56
-  - title: "Daltrey integrates Idemia face biometrics with access control platform"
-    excerpt: "VisionPass can include additional biometric modalities, and provides a digital identity that can be used across all physical and digital access points."
-    publishedDateTime: 2022-04-07T17:26:00Z
-    webUrl: "https://www.biometricupdate.com/202204/daltrey-integrates-idemia-face-biometrics-with-access-control-platform"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/28163438/idemia-visionpass.jpg"
-        width: 1073
-        height: 711
-        isCached: true
   - title: "Wicket joins leader ranks in NIST face biometrics 1:1 test"
     excerpt: "The computer vision and biometrics company submitted its facial recognition algorithm for assessment by NIST for the FRVT 1:1 test in February 2022."
     publishedDateTime: 2022-04-08T22:04:00Z

@@ -87,34 +87,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google may update business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google may update your business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nfDXB711Xobx1u9c+uhbBwxP/X5wZHH7pAtl5KrCzwQkv6BhkjeyUkv6dfFXX6tn/t36Npe9G+8pq4bdbSuKd0hjKfw7xFMg6kLS+Axu58gZgnvMJZ425q0l7Gzi4d66XHmRbQlyQ9rIW4xSBwXnvLom3fiL9NOtNO312v58q9uD4BmHOxcScON2Sa3jMsVS43qIOFKz/V6s/hQO8R59K5STswH+ie18AZWxUfwzSQdskYoM9TyCr8X7W5Kk0815JDXtlWlH4yXsApMnjC8ohbBmURny2LapG8rBaEGaSC0FvMHTD/e65fzkHpd0dd/9/yApCSEkoNOphzUwhCFykDY5Yv5Y3DrZ0AnFPFOeV7Q=;HmBu5I7j3HXZFGJjqsQ/Tg=="
 ---

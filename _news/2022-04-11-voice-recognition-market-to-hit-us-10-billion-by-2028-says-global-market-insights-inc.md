@@ -26,6 +26,22 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Image Recognition Market Expected to Reach $86,001 Million by 2025"
+    excerpt: "The report offers in-depth analyses of the industry by closely monitoring the key industry trends, drivers & opportunities, top investment pockets,"
+    publishedDateTime: 2022-04-12T10:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-expected-to-reach-86001-million-by-2025"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "Z8DmqJRYosF/rdb4w+AaQ9bLgVThAuIoEAU4eiqurHrHoVLuTeDkFUMa02LVSR2r0ilEbPRUDGAm/Iw3HnFbtuDGE1RS8iB5t++/dFD3+iQ3mHO2XXl+m6NbRz31Nv2n8S/GUMNiKgxNbL6iiwQL11YbgdQ2k+SlqdB1ifuqYqiGhlb3jWDIq+IEVYauSbeljj/9NBbdy36oXaH1UyvNfyo7r6UN13sB2NMYw6kdhZlMTB/133UqpvHP/2j3cP4WWnRGqL6ShJYW47AcgzsVlNU2C+wgSENXGjv+K48Nw5iGqB86vOTtfHyDjGjAYMgMEQj/tmgwMXRP++P8ojhiHV5+F3btz8qWsyTikaSxyo4=;2AzKYvGQ1UpkDiPJ+2QhmA=="
 ---
 

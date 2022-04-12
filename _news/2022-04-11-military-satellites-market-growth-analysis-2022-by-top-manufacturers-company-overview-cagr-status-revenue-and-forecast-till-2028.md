@@ -57,6 +57,20 @@ related:
         width: 649
         height: 250
         isCached: true
+  - title: "Iris Recognition Market Poised to Garner Maximum Revenues by 2027"
+    excerpt: "On the contrary, high price of iris scanners, availability of substitutes like fingerprint scanners and face scanners, lack of awareness, and technological limitations are factors that may limit the global iris recognition growth over the forecast period."
+    publishedDateTime: 2022-04-12T10:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iris-recognition-market-poised-to-garner-maximum-revenues-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "India Artificial Intelligence Market 2021-2026: Industry Growth, Size, Share, Analysis and Research Report"
     excerpt: "India Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 11, 2022 /EINPresswire.com / -- According to the late"
     publishedDateTime: 2022-04-11T20:41:00Z

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer"
+    excerpt: "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients."
+    publishedDateTime: 2022-04-12T10:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=645669"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 78
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
     excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
     publishedDateTime: 2022-04-08T09:37:00Z

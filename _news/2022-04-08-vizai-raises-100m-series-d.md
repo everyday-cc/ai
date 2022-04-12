@@ -55,15 +55,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "Viz.ai Raises $100M in Series D Funding"
-    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
-    publishedDateTime: 2022-04-07T17:52:00Z
-    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 17
 
 secured: "i2OqW01/9VTC+6XDY5JOEctXQO+bBkvin9U2+KB1eCUcCAEVs+wueKqx5uwZtzpl9HuesajDidrG7pJyKYaCfZBZKswlJzfNeciVYbSndey0s2xwtW+ReuRXpEwfGmjaPY+rQnjOMqoAOVRbk18ns5ZEPyqt39bbediTa0HA1xRKAUrU4bpMfHUUr9DH3QZiugyem9l0S3sKLhfWz/ghIGS3tY9pGFef3PCOdqpBC1r/jRY4dCfDreZvkM3mAIszvb3qzs2TgU42omLM7aWVROg37LtTZGmG6WcEDwdoXUNc/KxE+QZTPd+BkR+QQFXZmhvKr4tOe3rm5rvPeazNT6sHAoGo3p6JGrS+YeAz5cWXEywF6LsqX9H8COIoTa5HhGO6oi8sM2QmthfyTuwxGy11l0UwHrwrUtdxj0Toa4FzJQtox3AxUezsgX9cD7TlkpO941BHJAJ6jOdKSCSSkFASA+syN3ld0kzhEsqNpzOGoM7IvyeBntS1jXxQg9F7jUC0pBJdTNGK3B4i2YBSrA==;Mc2splq3C/XMFCwxTikHHw=="
 ---

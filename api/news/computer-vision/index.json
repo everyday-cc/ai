@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
+      "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
+      "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/incoming/32t9i4/article65313925.ece/alternates/LANDSCAPE_615/Spyne%20Black%20png.png",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/",
+      "publishedDateTime": "2022-04-12T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-face-value-the-ethics-of-facial-recognition-biometrics.md",
       "title": "Face value: the ethics of facial recognition biometrics",
       "excerpt": "Despite widespread adoption, there has been some negative press about facial biometrics and whether it encroaches on the individual’s right to privacy, says Gur Geva, co-founder and CEO of iiDENTIFii.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.itweb.co.za/content/Kjlyrvw1WDZMk6am",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1295,50 +1338,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
-      "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
-      "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "originalUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2022/03/-----------------------------------------------.jpg",
-          "width": 2000,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

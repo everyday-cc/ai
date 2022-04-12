@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-04-the-intel-arc-gpu-lineup-may-be-a-serious-competitor.md",
+      "title": "The Intel Arc GPU Lineup May Be A Serious Competitor",
+      "excerpt": "The Intel Arc GPU series is coming out soon to laptops and desktops. What do they have to offer compared to the current competition?",
+      "sourceUrl": null,
+      "webUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/",
+      "originalUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://unbox.ph/wp-content/uploads/2022/04/arc-gpu.jpeg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/",
+      "cdnAmpWebUrl": "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/editorials/the-intel-arc-gpu-lineup-may-be-a-serious-competitor/amp/",
+      "publishedDateTime": "2022-04-04T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Unbox",
+        "domain": "unbox.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-australian-football-uses-machine-learning-to-block-abusive-social-media-posts.md",
+      "title": "Australian Football Uses Machine Learning To Block Abusive Social Media Posts",
+      "excerpt": "Australia's A-Leagues and players’ union Professional Footballers Australia (PFA) are taking their own steps against online abuse by filtering player's social media proactively.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624ac2971a063eb15f547a08/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2022/04/04/australian-football-uses-machine-learning-to-block-abusive-social-media-posts/amp/",
+      "publishedDateTime": "2022-04-04T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-career-roadmap-machine-learning-engineer.md",
       "title": "Career roadmap: Machine learning engineer",
       "excerpt": "As organizations worldwide adopt machine learning across virtually every industry, the demand for machine learning engineers is on the rise.",
@@ -1047,93 +1142,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-leverage-machine-learning-on-your-iphone-to-translate-braille-with-this-free-app.md",
-      "title": "Leverage machine learning on your iPhone to translate Braille with this free app",
-      "excerpt": "An iOS developer built an app using CoreML and Vision to find Braille. Meet Braille Scanner, a new, free iPhone app.",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/",
-      "originalUrl": "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/braille-scanner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/amp/",
-      "publishedDateTime": "2022-04-02T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-how-is-ai-transforming-the-future-of-digital-marketing.md",
-      "title": "How is AI Transforming the Future of Digital Marketing?",
-      "excerpt": "Formerly retailing wasn’t client-oriented like TV advertisements, Billboard ads, or candidly marketing, but after initiating digital marketing, it is now more pivoted on probable clients. Individuals who consistently interconnect on social media platforms could squarely envision their requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/",
-      "originalUrl": "https://techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/04/The-Future-of-Digital-Marketing.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/amp/",
-      "publishedDateTime": "2022-04-02T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

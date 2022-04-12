@@ -88,34 +88,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google may update business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google may update your business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "eDFpauS/ajWNXClcEZ6ch4YGDcJwqC5oFVFiH8LdWb/mBHjMILH4qsihGLKYozVIoVaKGp3Xu1Y5gDXMksWScwosbHsZh3GRfus6qzAqvvAURPinwPg5dVPdtw1BX1QFTGf5kiMK6Sqc2NzPjWLd8/qwhVqvmBFn9JGMbHWJkDrYqvY8RMXqdupha9HIU+FRTf5iQV7GoJwvEYKtxgPN2n5/OUrWSyiHBG0CP8ez2Aa/8sObBI9KRU0oUu+4S8JUDN/zYTjegL0wIau2g2cA6QL1NbMc53AzvpxGwezYy0H59rARbYK1wDhQYxfqcR1/TEt/Dy7GtegQBEMmojlt4WMstrszwPgKCo3G6tGceP/daE+KYoCVoVMoJb5d/xPFFwEk6P66AZzkrTostN0H5utFBsJYF2D0GmfhgIFqx9DZfUTYY/heQzSqipA7B/iFCruvEJqjPuUFbA4MbNIPTWMvHdAvLI0DYjLLF3dhlG6i8BDubFf/MFj6orxWWHcM0ylyoFN/0ra66rOSzU1SYQ==;/ssYbbhqi0/aXvFd5vfhPA=="
 ---

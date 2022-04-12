@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Iris Recognition Market Poised to Garner Maximum Revenues by 2027"
+    excerpt: "On the contrary, high price of iris scanners, availability of substitutes like fingerprint scanners and face scanners, lack of awareness, and technological limitations are factors that may limit the global iris recognition growth over the forecast period."
+    publishedDateTime: 2022-04-12T10:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iris-recognition-market-poised-to-garner-maximum-revenues-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
     excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
     publishedDateTime: 2022-04-08T09:15:00Z

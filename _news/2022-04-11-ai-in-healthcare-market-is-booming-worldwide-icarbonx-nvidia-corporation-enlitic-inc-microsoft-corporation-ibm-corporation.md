@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Manufacturing Market To Witness Massive Growth By 2029 | IBM, SAS, SAP SE"
+    excerpt: "New Jersey, N.J., April 12, 2022 Artificial Intelligence in Manufacturing Market research is an intelligence report with meticulous efforts undertaken to"
+    publishedDateTime: 2022-04-12T10:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-to-witness-massive-growth-by-2029-ibm-sas-sap-se"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Sports Market Recovery and Impact Analysis Report Catapult Group International Ltd., Facebook Inc., IBM Corporation"
     excerpt: "New Jersey, N.J., April 8, 2022 Artificial Intelligence (AI)'s rise in sports has been a long time coming. As the field matures, new technologies,"
     publishedDateTime: 2022-04-10T06:22:00Z

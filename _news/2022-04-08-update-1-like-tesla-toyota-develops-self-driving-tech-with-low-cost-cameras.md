@@ -48,20 +48,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 49
-  - title: "Like Tesla, Toyota Develops Self-driving Tech With Low-cost Cameras"
-    excerpt: "Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras."
-    publishedDateTime: 2022-04-07T17:30:00Z
-    webUrl: "https://www.ibtimes.com/tesla-toyota-develops-self-driving-tech-low-cost-cameras-3466016"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla To Expand Self-driving Software Testing To All N. America Subscribers In 2022"
     excerpt: "Tesla chief executive Elon Musk said on Thursday the automaker will expand its \"Full Self-Driving (FSD)\" beta software to all North American FSD subscribers this year and promised a \"dedicated robotaxi\","
     publishedDateTime: 2022-04-08T04:40:00Z

@@ -86,34 +86,6 @@ related:
         width: 1050
         height: 688
         isCached: true
-  - title: "Google may update business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google may update your business hours in local listings with AI"
-    excerpt: "Google said that is can use machine learning and AI to update the business hours of local listings when the search company thinks the hours listed are inaccurate. Google wrote “"
-    publishedDateTime: 2022-04-07T17:33:00Z
-    webUrl: "https://searchengineland.com/google-may-update-your-business-hours-in-local-listings-with-ai-383452"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/wp-content/seloads/2014/08/time-clock-ss-1920.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "C9Bfji9TndX4t7sN3ImaOIqZ870bhPRdKJb6Het+ni5q3NjStJ6XZhPL1CK1nzK34dPEbptSzIAzf9Ib52iahFkwp8Pm8EzYwqKBxrBE8BtWGZneqgbJCUwqfYJMpfXIFnY3LW9fc/tG+BswERqfzmgOT5F1ehEOgMASFeIngn4+J8SPZaMOlHbpx8FZtfKTUNxsMgDRxhogAmA8r7XL4nzJhlyLXNkbK+VPaMeM7v+237v7Xf0Cj6HE2hC5S1jhTMmHKBSVAHQNN1XcZkfk8YIe0qR8Ts2UTkvQ7JO82Gr+CPOz6O/GF9dysoAB6FnQDxLgB+nR4hAOp832EcVyiftEj+WiUhXjkjbf/Dm9QqdJjBwhRGmquuuPRN1aIjYswM6aYvqHsJO3BhvkkIlbk1+5THs9qYAPOXb5ZID5rcNHGuzz+2BGKU95PP3N3pjjsjTpWmE6wOjHtyN9YtsRtX8GQoc74Pk4Ak7GZHnMc27OqlSx3MIWuijDmi+7MkJ5oT27AR4qS+rYc7GuJlL/gQ==;cdDcgtcfy4BgvlgNJ1fL9Q=="
 ---

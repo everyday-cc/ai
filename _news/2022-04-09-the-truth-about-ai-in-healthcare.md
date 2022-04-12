@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biases in Artificial Intelligence Led to Healthcare Disparities"
-    excerpt: "Although artificial intelligence (AI) continues to become a critical aspect of healthcare, researchers from PLOS digital health biases and data gaps involved in AI production can lead to healthcare disparities."
-    publishedDateTime: 2022-04-07T17:24:00Z
-    webUrl: "https://healthitanalytics.com/news/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
   - title: "Artificial Intelligence in Healthcare Market Size to Hit US$187.95 Bn By 2030"
     excerpt: "The global artificial intelligence in healthcare market was valued at US$ 11.06 billion in 2021. With the introduction of the digital technologies in the healthcare sector, it has gained a rapid traction across the globe."
     publishedDateTime: 2022-04-11T20:45:00Z

@@ -20,15 +20,36 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Diligent Robotics raises $30M to deploy robots into hospitals"
-    excerpt: "This has only put more pressure on the existing staff, as well the hospitals and health systems that employ them, who still want their nurses to be working to the best of their ability. So, how do you relieve some of that pressure,"
-    publishedDateTime: 2022-04-11T12:00:00Z
-    webUrl: "https://vator.tv/news/2022-04-11-diligent-robotics-raises-30m-to-deploy-robots-into-hospitals"
+  - title: "Computer vision startup Spyne raises $7 million in funding round led by Accel"
+    excerpt: "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ..."
+    publishedDateTime: 2022-04-12T09:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/"
     type: article
     provider:
-      name: Vator
-      domain: vator.tv
-    quality: 49
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 71
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/32t9i4/article65313925.ece/alternates/LANDSCAPE_615/Spyne%20Black%20png.png"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Spyne Computer Vision Secures $7 Million Funding, Led By Accel"
+    excerpt: "Spyne, a deeptech startup helping businesses and marketplaces create high-quality product images and videos at scale with AI, has raised $7 million in its latest funding round. Led by Accel, the funding round also witnessed participation from other marquee investors including Storm Ventures,"
+    publishedDateTime: 2022-04-12T09:48:00Z
+    webUrl: "https://www.entrepreneur.com/article/424547"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649757062-Myproject4.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "sd703HqKBlpuT59dCS2fGFbBnB5WSbOoxhtUI5F+c9ahU0t7HKRuoXJdW9YFPo3noVW9Jtm2djzkavR7oo8dgOEWmp609yImz2LE8pyNIh9KTseeucEhB7c5QZu9NHOZ6PDIjFhdo/Kzf1y3AL0BS89Xapihwux7jsiMvtktVj48HAuFUT3OazdhZNA/Km+orekJvrc7HSr0QRh+iefWn0Rp66OfIVwNDvp9l7UXV8DDfO/vQiiKanjQuicBIzjAOwTkNdql8bX2POtEbGG0srWqXHBVGsCUF6CzwWhYh0mcf48Wt2cXfFav8KnU78m0iwn9EjwQ2viTqzO7KsehmZdoEQMrspI+xnZp8je1at4=;O1usAK4D/9S2CfZ0S6qyyg=="
 ---

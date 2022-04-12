@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biases in Artificial Intelligence Led to Healthcare Disparities"
-    excerpt: "Although artificial intelligence (AI) continues to become a critical aspect of healthcare, researchers from PLOS digital health biases and data gaps involved in AI production can lead to healthcare disparities."
-    publishedDateTime: 2022-04-07T17:24:00Z
-    webUrl: "https://healthitanalytics.com/news/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/biases-in-artificial-intelligence-led-to-healthcare-disparities"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
   - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
     excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
     publishedDateTime: 2022-04-11T12:48:00Z

@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2022/04/07/19/56345613-0-image-a-15_1649357128420.jpg"
+    width: 636
+    height: 382
+    isCached: true
 
 related:
   - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
@@ -36,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "mwqURLTftGISxQIw43GdZP2ceMdxqfM6470PQwPUEZjwuLWjyIcusAoowRrD/7lMCKEoBEJTJZ7+3w0Xk/3urJck4GwmT+YqDHTuJBf5AOPFMXkb9GJzN1kbfNrFKPesjCIlHtsX12ntxgNZaBv7lEijvdH3YB5bhJTQmlCkiVrwqfG7p24gfshSjbfyVfeZpyTOXuvMjZ9g/Kk/+3h2+1ya87lVPKiqZAxukjzMGcOyLj5G3Enwe5aZKkZa7NQkdnYLOPvSuJwVXvuikvEjWnUUvwPf438lQByJwTeBM3L/mDMSYpseni7WhEyYjFyqZ7rHHLjEur7Dg0Kwf4jQ6w2MbKXFuAFi+N3RXEjE1gNge0gakRFyUwCZ1KA6HgXkgdReX1f5l21/rQEXMX3IOyNqATXE07SJL8ijhngP/XjhcfN3NtJ7n124og0fECe9hrh2m1IOxzNOzfZZSWGA4bVapg7rQcoowX84PSWy0/+8cCz19EvopMzgiSVmf2VGaOLUgwlktLWGRTodxy64IA==;/xfzCbXDfxkYApTSIIJJ3A=="
+secured: "HHf4x6WwkkzIL4ozI9zTTSvKZHIPDM34fjGKfLx2JvfgPJFuqHZsnmgABimvlLpoojPZHXpRX3XSS2av6/xQE0gkHQkBK0MeDQBlRc5l+V90xmvy3D7Q5rcPOd98u3GThx7aMXZOZUPlFPzzI9IQ2uH2o0/ZMdQ11dp4Gw0GZcBgplWXjXLt9P2vSz/j+kIGxCAHjrXkM+SfxNaV+vcbIPfeAtUIku+jd2jMb4qmioj8TrjOI4NEUzvJJxHCo3ofj/hJKsM0vyOALo1hDv2k2o/KcS42I5Dc9UWwN+aE/JyFQz5MBgYoRuvz3VELuU3mbingvbwLOl7qkX0+tDfNcIsbneAGCxQcdJHByFn43Pg=;LYxY9yqsAWtbgaT7RI219g=="
 ---
 

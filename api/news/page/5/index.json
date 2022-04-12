@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-06-natural-language-processing-market-to-reach-3415-bn-globally-by-2030-at-409-cagr-allied-market-research.md",
+      "title": "Natural Language Processing Market to Reach $341.5 Bn, Globally, by 2030 at 40.9% CAGR: Allied Market Research",
+      "excerpt": "Rise in usage of smart devices, increase in demand for advanced text analytics, and surge in use of the internet and connected devices drive the growth of the global natural",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9/article_1b230c02-10b9-55a4-8c41-9d19b270926d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9/article_1b230c02-10b9-55a4-8c41-9d19b270926d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61ea06e968cf9.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-tradeweb-launches-ai-pricing-service-for-the-us-municipal-bond-market.md",
       "title": "Tradeweb Launches A.I. Pricing Service for the U.S. Municipal Bond Market",
       "excerpt": "Tradeweb Markets Inc. (Nasdaq: TW), a leading, global operator of electronic marketplaces for rates, credit, equities and money markets, today announced the launch of Tradeweb Ai-Price for municipal bonds,",
@@ -1095,49 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-quantum-memristor-points-to-new-neural-networks.md",
-      "title": "Quantum memristor points to new neural networks",
-      "excerpt": "A project at the University of Vienna has now described a new integrated quantum processor operating on single photons, which could have implications for artificial intelligence and neural networks. The Vienna device is a memristor, a form of electronic ...",
-      "sourceUrl": null,
-      "webUrl": "https://optics.org/news/13/4/6",
-      "originalUrl": "https://optics.org/news/13/4/6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://optics.org/objects/news/thumb/13/4/6/vienna_april22.jpg",
-          "width": 380,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Optics",
-        "domain": "optics.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

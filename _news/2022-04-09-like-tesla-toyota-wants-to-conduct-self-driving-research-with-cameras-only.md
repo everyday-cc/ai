@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Why Toyota’s camera-only approach to self-driving is a bad idea"
-    excerpt: "It ditched radars and initiated a camera-only approach, dubbed “Tesla Vision.” And while we’re used to Elon’s unorthodox methods, Toyota’s decision to follow suit is definitely surprising. The car maker’s self-driving subsidiary Woven Planet will be the second company to adopt a vision-based strategy in pursuit of fully autonomous driving."
-    publishedDateTime: 2022-04-07T18:34:00Z
-    webUrl: "https://thenextweb.com/news/toyotas-camera-only-approach-self-driving-bad-idea"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 34
   - title: "Self-Driving Car Market is Booming Worldwide with By Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple"
     excerpt: "A detailed report on Global Self-Driving Car market providing a complete information on the current market situation and offering"
     publishedDateTime: 2022-04-12T06:44:00Z

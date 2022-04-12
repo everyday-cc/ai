@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence In Manufacturing Market To Witness Massive Growth By 2029 | IBM, SAS, SAP SE"
+    excerpt: "New Jersey, N.J., April 12, 2022 Artificial Intelligence in Manufacturing Market research is an intelligence report with meticulous efforts undertaken to"
+    publishedDateTime: 2022-04-12T10:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-to-witness-massive-growth-by-2029-ibm-sas-sap-se"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "yYBJnHCxBaTwgKtTWChhbNQm7c60c7A183jH3BWeTgCRTOTk22cM03jN7g+Db4svQG8+5YNx1INU6kSwbJc3dGjjT1puDEtr9+p3ewHR/8d4ethGoNTC8kiPXJcBAPe0aUSMsXSjJIUkE8hHdtUhAJPEFRsCAyXNTaInxScZ+jpxxqJzFqhgFHmQBqfbziSp/rC9L/W8/CU5T03adgcWepKfkY0FzrWWC/3Wbn+i0fUc415O5YTzSFjzBYPPXSmfYQr7f62gHttwZHYkqhbSn0YR3oANoJcopYndomhygWZwYmXgNvgOxiBSB6BvebP0ai0DWQPK4aPMCzkfvYVPCBY6niTcQLx1soNgW60bBk+iQR+5EbQgPsxdmCLzJtSx3zSbhVWZyZfc0YCM6Q9Z61EqkuZqQueXdPbhEZW2swedktxpQbcRxwX3gbi5F0Cdzeoyl6HD7xJF1+AWjIl47KuyooP9MyUB09OhEbEcOS8uGzPFKMagyKKXHY3Msalb1sd1ZUl6wS4r6SbjARAziw==;9ysrCt/JwjghAchwAgpfzQ=="
 ---

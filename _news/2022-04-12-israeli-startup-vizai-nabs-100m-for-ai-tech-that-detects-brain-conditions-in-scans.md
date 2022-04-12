@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-a
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "Viz.ai Raises $100M in Series D Funding"
-    excerpt: "Viz.ai, a San Francisco, CA, and Tel Aviv, Israel and -based AI-powered disease detection and care coordination platform, raised $100m in Series D funding round at a $1.2 billion valuation"
-    publishedDateTime: 2022-04-07T17:52:00Z
-    webUrl: "https://www.finsmes.com/2022/04/viz-ai-raises-100m-in-series-d-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 17
 
 secured: "LM1qL9mNbyHKJ0/uIc/rpT4sYn6R+nZcO9NhvAFgbsgwkegLhODBFoG+6ZukuSwyvwwfYCrmetVw0rU3pI19QRuy+SB0MEMIDNEk5Re/6a+weERR9riDpIGjnVUeHrCli91hRUVCPLyHRRF5fNnfKWsS+EMCxTIGjC5MgJNobTZ0F85Fr//YcmLD+l/H+99HVfNOme1YACxpAouAJcFVLAYYEEwmNl+bAXNdMF1zEEmV/0o6nkFvI1K5ckFxpi2b2Pw1Hr9dkZbbmGbXoNfS4sGBe8sv/vagukDrD6BB4ouYUlk+y8VlXIAAywbtjtYJNR7qoATBdp+cwrta/2Agd/3zOZJl9mBdfO7SGpnX/juyDlig3E4AU5vFVJnGLVnDf4ZwKZ4Hcu8IjIiziv3yhKew7vFiLeSjil5IV828phBl/8XwaEX9vWuGgukLnjI06L0yKF05Lhl+m/HBahBd2Nwq3p9a8dvEh964xjG91JeCesYt+rzsZEaYePY5BFHsP32wsmH4KNrcG9Us6PcdAA==;BU2XlMuVRQKw5Yv41WYHPw=="
 ---

@@ -41,16 +41,16 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Germany's Bosch buys British automated driving startup Five"
-    excerpt: "Bosch said Five, which is based in Cambridge and employs 140 people at six locations in the U.K., currently focuses on a cloud-based development and testing platform for the software used in self-driving cars. Bosch board member Markus Heyn said the ..."
-    publishedDateTime: 2022-04-12T09:42:00Z
-    webUrl: "https://www.registercitizen.com/news/article/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
-    ampWebUrl: "https://www.registercitizen.com/news/amp/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
-    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Germany-s-Bosch-buys-British-automated-driving-17074407.php"
+  - title: "Germany’s Bosch buys British automated driving startup Five"
+    excerpt: "German auto parts and technology company Bosch says it is buying Five, a British automated driving startup, for an undisclosed amount. Bosch said Five, which is based in Cambridge and employs 140 people at six locations in the U."
+    publishedDateTime: 2022-04-12T11:51:00Z
+    webUrl: "https://kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/"
+    ampWebUrl: "https://kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/?amp"
+    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/business-news/germanys-bosch-buys-british-automated-driving-startup-five/?amp"
     type: article
     provider:
-      name: The Register Citizen
-      domain: registercitizen.com
+      name: KSTP
+      domain: kstp.com
     quality: 24
 
 secured: "lnSzP5hoOMsGEHP3GLmE3zZzyTKpcHuryLJwofNfIEWm9GRKlGzhqlTYzC75i1CvBCwfUV4dyR0rT9NykMDUXxBJVL8zh9H3W66YilkCaOTvcddNEmKlCBuviyFIWahajCUdDx4CV5B9E0FQSHsHMfqhmHJG83Lcq1yZxY3sXox786lHNn9GrXXe+oKPS5biTayFNRZGIbcP3F47Z2zYDyrz69wSKcJMyG/gCJDm+R3TFw9XtX0/pQQwrBJSuRmVHXfa0hsgzo95SnXOzTIdzJarJdKS1WonnTuqxk+UaIn3q0vHTPQ5DCP1hAFa1GftQWnDJSvZR90sf/qDUiLI9AEN9ltqukRV6W7z7woLkiVxDDLGtsLmTNMebMIZYSDRKgv3GHliuDAFbjWOHr9BspWwh/Pwfq7M+4jDzsIQrJvO0k1DEgYy50R9k+eHdL/9Z2r0cowNKbL1DzFCBu3NwMYDxabO/ZK4nDLW/0mAs73KxThALdlsR1VrvRwFMU173pFmHgvXbKwsQ5c13Qp5Wg==;KjSQwLgSR6BX/UgjYS4zew=="
