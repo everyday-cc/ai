@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T12:40:00Z
 originalUrl: "https://www.electropages.com/blog/2022/04/ibm-announces-new-z16-mainframe-using-telum-processor"
 webUrl: "https://www.electropages.com/blog/2022/04/ibm-announces-new-z16-mainframe-using-telum-processor"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Electropages

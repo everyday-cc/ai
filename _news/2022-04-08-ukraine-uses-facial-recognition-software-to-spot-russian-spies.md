@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/world/ukraine-uses-facial-recognit
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 668
         height: 376
         isCached: true
+  - title: "Ukrainians Use Drones, Facial-Recognition Software as They Investigate Alleged War Crimes"
+    excerpt: "BUCHA, Ukraine—Searching for evidence in the killings of hundreds of people by Russian troops here, Ukrainian prosecutor Ruslan Kravchenko unlocked the double doors leading to a boiler room on the south side of town. The space had been used as an office ..."
+    publishedDateTime: 2022-04-12T13:04:00Z
+    webUrl: "https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 40
   - title: "Kabul Establishes Diplomatic Ties with Russia, Bidding Formal Recognition"
     excerpt: "The Islamic Emirates of Afghanistan in its bid for formal recognition established diplomatic ties with Russian government, adding up to the list of at least four other neighboring countries who have previously accredited the Taliban-appointed diplomats."
     publishedDateTime: 2022-04-11T13:47:00Z

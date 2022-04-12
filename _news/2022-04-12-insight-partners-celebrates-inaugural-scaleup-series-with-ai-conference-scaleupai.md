@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T03:04:00Z
 originalUrl: "https://www.khon2.com/business/press-releases/cision/20220411NY21970/insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleupai/"
 webUrl: "https://www.khon2.com/business/press-releases/cision/20220411NY21970/insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleupai/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: KHON2

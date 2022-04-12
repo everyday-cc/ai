@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-sel
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp"
 type: article
 quality: 74
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -63,6 +63,31 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "NASA's Record-Breaking Mars Rover Is Way Better At Self-Driving Than Earth Cars"
+    excerpt: "You generally want your $2.4 billion mission to go as smoothly as possible, and its a testament to the kind of careful engineering that can go into self-driving technology that we trust it enough ..."
+    publishedDateTime: 2022-04-12T15:03:00Z
+    webUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123"
+    ampWebUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 40
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/889b177f737fdb67ad2425b0e3629278.jpg"
+        width: 800
+        height: 435
+        isCached: true
+  - title: "Video shows self-driving taxi pulled over by confused police officers"
+    excerpt: "The autonomous vehicle pulled over by police was a Chevy Bolt operated by Cruise. San Francisco Police Department (SFPD) officers pulled over the Cruise vehicle as it did not have its lights on. The autonomous vehicle responded as expected, pulling over ..."
+    publishedDateTime: 2022-04-12T13:21:00Z
+    webUrl: "https://www.tweaktown.com/news/85554/video-shows-self-driving-taxi-pulled-over-by-confused-police-officers/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
 
 secured: "HhBEMAwFaXJJpGkkCHRjnxTVu3LqIqYv6OkUPAtYIwC3dW8jypU8cHFZiWYBuEvKJFotLSTnNmJ8JvaQ/L400THsfKPlmitLJTonoHzFB08k7CKLLWrT0Acg49AM9ka/CHH7zgkB1UavhlYIBUSOY7gfMVFgUOGOquqB13FVk1241yX8V0AokR+azENIpJadeZ8oqePuD0XXuNJyfzkfyp+/s/Ff+29kmpdAi1cNlpk+Y05HKWwvcoCU2txxZ1ysT57pO7WdbxEm77TRMeG1HQ057ZAVIxjYeaM+05qilFKjwxtSxYQ00Vg6/iSboaBXLmDdsSPMBeaBr+vkwj0GeygppBuS4t+ZI7/IGy0CHH9rSQbZk1RUeU1/O3MrE4OW0oXqyNJROUOk/mlIlp8SonFDt3Y9xbnRX2S/tc+ZscjQeoS2lJTLkcFh1NetYd/PStBUUiI11P9SbW+3OifNBw30Rd1zAnLF7ko0foFjzRIf8MreJqivYCIQhK+zUHyDPAc6y+QaG6Dnco7IoTjIVA==;BX1HeyrMtE725A07QFa+vw=="
 ---

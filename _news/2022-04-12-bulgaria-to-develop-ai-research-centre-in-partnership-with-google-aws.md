@@ -7,7 +7,7 @@ originalUrl: "https://www.intellinews.com/bulgaria-to-develop-ai-research-centre
 webUrl: "https://www.intellinews.com/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       name: SeeNews
       domain: seenews.com
     quality: 29
+  - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
+    excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
+    publishedDateTime: 2022-04-12T12:04:00Z
+    webUrl: "https://menafn.com/1103998828/Swiss-expertise-supports-Bulgarian-artificial-intelligence-centre&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "7qlYm8cxIvxiyQesMm2na//X7mcB5ZiMXzqoLkw4qLvH3DPcVtOIZ1r03+1SdWoWLt0vzCgR7XESIBuBU5clHEVJXjT2D7bWjekp4JXEhF/+OoTW9aarSbw2m+9IaoFwJjnMtR3Z5iNPnTvXCdOr0QSSGr9gykM5HTrIVUId/BbSn3O5PreaK9kjav0rPExWVl8ERBQIEW3nbPUbfrTBHpt2MUM09Ybq4nnFEj5v3nSYyAb/StbbFQ2N1qptp8uWlO0B5tMVhEwuSHGwwWG5ywji06Ac5vlz4RmVmhaVWuJNsdRPy9edS+H3sRljrYRbd1QOLjFSR3+xgBK1dFISwj2vzlmfQas/S9nk/tpNzwivRdKRVWwcn7/kZ82s3isSvz3etbiHfd2k8Ecp5ewQr+Ffy9cWbTH0YBJFAcdRYfkIjzC/XnuRgxknCI0LD9veCkEA2bAt1l26DzLCjqZBuzzzXcx5c5lj84qLGWEK6d/HRfpCm/+JJ2/q7CVncmTUmjEuCyyeDkQJ2SY3evnoqg==;UguCXeORDxiId0yrBCZTUg=="
 ---

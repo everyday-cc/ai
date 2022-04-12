@@ -43,6 +43,22 @@ related:
         width: 746
         height: 579
         isCached: true
+  - title: "Machine learning predicts conduct disorder in kids"
+    excerpt: "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy."
+    publishedDateTime: 2022-04-12T14:39:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-disorder-kids.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-disorder-kids.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rowdy-children.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Artificial intelligence model could predict side effects resulting from new combination therapies"
     excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
     publishedDateTime: 2022-04-09T00:54:00Z

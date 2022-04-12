@@ -50,6 +50,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Who are Beatoven.ai? Meet India’s first and only AI-backed music tech start-up"
+    excerpt: "Beatoven.ai is India’s first and only AI-backed, new age, web-based disruptive music tech start-up that provides a platform for music composers and content creators to help them create royalty-free, affordable, easy to license, exclusive music."
+    publishedDateTime: 2022-04-12T12:32:00Z
+    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/who-are-beatoven-ai-meet-india-s-first-and-only-ai-backed-music-tech-startup-101649761910476.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 13
 
 secured: "PCCYmZDWOEAjVOf6whdtDEyYiQk1TWYZeFwNvPT1p/vvudusgr0zKfK0wLPA/qy2oDVW3GXgiGwuxTDTo1Hug5ddPljgsZF83dc9MJBma2j7LZbbpTLB0iRw3m5GOWO30GRQCVmfoVOlINbMszZFkmhowqH8HD2DwXpiXF8OUWHh55uOcXonhqMiMeKw1jISDGiX6YD2RlgVZks++hIoPIyDN6jc36ISk5Sw0nF1UBiYtea//SfvM2tLOKkI+D2Iul679RwNGATMlzskut3LPJIuZXiatW2tQW+wyh8uyC/lcqaf8ciNahxovKiJHFgHgeYt4JzfxLjt2p+0igI+WYQNUXTdURVY+gwJHPh7FYB3WJEtzZZChOsq3gCVgVc4hhGWdU9c8Al7WbuNG4AnnLxw+VJGOFdLQQ2sxRgGkWQv0yEfkaxfSIdOeeZy9BAAbroqf7nHOocl639xhrVr8GtZGnEvoMLz0EuFoanR4sBbWNtx4JFY576Rxww86nM7PbXzWEth/lLN4pyWtiL6+Q==;+KskdLNj9hE08zFm9NI3tQ=="
 ---

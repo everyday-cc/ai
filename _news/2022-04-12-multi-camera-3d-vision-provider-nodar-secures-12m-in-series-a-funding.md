@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T12:06:00Z
 originalUrl: "https://venturebeat.com/2022/04/12/multi-camera-3d-vision-provider-nodar-secures-12m-in-series-a-funding/"
 webUrl: "https://venturebeat.com/2022/04/12/multi-camera-3d-vision-provider-nodar-secures-12m-in-series-a-funding/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

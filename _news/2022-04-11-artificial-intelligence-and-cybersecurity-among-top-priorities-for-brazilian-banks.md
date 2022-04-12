@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/artificial-intellig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Healthcare to increase tech spending for cybersecurity, marketing and AI"
+    excerpt: "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8."
+    publishedDateTime: 2022-04-08T21:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 70
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How AI is altering the cybersecurity automation landscape and its effect in depleting cybersecurity jobs"
     excerpt: "AI has played a crucial role in Cybersecurity automation. One of the key advantages of AI in cybersecurity is its ability to process an enormous amount of data with assembly-line efficiency that organisations use."
     publishedDateTime: 2022-04-11T10:06:00Z
@@ -40,15 +54,6 @@ related:
         width: 570
         height: 570
         isCached: true
-  - title: "Is AI Really a Threat to Cybersecurity?"
-    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-    publishedDateTime: 2022-04-07T19:55:00Z
-    webUrl: "https://www.geeksforgeeks.org/is-ai-really-a-threat-to-cybersecurity/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 17
 
 secured: "yss+/POYyMKd61DdHIECPLn5H+2/k3lueZTy/Offf4W2G1a99jdoE8cnZ7pn1q1AlK1p+7tb6l/cUT1Zurcedkyt7be/35qRZDjU35x6KJ+rfUgGH39Uvfm4/ZUEfOxJRAjuQh9S09GkUJ2TJ4kFqaTKNDT1m2T7pTac3EtDok8aMY23+BckV7LCcWdgMLuqCezCXQ49S3NZcz8b7HhrE3OimErcPlKftPTXLcqkgRkTtb/2Z/jgTl64v1ovq9YCkK4dfO8CgfoaW7ZKIigtefm7SwZiTAlZOAnJNmhKGmT2CaErbGe3ZfO9x8/W3xHcNnUzabVYgiJHPl8Qfs6EODjiUUPem6T+xa6GQc7XQvH0HRboXLSdOdY0Pjd/K8cwTIJH5zADKzEkts08xQSUcLUiqjSZ1DFsfwKYxJt6y4A6E1svri6soOoLdSyazJRlnnwK7Nz+U/ZF2YRpx5htk5atkU8GQoymjyDxVoXhAP+Bx70y8D6dOIIsLF/OceyobhNhSAKBiLlTIpZvcrX9Ug==;d+NZ+W/rPfO4WG6vIkrRsQ=="
 ---

@@ -59,6 +59,31 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "NASA's Record-Breaking Mars Rover Is Way Better At Self-Driving Than Earth Cars"
+    excerpt: "You generally want your $2.4 billion mission to go as smoothly as possible, and its a testament to the kind of careful engineering that can go into self-driving technology that we trust it enough ..."
+    publishedDateTime: 2022-04-12T15:03:00Z
+    webUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123"
+    ampWebUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 40
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/889b177f737fdb67ad2425b0e3629278.jpg"
+        width: 800
+        height: 435
+        isCached: true
+  - title: "Video shows self-driving taxi pulled over by confused police officers"
+    excerpt: "The autonomous vehicle pulled over by police was a Chevy Bolt operated by Cruise. San Francisco Police Department (SFPD) officers pulled over the Cruise vehicle as it did not have its lights on. The autonomous vehicle responded as expected, pulling over ..."
+    publishedDateTime: 2022-04-12T13:21:00Z
+    webUrl: "https://www.tweaktown.com/news/85554/video-shows-self-driving-taxi-pulled-over-by-confused-police-officers/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
 
 secured: "EzLUlo4GnV8tYCtoxMz7ODRzfgeRt2K/hNCWPgn0HmwFg6FxwbFF9vEtWS3c2Ck64AwHsp7I4jcqwNzQdnPwFG+Tw05JbKe54dqx+qL9lRJh6WH6FfVrnXDOGiBsChBPM+8odVYh9ChPIQIPJLa6DLuJKZfBEUJxmvpMiaZLxFBwrKSFkzz1ErOW0rIyes1JxKqThwn/P2YeG+VrSSrRJwYNqdXXXUoiCa1R5PZRtHuDfQV5Pd2z3uM9se9GNhTPGPYRGx78meJEsaM0hD22rzvxf5U4SaDxo6vTYXRwZWdTaG122M3L8LjCrf0pB3omCqDwpFSC1AODy7kWB7xG3EuV9quizOaF7EAMITHhzhxtx01jNSvIyyt9oqxY6nfHTBNXD8huNxWChFO+kvfHIZL4M+R81Lhsm8Y9XVcJcHOmGk0R+dORMJeArkL2MSkEijK6TQ+Y7L7T+WxaAwFhrRN+5czf8enVRo8enx1Mp69qC2c4Tx78PX01/3QAxCAXNw4/Hyoq47fkMdkrNPsQDg==;fuYldtC4FXvTSMEDkh4uKw=="
 ---

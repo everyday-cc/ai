@@ -57,6 +57,15 @@ related:
         width: 668
         height: 376
         isCached: true
+  - title: "Ukrainians Use Drones, Facial-Recognition Software as They Investigate Alleged War Crimes"
+    excerpt: "BUCHA, Ukraine—Searching for evidence in the killings of hundreds of people by Russian troops here, Ukrainian prosecutor Ruslan Kravchenko unlocked the double doors leading to a boiler room on the south side of town. The space had been used as an office ..."
+    publishedDateTime: 2022-04-12T13:04:00Z
+    webUrl: "https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 40
 
 secured: "Q6ovNR2UUyn7PBtOGLLhTKR33rAAIVcY1HpBEEDJfjp3pYHyTzJCC9C/2ZoBs9bG4b2OkO71DFJ9Q+yzEQ2TppafIGOS1iw4dTTJveXfSRIjO7kYHG99PrMCmmdGuOSsVKmjnZwSF+Wj54F6iIw5z6xHUYgsAmUFQUo3eddkN7E3eyovozGLH4oywjMfQMmfttGFelJbpDxPotWcg3f5Qje9ynaBd0fQtw3cF/RcF5Qvn4UwJAe76NM/mOqzskRoR6ni+uEqixZUZo8cBP7u3XlDv8yKtmP8m5s6PTDdPNxCR3br/+6NQN6ctQBfAYYZlnFo7AgLCH18q1uWhKpCikW/hKv6VKHfCBtqH3LaxcA=;O+RRKSqniGilzRPZ/rkxkA=="
 ---

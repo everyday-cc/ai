@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-deep-imminent-precipitations.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-deep-imminent-precipitations.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning predicts conduct disorder in kids"
+    excerpt: "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy."
+    publishedDateTime: 2022-04-12T14:39:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-disorder-kids.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-disorder-kids.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rowdy-children.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Machine learning and proteomics predict cardiovascular risk more accurately"
     excerpt: "An innovative proteomics-based model that predicts the risk of cardiovascular events with higher accuracy than current clinical models."
     publishedDateTime: 2022-04-11T01:18:00Z

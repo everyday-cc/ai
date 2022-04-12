@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T13:05:00Z
 originalUrl: "https://www.digitaljournal.com/pr/sprout-ai-announces-the-appointment-of-toni-rinow-to-the-board-of-directors"
 webUrl: "https://www.digitaljournal.com/pr/sprout-ai-announces-the-appointment-of-toni-rinow-to-the-board-of-directors"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Digital Journal

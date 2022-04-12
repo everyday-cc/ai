@@ -38,20 +38,15 @@ related:
         width: 353
         height: 249
         isCached: true
-  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
-    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
-    publishedDateTime: 2022-04-11T11:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
+  - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
+    publishedDateTime: 2022-04-12T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-marketing-market-to-hit-usd-21-bn-market-size-share-trends-analysis-and-forecast-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+    quality: 23
 
 secured: "FKDy16hPpUxkvlnvBik1mLGIRd2qeDF1bOzilHwlnZG5mTHVfFxdlBguIYtQj7PB/lpCi+hDpEeuNjxMqNJ0ChykMAT9FXWYnOuJ96EOur5ptFxDUvLCgq3YQm+aEr5Sr/u5I7lrIECpNbJbWNJEuQOjmWd8oQygEcDdYV/vCjpybJIIVfJnzsTFvJGELJpsF4/W4OhhUlE4tQmO13NVQj+htzK+wA5jrsK0afNNKTGQM9Cst2wHO8Z2BQhDYstbEoNuCc7c/jQuThi/x+xyN4GL5UBxjc3MCZTZQu9i9D1emZaZsEheQ9J0DxhvzX+c0nP09i9wNVByHX8osgsftWWKU208CIiKvZaPtjKfQ/2apv8yLrAsS2lCGaTvF7tbRRMJCwLdx7A5jAoduwCYKeH/imB487HmPg4c1mTFiIDweoh4Z2IFrXYD9gF6M53u5+pp4j0nQxUx9A7PumrcVq0jYoswpST0p9klwGyZtDHGZfmNzZLFQyhykLauEcn0OMvO1Ax69GzdtT2ItFGdgg==;uEaciJ59ZWIadL+ufzmfoQ=="
 ---

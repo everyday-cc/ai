@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T12:19:00Z
 originalUrl: "https://www.computerweekly.com/news/252515806/AI-researcher-says-police-tech-suppliers-hostile-to-transparency"
 webUrl: "https://www.computerweekly.com/news/252515806/AI-researcher-says-police-tech-suppliers-hostile-to-transparency"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

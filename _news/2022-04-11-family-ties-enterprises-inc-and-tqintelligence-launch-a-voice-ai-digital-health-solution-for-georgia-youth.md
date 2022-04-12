@@ -65,6 +65,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 16
+  - title: "Observe.ai lands $125M in funding for its intelligent call center software"
+    excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
+    publishedDateTime: 2022-04-12T11:59:00Z
+    webUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "F5ksBXu6T4gpcwhJZx2szlA3erRly6oBwWZiXr47Kj5KyZKD+cZh1A3KyeDZcYLNZZA5w5hQn1qOYQE1oXraXZIgflq9cQV0lxyxSTcsXpHGBI/B9f4ZCEeXD8TQOhyzujEeIbAZ4B3mp/3w/OoqLwsXeXMLjPl44RlCtcD2T2yHBMAa4zTg5HnpUeK67OHCt3cbMe/h0MrYepcZAcxJjUvJ7SGfDbFOvwtJo4zB/c5UIV1Fe2XskAGH8eOoYegEhwpDOR6eZeLTIELDtdvoDpjr9UtbP20IRhYBDSUNOK7Q9/x4/0tQh+bMh+KedtFGxoZHdnhlteHgMA1wu0FnSAlZghA5kLXPG4jz1zEyM6uT/caxy5q2uoXkCAG5wZ01Hv4oYrRctkhoHt3f2vhxIxsR6w2P2qHjDZgbdndq7W7JczuYMY66MKaXXnT7pqL9uyGOm5A4vtqlt2V7x29gshHjdSS/tQnWzRzc+5iwzs/l3luKNYcCTc5iKGcue0xI7UkD6wVNFPmcl1Opzo+FrQ==;DJWQNmN+MVFl9jtC8Up82A=="
 ---

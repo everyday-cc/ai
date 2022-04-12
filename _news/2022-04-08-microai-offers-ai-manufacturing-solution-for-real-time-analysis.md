@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Healthcare and Life Sciences segment to have ... MarketsandMarkets's flagship competitive intelligence and market research platform, 'Knowledge Store' connects over 200,000 markets and entire ..."
-    publishedDateTime: 2022-04-07T20:47:00Z
-    webUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-worth-3096-billion-by-2026-Exclusive-Report-by-MarketsandMarkets™"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?94765"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Server AI Chip Market, Global Outlook and Forecast 2022-2028"
     excerpt: "The global Server AI Chip market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
     publishedDateTime: 2022-04-12T04:44:00Z

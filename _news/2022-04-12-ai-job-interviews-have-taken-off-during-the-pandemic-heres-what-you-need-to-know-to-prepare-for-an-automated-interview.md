@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-12T10:37:00Z
 originalUrl: "https://www.businessinsider.com/how-to-prepare-for-ai-job-interview-2022-4"
 webUrl: "https://www.businessinsider.com/how-to-prepare-for-ai-job-interview-2022-4"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:

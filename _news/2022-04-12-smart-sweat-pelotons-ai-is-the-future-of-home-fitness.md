@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T11:37:00Z
 originalUrl: "https://www.zdnet.com/article/smart-sweat-pelotons-ai-is-the-future-of-home-fitness/"
 webUrl: "https://www.zdnet.com/article/smart-sweat-pelotons-ai-is-the-future-of-home-fitness/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet

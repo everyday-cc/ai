@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/indi
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: The Indian Express
       domain: indianexpress.com
     quality: 15
+  - title: "Who are Beatoven.ai? Meet India’s first and only AI-backed music tech start-up"
+    excerpt: "Beatoven.ai is India’s first and only AI-backed, new age, web-based disruptive music tech start-up that provides a platform for music composers and content creators to help them create royalty-free, affordable, easy to license, exclusive music."
+    publishedDateTime: 2022-04-12T12:32:00Z
+    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/who-are-beatoven-ai-meet-india-s-first-and-only-ai-backed-music-tech-startup-101649761910476.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 13
 
 secured: "HuRRxoqeNX49/RP2tHGOUaPWMnfsIg6MOJdTSutqBUs9yn/6ttegMMRjXbX5KInc3zbfGZJR05wbdjFXkmj106sOiRyswPpPEsnToY6WEr7QoYn+dyHygJH53gMSAOkuwj2dQz7+V46oHy8kSTIF2qUkOHWYMA1M9GbXIaaCDfabeSA4R/yywCsrgTvn4EhLI/pMw+PuCLsVc5aUKK1FL6cRpBmj3QDjrelNBIiwit0XZ7OECOnUBdSZz1dfLgI0zhaqHIN7kVq1I3zULbl2wM3MJux+vvzlX7w6XQ1lQc3C2UM2Hpx2ZV2U7atTaN2iqk/vMnbUxDAvUPrDAwDxLtF8rEkNt4Qf34TClbo+23w=;k4bHGkmcVuAKGMgXPg07ew=="
 ---

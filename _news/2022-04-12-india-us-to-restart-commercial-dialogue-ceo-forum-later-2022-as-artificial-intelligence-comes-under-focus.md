@@ -51,6 +51,15 @@ related:
       name: The Indian Express
       domain: indianexpress.com
     quality: 15
+  - title: "Who are Beatoven.ai? Meet India’s first and only AI-backed music tech start-up"
+    excerpt: "Beatoven.ai is India’s first and only AI-backed, new age, web-based disruptive music tech start-up that provides a platform for music composers and content creators to help them create royalty-free, affordable, easy to license, exclusive music."
+    publishedDateTime: 2022-04-12T12:32:00Z
+    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/who-are-beatoven-ai-meet-india-s-first-and-only-ai-backed-music-tech-startup-101649761910476.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 13
 
 secured: "sVwLIjXm6uz/8nN/of1Qgu+65LLugTvJB4OSrJBK0BxmHrPu3P1IU1eezRJZYMpomoAczmwWqHNJW0Bbt8JGelb562+xZ6638clqk3ECoar52xr1eoBlUpwM9TUeyOWlJIqYeWM2tD5KrCq0qYq4hYmL4nczT1NEebJvznH9wF4U8tZo47uqjK4b0TM+KSfwMlNe0pQy6lt28/OZVzR6JDMgtKWe2LiFcDypNeGSFyotiVkWjdAXQxv6z72VSH5k/tk4KuIgMXMWotD6VGiV3nRh1apGQZV8mAx4L2Y1Ay9nTXcnLG53QZPGHey5b7W5yIYBXC/AYXr2SdQmqkwMaPoUVqiuezhD1w0czDnQzR3so+225IN3RRlRmyGSQJLi8xIuooTtwguVlXoNeAOk/ME+7mlMCWqbzWbxWeoV5o9taXnBzza2fuq/pazoSnFZH2IbvxJ36iZVaudkJBnGRo1Mu7KeIZCOxYDGLuyrAt3H2Cl7et6CZbrJuCunlSBvdpPjq6f5UoRRaPXwLNZTmg==;pFDRyt/mOfAdc4AHLEo/QA=="
 ---

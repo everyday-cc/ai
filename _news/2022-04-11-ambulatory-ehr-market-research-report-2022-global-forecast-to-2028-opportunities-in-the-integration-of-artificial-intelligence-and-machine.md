@@ -66,20 +66,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI already is thinking the way we do"
-    excerpt: "Does AI perform some cognitive tasks like we do because we have made the code or is there just a right way to think some thoughts?"
-    publishedDateTime: 2022-04-07T21:54:00Z
-    webUrl: "https://www.biometricupdate.com/202204/ai-already-is-thinking-the-way-we-do"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
   - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
     excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."
     publishedDateTime: 2022-04-11T20:39:00Z
@@ -117,6 +103,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
+    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
+    publishedDateTime: 2022-04-12T12:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 12
 
 secured: "Hw2H3InT2fTOTh0gfKQ2jYuAFrqkGbMSICEJgCb2INvhzzn/BEbZizduvERdoY2grEIu8siWxoVGB5BhiDBRDoVZtyfkXVTtjAFJHGGwGNxu3bLjdAH7jC6SX4tBaQXmVa3O0bLRQ40z99pFWMzXOqiZgp0kaNUl94vrEzAHq4U89bQcEqHyByQm5IJ1j3u5HMKFWvIYzi3qFN9nDpgEdUFnWwPKtl6QPagm0ZFEz99hg3r0sGi1tsMD9tVKMzyQM5BLM5cHCbCzdYRUEVgPTLXNU8cT6uDCIom/xuNsYJmJarzL1nUOBvxtiRpMY8bm9oRNmY45nMlHWlHacWXLHXB9aDzNEs+usJdu0Hc29fk=;cDGGLSGA5kn0e5keBoAp3A=="
 ---

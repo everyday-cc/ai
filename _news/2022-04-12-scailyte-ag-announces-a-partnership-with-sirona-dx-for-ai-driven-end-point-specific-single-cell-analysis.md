@@ -60,6 +60,15 @@ related:
         width: 300
         height: 204
         isCached: true
+  - title: "Advantage Payment Services and The Bancorp Announce Strategic Partnership to Improve Dispute Management Technology"
+    excerpt: "Advantage Payment Services (APS), the leader in financial data management for top FinTech payments organizations, today announced it has entered into a strategic partnership with The Bancorp Bank, a wholly owned subsidiary of The Bancorp,"
+    publishedDateTime: 2022-04-12T12:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-advantage-payment-services-the-bancorp-announce-strategic-partnership-/2022/04/12/9581149.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "DLJrAI+7v6corNYN4kwO+SyZWvhzkek8S7SmQAJ3R2gYX9oF0tcQo08P1PduUQIQ76dXgy3ENM4OsxW8CdbPUqXPzZCJIaAp91js4184BAe4Rp0xJkX5odNd17xunqdmRHzlFJKMdH18WA0YOwnwfrGcTxte7RAU1NUg785hNiapQ+PcteVKCDN+AyF75bNDo/zK9B9Qz6IVmjbZ6q9WSnCkY/F7Ms7ok4tK87J7qgvpBvObDseRys9cTzErVU2XzHzusGfo6pP8zHsz2sTu9UcQzdDYL9PfhClEvE2J6SyQpK2TNOV++tq4xZwuXtJ2GT96frwg2VCKqUf6CZl3kn7YUNp1UEJIybNymlwDDJT7g5+aF2DkQFinFy45Z6adffAE1+a6Dsu+mBKQc2hboe0ZVKuwx/1CquCkzFwHhKT7K4oRfhk/h0oUFW0DuezVDEG0AvBXoZB19ma0gwup8Hf+C/7cSmPk63Hgh6iRasZkWJm+rHGU43STivuvxVQ0kkwrd8hHJSXyohIjyimSeA==;MhjgUHvANR41V/gJtuoO3w=="
 ---

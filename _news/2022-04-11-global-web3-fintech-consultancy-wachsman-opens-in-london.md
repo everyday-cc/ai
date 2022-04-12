@@ -24,22 +24,6 @@ images:
     height: 376
     isCached: true
 
-related:
-  - title: "Global Web3 & FinTech communications consultancy Wachsman opens in London"
-    excerpt: "From Defi to NFTs and the Metaverse, the Web3 economy has captivated investors, innovators and users alike, and London is increasingly at the forefront of this innovation. With a"
-    publishedDateTime: 2022-04-07T20:43:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/global-web3-fintech-communications-consultancy-wachsman-opens-in-london/article_6af200ae-4ee3-5a80-a924-9978d88a4d42.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-
 secured: "bB/3wY1aWi6eiLv+7ghrs+ae7s8aBBrEGbtiXpoioTsnOkK8JJ/FqjOXnGJYOtbdyzF4Ercpq2wydRQjtLAtxfAOcuI9Scm6sUTLyPz3JHiBB3+OV2mMQqP1z+LhuExHXuWGGvNa+boVSdMIC+m7WTnuLWmYk9zMD4jED+/e38bouyed6UyDwE3SB0byTMvfzfGyaqegn1aFzg4pkbB/wTkEkWfXb87nUKfsieJ8kWW6IRjZb2v0fkGO8sHtvnQX7+eZlgtDxj3x0JScbkkAB2Jn+gFttu5nM9ZWzIkfX32LRsl7BLMPDSAo2pG1GF2WqmPopfW00EJAC+dk5KF6u1Pm4RCxCHApLA3ZSKBcZh8yGIjS7XSvQthwk9XMplRRbsiq+Z8OFDTNtZ1m7jndeF7ZHaDs1vGfGUdGCcCVQcTN6b8SK6LFQntvqiexK0iorR2oiPKW5Gi43SZDaJ8ehR88cqiKVMIAJUk25O2ClWphNiPH7BdmBewB1GlkXJod559k6UmdJcDgDBkups0WtA==;c2IB/5S6tC9L4LCkSycFpQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/bosch-to-buy-automated-driving
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bosch acquires UK self-driving startup Five"
+    excerpt: "The supplier said the acquisition would help to strengthen its efforts to develop self-driving cars. Focus on Technology: Sign up for our monthly newsletter that looks at advancements in all ..."
+    publishedDateTime: 2022-04-12T14:35:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bosch-acquires-uk-self-driving-startup-five"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Bosch%20Five%20AV%20deal.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Germany’s Bosch buys British automated driving startup Five"
     excerpt: "German auto parts and technology company Bosch says it is buying Five, a British automated driving startup, for an undisclosed amount. Bosch said Five, which is based in Cambridge and employs 140 people at six locations in the U."
     publishedDateTime: 2022-04-12T11:51:00Z

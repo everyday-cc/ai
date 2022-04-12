@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democrat
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI could help enterprises to reduce data storage costs"
-    excerpt: "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center."
-    publishedDateTime: 2022-04-07T22:50:00Z
-    webUrl: "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/"
-    ampWebUrl: "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/"
+  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
+    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
+    publishedDateTime: 2022-04-11T11:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "LYOKSeN9zYq6rpEfYVeY8xHiQwkBzdhFthjzvZKR2iLrZVe5IAvFqba8z0nSb45h2M149aMr59JnLOc4I8yLh/Qgf0XiMWRpyFGq9/pwe8pVdTrQK9nVC4MdmuW3TJR5cDCJ0JhHxPIsxYJ9fU4AkSMSRk9pvvZUeQNopWWdk2AvEYhaxM6yLOw+XJXbAsoyYKvz0GXSRYy5azTjOJiOVln10vQM8ZxmjL3WkA2Qh5jmRXDpekCmretl89qP+ZSHeZ2DrZrv5bUwM4aVnx0DuFxhTPr9NVYt4j32KqdJVFEnLm/2+LMFKwu3kuOQ5ciMtZ+RL4pYPFdcvo1BXW+phyofNgY+t9fyE/Dz7cBLRVk=;POgTCr8aRfyUoe4DPM6Umg=="

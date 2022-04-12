@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Artificial Intelligence (AI) Market worth $309.6 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Healthcare and Life Sciences segment to have ... MarketsandMarkets's flagship competitive intelligence and market research platform, 'Knowledge Store' connects over 200,000 markets and entire ..."
-    publishedDateTime: 2022-04-07T20:47:00Z
-    webUrl: "https://menafn.com/1103976474/Artificial-Intelligence-AI-Market-worth-3096-billion-by-2026-Exclusive-Report-by-MarketsandMarkets™"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?94765"
-        width: 444
-        height: 250
-        isCached: true
   - title: "MicroAI Offers AI Manufacturing Solution for Real-Time Analysis"
     excerpt: "MicroAI, a provider of edge-native artificial intelligence (AI) and machine learning software, recently announced the general availability of its MicroAI Factory soft"
     publishedDateTime: 2022-04-08T11:14:00Z

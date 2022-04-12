@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-12T09:56:00Z
 originalUrl: "https://www.itproportal.com/features/12-examples-of-artificial-intelligence-in-everyday-life/"
 webUrl: "https://www.itproportal.com/features/12-examples-of-artificial-intelligence-in-everyday-life/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing.md",
+      "title": "Soft Robotics Names Paul Kling as Vice President of Global Sales and Marketing",
+      "excerpt": "... Inc.: Soft Robotics Inc. is an industry-leading and award-winning technology company that designs and builds automated picking solutions using proprietary soft robotic grippers, 3D machine perception, and artificial intelligence. The company's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/92/f92042fb-8930-5f12-91e8-4d00af8b26c4/6255868ec874a.image.jpg?crop=1362%2C715%2C0%2C402&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience.md",
+      "title": "Panera Is Testing Miso Robotics’ Artificial Intelligence System To Ensure A Consistent Coffee Experience",
+      "excerpt": "Now, the company is leveraging artificial intelligence to ensure its coffee is of consistent quality for every cup. Miso Robotics today announced a partnership with Panera to test its new product line, CookRight Coffee. Details on the scope of the test are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
       "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
       "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
@@ -45,6 +133,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-feathr-linkedins-feature-store-is-now-available-on-azure.md",
+      "title": "Feathr: LinkedIn’s feature store is now available on Azure",
+      "excerpt": "With the advance of AI and machine learning, companies start to use complex machine learning pipelines in various applications, such as recommendation systems, fraud detection, and more. These complex systems usually require hundreds to thousands of features to support time-sensitive business applications,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3a5d4b16-1ae4-45a1-8384-1e8850b083a5.png",
+          "width": 1024,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T02:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.md",
       "title": "Blu Digital unveils FAST, AVOD AI-driven ad detection software",
       "excerpt": "Blu Digital has launched what it says is the industry’s first cloud-based ad-marking software using AI and validation to enable content distributors to prepare content for monetisation to the FAST and AVOD markets.",
@@ -53,7 +193,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -95,7 +235,7 @@
       "originalUrl": "https://www.marketwatch.com/story/bosch-to-buy-automated-driving-company-five-271649749321",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -328,7 +468,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -405,48 +545,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-12-israeli-startup-vizai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans.md",
-      "title": "Israeli startup Viz.ai nabs $100m for AI tech that detects brain conditions in scans",
-      "excerpt": "and music tech startup JoyTunes. Also joining Viz.ai’s latest round were existing investors Google Ventures and California-based Scale Ventures, among others. Founded in 2016, Viz.ai developed a medical imaging platform that leverages AI algorithms and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/",
-      "originalUrl": "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2018/10/iStock-491782345-e1539594942687-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-viz-ai-nabs-100m-for-ai-tech-that-detects-brain-conditions-in-scans/amp/",
-      "publishedDateTime": "2022-04-11T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-12-aint-nobody-in-it-watch-san-francisco-police-stop-of-self-driving-car.md",
       "title": "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car",
       "excerpt": "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here.",
@@ -455,7 +553,7 @@
       "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -645,7 +743,7 @@
       "originalUrl": "https://www.intellinews.com/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -869,29 +967,38 @@
       ]
     },
     {
-      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
-      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
-      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
+      "path": "_news/2022-04-11-this-snapchat-filter-can-help-you-learn-american-sign-language.md",
+      "title": "This Snapchat Filter Can Help You Learn American Sign Language",
+      "excerpt": "Building on the hand-tracking technology that powered 2021s fingerspelling Lenses, the ASL Alphabet lens was launched in partnership with SignAll, a startup that uses AI to translate sign language in real-time. \"We're constantly working to expand the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "webUrl": "https://www.cnet.com/culture/internet/this-snapchat-filter-can-help-you-learn-american-sign-language/",
+      "originalUrl": "https://www.cnet.com/culture/internet/this-snapchat-filter-can-help-you-learn-american-sign-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c26c853ebaaf0d0d010105c4a8fa012643f8ae04/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "publishedDateTime": "2022-04-11T04:27:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/",
+      "publishedDateTime": "2022-04-11T07:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -907,6 +1014,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1052,100 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-may-help-trainee-teachers-with-assessments-study.md",
-      "title": "Artificial intelligence may help trainee teachers with assessments – study",
-      "excerpt": "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "publishedDateTime": "2022-04-10T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cops-confused-as-they-pull-over-an-empty-self-driving-car.md",
-      "title": "Cops confused as they pull over an empty self-driving car",
-      "excerpt": "In what appears to be the first incident of its kind, cops recently pulled over a self-driving car with no one inside it. A video shows what happened next",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cruise-automation.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "publishedDateTime": "2022-04-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

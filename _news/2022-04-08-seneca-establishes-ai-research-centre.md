@@ -61,6 +61,15 @@ related:
       name: SeeNews
       domain: seenews.com
     quality: 29
+  - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
+    excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
+    publishedDateTime: 2022-04-12T12:04:00Z
+    webUrl: "https://menafn.com/1103998828/Swiss-expertise-supports-Bulgarian-artificial-intelligence-centre&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "4iG/Ef/PuqAVQm/dInZN/W39t7j8w/rlpxsYbaiq/58dW1bzvoFmYgg1rfMccOGy8oZ3eORrN0I0cLPPyzz0GQdAvCN3Xgt+9+7uCjdM/gpcKYcbNTRj583mBkz69I0naZPkXt7lbTc6aFuWnBB2Y7m72fMd90fBZjG55u2rx4TyVt3vyG3mgEP55wr+aueDWlnfgW+5XQsuGypfGY/sVbiD28Xi1wackXKwFs4NBEMunjbh2dkD4TITiq0LBin+vNjLAoN8yFZ6TMPbRW/xutDHzU5yhBbWtn9eADsI224Y+CaDguKmuOO3oDiq+EZxQfLyZrVoft43FKM+wCostRVUfZ6khvIl0DaSVAn1H28=;TijamEYLFaOJGhPuNI7sfw=="
 ---

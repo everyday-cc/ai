@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Call Center AI Market Size, Share, Trends and Demand Growth to 2027 | VynZ Research"
-    excerpt: "Companies may use AWS CCI for text-to-speech, translation, enterprise search, conversational AI, transcription, and language understanding by combining AWS AI and ML-powered services. The ..."
-    publishedDateTime: 2022-04-11T20:29:00Z
-    webUrl: "https://menafn.com/1103992368/Call-Center-AI-Market-Size-Share-Trends-and-Demand-Growth-to-2027-VynZ-Research"
+  - title: "Why Enterprises Need AI Democratization"
+    excerpt: "In an ideal world, democratized AI will one day be accepted as the norm for interacting with the data universe. Click here to read more:"
+    publishedDateTime: 2022-04-08T12:14:00Z
+    webUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democratization/"
+    ampWebUrl: "https://enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/why-enterprises-need-ai-democratization/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
-        isCached: true
-  - title: "Artificial Intelligence Platforms Market Size to Grow by USD 17.29 Bn| Rise in demand for AI-based solutions to boost market growth| Technavio"
-    excerpt: "Artificial Intelligence Platforms Market is fragmented and the vendors are deploying various organic and inorganic growth strategies to compete in the market.  The growing competition in the market is compelling vendors to adopt various growth strategies such as promotional activities and spending on advertisements to improve the visibility of their services."
-    publishedDateTime: 2022-04-08T15:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-grow-usd-1729-/2022/04/08/9579737.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1782756/IRTNTR44235.jpg"
-        width: 400
-        height: 225
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Why-Enterprises-Need-AI-Democratization-01.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "hyUMkQXVgrob8/Yo4LFnegrFYwnB+yqjIpnKRRckj7pZRXDg8kMXzA4GtrYZhKljIl0inl7qq/pKdpYQI7Z5ywR2ZkM9rIiBID5LZHOa19Zqy8McwJI5xM8gL7aTgt5qTjSWcA3RKte4sXPRPnGS0IATMLTzGAITIj2Dd8vDlVCKQ2Z5v4WXJ2rF5eIWUi2X33G8KinL0fopk0KPGA8t9+xkcqSKJ7Me0gQQj3R7UiQn7pqkzDGa1g09p/Yg/A5r5o//ZEfJPeyK/gUNV8jl0hULRV9VGQI+0/zMduFLoeXw2VdJa1lA6R3eW3YPEjA0g6Vzz5xdjLmwykB42Usd/YWIVb0UmUYag1+5zxrwiZE=;Z2vqO8r8Y+RsWseiiXQorg=="

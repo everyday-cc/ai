@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-12-soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing.md",
+      "title": "Soft Robotics Names Paul Kling as Vice President of Global Sales and Marketing",
+      "excerpt": "... Inc.: Soft Robotics Inc. is an industry-leading and award-winning technology company that designs and builds automated picking solutions using proprietary soft robotic grippers, 3D machine perception, and artificial intelligence. The company's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/92/f92042fb-8930-5f12-91e8-4d00af8b26c4/6255868ec874a.image.jpg?crop=1362%2C715%2C0%2C402&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience.md",
+      "title": "Panera Is Testing Miso Robotics’ Artificial Intelligence System To Ensure A Consistent Coffee Experience",
+      "excerpt": "Now, the company is leveraging artificial intelligence to ensure its coffee is of consistent quality for every cup. Miso Robotics today announced a partnership with Panera to test its new product line, CookRight Coffee. Details on the scope of the test are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
       "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
       "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
@@ -1304,92 +1392,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-new-robotics-hub-opens-in-west-cumbria.md",
-      "title": "New robotics hub opens in West Cumbria",
-      "excerpt": "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
-      "originalUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/146899/s960_RAICo_1_Soft_Opening_GOV1.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Department of Health",
-        "domain": "www.gov.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-legal-tech-artificial-intelligence-and-robotics-in-the-legal-space.md",
-      "title": "Legal-Tech: Artificial Intelligence and Robotics in the Legal Space",
-      "excerpt": "Legal technology services, artificial intelligence and robotics are on the rise and expected to be in even higher demand in the coming years",
-      "sourceUrl": null,
-      "webUrl": "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/",
-      "originalUrl": "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.herald.ng/wp-content/uploads/2022/03/43F2C738-3662-46DF-966D-0BB1E989D49B.jpeg?fit=705%2C435&ssl=1",
-          "width": 705,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/",
-      "cdnAmpWebUrl": "https://www-herald-ng.cdn.ampproject.org/c/s/www.herald.ng/artificial-intelligence-and-robotics-in-legal-space/amp/",
-      "publishedDateTime": "2022-03-31T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "herald.ng",
-        "domain": "herald.ng",
-        "images": null,
         "publishers": null,
         "authors": null
       },

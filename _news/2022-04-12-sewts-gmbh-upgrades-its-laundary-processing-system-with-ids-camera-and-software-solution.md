@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T12:59:00Z
 originalUrl: "https://www.sourcesecurity.com/news/sewts-gmbh-upgrades-laundary-processing-system-co-12175-ga.1649735081.html"
 webUrl: "https://www.sourcesecurity.com/news/sewts-gmbh-upgrades-laundary-processing-system-co-12175-ga.1649735081.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

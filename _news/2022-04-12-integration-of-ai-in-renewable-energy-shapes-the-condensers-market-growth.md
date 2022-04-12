@@ -70,20 +70,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI already is thinking the way we do"
-    excerpt: "Does AI perform some cognitive tasks like we do because we have made the code or is there just a right way to think some thoughts?"
-    publishedDateTime: 2022-04-07T21:54:00Z
-    webUrl: "https://www.biometricupdate.com/202204/ai-already-is-thinking-the-way-we-do"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
   - title: "Scale AI moves to scale supply chain AI startups with new funding, partnerships"
     excerpt: "Scale AI has invested $24 million to support five AI projects in supply chain operations and is partnering with MaRS to support 12 Canadian AI startups."
     publishedDateTime: 2022-04-11T10:00:00Z
@@ -107,6 +93,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 17
+  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
+    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
+    publishedDateTime: 2022-04-12T12:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 12
   - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
     excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
     publishedDateTime: 2022-04-11T12:16:00Z

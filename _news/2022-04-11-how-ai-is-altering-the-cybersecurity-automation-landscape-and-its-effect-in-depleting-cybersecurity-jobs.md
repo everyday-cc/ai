@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare to increase tech spending for cybersecurity, marketing and AI"
+    excerpt: "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8."
+    publishedDateTime: 2022-04-08T21:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 70
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial intelligence and cybersecurity among top priorities for Brazilian banks"
     excerpt: "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ..."
     publishedDateTime: 2022-04-11T11:27:00Z
@@ -37,15 +51,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 61
-  - title: "Is AI Really a Threat to Cybersecurity?"
-    excerpt: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-    publishedDateTime: 2022-04-07T19:55:00Z
-    webUrl: "https://www.geeksforgeeks.org/is-ai-really-a-threat-to-cybersecurity/"
-    type: article
-    provider:
-      name: GeeksforGeeks
-      domain: geeksforgeeks.org
-    quality: 17
 
 secured: "L0MNMq5YaG/BTX68XAOcvsCMWit7sqmvUikgl+Jonftfx8+rleV1gXxMc9cDNFt9Iz5BBpbtdBptbogRKY8uqZGswD0uc3Cts3tGZpXVj/5rMx2diXp4XV9tXrjNOfz0c2abVtP3TLNJh9iOI+O2EUFm4HQX3uT5Sf2epcax6afH8qCsIIrbra3/yw+vdodpZeVP9DeXRoVIbZz4awtPqrfbwT1/eUcvkjoUgfIJVc35oWmx5+60qor2Bxi1fWVhg6xh8Y8/S77hVO28aUFmDeMqa+yXyG6F/qT0jwVyjMlQcs+PhzGy1u9ZjhWrYnBAixpEMUnkAYjr34EIKkAFr31wI5uHRyDlOpRZ7TfpEjw=;T5E7uG2nGsAELGr3RvpjIA=="
 ---

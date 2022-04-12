@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T13:01:00Z
 originalUrl: "https://techcrunch.com/2022/04/12/evolutioniq-secures-21m-to-streamline-insurance-claims-processing-with-ai/"
 webUrl: "https://techcrunch.com/2022/04/12/evolutioniq-secures-21m-to-streamline-insurance-claims-processing-with-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

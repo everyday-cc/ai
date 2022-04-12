@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bosch acquires UK self-driving startup Five"
+    excerpt: "The supplier said the acquisition would help to strengthen its efforts to develop self-driving cars. Focus on Technology: Sign up for our monthly newsletter that looks at advancements in all ..."
+    publishedDateTime: 2022-04-12T14:35:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bosch-acquires-uk-self-driving-startup-five"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Bosch%20Five%20AV%20deal.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bosch accelerates software development for automated driving with acquisition of Five"
     excerpt: "The development of self-driving cars is regarded as the ultimate discipline for automakers. As one of the world’s biggest mobility providers, Bosch is a driving force behind the progress being made in this discipline."
     publishedDateTime: 2022-04-12T07:04:00Z

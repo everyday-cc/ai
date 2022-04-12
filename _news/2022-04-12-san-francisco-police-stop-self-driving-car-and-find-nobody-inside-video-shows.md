@@ -47,6 +47,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
+    excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
+    publishedDateTime: 2022-04-12T13:09:00Z
+    webUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 38
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/12/62/22326455/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Self-driving car stopped by San Francisco police"
+    excerpt: "San Francisco police officers were faced with a new challenge after stopping an autonomous vehicle with no-one inside. Officers approached the car, operated by Cruise, because it had been driving without headlights."
+    publishedDateTime: 2022-04-12T12:36:00Z
+    webUrl: "https://www.bbc.com/news/technology-61080666?via=indexdotco"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 34
   - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
     excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
     publishedDateTime: 2022-04-12T00:06:00Z

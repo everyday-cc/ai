@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T11:02:00Z
 originalUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
 webUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
 type: article
+quality: 12
+heat: -1
+published: false
 
 provider:
   name: Daily News
@@ -13,6 +16,26 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market"
+    excerpt: "Contact centers play a key part in call a company engages with customers, amounting to what is a $400 billion market globally. Its aim, said Swapnil Jain, the CEO of Observe.ai, is to target the \"dreadful experiences\" that tend to be the norm when it comes to contact center engagements."
+    publishedDateTime: 2022-04-12T12:02:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/observe-ai-raises-125m-adding-zoom-as-an-investor-to-supercharge-the-contact-center-market/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 36
+  - title: "Zoom joins Observe.ai's megafunding as it focuses on call center market"
+    excerpt: "Zoom Video Communications Inc. made a strategic investment on Tuesday in a San Francisco startup that may help it get established in the call center market. Observe.ai, whose legal name is actually Z21 Labs Inc., helps businesses make sense of what their ..."
+    publishedDateTime: 2022-04-12T14:32:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/04/12/zoom-joins-observeais-megafunding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "G9w41Awk2xAlqcAgiZw4ofU+//rTcdXoVp48N1X5K3Of8iwVklrrDPmLYuaQv7pnGEJpW7l2XXi3fER8AW20w6OhrpePTrvKh7o8KgxAHS/6UTUSVcK5HxxScJ7COxHkRm4T82jxpnYN5m7oNCPxQBGRIqINbNweIrfK41yPH9vkdm07SSkHUW0Vttvga+yr+7DBxCRkzD4tCNhSuQHSYyKG3JyVtztAkIu7PhjoR6WVdEgMQZgKn2Wel/PvqocytQHRzWNLpA4Spc0Rumh6tUOvc7FBTKrlyEWEMDftONPWUKlpa5FCWQDo2aWpCqGFXkN+TPFsz0J4i9luAWcaKncdjBfLP1PLX5D2uQKYHGaqSIa3KPI5C8gt1i2C/F8i9wLcuEvuywAFvR3QDFD70OZykebLWFK5hlsCjrSDD8RK6yIl9meWKYV82+n+ti/Uidb+/Qw06VknceamHC5VWgQSskXSKNkI/kORcAQ+nFXx61XQXfj4SWRnnKkmcQwXC+ByNr+dGIOJj6wlFXVKLQ==;Wpw5dFYdyG7aiRV7JJOk2w=="
 ---

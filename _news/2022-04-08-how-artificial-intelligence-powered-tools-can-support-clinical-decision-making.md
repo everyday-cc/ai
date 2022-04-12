@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/08/how-artificial-intelligence-powered-tools-can-support-clinical-decision-making/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "California suggests taking aim at AI-powered hiring software"
-    excerpt: "A newly proposed amendment to California's hiring discrimination laws would make AI-powered employment decision-making software a source of legal liability. The proposal would mak"
-    publishedDateTime: 2022-04-07T22:11:00Z
-    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/07/california_ai_hiring/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/07/california_ai_hiring/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/07/california_ai_hiring/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 57
-    images:
-      - url: "https://regmedia.co.uk/2021/02/20/hiring.jpg"
-        width: 1000
-        height: 584
-        isCached: true
   - title: "Ethical hacking can improve AI bias"
     excerpt: "Ethical hackers can attack any new artificial intelligence, or to strategize on how to use it for malicious purposes."
     publishedDateTime: 2022-04-11T18:56:00Z

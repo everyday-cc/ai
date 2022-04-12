@@ -52,6 +52,15 @@ related:
         width: 295
         height: 250
         isCached: true
+  - title: "Advantage Payment Services and The Bancorp Announce Strategic Partnership to Improve Dispute Management Technology"
+    excerpt: "Advantage Payment Services (APS), the leader in financial data management for top FinTech payments organizations, today announced it has entered into a strategic partnership with The Bancorp Bank, a wholly owned subsidiary of The Bancorp,"
+    publishedDateTime: 2022-04-12T12:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-advantage-payment-services-the-bancorp-announce-strategic-partnership-/2022/04/12/9581149.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Scailyte AG Announces a Partnership With Sirona DX for AI-Driven End-Point Specific Single-Cell Analysis"
     excerpt: "The companies will create a powerful biomarker discovery engine, leveraging Sirona Dx technical and laboratory workflow solutions in combination with Scailyte's AI-driven data analytics platform ScaiVision™ to serve Biopharma and Biotech. The joint ..."
     publishedDateTime: 2022-04-11T18:49:00Z

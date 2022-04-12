@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
+    publishedDateTime: 2022-04-12T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-marketing-market-to-hit-usd-21-bn-market-size-share-trends-analysis-and-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
   - title: "Artificial Intelligence Platforms Market Size to Grow by USD 17.29 Bn| Rise in demand for AI-based solutions to boost market growth| Technavio"
     excerpt: "Artificial Intelligence Platforms Market is fragmented and the vendors are deploying various organic and inorganic growth strategies to compete in the market.  The growing competition in the market is compelling vendors to adopt various growth strategies such as promotional activities and spending on advertisements to improve the visibility of their services."
     publishedDateTime: 2022-04-08T15:45:00Z
@@ -38,20 +47,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1782756/IRTNTR44235.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
-    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
-    publishedDateTime: 2022-04-11T11:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "vrK7qUHoQdPitMPD014A0IGSr+nBO5RNCCzmtwqArr/DUq2mALzG0pdY5JpNrVGbemhtg0lrTBvXUuBv5PamxYUgYoCwxJxrxklKHJ9UJiXcF7jGYq+Xcb2hbE2JcGufqfID52pr3DGxPbBrmxCzD+vATR8dwIKD0eMJEARFtLa/1GFOm5ykKpLBX6PzL8YWqOPpsp0Y1GH0Z00krR6YrE7/FU5uPk7nRMTJ7s5g6VkoKEQ2LBrLK+gJ+t8c4/Q2Xxh/nWVMdwJLrdL6PjwER+F5vT7Bli0FrcBRoqiw33bklfUw0+7Iz4DIAM7jtUaKba2gsvR4r/4+Mm5ochRwjWAECHCOo5Z4gn8dyz7T0HM=;24CCyjtFtMET9I07QA0o2g=="
