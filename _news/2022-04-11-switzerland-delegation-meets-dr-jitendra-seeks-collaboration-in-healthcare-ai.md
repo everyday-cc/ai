@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyexcelsior.com/switzerland-delegation-meets-dr-jit
 webUrl: "https://www.dailyexcelsior.com/switzerland-delegation-meets-dr-jitendra-seeks-collaboration-in-healthcare-ai-2/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 382
     isCached: true
+
+related:
+  - title: "Switzerland to contribute to global rules on artificial intelligence"
+    excerpt: "The international community views artificial intelligence (AI) as a key technology with geopolitical implications. On 13 April 2022, the Federal Council took note of the report 'Artificial Intelligence and International Rules'."
+    publishedDateTime: 2022-04-13T08:34:00Z
+    webUrl: "https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-88019.html"
+    type: article
+    provider:
+      name: admin.ch
+      domain: admin.ch
+    quality: 17
 
 secured: "/AdDskg/2zhaMh/R9DKI0RPD5Cm/laVVSfzPShU+tXFkv/cq+KdGLQ/vm3V5iORqfY4JR8SOysm8SeWZ0pnwrijGAEcy0GLYIrywhwaQJNSMf/htKA/dqBqNz1JGITcgUQPPED5vd1Xj/U8ywEoyaVlx/uF1pcWkKedTruQXY2nPMOE9uirl9ZjDt/GnvUrbP8bvjy4+cjWB8M9eSpVDZivW83WUcMQSMgxUHoZJ7myWCsyRIwgyB/yqqYK7FeIlhMJAlW9Q57WZn/eR8AbjuiiGEDFMq6eSK0K2KDNLIPdMoI+NXZVjimG2s0Bpl8mrPXzVhL/TuAC6UETxAVQsvUW+r3tX+Jl/7AYWlUO7nIc=;v0Zu/4l2tJ/urXQ8DnQzxA=="
 ---

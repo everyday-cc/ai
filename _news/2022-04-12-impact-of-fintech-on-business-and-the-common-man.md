@@ -59,6 +59,20 @@ related:
         width: 2560
         height: 1969
         isCached: true
+  - title: "Google fund invests in Dutch fintech Payaut"
+    excerpt: "Google's AI-focus venture fund has led an €8 million seed round for Payaut, an automated payment provider for online platforms and marketplaces."
+    publishedDateTime: 2022-04-13T08:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40065/google-fund-invests-in-dutch-fintech-payaut"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/2861.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "4/3pQTdZzDDMr8UeFmQicNA7un1v9uwa53c2CM2v5jTC16kkY0lVJ2ViJIOJbMb+MytwZ0+Viv4/IUElncd1S4gw5EigXvFQZ9IQZv/ntnBRdwrzXMCSxwuULGXUqRd6OKATYB2j/e/a3lC5iB0qqO6UcEZnT4TI4TloHLGdSZAFnnDqP39BrcIecfkFVBQXeKxw6uJ3X9qZTR+gX5D2gi3xKtijBePGldJqxs7m/Z366bbIimVvgl1HJx4+bKu7bzNWlKDNiMYO0Q7AAWXsUUZmf0Uc/F7wAXmOtYXnchOPJ9BTSAqF4SJeq/cms7xq74mc40rgmSHRTfJFhrjZxGxjUtUnI9l24X7Rxw4Ywhg=;6WQn05GzGBhJH8UqmqxLkA=="
 ---

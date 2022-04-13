@@ -20,51 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Computer vision startup Spyne raises $7 million in funding round led by Accel"
-    excerpt: "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ..."
-    publishedDateTime: 2022-04-12T09:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/"
+  - title: "Swarm Robotics Expands the Possibilities for Mars Exploration"
+    excerpt: "Roboticists from Skoltech have proposed the development of two-wheeled robots controlled through swarm intelligence algorithms that can operate independently or as part of a team to complete mission-critical assignments on the surface of Mars."
+    publishedDateTime: 2022-04-13T08:20:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12887"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12887"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12887"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 71
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 74
     images:
-      - url: "https://www.thehindubusinessline.com/incoming/32t9i4/article65313925.ece/alternates/LANDSCAPE_615/Spyne%20Black%20png.png"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "Spyne Computer Vision Secures $7 Million Funding, Led By Accel"
-    excerpt: "Spyne, a deeptech startup helping businesses and marketplaces create high-quality product images and videos at scale with AI, has raised $7 million in its latest funding round. Led by Accel, the funding round also witnessed participation from other marquee investors including Storm Ventures,"
-    publishedDateTime: 2022-04-12T09:48:00Z
-    webUrl: "https://www.entrepreneur.com/article/424547"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649757062-Myproject4.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "AI Pharma Startup METiS Raises $150 Million. IPO In Sight?"
-    excerpt: "The result is a new crop of start-ups specializing in AI-assisted medical services such as AI imaging, AI robots and AI drug development, many of which are soaking up hundreds of millions of dollars in the private equity market. AI pharma companies are a ..."
-    publishedDateTime: 2022-04-12T15:51:00Z
-    webUrl: "https://www.benzinga.com/news/22/04/26596254/ai-pharma-startup-metis-raises-150-million-ipo-in-sight"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26596254"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26596254"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/metis.jpg?width=1200&height=800&fit=crop"
-        width: 900
-        height: 600
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12887_16498379157617531.jpg"
+        width: 1000
+        height: 562
         isCached: true
 
 secured: "sd703HqKBlpuT59dCS2fGFbBnB5WSbOoxhtUI5F+c9ahU0t7HKRuoXJdW9YFPo3noVW9Jtm2djzkavR7oo8dgOEWmp609yImz2LE8pyNIh9KTseeucEhB7c5QZu9NHOZ6PDIjFhdo/Kzf1y3AL0BS89Xapihwux7jsiMvtktVj48HAuFUT3OazdhZNA/Km+orekJvrc7HSr0QRh+iefWn0Rp66OfIVwNDvp9l7UXV8DDfO/vQiiKanjQuicBIzjAOwTkNdql8bX2POtEbGG0srWqXHBVGsCUF6CzwWhYh0mcf48Wt2cXfFav8KnU78m0iwn9EjwQ2viTqzO7KsehmZdoEQMrspI+xnZp8je1at4=;O1usAK4D/9S2CfZ0S6qyyg=="

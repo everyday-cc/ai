@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424530"
 webUrl: "https://www.entrepreneur.com/article/424530"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     provider:
       name: Arutz Sheva
       domain: israelnationalnews.com
+    quality: 4
+  - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
+    excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
+    publishedDateTime: 2022-04-13T09:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 4
 
 secured: "K9dcQe8J3nsBwL0sMbjrZJaZmRhQ/aJ5BhNqMPHh4yLT6ajFbL3CstK4aWCtw5CBb7WCDxzCbYuwJ9xjSeObNNKiMbdKoYPSLa4Rf4GRIX12ofNsREUgF6SfGgYLgZuRH83x9bHKyBuzYwctRtapGvqI6O82zBsXXOGlq2nUxBCx7Epx55KYK5fvtur4ePaKwKjp1Sa95ANzNWJm0gKt0FgIXkjDPULArqz5dI6SuSxAeT8FF1PbyAaQDk9NDaa5Te9eh71nsISukX5R9Gxfkz/otHkaTTuhh+i+YogcupUBjKI3eNrVWTnDapqLc/yWtMUlUIQKxHMSWP/JUxQNIpNeVm+GtE3c/ITtTBWj0aorwvxq1KsrZrKd5DzpBd6oPCzV1JHo4RFdUGCgRn//JgsHr7sLJhbDr4alyy7HqxR6+6K/I3F5+8JtJROcjmEaIF47GwMk/mq9gL+VKHPgWdMduRX8bSC4g7RMQduwG/xq6Uk0FOS3tOmBeBR/OkGniuu6wRQe7nimiI2RrVoSsQ==;f4e+K1Jq2YPQdhjvklWPxg=="

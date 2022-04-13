@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Re
 webUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Revenue-Analysis-Report-2022-to-2031"
 type: article
 quality: 56
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Sales Revenue, Emerging Technologies, and Industry Expansion Strategies 2022-2031"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Apr 13, 2022, 02:55 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 b"
+    publishedDateTime: 2022-04-13T08:36:00Z
+    webUrl: "https://menafn.com/1104005637/Facial-Recognition-Market-Sales-Revenue-Emerging-Technologies-and-Industry-Expansion-Strategies-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
+        width: 445
+        height: 250
+        isCached: true
   - title: "Robot Operating System Market Report 2021 Size, Share, Growth, Trends, and Forecast 2031 | Analysis"
     excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Robot Operating System Market that emphasizes the l"
     publishedDateTime: 2022-04-11T08:43:00Z

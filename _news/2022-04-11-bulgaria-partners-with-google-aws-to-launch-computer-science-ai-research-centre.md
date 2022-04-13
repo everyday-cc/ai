@@ -55,7 +55,7 @@ related:
     provider:
       name: emerging-europe.com
       domain: emerging-europe.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://emerging-europe.com/wp-content/uploads/2022/04/bigstock-conceptual-background-artific-22210097-1024x768.jpeg"
         width: 1024

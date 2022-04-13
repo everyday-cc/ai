@@ -61,15 +61,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Diligent Robotics Raises Over $30 Million in Series B Funding Round to Deploy Collaborative Robots to Healthcare Systems Across the Nation"
-    excerpt: "Led by Tiger Global, funding will accelerate product development to meet demand for healthcare service robot and enhance interoperability, integrations and efficiency in healthcare institutions AUSTIN,"
-    publishedDateTime: 2022-04-11T12:35:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220411DA20650/diligent-robotics-raises-over-30-million-in-series-b-funding-round-to-deploy-collaborative-robots-to-healthcare-systems-across-the-nation/"
-    type: article
-    provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 32
 
 secured: "ZhJLjLuVyOO7uX4u/LCVZqVre7+zZ5nNDgyRb1klpCLdJZQ7Ydtx/a0vZsRiKHzW8UGdJqsnpvfplQX2ZWJlcB5fk+vTNmQuEm3dMYN8dbK1Be7kyoCvOQs4Dn3AYkhdtdNFdNSP3ZuCAYxxZycBQpXAyL3+wIWQRL7jCVJ50s9Fyhc8XmAz1rNCGBERrmNZ73z1suLW405yWLM5K9sfxITit7QrcugSkXFTxopINQ+NMk0Ibf0l2lX+D3s5ztoY+QrBvFmHXSMLvonn3NgX8g2tqjtfrmw2Th2OLyEy0RLO5LPQ2Pv82x9N+K6lG/OEMHvGiPWsW3wVF9mpycEjkn7s6/d6rCV9ZLd/kX3EQYUur/m1npd/B8xACjcWDQeTyx5Lpb3Lde67r9ACDIQYHgiHeYa0VVlUjTn5QYt4G7JLdCjwUQZvL3r9cniE3A/M9xtvB14LV8cqIxKlECcDxKplZwnCeqSEDUx9SC9WIJtOsHNAv4L2iDRtEts0o93YBzGS5d/Z4wRAWamoUiXyeg==;+P1qEVi9NJQL8DIlnIpVog=="
 ---

@@ -48,6 +48,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
+    excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
+    publishedDateTime: 2022-04-13T09:49:00Z
+    webUrl: "https://galleonnews.com/news/247825/network-analytics-market-to-witness-robust-expansion-throughout-the-forecast-period/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 18
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11.jpg"
+        width: 417
+        height: 455
+        isCached: true
   - title: "BigBear.ai acquires predictive analytics software firm"
     excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
     publishedDateTime: 2022-04-11T12:32:00Z

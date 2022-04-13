@@ -47,6 +47,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Observe.ai lands $125M in funding for its intelligent call center software"
+    excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
+    publishedDateTime: 2022-04-12T11:59:00Z
+    webUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/6177e98ae775979f0654ef3b_Main-Hero-Image@4x-p-800.png"
+        width: 800
+        height: 574
+        isCached: true
   - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
     excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
     publishedDateTime: 2022-04-11T20:46:00Z
@@ -75,15 +89,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Observe.ai lands $125M in funding for its intelligent call center software"
-    excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
-    publishedDateTime: 2022-04-12T11:59:00Z
-    webUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
 
 secured: "FzpVNXVHjN8vmn1emeCOGRVC16XbNtpcmPWh0jYt2FShnhM++EJnttw+Kii5sO28yyI/x0awQlwHiGSrzKDdNotXl48idZFiL8vVfhhC9+wIH0wZVkKFZSllH4co4ktpgErZGLPh+v2QogcytSPws6YkSKOq+Dpo3gkQW4lZiBjyox0v3Cc2xovHcE4TUqpOPI20111vVdDLDT7rM/FLewRplnHkBXsr5bfO82JrhEmn682jBkY14d+UAGqhbTwhbmbEUEAD2dKzuBODbDFFZv19XBju5VX4Zf/PAKhm2e/+Njrk6U19H/k153UoV/CipsZu7rHvEqAL8RW4YQ6uLOaFc8tIjmEvJp3m+LUM7xFMmWs206d8jrcTEBDhdk4lG6ftMwv4k82cL5kRLV5XiHS1KGm4M1IQ91Bnv9RpyhEmk7S6mOPcfpbZSUcYifZcBeyX0BCuL5oKOmcx3/jx4820aOahzNqP3NzVQD1nvl+CPj53tUoDpbRbZXTaD5G5n8YB5d9AxYD/OS4eOgQWnw==;eIm5qTvz5FFEUZK91i9oNw=="
 ---

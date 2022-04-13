@@ -48,20 +48,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Platforms Market Size to Grow by USD 17.29 Bn| Rise in demand for AI-based solutions to boost market growth| Technavio"
-    excerpt: "Artificial Intelligence Platforms Market is fragmented and the vendors are deploying various organic and inorganic growth strategies to compete in the market.  The growing competition in the market is compelling vendors to adopt various growth strategies such as promotional activities and spending on advertisements to improve the visibility of their services."
-    publishedDateTime: 2022-04-08T15:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-size-grow-usd-1729-/2022/04/08/9579737.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1782756/IRTNTR44235.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
     excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
     publishedDateTime: 2022-04-11T11:41:00Z

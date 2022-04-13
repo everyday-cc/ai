@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-you
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://assets.paperjam.lu/images/articles/ai-in-financial-services/0.5/0.5/600/400/488342.jpg"
         width: 1050
         height: 688
-        isCached: true
-  - title: "AI Missing the Customer Service Mark"
-    excerpt: "Meeting customer demand is contact center job number one. As customer expectations continue to ascend higher than ever, too many operations are simply missing the mark - even with AI and automation in tow."
-    publishedDateTime: 2022-04-08T16:38:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/452066-ai-missing-customer-service-mark.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-apr/9179096467-AdobeStock_122524243_chatbots_chat_bubbles_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "6eD6/6XTsH5/IwO74c/pnSpRMwhj//zdm1aEA7TUjHWXMzmB4LOlLzf+JSN15/nfc9PGmSfHEbKRQpz/jlId2K+25o5DSPNTInTGFzUc1HbJW07AV/PfmC7QRnWhg67yfT3d2ZMZNyaXYyFygREf55/8+WixdHQEkVE5/UmNENBrPHx8qTQD4IY2+4ykgK9F34SZXRlCajuMoJ38D/4yaoaX+IEBN6fafikN/PFxLTJ8sVlomXG//z7qTpehpXw4FUhkTjQ4A7yAU3UQA49zsrazm2VFPEPn6zrilexAhgvOnnMbNDy86wm97v1Z8ZSiNMHcziTb9rkm5fxvSsapsVxNOp7AmB2xYWXIOYOLENToy1bwuYois+SpRF2O9OJl+05kX7wGyHMusrmeWBMNWOvGL8iMot+jhmOd830CPY1mO2LwAXcqrd5r4g0Ey0EDRQAbpYlT5yqtKEZaZqrwvGkG/bxKHA38daX+cfr0ZMNPyQwZPUf0MKXnJWNuud6gpBvjp90LaKtgrPoVPKleyA==;LUbH6xqPrBoBgFyJtFayVQ=="

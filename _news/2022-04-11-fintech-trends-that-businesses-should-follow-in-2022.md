@@ -63,6 +63,15 @@ related:
         width: 996
         height: 541
         isCached: true
+  - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
+    excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
+    publishedDateTime: 2022-04-13T09:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "0Da+9v4QuExNKV1CiaY5Vh2wFpKqbjTV6eD8C0m8ufgbtBeLEMvveAHr+Y8sCMb9V76Kw6Iu9QvTL/Q1b2K1CodgZEk36yoWqGy4WQh6+5+a2ovqWih2dhhiDPfjDVnFw71OXOP1+MevuknZKryhyC3/3XmLTYRXbnTeS931QDZL70xMQ4wjzW4ZBJsUxiz/QgNrmPDKjJGfI8LdgmhGZABew29bUqPSFgrRDyPlR7LuungYUnnhOpeiyrVQLLAUwqJfKbsYpne6+JTnbWKMVq791uZl5tAPlPstOySKxf3AxjaSXEd3K3svFI2c+4yorGd8+83tizmJ/Jf36tTmH5j/lxzEslLbAf1AUrIeTuRZknuITm4rqqvDTku36fUBBFOBU3frZA9ffR++q1IHuXvKKsgDZE/nwJIhOTPPlRboT1Lpmr4nvc7k4VTJypkGV+2Ktbtvxh5z0tQriXvE8Q/ZoPf8EZjNYYYsLsPMNG2plhEryB2kIzH0gINTcPWrf3NsKmg/V4mJfCZbEA85vA==;bMQCL8Vb5cMM5FEgtHwhUQ=="
 ---

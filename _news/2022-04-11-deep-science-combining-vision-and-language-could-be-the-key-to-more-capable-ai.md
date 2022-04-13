@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1267467975.jpg?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Combining AI and computational science for better, faster, energy efficient predictions"
-    excerpt: "Predicting how climate and the environment will change over time or how air flows over an aircraft are problems too complex even for the most powerful supercomputers to solve. Scientists rely on models to fill in the gap between what they can simulate and what they need to predict."
-    publishedDateTime: 2022-04-08T16:19:00Z
-    webUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-faster-energy-e.jpg"
-        width: 1500
-        height: 559
         isCached: true
 
 secured: "p6JcXbZxpjleCsFuDLuxnNNwh3ukJclHwxp6AX1p88btHnX9uLw6aOjZLf112HFySbwSh9JT0BwXCYUFkCkV+trlUM2lqzWpb+dU5o3WnkBaTT0E/D+MhgSLwJclwXKZJv9fcxF9QHnXZzRCTLCq2Ha/sDPp5tPlcI709w5JbnL/45q23fFGwLZk2/QGGrwP/UT5B2G7vSEIWvE5rpkRsHJSa50RmvkvxkfFocOReySEQo+jUtSdb1KuY1vLRhp+m5hhVmugNttuO4IXXo2Re0Hxt6LFl2YBUf9CFAsbxNQsbRfNnZfUDdoih2i7IoYYX8GveI+yRkyhOLLiMplGBNlqWrEmxRP8UYkSAh0s5uEUkVsocQvmUbxi/E413FeEVkaHxySLMRyLNPFLdxl+pFgs6+GoT4LZPxnxERA79s1OQYePrV1oO+EWv0fkJme4D3bYmBibGXPoD+ArZIjmIEMzCtkWqzP0weeXEG3XSlf2LODxnK7WKxsAWDk0mAnJJMa5SB1mpZmFFOGJk+4JOQ==;Ira/dcRtPelJvmB+0NlDfg=="

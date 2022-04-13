@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/computer-vision-start
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Diligent Robotics Raises Over $30 Million in Series B Funding Round to Deploy Collaborative Robots to Healthcare Systems Across the Nation"
-    excerpt: "Led by Tiger Global, funding will accelerate product development to meet demand for healthcare service robot and enhance interoperability, integrations and efficiency in healthcare institutions AUSTIN,"
-    publishedDateTime: 2022-04-11T12:35:00Z
-    webUrl: "https://fox59.com/business/press-releases/cision/20220411DA20650/diligent-robotics-raises-over-30-million-in-series-b-funding-round-to-deploy-collaborative-robots-to-healthcare-systems-across-the-nation/"
-    type: article
-    provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 32
 
 secured: "K71lM1gZgsS3qzwgLW/WKnrk0iVkfMW/fclZ49FjZzVuMTqDpKCFudNDwtnsJdbWrgOZROqO7YoSCQImgnk8PDYTjR1WScZ4GaAc9ZgJJ9u3fgrsy3i1mOwNuBl0R+GO0j8uYhdUhQxxFi70d7UV6XCYCfQjUqwqz4CPA15vKH8LJ5d7hofrqCqKoZo1AhsPLG5LwQihWZZ+55XKIEr9BAaSkvcfjV/RwKRnQr5d8RvhIOwQR1ZHXWKeQo9YaOvfSvSVD67iPSP4Xu48jJ/zwVzC632Cnl26aeBkbqrx4yKcK0LObUHTUGpbV+/Jvv08PC8/m5+q0VHuxcdGL/Ur34wCEzNeL+FT+YpAPyePuFbMZxwTIcEcDycX3Z8xl3AbDwBKYk0wG3QHJj9zhZzg4ksC9fm67njMz1TP5k9wxmFjM2qOBLWcS/TdLVhVBJPt13lJXyuHVikpff3OqakUfbRefVn2w7iOHCCTkqYgO+FatQkQMOFgqLGoTqGP70TCgS+n/4Eg+ifoEBtjd+z8yg==;PgGPljcZ3MY6axTY5LYPvg=="
 ---

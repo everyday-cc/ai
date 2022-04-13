@@ -38,6 +38,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Observe.ai lands $125M in funding for its intelligent call center software"
+    excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
+    publishedDateTime: 2022-04-12T11:59:00Z
+    webUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/6177e98ae775979f0654ef3b_Main-Hero-Image@4x-p-800.png"
+        width: 800
+        height: 574
+        isCached: true
   - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
     excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
     publishedDateTime: 2022-04-11T20:46:00Z
@@ -75,15 +89,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 16
-  - title: "Observe.ai lands $125M in funding for its intelligent call center software"
-    excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
-    publishedDateTime: 2022-04-12T11:59:00Z
-    webUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
 
 secured: "rahODsJOB6b84Flp4dggelohMAjCx3tFv2q7/BBu6H5+abWrF1liAO9TcjAlRC/gLuPTESoXUrOFtq3PhF3zYKePwo23ZzOPgHtES9qm0sOxPqdkTdq7TjCkO7rFboc/qw/sB7uz3EteStIs+4bgZ6Y/k56G6MWxkjZWPZZfM0YKBMnw1qAtjC6sxe9QqHb5R0JZWubZXW47T/WbPZ3Ho3LQ1sDUo5Hp1S00A+rrpqJDFJGlxY/Ly/DeuSB4gT5nT8jEHog590jC2eZR59wkZK9Ruzpx7K1eG3eJV6YPXGtzpr+kdhR/eTtuT+r9oCaTzoV84pFuvh4ebULstNICfo+pl4b2fSTB9R04Acf1r/M=;RJTiVn3QtDoQAwcCPzjSVw=="
 ---

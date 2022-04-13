@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-12T11:59:00Z
 originalUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
 webUrl: "https://siliconangle.com/2022/04/12/observe-ai-lands-125m-funding-intelligent-call-center-software/"
 type: article
-quality: 15
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/6177e98ae775979f0654ef3b_Main-Hero-Image@4x-p-800.png"
+    width: 800
+    height: 574
+    isCached: true
 
 related:
   - title: "Family Ties Enterprises, Inc. and TQIntelligence Launch A Voice AI Digital Health Solution for Georgia Youth"
@@ -84,6 +91,6 @@ related:
       domain: medgadget.com
     quality: 16
 
-secured: "0LEchydMoD/Xyu6/2B38/+6E2F9q54GzRKPaHjW8uRZsVAzdpNI7UFEeJljXdXmWpiDlhtL/KKqSswbajGKOaHiZ0o8wDFn09dFNMR5D+ILKtUAvu29Mur9pEJ2uzrjWoAJEZwW0UpexpOPuKpVdTvNknj3prU4U7GlRZ4/f7RPi9Pq0LgVJIb41nox7AhFM0Q3MvwaUBphTvPqtg5AnNAcWI8LK+F9+YqyH1tun8lZyMWO8OLSg+bmIN02mc0I4d7eTyahden4ucpnm2CTGrNqfH7gHxQsxqyMRzlou0wC/VVRnWUHNJNdhRPGWkFS+Fe4vIZSXcWgq5zjgAZYeJra5numPiCYf3TPpeTFBvDS7rOW/9SAelrmBm8I9GBafAsRhO7mUWwxtqq0O4T65bEux1rgUABCBc9HCscjGO34/OdrxBWAC6vmq8pCfXQKYbZSr0H9hEuUEai/uip9E6GBleAHap5UnnPdbMJQqpTKsbpAt0t+uG/UrTD1a6i3OZE5cOYaxCwy4V8XdGHkQRQ==;HaPNAEL5cuKvdZjSD061/A=="
+secured: "efVrZBTPYdcnwW4xYySX6pvP15XoVPhvvsE0r6DVKJnGufVznzRkMFr7dYcLpvd3eXeZBehswWXcpKUlRPJzWT1Rxa/Svk8MA4XFXsBc7B428GSrp/d2fIni1yPgi0/5U++zZUt8VKN2npcgFoaiqxKcU10o6mzipM3pt6jrX+j971V9S136iNE5rsDzNdVqtXdv8va0wy0vaVpsyDBsj8hzXbeHGBeu5i9VNsAtTppVacLP/BgcwK1RTaaiZE4KLQCguaVc7y/zkOoPyE7yNyVnKbSrQ1glP79TiZD3udPmB/hdGqGvDVkoiGU2wjO3iPqit0pZesBGL7zAPq0o4Zv9Kkf/YN0uUnUa4BCw19w=;c8HVrI0YsG22cSUo82UQ8w=="
 ---
 

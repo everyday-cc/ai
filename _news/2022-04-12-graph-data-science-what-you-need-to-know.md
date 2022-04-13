@@ -47,22 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Combining AI and computational science for better, faster, energy efficient predictions"
-    excerpt: "Predicting how climate and the environment will change over time or how air flows over an aircraft are problems too complex even for the most powerful supercomputers to solve. Scientists rely on models to fill in the gap between what they can simulate and what they need to predict."
-    publishedDateTime: 2022-04-08T16:19:00Z
-    webUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-combining-ai-science-faster-energy.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/better-faster-energy-e.jpg"
-        width: 1500
-        height: 559
-        isCached: true
 
 secured: "rcFVO5M6SuCzDxEBQq2F+oL/fEjifgWUiooZquK5CaCgB/Zv/K2rVSvwx1OKvssAPDopESFxNMH9zHnCDcIQxke3tlKBOAIz+SF4X08osnEsXPtIm0a9sTWBVu7ElhMfkMA9LzsWwHHfmfwKTtrzPy8Bs7PQ/QWIupMMf5leOaVuio6ZuI7WKblGdJYKM00ZDi7MO/nFvBf5M9wUIegboBH3rPxdGeRnOtySWIwp0RW/v/bD8gi2eQ7TU4sjqfFhxvnR6t8QxoO+1HltMtdCXm9DJmZPgfc06OqeWRs5HXHVUnDOQmco0Fxhor7dX1v6lo4dnFiPXst6XlyrxadcJewjUWZ/iGKeov3LpGzxtzI=;bf9byuyYpxg/PdLczTaoTw=="
 ---

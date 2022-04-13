@@ -42,20 +42,6 @@ related:
         width: 536
         height: 409
         isCached: true
-  - title: "AI model analyzes ‘sequence of medical records’ to predict pancreatic cancer risk"
-    excerpt: "“We all know that there have been many impressive AI models for natural language processing problems, such as translation, text to voice and text analysis. Why can’t we adapt such concept to a biomedical task?” The researchers tested the ability of ..."
-    publishedDateTime: 2022-04-08T17:00:00Z
-    webUrl: "https://www.healio.com/news/hematology-oncology/20220408/ai-model-analyzes-sequence-of-medical-records-to-predict-pancreatic-cancer-risk"
-    type: article
-    provider:
-      name: Healio
-      domain: healio.com
-    quality: 34
-    images:
-      - url: "https://www.healio.com/~/media/slack-news/hemonc/misc/infographics/hot-infographics/2022/04-april/hot0422placido_aacr_ig_web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Model Uses EHR Data to Predict Risk of Pancreatic Cancer"
     excerpt: "AI models could enable earlier detection of pancreatic cancer and improve treatment options for patients, according to researchers."
     publishedDateTime: 2022-04-11T15:15:00Z

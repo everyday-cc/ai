@@ -73,20 +73,6 @@ related:
         width: 1050
         height: 688
         isCached: true
-  - title: "AI Missing the Customer Service Mark"
-    excerpt: "Meeting customer demand is contact center job number one. As customer expectations continue to ascend higher than ever, too many operations are simply missing the mark - even with AI and automation in tow."
-    publishedDateTime: 2022-04-08T16:38:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/452066-ai-missing-customer-service-mark.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-apr/9179096467-AdobeStock_122524243_chatbots_chat_bubbles_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "nfDXB711Xobx1u9c+uhbBwxP/X5wZHH7pAtl5KrCzwQkv6BhkjeyUkv6dfFXX6tn/t36Npe9G+8pq4bdbSuKd0hjKfw7xFMg6kLS+Axu58gZgnvMJZ425q0l7Gzi4d66XHmRbQlyQ9rIW4xSBwXnvLom3fiL9NOtNO312v58q9uD4BmHOxcScON2Sa3jMsVS43qIOFKz/V6s/hQO8R59K5STswH+ie18AZWxUfwzSQdskYoM9TyCr8X7W5Kk0815JDXtlWlH4yXsApMnjC8ohbBmURny2LapG8rBaEGaSC0FvMHTD/e65fzkHpd0dd/9/yApCSEkoNOphzUwhCFykDY5Yv5Y3DrZ0AnFPFOeV7Q=;HmBu5I7j3HXZFGJjqsQ/Tg=="
 ---

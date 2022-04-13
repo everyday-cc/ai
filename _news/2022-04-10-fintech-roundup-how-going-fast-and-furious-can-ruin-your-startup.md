@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-co
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Shams-Tabrej-Financial-Expert-Founder-and-CEO-Ezeepay.-scaled.jpg"
         width: 2560
         height: 1969
+        isCached: true
+  - title: "Google fund invests in Dutch fintech Payaut"
+    excerpt: "Google's AI-focus venture fund has led an €8 million seed round for Payaut, an automated payment provider for online platforms and marketplaces."
+    publishedDateTime: 2022-04-13T08:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40065/google-fund-invests-in-dutch-fintech-payaut"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/2861.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "AC1knPG5KlyipwREW/C0D/392XOvn5A1XfNXM8iVwUOuidWfHS5Lvo+5Wnca71o4pUAXjfNFCkz4SVS0WKjcPBhhWcApnf/Kp7xksU3t/xT3RA4UDZIZnD9ViqQRwRuZoygqWZpKtvFbzPcmbxRLrUyrNTaLp50PLOjt8Npzgc5u/Bk79Pk8wr/83RsWsKcREUR/ryYLxVOluXCdlAK3KAoMotgtrVAyotZzBVFSDRoKIIHAjCmpRVAUf2pYIjwnVT9uCjNHVE4RahLvU4bxtgtEZbVbvK397R6q+gYR+bCIwgSKJpfQB6HLXm7jxXbsrBwPqnnNXAkzqXDSqG2+caWRXPgsgWR/BN8ZBZhvJc8JhgIVc6tAtkzwrQbrRjQisgeD//luKC1Z3zjwZEw/elvy6ycxdfk9WCd2XtcZ/TsyiCXDP6Q+52UoD4NUAIIKMQOjfXK1glf4DzSadvjeXPTF7Z5K1QRstDgzs09vA4BVBTZEMSgR15Lni5u2swlIPMMDPFxJP9uYUgWX2ZD0zg==;TMGojtCySpexhdrISXejgw=="

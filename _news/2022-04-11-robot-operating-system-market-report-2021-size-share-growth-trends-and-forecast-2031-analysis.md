@@ -39,6 +39,20 @@ related:
         width: 295
         height: 250
         isCached: true
+  - title: "Facial Recognition Market Sales Revenue, Emerging Technologies, and Industry Expansion Strategies 2022-2031"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Apr 13, 2022, 02:55 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 b"
+    publishedDateTime: 2022-04-13T08:36:00Z
+    webUrl: "https://menafn.com/1104005637/Facial-Recognition-Market-Sales-Revenue-Emerging-Technologies-and-Industry-Expansion-Strategies-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
+        width: 445
+        height: 250
+        isCached: true
   - title: "Military Satellites Market Growth Analysis 2022 by Top Manufacturers, Company Overview, CAGR Status, Revenue and Forecast till 2028"
     excerpt: "Apr 11, 2022 (The Expresswire) -- \"Military Satellites Market\" report compromises a wide range analysis of market dynamics like current trend,"
     publishedDateTime: 2022-04-11T05:38:00Z
