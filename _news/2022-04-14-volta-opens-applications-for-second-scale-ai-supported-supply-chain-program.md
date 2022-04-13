@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T19:49:00Z
 originalUrl: "https://betakit.com/volta-opens-applications-for-second-scale-ai-supported-supply-chain-program/"
 webUrl: "https://betakit.com/volta-opens-applications-for-second-scale-ai-supported-supply-chain-program/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: BetaKit

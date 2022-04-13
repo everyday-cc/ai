@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T19:00:00Z
 originalUrl: "https://www.cnet.com/culture/entertainment/garcelle-beauvais-explains-why-the-real-housewives-gives-women-a-voice-on-tv/"
 webUrl: "https://www.cnet.com/culture/entertainment/garcelle-beauvais-explains-why-the-real-housewives-gives-women-a-voice-on-tv/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: CNET

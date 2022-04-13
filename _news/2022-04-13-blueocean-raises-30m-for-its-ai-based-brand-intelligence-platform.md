@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-ba
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "BlueOcean nabs $30M for its AI-powered marketing analytics platform"
+    excerpt: "BlueOcean, a marketing technology startup that counts major tech firms such as Amazon.com Inc. among its customers, has raised $30 million in fresh funding. Insight Partners led the Series B funding round,"
+    publishedDateTime: 2022-04-13T19:22:00Z
+    webUrl: "https://siliconangle.com/2022/04/13/blueocean-nabs-30m-ai-powered-marketing-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "Wnh7bikrkgMo4JZG1RZrwGzVngSb32So4VlhSLLLcq8aEbLmRQmHzEx02RMaBHdAd/lrTEbvTWYYD8x37H6Y9NaDedntxgRgUswm5XpMF240MkIJuiqQsH+9Sonj9DXkX2ikwJpAKm/4l1gLgsZikfZwynvExfLXo05/gGoMm/CQLW1cWGCwfJJL8H9BcFUCulEYSNwuLOJ6P7QaH4YI9mKODOlVx+DvukC7AwuPZC+17XFe29NU3JXQ9vK5GIVAyjNQeIYbbupaVYUQqncm+s/uifbKunuPoB90AYApvnWNqkee6dvwRwrf2UYe8bwWqp194FeuS5oWIkNPvo4UEdtE5oMsAVmrtgVjxtG+mOAXISKVxqQInv8pKqd9tEy0yl9bTm77fizyq4mw3WOxWbu8btHTjTXhVF1vByvo000HYnxrD7BkJDRiHyQHuHemOKLsbNwBKwqRUUy9H0YMYVaTfoyHTVJI9LXU/Sd00ZBaJy/GmrrcFCV2tyEA2aCwqwoKkNRyppDq5TPBTkKKPw==;wvkdV+4VqB6FmfdSRSAnZA=="
 ---

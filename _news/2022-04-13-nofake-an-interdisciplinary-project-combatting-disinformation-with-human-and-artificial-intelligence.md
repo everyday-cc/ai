@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T13:16:00Z
 originalUrl: "https://correctiv.org/en/newsroom-updates/2022/04/13/nofake-an-interdisciplinary-project-combatting-disinformation-with-human-and-artificial-intelligence/"
 webUrl: "https://correctiv.org/en/newsroom-updates/2022/04/13/nofake-an-interdisciplinary-project-combatting-disinformation-with-human-and-artificial-intelligence/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: correctiv.org

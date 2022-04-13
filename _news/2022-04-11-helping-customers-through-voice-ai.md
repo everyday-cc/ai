@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424453"
 webUrl: "https://www.entrepreneur.com/article/424453"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,31 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Increasing access and equity in healthcare through AI"
+    excerpt: "While many healthcare companies have used artificial intelligence for some time now for features like machine learning interpretability required by the healthcare industry for compliance purposes, AI-based healthcare solutions also have the potential to make healthcare more affordable and more accessible,"
+    publishedDateTime: 2022-04-13T17:26:00Z
+    webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2022/03/GettyImages-1332788526.jpg"
+        width: 687
+        height: 508
+        isCached: true
+  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
+    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
+    publishedDateTime: 2022-04-12T18:26:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 3
 
 secured: "j3cjGQJDkp+O0R9pbFA6ZIB3rd0BsZ6W9elYXkcCF9c4h1Ifqtl1Wk/4Xa7uC5ISMC+G2/9BF0Ex1V0e0G7kIMjGWsNsa/vqKf83sz4JnkOgwR+O/KjANKTe5VKTUe5PC2ERR7iZ6qmkt0RqMJNSPSg1DL/cRGTGlH1btFemf5/RDPcvwQUuAWLDjgEtpxVIS8D3QwZJfVFwSjP7U9BjlxK694AjksLkCvsJKwG7gA/sz+nc5tpA/DjE/ww9e5AMV/Qg2Tdl9jYkHP/PvjoJ51M1Vgg8KLFvR+T8TyfSfuRQJ2NTqi3G1FelNrEidIry0vmdASvreEdQeGjgbk18ryRiohUfeEHlpD3VgPGgWXECMeFnigEgnxnGYPy/2yAmLdjtDwO4O26HKr3Qrxo2UP33CWC2W1Yhgls+YQuXnAsS0Au0aP5FLHA93OnZomjyD/JC3XSomJ421trV8ufRVdfmAwsMY0FjcEIWw9J3SRq70LAiHauaynVKwSqDHCCJXYNwNO/9+lp7Q8ZEtQ1PLw==;a4SpiMTH5d9/z+o5v9+vrg=="
 ---

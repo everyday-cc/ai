@@ -56,6 +56,20 @@ related:
         width: 809
         height: 607
         isCached: true
+  - title: "Automate finance and accounting with AI bots for your business and CPA firms"
+    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
+    publishedDateTime: 2022-04-13T20:00:00Z
+    webUrl: "https://www.ksl.com/article/50386299/automate-finance-and-accounting-with-ai-bots-for-your-business-and-cpa-firms"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 53
+    images:
+      - url: "https://img.ksl.com/slc/2872/287227/28722782.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "AI in financial services"
     excerpt: "Artificial intelligence stepped out of science fiction years ago and is at work in Luxembourg in insurance, financial services and fraud. Andreas Braun, director, artificial Intelligence and data science at PwC Luxembourg and Ajay Bali,"
     publishedDateTime: 2022-04-11T09:53:00Z

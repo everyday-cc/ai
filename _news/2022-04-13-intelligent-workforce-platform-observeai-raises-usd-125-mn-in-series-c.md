@@ -54,6 +54,15 @@ related:
         width: 320
         height: 240
         isCached: true
+  - title: "BlueOcean nabs $30M for its AI-powered marketing analytics platform"
+    excerpt: "BlueOcean, a marketing technology startup that counts major tech firms such as Amazon.com Inc. among its customers, has raised $30 million in fresh funding. Insight Partners led the Series B funding round,"
+    publishedDateTime: 2022-04-13T19:22:00Z
+    webUrl: "https://siliconangle.com/2022/04/13/blueocean-nabs-30m-ai-powered-marketing-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "lG9YiZ9GHB3PX9IICY1lufwPim5UlGp2uYBJzgfXXYtmY4i0YbThCgF2BKL7oxsasGzB/oJDzB/V2KOZ/lRWo1+fXr4DYrqkJr7eiEcAGMMxonBpTM79BcZ2WuvRn28nocY7OQcTgqokFeCSDlhWM5uVIXn/iZ0O9FzQPEqFdVDQn5zhl47r3Cle+0qog7mvhvQB39BQ2FLbPmPMMfLmLCcTmldEXYx6jAzaEKJMC6No1P3m6Lo5XdExs6AFD41Ww3CVm7TXlw4wq9UUDBwh3HNJ4FxMgyDyTEV5G4+2o2tnf4wUqB+WK3cL5Jv9t7R0NxDxaoftPZWdhr6gXWGnjjUhyqF8xAoex+d1k0tlmPI=;ZQcl4sWYdWabHvjC0T0rxA=="
 ---

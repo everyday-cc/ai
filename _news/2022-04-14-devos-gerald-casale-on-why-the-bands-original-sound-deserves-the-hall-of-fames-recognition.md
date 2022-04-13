@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T18:01:00Z
 originalUrl: "https://hollywoodlife.com/2022/04/13/devo-gerald-casale-rock-and-roll-hall-of-fame-interview/"
 webUrl: "https://hollywoodlife.com/2022/04/13/devo-gerald-casale-rock-and-roll-hall-of-fame-interview/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Hollywood Life

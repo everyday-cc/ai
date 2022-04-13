@@ -8,7 +8,7 @@ webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-c
 ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 

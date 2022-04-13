@@ -5,7 +5,12 @@ excerpt: "PaLM (Pathways Language Model) is the first outcome of Pathways, Googl
 publishedDateTime: 2022-04-13T01:11:00Z
 originalUrl: "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/"
 webUrl: "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/"
+ampWebUrl: "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/amp/"
 type: article
+quality: 93
+heat: 93
+published: true
 
 provider:
   name: VentureBeat
@@ -19,7 +24,14 @@ topics:
   - Natural Language Processing
   - AI
   - Google AI
+  - AI Hardware
 
-secured: "6QeKASZOkLFpXKvg/Z+Ju6hKrkHX2aTVyYZyHrKJ9XhRRP6+wHCntWFMMaWBT4lgdyi3kbzBFpuiNtMSnjwesHjTcDGtjFd1CNo4ITjSYNjcxhB8vqBdxvnLgRx8FxfrBWsESyGAD+qlEUk846l49jVKFYWA4e7tfAex6VOptJ3Qh6H9YWnqkkxVd91OhyRZ2gezldXTYquzuKlh07kMjfvyQCgT+K5xxMr8gSzxmpObu74WehGFg54mnFyRxtx3dMdGFpFVa7vtpo3P1Mgu5n60eTRYFhZ+ts/s5oxj9EoaipzaZKqxfTCsPrG4OIhBuklY8Hj706Iii25gEvO1cl8szCugpzXws4QZ6JwbZVIZ47n1s0p/+kSibDHCcP0fZKkbFUvI4JS+iW6FM2U0DbgCpQz7DwWh/ch4OqBxuTLLFNe8gKAW9k2q/89QMeof7eYesE5tf+JvI/UykFBhmMGhSmS7dcFFpe72Q6k8JYNQL8zLhdmJSVnPxbNcI6hoBSQj4/lwexXLYvQ8y3n8Ug==;DY09H9JqMFqucLNu4FFjpw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all"
+    width: 1200
+    height: 553
+    isCached: true
+
+secured: "mQs3kyTyl4f+f/qvqJnBE0ByDr3fyRH/4hnFxFy5beFrKYgyk8bUupHtDSptgm/oLoe3alDEwIax31nEoqSVlrCN1jhkTw7NeJz0dgAhPRmonLkSbhWNWBW9/gilDf5fvUe+yHQ6LtftQk5n6yU8JIyKi8y84kIVsfjOv+maA3Ff59FktPrH5DOAQdF+PMA66cC4WHWC/i0iOM4zJmSG1VkxEvbRdFQC3GPo9jcOLde9oasGsnVKshr4wR9MK9xxWsIGbOlWKwNczDt8OLjqQ1LwH8jswiJ0wnAyurDCT6mtCzyuOjMYqKyKsiaKmQA84J5GKVcCKuczXYXGDXE49wokVleugMfoB73U7QxW41I=;okTe9F1foHiT59E1Os6e3A=="
 ---
 

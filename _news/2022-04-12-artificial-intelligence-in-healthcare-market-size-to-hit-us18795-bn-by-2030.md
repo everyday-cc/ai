@@ -25,72 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "The Truth About AI In Healthcare"
-    excerpt: "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?"
-    publishedDateTime: 2022-04-09T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
+  - title: "AI in Computer Vision Market Size to hit 46.9% of CAGR by 2027"
+    excerpt: "AI in computer vision market is expected to grow from US$ 9,039.5 million in 2021 to US$ 95,080.5 million by 2027. The AI in computer vision market is"
+    publishedDateTime: 2022-04-13T14:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-to-hit-46-9-of-cagr-by-2027"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Increasing access and equity in healthcare through AI"
-    excerpt: "While many healthcare companies have used artificial intelligence for some time now for features like machine learning interpretability required by the healthcare industry for compliance purposes, AI-based healthcare solutions also have the potential to make healthcare more affordable and more accessible,"
-    publishedDateTime: 2022-04-13T17:26:00Z
-    webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 54
     images:
-      - url: "https://medcitynews.com/uploads/2022/03/GettyImages-1332788526.jpg"
-        width: 687
-        height: 508
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
-    excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
-    publishedDateTime: 2022-04-11T12:48:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-703846"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 17
-  - title: "Ransomware hits rural health centers & a true test of AI"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Ransomware is plunging rural hospitals into crisis ..."
-    publishedDateTime: 2022-04-12T17:39:00Z
-    webUrl: "https://www.statnews.com/2022/04/12/health-ransomware-rural-artificial-intelligence/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 17
-  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
-    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
-    publishedDateTime: 2022-04-12T18:26:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 3
-  - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
-    excerpt: "WELL has entered into a strategic alliance agreement with Tali.ai which allows WELL to commercialize Tali's AI technology across WELL's EMR portfolio. Tali's technology allows doctors to have a 'conversation with their EMR' to support patients with greater efficiency and deliver improved patient outcomes."
-    publishedDateTime: 2022-04-13T11:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582081.htm"
+  - title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
+    excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing digital data and increasing inclination toward the customer-centric business model."
+    publishedDateTime: 2022-04-11T08:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/11/9579974.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1794234/Artificial_Intelligence_BFSI_Market.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "AI-Enabled Testing Tools Market Is Expected To Project A Stellar CAGR of 16.9% From 2022 to 2030"
+    excerpt: "According to a latest report by Future Market Insights (FMI), global AI-enabled testing tools market revenues will grow at over 13% CAGR through 2030."
+    publishedDateTime: 2022-04-13T15:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-is-expected-to-project-a-stellar-cagr-of-16-9-from-2022-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "eTjupkcHbbWdMxMFo401Jf2bJXqzWsikYwzvJsUE+d86m7AwbTDN/e1dYr3iz30sTvQ+PMMLfRwmppiMSjow+1faESuYojf2yFSlaGzkMzYlIi+tRo+BPsh5xhihXqcG8KzuqHu+wdWbLsSpWSytIT23flgVPh/ApX8hkE1OlWSUoDDN5jKs0XWnKzMTu9wrvJIMzl5gvpccQ79N+RT8kuZIsVafZiQxPHdvvYVtkdnO32I3Sv2UVA4Bg8e2fF4xTQE+/xCIEhYFkym0PvDbg9eowfoYN0m7vEAIGPB29BGAVxxdtrW3pB8OUGVDiB1VSU/cz8mci6feoPFjYlBSRDG9jrg7OTqxbMfQGqie448=;cKoBjk8KN/3P6AjrrjW4lA=="
 ---

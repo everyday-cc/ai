@@ -7,7 +7,7 @@ originalUrl: "https://www.postandcourier.com/greenville/self-driving-vehicle-tec
 webUrl: "https://www.postandcourier.com/greenville/self-driving-vehicle-tech-company-argo-ai-investing-2-6m-for-greenville-testing-facility/article_a567436a-bb41-11ec-adbb-07e66cc3519e.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,65 @@ images:
     width: 1003
     height: 527
     isCached: true
+
+related:
+  - title: "Self-driving car maker Argo AI plans test facility in South Carolina"
+    excerpt: "A closed-course track will be built in the South Carolina Technology and Aviation Center for development and testing of self-driving auto technology."
+    publishedDateTime: 2022-04-13T19:48:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/04/13/self-driving-car-maker-argo-ai-plans-test-facility-south-carolina/7309486001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7309486001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7309486001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving car company creating test facility in South Carolina"
+    excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced on Wednesday. Argo AI’s $2.6 million investment"
+    publishedDateTime: 2022-04-13T20:00:00Z
+    webUrl: "https://www.wbtw.com/news/state-regional-news/self-driving-car-company-creating-test-facility-in-south-carolina/"
+    ampWebUrl: "https://www.wbtw.com/news/state-regional-news/self-driving-car-company-creating-test-facility-in-south-carolina/amp/"
+    cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/news/state-regional-news/self-driving-car-company-creating-test-facility-in-south-carolina/amp/"
+    type: article
+    provider:
+      name: WBTW
+      domain: wbtw.com
+    quality: 44
+    images:
+      - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/04/road-867991_1920.jpg?w=1280"
+        width: 1280
+        height: 714
+        isCached: true
+  - title: "Self-driving car company establishing test facility in Greenville Co."
+    excerpt: "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state."
+    publishedDateTime: 2022-04-13T21:17:00Z
+    webUrl: "https://www.wspa.com/news/local-news/self-driving-car-company-establishing-test-facility-in-greenville-co/"
+    ampWebUrl: "https://www.wspa.com/news/local-news/self-driving-car-company-establishing-test-facility-in-greenville-co/amp/"
+    cdnAmpWebUrl: "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/local-news/self-driving-car-company-establishing-test-facility-in-greenville-co/amp/"
+    type: article
+    provider:
+      name: WSPA
+      domain: wspa.com
+    quality: 44
+    images:
+      - url: "https://www.wspa.com/wp-content/uploads/sites/53/2022/04/GettyImages-1155294731.jpg?w=1280"
+        width: 1280
+        height: 848
+        isCached: true
+  - title: "Self-driving car company establishing test facility in SC"
+    excerpt: "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in Greenville County that was"
+    publishedDateTime: 2022-04-13T18:03:00Z
+    webUrl: "https://madison.com/lifestyles/technology/self-driving-car-company-establishing-test-facility-in-sc/article_805a3de6-0960-5c3f-b22f-99f90df86300.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 4
 
 secured: "O0OPcJu1UqUOcY33E+sqofMaEIDf9zhhpjdHoSoJkHMGPnhqNi58mKgi6zaZE+RJsaWp+3CF/LUwnCiJ2iu7fzEqYHn0isa+FEP3eynpyrvtZ3Dc9BLMLGw8KU0t4RKzuJwhBFvih6QZ/vPkRUWoDZPo6hqq4nxNrm5DfGAPSiLdLCezLLF0J9x7kQ0GhGqnSaf7iMYTw1DNvrOpVnDueTbPBrDFwE43tt8N4/s11oLj5Lty0cYs36VJ3wXpmxUWARCmtnY7Gv1ZXwxC33NW9wcB6KvpJNnF5vgRHxVwRiN+0qZnrE8K82zXQ7ZcMFMiIGzD990EsRdMOzb5ZC+3pcCy9mpzqXXqEhLovQTuHHg=;N5t1xEqRE6evX1WvQXAIcw=="
 ---

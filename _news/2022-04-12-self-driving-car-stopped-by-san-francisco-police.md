@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
-    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
-    publishedDateTime: 2022-04-12T00:10:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 58
-    images:
-      - url: "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "San Francisco police stop self-driving car – and find nobody inside, video shows"
     excerpt: "Clip prompts amusement online as car stops, then drives across an intersection, leaving police behind"
     publishedDateTime: 2022-04-11T22:15:00Z
@@ -99,6 +83,15 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
+    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
+    publishedDateTime: 2022-04-12T03:10:00Z
+    webUrl: "https://www.nbcsandiego.com/news/national-international/driverless-car-traffic-stop-san-francisco/2918086/"
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 18
 
 secured: "Tk3iGJ3J4PpiSv2v8H6XIUB8TRNNQGuqqO6+GW7xf9MkzmH+2xkwxaOogscaFJmx8J4eHUGxqvigQkEA/uD59XbNwGDxUJKFVzOAcjxvnbCow+Jd9xBog5WqLWbEHKsTDkHZO96v1c+uUMmY22lcdKPcSFkoS5ppOgNNnEa33aJLGPtCcS3WTxEHrhTbf4djJ+ggd1coTFA3NL7oogaW0ypGHnrA+pPQ/JGydIzoFx5pOkkz0viox1Cy9O11A0po78g/ctA+Xah3PKZ0ICT46weVH/rzVwfc2eu/7t1IEjSgQxiDL0iV7P50ZVLHmJU9/PpQiZzpaxyDjg8RSV2d0LDMTvv7cWEzsZSScuI6wAaj4Jp4dF2fisyYPu294SRa9rbLGvhPxJ1xjNOjpuvoh7CZnHxPs0RQJCB65krOrKyhYC6wvvOm/Ey1jm6CC+fPjnfowBOARG4TWTeMQkWogBH3JGrokavFMAGFWGVBjcb+Mq28dDh6Kg4OeCEgZMvt+TCqvVlWxVAAOO/VfdK0/Q==;Q0aKRCZGdJ8D5aBf3+Vaqw=="
 ---

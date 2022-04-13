@@ -52,7 +52,7 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 37
+    quality: 41
 
 secured: "7HtOy4Wj205FbBg9zOqY8BJDwEpZ47PYhL751qbKCE3hWGBE2HT2Qk3fETMp2zLGDyIgcj8cSLjpuPKuj4y8gZxgNA2fLx1VtMQAdsz8uaHOau3Wjs4h4+P7f1DbHvLV5Vw15zPUDLrYUu6kDoC5NA9Pvw+rnZj9Q3Fc5wXlZiV9jVAVc90nw3UdynGjRmQ1YYnJxYXBptNui2ZhOv9UHzO/1STHDB5rqX1xwAFt2QewwgQA16sjA0KMDzHAMbjF3NzysnF2cCaXIH7AGlKCnpv4aDURoAka0XCAR9d9yCWf5WpodvdVvvO42tFosK0ulbHSzBTtb1yhlcK7LxWM11f7vUP4UTELR+FOYhSTbmmUt+iYgMNIOQsIdZTEZUPl6d3dad9wWEPfs0BxXBmfMHhT13rEjhSFBAusSeQ6/j265I2Y74it2X8UerFUKsFVu7Y/at0XUlfUjnJ0Awha2PfDAiXohxy6IVR9q+YZtO6vSBDN8WLOxFt229zNL0qEOEtEUUOOuxgPoQJTObAwQQ==;HnE2A+Sm1UQffskRBHCs+Q=="
 ---

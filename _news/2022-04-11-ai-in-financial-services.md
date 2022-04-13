@@ -58,6 +58,20 @@ related:
         width: 809
         height: 607
         isCached: true
+  - title: "Automate finance and accounting with AI bots for your business and CPA firms"
+    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
+    publishedDateTime: 2022-04-13T20:00:00Z
+    webUrl: "https://www.ksl.com/article/50386299/automate-finance-and-accounting-with-ai-bots-for-your-business-and-cpa-firms"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 53
+    images:
+      - url: "https://img.ksl.com/slc/2872/287227/28722782.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "With 5G, AI at the edge promises a compute-everywhere future"
     excerpt: "Luxury auto maker Audi is driving full-throttle toward Industry 4.0, using AI inference and computer vision on the factory floor with autonomous robot welders that can react in real time and fix issues that may arise when welding the frame of a car."
     publishedDateTime: 2022-04-13T14:00:00Z

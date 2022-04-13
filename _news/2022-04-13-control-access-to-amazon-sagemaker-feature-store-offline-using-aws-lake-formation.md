@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T18:54:26Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/"
 type: article
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: AWS

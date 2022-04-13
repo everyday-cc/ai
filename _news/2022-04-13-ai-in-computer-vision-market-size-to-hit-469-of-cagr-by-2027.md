@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-siz
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-to-hit-46-9-of-cagr-by-2027"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market Size to Hit US$187.95 Bn By 2030"
+    excerpt: "The global artificial intelligence in healthcare market was valued at US$ 11.06 billion in 2021. With the introduction of the digital technologies in the healthcare sector, it has gained a rapid traction across the globe."
+    publishedDateTime: 2022-04-11T20:45:00Z
+    webUrl: "https://menafn.com/1103993606/Artificial-Intelligence-in-Healthcare-Market-Size-to-Hit-US18795-Bn-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
+        width: 353
+        height: 249
+        isCached: true
   - title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
     excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing digital data and increasing inclination toward the customer-centric business model."
     publishedDateTime: 2022-04-11T08:04:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-he
 webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: MedCity News
@@ -25,54 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Truth About AI In Healthcare"
-    excerpt: "In heavily regulated industries such as healthcare, digital innovation can be slow to progress, but when adopted correctly, can have tremendous value. What's the truth about AI adoption in healthcare and where are healthcare companies on their data and AI journey?"
-    publishedDateTime: 2022-04-09T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
+  - title: "Helping Customers Through Voice AI"
+    excerpt: "A strong passion to enhance customer experience through AI-driven automation led to the formation of AI Rudder, a voice AI technology. “Together with my co-founder, Teng Ren, we saw an opportunity from day one to build a truly international company that develops advanced voice AI technology to help businesses solve its B2C communication challenges,"
+    publishedDateTime: 2022-04-11T12:26:00Z
+    webUrl: "https://www.entrepreneur.com/article/424453"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62509539b211e17f02642cfa/0x0.jpg?format=jpg&crop=5000,2813,x0,y416,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size to Hit US$187.95 Bn By 2030"
-    excerpt: "The global artificial intelligence in healthcare market was valued at US$ 11.06 billion in 2021. With the introduction of the digital technologies in the healthcare sector, it has gained a rapid traction across the globe."
-    publishedDateTime: 2022-04-11T20:45:00Z
-    webUrl: "https://menafn.com/1103993606/Artificial-Intelligence-in-Healthcare-Market-Size-to-Hit-US18795-Bn-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
-        isCached: true
-  - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
-    excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
-    publishedDateTime: 2022-04-11T12:48:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-703846"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 17
-  - title: "Ransomware hits rural health centers & a true test of AI"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Ransomware is plunging rural hospitals into crisis ..."
-    publishedDateTime: 2022-04-12T17:39:00Z
-    webUrl: "https://www.statnews.com/2022/04/12/health-ransomware-rural-artificial-intelligence/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 17
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
     excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
     publishedDateTime: 2022-04-12T18:26:00Z
@@ -82,15 +43,6 @@ related:
       name: Joplin Globe
       domain: joplinglobe.com
     quality: 3
-  - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
-    excerpt: "WELL has entered into a strategic alliance agreement with Tali.ai which allows WELL to commercialize Tali's AI technology across WELL's EMR portfolio. Tali's technology allows doctors to have a 'conversation with their EMR' to support patients with greater efficiency and deliver improved patient outcomes."
-    publishedDateTime: 2022-04-13T11:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582081.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Ed01V4vZ954Z99Se7bzgJDZy2sELtUEsiq2Av64DkXZ13JrPeOzVrLJqiuuicgStEs5nzZMSef/6JTayxPThmCqxMwDPe71FR9uygs+7ke5ccUYHf/v8jNnhVNEAN/oTUZE1YDQCty3rbjx3nvUx7uUGxGi7jUC1Z6L9IGE1+Y4sddn8zoPX4wLxHXXzS2mkInOjqHt4rBkR+mDaqoJwt9cl1AWz/LNtO5soQf+tDlLkHZQlZvlShmPDXQPcYhYnv/jvHaSKfd26TM4H49IhIfgwKpA6JigJNSHkz3IyKRELpnLcZPUVrwglxm4uZncHb85To6rZQU5ZsqUZynJh91zJepEjW+5v3ATcQ+EjnPiOA32M4fsoi/wmUzaUE0vXe15w5pDvC9AS29CMF+r3BoSpBEGTkGl7O0s6DZJ4HEQeU/JXwfjAGcSOVpO27cqpgVsdi8JioN1mOssYyQwHxIHlbhIbsXCRnXjL9qpIUq5G9AL2d3Er7bEWBHs2dTnUBkxZ/j/cfVxKPX8gXb8Ytw==;+Rr0pE9LmmWC0tlaT4v52w=="
 ---

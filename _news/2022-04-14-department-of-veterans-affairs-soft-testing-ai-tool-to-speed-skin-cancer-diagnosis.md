@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T19:51:00Z
 originalUrl: "https://www.fedscoop.com/department-of-veterans-affairs-soft-testing-ai-tool-to-speed-skin-cancer-diagnosis/"
 webUrl: "https://www.fedscoop.com/department-of-veterans-affairs-soft-testing-ai-tool-to-speed-skin-cancer-diagnosis/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: FedScoop

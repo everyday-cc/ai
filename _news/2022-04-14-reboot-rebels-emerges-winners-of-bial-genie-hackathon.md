@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T18:53:00Z
 originalUrl: "https://www.thehansindia.com/karnataka/reboot-rebels-emerges-winners-of-bial-genie-hackathon-737955"
 webUrl: "https://www.thehansindia.com/karnataka/reboot-rebels-emerges-winners-of-bial-genie-hackathon-737955"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: The Hans India
@@ -14,6 +17,33 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Bengaluru Airport announces winners of BIAL Genie Hackathon"
+    excerpt: "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport."
+    publishedDateTime: 2022-04-13T09:48:00Z
+    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/04/13/1600x900/fahim-muntashir-F1PCLT669UU-unsplash_1649842544676_1649842564578.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Bangalore International Airport announces winners of BIAL Genie Hackathon in collaboration with Microsoft"
+    excerpt: "Bangalore International Airport Limited (BIAL) — operator of Kempegowda International Airport, Bengaluru (BLR Airport) today announced the winners of the ‘BIAL Genie Hackathon’ in collaboration with Microsoft."
+    publishedDateTime: 2022-04-13T17:15:00Z
+    webUrl: "https://technosports.co.in/2022/04/13/winners-of-bial-genie-hackathon/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 17
 
 secured: "xf7n9Ed0cQHUnPSLOuS/E5IrIWH12A0W7odmmCLtXgY0S0RY7i2zMquAwAlojuzLxhHlf1RaU5k9IT1bIOR55frcU3gkxwHj3enOi3HlnO7nCLUfBL8+wYnLP6N9wqaQLHU0xDFfQD4FMIBOs7rMSBTDVL7MgF9k68nUmhBe6c6IbHCxHDkk37QQruAIy8pQ5ue2Bvlbg5Q7ccNdx5kd19jHSFdBCx36PNUpPBOm96W3MRpLwezcldsCrHg7lbsHy/KLFmwwHfyvdZZ60lM8WNxblEN1UtYI1MDs1LF22gFIzzr/pcgJb+swZGTQt3hfVNqlC6zN1Bq8n1gxii7EKIHPvQDdhY1tz+CdSpo5RVtilV0eCIfamN4g1Hyjo/8hDDoABAwhxqi2FIz1lFfpzhbseGd4CwgYibe7FmIfcMQLYOxxsJ+5r//Ri6z/e7qLfdhDRmb9LhN200dJCPU6xyFJRf/bKPnr0xiFsM/Yd9tAiQsFHikKcrOKmvDtAmOKYoNE+tEOljqT+CK1GMOw2Q==;BRuzT5gqxrGT7SaxI3tS+w=="
 ---

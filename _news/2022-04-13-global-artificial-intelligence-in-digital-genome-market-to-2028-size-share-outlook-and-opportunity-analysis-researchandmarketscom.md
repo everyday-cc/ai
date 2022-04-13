@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets.com's offering.Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an"
-publishedDateTime: 2022-04-13T14:52:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2022-04-13/global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportun"
-webUrl: "https://www.pharmiweb.com/press-release/2022-04-13/global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportun"
+excerpt: "The “Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028” report has been added to ResearchAndMarkets.com’s offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism."
+publishedDateTime: 2022-04-13T11:52:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
+webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -99,6 +99,6 @@ related:
         height: 337
         isCached: true
 
-secured: "mWEs6t0K1bAY2KpTjzmx9lipDwgkehlM8g86LLFMJiRetuC1Aiyl4Sw/vkVx570Bm2H0mvd0w+6Q+6hBQsGWixhH0dIWovMfnNZlp17T7e2FTnz8j2Yq5Y0ncXmbgqbDdSJuvkF8ZiI3VErBLHTQjttinG4CL9dhFor3YzqhWF4iwZMR9nEi0b2ARlJ5om/nfO6tLEEaUUXn0DvYDHT8liJqT9ksRI1euLFutvZJQF4kLB2B6OCIS2Oku2PPqvfSZSNahbmk7iIS7ggCgLdljK0/AGPhuUzo2aIFkK7gzJrxQNanEN0OjoIduIwR5Ymi/o8UobgLB5fXe7LLKbDTOASxn+dE29lWrDCSpS7xZKA=;57koTztyZWiNxHMz6TJZTA=="
+secured: "vigTFXLvAU6saUpUfCAwVZRJKVzI5yRuB4PpCbIPq8Ibb3aFh1EthE08Kj6/86udRvjIrNJjKgBHSVcwWZcAx3cpmaWTQPjwV5RELlr64fChtcbjFIFJkJYW5zPMDxNpIZce1k3Bpqh/RlC8FEemWeoBxyUROIE9GQLTeJCHGAYJZfgLU4EEgMdYqxNe3Cl9IqX9Nra/7+U++XAOXSDTkvrhdGN/WXCDjyHJlQwVDOw+UdxFbOBWvi3dYZStq5KmaIljptLI+aK5/Z2szDR7tpJwGVRf2irZSpEKYQntEwkq32xywd4rwaDPse/dEfHus6pkEJqNMz1RRLEpeu17BeiDqeAEoi8+Yy1lAHt4bxE=;m284STJO8m8FZS8cLLdzkw=="
 ---
 

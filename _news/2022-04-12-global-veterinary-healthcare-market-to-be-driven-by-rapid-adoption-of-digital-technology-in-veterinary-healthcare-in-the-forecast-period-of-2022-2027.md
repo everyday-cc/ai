@@ -86,18 +86,18 @@ related:
         height: 250
         isCached: true
   - title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets.com's offering.Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an"
-    publishedDateTime: 2022-04-13T14:52:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-04-13/global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportun"
+    excerpt: "The “Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028” report has been added to ResearchAndMarkets.com’s offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism."
+    publishedDateTime: 2022-04-13T11:52:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
+      name: Associated Press
+      domain: apnews.com
     quality: 4
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZzAfKHdbVjvbjkhOy/Clz0R3JmeLlAbQcn5zR/U3BpWVRr8EZl1AGNXz+QzpMOM3STPVC7BXEausI5tX7ep/jVkFtVaJ4gITyngXpPDtpHrGCWz5CBRJx/yrUHwqnPQ+aSDdGz9aMJgPxCwJuejrvVnin4bRVV38BnGS9XW630Sgx0ldNVskHpnuyG7/yiHWqbz1wvmpcN7Pm/5nUw6JtfcxgZ6Xw+GPQ0YmRAC90Eldi6S7YCDbL0okg5wc+PZ+PFh2t1EjoKeqC3HwZy1dbcZcvnyCBj1J++JXGbZD7zLrTKKEOMpCyaS81vqPPAkW+B6kNG/Wg/c4KLeuuRMep3Xby88r1MqH8y+hOnbnWargc/i/6Y3tfug1EgquMo3eiE/RoaR6fAZKLeuTLiYy+6zE5fhc9jvjbIvr/F1C1qW1VZSCFNgrjT4dHaf5/yJSuYqAFyFNS7VsDFJ/y7Lw2EP6CMuncOASVawbN4ch8Rh+FF2cY3UMnFfdtFUxq5hjACDvBFTWbXUIxMxV853zhQ==;0/JiYYmkiysXRddBjURX9g=="
