@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai"
+    excerpt: "“I expect that to start happening as well in the next year.” (TechCrunch+ is our membership program, which helps founders and startup teams get ahead. You can sign up here.)"
+    publishedDateTime: 2022-04-12T23:19:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Bosch acquires UK self-driving startup Five"
     excerpt: "The supplier said the acquisition would help to strengthen its efforts to develop self-driving cars. Focus on Technology: Sign up for our monthly newsletter that looks at advancements in all ..."
     publishedDateTime: 2022-04-12T14:35:00Z

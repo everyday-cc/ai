@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-01-times-technology-went-straight-up-evil.md",
-      "title": "Times Technology Went Straight Up Evil",
-      "excerpt": "Technology is meant to make our lives easier, and most of the time it does. But there have been instances when technology doesn't go as planned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
-      "originalUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/times-technology-went-straight-up-evil/l-intro-1648759618.jpg",
-          "width": 1600,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-31-new-robotics-hub-opens-in-west-cumbria.md",
       "title": "New robotics hub opens in West Cumbria",
       "excerpt": "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK.",
@@ -1366,6 +1314,49 @@
       "provider": {
         "name": "Supply Chain Management Review",
         "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-ayanna-howard-makes-the-case-for-companion-robots.md",
+      "title": "Ayanna Howard Makes the Case for Companion Robots",
+      "excerpt": "The Ohio State University’s College of Engineering. Long before she became an award-winning roboticist, Ayanna Howard, Ph.D., was a Star Wars fan. While she loved watching Luke Skywalker’s battles with Darth Vader and Han Solo’s sharp commandeering of the Millennium Falcon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aaas.org/membership/member-spotlight/ayanna-howard-makes-case-companion-robots",
+      "originalUrl": "https://www.aaas.org/membership/member-spotlight/ayanna-howard-makes-case-companion-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aaas.org/sites/default/files/styles/large/public/2022-03/2%20Howard_MG_4694.jpg?itok=bi79781g",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AAAS",
+        "domain": "aaas.org",
         "images": null,
         "publishers": null,
         "authors": null

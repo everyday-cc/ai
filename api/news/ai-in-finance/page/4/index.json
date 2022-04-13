@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-15-investigation-and-security-services-global-market-report-2022.md",
-      "title": "Investigation And Security Services Global Market Report 2022",
-      "excerpt": "Machine learning enables investigation and security companies to analyze threats and responds to attacks swiftly.For instance, French insurance and financial services company AXA IT uses cyber security software from Darktrace to deal with online threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/g25631249/investigation-and-security-services-global-market-report-2022",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/g25631249/investigation-and-security-services-global-market-report-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25631249",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25631249",
-      "publishedDateTime": "2022-02-15T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-02-12-ai-fueling-the-future-of-financial-institutions.md",
       "title": "AI Fueling the Future of Financial Institutions",
       "excerpt": "Detecting Digital Frauds Per CNBC report, “digital fraud attacks against financial services companies increased 109% in the U.S during the first four months of 2021.” Fraudsters target online transactions frequently. Machine Learning (ML) and AI tools ...",
@@ -1373,6 +1329,40 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-3-beaten-down-fintech-stocks-to-buy-now.md",
+      "title": "3 Beaten-Down Fintech Stocks to Buy Now",
+      "excerpt": "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
+      "originalUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
+      "publishedDateTime": "2022-01-27T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

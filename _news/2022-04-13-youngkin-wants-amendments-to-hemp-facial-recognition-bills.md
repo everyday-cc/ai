@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Youngkin wants amendments to hemp, facial recognition bills"
-excerpt: "RICHMOND, Va. (AP) — Virginia Gov. Glenn Youngkin has proposed substantial changes to more than 100 pieces of legislation, including a measure aimed at reining in the retail sales of products ..."
-publishedDateTime: 2022-04-12T20:11:00Z
-originalUrl: "https://wtop.com/consumer-news/2022/04/youngkin-wants-amendments-to-hemp-facial-recognition-bills/"
-webUrl: "https://wtop.com/consumer-news/2022/04/youngkin-wants-amendments-to-hemp-facial-recognition-bills/"
+title: "Youngkin Wants Amendments to Hemp, Facial Recognition Bills"
+excerpt: "Youngkin is also seeking amendments to another controversial bill that would lift a ban enacted only a year ago on the use of facial recognition technology by most police agencies. The measure passed in March with an unusual bipartisan coalition of support ..."
+publishedDateTime: 2022-04-12T23:00:00Z
+originalUrl: "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/"
+webUrl: "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/"
+ampWebUrl: "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp"
+cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: NBC Washington
+  domain: nbcwashington.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://wtop.com/wp-content/uploads/2022/03/Virginia_Legislature_71511-scaled.jpg"
-    width: 2560
-    height: 1706
+  - url: "https://media.nbcwashington.com/2021/11/Generic-Marijuana.jpg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -41,7 +43,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Virginia Gov. Glenn Youngkin amends bill lifting facial recognition technology ban"
+    excerpt: "Gov. Glenn Youngkin is amending a bill that could lift a partial ban on facial recognition technology in Virginia. DANVILLE, Va. – Governor Glenn Youngkin is amending a controversial bill that could lift a partial ban on facial recognition technology in ..."
+    publishedDateTime: 2022-04-12T22:31:00Z
+    webUrl: "https://www.wsls.com/news/local/2022/04/12/virginia-gov-glenn-youngkin-amends-bill-lifting-facial-recognition-technology-ban/"
+    ampWebUrl: "https://www.wsls.com/news/local/2022/04/12/virginia-gov-glenn-youngkin-amends-bill-lifting-facial-recognition-technology-ban/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsls-com.cdn.ampproject.org/c/s/www.wsls.com/news/local/2022/04/12/virginia-gov-glenn-youngkin-amends-bill-lifting-facial-recognition-technology-ban/?outputType=amp"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 53
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/04-12-2022/t_37be3d2d630f49c195fd4d552b5fd459_name_image.jpg?_a=ATAK9d60"
+        width: 700
+        height: 394
+        isCached: true
 
-secured: "RuV36l5rELEUc7rl4tO/P9p8vLvWqxdmiiEdY+yvZYa71cYuopDuMlVSB/IZsjmtdNOHfHfAzxMXDWv8dmIg5IIkAq3xAZ8FNVxj2oYRGWouvbltwhatHSYlBai45+I2m0K+NzxH6gkR9jfyzbBBsXsed/f17KZb59wi+5qlJvWO8q39p/dsKo/uJmcv5VRXcwX8bJAXV6rPIusk+3AOutN6d87W5aUMEaaDI7st0xujaAS0HhAsx++58UnBNW7lvg+hSJy7HIKUNRakCUaBVNSpvjrhluQmZXQotFmhtsCbW2GQHwaDPL/nKutHnAhTGVzYaeNX+3h0DHY9jsRRBVccjd0m5YGTcqqQg7ASjpM=;RGazyZDszHTUw+2GWZ5KVQ=="
+secured: "bQGYvTTu3iSEghaXiAaquaAT+diyRnJfP3HcDe5zThz740xamvoeua82E0l2O7KQeC+WlabmBcCzji/cRCsQ2x6qwLWwwehN+Twmo87FqxWTwYEALjneo3B4eEYQxDzKGG/+tzEad9G69NHvJTaOCvq0nWWSCbSxof/uoZUsjCfVS5pYntoDv87HTQbQww9iALZtLlk0BgHttqTQapJ50Gum6bEomxyYNwXFtRdwfA9NoCqMFVQIxgpGbXSVCBP+VUvKmwxYPiiVdEXRNT1uNBwWBD3I+/ahBfughrgtjIwXwR41ibnN0TXUHvrpRG/psqjzbZ8xTrbeNudPRldC6pr/0msLbVUhKLW8No5L63Y=;iZijdLWW7FGFaGEQFpFnwA=="
 ---
 

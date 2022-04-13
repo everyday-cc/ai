@@ -2,6 +2,48 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-03-18-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform.md",
+      "title": "Startup Quadric Secures $21M to Advance Its Disruptive Edge AI platform",
+      "excerpt": "Quadric, the company building high-performance edge processing platform optimized for on-device AI at the network edge, this week announced a $21M Series B funding round. NSITEXE, a group company of a leading mobility supplier DENSO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/investments-and-expansions/23729-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform",
+      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/23729-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/739d77f9a9c67df18cdb344cc13ccf05.jpg?t=20220318_004635",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-artificial-intelligence-ai-in-manufacturing-market-may-see-big-move-siemens-ge-google-microsoft.md",
       "title": "Artificial Intelligence (AI) in Manufacturing Market May See Big Move | Siemens, GE, Google, Microsoft",
       "excerpt": "HTF MI introduce new research on Artificial Intelligence (AI) in Manufacturing covering micro level of analysis by competitors and key business segments. The Artificial Intelligence (AI) in Manufacturing explores comprehensive study on various segments like opportunities,",
@@ -1091,49 +1133,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
-      "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
-      "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
-      "originalUrl": "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/264405/microsoft-edge-automatic-image-descriptions-screen-readers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2022/03/Microsoft-Edge.jpg",
-          "width": 1066,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thurrott",
-        "domain": "thurrott.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

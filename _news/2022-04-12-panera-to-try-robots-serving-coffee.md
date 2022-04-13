@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Panera will test an AI coffee system from the makers of the Flippy burger bot"
+    excerpt: "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,"
+    publishedDateTime: 2022-04-12T12:34:00Z
+    webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/3c8ecfb0-b77d-11ec-bcdf-b07ad7941322"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Panera Is Testing Miso Robotics’ Artificial Intelligence System To Ensure A Consistent Coffee Experience"
     excerpt: "Now, the company is leveraging artificial intelligence to ensure its coffee is of consistent quality for every cup. Miso Robotics today announced a partnership with Panera to test its new product line, CookRight Coffee. Details on the scope of the test are ..."
     publishedDateTime: 2022-04-12T12:02:00Z
@@ -44,24 +58,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Miso Robotics Introduces CookRight Coffee Product Line"
-    excerpt: "Panera Bread is the first partner to use CookRight’s unique capabilities to monitor volume, freshness and temperature of coffee to improve the guest and team member experience."
-    publishedDateTime: 2022-04-12T12:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-0a7d1fbf8d011fea1f6d27081b0bbdc5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-  - title: "Miso Robotics Rolls Out Robotic Coffee Product"
-    excerpt: "Miso Robotics said the new product is an artificial intelligence-powered system which monitors key coffee metrics such as volume, temperature and time data, and helps Panera associates brew a new batch of coffee at \"precisely the right time\". Miso said ..."
-    publishedDateTime: 2022-04-12T13:46:00Z
-    webUrl: "https://socaltech.com/miso_robotics_rolls_out_robotic_coffee_product/s-0082381.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 34
 
 secured: "GMUbEcvz3ohvQd0su08veoxILV2EzehC10x/XM++W0tv5KTTe/HksHHY0nQQCMF5ZRsnGFnlV8F7SrGuwu/pgDlHalSLDkrKh0rJ1PQnOooo7NuZiURVl6rOmKt1HobfeOEEAMNmXKNviHQAjo8F5KIQnV4gMjB7zySkuqesw8j7G9RoJOtJfdhxEbv1KOivex7x118TPCvSmLnOO/Wh8lWcE6UZdXy6y+n3yJJucBirZH2HleXEqzKiPK/a0PJhgMq2SwfQJvvS//ZXHzh89uiRLzegJHSICFs3b4nhk9FToAwjw53fEp/xriuO+Lyi74IOc2dagbC5Fksoi8ODzCO6pXMjEJWZHgqVncpEu3g=;DKb6jb7fSHi1xhnusW9SZw=="
 ---

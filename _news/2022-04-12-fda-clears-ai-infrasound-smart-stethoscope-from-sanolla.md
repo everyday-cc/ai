@@ -39,19 +39,14 @@ related:
         height: 635
         isCached: true
   - title: "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope"
-    excerpt: "NESHER, Israel, April 11, 2022 /PRNewswire/ -- Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the ..."
-    publishedDateTime: 2022-04-11T12:20:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
+    excerpt: "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans."
+    publishedDateTime: 2022-04-11T12:00:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 22
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
+      name: FOX59 News
+      domain: fox59.com
+    quality: 2
 
 secured: "lxU5XAPY9+hUSdy3Pa5wDrQZcgkZQXZI9J7WcfmahDRKiAFTtNt2+K2nYvLz+Zo3uzq0nC1DP0XDyGAyagjW+VhK9rNXUXkXtjDShN1kjEoWw3PoYj7jxMiAaJS1FmzhHaq9KztHuwqwOvNWL9AjCtFwCKtpMileE55A7UHt+QXza2LCsICzZoLCHjSE5yr2pAhz5kz3cDUjHlUp1p5Yf4l5l95og9ax9ujQGPyykSWN9a+uu02yz+fgKtq2UoclxjJR5ijYdheJ1FxtpCltC4ubQdAf6hG5PNVSjdZNYFRyP691sKOS22XmqFfkRMMJSNgDrQSZAGiNsZoyy/g5tji8jZnbXU7bi9Ysdh+HV8CwLxo8OqvXrSDbUpIolSX0iDgSXtzLoJ0hcN3a9IyDg+dfdc+CycShY7FYpbCpdQe5RByzpLPNb+ZSq2fak+qrfZ6/kAi4GDuH3fawZT009e5yLbRsSGtBA1RUcYI6WCqGr/vylQddik0Bc6aEe+rp5eA/c7ihDW+hmGkiBcsELg==;TViNKx1q0K/qOy4ZzWYLJA=="
 ---

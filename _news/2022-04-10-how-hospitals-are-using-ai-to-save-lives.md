@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
 type: article
 quality: 87
-heat: 110
+heat: 107
 published: true
 
 provider:

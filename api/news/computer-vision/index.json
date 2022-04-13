@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-13-youngkin-wants-amendments-to-hemp-facial-recognition-bills.md",
+      "title": "Youngkin Wants Amendments to Hemp, Facial Recognition Bills",
+      "excerpt": "Youngkin is also seeking amendments to another controversial bill that would lift a ban enacted only a year ago on the use of facial recognition technology by most police agencies. The measure passed in March with an unusual bipartisan coalition of support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/",
+      "originalUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcwashington.com/2021/11/Generic-Marijuana.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp",
+      "cdnAmpWebUrl": "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp",
+      "publishedDateTime": "2022-04-12T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Washington",
+        "domain": "nbcwashington.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
       "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
       "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
@@ -1276,49 +1319,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030.md",
-      "title": "Image Recognition Market Segmentation Analysis and Global Industry Trends Forecast 2030",
-      "excerpt": "pattern recognition, object recognition, and digital image processing. The category of code recognition technology segment is estimated to be the leading segment in the world market for image ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-segmentation-analysis-and-global-industry-trends-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/56b6af28ca0363074bfe62855a5413e8b45915d2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

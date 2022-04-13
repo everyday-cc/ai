@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/who-is-funding-ai-research/"
 webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 896
     height: 504
     isCached: true
-
-related:
-  - title: "Who is funding AI research?"
-    excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
-    publishedDateTime: 2022-04-08T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
-        width: 896
-        height: 504
-        isCached: true
 
 secured: "QzGsgY6kb4rZA/HJIZodcR3ECSQAg6q4roPfIANgyGTPHaCMgXpdPeIzcMbppIUWpXz67mBCzjp1u4WCGdgIWHn7WJZ6xzhLsytuYmc1MfDHBuKOuAj301oZIeYgmfZfPSH+t9v/t1fKI+GlqshuTjLue1FVIEz5sp5yKvtRrZ+u/gjEr3sa+wMdeKgyMDX9RudfDki2XtMHGfJAM8HmqcUSlSVVwfHHxVumnKrkNwmXUO3qMFsr2cZCiCpXB8Aluso3VkILv09Vk6FA/88Az1ESxG+jPemOhO9F0WrEpBxE4b3ZoBjUwjJzflXe3KDRzB5FnpqgB1xJyDaGcgTSQf/JDndMfH/B3+5QwzFoAL/R8+XKsDxHCJ5yajoZeloY0QqbfC/mmeRmfsMNH5J31dH46UKdOg0rQbct9GZ3CN5stNzg6bm4EHScsBZcjWF1ClsGGxfwO1MH7QL1+xfjssHtW5NR8gK1jv0chmV6pMxroKcrYq4FrNJcrXj6S/IoUZZLocOZLqNRuBFjxcWfIg==;yCy44nRMfETOtVAEYRnArw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-sel
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp"
 type: article
 quality: 74
-heat: 138
+heat: 134
 published: true
 
 provider:

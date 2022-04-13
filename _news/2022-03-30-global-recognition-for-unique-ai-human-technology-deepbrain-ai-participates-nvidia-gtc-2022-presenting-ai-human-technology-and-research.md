@@ -1,18 +1,22 @@
 ---
 category: news
 title: "\"Global Recognition for Unique AI Human Technology\" DeepBrain AI participates 'NVIDIA GTC 2022', Presenting AI Human Technology and Research Outcome"
-excerpt: "DeepBrain AI, an artificial intelligence (AI) company, announced today that it participated in the \"NVIDIA GTC 2022,\" the world's largest AI developer conference, and announced AI human-based research results and overall technology."
-publishedDateTime: 2022-03-30T07:09:00Z
-originalUrl: "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/"
-webUrl: "https://www.fox21news.com/business/press-releases/cision/20220329CN06823/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome/"
+excerpt: "DeepBrain AI CTO Kyung-Soo Chae presents time-reducing, lip sync video synthesis technology. Participates in 'Digital Human and Interactive AI'"
+publishedDateTime: 2022-03-30T05:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-recognition-for-unique-ai-human-technology-deepbrain-ai-participates-nvidia-gtc-2022-presenting-ai-human-technology-and-research-outcome-1031316927"
 type: article
 
 provider:
-  name: FOX21 News
-  domain: fox21news.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 images:
@@ -21,6 +25,6 @@ images:
     height: 243
     isCached: true
 
-secured: "PEi8QwqU1H9lG9fO89P9k2BCiNhsVQkt8Oi2zKejUHTmqCanbn+TWoHLuIqxzZYOHKrllspK5EcwIZBLXwhutBrJNcrzd+rqLnp69qsQBUJLhnlXgkCmrBOGql9PVxykaEHJWLiAbPULh2v+1zsERjpWwb+esqBn5OEDPj4JO0wVHMebXvrn1I4sVJ0Zy88b9rpAQahvY+TTKwDW0Q5+6DW2Y3kmNf7/GjQwKV9BiwjA1fwFdj7jLeG2cOuJgqQbV8rHz/STZEq3lZKqh7pW/hrD+tQNB7+sghoPB+Ny6urmuuWQGfZKASa2oDCQGD+dRiI4pmZtuwKI6RlzuT68z/zEVgKA84nbxpPb68THeLg=;x6A5Hva+xZmtFULnYNMapw=="
+secured: "tdwtXKhtVbRqfcuFIACpCM526QlWQDpbWipiOmQktrhgIoL/v3hJDZ2ovPNSZRAUhlIztYngDQ9rxcDIAwPGoQtc/KOWGTU18o7OZjD2bE2ySsY8wg9TRhmaXOHkZOccdqoIi+GKhYvVrK8W5D5+uhlvdoahuaiwnxZ2uwSuA58UUfJG1508/Ft+5OzxnauYxBkBfQfyBkt7MjZ1slAo1+hFTIOOVRI9VXs1HwLFEypLCj38IzUnRkYjf2dhEktS4yiU82Ypa3jCSxDzdvL8Q9RF5F43NfUqGBgZXYGJQTSm7GL8J1vLt4ACvsJ8KepKh+k/tMOKHxYJOntr71iZtyHs4L6U2A1+njY6m1kFYN8=;tspQm1iWMTqojHfvdr0/hw=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-03-ai-beats-top-players-at-bridge-in-two-day-tournament.md",
+      "title": "AI beats top players at Bridge in two-day tournament",
+      "excerpt": "In brief AI algorithms crushed eight world champions playing the card game Bridge, marking another milestone in machine learning systems becoming better than humans at specific games. Top Bridge players were invited to play against NooK,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/03/in_brief_ai/",
+      "originalUrl": "https://www.theregister.com/2022/04/03/in_brief_ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2017/07/18/poker.jpg",
+          "width": 648,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/03/in_brief_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/03/in_brief_ai/",
+      "publishedDateTime": "2022-04-03T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-dubai-police-officer-named-among-30-leading-arab-artificial-intelligence-experts.md",
       "title": "Dubai Police officer named among 30 leading Arab artificial intelligence experts",
       "excerpt": "Engineer Dr Major Issa Ibrahim Basaeed, head of artificial intelligence applications and emerging technologies at the General Department of Artificial Intelligence in Dubai Police, has been recognised among the region’s top 30 leading Arab experts in AI by MIT Technology Review Arabia.",
@@ -1075,49 +1117,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-aitxs-subsidiary-robotic-assistance-devices-honored-with-2-secure-campus-2022-awards-by-campus-security-life-safety.md",
-      "title": "AITX’s Subsidiary Robotic Assistance Devices Honored With 2 Secure Campus 2022 Awards by Campus Security & Life Safety",
-      "excerpt": "RAD Light My Way Receives Awards in Security & Personal Safety Devices and Artificial Intelligence Categories. Detroit, Michigan, April 01, 2022 (GLOBE NEWSWIRE) -- Artificial Int",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-d4b64e8f26259e9c387f270dbf7cf9a9",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-d4b64e8f26259e9c387f270dbf7cf9a9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

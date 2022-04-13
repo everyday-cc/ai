@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-02-07-driving-value-in-your-supply-chain-with-robotics-and-automation.md",
+      "title": "Driving Value in Your Supply Chain With Robotics and Automation",
+      "excerpt": "Robots are capable of picking those individual pieces and ... By feeding the same data into artificial intelligence and business intelligence systems, companies can also track and predict demand and better understand customer purchasing intentions and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
+      "originalUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Nov-2021-SM.jpg?crop=1&height=348&t=1636504089&width=271",
+          "width": 271,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-msi-raider-ge76-shows-off-the-good-and-bad-of-intels-i9-12900hk.md",
       "title": "MSI Raider GE76 shows off the good (and bad) of Intel’s i9-12900HK",
       "excerpt": "With the GPU benchmarks specifically ... I benchmarked Civilization VI using the 'AI' test, which is more CPU-focused and measures the time it takes to complete turns with the game's AI. As with the other CPU tests, the GE76 saw performance fall slightly ...",
@@ -1104,59 +1147,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
-      "title": "We need to decouple AI from human brains and biases",
-      "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
-      "originalUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FBrainAi-CALLUM-EDIT.jpg&signature=cd986f4c8514cb750531f05dae512116",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-05T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
 type: article
 quality: 83
-heat: 106
+heat: 103
 published: true
 
 provider:

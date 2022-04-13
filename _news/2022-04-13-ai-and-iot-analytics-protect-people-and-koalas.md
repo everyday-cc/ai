@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Storage requirements for AI, ML and analytics in 2022"
-    excerpt: "We look at what is needed for artificial intelligence and machine learning, and the pros and cons of block, file and object storage to store and access very large amounts of often unstructured data."
-    publishedDateTime: 2022-04-08T06:15:00Z
-    webUrl: "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022"
-    ampWebUrl: "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1"
+  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
+    excerpt: "His crown jewel is the development of the Galaxy Trading Artificial Intelligence (GTAI) system, and the founding of Galaxy Trading Analytics (GTA), a leading regulated AI fintech firm. Prior to joining GTA, he have worked in MNCs such as Microsoft ..."
+    publishedDateTime: 2022-04-12T19:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26600712/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26600712"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26600712"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 76
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
     images:
-      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
-    excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
-    publishedDateTime: 2022-04-12T21:42:00Z
-    webUrl: "https://insidehpc.com/2022/04/facial-recognition-video-analytics-geospatial-and-other-ai-techniques-aiding-ukraines-investigations-of-russian-war-crimes/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 27
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/04/Ukraine-Bucha-041222-Shutterstock-2142943139.jpg"
-        width: 500
-        height: 334
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "BigBear.ai acquires predictive analytics software firm"
     excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
@@ -64,6 +50,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "QRFjf9kJSD+et9D1wjEg6Ep4bAH0OBpkfWkrha98XxqC2UNVPKqW5U8NIDc/9PCFD7ShCdSlo+vp7aZUqP+Aa8xIPKWLjfN747z2IDe24asZHu/HLgfj++FUSoOXLlZ5N8CLjkW1T2NuuNISOoEbcQBz26gTEshs6hqUljzudcWMIti5UD4mkw2z/hcaiXsB6khQwriLYTSOka2agD5gnQhOctHEHt+ZhD9mscquV/EYLhm9T9/WEvUAw1i4zN2r7BIIcHQThSoxzyepMzG3YXL5Sz3BNHZyx6GaOl04Ygaj+BlFtlvOn/fkE1zVr09q5BFNjT8WVtQj1qKgF2JyOEnqHGdWueNYqFcdUukkGCk=;bkBbLzNqXt/iy9SToCKnDw=="
+secured: "Eadoxpc0HV0i14lvIZf4aneQvfRTaD+z3hXqpxaBVRlmczPFwPjc9wmuPBYn3ymzpnn7G/LxqbT2Tq0irJVQRgbJfr5gywPD4NzYL3yccisN5ohjLaZQEczAvWXwqoYbRnQ+4ibhz3opRhy6uPI6FaSx6bVZurAl+NnejeOUR7f1rAb5eP0WgTBukdmqpGJf0ZJB9sShIaDhclTNO7lHJXRruB7voITMxKUA4CxwHCS/evo1pJcbSFDKrahHF5kUR1QcoflP9gqc5csIDh+SxXZ8ZtAWmQkIbFx3w7tB6o64embvSa0aqiz966uw35R0AQBGfz103FDvDPRoo7qWCPrZn1n1TpkCDvw0NGEDKPoLYO8teLbdvi1fAa6361h45eyZlA4qHt73nr/3p4glakRCjjScoNHJosp+jSAZ4GV9BrdC47B6aCV+E7IrUTHtCLLpS1bWRa9dFKjIJ0av+d/c54hSYw4HA2vL7DdC0hXKwQ46OoaCpd9LVeQR3pVM7Fc0KXrX31IjB3Hpotfv3Q==;JYR/OEkfAtes8ZquAFsKmw=="
 ---
 

@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Panera Is Testing Miso Robotics’ Artificial Intelligence System To Ensure A Consistent Coffee Experience"
-    excerpt: "Now, the company is leveraging artificial intelligence to ensure its coffee is of consistent quality for every cup. Miso Robotics today announced a partnership with Panera to test its new product line, CookRight Coffee. Details on the scope of the test are ..."
-    publishedDateTime: 2022-04-12T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/aliciakelso/2022/04/12/panera-is-testing-miso-robotics-artificial-intelligence-system-to-ensure-a-consistent-coffee-experience/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-  - title: "Panera testing CookRight robot coffee maker"
-    excerpt: "... chain Panera Bread to test its latest robot, a coffee maker that can brew the perfect cup of coffee. Pasadena, California-based Miso said its CookRight Coffee line uses artificial intelligence to monitor key coffee metrics such as volume, temperature ..."
-    publishedDateTime: 2022-04-12T13:59:00Z
-    webUrl: "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 59
-    images:
-      - url: "https://media.ksdk.com/assets/KSDK/images/e63dcc34-0e0e-4244-905f-b7d4f30992d7/e63dcc34-0e0e-4244-905f-b7d4f30992d7_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Miso Robotics Introduces CookRight Coffee Product Line"
     excerpt: "Panera Bread is the first partner to use CookRight’s unique capabilities to monitor volume, freshness and temperature of coffee to improve the guest and team member experience."
     publishedDateTime: 2022-04-12T12:12:00Z
@@ -53,15 +28,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 34
-  - title: "Panera to Try Robots Serving Coffee"
-    excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
-    publishedDateTime: 2022-04-12T13:45:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/76426/Panera-to-Try-Robots-Serving-Coffee"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 19
 
 secured: "12HbkRMwka88MXRw5vSemhalMrvW3vkGxxfSYgx2qnSKUyuFViv13QewnmXVVDEEvCMapFr+erlNViTrzjfCXx9Ki9+AIjC/bmxb3OmgWke4l1SQK5AWw/gqIjoX0K2jdL5iUyP9WfhBhmmOvYYMXmzoy6Lah6DcOdcVpZkE8B6wSNU99aWOEK/GrXBkBsXWXeUJNtSLjEKDofAG0kFQDMyNpyvVmzDUHrDt5OMtj5xlkeVinVLAicDhEQbg760V47RZpzjPhFGc20wQo7RFVh1rAk+AOu0IppyJILvcdh8iL4doZGgTAxxWx7aBQYsGf9CpCCzgneMna1aRwTLz8OQqNvPkmx8e9UKCwiqG1h4=;eOc/gERQnnLpqW/nKdruzQ=="
 ---

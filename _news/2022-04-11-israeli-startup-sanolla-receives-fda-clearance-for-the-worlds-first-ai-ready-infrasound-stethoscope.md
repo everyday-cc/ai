@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope"
-excerpt: "NESHER, Israel, April 11, 2022 /PRNewswire/ -- Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the ..."
-publishedDateTime: 2022-04-11T12:20:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
+excerpt: "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans."
+publishedDateTime: 2022-04-11T12:00:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
 type: article
-quality: 22
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AI
-
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
 
 related:
   - title: "FDA clears AI-infrared smart stethoscope from Sanolla"
@@ -53,6 +47,6 @@ related:
         height: 635
         isCached: true
 
-secured: "Ec17k4/rIOLG8DVoKU7/9/tPtJ8bsPSrrE5xtXx4oGi9ZMxTKVv5gsiPZ0eSBIUq604k6QTYAAPKxKKifshgCBCIo/nSmzbZyg8IH5crya46Bg7p2ym7pX50LOU3eKk6eVdG2oOlpZ0+UGXWSwq1lZf5ziwwvyxIAcqqQtm1YKU3Yx2GfqPYjaCLZ4aX/HbRWhMaaVTlmeOR0Gp1CAxbGrYZj+BOE0Wbly5e+WAoCcBpUwq5PwA3KiNvYue9QdZ3gBWlZx4xphnEKcgmcflvZrPjU86l/QYA+nk3au3X9BMRTEGb3VFKkUeKywe7LmiBPBCteBLkQN9U+YFeTr8p6F5wjJFrY2rK3P3kiklFNI8=;+ktcSRM6zDkhUgZg20HMoA=="
+secured: "ohQ3sc2Cu8+RpottWuAmF3A6eRu09mx/f+4xRzisOAebYraE24uYSauHArqH5013/i3yRsaC5rJZuHeiCyTPfZjGTOAeg96LDMF5493fb+x6giW24++/0ydJhjFt/iDQmv7xmIJjfgok2BAQVi+dxo6eFugxjuJwdWUuEsyQoFye82UY1opERuwu7DOHXb0TWoDdNLlid4NxrRe1g1ZpO5atsdpJYjkXRjtqWl7yDXOhpAwGla9eCMsMsb2vS3AcPC5ITwzYFSROyqb/rLKIZti6DlxS8JEbbc7KW9FPJSRwpExxmdmApvK51nDGxKpRNAxSKo3ItgaGe7oBqqdtaT/qACJ0porxQvXFzs/gwOQ=;X/4N2MhAWv1Y9HCPPFGggA=="
 ---
 
