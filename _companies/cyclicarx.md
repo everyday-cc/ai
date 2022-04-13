@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cyclica"
   url: "https://twitter.com/cyclica"
-  followers: 1435
+  followers: 1436
 
 size: 11-50 employees
 yearFounded: 2013
