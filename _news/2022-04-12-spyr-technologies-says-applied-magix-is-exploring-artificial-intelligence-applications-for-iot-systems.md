@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "SPYR Technologies says Applied Magix is exploring artificial intelligence applications for IoT systems"
+    excerpt: "Applied Magix CEO Dr Harald Zink said: \"As part of our Secret Lab initiatives, AI frequently comes to the forefront of product"
+    publishedDateTime: 2022-04-13T04:17:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/979571/spyr-technologies-says-applied-magix-is-exploring-artificial-intelligence-applications-for-iot-systems-979571.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979571"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979571"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 43
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTEyLTExLTI3LTAzLTAzODU1ZjJiOTdlZDMxZTFmZTc4ZTFjZGVlZDkxNzBkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
   - title: "AI & IoT Automation and Applications are Quickly Becoming Leading Factors for Growth in Smart Home Industry"
     excerpt: "AI and IoT are quickly becoming the leading factors in the growth ... The Pensando team brings world-class expertise and a proven track record of innovation at the chip, software and platform level which expands our ability to offer leadership solutions ..."
     publishedDateTime: 2022-04-12T15:26:00Z

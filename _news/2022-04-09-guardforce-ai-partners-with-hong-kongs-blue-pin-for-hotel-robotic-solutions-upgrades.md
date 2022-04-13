@@ -51,15 +51,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Guardforce AI Initiates Robotics Solutions Upgrades for Hotels Through Mutual Agreement with Blue Pin"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, today announced it has entered into a mutual agreement with Blue Pin ..."
-    publishedDateTime: 2022-04-08T11:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-initiates-robotics-solutions-upgrades-for-hotels-through-mutual-agreement-with-blue-pin"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
 
 secured: "snfyTZSUUkChGW7DzcEuX2+dgYS7SePiUd5gXDUjPfGqqYx7NbtrZz/0Eb3b6AmEBOTXW05/KVMr8uU9AcwB3WUDE+TvdmqEIvpEhx1rJ+wVM0OxvsKD3iQWoHt2E/mKFAKDNoJKnGIgO9hyC9XckuOelUYtYWFrBrydhAEJKFp1ETY/ok5+e1FO/FNr/vYwRnAWWPwkquNUKfV7KhqSQDi6RLBK+KSojTil5XmptIAnbP/eQd4vir6vRb3CgKGMawFu7nCnEg6YfnsvQXOvv2Xq7KfyavqkYaDlFUwhPJEV6qhxZzzcaQyzYt/MY4x41SVL/GsMABqWP5LzYJqiALpCaTmEJw4ghS/HTLzM6b0=;pdhNLHCPQMO9+gkm+Kl44w=="
 ---

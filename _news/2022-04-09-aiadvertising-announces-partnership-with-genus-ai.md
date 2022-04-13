@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-
 webUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-with-Genus-AI"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AiAdvertising Announces Partnership with Genus AI"
-    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI’s technology into our platform,"
-    publishedDateTime: 2022-04-08T11:15:00Z
-    webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8518747/aiadvertising-announces-partnership-with-genus-ai/"
-    type: article
-    provider:
-      name: WKRN
-      domain: wkrn.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/www.wkrn.com/wp-content/uploads/sites/73/2022/04/Roman-Josi-Ottawa.png?w=2000&#038;ssl=1"
-        width: 654
-        height: 374
-        isCached: true
   - title: "How AI will transform the advertising industry"
     excerpt: "The advertising industry is only just beginning to glimpse the impact of artificial intelligence (AI), according to Kate Scott-Dawkins, global director, business intelligence of GroupM.  The Next 10: Artificial Intelligence,"
     publishedDateTime: 2022-04-10T20:55:00Z

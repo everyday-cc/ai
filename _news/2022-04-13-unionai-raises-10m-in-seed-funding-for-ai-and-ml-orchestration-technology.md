@@ -25,107 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "10 startups riding the wave of AI innovation"
-    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Organizations are increasingly adopting AI-enabled technologies to address existing and emerging problems within the enterprise ecosystem,"
-    publishedDateTime: 2022-04-11T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/"
-    ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
+  - title: "Union.ai raises $10M to simplify AI and ML workflow orchestration"
+    excerpt: "Union.ai, a startup emerging from stealth with a commercial version of the open source AI orchestration platform Flyte, today announced that it raised $10 million in a round contributed by NEA and ..."
+    publishedDateTime: 2022-04-12T17:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/"
+    ampWebUrl: "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1254825733-1.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Noogata nabs $16M to simplify AI access for enterprises"
+    excerpt: "Join AI and data leaders for insightful talks and ... Since launching the platform in March 2021, Noogata’s ARR has grown by 400%. The startup has already roped in major enterprises like Colgate ..."
+    publishedDateTime: 2022-04-12T16:30:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/noogata-nabs-16m-to-simplify-ai-access-for-enterprises/"
+    ampWebUrl: "https://venturebeat.com/2022/04/12/noogata-nabs-16m-to-simplify-ai-access-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/noogata-nabs-16m-to-simplify-ai-access-for-enterprises/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1333935767.jpg?fit=800%2C533&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1008770270-e1649777146968.jpg?fit=800%2C533&strip=all"
         width: 800
-        height: 533
+        height: 400
         isCached: true
-  - title: "Startups Join AI Acquisition Rush"
-    excerpt: "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence."
-    publishedDateTime: 2022-04-11T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401"
+  - title: "Neptune.ai raises $8M to streamline ML model development"
+    excerpt: "Register today! Neptune.ai, a Polish startup that helps enterprises manage model metadata, today announced it has raised $8 million in series A funding. Whenever an organization experiments with ..."
+    publishedDateTime: 2022-04-12T19:09:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Observe.AI Raises $125M in Series C Funding"
+    excerpt: "Observe.AI, a San Francisco, CA-based Intelligent Workforce Platform that transforms contact centers through AI, raised $125M in Series C funding. The round, which brings total funding raised to date to $213M, was led by SoftBank Vision Fund 2 with ..."
+    publishedDateTime: 2022-04-12T22:20:00Z
+    webUrl: "https://www.finsmes.com/2022/04/observe-ai-raises-125m-in-series-c-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
     images:
-      - url: "https://images.wsj.net/im-520831/social"
-        width: 1280
-        height: 640
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/09/observe-ai.png"
+        width: 307
+        height: 307
         isCached: true
-  - title: "Will Artificial Intelligence be driving force behind the future of healthcare startups?"
-    excerpt: "Artificial Intelligence is revolutionising the way the technology industry is developing. From intelligent phones to intelligent cars and refrigerators, every aspect of human lives is being made easier by ‘intelligent’ devices."
-    publishedDateTime: 2022-04-09T16:58:00Z
-    webUrl: "https://www.freepressjournal.in/business/will-artificial-intelligence-be-driving-force-behind-the-future-of-healthcare-startups"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/will-artificial-intelligence-be-driving-force-behind-the-future-of-healthcare-startups"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-artificial-intelligence-be-driving-force-behind-the-future-of-healthcare-startups"
+  - title: "Observe.AI Raises $125M Series C to Usher in AI-Empowered Era for Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has raised $125M in Series C funding led by SoftBank Vision Fund 2 with participation from Zoom Video Communications,"
+    publishedDateTime: 2022-04-12T11:02:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 66
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
-    excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."
-    publishedDateTime: 2022-04-11T20:39:00Z
-    webUrl: "https://menafn.com/1103992769/Integration-Of-AI-In-Renewable-Energy-Shapes-The-Condensers-Market-Growth"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/11/EP_372b0image_story.png"
-        width: 966
-        height: 487
-        isCached: true
-  - title: "Scale AI moves to scale supply chain AI startups with new funding, partnerships"
-    excerpt: "Scale AI has invested $24 million to support five AI projects in supply chain operations and is partnering with MaRS to support 12 Canadian AI startups."
-    publishedDateTime: 2022-04-11T10:00:00Z
-    webUrl: "https://betakit.com/scale-ai-moves-to-scale-supply-chain-ai-startups-with-new-funding-partnerships/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 35
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/04/MaRS.jpg"
-        width: 1052
-        height: 630
-        isCached: true
-  - title: "How AI Is Powering the Future of Financial Services"
-    excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
-    publishedDateTime: 2022-04-08T18:30:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
-  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
-    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
-    publishedDateTime: 2022-04-12T12:31:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Daily News
+      domain: galvnews.com
     quality: 12
-  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
-    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
-    publishedDateTime: 2022-04-11T12:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=644996"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "di98WaCw+k+mb9FmLEWFQlrafHzrsjjUqq3/0ay+hqVQaT21PA7JIcJ1rjtXVOuJYoMDUxGbBKVvwknR/Gs6lJ6poJLwTJqnX4N3BML3kxWBLyuJk8QedZg0Ea29CoaB1S8Yrkiirooh3HPRLDeiDhjXNgzdSLB7HD0nJpawwf/crQotu7NyOljwgxEznb9k6kCYa77yStiWiEoS7YAts4NE6hgMnh/aJsv+XqeapOx3uf6H0r9FaAqzeebDlF4uRw9hYg27++mUD++I3j02qGxueaukcUIES3wch/ZWBZEkXA5o7xdlAM6ha0FsV2O17Yf1odL3lqW4iuAPJE4vpVNdMEGvPbrbpjpo3dqx+Wb5wHyqWJVPKsCKHZZ33AWisPz1gXnTLpBf5TVyAdY4cXBweMidCoLxbQUNpRPQc0Ea9ABy9ZnWaJQ5Wb/3N0fp/VWhuvrgSSR9rRvUB6u0Invh3PsNYoanXCTKqPFuhReSBq5fZGVxUOK3KyHY7H5KWFwba2Pxu2w2qm37NmERDw==;P+VhhOGzhxyEbYkYgzY/zQ=="
 ---

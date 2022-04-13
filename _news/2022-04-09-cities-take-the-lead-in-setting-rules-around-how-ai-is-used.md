@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-arou
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots are creating images and telling jokes. 5 things to know about foundation models and the next generation of AI"
+    excerpt: "New software that can generate images and text on command may deliver ‘good enough’ creativity in advertising, copywriting, stock imagery and graphic design."
+    publishedDateTime: 2022-04-13T04:50:00Z
+    webUrl: "https://theconversation.com/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
+    ampWebUrl: "https://theconversation.com/amp/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
+    images:
+      - url: "https://images.theconversation.com/files/457810/original/file-20220413-28-ldw894.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=321&fit=crop"
+        width: 320
+        height: 321
+        isCached: true
   - title: "Cities Take the Lead in Setting Rules Around How AI Is Used"
     excerpt: "As cities and states roll out algorithms to help them provide services like policing and traffic management, they are also racing to come up with policies for using this new technology."
     publishedDateTime: 2022-04-11T22:35:00Z

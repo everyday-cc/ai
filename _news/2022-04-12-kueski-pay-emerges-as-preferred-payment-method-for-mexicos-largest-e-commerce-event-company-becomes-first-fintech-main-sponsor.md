@@ -24,6 +24,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Dedoco partners Funding Societies to offer Sign with Singpass, further simplifying KYC process for the FinTech's MSMEs"
+    excerpt: "Dedoco, a decentralised digital document and workflow management platform today announced that it has partnered Funding Societies, Southeast Asia's largest SME digital financing platform to enable micro,"
+    publishedDateTime: 2022-04-13T03:02:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=646448"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+
 secured: "2U+WircOfrwWba8UlGr8nX3vx9gmMVyAvGqlmZddVR/oAHSjWAdjk+rgQOUOfzQ79WS1Uh7QV8UsNuV5OpPLC3HNBQ6+TRpJgrvN6OZ0gh56tx/SArmReH567+V5Kef0X/1bD0Nm+0rgInZxYR5R80Vzfilj5v5DG6grAsa4he2fmDbphklvemVWChT17sTSYoDElt6BYxFarVFzPtKbRESaTR4soeMb9dfbxnLc31Icd+QF9GMPkDMgtT2SJ1ywG2/5AOeHxQHd0q9GV1iHzMP4Gqf+35xPvglOsmRIy66zrufL7YLFFQMx1tA57TC5jPEJ6WcXrlQHFaLZqsBTL0Vug3mLG2CzGCH1ciutZH8JkgmUyBK44AjTi1PWC0ZDf/agDa8Iprc4QQaqZrwxOhWIZFnBOKdLyoU5mxHEIsE/QFunK6mhJlzbOgj2H5v9q/FuRNpq9vw2PsqOtsSuaNKqlbKF80wD+Otg8mZklYInXsUIgV77sFk08Sd/jXcYWPivHZcp5NkoCoAG7giusw==;cePioJKrFoQME0ZVh1pWYA=="
 ---
 

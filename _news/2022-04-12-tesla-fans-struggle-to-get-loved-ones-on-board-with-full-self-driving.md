@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock."
-    excerpt: "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla"
-    publishedDateTime: 2022-04-08T12:29:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
-    images:
-      - url: "https://images.barrons.com/im-511644/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla’s Self-Driving Taxi Does Nothing for TSLA Stock"
     excerpt: "Elon Musk made several announcements recently while launching Tesla’s (NASDAQ:TSLA) gigafactory in Austin, Texas. One of the company’s commitments was to making a “dedicated” self-driving taxi in the future."
     publishedDateTime: 2022-04-13T03:54:00Z
@@ -50,15 +34,45 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "UPDATE 1-Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-    excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and ..."
-    publishedDateTime: 2022-04-08T12:19:00Z
-    webUrl: "https://cn.reuters.com/article/toyota-wovenplanet-idCNL2N2W51O7"
+  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
+    excerpt: "Toyota's Woven Planet unit uses cameras that are 90 percent cheaper and can be easily installed in fleets of passenger cars."
+    publishedDateTime: 2022-04-09T07:59:00Z
+    webUrl: "https://www.autonews.com/technology/tesla-toyota-develops-self-driving-tech-low-cost-cameras"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Like Tesla, Toyota Wants To Conduct Self-Driving Research With Cameras Only"
+    excerpt: "When Tesla pulled the sensors from its vehicles in order to run advanced driver assistance systems with cameras only, it received a lot of pushback from experts in autonomous research. Toyota’s self-driving subsidiary,"
+    publishedDateTime: 2022-04-08T21:35:00Z
+    webUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/"
+    ampWebUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 37
+  - title: "Self-Driving Car Market is Booming Worldwide with By Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple"
+    excerpt: "A detailed report on Global Self-Driving Car market providing a complete information on the current market situation and offering"
+    publishedDateTime: 2022-04-12T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-booming-worldwide-with-by-tesla-motors-audi-ford-toyota-google-volvo-nissan-baidu-apple"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "gUWXpdBn1y9II5NorylX2aj1PFRQXsFfvtCh3PKNsAYBCWIhOgXU4g7L/xZj+LifVazFUFzZDfYMta6YeVnpu2s5/+03HH6rkM4mAEmn+ylOBQqAyS00B/8nJAloG2+FidjI6lP3yA+XmrbJ+T7+rgpDeL9Lm8XomgA0X/bxXZ733KO38tgv8eHg1jPw88ivhekjv432lS/UQm4W5cj2DIjO1zQ9g1f0CXEPNyBkSDaLesw8tbDQbahIOQXO3C0Tg2Fgxh8eQkqU4wi7iDldEkMMCi/zdTstH/cPzJS+/2NUyc5KqoJi1wiv/iVpWeIY7B0LXduxEvrt6aCYHtyPqZbEgR4btjyjXl0Qg+kX70Qf6u0a64yHu6cr7XkoTykFbm/7kARYnysCtvR5hdOdGgKb3zTfB4GLr5YI+g2aDtnC1oIeSlzBZ3parHiSHdec4Zs1IJAHFvdcv6dO+2O6bq9dBQhjlPo774WeGjo0m83HR2Aq2J1FJWB2a9p63CGV/r0sjsxrKikJr/3QkDRAEw==;BmCw3fpIBjohHYNUJUCUDw=="
 ---

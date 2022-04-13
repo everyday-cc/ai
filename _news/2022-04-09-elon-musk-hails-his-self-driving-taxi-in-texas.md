@@ -24,17 +24,6 @@ images:
     height: 674
     isCached: true
 
-related:
-  - title: "Elon Musk throws killer opening Texas party, reveals updated prototypes, plans for self-driving ‘robotaxi’"
-    excerpt: "Elon Musk was welcomed by a roaring crowd at his new Gigafactory in Texas where he held a \"Cyber Rodeo\" promoting his Cybertruck and robotaxi."
-    publishedDateTime: 2022-04-08T12:15:00Z
-    webUrl: "https://www.bizpacreview.com/2022/04/08/elon-musk-throws-killer-opening-texas-party-reveals-updated-prototypes-plans-for-self-driving-robotaxi-1223011/"
-    type: article
-    provider:
-      name: BizPac Review
-      domain: bizpacreview.com
-    quality: 0
-
 secured: "vDwW4R1Iz/RpN/IVVotYObnjXQ+Lla+J2o8a7dHYhYuJ9nMx074d7zDyTTtFy2w6yy7m3kzbrCTS+Y6rCYTxLvRICAssNcc4C6iJ6JUpb+YOgEZc3LzGXhTYx5flkB81k8S3Iqq7eBOSDA5x9kv6VoM3+CqdXxKt5Y4SlFgmODUmSYTbI48Xo5t6CgEaVUtbE7F5PE6NQ9h/kBnrIqkuwSYQ0mquSmc8TjbFpPheL6+sL0TstiZpIJR01jpCg1jVFoJqzb2KtK4rKC8kTDF0xOel2US/pD/JQ44zvCjZT6GMIS9te0FPrLbLm4EIbS/6c2/hhyN+ouOVpzttRfFf+/M4ZK21ecvtsII2Y/ou0rc=;QywOU7bYGXGesjQNZtL4BA=="
 ---
 

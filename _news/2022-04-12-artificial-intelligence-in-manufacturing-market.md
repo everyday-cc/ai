@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "MicroAI Offers AI Manufacturing Solution for Real-Time Analysis"
-    excerpt: "MicroAI, a provider of edge-native artificial intelligence (AI) and machine learning software, recently announced the general availability of its MicroAI Factory soft"
-    publishedDateTime: 2022-04-08T11:14:00Z
-    webUrl: "https://www.rfidjournal.com/microai-offers-ai-manufacturing-solution-for-real-time-analysis"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 37
-    images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2022/03/MicroAIFactory-1.jpg"
-        width: 1000
-        height: 530
-        isCached: true
   - title: "Server AI Chip Market, Global Outlook and Forecast 2022-2028"
     excerpt: "The global Server AI Chip market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
     publishedDateTime: 2022-04-12T04:44:00Z
@@ -63,15 +49,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Smart AI Toys Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "The global Smart AI Toys market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimate"
-    publishedDateTime: 2022-04-08T11:19:00Z
-    webUrl: "https://galleonnews.com/news/246063/smart-ai-toys-market-global-outlook-and-forecast-2022-2028/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 17
   - title: "Artificial Intelligence in Manufacturing Market in North America is likely to grow at a Rapid Speed in the Near Future"
     excerpt: "Artificial Intelligence in Manufacturing Market by type/solution, service, organization size, end-use verticals, and Region – Global Artificial"
     publishedDateTime: 2022-04-11T10:55:00Z
@@ -83,20 +60,6 @@ related:
     quality: 13
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market is expected to reach the value of 17.2 million USD by the end of 2027."
-    excerpt: "According to our research analysis, the Artificial Intelligence in Manufacturing Market size was estimated to be worth 1.5 billion dollars in 2021, and it"
-    publishedDateTime: 2022-04-12T04:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-is-expected-to-reach-the-value-of-17-2-million-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
         width: 600
         height: 337
         isCached: true

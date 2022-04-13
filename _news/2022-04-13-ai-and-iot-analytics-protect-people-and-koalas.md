@@ -24,21 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
-    excerpt: "His crown jewel is the development of the Galaxy Trading Artificial Intelligence (GTAI) system, and the founding of Galaxy Trading Analytics (GTA), a leading regulated AI fintech firm. Prior to joining GTA, he have worked in MNCs such as Microsoft ..."
-    publishedDateTime: 2022-04-12T19:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26600712/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26600712"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26600712"
+  - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
+    excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
+    publishedDateTime: 2022-04-12T13:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
+    excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
+    publishedDateTime: 2022-04-12T21:42:00Z
+    webUrl: "https://insidehpc.com/2022/04/facial-recognition-video-analytics-geospatial-and-other-ai-techniques-aiding-ukraines-investigations-of-russian-war-crimes/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 27
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://insidehpc.com/wp-content/uploads/2022/04/Ukraine-Bucha-041222-Shutterstock-2142943139.jpg"
+        width: 500
+        height: 334
         isCached: true
   - title: "BigBear.ai acquires predictive analytics software firm"
     excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"

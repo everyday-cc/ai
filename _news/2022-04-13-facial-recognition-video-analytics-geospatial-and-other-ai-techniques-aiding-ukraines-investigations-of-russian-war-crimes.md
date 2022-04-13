@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2022/04/facial-recognition-video-analytics-g
 webUrl: "https://insidehpc.com/2022/04/facial-recognition-video-analytics-geospatial-and-other-ai-techniques-aiding-ukraines-investigations-of-russian-war-crimes/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 500
     height: 334
     isCached: true
+
+related:
+  - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
+    excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
+    publishedDateTime: 2022-04-12T13:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI and IoT analytics protect people and koalas"
+    excerpt: "These sensors are powered by artificial intelligence (AI) and machine learning from SAS, the leader in analytics. Attentis has created the world's first integrated, high-speed sensor network throughout Australia's Latrobe Valley. Today, this network is the ..."
+    publishedDateTime: 2022-04-12T20:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-and-iot-analytics-protect-people-and-koalas/article_fd455f18-6b6d-5903-b0df-5888750f31d0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/fc/0fc90ba7-da94-5282-a5c8-62e5c261492f/6255bfcebad25.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "BigBear.ai acquires predictive analytics software firm"
+    excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
+    publishedDateTime: 2022-04-11T12:32:00Z
+    webUrl: "https://seekingalpha.com/news/3822280-bigbearai-acquires-predictive-analytics-software-firm"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "r/EGmkq3oxiu3hd5onKjdbE0+v0Fl32ZRXgLEDfSAYyeeRchLhyXWVrjca4gQBru50RY6z0dgAK74rWxBeJLUCMbkFbJYmHeqGUkRHpqy+ETRzCda5OSQef4+H30aFRCAdp3dHJKN2xLnBm/+VVaqOd3pYQU6Z0AtcSK4kOFYF+z7fWvZTOKVrI+xaRwGh3sDAKweNM2YHz7AqsyLPOiFCCR9md4sNGw18X03EsOjJQUc+TOPH/G6FJ4QQmbChZaKFG8bZ5ljlG34RI6ib0dXQTZxBRq4om7KGs6NibOuzTy0PutXlIo1/3rA6R3doa4OA77vDMMmUa785ZVS9FN8ntanQvA5Nm0nTMVCW4pURnc5OfH0ATqhYNdK0bviZFFchujKixODwqNQRj08/+5K8oRKdYD36J0mjIE6qdklsxMo3nGDiktpUnUR3spWa6g/q4em8bWJQrRkNEIUFr9pbHkOEZ+lVA+VH2c2ssvGmFmVesQO/2LuamB5zBq5WTMB2wSrxKCZnIjJqM7gVhH2g==;ploJWX8ZCzkA6ItxKgafgQ=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 900
         height: 510
         isCached: true
-  - title: "Seneca establishes AI research centre"
-    excerpt: "Seneca has received $641,800 from the Natural Sciences and Engineering Research Council of Canada (NSERC) to support applied research on artificial intelligence (AI) technologies that are critical to maintaining a strong Canadian economy."
-    publishedDateTime: 2022-04-08T11:11:00Z
-    webUrl: "https://www.ept.ca/2022/04/seneca-establishes-ai-research-centre/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 37
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/04/Seneca-AI-centre.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Bulgaria partners with Google, AWS to launch computer science, AI research centre"
     excerpt: "Bulgaria attracted a combined investment of over 12 million levs ($6.7 million/6.1 million euro) from US technology giants Google, DeepMind and Amazon Web Servic"
     publishedDateTime: 2022-04-11T13:23:00Z

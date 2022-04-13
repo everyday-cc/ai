@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Robots are creating images and telling jokes. 5 things to know about foundation models and the next generation of AI"
+    excerpt: "New software that can generate images and text on command may deliver ‘good enough’ creativity in advertising, copywriting, stock imagery and graphic design."
+    publishedDateTime: 2022-04-13T04:50:00Z
+    webUrl: "https://theconversation.com/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
+    ampWebUrl: "https://theconversation.com/amp/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
+    images:
+      - url: "https://images.theconversation.com/files/457810/original/file-20220413-28-ldw894.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=321&fit=crop"
+        width: 320
+        height: 321
+        isCached: true
   - title: "Leading MEPs raise the curtain on draft AI rules"
     excerpt: "The two co-rapporteurs finalised the Artificial Intelligence (AI) draft report on Monday (11 April), covering where they have found common ground. The most controversial issues have been pushed further down the line."
     publishedDateTime: 2022-04-11T14:45:00Z

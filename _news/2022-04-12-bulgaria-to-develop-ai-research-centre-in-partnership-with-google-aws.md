@@ -7,7 +7,7 @@ originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-
 webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seneca establishes AI research centre"
-    excerpt: "Seneca has received $641,800 from the Natural Sciences and Engineering Research Council of Canada (NSERC) to support applied research on artificial intelligence (AI) technologies that are critical to maintaining a strong Canadian economy."
-    publishedDateTime: 2022-04-08T11:11:00Z
-    webUrl: "https://www.ept.ca/2022/04/seneca-establishes-ai-research-centre/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 37
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/04/Seneca-AI-centre.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
     excerpt: "The Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) was opened in Sofia on Monday. The Swiss Federal Institute of Technology Lausanne (EPFL) and fe"
     publishedDateTime: 2022-04-11T14:16:00Z

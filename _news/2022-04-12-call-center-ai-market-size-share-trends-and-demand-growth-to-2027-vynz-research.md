@@ -62,6 +62,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
+    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
+    publishedDateTime: 2022-04-11T11:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "vrK7qUHoQdPitMPD014A0IGSr+nBO5RNCCzmtwqArr/DUq2mALzG0pdY5JpNrVGbemhtg0lrTBvXUuBv5PamxYUgYoCwxJxrxklKHJ9UJiXcF7jGYq+Xcb2hbE2JcGufqfID52pr3DGxPbBrmxCzD+vATR8dwIKD0eMJEARFtLa/1GFOm5ykKpLBX6PzL8YWqOPpsp0Y1GH0Z00krR6YrE7/FU5uPk7nRMTJ7s5g6VkoKEQ2LBrLK+gJ+t8c4/Q2Xxh/nWVMdwJLrdL6PjwER+F5vT7Bli0FrcBRoqiw33bklfUw0+7Iz4DIAM7jtUaKba2gsvR4r/4+Mm5ochRwjWAECHCOo5Z4gn8dyz7T0HM=;24CCyjtFtMET9I07QA0o2g=="
 ---

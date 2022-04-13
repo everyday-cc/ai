@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing Market Size Worth USD 16.53 Billion by 2028"
+    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2022-04-12T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision System Market Size hit USD 25.69 Billion at CAGR of 10.8%, By 2028"
     excerpt: "Reports And Data Computer Vision System Market Size – USD 11.35 Billion in 2020, Market Growth - CAGR of 10.8%, Market Trends –Increased d"
     publishedDateTime: 2022-04-11T08:34:00Z
@@ -51,6 +65,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
         width: 353
         height: 249
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market is expected to reach the value of 17.2 million USD by the end of 2027."
+    excerpt: "According to our research analysis, the Artificial Intelligence in Manufacturing Market size was estimated to be worth 1.5 billion dollars in 2021, and it"
+    publishedDateTime: 2022-04-12T04:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-is-expected-to-reach-the-value-of-17-2-million-usd-by-the-end-of-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "raIwkrcvtSznSe57uXV89t6eJgN9zLHQV9yBof2KgsitpFjDKF8loEHqWluAf+c9JxVrhX6vCP7A5IDF/qnwqr66/QkNOtNcvZRYUWSDzDYgAlu4VSMep3gKklaQQpjEV9yCg9v6rppPlfCct3lxSGyepEk+9TvGVc81EGy/V1sLIk4aOCGCqi/ipLH+TxI2wzi9ox1ubAHzNg6GG9PcFDMgnOzn8UoeV3rKW6HYmY7lpmkRqurAktgpLxlbgyzY4tH5cCFUFoUCr7O+N8O78j4rhe/DTdrCXsDV/6vEv0KGk1otl6/8FKbOMDU3L5AuV2mGL2oF6EqetbRzpUGsVRzGBgh3FmySzbJCBifzJKI=;DAVdup1k/DfiwoiNftjrPQ=="
