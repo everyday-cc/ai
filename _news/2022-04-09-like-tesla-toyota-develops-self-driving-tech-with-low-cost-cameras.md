@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/technology/tesla-toyota-develops-self-dri
 webUrl: "https://www.autonews.com/technology/tesla-toyota-develops-self-driving-tech-low-cost-cameras"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,33 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla will bring “dedicated” self-driving taxi with futuristic look"
-    excerpt: "Tesla CEO Elon Musk stated on Thursday that Tesla will be making a \"Dedicated\" self-driving taxi with a futuristic look."
-    publishedDateTime: 2022-04-08T08:08:00Z
-    webUrl: "https://techstory.in/tesla-will-bring-dedicated-self-driving-taxi-with-futuristic-look/"
+  - title: "Like Tesla, Toyota Wants To Conduct Self-Driving Research With Cameras Only"
+    excerpt: "When Tesla pulled the sensors from its vehicles in order to run advanced driver assistance systems with cameras only, it received a lot of pushback from experts in autonomous research. Toyota’s self-driving subsidiary,"
+    publishedDateTime: 2022-04-08T21:35:00Z
+    webUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/"
+    ampWebUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/04/unnamed.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Elon Musk hails his self-driving taxi in Texas"
-    excerpt: "Elon Musk trailed a dedicated self-driving taxi and promised that Tesla would start making its delayed Cybertruck next year as he opened the carmaker’s $1.1 billion factory in Texas. Wearing a black cowboy hat and sunglasses on stage at the site’s ..."
-    publishedDateTime: 2022-04-08T23:05:00Z
-    webUrl: "https://www.thetimes.co.uk/article/musk-hails-his-self-driving-taxi-in-texas-393pfn2mh"
+      name: Carscoops
+      domain: carscoops.com
+    quality: 37
+  - title: "Self-Driving Car Market is Booming Worldwide with By Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple"
+    excerpt: "A detailed report on Global Self-Driving Car market providing a complete information on the current market situation and offering"
+    publishedDateTime: 2022-04-12T06:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-is-booming-worldwide-with-by-tesla-motors-audi-ford-toyota-google-volvo-nissan-baidu-apple"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3644b8dc-b74f-11ec-8ba8-f6bf3099f5f6.jpg?crop=1513%2C851%2C792%2C269&resize=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "OxTZr1F+GF1SihtitnES1C57DFTd9rwbX5MoUxK5n2sU45ZTNYVbH56TbVNmttZWsUlz1E9ANvo0+bOclPo+Z/62JU8BB6m1X/3T4SXnZvkSs4QR8NNx7KZ0Rw2LNX3aHEnSH2BJZ4LgKDST0vHjgpEts25Mqn/64Nb45rU2YtNrjhCpmzO1CrSI6dyX0AKJdVBi7tpAEKzhMnRut5HmLXDrGGH0PY93luW2D965WVSMDy1uXXfFOM/sfZ8kTQx0ZmPixtmgXmAFzvjVSzxHEgVHu1jF9Xyxe2XPdokVXsNoozfjBO9G3yU/D2ImBArbP2Ng4YSw3HHsldg1B5cNKcuU7RPh8R3RwmcTy48zqJDobgK1s/cwpZP5cC5B9kab+FR3Gzp2pz/GRU1oVoX6IIIpXkkQIQNfBs0SY4yPhtMEYvPdPKjhbsKrt7eYeYdxxBszaXt4rAsnwCgV2MuWd0DlbVIIeEBHNGls9xdhbkkgNmw0h0qVU4xlGhC0b2Tn3Y0mKPfFYT6f81pZZtk9+A==;bcU/3dfp2YqQ8v8wCirjUA=="
