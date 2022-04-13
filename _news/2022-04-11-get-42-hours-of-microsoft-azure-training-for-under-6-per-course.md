@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Bharat Petroleum collaborates with Microsoft to leverage cloud and AI technologies for better customer experience"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft announced a strategic cloud partnership for seven years aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-13T06:13:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/15850/bharat-petroleum-collaborates-with-microsoft-to-leverage-cloud-and-ai-technologies-for-better-customer-experience.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 33
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2022/a84fe41ed3a5ef75c9898ff34ff76221.png"
+        width: 600
+        height: 800
+        isCached: true
 
 secured: "VDWiFhqkZ6cMUAbgExLdWq5YpTY70Kp8rgiB/Gp9UX/wTFD2oAdZ9IKP6/Q5oXVJgYEuTFgoepuH6mp8xzsifvu/AItIAZQR8lxUv8zOP0aA6fEP/XplMZovJk6CV/GbHkeF0qvHUfMQ5avkNieDbEvgAByJxZFIgyJ6UMIbdZPIhX+wZZ+nJeNetgNtQUUQMw2/SumNr7OBU6CUz48HUclzQ5IFsw633KaEgfDR1ZsVew4lVOn1p4gpRIE7oR93fAQw+lobOVbbHStlqBJd1PWlb8f3Cgu2Dz8RDQMm1+m9/R4vF1GCC2bANmCZaumyx7plBPgO/rVBr+eGLtC3gKnyQvTTiug508a0y2wh91J8lyq7b/lkBiveMAA2+Glw56W/jY4TVxF/nn4D0fAeRwRsUWukQBGt5Nqud9hFQiRifYqHICUSmVUifT8k8bp1CUitO80TdIzAn+T4eByc0IGpAIQqfS7i6c9ep95cMZLc3HKqvHG/ZCDCHQeJOwjh+EJy5Ruz+7CdpclkmklpXw==;/2Iyb0E5GNIk4AQ583H+qA=="
 ---

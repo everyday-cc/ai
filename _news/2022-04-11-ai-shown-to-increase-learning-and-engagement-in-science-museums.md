@@ -23,17 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Artificial intelligence keeps kids engaged at museums"
-    excerpt: "Researchers are supporting children’s learning using AI to create a new genre of interactive, hands-on exhibits.<br /><br />"
-    publishedDateTime: 2022-04-08T13:40:00Z
-    webUrl: "https://www.dpaonthenet.net/article/190274/Artificial-intelligence-keeps-kids-engaged-at-museums.aspx"
-    type: article
-    provider:
-      name: dpaonthenet
-      domain: dpaonthenet.net
-    quality: 17
-
 secured: "lt0Dvgk72FAap4fW3cyRa7jb+VOsiwyjoP47q+xRJgG59Mel4ksjKlEb0SHX1ab6ARtrUyNaMn3EYJpStgxMnfDZ3n7X4ikrrTbEMylcfrTS8c0H1ly6N9st7pNBRa9tF+uOZUBROojHJJhQ3IFLTqPeglShwFRq/PwbraohBcSrXd05J++V49pxkop/h7/4rXjkkuxDyPKJ9tknlN/cdyQlEMFlm7GD4rxw7sioG4bXRY/l7gNrwqdTAZS5y5d2gzI459ovk5Ab7vldcoVcf2hI9Bm1alEjUZ081HyXLzSPRbXwxckTg/h9xtCA+saulTvw44N+wURn83p2eTIAvUGKBGiIKKgYEnWsNYNKcTQ=;mfKaPwogLVnV7pYtPZPt+g=="
 ---
 

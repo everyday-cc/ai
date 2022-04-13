@@ -7,7 +7,7 @@ originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-
 webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.swissinfo.ch/resource/image/47509210/landscape_ratio16x9/1920/1080/1ccf7595703ab7c3af80b185a0b5334e/7E4CB036918704837B10AE13800F6F2E/ai.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Backed by global tech giants, Bulgaria’s new AI institute seeks world-leading status"
+    excerpt: "The Sofia-based Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) wants to gain world leading status within a decade."
+    publishedDateTime: 2022-04-13T06:59:00Z
+    webUrl: "https://emerging-europe.com/business/backed-by-global-tech-giants-bulgarias-new-ai-institute-seeks-world-leading-status/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 32
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2022/04/bigstock-conceptual-background-artific-22210097-1024x768.jpeg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Bulgaria partners with Google, AWS to launch computer science, AI research centre"
     excerpt: "Bulgaria attracted a combined investment of over 12 million levs ($6.7 million/6.1 million euro) from US technology giants Google, DeepMind and Amazon Web Servic"

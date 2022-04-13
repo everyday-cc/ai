@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-ca
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-driving car stopped by San Francisco police"
+    excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
+    publishedDateTime: 2022-04-13T06:48:00Z
+    webUrl: "https://www.the-star.co.ke/news/world/2022-04-13-self-driving-car-stopped-by-san-francisco-police/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
+    quality: 24
+    images:
+      - url: "https://lh3.googleusercontent.com/W5CX_RecPpSBzSU4ULyCsM8oKZaYqLtvmBQ-63EMqxE8ZpbBTkQNqywjZph6JfvXk-z2oidqFaSh94lzNEh0qrhN8a6rT2d4sGHXMwkgAw=s1000"
+        width: 976
+        height: 549
         isCached: true
   - title: "How San Francisco became an autonomous vehicle test course"
     excerpt: "go on different missions throughout The City to train the Waymo Driver, its proprietary artificial intelligence, in different environments, a company spokesperson said. The vehicles sometimes travel in groups back to base after a shift. Cruise, which uses ..."

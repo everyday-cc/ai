@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-03-16-eye-health-computer-vision-syndrome-is-caused-by-excessive-screen-time-symptoms.md",
+      "title": "Eye health: ‘Computer vision syndrome’ is caused by excessive screen time - symptoms",
+      "excerpt": "However, 24 years ago, in 1998 doctors coined the term Computer Vision Syndrome, or CVS for short. It was used to describe the impact of computer screens on the eyes. READ MORE: Vitamin B12 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Screen-use-eyes-1581562.jpg?r=1647442972900",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms/amp",
+      "publishedDateTime": "2022-03-16T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-how-to-encourage-ethical-ai-in-financial-services.md",
       "title": "How to Encourage Ethical AI in Financial Services",
       "excerpt": "Following publication of the Bank of England and FCA’s Artificial Intelligence Public-Private Forum (AIPPF) final report on AI in financial services, Gery Zollinger, Head of Data Science & Analytics at Avaloq,",
@@ -1061,49 +1104,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci-headsets-that-control-devices-through-thought.md",
-      "title": "The Metaverse Gets a Boost: NexStem Announces the General Availability of Its Award-winning BCI Headsets That Control Devices Through Thought Alone",
-      "excerpt": "NexStem, a MedTech and robotics startup that creates non-invasive robotic solutions controlled exclusively by a user’s thoughts, today announced the finalization of its latest round of funding and the general availability of its NexStem Headsets and Wisdom-SDK (software development kit).",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci/article_34b68e7c-cdd5-5010-b854-532674924755.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/the-metaverse-gets-a-boost-nexstem-announces-the-general-availability-of-its-award-winning-bci/article_34b68e7c-cdd5-5010-b854-532674924755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/8/33/8336c899-24da-51b4-8e59-967bac7bc5df/6231b6379e209.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

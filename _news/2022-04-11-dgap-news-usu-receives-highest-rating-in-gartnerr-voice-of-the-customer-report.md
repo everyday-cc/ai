@@ -32,6 +32,15 @@ related:
       name: realwire
       domain: realwire.com
     quality: 4
+  - title: "USU receives highest rating in Gartner(R) 'Voice of the Customer' report"
+    excerpt: "USU recognized as Customers' Choice by IT Service Management customers in EMEA. Möglingen, April 11, 2022 - USU is the only German manufacturer to be included in the new 2022 Gar"
+    publishedDateTime: 2022-04-11T11:18:00Z
+    webUrl: "https://www.dgap.de/dgap/News/corporate/usu-receives-highest-rating-gartnerr-voice-the-customer-report/?newsID=1551127"
+    type: article
+    provider:
+      name: dgap
+      domain: dgap.de
+    quality: 3
 
 secured: "MSmlolfsZ77SWbs5vg4RIypp6uoPtOeQPYWqOC0xP6QBmBYXdeBAyuT9MGXkWa1UyREKvkWngG3P0yqTuoTZZFHIgrrgPaNWxRiVDO+UicXDCdOJTrHV7kldOjXPV9CCSMRgjKohxmAg3x5x7ekpuVmNTIFjLHIbtrLEnLeaMl+jZv9zvV36N7z+fF64PynQ3odyGMUyqyb6+7z/6hMzPGrnDaGW3jdndVjcTrMCa53NTUBUKm289/s8xSz+gx4ZfeZZ883xe5Ah8fXTbvs2m6IN9hXuORbA5mEi/ZgVgzR6RmvvFLKOdDtC/xNsigG9xnuJrlre8v6iBnaZrTSoFaQS4eofsV2YnD59wufGQzA=;EWXL28yzUxnFb5Y9peIvDg=="
 ---

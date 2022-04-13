@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/indi
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "A new AI-powered chatbot now aims to ensure online safety for India’s youth"
-    excerpt: "Developed by the Population Foundation of India, SnehAI creates awareness around online risks and provides tips to stay safe while browsing the internet."
-    publishedDateTime: 2022-04-08T13:08:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/new-ai-powered-chatbot-aims-ensure-online-safety-for-indias-youth-7860295/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 15
   - title: "Who are Beatoven.ai? Meet India’s first and only AI-backed music tech start-up"
     excerpt: "Beatoven.ai is India’s first and only AI-backed, new age, web-based disruptive music tech start-up that provides a platform for music composers and content creators to help them create royalty-free, affordable, easy to license, exclusive music."
     publishedDateTime: 2022-04-12T12:32:00Z

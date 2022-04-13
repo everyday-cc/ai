@@ -34,6 +34,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
+    excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software."
+    publishedDateTime: 2022-04-12T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
     excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software. The sleek laptop, coupled ..."
     publishedDateTime: 2022-04-12T19:29:00Z

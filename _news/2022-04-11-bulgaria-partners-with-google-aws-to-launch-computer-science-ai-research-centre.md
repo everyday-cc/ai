@@ -47,6 +47,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Backed by global tech giants, Bulgaria’s new AI institute seeks world-leading status"
+    excerpt: "The Sofia-based Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) wants to gain world leading status within a decade."
+    publishedDateTime: 2022-04-13T06:59:00Z
+    webUrl: "https://emerging-europe.com/business/backed-by-global-tech-giants-bulgarias-new-ai-institute-seeks-world-leading-status/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 32
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2022/04/bigstock-conceptual-background-artific-22210097-1024x768.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
     excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
     publishedDateTime: 2022-04-12T12:04:00Z

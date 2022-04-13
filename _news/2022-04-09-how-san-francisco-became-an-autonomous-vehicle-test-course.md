@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving car stopped by San Francisco police"
+    excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
+    publishedDateTime: 2022-04-13T06:48:00Z
+    webUrl: "https://www.the-star.co.ke/news/world/2022-04-13-self-driving-car-stopped-by-san-francisco-police/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
+    quality: 24
+    images:
+      - url: "https://lh3.googleusercontent.com/W5CX_RecPpSBzSU4ULyCsM8oKZaYqLtvmBQ-63EMqxE8ZpbBTkQNqywjZph6JfvXk-z2oidqFaSh94lzNEh0qrhN8a6rT2d4sGHXMwkgAw=s1000"
+        width: 976
+        height: 549
+        isCached: true
 
 secured: "7A6QC2dRkQ58Bp+gZzh3x9n3dcQZjokpbEsEJZ/UQ8mrx6tf0diz3WXCAiDM0dzlYj/N8o9aCnOJR1ilDPAFReOfEzM6P20pwkBxdNndDOTSz71x3POB4sb3Q4ZGr1uJRlVblxMN1HxCV4R6W9jdZ9HA5lCzw9X+G/FUpajYzlr+ntxk5kP3xXyf2YBCR4i1CujLgGgzzbDcKo/+CZ82en+Ktm6FUPGOodzEl3NNIc834BieNwSAXgJoPOiKC5kFTY31Taib+dmQ/LrsUbRFsauH7GJXdByFFocTQ97Bj3GiBKXuJs913iwnAtnyYnBZ/RSZBDinfN7hUcLyVh47q6BQ6QbaNk/y42PNH9G8AK4=;77rjb7GsGLV/0L4gRHK3ow=="
 ---

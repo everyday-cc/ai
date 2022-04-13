@@ -61,6 +61,20 @@ related:
         width: 353
         height: 249
         isCached: true
+  - title: "Intelligent workforce platform Observe.ai raises USD 125 Mn in Series C"
+    excerpt: "Observe.ai plans to scale the company’s go-to-market motion, drive continued geographical expansion into international markets, and accelerate its timeframe to IPO readiness."
+    publishedDateTime: 2022-04-13T07:21:00Z
+    webUrl: "https://analyticsindiamag.com/intelligent-workforce-platform-observe-ai-raises-usd-125-mn-in-series-c/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/observe.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Observe.ai lands $125M in funding for its intelligent call center software"
     excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
     publishedDateTime: 2022-04-12T11:59:00Z

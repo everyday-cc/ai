@@ -69,6 +69,20 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Bharat Petroleum collaborates with Microsoft to leverage cloud and AI technologies for better customer experience"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft announced a strategic cloud partnership for seven years aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-13T06:13:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/15850/bharat-petroleum-collaborates-with-microsoft-to-leverage-cloud-and-ai-technologies-for-better-customer-experience.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 33
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2022/a84fe41ed3a5ef75c9898ff34ff76221.png"
+        width: 600
+        height: 800
+        isCached: true
 
 secured: "ho//WGUrqdb6FDp4cqX0tCJ/mNCuFg3Z+n0pMNmffSmx7oaWdYr+aLE4kYjqgtkVVexeVglXP0Jb5FEBH8IAifItKWGcNKjytkm+zAvasue2RYbrZAGKsCaABOZlOGGjokhobFVqrhLG0NipTe5vE5AkCd6jI1Mqscg8yc3CRrAANUkqNAWesWxqAJGDcObp43vlZR6H1RstQFecl9xsOiAaefw5u6kzyjXT7VbSRgDi9z6rHz/2zTxLltqr9Jvp6rhyaSm+Iv3OVfmq/cV9MO4iHa0JRZLEW57M/sJ+LRAPTud2+c6xvvzHW0yMsyGHjH+mrDQC2qFXpIK6RubIEbx3FhZxpk6q84N6VVL47TY=;YeZv6+vT9996h+notnWgdQ=="
 ---

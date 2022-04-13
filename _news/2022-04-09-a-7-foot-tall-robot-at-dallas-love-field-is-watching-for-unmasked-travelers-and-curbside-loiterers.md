@@ -7,7 +7,7 @@ originalUrl: "https://theeagle.com/a-7-foot-tall-robot-at-dallas-love-field-is-w
 webUrl: "https://theeagle.com/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and/article_ae6d6fb8-b78e-11ec-b134-47a3816d14cd.html"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "A 7-foot-tall robot at Dallas Love Field is watching for unmasked travelers and curbside loiterers"
-    excerpt: "Dallas Love Field is testing out two Security Control Observation Towers at the airport, one near baggage claim and another near security checkpoints,"
-    publishedDateTime: 2022-04-08T14:47:00Z
-    webUrl: "https://www.dallasnews.com/business/airlines/2022/04/08/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and-curbside-loiterers/"
-    ampWebUrl: "https://www.dallasnews.com/business/airlines/2022/04/08/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and-curbside-loiterers/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/airlines/2022/04/08/a-7-foot-tall-robot-at-dallas-love-field-is-watching-for-unmasked-travelers-and-curbside-loiterers/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 45
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/9oXtuMvCECPH58ylJhyoMFmLqRw=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/ENCDMFCA7ZA5XGDTWUYQFFU3PM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "See3DIkRnAGeJKoCgARILJXE4xhje/xkODLkYzDyyKVnrGIJQcmnlTBEtplDTDzCLyicAm63AwnAsNOnoXAwDiSpk1gubXiuYBL113wDjt8KhjvI+6YsYzenzrBtlfW0c9YDGkSmbcfQjOIMEcL8T8it/bieoOYLW80XTiEp7OS/7vYBLJ1wBrGXtUB6MLwyfWwP63bdsaoeqwSV6ntHcX4DzjnsO9CAp7m1y+yg1AmaeL8cm0h8Dwcp3hdgWrtlKr8NgM99cAEqTClsB9nBenezjFrSJsoGlz9kKNj5lUyl1xAA3oSIjv8xjErl18LW4+Ef9eClEoTHBWuH4I1YDsCaNzaOXubCl8wf2yOwK8QslE6YSuBY75W0Gh33nLg7f4MRELkyjKHe1iEnilObMlAViz66HVD79whaasttuw6ByOml5ycT6cl2xbR4C+vpIHuZb9K4eOd5nS/YQ316MYatL9rpAVcRXIjvrY6WQ1xJa9LTfdXbG0VPJcpsMadYwhjCwrl3kLQ7673xR6VpmA==;IMIG6jWepqObB0Pa5Zj7rA=="
 ---

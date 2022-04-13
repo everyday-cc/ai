@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/04/MaRS.jpg"
         width: 1052
         height: 630
+        isCached: true
+  - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
+    excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
+    publishedDateTime: 2022-04-13T06:42:00Z
+    webUrl: "https://www.techthirsty.com/increasing-ai-startups-also-require-funding-to-meet-expenses-until-profits-begin-to-increase/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 26
+    images:
+      - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"
+        width: 948
+        height: 451
         isCached: true
   - title: "How AI Is Powering the Future of Financial Services"
     excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
