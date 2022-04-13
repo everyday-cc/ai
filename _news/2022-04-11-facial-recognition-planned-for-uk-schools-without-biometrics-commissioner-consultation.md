@@ -37,20 +37,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 56
-  - title: "Wicket joins leader ranks in NIST face biometrics 1:1 test"
-    excerpt: "The computer vision and biometrics company submitted its facial recognition algorithm for assessment by NIST for the FRVT 1:1 test in February 2022."
-    publishedDateTime: 2022-04-08T22:04:00Z
-    webUrl: "https://www.biometricupdate.com/202204/wicket-joins-leader-ranks-in-nist-face-biometrics-11-test"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/07/03145243/DHS-PII-access-management.jpg"
-        width: 1280
-        height: 854
-        isCached: true
 
 secured: "mk4q2Oyw8g9yp6LsZp/VEwzoEG5ztwpJB7PNRkhRj7tT8jz8c9Dp93EGt/ifmo75SOSmWWRpA37TPbtKeL34O2YtIaUIJrwUl+tXPLiaR4+MpA/HSzCaPGONVOLN1huEbDqzHm7rWE8dB47UkQAjbw7ZZBmzye6gNa05k1lFPzK3JMK8NbqjguaqG4f/q1Flvbn0mXgFLH8Tl/U1I5wDQtO3+qeMVsnzbcPIuk44bVb5UfBbAYvB+SQbwr2EXgbvVTUuuTbAPXn6xWkJ6BcLxjJAovGYqKk1ybl1xH43DJU1yzwp3hhCXdErCZW1yMBGD3F+VUFJMUe1yYpGRt2F2iNLOgvQLZfWNvf5ttnIQjeP4tWzl7/KApHqKixd/yAPTpmtNGYIAMJDTTLD411pj2lIWkW7JpvklkH6jYkXGMPtxA0+DzpXJ/hXfpxdctfX+UEdaDYOhdse5lKGOS+HDSAV6Tq0TiZuf3dD47+++p6buPeLsTCp3+/8233EjbsQbR0BMi5SpYV+GcSHnYmmHQ==;qERsH1yLEh2dVgrJlan4ng=="
 ---

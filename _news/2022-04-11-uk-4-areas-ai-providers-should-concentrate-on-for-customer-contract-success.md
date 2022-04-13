@@ -23,6 +23,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Advocat AI Has Created an AI-Driven Legal Contract Generator to Save Businesses, Their Corporate In-House Attorneys, and Customers Time and Money"
+    excerpt: "Advocat AI has created an AI-enabled platform to create legal documents to help in-house attorneys with legal intake, research, and drafting. This provides"
+    publishedDateTime: 2022-04-13T12:45:00Z
+    webUrl: "https://www.goskagit.com/townnews/commerce/advocat-ai-has-created-an-ai-driven-legal-contract-generator-to-save-businesses-their-corporate/article_845220be-bcc0-5a5f-b7a9-9d2f5ff29414.html"
+    type: article
+    provider:
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 0
+
 secured: "X+rhQjrFbgjSs9eKYrx7WZOg125akgA8nhoHxg6jiW+6euQV37FLcgfYwMDNzRtZ5M30A0EWlEhLZAHobkmfK5vuvu4we+wzSXcCFc5lP3RYIyr8xBWwX7KDg4gIY8jR0Mn9a5WLTpO8TL7Zy5ZJq83ajwEEyooFNLyFTgIfa5DFMfmbAESz0aW2bLUivWideSCVYv/iybgNZNGFZEhl7BF9RM2AlQHhqLmF2d0FGUFf0AVwrPkxBVqVOzptIhVBpZ06hovXNqsxCRBCrLLzqVA474maVXghgvsepZwwpSDut7uczErWEVgiXdTaOa0Cw2VYcjH9Qg6X/BfPlfg5XEaRs67+Af0fcxezWTWCIkQ=;NqCfXAzpfRUnBy2S9eo1ww=="
 ---
 

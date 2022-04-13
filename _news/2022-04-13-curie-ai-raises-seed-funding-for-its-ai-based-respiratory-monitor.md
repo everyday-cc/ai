@@ -24,34 +24,40 @@ images:
     isCached: true
 
 related:
-  - title: "Who is funding AI research?"
-    excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
-    publishedDateTime: 2022-04-11T04:20:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research/"
+  - title: "Zoom launches AI-powered features aimed at sales teams"
+    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
+    publishedDateTime: 2022-04-13T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
-        width: 896
-        height: 504
-        isCached: true
-  - title: "Deep Bio Presents Research Results of AI-based Cancer Diagnosis and Prognosis at the AACR Annual Meeting 2022"
-    excerpt: "Five abstracts in prostate and breast cancers, Deep Bio's main research areas, are presented during the online sessions."
-    publishedDateTime: 2022-04-11T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/deep-bio-presents-research-results-of-ai-based-cancer-diagnosis-and-prognosis-at-the-aacr/article_0a1c437f-8385-58f2-8dc0-fe42e8d12fdd.html"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+  - title: "Db2 13 makes z/OS debut, promises AI, hybrid cloud features"
+    excerpt: "In the first major upgrade since 2016, IBM is releasing a basket of updates for the edition of its well-established Db2 relational database for the z/OS mainframe operating system. The latest tweaks are designed to use machine learning to make systems more efficient to manage and operate."
+    publishedDateTime: 2022-04-11T16:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/11/db2_13_appears_for_osz/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
+      name: theregister
+      domain: theregister.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://regmedia.co.uk/2022/04/11/database.jpg"
+        width: 820
+        height: 312
         isCached: true
+  - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
+    excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."
+    publishedDateTime: 2022-04-13T13:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/evolutioniq-debuts-ai-powered-technology-aimed-at-lowering-insurance-claims-costs/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 14
 
 secured: "dLyysJ7VQbZ1WmNZ0DTBy1OxDLzHZxx2l/gWVY1oElA9LmjJ8MRr07gmYmTClk2xunNK7mbIVaScqfdHGAY3U6ArU03EGM3M6YD5Fio1viI5Rd7tfneC6pOa+/mbcGxpGcU+YsY5M6j1zVMmuG8Ia95YqM0jCIYqx63+EFr8Mlra7ExhadxLQIapa7T4HRCYzC8HFKticEVWt6f3i9aKuxM7JEryKeQpTF83EHrxNaic9cffN+TV3dxwNFAl4nt9nKI2gxhlLozAVKc4eq1pAbVGK1c2ftL1newYd0unBUtQYlhh7uyqDkjkN9i9hh8yWGGUdeCeJzaes/+obGSsEeH3dh8H/fdBkKh/LvwH4E0=;IAuEH4WA5Dd38ftHjsWmZA=="
 ---

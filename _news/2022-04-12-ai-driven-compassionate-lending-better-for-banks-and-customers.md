@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T15:00:00Z
 originalUrl: "https://cloudblogs.microsoft.com/industry-blog/microsoft-in-business/financial-services/2022/04/12/ai-driven-compassionate-lending-better-for-banks-and-customers/"
 webUrl: "https://cloudblogs.microsoft.com/industry-blog/microsoft-in-business/financial-services/2022/04/12/ai-driven-compassionate-lending-better-for-banks-and-customers/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Microsoft

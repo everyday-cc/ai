@@ -58,6 +58,29 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Panera Partners with Fast-Food Robot Maker Miso for Brewed Coffee Monitoring"
+    excerpt: "A heavily funded fast-food-focused robotics company called Miso Robotics is partnering with Panera to test a monitoring solution for batch brew coffee stations. The Pasadena-based robotics maker"
+    publishedDateTime: 2022-04-13T13:49:00Z
+    webUrl: "https://dailycoffeenews.com/2022/04/12/panera-partners-with-fast-food-robot-maker-miso-for-brewed-coffee-monitoring/"
+    type: article
+    provider:
+      name: Daily Coffee News
+      domain: dailycoffeenews.com
+    quality: 36
+    images:
+      - url: "https://dailycoffeenews.com/wp-content/uploads/2022/04/Miso-Robotics-coffee.jpg"
+        width: 1240
+        height: 812
+        isCached: true
+  - title: "Panera testing coffee-serving robots"
+    excerpt: "Panera is partnering with Miso Robotics to test a coffee maker they say can brew the perfect cup of coffee. The CookRight coffee line uses artificial intelligence to monitor key coffee metrics including volume,"
+    publishedDateTime: 2022-04-12T21:40:00Z
+    webUrl: "https://www.kfvs12.com/2022/04/12/panera-testing-coffee-serving-robots/"
+    type: article
+    provider:
+      name: KFVS12
+      domain: kfvs12.com
+    quality: 19
 
 secured: "GMUbEcvz3ohvQd0su08veoxILV2EzehC10x/XM++W0tv5KTTe/HksHHY0nQQCMF5ZRsnGFnlV8F7SrGuwu/pgDlHalSLDkrKh0rJ1PQnOooo7NuZiURVl6rOmKt1HobfeOEEAMNmXKNviHQAjo8F5KIQnV4gMjB7zySkuqesw8j7G9RoJOtJfdhxEbv1KOivex7x118TPCvSmLnOO/Wh8lWcE6UZdXy6y+n3yJJucBirZH2HleXEqzKiPK/a0PJhgMq2SwfQJvvS//ZXHzh89uiRLzegJHSICFs3b4nhk9FToAwjw53fEp/xriuO+Lyi74IOc2dagbC5Fksoi8ODzCO6pXMjEJWZHgqVncpEu3g=;DKb6jb7fSHi1xhnusW9SZw=="
 ---

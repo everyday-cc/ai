@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Dell, Nvidia, AMD to power new Ohio AI compute cluster"
+    excerpt: "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator"
+    publishedDateTime: 2022-04-13T13:30:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Intel Takes on AMD, NVIDIA with First Discrete GPU for PCs"
     excerpt: "Hyper Compute uses the combined resources of the CPU and GPU to speed up AI workloads. The company has partnered with top OEMs such as Dell, Lenovo, HP, Samsung, and many others to roll out laptops for gamers and professionals that feature Arc 3 GPUs ..."
     publishedDateTime: 2022-04-12T19:49:00Z

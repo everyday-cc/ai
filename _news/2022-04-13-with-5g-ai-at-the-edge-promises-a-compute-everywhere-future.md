@@ -1,0 +1,76 @@
+---
+category: news
+title: "With 5G, AI at the edge promises a compute-everywhere future"
+excerpt: "Luxury auto maker Audi is driving full-throttle toward Industry 4.0, using AI inference and computer vision on the factory floor with autonomous robot welders that can react in real time and fix issues that may arise when welding the frame of a car."
+publishedDateTime: 2022-04-13T14:00:00Z
+originalUrl: "https://www.technologyreview.com/2022/04/13/1049529/with-5g-ai-at-the-edge-promises-a-compute-everywhere-future/"
+webUrl: "https://www.technologyreview.com/2022/04/13/1049529/with-5g-ai-at-the-edge-promises-a-compute-everywhere-future/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: MIT Technology Review
+  domain: technologyreview.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/intelphone.png?resize=1200,600"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Future Proof Your Business With AI In Products And Services"
+    excerpt: "Artificial Intelligence (AI) is one of the most potent technologies businesses have ever had access to. In order to thrive and meet the customer expectations of the future, businesses must consider integrating AI into their products and services."
+    publishedDateTime: 2022-04-12T05:57:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6255147e2792781e826c01b6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off"
+    excerpt: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off. | Crowdfund Insider: Global Fintech News, including"
+    publishedDateTime: 2022-04-10T23:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 65
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
+        width: 809
+        height: 607
+        isCached: true
+  - title: "AI in financial services"
+    excerpt: "Artificial intelligence stepped out of science fiction years ago and is at work in Luxembourg in insurance, financial services and fraud. Andreas Braun, director, artificial Intelligence and data science at PwC Luxembourg and Ajay Bali,"
+    publishedDateTime: 2022-04-11T09:53:00Z
+    webUrl: "https://delano.lu/article/ai-in-financial-services"
+    type: article
+    provider:
+      name: Delano
+      domain: delano.lu
+    quality: 41
+    images:
+      - url: "https://assets.paperjam.lu/images/articles/ai-in-financial-services/0.5/0.5/600/400/488342.jpg"
+        width: 1050
+        height: 688
+        isCached: true
+
+secured: "ff02FiqcKYm9HD37rx1xOlss4GgoPL/Y9OLOSgoIYu8I2K9+sjZTtiq39UKx5ZZeZuVo9X3fG9zkZHpr8TR1U+6V+KZB+qTGK/T40iAXK3as7AohVpTsUp3kC/uOwRUm8bz/bB90yJuxJn7kNlW01Xq+qKdQXFXhdpiOO6AuFbkOJVHDSMIfjItn2DVwanNRQrWTlO5syvc/HWgXbMUCs5xf7QKo59l+ozPdSH19Kvo/UEnyYS6bvi4+RdE3wHUDoxhqKG0HDP1+zWuvXD8182n+W+yAhOv96kZNjh9mmKtI0MavruofV/ncDNH0vq3+0yAKhINrbbOdpiGo58mDvbYkFeNhSx8O7rePnw+n8VI=;SVxK6hV/KbWxP5ekEi2lvg=="
+---
+

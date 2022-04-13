@@ -59,17 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Like Tesla, Toyota Wants To Conduct Self-Driving Research With Cameras Only"
-    excerpt: "When Tesla pulled the sensors from its vehicles in order to run advanced driver assistance systems with cameras only, it received a lot of pushback from experts in autonomous research. Toyota’s self-driving subsidiary,"
-    publishedDateTime: 2022-04-08T21:35:00Z
-    webUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/"
-    ampWebUrl: "https://www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/04/like-tesla-toyota-wants-to-conduct-autonomous-driving-research-with-cameras-only/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 37
 
 secured: "dHWiz3JgkQ0297hMtUZfDPYvkAWnRvyIU7tyfElgGXHUjl/aig4W19vrpC/aT5F5/EKDxyJD2IibY7miTIdKIPUVt0ZYkAq80B9AmrZkYveFwTb0QvendKO4T4eyjNLyP3nOjVR2eJleICiW/whwOo8RGGUbWhcxH46Y9+v3umO55xPU7zpv3X2P99MaCT43fJeYT9e3O3sp3vVMPWA1Lz24s5zCuXVTXndqL4s0lpJHhLP08a0e/p2hBO6h7jk6cO41gRurGReEK+rxGKoUpbVH3lsAzPH/CN1M3k0vda4tOUysoycKSD8O25v+bGV/wgizAoEMheZVJAKCI9i6und+fQsownUWUFLKRC867TU=;EaO1W9zdgfFCWXnXNDcMXg=="
 ---

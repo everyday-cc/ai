@@ -88,6 +88,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Noogata Secures 16 Million USD to Streamline Enterprise Access To Artificial Intelligence"
+    excerpt: "Noogata has announced the completion of a 16 million USD series A investment round to further simplify access to Artificial Intelligence (AI)"
+    publishedDateTime: 2022-04-13T13:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/noogata-secures-16-million-usd-to-streamline-enterprise-access-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 8
 
 secured: "M+BlBVY9pNY3kEa3Wx+Ogx1HmqpjYQ/s69ldCmFYsk7XV8x1ON7RbIB0Adwf2DSKUtcP3bmf9qZD+gDf1cjqPJHcoNur6bLWd9ShjxFbreSk0XG124iHbDZIftCDkkZmgjC8Zz+kyU3PgsyQaZzrytu6kHjzWbWH3F+/JPCfMlrH9F9YGLg8vmTHVjxOwl8u4RrZBAx4/eQZXKnzSYMhTgYbhwstojGse5pNGJtxXQqU5BW/+e2A98dEnfn9NMhOCQ6gRx+9/gpQ7hqzig+wRyw0QzbqCI+0f4OOr0SmyZNiyr2MxyaImpaYGbMrEnRV94ky0UlXdQATP9+dlQal7l6SyN/Vw6X/09LogvhzZT44m9bxflKuKV4zEjZ0g96enPWjyuFi2N7qLozTUk39x5quHKKLd5/uVcgUz9iP9ilN4UDIIZqBezlT/gAwP/9wLXnTKgB29hM3hECfWjNQEEqiv7aNOvQ/3XfXLsVAeiQSVmEHqDP1vRivYWIvBoZan4CMpW0hkVheYduUetlJrw==;wdW/tu8z8m6qH24S7aIqGA=="
 ---

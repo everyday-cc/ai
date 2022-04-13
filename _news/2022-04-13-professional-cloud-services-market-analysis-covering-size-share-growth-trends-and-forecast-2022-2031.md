@@ -25,48 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Sales and Revenue Analysis Report 2022 to 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning Market which emphasizes on the la"
-    publishedDateTime: 2022-04-08T20:33:00Z
-    webUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Revenue-Analysis-Report-2022-to-2031"
+  - title: "Server AI Chip Market, Global Outlook and Forecast 2022-2028"
+    excerpt: "The global Server AI Chip market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
+    publishedDateTime: 2022-04-12T04:44:00Z
+    webUrl: "https://galleonnews.com/news/246952/server-ai-chip-market-global-outlook-and-forecast-2022-2028/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
-        width: 295
-        height: 250
-        isCached: true
-  - title: "Facial Recognition Market Sales Revenue, Emerging Technologies, and Industry Expansion Strategies 2022-2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Apr 13, 2022, 02:55 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 b"
-    publishedDateTime: 2022-04-13T08:36:00Z
-    webUrl: "https://menafn.com/1104005637/Facial-Recognition-Market-Sales-Revenue-Emerging-Technologies-and-Industry-Expansion-Strategies-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
-        width: 445
-        height: 250
-        isCached: true
-  - title: "Robot Operating System Market Report 2021 Size, Share, Growth, Trends, and Forecast 2031 | Analysis"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Robot Operating System Market that emphasizes the l"
-    publishedDateTime: 2022-04-11T08:43:00Z
-    webUrl: "https://menafn.com/1103990022/Robot-Operating-System-Market-Report-2021-Size-Share-Growth-Trends-and-Forecast-2031-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?199514"
-        width: 649
-        height: 250
-        isCached: true
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 34
   - title: "Military Satellites Market Growth Analysis 2022 by Top Manufacturers, Company Overview, CAGR Status, Revenue and Forecast till 2028"
     excerpt: "Apr 11, 2022 (The Expresswire) -- \"Military Satellites Market\" report compromises a wide range analysis of market dynamics like current trend,"
     publishedDateTime: 2022-04-11T05:38:00Z
@@ -81,45 +48,54 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Iris Recognition Market Poised to Garner Maximum Revenues by 2027"
-    excerpt: "On the contrary, high price of iris scanners, availability of substitutes like fingerprint scanners and face scanners, lack of awareness, and technological limitations are factors that may limit the global iris recognition growth over the forecast period."
-    publishedDateTime: 2022-04-12T10:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iris-recognition-market-poised-to-garner-maximum-revenues-by-2027"
+  - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
+    publishedDateTime: 2022-04-12T12:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-marketing-market-to-hit-usd-21-bn-market-size-share-trends-analysis-and-forecast-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "India Artificial Intelligence Market 2021-2026: Industry Growth, Size, Share, Analysis and Research Report"
-    excerpt: "India Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 11, 2022 /EINPresswire.com / -- According to the late"
-    publishedDateTime: 2022-04-11T20:41:00Z
-    webUrl: "https://menafn.com/1103991600/India-Artificial-Intelligence-Market-2021-2026-Industry-Growth-Size-Share-Analysis-and-Research-Report"
+    quality: 23
+  - title: "Artificial Intelligence in Accounting Market Insights by Emerging Trends, Growth and Forecast till 2022-2031"
+    excerpt: "Comserve / -- Artificial Intelligence in Accounting Market Growing need to automate mundane accounting tasks and support data-based advisory and decision making is expected to drive the overall growth of AI in accounting market."
+    publishedDateTime: 2022-04-13T08:34:00Z
+    webUrl: "https://menafn.com/1104005070/Artificial-Intelligence-in-Accounting-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2022-2031"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 21
+    quality: 20
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/11/EP_9d67cimage_story.png"
-        width: 640
-        height: 383
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
+        width: 445
+        height: 250
         isCached: true
-  - title: "Deep Learning Market 2022 Recent Trends, Opportunity and Challenges, Top Manufacturers, SWOT Analysis, Growth Factors, and Forecast till 2028"
-    excerpt: "This Deep Learning market report tells about industry segments, technical and industrial advancements, current trends, product portfolios, driving factors, overview of SWOT analysis as well as the ..."
-    publishedDateTime: 2022-04-09T06:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-2022-recent-trends-opportunity-and-challenges-top-manufacturers-swot-analysis-growth-factors-and-forecast-till-2028"
+  - title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets.com's offering.Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an"
+    publishedDateTime: 2022-04-13T14:52:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-04-13/global-artificial-intelligence-in-digital-genome-market-to-2028-size-share-outlook-and-opportun"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 4
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "Global Veterinary Healthcare Market To Be Driven By Rapid Adoption Of Digital Technology In Veterinary Healthcare In The Forecast Period Of 2022-2027"
+    excerpt: "Artificial intelligence (AI) is increasingly being integrated into various veterinary healthcare research and development (R&D) operations to better analyse data, which is fueling market expansion. Key Market Players The major players in the market are ..."
+    publishedDateTime: 2022-04-12T10:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-veterinary-healthcare-market-to-be-driven-by-rapid-adoption-of-digital-technology-in-veterinary-healthcare-in-the-forecast-period-of-2022-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 4
+    quality: 0
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true

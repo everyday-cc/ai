@@ -9,8 +9,8 @@ ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/979273"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979273"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Proactiveinvestors UK
@@ -36,20 +36,6 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA4LTA4LTU1LTE5LThlZWYzYTJhM2U3ZmY0YzQzZjQ3ZDkzYmI5YjE2ODhhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
-        isCached: true
-  - title: "Guardforce AI Announces Closing of $10.0 Million Registered Direct Offering"
-    excerpt: "Guardforce AI Announces Closing of $10.0 Million Registered Direct OfferingNEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited"
-    publishedDateTime: 2022-04-08T20:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-closing-of-10-0-million-registered-direct-offering"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Boris-Johnson-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "eiuHk8P5LHt4RgTUK6HqCTFNQz1gOvn8jFhl1G4luVfh94gb4XKCpWB8ltpuhQDyRBS77E6Ptd2Iyf7JqroSBbHh6krMbuwqI0jT7I28QszU30gwjMb2DQ+/Qk3qwzZyh8V7crMpbSTidRdeGHEMm3iZ6Te506xf+j+iBoblyCQF9DC91BsjFOQ/9AgpoUln/9c1fNF74RvN/MQYef9Xi9Dn5eb14GNARfRyFv/iWZTMgIv1I1ogV6kM+ypf+ArHzoTwDo4NVhXJMGUKfRkjNxsfrVgdwhVoGblKUpn0OeUMioNccqRT+m3vy8aDbFLI8tHykV5c0MxeVNy0yF1kLcJPFkrD0wd/DCDhpWH8lZI=;k05j30CXeP/oLOmjAVXQwQ=="

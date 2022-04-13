@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "\"Using this data, we have optimized our AI to achieve 82% NLU intent classification accuracy in enterprise sales conversations. That's higher than IBM Watson, Dialogflow, and the average human.\" Businesses utilize Aktify's AI-powered virtual agents to hold ..."
+excerpt: "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ..."
 publishedDateTime: 2022-04-13T13:09:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - IBM AI
   - AI
 
-secured: "epa6dvUXtbnmS3bsN1uNlNX0azdHTVGVRdQqRkMztNFfnYTI7XeG7+njO2NQSpUNUoawwJP1GKQ+OrG9s6NXQT/gNyLNXQleDoLfAESIYgDI4SZ4zPyyOt+44Sku69/oLyKQgZSAdkWzNKiP8reb0VqkUQoR2/I6YUue+NhJ6JGHwlzRiQ6dAU+RSlge0wKgfdSRESJbOKBeDLhPELIDeXMpGSMd4t0iQIrq1X4V9DXTqX0wcr0bIfOYsJ3sQJ2w+WIz0wqmGm8Kpz8eWW7SzHB4RVcqwZv6jOtng7gkW8cKrQCc5Ke2OVexjwO3SgXqCY5ugF85wkG/1GbsHjtwOeI0p1Lt0xF34hFFoTz0YMk=;ZztLzpNrLhuviwCO5bIc5Q=="
+secured: "EvvJg1IBkENkwQqqxZ10sOc8aUyvJTgLz7trNBz0ktl5VfS3RavyGKXTpX97US611uM9n2MrVOEeHRLo8BMRSuVKseXXfidx1PMwh5GZpsSZ7ZhJi/a1NoOW6DQKzhEt+L5W8JsRlu951BKqq0bjQAodfPpDnC2kEA9hkuLx1LMeQy3njAd8lo5sqbKhQ/hHJnwfeeLl1DkYDOBzPeAjDO68OB9GB/iItvZYqAl6wVWYmB1CWpBbonZ+spZqvJZa38w1jvTJ/+QP8O0cT+ra/Ewb51SBGdY6t0r3FFoROvZ8xB/rbptvymhgEXdIsc2fDrBnR7rXZCWBjieB+tjfdCh7q7vy9dumQiN4tcAI3oo=;ynKfuH8oGf6lQG3qpuTf8g=="
 ---
 

@@ -37,20 +37,6 @@ related:
       name: Proactiveinvestors UK
       domain: proactiveinvestors.com.au
     quality: 55
-  - title: "Guardforce AI Announces Closing of $10.0 Million Registered Direct Offering"
-    excerpt: "Guardforce AI Announces Closing of $10.0 Million Registered Direct OfferingNEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited"
-    publishedDateTime: 2022-04-08T20:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-announces-closing-of-10-0-million-registered-direct-offering"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Boris-Johnson-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "snfyTZSUUkChGW7DzcEuX2+dgYS7SePiUd5gXDUjPfGqqYx7NbtrZz/0Eb3b6AmEBOTXW05/KVMr8uU9AcwB3WUDE+TvdmqEIvpEhx1rJ+wVM0OxvsKD3iQWoHt2E/mKFAKDNoJKnGIgO9hyC9XckuOelUYtYWFrBrydhAEJKFp1ETY/ok5+e1FO/FNr/vYwRnAWWPwkquNUKfV7KhqSQDi6RLBK+KSojTil5XmptIAnbP/eQd4vir6vRb3CgKGMawFu7nCnEg6YfnsvQXOvv2Xq7KfyavqkYaDlFUwhPJEV6qhxZzzcaQyzYt/MY4x41SVL/GsMABqWP5LzYJqiALpCaTmEJw4ghS/HTLzM6b0=;pdhNLHCPQMO9+gkm+Kl44w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T13:34:00Z
 originalUrl: "https://enterprisetalk.com/quick-bytes/neptune-ai-raises-8-million-usd-to-enhance-machine-learning-model-development/"
 webUrl: "https://enterprisetalk.com/quick-bytes/neptune-ai-raises-8-million-usd-to-enhance-machine-learning-model-development/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: enterprisetalk

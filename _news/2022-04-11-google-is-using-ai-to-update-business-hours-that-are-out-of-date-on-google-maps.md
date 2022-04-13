@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI and Robots Are Coming – To Drive Human Spirit"
+    excerpt: "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,"
+    publishedDateTime: 2022-04-13T14:01:00Z
+    webUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/"
+    type: article
+    provider:
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
+    quality: 54
+    images:
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg"
+        width: 750
+        height: 617
+        isCached: true
 
 secured: "7PDbq78O31RpieUOO2HGseoxZbDEyCXjTCoIjUihlzXSnhUAYO6NKksIgxPvOpFRaL0Vpnees1ilpUMVCh3img4HSMlAwvsYnwX2phKyD/OfE7rcT9e5JcyhpdX5NSUXz23QP1ajaO4ArTMlwdayG/E6mlLlNIrS/nA6tClhbR49xZaIS5sSbbGLwsqNLlPfh2GMUy5i+KRHLNPNhAX798nPSseKPaI/X0q2bsev/8zy5mzWIjKwkwGq1mF+TLQen3wOKsu20z/t6kSdhf4OY/zcGE2eWuQTWLMJUeC9Nokjlqrgzhm0U2cCTGgYs0x92WBw8+G6y7bc84kFZbXr1q/2VtbQ1nVN+GXwH/7DqfU=;u4Lm2UDJti2XO/NDdi7wDQ=="
 ---

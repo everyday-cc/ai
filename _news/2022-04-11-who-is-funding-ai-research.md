@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Curie AI raises seed funding for its AI-based respiratory monitor"
-    excerpt: "Respiratory illnesses are more common than many people probably realize: around 25 million Americans have asthma, which is around 1 in 13 Americans, including 8% of adults and 7% of children. Meanwhile,"
-    publishedDateTime: 2022-04-13T07:23:00Z
-    webUrl: "https://vator.tv/news/2022-04-13-curie-ai-raises-seed-funding-for-its-ai-based-respiratory-monitor"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 37
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21532.jpg"
-        width: 320
-        height: 240
-        isCached: true
   - title: "Deep Bio Presents Research Results of AI-based Cancer Diagnosis and Prognosis at the AACR Annual Meeting 2022"
     excerpt: "Five abstracts in prostate and breast cancers, Deep Bio's main research areas, are presented during the online sessions."
     publishedDateTime: 2022-04-11T14:00:00Z

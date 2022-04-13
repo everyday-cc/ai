@@ -34,6 +34,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "Lambda, Razer launch laptop for deep-learning app development"
+    excerpt: "The new Razer x Lambda Tensorbook provides developers with high-end computing performance for creating, training and testing deep-learning models locally."
+    publishedDateTime: 2022-04-13T12:43:00Z
+    webUrl: "https://venturebeat.com/2022/04/13/lambda-razer-launch-laptop-for-deep-learning-app-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
   - title: "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
     excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software."
     publishedDateTime: 2022-04-12T13:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketdataforecast.com/market-reports/artificial-intel
 webUrl: "https://www.marketdataforecast.com/market-reports/artificial-intelligence-in-manufacturing-market"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Server AI Chip Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "The global Server AI Chip market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
-    publishedDateTime: 2022-04-12T04:44:00Z
-    webUrl: "https://galleonnews.com/news/246952/server-ai-chip-market-global-outlook-and-forecast-2022-2028/"
+  - title: "AI in Computer Vision Market Size to hit 46.9% of CAGR by 2027"
+    excerpt: "AI in computer vision market is expected to grow from US$ 9,039.5 million in 2021 to US$ 95,080.5 million by 2027. The AI in computer vision market is"
+    publishedDateTime: 2022-04-13T14:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-to-hit-46-9-of-cagr-by-2027"
     type: article
     provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 34
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
     excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing digital data and increasing inclination toward the customer-centric business model."
     publishedDateTime: 2022-04-11T08:04:00Z
@@ -49,17 +54,17 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market in North America is likely to grow at a Rapid Speed in the Near Future"
-    excerpt: "Artificial Intelligence in Manufacturing Market by type/solution, service, organization size, end-use verticals, and Region – Global Artificial"
-    publishedDateTime: 2022-04-11T10:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-in-north-america-is-likely-to-grow-at-a-rapid-speed-in-the-near-future"
+  - title: "AI-Enabled Testing Tools Market Is Expected To Project A Stellar CAGR of 16.9% From 2022 to 2030"
+    excerpt: "According to a latest report by Future Market Insights (FMI), global AI-enabled testing tools market revenues will grow at over 13% CAGR through 2030."
+    publishedDateTime: 2022-04-13T15:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-is-expected-to-project-a-stellar-cagr-of-16-9-from-2022-to-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 13
+    quality: 24
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
         width: 600
         height: 337
         isCached: true

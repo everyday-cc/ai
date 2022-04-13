@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T12:44:00Z
 originalUrl: "https://www.livemint.com/companies/news/pickright-tech-partners-bajaj-financial-securities-to-offer-thematic-portfolios-11649853430568.html"
 webUrl: "https://www.livemint.com/companies/news/pickright-tech-partners-bajaj-financial-securities-to-offer-thematic-portfolios-11649853430568.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mint

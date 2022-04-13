@@ -61,6 +61,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Computer vision company Spyne secures $7Mn in Series A round led be Accel"
+    excerpt: "Gurugram-based deep tech and computer vision startup Spyne, has secure $7 Mn in series A funding. The investors were led by VC group Accel."
+    publishedDateTime: 2022-04-13T11:21:00Z
+    webUrl: "https://thetechportal.com/2022/04/13/computer-vision-startup-spyne-series-a-funding/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 18
 
 secured: "ZhJLjLuVyOO7uX4u/LCVZqVre7+zZ5nNDgyRb1klpCLdJZQ7Ydtx/a0vZsRiKHzW8UGdJqsnpvfplQX2ZWJlcB5fk+vTNmQuEm3dMYN8dbK1Be7kyoCvOQs4Dn3AYkhdtdNFdNSP3ZuCAYxxZycBQpXAyL3+wIWQRL7jCVJ50s9Fyhc8XmAz1rNCGBERrmNZ73z1suLW405yWLM5K9sfxITit7QrcugSkXFTxopINQ+NMk0Ibf0l2lX+D3s5ztoY+QrBvFmHXSMLvonn3NgX8g2tqjtfrmw2Th2OLyEy0RLO5LPQ2Pv82x9N+K6lG/OEMHvGiPWsW3wVF9mpycEjkn7s6/d6rCV9ZLd/kX3EQYUur/m1npd/B8xACjcWDQeTyx5Lpb3Lde67r9ACDIQYHgiHeYa0VVlUjTn5QYt4G7JLdCjwUQZvL3r9cniE3A/M9xtvB14LV8cqIxKlECcDxKplZwnCeqSEDUx9SC9WIJtOsHNAv4L2iDRtEts0o93YBzGS5d/Z4wRAWamoUiXyeg==;+P1qEVi9NJQL8DIlnIpVog=="
 ---

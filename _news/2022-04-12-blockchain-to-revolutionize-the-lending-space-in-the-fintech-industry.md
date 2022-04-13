@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424530"
 webUrl: "https://www.entrepreneur.com/article/424530"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "PoorToRich Finance Decentralized Marketplace Combined Blockchain and Artificial Intelligence to Increase Passive Income"
-    excerpt: "Ever since cryptocurrency became a medium of transaction for the common man, the need for a secure decentralized platform arose? Though there are some,"
-    publishedDateTime: 2022-04-08T21:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/poortorich-finance-decentralized-marketplace-combined-blockchain-and-artificial-intelligence-to-increase-passive-income"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 45
-    images:
-      - url: "https://www.getnews.info/wp-content/uploads/2022/04/1649321662.png"
-        width: 996
-        height: 541
         isCached: true
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."

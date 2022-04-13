@@ -58,6 +58,20 @@ related:
         width: 809
         height: 607
         isCached: true
+  - title: "With 5G, AI at the edge promises a compute-everywhere future"
+    excerpt: "Luxury auto maker Audi is driving full-throttle toward Industry 4.0, using AI inference and computer vision on the factory floor with autonomous robot welders that can react in real time and fix issues that may arise when welding the frame of a car."
+    publishedDateTime: 2022-04-13T14:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/04/13/1049529/with-5g-ai-at-the-edge-promises-a-compute-everywhere-future/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 37
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/intelphone.png?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lk/+qw4OImUUJqEva50CyioZaLkyH9YtXbryqjeweZewLLw2xaRemzcVKnIJKXRehLBlBrhJhDFHu2Xr+ySd9jUVNAZKru7J1SMLOIcNML1CocyBKSg7LpBh+H1TZw6VWGzCANsKUjKqxS9k2mpbBCtsjJxCgSVnqReVXYmlQg30uKQR7ELDwHTxq3mWzG+qVtFp86UDDDT6y5zYG1hLBCfoIi8a71dyKRT4q4ib/YmXEWFfqq24FA/bPP5eTdRaD8yxbhQsvPQ2ghCRfw+oaoQ/V67SIeLD5VTFsZxmbHsYx+6chyScWryqlsrxYxnOSEeFwyJjXwEQ59meD2Zpxo2zbQRqeZEO5qar5lhO02YchEvBojwpVrkwLBNR8tENtHLK1YMWysXNmX7Um0u1pDPmmARawiFeyBTg3OMFQe5jMsjqg9fyPB3s8Hx3UCo05xotAUP1fWfAk/9tmvVO9K8RaFbVlG/+mkmvc69kh8lnqY/xNbhT7f1RrVJPcq4UXbNOa2+6eLHpERKAH4spFw==;mipYDo5vN4lGyqT9bFzVvg=="
 ---

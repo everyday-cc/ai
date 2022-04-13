@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/artificial-intellig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: ZDNet
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare to increase tech spending for cybersecurity, marketing and AI"
-    excerpt: "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8."
-    publishedDateTime: 2022-04-08T21:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 70
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How AI is altering the cybersecurity automation landscape and its effect in depleting cybersecurity jobs"
     excerpt: "AI has played a crucial role in Cybersecurity automation. One of the key advantages of AI in cybersecurity is its ability to process an enormous amount of data with assembly-line efficiency that organisations use."
     publishedDateTime: 2022-04-11T10:06:00Z

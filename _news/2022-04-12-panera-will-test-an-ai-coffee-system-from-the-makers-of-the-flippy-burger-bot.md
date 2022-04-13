@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-m
 webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
 type: article
 quality: 66
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Panera Partners with Fast-Food Robot Maker Miso for Brewed Coffee Monitoring"
+    excerpt: "A heavily funded fast-food-focused robotics company called Miso Robotics is partnering with Panera to test a monitoring solution for batch brew coffee stations. The Pasadena-based robotics maker"
+    publishedDateTime: 2022-04-13T13:49:00Z
+    webUrl: "https://dailycoffeenews.com/2022/04/12/panera-partners-with-fast-food-robot-maker-miso-for-brewed-coffee-monitoring/"
+    type: article
+    provider:
+      name: Daily Coffee News
+      domain: dailycoffeenews.com
+    quality: 36
+    images:
+      - url: "https://dailycoffeenews.com/wp-content/uploads/2022/04/Miso-Robotics-coffee.jpg"
+        width: 1240
+        height: 812
+        isCached: true
   - title: "Panera to Try Robots Serving Coffee"
     excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
     publishedDateTime: 2022-04-12T13:45:00Z
@@ -62,6 +76,15 @@ related:
     provider:
       name: BayStreet
       domain: baystreet.ca
+    quality: 19
+  - title: "Panera testing coffee-serving robots"
+    excerpt: "Panera is partnering with Miso Robotics to test a coffee maker they say can brew the perfect cup of coffee. The CookRight coffee line uses artificial intelligence to monitor key coffee metrics including volume,"
+    publishedDateTime: 2022-04-12T21:40:00Z
+    webUrl: "https://www.kfvs12.com/2022/04/12/panera-testing-coffee-serving-robots/"
+    type: article
+    provider:
+      name: KFVS12
+      domain: kfvs12.com
     quality: 19
 
 secured: "UoqkQF7iBIOPAOxlfXomqJvkiKLbaNF0K7tUSQkcYHSOQz1BCuRQ1OJCumzq1pAtYFtS3wFWHr+D5G4vPYO6OVk1WYcBLrIDGUzta2Cc7M84GNYCFrq5TpK5OSxLuGcFDwT8YqHbZPNyLZ0a470i6Ryv0wvHDhnU18b/zkVAQzjR/I7pp3Ql94Q0PdoiEAqdqPOWcZNAimO5nk5OlMrn1zxB6YQnMWti0Z0s03TrXc6QJRS8GS22yqgPv+V6366rWkR8Pm9oLe2p2cDRQm9XRwctFmcFrHAiDYxxyM6peSZJSwOIkX25hgVHe5DI/xWwpmDxwNVShdF44D+CkZRfNgZzVMW4WD99VkEZSU8llML4sSzs/BHEhBuc6cBgkTvjIQAp9q9Se1PgPZ4BbwuJ79StlIuGtsPTpmWCc6IkBjMlHN1AC3xQIxk8anrrx1pWr/6YiLhWCIcJKDLatbNzh5xzYlAvv6ByDEQULtDpeKGBsdqa0cwnTd0ZQXlchleEq/e1ZKklXeKiMOYZq1Omlg==;xuYpNGWnREOM2Sg/m3zNsQ=="

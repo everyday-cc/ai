@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-arou
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Robots are creating images and telling jokes: Five things to know about foundation models and the next generation of AI"
+    excerpt: "If you've seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
+    publishedDateTime: 2022-04-13T13:30:00Z
+    webUrl: "https://techxplore.com/news/2022-04-robots-images-foundation-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 10
 
 secured: "lDKiBgcwj1wgaOajWR+4JzDHOCCmPTOkHPoScCB1eARSaXsDr1Mt44bK7YdWoma/ZL5veL13yBC3bn/9OrFIr/ZvfpzNawbbNi60pXM+SGro84+k26XlEnQwo7yUW/tSm48ykPGNyItBDJkdn9aTBttOGQgG5IL3hjL2uoQDgduJj3ZxCBpMmR9zJKEQNVhCeUYjZwEVHdw2xGT6Pa1wkllSc6dtoMIJimDkeKBblq0i6lLBYLfE9crmV3XQblhAFk+K5LOaT4jD1x91Avdt9H2z3ecs6NBwg21aASIGCtpJ/blnTiPVJPHojMR33XolEc0myZUUI2iEvVrGKyp/lUEw0VxjZAPyF4r3w6WEZ11hs8cZG2bRLNv9WpuQ07kkqZpO8Und7qDCMSkLoU+8eznZJc5rwg+i9yOjUK0WoYNzt/PxmAqaEs0SIB4DS0mfRk2w6zxFGtlltmFvDMRQvaxESMA1LQnog0bXXwjUEvb8i7aKZMgsJTuOwgPvGAnQ9W3Vds04D8vNQ93pPOpMDQ==;luGj/Z29KHd4jEuvSqZa8w=="
 ---

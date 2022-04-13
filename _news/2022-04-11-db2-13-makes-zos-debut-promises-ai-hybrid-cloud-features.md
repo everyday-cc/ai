@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,40 @@ images:
     width: 820
     height: 312
     isCached: true
+
+related:
+  - title: "Zoom launches AI-powered features aimed at sales teams"
+    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
+    publishedDateTime: 2022-04-13T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+  - title: "Curie AI raises seed funding for its AI-based respiratory monitor"
+    excerpt: "Respiratory illnesses are more common than many people probably realize: around 25 million Americans have asthma, which is around 1 in 13 Americans, including 8% of adults and 7% of children. Meanwhile,"
+    publishedDateTime: 2022-04-13T07:23:00Z
+    webUrl: "https://vator.tv/news/2022-04-13-curie-ai-raises-seed-funding-for-its-ai-based-respiratory-monitor"
+    type: article
+    provider:
+      name: Vator
+      domain: vator.tv
+    quality: 37
+    images:
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21532.jpg"
+        width: 320
+        height: 240
+        isCached: true
+  - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
+    excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."
+    publishedDateTime: 2022-04-13T13:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/evolutioniq-debuts-ai-powered-technology-aimed-at-lowering-insurance-claims-costs/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 14
 
 secured: "Rxr8nRGyceDpQm1djKymQRwMoX3DCxmTrGJW1h4kPr5yluIVM08qld8grjwT6cIHTOuh7kFFTGWVHU4Vp9mRtS1l5WitHKT9g8m4tn7VcLZHntsTQqlOFEH8rrxgozXinpExWpFIr1IbbVt5VC7Kh3iZvkGHMHyRHqK5InMZnbkgcB6ASkCSbYl2DksDeWuBLfPIQiyJ6vPvbzYWnnkuyVdhVyKJvwLTgczZUEtIHXHPPge8o/J++xOgzAcSxNGpCxtkfc5BGpE/F3vDMhd/YIdkPl+z9ZL/QOzrlVQOxECX58KJ9UMLe7UZJqhdOpBr8Fv0LMba8aPNE44D82kPYcgnXuwZfthK3uJLpWhMa6SYWuc8LX+YmbFonHqohnJ45TKeRU9AL/Y+hOxCBv7An92tY9eB0C6SsrM3sy406roBKG8AcZmTULaqWBr+1MIpXaWpN27oe/W5tpdK70n8VQbeMWcZlWb10Wt+kiwa/zUcsr+11q+qmaIjuPeTSVtP6n8ajtw7K27fgI9NjxSldA==;xMqo+LttzSb/QGY5cQtpjg=="
 ---

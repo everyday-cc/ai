@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Examining bias in AI"
+    excerpt: "Sarah Brown, an assistant professor of computer science, is examining how to prevent artificial intelligence from reinforcing biases."
+    publishedDateTime: 2022-04-13T15:55:00Z
+    webUrl: "https://www.uri.edu/features/examining-bias-in-ai/"
+    type: article
+    provider:
+      name: uri
+      domain: uri.edu
+    quality: 37
+    images:
+      - url: "https://www.uri.edu/wp-content/uploads/home/2022/04/SarahBrownSquare-NL-014.jpg"
+        width: 600
+        height: 600
+        isCached: true
+
 secured: "6utT8cKufY2Umpkv1bHeneyACoKOR4ivenBG4OuXXJCU+jY3wFU78fMXhls6bNia882SfwDmEhNc/lVEVcaAlZUvRQIIu2MrKaiZMzhjL+ZD/zoikF3ATuDf+fv3pR8Wl9wslFALOfknnliMnDTipjEg7rJ5Nhm2IMS77Kdwry2qncqZdxMKjGaNi9ftfRgS+VGimcKzbcflvx9LVRXpk+ortyFgALq6uq4//72Qbz+Hnzf48nYgFKL1msrnIbrHQOVdvs1TkYHizFAjaFrGdC5l3GuDaIqe8yNzhCuv5+y/kKkAKfwcP4Q4RRk4hLyr5uOE8uZkeEGmjb6GhxH3JTkvdccB9JeCuBgBm2sjCoI=;ochpDBgNNFOnFqfh2utHDg=="
 ---
 

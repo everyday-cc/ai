@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T13:02:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/uniphore-acquires-colabo-to-deliver-knowledge-ai-and-automation/article_ff16799f-6c6b-5a5e-be88-03e44d7f1235.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/uniphore-acquires-colabo-to-deliver-knowledge-ai-and-automation/article_ff16799f-6c6b-5a5e-be88-03e44d7f1235.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Joplin Globe

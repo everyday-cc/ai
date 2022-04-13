@@ -7,7 +7,7 @@ originalUrl: "https://www.adnews.com.au/news/how-ai-will-transform-the-advertisi
 webUrl: "https://www.adnews.com.au/news/how-ai-will-transform-the-advertising-industry"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,37 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "AiAdvertising Announces Partnership with Genus AI"
-    excerpt: "(AIAD), an artificial intelligence (AI) and machine learning (ML) data science and technology company, announced today that it has entered into a License and Development Agreement with Genus AI. “The partnership announced today will lead to the full integration of Genus AI's technology into our platform,"
-    publishedDateTime: 2022-04-08T20:36:00Z
-    webUrl: "https://menafn.com/1103980479/AiAdvertising-Announces-Partnership-with-Genus-AI"
+  - title: "HAUSER Insurance Discusses AI Trends In The Insurance Industry"
+    excerpt: "The past few years have seen significant advancements in information technologies such as artificial intelligence, and the adaptation of such technologies were only further necessitated and accelerated as a result of the coronavirus pandemic."
+    publishedDateTime: 2022-04-11T22:22:00Z
+    webUrl: "https://www.hometownstation.com/news-articles/hauser-insurance-discusses-ai-trends-in-the-insurance-industry-413074"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Santa Clarita Radio News
+      domain: hometownstation.com
     quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?764602"
-        width: 295
-        height: 250
+      - url: "https://2021media.s3.amazonaws.com/2022/04/Flare.jpg"
+        width: 512
+        height: 342
         isCached: true
-  - title: "Advantage Payment Services and The Bancorp Announce Strategic Partnership to Improve Dispute Management Technology"
-    excerpt: "Advantage Payment Services (APS), the leader in financial data management for top FinTech payments organizations, today announced it has entered into a strategic partnership with The Bancorp Bank, a wholly owned subsidiary of The Bancorp,"
-    publishedDateTime: 2022-04-12T12:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-advantage-payment-services-the-bancorp-announce-strategic-partnership-/2022/04/12/9581149.htm"
+  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
+    excerpt: "BOULDER, Colo., April 12, 2022 /PRNewswire/ -- TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital ..."
+    publishedDateTime: 2022-04-12T13:11:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Scailyte AG Announces a Partnership With Sirona DX for AI-Driven End-Point Specific Single-Cell Analysis"
-    excerpt: "The companies will create a powerful biomarker discovery engine, leveraging Sirona Dx technical and laboratory workflow solutions in combination with Scailyte's AI-driven data analytics platform ScaiVision™ to serve Biopharma and Biotech. The joint ..."
-    publishedDateTime: 2022-04-11T18:49:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-04-11/scailyte-ag-announces-a-partnership-with-sirona-dx-for-ai-driven-end-point-specific-single-cell-anal"
+      name: KTLA
+      domain: ktla.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
+    excerpt: "Harbor Capital Advisors to leverage Distill by TIFIN, enabling asset managers to personalize engagement with financial advisors and drive"
+    publishedDateTime: 2022-04-13T12:20:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry-1031349538"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
+      name: finanzen
+      domain: finanzen.at
     quality: 0
 
 secured: "GRSMcUPPPEBf/xRY6n9BMgzzJZOb7XgbSSYkf98wFgeHpgKfSeNrKQmvnDXPdVAVg0F7w7Km+SqldN7tJWL9Ku4aLUP6sKv/+49EfCEif5+pk/1Gv2e17yFuwzHSjCo1XK3Xn2f8J6GUwbCoy236dUGrqCuTr6sl2nmTjznWp8TXAUG1ZP5EX+NsJ6A1DU5kSa7udyWRI+eFpByuXKK8rDj+KPVT+ysAm2QOWQZv7aP4W6ZcuygjVmoArbaMLtIfdIqHr3NzSJCL0UksKtbSD2cT5GDBC0mv5hOUur/L0XPJMPgzP5SdgeSxd0LGvtlOiSi7RXQNv7dGsokC3cp0pqi7+jryXUgcrK/+YdB3/5o=;ufFTo4b20nGWrA7JqC+HrQ=="

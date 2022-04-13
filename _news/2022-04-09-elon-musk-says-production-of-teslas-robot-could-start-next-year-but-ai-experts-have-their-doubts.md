@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-t
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "Tesla to start production of Optimus humanoid"
-    excerpt: "Elon Musk hints at the production of the Tesla bot Optimus humanoid will be able to accomplish human roles AI researcher Gary Marcus warns that we are far from robots taking over Elon Musk, the CEO of Tesla (NASDAQ:TSLA),"
-    publishedDateTime: 2022-04-08T19:27:00Z
-    webUrl: "https://invezz.com/news/2022/04/08/tesla-to-start-production-of-optimus-humanoid/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 21
 
 secured: "78A9ZQKUJyhnJLprYiV9RyXZnfMviwynYV42OSm30+ko/bO73YXvjFNGtctKUQbjcA9Nzl1x6ZcDieZsd1bNtzBuz/KNRy0wKb8ASgtb/zhCmXPclaPa4RWBrMTADsNtG3a49cC30d6UjGnOYHViL1UHYXGe7FaWEFpA71ddclTULYWLNjyDUsQv8ax3M9gzACVlQebXZKBrW5RltlROuZd1MEKPtxsSBN1mql8blWKYLzLnzDWopBw5s4Luh8xtJB/s0LUSbBcbZ2Bn23/jnYWpNjtkDQmR5okKewo5qbD20RS20AIrKLh0hmrTU9BOJsSKyrmMBqUe/Ympo45VNCsX/q8HzhNiKdFNOP8ykA51PREtzR9QCEUjNy5H/eJW5pyGPe+3pf6So9WzKGR7/kLZN5N/T/Hh1LWoyVXb6FvBi6LMdSRlDxEPvj01QgvzdgIrpyi+Ta2/2sg3eW8hq42QFxNbnIN8nO+Q/lO4694VM1Vutqhm+3g4UGY5begKYcMlpICO6IM5xasXFCI8Mw==;cmxlLefCbzmX8R5gWhEldw=="
 ---

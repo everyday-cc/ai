@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T13:25:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/worldly-wise/should-the-i-in-artificial-intelligence-ai-need-a-reboot/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/worldly-wise/should-the-i-in-artificial-intelligence-ai-need-a-reboot/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: India Times

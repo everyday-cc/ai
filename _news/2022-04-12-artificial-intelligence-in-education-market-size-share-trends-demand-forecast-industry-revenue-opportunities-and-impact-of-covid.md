@@ -25,40 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Call Center AI Market Size, Share, Trends and Demand Growth to 2027 | VynZ Research"
-    excerpt: "Companies may use AWS CCI for text-to-speech, translation, enterprise search, conversational AI, transcription, and language understanding by combining AWS AI and ML-powered services. The ..."
-    publishedDateTime: 2022-04-11T20:29:00Z
-    webUrl: "https://menafn.com/1103992368/Call-Center-AI-Market-Size-Share-Trends-and-Demand-Growth-to-2027-VynZ-Research"
+  - title: "Facial Recognition Market Sales Revenue, Emerging Technologies, and Industry Expansion Strategies 2022-2031"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Apr 13, 2022, 02:55 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 b"
+    publishedDateTime: 2022-04-13T08:36:00Z
+    webUrl: "https://menafn.com/1104005637/Facial-Recognition-Market-Sales-Revenue-Emerging-Technologies-and-Industry-Expansion-Strategies-2022-2031"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 33
+    quality: 38
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
+        width: 445
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
-    excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
-    publishedDateTime: 2022-04-12T12:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-marketing-market-to-hit-usd-21-bn-market-size-share-trends-analysis-and-forecast-2027"
+  - title: "Computer Vision Market Trends, Demand, Share, Size, Growth and Forecast 2021-2026"
+    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026″,"
+    publishedDateTime: 2022-04-13T14:55:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-trends-demand-share-size-growth-and-forecast-2021-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
-  - title: "Global AI in enterprise communications and collaboration market is projected to expand at a rapid pace, States TMR"
-    excerpt: "Read Report Overview at- https://www.transparencymarketresearch.com/ai-in-enterprise-communications-and-collaboration-market.html Are you a start-up willing to make it big in the business? Grab an exclusive PDF sample of this report– https ..."
-    publishedDateTime: 2022-04-11T11:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-enterprise-communications-and-collaboration-market-is-projected-to-expand-at-a-rapid-pace-states-tmr"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
+    quality: 34
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjapvdg3yNZ2TA05teTspMmjl91YYu_hMGfl6RT_qMO1thsSarQ6eiAKe3VoINtAZE2yP49lk2dKPGkcPDhJ6QLch0o1uyQpom3eHbdUy9ApkwG2rktAkhs1_b3gU_L1GRV7l8DlsQLnlRuH14McrWOHyA2a59oxqNF9XeaTwZHmlEir0azHq7_ito/w640-h342/Computer%20Vision.jpg"
+        width: 640
+        height: 342
+        isCached: true
+  - title: "Iris Recognition Market Poised to Garner Maximum Revenues by 2027"
+    excerpt: "On the contrary, high price of iris scanners, availability of substitutes like fingerprint scanners and face scanners, lack of awareness, and technological limitations are factors that may limit the global iris recognition growth over the forecast period."
+    publishedDateTime: 2022-04-12T10:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iris-recognition-market-poised-to-garner-maximum-revenues-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true

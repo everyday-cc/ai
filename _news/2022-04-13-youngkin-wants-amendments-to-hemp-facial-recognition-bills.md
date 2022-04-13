@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-t
 cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Facial Recognition debate heats up"
+    excerpt: "Governor Glenn Youngkin can either sign the bill as passed, veto it or amend it. Youngkin's support would put him at odds with some members of his own party like Senator Bryce Reeves, who formerly worked in law enforcement. He fears the resource may be ..."
+    publishedDateTime: 2022-04-12T11:28:00Z
+    webUrl: "https://www.wric.com/video/facial-recognition-debate-heats-up/7595974/"
+    type: article
+    provider:
+      name: WRIC
+      domain: wric.com
+    quality: 19
 
 secured: "U7nWKZ74v/Aq5fIRvZS1n0B74fkjgM3/OklPpIHFNfaKpgV+BcFUJj7jo+VLEAwBRLMXEsakyLeTEzXEa1+gXO3fCI/rPlLgQ8ecIG66mlz7ak0repKruERxCtV6BK76Mk+sh7zzlu4AaV6nWhFzK+fsSniTdaML12fgCt69OxeSkMxRvTxRQPNRrIwt8olX244/6QHUFmHOKSmm96Wpyaa+zjccsQ0eomvR6sJa6/hhwlmsfzGBOIeXKLBR3E3LM2qcDi2/LI3V4vJQoWk05kmhD3cGcUYrRfMmEi17nZDoabsJ8yav+DRWFn9vcB5jeBzg8VrbtKEYAK/dMCluExk80Y7ge+kqkbxSKqRFEtSdO9T66LIK7E43o/We5dtb1PJURTgzquL5z1sDfzP9UCmah4fDL2W7GcCuL+I/JJJbQ7ED12irkSybj/vd4f+js0I/jFSvFHZYyTHCQAWLmWhcKiBeZYA5iN5zeJEQxHRuibrSzAl4PSnjLa7nuRAXk9FWbGu7TAKyzCnfFTNbvQ==;fwZEPQu+SHYaGZN6S17Ycg=="
 ---

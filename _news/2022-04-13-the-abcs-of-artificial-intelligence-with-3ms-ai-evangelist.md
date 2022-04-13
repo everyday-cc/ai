@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T13:50:00Z
 originalUrl: "https://www.beckershospitalreview.com/the-abcs-of-artificial-intelligence-with-3m-s-ai-evangelist.html"
 webUrl: "https://www.beckershospitalreview.com/the-abcs-of-artificial-intelligence-with-3m-s-ai-evangelist.html"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -14,6 +17,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+    width: 800
+    height: 600
+    isCached: true
 
 secured: "bWgXtxL0q2plGT3JkoP9IiDf83rtzrfp8Hbl1uctLnDkEwIIHUYqIL45eGYhUR24rgKSGTrCQEZTWC7Yi3TIAnopIQKZjgNiEH7jCVVl03V2DMujgInE6sJDwwo+1yRP7c8pb8TiGsRqMT2M1Jh4sigKxMVJGrcgyvmxqLd8tx/zDscSNdwCVGftIJT6mSXkKkQNm7A0Nd1UNQlNMZuljxTFb1akwzrtnOJtu0tFRVccH1Rif/mxvDxE3G7qhmOe7K6mpjE3erl8fgeKrNdx6BdDWcIciE3HGzpPhBc/80xldj+CTmJaX/eXupn3C1RcxnOXzrSth3EhSZmtUoeEIxHxSR46y9rvW9l+nZ9nBeM=;PbDnPJY3WkU2V/XAoapJTg=="
 ---

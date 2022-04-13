@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T13:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/beegol-corp-integrates-machine-learning-based-broadband-network-telemetry-platform-with-rdk-and-joins-rdk/article_3059e777-2c15-5215-b2a8-744df5789fec.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/beegol-corp-integrates-machine-learning-based-broadband-network-telemetry-platform-with-rdk-and-joins-rdk/article_3059e777-2c15-5215-b2a8-744df5789fec.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

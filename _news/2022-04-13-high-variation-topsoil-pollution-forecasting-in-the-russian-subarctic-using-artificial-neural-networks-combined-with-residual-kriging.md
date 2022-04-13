@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T12:44:00Z
 originalUrl: "https://www.bibsonomy.org/bibtex/2b3797cdea3a3640349961e0b8fa66ac?lang=en"
 webUrl: "https://www.bibsonomy.org/bibtex/2b3797cdea3a3640349961e0b8fa66ac?lang=en"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: BibSonomy

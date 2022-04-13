@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T12:40:00Z
 originalUrl: "https://www.abc.net.au/radionational/programs/sciencefriction/timnit-gebru-ai-ethics-google-technology/13839764"
 webUrl: "https://www.abc.net.au/radionational/programs/sciencefriction/timnit-gebru-ai-ethics-google-technology/13839764"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Australian Broadcasting Corporation

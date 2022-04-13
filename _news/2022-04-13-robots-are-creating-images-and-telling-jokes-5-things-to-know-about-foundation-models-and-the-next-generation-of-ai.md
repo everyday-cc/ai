@@ -71,6 +71,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Robots are creating images and telling jokes: Five things to know about foundation models and the next generation of AI"
+    excerpt: "If you've seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
+    publishedDateTime: 2022-04-13T13:30:00Z
+    webUrl: "https://techxplore.com/news/2022-04-robots-images-foundation-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 10
 
 secured: "77p7yf/mBkrISZn+EtF8V8WfL0+c20JlE3bwNQrIm64MZufTfUHl22S5Qn8ZvAJ35hBX96CwMA+tLDC2aBH+IohzMZO9QlzhPtu93+njw5Yp3YyUNf0AT4+cd+lSCtNR2eKeIisDpNfDdO/yb6nkevR0T3wSpy5HrgvP93RHVW/esAJ586mEDGlGehn7HgIqSA3gfAA0cJdReSy12UYP59u5fYvfcrfcbqWESIuvrGl4QGCHleJvmATQI6jOf7Y9i+QfXR2reUwKLRJPt/gXyUoZFeemdL3+TPPFOEmimenSa43xPlOaXRdRSwdrQAZyAfmpuYcknrf0YinrRxZ2HeoKQ/GEYhPhlbiDaFlx2AtPUMdrFvmkHRQ8XcdHHBKGyekQo+Tkkscg+NyWcuyQXVvWHDrsQ9D+1uQeBKuAvGCJeaprtYLX/AG9NlBze0htVwcIUEheLTKDg3Vz/80q2k4QwkeIeqQNoMLM5dUHoYXFEWO/2zNyTeL0l0myweH/sZkgXDijWVydQ8HKlL6mUQ==;RaG0BYXWuAjRi1riWdNV6Q=="
 ---

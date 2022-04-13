@@ -90,6 +90,15 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 16
+  - title: "Major General Martin F. Klein Joins C3 AI as Senior Vice President for Defense and Intelligence"
+    excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, announced that Major General Martin F. Klein, USAR (TPU) has joined its executive team to oversee the company's defense and intelligence operations."
+    publishedDateTime: 2022-04-13T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582470.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "efVrZBTPYdcnwW4xYySX6pvP15XoVPhvvsE0r6DVKJnGufVznzRkMFr7dYcLpvd3eXeZBehswWXcpKUlRPJzWT1Rxa/Svk8MA4XFXsBc7B428GSrp/d2fIni1yPgi0/5U++zZUt8VKN2npcgFoaiqxKcU10o6mzipM3pt6jrX+j971V9S136iNE5rsDzNdVqtXdv8va0wy0vaVpsyDBsj8hzXbeHGBeu5i9VNsAtTppVacLP/BgcwK1RTaaiZE4KLQCguaVc7y/zkOoPyE7yNyVnKbSrQ1glP79TiZD3udPmB/hdGqGvDVkoiGU2wjO3iPqit0pZesBGL7zAPq0o4Zv9Kkf/YN0uUnUa4BCw19w=;c8HVrI0YsG22cSUo82UQ8w=="
 ---

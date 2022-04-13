@@ -85,6 +85,15 @@ related:
         width: 1052
         height: 630
         isCached: true
+  - title: "Unlocking the Business Value of AI and ML"
+    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
+    publishedDateTime: 2022-04-13T13:22:00Z
+    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
   - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
     excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
     publishedDateTime: 2022-04-13T06:42:00Z

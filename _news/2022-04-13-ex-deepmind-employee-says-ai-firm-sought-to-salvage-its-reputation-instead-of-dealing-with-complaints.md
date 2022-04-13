@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T11:08:00Z
 originalUrl: "https://www.cityam.com/ex-deepmind-employee-says-ai-firm-sought-to-salvage-its-reputation-instead-of-dealing-with-complaints/"
 webUrl: "https://www.cityam.com/ex-deepmind-employee-says-ai-firm-sought-to-salvage-its-reputation-instead-of-dealing-with-complaints/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: City A.M.

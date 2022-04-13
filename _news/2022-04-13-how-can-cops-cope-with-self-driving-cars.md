@@ -103,6 +103,15 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
+    excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
+    publishedDateTime: 2022-04-13T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/04/13/in-sf-we-find-out-what-happens-when--cops-pull-over-a-cruise-self-driving-car/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
   - title: "Video shows self-driving taxi pulled over by confused police officers"
     excerpt: "The autonomous vehicle pulled over by police was a Chevy Bolt operated by Cruise. San Francisco Police Department (SFPD) officers pulled over the Cruise vehicle as it did not have its lights on. The autonomous vehicle responded as expected, pulling over ..."
     publishedDateTime: 2022-04-12T13:21:00Z

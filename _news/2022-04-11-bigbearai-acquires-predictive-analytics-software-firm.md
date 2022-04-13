@@ -83,6 +83,15 @@ related:
         width: 417
         height: 455
         isCached: true
+  - title: "Noogata Secures 16 Million USD to Streamline Enterprise Access To Artificial Intelligence"
+    excerpt: "Noogata has announced the completion of a 16 million USD series A investment round to further simplify access to Artificial Intelligence (AI)"
+    publishedDateTime: 2022-04-13T13:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/noogata-secures-16-million-usd-to-streamline-enterprise-access-to-artificial-intelligence/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 8
 
 secured: "eyPz1b+uPjjpnkQ0nj/z6sh4V7YMVJD9ZrhaR1pRN2sdMSrqUnpkiB3QwkFIh8jNJ+CK67i8n9sGUjpUg2q5bxgcbQq90PMi+XGRAu+auaej5ND7j0b7f60zbbTgHaLwr6yinyeFOhGwIqamsV+IYnKB4+6ucbHGHm+KY+8YVbHXviQzsi4jm3Ir5arXVzZdrKWY9CZlYHCAQU4nKn4bHfcZwXf4FKQEEMqttMrVAUeJ9z4borTiG9lLfW2n8f3fbiYyfCNBLDdGv7HwhgPvYNo2BSDhpJPE9Hwj38qn1erMuMesSfNtuVbo+hhKysMLpiEF9LvLFYyXd9mB6v39k4IzXhr5YLLRRNiFvJSVq8DeLgaOVfXR+XKuU1o8XT/ICyX3BNMQg98N59UUTdvSNDN6gvUoF3/eQ0r5202EN5pOTWVTacxGg24RKX9emWsMuKPoo52n1dlykGvXbV9nyPjvAeKIBrzCh0phjPF2eVTOFRcwRnp5eqeWJlMG4q0K4zQ9er2kuQ+gO/ERhSWjNg==;ywfXwSiRI4R6cCLxdi4m6w=="
 ---

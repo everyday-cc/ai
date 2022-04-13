@@ -99,6 +99,15 @@ related:
         width: 1052
         height: 630
         isCached: true
+  - title: "Unlocking the Business Value of AI and ML"
+    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
+    publishedDateTime: 2022-04-13T13:22:00Z
+    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
   - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
     excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
     publishedDateTime: 2022-04-12T12:31:00Z

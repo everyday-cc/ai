@@ -19,58 +19,53 @@ topics:
   - AI
 
 related:
-  - title: "NOPD pushes for facial recognition software"
-    excerpt: "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on"
-    publishedDateTime: 2022-04-08T21:49:00Z
-    webUrl: "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/"
-    ampWebUrl: "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/"
+  - title: "Youngkin Wants Amendments to Hemp, Facial Recognition Bills"
+    excerpt: "Youngkin is also seeking amendments to another controversial bill that would lift a ban enacted only a year ago on the use of facial recognition technology by most police agencies. The measure passed in March with an unusual bipartisan coalition of support ..."
+    publishedDateTime: 2022-04-12T23:00:00Z
+    webUrl: "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/"
+    ampWebUrl: "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp"
+    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp"
     type: article
     provider:
-      name: WGNO
-      domain: wgno.com
+      name: NBC Washington
+      domain: nbcwashington.com
     quality: 59
     images:
-      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/04/nopd-camera.png?w=1280"
-        width: 668
-        height: 376
+      - url: "https://media.nbcwashington.com/2021/11/Generic-Marijuana.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Ukrainians Use Drones, Facial-Recognition Software as They Investigate Alleged War Crimes"
-    excerpt: "BUCHA, Ukraine—Searching for evidence in the killings of hundreds of people by Russian troops here, Ukrainian prosecutor Ruslan Kravchenko unlocked the double doors leading to a boiler room on the south side of town. The space had been used as an office ..."
-    publishedDateTime: 2022-04-12T13:04:00Z
-    webUrl: "https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154"
+  - title: "Youngkin amends bill lifting facial recognition technology ban in Virginia"
+    excerpt: "Governor Glenn Youngkin is amending a controversial bill that could lift a partial ban on facial recognition technology in Virginia. Supporters say it’s an important tool for police to pursue"
+    publishedDateTime: 2022-04-12T00:36:00Z
+    webUrl: "https://www.wavy.com/news/politics/virginia-politics/youngkin-amends-bill-lifting-facial-recognition-technology-ban-in-virginia/"
+    ampWebUrl: "https://www.wavy.com/news/politics/virginia-politics/youngkin-amends-bill-lifting-facial-recognition-technology-ban-in-virginia/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/politics/virginia-politics/youngkin-amends-bill-lifting-facial-recognition-technology-ban-in-virginia/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 40
-  - title: "The Art Exhibition That Fools Facial Recognition Systems"
-    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
-    publishedDateTime: 2022-04-11T11:24:00Z
-    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
+      name: WAVY
+      domain: wavy.com
+    quality: 57
     images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2022/04/facial-rec.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Serbia Targets Purchase of Powerful Swedish Facial Recognition Software"
-    excerpt: "Serbia’s personal data protection commissioner says Swedish Griffeye facial recognition software would be illegal in the Balkan country, but the interior ministry still plans to buy it."
-    publishedDateTime: 2022-04-12T15:03:00Z
-    webUrl: "https://balkaninsight.com/2022/04/12/serbia-targets-purchase-of-powerful-swedish-facial-recognition-software/"
+  - title: "Virginia Gov. Glenn Youngkin amends bill lifting facial recognition technology ban"
+    excerpt: "Gov. Glenn Youngkin is amending a bill that could lift a partial ban on facial recognition technology in Virginia. DANVILLE, Va. – Governor Glenn Youngkin is amending a controversial bill that could lift a partial ban on facial recognition technology in ..."
+    publishedDateTime: 2022-04-12T22:31:00Z
+    webUrl: "https://www.wsls.com/news/local/2022/04/12/virginia-gov-glenn-youngkin-amends-bill-lifting-facial-recognition-technology-ban/"
+    ampWebUrl: "https://www.wsls.com/news/local/2022/04/12/virginia-gov-glenn-youngkin-amends-bill-lifting-facial-recognition-technology-ban/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsls-com.cdn.ampproject.org/c/s/www.wsls.com/news/local/2022/04/12/virginia-gov-glenn-youngkin-amends-bill-lifting-facial-recognition-technology-ban/?outputType=amp"
     type: article
     provider:
-      name: balkaninsight
-      domain: balkaninsight.com
-    quality: 39
+      name: WSLS 10
+      domain: wsls.com
+    quality: 53
     images:
-      - url: "https://balkaninsight.com/wp-content/uploads/2020/12/16-9-surveillance-scaled-e1640876922446.jpg"
-        width: 1600
-        height: 900
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/04-12-2022/t_37be3d2d630f49c195fd4d552b5fd459_name_image.jpg?_a=ATAK9d60"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "ScsM7zbI3ZXvBOSXo7k+L1r6Ukpnb5MxOlZNtDzwiMLmZF7lfw3cEjG9yZXMhmXJRLgZg9hgwt298hN3Jpw2PvzkTPirenyqNGaVL7KIfn3BPPRl25CN3FSB1Au0lCgCssl7DYOTVJ73JTwB5i3bG3sYdEIKYitSZGwq5wTAkGKoE+aiLrSGa9SqOWmBH5PHDyIaOxg6D0FC2LgNxIiE3jMXHdulSR2apcoOZ8aou8SHRjulNrX6coc7pmwA/4urqq6rlTvfvC6JcCU6EJV+1EV6HZ3XlURKrJEeXw7B0qV+PdhiQWsFzw0unMN7uyMi1eQYqHvcRAKFS/mStdwdVj3pnVw0TkacJKtCeQzs/yA=;M5MS68CP+dVLsrULLsCkcA=="

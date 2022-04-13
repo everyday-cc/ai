@@ -39,20 +39,6 @@ related:
         width: 896
         height: 504
         isCached: true
-  - title: "Curie AI raises seed funding for its AI-based respiratory monitor"
-    excerpt: "Respiratory illnesses are more common than many people probably realize: around 25 million Americans have asthma, which is around 1 in 13 Americans, including 8% of adults and 7% of children. Meanwhile,"
-    publishedDateTime: 2022-04-13T07:23:00Z
-    webUrl: "https://vator.tv/news/2022-04-13-curie-ai-raises-seed-funding-for-its-ai-based-respiratory-monitor"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 37
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21532.jpg"
-        width: 320
-        height: 240
-        isCached: true
 
 secured: "xettgwMkxaNjxh8+pMv3/2NFt64bywaxZ8hBHOXaxRHO+PHH3XtW+XtRJSVsiSWVnZhi+edLUT5YV/hGopXYagvPbfkrMr9WpLa/eBO17RQ16fZ2v7orR4dLt2/cwneupYkzzTFA80gfePmKnCGaHAGQuPyOXPruGFpmE/Xj+AtZDNt1sgrUXhs5Ujpgk6oZcO8+MJyJB+8FFD5jperbO1tuepVzNsEVM/1cGSGDKBl/SMhjCqaAWNUM4PmIHWYs8E3nONG175i5gpcDQoreua+Uk833rUAHtKhYF2CHy6qOidC7VdaK8jTT/KH4AXRzICj2wVdvbOnbgJv8gWbYbFCt+3ixGyyid6MlO8NupkjK0xcdrXbS97BNJaDADcLFehBFw+ikDOSUJOamTZkjyVcCE8HQFti19AJfyhSBUaQp81MyWbb39NsfssKFYVDOph9nJgPIijDVQtxPZzJc/nDG1WCslvcQMvxdy8Ws51o3FqsgDLmeUpFnkyhwhZAhNJK4Ouu+322U2GG515Cm5Q==;qD/vtr6c1tRU9kLQDZptcQ=="
 ---

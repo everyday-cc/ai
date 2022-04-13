@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-are-indian-banks-adopting-digiti
 webUrl: "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2240
     height: 1260
     isCached: true
+
+related:
+  - title: "MAN partners with Amazon Web Services to drive digitalization in maritime"
+    excerpt: "MAN Energy Solutions has selected Amazon Web Services (AWS) as its preferred cloud provider to provide advanced analytics, machine learning, and Internet of Things (IoT) capabilities for the CEON platform."
+    publishedDateTime: 2022-04-13T14:08:00Z
+    webUrl: "https://www.marinelog.com/news/man-partners-with-amazon-web-services-to-drive-digitalization-in-maritime/"
+    type: article
+    provider:
+      name: Marine Log
+      domain: marinelog.com
+    quality: 38
+    images:
+      - url: "https://www.marinelog.com/wp-content/uploads/2022/04/future-in-the-making-1.jpg"
+        width: 700
+        height: 525
+        isCached: true
 
 secured: "VPT0KijT1qYhPeJRZ5FKDAt0fiUqWJUD6dupbFlPtpNcVs3a23H8pfvlmQVYOfphUWFIQ6Gks8cAi3G9aufZaSx8l3JATSXcphuURbMqnbzzdIFA/OqNPtq8o7AZJcDeX4E5GTG8ovCTllr0hsBgM0QKOpE297SSzfoK9GDCKpWFra/jlsfbXm0mcOmdarxOyiurvH3KUKLYBMuwn2iBv0NLI3Qg0j/yh/ykQq0tedb9SWI19aIXOoPI7CsRk19kLrN+VO+HERljm8IMHLe7ftlUKEapACKWMsjqgyPFwprMjouwYrBNogRV11KyBQ3MAwrMPzlkJDuQTuKkAHwTqPYORCGOeb54Ud6zZ8zlRDA=;VZhIeSpRgZVT/B7hOFrbkw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
-    excerpt: "TSX:WELL) WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
-    publishedDateTime: 2022-04-13T11:25:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/13/well-health-makes-strategic-investment-in-tali-ai-to-develop-an-ai-powered-voice"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/1796364/WELL_Health_Technologies_Corp__WELL_Health_Makes_Strategic_Inves.jpg"
-        width: 400
-        height: 238
-        isCached: true
   - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
     excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
     publishedDateTime: 2022-04-11T12:48:00Z
@@ -82,6 +68,15 @@ related:
       name: Joplin Globe
       domain: joplinglobe.com
     quality: 3
+  - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
+    excerpt: "WELL has entered into a strategic alliance agreement with Tali.ai which allows WELL to commercialize Tali's AI technology across WELL's EMR portfolio. Tali's technology allows doctors to have a 'conversation with their EMR' to support patients with greater efficiency and deliver improved patient outcomes."
+    publishedDateTime: 2022-04-13T11:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582081.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "eTjupkcHbbWdMxMFo401Jf2bJXqzWsikYwzvJsUE+d86m7AwbTDN/e1dYr3iz30sTvQ+PMMLfRwmppiMSjow+1faESuYojf2yFSlaGzkMzYlIi+tRo+BPsh5xhihXqcG8KzuqHu+wdWbLsSpWSytIT23flgVPh/ApX8hkE1OlWSUoDDN5jKs0XWnKzMTu9wrvJIMzl5gvpccQ79N+RT8kuZIsVafZiQxPHdvvYVtkdnO32I3Sv2UVA4Bg8e2fF4xTQE+/xCIEhYFkym0PvDbg9eowfoYN0m7vEAIGPB29BGAVxxdtrW3pB8OUGVDiB1VSU/cz8mci6feoPFjYlBSRDG9jrg7OTqxbMfQGqie448=;cKoBjk8KN/3P6AjrrjW4lA=="
 ---

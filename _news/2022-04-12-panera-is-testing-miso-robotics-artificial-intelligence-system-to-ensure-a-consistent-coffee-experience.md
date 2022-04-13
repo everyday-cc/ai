@@ -53,6 +53,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Panera Partners with Fast-Food Robot Maker Miso for Brewed Coffee Monitoring"
+    excerpt: "A heavily funded fast-food-focused robotics company called Miso Robotics is partnering with Panera to test a monitoring solution for batch brew coffee stations. The Pasadena-based robotics maker"
+    publishedDateTime: 2022-04-13T13:49:00Z
+    webUrl: "https://dailycoffeenews.com/2022/04/12/panera-partners-with-fast-food-robot-maker-miso-for-brewed-coffee-monitoring/"
+    type: article
+    provider:
+      name: Daily Coffee News
+      domain: dailycoffeenews.com
+    quality: 36
+    images:
+      - url: "https://dailycoffeenews.com/wp-content/uploads/2022/04/Miso-Robotics-coffee.jpg"
+        width: 1240
+        height: 812
+        isCached: true
   - title: "Panera to Try Robots Serving Coffee"
     excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
     publishedDateTime: 2022-04-12T13:45:00Z
@@ -61,6 +75,15 @@ related:
     provider:
       name: BayStreet
       domain: baystreet.ca
+    quality: 19
+  - title: "Panera testing coffee-serving robots"
+    excerpt: "Panera is partnering with Miso Robotics to test a coffee maker they say can brew the perfect cup of coffee. The CookRight coffee line uses artificial intelligence to monitor key coffee metrics including volume,"
+    publishedDateTime: 2022-04-12T21:40:00Z
+    webUrl: "https://www.kfvs12.com/2022/04/12/panera-testing-coffee-serving-robots/"
+    type: article
+    provider:
+      name: KFVS12
+      domain: kfvs12.com
     quality: 19
 
 secured: "oBYziWDziT778SnVYOPVNpOv7L5HTEMrGg7NrqaTTwPKmPu+fWRLf6fs3m8ZqrhrnbzGVJj9xKLyRAnTGlUxEwv1MSDD20qkhNuk58O+s/9sbWt/HT7268PnhUS0H3ooo51RKLxGpBgDn2BZWxiGj87Ot/ogSDNc778sze6c0Fix795/85qxzSqKDEyn8uAgYS3gQkzM5NzIXAiUqsQI6JqWFMJ6J4cmQ0WdAkoZ3wXeCpqz5Dygq/kWKCAYydNDbOLJkil/vJinf4u0Vvxuonqbw01vD5x0nxCqXgqiuZ7oE7XODZ/wvisczNyFWwC729qubqSg2nZp3ocyOD/YR1iWb6H3lTOhRJTRrM0WlEY84PRHNo1B0px4KEK0R6f9Tecv6PQ5Svcna4lPxjdlUMu6OBZIb7CeVBgzNEg5hnUKsFZCoH07S+6+i0Cv/F2rTIZsfFmykoCWrpSZS0UfZNd0B/TJY0nM5EItg61ieKaTYSAfy96lnSUXwLxvR/s+Q0q0BEWNlRLo2SOltfltYg==;qogfy0K50xlX9l8EtVjapA=="

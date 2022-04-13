@@ -41,15 +41,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Tesla to start production of Optimus humanoid"
-    excerpt: "Elon Musk hints at the production of the Tesla bot Optimus humanoid will be able to accomplish human roles AI researcher Gary Marcus warns that we are far from robots taking over Elon Musk, the CEO of Tesla (NASDAQ:TSLA),"
-    publishedDateTime: 2022-04-08T19:27:00Z
-    webUrl: "https://invezz.com/news/2022/04/08/tesla-to-start-production-of-optimus-humanoid/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 21
 
 secured: "6t0+bdKGkAtwkQJDq3/F2PUf6GawSxz3ckxONF4mP5nQ/Gr9EIQ9KfAm2ckTwIuddRaGKfWoDhg6zDuQiQrQADTDTC/jflKQ5oklGJtVXgWq1bKZkQu+9DcPaUGDOElKcwMsa5/hjDo0A6ZoN9127NUfbGhsvlq/zY375vygtHok7QwNPgarwxH69xApXwfCXS6up7+Qo5yCXrT63DU/MHlpWjInlbOlUKlu67mztNnouA2mUAtR49qcR/fn5ardDXW5eOeL6yAwD1YIh6us01sYS9TlntWmz62AGOKEHVk5jMSNVj84xM8Zr00PLsgSOsxoD/CCax3jNadi/tUoRPUOWo7DAg9TLnWVFxnee4eTg1Q44s+szijJODJGOe+hTTRB2+z8+bw2fZg2mgoDZsoyYPtjQXYeDEZCik3vKDFNkyUALvbjaOXNQfWa+FiSjU3AX4sA1IXsWPBOESOHk1vSa6OZ1h70x90Ol3dUwFwZdFSYSpX4WCa/kL2DHWuHi9XZNAB9SXuFmZk1/E9EJA==;a4zoFnr2TELMRypQFYTnMQ=="
 ---

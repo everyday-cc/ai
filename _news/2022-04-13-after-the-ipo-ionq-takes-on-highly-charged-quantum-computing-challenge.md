@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-13T11:51:00Z
 originalUrl: "https://venturebeat.com/2022/04/13/after-the-ipo-ionq-takes-on-highly-charged-quantum-computing-challenge/"
 webUrl: "https://venturebeat.com/2022/04/13/after-the-ipo-ionq-takes-on-highly-charged-quantum-computing-challenge/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

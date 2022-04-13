@@ -7,7 +7,7 @@ originalUrl: "https://www.leadersleague.com/en/news/we-actively-collaborate-with
 webUrl: "https://www.leadersleague.com/en/news/we-actively-collaborate-with-insurtechs-in-our-b2c-and-b2b2c-businesses"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "HAUSER Insurance Discusses AI Trends In The Insurance Industry"
-    excerpt: "The past few years have seen significant advancements in information technologies such as artificial intelligence, and the adaptation of such technologies were only further necessitated and accelerated as a result of the coronavirus pandemic."
-    publishedDateTime: 2022-04-11T22:22:00Z
-    webUrl: "https://www.hometownstation.com/news-articles/hauser-insurance-discusses-ai-trends-in-the-insurance-industry-413074"
-    type: article
-    provider:
-      name: Santa Clarita Radio News
-      domain: hometownstation.com
-    quality: 37
-    images:
-      - url: "https://2021media.s3.amazonaws.com/2022/04/Flare.jpg"
-        width: 512
-        height: 342
-        isCached: true
 
 secured: "PkRPsgEwfJNhgP3d2v4fAx1RKEi/U0ECR6/CuIxgEu31mPV4jYTOo6DGIORY9hki0K2x5H3tSnrzrNPxUyliGsB1Pv7i5WWOxBPHMl75eTO6gpmu/T1iTB73mhEwZASqgbhzBhZcmF8lM3a/NznDRuD2hsKSVokmC4cO3QR10KVX+hCWX5oTGa7XXArqRgTtom4B5TspDlvC+KvWgi9TxI4T8jVWFeloJr8mGgmIfFgIKk/figvDGRU3jM7bWBZuBSY8MfvOWaoNancKeg/V9YRyzveqZP+g9W/nvV745H70Y9592z2n/g6qewKi72Ihyo5g949+zzmrChXKY5oOshmOsEYoRKHFENF8xy7LzT7YcjbHaiTwwxIOVO3vRKENwz9nes3nFJuk5s0I53jR4VnceUdbNXIsL3P24isrKcMnktn7/v5XQ/YbkO4DZ6y98MbcLDLu29iiDnzN9buvbZhVpMGpz6k5FGd1WvkQUVgDoNSmuxQ80qjB79yasJcvNMUSx/CHM4YTr2iVzjUecQ==;MyTEFMaPHte0GfOe5JY0pw=="
 ---
