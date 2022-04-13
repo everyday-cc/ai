@@ -35,7 +35,7 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/3c8ecfb0-b77d-11ec-bcdf-b07ad7941322"
         width: 6000

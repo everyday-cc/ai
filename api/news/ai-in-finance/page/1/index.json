@@ -159,50 +159,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
-      "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics’ machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company’s unique data sets and external factors, speeding time to market and driving revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
       "title": "SmartHop raises $30M to boost trucking fintech products",
       "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
@@ -1359,6 +1315,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program.md",
+      "title": "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program",
+      "excerpt": "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

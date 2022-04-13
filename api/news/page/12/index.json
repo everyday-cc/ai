@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-03-30-deepmind-accused-of-mishandling-sexual-misconduct-allegations.md",
+      "title": "DeepMind accused of mishandling sexual misconduct allegations",
+      "excerpt": "A former DeepMind employee has accused the artificial intelligence group’s leadership of mishandling multiple allegations of sexual misconduct and harassment, raising concerns over how ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2022/03/deepmind-accused-of-mishandling-sexual-misconduct-allegations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/deepmind-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-intel-launches-arc-graphics-chips-for-gaming-laptops.md",
       "title": "Intel launches Arc graphics chips for gaming laptops",
       "excerpt": "It feels like ages ago when Intel first started working on its discrete graphics chips, which will ship soon under the Intel Arc brand name.",
@@ -636,22 +688,13 @@
       "title": "Palo Alto Networks Launches a Managed Next-Generation Firewall Service for AWS to Accelerate Enterprise Journey to Cloud",
       "excerpt": "Palo Alto Networks (NASDAQ: PANW), a 10-time leader in network firewalls, today announced that it has teamed up with Amazon Web Services (AWS) to unveil the new Palo Alto Networks Cloud NGFW for AWS — a managed Next-Generation Firewall (NGFW) service designed to simplify securing AWS deployments — enabling organizations to speed their pace of innovation while remaining highly secure.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox16.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/",
-      "originalUrl": "https://www.fox16.com/business/press-releases/cision/20220330SF08107/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud/",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.fox16.com/wp-content/uploads/sites/84/2022/04/aae4e8c5c67249218c45385f64e3e161-1.jpg?w=2000&#038;ssl=1",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -659,8 +702,8 @@
       "publishedDateTime": "2022-03-30T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox16.com",
-        "domain": "fox16.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1124,49 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
-      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
-      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
-          "width": 1125,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

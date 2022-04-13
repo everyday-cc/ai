@@ -58,22 +58,6 @@ related:
         width: 809
         height: 607
         isCached: true
-  - title: "Incorporating Artificial Intelligence Into Everyday Business Practices"
-    excerpt: "Americans harbor a uniquely negative view of artificial intelligence, being fearful that A.I. machines could one day replace human workers."
-    publishedDateTime: 2022-04-08T17:32:00Z
-    webUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/"
-    ampWebUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2022/04/possessed-photography-dRMQiAubdws-unsplash.jpg"
-        width: 1920
-        height: 1470
-        isCached: true
 
 secured: "lk/+qw4OImUUJqEva50CyioZaLkyH9YtXbryqjeweZewLLw2xaRemzcVKnIJKXRehLBlBrhJhDFHu2Xr+ySd9jUVNAZKru7J1SMLOIcNML1CocyBKSg7LpBh+H1TZw6VWGzCANsKUjKqxS9k2mpbBCtsjJxCgSVnqReVXYmlQg30uKQR7ELDwHTxq3mWzG+qVtFp86UDDDT6y5zYG1hLBCfoIi8a71dyKRT4q4ib/YmXEWFfqq24FA/bPP5eTdRaD8yxbhQsvPQ2ghCRfw+oaoQ/V67SIeLD5VTFsZxmbHsYx+6chyScWryqlsrxYxnOSEeFwyJjXwEQ59meD2Zpxo2zbQRqeZEO5qar5lhO02YchEvBojwpVrkwLBNR8tENtHLK1YMWysXNmX7Um0u1pDPmmARawiFeyBTg3OMFQe5jMsjqg9fyPB3s8Hx3UCo05xotAUP1fWfAk/9tmvVO9K8RaFbVlG/+mkmvc69kh8lnqY/xNbhT7f1RrVJPcq4UXbNOa2+6eLHpERKAH4spFw==;mipYDo5vN4lGyqT9bFzVvg=="
 ---

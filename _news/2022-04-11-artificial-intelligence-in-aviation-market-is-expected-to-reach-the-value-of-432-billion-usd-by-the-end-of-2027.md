@@ -52,6 +52,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Global Artificial Intelligence Software Market Size and Value to Reach USD 58440 Million | Growing at CAGR of 24.9% | Forecast Period 2022-2028"
+    excerpt: "The global Artificial Intelligence Software Market size is USD Million in 2022 from USD 12330 Million in 2021, with a change of % between 2021 and 2022. The global Artificial Inte"
+    publishedDateTime: 2022-04-11T07:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-size-and-value-to-reach-usd-58440-million-growing-at-cagr-of-249-forecast-period-2022-2028-2022-04-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Medical Robots Market Size worth USD 31.8 billion by 2031| CAGR: 16.2%: Growth Plus Reports"
     excerpt: "The Global Medical Robots Market is expected to clock US$ ~31.8 billion by 2031 owing to technological advancements in robotic systems, heightened adoption of surgical robots, growing demand for non-invasive/minimally invasive surgeries,"
     publishedDateTime: 2022-04-11T20:40:00Z

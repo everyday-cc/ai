@@ -28,13 +28,13 @@ images:
 
 related:
   - title: "An AI model can help predict adverse events from new drug combinations"
-    excerpt: "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said."
-    publishedDateTime: 2022-04-08T19:45:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
+    excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
+    publishedDateTime: 2022-04-08T19:46:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949288"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 19
 
 secured: "V1AdDzZVG9YkUBJjXuufanD5BG+twl2owtccEJQV6Db5mJcnU6JMLC/7sF6Wfp2+Z0KujywpMnzuIaM5gsuebSmmH7uvfwq1YH2LgFkblxhcROzajfw5jW+e67LQtCRSxBHB/g4geK1n3gyvWpE2eDIOqkRKxIi8MAa6tvL+EbHwGAZpSo0lLDM1hcfINBBDwdp85DDVqbK6mVjX/RimBx8m62fgJnQhaVR+NoNHF1S1ba16fQzGNh1m3HFZdaMYZQj3SUhqXitJW5fBX6qVurqwU1BWnk7/k6EFiKiW7YVxZd22g+/2NstdFt4GZFAaGYwZQCAWuzlbxJShuO6SjXS1O5h2PRgG3/qFdal0mjc=;RMd5jFIo27/hJ2/nxn0i4g=="

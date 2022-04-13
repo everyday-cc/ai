@@ -579,33 +579,24 @@
     {
       "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
       "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics’ machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company’s unique data sets and external factors, speeding time to market and driving revenue growth.",
+      "excerpt": "Grid Dynamics' new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:16:00-07:00",
+      "publishedDateTime": "2022-04-06T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -615,9 +606,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -901,10 +891,10 @@
     {
       "path": "_news/2022-04-05-quantum-memristor-points-to-new-neural-networks.md",
       "title": "Quantum memristor points to new neural networks",
-      "excerpt": "A project at the University of Vienna has now described a new integrated quantum processor operating on single photons, which could have implications for artificial intelligence and neural networks. The Vienna device is a memristor, a form of electronic ...",
+      "excerpt": "Studies of quantum computing and its overlap with photonics have gathered pace in recent years, with groups such as the Danish PhotoQ consortium investigating the development of photonic quantum processors.",
       "sourceUrl": null,
-      "webUrl": "https://optics.org/news/13/4/6",
-      "originalUrl": "https://optics.org/news/13/4/6",
+      "webUrl": "https://optics.org/dcs/news/13/4/6",
+      "originalUrl": "https://optics.org/dcs/news/13/4/6",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -923,7 +913,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T05:58:00-07:00",
+      "publishedDateTime": "2022-04-05T08:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Optics",

@@ -48,6 +48,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "CaliberMind Launches AI-Based Revenue Analytics Platform"
+    excerpt: "Concept: American B2B customer data startup CaliberMind has launched a B2B revenue analytics platform for enterprises to analyze their revenue. The platform utilizes AI to help enterprises to connect, analyze, and activate data to attract new customers ..."
+    publishedDateTime: 2022-04-13T10:45:00Z
+    webUrl: "https://www.army-technology.com/research-reports/calibermind-launches-ai-based-revenue-analytics-platform/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/shutterstock_435613807.jpg"
+        width: 500
+        height: 355
+        isCached: true
   - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
     excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
     publishedDateTime: 2022-04-12T21:42:00Z
@@ -72,6 +86,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "gXqd7TjvDKKjvb9beUDuPCpkuW6cn6kD2bd8/UyGWF+mNFGhj6UjU5FWAzCP4XkfeX6qg0iwuQGHotVjjZKkqWoLmC1GII9CrYNchN2SLM98448FgX8/XouOM4I9+Rsmih/LLvdA7A1Yyh7k485OTF9WXjl4mZI5MpMp5/n557QflU/OPHRHrAscoDQ/sJph1eIrZFTACkJgAndRDibUALeEnPvmN+oxFGf0L92714Vmrt4KHfp4hqakJJyx8OTwK0rfdELSkOgNWYonZ6GmM/MRylAEVOgEi7E2dSXqZ/t29QA+0pDZUbwFgR8YntikGMawnNvIRnXQeEB0mJbCcjxK8Ou84zJk1VzbUq2HTEY=;litKvHfBi6WK7yTlr0lAag=="
+secured: "6PICmyBVa2+Ab50Luh6ePmuIfOoRim+/5xI+sQFSt3vxKqDm3sk5oWvMI5NdVt6gbFxeiIYFEx4zi7EYiykSjCtyxyanQZb5K8HnzheTOhqUlxSbw2D14l6XL02jJCXrEtT0q5ANDSQdns9RkI85fRKBq2NCe0XoUDS/x/FyIis3HIehlkt3M3B0UkAmVID0TOKglac5/cV3GKz6WC1dfmXxGKF40fd39LgnZJtmP6dnK4WP5Cf/jM2fau5gcfH4LgkSMLY+PqLq1ASLdOut2GBSlGf7wQm72PSShL6c9pchD6XArpFfBIX0W3WmoS7eXU6wjKnjYPmN4gdmmucgTFzoeqWy3LzthHXD4naYRZPp4iLvj02PB7avusQCWNw9OXdpBSSb4sAnqhA5ctQu58xO2rIYD7FN7kVQIWAHPj43O1E9sTs4y5qJXDYhNho1S5B2XOOnBcdi7VTXpGFFrcf5NgWEOLZhOZTOhrN9uDnVv9v9Ef72hU7hnnHy8jDE1nIJhtqemIqGQNrKxHlaIw==;qGQMdg77IAhh6fuuUokY7w=="
 ---
 

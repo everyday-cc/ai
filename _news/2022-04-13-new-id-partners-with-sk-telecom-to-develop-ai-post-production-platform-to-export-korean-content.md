@@ -2,17 +2,17 @@
 category: news
 title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
 excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
-publishedDateTime: 2022-04-13T08:47:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220413CN23943/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220413CN23943/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content/"
+publishedDateTime: 2022-04-13T11:47:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220413CN23943/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220413CN23943/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content/"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     height: 283
     isCached: true
 
-secured: "9lF2aysY1Ie7nOSnOYBosvKJyhEtgrW6JdjmU+iK36eV0ME2KvJQ3mq+NXy5fL27yv9ltAaguFscJj7gjbdJqVd22/9kLypIQavyJcKbaOyCLOQTkON44ZAUnLvoaOf+ysZipkzt8qZrBC3Cxo5/1MjFqMO7xC9kDhGY2AyDkRS+CbWz2fPUcD5+KaMgIx4WlAYxhRrKvPBVYKDe0/+Gq7KfD6LeN2EyU4HvmTPa68tCQiQZWxWrY9dof8NkY4IQDMdecijVi65dBOwUBFX8vGgsTy9hd0aidnFfOIhYNU3/1TFLgeyzG0ta1rhjXls6uGR1YPfEbGRYFi9tVqRNui7/ajtf8ziaaeHUEKCIvvk=;Qqbu3vufufEhx9/WsXP3Cg=="
+secured: "T9Q1mZvKSfBFjtId59VFr/mpDNrRlRxOkOuVnnlWeUOg+qHB4UDs9ZNhreTj4z20pc5q4TBlLytbD72Ws2AYgoXcrBwvQHYdhEEldmhxZzpdbctKeAoFc/Dd4V4GiQS4OPOEN/Mw07muHfNccC0x7tAJkQlHJH8zl0RkdJR1vG6JlWiyf9jL5Ea8sbJa2twqIV/b+sFxxUbDnXP8BacoWWlfvzlfyH7XMfkYd+Pf3mHXtGpLA1C81laSI1TzEwAkWXQFJEnI8BUBWbVN1MMEG0RfZaThBpqp9YUL5fKuVxVM6e7+PAwvQJ8C8q9NxlgubrSV1TfsbrQ3InPc0epZwSioCQhmZy/tfWpo7q9ATPo=;20I0ylf/6oewyWP0NEEVeA=="
 ---
 

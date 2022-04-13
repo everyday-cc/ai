@@ -100,21 +100,12 @@ related:
     provider:
       name: Tech Thirsty
       domain: techthirsty.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"
         width: 948
         height: 451
         isCached: true
-  - title: "How AI Is Powering the Future of Financial Services"
-    excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
-    publishedDateTime: 2022-04-08T18:30:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
     excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
     publishedDateTime: 2022-04-11T12:16:00Z

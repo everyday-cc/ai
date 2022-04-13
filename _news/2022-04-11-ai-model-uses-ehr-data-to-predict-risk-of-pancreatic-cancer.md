@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "An AI model may predict elevated pancreatic cancer risk using electronic health records"
-    excerpt: "An artificial intelligence (AI) model trained using sequential health information derived from electronic health records identified a subset of individuals with a 25-fold risk of developing pancreatic cancer within three to 36 months,"
-    publishedDateTime: 2022-04-08T17:05:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-elevated-pancreatic-cancer-electronic.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-elevated-pancreatic-cancer-electronic.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-elevated-pancreatic-cancer-electronic.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/pancreaticca.jpg"
-        width: 536
-        height: 409
-        isCached: true
   - title: "AI model uses electronic health records to identify people at high risk for pancreatic cancer"
     excerpt: "An artificial intelligence (AI) model trained using sequential health information derived from electronic health records identified a subset of individuals with a 25-fold risk of developing pancreatic cancer within three to 36 months,"
     publishedDateTime: 2022-04-09T00:52:00Z

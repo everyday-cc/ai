@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -97,21 +97,12 @@ related:
     provider:
       name: Tech Thirsty
       domain: techthirsty.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"
         width: 948
         height: 451
         isCached: true
-  - title: "How AI Is Powering the Future of Financial Services"
-    excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
-    publishedDateTime: 2022-04-08T18:30:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
     excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
     publishedDateTime: 2022-04-12T12:31:00Z

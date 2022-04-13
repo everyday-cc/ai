@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-03-24-how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones.md",
+      "title": "How Samsung is using AI software to up the camera game on its smartphones",
+      "excerpt": "Samsung has applied approximately 60 AI models for the functions of the cameras on the Galaxy S22 Ultra, which a company executive says allows it to take detailed photos of closeups, night scenes and even match the quality of a DSLR camera.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "originalUrl": "https://www.zdnet.com/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4f683ac35b12bd8929b668b72853ed82a55b545a/2022/02/08/f548c7c3-917b-4523-9ba3-1d19ef8df620/1-30-galaxy-s22-ultra-portrait2-hi.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-samsung-is-using-ai-software-to-up-the-camera-game-on-its-smartphones/",
+      "publishedDateTime": "2022-03-23T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-cedars-sinai-says-artificial-intelligence-tool-may-help-predict-heart-attacks.md",
       "title": "Cedars-Sinai Says Artificial Intelligence Tool May Help Predict Heart Attacks",
       "excerpt": "Cedars-Sinai researchers developed an artificial-intelligence algorithm that expedites the process to quantify a patient's coronary plaque. And after \"training'' the algorithm, researchers said it accurately predicted the five-year heart attack risk for 1,",
@@ -1127,58 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo.md",
-      "title": "The great puzzle of the body and disease is beginning to yield to AI, says Recursion CEO",
-      "excerpt": "One way to think about artificial intelligence, in its modern deep learning form ... than the industry rule that fewer than one in ten initiatives develop a successful therapy. Now is the moment of holding one's breath for AI in drug discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
-      "originalUrl": "https://www.zdnet.com/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/672dfa43190bfb5d45d452d240248fdbf8b6e6eb/2022/03/23/2979bb02-57af-4988-b48a-66ec8dc4b0ea/recursion-scientists.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-great-puzzle-of-the-body-and-disease-is-beginning-to-yield-to-ai-says-recursion-ceo/",
-      "publishedDateTime": "2022-03-23T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

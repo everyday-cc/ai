@@ -1,0 +1,22 @@
+---
+category: news
+title: "REF 2021 case study: How Surrey research led to world-first patent applications being granted for AI-generated inventions"
+excerpt: "The first patent applications for AI-generated inventions have been granted thanks to research at Surrey, sparking an international dialogue on how new technologies are challenging existing legal standards."
+publishedDateTime: 2022-04-13T11:35:00Z
+originalUrl: "https://www.surrey.ac.uk/news/ref-2021-case-study-how-surrey-research-led-world-first-patent-applications-being-granted-ai"
+webUrl: "https://www.surrey.ac.uk/news/ref-2021-case-study-how-surrey-research-led-world-first-patent-applications-being-granted-ai"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: University of Surrey
+  domain: surrey.ac.uk
+
+topics:
+  - AI
+
+secured: "FwatGYIi0fb46/xHJrsmXyLiHo9VHR0rYQYeELERc4o8yEjGiRzgOOv7fHR787Npw47rN3IYs1SxOr6vv3erT3drI8vvXRB7X1bTj76+JGWYRZiMQZXLj0RBmuA8bf6RD28Yt8NMZrOL0svQlgcj2coKHG30rHQ8BQ7EQnwBOgMJhowmj0oL8orn1tmpqdBrqWpE3WsoYVRnVWVKeE4hS+IHuJ4a4tEBmgB03MTFrJ9JpbHfWk8XhHWQeTzaB1hXlcrac1uMJjey+Y/JkSQqAr7IKkaq+bHCIz+UhJyB6ZsGeAasyuwyU+W/jDCYZ6TDk/9iWPDmBj2JkbGtas09WX6ye/ktET14ZRBZaqbaUHE=;EpeZNOhHBI8Tgm/y8JuCpw=="
+---
+

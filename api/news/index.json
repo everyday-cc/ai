@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
+      "title": "Intelligent robotics for laundries closes automation gap",
+      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
+          "width": 1660,
+          "height": 1660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
+      "publishedDateTime": "2022-04-13T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-swarm-robotics-expands-the-possibilities-for-mars-exploration.md",
       "title": "Swarm Robotics Expands the Possibilities for Mars Exploration",
       "excerpt": "Roboticists from Skoltech have proposed the development of two-wheeled robots controlled through swarm intelligence algorithms that can operate independently or as part of a team to complete mission-critical assignments on the surface of Mars.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12887",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -313,7 +356,7 @@
       "originalUrl": "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -352,7 +395,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -364,7 +408,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -605,7 +649,7 @@
       "originalUrl": "https://www.gamingintelligence.com/finance/manda/155510-sportradar-acquires-ai-specialist-vaix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -734,7 +778,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -871,7 +915,7 @@
       "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1092,58 +1136,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-10-startups-riding-the-wave-of-ai-innovation.md",
-      "title": "10 startups riding the wave of AI innovation",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Organizations are increasingly adopting AI-enabled technologies to address existing and emerging problems within the enterprise ecosystem,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/",
-      "originalUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1333935767.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/",
-      "publishedDateTime": "2022-04-11T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

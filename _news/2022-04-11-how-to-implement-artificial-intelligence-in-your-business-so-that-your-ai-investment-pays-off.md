@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Incorporating Artificial Intelligence Into Everyday Business Practices"
-    excerpt: "Americans harbor a uniquely negative view of artificial intelligence, being fearful that A.I. machines could one day replace human workers."
-    publishedDateTime: 2022-04-08T17:32:00Z
-    webUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/"
-    ampWebUrl: "https://innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
-    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/incorporating-artificial-intelligence-into-everyday-business-practices/amp/"
-    type: article
-    provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
-    quality: 59
-    images:
-      - url: "https://innotechtoday.com/wp-content/uploads/2022/04/possessed-photography-dRMQiAubdws-unsplash.jpg"
-        width: 1920
-        height: 1470
-        isCached: true
   - title: "AI in financial services"
     excerpt: "Artificial intelligence stepped out of science fiction years ago and is at work in Luxembourg in insurance, financial services and fraud. Andreas Braun, director, artificial Intelligence and data science at PwC Luxembourg and Ajay Bali,"
     publishedDateTime: 2022-04-11T09:53:00Z

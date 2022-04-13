@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-12-10-startups-riding-the-wave-of-ai-innovation.md",
+      "title": "10 startups riding the wave of AI innovation",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Organizations are increasingly adopting AI-enabled technologies to address existing and emerging problems within the enterprise ecosystem,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/",
+      "originalUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1333935767.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/",
+      "publishedDateTime": "2022-04-11T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-asiapacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc.md",
       "title": "Asia/Pacific* Artificial Intelligence Spending to Reach $32 Billion in 2025, Says IDC",
       "excerpt": "SINGAPORE – According to IDC's latest Worldwide Artificial Intelligence Spending Guide, Asia/Pacific* spending on AI systems will rise from $17.6 billion in 2022 to around $32 billion in 2025. Businesses invest in artificial intelligence (AI) to gain a ...",
@@ -1060,7 +1112,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1153,59 +1205,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-elon-musk-says-production-of-teslas-robot-could-start-next-year-but-ai-experts-have-their-doubts.md",
-      "title": "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts",
-      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "publishedDateTime": "2022-04-08T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

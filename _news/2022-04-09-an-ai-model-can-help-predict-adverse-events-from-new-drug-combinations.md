@@ -1,18 +1,18 @@
 ---
 category: news
 title: "An AI model can help predict adverse events from new drug combinations"
-excerpt: "Preliminary data from an artificial intelligence model could potentially ... making it difficult to decide whether a new combination therapy would risk their health,\" Westerman said."
-publishedDateTime: 2022-04-08T19:45:00Z
-originalUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
-webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
+excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
+publishedDateTime: 2022-04-08T19:46:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/949288"
+webUrl: "https://www.eurekalert.org/news-releases/949288"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
@@ -36,6 +36,6 @@ related:
         height: 480
         isCached: true
 
-secured: "dDATvBcAt2O2QNJLed6m5Wbq0FmcbJxmPhzf2HpbJDC0CGsQasBQW37OyKHWPWzPlJETwmQwOfE+Aiyx3GUNT+FDumVPJEZhG2h6rU4HZcth1DldHJkL+NsNJc59G+YzQE+M02btNioYTx2qnMFDGrtwlXedbfqBjF6eTY27m6qJLuaVMfHlFhDH/zqqbDIESSdtrf6Q0qZUNgMrW12pWTfjpdZ3BJuMflRVv2XzTvBEUqy4ijoNhn5NJxjVgXEWJCWYQnt+1FgIlMcVNw2L+6WO+w/ztl+VIcHokK2jlBRuZis52IlMudMeyvdjUry617SWOgZyA7VrC1vewFLfrSAtVDbvVPG1GKOx9XQAJ3I9jUqzSCPTAPUAkAqDAUKz9wFiUO5jgCDklmTKEVgUI7Mjf7seJPkDWkaSNYA2B6Xo9mjhi6eGln+c3I/WqZvF77rsTsc9wdLRJ8epzd7fwm2vatbVDgwlmW2iTiAV1A7QE1PhfFkN/9JFVeEKBGF0Eht2xdCewQ0Nm8+aqwlVwQ==;AvTBl2zicp59lCch2dG6Og=="
+secured: "Qm/z3RVhJXGtTxZaW/ky5fQjT9/cErgs0kV6DK0GiWDhW5IIZyw+p9Uoc2IPQV6x5w9OjuJJ6pint+6sREuzG0+QrDk8HUQMUPv1pENyJHyOUudCjXBWmb43WJdCqIIp7BoBTYbyPvqK5DH0hPHXBdQzu43XRt0Axxnp+B5HCA9II6WnrWbQg772TOBsoJnM+aGoXzRqqcVXMOWkoqR/ZdP1+qH2ruPDrb4bvtw9cripkNU5ofdkZWOaSzXP5U0L9BBkNEcGXla3qKFpXA453efX5JuyO54wdB4so5Ghuh4xNxgrzEjGwoX3A6JpK2yxUWsdRDTxVqaf8begLcAdNOru1nvDOhPpXNbJDByLfGc=;a9S2ADLQl+XktSzLx4X6qg=="
 ---
 

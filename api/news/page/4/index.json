@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-08-ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute.md",
+      "title": "AI Visionary And A Prominent Ethics Leader Beena Ammanath Of Deloitte AI Institute",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Beena Ammanath.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624fa29fef1ef8b65b4ebda9/0x0.jpg?format=jpg&crop=1777,999,x0,y139,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
+      "publishedDateTime": "2022-04-07T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
       "title": "Ukraine uses facial recognition software to spot Russian spies",
       "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
@@ -968,33 +1020,24 @@
     {
       "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
       "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics’ machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company’s unique data sets and external factors, speeding time to market and driving revenue growth.",
+      "excerpt": "Grid Dynamics' new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-business-947b0e0b49a7db92a0acfd83c0480cba",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:16:00-07:00",
+      "publishedDateTime": "2022-04-06T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1004,9 +1047,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1137,58 +1179,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-microsoft-launches-its-ai-powered-notetaking-app-journal-as-an-official-windows-app.md",
-      "title": "Microsoft launches its AI-powered notetaking app Journal as an official Windows app",
-      "excerpt": "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Store-Frame-11.png?w=680",
-          "width": 679,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/microsoft-launches-its-a-i-powered-notetaking-app-journal-as-an-official-windows-app/amp/",
-      "publishedDateTime": "2022-04-06T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

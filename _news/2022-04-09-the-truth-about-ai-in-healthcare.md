@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-abo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/09/the-truth-about-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
         width: 353
         height: 249
+        isCached: true
+  - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
+    excerpt: "TSX:WELL) WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
+    publishedDateTime: 2022-04-13T11:25:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/13/well-health-makes-strategic-investment-in-tali-ai-to-develop-an-ai-powered-voice"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/1796364/WELL_Health_Technologies_Corp__WELL_Health_Makes_Strategic_Inves.jpg"
+        width: 400
+        height: 238
         isCached: true
   - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
     excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"

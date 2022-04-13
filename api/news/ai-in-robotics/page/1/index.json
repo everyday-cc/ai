@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
+      "title": "Intelligent robotics for laundries closes automation gap",
+      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
+          "width": 1660,
+          "height": 1660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
+      "publishedDateTime": "2022-04-13T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-swarm-robotics-expands-the-possibilities-for-mars-exploration.md",
       "title": "Swarm Robotics Expands the Possibilities for Mars Exploration",
       "excerpt": "Roboticists from Skoltech have proposed the development of two-wheeled robots controlled through swarm intelligence algorithms that can operate independently or as part of a team to complete mission-critical assignments on the surface of Mars.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12887",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1349,58 +1392,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business.md",
-      "title": "Emerging FoodTech: Robots And The Resilient Spirit Of “Techspitality” In The Food Business",
-      "excerpt": "The world of automation and robotics has jumped off engineering drawing boards and moved into restaurant dining rooms and kitchens. The time has come to add Food Technology to the growing list of priorities in your food company’s strategic plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/",
-      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6246743338131d1da3503f2b/0x0.jpg?format=jpg&crop=700,394,x0,y65,safe&width=1200",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/",
-      "publishedDateTime": "2022-03-31T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

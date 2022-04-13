@@ -2,6 +2,58 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-01-25-instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai.md",
+      "title": "InstaDeep raises $100M to inject enterprise decision-making with AI",
+      "excerpt": "InstaDeep, a company collaborating on AI solutions for organizations including Google AI and BioNTech, has raised $100 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-636609180.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/",
+      "publishedDateTime": "2022-01-25T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-nvidia-quietly-prepares-to-abandon-40-billion-arm-bid.md",
       "title": "Nvidia Quietly Prepares to Abandon $40 Billion Arm Bid",
       "excerpt": "Nvidia Corp. is quietly preparing to abandon its purchase of Arm Ltd. from SoftBank Group Corp. after making little to no progress in winning approval for the $40 billion chip deal, according to people familiar with the matter.",
@@ -1166,40 +1218,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest.md",
-      "title": "Facebook parent Meta says its new AI supercomputer will be world's fastest",
-      "excerpt": "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest",
-      "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp",
-      "publishedDateTime": "2022-01-24T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

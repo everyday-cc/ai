@@ -2,6 +2,58 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-02-18-why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022.md",
+      "title": "Why AI and machine learning are vital cybersecurity tools for 2022",
+      "excerpt": "Fortunately, artificial intelligence and machine learning (AI/ML) technologies can deliver the powerful new cyber security tools ITDMs crave, and offer hope in our ability to keep up with the latest cyber threats. While adoption of AI/ML technologies has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
+      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/362050/why-ai-and-machine-learning-are-vital-cybersecurity-tools-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1645030838/webroot_carbonite_logos_Numbers_Brain_AI.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-baidus-robotaxi-service-is-now-available-in-all-first-tier-chinese-cities.md",
       "title": "Baidu's robotaxi service is now available in all 'first-tier' Chinese cities",
       "excerpt": "Baidu expects to serve 65 cities by 2025, and won't reach 100 cities until 2030. It also faces growing competition from rivals like AutoX, which also offers self-driving rides to the public.",
@@ -1157,58 +1209,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-inside-facebooks-african-sweatshop.md",
-      "title": "Inside Facebook’s African Sweatshop",
-      "excerpt": "Some said they had done research that showed content moderators ... and no users nor Facebook’s AI systems have flagged specific points in the video. Through its prioritization of speed and ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/",
-      "originalUrl": "https://time.com/magazine/europe/6149051/february-28th-2022-vol-199-no-7-europe-middle-east-and-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2022/02/TIM220228.Facebook.Cover_.jpg?quality=85&w=1012",
-          "width": 1011,
-          "height": 1349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/amp/"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 468
     isCached: true
-
-related:
-  - title: "Apply to pitch your startup at TC Sessions: Mobility"
-    excerpt: "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here."
-    publishedDateTime: 2022-04-08T17:38:00Z
-    webUrl: "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/"
-    ampWebUrl: "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-1.png?w=1024"
-        width: 1024
-        height: 468
-        isCached: true
 
 secured: "Ynu9CwpagZo7Kwlw1MPjR3Ab/id2yb9vZVADbjbsDdMBDLVNLIq5POZwfxFR1tB15TqwLACCbptkSV7RxI2bdkhxwcTogoYsQWH+B8tAfgW6mTwxM42LNp26OPY6+UXChUtVrrBOfrZIDFVgmX1c+3xpQIsUedslJz4O+sN6h86hRIRITewUCMt5QPYwK4xuKP/dtpiZ3IO3mAS8vFAtT8CPcIfVbHY6AOPeVx6ldmiB1qxm14u5kspEQ6Sq9ZQ6XamwEOWP++ahM6n0ma4yvy3nGLnZwdjUozsmhHtd+yZqgTOEfFEoKxnjzO/TiTSO9yiwbAxj/Hh3Z1WVvusiBCQbmX+trTXnh1LV0MyH8plf2JtZvE50u2W5HKY97+LOgtaNsapwy6y4nUAr88rICePm0/iMeswmtrtuEwFYPE4JagEauNAGt34w1v7xhZ8UEM2ai8BCs8OTnUPxAddwDgkIo6kiEwbPfQNFWKhRD/4SGigqzRDhFtl8xH2m3jkgT3jnvZke3meK7OtJvshQTw==;7HUZ2pp5WYorDJDUg161/g=="
 ---

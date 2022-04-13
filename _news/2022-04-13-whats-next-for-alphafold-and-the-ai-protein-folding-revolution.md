@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-13T09:26:00Z
 originalUrl: "https://www.nature.com/articles/d41586-022-00997-5"
 webUrl: "https://www.nature.com/articles/d41586-022-00997-5"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-00997-5/d41586-022-00997-5_20300294.jpg"
@@ -23,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "+YWd2GC0lPDWo+nOCScEFWa/6lN4Ff5z62b0PGsf2UqNt7EkVTrYSwDb34BIylzwPH2p0J0LltGwsmSM28+jde8Q4BaSMeluNfEiGbzePdULpr9CxZFxJjR1t9V447tcnLqR+5WHlefSH/M6sX5gWySjGoR5C4DoL+tWMhuckSaT4bIwIonn8xNIS9xBkUmNi8ow0CrWIicGTMlm857hmnxlFfkKnrkVLp9Cjc+c4kkEoVaUhfAYG0XfhQVGuAhvE24E+meSsAF+i8+qHh8psBlrDFVgp42zJwmJt0pwkWSk29cXFsbx4QnUCSNfUDhZBraL6p1nVf6YtyXgk69ecWFMazcbjZBRktPuOW6ZWLs=;kc+lMInFtOayiVdP0Z9g6w=="
+secured: "60DozY6p9/4jeiG1kYkLALZW3dGhzLVtlOdbkyHACfeWIuv1UHy0S6wWkNtgEDRRtZ43CaPZQ2VHKh6E7VTCcc5Ij/V5WQZvFDXQumyPyBx/IuI0M6vq+XWnQUq+aVu1qhqJ33ptJqmZHReWUmhAcIwi2n1nOCsfjnhmBfTCgjDK07M1f5s6htx/WC4KxhmpaJfMv11cqI0zTzEwFnzCPvfJuJ3ZxGkDuFPYGxFbx/VmTrNqbBZwpcCBinRCFmxZhh7NfFb1RcoMevCGxxvaN1qzG+mjlVyAAMuZ9Ak82ZVSRLD8z5zak1Zlv0lNmFOUll4UJFSbIqvF782EeRMS+yng4czsxazUl24Ntf7TFtRgfAGV+NsVRs0TBpnXDXxGTgrRQRecXGGFmH2+rVSWd0nHzE0Y5jJnPsDvKpLikpanHWmrh8TpSdibI0HL/vyhkF+mmMrkre4NxcS9nf6WSI5ZO6VL1a/tw6LsVoxXgxJaLYn6zP8ZCmL78kyOOcvjSy31Do9l8Kb9gvx7UrVqcQ==;8Zp4fx2sUrj6mYAN0wIEbg=="
 ---
 

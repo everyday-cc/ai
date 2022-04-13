@@ -41,6 +41,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "CaliberMind Launches AI-Based Revenue Analytics Platform"
+    excerpt: "Concept: American B2B customer data startup CaliberMind has launched a B2B revenue analytics platform for enterprises to analyze their revenue. The platform utilizes AI to help enterprises to connect, analyze, and activate data to attract new customers ..."
+    publishedDateTime: 2022-04-13T10:45:00Z
+    webUrl: "https://www.army-technology.com/research-reports/calibermind-launches-ai-based-revenue-analytics-platform/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/shutterstock_435613807.jpg"
+        width: 500
+        height: 355
+        isCached: true
   - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
     excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
     publishedDateTime: 2022-04-12T21:42:00Z

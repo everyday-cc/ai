@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How to craft the perfect pitch deck for your AI startup"
-excerpt: "The right set of investors can be a deciding factor in your startup journey. At LUMIQ, we build AI-powered products for financial enterprises. Getting early backers who believed in our vision was crucial for us."
-publishedDateTime: 2022-04-13T09:30:00Z
-originalUrl: "https://analyticsindiamag.com/how-to-craft-the-perfect-pitch-deck-for-your-ai-startup%EF%BF%BC/"
-webUrl: "https://analyticsindiamag.com/how-to-craft-the-perfect-pitch-deck-for-your-ai-startup%EF%BF%BC/"
+excerpt: "The right set of investors can be a deciding factor in your startup journey. At LUMIQ, we build AI-powered products for financial enterprises. Getting early backers who believed in our vision was crucial for us. Thanks to the rapid digitisation ..."
+publishedDateTime: 2022-04-13T10:01:00Z
+originalUrl: "https://analyticsindiamag.com/how-to-craft-the-perfect-pitch-deck-for-your-ai-startup/"
+webUrl: "https://analyticsindiamag.com/how-to-craft-the-perfect-pitch-deck-for-your-ai-startup/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 900
     isCached: true
 
-secured: "QxE54wf6BGLDYFz3fxjEKIatlNvYrbmE7hqZJvIRcfK/3dEUn3KID5kvrZQFAvQgeqPLY6G/jYNt/y5y6e1WWGRigiEF6qmJJpSamEyRLHr0G53c4N8h25u2srLT9z295wdzS74FQXTycDWnWRuaNSUIGIxHpwyXcVkp4zYEiV26aMWYV73ieqTcVjYZ6S/eeKhVAHhLK7WdG4ORx/j4dhJaPFZ8HGGjO8GfAzzeMEpH9KQmZEMYBHL6OQ5JJ8QjdfZy1A5qRvCCx8s/ho6131tdVBZGNxizeQJiGLs6luotx72mbRFJ5sYJ36OR8x3K4qAiOyAPzTUShR/Vm2gTqjsuWEegfLPXDFDCM0vaB34=;Oa3dm3sNT58Rnt7O4mJiOA=="
+secured: "m4xAuXRCfN1FztY8Tk8y5jiNOj5nZVAsKmqZ7albwEW/DVRL77IGzWGlid9yFNA2m80y1rztXbIzYCnKV1wVyJn06R05/UyGAcZuY1KLpMzii26JXFWIT1E+RcpZtaWPLbLwARgv0kYj6rPo7V/CX7Mg4GzPlUgXKY76xagbkYGh9i0UwNw7iwzPSS+uw3DG7r5UqddBYeLQ3hJmphGHQeWdaIycyZx+Lo5gZ0uA3eS9rE7c8eB3+G6MC047M1d2ijoTcP/7FvLnPuo3KzBoX1CNoZ6bEbR1iM9Z9ATQ3SlXDIe9FVvPSKwNX1Tz5mA4WDW9add3mwdKnmcOSt0T6xkHughgcj5zT4li5RhoDYU=;lFCbf2XfEFRBC7czfmyicQ=="
 ---
 

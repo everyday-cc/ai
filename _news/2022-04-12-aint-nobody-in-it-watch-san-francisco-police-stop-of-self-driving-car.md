@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-ca
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
 type: article
 quality: 58
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "How San Francisco became an autonomous vehicle test course"
-    excerpt: "go on different missions throughout The City to train the Waymo Driver, its proprietary artificial intelligence, in different environments, a company spokesperson said. The vehicles sometimes travel in groups back to base after a shift. Cruise, which uses ..."
-    publishedDateTime: 2022-04-08T18:48:00Z
-    webUrl: "https://www.sfexaminer.com/findings/how-san-francisco-became-an-autonomous-vehicle-test-course/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 4
 
 secured: "sP+nNKvj56Jou4/VrXyWP+vxdbkaTtLh5z7363mAuupagwfawKCojJO18oJ6FW80h8JyoGR5/vdrgXxC0m0koAhb5LBQtG5nwpeJ2S8Loqc3C+suBcv6HbpkMEzGZ5WZGPlWHEe5bgZ+iBfQYfE4qwl8Wjinprcf4O939sbozWqf6iLW9cTTKEaIjzxxh7OgalAcXXTVeQ165ly7A+vzM1mrTAuP2Lq17+4YaVKy+04edahyPJ5qTfQXjl2m2elKVOvnc6+5vyhCYnJTAxCuTRFJRpwX5USbE1v9zuwtgsmEEZDcKOCVALS+0OyomeBsqqetTyB580nrEGUdRb8xH9/HR3ApE4voQ68X+TVrkOkSA240BM6oOInaVoKy/rl3oCAhBOC5n9+jv0SZTfMuFX6MU+F8WiAwlMST80jjKjzliHDc894I/BK4GSgKw0XVmAnUORbU8ime6Q9JKrW70mWa4PlAy952lrllasIrP1fJtEOUzb7FWf/FozXn0QZZuvu4QZudnCNvaZloJy4fsw==;vY+k37b/BOmPN5JucES8Gg=="
 ---

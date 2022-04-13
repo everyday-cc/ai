@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-13T06:42:00Z
 originalUrl: "https://www.techthirsty.com/increasing-ai-startups-also-require-funding-to-meet-expenses-until-profits-begin-to-increase/"
 webUrl: "https://www.techthirsty.com/increasing-ai-startups-also-require-funding-to-meet-expenses-until-profits-begin-to-increase/"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"
@@ -98,15 +99,6 @@ related:
         width: 1052
         height: 630
         isCached: true
-  - title: "How AI Is Powering the Future of Financial Services"
-    excerpt: "The use of AI in finance is gaining traction as organizations realize the advantages of using algorithms to streamline and improve the accuracy of financial tasks. Step through use cases that examine how AI can be used to minimize financial risk,"
-    publishedDateTime: 2022-04-08T18:30:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/08/1049278/how-ai-is-powering-the-future-of-financial-services/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
     excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
     publishedDateTime: 2022-04-12T12:31:00Z

@@ -49,6 +49,15 @@ related:
       name: sbcnews.co.uk
       domain: sbcnews.co.uk
     quality: 17
+  - title: "Sportradar acquires AI firm Vaix to help bookmakers deliver personalised bets"
+    excerpt: "Sportsradar's Vaix acquisition formalises two-year partnership to drive engagement and reduce churn for betting operators."
+    publishedDateTime: 2022-04-13T11:37:00Z
+    webUrl: "https://www.sportspromedia.com/news/sportradar-vaix-ai-personalised-bets/?blocktaxonomy=news"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 14
 
 secured: "5JtrnY42ZvJQ6qgSc6Ws4DDovk6tIgaE3aqZIc46VLbVq3KMZDICYkcuENEiEgEDjabzq+0jU1ZeHsOlFAdWapPH7jnew6GzYVKkLG2am9i8SjA8+ifyYio5Ziuu8GoABcdECgoYHfdaqaH8XlgUTSvRiNSD9SUtMsg384hw52s1sH6y6lbtGyeCv4wLJNVOFSTjttg6+rGavp3DQjdJ6+zMmEHVnSzqzEJe8svJhkESnMbw3SpWQcVqLjFFe8qXm8FFvweWM1ZKWOFEj88WRBdIQImgG+iePonHRPB9sp5ACgJd0BuBbNjzU1ehiPlgIMpHa8NLNbAPs/oXeXG/prjeRHufPDsUZ62HzMQpM1w=;uEeVDTcwx94dvXYXvkF/3g=="
 ---

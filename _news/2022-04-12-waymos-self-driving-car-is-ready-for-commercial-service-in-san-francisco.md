@@ -96,15 +96,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "How San Francisco became an autonomous vehicle test course"
-    excerpt: "go on different missions throughout The City to train the Waymo Driver, its proprietary artificial intelligence, in different environments, a company spokesperson said. The vehicles sometimes travel in groups back to base after a shift. Cruise, which uses ..."
-    publishedDateTime: 2022-04-08T18:48:00Z
-    webUrl: "https://www.sfexaminer.com/findings/how-san-francisco-became-an-autonomous-vehicle-test-course/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 4
 
 secured: "5DtW+9eMEfvHcmrCYe5YyhO/azircIa9SLOKFwOjJCPSRmvcXSf5VYoeL6ukKWF5XLmgrCwSo5WHXow30njqrf6hzP/qvA5DS/r7sYURGXKOYgHL8Wfbs0dxbcqEFlewBJbDEFNEoQdn9Vx0geh82OXw96/NTP40HvDqG2C5gAy1zSbRc3rPCssqVACmg9eMlDMR9iV+TIdYrqsWAd5vqWnEtgGc4WoueqSrkHmctnZQR+mx8QU5YFoJ8plKQVI7xETZ51YNMrrBe6EqK8BjAU8450A4lipj6cOg4RUBZx8Rh468tvUOVaRWK+BuuQRhknQCw27SXPR7Dt62GcCIo67Pz2a3gboMx78L6k3BGWdNY6BnAuga5WEOD3TNY20cOW89nHsuTeKV8Ny4N5VyP98pBvhddpfsjsrEJ4sIIFuZsrLPXBX7OMmPuXIUpF94pd2DpQ5Tg7imEYWZFVsbG+g+HWlLwUYDIfrfYqKj0n1ZlUVfy46ssVj2zaDaGKKU2hrJwvq7T1Pti5XqoJvbBQ==;Jylyt9eX05pDPC5ci+f1Ow=="
 ---
