@@ -1,0 +1,24 @@
+---
+category: news
+title: "Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation"
+excerpt: "You can establish feature stores to provide a central repository for machine learning (ML) features that can be shared with data science teams across your organization for training, batch scoring, and real-time inference. Data science teams can reuse features stored in the central repository, avoiding"
+publishedDateTime: 2022-04-13T18:54:26Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/"
+type: article
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+secured: "18pdxzkZGjt1lvhUidZ17UQKK+DtDNya1sI+ixPPyHm/kaNlwjy4kwREb8rKvvdZH5YZtZ04IittcLQ4Wli1WMY4pwr4cm353WZiaaQpmY0VYf1hUNZxv5kSnRGyjiRTa7oW4LDLxDqbPZ95RPg1AqHKhu/RXTtXlZHBEoxpzyfzUewdvf/dlv4ImhWOe/fi7oyInCJYZ2SgsVOQdgWmLu8doYYpV6suk1Clx4c900cSSyU3EH+nLGaSfC5+Kvf5BTaR0eS5wht3sox2PN9bdCv9sm4dAKI+YvucPW1PoGxNfb4MQFtc9CkTE0Wku+zHiXAB8xmOf+9qHvmH2fgWomt2SfRjk+q1V/JKk93QBpU=;U+Z4gAmuusnL/sCY4u0a8g=="
+---
+

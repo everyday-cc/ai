@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 related:
   - title: "Hopkins researchers develop AI technique to predict cardiac arrests"
