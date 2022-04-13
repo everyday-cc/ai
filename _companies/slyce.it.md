@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "slyceit"
   url: "https://twitter.com/slyceit"
-  followers: 2163
+  followers: 2162
 
 angelList:
   url: "https://angel.co/company/slyce"
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "2ddZsaLrGEj6GZE7k62yXSdt/J9cMJXD3jQKMG8Vfdv9+QdVhJlum+Rx4KGa+mkfl6da68rbic0NMP2Oc1txVxlVNECoVtPmmZeBEpVIsZvsJxVk6mlaQyfZw64+51gAzoM00IcgNeOalqr7yn1XVtyAgS/7GDJHt09ESzbWGhHLBH/3ws2+JMuBICTIaAjEJSuD+KkS1TeeSldA1xuxA28PmrfEqCHlEMHWdePV3aGbMx9/r2S0XBvc4UF2uvdGPTtOqVX1PtH1/Ba5VoZNXFL2k0Iu1oJFelzLLyECBo8deGqiOfW3gXh+0YXYKzvlD+pFVTzu8AXjjYHs70S0q8IWxofUjuM/1aLkjNB3VnPaIruDZBvxwj23vAl3U5FmULMBJwvORatt2nzGVXIOjosgj0xTI3pCTXaYWRwtSrU=;5hiZKOj98/+msAfYCcgwnw=="
+secured: "poHIoGw9F9ACcOOs2DKjRfTP56W4npk8uNjVKLFB6PQiTQ0fV7xi/sQ8bpKM6vdcU1y5AjaFiMmIyxcEWCc/ObQWZtwZzlXJQDnXkMID+pZTEknllidvTbnlqjdgfXm0ZMHEBwDW2pT+P+5xHX0eB06ZGP7WHU5I6u0gyzEe0ew4EDeVMQfXvmTHYXqIVYmo0/Y93kWiwzD1JcAQqjVUerJSPbqtXpTuEgNkpL7Wghcr+DHGwBfE9ZN8WXTLvFSokLfJcqtX6lFggr7sMWfNCdTbhXo4V3VsoiqOmhYIwbNsMtdFk9P4vaJQKzRPxW0ebuYABaB/Gu7uLLFGa5E3Yf0rwCLxZXQM1bd0LFUOkYGtZ+RfCq5Q91LITUVO++NAPJlXWi8p/NhEQVX6SpgwR72Uv44YTe3dOZ90CMTwW20=;H0850AFKJDRcBOZU4PzLAg=="
 ---
 
