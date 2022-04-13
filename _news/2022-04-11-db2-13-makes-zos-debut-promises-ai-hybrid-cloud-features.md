@@ -36,19 +36,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
-  - title: "Curie AI raises seed funding for its AI-based respiratory monitor"
-    excerpt: "Respiratory illnesses are more common than many people probably realize: around 25 million Americans have asthma, which is around 1 in 13 Americans, including 8% of adults and 7% of children. Meanwhile,"
-    publishedDateTime: 2022-04-13T07:23:00Z
-    webUrl: "https://vator.tv/news/2022-04-13-curie-ai-raises-seed-funding-for-its-ai-based-respiratory-monitor"
+  - title: "For sales teams, Zoom is launching AI-powered features"
+    excerpt: "Second Work Transformation Summit this week has seen Zoom unveil the next iteration of its AI tool Zoom IQ for Sales, which analyses sales meetings and transactions to offer actionable information. According to Verified Industry Research,"
+    publishedDateTime: 2022-04-13T16:50:00Z
+    webUrl: "https://bestgamingpro.com/for-sales-teams-zoom-is-launching-ai-powered-features/"
     type: article
     provider:
-      name: Vator
-      domain: vator.tv
-    quality: 37
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 56
     images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21532.jpg"
-        width: 320
-        height: 240
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/Zoom-launches-AI-powered-features-aimed-at-sales-teams.png"
+        width: 600
+        height: 350
         isCached: true
   - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
     excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."

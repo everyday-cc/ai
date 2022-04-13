@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researc
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Indian Express
@@ -42,6 +42,17 @@ related:
         width: 599
         height: 575
         isCached: true
+  - title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
+    excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
+    publishedDateTime: 2022-04-13T16:16:00Z
+    webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
 
 secured: "iu0W6vBg3cgp6ywfJZ9H4yxsEuP27TwiJNNG6e5T2Dj6b4uaVRyxx7TxQDdQ6uRwLOJtO2o61263uMVtnTjgC+8ZkRYszeS3iwCVCVT+M3E0Ib7J0Rxchj53xA3DO3vPDi/PVcDQEfFc+TQIIML9eoKYeHT5OL6d7bSFrFp84YAEr5l5NxSyjXDwTBiDspS3Y8+W4pgxWEGXwLN7EcSlqAu3WVa1r0YkQRwslb/loH4TX+XifecFBtzvsnv/QqXrwa/fEcaWP7dfqI6rvSbJ/wMcr1u+YOvWG1XwpNNXdyrd61lUGavlhCRCfNCkMVhcqkMkedjpoaXMhGKpZneE1HwFH3sK0d6svOuXE8ty18U=;+Tf3g6wVPkiDlyt/a3aWrw=="
 ---

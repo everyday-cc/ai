@@ -38,20 +38,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market"
-    excerpt: "Global Artificial Intelligence in Manufacturing Market has been valued at US$ 1.5 Billion in 2021 and it is expected to reach the high market capital of US$ 17.2 Billion by 2027."
-    publishedDateTime: 2022-04-12T04:25:00Z
-    webUrl: "https://www.marketdataforecast.com/market-reports/artificial-intelligence-in-manufacturing-market"
-    type: article
-    provider:
-      name: marketdataforecast
-      domain: marketdataforecast.com
-    quality: 41
-    images:
-      - url: "https://www.marketdataforecast.com/images/download.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
     excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing digital data and increasing inclination toward the customer-centric business model."
     publishedDateTime: 2022-04-11T08:04:00Z

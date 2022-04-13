@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Increasing access and equity in healthcare through AI"
+    excerpt: "While many healthcare companies have used artificial intelligence for some time now for features like machine learning interpretability required by the healthcare industry for compliance purposes, AI-based healthcare solutions also have the potential to make healthcare more affordable and more accessible,"
+    publishedDateTime: 2022-04-13T17:26:00Z
+    webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2022/03/GettyImages-1332788526.jpg"
+        width: 687
+        height: 508
+        isCached: true
   - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
     excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
     publishedDateTime: 2022-04-11T12:48:00Z

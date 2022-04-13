@@ -75,20 +75,6 @@ related:
         width: 353
         height: 249
         isCached: true
-  - title: "Intelligent workforce platform Observe.ai raises USD 125 Mn in Series C"
-    excerpt: "Observe.ai plans to scale the company’s go-to-market motion, drive continued geographical expansion into international markets, and accelerate its timeframe to IPO readiness."
-    publishedDateTime: 2022-04-13T07:21:00Z
-    webUrl: "https://analyticsindiamag.com/intelligent-workforce-platform-observe-ai-raises-usd-125-mn-in-series-c/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/observe.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Major General Martin F. Klein Joins C3 AI as Senior Vice President for Defense and Intelligence"
     excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, announced that Major General Martin F. Klein, USAR (TPU) has joined its executive team to oversee the company's defense and intelligence operations."
     publishedDateTime: 2022-04-13T13:16:00Z

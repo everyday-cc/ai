@@ -61,6 +61,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Watch A Self-Driving Car Comically Blow Off A Cop During Traffic Stop"
+    excerpt: "Police in San Francisco got the surprise of their lives when a car they were attempting to pull over had no driver"
+    publishedDateTime: 2022-04-13T16:16:00Z
+    webUrl: "https://hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    ampWebUrl: "https://amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 44
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58251/content/cruise-av.jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "A self-driving car is pulled over by police, find out what happened next"
     excerpt: "Footage has been released of San Francisco police pulling over a Cruise self-driving car. What happens next is fascinating to watch."
     publishedDateTime: 2022-04-11T11:03:00Z

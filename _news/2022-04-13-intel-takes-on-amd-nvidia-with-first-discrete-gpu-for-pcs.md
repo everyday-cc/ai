@@ -35,6 +35,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one."
+    publishedDateTime: 2022-04-13T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dell, Nvidia, AMD to power new Ohio AI compute cluster"
     excerpt: "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator"
     publishedDateTime: 2022-04-13T13:30:00Z

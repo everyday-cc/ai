@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Increasing access and equity in healthcare through AI"
+    excerpt: "While many healthcare companies have used artificial intelligence for some time now for features like machine learning interpretability required by the healthcare industry for compliance purposes, AI-based healthcare solutions also have the potential to make healthcare more affordable and more accessible,"
+    publishedDateTime: 2022-04-13T17:26:00Z
+    webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2022/03/GettyImages-1332788526.jpg"
+        width: 687
+        height: 508
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size to Hit US$187.95 Bn By 2030"
     excerpt: "The global artificial intelligence in healthcare market was valued at US$ 11.06 billion in 2021. With the introduction of the digital technologies in the healthcare sector, it has gained a rapid traction across the globe."
     publishedDateTime: 2022-04-11T20:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cancertherapyadvisor.com/home/news/conference-coverage
 webUrl: "https://www.cancertherapyadvisor.com/home/news/conference-coverage/american-association-for-cancer-research-aacr/aacr-2022/pancreatic-cancer-ai-model-uses-ehr-data-predict-risk/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "AI model uses electronic health records to identify people at high risk for pancreatic cancer"
-    excerpt: "An artificial intelligence (AI) model trained using sequential health information derived from electronic health records identified a subset of individuals with a 25-fold risk of developing pancreatic cancer within three to 36 months,"
-    publishedDateTime: 2022-04-09T00:52:00Z
-    webUrl: "https://www.news-medical.net/news/20220408/AI-model-uses-electronic-health-records-to-identify-people-at-high-risk-for-pancreatic-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220408/AI-model-uses-electronic-health-records-to-identify-people-at-high-risk-for-pancreatic-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220408/AI-model-uses-electronic-health-records-to-identify-people-at-high-risk-for-pancreatic-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 46
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/3/Pancreatic_Cancer_89a89cdc7f804d5b8329b646f86bbec6-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "Lo4acYRhVSwwCEf9DIlswsGqnyUtyRZScqX4/sPxkWdI4Yu1+ghhDIIi2bkCJn+X7qID7p3k0YG9Frkluix1VQdY5NJOcExgwBLRI1pEWtRnsErVVWecbY0OTuL1/6Vcpe2GMMA3jk7Ajd6T20FQ/UmG6KPs+dNWeJv/jAfCocp0+UteYXFECQ22rMUu4i5ul3T2Yo015Wizsnw8Y1O/rU12HLfCslSfLzCghtE3o0kxCoKPPtTGyjNMFH+RGI3k2Mu6XyLgNoW+qO66ySYGYU+RhCZJ5qey6BazMjtP7WGrvI3r/GaXTLO2XqV+Z5xJUJx0W4LRKG+lxtwq/KNJfPIEtDAU4k2dIujQkwqlxTk=;HX84l9aX6mIdZJck4y9PtQ=="
 ---

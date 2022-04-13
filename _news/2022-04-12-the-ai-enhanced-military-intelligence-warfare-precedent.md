@@ -66,20 +66,6 @@ related:
         width: 800
         height: 574
         isCached: true
-  - title: "Intelligent workforce platform Observe.ai raises USD 125 Mn in Series C"
-    excerpt: "Observe.ai plans to scale the company’s go-to-market motion, drive continued geographical expansion into international markets, and accelerate its timeframe to IPO readiness."
-    publishedDateTime: 2022-04-13T07:21:00Z
-    webUrl: "https://analyticsindiamag.com/intelligent-workforce-platform-observe-ai-raises-usd-125-mn-in-series-c/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/observe.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
     excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
     publishedDateTime: 2022-04-11T09:45:00Z

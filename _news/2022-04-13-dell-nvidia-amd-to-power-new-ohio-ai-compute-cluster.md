@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one."
+    publishedDateTime: 2022-04-13T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "MBX to Fast-Track Next-Gen Medical AI Platforms with NVIDIA"
     excerpt: "ANAHEIM, Calif., April 12, 2022 /PRNewswire/ -- MD&M West Booth #1259 -- MBX Systems, a specialized hardware designer and integrator, announced today that it is working with the NVIDIA Clara Holoscan MGX AI computing platform to streamline the development ..."
     publishedDateTime: 2022-04-12T14:39:00Z
@@ -67,6 +83,6 @@ related:
       domain: electronicdesign.com
     quality: 19
 
-secured: "TrJh5FfanX6JVXLP1ry48Rm6936u53Ba7eLLB5mM5eFCd/mYAZ+FQYDDO96TKERpRLkAkekXIJlBa+YAOOVQufH5VimRmJERpYD7sl8Kznsha1O03q4wn5JyAp8NiGzMdFhPHK84CigKnKa31DLrAogWP/CKTKNudf2hnvroqNFHPsPwM+qk1TAh+6HVy/3rnH3IjNRq3fkPerqTGEUBALEUbv/cTy9r5nVroWQQa6n/3nKQ/uMAMmSTSH8W+xKEXZ6egdM/2iDb21/hp3bg65IQPT68X7Yf1cLZhNO4Xw4ZmzbsIEmtFrbPBUbXy4dCDMqVmHP5B2DDIFixA7Z9eIuOqIYmgcUA0uvSLdDiT+Q=;epyrfWXpFTpuL5ZfabfOIw=="
+secured: "C/EcWZI9r2MvF6TRMNweKj7geugJg1r7LvMOeuqOqctnn0sQk33X4wcC3Aku3kjJoh6QYzsbm5zmyPiK40y3RgTY7GEu3/2ziPTtsOn+4NQcVueu8eJmKRSTOdXlOLGWH8SaLmQRDqU0BYSF5z4nU/MiwGSTWkmWGHAqU+GBY2vT5Qy5IgnnVsCTGFHdSCV81detvofQJSnHz1sjxE75ru4GpmQuctxKwc8QcfA3FyL/Z3AMODhTWFvNgHZI5ZyHB6ZsIxJSgCJf6mLM22RtBBxgX1Vt9zPX+/aPnGwDMzkiK4QX7ZQlTggJ4CGpA0GheXON+FwY6uJZPn1NjOvBuaZcP56WTC8W7cTrfU3NCiOSCYVqqopuzF0sZz6VsIk1RO8BkhbxjX56wN3tvfL9aGN7hFl7OmSIhlGdntjfFJeGxTljqxdFFRp/aKxP+Y938JQDVpMwDz5BVgTyUqIP0d6qDLs2pfM3ublO8pa6zx7KX86WwTnYuvgseZuSFOmGMWOBBgf/vrSSkPiWQsdjiQ==;SsVVYb8nAUAMCTZtQPl/oQ=="
 ---
 

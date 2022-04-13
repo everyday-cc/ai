@@ -24,6 +24,22 @@ images:
     height: 256
     isCached: true
 
+related:
+  - title: "The waste picker fighting for global recognition"
+    excerpt: "More than 20 million people around the world work as waste pickers. They are the de facto recycling system in many parts of Latin America, Africa and Asia, making a living by sorting through garbage for reusable materials,"
+    publishedDateTime: 2022-04-13T16:01:00Z
+    webUrl: "https://www.politico.com/newsletters/the-long-game/2022/04/13/the-waste-picker-fighting-for-global-recognition-00024944"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/91/0b/427a1874454fb9e48b1790029f0a/20220413-soledad-lg.png"
+        width: 1138
+        height: 773
+        isCached: true
+
 secured: "L+ElTiReP14GSom//2NrqnC2/C0y3bbRm4e8kVftRQqz83ycz7Egu9y88Qu3X+cSRl3Ff0r1skOcK3Q0rZCJExyW8cMnT4JEMhvVlXg3zhDx09Ryg5MFo+M4SafpCknYLfAYhnlpOPDADoh+JgYd6E8FE0Av4ZeqWWs3BzBgslojmuAQzxCJ0TxJ/XCAI/OIpYmB3h2QXb26Nozs8ql1u2S6UYpCGnsiJiAmBCGD5GbhH+8NDmtau7NvAUvZ0yRhxN1DyN5M/Lm3Y5EvntZ8sMtAWY+GSSVdtDQRJwfS5Ng/m0YZkJWOkcIyIoi8g5dkcvDN4FqsZn7m2uEnmishdaHORRjc8q8uDWX0PYEgvJI=;y95Mg5Igaxl1KjsCGMUqPA=="
 ---
 

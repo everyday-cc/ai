@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-20-telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.md",
+      "title": "Telenor teams with AWS to accelerate modernisation of telecommunications",
+      "excerpt": "Fornebu: As part of the agreement, Telenor and AWS will invest in joint go-to-market activities in select industries—such as manufacturing, supply chain and logistics, and automotive—to enable more 5G and edge services for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/",
+      "originalUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/amp/",
+      "publishedDateTime": "2022-01-20T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-african-leaders-must-wake-up-before-the-continent-runs-out-of-time-in-digital-race.md",
       "title": "African leaders must wake up before the continent runs out of time in digital race",
       "excerpt": "It is hard to imagine how South Africa's leaders could finally focus on strengthening the country's eroding systems while they remain too focused on their belly buttons. South Africa, and much of Africa,",
@@ -1331,49 +1374,6 @@
       "provider": {
         "name": "EURweb",
         "domain": "eurweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-udchalo-acquires-data-analytics-firm-dimentrix.md",
-      "title": "udChalo acquires data analytics firm Dimentrix",
-      "excerpt": "Chalo, a consumer technology company, has acquired Dimentrix, a Pune-based data analytics firm, to enhance AI/ML-driven data insights. UdChalo exclusively serves India’s defence forces and dependents.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/udchalo-acquires-data-analytics-firm-dimentrix/",
-      "originalUrl": "https://analyticsindiamag.com/udchalo-acquires-data-analytics-firm-dimentrix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Ravi-Kumar.jpeg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

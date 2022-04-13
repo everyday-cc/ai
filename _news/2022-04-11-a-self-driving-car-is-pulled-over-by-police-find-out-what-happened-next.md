@@ -73,6 +73,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Watch A Self-Driving Car Comically Blow Off A Cop During Traffic Stop"
+    excerpt: "Police in San Francisco got the surprise of their lives when a car they were attempting to pull over had no driver"
+    publishedDateTime: 2022-04-13T16:16:00Z
+    webUrl: "https://hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    ampWebUrl: "https://amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 44
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58251/content/cruise-av.jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "NASA's Record-Breaking Mars Rover Is Way Better At Self-Driving Than Earth Cars"
     excerpt: "You generally want your $2.4 billion mission to go as smoothly as possible, and its a testament to the kind of careful engineering that can go into self-driving technology that we trust it enough ..."
     publishedDateTime: 2022-04-12T15:03:00Z

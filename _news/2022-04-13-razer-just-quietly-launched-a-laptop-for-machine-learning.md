@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaltrends.com/computing/razer-lambda-tensorbook-ma
 webUrl: "https://www.digitaltrends.com/computing/razer-lambda-tensorbook-machine-learning/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ topics:
   - AI
 
 related:
+  - title: "Razer and Lambda made a Linux laptop for machine learning"
+    excerpt: "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields"
+    publishedDateTime: 2022-04-13T16:10:00Z
+    webUrl: "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg"
+        width: 3612
+        height: 2295
+        isCached: true
+  - title: "Razer-designed Linux laptop targets AI developers with deep learning emphasis"
+    excerpt: "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,"
+    publishedDateTime: 2022-04-13T17:40:00Z
+    webUrl: "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Razer And Lambda's Tensorbook Is A Sexy Linux Laptop With Deep Learning Chops"
+    excerpt: "Razer makes some of the sharpest looking laptops around, there's no doubt about that. The result of its collaboration with Lambda, a deep learning company, is no exception. The two outfits tag teamed the design of the Lambda Tensorbook,"
+    publishedDateTime: 2022-04-13T16:09:00Z
+    webUrl: "https://hothardware.com/news/razer-lambda-tensorbook-linux-laptop-deep-learning"
+    ampWebUrl: "https://amp.hothardware.com/news/razer-lambda-tensorbook-linux-laptop-deep-learning"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/razer-lambda-tensorbook-linux-laptop-deep-learning"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58252/content/Razer_Lambda_Tensorbook_Hero.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "Lambda and Razer’s Tensorbook is a souped-up laptop for Deep Learning"
     excerpt: "Of course, if you don’t need to be able to run deep learning and AI software locally on your laptop, developers can also pay for Lambda’s cloud services which included virtual machines with ..."
     publishedDateTime: 2022-04-12T14:45:00Z

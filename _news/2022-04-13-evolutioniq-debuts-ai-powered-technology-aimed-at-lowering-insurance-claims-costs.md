@@ -44,19 +44,19 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Curie AI raises seed funding for its AI-based respiratory monitor"
-    excerpt: "Respiratory illnesses are more common than many people probably realize: around 25 million Americans have asthma, which is around 1 in 13 Americans, including 8% of adults and 7% of children. Meanwhile,"
-    publishedDateTime: 2022-04-13T07:23:00Z
-    webUrl: "https://vator.tv/news/2022-04-13-curie-ai-raises-seed-funding-for-its-ai-based-respiratory-monitor"
+  - title: "For sales teams, Zoom is launching AI-powered features"
+    excerpt: "Second Work Transformation Summit this week has seen Zoom unveil the next iteration of its AI tool Zoom IQ for Sales, which analyses sales meetings and transactions to offer actionable information. According to Verified Industry Research,"
+    publishedDateTime: 2022-04-13T16:50:00Z
+    webUrl: "https://bestgamingpro.com/for-sales-teams-zoom-is-launching-ai-powered-features/"
     type: article
     provider:
-      name: Vator
-      domain: vator.tv
-    quality: 37
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 56
     images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21532.jpg"
-        width: 320
-        height: 240
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/Zoom-launches-AI-powered-features-aimed-at-sales-teams.png"
+        width: 600
+        height: 350
         isCached: true
 
 secured: "dmstXn2OavxTihuSgq8tlyvK2GII8CLT6+svH5nemnMNY1EXwcKWiF3LXAEE2rhRRaCLQL9Zfq3BLunG1T5B7pMJjSfTQIhnmn121TZF7A3ZcYg1Uegbu9DYi2ZihnMt7viY9zK2ibqnPX6vn87x2bctOay7zSMNWodE2gdkJQx/4XQD57Ma7zn8/sze0SOMCjKbxZ8wZr+yccvZKUNmFqONiSsSDDksEqUnZw38WyyJ4HQU8oecHSAz3ADmv3uvxXnyo3/d/TvmKvzV21M8ZK0RzUOlYYBNx8LVJQbvZy20zDVzoNi3yjGqDJS8NafoUaO5dZF9Tu5MbRuwbg4+01Gkiq8RGA+WHANADe1sSWgr3xRKfAed5++vMaKZxUOtICYvJYfDv3MaOxbroCcRYFAQbDCib3+gFXMUOvL4Iu4d3CXFhaBHJQqP9T1/ce4h5cMeGw/V0e2I7KX7vyp5DJFJ4ON2HWwnOxPhngY6MQvLjR+3qVHhnKiblifN6IW01MtezgpYgHWSWCZI9uAnOw==;5QDZ21UMeYPj7ZgAiklHbQ=="

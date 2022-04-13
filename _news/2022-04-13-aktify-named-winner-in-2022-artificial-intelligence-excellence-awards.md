@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ..."
-publishedDateTime: 2022-04-13T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
+excerpt: "Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes"
+publishedDateTime: 2022-04-13T13:00:00Z
+originalUrl: "https://www.hjnews.com/news/state/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_1e4a50ef-c95d-5196-b419-d3b0a152d698.html"
+webUrl: "https://www.hjnews.com/news/state/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_1e4a50ef-c95d-5196-b419-d3b0a152d698.html"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Herald Journal
+  domain: hjnews.com
 
 topics:
   - AI
 
-secured: "EvvJg1IBkENkwQqqxZ10sOc8aUyvJTgLz7trNBz0ktl5VfS3RavyGKXTpX97US611uM9n2MrVOEeHRLo8BMRSuVKseXXfidx1PMwh5GZpsSZ7ZhJi/a1NoOW6DQKzhEt+L5W8JsRlu951BKqq0bjQAodfPpDnC2kEA9hkuLx1LMeQy3njAd8lo5sqbKhQ/hHJnwfeeLl1DkYDOBzPeAjDO68OB9GB/iItvZYqAl6wVWYmB1CWpBbonZ+spZqvJZa38w1jvTJ/+QP8O0cT+ra/Ewb51SBGdY6t0r3FFoROvZ8xB/rbptvymhgEXdIsc2fDrBnR7rXZCWBjieB+tjfdCh7q7vy9dumQiN4tcAI3oo=;ynKfuH8oGf6lQG3qpuTf8g=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/custom/image/01d65bdc-75bc-11e9-a6ea-4f05c88a4606.jpg?resize=600%2C354"
+    width: 600
+    height: 354
+    isCached: true
+
+secured: "8Z/pugUL+4Mq1vJuGqmtvCqjn/Uh5ibbZagGiPpUYA5z4mOkrLCVTj8HmcHXFVHm0aGc5F/YS08Tt/d8Ta2jZImHH7M5hN/ojjUcu6qCyl+p3LLpTR21iWei7AeVYxJ4dlmL1olBtVG7q4nWA5Z4tAW+EBlBZoKwCvcpNUhrx6TjXwGQIG0XMkFkyxNa/+76p/CN6kh35UspysZ2kWSRLbe0NTRSkR8oqfffoCt1VZrL8XFApAas25vJ7CRHRRXoJpWQMed9B75hXnvgf7g7Vs45tzusIrr16I9KsgYP9d0rsEZoABGmUY+ZOne+SOQwyr0v4+MlVIMTcZIahMefFm4Xh6YMZWy847dha2t4vPg=;rUpmakxHqT5z69/yfubHhw=="
 ---
 
