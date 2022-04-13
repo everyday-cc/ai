@@ -36,9 +36,9 @@ related:
         height: 438
         isCached: true
   - title: "UAlbany gets $75 million from state budget for artificial intelligence initiative"
-    excerpt: "ALBANY - The University at Albany's $200 million artificial intelligence initiative is taking off, funded with $75 million from the state's new $220 billion budget. UAlbany President Havidán Rodríguez said the money for what UAlbany calls its Albany AI Supercomputing Initiative,"
-    publishedDateTime: 2022-04-12T14:30:00Z
-    webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-HP-latest-news"
+    excerpt: "ALBANY - The University at Albany's $200 million artificial intelligence initiative is taking off, funded with $75 million from the state's new $220 billion budget. UAlbany President Havidán Rodríguez said the money for what UAlbany calls its Albany AI ..."
+    publishedDateTime: 2022-04-12T10:44:00Z
+    webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-news-education-headlines"
     ampWebUrl: "https://www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
     cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Best Artificial Intelligence Stocks to Buy in April"
-    excerpt: "Just about everyone knows artificial intelligence (AI) is taking hold in many parts of our lives. What most people are referring to when they say AI is actually machine learning (ML) -- the use of algorithms to mimic the way humans take in information and ..."
-    publishedDateTime: 2022-04-08T10:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-best-artificial-intelligence-stocks-to-buy-in-april?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
     excerpt: "T he artificial intelligence (AI) market has grown like a weed in recent years as organizations gather and process more data to make smarter decisions. However, it can be difficul"
     publishedDateTime: 2022-04-11T15:45:00Z

@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google Maps Is Using AI To Update Business Hours Of Places"
-    excerpt: "Google Maps will use AI to update the business hours of stores that haven't been altered from time immemorial to offer correct information."
-    publishedDateTime: 2022-04-08T09:14:00Z
-    webUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/"
-    ampWebUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/04/Untitled-design-24.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7PDbq78O31RpieUOO2HGseoxZbDEyCXjTCoIjUihlzXSnhUAYO6NKksIgxPvOpFRaL0Vpnees1ilpUMVCh3img4HSMlAwvsYnwX2phKyD/OfE7rcT9e5JcyhpdX5NSUXz23QP1ajaO4ArTMlwdayG/E6mlLlNIrS/nA6tClhbR49xZaIS5sSbbGLwsqNLlPfh2GMUy5i+KRHLNPNhAX798nPSseKPaI/X0q2bsev/8zy5mzWIjKwkwGq1mF+TLQen3wOKsu20z/t6kSdhf4OY/zcGE2eWuQTWLMJUeC9Nokjlqrgzhm0U2cCTGgYs0x92WBw8+G6y7bc84kFZbXr1q/2VtbQ1nVN+GXwH/7DqfU=;u4Lm2UDJti2XO/NDdi7wDQ=="
 ---

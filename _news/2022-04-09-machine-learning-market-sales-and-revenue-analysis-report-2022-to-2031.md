@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Re
 webUrl: "https://menafn.com/1103981089/Machine-Learning-Market-Sales-and-Revenue-Analysis-Report-2022-to-2031"
 type: article
 quality: 56
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-04/11/EP_9d67cimage_story.png"
         width: 640
         height: 383
-        isCached: true
-  - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
-    excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
-    publishedDateTime: 2022-04-08T09:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-share-revenue-latest-trends-future-growth-analysis-and-forecast-to-2028-grand-view-research-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/ce940272b36ea8ce186f15593531a992ec1a2244-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Professional Cloud Services Market Analysis Covering Size, Share, Growth, Trends and Forecast 2022-2031"
     excerpt: "This is supported by AI and machine learning coming with cloud service ... September 2018 - Microsoft has announced the general availability of Azure Data Box, a physical box which organizations ..."

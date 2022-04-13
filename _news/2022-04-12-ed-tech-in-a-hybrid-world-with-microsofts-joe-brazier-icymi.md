@@ -67,17 +67,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
-    publishedDateTime: 2022-04-08T09:37:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 25
 
 secured: "cxXYm+p2m3tT6XMPqzh8Oto9SU/JBfdywjEUwT4jGgM9gaMKF2020xszQAW2oUunJgHlh7zKnYdUvSUXEfBL7gZ07kAlgPfedPYKNMJy3FpMNN+c1E2CIYZZWFrjTq94MUsSt0/+gRRE6VDdklwoGkI6A/uTbLCZ04ClabAc5FY1ggdr8XlYFtbfrtvbjvrOMoMeAMZKDu2CDaBAJHiTXLILqdVrF2qq7eO/BEVjpQ7BKYdosaZG26Fpw0Lnlt+YUlQJZITaB1f07/HJ/9Za+xFLi7LTRAwpK8g35cKQ1D7tMwuWgFYxlCxhSjtevGcJqvHe3KPf1b+b0jwWZHA2p9EQzybH+7bcXjrOpazhdYthBgNxIM2mNWOxWUJYjQQ/Tt0PE2GeRGV+T6y9Oc1+yXfLqDpR6Mmn+Ey8aRsH0FepHhVc4T7Zql3JhcagSRuPgwtol/r6TOPcgmhhYqBthy7Syja0h/oca7WPcDBWKzCLblVfOrGVlXUbo7CWoR5OaC5CYHUY4NcTtuniacRafQ==;T8G4F4pxB7sLVhjHJdUXlA=="
 ---

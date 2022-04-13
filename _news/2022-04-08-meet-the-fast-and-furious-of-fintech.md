@@ -55,6 +55,22 @@ related:
         width: 2560
         height: 1969
         isCached: true
+  - title: "Impact of Fintech on business and the common-man"
+    excerpt: "Through artificial intelligence (AI), Fintech allows businesses to better associate with customers and clients through real-time data exchange. As per estimation, AI will drive more than 90% of ..."
+    publishedDateTime: 2022-04-13T02:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Shams-Tabrej-Financial-Expert-Founder-and-CEO-Ezeepay.-scaled.jpg"
+        width: 2560
+        height: 1969
+        isCached: true
 
 secured: "rGINjfPHtf/ark5FwcVvtrjPDLDSdv6bS7AXROSI+3o9v8V0sofKxeqTPhx2ng+8czctOG/HzMc9mxb1y1DASlu5OI9DVMqu+PACm/8O/1uROakatuFALkMuJITO5iFkpbmD8jO8V1bo5n2clE94JmtbzVkkw7LKuIgTCeor+NrYS3n0CCCJS/NlIokMmrygcQ2ixmPsurns/7brWBuyVg8HPv/nfl4JxktaN6eF5Kz84F9kiicVYfmgeQRbm8s8iIngidLajugZb57Jlh3n+mQTLWlLpImjx3FiU4yDx2N4mcOKLo2bOgS1kGfveBaxArdwqM6nucnYIx3lr7jRsD0kMi34IsfYCzWlGQlktalGeE3PDc/oV7R5jDjeDAJC2FufEwxJtxYG8otpl8HFbhuBd85iFQowXrWsbgKld725dqrFtl2mtnsIoiM58W5Svkw93vMC4J0jsjNXUPp6MtjvB8O1rWbUDTD4LGSsPAhabk9ya837YXMJ3bcp0x6VM3ftOiZ/bRNLY3JOGWheFA==;YNZuAvOb7hSRl6wTH3ZXrg=="
 ---

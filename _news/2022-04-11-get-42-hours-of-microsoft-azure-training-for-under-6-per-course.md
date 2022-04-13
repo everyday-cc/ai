@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
 type: article
 quality: 119
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -72,17 +72,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
-  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
-    publishedDateTime: 2022-04-08T09:37:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 25
 
 secured: "VDWiFhqkZ6cMUAbgExLdWq5YpTY70Kp8rgiB/Gp9UX/wTFD2oAdZ9IKP6/Q5oXVJgYEuTFgoepuH6mp8xzsifvu/AItIAZQR8lxUv8zOP0aA6fEP/XplMZovJk6CV/GbHkeF0qvHUfMQ5avkNieDbEvgAByJxZFIgyJ6UMIbdZPIhX+wZZ+nJeNetgNtQUUQMw2/SumNr7OBU6CUz48HUclzQ5IFsw633KaEgfDR1ZsVew4lVOn1p4gpRIE7oR93fAQw+lobOVbbHStlqBJd1PWlb8f3Cgu2Dz8RDQMm1+m9/R4vF1GCC2bANmCZaumyx7plBPgO/rVBr+eGLtC3gKnyQvTTiug508a0y2wh91J8lyq7b/lkBiveMAA2+Glw56W/jY4TVxF/nn4D0fAeRwRsUWukQBGt5Nqud9hFQiRifYqHICUSmVUifT8k8bp1CUitO80TdIzAn+T4eByc0IGpAIQqfS7i6c9ep95cMZLc3HKqvHG/ZCDCHQeJOwjh+EJy5Ruz+7CdpclkmklpXw==;/2Iyb0E5GNIk4AQ583H+qA=="
 ---

@@ -69,17 +69,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
-  - title: "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group"
-    excerpt: "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Micro"
-    publishedDateTime: 2022-04-08T09:37:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group-1031340816"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 25
 
 secured: "ho//WGUrqdb6FDp4cqX0tCJ/mNCuFg3Z+n0pMNmffSmx7oaWdYr+aLE4kYjqgtkVVexeVglXP0Jb5FEBH8IAifItKWGcNKjytkm+zAvasue2RYbrZAGKsCaABOZlOGGjokhobFVqrhLG0NipTe5vE5AkCd6jI1Mqscg8yc3CRrAANUkqNAWesWxqAJGDcObp43vlZR6H1RstQFecl9xsOiAaefw5u6kzyjXT7VbSRgDi9z6rHz/2zTxLltqr9Jvp6rhyaSm+Iv3OVfmq/cV9MO4iHa0JRZLEW57M/sJ+LRAPTud2+c6xvvzHW0yMsyGHjH+mrDQC2qFXpIK6RubIEbx3FhZxpk6q84N6VVL47TY=;YeZv6+vT9996h+notnWgdQ=="
 ---

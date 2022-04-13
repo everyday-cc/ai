@@ -95,20 +95,6 @@ related:
         width: 640
         height: 383
         isCached: true
-  - title: "Computer Vision Market Size, Share, Revenue, Latest Trends, Future Growth Analysis and Forecast to 2028 | Grand View Research, Inc."
-    excerpt: "\"Grand View Research, Inc. - Market Research And Consulting.\"According to a new report published by Grand View Research, the global computer vision market"
-    publishedDateTime: 2022-04-08T09:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-size-share-revenue-latest-trends-future-growth-analysis-and-forecast-to-2028-grand-view-research-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/ce940272b36ea8ce186f15593531a992ec1a2244-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Deep Learning Market 2022 Recent Trends, Opportunity and Challenges, Top Manufacturers, SWOT Analysis, Growth Factors, and Forecast till 2028"
     excerpt: "This Deep Learning market report tells about industry segments, technical and industrial advancements, current trends, product portfolios, driving factors, overview of SWOT analysis as well as the ..."
     publishedDateTime: 2022-04-09T06:57:00Z

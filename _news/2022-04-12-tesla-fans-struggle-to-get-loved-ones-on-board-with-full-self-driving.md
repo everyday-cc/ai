@@ -39,6 +39,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla’s Self-Driving Taxi Does Nothing for TSLA Stock"
+    excerpt: "Elon Musk made several announcements recently while launching Tesla’s (NASDAQ:TSLA) gigafactory in Austin, Texas. One of the company’s commitments was to making a “dedicated” self-driving taxi in the future."
+    publishedDateTime: 2022-04-13T03:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/teslas-self-driving-taxi-does-nothing-for-tsla-stock"
+    ampWebUrl: "https://www.nasdaq.com/articles/teslas-self-driving-taxi-does-nothing-for-tsla-stock?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-self-driving-taxi-does-nothing-for-tsla-stock?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "UPDATE 1-Like Tesla, Toyota develops self-driving tech with low-cost cameras"
     excerpt: "San Francisco, April 6 (Reuters) - Toyota Motor Corp unit Woven Planet is following the lead of Tesla Inc in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use cameras to collect data and ..."
     publishedDateTime: 2022-04-08T12:19:00Z

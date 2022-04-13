@@ -26,22 +26,6 @@ images:
     height: 1651
     isCached: true
 
-related:
-  - title: "Edinburgh fintech specialist Origo: Startups restricted by hot recruitment market"
-    excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
-    publishedDateTime: 2022-04-08T09:24:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92220/edinburgh-fintech-specialist-origo-startups-restricted-by-hot-recruitment-market"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-
 secured: "+rtqf8G4DCdK/l5TWM4EzttGlBZgw2F9QYBeP8LpK+7Z0j32Cht0ol+/aHZe4SAOeeAmnU73KzRf2R7N+OdbwSs8kHf6vAnjAY2sGYp3sOyc8dlh22mxRk4ZV65uvZVwX9L4ONvRXJmGgCjelta2iAIfR3JORHT2fJVWQ2SPDx3K1Ni52kvysgN2Yvo+xwxGn3EzxbFYjZ4QpD3EWhSU8pTb73RIy76+2tVNPRC70CocqE1+eFDf39ajoqGzBy/Wj9oNztKQoSri+wf09P71M7Gq4or9eLYPCfojA2mBpDxvm554b2K9VM9uhs7f1RZuVdFKS+gAjGj5aJ2NwqEJaP2OpmsTi+5Vx41yTE/YfmI+pcA5kKnxHwoIwZMOWvLCoGP4FvOPpaMkdHlkobXaWz3VUKzdFWo9rqY/D9z+f6qkf/MvHLgqgmvLn1IhD0dnuuILFRCNJOT+fE0BKntry7cWi7N9gSbjTGvuT0SDDLB/61cblF7nLA/WFRosneFzWhe5g1IzfQqznnidnq3a9A==;04GvxyS+Q9nAD77k+P45Ng=="
 ---
 

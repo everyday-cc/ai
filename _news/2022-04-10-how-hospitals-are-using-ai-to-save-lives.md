@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Maps Is Using AI To Update Business Hours Of Places"
-    excerpt: "Google Maps will use AI to update the business hours of stores that haven't been altered from time immemorial to offer correct information."
-    publishedDateTime: 2022-04-08T09:14:00Z
-    webUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/"
-    ampWebUrl: "https://fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-maps-using-ai-to-update-business-hours/amp/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/04/Untitled-design-24.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google is using AI to update business hours that are out of date on Google Maps"
     excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"
     publishedDateTime: 2022-04-11T06:20:00Z

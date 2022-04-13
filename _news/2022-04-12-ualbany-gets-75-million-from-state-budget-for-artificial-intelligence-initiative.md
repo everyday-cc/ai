@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UAlbany gets $75 million from state budget for artificial intelligence initiative"
-excerpt: "ALBANY - The University at Albany's $200 million artificial intelligence initiative is taking off, funded with $75 million from the state's new $220 billion budget. UAlbany President Havidán Rodríguez said the money for what UAlbany calls its Albany AI Supercomputing Initiative,"
-publishedDateTime: 2022-04-12T14:30:00Z
-originalUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-HP-latest-news"
-webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-HP-latest-news"
+excerpt: "ALBANY - The University at Albany's $200 million artificial intelligence initiative is taking off, funded with $75 million from the state's new $220 billion budget. UAlbany President Havidán Rodríguez said the money for what UAlbany calls its Albany AI ..."
+publishedDateTime: 2022-04-12T10:44:00Z
+originalUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-news-education-headlines"
+webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-news-education-headlines"
 ampWebUrl: "https://www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
 cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
 type: article
@@ -52,6 +52,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "du7eckfiU2RrD++VQvKcoykM6RdQ6rQBsaBWc6vWKu/Ypj3bj8WT/V7RwZVOOD8JPE5Y/uwFT/0JCRaG/T8Zo6X+h294BQfqZZfiUKk6UJaUAG+gDiQFxspSLNs877hfHuj1RKCw8KSLgn11/knN3Pgje9PYh8h8D38YFaAXCGITQsnxb2O3sBV7w5Wre81NUVRX7Nhlx/HhvFRebio9932mtYLYYMDIja3QypwffORT4lHIGuIPr4lAaHhuTONSgDk6KwjvdGg8pogp670Fg1+FjjWDhq5rZhpWsm6xh8z/b4MMRgRk/6HgVD1Bas2uJ2cfYQK99HUbU3Qo+F/ZKDgxMSdPrKD9/2OUAFv1g8M=;L1MJipn2iGrZyp0PJ5PHvg=="
+secured: "pW2wjERo6Huez5l9c+LFJHwp9SJJzbjZeYpilkmQnhgvun4CPDTDkdjg5jnwsUoYfD+8Q/sEA6p4NZdb5znpfRvkeM3ufDjuXh4rUPdexW0Moh/7U4xqwtZQxNiGMSg2YYuyp14qSRCdAw88ons0+n4vxDdYp/c+utRmQt5zAFCgDkvpMp9G33kn2TjiLDul2SnTqnA1G/A6RSxm1XPbNMfkcAuy1YxR6gB+H6/lPz0GEnCU0r/cXVWChvoBc4wj+N1BDv9/8BknT29L7RuhsiuAgmJ3hf9a3FIog9H359zYi+tXQ6dxKF1hw1PgubNb2tDdDCHq04wzTsyW4C2rugUAg2Btiv6xaTiiIOqRy+w=;lQvV6RrAc1Oki4kkyOtVjA=="
 ---
 

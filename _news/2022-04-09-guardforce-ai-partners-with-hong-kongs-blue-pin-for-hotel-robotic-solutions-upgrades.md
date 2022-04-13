@@ -37,15 +37,6 @@ related:
       name: Proactiveinvestors UK
       domain: proactiveinvestors.com.au
     quality: 55
-  - title: "Guardforce AI partners software provider Blue Pin HK to begin robotics solutions upgrades in hotels"
-    excerpt: "Co., Limited Chairman Terence Yap tells Proactive it has formed a partnership with software provider Blue Pin to integrate the Hong Kong-based group's Guest Services Robot into the Guardforce's concierge robots for to sell within the hotel industry."
-    publishedDateTime: 2022-04-08T10:17:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/979273/guardforce-ai-partners-software-provider-blue-pin-hk-to-begin-robotics-solutions-upgrades-in-hotels-979273.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 35
   - title: "Guardforce AI Announces Closing of $10.0 Million Registered Direct Offering"
     excerpt: "Guardforce AI Announces Closing of $10.0 Million Registered Direct OfferingNEW YORK, NY / ACCESSWIRE / April 8, 2022 / Guardforce AI Co., Limited"
     publishedDateTime: 2022-04-08T20:04:00Z
