@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
+    excerpt: "You're like, 'Whoa, are you drunk?\" Krueger says she loves their Tesla Model 3, but she feels that \"full self-driving\" drives closer to large trucks than most drivers, and sometimes steers into ..."
+    publishedDateTime: 2022-04-11T19:33:00Z
+    webUrl: "https://www.kten.com/story/46265972/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 39
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/22496066_G.jpg?lastEditedDate=1649690735000"
+        width: 500
+        height: 337
+        isCached: true
   - title: "Self-Driving Car Market is Booming Worldwide with By Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple"
     excerpt: "A detailed report on Global Self-Driving Car market providing a complete information on the current market situation and offering"
     publishedDateTime: 2022-04-12T06:44:00Z
@@ -50,15 +64,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
-    excerpt: "You're like, 'Whoa, are you drunk?\" Krueger says she loves their Tesla Model 3, but she feels that \"full self-driving\" drives closer to large trucks than most drivers, and sometimes steers into ..."
-    publishedDateTime: 2022-04-11T19:33:00Z
-    webUrl: "https://www.kten.com/story/46265972/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving"
-    type: article
-    provider:
-      name: KTEN
-      domain: kten.com
-    quality: 19
 
 secured: "uV5zFGCY7lj9CyiatrY4ib3ILHmtqX76sOmm+64of4cGXD7Rk4tbxPeXnbo6f67x8ebRntGRDm4YkCcAA8Q0vpgWHMM4GS+CwrbhNdmdNySysyv+iwNKE+SiVskyB12VZkMJdSRx+iLhxLBP2Q7eQ7/FQH1zWAw53pXL6iazcmwFrNcYZasdxxWaH2PHtpPLCCIGP/l1S8s2FopXUp4gHGGU+tJFkqG0OYAXgIR2QZjxC9rjRH74KLfgIr7AbGUH7cLrcoLhl5u+kxmrQ6d9tOYWem02A5T7oP4pwB4CcuyPQvf17Qd1mEcDZcM2/x25T5PUtxEpCygsSTontiCif/HSIXQpyBFuwKzdIKBdzOw=;pSldX1ESI7Klp+mtLhI30g=="
 ---

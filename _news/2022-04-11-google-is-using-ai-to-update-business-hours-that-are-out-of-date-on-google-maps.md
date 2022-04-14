@@ -70,6 +70,20 @@ related:
         width: 750
         height: 617
         isCached: true
+  - title: "Using AI to predict future cardiac arrest"
+    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
+    publishedDateTime: 2022-04-14T16:50:00Z
+    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
+        width: 796
+        height: 569
+        isCached: true
 
 secured: "7PDbq78O31RpieUOO2HGseoxZbDEyCXjTCoIjUihlzXSnhUAYO6NKksIgxPvOpFRaL0Vpnees1ilpUMVCh3img4HSMlAwvsYnwX2phKyD/OfE7rcT9e5JcyhpdX5NSUXz23QP1ajaO4ArTMlwdayG/E6mlLlNIrS/nA6tClhbR49xZaIS5sSbbGLwsqNLlPfh2GMUy5i+KRHLNPNhAX798nPSseKPaI/X0q2bsev/8zy5mzWIjKwkwGq1mF+TLQen3wOKsu20z/t6kSdhf4OY/zcGE2eWuQTWLMJUeC9Nokjlqrgzhm0U2cCTGgYs0x92WBw8+G6y7bc84kFZbXr1q/2VtbQ1nVN+GXwH/7DqfU=;u4Lm2UDJti2XO/NDdi7wDQ=="
 ---

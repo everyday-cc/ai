@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-11T19:33:00Z
 originalUrl: "https://www.kten.com/story/46265972/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving"
 webUrl: "https://www.kten.com/story/46265972/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://CNNWIRE.images.worldnow.com/images/22496066_G.jpg?lastEditedDate=1649690735000"
+    width: 500
+    height: 337
+    isCached: true
 
 related:
   - title: "Tesla’s Self-Driving Taxi Does Nothing for TSLA Stock"
@@ -59,6 +65,6 @@ related:
         height: 337
         isCached: true
 
-secured: "vuPdXhfETmxS7nNtedLNO1hmXCOfBxVGIowyo+ztbLiCOOakyqaqFAGmh9Qhq5/YpemSpKtDiALtz7P8UAx8/LF7GKiTrPCtp8RIrGUzZDT5+Mbwkup0inwHamN/Y5fqHNbuzcdmPsMeTsiTInfaHiPu/YRgAE6vkSd1iMPxGvyTxCSNWcuFfHyVHJR1c4YIaz+NShVp+Ux8jM1d+9UvdDVrQFFmUscNn57xfV22BWIKTyvS5q5OYqxGOUdZDHce68mkpKvQOB+3KuQDVdh6b1oNK+Y8uM0oK5Eao/yVTSBZGobhjFRWTEOhE38FboRGf2YhpFVp4J5qlo2F8YvPAlZIDWhXjdE42bKf6WxQv0A=;TW1EQrFMKlAljocl8xVzPw=="
+secured: "s6YHAmL16uSKjU6ySlQFFUysjRB1Kt++O6l+cYuoQ2nWsZWxs3JO2dXjdU48YL3pQ0Jewy7oUUePTcx1a++G0CcwSGqhq4ZL50wAnSaSFjFCgWSLSIjA26vkQw05gsyB9M74PSUkNHmUrrk4f7f+DWdl82VkmfMD0rqJF5aevFfJeGFUdUhkVG7RLspL37YZRCID1XwHir2mEffAnwYRAXF2w6EOA8srRMarRdWQBXfD3JajJDsniZVL+fnUTMZagdZpCE+8LAFff9NGx9qRRPuMFQ/igs1NstW0RG2w+Bv9Lcs66M9+611SHZfv42HVmT2SlFdDHbIUD3dLkHkjW2K2cT/hEQTw1lBeScCJxWI=;eop/cMq/Mp3X9c4sZ5HMbw=="
 ---
 

@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-15-upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml.md",
+      "title": "Upshot Deepens Data and Machine Learning Bench, Hires Head of Data & ML",
+      "excerpt": "The blockchain-based, machine learning-powered NFT appraisal platform raised a $22M Series A2 round last month to fund R&D at the intersection of NFTs & DeFi NEW YORK–(BUSINESS WIRE)–Upshot, a blockchain-based protocol providing industry-leading non ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
+      "originalUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/upshot-deepens-data-and-machine-learning-bench-hires-head-of-data-ml/amp/",
+      "publishedDateTime": "2022-04-14T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-northwell-health-aegis-ventures-launch-ai-company-creation-platform.md",
+      "title": "Northwell Health, Aegis Ventures Launch AI Company Creation Platform",
+      "excerpt": "Northwell Health and Aegis Ventures have partnered to create Ascertain, a company creation platform designed to launch healthcare AI companies.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/northwell-health-aegis-ventures-launch-ai-company-creation-platform",
+      "originalUrl": "https://healthitanalytics.com/news/northwell-health-aegis-ventures-launch-ai-company-creation-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/2022-03-14-GettyImages-1033717120-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/northwell-health-aegis-ventures-launch-ai-company-creation-platform",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/northwell-health-aegis-ventures-launch-ai-company-creation-platform",
+      "publishedDateTime": "2022-04-14T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-show-us-your-robots-at-tc-sessions-robotics-2022.md",
       "title": "Show us your robots at TC Sessions: Robotics 2022",
       "excerpt": "It’s time to gather your robots and get ready for a high-tech show-and-tell at TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston, Massachusetts. Join more than 2,000 other brilliant,",
@@ -10,7 +95,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -666,7 +751,7 @@
       "originalUrl": "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1085,93 +1170,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-zoom-launches-ai-powered-features-aimed-at-sales-teams.md",
-      "title": "Zoom launches AI-powered features aimed at sales teams",
-      "excerpt": "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/",
-      "originalUrl": "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
-      "title": "Intelligent robotics for laundries closes automation gap",
-      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
-      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
-          "width": 1660,
-          "height": 1660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
-      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
-      "publishedDateTime": "2022-04-13T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoOptics",
-        "domain": "azooptics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

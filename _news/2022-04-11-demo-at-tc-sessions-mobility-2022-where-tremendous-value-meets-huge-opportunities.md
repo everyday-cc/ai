@@ -46,6 +46,17 @@ related:
         width: 1022
         height: 535
         isCached: true
+  - title: "7 Days left to apply to pitch your startup at TC Sessions: Mobility"
+    excerpt: "Is an early-stage startup. Has a minimally viable product. Focuses on tech impacting various aspect of mobility: AI, robotics, 5G, SaaS, climate tech, VITAL crafts, fueling, data processing ..."
+    publishedDateTime: 2022-04-14T16:11:00Z
+    webUrl: "https://techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/"
+    ampWebUrl: "https://techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
 
 secured: "Ynu9CwpagZo7Kwlw1MPjR3Ab/id2yb9vZVADbjbsDdMBDLVNLIq5POZwfxFR1tB15TqwLACCbptkSV7RxI2bdkhxwcTogoYsQWH+B8tAfgW6mTwxM42LNp26OPY6+UXChUtVrrBOfrZIDFVgmX1c+3xpQIsUedslJz4O+sN6h86hRIRITewUCMt5QPYwK4xuKP/dtpiZ3IO3mAS8vFAtT8CPcIfVbHY6AOPeVx6ldmiB1qxm14u5kspEQ6Sq9ZQ6XamwEOWP++ahM6n0ma4yvy3nGLnZwdjUozsmhHtd+yZqgTOEfFEoKxnjzO/TiTSO9yiwbAxj/Hh3Z1WVvusiBCQbmX+trTXnh1LV0MyH8plf2JtZvE50u2W5HKY97+LOgtaNsapwy6y4nUAr88rICePm0/iMeswmtrtuEwFYPE4JagEauNAGt34w1v7xhZ8UEM2ai8BCs8OTnUPxAddwDgkIo6kiEwbPfQNFWKhRD/4SGigqzRDhFtl8xH2m3jkgT3jnvZke3meK7OtJvshQTw==;7HUZ2pp5WYorDJDUg161/g=="
 ---

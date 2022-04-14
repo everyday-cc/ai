@@ -1,29 +1,40 @@
 ---
 category: news
 title: "Six Nines Announces Support for AWS for Games"
-excerpt: "AWS for Games is an initiative featuring ... development operations (DevOps), high performance computing (HPC), and artificial intelligence & machine learning (AI/ML). Gaming is a specific ..."
-publishedDateTime: 2022-04-13T17:47:00Z
-originalUrl: "https://wreg.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
-webUrl: "https://wreg.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
+excerpt: "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through"
+publishedDateTime: 2022-04-13T17:33:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WREG
-  domain: wreg.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-    width: 800
-    height: 268
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/87/2870dd26-607e-54a3-8cc4-c474e45ba8f4/625709700b403.image.jpg?crop=762%2C400%2C329%2C0&resize=762%2C400&order=crop%2Cresize"
+    width: 762
+    height: 400
     isCached: true
 
-secured: "GOInuRwwEziffPTE1bfGzIsuvL1I2OCfYoD4fbk8IryG7k1I6XspAlN39m4p+d5ELch9Dv1ZU4OWVtwtZPFMDdTkiSUGxc+YRidtvFK5jJDK3W5275jgMIqGh4jNSeObyvolk3Gxa2LQ5LaLPsKIOqoSHThblJhOxbJ8gVksUn1tL+dPvqx6MEjwejpFLXiX/hwzaZ19Ivzgsj7znpx7N7ockgeF3Y2pOHKJiUu7ws9lci8nL0Xi9k1hF3tBAWQxFwQAzGOoWgxUWGo6bHAVSOMxtp43lxC+XLLXp/1AXSk67knLW/bB9JdUPjdM1V9z7pxQPHyyDbK2Zs4ZfXPlqscbYZ61ibU6WsK72AZkR4g=;gFhLBosSdxBIRCfV0m0BGQ=="
+related:
+  - title: "Amazon announces New AWS Local Zone Cloud Infrastructure in Kenya"
+    excerpt: "The new AWS Local Zone in Kenya is a continuation of our investment to support customers of all kinds and our commitment to accelerate innovation by bringing cloud infrastructu"
+    publishedDateTime: 2022-04-13T19:21:00Z
+    webUrl: "https://www.kbc.co.ke/amazon-new-aws-local-zone-cloud-infrastructure-kenya/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 19
+
+secured: "NtH7vO5urQlXyOU6uwWcYEfhkf1KE34ZMouTiI9VHdhOqjpM9ajbwrOJIvaG9Gc6l+yRpszVB8BIJi8aw1apSn187N+NTRoUV55haWUmKWESOT4e4X8gIEv723kUD6dmwSDcAbHFDNlJjL584D8D4Cn3zPBBkUavw1JOyyergzb8Cph4H1wNFeM8FZuMtCruOzn5teGT54C2O2oRCv8jfMlKpsuEdx/a3kWxpAXdCuz3wsclRQDKfYw+Ai2I9YDuDd760Gr5fIipROHbY4gclI0sfmMz0mDcbaeedfbVRWO81uzKioP7sCQPH+qP7Rj0lTuiX0Lkb5bc9/GLdo34AGxJ9KKmJyuik/TflZKJg3I=;36SM4U1uCXzO6BqR16B8QA=="
 ---
 

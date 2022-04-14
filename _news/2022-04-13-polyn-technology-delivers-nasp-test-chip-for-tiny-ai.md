@@ -1,23 +1,29 @@
 ---
 category: news
 title: "POLYN Technology Delivers NASP Test Chip for Tiny AI"
-excerpt: "POLYN Technology announced today that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology's brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors."
-publishedDateTime: 2022-04-13T12:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582250.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582250.htm"
+excerpt: "POLYN Technology announced today that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology’s brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors."
+publishedDateTime: 2022-04-13T12:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-israel-middle-east-d6fb1aea7c2c49e1a329d6ecb85e243b"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-israel-middle-east-d6fb1aea7c2c49e1a329d6ecb85e243b"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "RDkjWCwMLlMngCtWlqeWaO5FnCN8u6lCf/5WmpTVa8nEjI08yN5GGG8iU7fFmqzt2jR00gQqYC3gLx0WoL4bN+5YgvxRpiYgTxPSQ8wr+Ip93n54BPu4wPzfUPILorHI+1oIcX9Z2WW3CcsnHLr/VFH+bFPsEvQXmQ9YxL+e4cCAvCu8Bue3t7bZ7/SqUZWQdkQANK0/+Syrqnbr3TDn9GeuwMWI8Fa4O5maDZvXFd5tqX1Dt2TOQ/ebCtgDIPLP0rQqIUKnDs7mNTiSSfiM1tdeINeZq2KHWQ5ovp/Dq45RJQOxiBTLXBlHhZNoPXVEE1bS7taT+UOX5oP1lpA0pT3cvtcAaC0QPh5mqiuP9OSIRNPsabgNJNNdLF3Ket0AX+btyECCQSCFlc4xxSWG1Addn1u1FOdKN+iHhWWkZD+ASN7hvu65V7Gjo4WdRhDD5FwqsQw1ISvd2KoWuT7gKmaiURhGnNxXfc1mXwmAIatXuk7jq4BlkLj0gRSMOnVaK1tVVrAqpCSLD7fzCXJQFg==;AEto5rpI6x6PzvcSNrVkxw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "DNliHT8t/PfAE5uKgzyzeX3UkBywDMg281SetwhaWaX361hwubid5BUQXHHIlL1SNvMjrcIcd+Krqus2SS4HUfb1fQH5dfM95M1GUGTNjq710TpyVZCF8oYKjGublGy5IZ5z0fMkb1CyTL0HDHgSnqDlg5zHoPZCT6s9A1zEywM2P+6rHviTqT1GdLw5GZ2KJInNxgSEe85XRpkQkLfVxmR64iP1zUp0SiIiv0YAZeTazFPjl7+1YJQVJE3ghdzpgJnPVkA55t+QInxGzEpIxWITOmXIh8rpVCC0sdDQq+Ha22aDCXNZzHy6Wu6KX9O2oy9IGwMioy1uuNyR7aDhD6QmeuTflzkscpwXYeCuOAM=;627fj/7Ticmox69Iv1II4w=="
 ---
 

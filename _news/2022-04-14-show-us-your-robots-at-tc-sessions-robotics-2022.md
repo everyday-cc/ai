@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,7 +47,18 @@ related:
         width: 1024
         height: 468
         isCached: true
+  - title: "7 Days left to apply to pitch your startup at TC Sessions: Mobility"
+    excerpt: "Is an early-stage startup. Has a minimally viable product. Focuses on tech impacting various aspect of mobility: AI, robotics, 5G, SaaS, climate tech, VITAL crafts, fueling, data processing ..."
+    publishedDateTime: 2022-04-14T16:11:00Z
+    webUrl: "https://techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/"
+    ampWebUrl: "https://techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
 
-secured: "4bNUPTufZhJhefANCA4oYluJKKapoq46XLgU52C8K14XktLccfn7v03pELQdKzTLtbh/pdqbJ4SnnUTdGSaDL1WUvGgNNCBA7YMcGET60QzCxKsg3nKYp5jTq52aw9ITQ7nyfaUYxkwG3lxA1IwaLQ13fDc0M9zbGHpPeJAyBKlhOCs9xcadBeX68ynEeAajscxxGEuSBtfBjH36K39eyiDd5tFFrGWop9El+ApU8IHQnPfkdnx/reJdrdiFop6URvujJUOsi3lkF7rxSL9gzwp76rV5XbpUoC+CRZWq+Bfzs1OZU33T8LV3h7WIGMBw8Nc3w5CUF1JsK0Z+xDE3hqqpWatt2JNHy/XotbnSPg8=;2sSlhLQB/SMNI4wtNbDInA=="
+secured: "rg2r+ye94xmJxJCj9oEGaqPXr9ridPAMtqnNzg+FN1SaDaRDREZfUz6sreTWsyd3rm5t4h4HSFw9KiVCC0MvBa12VRv1oO9BQ5+5EYYGo90vWJ/wT8vyDLvBtBr6YqT3phVSmj6PyBQo11ihb2dEnw5Dr5upKKm8BcTWucfKbuaQ8aApiqXQe040AH6DQjUzxdH+q6umluzfr28JFpPa9B23vy0A1BEpfhnpT6Iupd1ciUb9pa1YttYeLmuaQjJh0RO7fbG0Kn6pe2fvvpKhnmkcyhYapAdU3Qnkj1exArYmxKVp9o/3X4t9MeOoocb8WDCRSK0wvtPRKRBwvzXTAGiuDRkcmKg9hWLklv6SXS7CCbXgFQIjzTNDb2TRMpEsl3DhwJfs2mTS5YtFqhpbSQW5VWCUduwud7U6IYZo/eBwzovNnotXIOnAdgGHD/iswjiiD0I6JEQWO9VVJc1PsOUpsMj4BxDaTqXqB3+YzGZLlXdmQsQeFuxAPSnksd6DkAGJXhE6rFBlXUk1bBGQgA==;TRNaxPlwhHBHeR/oHpUOAg=="
 ---
 

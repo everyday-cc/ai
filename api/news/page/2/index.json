@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-13-zoom-launches-ai-powered-features-aimed-at-sales-teams.md",
+      "title": "Zoom launches AI-powered features aimed at sales teams",
+      "excerpt": "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/",
+      "originalUrl": "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
+      "title": "Intelligent robotics for laundries closes automation gap",
+      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
+          "width": 1660,
+          "height": 1660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
+      "publishedDateTime": "2022-04-13T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-bengaluru-airport-announces-winners-of-bial-genie-hackathon.md",
       "title": "Bengaluru Airport announces winners of BIAL Genie Hackathon",
       "excerpt": "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport.",
@@ -1052,100 +1139,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
-      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
-      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
-      "publishedDateTime": "2022-04-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
-      "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
-      "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
-      "originalUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7",
-      "publishedDateTime": "2022-04-11T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

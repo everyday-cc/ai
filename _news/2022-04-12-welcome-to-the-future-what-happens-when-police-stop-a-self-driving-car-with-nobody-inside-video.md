@@ -43,6 +43,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
+    excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
+    publishedDateTime: 2022-04-12T13:18:00Z
+    webUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 38
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/12/62/22326455/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Self-driving car stopped by San Francisco police"
     excerpt: "San Francisco police officers were faced with a new challenge after stopping an autonomous vehicle with no-one inside. Officers approached the car, operated by Cruise, because it had been driving without headlights."
     publishedDateTime: 2022-04-12T12:36:00Z
@@ -74,15 +88,6 @@ related:
     provider:
       name: NBC New York
       domain: nbcnewyork.com
-    quality: 18
-  - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
-    excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
-    publishedDateTime: 2022-04-12T13:09:00Z
-    webUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
     quality: 18
 
 secured: "zStUbPybRJbNtBarcF+uBJWyE2dkm2jrCRHIiSVhAiRZ3VQiliIQxZI5rnHcFrJkWxvpbgLR7PFIeV7Cz/vxg+eQ7cX/TE+LHXiPMybPKC/0IT3Gtr6Yqjj+ca9gwAX+YpoPGKH1iz/lJ9PIIudVnh6InoKck4j4O6m9lizhQA/QZxwPZL8/gIejt550Dx4z93lZDa8baCW+tfwa1Fnwc6pgKq0FBmWc+gBdqbGekgVWdSDcSQs2mHo8ZsXN0YWftujVpdMFXNjnanArev0RWPx1ENZTW71UG2XfWePraGilvKjDOwbh0fu+kiR1yzIJMktjCjwO04KvFnkze+bI04UjQfagXlJH8PglZYNJPg8/9egNs1eNa3Jf9wmd5np+aQ6hcEK4J5eMhUBMJQvHacUkPzyp/OmkSlJ90BmN9nKNzWHPNqrVhHG7dl8hBOuur7ogWMzow3E5k0j5dTGZCv4YuR3YUyFp/5FckEG6sKcSnK3XynbQUhnF4Ph5G/szk1z+aS9B0qK8EZQKMtQdhQ==;qCQRq/9pNDLTCTlNiGQ77w=="

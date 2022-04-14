@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-04-facial-recognition-system-at-pune-airport-by-march-2023.md",
+      "title": "Facial recognition system at Pune airport by March 2023",
+      "excerpt": "The facial recognition system is part of the Digi Yatra initiative of the Government of India. It is to be implemented in a phased manner",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/04/04/1600x900/8e4dd890-b431-11ec-a307-d7d8f6d974aa_1649088681499.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/pune-news/facial-recognition-system-at-pune-airport-by-march-2023-101649088693793-amp.html",
+      "publishedDateTime": "2022-04-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-machine-learning-as-a-service-market-size-worth-3881-billion-globally-by-2028-at-412-cagr-verified-market-research.md",
+      "title": "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®",
+      "excerpt": "Increasing application of cloud-based solutions, technological development in artificial intelligence and cognitive computing market, and increase in market for prediction solutions are some of the fa",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-how-reverie-is-serving-bharat-with-multilingual-bots.md",
       "title": "How Reverie is serving Bharat with multilingual Bots",
       "excerpt": "Through its robust partner ecosystem Reverie empowers multilingual chatbots to enable language interface through voice and conversational AI be it ... include machine translation, speech-to ...",
@@ -1057,101 +1144,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx.md",
-      "title": "HC Wainwright Reiterates Buy Rating for Renalytix AI (NASDAQ:RNLX)",
-      "excerpt": "Renalytix AI (NASDAQ:RNLX – Get Rating)‘s stock had its “buy” rating restated by equities researchers at HC Wainwright in a research note issued on Friday, TipRanks reports. They presently have a $30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/RatingsChart.ashx?Prefix=NASDAQ&Symbol=RNLX",
-          "width": 600,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/03/hc-wainwright-reiterates-buy-rating-for-renalytix-ai-nasdaqrnlx/amp/",
-      "publishedDateTime": "2022-04-03T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings.md",
-      "title": "AI Weekly: As demand for chatbots increases, so does the need for better offerings",
-      "excerpt": "Chatbots are blossoming in functionality as well as in other essential areas such as business sales, analytics, customer service and overall end-user satisfaction. But the architectures of these offerings can sometimes be limiting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
-      "originalUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/chatbots-e1624470249681.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/ai-weekly-as-demand-for-chatbots-increases-so-does-the-need-for-better-offerings/amp/",
-      "publishedDateTime": "2022-04-02T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

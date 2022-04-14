@@ -67,6 +67,20 @@ related:
         width: 1138
         height: 773
         isCached: true
+  - title: "Peace Coffee Workers Seek Union Recognition"
+    excerpt: "On Thursday, workers at Minneapolis-based Peace Coffee announced plans to unionize in hopes of “better wages, better working conditions, and a collective voice at work.” Employees at the eco ..."
+    publishedDateTime: 2022-04-14T16:40:00Z
+    webUrl: "https://tcbmag.com/peace-coffee-workers-seek-union-recognition/"
+    type: article
+    provider:
+      name: Twin Cities Business
+      domain: tcbmag.com
+    quality: 24
+    images:
+      - url: "https://d5c1j5k5drfk7.cloudfront.net/wp-content/uploads/2022/04/Peace-Coffee-beans.jpg"
+        width: 1200
+        height: 625
+        isCached: true
 
 secured: "x1GIRu8FNgPqfOlAd9PwWRV26ZiWJLoFC0b+iVCMtkVp/L9jTTSYCfKr7jbUIe/dHOGGzJq9MBjSqBEc0o6JV7yHZOM0XevlcsBIzqynjSWT63NBNmbw8V5x1f1L25VQVL724948Bz7yeT2X8zAMoLm+uqajnUpI49zo2jDPhnE2Kyj8X3Ou5nYI03T/PqiSUzu6tML1m3D5aC+hjl/qNS7zDgDllcr1Id7DaHMO+nr6q/n4gjgf1JlZsjyL89q3+rXFwrTuENNC2S6qGehKewMTFuT1qHQXQzwGb94Agq6wNBWpr03lLedoZ+405n0okHySQESH4S9sMFI43GLXqfXXiguGbHmMgIuQi12KRK0=;da/nkB85gm69mgJ5+05wqQ=="
 ---

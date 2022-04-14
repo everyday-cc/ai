@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
+      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
+      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "publishedDateTime": "2022-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
+      "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
+      "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "originalUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "publishedDateTime": "2022-04-11T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum.md",
       "title": "Government Deep Tech 2022 Top Funding Focus Explainable AI, Photonics, Quantum",
       "excerpt": "An example is from 2015, where I was invited to help the top 100 CEOs, representing nearly $100 Trillion in assets under management, to look ten years into the future for their investments.",
@@ -63,7 +157,7 @@
       "originalUrl": "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -526,7 +620,7 @@
       "originalUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -775,7 +869,7 @@
       "originalUrl": "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1111,91 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-the-crushed-ai-stock-thats-poised-to-bounce-back.md",
-      "title": "The Crushed AI Stock That's Poised to Bounce Back",
-      "excerpt": "D espite a big drop in stock price since its IPO in 2021, Riskified's recent earnings show an encouraging uptick. In this video clip from \"The Rank\" on Motley Fool Live, recorded",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-crushed-ai-stock-thats-poised-to-bounce-back",
-      "originalUrl": "https://www.nasdaq.com/articles/the-crushed-ai-stock-thats-poised-to-bounce-back",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-crushed-ai-stock-thats-poised-to-bounce-back?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-crushed-ai-stock-thats-poised-to-bounce-back?amp",
-      "publishedDateTime": "2022-04-09T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market.md",
-      "title": "Inside Intel’s Strategy to Compete With Nvidia in the AI-Chip Market",
-      "excerpt": "Nvidia has dominated the growing artificial-intelligence business. Intel wants to change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "originalUrl": "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-519480/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815",
-      "publishedDateTime": "2022-04-09T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

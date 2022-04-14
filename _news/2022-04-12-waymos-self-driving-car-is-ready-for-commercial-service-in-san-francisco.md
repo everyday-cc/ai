@@ -2,21 +2,27 @@
 category: news
 title: "Waymo's self-driving car is ready for commercial service in San Francisco"
 excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
-publishedDateTime: 2022-04-12T13:09:00Z
-originalUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
-webUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
+publishedDateTime: 2022-04-12T13:18:00Z
+originalUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/25/12/62/22326455/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "San Francisco police stop self-driving car – and find nobody inside, video shows"
@@ -84,6 +90,6 @@ related:
       domain: nbcnewyork.com
     quality: 18
 
-secured: "2TAJhRafYSdotuBLfoLjVZdEcInp4nTj+YTssjAlyjRyKeYY+dKn71x8WQ22dWPUTxWpy2qrjv2sgBoqJQtmaJ13aW3VLcVV8KAMW53lPZJa8Mh89twp2sI8G6LW4Tt6QG60QPTNPcSV9pgb6KnGJIkFi/+JKC4VDZShljForux/TCI3CR412yI0LWs1dVESUmQZK5mReRj1okUOvgz5JiMtMcQIR3SfN6eP2B+2nnEUvmmcZRi0aBB5jbKRiwmk07B7cFeMIvtQXXYJtozITzjOBQdwZ4CB+WPxKIkY3ZPlQEAKe8tsvDDHf3EAm3jgGfKg4hu35ucB8Je+NgAxQHZqs3gxqiLg8FyO1QkbgpSLNhT1BfgeTTNWYWN/rEhUdaHgsImjN5L2Ln3IY7SxJxRpxXSoBQWx1ffonkcsOnoIE8uwpWuJnrleeau8dw6jgDzbLmH8lYJLWaOAcYUyODNQHNeYyjg9+TbP6VoToG5dWJiDkitAYlARaiSUvFZFTtDC6OWDOp1SDlAb9ds4Ow==;pa0fftCftKIPUu+gSiXtDQ=="
+secured: "pT+veC1ej+KiQE8USTydEI9/+RJpUyBZSqS5fTUfz9bFU12eaRHPP+XiMie8H3k0Hi5WtrEs/v+bF5gPjIIDsGi8KHQtDbIMPMMrX2Er9xpgwF9ZIuCoan3yzl/xt6wiTss20r5XuPrm37BffCMG7M3UQlm911yvE4V0CHtJMoMzQeWm0OQkgzBrwXxumD43K4j60gaMD2oHVdz94nY4bmFkF1eBauRS7J+j1XQ0QQtc7WhkG+Yto6zgWPXOWqskSLzsdf/+rPpCktwd6Ur8zIfuRrLGNVn+a6K2YGmkN8r8CqG8Q0slU6RhL443tTu9jnJHF+oUC6Qrdw8/PCIC4iAcMoEs67gdlJgWCrup1BM=;GH2pS9LCrj+RFA5pT5eWWg=="
 ---
 

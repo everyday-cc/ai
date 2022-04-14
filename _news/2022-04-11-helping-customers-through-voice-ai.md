@@ -46,15 +46,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
-    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
-    publishedDateTime: 2022-04-12T18:26:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 3
 
 secured: "j3cjGQJDkp+O0R9pbFA6ZIB3rd0BsZ6W9elYXkcCF9c4h1Ifqtl1Wk/4Xa7uC5ISMC+G2/9BF0Ex1V0e0G7kIMjGWsNsa/vqKf83sz4JnkOgwR+O/KjANKTe5VKTUe5PC2ERR7iZ6qmkt0RqMJNSPSg1DL/cRGTGlH1btFemf5/RDPcvwQUuAWLDjgEtpxVIS8D3QwZJfVFwSjP7U9BjlxK694AjksLkCvsJKwG7gA/sz+nc5tpA/DjE/ww9e5AMV/Qg2Tdl9jYkHP/PvjoJ51M1Vgg8KLFvR+T8TyfSfuRQJ2NTqi3G1FelNrEidIry0vmdASvreEdQeGjgbk18ryRiohUfeEHlpD3VgPGgWXECMeFnigEgnxnGYPy/2yAmLdjtDwO4O26HKr3Qrxo2UP33CWC2W1Yhgls+YQuXnAsS0Au0aP5FLHA93OnZomjyD/JC3XSomJ421trV8ufRVdfmAwsMY0FjcEIWw9J3SRq70LAiHauaynVKwSqDHCCJXYNwNO/9+lp7Q8ZEtQ1PLw==;a4SpiMTH5d9/z+o5v9+vrg=="
 ---

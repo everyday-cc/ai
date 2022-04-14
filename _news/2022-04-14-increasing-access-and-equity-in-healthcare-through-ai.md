@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-he
 webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
-    excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
-    publishedDateTime: 2022-04-12T18:26:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/northwell-health-and-aegis-ventures-launch-ascertain-healthcare-ai-company-creation-platform-to-improve-quality/article_a8671cd1-f8b0-58f7-81a2-be856bd8c56c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 3
 
 secured: "Ed01V4vZ954Z99Se7bzgJDZy2sELtUEsiq2Av64DkXZ13JrPeOzVrLJqiuuicgStEs5nzZMSef/6JTayxPThmCqxMwDPe71FR9uygs+7ke5ccUYHf/v8jNnhVNEAN/oTUZE1YDQCty3rbjx3nvUx7uUGxGi7jUC1Z6L9IGE1+Y4sddn8zoPX4wLxHXXzS2mkInOjqHt4rBkR+mDaqoJwt9cl1AWz/LNtO5soQf+tDlLkHZQlZvlShmPDXQPcYhYnv/jvHaSKfd26TM4H49IhIfgwKpA6JigJNSHkz3IyKRELpnLcZPUVrwglxm4uZncHb85To6rZQU5ZsqUZynJh91zJepEjW+5v3ATcQ+EjnPiOA32M4fsoi/wmUzaUE0vXe15w5pDvC9AS29CMF+r3BoSpBEGTkGl7O0s6DZJ4HEQeU/JXwfjAGcSOVpO27cqpgVsdi8JioN1mOssYyQwHxIHlbhIbsXCRnXjL9qpIUq5G9AL2d3Er7bEWBHs2dTnUBkxZ/j/cfVxKPX8gXb8Ytw==;+Rr0pE9LmmWC0tlaT4v52w=="
 ---

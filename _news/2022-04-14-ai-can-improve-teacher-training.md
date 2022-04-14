@@ -44,20 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 31
-  - title: "Trainee teachers made sharper assessments about learning difficulties after receiving feedback from AI"
-    excerpt: "A trial which used artificial intelligence to train new teachers to spot potential learning difficulties in pupils found that the approach significantly improved their assessment skills. 178 trainees assessed six fictionalised pupils for potential signs of conditions such as dyslexia and ADHD."
-    publishedDateTime: 2022-04-10T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949080"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d6c21ad0-0963-4434-a106-7a3e29cb6529/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
   - title: "AI could help trainee teachers identify pupils with learning difficulties"
     excerpt: "AI could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, according to a new study."
     publishedDateTime: 2022-04-11T12:56:00Z

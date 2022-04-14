@@ -38,20 +38,6 @@ related:
         width: 1620
         height: 1080
         isCached: true
-  - title: "Trainee teachers made sharper assessments about learning difficulties after receiving feedback from AI"
-    excerpt: "A trial which used artificial intelligence to train new teachers to spot potential learning difficulties in pupils found that the approach significantly improved their assessment skills. 178 trainees assessed six fictionalised pupils for potential signs of conditions such as dyslexia and ADHD."
-    publishedDateTime: 2022-04-10T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949080"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d6c21ad0-0963-4434-a106-7a3e29cb6529/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
   - title: "AI can improve teacher training"
     excerpt: "In these written justifications composed by the pre-service teachers, the AI identified what the learners had done right and wrong and gave feedback accordingly. “Above all, using AI and providing individualized feedback improved the diagnostic reasoning of the trainee teachers,"
     publishedDateTime: 2022-04-14T14:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/308424/atd-banks-on-b2b-digital-transfor
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308424/atd-banks-on-b2b-digital-transformation.html/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 665
     isCached: true
+
+related:
+  - title: "Lack of Data Readiness Preventing Healthcare Digital Transformation"
+    excerpt: "A lack of data readiness is preventing the healthcare industry from committing to changes that could bring about digital transformation, according to a recent report by Morning Consult commissioned by Innovaccer."
+    publishedDateTime: 2022-04-14T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/lack-of-data-readiness-preventing-healthcare-digital-transformation"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/lack-of-data-readiness-preventing-healthcare-digital-transformation"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/lack-of-data-readiness-preventing-healthcare-digital-transformation"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/Focus_on_Care_Coordination_Hub_Image-e4b00c1efb9503a805928b101c78b499.gif"
+        width: 480
+        height: 295
+        isCached: true
 
 secured: "zsiY1bO6d5ApOnEpRpxdQ7xqjC+BysPJ9MAEm4Pp4JFuzyFxcBsAmVzGuAqYc0K17Dc3BnML2vUl1jqquiAR4MBlHKJvzkOJUxQqSn1mXcv25E9iZ3PKb00lcNZViZRe7432LsCfPyC/uYo1hJwfqb+x6t+hNaeAZsbFBYBWQHcuuIpDWU1/E6sJLxvcyyzT+MEo+S2LlFDhg5EIxagaB3uayZih04Rq5jt2I17FYZzlNUzAGZ6K5SsW5VWS+AqYMho7M5BxvZy8mECVPIHIh1aDmuHMi4s+i40Snpc2iHECjqyQW6ufEOaUqK3FGDu/4+QsnRWtp8XOxXOhCNswcpRBCGioh4dqySaTdiF0Yz8=;zhrrKaoPej3VYh+BoJJHpw=="
 ---

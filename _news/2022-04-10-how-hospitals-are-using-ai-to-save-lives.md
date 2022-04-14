@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg"
         width: 750
         height: 617
+        isCached: true
+  - title: "Using AI to predict future cardiac arrest"
+    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
+    publishedDateTime: 2022-04-14T16:50:00Z
+    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
+        width: 796
+        height: 569
         isCached: true
   - title: "Google is using AI to update business hours that are out of date on Google Maps"
     excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"

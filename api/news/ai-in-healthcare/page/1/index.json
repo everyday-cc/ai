@@ -10,7 +10,7 @@
       "originalUrl": "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -188,22 +188,31 @@
       "title": "An AI model can help predict adverse events from new drug combinations",
       "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/949288",
-      "originalUrl": "https://www.eurekalert.org/news-releases/949288",
+      "webUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/drug-1.jpg",
+          "width": 2880,
+          "height": 1923,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T12:46:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp",
+      "publishedDateTime": "2022-04-08T12:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

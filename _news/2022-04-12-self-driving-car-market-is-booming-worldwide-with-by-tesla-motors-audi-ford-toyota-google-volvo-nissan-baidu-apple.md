@@ -58,7 +58,12 @@ related:
     provider:
       name: KTEN
       domain: kten.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/22496066_G.jpg?lastEditedDate=1649690735000"
+        width: 500
+        height: 337
+        isCached: true
 
 secured: "dHWiz3JgkQ0297hMtUZfDPYvkAWnRvyIU7tyfElgGXHUjl/aig4W19vrpC/aT5F5/EKDxyJD2IibY7miTIdKIPUVt0ZYkAq80B9AmrZkYveFwTb0QvendKO4T4eyjNLyP3nOjVR2eJleICiW/whwOo8RGGUbWhcxH46Y9+v3umO55xPU7zpv3X2P99MaCT43fJeYT9e3O3sp3vVMPWA1Lz24s5zCuXVTXndqL4s0lpJHhLP08a0e/p2hBO6h7jk6cO41gRurGReEK+rxGKoUpbVH3lsAzPH/CN1M3k0vda4tOUysoycKSD8O25v+bGV/wgizAoEMheZVJAKCI9i6und+fQsownUWUFLKRC867TU=;EaO1W9zdgfFCWXnXNDcMXg=="
 ---

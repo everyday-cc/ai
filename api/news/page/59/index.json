@@ -2,6 +2,100 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-02-19-d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology.md",
+      "title": "D-Link Eagle Pro AI Mesh System Blankets Homes With The Latest Wi-Fi Technology",
+      "excerpt": "A couple of months ago, I reviewed the new Eagle Pro R15 router from D-Link. This Wi-Fi 6 router can handle speeds up to 1,500Mbps and is keenly priced. It can be used to upgrade any home’s wireless network to the latest Wi-Fi 6 standard with AX1500 speeds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620b77fd0c4791094cbf109c/0x0.jpg?format=jpg&crop=1613,937,x0,y90,safe&fit=crop",
+          "width": 1613,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2022/02/19/d-link-eagle-pro-ai-mesh-system-blankets-homes-with-the-latest-wi-fi-technology/amp/",
+      "publishedDateTime": "2022-02-19T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes.md",
+      "title": "T-AIM startup Bariflo Labs uses AI, robotics to rejuvenate lakes",
+      "excerpt": "“We are using robotics and artificial intelligence and the internet of things to solve the problems in the water segment,” he said. Sahu said it has a patented aeration device that diffuses air to the sediment level, where a majority aquatic species shelte",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes",
+      "originalUrl": "https://telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2022/02/bariflo-labs-.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/t-aim-startup-bariflo-labs-uses-ai-robotics-to-rejuvenate-lakes/amp",
+      "publishedDateTime": "2022-02-19T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
       "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
       "excerpt": "The collaboration is a high-profile win for Nvidia Corp`s effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence and high ... a previous deal with Alphabet Inc`s Waymo unit to deploy autonomous driving ...",
@@ -1128,101 +1222,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-air-force-moves-to-drive-computer-vision-research-and-development.md",
-      "title": "Air Force moves to drive computer vision research and development",
-      "excerpt": "An official said it shows that DOD is serious about enabling more personnel to harness artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://defensesystems.com/ai-analytics/2022/02/air-force-moves-drive-computer-vision-research-and-development/362120/",
-      "originalUrl": "https://defensesystems.com/ai-analytics/2022/02/air-force-moves-drive-computer-vision-research-and-development/362120/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.defensesystems.com/media/img/cd/2022/02/17/021622visionNG/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense Systems",
-        "domain": "defensesystems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-the-most-important-self-driving-cars-of-2022.md",
-      "title": "The Most Important Self-Driving Cars of 2022",
-      "excerpt": "Born and raised in Silicon Valley, he remembers when Apple's headquarters was mostly apricots. This is a key year in the history of self-driving cars, not because full autonomy will arrive but because cars with important and differing versions of partial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/the-most-important-self-driving-cars-of-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/33e74eb1e0bb6a3f2b897e7840c54f85fb5ffaa9/2022/02/18/05e34293-a850-4bd2-bc5b-3774823464f7/drive-pilot.png?auto=webp",
-          "width": 1826,
-          "height": 1197,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-most-important-self-driving-cars-of-2022/",
-      "publishedDateTime": "2022-02-18T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

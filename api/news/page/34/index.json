@@ -2,6 +2,93 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-03-16-deep-learning-and-the-future-of-finance.md",
+      "title": "Deep Learning and the Future of Finance",
+      "excerpt": "Deep learning is increasingly deployed by financial services providers across industries within the financial sector. It has the potential to transform business models and markets for trading, credit and blockchain-based finance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
+      "originalUrl": "https://www.bbntimes.com/technology/deep-learning-and-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/companies/Deep_Learning_in_Finance.jpeg",
+          "width": 1200,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-runai-raises-75m-to-grow-its-ai-workload-virtualization-platform.md",
+      "title": "Run:ai raises $75M to grow its AI workload virtualization platform",
+      "excerpt": "“Particularly with compute intensive AI model training, greedy data scientists can become GPU hoarders,” he said. So the ability of Run:ai’s GPU abstraction layer and orchestration platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/03/15/runai-raises-75m-grow-ai-workload-virtualization-platform/",
+      "originalUrl": "https://siliconangle.com/2022/03/15/runai-raises-75m-grow-ai-workload-virtualization-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/Runai-team.jpg",
+          "width": 4167,
+          "height": 2083,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-photo-or-the-real-thing-mice-can-inherently-recall-and-tell-them-apart-experiments-show.md",
       "title": "Photo or the real thing? Mice can inherently recall and tell them apart, experiments show",
       "excerpt": "Findings also provide strong support that the mouse's hippocampus, like that of humans, is required for this form of nonspatial visual recognition memory and picture-object equivalence.",
@@ -1035,111 +1122,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-imperva-welcomes-dan-neault-as-svp-and-gm-data-security.md",
-      "title": "Imperva Welcomes Dan Neault as SVP and GM, Data Security",
-      "excerpt": "Imperva, Inc. (@Imperva), the comprehensive digital security leader on a mission to help organizations protect their data and all paths to it, names Dan Neault as Senior Vice President and General Manager of the Data Security business unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/imperva-welcomes-dan-neault-svp-gm-data-security-itsecuritywire",
-      "originalUrl": "https://www.linkedin.com/pulse/imperva-welcomes-dan-neault-svp-gm-data-security-itsecuritywire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEXaycyRsUZHw/article-cover_image-shrink_600_2000/0/1647336687983?e=1654128000&v=beta&t=9FubgAqi-i1HJMXQuGQKTGz7A_yI3eejyBycfQjro6w",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints.md",
-      "title": "AI Chip Startups Pull In Funding as They Navigate Supply Constraints",
-      "excerpt": "Investors are funneling billions of dollars into startups that make chips designed for artificial-intelligence applications, which have largely avoided the supply-chain constraints and backlogs faced by larger chip makers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "originalUrl": "https://www.wsj.com/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-504456/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-chip-startups-pull-in-funding-as-they-navigate-supply-constraints-11647338402",
-      "publishedDateTime": "2022-03-15T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
