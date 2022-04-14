@@ -41,20 +41,6 @@ related:
         height: 675
         isCached: true
   - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
-    excerpt: "Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025, a new IDC report has shown. Over the next five years,"
-    publishedDateTime: 2022-04-09T11:54:00Z
-    webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=946257"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 36
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/English_Movie-1a.jpg"
-        width: 640
-        height: 411
-        isCached: true
-  - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
     excerpt: "New Delhi, April 9 (IANS) Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025 ..."
     publishedDateTime: 2022-04-09T20:28:00Z
     webUrl: "https://menafn.com/1103984661/Artificial-Intelligence-spending-in-Asia-Pacific-to-reach-32-bn-in-2025"
@@ -69,6 +55,6 @@ related:
         height: 250
         isCached: true
 
-secured: "mRiAnPaa7VV5KqdM/XVWGGFBWDu4z6YdMt9qoX0AKas8UtOHqYdjax5KfXnAEpBRo44ISZOUnmvUtLXRVGZUYqyPpMYCjjyadWvDFAszJ8L0c9ID+gZVRcP9I0zNaCuv0Gx6lRh/I1yvYLVBruziGAVHTmtTzj/N1UcnNzeQnwsR+Xy5z8ZI96Ywh8m+AMFnswP1dzV3ikqR7lJE/j0cRXpd0QJzN0LeEta3YKcWMK0hR+rqf6iYWxPCQqoeQgJSz4cW02RRs2lFPmqnCe5sWG+O0IuemF3SCzBf7MturpoEAF/2QAbbyknXnoqb3uzYjR05LCt0Tb22Zqs17W1voWFivZg10tirVm3wftUfWl8=;yYbWn2th/j5Zsh+19MiLCA=="
+secured: "URuYSBp420hrneP/wINkVdCrYupa3RJAqDrChLJZdEG/RKYEFpTYE1osmQfmvtwVCpPf3BLXfqDoGnpNT7qU2PX0OeRigCJwpReIsIskEKIz2+XIhJ3KswMHkI9yUejoBDPUhqpXF9lLsWkSS1a0mBiDci2Gddp75Q79+jPRz/AxwmrvGhuXJgKgEPNct9epbQT4xFrQIsZh91J/Iip/0J/NNbCrfK7EjJb5Elz9mjkiJXMd4UIrqUDK2XzLHBtPesFm4Y8Bkfsx5ugR7x/7CkzcRnJ59ApvDHgafcEOjBv4MKW72vxwTd0648dZH9Z0T40SDE9ySmWGARPYz19WoU/YEvJxJuyQ0wacAlv/MF02LwAP5vw+V19VKSpsdo+1wBC4zNtYKw5skben0W4Hq6GSArzPgNTORWvKopTlu8N0ov6bri2xeougpL1OvVQAv+VgzsbWv2XcJ5KW04dzlKr/rkV4Kxml6fDHGoFnFX8nEeklQm1jFCyYrEWNt6IhFnzJ9QEeggisU1GtXFszhg==;EMbNt8nWYNPfiYy95W80gw=="
 ---
 

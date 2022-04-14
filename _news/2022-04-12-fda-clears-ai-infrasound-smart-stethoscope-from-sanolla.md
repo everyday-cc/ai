@@ -52,6 +52,15 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "Israeli Startup Sanolla Gets FDA’s 510(k) Clearance for its ‘Infrasound’ Stethoscope"
+    excerpt: "The AI algorithm helps identify several cardiopulmonary conditions, including chronic obstructive pulmonary disease, pneumonia, asthma and cardiac morbidities."
+    publishedDateTime: 2022-04-14T04:24:00Z
+    webUrl: "https://www.fdanews.com/articles/207399-israeli-startup-sanolla-gets-fdas-510k-clearance-for-its-infrasound-stethoscope"
+    type: article
+    provider:
+      name: FDAnews
+      domain: fdanews.com
+    quality: 0
 
 secured: "lxU5XAPY9+hUSdy3Pa5wDrQZcgkZQXZI9J7WcfmahDRKiAFTtNt2+K2nYvLz+Zo3uzq0nC1DP0XDyGAyagjW+VhK9rNXUXkXtjDShN1kjEoWw3PoYj7jxMiAaJS1FmzhHaq9KztHuwqwOvNWL9AjCtFwCKtpMileE55A7UHt+QXza2LCsICzZoLCHjSE5yr2pAhz5kz3cDUjHlUp1p5Yf4l5l95og9ax9ujQGPyykSWN9a+uu02yz+fgKtq2UoclxjJR5ijYdheJ1FxtpCltC4ubQdAf6hG5PNVSjdZNYFRyP691sKOS22XmqFfkRMMJSNgDrQSZAGiNsZoyy/g5tji8jZnbXU7bi9Ysdh+HV8CwLxo8OqvXrSDbUpIolSX0iDgSXtzLoJ0hcN3a9IyDg+dfdc+CycShY7FYpbCpdQe5RByzpLPNb+ZSq2fak+qrfZ6/kAi4GDuH3fawZT009e5yLbRsSGtBA1RUcYI6WCqGr/vylQddik0Bc6aEe+rp5eA/c7ihDW+hmGkiBcsELg==;TViNKx1q0K/qOy4ZzWYLJA=="
 ---

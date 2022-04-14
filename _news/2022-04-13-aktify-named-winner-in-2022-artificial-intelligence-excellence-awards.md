@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ..."
-publishedDateTime: 2022-04-13T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
+excerpt: "\"Using this data, we have optimized our AI to achieve 82% NLU intent classification accuracy in enterprise sales conversations. That's higher than IBM Watson, Dialogflow, and the average human.\" Businesses utilize Aktify's AI-powered virtual agents to hold ..."
+publishedDateTime: 2022-04-13T14:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - IBM AI
   - AI
 
-secured: "1sZhlBMMkFy8ZM9d0B3jVRlXgBwMty762Z5BoY/Ucny00Pos3FQCKwkh5FRwriQ4AGCv3UxlI7HuMwGnuTbgtsVezOY14Gku/CROPDU7Uq3kr8JfOzZpMAknG1ceaJwEacdChwYAgXr8oHNe9kVqQvv2OqLg0QfNyAXYVkCcngVCDy+8lGGAnl2N2Ncdf6DYewpbRfExnHPHq0MT/blMqX7lsiyOZTGyU/lk2nZ0Y8SRMEdYH6QIDgwpjzq2DTyfFbrTqeeFJysMGEyjbUp75wqCG6Unh7+DU9lzj+FLGehXX34wIBjbq5V/pmQXM/pXwVDsyzYTWGmAeGQS1rFOgIgiYrapnJxpNgJQrWAXznY=;lJRj+h7ku5z4Y263adwJ5Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "UZpo30dGPQd8k6n+sfwgCFp+6Dy5esvSihAnhbtIZ2zwlpMuBARm4PHyWMKNvRVVmI5NxTEMdOKjxRVF62GWw5sKhvGVgVksCmo5azfd7tsDEERV7SiOxUmJ6NI10SuGzuehG3oSwQKd3pkqZCr0I0XGJsLQDYn6sqOPd+IHbwe/cAjDK8i1Nq40tKQUu0NnC04LYQaxLKhVhl1BQpjNLbPrwMhO1NgadjtCjxdFaAvlNmoyxMT/x4Xf25uBAs/jnD3fluG87REfE4paAvxtNlHfIZb/ZaODmJNkf+CJNQJldGFtPdxjo+R3zkoY485Ef6101ML1fuy7MMif2nSChiQOgGpdVPHVDkjd/MTAyfk=;r8dPb2E+8B6yJmoLIrVhBQ=="
 ---
 

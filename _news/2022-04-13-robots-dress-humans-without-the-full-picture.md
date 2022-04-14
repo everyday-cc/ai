@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Robots are learning to think like humans. Can they meet Amazon’s demands for speed?"
-    excerpt: "Robots are already working in warehouses, helping Amazon and Walmart customers get their orders faster, but e-commerce leaders want them to do much more."
-    publishedDateTime: 2022-04-09T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/can-smarter-robots-meet-amazons-insatiable-demands-for-speed-while-protecting-workers/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 13
 
 secured: "xGcI0zd9clWzFazRs0U0v7xUtCyih7xXnZ2HuxUNsAfTaRYHGwd1GpAE/fjvSDYgUNdUTD+mniqZ7km1Au4GF17OH7pmrDb11qt6aJvq2/bgJ/cXk3aS3eI1aYbjX83atMZT2njP4uHJo9VsjVudmHE+U6jUJ8DLQPRhE0KeXo5Wpwjl0Q/ddX3sJEZYY3gkjOXxHg7jZ8ERWjfCRxbOoyUGsFK0xIfZ+aILdg5heDGdDAAht8s3mWtKtYcDzCfDru5+eV+degdDR2xllnsZXexSMb4Jn698RsykUfLz3oX82Io9qvbbAyXcK6C4xB85QKcOob6JRNY0l9XOqBAZGMqqpjY0XhRo8rreIRM9GhldNVl5S01X+SymR1MuW/f9vXJk6v1VuSJJha8Uj5DKXBgdzy9u8J5bX0w8KENpNhAU0E9yYNEyDrR+kNmPXj2CX0ep1v1HRmiMfToFAxztVh3QvFcIoomn9TjpcnZYv2z7rRWD39IZVGzPlGl5JbMjBNr31hl1JTfXzNiP+JmnLA==;eSv8CX44jykrKul3iHFvIQ=="
 ---

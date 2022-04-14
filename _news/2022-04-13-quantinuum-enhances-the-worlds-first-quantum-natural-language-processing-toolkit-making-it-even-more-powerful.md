@@ -5,9 +5,11 @@ excerpt: "Natural Language Processing (NLP) is a form of artificial intelligence
 publishedDateTime: 2022-04-12T19:07:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2022/04/12/quantinuum-enhances-the-worlds-first-quantum-natural-language-processing-toolkit-making-it-even-more-powerful/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/04/12/quantinuum-enhances-the-worlds-first-quantum-natural-language-processing-toolkit-making-it-even-more-powerful/"
+ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/04/12/quantinuum-enhances-the-worlds-first-quantum-natural-language-processing-toolkit-making-it-even-more-powerful/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/04/12/quantinuum-enhances-the-worlds-first-quantum-natural-language-processing-toolkit-making-it-even-more-powerful/amp/"
 type: article
-quality: 29
-heat: 29
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -22,6 +24,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "KS7IgUOZlckFRGqS/lcMvRSvIGlxAyksVURQhDBhqrBOtcc18/RTkYzauLXZApeZGUDUbV1sKN2AXcB8mwB2GPQTaL2tcjKrTdASGC/NO3hlIYTf9cGrE2+IY6UZT0T1UJveAplYEhBgRfhxuMWkC3a20zfr3XQDXany5lwPHYQO3L5Yw8FGdZx5QVTfiSiSadOqX/37CXfNAT22elJdelD7mXyHqMTsyzcpQpDh3DiI+8Be7yMmys20V3XSO8Y63Pkx1/zTtsTf+7m99e3ajqLLQnaFe5TwgcFTEK7ajHOKGpXvHqNTJX7OWlx9EyKWWV+00JjXJlIiLK19RWsrKOi5aIRHTRYMzOr5ZQtVstA=;/CbKRANQx7iS43GFwqBXPw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6255cb7fe0f6c59460404a9c/0x0.jpg?format=jpg&width=1200"
+    width: 624
+    height: 416
+    isCached: true
+
+secured: "kS1dlK8vaRGvoODY1J9a8TEvKhgw/JjLHlgv7k47T2RL/mMN7o/uJAd43hismAsJvbgfsCKKxKs9wM76iCtsALDZPtBkK3EtDfPZlpKZ14/goi7fT8pCZwDrRXQIZ+DIvkxQN9BFZWZrOi5aix/lecAxyMlAFlv33gk9I+qg8iOuid9cSZcsHULX3YvFLYViYd7oS8xSIqye62gMiHPNm/bISj0XbfcUR9hP05DWIzYXIq9IfIbKzZVB/Dvc6v0Uu4/o+52sGCTd2L8iOWQh0VP1/4Un7xMIk7uL22VJTS1YmCFV9xOI/jaljCwx9joLssVKB7Vy6hVn235ilOqSUXJhYnzP+GDdOtNJbRnLkxU=;PjCXduVyDiRxNCSbuGC29A=="
 ---
 

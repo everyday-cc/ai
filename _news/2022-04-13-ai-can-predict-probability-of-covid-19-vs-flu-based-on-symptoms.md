@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-base
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -42,6 +42,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI can predict probability of COVID-19 vs flu based on symptoms"
+    excerpt: "A new study highlights how clinicians can use artificial intelligence and seasonality to screen patients and identify the probability of COVID-19 prior to testing."
+    publishedDateTime: 2022-04-13T20:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220412161553.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "JcuAn+DVm7n78BavKHjGOH4taf78yAcNbNqdAHrY88al6z/nS2PJaZ3L7b667L2vOz97vya2jNsHiCEG5vACz6yNsEH46BPaxiXPIyEDBeNdeDw1B26iAu/uNEm4DSMD4GIndxPqpOWRNQNLtiHsUWnciH+UpQuiY5ojY08eAQj8QcEwc5Fz52GyI9vp5Ocq96Gr1hoWeMKS59i2vFQjDKK7dpc2W4eN+zmbzL9ANmBDDZQUiDlN9AUAFaZO6D1MqQJOez6EkY+JS6UrjA3nEpVAW5CrvpggFLM8oU0JYyefIORFdbd7ZNEaO7Welf5EtF5YmPOvpuReiv6A+jthAMeY2vApxO/d2VZhWVn2SqRp/Q0/wOoSXeUgUUqwhiVQcKsMuXY9+rWHekOe9eQhELIwkrQ0yeFov7heE9b3rJUYtedvxgrGE/4wL1uYczE3SGNy8AQWBRq32T8cH6rHKxX9mYDaCpV/LTQSX25OhYdkO11V0Nn3+oMxiYw6nDBA90lMCiVMWNP5CjLHejIDCA==;WPaoNkCC7xqQRYomJFr2NA=="
 ---

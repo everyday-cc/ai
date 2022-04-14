@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.wkrg.com/wp-content/uploads/sites/49/2022/04/Taxes-Done-Right.png?w=2000&#038;ssl=1"
-    width: 577
-    height: 322
+  - url: "https://i0.wp.com/www.wkrg.com/wp-content/uploads/sites/49/2022/04/aa8b9b93eb5741958bf33bdd0ad9a67a.jpg?w=2000&#038;ssl=1"
+    width: 2000
+    height: 1333
     isCached: true
 
-secured: "E9fEFtXk8ZbvovprPskGW0k+TKiEA5+A8nyZi/yct9jmbcAXHQXTXnxRSiQXEflp4vr6OYH8EMRURhnmRJ2dAvtFWOXgCXq5HCXN71c2fwHIAvKu5P1u2nu5Zl/6garmuKAPvPMmH0TMgfMgh2WKCqoSbYKwt87Bm7ly/CfZSegPaLEMycZYCab3I4F6gRKJHWDeLVWG42ZpCsuEj8L5dNIGx0SEEadFvcqGVifsdkUR3XnikIbmHWhpl2s1Xo0alX2jOKumKK4PmHL81L+9wv1pa+aUk6IjRDo65j+dfepjjb6vWEDPtf+OG9EQHHmx/fTggnR7+Y9ISadKhbKdLbgwiepLbdYGKODUy/OLXOQ=;iopwdpCqwW+6Be5oX0v0LQ=="
+secured: "iapfC97CRgR1PN6aCIUDODBl+kPWMylTPuoL+e4ZibQSPq44cH3O3QxpS3Nxohna5oihI4w10umDJpFy83+MR2Mtl7mFnCP7yATLtP337+uCQYUoXlIPn5Fl1MPp1jhkaK2Ri6G6ZjC+RJdd59A34B4tayUdDBvhi/GA6fGgZ8YoURgdSVd+k6rvnJsqR1CPslumpzWoDJ50WhhLk/2uLLVx7h4Hip1kYdXnGa1qCDhDZDZJErop4UWBtn7D1DYLMCd4neDA53M9VWjkZYUet3iy/dBGI6uh0tc58KMXGwrVQtyJ72tg4mppZULP9bmQWu+OEc3YillAinPDHO/qJOZNf4NFkdKNP8A2d7wbvrY=;9TVGH8Ef07J/25VCFoRaNA=="
 ---
 

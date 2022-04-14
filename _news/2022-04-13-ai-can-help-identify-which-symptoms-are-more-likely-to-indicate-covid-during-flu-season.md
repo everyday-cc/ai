@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI can predict probability of COVID-19 vs flu based on symptoms"
+    excerpt: "A new study highlights how clinicians can use artificial intelligence and seasonality to screen patients and identify the probability of COVID-19 prior to testing."
+    publishedDateTime: 2022-04-13T20:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220412161553.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "//HxxvDUI/hEGPTNRfY6i8Iu7DpIdbPbJoFVw+A46KtG2v3x/lowXqigNOMzfDkVEGeft6J2PL77Iii0IsW4FUVNdJL8Hid0IUsJ9PFFYI9z5S7+2NbcalToby830Ep1Jb6CRI2SnYRjZQWME8jToJjAF7cHr55qCy8qS/qIXEcY+4rlCaBS44g781gX6owIJDOHQ4+ctYvO7nb/bkPnYI1HYzO7j+lx1klOab0qcR9/RvXmfbB/ABGG2TK06dzb0jx/p5YwRJFvr5iBLrfEe9TY2BL8c+1nABlnFLlOeYeXsZGegTMOZ78gcHiKcyvRGP6eS5GO0VxbByE9gm0gHHRaPS91hdpzulvJWtaeMo4=;0YToikAPDkQZNDL8l56+ig=="
 ---

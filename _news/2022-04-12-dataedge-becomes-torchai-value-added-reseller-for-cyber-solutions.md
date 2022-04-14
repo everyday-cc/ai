@@ -1,28 +1,28 @@
 ---
 category: news
 title: "DATAEDGE BECOMES TORCH.AI VALUE ADDED RESELLER FOR CYBER SOLUTIONS"
-excerpt: "Torch.AI, the leader in artificial intelligence (AI) data processing making all data easier to use, has been selected by Dataedge Solutions to"
-publishedDateTime: 2022-04-12T10:27:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/dataedge-becomes-torch-ai-value-added-reseller-for-cyber-solutions/article_c2d89c5a-d4ab-546c-95e7-9288026fb434.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/dataedge-becomes-torch-ai-value-added-reseller-for-cyber-solutions/article_c2d89c5a-d4ab-546c-95e7-9288026fb434.html"
+excerpt: "Torch.AI, the leader in artificial intelligence (AI) data processing making all data easier to use, has been selected by Dataedge Solutions to provide the firm’s more than 100 customers with advanced,"
+publishedDateTime: 2022-04-12T10:09:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-9985cee1ade6af99fdf8751c9454bfaf"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-9985cee1ade6af99fdf8751c9454bfaf"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "7lHglYvjkpGqomDehA80eSMZ3FRdRD0altz6xmcrguMV5eNqEym5i99O9AdnO7QpCsdIzhijIA94nabmi8mfJ2q9zRvq/Pt/RN1ApVzqq6b9dwGmVmzl4sOgbxXpS5kRBqfRPp73Qm3ySeripB0sC4eqvTiZ+dKfOK5ZiOzQWRBpBMihk0eS/l5rput/FH6LiLoTVn28kpPSfCy+E1H0unBDFTPvJNOvAc5eKts9Hh8MfWGZwYXTmBk9uIfnHo4RySZfVFjxfs6FMvSncQhS20m9xkfwKreX85qSGiJo1YgqOTiQ6g2VT4oy9mNBjZQzYo025TFa+JgI7SZWSSoPmZZoebCvNlgm3GCDc3einco=;/UUWqT88Vytld1sl+mkgvg=="
+secured: "Zeo/6DD6NjDLYvFTIJ7tRyedCSoYGQXzwt+SxjAwlbCUBVjwC3LgDf8sdZgWKMixPGAMV4pr2UmS6rUPSPvxj4WH92yWHf8gW2y/X3CU6fwVkzCYNwcTTKNsUWv78FHxkD2BaNCbJHiJ2XTwj7VCpMu63Ob+AhDCKMHtuG/Zth5FrOJx5jyVbh2AKiFFkt9cEq0bScvQzztv41sAEuXQCbKvSvqhyYzs+DUQ1yMk4JPaLLxCYJ6XjZglt+e/RhA8Kzf+IXWGsHGkB23lWMu2v+apWC8EVlhPfm+QwUTMnt1rC3BKg0a46ToxE6piXoFoN2hSmnB/XuAKaZKSgHvnCxjcLFSjKWnmYIV1DrfDHkc=;AtElek6nPllDrdohDghsJg=="
 ---
 

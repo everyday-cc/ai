@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Even Bond would have to share his secrets in the world of AI spying"
+    excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
+    publishedDateTime: 2022-04-14T04:00:00Z
+    webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "NSDoomDg927IEQTHiVTEUuNc+FEB2LJb+qL/pENlb8nh4iOMasCusx+/bBuagthIz7qGvnIrjNUvW5XS9CuXZ7hfWHGMmwFW9HWCUMesEFXCme8PsAbvnmPMd7u9uFNzOrhmHvrjM40jBaZKHxkMcWrq0+tmOGAXcvrxbxyCyCuJycojhpZnnT7VbIi8p1QgibrT6Jv3YuBbgkyRh6MtzGfhZvBs4bzJJ+8RaxmlnWXtd/7AubAGUeQz34OWp6Iow3sB/aQizzr7ba85IsQQTQ+UGaY2pxMn+OhqPA6OywB4Smc2+RX5lahS7mPeRngx2ERTd+jP9ve2hMmlR6HDm9RiVhdodE5d9CqWVP5Rn/4=;JnkJQ4qnBuGh+wVjkqdKXQ=="
 ---
