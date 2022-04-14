@@ -35,6 +35,17 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Hackathon to improve passenger experience at airport"
+    excerpt: "a personalised marketplace developed through Azure Machine Learning Studio, including smooth on-boarding for ecosystem partners. Code Blooded members won a cash prize of Rs 1 lakh. The event was ..."
+    publishedDateTime: 2022-04-14T00:29:00Z
+    webUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/articleshow/90829441.cms"
+    ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/amp_articleshow/90829441.cms"
+    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/amp_articleshow/90829441.cms"
+    type: article
+    provider:
+      name: bangaloremirror.indiatimes
+      domain: indiatimes.com
+    quality: 39
   - title: "Reboot Rebels emerges winners of BIAL Genie Hackathon"
     excerpt: "Bengaluru: Bangalore International Airport Limited (BIAL) - operator of Kempegowda International Airport, Bengaluru (BLR Airport) on Wednesday announced winners of the 'BIAL Genie Hackathon' in collaboration with Microsoft."
     publishedDateTime: 2022-04-13T18:53:00Z

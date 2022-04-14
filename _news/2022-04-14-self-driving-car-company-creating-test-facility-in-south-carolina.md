@@ -74,14 +74,19 @@ related:
         height: 527
         isCached: true
   - title: "Self-driving car company establishing test facility in SC"
-    excerpt: "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in Greenville County that was"
-    publishedDateTime: 2022-04-13T18:03:00Z
-    webUrl: "https://madison.com/lifestyles/technology/self-driving-car-company-establishing-test-facility-in-sc/article_805a3de6-0960-5c3f-b22f-99f90df86300.html"
+    excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday."
+    publishedDateTime: 2022-04-14T00:03:00Z
+    webUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 4
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/aa/3aa16c2d-1403-57c3-8e8f-df9d49dd8747/5f4e9e69c476a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "WobK5ZQk+ZFJAXzrvzSiMq1Ft5PQEQ/GwnJN66JicMxJzTW1CVFt0DGXus6zLO1oEQwAIhNsxSOZ08+ZXf+fIKzuWK7YracUdRmOV2Do+3dnf+Qi0Q4/IzpZqns49lImbwaBChuR2cw6mw1+wu8HJ4CR1qUJ44ndb/wA2ZQTdM4berv31PitPuoRjk05NEydWJvUVU1nzFdsHDQAPmjBKEEHff73gO/s5DENED28pIValgI9YCLxOAmI60nsnLM5wPoecTLoaRh7m4PBPRMrJlStK0ErS+FXBqpoFsL6HVepdTUREP1TlVLsC2nXbOKyPm1bjxiA5j64rWtaCL3hgKDQHwBGFtqF5ysy3N1N5RiS4htnGd8zJD089n+HbRVqsWm5hnR80JxuqbR7ubLkUlrFkOkjrAInhS/fZO+pEkgIn6eI5HCN85mlMojpyA0Ms3hKzvIU2w8XViD5zyKMEUNbYYZIvCo54tuXeiS6MWoVT4LYPTqkCn0qdQwVbZYPh9KYb70xrzaM4sQFrqM0gQ==;W2jxUq11B9l3O4j/2mG8Qg=="
 ---

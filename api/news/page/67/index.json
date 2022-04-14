@@ -2,6 +2,93 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-02-12-ai-fueling-the-future-of-financial-institutions.md",
+      "title": "AI Fueling the Future of Financial Institutions",
+      "excerpt": "Detecting Digital Frauds Per CNBC report, “digital fraud attacks against financial services companies increased 109% in the U.S during the first four months of 2021.” Fraudsters target online transactions frequently. Machine Learning (ML) and AI tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/21809/ai-fueling-the-future-of-financial-institutions",
+      "originalUrl": "https://www.finextra.com/blogposting/21809/ai-fueling-the-future-of-financial-institutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-symbolic-ai-the-key-to-the-thinking-machine.md",
+      "title": "Symbolic AI: The key to the thinking machine",
+      "excerpt": "Register here. Even as many enterprises are just starting to dip their toes into the AI pool with rudimentary machine learning (ML) and deep learning (DL) models, a new form of the technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/",
+      "originalUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/",
+      "publishedDateTime": "2022-02-11T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-the-future-of-ai-copywriting-is-revolutionary-not-rubbish.md",
       "title": "The future of AI copywriting is revolutionary, not rubbish",
       "excerpt": "For one, AI has no idea of “meaning”; it simply follows rules of natural language processing, looking for categories, sequences, and order. Therefore, worrying about AI taking over the world ...",
@@ -1070,111 +1157,6 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-the-ai-edge-chip-market-is-on-fire-kindled-by-staggering-vc-funding.md",
-      "title": "The AI edge chip market is on fire, kindled by 'staggering' VC funding",
-      "excerpt": "Chips to perform AI inference on edge devices such as smartphones is a red-hot market, even years into the field's emergence, attracting more and more startups and more and more venture funding, according to a prominent chip analyst firm covering the field. \"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/?taid=620846816194ae0001832e64",
-      "originalUrl": "https://www.zdnet.com/article/the-ai-edge-inference-chip-market-is-raging/?taid=620846816194ae0001832e64",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a03f15aa155125bf6d4225a64dec7130cc41157/2022/02/11/3b39c6a4-5a47-4471-a8b2-244eb6842a30/edgecortix.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-ai-edge-inference-chip-market-is-raging/",
-      "publishedDateTime": "2022-02-11T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-closing-the-gaps-in-security-through-ai-and-ml.md",
-      "title": "Closing The Gaps In Security Through AI And ML",
-      "excerpt": "AI and ML have matured to provide cybersecurity teams with critical tools to combat the rapidly changing threat landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/11/closing-the-gaps-in-security-through-ai-and-ml/amp/",
-      "publishedDateTime": "2022-02-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
         "AI in Security"
       ]
     }

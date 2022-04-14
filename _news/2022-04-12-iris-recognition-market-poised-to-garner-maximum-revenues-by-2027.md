@@ -39,34 +39,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Computer Vision Market Trends, Demand, Share, Size, Growth and Forecast 2021-2026"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026″,"
-    publishedDateTime: 2022-04-13T14:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-trends-demand-share-size-growth-and-forecast-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjapvdg3yNZ2TA05teTspMmjl91YYu_hMGfl6RT_qMO1thsSarQ6eiAKe3VoINtAZE2yP49lk2dKPGkcPDhJ6QLch0o1uyQpom3eHbdUy9ApkwG2rktAkhs1_b3gU_L1GRV7l8DlsQLnlRuH14McrWOHyA2a59oxqNF9XeaTwZHmlEir0azHq7_ito/w640-h342/Computer%20Vision.jpg"
-        width: 640
-        height: 342
-        isCached: true
-  - title: "Artificial Intelligence in Education Market Size, Share, Trends, Demand Forecast, Industry Revenue, Opportunities, and Impact of COVID"
-    excerpt: "Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period). We will ..."
-    publishedDateTime: 2022-04-12T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-size-share-trends-demand-forecast-industry-revenue-opportunities-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Stop-Putin-Russia-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "aYVFSHafq1odFYjwmBplYwqrenSGVjocBP66+QloIT6IhwWEkakL+JBzhyNb73XSRzhjqaqVqAoBnJRCAGMqk6URhMppeOx1+VLduRHN7JL/U2bxKnB/E1gBn1gAfvUQqoVd6j8VgAmlpJULLomuC43GKHup2/FYzCS2gvyvkkS+OVIh0DaX6e6xse17zfbGghQNVu8Fo4iJ8Oht5lAvHHYYSYy6ZPdv4sv/NgYEUk3CNx5RrOc8l+Yg2+4UytA9vKitcy7INUsbRBcIfMR6aM1qKrEvXfACYx1lFsVDVCLojTRv7Ht8tZ4hCJ+HTrgjGowVpJkH0bi5Li24RiobifS13tKGnNQ+Z3HGVyrOXMc=;3LrvLhlu5VvxL2FMpvnbmQ=="
 ---

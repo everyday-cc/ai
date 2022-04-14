@@ -464,24 +464,33 @@
     {
       "path": "_news/2022-03-28-zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert.md",
       "title": "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\"",
-      "excerpt": "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,",
+      "excerpt": "Zoomd acquires substantially all of Albert's assets in a cash & stock transactionThe acquisition adds several Fortune 500 companies to Zoomd's client baseAlbert's strong focus on Google and Facebook",
       "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/03/28/9571440.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/03/28/9571440.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T07:21:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26320115",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26320115",
+      "publishedDateTime": "2022-03-28T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

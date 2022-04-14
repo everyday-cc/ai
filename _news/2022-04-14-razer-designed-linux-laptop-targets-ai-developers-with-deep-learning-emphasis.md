@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Razer & Lambda Tensorbook create laptop dedicated to machine learning"
+    excerpt: "The new Razer + Lambda Tensorbook has been specifically designed to be the most powerful laptop in the world for deep learning."
+    publishedDateTime: 2022-04-13T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85580/razer-lambda-tensorbook-create-laptop-dedicated-to-machine-learning/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "aZc1NDKuBouB2p1swojm8g+A9tPIS5fqz0xrxza08zNiy8YVNGLkxAav+aTGS6oZGvb2ScHaRUWsdHc/Q3/HwDBngtkK5gpE1+ZkcD47giy4MMriol4PfWsgRHRubAI8OrnMtKZffPOsZXbcuzJ6+7LBJGy0S634C9lTiYL/kUjVfK0FtaNiRpb4HLpFHyCTSMhBXxFylaS0j2j4OYAJo9eNrl/d8rJ3gWisDt5A0jurF+KP0mccY8W077EtbzT3Sh/047UHQpaatyQrkUsJm1c2TTo/E+1wWNqwOUz3L+7bpC4RSfRk5v3vNprUPB27tVhfaz/bxXDUdYPFTDA358GUOh7sq1dvGLNeW8B/cSfOuEO7AGWSJA8fbMb2wnfu6jLdeUBr06D7gubfGe7uex8Dj7eneFYx4ziiRoA3k/SvNHjVizcmFSBMP7qyiRkADy5eTxlakjyRemBk3ZbcD3NYITa0WAfEW+RL+pcl8P8M6PHd3arsu9cyDZVEgrR6qr5eh6Y/pTJcq2u4rNjntg==;e3h8l+BA3U8kl3JKy3lPJg=="
 ---

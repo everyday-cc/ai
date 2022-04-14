@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-07-new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding.md",
+      "title": "New Salesforce AI chief eyes a future with voice-driven coding",
+      "excerpt": "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
+      "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
+      "publishedDateTime": "2022-04-07T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group.md",
       "title": "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group",
       "excerpt": "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and",
@@ -291,6 +342,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031.md",
+      "title": "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031",
+      "excerpt": "Apr 07, 2022 (AmericaNewsHour) -- Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031-2022-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031-2022-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1077,92 +1180,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia.md",
-      "title": "Geisinger, Eisai to Use Artificial Intelligence to Detect Dementia",
-      "excerpt": "Geisinger and Eisai plan to study the potential of artificial intelligence (AI) by testing the effectiveness of an algorithm to identify individuals with cognitive impairment who may develop dementia.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "originalUrl": "https://healthitanalytics.com/news/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2019-11-18-GettyImages-1047719428-67199ff8dd2aaa686fbbb8d60359499a.png",
-          "width": 600,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "publishedDateTime": "2022-04-06T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Toyota joins Tesla in developing self-driving tech with low-cost cameras",
-      "excerpt": "San Francisco (Reuters) – Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/toyota-joins-tesla-in/",
-      "originalUrl": "https://www.metro.us/toyota-joins-tesla-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2022binary_LYNXNPEI350TG-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/toyota-joins-tesla-in/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/toyota-joins-tesla-in/amp/",
-      "publishedDateTime": "2022-04-06T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

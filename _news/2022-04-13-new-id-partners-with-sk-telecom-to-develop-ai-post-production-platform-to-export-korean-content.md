@@ -24,6 +24,19 @@ images:
     height: 283
     isCached: true
 
+related:
+  - title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
+    excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
+    publishedDateTime: 2022-04-14T01:52:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content-1031352332"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content-1031352332"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content-1031352332"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 27
+
 secured: "T9Q1mZvKSfBFjtId59VFr/mpDNrRlRxOkOuVnnlWeUOg+qHB4UDs9ZNhreTj4z20pc5q4TBlLytbD72Ws2AYgoXcrBwvQHYdhEEldmhxZzpdbctKeAoFc/Dd4V4GiQS4OPOEN/Mw07muHfNccC0x7tAJkQlHJH8zl0RkdJR1vG6JlWiyf9jL5Ea8sbJa2twqIV/b+sFxxUbDnXP8BacoWWlfvzlfyH7XMfkYd+Pf3mHXtGpLA1C81laSI1TzEwAkWXQFJEnI8BUBWbVN1MMEG0RfZaThBpqp9YUL5fKuVxVM6e7+PAwvQJ8C8q9NxlgubrSV1TfsbrQ3InPc0epZwSioCQhmZy/tfWpo7q9ATPo=;20I0ylf/6oewyWP0NEEVeA=="
 ---
 

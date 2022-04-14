@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Zoomd Announces the Acquisition of Artificial Intelligence Marketing Platform \"Albert\""
-excerpt: "Zoomd Technologies Ltd. (TSXV: ZOMD) (OTC: ZMDTF) and its wholly-owned subsidiary Zoomd Ltd. (collectively, \"Zoomd\" or the \"Company\"), the marketing tech (MarTech) user-acquisition and engagement platform,"
-publishedDateTime: 2022-03-28T14:21:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/28/9571440.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/03/28/9571440.htm"
+excerpt: "Zoomd acquires substantially all of Albert's assets in a cash & stock transactionThe acquisition adds several Fortune 500 companies to Zoomd's client baseAlbert's strong focus on Google and Facebook"
+publishedDateTime: 2022-03-28T12:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+webUrl: "https://www.benzinga.com/pressreleases/22/03/n26320115/zoomd-announces-the-acquisition-of-artificial-intelligence-marketing-platform-albert"
+ampWebUrl: "https://www.benzinga.com/amp/content/26320115"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26320115"
 type: article
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Marketing
 
-secured: "5QBpgzO1aJJRdgOjtL88Hv9GNNP1PN4R7XibARq3Jtt6aZ2M4QScGz/JifAh6CL3Gd3BVt/M9sbjV7NB18hDmOTzetRWmzVIObXZ4gu3D+8Eai3+WsmJ3LJ3HVhqOMFkUSKkm5VDc0CTNxgtUegkJb5htdXENNO6YHo7+oP9DJC850TNCYLwgNcHDj6pWB0LuPRXXxls1rFwA0rh3LrGRHjO7VdM2Qx/mWnlsNItEC/CkkFBIx3XLeTHnlPkGAKuXXtxDV+qs54DHjWuTkzK40/qsPNKsM4aJu/yKK6VCXQt/1CvxD2hnlzVjDCFbO3PmHndq/o9EXnIDFNpMIIQTJyZzGgdOBDZN//7kYKNcmo=;FyDbeHIQ69Y8MxN5ToPLxg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "D3WE39xmMOVs20+DfeJ8ZBY8qxgpij1hUj8KFt1Uyzr4SLNfvW94Z6dOpFK9FsgoLnQvt6m6rO0KC1dbGnZUIHVQXJdCurwZdajKssDaw6bdBKhvDzpDztO5mfPmPJhcO8/YW4Rd8Mustm8ejsJNaJorqnNStRdy2DFXkBMQawGaQYJKTu73Pk+kREtsMTkStgo9YmNNCKDyHSjF5Wumm0HsV/s3CPGVodlrhkkLL9pTvicDMs4Qc7jVd3pK6iNEvLx7ccU+Xt+0fK5/yBuIgTG/IJ+nlotNz2iJbZMArFwpHrbENqEaz0G8WQoaYqkud97dUGk0goPW+u4QX3pWyxdleFe73OGevve8C6SXkZ4=;OKT7XLCXEhZ6Ep22EV7hbQ=="
 ---
 

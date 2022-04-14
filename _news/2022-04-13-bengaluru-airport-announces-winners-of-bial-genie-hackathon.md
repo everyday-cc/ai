@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airpo
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Hackathon to improve passenger experience at airport"
+    excerpt: "a personalised marketplace developed through Azure Machine Learning Studio, including smooth on-boarding for ecosystem partners. Code Blooded members won a cash prize of Rs 1 lakh. The event was ..."
+    publishedDateTime: 2022-04-14T00:29:00Z
+    webUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/articleshow/90829441.cms"
+    ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/amp_articleshow/90829441.cms"
+    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/amp_articleshow/90829441.cms"
+    type: article
+    provider:
+      name: bangaloremirror.indiatimes
+      domain: indiatimes.com
+    quality: 39
   - title: "Bangalore International Airport announces winners of BIAL Genie Hackathon in collaboration with Microsoft"
     excerpt: "Bangalore International Airport Limited (BIAL) — operator of Kempegowda International Airport, Bengaluru (BLR Airport) today announced the winners of the ‘BIAL Genie Hackathon’ in collaboration with Microsoft."
     publishedDateTime: 2022-04-13T17:15:00Z

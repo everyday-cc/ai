@@ -2,26 +2,26 @@
 category: news
 title: "Six Nines Announces Support for AWS for Games"
 excerpt: "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through their Studio in the Cloud offering running exclusively on AWS."
-publishedDateTime: 2022-04-13T23:33:00Z
-originalUrl: "https://www.khon2.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
-webUrl: "https://www.khon2.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
+publishedDateTime: 2022-04-13T17:34:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: KHON2
-  domain: khon2.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/04/uhmvb-23-forces-ALOHA-ball-overpass-kill-by-uhmvb-1.jpg?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: kbc.co.ke
     quality: 19
 
-secured: "lIpEa0+yErAsaYo0czczkBtNf88MLJoGYxTnIoRalvS2ClNMvOb7ORtM0ZQwdgypx51NWgNyGmvKIyRK55G8bUM/9Vp9XOZgGyypagwenrj7nMXNgdjeuA9F+xx0iSN4JYWbtp1l0eIc9MZodkGuFFZnS/pToNJC38N0pY8sirCrU5eXHQpF5YqIxgKxdHgReYFApnMFKVoHeY6szs1q+WxKJJ7FvAyVQpa65PPGmGYYaiEezJlo4/acOA+6cmROvKi21D7vPkGHvjMppj0fQr6sP3n0WNmaeq5fjb9rolC9J9r5y1+A1ao4vLGxO9KEQ56afkzVuAHBoib5wbgqiqmFdaFXf78TjqhWeXitXD0=;oSG2P/ph68E9gYfOwfTmuw=="
+secured: "TRYCuvStIT2r+2R5jR4PkWcT4j20hDvyfUVZLttm9i1NL0GmWR71gbw1Y8qgCIQSIdotlWUBI9fMIrdzk3wSbcdWljy9MD4LMx9TXUwUPqt2AfNEugeeRJNhwpUeRFsW7lZI0BQQQvqd/rK3CtKfyWmBmh8YMnSmPaaxdUNWRLr9/qdgROy1Et+X6lIoM1Qs2u2pgcIiuEHuKlLd0/5PqW9U1uKrw8fAQXdz+nitYkjIKaaES4O7NYO9ATg1kQ4Xa8C/M19u26RM/SZ/BHD7DZXmy8ox1JN/CVhEcmSWeTfdGgtlx7SlDltu7LXJaDwudhHf82RBFj5mAIu5So3UGjU1DllXITQ/bJLul5B5TjM=;4kWX/Px7vHVUU+dl7eQqJQ=="
 ---
 

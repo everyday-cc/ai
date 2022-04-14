@@ -48,6 +48,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
+      "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
+      "publishedDateTime": "2022-04-13T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm.md",
       "title": "AI Weekly: Google sets the bar for AI language models with PaLM",
       "excerpt": "PaLM (Pathways Language Model) is the first outcome of Pathways, Google’s new AI architecture, which aims to handle many tasks at once, learn new tasks quickly and reflect a better understanding of the world.",
@@ -1393,50 +1445,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-iar-systems-enables-powerful-aiml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors.md",
-      "title": "IAR Systems enables powerful AI/ML applications based on Alif Semiconductor's microcontrollers and fusion processors",
-      "excerpt": "The partnership between IAR Systems and Alif Semiconductor accelerates innovation in the embedded space through strong artificial intelligence (AI) and machine learning (ML) capabilities UPPSALA, Sweden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220330IO08628/iar-systems-enables-powerful-ai-ml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors/",
-      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220330IO08628/iar-systems-enables-powerful-ai-ml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/cd9b6d1688864bbb93696d84252c4054.jpg?w=2000&#038;ssl=1",
-          "width": 1999,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVO",
-        "domain": "mystateline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

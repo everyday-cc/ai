@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 902
         isCached: true
+  - title: "Police pull over one of Cruise's self-driving Chevy Bolt prototypes"
+    excerpt: "Footage of the incident published on social media shows officers puzzlingly circling one of Cruise's Chevrolet Bolt-based self-driving prototypes. Posted on Instagram by user b.rad916, the three ..."
+    publishedDateTime: 2022-04-11T16:32:00Z
+    webUrl: "https://www.autoblog.com/2022/04/11/gm-cruise-san-francisco-police-stop/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/04/11/gm-cruise-san-francisco-police-stop/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/04/11/gm-cruise-san-francisco-police-stop/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/1309x736+611+115/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/04/11113824/cruise-police-sfpd.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Video Shows Confused Police Pulling Over Self-Driving Taxi"
     excerpt: "A now-viral video of San Francisco police officers pulling over a self-driving taxi is as dystopian as it is hilarious. Initially posted to Instagram, the video filmed in San Francisco’s Richmond district shows SFPD officers drive up behind the parked autonomous vehicle — only to have it leap forward and pull over again a couple hundred feet up the road."
     publishedDateTime: 2022-04-11T17:57:00Z

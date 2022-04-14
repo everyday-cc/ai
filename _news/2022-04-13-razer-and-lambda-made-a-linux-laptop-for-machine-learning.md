@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-lapt
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Razer & Lambda Tensorbook create laptop dedicated to machine learning"
+    excerpt: "The new Razer + Lambda Tensorbook has been specifically designed to be the most powerful laptop in the world for deep learning."
+    publishedDateTime: 2022-04-13T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85580/razer-lambda-tensorbook-create-laptop-dedicated-to-machine-learning/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "E6MRohv1VTkKEGYtWBa0yy9VzWaweU7nYM9th8Z4xWqBchGSv9B4ydL/9sJQQH4jooIL/VO/ghRJ2j6ypkpzAigi42OQcWP2/bJ2UkjOCmPp0AAAogy4a9jLr/ITfR1lfrmOZQVtr3/CKFb6qbJp4+6tX74x2jzYY4A8H+wdcqt2a4TfDeGHJaPyScU7g4wScbbn4KPKkPvEGN9JleDXFZn8FLT8P073yEOmuv3nqUWMrIbZORlwohDdtoJE3xhmDfLLdCWMHMmrNbDodOCEQLNKZBsgvrqyvThJ8Y461Igt3VnAN2t+Nx34FahU0U8ahZCAOu9mh3o0QH+ZSXOhiMYj4lvwFxzkNqlAkuYIzIGwuBgy+HJE6QehWJCQ+9oxREDqi91jQOCX6TLE5efEbll3abob1bck7FS2B2v72+2swvYa+XrYNIQj2Po5FEhQtV2SQyLBPOoW++qPjQbtkyX1o14qEiIJFshiB5zuTj5G2cPQoSNfQPwJz1kbFhInH0ulBTAM3qymufmPJJ0NFA==;eKABXhXkIm7/DCcjibw0Hw=="
 ---

@@ -36,29 +36,29 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
-    excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on \"full self-driving.\""
-    publishedDateTime: 2022-04-11T18:43:00Z
-    webUrl: "https://www.cnn.com/2022/04/11/cars/tesla-fsd-family-friends/index.html"
+  - title: "Tesla’s Self-Driving Taxi Does Nothing for TSLA Stock"
+    excerpt: "One of the company’s commitments was to making a “dedicated” self-driving taxi in the future. I wouldn’t hold your breath if you’re expecting this announcement to move TSLA stock higher."
+    publishedDateTime: 2022-04-11T15:40:00Z
+    webUrl: "https://investorplace.com/2022/04/teslas-self-driving-taxi-does-nothing-for-tsla-stock/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 49
-  - title: "Like Tesla, Toyota develops self-driving tech with low-cost cameras"
-    excerpt: "Toyota's Woven Planet unit uses cameras that are 90 percent cheaper and can be easily installed in fleets of passenger cars."
-    publishedDateTime: 2022-04-09T07:59:00Z
-    webUrl: "https://www.autonews.com/technology/tesla-toyota-develops-self-driving-tech-low-cost-cameras"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
+      name: InvestorPlace
+      domain: investorplace.com
     quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
-        width: 1200
-        height: 630
+      - url: "https://investorplace.com/wp-content/uploads/2019/07/tsla1600e.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
+    excerpt: "You're like, 'Whoa, are you drunk?\" Krueger says she loves their Tesla Model 3, but she feels that \"full self-driving\" drives closer to large trucks than most drivers, and sometimes steers into ..."
+    publishedDateTime: 2022-04-11T19:33:00Z
+    webUrl: "https://www.kten.com/story/46265972/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving"
+    type: article
+    provider:
+      name: KTEN
+      domain: kten.com
+    quality: 19
 
 secured: "dHWiz3JgkQ0297hMtUZfDPYvkAWnRvyIU7tyfElgGXHUjl/aig4W19vrpC/aT5F5/EKDxyJD2IibY7miTIdKIPUVt0ZYkAq80B9AmrZkYveFwTb0QvendKO4T4eyjNLyP3nOjVR2eJleICiW/whwOo8RGGUbWhcxH46Y9+v3umO55xPU7zpv3X2P99MaCT43fJeYT9e3O3sp3vVMPWA1Lz24s5zCuXVTXndqL4s0lpJHhLP08a0e/p2hBO6h7jk6cO41gRurGReEK+rxGKoUpbVH3lsAzPH/CN1M3k0vda4tOUysoycKSD8O25v+bGV/wgizAoEMheZVJAKCI9i6und+fQsownUWUFLKRC867TU=;EaO1W9zdgfFCWXnXNDcMXg=="
 ---

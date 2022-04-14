@@ -269,6 +269,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-07-computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031.md",
+      "title": "Computer Vision Market 2022 Comprehensive Analysis, Future Estimations, Growth Drivers and Forecast to 2031",
+      "excerpt": "Apr 07, 2022 (AmericaNewsHour) -- Kenneth Research, in its repository of market research reports, has recently added a report on Computer Vision Market that emphasizes the latest trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031-2022-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-comprehensive-analysis-future-estimations-growth-drivers-and-forecast-to-2031-2022-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-deci-boosts-computer-vision-nlp-models-performance-at-mlperf.md",
       "title": "Deci Boosts Computer Vision & NLP Models’ Performance at MLPerf",
       "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build AI, announced its results for both Computer Vision (CV) and Natural Language Processing (NLP) inference models that were submitted to the MLPerf v2.",
@@ -1275,58 +1327,6 @@
         "name": "Security",
         "domain": "securityinfowatch.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ukraine-is-using-facial-recognition-tech-to-identify-dead-russian-soldiers-and-inform-their-families.md",
-      "title": "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families",
-      "excerpt": "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
-      "publishedDateTime": "2022-03-24T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

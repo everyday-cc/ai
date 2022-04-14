@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-27-how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning.md",
+      "title": "How AR, Computer Vision And AI Coalesce For Smart City Cleaning",
+      "excerpt": "The combined application of AI, AR and computer vision in smart cities enables public agencies to optimize urban cleaning in a multitude of ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61d673281226bcdadb299dfc/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1000,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/amp/",
+      "publishedDateTime": "2022-01-26T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
       "title": "ID.me says it uses more powerful facial recognition than previously claimed",
       "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
@@ -1292,41 +1344,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-amazon-suspends-police-use-of-its-facial-recognition.md",
-      "title": "Amazon Suspends Police Use of Its Facial Recognition",
-      "excerpt": "Demonstrators hold images of Amazon CEO Jeff Bezos during a protest of the company's facial recognition system, Rekognition, at Amazon headquarters in Seattle, last Halloween. (AP file photo/Elaine Thompson) NEW YORK (AP) — Amazon banned police use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "originalUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Computer Vision"
       ]

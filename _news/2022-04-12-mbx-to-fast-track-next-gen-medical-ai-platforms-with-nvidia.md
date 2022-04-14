@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Intel’s Strategy to Compete With Nvidia in the AI-Chip Market"
-    excerpt: "Nvidia has dominated the growing artificial-intelligence business. Intel wants to change that."
-    publishedDateTime: 2022-04-09T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
-    ampWebUrl: "https://www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-519480/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one."
-    publishedDateTime: 2022-04-13T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dell, Nvidia, AMD to power new Ohio AI compute cluster"
     excerpt: "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator"
     publishedDateTime: 2022-04-13T13:30:00Z
@@ -72,15 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Intel Takes on AMD, NVIDIA with First Discrete GPU for PCs"
-    excerpt: "Hyper Compute uses the combined resources of the CPU and GPU to speed up AI workloads. The company has partnered with top OEMs such as Dell, Lenovo, HP, Samsung, and many others to roll out laptops for gamers and professionals that feature Arc 3 GPUs ..."
-    publishedDateTime: 2022-04-12T19:49:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237921/electronic-design-intel-takes-on-amd-nvidia-with-first-discrete-gpu-for-pcs"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
 
 secured: "LjnekSYnrZbr17b+jzVUs+nxLKOpTzmgEYtilFvyVF+kotFQQb1zUf6VEgCnoxkH7b/GTSLCIZuFP0GRwL7pIOJEBI7cHa9GYZe66niyWdV+B8DK2zbtJG4GDYuJBd5eHluyHo3aV77Eg008J7O2J3mWtCJgagp4vTlf/wGmgVvQZ/LUuxryQgFivzumJ/A4yhAFAldRnbQ+Pd+9vMOYKpt1dTQrdX303kp2sJ6r36fODRquTvrlN/Og7RWoK0Y4pImzvYPgAnwSbVk9F53pW/IwjHp+eB/QpEFWU7g2vU4SrmYbAsLPENnEDuree+9OaivUhOgZa/7iVQsCgiiQyn+dujwMpCWri+0x+58UoAc=;gRmXTf6BptqY6Q55KtTKxw=="
 ---

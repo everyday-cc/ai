@@ -25,6 +25,22 @@ images:
     height: 729
     isCached: true
 
+related:
+  - title: "Implementing AI-Based Price Optimization: 4 Mistakes to Avoid"
+    excerpt: "The challenges once again demonstrated the crucial role of every preparative step to adopting AI-based price optimization solutions. Therefore, beware of these mistakes to ensure you successfully land the solution within your organization and reach the desired results."
+    publishedDateTime: 2022-04-13T22:16:00Z
+    webUrl: "https://www.mytotalretail.com/article/implementing-ai-based-price-optimization-4-mistakes-to-avoid/"
+    type: article
+    provider:
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
+    images:
+      - url: "https://www.mytotalretail.com/wp-content/uploads/sites/14/2018/06/pricing-image.jpg"
+        width: 508
+        height: 338
+        isCached: true
+
 secured: "nWrHcswdltkPR5rZ13ffjY8ybEuSmK4WwVNY+uJWJ2nm6Tbegu51Dnyg0kNQep5Y1AiXydRg+FLX/cDj9MTBjKzxJkbxcbnaVqngj+RMmgiKhFRH+6DS5CfD5MFYylua8n0fIO7K7UyNWTsVfOtjzerS/58h/gMR0wvWD1VyE5wsK3J6JlV593madMxbRQugL4DjzSnnvuv5kXhtaN8LLo9HaErxURb/weOqx8cGWGMonhTOCD91hwp3Wm20IAnek7u9lKst22U5Rd28YxDjiDGg8smkmFKh3a2OXNfmfOCBvMs95IeoHAfpxLNFRi2KLoTOrf1JW42mZWdYO08ATSAv0NqMTfYZrvSbQy6PjG91+4mWt0QntB26Sg10hHS3TjaYDLpLHi3LZc4w62H74VGdESCpxE3z/fsFEBcGh8LoG4YJUupshT4sYfb9ounep0hQFrMduY9kqwlTfBxIw+37E72sZtg22yG3l4ziEg77lfHWl+Dy6/sSJDvYYaXSWm9hdH8b0XZ63iic17dFOQ==;SfgjsaDFlDJTGfYzwIMDgw=="
 ---
 

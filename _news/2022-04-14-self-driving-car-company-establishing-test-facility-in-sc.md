@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in Greenville County that was"
-publishedDateTime: 2022-04-13T18:03:00Z
-originalUrl: "https://madison.com/lifestyles/technology/self-driving-car-company-establishing-test-facility-in-sc/article_805a3de6-0960-5c3f-b22f-99f90df86300.html"
-webUrl: "https://madison.com/lifestyles/technology/self-driving-car-company-establishing-test-facility-in-sc/article_805a3de6-0960-5c3f-b22f-99f90df86300.html"
+excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday."
+publishedDateTime: 2022-04-14T00:03:00Z
+originalUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
+webUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Post and Courier
+  domain: postandcourier.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/aa/3aa16c2d-1403-57c3-8e8f-df9d49dd8747/5f4e9e69c476a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+    width: 800
+    height: 420
+    isCached: true
 
 related:
   - title: "Self-driving car maker Argo AI plans test facility in South Carolina"
@@ -82,6 +88,6 @@ related:
         height: 527
         isCached: true
 
-secured: "z2di6KifoLPtl0M66BsaPV7XzHD18lPpJNKNz1EnNtrorCMBz7lxH9M/Eze6b7aAkPxLR3ePFqtzDjrQ9UIYuG7TANPEpkTbxjhXCO32lf7B0bKNtRHEX4IgaoC5WqMblouCywyLAdwaxpV71r67dhMpL4aHSnuDL07+3gChrm702/Ycz25B7qxeTSa6yII8857/7t2bDxA2GaMVnB0C56idlEa1cqwEIlfrw8sWLfM9LIl72IR3Vbl0BkMo4RMzaWtiS8nvSQLhyawb7zz7QUky6IOghLlmlA9Ol3yMNN04tJ32x12q2phogRNhPmnzhj4b8pSKnJELSWZ7ZrpZK4tmkMyLSilbSmQCtxD7L28ZXFoD/hsa38VwhCyWsEPxjM5Wem7Alki2g5a+C9O6hnzXVpaSCurt0z6MF0i8N/KrZkGqGWbHSdTEiVFm7tUO+OEVMDIA9N1SFgipVyIxsWjohiLfmOf72c2E2WPib1SjzDN5qfbBDpdQ+fV+SoGbCnIqOf2jqpT88z/lN3R0QQ==;3+/92kWzOiY+Ugce+DyZYQ=="
+secured: "ZzKyf9dhL8D1yBycdU7IYlA24lLECEZac4Xth9onee0t/pH+VFlA3GJ0MrEbxHCDfZiAEghbUOaBvwhyneSTgrwst6fqKS1fdBL6cg8bzsSzDtsJ1zR6S20GSNFwgyZnaxCnsMpg3c+9BUByhqoGCKXBEZRHn1maVr8CS6BNSKU8O1WgyshKSYjoJ73lNLQpJc+jD/77k1RUdwLTadlFSWA0PJ7Ic7x5yjorRNuQuww19FKiQpqrTWTPHiUehO5zvsf/NGyxsMAawaaaVY5r8oiODgeYToYeIFRH/L65J2rQkhxoVgYxSCRQG3XGGxLoxdHj2lyAkyIKnP1iu7DPQMcOo6svCB4cRfJ8oy1yUHg=;/sf+8Q9JBRXoBJ+BkA0p1g=="
 ---
 

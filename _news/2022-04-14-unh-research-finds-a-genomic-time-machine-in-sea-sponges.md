@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/949748"
 webUrl: "https://www.eurekalert.org/news-releases/949748"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 300
     height: 225
     isCached: true
+
+related:
+  - title: "Genomic time machine in sea sponges"
+    excerpt: "Sponges in coral reefs, less flashy than their coral neighbors but important to the overall health of reefs, are among the earliest animals on the planet. New research examines coral reef ecosystems with a novel approach to understanding the complex evolution of sponges and the microbes that live in symbiosis with them."
+    publishedDateTime: 2022-04-14T01:03:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220413203126.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "VaOugqCCuB3oXhvbuTN9YvOHkOiCogj3hzYVTRnAGNDBf5/cpNObJf1NzxkX8i82vVp/eIOuB4yrIL9IHVzu8P2alRm+MuxBL69mACxiX2jKTCvCO3DkiqdxntZ86K1oD5uUc3pWXwiAQlh1CVMCaCm9VrdiLayt7sI43GBpRZFT2MCRqa+uXPfCpq1Gjv+KYVTrLBoxNiwvwgJNeRIuII1aVinA6sdFevCGB9uyaas8sQasI7E9BZYO0IdaUo2Vws5Bj8adXk1xt8/l9QUa2sKlTb84ob8Jq+4lKmwZZF0EV/e6JuJHqU3AGaK7seRWNsBbGevdE1Q18znnK3s4ZECn8p6zEI5TOTB4/sKUoA4=;1afydAjPCffimIumbRSR+A=="
 ---
