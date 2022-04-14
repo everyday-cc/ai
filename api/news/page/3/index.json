@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
+      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
+      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
+      "publishedDateTime": "2022-04-11T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
       "title": "Investing in Eastern Europe’s AI future",
       "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
@@ -10,7 +52,7 @@
       "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1155,58 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-apply-to-pitch-your-startup-at-tc-sessions-mobility.md",
-      "title": "Apply to pitch your startup at TC Sessions: Mobility",
-      "excerpt": "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
-      "originalUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-1.png?w=1024",
-          "width": 1024,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
-      "publishedDateTime": "2022-04-08T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

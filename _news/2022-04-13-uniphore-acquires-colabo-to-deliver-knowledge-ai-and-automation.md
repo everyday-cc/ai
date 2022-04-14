@@ -3,19 +3,25 @@ category: news
 title: "Uniphore Acquires Colabo to Deliver Knowledge AI and Automation"
 excerpt: "Uniphore, the leader in Conversational Automation today announced that it has acquired Colabo, an AI-powered knowledge automation solution that specializes in extracting and utilizing information from structured and unstructured documents in real time."
 publishedDateTime: 2022-04-13T13:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/uniphore-acquires-colabo-to-deliver-knowledge-ai-and-automation/article_ff16799f-6c6b-5a5e-be88-03e44d7f1235.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/uniphore-acquires-colabo-to-deliver-knowledge-ai-and-automation/article_ff16799f-6c6b-5a5e-be88-03e44d7f1235.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-palo-alto-7b9f930dba9648f3984d1c2cb9c60e5b"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-palo-alto-7b9f930dba9648f3984d1c2cb9c60e5b"
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Uniphore acquires AI-powered knowledge automation provider Colabo"
@@ -33,6 +39,6 @@ related:
         height: 1254
         isCached: true
 
-secured: "GUpj+PcjaLnxLMwB/SguD4AzC5eJhdYUpHJd4etrNScNKoSKjsNrmwmMmJY4yNGZXXOWZWajywFTpoTYSMZFriGRbWlLujBc++qC5CyDbfsBfP9wbqB4+Dq747F85O/wch4hPfBDC/4twnzcPMqVQpM5yu8DoPXnVJu6FaCDWLKEMTj/9CCTn0dn53yQ8IrvVS/+ZOTygDRsSTtlnNacYwzD3EIGGZpk7+5kkta+gFKmE1rv4QW4mYDYGnYMPz7ly4BO4ncATedriygJm+V2cJPPBbCIe48aDJBuJa/hgYcW516/mpSpdgn/NatGy6+q8bWUiTpz9v/ak+dQ/VkKbURbTXfUhCsTY/JDybXraAyEH0ls5eR0BVeByrMxu9f7IbA9nk57ysHSHZk2yoNru4818He/JZfgnNvtpQDP6EQJAM8jmPF/ZvLauxRg0mpvay5nwMf6RgSWW/lrhqBKmt3cH8o8E67DBC4u0BzkkuBhXkWDoGzIUqe8LqNkZ1CGopLjkVanNJspzd8o4kUDiw==;Zqbbt781zhTGTF9+L4626g=="
+secured: "NuRP7OZdV8u+16DgbUOXnlezinG9qQ3X8LUY1sqrDH/+ChIwBaL2La2iT6+yW1hKcvq8LVog7zz6e3K0gqKDqoUHVXTW6lryaFIG7lBHqcR8lbfe8dF97vHdG+lPC5xtzilT6HWlv5qHM4dhqZ/RByLap97B9EqpnQ3J14+/PDINltvvvtTrwUEYjlq7LnsvPMk8G6Q/umZ3vwuKoRVivOoGGYImBk3ciNUcYuaSXwzvqplodftBI91xMHoyrq45zPlm3lL2Qb4ckurGIWi0KmW7uXbHdqVPCBAg2Y/tLFD0wGeBgpHWDPOoh3qiYZyoBcNIS4IAljhN8hCspYbds6uceeESA4K4cOMvq8Zinhw=;d2/nz+bK35k2t4W1f2decw=="
 ---
 

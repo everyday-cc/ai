@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-01-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
+      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
+      "excerpt": "A woman runs as a commuter train passes through Kibera slum, in Nairobi, Kenya, March 24, 2022. [Monicah Mwangi, Reuters] Daniel Nzoma's face glows in the light of a computer screen as he reviews ...",
+      "sourceUrl": null,
+      "webUrl": "https://standardmedia.co.ke/health/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
+      "originalUrl": "https://standardmedia.co.ke/health/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/friday/fast_internet_brings62468e8ddbac2.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.standardmedia.co.ke/health/amp/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
+      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/health/amp/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods",
+      "publishedDateTime": "2022-03-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-folk-psychology-and-cognitive-architecture.md",
       "title": "Folk Psychology and Cognitive Architecture",
       "excerpt": "It has recently been argued that the success of the connectionist program in cognitive science would threaten folk psychology. I articulate and defend a “minimalist” construal of folk psychology that comports well with empirical evidence on the folk ...",
@@ -1080,59 +1123,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-understanding-education-40-the-machine-learning-driven-future-of-learning.md",
-      "title": "Understanding Education 4.0: The Machine Learning-Driven Future Of Learning",
-      "excerpt": "Education 4.0 involves machine learning in education to align with future trends in order to develop and improve individualized education, which will eventually define how future generations of children will work and live.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239a9d4ae5da62d2188f0df/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/31/understanding-education-40-the-machine-learning-driven-future-of-learning/amp/",
-      "publishedDateTime": "2022-03-31T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

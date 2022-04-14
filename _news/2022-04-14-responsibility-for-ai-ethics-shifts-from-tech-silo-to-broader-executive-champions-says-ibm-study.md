@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for
 webUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 1845
     isCached: true
 
-secured: "IECWZFu30wto8xCAcwvzg3kZ0pYkdMuJzFqtOEOItXUu02HbWHkqC/b4pZqP+9255AjyNpUkmDvF19TixlBRYdV5FhyMs0v266QZs9KX9nerguQPcu7A9cZ0pc5Lx5/gxnv3Hbvr6CrjxLM7cPMm2/tGQ1lEeYTQl2sAJmETqL1tOo+kfJPlp5T6xG7vSJpatCIW2pc1wAmKX8v6C9asu6oMJa5TaWk5CZ1WEFxZOGFjpeOOsqhb2d7n02vuN5NO2nJnIcVQl1u38GR/Ebz1M/t0RlO4So5fl1BGoaCPnrI0yipJfd99mIMLLeLZ3Jfh9OuHhLZ8QVhjb9pzxYJ9PjavJmCu38e13/+mlgbiH9Q=;B+ICyupyHYUP/9qQrKxQwQ=="
+related:
+  - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions: Study"
+    excerpt: "A new IBM Institute for Business Value (IBV) study has revealed a radical shift in the roles responsible for leading and upholding AI ethics at an organization. When asked which function is primarily accountable for AI ethics,"
+    publishedDateTime: 2022-04-14T07:51:00Z
+    webUrl: "https://www.uniindia.com/story/Responsibility-for-AI-Ethics-Shifts-from-Tech-Silo-to-Broader-Executive-Champions-Study"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 45
+    images:
+      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
+        width: 730
+        height: 400
+        isCached: true
+
+secured: "22PwGgPzLTScZLMzKyiIvPLMum7KPoWvBwqKUqgS/6DRnFKLMge4YI54uS1YEXzBO25aLj3rDNE6oGEUIckC48a7b8Zeybzfp4TOCmvcPZ4oogkGPmeHM6NRD53jRZRQVvFjPXk21zqpLBpi2iuUvzVM/J+rNohh8FV0Kng9KVjTw+C98vfR1TKWZjeLFh0KSLMSdYoEFAMZtMhFvjSacdK4j4zTz9ZNu/BpDOW1rl79uW/ssWY5noFZJQUcNKCJtGXHYJ3IAgGYGlA2bmmCIYTpSdZmZ6FaUt1egQ7p7lahOjrKpwDYou6rWBYpqJWVvCnfHCCbbteVYegriw5Cor5hv9EbYApO5UXEH8pZcX08/YPFkWrwTtGPsGlQs70eCK7sNa2mHO8AbLFFyynM159t1EXwhjnwNuHyJoSfTH07NbLYG4Ykn8VrWrwEffn6bCDkeR9ayVVLR3WQ7a141UZdzrAlOKOQbJViVCw2khZKWANwGhJdiJHZz7EPwBe3MSs1ACqcSOOw5VfiJihNzg==;uGEqFbq3ICivfBm4+W57WQ=="
 ---
 

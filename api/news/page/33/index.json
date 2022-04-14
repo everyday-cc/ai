@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-03-16-gpt-3-the-breakthrough-on-ai-and-natural-language.md",
+      "title": "GPT-3 the breakthrough on AI and natural language.",
+      "excerpt": "In the artificial intelligence (AI) world, there has been a lot of hype around a newly developed technology known as GPT-3. GPT-3 was created by OpenAI, a research firm co-founded by Elon Musk, and has been considered the most important and rewarding advance in AI for many years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "originalUrl": "https://www.linkedin.com/pulse/gpt-3-breakthrough-ai-natural-language-sergio-ortega",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGStm_X3mjjoQ/article-cover_image-shrink_720_1280/0/1647375616110?e=1654128000&v=beta&t=OnmHorNprG3Z4N9d5vXP10zrNcLAkzDdRECOwGSU3Y4",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-runai-raises-75m-for-its-ai-platform.md",
       "title": "Run:ai raises $75M for its AI platform",
       "excerpt": "Tel Aviv-based Run:ai, a startup that makes it easier for developers and operations teams to manage and optimize their AI infrastructure, today announced that it has raised a $75 million Series C ...",
@@ -1042,49 +1094,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection.md",
-      "title": "How NeuTigers deploys deep learning in edge AI for easy covid detection",
-      "excerpt": "NeuTigers is a Princeton University spinout building edge-AI solutions for healthcare. The startup has developed an app for Covid detection using medical sensors and neural networks. Research led by Niraj Jha,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
-      "originalUrl": "https://analyticsindiamag.com/how-neutigers-deploys-deep-learning-in-edge-ai-for-easy-covid-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/neutig-b_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

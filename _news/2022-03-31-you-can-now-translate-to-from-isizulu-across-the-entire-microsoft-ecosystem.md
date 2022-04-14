@@ -1,20 +1,15 @@
 ---
 category: news
 title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
-excerpt: "Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
-publishedDateTime: 2022-03-31T07:34:00Z
-originalUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
-webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
-ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
-cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/?amp"
+excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
+publishedDateTime: 2022-03-31T08:04:00Z
+originalUrl: "https://za.investing.com/news/you-can-now-translate-to--from-isizulu-across-the-entire-microsoft-ecosystem-2530135"
+webUrl: "https://za.investing.com/news/you-can-now-translate-to--from-isizulu-across-the-entire-microsoft-ecosystem-2530135"
 type: article
-quality: 73
-heat: 113
-published: true
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Investing.com
+  domain: investing.com
 
 topics:
   - Microsoft AI
@@ -22,69 +17,11 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft-.jpg"
-    width: 800
-    height: 520
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
-related:
-  - title: "Microsoft Adds IsiZulu To Cognitive Services Translator, Bing, LinkedIn"
-    excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages. This development announced on Thursday is across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-04-04T07:13:00Z
-    webUrl: "https://za.investing.com/news/microsoft-adds-isizulu-to-cognitive-services-translator-bing-linkedin-2531559"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 54
-    images:
-      - url: "https://d71-invdn-com.investing.com/content/pic843b8ee3e77e75b195875aa09f7635dc.jpg"
-        width: 559
-        height: 314
-        isCached: true
-  - title: "Microsoft Translator Launches Zulu As Next African Language To Be Translated"
-    excerpt: "Microsoft (NASDAQ: MSFT ) has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-03-31T07:11:00Z
-    webUrl: "https://za.investing.com/news/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated-2530103"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 53
-    images:
-      - url: "https://d71-invdn-com.investing.com/content/picb05238a98835896c71b3233e790ef79e.jpg"
-        width: 559
-        height: 419
-        isCached: true
-  - title: "Microsoft selects AI start-ups to accelerate progress on environmental sustainability"
-    excerpt: "Companies focused reducing carbon emissions and waste, preserving water and protecting ecosystems will join Microsoft’s Accelerator."
-    publishedDateTime: 2022-04-01T08:57:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2022/04/01/microsoft-selects-ai-start-ups-to-accelerate-progress-on-environmental-sustainability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 47
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/03/MicrosoftTeams-image-11-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "Microsoft Translator launches Zulu as next African language to be translated"
-    excerpt: "Microsoft has added Zulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from one of South Africa’s official languages across the entire Microsoft ecosystem of products and services."
-    publishedDateTime: 2022-04-01T22:00:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2022/04/01/microsoft-translator-launches-zulu-as-next-african-language-to-be-translated/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 36
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/133/2022/03/shutterstock16289833603032022151939-1.jpg"
-        width: 950
-        height: 389
-        isCached: true
-
-secured: "Wv/hBRmc4bisnjSSfnGKwrY1XJ8DMMh02jOKuJf96NZAhTDlwyZtsHYw1nruN4CViuiBjURBkCIiAAtIhFU90KET7qfBHMdUOXWwRttLeqeotlD6Avfom8HBSjswY1T4AdH8hR/9xyl6A3/v4EbSYYGh25gIzkYD6DhcQToGMvggaD5rctmise2NPoIJ93ZZXNAVSoMit4CxkD6+Icd2FuaOVnVQVLjMhyt4T1NyMW92xKuKH2QAGi5wBdDcLCuzaGtPj3X5kwTCBEEjA+F7i6DYjdGSjzl6B8tG4hItj510ORJKKuwRzDia5J6PB+0kZ/kP7Humfh71jaBvFubi7Vx6Cube5eWikd4/UQ9POne8iZ1QIRv19/TF1YoI9yNW+sQT97w6BxR56WFO3csDDibuAJZF+/nSeOAcjTVH8rdAjcTTq5WtGcY793enLOyy9l8WG8DHOSNpeQDGIDWb6PcPquYDAv3kz2FkJHTHF8UmkWUy8QsvkifO8fA3O+GiQ7skRI/bdouOglvwKPkx/g==;nKsPvurLuwM1GqvgcYRwsw=="
+secured: "xXJu8Avyr5i85+wXNk2phu57gcPDTRJJt3MyUmr7UwpydtqhYlUB0r0jRW7EXLxSD19QtNtPq9z8CJ2AOBrjr9Snmx5yRs5sZo8FxBqb8qznjYp3py2GbNbaBw9KyDcHH7h2qcSKU78PqGDfk1hp+pNuzSGPptRaekeu+3mXLvpKRQIlruTZgwcYYlyqHttsvKPwi8hTKgd8p8FAHAJwD0Pzt3JTnhLCpXgLVFcbhfVQN4vFgv7tITzKb4xcK/WkYFLv9ukZMcHhlxruQ1xqPcV6l9kIhs2T+DypJFZgI7AU053NBPx8ysNx1lAInrMCp+4hJsNFCWfccyQikZFfaHePHM5SZqUFGiW5hDT7Lw8=;URVLySey7Z2DpLJYgycP8Q=="
 ---
 

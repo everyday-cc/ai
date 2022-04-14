@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands"
-excerpt: "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings."
-publishedDateTime: 2022-04-05T07:41:00Z
-originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
-webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
+excerpt: "Artificial Intelligence and Machine Learning. In addition, the collaboration will allow Netcore Cloud access to the AWS Partner Network (APN) and the APN Customer Engagements (ACE) Programme ..."
+publishedDateTime: 2022-04-05T07:08:00Z
+originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=30"
+webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=30"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "ZidIiRIRtLqjH00CJvatBPguassO+vjgao+EPgJtcs9kcZCammyAWqmDJeR+xumUK1+s3sl/Ky6cA9rZYlpWF5+7g/EynImHteVMCRL7HZTUNvUe0YOMf/AJILpBSSRrCy9P1zH8ykwhb0fxvFZtbx7YebK7P4QSmK7wRQfkxzp8ln1ecWiMmj+xo9F48yHi5OantxtaPNcbEALdzISFQ7NfFTs3nQC8Pao9qpkzv5wCvxoo0uHrCKBCRurhOAvMnZjj6WZn56oxRCw+ERtk3NZO/eBzhpCbxXEnugKkZX3kmH24iN6kKbApLrf9yw/aiKkW4DG8nyJCmH8pVcKeZO9rZ+HW749W9BjjehGH6QTBeBttlAPX0xjflaM4Jw/yQu5UZL85M9V6RCWdzPcHa1THdw0ckduvlqXszauF4SHkXTFAI8m84Erz1CvymlqbtK12zoXMq+qFWADfHEsmyFVZhJmfHCeXYkHquh6Qky37q0c5QdchtBRtY36TgloOwzDtxrURXVNJ1XleiDKdSw==;ZK1VlFCITESaew8UWxnm1g=="
+secured: "rGCP99fPXmEyg/5xwjQmPzstskADGzxBGVbHNsG8oqFp61Lc9qN30mi4hTfNW//jGRf+qH/exwS7a+/QOSQY+Of8ZQQ8caFUlwuIc8/fdyjlX+diB5fyQTMFFHYwuDsUruno1ArviKIcqwaFGunvZtnFxvHBQZoh/902y1uTpsiSVJ2k1a1JZrYxSc8hCBqaotQB4wgo4SPiD5BFOULEWPrCJ3FrGJLEPT8pdLy87X5+gzGpWau8iUNyVybYueRFZ8n0+GgkGwA1AHw1Bpv58I24QeDJkSC+r/eRFKuh6y8/00mmcaPdXXzlhPMfGz4d59su7zPej7SShkzSbnwJVmtPcLdPv3+C/tJTe8/BMXI=;ZIhPnWy17TrvXFswGcwhhg=="
 ---
 

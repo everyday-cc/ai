@@ -150,6 +150,20 @@ related:
         width: 406
         height: 250
         isCached: true
+  - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
+    excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
+    publishedDateTime: 2022-04-14T06:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-2022-growth-latest-application-share-recent-trends-and-better-investment-opportunities-by-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 7
+    images:
+      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/image-5.png?w=877"
+        width: 877
+        height: 432
+        isCached: true
   - title: "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ..."
     publishedDateTime: 2022-04-12T18:33:00Z

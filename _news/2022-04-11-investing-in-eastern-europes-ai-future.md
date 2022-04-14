@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/investing-in-eastern-europes-ai-fu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
+    excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
+    publishedDateTime: 2022-04-14T05:21:00Z
+    webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/C2i%20Genomics.png"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Amazon Web Services, Google, and DeepMind support launch of the first of its kind AI and computer science institute in Eastern Europe"
     excerpt: "INSAIT, a new institute for computer science, artificial intelligence, and technology – the first in the region to offer world-class research facilities and globally competitive compensation – will be located in Sofia,"
     publishedDateTime: 2022-04-11T13:02:00Z

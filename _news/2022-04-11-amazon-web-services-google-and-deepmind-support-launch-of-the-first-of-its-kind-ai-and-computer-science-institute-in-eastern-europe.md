@@ -36,6 +36,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
+    excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
+    publishedDateTime: 2022-04-14T05:21:00Z
+    webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/C2i%20Genomics.png"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
     excerpt: "Over the next 10 years the Bulgarian state will invest BGN 170 million in the first of its kind in Eastern Europe Institute of Computer Science Artificia"
     publishedDateTime: 2022-04-11T13:03:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "POLYN Technology Delivers NASP Test Chip for Tiny AI"
-excerpt: "POLYN Technology announced today that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology’s brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors."
-publishedDateTime: 2022-04-13T12:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-israel-middle-east-d6fb1aea7c2c49e1a329d6ecb85e243b"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-israel-middle-east-d6fb1aea7c2c49e1a329d6ecb85e243b"
+excerpt: "POLYN Technology announced today that its first Neuromorphic Analog Signal Processor (NASP) chip is packaged and evaluated, demonstrating proof of the technology's brain-mimicking architecture. It is the first Tiny AI true analog design to be used next to sensors."
+publishedDateTime: 2022-04-13T12:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582250.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582250.htm"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "LgXuy2ZuwJV121ObT0a6qPccWEjFJS0cGM62N3o5e8zYr43WmErSY9SzEk+UmYyssJBdBBf9yncS2QnGmwr0VCb88QFjjUgEm6+MbIWGo9vVPGophBTIII6rHwkmnCRXg6rpUJvnzPBnRvF/JNQF0d0y5hmHy8Dv8UTdA3kttOTpTgm5CdGgbZF9PPeVK3EZJjayY6fRhb9FoHF9trkuyWapJoCb1So7b6/ty4HExpzLuv98mXlCE6f8u9wPSs0qGdxHUYkUgGO900ztU0b6M6tCWT3Kq7PEhiKXrDEvAkYSVp5/TmCdKDqkiUJY7mcz7sBlT/T400s7b2H17QKWLwH3qL9Ja44+S40E8U4ttDg=;43Xk2fXNXrfvSfbdj1kZzA=="
+secured: "dzb9FuzJgGzxIcCGxBhLCqdmhpTdrlIoyWweSrVW1cU/5azFMxsoJo22c06vqwVd79O1cSENOeC8V0XpMa1KQLehyqaaIWHgoHEGTvoMl6AETpI6FDN4/zIuwAmhpKWThKjH5JGteUGUxxUoBoOQ9cI+VwtSoRq/Z9bvHTRZmMQ7ZVn+nZ4ARSi+QNPFxGGrg98nQFGbYM19pndefUl4JfSaw/+6A38oQaSLUm0WXy1N7MaK69Rn1FzdTskMNxLPGTHiVPIL2Cwy5RGlWcsh+clR3mm7uHLWFFsOrPfTodSX0/oWqlrQFzI6iRGcnDXwqMNc+SUHTul8sf7ld/A0PfKvrSwoAfHuYcBdo43nCrFP8mUG24ufJ5raJV4sCHSCBrCgDLagz/KjJLq0nZaLp/REV6+WdNBq6ATriqeZ2zBsMEVtbKbpz/MYOobnChdj4CTEH+WWaR4qZhT8uxzEe+uVI+cBkHUSyomIlBnydqYm7A3SLQYty2N1utVrXH/Fx0b4pvidfE/e+RfQ0oLNSA==;GGmDHV3l2YgCoUCCHZoODQ=="
 ---
 
