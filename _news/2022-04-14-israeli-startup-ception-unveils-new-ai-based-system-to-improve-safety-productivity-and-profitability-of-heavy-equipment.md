@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T14:00:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220414LN25559/israeli-startup-ception-unveils-new-ai-based-system-to-improve-safety-productivity-and-profitability-of-heavy-equipment/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KTLA

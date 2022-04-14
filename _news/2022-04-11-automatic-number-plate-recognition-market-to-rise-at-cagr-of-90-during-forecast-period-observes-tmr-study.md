@@ -53,20 +53,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Global Field Programmable Gate Array Market To Be Driven By The Growth Of AI And Deep Learning Technologies In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report"
-    publishedDateTime: 2022-04-14T09:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "vomCoigOlmy0oCFIniTE8Xij3u0s0JeOFaDuh6GkfLFoTEINu29AYc4tp8uO/NjjMZF7PFNjuaDszkLMCMGVpXZj/NVtRXcE78JaHSuizW3WBlC5M6LTiJDMMEL1+oKaEmHszqk+xq9ZiIzWD4kfNQEUxakxjYZm1ev6vk/lBJwvdWikwRQiHVaWJDLUpyWMuFh66LnvoCVwBvUVNS7slb/n9/xSZF42AdOoojcXfc+LpnGu4dWDRt+rW9ytMT95e1zomSGM6dHs95FIVQKxv2weVXixLc/IDJgUruxHNLyKPyNCI7YOEB0Dzg7ulBbI5PgS91VhpGe4MYWUTt6QEwJzouSY/72FOYogGFTYTH5FG8MAe9UyhgxH6IHNM0uRJaGpc9yhv3cEmSceCaSepiwgNmC7FLMATMPwLWG2tsfurQDFQw2D8oZxrBXoYsGJRVBL3DMpq8vhSJDimHMaNTlOm6uYdRK4FHC6NHizHuJBeFhIOhPMzuPfm35c+2nm5DXX0GVdgBHQHeIxfwnWrQ==;Y+4cerLUS7ixxVbvQnkXWw=="
 ---

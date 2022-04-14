@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Viz.ai showcases the heavy investment in AI-driven medtech"
-    excerpt: "The vast spectrum of use-cases for artificial intelligence is still being explored by innovators around the world - while the applications range from farming to customer care, one field which has particularly benefited from AI is medical technology,"
-    publishedDateTime: 2022-04-11T12:48:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-703846"
+  - title: "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People"
+    excerpt: "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,"
+    publishedDateTime: 2022-04-14T15:27:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 17
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 70
+    images:
+      - url: "https://www.cmswire.com/-/media/014241e84a4e44bd907eb47e9b299287.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "qi8eZtpB2J7NUATXCOrrQaiRATZLGJRamGEAfMW9kHPiDHDL91OcbexEUL2WPR27WbDgSkDBnhgYq2mg1JY9h/n4DhmjYV1O6nbXD240TkniaqhC3VpNLzlTbKWdTRMYEGYXX5jCkMM3EY3gf/w6L00WXD7vbDLKyMQJzy5KUd6TOJx6LrJ98V1h7Cc8JJaiP2j3FJ1AeS90DLe1Q0F+412zj5xtO5zY3n4WIop2jlyvbYHZxCZW9d/X/poMCzu0glHlLUEvkoSG7QaiHMG7CDo/4+L5NIh1CGPIelVeRte3yZj+h2SZQs4HFtbdxfO8D+nw+728PoGY920EdRTiub1OBQYCwThETGCdrl50DnBbTCS9ScXJp4zqmGnawWnQqpn/WiFg2xMqTenAYUFDjZWJalq6BQGxBSJ4yKCIZ58C2WZBUba5uVAMoG8ObxgG2b7eoWcuPkLRZjq+9xIrYvmFqIGl3izRVNy9Wfzx5urjiTY+BKO9sv9n+vgsbA8utHqYUiXtoIftLz/GBLTUdg==;+Fj0rJ1K4l4RaSQkptH6fw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T12:53:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-apptek-launches-new-metadata-informed-neural-machine-translation-/2022/04/14/9583198.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-apptek-launches-new-metadata-informed-neural-machine-translation-/2022/04/14/9583198.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

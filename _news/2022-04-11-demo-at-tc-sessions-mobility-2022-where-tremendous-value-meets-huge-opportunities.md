@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/amp/"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1024
     height: 468
     isCached: true
+
+related:
+  - title: "Show us your robots at TC Sessions: Robotics 2022"
+    excerpt: "It’s time to gather your robots and get ready for a high-tech show-and-tell at TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston, Massachusetts. Join more than 2,000 other brilliant,"
+    publishedDateTime: 2022-04-14T15:45:00Z
+    webUrl: "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/"
+    ampWebUrl: "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1.png?w=1024"
+        width: 1022
+        height: 535
+        isCached: true
 
 secured: "Ynu9CwpagZo7Kwlw1MPjR3Ab/id2yb9vZVADbjbsDdMBDLVNLIq5POZwfxFR1tB15TqwLACCbptkSV7RxI2bdkhxwcTogoYsQWH+B8tAfgW6mTwxM42LNp26OPY6+UXChUtVrrBOfrZIDFVgmX1c+3xpQIsUedslJz4O+sN6h86hRIRITewUCMt5QPYwK4xuKP/dtpiZ3IO3mAS8vFAtT8CPcIfVbHY6AOPeVx6ldmiB1qxm14u5kspEQ6Sq9ZQ6XamwEOWP++ahM6n0ma4yvy3nGLnZwdjUozsmhHtd+yZqgTOEfFEoKxnjzO/TiTSO9yiwbAxj/Hh3Z1WVvusiBCQbmX+trTXnh1LV0MyH8plf2JtZvE50u2W5HKY97+LOgtaNsapwy6y4nUAr88rICePm0/iMeswmtrtuEwFYPE4JagEauNAGt34w1v7xhZ8UEM2ai8BCs8OTnUPxAddwDgkIo6kiEwbPfQNFWKhRD/4SGigqzRDhFtl8xH2m3jkgT3jnvZke3meK7OtJvshQTw==;7HUZ2pp5WYorDJDUg161/g=="
 ---

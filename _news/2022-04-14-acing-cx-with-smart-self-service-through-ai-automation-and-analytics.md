@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -118,6 +118,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
+    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
+    publishedDateTime: 2022-04-14T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-trends-growth-opportunities-business-forecast-competition-and-demand"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "ZDHR5nEiFJ0QTf6l5kPmGvf2vGHsaAiVedKKYGSjEA3OPheHoJFYODrMkozh1pnzWdhmjgeWFifSFancf80DvaRgP0HLvACDeepJ/csKmuKGMSWFGNlnD1aYutz8o7UDg52eQMLIb0Z9dYp4GmKS+TSLxvcpPDWHMePTyB/lZl6tfi+GjhEhRn/d9507xOJw/UMCCl8mOMhg924QWKmTck2CFt7gU07pup3fYb700QA5mZv6tvNMYxDpQSFbif0CC/d7HA6G9kZqrKDzv20JSoaWQ9r4Z188AgL6S35AOgfS3OxJCbfm7jVnZQn931AuaSMv8TWO4eKTDjSzykuCcByYGS/2jvP2Dg4L8H2JxtA=;gSoZLpnHK0WNdbBQIoMfig=="
 ---

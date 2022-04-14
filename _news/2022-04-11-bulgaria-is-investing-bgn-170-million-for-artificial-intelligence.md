@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
-excerpt: "Over the next 10 years the Bulgarian state will invest BGN 170 million in the first of its kind in Eastern Europe Institute of Computer Science Artificia"
-publishedDateTime: 2022-04-11T13:03:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272471015/bulgaria-is-investing-bgn-170-million-for-artificial-intelligence"
-webUrl: "https://www.bignewsnetwork.com/news/272471015/bulgaria-is-investing-bgn-170-million-for-artificial-intelligence"
+excerpt: "INSAIT was officially opened today in Sofia. The world's leading technology companies Google, DeepMind and Amazon Web Services recognize the importance of INSAIT for the development of research ..."
+publishedDateTime: 2022-04-11T14:57:00Z
+originalUrl: "https://www.novinite.com/articles/214680/Bulgaria+is+Investing+BGN+170+million+for+Artificial+Intelligence"
+webUrl: "https://www.novinite.com/articles/214680/Bulgaria+is+Investing+BGN+170+million+for+Artificial+Intelligence"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Novinite
+  domain: novinite.com
 
 topics:
-  - AI
   - Google AI
+  - AI
+
+images:
+  - url: "https://www.novinite.com/media/images/2022-04/photo_verybig_214680.jpg"
+    width: 640
+    height: 427
+    isCached: true
 
 related:
   - title: "Investing in Eastern Europe’s AI future"
@@ -59,6 +65,6 @@ related:
       domain: realwire.com
     quality: 20
 
-secured: "QdJVM3hN8Tb8MWRAtutKbUbzQbb+Nt+l8iD0CpAdx5YNd9S3Zml08F7HJ7JqRLc4b/iNP9sSSOrhYFx7hIxFr+DriU3VHHdyk9+wO9rf/MWlASKUH7/FwHJB0dFF029o7MBx8zO0+Ufd5G5isDqt/X0XoYKNNljJmaRu11iaEnPPwPSn22tnGFXNGK1BvT6WqF5AMI4/3jfdBAn3ZehOZ2Cp0GxWBg2t9r7bV0Mvt+S6UWgfElt4B5bvmfMKcu7tjLqwSZpti3q9mvWsGUJpoA0MPgm5BaX+mPVEZJA0vNfyLQhRfNbNSyzFkf/M69KChARQGvLjt/0ATSEy3dqYRHF6McpU2M1S2j5qcEMCtsM=;xJfwHD7JmpRUPxmwO92eag=="
+secured: "E11DK/JhdAp2PnOd3SRYnMEfsQLLSnmIR0Nm2GYwYYcsc/5375WV1TaibCjY/Sj9HpCwHt/wY1MVlrA6lxvaL8+qf39lwKDRncvc3j26oxxtxFspxJ5zwaigReqa9jRbbh7dXm53ri48+P4SoR4UNur7eGxaLnMCMPznynKQWsm8/NNlSCSJ4tcQuV3jKrNa6qUlF0YJXUxdugPBG0POt2foZ12jN22b46xuNykmUl7soXTprzsiLudooHVPZMK+JKhTSSnLb7G5YV+wu6XW+M//SlQctceFCKjc/Am6+g4MDCdX7tJjCtFx3kl1eSgj1lRke3kExo9gkDptzL3dpk4+F0CLmW7R/qu31jIHmPY=;eXxbODe3W8Amj57hBoYwHQ=="
 ---
 

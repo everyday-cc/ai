@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-11T04:00:00Z
 originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx"
 webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Destination CRM

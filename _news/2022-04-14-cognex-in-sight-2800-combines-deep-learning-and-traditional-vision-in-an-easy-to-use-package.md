@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T13:05:00Z
 originalUrl: "https://www.automationworld.com/supplier-news/news/22172114/cognex-corporation-cognex-insight-2800-combines-deep-learning-and-traditional-vision-in-an-easytouse-package"
 webUrl: "https://www.automationworld.com/supplier-news/news/22172114/cognex-corporation-cognex-insight-2800-combines-deep-learning-and-traditional-vision-in-an-easytouse-package"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Automation World

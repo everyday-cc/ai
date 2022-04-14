@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-artificial-intelligence-global-a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-artificial-intelligence-global-aid.amp"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

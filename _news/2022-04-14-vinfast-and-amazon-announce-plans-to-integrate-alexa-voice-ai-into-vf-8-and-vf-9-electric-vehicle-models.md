@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T13:44:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/vinfast-and-amazon-announce-plans-to-integrate-alexa-voice-ai-into-vf-8-and-vf-9-electric-vehicle-models-1031357090"
 webUrl: "https://markets.businessinsider.com/news/stocks/vinfast-and-amazon-announce-plans-to-integrate-alexa-voice-ai-into-vf-8-and-vf-9-electric-vehicle-models-1031357090"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Business Insider
@@ -18,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "5SQK5qlSOpZpyfg+0FzsoQ7AuWZ524KYRLr5kHEuay7D9h1W8dgTpgdKnrqJ7NNqFoT1wpgqARTUcrUNdp5eBZ6vkH1nGqsV5Ax0rtdg8/zJOjb1pj5AxpzqXFp0NIvi208BTfIseiHZAZonkSk0dHCTz6NuZZty9rmKSfE8McIHi1FmAjl+jzrye8AXE0O7POxSKHot/VdjUNYEFcqM5hyOCf2eVL09guMpFQx6MNEtXRockoGvjXsslS1T1LmtYoPU/6+SR5ZnzMiD4bvo4ks+Xx6rHBAICfHTqIy2RSN6G+6NNclxe0CEbTtPXd6MD4rad8I8gJMyj6NfHsG9DXWf2LYtZlhOvQQaeewAQpjlVD38jsvxw5tNJ5ayQoygEj2rluOgoFfZi4zXBhzpqwTwH18gdZMEFIlGpIfviTcQPzNaYMzaXUPlbFpbGpmtUdjmM9LbkiS7zpJ15tOSagPJ5sL4EbfmmG5IPh8kHssv/yXCXyXvQsbZ6Vkj8VNNH0VJ8L+5ecNwv0502TAczQ==;ankILbuPSo/hutdXH+8X5Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1797290/VinFast_Automotive_VF8.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "zxgxhlSsa6VN6Xy/i1R/cjKPL1/4Zd0gXXti4ELnR2M3HkoS0XFcVkjQoiNQQYkGUmBW8RQC5Zc90fymImD4MWb8WUrQOZf//xaPBVuPoW5MhjkMP5cqT2Rqi+Okhtxgsp6iD5A0Tbmua9/Etjpx1nbBprQqRTYZzJuhajDXjOE6pYkPFk/++uktiq8oQRhrSobWLdq0h4YrYY4u0qhizoIo/45gCJA9jhhsJFq472C4MO/FvTAeFjhpg6bDjFUM44Wf9fA62cgDqB9Zq+VovHZuaxtyTWaqf7WqrxRuzJjYSmCpy5BiJZxDZJHwb7xKDyraolh1cYYMOf7s+wil90pdQcGuT2IXh28nufXvBPY=;YnDkVCVkjzmW4qriHO36Nw=="
 ---
 

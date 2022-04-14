@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Orlando-based Cogent Bank is scouting the fintech sandbox for its next partnership"
+    excerpt: "Cogent Bancorp Inc. is steadily growing its fintech portfolio. Orlando-based Cogent Bank is investing in an artificial intelligence-powered mortgage advising company, Home Lending Pal Inc. in Orlando."
+    publishedDateTime: 2022-04-14T13:17:00Z
+    webUrl: "https://www.bizjournals.com/orlando/news/2022/04/14/cogent-bank-ai-mortgage-advisor.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
   - title: "Abu Dhabi’s ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme"
     excerpt: "Saudi Arabia's fintech market is expected to reach transaction values of more than $33 billion by 2026 and the market is expected to grow annually by 15 percent Abu Dhabi's ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme Abu Dhabi,"
     publishedDateTime: 2022-04-12T08:46:00Z

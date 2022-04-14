@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-na
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
 type: article
 quality: 104
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 900
         height: 640
         isCached: true
+  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
+    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
+    publishedDateTime: 2022-04-14T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
 
 secured: "lNZMEKew6U6OmKVb8TLCysOPrFtkF6UKcejFrGh3E7tQjG+Mis6c1srIIX+9xTvsQretyGww9UDhAXDcSu1v6oHZMMe8c/EPHK0dEapbi6GcU9XnF4WDYMAgSVHa/e8BuvomOF3/WhwXde/qdF1ZbL6/vWPuUasjqtkl0G4RrkwQ1DiQa4sCe6WrIVTM92F22OJfgUgYXhMyuEWnoESN0qH/W2erj40pRpHn3NpQcuCUyNAhsIFi26SD8edwFqwjXAF4Sq+58/9PHvXvCgBcaO28YvUUxottYZCERbIs01ADY4WCf2Fg4PrwTezPikB7jh9m6O2/X9enhNwtLS4GGblwvfxycTNs49CxuRHV9zA=;3IYMM/62KcSS9+y8uM/DsQ=="
 ---

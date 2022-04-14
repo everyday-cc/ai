@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/04/14/mythbusting-top-three-misconceptions-of-conversational-ai/"
 webUrl: "https://insidebigdata.com/2022/04/14/mythbusting-top-three-misconceptions-of-conversational-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com

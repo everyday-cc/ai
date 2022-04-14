@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
-    excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
-    publishedDateTime: 2022-04-12T13:18:00Z
-    webUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 38
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/12/62/22326455/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Self-driving car stopped by San Francisco police"
     excerpt: "San Francisco police officers were faced with a new challenge after stopping an autonomous vehicle with no-one inside. Officers approached the car, operated by Cruise, because it had been driving without headlights."
     publishedDateTime: 2022-04-12T12:36:00Z
@@ -86,12 +72,21 @@ related:
         isCached: true
   - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
     excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
-    publishedDateTime: 2022-04-12T03:10:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/driverless-car-traffic-stop-san-francisco/2918086/"
+    publishedDateTime: 2022-04-12T00:10:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
     type: article
     provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 18
+  - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
+    excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
+    publishedDateTime: 2022-04-12T13:09:00Z
+    webUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 18
 
 secured: "VYG+JnXXyVVkcbTa8ECHmniW3yOQY/5QFv1hV/CGziXtpyUrAzH/nbI+vU7jK87DA/RCnsfH3lmvJJwlnqfbEGRsT2zgQT6J6spHScuw/mmgm1lce5Z+6SiSkkx2GeuaOwQL8Nrh96uvnGX3se+p7uvEeYH0nA1f5NSqN6LJdlFHSuWDiYtqgfml+KL9myKRw6gBV9FMNDx601sFz3Lq6F8gl2m505U3CMg3tpbYUfq4bX/pfv4UEZ+QFTBSJ1CC+68XzY1FA1yGXjByG3FlzHtmjPVH2RTNZG7klZd4HS+KPC+wFGIsMAtdcxeXfWhXEW5Yu02/V0S3qE6BmaGpntrZOZwlrE7+tNrccUGWQM2Y7L65QxL5g30iB14i+i62G4+hZz7rosS+XPhrr8RCYeuCEwW49wU/us32NKjCo/7lSKusV4G62EZj8648rBCDkbR3p2z2lCenl0lvLbhhb5szygXrvyVIGbIoaA63xIDaYn4MNFxXAZVDYDhLTvw+L5RP5DVQTuS3HnCUomCZjw==;VXXXplYSHb4EH8lyT5ZN4g=="

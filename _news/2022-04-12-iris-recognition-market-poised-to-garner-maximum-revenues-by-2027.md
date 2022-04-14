@@ -39,6 +39,24 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "Facial Recognition Market Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 By Emergen Research Study"
+    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
+    publishedDateTime: 2022-04-14T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-by-emergen-research-study"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+  - title: "Speech Recognition Market Share, Growth Drivers, Analysis, Opportunities, Competitive Landscape, Strategies and Impact of COVID"
+    excerpt: "Overview Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner"
+    publishedDateTime: 2022-04-14T12:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-share-growth-drivers-analysis-opportunities-competitive-landscape-strategies-and-impact-of-covid"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "aYVFSHafq1odFYjwmBplYwqrenSGVjocBP66+QloIT6IhwWEkakL+JBzhyNb73XSRzhjqaqVqAoBnJRCAGMqk6URhMppeOx1+VLduRHN7JL/U2bxKnB/E1gBn1gAfvUQqoVd6j8VgAmlpJULLomuC43GKHup2/FYzCS2gvyvkkS+OVIh0DaX6e6xse17zfbGghQNVu8Fo4iJ8Oht5lAvHHYYSYy6ZPdv4sv/NgYEUk3CNx5RrOc8l+Yg2+4UytA9vKitcy7INUsbRBcIfMR6aM1qKrEvXfACYx1lFsVDVCLojTRv7Ht8tZ4hCJ+HTrgjGowVpJkH0bi5Li24RiobifS13tKGnNQ+Z3HGVyrOXMc=;3LrvLhlu5VvxL2FMpvnbmQ=="
 ---

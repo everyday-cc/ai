@@ -42,6 +42,15 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Rethinking Talent Management Through AI"
+    excerpt: "Although it may seem complex, AI just refers to advanced data analysis procedures that allow us to study not just the clean, organized, numerical data that traditional regressions can handle, but also messy,"
+    publishedDateTime: 2022-04-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/04/14/rethinking-talent-management-through-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "vIw4M+BHjN7uAKbxFXBRej3LRloc3McZRbbrNEIKlIIm11U235nU/QmC/W+zYqoXczjxaj+L3hbSj/Z9J+O0OkbhHZeLjQQ3pM3s2taAHstJ0TTp+0071XgDupd97kZkVMXBLeKX4iDG73bsbLpNkM7SZ7GS/ZZeJsM/7tTLinEWWzBEAf9ITvoG1CFRxEYU85rKvu0pEo+BuN0V7p1C5WD57JcnoTfxqs7WDIlE1US2ZZ+iDFrol8ehWbXRy5241TGnTwKshf7Qj19zJxG8wKr8rfo3SfvJVCg4/X+FXlHq3nOCAdHfYL2HRsh8tSNU2pyN4LnGWrzGm1gUzR9Y/jJ9YdXi+24MSiXscBdUkujsHbjHoku4EI3bAN8YLfJvqo+YLOfp+ieU2KI5q0Poxzuswxgs4fM1CbsaSBQqlAUM+lMBaat8cXk9lKto1JQ/QmHNuaBz8akwX60WIWOfYX2Om3b0okvwNhHuK0nPd/t81/s1GK2HuIoiMGYlD6hjMZ6k7BdzWsrVRnWKUI6f9A==;/+xmVJ+7/ExOQt+ciRy70Q=="
 ---

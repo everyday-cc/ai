@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220411/Monitoring-medication
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220411/Monitoring-medication-adherence-for-TB-treatment-in-Africa-using-AI.aspx"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Zindi taps African talent to find AI solutions"
-    excerpt: "The Cape Town-based start-up crowdsources AI by inviting companies to post a challenge on its site, and posing the challenge to a community of more than 40,000 data scientists from across the continen"
-    publishedDateTime: 2022-04-09T22:00:00Z
-    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-04-10-zindi-taps-african-talent-to-find-ai-solutions/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-04-10-zindi-taps-african-talent-to-find-ai-solutions/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-04-10-zindi-taps-african-talent-to-find-ai-solutions/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 39
 
 secured: "7L46jPbJtaC78H0MpnoxsLtDFPLUYULaJqha6F2zr1lvx6YKIxjP8PB0j3WSg73eAgZbytDpTyGdj0Hg9AVGfdtXPtfGuR2cBFv0w2yJ7/gi9ulGECxed7bZ/W7/uIpCCzAqF7zuU0z9a9ZLyV4ZX/vh7mVyPWtAXwBfwGEdBGOvRdEE1mo7zznJjgr43CreONA7QO73Z6dJWTk86K5iML6FIi43D8vgr/oAiXG9gxPI0aegTEAwlVk1FWE0K8PUtENOBIQc9I1SsmXBtMZLK+LVJdMMonrTtcbqzFuBo8opMKK2CMrV0QvetHTqgAoqLq8C7aqT42Zjnsb50YTBoLA7F6d16teT0tmClr2DDVFjUhtnu7NEjCeQMIMvEic2htoQd3pCSXioD8UF27rPTPjfDCAxJMGFTwsnzhH2JpOd65qck9TIVghleItlhYuqCndrWrDMwNyOSCoNEvASQFoR2O8oyoavXTpDJHZEwzjr1uYDPCVhRDt3hB0XjG1llSHWeZXicWMBxecK6T7GzA==;hieYYLCQliiFNZFQEQT1ew=="
 ---

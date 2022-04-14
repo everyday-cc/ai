@@ -71,6 +71,15 @@ related:
         width: 900
         height: 640
         isCached: true
+  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
+    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
+    publishedDateTime: 2022-04-14T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
 
 secured: "Z68GHNinTyvJbbm7LffajT/XMJ/xZCegyLzxdigp9e5xHfo3wBMLkcRnBX8FbY0gODtaeCxTJpFtJEohaCU0TA47ISQEwPhddZQbdHpTx6UWX5QBG2g4SqESzdUwUab/1VE5Wqpk+nci//xzWC+1YMEaT5YEcFTUM1ycbeAQ+j2t+H0YzbyTwkaAJ6KtWemt+hvNvysMTe6q3p4h7duHxc4ojL+G22YW+b14TX5OIvdQ037OiGFtELMaB5oBg1oktDNAWgBXNo6v0KzHojGLnHOHnrvduGGr3QXYvxneobxv3/9AmNPDrId0taim6gpCX67QfJXd1fHjiV/xv9IJNCYVPRSefO734dXBRaRiRIY=;z14hnwl6KKdv2k+cUs+bcA=="
 ---

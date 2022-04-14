@@ -126,6 +126,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Lambda and Razer Launch Laptop for Developing Deep-Learning Applications"
+    excerpt: "Lambda has launched the Razer x Lambda Tensorbook. The laptops include Nvidia GPUs, 64GB of RAM, Ubuntu Linux, Lambda's deep-learning"
+    publishedDateTime: 2022-04-14T13:18:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/lambda-and-razer-launch-laptop-for-developing-deep-learning-applications/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 3
 
 secured: "TUZBGV5ZSpmijGQNRi4uKeE07Zsft1PYI7YKsSBC070Br00SV2DkN5bekpeZW0cc65bN1y+sIGKjxm+wd4DfasOzw1H5TUewjxd+mKgcMKE9YEnxkvDOounSJsueDcVfK9K0vDF3hHeO3egN57fW4X0I23sukIaALFpMp68UHqJcNbpljsqgNr4+sePHCRN9TdoO2ffBogPQZ0XYkWva590AFKPTTozHLiuUDpdYIVR+zzIE4HMhEkE7l+adkGFS6Az8lYfEi0CVR0HWyY86CKUKFvJAElVsXai15gxSCvuVnnCpgIX9XvXFRqMQglT8b+JmiV1Q59CtWiegHfomoaJB/LKj0g49AXln7OBag9Y=;hCdZdw4Kt5Yeee1gA0CwgQ=="
 ---

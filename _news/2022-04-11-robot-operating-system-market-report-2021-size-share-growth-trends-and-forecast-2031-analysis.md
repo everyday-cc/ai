@@ -169,6 +169,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 0
+  - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
+    excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
+    publishedDateTime: 2022-04-14T13:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computational-creativity-market-size-share-trends-growth-drivers-industry-demand-opportunities-key-players-and-impact-of-covid"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "n5IdWoX/babHPsqjQrZ2LSGBllsPxxCqSzNw0z0sehCK5ePI0ZNQccuk89aRtDR2Kd/WBAEg+2XoWpNEcOJV8iuaA0Bz5aoN0PG5TJb5lq7FAdhM3WWWLwZN8gs+Ud444l7LrY23FEuo7Sz37Z0XGcDMjg5meWGjj/znD7BEur/o4sGv+O2m5JAVzMQsSL6opsmpxTWz71IGPWTfAHA1vE075r225sDSLDb9s1sANvj8/Ygptb6HuOjdCk5L3QmsID8NkW4ks0v1QLJhY1pPixjNXEDte+OJdTA8f6M/ac5toyKDRLWOyvG55UlxTiFCO+z4p9n4C1yWL7VG/ok7gfYXTZX5n3FacPc4/wfLazo=;HOivkpDurYYV4mH3j4Pyug=="
 ---

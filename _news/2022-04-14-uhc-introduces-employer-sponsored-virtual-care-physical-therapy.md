@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T13:30:00Z
 originalUrl: "https://healthpayerintelligence.com/news/uhc-introduces-employer-sponsored-virtual-care-physical-therapy"
 webUrl: "https://healthpayerintelligence.com/news/uhc-introduces-employer-sponsored-virtual-care-physical-therapy"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: healthpayerintelligence.com

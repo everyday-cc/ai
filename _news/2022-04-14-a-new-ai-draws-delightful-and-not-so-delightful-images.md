@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T08:00:00Z
 originalUrl: "https://www.vox.com/future-perfect/23023538/ai-dalle-2-openai-bias-gpt-3-incentives"
 webUrl: "https://www.vox.com/future-perfect/23023538/ai-dalle-2-openai-bias-gpt-3-incentives"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Vox

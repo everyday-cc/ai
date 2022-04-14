@@ -40,20 +40,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Global Field Programmable Gate Array Market To Be Driven By The Growth Of AI And Deep Learning Technologies In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report"
-    publishedDateTime: 2022-04-14T09:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Automatic Number Plate Recognition Market to Rise at CAGR of 9.0% During Forecast Period, Observes TMR Study"
     excerpt: "The automatic number plate recognition market is expected to bring tremendous growth prospects across the forecast period of 2020-2030. The"
     publishedDateTime: 2022-04-11T07:34:00Z

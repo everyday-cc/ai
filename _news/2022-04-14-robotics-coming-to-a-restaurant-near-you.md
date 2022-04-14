@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T12:06:00Z
 originalUrl: "https://www.qsrmagazine.com/outside-insights/robotics-coming-restaurant-near-you"
 webUrl: "https://www.qsrmagazine.com/outside-insights/robotics-coming-restaurant-near-you"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: QSR magazine

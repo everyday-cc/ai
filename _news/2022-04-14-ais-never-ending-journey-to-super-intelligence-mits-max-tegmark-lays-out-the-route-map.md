@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/ais-never-ending-journey-super-intelligence-mits
 ampWebUrl: "https://diginomica.com/ais-never-ending-journey-super-intelligence-mits-max-tegmark-lays-out-route-map?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ais-never-ending-journey-super-intelligence-mits-max-tegmark-lays-out-route-map?amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:

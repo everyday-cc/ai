@@ -37,6 +37,15 @@ related:
         width: 687
         height: 508
         isCached: true
+  - title: "Rethinking Talent Management Through AI"
+    excerpt: "Although it may seem complex, AI just refers to advanced data analysis procedures that allow us to study not just the clean, organized, numerical data that traditional regressions can handle, but also messy,"
+    publishedDateTime: 2022-04-14T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/04/14/rethinking-talent-management-through-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Northwell Health and Aegis Ventures Launch Ascertain – Healthcare AI Company Creation Platform to Improve Quality and Access to Care"
     excerpt: "Northwell Health, New York’s largest healthcare provider, and Aegis Ventures, a New York-based startup studio, today announced at their inaugural Healthcare AI Innovation Summit the finalization of definitive agreements to launch Ascertain, a joint ..."
     publishedDateTime: 2022-04-12T18:26:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands"
-excerpt: "Artificial Intelligence and Machine Learning. In addition, the collaboration will allow Netcore Cloud access to the AWS Partner Network (APN) and the APN Customer Engagements (ACE) Programme ..."
-publishedDateTime: 2022-04-05T07:08:00Z
-originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=30"
-webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=30"
+excerpt: "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings."
+publishedDateTime: 2022-04-05T07:41:00Z
+originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
+webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "rGCP99fPXmEyg/5xwjQmPzstskADGzxBGVbHNsG8oqFp61Lc9qN30mi4hTfNW//jGRf+qH/exwS7a+/QOSQY+Of8ZQQ8caFUlwuIc8/fdyjlX+diB5fyQTMFFHYwuDsUruno1ArviKIcqwaFGunvZtnFxvHBQZoh/902y1uTpsiSVJ2k1a1JZrYxSc8hCBqaotQB4wgo4SPiD5BFOULEWPrCJ3FrGJLEPT8pdLy87X5+gzGpWau8iUNyVybYueRFZ8n0+GgkGwA1AHw1Bpv58I24QeDJkSC+r/eRFKuh6y8/00mmcaPdXXzlhPMfGz4d59su7zPej7SShkzSbnwJVmtPcLdPv3+C/tJTe8/BMXI=;ZIhPnWy17TrvXFswGcwhhg=="
+secured: "AgblGGKxCPZ3HGDVnu4lM/7oLbtGbQiTY0WEYhmb0FRL4udd33H1zeHT+Ht7YtyFJjqORu/B4ecL2SZOL0RhgR/rCXwS5uG/WwveHeQyGWiXSvZd6yCfLHDcpl8MRLBMjjfYwEKhnK4ChyRykrnSg5sAluqxpmb9HEYDcp2CM7O5/1D/02LMVETncYLRyD9da3fH99HYmttQ6wW4QFyez+J65jcwThYHnlz494DZin7Jq7Bsv5DTrIT5PQD8hNu7mHXRM/hubpoJwNmvWsl1371WNyQS5iALMnNasU6TUVAXq5C+ywqf4GYX5RmwUqLunXTTFFlxkoWttZU3BLlN4ZgImX3zdBI34UVPuxCH9Ag=;9i7jW97XLj+3GWUzrg+kcg=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Using artificial intelligence to diagnose cancer"
+    excerpt: "During her Ph.D., Dr. Qurrat Ul Ain developed a computer-aided diagnostic system that can identify certain characteristics of the disease from a photograph of a skin lesion."
+    publishedDateTime: 2022-04-14T15:26:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-5.jpg"
+        width: 960
+        height: 720
+        isCached: true
   - title: "Google is using AI to update business hours that are out of date on Google Maps"
     excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"
     publishedDateTime: 2022-04-11T06:20:00Z

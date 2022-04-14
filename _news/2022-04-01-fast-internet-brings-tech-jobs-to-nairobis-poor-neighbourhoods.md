@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Fast internet brings tech jobs to Nairobi's poor neighbourhoods"
-excerpt: "A woman runs as a commuter train passes through Kibera slum, in Nairobi, Kenya, March 24, 2022. [Monicah Mwangi, Reuters] Daniel Nzoma's face glows in the light of a computer screen as he reviews ..."
-publishedDateTime: 2022-03-31T23:59:00Z
-originalUrl: "https://standardmedia.co.ke/health/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-webUrl: "https://standardmedia.co.ke/health/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-ampWebUrl: "https://www.standardmedia.co.ke/health/amp/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
-cdnAmpWebUrl: "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/health/amp/sci-tech/article/2001441951/fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods"
+excerpt: "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ..."
+publishedDateTime: 2022-03-31T22:49:00Z
+originalUrl: "https://www.euronews.com/next/2022/03/31/kenya-internet-poa"
+webUrl: "https://www.euronews.com/next/2022/03/31/kenya-internet-poa"
 type: article
 
 provider:
-  name: The Standard Digital
-  domain: standardmedia.co.ke
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.standardmedia.co.ke/images/friday/fast_internet_brings62468e8ddbac2.jpg"
-    width: 800
-    height: 500
+  - url: "https://static.euronews.com/articles/wires/841/56/8415664/1000x563_jj5six.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
-secured: "CjzO5tV8elMC+R45sV22cQ2iTBD3al9a/n3fyVYAiRcu2dNv0KMefTT8u4sg+O+so0ZFt1GqOysUTXjH4GKmIIxfJSOxL6DSKQVf56phNo+MVkTfUuADjC/y3kXJXa97jm5wrfkGVpG8bSjVTaTUFdmZeNbLDCs6d+HtyQiUmh8tFO6FgXULtKy6zTzrMdyKYU+MCVOwHaAizxhMLAnWr22TKMaR92bT3dyUwgL6r2efIM6ruT/qoDHQZ28OOeNlqJes0LZ8VJn9p85o2n76KD7/Se7V17tOVYFfNuxGIkQ92sLcWlfL7p1f58rWKP9WvZveEu6ppvgl9qEPv0S573LFWmY7u8OQLakre5o+7Q4=;6JWdannQ5TpNANPsRDtdEg=="
+secured: "uQ8i0fwm4pethXDFTJ6jIQSXUd9I0wOd2zmmS6sfqlDSxDRfkgY/DQ6ExGmmyjkkkR1sHFpT3EMP+T8I3iClL4lVNSqCWde/zajOiyzR46khFfsM/rBTjS4r5ol0KJniuSS4hjUbAOUkIkb2+rTkrFbgAL2RU3/pykB0/my2pFczR5u79PGcZ4czslGgDWBgUnJI/LLI8PqQdk8tlU72oEdscMjI7mQDjw7BOMek22zOTDvN75MHkQqZnkYuSC7Yk34Z3ELN6u6Bu9q63YgwXLI4kr+hfyN/dePzOGt1/UWmQg5q8jAKqzeXF9SxahTOdy1YhrYzAY8GF9iqEUsUo6I10klBJwfqqgVFexi+drM=;Hlwne2nsmu1Z6SKqxuBIDA=="
 ---
 

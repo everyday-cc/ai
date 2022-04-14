@@ -33,6 +33,15 @@ related:
         width: 900
         height: 1350
         isCached: true
+  - title: "Orlando-based Cogent Bank is scouting the fintech sandbox for its next partnership"
+    excerpt: "Cogent Bancorp Inc. is steadily growing its fintech portfolio. Orlando-based Cogent Bank is investing in an artificial intelligence-powered mortgage advising company, Home Lending Pal Inc. in Orlando."
+    publishedDateTime: 2022-04-14T13:17:00Z
+    webUrl: "https://www.bizjournals.com/orlando/news/2022/04/14/cogent-bank-ai-mortgage-advisor.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "bPnbo9wn1xyc6zXOUT12uxFZv2dxlQTtwmOQoFFXCufCEqTptzXv85kGoFMQEV4xZpersV5WrUJy6sjVT3QYO5f94e86A7IzEI13lN1T2xvDtp8oXR72EhED1j2jrmyQ9Z1GQw21JIgFp5GXwUyaicgsnmY2Rj1QbH9JZLEJo4ldYQLhNsTb0ld5u4g7kFs/N3x6AHHBmYvNo7LoG5pMpOWtRHFhwfjxDok+dnBTLmzflgBrN2Qu4yOAA7f/4r0uCt6mmqWVqFLukJyNjhUsZn0ptyERzg3zL9jsvfMbYRxRwepSg6VBBVmYrLEueYmwdZa9iqchSQgCrpiwe+QMTgzY9ndxG9sp8ZNy72UFKfFWUx44Z1NCScDGxabrMR2sSFB50B+Zkqbm3D62OC5JwS+gxuymsuRVZVfnqPE215m5eQ+FuxrvhpyWNLa0Mb1Ae1rA6KIpEyiplSEZUZHMunR0Ic6a2koJZJ3mC/wNIa17mj732X5A3gxPV4AI4saWXMrOBOnb2+0kTnpAiF3Sxg==;dtGEanAdQrQFX30JjvjtFA=="
 ---

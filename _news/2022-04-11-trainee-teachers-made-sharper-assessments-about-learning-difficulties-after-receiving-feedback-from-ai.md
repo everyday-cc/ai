@@ -52,6 +52,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "AI can improve teacher training"
+    excerpt: "In these written justifications composed by the pre-service teachers, the AI identified what the learners had done right and wrong and gave feedback accordingly. “Above all, using AI and providing individualized feedback improved the diagnostic reasoning of the trainee teachers,"
+    publishedDateTime: 2022-04-14T14:25:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949783"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
   - title: "AI could help trainee teachers identify pupils with learning difficulties"
     excerpt: "AI could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, according to a new study."
     publishedDateTime: 2022-04-11T12:56:00Z

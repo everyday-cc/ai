@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
+    excerpt: "INSAIT was officially opened today in Sofia. The world's leading technology companies Google, DeepMind and Amazon Web Services recognize the importance of INSAIT for the development of research ..."
+    publishedDateTime: 2022-04-11T14:57:00Z
+    webUrl: "https://www.novinite.com/articles/214680/Bulgaria+is+Investing+BGN+170+million+for+Artificial+Intelligence"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2022-04/photo_verybig_214680.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
     excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
     publishedDateTime: 2022-04-14T05:21:00Z
@@ -54,15 +68,6 @@ related:
       name: realwire
       domain: realwire.com
     quality: 20
-  - title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
-    excerpt: "Over the next 10 years the Bulgarian state will invest BGN 170 million in the first of its kind in Eastern Europe Institute of Computer Science Artificia"
-    publishedDateTime: 2022-04-11T13:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272471015/bulgaria-is-investing-bgn-170-million-for-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
 
 secured: "eFDJCP5uYzENNViJfZLxNr1By1IQ8VZ/bKFlI+gGq/ywBX8nOtm5HAnOfAihY2z4mejD8gBA8BeErdKBakSP2j0f82wPYHkH+zSwssT0H6jFB2OGEPv+28Lyr/B/sLwOtieh7BIFBQlBaCKOU+Ks5JJEM96WIUIVRuY3oq0z7EEoqYyPz9hZIMtDQ+QOat2h5FKKx4bhGZJbnLfxSAOxGbexJfiyG8KFwolmSLbyF0+LLhcuHd5ampqAxnaN8ZlYfq8Ty1o/ULqfW2+OElSjf012Lig+gIt31R4gk5beXZcUs00uuI3gQ4PgjrK8+KK+aX81T3ag9dJwpev3EtXRsrIl+4MgYTrfen0Fz+55w7M=;VUy87wfG2ANeAkxfHVZdbg=="
 ---

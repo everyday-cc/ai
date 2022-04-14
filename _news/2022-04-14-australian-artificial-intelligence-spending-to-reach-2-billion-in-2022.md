@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
-    excerpt: "New Delhi, April 9 (IANS) Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025 ..."
-    publishedDateTime: 2022-04-09T20:28:00Z
-    webUrl: "https://menafn.com/1103984661/Artificial-Intelligence-spending-in-Asia-Pacific-to-reach-32-bn-in-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?913845"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "URuYSBp420hrneP/wINkVdCrYupa3RJAqDrChLJZdEG/RKYEFpTYE1osmQfmvtwVCpPf3BLXfqDoGnpNT7qU2PX0OeRigCJwpReIsIskEKIz2+XIhJ3KswMHkI9yUejoBDPUhqpXF9lLsWkSS1a0mBiDci2Gddp75Q79+jPRz/AxwmrvGhuXJgKgEPNct9epbQT4xFrQIsZh91J/Iip/0J/NNbCrfK7EjJb5Elz9mjkiJXMd4UIrqUDK2XzLHBtPesFm4Y8Bkfsx5ugR7x/7CkzcRnJ59ApvDHgafcEOjBv4MKW72vxwTd0648dZH9Z0T40SDE9ySmWGARPYz19WoU/YEvJxJuyQ0wacAlv/MF02LwAP5vw+V19VKSpsdo+1wBC4zNtYKw5skben0W4Hq6GSArzPgNTORWvKopTlu8N0ov6bri2xeougpL1OvVQAv+VgzsbWv2XcJ5KW04dzlKr/rkV4Kxml6fDHGoFnFX8nEeklQm1jFCyYrEWNt6IhFnzJ9QEeggisU1GtXFszhg==;EMbNt8nWYNPfiYy95W80gw=="
 ---

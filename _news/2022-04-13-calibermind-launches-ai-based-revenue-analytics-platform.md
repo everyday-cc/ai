@@ -114,6 +114,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
+    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
+    publishedDateTime: 2022-04-14T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-trends-growth-opportunities-business-forecast-competition-and-demand"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "WSCCF7war3FY78eUC02MLX/6amEmXyI3MAwhu7lvZGdUmV/8MPgWbHJ8wMwcsc33Mshm2usmIWOFI9fF4k984X14DgcngK5Am6xAd+dLopDXBURIri7H013zvj6fGHRbuCSeOANvrf+VTouvj55hDY0sZq9uPNrd+8obAgFLLUmmCaa1xzFn/sSFjuD0Pm4//GSQBJw+ZObQZWMwnHraxqU/pBCPb/JLZ92LvwjwGkh6cnBWDH4kdYucT1VFUTQfMbtZflH2nTTd9NlhF5JKJFFrp+hHUQSCNLCZTZbCp63otCCBiyWuBWkpHZg8008I9rwHJfESTiH4iIKiE12Ws/8P0HUlwcANlE1uuruhGfXNj2x6KD6/TwDyi4Fcx0dMX61Kus4oda7cK3LvQxXgpH0iCREvQZ9CsKBuTHzjBtDTCoozCUh7W0WOCSJrNnAzn7Qr6/HKvbK0banefu49bNwzzBYtVEPUq6q+A/CY8XkX7cW/vZ8Sk/f++jTJoNxNQlVR3/rjpPqGd/tIN/kkfQ==;9hRASmKQHYrGAS16Zsh09g=="
 ---

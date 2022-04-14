@@ -57,6 +57,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "AI can improve teacher training"
+    excerpt: "In these written justifications composed by the pre-service teachers, the AI identified what the learners had done right and wrong and gave feedback accordingly. “Above all, using AI and providing individualized feedback improved the diagnostic reasoning of the trainee teachers,"
+    publishedDateTime: 2022-04-14T14:25:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949783"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "bhjr0jnQdR/R6O4eAYryy/7o0rwv3vTvGJl8Nnd9hZMPlZkdxnFfoP7+va/Ng3lzpm8o/QbkLY3pjcll723JeTLTN6YL+wtYTwebxQYgG/JIM0VgPGMVltU/ZZ5igUPXynEuchHgHMZAgyKYJoRPPC9kvduL7aP+/6tMb1SEkgOhn2k8yP3rtAs3i3v4UMVsxpDTJWjC2k432HCRw7Mv0eAfTpjM0yw/OI54UtivMCc82+dNSELulYiYBz/4muGlrYjKFWbnjJ3VVLGf6gEQD4ykLoRSRB9esX5bSn/jeUez89qDetT09KFv1GKAqc6xvOWQCWpG+GLRkrcrpQjzhG8Zzs5QITwSpbGOARM5L0E=;/3jc5excUZb3ifVcGFfa4Q=="
 ---

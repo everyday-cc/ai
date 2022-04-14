@@ -29,7 +29,7 @@ related:
       domain: wgntv.com
     quality: 32
     images:
-      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/gettyimages-1391263305-594x594-1.jpg?w=2000&#038;ssl=1"
+      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2021/06/gettyimages-1231642306-594x594-1.jpg?w=2000&#038;ssl=1"
         width: 594
         height: 396
         isCached: true

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T12:05:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-uses-machine-learning-powered-predictive-advertising-to-boost-donations-and-drive-awareness-for-american-cancer-society-1031356528"
 webUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-uses-machine-learning-powered-predictive-advertising-to-boost-donations-and-drive-awareness-for-american-cancer-society-1031356528"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business Insider
