@@ -2,26 +2,26 @@
 category: news
 title: "Six Nines Announces Support for AWS for Games"
 excerpt: "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through their Studio in the Cloud offering running exclusively on AWS."
-publishedDateTime: 2022-04-13T17:34:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2"
+publishedDateTime: 2022-04-13T23:33:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/04/uhmvb-23-forces-ALOHA-ball-overpass-kill-by-uhmvb-1.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: kbc.co.ke
     quality: 19
 
-secured: "D+LGi/Xe9ZOWBkNne/2mLedrTXhDZ2jWtfQDhiqixqrNd+7ek6QeKyFAP++az89hgKGpD1LiwBXeomSKkwtk/IJX/YASwwFagvLSjeGqYZDioDTfGZby24YGc+CTOzxk9l0ObD5Yr7Kmzhh+3v76dxOo3tcjhGv2MKWR6fy4BAA7NGucAH4bT8hOPOm4hp+Er2ySSOk49JpVas71z3Cevgy1AM4BuUmingkcbNr557TeJWHcuGZ7BFlEF8EFm8JqS1Rz3UtuqbFNZ1QAmomrlwn3gr3vLXhhxFVIcE8gK+dYPXvAcoJq6GWM2XLpY6EBvEnrq2iCUG9ZMyLsEkQVMOiPD9wN2Fo4psw8iBE+XM8=;i1N4XPvYhPALjPgYxa52KQ=="
+secured: "lIpEa0+yErAsaYo0czczkBtNf88MLJoGYxTnIoRalvS2ClNMvOb7ORtM0ZQwdgypx51NWgNyGmvKIyRK55G8bUM/9Vp9XOZgGyypagwenrj7nMXNgdjeuA9F+xx0iSN4JYWbtp1l0eIc9MZodkGuFFZnS/pToNJC38N0pY8sirCrU5eXHQpF5YqIxgKxdHgReYFApnMFKVoHeY6szs1q+WxKJJ7FvAyVQpa65PPGmGYYaiEezJlo4/acOA+6cmROvKi21D7vPkGHvjMppj0fQr6sP3n0WNmaeq5fjb9rolC9J9r5y1+A1ao4vLGxO9KEQ56afkzVuAHBoib5wbgqiqmFdaFXf78TjqhWeXitXD0=;oSG2P/ph68E9gYfOwfTmuw=="
 ---
 

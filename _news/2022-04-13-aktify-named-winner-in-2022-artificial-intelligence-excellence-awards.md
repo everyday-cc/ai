@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes"
-publishedDateTime: 2022-04-13T13:00:00Z
-originalUrl: "https://www.hjnews.com/news/state/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_1e4a50ef-c95d-5196-b419-d3b0a152d698.html"
-webUrl: "https://www.hjnews.com/news/state/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_1e4a50ef-c95d-5196-b419-d3b0a152d698.html"
+excerpt: "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ..."
+publishedDateTime: 2022-04-13T14:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Herald Journal
-  domain: hjnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
+  - IBM AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/custom/image/01d65bdc-75bc-11e9-a6ea-4f05c88a4606.jpg?resize=600%2C354"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
     width: 600
-    height: 354
+    height: 338
     isCached: true
 
-secured: "f7jI3BYs8vgL7Dqq1ux44udo5PAJr1MVbJ9KW6K7XBYhW4vavr8kPrEysMN22COeHmH3I9fKJ5lfXCXjqSweUqcIboRhbhK5DsR/zqHTMprlpBtzupNUlSmKVeezEWZ/W3LmSzAz9S09hwNUtoPUC2mXJdFO3KwzjTq9sgjt9ISpKHOLGVmsrzPxCkHePbxJ4lixLlLahRtaUPv1gS0elVrbvyy03lJq4bLhWr1224L5uNXcUK95uU/AJoONyAf3n7Wk0rjBVLwaSb6RKq7nsmRLN9O1YgDJDhzQL3/ztmq7EZM365P3YDCitYJMh9AhlvYo+S+Us7IXosXtKuYujpCDe9Y69sPgTFO/QQio88k=;Isd788nCBYD6imLyPzr7wg=="
+secured: "kSQJ2LYHV0lpTnDM/jXcdskuY3AQhuqxytvSvAFjDyFI7cCrSUxnhewrhubCZL2+1dQbSOmYkiUhPLR9yNu/6trkPdwyCinlI3SE72L5EgcRtjuHoxD4hEEpI6jPinQj23BZRL/w0COpO0c+ezpegv+dT8n0rb5+Q3muEF+u420bPH7kXXRXjHkd1HXzV9D3StTVxlz0gUR0xN5o6xHSvJAK0OU/KkjcrdJrJMuJeSapxvpVXl1D48MZQnji2XjcuZkqa2FL1ShIHJWvq3+vE3IO/+1jDZev1OdjBycXTJ0x/8ipKOzkiGqRx9tm4wMsMI4IfpX8nwz6wedaJHfBuAr88n2pmkDaJpqIPCs7rjk=;Ua7cgP0zScwPaAG+BJobNA=="
 ---
 

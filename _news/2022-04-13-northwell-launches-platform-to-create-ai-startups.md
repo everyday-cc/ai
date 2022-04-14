@@ -23,6 +23,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Chairman of new Northwell/Aegis accelerator: It will build AI companies much faster"
+    excerpt: "Northwell Health, the largest health system in New York, and startup studio Aegis Ventures announced Tuesday that they had launched the AI company creation platform Ascertain. The partnership brings $100 million in seed-stage funding and permanent long-term growth capital to launch companies at scale."
+    publishedDateTime: 2022-04-13T22:04:00Z
+    webUrl: "https://medcitynews.com/2022/04/chairman-of-new-northwell-aegis-accelerator-it-will-build-ai-companies-much-faster/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 31
+    images:
+      - url: "https://medcitynews.com/uploads/2018/12/GettyImages-858544742.jpg"
+        width: 724
+        height: 483
+        isCached: true
+
 secured: "Xb3OSsA0X4jW17aMRgzDELdEi3ISA5qGhYs1DZmRJzgFuWAL5CvSRX9WDARCHBWzR3bNrlXr6OdJWzPFmU0B2XwfMfLCkhce8ynofC5ANFHuc1cPnrHGVZO8yQ2bASx6Y+nUJ0/EHoXB+GzEdUXRM0VE2i1imMlZqx9/a8bCe91BQvYjayCDVLF0s7esrXTLSGyZWjsnOPwjwXPcsCO3Hl9I96H9IBBEc+7eDs36t6wHh4vRwoDu8ouGuuV3Wb0TaCDaW7ZPBUHnP3dCZKUGlmezefvXgOJcriWHnJk6q5GkJ+jTMxDmycG/HnOeB//OacY02wwvmcC+MgFNso9JWbS00kpnQ25bPglbsknqIZQ=;xM7rjS6u3KhyBuuJUjDTOw=="
 ---
 

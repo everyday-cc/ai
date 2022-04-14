@@ -8,9 +8,9 @@ webUrl: "https://futurism.com/the-byte/openai-bowling-balls"
 ampWebUrl: "https://futurism.com/openai-bowling-balls/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-bowling-balls/amp"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 55
+heat: 85
+published: true
 
 provider:
   name: Futurism
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://wp-assets.futurism.com/2022/04/openai-bowling-balls-600x315.jpg"
@@ -40,7 +41,37 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
+    excerpt: "OpenAI recently released the next-gen AI model of its previous DALL-E text-to-image bot; Can now generate HD images and edit them too!"
+    publishedDateTime: 2022-04-09T10:58:00Z
+    webUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/"
+    ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 47
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/04/DALL-E-2-AI-model-feat..jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-04-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-ai-exodus-openais-revolution/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/helena-lopes-1329842-unsplash-e1629656969203.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
-secured: "sVxWSqx43VOwYR++zVy/zx8+Br0xntM94iAQbmqvRRc8Ia/PodLw+LLHp8FtMzQGnHhZbIWwClBBRdBRgkPAAI2RuWAPnW/cMZnKDPHnD+jEAZtu3mZHpKmQg6TK6TR8MFa6cEAH8KpIs97yrgKIxHOGVQB4lmlGZD3hFa0G/yfvVShEo2hQWMQam5xHxQszX4X/YxQMH3nj3sotaxTjpTRyJFvhwRsz18drO7r48bCuao+kiwGYJNfe07mg/tcDwhC24ejvdFxvv1bofJ7NskdLH2Lydt1Ej24K8tHemOqouQjrkhTXSye4ljv0forL73IXDLHrk77d1idkan2tJcahC1noypCquxCnPMAwkwY=;b53Uow0BlVFlydmiY5h5ng=="
+secured: "kNk/PmwhPw1S1K+CKp+M0HKhXhFZy2ehrmwt2Hw90QWjr7n5dO2S8IZQH+5dWhBR1jVIVb4Mp+cbbtovwDtTAcSbPJHhQ9igeMH9KsnAwMKoqW5wnjLIw4ZR5e9p3IGYRNiQgnctisC3IK9Gg3kTYJ7tJprcC2bPBtoEqyHEhE+alnbYPeVXf3gNjlmnM9F3+AlGRJMvHYtMb1UYRENOqbiW25o3TYH+sCSLb5YhgjN3kay2edQYbGTjY63BWk9v6h3FiT7IHF75VKPQEM90p55oR0RKr3hcvkCZQf6zGiZUN8D0tQjZjKpuU5yPS4uisj4Q96qnppC5Zo1vGm7o01kKKM5vcmGDEe38EnkLkdXQAQFgZ3YFNvLZFVqRaYy2/PnIBES0pV9yZJXms1tMZBZaOMpDgh2XApXy7yimmEUNvnmTeviDuew8HOp+GeYLPhdgQhq4VI/OLti59lEY3INvCe7flpb317Po9xUEk9Zrydz69OtphYcgdius7u16qodL04XVq3goM67LMZxgtw==;ShbC6iye4k1Krh1E127sYg=="
 ---
 

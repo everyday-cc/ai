@@ -7,7 +7,7 @@ originalUrl: "https://hyperallergic.com/723877/new-ai-artist-who-can-draw-anythi
 webUrl: "https://hyperallergic.com/723877/new-ai-artist-who-can-draw-anything/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 740
     isCached: true
 
-related:
-  - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
-    excerpt: "OpenAI recently released the next-gen AI model of its previous DALL-E text-to-image bot; Can now generate HD images and edit them too!"
-    publishedDateTime: 2022-04-09T10:58:00Z
-    webUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/"
-    ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 47
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/04/DALL-E-2-AI-model-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
-
-secured: "kXyHxA6hcQ8Jk7gQctqDAUJbMfeS5o8W3h2lGqRmYGsvV2QX/1MbpyetB08q1NokXXGb3bHSEh76ZZvD2F1oYU5vOH3m7saqg8CFIIeP+n7WoPRY59CTqVcD6TfujehiZeBCmkQjy24Ag8UxK0d2dmyJE8K0ktTfi3CJjBGqkJeepUkReuwyQ6dNcZM8excbTv6xHYTGHgcmrdiJaconcte9BO4ll463p+3ykv6hGvrLfalcTCyA6YfFCtU/biOtQngq5k14zAYc+o0U/dymDrsgKUlseSqsr74488qviDo8hNrvwkLpKNbktk3MWH61L/lGGKDXoyeiRqc0c61RcF7eG58AeiPyf25m9TCgn0g=;ZMHjM3mfp0BLVkAC7suKKw=="
+secured: "nr65lRM4ajWU/Hbnkif8lSjAoAp/18H+fAJdTO093cCz2efPXF7Bu7AfroVCaR17zQr3ahb+W7YdEs6Xq4JVtHI0hKXRsbIUbk2V6v0x1zikqn+OOq/eR/z+5DGURvEHPJPCqFEBy69p6l62CCyZiNqdWTl3y+1BsRD0RIoPUEB0jp8oBTceos85Ty6IjRPc+U4VbBZ20w+pb73S9MFHWR/qxjrwsgQeeu59Nv5yV5orCQOvCTKSYEOAedhnIzl58PPPqCDkzQpjq8oeollFk3v4ijrU6Nk6D6X3GdCz56hwfGDBMGnj4V+A7DBRk/t1xBulZMKi+XLj/Li9OyihC37+xNHJQK1iLi4nRCdDjHfRfPPTJajAlNW8urrUVk48d4ZbwWnA8ufI9Hh+EqgFWGXNzPE1z/H3FBLwbusL0UMWZiGdI8cbwQdzcHXGpeyL+9iNRfmqIBIq+aotlbkd5iZZPJ6Gn3ShuVh6y2Q5Rc2NqG7Fu8Tx+MpgXWjO6TMIkrgA7jDETXvZ3C9FFkWS4g==;0x7VH0JHWagecqSjHSvTfg=="
 ---
 

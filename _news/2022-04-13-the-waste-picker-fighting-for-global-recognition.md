@@ -39,6 +39,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Researchers urge facial recognition restrictions, broad consideration by Canadian lawmakers"
+    excerpt: "The researchers say that the risks of facial recognition use for individuals and society are significant and should be considered in terms as broad as possible."
+    publishedDateTime: 2022-04-13T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "r8g67ez8HXz4UK4jLOQvU5hta73jArXXWwULNWKEu/glCUjR0xkry0CvLHb1fNdP8D2R9HXMApJorC7/MyPdtic4gNiGc3oLZ6vaROyT10dAulSgy0RMsvr+kwFv9a+PBa79IF0dxVHTfPx3skMsipR1tW41QGJSY9chUufOX5rIO6Q+H6GldCpkLPhZ2Ez6A3Pfka4eIfVw+4yRolb7wDJnuAq341I5KC37JpDU1jyDOFC/evjFt9kVcIUtiDX+DnpTmEEgmhZWH22fNN/QdP5WzmXhvAq40KJCdHdVV/xyJZLZbs+Jv+n6UA2G4A8fKFLWAUh4aAuNlluxtHKZU+QPY2eXKvzh+eX62jIlMhw=;lUaUx+BBB0dYA1PYW+ubxw=="
 ---

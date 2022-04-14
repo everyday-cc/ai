@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DALL-E 2, the future of AI research, and OpenAI’s business model"
+    excerpt: "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits."
+    publishedDateTime: 2022-04-13T22:50:00Z
+    webUrl: "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/"
+    ampWebUrl: "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all"
+        width: 799
+        height: 499
+        isCached: true
   - title: "Automate finance and accounting with AI bots for your business and CPA firms"
     excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
     publishedDateTime: 2022-04-13T20:00:00Z

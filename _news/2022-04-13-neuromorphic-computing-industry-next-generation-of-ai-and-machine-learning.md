@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next
 webUrl: "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -36,11 +36,41 @@ related:
     provider:
       name: Futurism
       domain: futurism.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://wp-assets.futurism.com/2022/04/openai-bowling-balls-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
+    excerpt: "OpenAI recently released the next-gen AI model of its previous DALL-E text-to-image bot; Can now generate HD images and edit them too!"
+    publishedDateTime: 2022-04-09T10:58:00Z
+    webUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/"
+    ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 47
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/04/DALL-E-2-AI-model-feat..jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-04-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-ai-exodus-openais-revolution/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/helena-lopes-1329842-unsplash-e1629656969203.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "89CV7ugG6SLXqTocuH5022P3ofzFhExgRvaGmEYjYt2IKnZyF4EtnqgAMQlANgaPgw64jzAL7kM9eFJ2RB3J7F8ThvNagVwoq/bxwwj9YJ2FZmHCwaLehmxm9GywLXQLg0JlySNXpn+o13vGj9SabcgYwOcOJxHyWLJOQ8e1v0XzIwOcgP/MPTMvK9VXyfDXTZPXZSvZzxbzlCuf+aGUhT4iBKqjCCHwKLpY0HH68YtW3ql8r/bNglfjGSp1ewdIxqmmrQW/d7/u23hcaZAh60bSzCjhASowdjdN8vDUhMDAYpnYmPAWiC1eSboYLoCjj01w80Vg3vFDHU9iqdZZ0nTGjStuVeCUgozvrF79qZ0=;shcMVv1qNihoxselwjdCtg=="

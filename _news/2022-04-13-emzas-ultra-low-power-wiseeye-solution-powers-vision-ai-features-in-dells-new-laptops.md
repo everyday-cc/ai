@@ -3,8 +3,8 @@ category: news
 title: "Emza's Ultra-Low-Power WiseEye™ Solution Powers Vision AI Features in Dell's New Laptops"
 excerpt: "Emza Visual Sense, a pioneer in Tiny AI visual sensing, today announced that its revolutionary WiseEye™ technology is providing innovative AI-based visual sensing technology in a range of new Latitude,"
 publishedDateTime: 2022-04-13T14:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582557.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582557.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-emzas-ultra-low-power-wiseeyetrade-solution-powers-vision-/2022/04/13/9582557.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-emzas-ultra-low-power-wiseeyetrade-solution-powers-vision-/2022/04/13/9582557.htm"
 type: article
 quality: 10
 heat: 10
@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-secured: "q956ydhFpx306gt1fUthJIARRWIS2/EyLjfiO+8Qx/xOksd/5qQRlgaI2Oq9jIlAy5GAa7jzE5PL0dtMEhEXPqbuBMKzI54pilJHdD4GUFRD+dBVbokxYkNidGfwgTz9Z8OHco/icYheWDhyqPDZvPOLo5npUoKn+J96LiFZ1he38og/JwmgettXfvGqn/Rg7H6g0gFmj85h6E/iu2tomkPOj/Txe+OC10+0vonNqd70FeVXvxMJ/EMm6hLX2zjb3hXUxi67JIlEGYUVD4buiYoFTlxPEG/D9Fuf6wjOgIGU+GFbD3k2YdRtWLNLh6zUkUtZktAIyynGa8eZNaDo3iN10sdjYN99w4zjV/3hkEg=;rrqztp2bxbmqSk+fpW9OhQ=="
+secured: "enhz3TyS9WzPO9VyCW9dDX4oq8C8I7gegkKxATG4zNo0bXemrKOmZEotToQkwp3YZ2L9ldatTaeA34Oz/JNvdu7xG+Bl0oMny4POrXwZYrMnEsyCGJxiqhEASG0idzLIVAvK1sp0Bw4trXEAy0mnniog2lP8Oj6Rku6f0JbpgtCKCqMOeommzzI0sKPCvyFF5KaJumE7Ft7/5pjAc/oPp8V7UlacseR7pLKpWKZBcIEJMJx6Tl+Afp4Mol6d/CTI16WJZ03v5YciuR8VoUVFtya5Op4npY3LVsT/+WvUgzcRQK3+NWy9t/fzFPxgU+n9to8YoIM9wEz262Td+SwRSh6viJ9YPVi3LD0GjVW2phc=;ZPQTZWYAAmaukG5vM9yhag=="
 ---
 

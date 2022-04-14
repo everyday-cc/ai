@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/12/machine_learning_poisonin
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

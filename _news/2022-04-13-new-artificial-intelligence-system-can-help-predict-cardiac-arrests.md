@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Artificial Intelligence predicts time, probability of cardiac arrest occurring"
-    excerpt: "A new artificial-intelligence-based approach can predict, accurately than a doctor, if and when a patient could die of cardiac arrest."
-    publishedDateTime: 2022-04-09T06:40:00Z
-    webUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/"
-    ampWebUrl: "https://www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/04/artificial-intelligence-predicts-time-probability-of-cardiac-arrest-occurring/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 53
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/heart-e1649486331323.jpg"
-        width: 599
-        height: 575
-        isCached: true
 
 secured: "ggbkFkbscrijcmR7IHXZXt+8Dq/XNtvNzoHjhEHyPTzxCHiEvOFNVJTJcUtg/DNauPMJHd0euxv5/9ZPNXp5dXYAXhm8tEwP8e2U12w65/CK7PvkB84lxZNVHDOJ399+s2zgs9vMbkdKvnC65CFlsknJt6AelS58TLatK/0hF079buy1P3buplZD1bLdc3ts7OTIVOyCtwQzl39nYh2areszCit39zfhTrcgkpJQVvvC+cU/+UaGXX8ZkIWFFPDiwCfYHrE5iW1mLNDASJHuHH2HKl8ykNLEkHfkSxs3Kx862maAtmcqFR+GHYBwIMG2xNma1Pq3uF51vAw5v2AUW07X48qQsLzkS728y1qnAeH3MCom0ci9PveUtnqOGtOk4t0ORkTKkOPYljnnNjPQs4AEEy3g5ziblR2QOCeH8YhDLamiy0kYljVksSZz7SUp/LQnol+YBnfUg48GQHl1H7FFNFoJFGpX+GbqK81OYEl7NXZxXZygogPXbt8trfwa78Y4Ctni63rHZv9PEbkW6A==;/5XAl1aR+f4Epj4iA4MB0g=="
 ---
