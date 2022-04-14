@@ -21,6 +21,7 @@ topics:
   - AI in Robotics
   - Facebook AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-04/artificial-intelligence-gb1fded5c2_640.jpg"
