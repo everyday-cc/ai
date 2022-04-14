@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-
 webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
+    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
+    publishedDateTime: 2022-04-14T11:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "AI and IoT analytics protect people and koalas"
     excerpt: "These sensors are powered by artificial intelligence (AI) and machine learning from SAS, the leader in analytics. Attentis has created the world's first integrated, high-speed sensor network throughout Australia's Latrobe Valley. Today, this network is the ..."
     publishedDateTime: 2022-04-12T20:39:00Z
@@ -50,6 +66,20 @@ related:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/shutterstock_435613807.jpg"
         width: 500
         height: 355
+        isCached: true
+  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
+    excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"
+    publishedDateTime: 2022-04-13T14:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.abnewswire.com/uploads/0c1ef4fca18fa65a1de56be4bc17c404.png"
+        width: 600
+        height: 337
         isCached: true
   - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
     excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
@@ -88,15 +118,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Noogata Secures 16 Million USD to Streamline Enterprise Access To Artificial Intelligence"
-    excerpt: "Noogata has announced the completion of a 16 million USD series A investment round to further simplify access to Artificial Intelligence (AI)"
-    publishedDateTime: 2022-04-13T13:33:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/noogata-secures-16-million-usd-to-streamline-enterprise-access-to-artificial-intelligence/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 8
 
 secured: "M+BlBVY9pNY3kEa3Wx+Ogx1HmqpjYQ/s69ldCmFYsk7XV8x1ON7RbIB0Adwf2DSKUtcP3bmf9qZD+gDf1cjqPJHcoNur6bLWd9ShjxFbreSk0XG124iHbDZIftCDkkZmgjC8Zz+kyU3PgsyQaZzrytu6kHjzWbWH3F+/JPCfMlrH9F9YGLg8vmTHVjxOwl8u4RrZBAx4/eQZXKnzSYMhTgYbhwstojGse5pNGJtxXQqU5BW/+e2A98dEnfn9NMhOCQ6gRx+9/gpQ7hqzig+wRyw0QzbqCI+0f4OOr0SmyZNiyr2MxyaImpaYGbMrEnRV94ky0UlXdQATP9+dlQal7l6SyN/Vw6X/09LogvhzZT44m9bxflKuKV4zEjZ0g96enPWjyuFi2N7qLozTUk39x5quHKKLd5/uVcgUz9iP9ilN4UDIIZqBezlT/gAwP/9wLXnTKgB29hM3hECfWjNQEEqiv7aNOvQ/3XfXLsVAeiQSVmEHqDP1vRivYWIvBoZan4CMpW0hkVheYduUetlJrw==;wdW/tu8z8m6qH24S7aIqGA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-o
 webUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,98 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
+    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
+    publishedDateTime: 2022-04-14T11:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
+        isCached: true
+  - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
+    excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
+    publishedDateTime: 2022-04-12T13:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI and IoT analytics protect people and koalas"
+    excerpt: "These sensors are powered by artificial intelligence (AI) and machine learning from SAS, the leader in analytics. Attentis has created the world's first integrated, high-speed sensor network throughout Australia's Latrobe Valley. Today, this network is the ..."
+    publishedDateTime: 2022-04-12T20:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-and-iot-analytics-protect-people-and-koalas/article_fd455f18-6b6d-5903-b0df-5888750f31d0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/fc/0fc90ba7-da94-5282-a5c8-62e5c261492f/6255bfcebad25.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "CaliberMind Launches AI-Based Revenue Analytics Platform"
+    excerpt: "Concept: American B2B customer data startup CaliberMind has launched a B2B revenue analytics platform for enterprises to analyze their revenue. The platform utilizes AI to help enterprises to connect, analyze, and activate data to attract new customers ..."
+    publishedDateTime: 2022-04-13T10:45:00Z
+    webUrl: "https://www.army-technology.com/research-reports/calibermind-launches-ai-based-revenue-analytics-platform/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 37
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/shutterstock_435613807.jpg"
+        width: 500
+        height: 355
+        isCached: true
+  - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
+    excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
+    publishedDateTime: 2022-04-12T21:42:00Z
+    webUrl: "https://insidehpc.com/2022/04/facial-recognition-video-analytics-geospatial-and-other-ai-techniques-aiding-ukraines-investigations-of-russian-war-crimes/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 27
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/04/Ukraine-Bucha-041222-Shutterstock-2142943139.jpg"
+        width: 500
+        height: 334
+        isCached: true
+  - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
+    excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
+    publishedDateTime: 2022-04-13T09:49:00Z
+    webUrl: "https://galleonnews.com/news/247825/network-analytics-market-to-witness-robust-expansion-throughout-the-forecast-period/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 18
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11.jpg"
+        width: 417
+        height: 455
+        isCached: true
+  - title: "BigBear.ai acquires predictive analytics software firm"
+    excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
+    publishedDateTime: 2022-04-11T12:32:00Z
+    webUrl: "https://seekingalpha.com/news/3822280-bigbearai-acquires-predictive-analytics-software-firm"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "GVFc7oKdRapW5iv+J4AU9ed47WeulGm4AX74ERjwFl78N3UyyRW7X1f1PCLyXdy5VDUcZmO5uNoMggFMfM+zeGnjN/OSvGf0/uol0jee8KXGMyY04AHmdNUCOBhaEIfd6ksfdGn+Ij37WMw0mn1snv4y3mnNDFcG8/DyfpEGZNEA78JXcvTXIxUofs34i5G64s6WPeTI+hO7cvHlwhmAeZuhInLiEk6vq6titw2ACo5lwXXEDEd3iCSG7LIsA2r06gPu2DLovjF3PYFMoNcpmdR8BqupEoeV7BDryRlIEZimGXxZ/DXTPpTh6vQLRAZyd7whwAG+nLwEseHMAe0RI2p4wNdWsOt3LKdkNa8Pfj1FPkCXIzthFdP8ADEF/zw23WBtDg6c/0CVrn4Lpi88rehC0qOwGlqxhn7hUtZYFsKaQRKIwds2/TUoabT/OI1iODzbm1Wsx6aDru6zvBCkJF9UMeayNkPgQx5BR/w92teQnaU/DF90+98XwW4Ve7WnAiEmgZ6Y/LtwT632pipv+A==;oyAecxyJCVQfIJy8Yii0Fg=="
 ---

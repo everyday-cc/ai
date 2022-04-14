@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-03-01-ukraine-conflict-forces-face-recognition-and-tracking-challenges.md",
+      "title": "Ukraine conflict: Forces face recognition and tracking challenges",
+      "excerpt": "(Sergei Malgavko/TASS) The Russian and Ukrainian militaries engaged in the conflict in Ukraine have several difficulties to overcome around force recognition and tracking, and the so-called ‘fog of war' may hang heavy. Unverified reports state that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.janes.com/defence-news/defence/latest/ukraine-conflict-forces-face-recognition-and-tracking-challenges",
+      "originalUrl": "https://www.janes.com/defence-news/defence/latest/ukraine-conflict-forces-face-recognition-and-tracking-challenges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.janes.com/images/default-source/news-images/bsp_14042-idr-16471.jpg?sfvrsn=8814913e_2",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.janes.com/amp/ukraine-conflict-forces-face-recognition-and-tracking-challenges/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/ukraine-conflict-forces-face-recognition-and-tracking-challenges/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "publishedDateTime": "2022-02-28T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-driving-inclusive-prosperity-through-self-education-and-fiscal-action.md",
       "title": "Driving Inclusive Prosperity through Self-Education and Fiscal Action",
       "excerpt": "Growing Black Wealth Self-education was a prominent theme, particularly for young entrepreneurs looking to grow their wealth. Jacques, the youngest on the panel, who started his venture capitalist (VC) firm while still in Harvard Business School,",
@@ -1136,40 +1179,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
-      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
-      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "publishedDateTime": "2022-02-27T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-13-unionai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration.md",
+      "title": "Union.ai raises $10M to simplify AI and ML workflow orchestration",
+      "excerpt": "Union.ai, a startup emerging from stealth with a commercial version of the open source AI orchestration platform Flyte, today announced that it raised $10 million in a round contributed by NEA and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
+      "originalUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1254825733-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
+      "publishedDateTime": "2022-04-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-ny-state-budget-allots-75m-for-ai-at-university-at-albany.md",
       "title": "NY State Budget Allots $75M for AI at University at Albany",
       "excerpt": "Next-generation chips and supercomputers are what's needed to power the AI revolution in which devices take the place of humans in gathering data and making decisions based on that data. \"Together with Albany AI, the proposed reunification of UAlbany and ...",
@@ -340,7 +393,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1117,49 +1170,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-top-6-courses-on-ethical-ai.md",
-      "title": "Top 6 courses on Ethical AI",
-      "excerpt": "The free online course from the University of Helsinki is for anyone who is interested in the ethical aspects of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-6-courses-on-ethical-ai/",
-      "originalUrl": "https://analyticsindiamag.com/top-6-courses-on-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/ethics-banner.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-14T10:45:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY24736/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 16
+    images:
+      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/gettyimages-1391263305-594x594-1.jpg?w=2000&#038;ssl=1"
+        width: 594
+        height: 396
+        isCached: true
   - title: "AI Investors Have Opportunity to Lead C3.ai, Inc. Securities Fraud Lawsuit"
     excerpt: "If you wish to serve as lead plaintiff of the C3.ai lawsuit, you can submit your contact information at  You can also contact Charles H. Linehan, of GPM at 310-201-9150, Toll-Free at 888-773-9224, or via email at shareholders@glancylaw."
     publishedDateTime: 2022-04-11T19:00:00Z

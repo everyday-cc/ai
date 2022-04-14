@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-a
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
-    excerpt: "TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital distribution, announced that Distill by TIFIN is partnering with Harbor Capital Advisors (Harbor),"
-    publishedDateTime: 2022-04-12T14:30:00Z
-    webUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
-    type: article
-    provider:
-      name: FOX21 News
-      domain: fox21news.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "Wf7+n2s0rO+fmKql3yVBeAjMiWN2EHyLJA1Yhq9qVTRbu9PvF3StGx7HER19Jji7BEx/YEDL/r6OZClstENI+DBLaVlcDJUS6rMbgEl7eVto8U+5kHW5o4wRGYq11syM3DOENg8lnBO92G793Z3vwUUrQ+yg8wc6BBMl8k2O2voUd8ez9eaBqXFrJLtxoaLd05KC/tgfcVRs/qWUAiZRKCqYhWncWg47Gs5r+bNmqyC5rVSMs+ad2V+JzeclUbf5mwg/nriXiZ37/Un7eAWcBE2NS0OpbSuAJkQuQG0oigZYGd4kY38BrW/t3xbtoL/qWXmCaRjIqpHlxK8fYV/xQmUO9LYEnVQ/eE14jld7OHA=;LJTbntvBSoBbmLm+3UIGFw=="

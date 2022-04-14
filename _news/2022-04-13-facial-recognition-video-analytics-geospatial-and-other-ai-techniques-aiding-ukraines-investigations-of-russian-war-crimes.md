@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
+    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
+    publishedDateTime: 2022-04-14T11:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
     excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
     publishedDateTime: 2022-04-12T13:14:00Z
@@ -62,6 +78,20 @@ related:
         width: 500
         height: 355
         isCached: true
+  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
+    excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"
+    publishedDateTime: 2022-04-13T14:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.abnewswire.com/uploads/0c1ef4fca18fa65a1de56be4bc17c404.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
     excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
     publishedDateTime: 2022-04-13T09:49:00Z
@@ -85,15 +115,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Noogata Secures 16 Million USD to Streamline Enterprise Access To Artificial Intelligence"
-    excerpt: "Noogata has announced the completion of a 16 million USD series A investment round to further simplify access to Artificial Intelligence (AI)"
-    publishedDateTime: 2022-04-13T13:33:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/noogata-secures-16-million-usd-to-streamline-enterprise-access-to-artificial-intelligence/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 8
 
 secured: "r/EGmkq3oxiu3hd5onKjdbE0+v0Fl32ZRXgLEDfSAYyeeRchLhyXWVrjca4gQBru50RY6z0dgAK74rWxBeJLUCMbkFbJYmHeqGUkRHpqy+ETRzCda5OSQef4+H30aFRCAdp3dHJKN2xLnBm/+VVaqOd3pYQU6Z0AtcSK4kOFYF+z7fWvZTOKVrI+xaRwGh3sDAKweNM2YHz7AqsyLPOiFCCR9md4sNGw18X03EsOjJQUc+TOPH/G6FJ4QQmbChZaKFG8bZ5ljlG34RI6ib0dXQTZxBRq4om7KGs6NibOuzTy0PutXlIo1/3rA6R3doa4OA77vDMMmUa785ZVS9FN8ntanQvA5Nm0nTMVCW4pURnc5OfH0ATqhYNdK0bviZFFchujKixODwqNQRj08/+5K8oRKdYD36J0mjIE6qdklsxMo3nGDiktpUnUR3spWa6g/q4em8bWJQrRkNEIUFr9pbHkOEZ+lVA+VH2c2ssvGmFmVesQO/2LuamB5zBq5WTMB2wSrxKCZnIjJqM7gVhH2g==;ploJWX8ZCzkA6ItxKgafgQ=="
 ---

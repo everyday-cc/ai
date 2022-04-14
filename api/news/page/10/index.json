@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-02-2-ai-stocks-that-could-help-make-you-a-fortune.md",
+      "title": "2 AI Stocks That Could Help Make You a Fortune",
+      "excerpt": "Nvidia's AI leadership puts the company at the doorstep of a $1 trillion total addressable market. IBM provides investors with a bonus as it sets its sights on an AI future. The artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "originalUrl": "https://www.fool.com/investing/2022/04/02/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/668519/a-child-having-fun-programming-a-life-size-robot-with-human-characteristics.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-02T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-intel-shows-off-its-first-ever-desktop-gaming-gpu.md",
       "title": "Intel Shows Off its First Ever Desktop Gaming GPU",
       "excerpt": "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps",
@@ -1105,49 +1157,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia.md",
-      "title": "AI could be used to generate more biographies of women on Wikipedia",
-      "excerpt": "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed. The idea is to be able to submit, in an automatic fashion, a multitude of profiles so that they can then be validated and completed by the editors of",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
-      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
-      "publishedDateTime": "2022-03-31T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

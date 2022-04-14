@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
+    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
+    publishedDateTime: 2022-04-14T11:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
     excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
     publishedDateTime: 2022-04-12T13:14:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/fc/0fc90ba7-da94-5282-a5c8-62e5c261492f/6255bfcebad25.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
         width: 800
         height: 420
+        isCached: true
+  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
+    excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"
+    publishedDateTime: 2022-04-13T14:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.abnewswire.com/uploads/0c1ef4fca18fa65a1de56be4bc17c404.png"
+        width: 600
+        height: 337
         isCached: true
   - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
     excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
@@ -84,15 +114,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Noogata Secures 16 Million USD to Streamline Enterprise Access To Artificial Intelligence"
-    excerpt: "Noogata has announced the completion of a 16 million USD series A investment round to further simplify access to Artificial Intelligence (AI)"
-    publishedDateTime: 2022-04-13T13:33:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/noogata-secures-16-million-usd-to-streamline-enterprise-access-to-artificial-intelligence/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 8
 
 secured: "WSCCF7war3FY78eUC02MLX/6amEmXyI3MAwhu7lvZGdUmV/8MPgWbHJ8wMwcsc33Mshm2usmIWOFI9fF4k984X14DgcngK5Am6xAd+dLopDXBURIri7H013zvj6fGHRbuCSeOANvrf+VTouvj55hDY0sZq9uPNrd+8obAgFLLUmmCaa1xzFn/sSFjuD0Pm4//GSQBJw+ZObQZWMwnHraxqU/pBCPb/JLZ92LvwjwGkh6cnBWDH4kdYucT1VFUTQfMbtZflH2nTTd9NlhF5JKJFFrp+hHUQSCNLCZTZbCp63otCCBiyWuBWkpHZg8008I9rwHJfESTiH4iIKiE12Ws/8P0HUlwcANlE1uuruhGfXNj2x6KD6/TwDyi4Fcx0dMX61Kus4oda7cK3LvQxXgpH0iCREvQZ9CsKBuTHzjBtDTCoozCUh7W0WOCSJrNnAzn7Qr6/HKvbK0banefu49bNwzzBYtVEPUq6q+A/CY8XkX7cW/vZ8Sk/f++jTJoNxNQlVR3/rjpPqGd/tIN/kkfQ==;9hRASmKQHYrGAS16Zsh09g=="
 ---

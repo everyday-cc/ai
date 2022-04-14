@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-03-29-artificial-intelligence-beats-eight-world-champions-at-bridge.md",
+      "title": "Artificial intelligence beats eight world champions at bridge",
+      "excerpt": "Victory marks milestone for AI as bridge requires more human skills than other strategy games",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
+      "originalUrl": "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-envista-obtains-510k-fda-clearance-for-ai-mandibular-nerve-tracing.md",
       "title": "Envista Obtains 510(k) FDA Clearance For AI Mandibular Nerve Tracing",
       "excerpt": "Envista Holdings Corp. (NVST) said that it has received the 510(k) Food and Drug Administration clearance for its Assisted Intelligence (AI) mandibular nerve tracing feature in its image acquisition and diagnostic software platform DTX Studio Clinic.",
@@ -1100,58 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-indico-data-applies-ai-to-add-value-to-unstructured-data.md",
-      "title": "Indico Data applies AI to add value to unstructured data",
-      "excerpt": "Unstructured data is one of the most untapped sources of valuable information. Indico Data hopes to help businesses tap it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/unstructured_data.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
-      "publishedDateTime": "2022-03-28T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

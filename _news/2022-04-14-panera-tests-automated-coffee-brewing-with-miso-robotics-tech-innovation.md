@@ -2,26 +2,26 @@
 category: news
 title: "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'"
 excerpt: "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks"
-publishedDateTime: 2022-04-14T02:45:00Z
-originalUrl: "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
-webUrl: "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
-ampWebUrl: "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
-cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
+publishedDateTime: 2022-04-14T11:10:00Z
+originalUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
+webUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
+ampWebUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
+cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
 type: article
 quality: 72
 heat: 122
 published: true
 
 provider:
-  name: Fox 13
-  domain: fox13news.com
+  name: WJBK
+  domain: fox2detroit.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/GettyImages-1386927042.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/04/932/470/e91c8f00-GettyImages-1386927042.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -78,6 +78,6 @@ related:
       domain: kfvs12.com
     quality: 19
 
-secured: "t+ZdaIDm0gWYpLGoaolaPzRMYa3mnQHWDqRyaSkm+aJgGyqTm+jWc44Ie6Cz+SZOpoqL6V9lDc5VqSJD2Rws94hNoQM2TPV/gaQ3N+lhv58ULVx3V9J6TXy7NBT2PE2vqKdplp99pK/tU+/NwU9uElieaTI9qVcQc+H6TzJj0QuODO5RVPLbxwHKuP2uGLY1JDBtFa6c20dJPnWnoUxpwafI1/CUsc87PjNo2F7GyHnIYc2TuRLwKVUd2uM9eSOzO+Nlz0fRPVvxNESJJ0NQFiP12OwnPSWNfhVdxfUm3FyQe7UvvbUVOB+S1KivA2vwmJHgHyP2PeHR7RvU4xO4//Qrk/jJWrN6Fu2vkEz7AFY=;fNDU6wKIkvD6SZ/LLAWKag=="
+secured: "N7HIJSZDgdgQncLY8g+4dmkWVcD1cgVjzRaobD7+XyQCSlgOCKp1e2DrgBSB1grpnrnm80TTka3P3jNlJkTOdnsxBMrdgM4BrX8CcHxlEhYNjSGjrvNyp4rwrsK3rUOZILfTyVQVOthn3M+aAoxkegtZdMP0hh3Pi3kSndMiMgfJOwa2fsGZFR2VMbT0abOORgVV5X2AbXsDfKLMTqb2le/J14PVPpd1QXbRThZF0FgBFFPw9JtD5PJ71GbuC8Wk/imCckiM82dzsJBomVJwS3YkJvOajrji2mnULpTMr+wFWnwJOJ251w6ZuzTZ4E1ks8YICmyNTdWVLF7hq4kqZoh50JJdpksUEzzlgNc71xk=;VOrUMRbS64nC7gBaPmRpbQ=="
 ---
 

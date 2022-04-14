@@ -29,15 +29,15 @@ images:
 related:
   - title: "Driverless vehicles park themselves in rapidly expanding market"
     excerpt: "IHS Markit said the value of the autonomous car service market will exceed 1.3 trillion yuan by 2030, accounting for 60 percent of the nation's ride-hailing market that year. Li, the Baidu CEO, said China leads the world in self-driving technologies,"
-    publishedDateTime: 2022-04-14T02:40:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
+    publishedDateTime: 2022-04-13T23:41:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
     type: article
     provider:
       name: China Daily
       domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
+      - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
         width: 718
         height: 478
         isCached: true

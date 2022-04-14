@@ -25,17 +25,17 @@ topics:
 related:
   - title: "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'"
     excerpt: "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks"
-    publishedDateTime: 2022-04-14T02:45:00Z
-    webUrl: "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
-    ampWebUrl: "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
-    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
+    publishedDateTime: 2022-04-14T11:10:00Z
+    webUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
+    ampWebUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
     type: article
     provider:
-      name: Fox 13
-      domain: fox13news.com
+      name: WJBK
+      domain: fox2detroit.com
     quality: 72
     images:
-      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2022/04/932/470/GettyImages-1386927042.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/04/932/470/e91c8f00-GettyImages-1386927042.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

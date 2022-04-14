@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-08-how-ml-ops-can-help-scale-your-ai-and-ml-models.md",
+      "title": "How ML Ops Can Help Scale Your AI and ML Models",
+      "excerpt": "Machine learning operations, or ML Ops, can help enterprises improve governance and regulatory compliance, automation, and production model quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
+      "originalUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024",
+          "width": 1024,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
+      "publishedDateTime": "2022-04-07T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-this-startup-raised-185-million-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions.md",
       "title": "This Startup Raised $18.5 Million From Sequoia To Reinvent How To Use AI To Make Predictions",
       "excerpt": "A new Stanford-bred startup says it has a solution using a new class of artificial intelligence ... termed “graph neural networks,” which approaches machine learning by treating the data ...",
@@ -1119,49 +1162,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents.md",
-      "title": "Benchmark test of AI's performance, MLPerf, continues to gain adherents",
-      "excerpt": "Computer makers Asus and H3C join Nvidia and Qualcomm in AI industry bake-off for computer speed and efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "originalUrl": "https://www.zdnet.com/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/benchmark-test-of-ais-performance-mlperf-continues-to-gain-adherents/",
-      "publishedDateTime": "2022-04-06T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

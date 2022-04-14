@@ -32,6 +32,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-14T10:45:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY24736/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 16
+    images:
+      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/gettyimages-1391263305-594x594-1.jpg?w=2000&#038;ssl=1"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Class Action Reminder: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Securities Fraud Class Action Lawsuit"
     excerpt: "The law firm of Kessler Topaz Meltzer & Check, LLP ( informs investors that a securities class action lawsuit has been filed against"
     publishedDateTime: 2022-04-11T15:11:00Z

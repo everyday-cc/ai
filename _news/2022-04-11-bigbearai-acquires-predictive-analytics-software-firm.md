@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
+    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
+    publishedDateTime: 2022-04-14T11:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
+        isCached: true
   - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
     excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
     publishedDateTime: 2022-04-12T13:14:00Z
@@ -55,6 +71,20 @@ related:
         width: 500
         height: 355
         isCached: true
+  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
+    excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"
+    publishedDateTime: 2022-04-13T14:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.abnewswire.com/uploads/0c1ef4fca18fa65a1de56be4bc17c404.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
     excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
     publishedDateTime: 2022-04-12T21:42:00Z
@@ -83,15 +113,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "Noogata Secures 16 Million USD to Streamline Enterprise Access To Artificial Intelligence"
-    excerpt: "Noogata has announced the completion of a 16 million USD series A investment round to further simplify access to Artificial Intelligence (AI)"
-    publishedDateTime: 2022-04-13T13:33:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/noogata-secures-16-million-usd-to-streamline-enterprise-access-to-artificial-intelligence/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 8
 
 secured: "eyPz1b+uPjjpnkQ0nj/z6sh4V7YMVJD9ZrhaR1pRN2sdMSrqUnpkiB3QwkFIh8jNJ+CK67i8n9sGUjpUg2q5bxgcbQq90PMi+XGRAu+auaej5ND7j0b7f60zbbTgHaLwr6yinyeFOhGwIqamsV+IYnKB4+6ucbHGHm+KY+8YVbHXviQzsi4jm3Ir5arXVzZdrKWY9CZlYHCAQU4nKn4bHfcZwXf4FKQEEMqttMrVAUeJ9z4borTiG9lLfW2n8f3fbiYyfCNBLDdGv7HwhgPvYNo2BSDhpJPE9Hwj38qn1erMuMesSfNtuVbo+hhKysMLpiEF9LvLFYyXd9mB6v39k4IzXhr5YLLRRNiFvJSVq8DeLgaOVfXR+XKuU1o8XT/ICyX3BNMQg98N59UUTdvSNDN6gvUoF3/eQ0r5202EN5pOTWVTacxGg24RKX9emWsMuKPoo52n1dlykGvXbV9nyPjvAeKIBrzCh0phjPF2eVTOFRcwRnp5eqeWJlMG4q0K4zQ9er2kuQ+gO/ERhSWjNg==;ywfXwSiRI4R6cCLxdi4m6w=="
 ---

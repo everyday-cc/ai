@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-28-indico-data-applies-ai-to-add-value-to-unstructured-data.md",
+      "title": "Indico Data applies AI to add value to unstructured data",
+      "excerpt": "Unstructured data is one of the most untapped sources of valuable information. Indico Data hopes to help businesses tap it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
+      "originalUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/unstructured_data.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/indico-data-applies-ai-to-add-value-to-unstructured-data/amp/",
+      "publishedDateTime": "2022-03-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-28-complex-questions-as-face-recognition-tech-joins-ukraine-invasion.md",
       "title": "Complex questions as face recognition tech joins Ukraine invasion",
       "excerpt": "Ukraine is employing face recognition technology to identify invading Russian troops killed on its soil, a complex and unprecedented avenue for software already seen as problematic, experts said.",
@@ -1121,49 +1173,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-26-border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal.md",
-      "title": "Border Patrol adds artificial intelligence cameras to security arsenal",
-      "excerpt": "Border agents in the past five months have participated in 6,630 search and rescues of migrants along the Southwestern border. They’re hoping newly deployed technology will help them not only stop",
-      "sourceUrl": null,
-      "webUrl": "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
-      "originalUrl": "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wnct.com/wp-content/uploads/sites/99/2022/03/CBP-IMAGE-ASTs.png?w=1280",
-          "width": 896,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
-      "cdnAmpWebUrl": "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/border-report-tour/border-patrol-adds-artificial-intelligence-cameras-to-security-arsenal/amp/",
-      "publishedDateTime": "2022-03-26T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNCT",
-        "domain": "wnct.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

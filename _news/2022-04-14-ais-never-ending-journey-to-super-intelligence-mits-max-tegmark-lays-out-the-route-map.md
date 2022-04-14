@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/ais-never-ending-journey-super-intelligence-mits
 ampWebUrl: "https://diginomica.com/ais-never-ending-journey-super-intelligence-mits-max-tegmark-lays-out-route-map?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ais-never-ending-journey-super-intelligence-mits-max-tegmark-lays-out-route-map?amp"
 type: article
-quality: 46
-heat: 46
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,9 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-04/artificial-intelligence-gb1fded5c2_640.jpg"
@@ -25,6 +28,6 @@ images:
     height: 400
     isCached: true
 
-secured: "n+q6A8UeSbXEMFdl+8mMcL3MM9ky7nonSvujEvOmmY3lucJ2dHb2A1xCk84axYSxiNcRrJVQazaB2rwJBk4258vX9poFfhYkE9Ct4evXPauT2bTWlhOtORCQ/wgEt3W2352IGfpjZYaBvWs3qa5yljQLURUutubwnEr9YJ4DcIgFoNRd0YkqbEQRs3p31+4VAn/5cfL+LdDcWw3h/lJSO5oHTeM2mgvsKrGK6spJYTjvl67ubtDSyijcP46nHbsyzQFvrhhbb7b/kNmVe+DBwovIDalgbncsuAxLGZenbL89Rhy1Aj4bfTSBetBuQlBT/PrQaYKkDljmTPOA+n2GLFHVp4qzuL4eeD5RHAVs9iQ=;a/dNdkjhRtnyRjsMIGd7lw=="
+secured: "0Q0iDuRWjMOmPhah65o32k83nJ3+D0m3G05UgTVNLcuVOrUs3FLCcXMR3f+RqcStepljuUfZSZ6b63lfppYm5ssdgGkYCd0MzUyxVKB4ngCta4kwYWTd2FWosxCpWzvpvcHkggl/QjLd5Jqqzcf+eXwvRssvABzKiqiW70cNLGwnICOK3qyIR6fJI+UaOQvMdpY81oJGXtrz5/qvglxckwIlECiX0V02pZfqDadNrj+u0H86Kbbu3C/PhG7MW43rWnmBdgpbkd5p94q6zTQItx3PjD+SBZUuT6gRATWIi8jzOVhOLpsh+qC7mipu8zCQN7wFIQ65RJUp4jrbnTtauYQixUpdQrL/qHdGSp54gFPlqIZ0H7viGAsPggGWSKa21S14Bo5lRB6qw5Gq46IC+e4rQlXKGPi+x6JWF87PUBQ0o1ApYjbk9VZjKNJ28AFNixHq6zgIFgWKUMqgz+NlZm+vixUN3Yfj47RTI296dMssKddBgG9+/psYeaHdkOBp2S/7bexdhtZ1gxyWk3OilA==;9N9c3VOnMDtQeeTP6V6WRA=="
 ---
 

@@ -39,6 +39,20 @@ related:
         height: 342
         isCached: true
   - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
+    excerpt: "BOULDER, Colo., April 12, 2022 /PRNewswire/ -- TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital ..."
+    publishedDateTime: 2022-04-12T13:11:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
     excerpt: "Harbor Capital Advisors to leverage Distill by TIFIN, enabling asset managers to personalize engagement with financial advisors and drive"
     publishedDateTime: 2022-04-13T12:20:00Z
     webUrl: "https://www.finanzen.at/nachrichten/aktien/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry-1031349538"
