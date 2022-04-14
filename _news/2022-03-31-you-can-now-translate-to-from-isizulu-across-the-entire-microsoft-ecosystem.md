@@ -1,15 +1,17 @@
 ---
 category: news
 title: "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem"
-excerpt: "Microsoft (NASDAQ: MSFT ) has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most-spoken official language across the entire Microsoft ecosystem of products and services."
-publishedDateTime: 2022-03-31T08:04:00Z
-originalUrl: "https://za.investing.com/news/you-can-now-translate-to--from-isizulu-across-the-entire-microsoft-ecosystem-2530135"
-webUrl: "https://za.investing.com/news/you-can-now-translate-to--from-isizulu-across-the-entire-microsoft-ecosystem-2530135"
+excerpt: "Image sourced from NS Energy. Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most ..."
+publishedDateTime: 2022-03-31T08:34:00Z
+originalUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
+webUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
+ampWebUrl: "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
+cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/"
 type: article
 
 provider:
-  name: Investing.com
-  domain: investing.com
+  name: IT News Africa
+  domain: itnewsafrica.com
 
 topics:
   - Microsoft AI
@@ -17,11 +19,11 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-    width: 251
-    height: 282
+  - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft--696x452.jpg"
+    width: 696
+    height: 452
     isCached: true
 
-secured: "xXJu8Avyr5i85+wXNk2phu57gcPDTRJJt3MyUmr7UwpydtqhYlUB0r0jRW7EXLxSD19QtNtPq9z8CJ2AOBrjr9Snmx5yRs5sZo8FxBqb8qznjYp3py2GbNbaBw9KyDcHH7h2qcSKU78PqGDfk1hp+pNuzSGPptRaekeu+3mXLvpKRQIlruTZgwcYYlyqHttsvKPwi8hTKgd8p8FAHAJwD0Pzt3JTnhLCpXgLVFcbhfVQN4vFgv7tITzKb4xcK/WkYFLv9ukZMcHhlxruQ1xqPcV6l9kIhs2T+DypJFZgI7AU053NBPx8ysNx1lAInrMCp+4hJsNFCWfccyQikZFfaHePHM5SZqUFGiW5hDT7Lw8=;URVLySey7Z2DpLJYgycP8Q=="
+secured: "4Bov481ww6GDWwAZYtXVhRBLBtZ+mrNvNySFSo+pfiHG9xB4orAUyp44kqxr+C3L5uLJbHbLNeON5dL0jHjwc82m9N8pr/2FYtO1jVAoRiHcoaD/lMPPqqSvfezhgOd1F4ykuBg9Z/FrvO1bV/Y+UBHcwL4zurThJrtSCAjYK8MLm9WYLy9WaGb0x7sv7JNjWTIDcVIx3KBx5zoIebQrrQOXHCeHah3FQVmfdNwAjp8kZYYn9f6e5MfP+SaAi6isoE600YX+bNFJK+IpjyY3Uqyczigsgjzf6MPROd8+q3dtq8phNGlO2LuKyxiHKH5j1JhHGaHkiV0d/frtXWPFGiH7htZgZHtnA9NHtRW3TDY=;ssS3UDn2kn8PvfNQGzHhJw=="
 ---
 

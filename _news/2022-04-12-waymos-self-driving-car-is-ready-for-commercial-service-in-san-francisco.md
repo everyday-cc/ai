@@ -2,17 +2,17 @@
 category: news
 title: "Waymo's self-driving car is ready for commercial service in San Francisco"
 excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
-publishedDateTime: 2022-04-12T13:09:00Z
-originalUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
-webUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
+publishedDateTime: 2022-04-12T13:18:00Z
+originalUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI in Autos
@@ -90,6 +90,6 @@ related:
       domain: nbcsandiego.com
     quality: 18
 
-secured: "5DtW+9eMEfvHcmrCYe5YyhO/azircIa9SLOKFwOjJCPSRmvcXSf5VYoeL6ukKWF5XLmgrCwSo5WHXow30njqrf6hzP/qvA5DS/r7sYURGXKOYgHL8Wfbs0dxbcqEFlewBJbDEFNEoQdn9Vx0geh82OXw96/NTP40HvDqG2C5gAy1zSbRc3rPCssqVACmg9eMlDMR9iV+TIdYrqsWAd5vqWnEtgGc4WoueqSrkHmctnZQR+mx8QU5YFoJ8plKQVI7xETZ51YNMrrBe6EqK8BjAU8450A4lipj6cOg4RUBZx8Rh468tvUOVaRWK+BuuQRhknQCw27SXPR7Dt62GcCIo67Pz2a3gboMx78L6k3BGWdNY6BnAuga5WEOD3TNY20cOW89nHsuTeKV8Ny4N5VyP98pBvhddpfsjsrEJ4sIIFuZsrLPXBX7OMmPuXIUpF94pd2DpQ5Tg7imEYWZFVsbG+g+HWlLwUYDIfrfYqKj0n1ZlUVfy46ssVj2zaDaGKKU2hrJwvq7T1Pti5XqoJvbBQ==;Jylyt9eX05pDPC5ci+f1Ow=="
+secured: "Cs5GPMKxESjxzzVWTgi0RbXxTeVbDkxcbQidG1CvsFkhj/hHojTcVCkVEye0Qgh5GT5mwIcw5YPZrn4Se0soQ4igTjlDnfdYURn2BWqyt611Em5AiTfJ5IL4KnlmsOLJRMMYVWzHz/2VTsETHKcaBM8rmfSvivB6ZM1bXEAxU1MwXqsB/h1xMb989R0l87zYqBUBocxzLiuxF1Ek5eZbVMG9ZDBuiJ/gKuwHyDWO7ex7k/FTbxfg6xtCAsO/lsRyAnVfdLPwCA+aL5o4kpx9WWtquBuRiFmLWvo8ES5RSIJDUd5OgNh70KNdRHJdfsHczdhjwpLkGOLGHGUJ3h4Np9eDf1kKWbTMJ+l00F6/yBY=;LX6+y/mVAWPUBjlzHRzAZA=="
 ---
 

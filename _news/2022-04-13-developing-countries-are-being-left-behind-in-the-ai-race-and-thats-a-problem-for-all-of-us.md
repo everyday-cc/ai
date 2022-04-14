@@ -26,6 +26,22 @@ images:
     height: 213
     isCached: true
 
+related:
+  - title: "Developing countries being left behind in AI race"
+    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
+    publishedDateTime: 2022-04-14T08:39:00Z
+    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
+        width: 600
+        height: 480
+        isCached: true
+
 secured: "C6EjbviyrV2ctlqiF+ChxElVJPHEm438s65En2BXQFPuuK4g0OEzyzLOfJRXySSvxcVUeYfoJGMycXLkAAhbz2fsaXDWnVCN+lnoWcYeesTBlDZF+2iO6sApC6g/5v3Jlr4xcEFkslrd/zx3LIxGkZu/51HKFuwipr0jiOSlSeRutEWVAtnVeFDoZSfi3K5J/zPch7DRgydPofdVPJIeoGBo4RAQI/7kBpHrfaWNmT4RbyOgZrTiuri3zcpPBxq83gS5F02PEk/olxtfAHMMjh1CU11aO5t3ScMLWyAYtFNmGy1bZyg9ueOmf20TxehsHWLGJj6keIJIqyyupacO1e8v9UvyJ+kjDkwQ/sogSnPJVICpagyujqcEqOLK+5XI0k1tGP9NDgEwRQTD0HgGtBKCYUjlRbtHA2SMCTuhkkcr7JAjGWUMhs1RhkVjD5WTmp4C5iNb9CuKNB8YiOR9NuefP27RoOeaBZkiIsmWR1dHrsGrMJedM5kc7ADqeZ+Cq7IHX79ViXZKqikLfilSqQ==;4TZuwF/t0D4+7Mk6FB1XmQ=="
 ---
 

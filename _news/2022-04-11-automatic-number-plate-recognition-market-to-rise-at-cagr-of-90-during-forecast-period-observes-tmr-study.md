@@ -33,7 +33,35 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 39
+    quality: 41
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
+    excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
+    publishedDateTime: 2022-04-14T08:29:00Z
+    webUrl: "https://menafn.com/1104019544/Machine-Learning-As-A-Services-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?679703"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Global Field Programmable Gate Array Market To Be Driven By The Growth Of AI And Deep Learning Technologies In The Forecast Period Of 2021-2026"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report"
+    publishedDateTime: 2022-04-14T09:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"
         width: 600

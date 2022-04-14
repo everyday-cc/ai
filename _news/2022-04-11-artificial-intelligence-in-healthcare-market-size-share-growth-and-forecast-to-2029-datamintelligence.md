@@ -75,6 +75,17 @@ related:
         width: 353
         height: 249
         isCached: true
+  - title: "Evolution of artificial iIntelligence and machine learning will transform the Software-as-a-service (SaaS) market"
+    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in ..."
+    publishedDateTime: 2022-04-14T09:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 18
   - title: "Major General Martin F. Klein Joins C3 AI as Senior Vice President for Defense and Intelligence"
     excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, announced that Major General Martin F. Klein, USAR (TPU) has joined its executive team to oversee the company's defense and intelligence operations."
     publishedDateTime: 2022-04-13T13:16:00Z

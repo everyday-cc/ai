@@ -70,6 +70,17 @@ related:
         width: 353
         height: 249
         isCached: true
+  - title: "Evolution of artificial iIntelligence and machine learning will transform the Software-as-a-service (SaaS) market"
+    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in ..."
+    publishedDateTime: 2022-04-14T09:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 18
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
     excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
     publishedDateTime: 2022-04-11T09:45:00Z

@@ -37,12 +37,12 @@ related:
         isCached: true
   - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
     excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
-    publishedDateTime: 2022-04-12T13:09:00Z
-    webUrl: "https://www.chron.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php"
+    publishedDateTime: 2022-04-12T13:18:00Z
+    webUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 38
     images:
       - url: "https://s.hdnux.com/photos/01/25/12/62/22326455/3/rawImage.jpg"

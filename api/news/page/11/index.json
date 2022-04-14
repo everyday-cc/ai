@@ -722,6 +722,58 @@
       ]
     },
     {
+      "path": "_news/2022-03-31-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
+      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
+      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
+      "originalUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
       "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
       "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
@@ -916,8 +968,8 @@
       "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
       "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI's breakthrough approach to delivering 'machine learning for everyone'.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220331ny09122/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220331ny09122/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -930,8 +982,8 @@
       "publishedDateTime": "2022-03-31T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1079,49 +1131,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal.md",
-      "title": "Get up to speed on deep learning with this certification bundle deal",
-      "excerpt": "Deep learning drives a wide range of IT products, from consumer-facing recommendations to internal data analysis. The Ultimate Deep Learning & NLP Certification Bundle offers a detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/11/10/artificial-intelligence-face-header.jpg",
-          "width": 1600,
-          "height": 948,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/amp/",
-      "publishedDateTime": "2022-03-31T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
