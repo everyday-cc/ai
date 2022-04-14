@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scott Hollifield: C.W. McCall and the future of truck-driving music"
-    excerpt: "Was “Convoy” a good truck-driving song? Your artistic mileage may vary, but in terms of commercial success, “Convoy,” released in 1975 at the height of the CB radio craze,"
-    publishedDateTime: 2022-04-09T11:00:00Z
-    webUrl: "https://hickoryrecord.com/opinion/columnists/scott-hollifield-c-w-mccall-and-the-future-of-truck-driving-music/article_4c5bde20-b68c-11ec-8dd8-4f056d2488b9.html"
-    type: article
-    provider:
-      name: Hickory Daily Record
-      domain: hickoryrecord.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Hollifield: C.W. McCall and the future of truck-driving music"
     excerpt: "Was “Convoy” a good truck-driving song? Your artistic mileage may vary, but in terms of commercial success, “Convoy,” released in 1975 at the height of the CB radio craze,"
     publishedDateTime: 2022-04-10T07:00:00Z

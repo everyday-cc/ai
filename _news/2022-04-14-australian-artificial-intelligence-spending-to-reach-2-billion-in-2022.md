@@ -1,0 +1,74 @@
+---
+category: news
+title: "Australian artificial intelligence spending to reach $2 billion in 2022"
+excerpt: "Australian organisations will spend some $2 billion on artificial intelligence systems by the end of 2022, according to research from IDC. In the market research firm’s Worldwide Artificial Intelligence Spending Guide,"
+publishedDateTime: 2022-04-14T01:20:00Z
+originalUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spending-to-reach-2-billion-in-2022-578796"
+webUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spending-to-reach-2-billion-in-2022-578796"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: CRN Australia
+  domain: crn.com.au
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/20220414121726_crn-14_ai_artificial_intelligence_iStock-961970568.jpg"
+    width: 1400
+    height: 900
+    isCached: true
+
+related:
+  - title: "Asia/Pacific* Artificial Intelligence Spending to Reach $32 Billion in 2025, Says IDC"
+    excerpt: "SINGAPORE – According to IDC's latest Worldwide Artificial Intelligence Spending Guide, Asia/Pacific* spending on AI systems will rise from $17.6 billion in 2022 to around $32 billion in 2025. Businesses invest in artificial intelligence (AI) to gain a ..."
+    publishedDateTime: 2022-04-11T15:41:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 50
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
+    excerpt: "Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025, a new IDC report has shown. Over the next five years,"
+    publishedDateTime: 2022-04-09T11:54:00Z
+    webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=946257"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 36
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/English_Movie-1a.jpg"
+        width: 640
+        height: 411
+        isCached: true
+  - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
+    excerpt: "New Delhi, April 9 (IANS) Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025 ..."
+    publishedDateTime: 2022-04-09T20:28:00Z
+    webUrl: "https://menafn.com/1103984661/Artificial-Intelligence-spending-in-Asia-Pacific-to-reach-32-bn-in-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?913845"
+        width: 374
+        height: 250
+        isCached: true
+
+secured: "mRiAnPaa7VV5KqdM/XVWGGFBWDu4z6YdMt9qoX0AKas8UtOHqYdjax5KfXnAEpBRo44ISZOUnmvUtLXRVGZUYqyPpMYCjjyadWvDFAszJ8L0c9ID+gZVRcP9I0zNaCuv0Gx6lRh/I1yvYLVBruziGAVHTmtTzj/N1UcnNzeQnwsR+Xy5z8ZI96Ywh8m+AMFnswP1dzV3ikqR7lJE/j0cRXpd0QJzN0LeEta3YKcWMK0hR+rqf6iYWxPCQqoeQgJSz4cW02RRs2lFPmqnCe5sWG+O0IuemF3SCzBf7MturpoEAF/2QAbbyknXnoqb3uzYjR05LCt0Tb22Zqs17W1voWFivZg10tirVm3wftUfWl8=;yYbWn2th/j5Zsh+19MiLCA=="
+---
+

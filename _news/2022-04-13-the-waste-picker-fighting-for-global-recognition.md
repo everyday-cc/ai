@@ -53,6 +53,20 @@ related:
         width: 2048
         height: 1812
         isCached: true
+  - title: "ASU's union struggles with getting recognition from administration"
+    excerpt: "Arizona State University's independent student-run news organization covering Tempe, Phoenix, Mesa and Glendale."
+    publishedDateTime: 2022-04-14T02:48:00Z
+    webUrl: "https://www.statepress.com/article/2022/04/asu-union-struggles-to-get-recognition-from-university-administration"
+    type: article
+    provider:
+      name: Arizona State Press
+      domain: statepress.com
+    quality: 24
+    images:
+      - url: "https://snworksceo.imgix.net/asp/49dbd490-4dc7-4853-b022-cd6c484e4920.sized-1000x1000.png?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "r8g67ez8HXz4UK4jLOQvU5hta73jArXXWwULNWKEu/glCUjR0xkry0CvLHb1fNdP8D2R9HXMApJorC7/MyPdtic4gNiGc3oLZ6vaROyT10dAulSgy0RMsvr+kwFv9a+PBa79IF0dxVHTfPx3skMsipR1tW41QGJSY9chUufOX5rIO6Q+H6GldCpkLPhZ2Ez6A3Pfka4eIfVw+4yRolb7wDJnuAq341I5KC37JpDU1jyDOFC/evjFt9kVcIUtiDX+DnpTmEEgmhZWH22fNN/QdP5WzmXhvAq40KJCdHdVV/xyJZLZbs+Jv+n6UA2G4A8fKFLWAUh4aAuNlluxtHKZU+QPY2eXKvzh+eX62jIlMhw=;lUaUx+BBB0dYA1PYW+ubxw=="
 ---

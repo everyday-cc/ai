@@ -2,6 +2,152 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-03-09-a-text-reading-robot-with-heart.md",
+      "title": "A text-reading robot with heart",
+      "excerpt": "Tsukuba, Japan – Scientists from the Faculty of Engineering, Information and Systems at the University of Tsukuba devised a text message mediation robot that can help users control their anger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/945987",
+      "originalUrl": "https://www.eurekalert.org/news-releases/945987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e28441c5-578b-46f9-b2ab-6562ad8819fe/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-predicting-the-past-with-ithaca.md",
+      "title": "Predicting the past with Ithaca",
+      "excerpt": "Restoring, placing and dating ancient texts through collaboration between AI and historians.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
+      "originalUrl": "https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/7pHp20oChCga-7e2QR2jlbMnfZPVRzMp2HAKkzw9WGLYI3oyJKf2Czhn-I3ra5AqHmI_6WVUQKsiFy3d8DHwlPosD6jVISBa6XPCi-wVq94CdPLq8Q",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-how-ivanti-hopes-to-redefine-cybersecurity-with-ai.md",
+      "title": "How Ivanti hopes to redefine cybersecurity with AI",
+      "excerpt": "Ivanti's quickness in using AI and machine learning to take on these challenges is noteworthy. In the span of fewer than eighteen months, they've delivered their AI-based Ivanti Neurons platform to enterprise customers and continued to innovate it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1222958278.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/08/how-ivanti-hopes-to-redefine-cybersecurity-with-ai/amp/",
+      "publishedDateTime": "2022-03-08T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-artificial-intelligence-and-corporate-social-responsibility-can-strengthen-anti-corruption-efforts.md",
       "title": "Artificial intelligence and corporate social responsibility can strengthen anti-corruption efforts",
       "excerpt": "AI has increasingly become a part of our daily lives, from digital assistants like Siri and Alexa, to self-driving cars like Teslas and ride-hailing applications like Uber. Given that AI has been ...",
@@ -1023,143 +1169,6 @@
       "provider": {
         "name": "Euronews",
         "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-baidu-head-stresses-innovation-in-autonomous-driving-policies.md",
-      "title": "Baidu head stresses innovation in autonomous driving policies",
-      "excerpt": "China should speed up the innovation of autonomous driving policies and promote the popularization of smart transport to alleviate road congestion and reduce carbon emissions, said Robin Li, co-founder and CEO of Chinese tech giant Baidu Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/08/WS6226af88a310cdd39bc8b163.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/08/WS6226af88a310cdd39bc8b163.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/08/6226af88a310cdd3d8337cb1.jpeg",
-          "width": 720,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T17:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strioai.md",
-      "title": "Zoox acqui-hires team from robotic strawberry-picking startup, Strio.AI",
-      "excerpt": "Amazon-owned robotaxi firm Zoox this week announced that it has acquired Strio.AI. The Boston-based robotics startup was founded in 2020 by MIT alumns to bring autonomous picking and pruning to strawberry crops.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/",
-      "originalUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/zoox_strio_fieldday-1000x666-1.jpeg?w=1000",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/",
-      "publishedDateTime": "2022-03-07T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-how-darpas-rd-model-brings-ai-advancements-to-the-enterprise.md",
-      "title": "How DARPA's R&D model brings AI advancements to the enterprise",
-      "excerpt": "How it matters to the enterprise. For almost five decades, DARPA has led the application of rule-based and statistical-learning-based AI technologies. Today DARPA funds a wide range of activities from basic research to technology development, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
-      "originalUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-08/shutterstock_696395281.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
-      "publishedDateTime": "2022-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/openai-bowling-balls/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-bowling-balls/amp"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
         width: 445
         height: 250
-        isCached: true
-  - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
-    excerpt: "OpenAI recently released the next-gen AI model of its previous DALL-E text-to-image bot; Can now generate HD images and edit them too!"
-    publishedDateTime: 2022-04-09T10:58:00Z
-    webUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/"
-    ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 47
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/04/DALL-E-2-AI-model-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
         isCached: true
   - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."

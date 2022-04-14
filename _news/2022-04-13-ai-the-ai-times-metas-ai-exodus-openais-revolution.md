@@ -55,22 +55,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "OpenAI’s New “DALL-E 2” AI Model Can Now Edit Select Parts of an Image, Generate HD Images"
-    excerpt: "OpenAI recently released the next-gen AI model of its previous DALL-E text-to-image bot; Can now generate HD images and edit them too!"
-    publishedDateTime: 2022-04-09T10:58:00Z
-    webUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/"
-    ampWebUrl: "https://beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-dall-e-2-ai-model-edit-select-parts-of-image-generate-hd-images/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 47
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/04/DALL-E-2-AI-model-feat..jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "Wmc0e+6gRFrRy6E4ZhppOyW5wITnxbcs3CYJjjJ5t0OcS04LKw0uynIQsZkvgu08DkF+f8kpgZOWxmt0pZ7JgcBw6PLRh6+JeNVw3Wz3w+Wx5bsH5zakJqTAdTOdZhrA2kAPGJcwHYrneP8yrrSE45b8DX/RjxopjNkEuqaY78auaFIyzNA4dbbHjlZGMoNLuFQfWiB1rCsZ63cAK3JqJxchkoWLa3imwGApCavK3z1fNeMJ6Gzl2TmiY4gSTEuTy7MvchkL7nL/J2IiU/Zjjm77IoyyRbGhW34ZOO1Y731WPXUcaxR8dAjn4du778qp13FoSTjQEYiIqPlNeXbGklzBQ5uaRv7kiMXdDwN+TVcxVDW7B+zn2QFeKAqg0bAokB36sUee8iNDQKgzKT7n3M5qOYOoqhyLSfdczrvD1EwwdMD0DgW0J6sSwWtdElF+huMe8XH/NKirHFFG6XibWVcZyd0PWe28iAS5OfWRj62/3Jmbt7b36JnOytCi96GyWcP6soU0a4j/4aoMcNBBxQ==;6svhdH/WqpYP9vEcCWdOLA=="
 ---

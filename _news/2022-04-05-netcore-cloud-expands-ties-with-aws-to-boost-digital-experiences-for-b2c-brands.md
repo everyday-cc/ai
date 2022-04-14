@@ -3,8 +3,8 @@ category: news
 title: "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands"
 excerpt: "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings."
 publishedDateTime: 2022-04-05T07:41:00Z
-originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=30"
-webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=30"
+originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
+webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "ufaI1vG+52nb9ymeuZPyCgUMaBEuDwd62fX2ovtKs9JsluknRmuzQuWYMbKAGa+TIGRqwKqp47rqqfWK3cIH7ntjVMJeEFUauJTR6uuzswShSYRTogxXOBQCLToXhG+areTXjGJBJKQ0eS2bXT2A7RYVBeJHZkfJG1dBPsKUlEi84ic952NjedUvZ7a9wURB0SM91LDTvdgke0VdA3GraGuHG6rLgWXeJwYT8EN8OWie8wzWVCjWzRYmXKph9iSVxQ+wE28jvHQmZeQdkWTzOAlSXjsN0x8GtKrrwKW241Yul8JswT9dmSxknUGKiDzRmp/kUrlXI92I1gwd8yeUv8w+rCJWcpvEFcZC6bFm4Mc=;1ICacBQN1wQqnf/n5NGusw=="
+secured: "22zuRqglr1tnU+wZbXO9ptWO1doaIfx/FHEd++mGVQX7RR9n4wBDOBIYu4xi36wf5y1jLGo5ehkEC/Im57X92roXxt/sxObMQa4B1GBAcg9mmzrBGF3bXGt/5nMrH958E9uQ+jdO2duBFEYbP9XZrRWuQ3QUobZjLBvF5/1E3GR2LJicwGB/Ed+w4nI8dberqZHHZBQXQNChy+qBL3bh+BOn+2ryuHFTFp3QqoTBfBPoERWWXjT+t5D11z5KkOltKPPDY2eJs/oQZtTxZQHmIxcfy9iExEdov9YQK4WgSgyzFtz1fNBV05MAQKFxtPrkLbMe/8MKugHt7vn4GcM4w33lXqRMH2oXYGGiED8feJI=;ROlRMYjq3FPLdKrRrQlBzQ=="
 ---
 

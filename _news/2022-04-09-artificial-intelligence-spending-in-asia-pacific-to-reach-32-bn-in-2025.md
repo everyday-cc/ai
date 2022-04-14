@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Australian artificial intelligence spending to reach $2 billion in 2022"
+    excerpt: "Australian organisations will spend some $2 billion on artificial intelligence systems by the end of 2022, according to research from IDC. In the market research firm’s Worldwide Artificial Intelligence Spending Guide,"
+    publishedDateTime: 2022-04-14T01:20:00Z
+    webUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spending-to-reach-2-billion-in-2022-578796"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220414121726_crn-14_ai_artificial_intelligence_iStock-961970568.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Artificial Intelligence spending in Asia-Pacific to reach $32 bn in 2025"
     excerpt: "New Delhi, April 9 (IANS) Countries in the Asia-Pacific region are set to spend $17.6 billion on artificial intelligence (AI) systems in 2022 and this is expected to reach $32 billion in 2025 ..."
     publishedDateTime: 2022-04-09T20:28:00Z
