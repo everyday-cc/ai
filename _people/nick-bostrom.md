@@ -12,7 +12,7 @@ website: https://nickbostrom.com/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=oQwpz3QAAAAJ
-  citations: 21146
+  citations: 21166
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Nick_Bostrom
