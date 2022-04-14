@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T18:13:00Z
 originalUrl: "https://www.automation.com/en-us/products/april-2022/rohde-schwarz-oem-deep-packet-engine"
 webUrl: "https://www.automation.com/en-us/products/april-2022/rohde-schwarz-oem-deep-packet-engine"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Automation

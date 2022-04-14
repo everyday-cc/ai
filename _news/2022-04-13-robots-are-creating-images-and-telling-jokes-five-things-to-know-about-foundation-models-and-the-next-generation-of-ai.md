@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "5G and AI: Ushering in New Tech Innovation"
+    excerpt: "The combination of AI and 5G networks is poised to revolutionize how business gets done. Read on to learn how."
+    publishedDateTime: 2022-04-14T19:00:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/5g-and-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 17
 
 secured: "nIl7+DmSaoUWwHsOXdhIYl9uUpWNMnjnaJNuhn6G8tOO5cyEVAaGuL2sGgrHLz90qVwScy5W3YL9uGu4diRJyRulu4Qim78QQ48pZqjlP5aZYLkrrGly32t9XkeBy/bIGWiL21mkramYEtL8HeoGE0VC/vwjT+FURP3oI4KeaxwEmdjWIy4CJFANKzR7u2ow1NPyR0Uon6NoMHoTOn66940fX3lMg59J0MCtQPjorbBbtb2/TGacCg8SJL7Wj9ruGXTdkVBum3gzSdd/SjHbmTRQiInEeVEtGKob2qGDEhni3lT7IeGOrvHSyFLdwqDmrZvawxkU/Az0kGgYBGLNWeiICzbIkLPVmT7KLJqA+LP46WBB4VjYMI0NC7m/6s/cLMDEz5Esx6rvUqBbqIzpvjMJ1OfeZRr57fDX0ECQzEurHoE+1j0ukFTfDDeDA6pGTG5fj1NODwQwrDxQHfvdgkfVBM4lv5BUnZCaMibm/swm2Iauo+WuuR96Nut4uhkzZLpTGPLYNroMrJJxSUTAoQ==;0U2AShe4h8YJouhxIxpzYA=="
 ---

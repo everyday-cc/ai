@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T10:17:00Z
 originalUrl: "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
 webUrl: "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Fox 5 NY

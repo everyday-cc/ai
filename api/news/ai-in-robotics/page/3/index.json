@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-03-25-artificial-intelligence-and-robotics-uncover-hidden-signatures-of-parkinsons-disease.md",
-      "title": "Artificial intelligence and robotics uncover hidden signatures of Parkinson's disease",
-      "excerpt": "A study published today in Nature Communications unveils a new platform for discovering cellular signatures of disease that integrates robotic systems for studying patient cells with artificial intelligence methods for image analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-03-artificial-intelligence-robotics-uncover-hidden.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-03-artificial-intelligence-robotics-uncover-hidden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/parkinsonsdi.jpg",
-          "width": 631,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-03-artificial-intelligence-robotics-uncover-hidden.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-artificial-intelligence-robotics-uncover-hidden.amp",
-      "publishedDateTime": "2022-03-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-03-25-south-africa-to-add-robotics-coding-to-school-curriculum.md",
       "title": "South Africa to Add Robotics & Coding to School Curriculum",
       "excerpt": "The Department of Basic Education (DBE) announced that it will be adding robotics and coding to the South African curriculum. According to the annual performance plan 2022/2023 which was released by the department recently,",
@@ -1277,6 +1234,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics.md",
+      "title": "Chipotle Tests Chippy: An AI Kitchen Assistant From Miso Robotics",
+      "excerpt": "Chipotle Mexican Grill has revealed a new autonomous kitchen assistant that makes tortilla chips. The unit, dubbed Chippy, was developed in collaboration with Miso Robotics, whose Flippy robots have seen deployments in several White Castle restaurants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
+      "originalUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.iotworldtoday.com/files/2022/03/5138.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iotworldtoday",
+        "domain": "iotworldtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

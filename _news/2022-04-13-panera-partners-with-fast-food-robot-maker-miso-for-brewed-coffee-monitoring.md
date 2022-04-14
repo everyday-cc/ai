@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'"
-    excerpt: "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks"
-    publishedDateTime: 2022-04-14T11:10:00Z
-    webUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation"
-    ampWebUrl: "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp"
+  - title: "Panera will test an AI coffee system from the makers of the Flippy burger bot"
+    excerpt: "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,"
+    publishedDateTime: 2022-04-12T12:34:00Z
+    webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
     type: article
     provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 72
+      name: Engadget
+      domain: engadget.com
+    quality: 66
     images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/04/932/470/e91c8f00-GettyImages-1386927042.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/3c8ecfb0-b77d-11ec-bcdf-b07ad7941322"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Panera Is Testing Miso Robotics’ Artificial Intelligence System To Ensure A Consistent Coffee Experience"
     excerpt: "Now, the company is leveraging artificial intelligence to ensure its coffee is of consistent quality for every cup. Miso Robotics today announced a partnership with Panera to test its new product line, CookRight Coffee. Details on the scope of the test are ..."
@@ -50,15 +48,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "Miso Robotics Rolls Out Robotic Coffee Product"
-    excerpt: "Miso Robotics said the new product is an artificial intelligence-powered system which monitors key coffee metrics such as volume, temperature and time data, and helps Panera associates brew a new batch of coffee at \"precisely the right time\". Miso said ..."
-    publishedDateTime: 2022-04-12T13:46:00Z
-    webUrl: "https://socaltech.com/miso_robotics_rolls_out_robotic_coffee_product/s-0082381.html"
+  - title: "Panera testing CookRight robot coffee maker"
+    excerpt: "... chain Panera Bread to test its latest robot, a coffee maker that can brew the perfect cup of coffee. Pasadena, California-based Miso said its CookRight Coffee line uses artificial intelligence to monitor key coffee metrics such as volume, temperature ..."
+    publishedDateTime: 2022-04-12T13:59:00Z
+    webUrl: "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf"
     type: article
     provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 34
+      name: KSDK
+      domain: ksdk.com
+    quality: 59
+    images:
+      - url: "https://media.ksdk.com/assets/KSDK/images/e63dcc34-0e0e-4244-905f-b7d4f30992d7/e63dcc34-0e0e-4244-905f-b7d4f30992d7_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Panera to Try Robots Serving Coffee"
     excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
     publishedDateTime: 2022-04-12T13:45:00Z

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Researchers develop new AI form that can adapt to perform tasks in changeable environments"
+    excerpt: "Can robots adapt their own working methods to solve complex tasks? Researchers at Chalmers University of Technology, Sweden, have developed a new form of AI, which, by observing human behavior, can adapt to perform its tasks in a changeable environment."
+    publishedDateTime: 2022-04-14T19:39:00Z
+    webUrl: "https://techxplore.com/news/2022-04-ai-tasks-changeable-environments.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-ai-tasks-changeable-environments.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ai-tasks-changeable-environments.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-ne-4.jpg"
+        width: 750
+        height: 340
+        isCached: true
 
 secured: "ggbkFkbscrijcmR7IHXZXt+8Dq/XNtvNzoHjhEHyPTzxCHiEvOFNVJTJcUtg/DNauPMJHd0euxv5/9ZPNXp5dXYAXhm8tEwP8e2U12w65/CK7PvkB84lxZNVHDOJ399+s2zgs9vMbkdKvnC65CFlsknJt6AelS58TLatK/0hF079buy1P3buplZD1bLdc3ts7OTIVOyCtwQzl39nYh2areszCit39zfhTrcgkpJQVvvC+cU/+UaGXX8ZkIWFFPDiwCfYHrE5iW1mLNDASJHuHH2HKl8ykNLEkHfkSxs3Kx862maAtmcqFR+GHYBwIMG2xNma1Pq3uF51vAw5v2AUW07X48qQsLzkS728y1qnAeH3MCom0ci9PveUtnqOGtOk4t0ORkTKkOPYljnnNjPQs4AEEy3g5ziblR2QOCeH8YhDLamiy0kYljVksSZz7SUp/LQnol+YBnfUg48GQHl1H7FFNFoJFGpX+GbqK81OYEl7NXZxXZygogPXbt8trfwa78Y4Ctni63rHZv9PEbkW6A==;/5XAl1aR+f4Epj4iA4MB0g=="
 ---

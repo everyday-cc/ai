@@ -87,6 +87,15 @@ related:
         width: 307
         height: 307
         isCached: true
+  - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
+    excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
+    publishedDateTime: 2022-04-14T19:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189811-189811/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 17
 
 secured: "G9w41Awk2xAlqcAgiZw4ofU+//rTcdXoVp48N1X5K3Of8iwVklrrDPmLYuaQv7pnGEJpW7l2XXi3fER8AW20w6OhrpePTrvKh7o8KgxAHS/6UTUSVcK5HxxScJ7COxHkRm4T82jxpnYN5m7oNCPxQBGRIqINbNweIrfK41yPH9vkdm07SSkHUW0Vttvga+yr+7DBxCRkzD4tCNhSuQHSYyKG3JyVtztAkIu7PhjoR6WVdEgMQZgKn2Wel/PvqocytQHRzWNLpA4Spc0Rumh6tUOvc7FBTKrlyEWEMDftONPWUKlpa5FCWQDo2aWpCqGFXkN+TPFsz0J4i9luAWcaKncdjBfLP1PLX5D2uQKYHGaqSIa3KPI5C8gt1i2C/F8i9wLcuEvuywAFvR3QDFD70OZykebLWFK5hlsCjrSDD8RK6yIl9meWKYV82+n+ti/Uidb+/Qw06VknceamHC5VWgQSskXSKNkI/kORcAQ+nFXx61XQXfj4SWRnnKkmcQwXC+ByNr+dGIOJj6wlFXVKLQ==;Wpw5dFYdyG7aiRV7JJOk2w=="
 ---

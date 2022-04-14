@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T18:43:00Z
 originalUrl: "https://filmmakermagazine.com/114130-interview-dp-jessica-lee-gagne-severance/"
 webUrl: "https://filmmakermagazine.com/114130-interview-dp-jessica-lee-gagne-severance/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Filmmaker

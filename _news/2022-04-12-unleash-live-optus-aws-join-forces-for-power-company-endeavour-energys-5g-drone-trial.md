@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/unleash-live-optus-aws-join-forces-for
 webUrl: "https://www.crn.com.au/news/unleash-live-optus-aws-join-forces-for-power-company-endeavour-energys-5g-drone-trial-578643"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -28,17 +28,12 @@ related:
   - title: "AWS partner Unleash live tests drone for Endeavour Energy"
     excerpt: "AWS partner Unleash live has conducted its first test flight of drone technology for NSW electricity provider Endeavour Energy."
     publishedDateTime: 2022-04-11T03:16:00Z
-    webUrl: "https://www.arnnet.com.au/article/697080/unleash-live-conducts-drone-test-flight-for-endeavour-energy/"
+    webUrl: "https://www.arnnet.com.au/article/697080/aws-partner-unleash-live-test-flights-drone-endeavour-energy/"
     type: article
     provider:
       name: ARN
       domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/20220406_endeavour_energytrainingcentre0020.jpg"
-        width: 504
-        height: 315
-        isCached: true
+    quality: 19
 
 secured: "1xDT+ZDtmGvELj0plXQ6grEmA2tFzOP/QcdESP/MwQMd6nVAeghi0v8k/WeeNm/2IKwSr9e6czhnDBdAi+CUvqj77W4L+7ABUDQOvbZ9AeONH0qUFuP70mdj2m0jKtapDs1n7rK1IByOQ2ZFBOx8Hw9Gcb/yDThjA/Z6FqkkMkqn6082isMN3rCDxm2SuDewUNGZ1Mi84LC3Pzaecp6cv2L4lwEffS1pee6lVG32v+m5Cogi20Z2Fy4iQDFsJIKRvmpuf2Bg0DvreQNg4sgWQJEhH04S/FcAlSnKN3hBdf+Pc+A2BN9njfjV2IpM3O291OkY72WS7POQzmsncSZ73ly5L82nAtuKCJidd6gk6Swb9cTqjtN26p8bbzLaoS14mu5Hj2uRNQlfM2FIt+bBNmyLRgxnIrUUyB7CcGKJQ18OelwmXXaFmfDPNbwAadhw5ktHARhSVjiLj4X5xacPNymCSwvK0QrNkniA+wx7DcmB/OEvRubECgEWxWa87Q/ugIfiSjDYJp+XLoUfV0Griw==;AxQxknbMhkjf/O8rVyQANg=="
 ---

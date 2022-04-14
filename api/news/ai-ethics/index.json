@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-15-what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability.md",
+      "title": "What Stanford’s recent AI conference reveals about the state of AI accountability",
+      "excerpt": "AI accountability is a concept not clearly defined by authoritative bodies. While many sets of suggested guidelines and tools exist, they are not cohesive and are very often vague and overly complex.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/",
+      "originalUrl": "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1308080126.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/amp/",
+      "publishedDateTime": "2022-04-14T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people.md",
       "title": "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People",
       "excerpt": "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,",
@@ -148,49 +200,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-top-6-courses-on-ethical-ai.md",
-      "title": "Top 6 courses on Ethical AI",
-      "excerpt": "The free online course from the University of Helsinki is for anyone who is interested in the ethical aspects of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-6-courses-on-ethical-ai/",
-      "originalUrl": "https://analyticsindiamag.com/top-6-courses-on-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/ethics-banner.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

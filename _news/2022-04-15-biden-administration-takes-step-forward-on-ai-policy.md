@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T19:28:00Z
 originalUrl: "https://www.axios.com/biden-administration-ai-national-artificial-intelligence-advisory-committee-07edc844-af8a-4df5-aadd-2800b6a42ff2.html"
 webUrl: "https://www.axios.com/biden-administration-ai-national-artificial-intelligence-advisory-committee-07edc844-af8a-4df5-aadd-2800b6a42ff2.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Axios

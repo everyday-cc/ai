@@ -70,6 +70,15 @@ related:
         width: 750
         height: 617
         isCached: true
+  - title: "Here's How AI Is Going to Reshape the Hospitality Industry"
+    excerpt: "Artificial Intelligence (AI) is the key to meeting your customers’ needs in the hospitality industry before they even know they have them. Anywhere. At any time. Integrate AI into your hospitality offering,"
+    publishedDateTime: 2022-04-14T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/422931"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 47
   - title: "Google is using AI to update business hours that are out of date on Google Maps"
     excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"
     publishedDateTime: 2022-04-11T06:20:00Z
@@ -85,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "O4Z0kedpum3Tw6h/MeOGo4bA3k8YWvKt0XYrxfI/dLCnCGvzmd4UM+T0JuvpmFiqFfeyCstwc8DIPdBmYbZ0+TdYP/6uCfNlIpIAIcj5LhqZ6ip8angxTjgxol2jtC0hc2gwkii6VO1BuZKtSi0dPqgk0i+Z9a1mogV4nG/cL57A+mb89Usx/in1K4EVFS8Szx4sFU2je2ve3P3zVmT1JDyurfiiZ3U0brb/BX+xEZ5VZ+nsES+bESC4gI48kUNFlblXwrWRgWCbWR2TO1os3aQgulIvhoLi5QAZtpXEljKN6EMB7EWFI7MdthbZD8jR3iwX3qU5+7BNWtDmre2g2dVNdJ5JeWwCH7wp6Lvrydc=;pyAostt/tN5h1PmiYX3sRQ=="
+secured: "JKqTGrckGwMsd5tcoIHJ2X9YDnvNWbRwYWDS0nJ45e9SM6iNEDVfcVEN8HDIdKZ9u0X6axV2oIyoFMjnDizZgjPgdzt7HApmCDr0+EglOHyGZDgkb44dwCCekSQ0OLKUSEVMCnl3BaGaAvAgo0Svr6QtTEUy9F6CqSch4qny3CtJuMbr3kHI8iVssNiXuEJwDw3hHteAV9/9y3YTyZJ9VBalCAQGbvJKDZnc2ZlB1Ibp9YSTs94qUa7i3O46W0V2ZOeF0CWO1ND/oS6dSQNvDlrp3dFSOp1vPGglkr1A+c5feumLPi41D4wuI7QRzlfFefqMWKm0bQ06t9M3SxlzV1opLOv/DQ2dFHzPyoe8uRbVzhcCsHW8XY5ApJyoBQUoKzA09qLmZifdPgSxS+I0kCfhwjUpArgO00N7dBmGl8WQJbDEjobvZvRNgA/Mv8eCOEmalSAr54c0lCbMGtGfkmAxklXyCEZJ9puhnkcwVOiNk4dIePgefIcYIQUWLCSWvrrubR/WJu3i6JCsYcON/Q==;SKOjegT5yKY673xD9QGTTg=="
 ---
 

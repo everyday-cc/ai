@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-18-ai-in-healthcare-presents-need-for-security-privacy-standards.md",
+      "title": "AI in Healthcare Presents Need for Security, Privacy Standards",
+      "excerpt": "Mayo Clinic, Duke, and DLA Piper are teaming up to ensure that security, privacy, and safety standards are top-of-mind when implementing AI in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "originalUrl": "https://healthitsecurity.com/features/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/ai-in-healthcare-presents-need-for-security-privacy-standards",
+      "publishedDateTime": "2022-02-17T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-how-digital-therapeutics-platforms-are-revolutionizing-healthcare-delivery.md",
       "title": "How Digital Therapeutics Platforms Are Revolutionizing Healthcare Delivery",
       "excerpt": "Digital therapeutics companies are expanding their impact across different parts of the patient journey and are redefining healthcare delivery.",
@@ -1301,49 +1336,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-06-the-promise-of-ai-in-gene-and-cell-therapy-operations.md",
-      "title": "The Promise of AI in Gene and Cell Therapy Operations",
-      "excerpt": "There is no longer any doubt that artificial intelligence (AI ... Such functions are critical to the success of gene and cell therapy operations. Toni Manzano, PhD Co-Founder and CSO, Aizon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/artificial-intelligence/the-promise-of-ai-in-gene-and-cell-therapy-operations/",
-      "originalUrl": "https://www.genengnews.com/artificial-intelligence/the-promise-of-ai-in-gene-and-cell-therapy-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/10/Oct5_2015_iStock_26158132_DigitalDNA3185137131.jpg",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-06T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

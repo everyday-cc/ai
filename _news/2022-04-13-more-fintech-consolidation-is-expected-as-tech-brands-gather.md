@@ -49,6 +49,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
+    excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
+    publishedDateTime: 2022-04-14T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-stock-remains-one-of-the-better-fintech-opportunities-out-there"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
     publishedDateTime: 2022-04-11T08:05:00Z

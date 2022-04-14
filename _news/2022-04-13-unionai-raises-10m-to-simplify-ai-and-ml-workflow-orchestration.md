@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 307
         height: 307
         isCached: true
+  - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
+    excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
+    publishedDateTime: 2022-04-14T19:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189811-189811/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 17
   - title: "Observe.AI Raises $125M Series C to Usher in AI-Empowered Era for Contact Centers"
     excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has raised $125M in Series C funding led by SoftBank Vision Fund 2 with participation from Zoom Video Communications,"
     publishedDateTime: 2022-04-12T11:02:00Z

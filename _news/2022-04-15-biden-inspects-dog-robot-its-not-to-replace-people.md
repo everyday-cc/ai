@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T19:13:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2022/04/14/biden_inspects_dog_robot_its_not_to_replace_people.html"
 webUrl: "https://www.realclearpolitics.com/video/2022/04/14/biden_inspects_dog_robot_its_not_to_replace_people.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: RealClearPolitics

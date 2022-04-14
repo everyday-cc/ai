@@ -68,6 +68,20 @@ related:
         width: 550
         height: 330
         isCached: true
+  - title: "Terminus Group Announces First AI Computing Centre"
+    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
+    publishedDateTime: 2022-04-14T21:50:00Z
+    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
+        width: 550
+        height: 330
+        isCached: true
   - title: "Bulgaria partners with Google, AWS to launch computer science, AI research centre"
     excerpt: "Bulgaria attracted a combined investment of over 12 million levs ($6.7 million/6.1 million euro) from US technology giants Google, DeepMind and Amazon Web Servic"
     publishedDateTime: 2022-04-11T13:23:00Z

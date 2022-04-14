@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-fo
 webUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "5G and AI: Ushering in New Tech Innovation"
+    excerpt: "The combination of AI and 5G networks is poised to revolutionize how business gets done. Read on to learn how."
+    publishedDateTime: 2022-04-14T19:00:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/5g-and-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 17
   - title: "Robots are creating images and telling jokes: Five things to know about foundation models and the next generation of AI"
     excerpt: "If you've seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
     publishedDateTime: 2022-04-13T13:30:00Z

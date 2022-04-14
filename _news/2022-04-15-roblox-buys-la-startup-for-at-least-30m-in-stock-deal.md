@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T19:50:00Z
 originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/04/14/roblox-acquires-la-startup-hamul.html"
 webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/04/14/roblox-acquires-la-startup-hamul.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Business Journals

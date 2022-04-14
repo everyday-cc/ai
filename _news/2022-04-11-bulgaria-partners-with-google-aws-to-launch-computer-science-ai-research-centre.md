@@ -61,6 +61,20 @@ related:
         width: 550
         height: 330
         isCached: true
+  - title: "Terminus Group Announces First AI Computing Centre"
+    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
+    publishedDateTime: 2022-04-14T21:50:00Z
+    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
+        width: 550
+        height: 330
+        isCached: true
   - title: "Backed by global tech giants, Bulgaria’s new AI institute seeks world-leading status"
     excerpt: "The Sofia-based Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) wants to gain world leading status within a decade."
     publishedDateTime: 2022-04-13T06:59:00Z

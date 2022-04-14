@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T06:13:00Z
 originalUrl: "https://mynorthwest.com/3435837/house-panels-probe-govt-use-of-facial-recognition-software/"
 webUrl: "https://mynorthwest.com/3435837/house-panels-probe-govt-use-of-facial-recognition-software/"
 type: article
+quality: 21
+heat: -1
+published: false
 
 provider:
   name: MyNorthwest.com
@@ -15,6 +18,24 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+
+related:
+  - title: "House panels probe government use of facial recognition software following security concerns"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.Critics of the ..."
+    publishedDateTime: 2022-04-14T20:54:00Z
+    webUrl: "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    ampWebUrl: "https://www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    cdnAmpWebUrl: "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    type: article
+    provider:
+      name: KETV Omaha
+      domain: ketv.com
+    quality: 65
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "MNUFBsQrf2g6JiArCeDTQRfYTuqHR+cc2Y9msIdjKqpVTN4Q0F55o1VZ/96S/c14F85I32cr0ji7x8yikMB+JbdzqhVfdwd6rlLqj9g5w7bnli2TjkVIBtrCGd+WFtwJhK6HWyj1Tamiiqvbp3zFK64DHLZ1+G6mwOeqzsAdRYpt2wF8aAE64thd4u6plfKueAdbV13KtCyG0sy8G72Z1v0yuN71HU8g81wZx58oLiwReC77E7V5vhJ0iGiYEJ4BArkm8mux5O4j/40pmeJvsoWbzKV9l5U73yhp0R5I7vTPcvdWp/OBDyrSyL6BFMVvPya/4IaL67vOsRku0W4ymuBdbOZ6wxAvnLdYfMUO8kRmmIAkUGOm79JeqvoYUkfYcmm8nb4Qpz6dSphtIzS6dHK6FT9OOVLzW/zx6dPnCiZ62UrdB2q5S/ER73fQO/xeERwMMSPerLVhHpFIIkXVNZTtYO/jJZyAM0VSOJs6zuLNMMGPq8vWe2T1WCcFnmFyP/9qyqkBiNL90hflg6mqEw==;hHVD0w15ffgbfDLsShjPTw=="
 ---

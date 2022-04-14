@@ -46,6 +46,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Advancing data discovery in the life sciences through artificial intelligence"
+    excerpt: "Vyasa has developed deep-learning artificial intelligence solutions for organizations looking to solve the complex data challenges associated with healthcare and the life sciences, from improving scientific research and accelerating drug discovery and development,"
+    publishedDateTime: 2022-04-11T16:38:00Z
+    webUrl: "https://www.nature.com/articles/d43747-022-00120-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 36
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-022-00120-7/d43747-022-00120-7_20292870.png"
+        width: 1024
+        height: 384
+        isCached: true
 
 secured: "j3cjGQJDkp+O0R9pbFA6ZIB3rd0BsZ6W9elYXkcCF9c4h1Ifqtl1Wk/4Xa7uC5ISMC+G2/9BF0Ex1V0e0G7kIMjGWsNsa/vqKf83sz4JnkOgwR+O/KjANKTe5VKTUe5PC2ERR7iZ6qmkt0RqMJNSPSg1DL/cRGTGlH1btFemf5/RDPcvwQUuAWLDjgEtpxVIS8D3QwZJfVFwSjP7U9BjlxK694AjksLkCvsJKwG7gA/sz+nc5tpA/DjE/ww9e5AMV/Qg2Tdl9jYkHP/PvjoJ51M1Vgg8KLFvR+T8TyfSfuRQJ2NTqi3G1FelNrEidIry0vmdASvreEdQeGjgbk18ryRiohUfeEHlpD3VgPGgWXECMeFnigEgnxnGYPy/2yAmLdjtDwO4O26HKr3Qrxo2UP33CWC2W1Yhgls+YQuXnAsS0Au0aP5FLHA93OnZomjyD/JC3XSomJ421trV8ufRVdfmAwsMY0FjcEIWw9J3SRq70LAiHauaynVKwSqDHCCJXYNwNO/9+lp7Q8ZEtQ1PLw==;a4SpiMTH5d9/z+o5v9+vrg=="
 ---

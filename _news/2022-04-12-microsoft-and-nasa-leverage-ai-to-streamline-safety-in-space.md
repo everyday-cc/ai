@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-na
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
 type: article
 quality: 104
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg"
         width: 770
         height: 431
+        isCached: true
+  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-14T20:09:00Z
+    webUrl: "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
     excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"

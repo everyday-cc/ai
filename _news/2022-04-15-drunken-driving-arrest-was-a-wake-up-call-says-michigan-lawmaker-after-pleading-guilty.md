@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T19:52:00Z
 originalUrl: "https://www.mlive.com/public-interest/2022/04/drunken-driving-arrest-was-a-wake-up-call-says-michigan-lawmaker-after-pleading-guilty.html"
 webUrl: "https://www.mlive.com/public-interest/2022/04/drunken-driving-arrest-was-a-wake-up-call-says-michigan-lawmaker-after-pleading-guilty.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MLive

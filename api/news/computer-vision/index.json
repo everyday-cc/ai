@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-15-house-panels-probe-government-use-of-facial-recognition-software-following-security-concerns.md",
+      "title": "House panels probe government use of facial recognition software following security concerns",
+      "excerpt": "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.Critics of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "originalUrl": "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "cdnAmpWebUrl": "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "publishedDateTime": "2022-04-14T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KETV Omaha",
+        "domain": "ketv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-ai-in-computer-vision-market-size-to-hit-469-of-cagr-by-2027.md",
       "title": "AI in Computer Vision Market Size to hit 46.9% of CAGR by 2027",
       "excerpt": "AI in computer vision market is expected to grow from US$ 9,039.5 million in 2021 to US$ 95,080.5 million by 2027. The AI in computer vision market is",
@@ -599,6 +643,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-04-computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
+      "title": "Computer Vision in Healthcare Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
+      "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022) Gives key measurements on the market status, market size, recent trends of the keyword manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
       "title": "Face scanner Clearview AI aims to branch out beyond police",
       "excerpt": "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t",
@@ -1159,6 +1256,40 @@
       ]
     },
     {
+      "path": "_news/2022-03-27-when-the-bad-guys-are-just-a-face-in-the-crowd.md",
+      "title": "When the bad guys are just a face in the crowd",
+      "excerpt": "Last week the commission released its report and, with it, a baker’s dozen recommendations aimed at striking that balance and putting guardrails on the use of facial recognition technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/03/27/opinion/when-bad-guys-are-just-face-crowd/",
+      "originalUrl": "https://www.bostonglobe.com/2022/03/27/opinion/when-bad-guys-are-just-face-crowd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-27T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-clearview-ai-unveils-version-20-of-its-facial-recognition-software.md",
       "title": "Clearview AI unveils version 2.0 of its facial recognition software",
       "excerpt": "Clearview 2.0 also features reporting and workflow enhancements that provide a more comprehensive overview of a case, limiting privacy invasion and police overreach. “Clearview",
@@ -1198,135 +1329,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
-      "title": "Facial Recognition, Climate Change, And Dumplings",
-      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-clearview-ai-releases-20-version-of-industry-leading-facial-recognition-platform-for-law-enforcement.md",
-      "title": "Clearview AI Releases 2.0 Version of Industry Leading Facial Recognition Platform for Law Enforcement",
-      "excerpt": "Clearview AI’s database now features more than 20 billion facial images Clearview 2.0 offers new compliance and investigation management tools for law",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20220325005073/en/ Clearview-AI-Releases-2.0-Version-of-Industry-Leading-Facial-Recognition-Platform-for-Law-Enforcement",
-      "originalUrl": "https://www.01net.it/clearview-ai-releases-2-0-version-of-industry-leading-facial-recognition-platform-for-law-enforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-siw-tech-notes-from-isc-west-2022-day-2.md",
-      "title": "SIW Tech Notes from ISC West 2022 – Day 2",
-      "excerpt": "The BLK247 includes a multi-stream processor, and is packed with sensors, the output of each can be overlayed on each (see figure), providing the user with maximum recognition potential through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21261738/siw-tech-notes-from-isc-west-2022-day-2",
-      "originalUrl": "https://www.securityinfowatch.com/perimeter-security/physical-hardening/article/21261738/siw-tech-notes-from-isc-west-2022-day-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/03/Hailo.623db82c5aec8.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

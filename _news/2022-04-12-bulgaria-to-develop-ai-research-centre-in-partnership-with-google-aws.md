@@ -7,7 +7,7 @@ originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-
 webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
     quality: 37
     images:
       - url: "https://orders.newsfilecorp.com/files/8457/120422_cb9e993834ed1a08_001.jpg"
+        width: 550
+        height: 330
+        isCached: true
+  - title: "Terminus Group Announces First AI Computing Centre"
+    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
+    publishedDateTime: 2022-04-14T21:50:00Z
+    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
         width: 550
         height: 330
         isCached: true

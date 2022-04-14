@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 794
         isCached: true
+  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-14T20:09:00Z
+    webUrl: "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
     excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"
     publishedDateTime: 2022-04-12T12:35:00Z

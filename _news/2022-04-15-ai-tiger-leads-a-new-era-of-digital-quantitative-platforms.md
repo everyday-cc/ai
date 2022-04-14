@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T18:15:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-tiger-leads-a-new-era-of-digital-quantitative-platforms"
 webUrl: "https://www.digitaljournal.com/pr/ai-tiger-leads-a-new-era-of-digital-quantitative-platforms"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Digital Journal

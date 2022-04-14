@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-14T19:07:00Z
 originalUrl: "https://www.hstoday.us/industry/ai-specialist-babel-street-names-new-ceo-and-cfo/"
 webUrl: "https://www.hstoday.us/industry/ai-specialist-babel-street-names-new-ceo-and-cfo/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Homeland Security Today

@@ -35,19 +35,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla fans struggle to get loved ones on board with 'full self-driving'"
-    excerpt: "You're like, 'Whoa, are you drunk?\" Krueger says she loves their Tesla Model 3, but she feels that \"full self-driving\" drives closer to large trucks than most drivers, and sometimes steers into ..."
-    publishedDateTime: 2022-04-11T19:33:00Z
-    webUrl: "https://www.kten.com/story/46265972/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving"
+  - title: "Tesla fans struggle to get loved ones on board with ‘full self-driving’"
+    excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ..."
+    publishedDateTime: 2022-04-11T19:47:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
     type: article
     provider:
-      name: KTEN
-      domain: kten.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 39
     images:
-      - url: "https://CNNWIRE.images.worldnow.com/images/22496066_G.jpg?lastEditedDate=1649690735000"
-        width: 500
-        height: 337
+      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg"
+        width: 2000
+        height: 1351
         isCached: true
   - title: "Self-Driving Car Market is Booming Worldwide with By Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple"
     excerpt: "A detailed report on Global Self-Driving Car market providing a complete information on the current market situation and offering"

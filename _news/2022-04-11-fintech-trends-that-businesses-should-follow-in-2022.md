@@ -49,6 +49,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
+    excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
+    publishedDateTime: 2022-04-14T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-stock-remains-one-of-the-better-fintech-opportunities-out-there"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
     excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
     publishedDateTime: 2022-04-13T09:28:00Z

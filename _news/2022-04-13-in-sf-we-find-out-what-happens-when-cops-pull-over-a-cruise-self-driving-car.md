@@ -133,6 +133,17 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
+    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
+    publishedDateTime: 2022-04-12T23:17:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 31
   - title: "How can cops cope with self-driving cars?"
     excerpt: "Self-driving cars are such a common sight in San Francisco that they’re hardly worth a second look. But when an autonomous vehicle — sans backup driver — gets pulled over by the police, that’s worth a gander. And that’s what happened the night of ..."
     publishedDateTime: 2022-04-12T21:30:00Z

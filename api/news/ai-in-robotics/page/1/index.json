@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
-      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
-      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "originalUrl": "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/04/932/470/e91c8f00-GettyImages-1386927042.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "cdnAmpWebUrl": "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
-      "publishedDateTime": "2022-04-14T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJBK",
-        "domain": "fox2detroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
       "title": "AI robots deployed to fill void in senior care. But can they?",
       "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
@@ -1396,6 +1353,51 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-why-its-time-to-address-the-ethical-dilemmas-of-artificial-intelligence.md",
+      "title": "Why it's time to address the ethical dilemmas of artificial intelligence",
+      "excerpt": "AI's perceived risk isn't only from autonomous weapon systems that countries like the US, China, Israel and Turkey produce that can track and target humans and assets without human intervention. It's equally about the deployment of AI and such technologies for mass surveillance,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-110988,msid-90599600/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
+      "publishedDateTime": "2022-04-01T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -105,7 +105,7 @@
       "originalUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -708,17 +708,17 @@
       "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
       "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
-      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
+      "webUrl": "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "originalUrl": "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
-          "width": 400,
-          "height": 300,
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/686666dc-7fc7-4858-9461-a3d2c8257f2e/Amazon_Web_Services.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1024,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -726,13 +726,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T00:41:00-07:00",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "publishedDateTime": "2022-04-05T01:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null

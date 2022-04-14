@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 750
         height: 617
         isCached: true
+  - title: "Here's How AI Is Going to Reshape the Hospitality Industry"
+    excerpt: "Artificial Intelligence (AI) is the key to meeting your customers’ needs in the hospitality industry before they even know they have them. Anywhere. At any time. Integrate AI into your hospitality offering,"
+    publishedDateTime: 2022-04-14T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/422931"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 47
   - title: "Using AI to predict future cardiac arrest"
     excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
     publishedDateTime: 2022-04-14T16:50:00Z

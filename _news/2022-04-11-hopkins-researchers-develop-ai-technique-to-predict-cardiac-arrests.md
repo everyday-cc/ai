@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researc
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Indian Express
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers develop new AI form that can adapt to perform tasks in changeable environments"
+    excerpt: "Can robots adapt their own working methods to solve complex tasks? Researchers at Chalmers University of Technology, Sweden, have developed a new form of AI, which, by observing human behavior, can adapt to perform its tasks in a changeable environment."
+    publishedDateTime: 2022-04-14T19:39:00Z
+    webUrl: "https://techxplore.com/news/2022-04-ai-tasks-changeable-environments.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-ai-tasks-changeable-environments.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ai-tasks-changeable-environments.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-ne-4.jpg"
+        width: 750
+        height: 340
+        isCached: true
   - title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
     excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
     publishedDateTime: 2022-04-13T16:16:00Z
