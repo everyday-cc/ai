@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Observe.AI bolsters its business intelligence for contact centers with new $125M"
+    excerpt: "Observe.AI’s solution uses AI to process customer interactions with contact center agents to generate business intelligence and develop more sophisticated insights into how to improve customer experience."
+    publishedDateTime: 2022-04-12T21:09:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/"
+    ampWebUrl: "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Family Ties Enterprises, Inc. and TQIntelligence Launch A Voice AI Digital Health Solution for Georgia Youth"
     excerpt: "Family Ties Enterprises, Inc. and TQIntelligence today announced that Family Ties Enterprises, Inc. will integrate Clarity AI, TQIntelligence's digital health platform, into in-school programs throughout Georgia to provide mental health services to the most vulnerable patient population."
     publishedDateTime: 2022-04-11T11:09:00Z
@@ -39,63 +55,15 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI Spera Unveils New Cyber Threat Intelligence (CTI) Search Engine"
-    excerpt: "AI Spera on Monday announced Criminal IP, a new cybersecurity platform and is a total Cyber Threat Intelligence (CTI) search engine intended to identify potential vulnerabilities that threatening companies or individuals' IT assets."
-    publishedDateTime: 2022-04-12T01:18:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24228-ai-spera-unveils-new-cyber-threat-intelligence-cti-search-engine"
+  - title: "Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market"
+    excerpt: "Contact centers play a key part in call a company engages with customers, amounting to what is a $400 billion market globally. Its aim, said Swapnil Jain, the CEO of Observe.ai, is to target the \"dreadful experiences\" that tend to be the norm when it comes to contact center engagements."
+    publishedDateTime: 2022-04-12T12:02:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/observe-ai-raises-125m-adding-zoom-as-an-investor-to-supercharge-the-contact-center-market/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/b9d853e41aca48dbb35e6ffc311d2d38.jpg?t=20220412_010712"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
-    excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
-    publishedDateTime: 2022-04-11T20:46:00Z
-    webUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
-        isCached: true
-  - title: "Evolution of artificial iIntelligence and machine learning will transform the Software-as-a-service (SaaS) market"
-    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in ..."
-    publishedDateTime: 2022-04-14T09:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 18
-  - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
-    excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
-    publishedDateTime: 2022-04-11T09:45:00Z
-    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-share-growth-and-forecast-to-2029-datamintelligence.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 16
-  - title: "Major General Martin F. Klein Joins C3 AI as Senior Vice President for Defense and Intelligence"
-    excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, announced that Major General Martin F. Klein, USAR (TPU) has joined its executive team to oversee the company's defense and intelligence operations."
-    publishedDateTime: 2022-04-13T13:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582470.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 36
 
 secured: "efVrZBTPYdcnwW4xYySX6pvP15XoVPhvvsE0r6DVKJnGufVznzRkMFr7dYcLpvd3eXeZBehswWXcpKUlRPJzWT1Rxa/Svk8MA4XFXsBc7B428GSrp/d2fIni1yPgi0/5U++zZUt8VKN2npcgFoaiqxKcU10o6mzipM3pt6jrX+j971V9S136iNE5rsDzNdVqtXdv8va0wy0vaVpsyDBsj8hzXbeHGBeu5i9VNsAtTppVacLP/BgcwK1RTaaiZE4KLQCguaVc7y/zkOoPyE7yNyVnKbSrQ1glP79TiZD3udPmB/hdGqGvDVkoiGU2wjO3iPqit0pZesBGL7zAPq0o4Zv9Kkf/YN0uUnUa4BCw19w=;c8HVrI0YsG22cSUo82UQ8w=="
 ---

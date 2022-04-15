@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/family-ties-enterp
 webUrl: "https://markets.businessinsider.com/news/stocks/family-ties-enterprises-inc-and-tqintelligence-launch-a-voice-ai-digital-health-solution-for-georgia-youth-1031345977"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Spera Unveils New Cyber Threat Intelligence (CTI) Search Engine"
-    excerpt: "AI Spera on Monday announced Criminal IP, a new cybersecurity platform and is a total Cyber Threat Intelligence (CTI) search engine intended to identify potential vulnerabilities that threatening companies or individuals' IT assets."
-    publishedDateTime: 2022-04-12T01:18:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24228-ai-spera-unveils-new-cyber-threat-intelligence-cti-search-engine"
+  - title: "Observe.AI bolsters its business intelligence for contact centers with new $125M"
+    excerpt: "Observe.AI’s solution uses AI to process customer interactions with contact center agents to generate business intelligence and develop more sophisticated insights into how to improve customer experience."
+    publishedDateTime: 2022-04-12T21:09:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/"
+    ampWebUrl: "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/b9d853e41aca48dbb35e6ffc311d2d38.jpg?t=20220412_010712"
-        width: 752
-        height: 408
+      - url: "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Observe.ai lands $125M in funding for its intelligent call center software"
     excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
@@ -56,49 +58,15 @@ related:
         width: 800
         height: 574
         isCached: true
-  - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
-    excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
-    publishedDateTime: 2022-04-11T20:46:00Z
-    webUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
+  - title: "Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market"
+    excerpt: "Contact centers play a key part in call a company engages with customers, amounting to what is a $400 billion market globally. Its aim, said Swapnil Jain, the CEO of Observe.ai, is to target the \"dreadful experiences\" that tend to be the norm when it comes to contact center engagements."
+    publishedDateTime: 2022-04-12T12:02:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/observe-ai-raises-125m-adding-zoom-as-an-investor-to-supercharge-the-contact-center-market/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
-        isCached: true
-  - title: "Evolution of artificial iIntelligence and machine learning will transform the Software-as-a-service (SaaS) market"
-    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in ..."
-    publishedDateTime: 2022-04-14T09:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-iintelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 18
-  - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
-    excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
-    publishedDateTime: 2022-04-11T09:45:00Z
-    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-share-growth-and-forecast-to-2029-datamintelligence.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 16
-  - title: "Major General Martin F. Klein Joins C3 AI as Senior Vice President for Defense and Intelligence"
-    excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, announced that Major General Martin F. Klein, USAR (TPU) has joined its executive team to oversee the company's defense and intelligence operations."
-    publishedDateTime: 2022-04-13T13:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582470.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 36
 
 secured: "F5ksBXu6T4gpcwhJZx2szlA3erRly6oBwWZiXr47Kj5KyZKD+cZh1A3KyeDZcYLNZZA5w5hQn1qOYQE1oXraXZIgflq9cQV0lxyxSTcsXpHGBI/B9f4ZCEeXD8TQOhyzujEeIbAZ4B3mp/3w/OoqLwsXeXMLjPl44RlCtcD2T2yHBMAa4zTg5HnpUeK67OHCt3cbMe/h0MrYepcZAcxJjUvJ7SGfDbFOvwtJo4zB/c5UIV1Fe2XskAGH8eOoYegEhwpDOR6eZeLTIELDtdvoDpjr9UtbP20IRhYBDSUNOK7Q9/x4/0tQh+bMh+KedtFGxoZHdnhlteHgMA1wu0FnSAlZghA5kLXPG4jz1zEyM6uT/caxy5q2uoXkCAG5wZ01Hv4oYrRctkhoHt3f2vhxIxsR6w2P2qHjDZgbdndq7W7JczuYMY66MKaXXnT7pqL9uyGOm5A4vtqlt2V7x29gshHjdSS/tQnWzRzc+5iwzs/l3luKNYcCTc5iKGcue0xI7UkD6wVNFPmcl1Opzo+FrQ==;DJWQNmN+MVFl9jtC8Up82A=="
 ---

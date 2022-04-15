@@ -30,18 +30,34 @@ related:
   - title: "House panels probe government use of facial recognition software following security concerns"
     excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
     publishedDateTime: 2022-04-14T19:47:00Z
-    webUrl: "https://www.wlwt.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    ampWebUrl: "https://www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 65
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*"
         width: 1200
         height: 677
+        isCached: true
+  - title: "House panels probe gov't use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-14T17:16:00Z
+    webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "House lawmakers investigating government use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
@@ -59,17 +75,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "House panels probe gov’t use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T18:14:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
     excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
     publishedDateTime: 2022-04-15T02:40:00Z
@@ -94,6 +99,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "MZ0QR1sMxdQSc6i9GnzzQgNKltvbEtsBBEka51ZQAN58eNhXjsJAMWker2q3VQBj7Hz8l3eWforS+M5w7XsW7XDzmdymu7cvZpyYYdcHlKXaVE1vJWdO/bAb2+HFhGA/uOvH4vB6S1n7YGrI6/AKSPk1J68GpMMO0ZwE4RR7Y7vmbFit4shBuE75GVZWLcl6cPb9xDsrGZso5t07DnG1SRgvaZwNyidM9Quz3LLZgsw9EklXOU2KRNk3zR2oibl8uNPT78d4wqqhMNe8Vhl/O9hQFL7UraCZj9nvqlbM0vWja9ED9Jf1/AcI9A3Nr4+1jrbOzyc0fG8r7ALkD+S612AvhB8cxgCfrz0ddnLMDKg=;B+DkTiI1gXJGVtNqsolPfw=="
+secured: "KINifwd0J8xFDjz2hn2WGqaY9k5t+Y+PsO2oJkHBDRugNaqltgopNu/9jdncO9SVLtz3ru2764Or347MixcAYv8Y58jQIvrumNK9gCdQQvMO9K/KGwv3AxvNm/F1GZbOS3RMWOZ0cfwtpHnFxynDx4gyf/hwXrG0qkmgr87DJy5Gl799vDe8yD1hnCeICkyxQwFPccxL5L4a73U5LuybuR1Le9ABSt6Zm1FUvEINEm+sB4M+IEEfRFq0MoqYbUBVzZpc3bZLyd4F1AHZ/A4qgGwaLx5JIH7f5vMgAM70jw5erDjGL8ek779c2K4fv6O1LD5DscDddL5c9W+qPrmxtK9BHoD7j9BVsHJ1NI6ABfhipkB2YPpRbafRz/yDUgLOuXhqdYWocSXmgnIGKtVFJTgInYZXJJubtUBZXCt4keiEONVMHnKnQdDh+Q7Fc4F/u4dT0bwv2DUdiNGRSxAMqYG3HIiHn28qX0PFkzgTBAg1NO0/Ryo9dXq5OSBHgfQ+0/Bh+KSZwHX2UBZnijhmQA==;aWgRRNUj40tZ3ue8dS/pcA=="
 ---
 

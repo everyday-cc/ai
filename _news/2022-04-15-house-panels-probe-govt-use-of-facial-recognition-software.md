@@ -1,36 +1,42 @@
 ---
 category: news
-title: "House panels probe gov’t use of facial recognition software"
-excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-publishedDateTime: 2022-04-14T18:14:00Z
-originalUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
-webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
-ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+title: "House panels probe gov't use of facial recognition software"
+excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+publishedDateTime: 2022-04-14T17:16:00Z
+originalUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
 
+images:
+  - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
 related:
   - title: "House panels probe government use of facial recognition software following security concerns"
     excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
     publishedDateTime: 2022-04-14T19:47:00Z
-    webUrl: "https://www.wlwt.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    ampWebUrl: "https://www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 65
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*"
@@ -93,6 +99,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "foBpDjoVS3vCPldkdpsRk5LKaltNNG1wk+R1Cw/7Rpu2Pr/P42gsq9P1JZISHB/4UmMIHmDrb8jcV76XxwPs8AqnC8xI9K8qjjeAU7JPB/M9QziAXVoJc7GLQYZqI+JUHhJlKKZFraYXlu51juRE6k/wxw5UhZ/bbD8+7JDHfPbQCm/VOQnDLayuE4PjCJ1ko8hWoCvD79RYfU25rwwrK9vz/7Wtw7Su4dyJnePsx0PSzaf2xiWpAjOwghsUb8semBpQPbzOopCDQ1s5TgS7cbflUYxc077y6RX1e7WqoIm1ckUY1CdpvTkfVoZC8GNbDUYxl63aBjSX95wE1pCzwEPJhvgfxL7ZVmhlucTIOgSZ/Zfdae3wzFkT/jOQkNE6vKoVDbVCCHXFYHlIb1YhwSLLpjYxJ/DNbTq+pSpL5jF0AnFycqfUgpnjghUSUZhuLRkVwsT8VRV2h76zfEPZWcnaodHgI3VJ681MttffV1FL1BDJ4fpGwOoczostHT6fqlzAPc+c5Rs1YAX20bZMRw==;MEBUeyE9HRsPfnIzVcTNXg=="
+secured: "I3MwE1A+wchaoF4pls49FqOmD7LRbZCu7EZ0xQaeONaspkovoQttKsY4aQiGpVYPvXp99nOo1i8VFVY9bIjMBnDB+7GNxssrj99U15Mqln4CPjHT4/CWfFAFQYILh18+saoB4D9U8w5iT1xwtxb/9yXTlpw1EWMYTEGFFrQ3c16NFACnIrk2DNy2d20z3kbK3nUKhwjtpgaXffdjnh9lA/2wSQj7HJxaMItn5teVxT5xuDb0xbRgBu+C+L9n781yhyM3GTqvrzBYGmnKb/b4qGKhvRTTUh9cEytWwd87RBk6lkaMdDPe7mC2CahmjoSOZBtVjUzwn3+utt+w2lGAzz9kS84Mq13KBS8VdcLiqYM=;TEZLcnQkoB55pvrX4WAlQg=="
 ---
 

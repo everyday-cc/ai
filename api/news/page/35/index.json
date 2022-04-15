@@ -2,6 +2,135 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-in-south-florida.md",
+      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale in South Florida",
+      "excerpt": "New collaborations with Uber Health and Silver Sneakers enhance ElliQ's ability to empower South Florida's older adults to live healthier, happier and more independent lives at home Developed with more than five years of cutting-edge research and beta testing with older adults,",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220315NY89461/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-in-south-florida/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220315NY89461/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale-in-south-florida/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "width": 600,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-deep-learning-system-market-to-develop-at-cagr-of-391-during-forecast-period-notes-emergen-research-study.md",
+      "title": "Deep Learning System Market to Develop at CAGR of 39.1 % During Forecast Period, Notes Emergen Research Study",
+      "excerpt": "The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to latest analysis by",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-system-market-to-develop-at-cagr-of-39-1-during-forecast-period-notes-emergen-research-study",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-system-market-to-develop-at-cagr-of-39-1-during-forecast-period-notes-emergen-research-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Russians-Helsinki-Train-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence.md",
+      "title": "Why is the health care industry slow in adopting artificial intelligence?",
+      "excerpt": "A new report explores several reasons, including barriers to entry, biased algorithms, and limited access to data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
+      "originalUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/07/digitalization.jpg",
+          "width": 600,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
+      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
+      "publishedDateTime": "2022-03-15T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benefits Pro",
+        "domain": "benefitspro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-deep-learning-chipset-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-2022-2031.md",
       "title": "Deep Learning Chipset Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031",
       "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Mar 15, 2022, 00:00 /Comserve / -- Deep Learning Chipset Market Outlook and Forecasts By Top Manufacturers, Production, Consumption ...",
@@ -1011,135 +1140,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
-      "title": "Cerebras brings wafer-size AI chips to medical data analysis",
-      "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
-      "originalUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
-          "width": 9144,
-          "height": 6094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
-      "publishedDateTime": "2022-03-14T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-googlers-and-co-offer-video-dataset-generating-kubric.md",
-      "title": "Googlers and co offer video dataset-generating Kubric",
-      "excerpt": "If you need more complex data, such as video footage with depth and object annotations, your available sources dwindle further. Fake computer-generated material avoids these problems by giving you exactly what you need,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
-      "originalUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/15/shutterstock_3d_objects.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
-      "publishedDateTime": "2022-03-14T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-firms-step-up-to-cash-in-on-robotaxi-biz.md",
-      "title": "Firms step up to cash in on robotaxi biz",
-      "excerpt": "A Baidu Apollo robotaxi is seen in Beijing in December. HUANG YONG/FOR CHINA DAILY Competition in China's autonomous driving sector is set to heat up as several self-driving companies are accelerating commercial operation of self-driving taxis to provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/15/622fe7efa310cdd3d8356f9b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

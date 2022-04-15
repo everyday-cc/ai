@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "FILING DEADLINE--Kuznicki Law PLLC Announces Class Action on Behalf of Shareholders of C3.ai, Inc. - AI"
-    excerpt: "CEDARHURST, N.Y., April 13, 2022 (GLOBE NEWSWIRE) -- The securities litigation law firm of Kuznicki Law PLLC issues this alert to shareholders of C3.ai, Inc. (“C3” or the \"Company\") (NYSE ..."
-    publishedDateTime: 2022-04-14T05:10:00Z
-    webUrl: "https://fox59.com/business/press-releases/globenewswire/8522326/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
-    type: article
-    provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 1
   - title: "Investor Action Notice: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
     excerpt: "Los Angeles, California--(Newsfile Corp. - April 11, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (\"C3 ... law and rules of ethics."
     publishedDateTime: 2022-04-11T18:50:00Z

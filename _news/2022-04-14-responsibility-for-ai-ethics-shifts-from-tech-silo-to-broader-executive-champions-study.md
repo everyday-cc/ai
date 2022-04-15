@@ -27,12 +27,12 @@ images:
 related:
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
     excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-    publishedDateTime: 2022-04-14T04:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
+    publishedDateTime: 2022-04-14T06:01:00Z
+    webUrl: "https://www.abc4.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: abc4.com
+      domain: abc4.com
     quality: 41
     images:
       - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"

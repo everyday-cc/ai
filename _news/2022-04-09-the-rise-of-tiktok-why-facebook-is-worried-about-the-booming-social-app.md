@@ -3,14 +3,11 @@ category: news
 title: "The rise of TikTok: why Facebook is worried about the booming social app"
 excerpt: "Chinese-owned video platform is set to overtake the advertising scale of Twitter and Snapchat combined"
 publishedDateTime: 2022-04-09T08:08:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
+webUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
   name: The Guardian
@@ -30,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "HyQwH6wXe2L0cmqXtumCSMqSL24Z9FI162drAlqOmNnqmBUJ4qrrpkCNOH549ineeRD1Mo5OUEmW2MvV1qKuUG6vI5p3OWzzN9iyhkcPhVWfqpI+ZeBomWmxDN2mv1L15QfxwpuKPiz9TEMY3pYg0KH46VDPWmH0yS5HYu+ih4KKdgAGRpwo9H6Qw1ex5YfD5jJhHJP5C97x3MKoxUWmLiZmj98lrk8eHjqYmYX9t40ghUTsOoNqy964uBCxjc4aWIDDh9aQlMaYc5UPRQh6cN0pBI6rNXyfoZSipBAxJmwfSYCmLu29AO3pb6BfNxn/j95yvd5dsIEJvuHzRVw9ZDALXvOgDykMNqFNl1jKEp03oRPMhKaEciKwGPR+Bhf3NnAZ8K5ZylzJR+frdAH4iW9eEgwGsuMMpdtDhc6XgvewwRb6CeudoCFkUiItDujt8mv1Uen3wyBd4OuUkIguAPmR1w3aku5pKKTQkrWwgTEKutWv5v9mQRTBF1fAiYbrJg1rAgSTAww/xKzsOm2rDQ==;32j4skyksS78ENOhnAVL/Q=="
+secured: "XJhScnl0OIY6gyXrFes0v+BiZ7ocmQIABe2LRjq5ViDcPz4isQid8H0IaHYoND9jC7zPPyulmqvdaZorIBLREMBgh4CG8/CdgAqiucQD+asP7T+KW318TOVb0yTiPTfOnz4sA2CZWOZLlWay/WmJ1R3bl8G+IrPBVifuHMlrv4W4sv8aL2UKZLhc45fnaZxcPei5LCGUNGkR2Crv+1Cl4FT+sPMb+JhocQNkcXWedD8b9Ygj8Yxm2DL59/vMjHn9Zj8Ymb0siHftgZ26f2bLCTqk6zmG/32k329KY0ETA66Mw4eR283/9Nd7+bQ4MUFGdAhEQ47ZASPtvoFlPbM1gOVVnUE7I4qYBg5YIyxCn14=;9Jt0vsDcrb5jjn/s2/bFVQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.wicz.com/story/46294605/technological-advancements-sha
 webUrl: "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: FOX 40 WICZ TV
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Technological Advancements Shape The Top Robotics Market Growth Outlook"
+    excerpt: "Market Size, Trends, And Global Forecast 2022-2026. The Business Research Company's Top Robotics Global Market Report 2"
+    publishedDateTime: 2022-04-15T05:37:00Z
+    webUrl: "https://menafn.com/1104021474/Technological-Advancements-Shape-The-Top-Robotics-Market-Growth-Outlook&source=24"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/EP_fb945image_story.png"
+        width: 966
+        height: 486
+        isCached: true
   - title: "Global Field Programmable Gate Array Market To Be Driven By The Growth Of AI And Deep Learning Technologies In The Forecast Period Of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report"
     publishedDateTime: 2022-04-14T09:47:00Z

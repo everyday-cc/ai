@@ -30,13 +30,13 @@ related:
   - title: "House panels probe government use of facial recognition software following security concerns"
     excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
     publishedDateTime: 2022-04-14T19:47:00Z
-    webUrl: "https://www.wlwt.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    ampWebUrl: "https://www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 65
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*"
@@ -59,17 +59,22 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "House panels probe gov’t use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T18:14:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+  - title: "House panels probe gov't use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-14T17:16:00Z
+    webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
     excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
     publishedDateTime: 2022-04-15T02:40:00Z

@@ -39,6 +39,20 @@ related:
         width: 900
         height: 453
         isCached: true
+  - title: "Technological Advancements Shape The Top Robotics Market Growth Outlook"
+    excerpt: "Market Size, Trends, And Global Forecast 2022-2026. The Business Research Company's Top Robotics Global Market Report 2"
+    publishedDateTime: 2022-04-15T05:37:00Z
+    webUrl: "https://menafn.com/1104021474/Technological-Advancements-Shape-The-Top-Robotics-Market-Growth-Outlook&source=24"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/EP_fb945image_story.png"
+        width: 966
+        height: 486
+        isCached: true
 
 secured: "CCQSL8vt4FUoW/lB1sxwJ5X9nrRfiEDvCv4sxPtAU4ObNv+4KxdS33ZanYNF/37hG/RY6Al7rlSf+T8xDXrwMTBYliAPeRpPHe2oXlS4vBIN+uW6WPOe0dzsO295nSFGK8F31c/uxy7IV3TeCVeWDs/jIQpOULhtYbMO3cglqEiol3puLSC6E1jVwSzWrRPPCtuRy03yk0d2XQFv8b5S2hPaNlk2kzG0qutui8myCZRtGTNImRBkPjFgdPkmm6G/wrhTQKYQ687USDlJqicKbIu1x20HXDpsCKqqqIraz/itXNe7MXXzL7wp8k9ykKvDXjJU0jlarL5hkjIyDc/QoAocs8IcqvaTuIHtDdjToE8=;XFb4IOuMn67dpqzTsBK7TQ=="
 ---

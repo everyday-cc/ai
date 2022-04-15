@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Aclaró AI Announces Vehicle Center"
-excerpt: "Aclaró AI, an IoT company that creates modern solutions for automotive retailers, is extremely excited to announce a new product that can quickly locate vehicles for customers regardless of location."
-publishedDateTime: 2022-04-14T17:20:00Z
-originalUrl: "https://www.digitaljournal.com/pr/aclaro-ai-announces-vehicle-center"
-webUrl: "https://www.digitaljournal.com/pr/aclaro-ai-announces-vehicle-center"
+excerpt: "Aclaró AI, an IoT company that creates modern solutions for automotive retailers, is extremely excited to announce a new product that can"
+publishedDateTime: 2022-04-14T17:18:00Z
+originalUrl: "https://www.union-bulletin.com/news/national/aclar-ai-announces-vehicle-center/article_74b609bb-60b1-59fb-8765-fd0eaee68064.html"
+webUrl: "https://www.union-bulletin.com/news/national/aclar-ai-announces-vehicle-center/article_74b609bb-60b1-59fb-8765-fd0eaee68064.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Walla Walla Union Bulletin
+  domain: union-bulletin.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.send2press.com/wire/images/22-0414-s2p-aclaroai-vcenter-800x600.jpg"
-    width: 800
-    height: 600
+  - url: "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403"
+    width: 600
+    height: 403
     isCached: true
 
-secured: "cil77CtmexYs0EEkKuU8NKunzILhQlrh/nNIGvc8TWcdhF9PrvqjCWgDf89AKJzc8sue5cEyN7O3XYN8D17ReY6wDVZcxRIWhP0BZF9u+E67YtlcMovbnG1TnvfdB6UnxN2cxNT2d57Jj/0RY1JPS2d/2tOJEcOe0dLqsTtXiYd8cHGl/igb0KmBHqxmzecSjniyzjPVKIh7SU5rgzSnRcvHd8n/UMpHrJerVcNoMeCrW40OOi/T36Q3T9+fCk9XFwx2+oCOt7D53UioAGLNlw6RZJHGdK37zhOBJ+YbwIwXWoHCtF5hhBC9bp2LQIYbdKWUpjp93rXEW4wppmaKIDm7Qh34gu1HJ8aiY9bsABzbHfvJe3+gF2r3S545APjv/sRfSFECCRmXdoYgHjA57ye9YeWFXV3ZrqNmhCCNN0o6gEx2hveUzLQNLkuuO01EEG8bPQtgOGmKycuuq4Z7cVIyNWKFOpE2biy+DEsVkbszSJRPBwpC4xYxzIf8Xrglgn3ow7k5JwWiy+fZtQhAeQ==;UiOupUj/3cvFIOORsARDbA=="
+secured: "XRd0mj2IpNu5QxY8qqpADXbsKUSGfpHTbRF6oZdh/rSl9elsAQHAqOVhQZ0xU08XtBnT1/W/sRx0Crbpih+RZXvN9VkFzo1BzFOAz7xc7xie3TQhr92DpdHYmYfnsgc0MzVlDIAFMrArG66BO2eD+ksFboiu6Unz9LwkRd0hU7t8RDIFta6XagZi1dr+CyH7lHEBMMdn4e1DfZVXSoCXfPSGaADTfDsqz+AAioRFMNumd8CKYLqhVG99mFO6oijM6tShpeqKmjsYDxCMhIzfdZ5lyXUHouxSvnHZh7r/MWlKc6l9Pabi70JAX036TEYZvpibP4BzJXVgzqPYxFvwq42RmD02HGDR7IsIc6+uFes=;pu/mKI1sUBdi18oc6v7Dew=="
 ---
 

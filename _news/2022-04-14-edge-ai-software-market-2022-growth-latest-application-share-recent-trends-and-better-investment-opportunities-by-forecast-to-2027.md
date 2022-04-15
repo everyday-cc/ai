@@ -145,6 +145,15 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
+    excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
+    publishedDateTime: 2022-04-11T09:45:00Z
+    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-share-growth-and-forecast-to-2029-datamintelligence.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 16
   - title: "Professional Cloud Services Market Analysis Covering Size, Share, Growth, Trends and Forecast 2022-2031"
     excerpt: "This is supported by AI and machine learning coming with cloud service ... September 2018 - Microsoft has announced the general availability of Azure Data Box, a physical box which organizations ..."
     publishedDateTime: 2022-04-12T22:24:00Z

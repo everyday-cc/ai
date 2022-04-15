@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-technological-advancements-shape-the-top-robotics-market-growth-outlook.md",
+      "title": "Technological Advancements Shape The Top Robotics Market Growth Outlook",
+      "excerpt": "The Business Research Company’s Top Robotics Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook",
+      "originalUrl": "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/22519133_G.png?lastEditedDate=1649929076000",
+          "width": 900,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
       "title": "AI robots deployed to fill void in senior care. But can they?",
       "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
@@ -1351,49 +1394,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease.md",
-      "title": "AI and Robotics Uncover Hidden Signatures of Parkinson’s Disease",
-      "excerpt": "A study published in Nature Communications unveils a new platform for discovering cellular signatures of disease that integrates robotic systems for studying  patient cells with artificial intelligence methods for image analysis.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/",
-      "originalUrl": "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2018/11/shutterstock_527544358-e1542396272432.jpg",
-          "width": 743,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
         "images": null,
         "publishers": null,
         "authors": null

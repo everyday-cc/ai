@@ -2,17 +2,17 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T04:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm"
+publishedDateTime: 2022-04-14T06:01:00Z
+originalUrl: "https://www.abc4.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://www.abc4.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: abc4.com
+  domain: abc4.com
 
 topics:
   - AI
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "0m/0bq635+je/+gWS+SjweNLkcyiiy0i84is3rrB6kC/lPk1RT4Kys8YzzMLmp68JQxjII1lCaMPnwmHTnufn9BxzUjfMTB8quV7/r9Qo73e6JBg55W2hbqR1eO0+naaV9AiKT3RFDVjiS1Od21RAGyRbEZ149oi5poEM5oSz1WzS1H/opK3NcPcGdE2pOnRE6vH5O7kednS+/H1Lxxu2iTo4lbsb56OwR4SC9nQZDHahXggnRe8QI3X7HOOeXHi5aMH/SkHHp+h9r4pysFL7I1/9UyVJfzeelq4YXIPqYNbtQJdL9liYsqZ0mAjaUGiD1KivsNZsDpSh4Mx2J8b4bPp3VXLVtcjAZ95T06ZnZ4=;U3OCKQRt/evqS94hBlIdng=="
+secured: "KqHMartu/zpjZ4d/Cr06WNuUWJFlnhIttV2QCMidXg7KKCDIhVHmOc5I8QXSpzkkcfNLpvMCIj/SQrVcivGbV2WEqwwzPMycnixq2Mv4SDCBpUWBz8Vy+nlm0DBhj4gsKvW9y28I21POJxXE8Ikby84oM2sQfkpHI2eDsqk+RQgiFaG5W3HC81daeKIkqYSxTFvHXeEHuXDBMNpV1yUP8IArnqEpnFGG3aBTF4Pb0b7/LJshgz/Hwa01r/F4BmuOkmK4OhPmitempN6iz/MGJI6mTcvGBesI5e1F+KyeeOFEWI4rRIuG3XHK1gNDkXx3jYP1Vi23T1kpYqGifzbhfMtoaSDl3qZe0uS8AMtS3XY=;2ZdseB1NdLHXg8ksEYkBhA=="
 ---
 

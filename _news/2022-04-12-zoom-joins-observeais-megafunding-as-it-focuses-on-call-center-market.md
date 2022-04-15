@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanjose/news/2022/04/12/zoom-joins-obs
 webUrl: "https://www.bizjournals.com/sanjose/news/2022/04/12/zoom-joins-observeais-megafunding.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market"
-    excerpt: "Contact centers play a key part in call a company engages with customers, amounting to what is a $400 billion market globally. Its aim, said Swapnil Jain, the CEO of Observe.ai, is to target the \"dreadful experiences\" that tend to be the norm when it comes to contact center engagements."
-    publishedDateTime: 2022-04-12T12:02:00Z
-    webUrl: "https://techcrunch.com/2022/04/12/observe-ai-raises-125m-adding-zoom-as-an-investor-to-supercharge-the-contact-center-market/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 36
 
 secured: "w2C9C/clABXL7M7IFaQHam8P43dkIeCd86HoJm9HH5k9mnkSupsNX9DBRKIvN9ckZPy1bMkh4DeyqM1ll517XdhrHbOvWEAbLXBB9x8Wl7Tb3CiuK2jsmpiWtAj8ubhftJFUQq097Uf6mozKUtbHT4xFrDmeVwOGH0gTu5m/aGJSt2btuYHGFQwwR8g4Yjk/+HrCPqnSg0euCrwJZSP/AaMUb7YyMKsUTMzfoUOubztuKva1CJ/gPOlLCygFrvSIJRRJxW9dHcvdx/XQGZvJUICv5pk+l4qcE58bgpLqhbYtHUqgzlswh9lBEQXvpImkgR1zA6rKdLClLFbWOHzxqjhZlmrIMBiElhSiZuI3J9o=;d4aLexjnv665QRjg7MlPdA=="
 ---

@@ -146,6 +146,15 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
+    excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
+    publishedDateTime: 2022-04-11T09:45:00Z
+    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-share-growth-and-forecast-to-2029-datamintelligence.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 16
   - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
     excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
     publishedDateTime: 2022-04-14T06:14:00Z
