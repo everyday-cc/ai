@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/shutterstock_435613807.jpg"
         width: 500
         height: 355
+        isCached: true
+  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
+    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
+    publishedDateTime: 2022-04-14T19:32:00Z
+    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
     excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"

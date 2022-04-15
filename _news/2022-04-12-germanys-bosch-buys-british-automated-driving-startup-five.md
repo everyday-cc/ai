@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale"
+    excerpt: "Bosch itself has been long on self-driving car technology, although like many, its stated ambitions — it is a major OEM and supplier to the automotive industry and forged a partnership with ..."
+    publishedDateTime: 2022-04-12T10:41:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/"
+    ampWebUrl: "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Bosch to Buy Automated-Driving Company Five"
     excerpt: "By Kim Richters Robert Bosch GmbH said Tuesday that it has agreed to acquire U.K.-based automated-driving company Five to accelerate its development"
     publishedDateTime: 2022-04-12T07:41:00Z
@@ -53,6 +69,20 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "How to craft the perfect pitch deck for your AI startup"
+    excerpt: "The right set of investors can be a deciding factor in your startup journey. At LUMIQ, we build AI-powered products for financial enterprises. Getting early backers who believed in our vision was crucial for us. Thanks to the rapid digitisation ..."
+    publishedDateTime: 2022-04-13T10:01:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-craft-the-perfect-pitch-deck-for-your-ai-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/image1.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Bosch acquires UK self-driving startup Five"
     excerpt: "The supplier said the acquisition would help to strengthen its efforts to develop self-driving cars. Focus on Technology: Sign up for our monthly newsletter that looks at advancements in all ..."
     publishedDateTime: 2022-04-12T14:35:00Z
@@ -66,20 +96,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Bosch%20Five%20AV%20deal.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Bosch accelerates software development for automated driving with acquisition of Five"
-    excerpt: "The development of self-driving cars is regarded as the ultimate discipline for automakers. As one of the world’s biggest mobility providers, Bosch is a driving force behind the progress being made in this discipline."
-    publishedDateTime: 2022-04-12T07:04:00Z
-    webUrl: "https://www.bosch-presse.de/pressportal/de/en/bosch-accelerates-software-development-for-automated-driving-with-acquisition-of-five-239040.html"
-    type: article
-    provider:
-      name: bosch-presse
-      domain: bosch-presse.de
-    quality: 17
-    images:
-      - url: "https://www.bosch-presse.de/pressportal/de/media/dam_images/pi11466/kv_210519-five-l4av-streetwise_img_w1280.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "5AmtemU5S7fIIvEguGJpp8KUaJWFKS4YJnDjzarHEY6xZwj6mz/vFKLbJqsNCLE4ovtDn0g2Z8PUr9BVYpt8zJC4jy5I2rQORqvGAD3+zlD4fG20DW4QkXnxxyUwbDgyyp9JaETIfk42GgKArSO0Z+3ECbZ5edId2SHEer36w3CY/nZyFWyv0YHQ+weTS39m2BPXEoUfD6+lfETu/NYt8H6IVLSHOBY6n7tNzPbxhwD0yrAdQn5LM0uxvyAuXJd174VU3w5wtmYE0yQFl4Kl9oEKKF0A2jQKzmMM0xkvlnDTDDR9svQ/Af/SomRSycQM7H2dXR56Phzq8JS4ggRQnXT+WoMarIAuOVd7SGdj2Bs=;9Ti36IHj2ztCHUES1JQHNw=="

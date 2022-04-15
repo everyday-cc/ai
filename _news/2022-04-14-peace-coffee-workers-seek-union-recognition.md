@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Art Exhibition That Fools Facial Recognition Systems"
-    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
-    publishedDateTime: 2022-04-11T11:24:00Z
-    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
+  - title: "Peace Coffee employees are seeking union recognition"
+    excerpt: "In a news release, UFCW Local 663 said Peace Coffee employees are seeking “increased wages, better working conditions and a collective voice at ... gaining voluntary recognition from their ..."
+    publishedDateTime: 2022-04-14T22:49:00Z
+    webUrl: "https://kstp.com/kstp-news/local-news/peace-coffee-employees-are-seeking-union-recognition/"
+    ampWebUrl: "https://kstp.com/kstp-news/local-news/peace-coffee-employees-are-seeking-union-recognition/?amp"
+    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/local-news/peace-coffee-employees-are-seeking-union-recognition/?amp"
     type: article
     provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
+      name: KSTP
+      domain: kstp.com
+    quality: 44
     images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "Researchers urge facial recognition restrictions, broad consideration by Canadian lawmakers"
-    excerpt: "The researchers say that the risks of facial recognition use for individuals and society are significant and should be considered in terms as broad as possible."
-    publishedDateTime: 2022-04-13T22:17:00Z
-    webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "The waste picker fighting for global recognition"
-    excerpt: "More than 20 million people around the world work as waste pickers. They are the de facto recycling system in many parts of Latin America, Africa and Asia, making a living by sorting through garbage for reusable materials,"
-    publishedDateTime: 2022-04-13T16:01:00Z
-    webUrl: "https://www.politico.com/newsletters/the-long-game/2022/04/13/the-waste-picker-fighting-for-global-recognition-00024944"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/91/0b/427a1874454fb9e48b1790029f0a/20220413-soledad-lg.png"
-        width: 1138
-        height: 773
+      - url: "https://kstp.com/wp-content/uploads/2022/04/peace-coffee-file.jpg"
+        width: 1876
+        height: 1055
         isCached: true
   - title: "ASU's union struggles with getting recognition from administration"
     excerpt: "Arizona State University's independent student-run news organization covering Tempe, Phoenix, Mesa and Glendale."

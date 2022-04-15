@@ -53,34 +53,6 @@ related:
         width: 1138
         height: 773
         isCached: true
-  - title: "ASU's union struggles with getting recognition from administration"
-    excerpt: "Arizona State University's independent student-run news organization covering Tempe, Phoenix, Mesa and Glendale."
-    publishedDateTime: 2022-04-14T02:48:00Z
-    webUrl: "https://www.statepress.com/article/2022/04/asu-union-struggles-to-get-recognition-from-university-administration"
-    type: article
-    provider:
-      name: Arizona State Press
-      domain: statepress.com
-    quality: 24
-    images:
-      - url: "https://snworksceo.imgix.net/asp/49dbd490-4dc7-4853-b022-cd6c484e4920.sized-1000x1000.png?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Peace Coffee Workers Seek Union Recognition"
-    excerpt: "On Thursday, workers at Minneapolis-based Peace Coffee announced plans to unionize in hopes of “better wages, better working conditions, and a collective voice at work.” Employees at the eco ..."
-    publishedDateTime: 2022-04-14T16:40:00Z
-    webUrl: "https://tcbmag.com/peace-coffee-workers-seek-union-recognition/"
-    type: article
-    provider:
-      name: Twin Cities Business
-      domain: tcbmag.com
-    quality: 24
-    images:
-      - url: "https://d5c1j5k5drfk7.cloudfront.net/wp-content/uploads/2022/04/Peace-Coffee-beans.jpg"
-        width: 1200
-        height: 625
-        isCached: true
 
 secured: "L+ElTiReP14GSom//2NrqnC2/C0y3bbRm4e8kVftRQqz83ycz7Egu9y88Qu3X+cSRl3Ff0r1skOcK3Q0rZCJExyW8cMnT4JEMhvVlXg3zhDx09Ryg5MFo+M4SafpCknYLfAYhnlpOPDADoh+JgYd6E8FE0Av4ZeqWWs3BzBgslojmuAQzxCJ0TxJ/XCAI/OIpYmB3h2QXb26Nozs8ql1u2S6UYpCGnsiJiAmBCGD5GbhH+8NDmtau7NvAUvZ0yRhxN1DyN5M/Lm3Y5EvntZ8sMtAWY+GSSVdtDQRJwfS5Ng/m0YZkJWOkcIyIoi8g5dkcvDN4FqsZn7m2uEnmishdaHORRjc8q8uDWX0PYEgvJI=;y95Mg5Igaxl1KjsCGMUqPA=="
 ---

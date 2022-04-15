@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-a
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: New York Post
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch this driverless car get pulled over, then bolt for it"
+    excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
+    publishedDateTime: 2022-04-13T14:54:00Z
+    webUrl: "https://www.kens5.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    ampWebUrl: "https://www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    type: article
+    provider:
+      name: KENS
+      domain: kens5.com
+    quality: 59
+    images:
+      - url: "https://media.kens5.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Driverless vehicles park themselves in rapidly expanding market"
     excerpt: "IHS Markit said the value of the autonomous car service market will exceed 1.3 trillion yuan by 2030, accounting for 60 percent of the nation's ride-hailing market that year. Li, the Baidu CEO, said China leads the world in self-driving technologies,"
     publishedDateTime: 2022-04-14T02:40:00Z

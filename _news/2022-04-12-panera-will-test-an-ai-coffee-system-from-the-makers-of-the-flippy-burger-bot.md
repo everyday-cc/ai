@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-m
 webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
 type: article
 quality: 66
-heat: 117
+heat: 116
 published: true
 
 provider:

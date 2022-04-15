@@ -1,0 +1,61 @@
+---
+category: news
+title: "Kessler Foundation Study Supports EMOPRINT for Facial Recognition Deficits in Multiple Sclerosis"
+excerpt: "A recent study provides Class 1 evidence supporting the efficacy of EMOPRINT for treating facial recognition deficits in people with MS."
+publishedDateTime: 2022-04-14T22:55:00Z
+originalUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/kessler-foundation-study-supports-emoprint-for-facial-recognition-deficits-in-multiple-sclerosis/"
+webUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/kessler-foundation-study-supports-emoprint-for-facial-recognition-deficits-in-multiple-sclerosis/"
+type: article
+quality: 26
+heat: -1
+published: false
+
+provider:
+  name: Physical Therapy Products
+  domain: ptproductsonline.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://ptproductsonline.com/wp-content/uploads/2022/04/facial-recognition.jpg"
+    width: 800
+    height: 533
+    isCached: true
+
+related:
+  - title: "Researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
+    excerpt: "A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis ..."
+    publishedDateTime: 2022-04-12T17:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 27
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+        width: 1920
+        height: 982
+        isCached: true
+  - title: "Kessler Foundation researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
+    excerpt: "East Hanover, NJ. April 12, 2011. A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis (MS). The article ..."
+    publishedDateTime: 2022-04-12T13:51:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949486"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/54ef56bc-cb56-4c3b-a26d-cf03718dd400/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
+
+secured: "7Z+ibilDukebtS812qKzRlXtcwAQ+ke8BKwpMWfY2dGat1HjlXfcPMVKq9Fwq74dfJrPm+lMT8O5ZSTl/v64Ugpi2Vvnp1AVX+4c7MckaHk+rBCwXrcRCxXs3dcTi1DnBto3D+UkOr+8Hlol7vjEZiKhYsB57H10Ea0ng05yxb2j9xdTqhNgztJiMx40/P6flj47+ZMcxshLglRpLJmOKL6BKj3qgnMvDtpALj176Ljq28bOgFsBMiUS2VC4JJA7beLpt3Be6rh00J5VirPXHbDe8yCcWWN9GXwznCuVvWx7toZetdkk6sizigTM7GwphkkJqE2Sn7Twggls5u9FPOq+nzlyct0F7CA/wloO9XM=;pFiWBaKUynRKX5NK6Yw68w=="
+---
+

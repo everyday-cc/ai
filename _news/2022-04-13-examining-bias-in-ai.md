@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "12 examples of artificial intelligence in everyday life"
-    excerpt: "In the article below, you can check out twelve examples of AI being present in our everyday lives. Artificial intelligence (opens in new tab) (AI) is growing in popularity, and it's not hard to see why."
-    publishedDateTime: 2022-04-12T09:56:00Z
-    webUrl: "https://www.itproportal.com/features/12-examples-of-artificial-intelligence-in-everyday-life/"
+  - title: "Why Regulating AI Is A Mistake"
+    excerpt: "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ..."
+    publishedDateTime: 2022-04-12T21:41:00Z
+    webUrl: "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/"
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xYwyxwCfS5GBMPoZXJhe8n-1200-80.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "Pq0QVlABDCRUVAg9FJNOEcyzH5mgPS+M8M+WDfPPrF8/0WQq0ElDEsD5PVStmILBtTyzsTxdLKBPV4w8ViYzEBbfOkHRneCnp6Gr5ETiTTim/NN0zCabYb0yCRRrAmRjMVoPJ9CWNrsIFt8F8gLy96jVKHhcKza/IGMa8sQDyuvH6+IIQtcQZvqkfYMqQNlQeC3+FqGjopIArB8V9LbN4R5f3kLc9Ehftj4QoqcTqnYPsNmMfVPt7GTiFJUVhtB4G3L8L7fTZof20DwiZv2Vsj0uhgFfjTW1ugU1yVzlvqnV0505Owhfo7GuH2UOv4u44boqY2ozLpqeM/4HHepp9w4oAIbGG4LLoAo9peXxChw=;o+opq41/AXZ64rRSBhpgFw=="

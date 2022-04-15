@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 498
     isCached: true
+
+related:
+  - title: "And the 100 Fastest Growing AI Teams Are…."
+    excerpt: "Investments in AI are growing quickly at the moment, as the combination of big data and advanced data science techniques work their way into every"
+    publishedDateTime: 2022-04-14T20:32:00Z
+    webUrl: "https://www.datanami.com/2022/04/14/and-the-100-fastest-growing-ai-teams-are/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/data_suit_shutterstock_Juergen_Faelchle.jpg"
+        width: 1000
+        height: 524
+        isCached: true
 
 secured: "39K3Y+farMB8U2OoJyQkqykBy8om5E4Vn7h5NMmnfV8iVtfqNaxzx3fHZAD7AhZu2jGrJFJqOW4njDD/9S8VM4mnXqowjomm7SqSXnJygvBgE9b1A2YGP2Zn3fw/YbjOeawhepiVFa/mC5gIR6R8MWdx1eyYE3pUXQImyhcfuGyBaZ/Am9m6GXdT5WRx1KJ2axx2Gp8iC0EpTKkIr+F2rfY2ft5cov/4k0cXZk4dMHFQrut6iZYcQDekEDp0gbGVVgvi3pKyu+4lODViC2Qm+f3/2CeeY0wKleF+u27r2O3PgJdFE5jC0HZcuEJJyzCk2eS2UaBhmEKeBUNOVtQiNZcwrrhD3ZvyCHmoGS3RoeAFs66C7f56dZBIRVu+kP4vhw3kw1KWOD7obruQwUbr/2EtC9s+PFm62JBkNq3NA+VYFyQshaJ+pyYzPyPPQgBDf/ZxmxYLIySFMhiIqAcHhWoZfccsEW3g3aqdhbXTcRD8jypQy7h7+11qivWVFBRWtV5vCMlhhw5NuxMOgpf/DA==;Zkv2hH7s3kghYB9e53rGIA=="
 ---

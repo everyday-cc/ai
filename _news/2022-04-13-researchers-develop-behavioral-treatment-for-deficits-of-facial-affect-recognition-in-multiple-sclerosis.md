@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kessler Foundation Study Supports EMOPRINT for Facial Recognition Deficits in Multiple Sclerosis"
+    excerpt: "A recent study provides Class 1 evidence supporting the efficacy of EMOPRINT for treating facial recognition deficits in people with MS."
+    publishedDateTime: 2022-04-14T22:55:00Z
+    webUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/kessler-foundation-study-supports-emoprint-for-facial-recognition-deficits-in-multiple-sclerosis/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 26
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2022/04/facial-recognition.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kessler Foundation researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
     excerpt: "East Hanover, NJ. April 12, 2011. A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis (MS). The article ..."
     publishedDateTime: 2022-04-12T13:51:00Z

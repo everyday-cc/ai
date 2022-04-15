@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/manage-dialog-to-eli
 webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-dialog-to-elicit-amazon-lex-slots-in-amazon-connect-contact-flows/"
 type: article
 quality: 88
-heat: 89
+heat: 88
 published: true
 
 provider:

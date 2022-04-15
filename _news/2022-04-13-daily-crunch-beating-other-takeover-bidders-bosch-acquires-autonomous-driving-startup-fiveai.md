@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bosch picks up Five.ai after the self-driving startup pivoted to B2B and then put itself up for sale"
+    excerpt: "Bosch itself has been long on self-driving car technology, although like many, its stated ambitions — it is a major OEM and supplier to the automotive industry and forged a partnership with ..."
+    publishedDateTime: 2022-04-12T10:41:00Z
+    webUrl: "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/"
+    ampWebUrl: "https://techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/bosch-picks-up-five-ai-after-the-self-driving-startup-that-pivoted-to-b2b-put-itself-up-for-sale/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Bosch to Buy Automated-Driving Company Five"
     excerpt: "By Kim Richters Robert Bosch GmbH said Tuesday that it has agreed to acquire U.K.-based automated-driving company Five to accelerate its development"
     publishedDateTime: 2022-04-12T07:41:00Z
@@ -45,6 +61,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How to craft the perfect pitch deck for your AI startup"
+    excerpt: "The right set of investors can be a deciding factor in your startup journey. At LUMIQ, we build AI-powered products for financial enterprises. Getting early backers who believed in our vision was crucial for us. Thanks to the rapid digitisation ..."
+    publishedDateTime: 2022-04-13T10:01:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-craft-the-perfect-pitch-deck-for-your-ai-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/image1.jpeg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Bosch acquires UK self-driving startup Five"
     excerpt: "The supplier said the acquisition would help to strengthen its efforts to develop self-driving cars. Focus on Technology: Sign up for our monthly newsletter that looks at advancements in all ..."
@@ -71,20 +101,6 @@ related:
       name: KSTP
       domain: kstp.com
     quality: 24
-  - title: "Bosch accelerates software development for automated driving with acquisition of Five"
-    excerpt: "The development of self-driving cars is regarded as the ultimate discipline for automakers. As one of the world’s biggest mobility providers, Bosch is a driving force behind the progress being made in this discipline."
-    publishedDateTime: 2022-04-12T07:04:00Z
-    webUrl: "https://www.bosch-presse.de/pressportal/de/en/bosch-accelerates-software-development-for-automated-driving-with-acquisition-of-five-239040.html"
-    type: article
-    provider:
-      name: bosch-presse
-      domain: bosch-presse.de
-    quality: 17
-    images:
-      - url: "https://www.bosch-presse.de/pressportal/de/media/dam_images/pi11466/kv_210519-five-l4av-streetwise_img_w1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "cXGY51n1DJJ3o5oa1Xjy2YSRXpkQS3ZCaamErUmAcGfN7sS9aFhmON3zB/hhfWIWBL9xwOSUavWHODNetEfV8HoZF0MC+pT1lLIsL4eXMf6MeNIgRDvJx+fGUeoiw9YyQCcyKVAjG33HRBQOtn39gTw5cyX6gb55muz6DYMJIDfm724E0x8z0OTQCAt8VA+pxVA17aAt/RDmEmzYAZ6sfpEOt05E/zOW+kyLT6zHQdlwE9EhKJuQDqWViVk8DSmuNF0F8UTUmoBZfAgc3h75rP9p649EySNyjuyuhTE+a/Tt3tfcHfPEog2/yTYut3F2wY2QiuNvqVWy5T+Yr4nGVDiOvNSFHWuzJoXWyBcy5fSgL9WeDj4RHhELTiuntbjVlmo7uEZTI568qTq5UVkpcajgT/zaYszEIl8Q/UrWw6QK8q4DysUZz/bL6NHcolYE4WMfbRZoGvQz2LVgw0GI1oeB82NYXy6VFY/w+vIpyQcsMo6Krs3CauJ64DWbZCx5RQrQbMJkKdCTi649BVgZrA==;n7XqPZokGhywb2QIjD2bnA=="
 ---

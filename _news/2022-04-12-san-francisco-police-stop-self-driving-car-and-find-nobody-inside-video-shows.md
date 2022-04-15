@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/11/self-driving-car-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The AI infusion: Join theCUBE at AWS Summit San Francisco"
+    excerpt: "An example can be found in how Ampersand Inc., a data-driven TV advertising sales and technology firm, uses AWS Batch to run 50,000 concurrent machine learning models in less than one day. A look at how AWS enables enterprises to put data to work with artificial intelligence and machine learning-powered low-code and automation initiatives will be the focus for theCUBE,"
+    publishedDateTime: 2022-04-14T20:49:00Z
+    webUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AWS-Summit-San-Francisco-Hero-Image-2022.png"
+        width: 1182
+        height: 662
+        isCached: true
   - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
     excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
     publishedDateTime: 2022-04-12T13:18:00Z
@@ -54,22 +68,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
-  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
-    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
-    publishedDateTime: 2022-04-12T00:06:00Z
-    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
-    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
-    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
-    type: article
-    provider:
-      name: MARCA
-      domain: marca.com
-    quality: 30
-    images:
-      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-driving car stopped by San Francisco police"
     excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
     publishedDateTime: 2022-04-13T06:48:00Z

@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Watch this driverless car get pulled over, then bolt for it"
+    excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
+    publishedDateTime: 2022-04-13T14:54:00Z
+    webUrl: "https://www.kens5.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    ampWebUrl: "https://www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    type: article
+    provider:
+      name: KENS
+      domain: kens5.com
+    quality: 59
+    images:
+      - url: "https://media.kens5.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "wgEBKr3wxssEH0yDwRpRJy/bkxOz9Tyd83AbKHkOhufkEvqiM2vS5JZH72aqv5FVh831F905lbEoWGkHrv7RSQIk3iyMOZIkwDHmKaazwd+POYHlvMyxG999CeEPuJjvnYVU2BOgiN9/T4cGRJ3umciC/RCYZROByjApvi3G07VIlv4wm5vmmv+KPCMu9oZYWbWbSnmDWLBMACcwQKCLBzKecwgaUwyVwTxPrCZS37JA8bpHXXc1IgW5ZSUlR80v4wfMIqB+w6LQbHt8iMc1eCPtpgL0/YUlxV+Knx1uboCLHo3Qzz9VeLad8l53o4LhqLhNxmfnagC7QVwklTjO4NxzQ2o8F4AsMn2jVwUHcxvBkQo1wKZVIH3rEUhjwae8YGm+u/8w7OQN2ge1baCTj5W7IIsNkbsdlOwr5E6OJkEp1xVwREWs94Vv4eUUVzV6LlPwqoiEusdOuPolmOChD4lbuwdEItYzewQQUsYCt5aUlkYq7JH007JO/pBer6a/oWvqGwpSICPQOy8wzVECRg==;LXK3yp3OuZMkHuMEdroPhw=="
 ---
