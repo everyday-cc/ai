@@ -3,11 +3,13 @@ category: news
 title: "Panera will test an AI coffee system from the makers of the Flippy burger bot"
 excerpt: "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,"
 publishedDateTime: 2022-04-12T12:34:00Z
-originalUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
-webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
+originalUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
+webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
+ampWebUrl: "https://www.engadget.com/amp/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
 type: article
-quality: 66
-heat: 116
+quality: 86
+heat: 136
 published: true
 
 provider:
@@ -19,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/3c8ecfb0-b77d-11ec-bcdf-b07ad7941322"
@@ -87,6 +89,6 @@ related:
       domain: kfvs12.com
     quality: 19
 
-secured: "UoqkQF7iBIOPAOxlfXomqJvkiKLbaNF0K7tUSQkcYHSOQz1BCuRQ1OJCumzq1pAtYFtS3wFWHr+D5G4vPYO6OVk1WYcBLrIDGUzta2Cc7M84GNYCFrq5TpK5OSxLuGcFDwT8YqHbZPNyLZ0a470i6Ryv0wvHDhnU18b/zkVAQzjR/I7pp3Ql94Q0PdoiEAqdqPOWcZNAimO5nk5OlMrn1zxB6YQnMWti0Z0s03TrXc6QJRS8GS22yqgPv+V6366rWkR8Pm9oLe2p2cDRQm9XRwctFmcFrHAiDYxxyM6peSZJSwOIkX25hgVHe5DI/xWwpmDxwNVShdF44D+CkZRfNgZzVMW4WD99VkEZSU8llML4sSzs/BHEhBuc6cBgkTvjIQAp9q9Se1PgPZ4BbwuJ79StlIuGtsPTpmWCc6IkBjMlHN1AC3xQIxk8anrrx1pWr/6YiLhWCIcJKDLatbNzh5xzYlAvv6ByDEQULtDpeKGBsdqa0cwnTd0ZQXlchleEq/e1ZKklXeKiMOYZq1Omlg==;xuYpNGWnREOM2Sg/m3zNsQ=="
+secured: "/ecoYpfMRRG5BToMSjVSgYeswTP2FtHrkJNWPp/lcrvAlB7nQacb0NARg437HTED1ftDBwG1gj2kj6nA5g9kN2/nfoIAhv/xPYkx/bmNDV/v8qaVLyLSwFZVs6r8H3yKkD42danv+ySP9yJg7jQJidl3AOAmiKboJAtZmf3dpMg4F+HIayOVFGPBC1Ny7tNxP3Ho8rNW6mqhykq9ha3lKQ6fS1oZ/4bdAvBI0B8WktjvP2R0CnloI0gtiUnrjzc/5j7x7mU6sZU47AUPJkCHyH/mJguMnp9m5AmWYh8TMu9/wnmX+Bxk6vXMX2glGmr10UqqDFP/q3RdflF+Z3OfsqdYTWRB7WDtjMYpdmEupGc=;3uwn2q5Mi9Q/g1mu07bq1A=="
 ---
 

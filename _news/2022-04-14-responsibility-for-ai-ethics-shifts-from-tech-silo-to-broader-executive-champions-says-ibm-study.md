@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study"
+    excerpt: "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics"
+    publishedDateTime: 2022-04-15T06:51:00Z
+    webUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/"
+    ampWebUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 60
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Responsibility-for-AI-Ethics-is-Shifting-from-Tech-Roles-to-the-Business-Executives_-says-IBM-Study-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions: Study"
     excerpt: "A new IBM Institute for Business Value (IBV) study has revealed a radical shift in the roles responsible for leading and upholding AI ethics at an organization. When asked which function is primarily accountable for AI ethics,"
     publishedDateTime: 2022-04-14T07:51:00Z
@@ -40,6 +56,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KqHMartu/zpjZ4d/Cr06WNuUWJFlnhIttV2QCMidXg7KKCDIhVHmOc5I8QXSpzkkcfNLpvMCIj/SQrVcivGbV2WEqwwzPMycnixq2Mv4SDCBpUWBz8Vy+nlm0DBhj4gsKvW9y28I21POJxXE8Ikby84oM2sQfkpHI2eDsqk+RQgiFaG5W3HC81daeKIkqYSxTFvHXeEHuXDBMNpV1yUP8IArnqEpnFGG3aBTF4Pb0b7/LJshgz/Hwa01r/F4BmuOkmK4OhPmitempN6iz/MGJI6mTcvGBesI5e1F+KyeeOFEWI4rRIuG3XHK1gNDkXx3jYP1Vi23T1kpYqGifzbhfMtoaSDl3qZe0uS8AMtS3XY=;2ZdseB1NdLHXg8ksEYkBhA=="
+secured: "H6/WuQcihf1Y6VTWytxqsSE/U8dhL+6Dnoxe46Ye+dlBvPdqR4RA0KwovyEFlOvs7CKPYu2JN5KG1xhcR6BYOB8tTMdpRwi4djClZr6IZF1XQNGegDhsDqN0VJxyi3Jq1uSGfQ1jGqrm6DhFrGbO5l7OwT5+KwbTRX8U7D/qa0x3CaUcKUYOuGeP8QsWkB5czxeaDM0hASf8jiCsRkidg8qzfVun98fqBIklcnCEWSVjI9Y8amRA1Y+H7R+jVcBxyUNaASM3djpfGVodse+sj0QiXIIM8cM4QmmZW/+iAV0O42iRR7CzE/WuuKb+Sa3dvu449zvIO8NGYjqkUmmDDoyYrwHZc1ZCCDMtLSJyliE=;O4hogEHtOWLnmITzqW7iPw=="
 ---
 

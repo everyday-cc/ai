@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/uk/news/the-worlds-largest-chip-just-rec
 webUrl: "https://www.techradar.com/uk/news/the-worlds-largest-chip-just-received-a-major-machine-learning-flavored-upgrade"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

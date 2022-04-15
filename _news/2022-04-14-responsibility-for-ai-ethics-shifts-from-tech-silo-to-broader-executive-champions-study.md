@@ -7,7 +7,7 @@ originalUrl: "https://www.uniindia.com/story/Responsibility-for-AI-Ethics-Shifts
 webUrl: "https://www.uniindia.com/story/Responsibility-for-AI-Ethics-Shifts-from-Tech-Silo-to-Broader-Executive-Champions-Study"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study"
+    excerpt: "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics"
+    publishedDateTime: 2022-04-15T06:51:00Z
+    webUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/"
+    ampWebUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 60
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Responsibility-for-AI-Ethics-is-Shifting-from-Tech-Roles-to-the-Business-Executives_-says-IBM-Study-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
     excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
     publishedDateTime: 2022-04-14T06:01:00Z

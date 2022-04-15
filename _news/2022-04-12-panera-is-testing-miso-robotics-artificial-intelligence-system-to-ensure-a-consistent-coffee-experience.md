@@ -26,12 +26,14 @@ related:
   - title: "Panera will test an AI coffee system from the makers of the Flippy burger bot"
     excerpt: "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,"
     publishedDateTime: 2022-04-12T12:34:00Z
-    webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss"
+    webUrl: "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
+    ampWebUrl: "https://www.engadget.com/amp/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 66
+    quality: 86
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-04/3c8ecfb0-b77d-11ec-bcdf-b07ad7941322"
         width: 6000

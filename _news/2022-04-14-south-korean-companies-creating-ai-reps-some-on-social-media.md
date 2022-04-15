@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representa
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Korean startup exports League of Legends AI analysis program"
+    excerpt: "South Korean startup GameEye has signed contracts with five esports teams for them to use Deeplol Pro, the company’s artificial intelligence-based gaming data analysis program, the firm said Friday. The startup signed the deals on Thursday to five undisclosed League of Legends teams,"
+    publishedDateTime: 2022-04-15T05:54:00Z
+    webUrl: "https://koreaherald.com/view.php?ud=20220415000523"
+    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20220415000523"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220415000523"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 57
+    images:
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F15%2F20220415000439_0.jpg"
+        width: 630
+        height: 330
+        isCached: true
   - title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
     excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
     publishedDateTime: 2022-04-13T11:47:00Z

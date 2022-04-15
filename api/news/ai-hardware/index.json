@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/the-worlds-largest-chip-just-received-a-major-machine-learning-flavored-upgrade",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -298,11 +298,11 @@
       "title": "Panera will test an AI coffee system from the makers of the Flippy burger bot",
       "excerpt": "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss",
-      "originalUrl": "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html?src=rss",
+      "webUrl": "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html",
+      "originalUrl": "https://www.engadget.com/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -316,8 +316,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.engadget.com/amp/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/miso-robotics-panera-bread-smart-coffee-making-system-120032897.html",
       "publishedDateTime": "2022-04-12T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -341,8 +341,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Roundup: How going Fast and furious can ruin your startup"
-    excerpt: "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running."
-    publishedDateTime: 2022-04-10T14:16:00Z
-    webUrl: "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/"
-    ampWebUrl: "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/"
+  - title: "Blockchain To Revolutionize the Lending Space In the Fintech Industry"
+    excerpt: "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame"
+    publishedDateTime: 2022-04-12T07:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/424530"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1162497947.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg"
+        width: 2000
+        height: 1333
         isCached: true
+  - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
+    excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
+    publishedDateTime: 2022-04-14T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-stock-remains-one-of-the-better-fintech-opportunities-out-there"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Impact of Fintech on business and the common-man"
     excerpt: "Through artificial intelligence (AI), Fintech allows businesses to better associate with customers and clients through real-time data exchange. As per estimation, AI will drive more than 90% of ..."
     publishedDateTime: 2022-04-12T14:16:00Z
@@ -73,6 +80,24 @@ related:
         width: 2560
         height: 1969
         isCached: true
+  - title: "FinTech trends that businesses should follow in 2022"
+    excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
+    publishedDateTime: 2022-04-11T08:05:00Z
+    webUrl: "https://www.israelnationalnews.com/news/325583"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 4
+  - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
+    excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
+    publishedDateTime: 2022-04-13T09:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "bMEtvZS8ZYPnOa6H4c/BCciULueMsrirvOS/ehXGc6X11M8G2Z+2NODbwGzsxlmimOMatGkc8Bdd9dfJjViKXu7CL1+KMv9/Y9XKRr7dg31AsU3LQBepRaeEw8+hm05IRRdFFS3dFOsIf97+bWRlf1JwgP6FiY4b3dygGfNbG9/Prj2DLgQfvQeCy9sc2N2bV6EXpdFSdFomplgOSAisoHKNCQ0fh04NkrOVcU8L6I43NiUAwXs+ubs1+clAIJNv8QKC8qj1wbQbLTMGBsQ6qB84z04AbsmYtuOQd4mks88TqZUHbZirSc1CBZz4TXN7FQbxYI9I4ELHWX6cwX6ABQXartRpRc67hnh6jx1P86s8JfMd8ldZ0aMlVskFXPBk/Pzrgz9jk9hmc69qjuegYToSVDTPv78LJwlWagpUVaPmB+if9GHlmVxwW0RqmnOtPNZ6GTsXtWJhgQTFBOMs67kDpJpWmzIEyUpLR8BV5kX79ReWw47/9ULVUXTR1cCU/k/Ax94vFBFiyAeJIOcNXA==;7lIGobwjZJKWFz2VLQh1MA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

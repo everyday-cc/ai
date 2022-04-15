@@ -3,8 +3,8 @@ category: news
 title: "The rise of TikTok: why Facebook is worried about the booming social app"
 excerpt: "Chinese-owned video platform is set to overtake the advertising scale of Twitter and Snapchat combined"
 publishedDateTime: 2022-04-09T08:08:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
-webUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
+originalUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?fr=operanews"
+webUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "XJhScnl0OIY6gyXrFes0v+BiZ7ocmQIABe2LRjq5ViDcPz4isQid8H0IaHYoND9jC7zPPyulmqvdaZorIBLREMBgh4CG8/CdgAqiucQD+asP7T+KW318TOVb0yTiPTfOnz4sA2CZWOZLlWay/WmJ1R3bl8G+IrPBVifuHMlrv4W4sv8aL2UKZLhc45fnaZxcPei5LCGUNGkR2Crv+1Cl4FT+sPMb+JhocQNkcXWedD8b9Ygj8Yxm2DL59/vMjHn9Zj8Ymb0siHftgZ26f2bLCTqk6zmG/32k329KY0ETA66Mw4eR283/9Nd7+bQ4MUFGdAhEQ47ZASPtvoFlPbM1gOVVnUE7I4qYBg5YIyxCn14=;9Jt0vsDcrb5jjn/s2/bFVQ=="
+secured: "xydSLDqDvSs6hXjLktg/SAFGjQl6rr7oRx5KYG1WLbIj0KYBQPmT2cvQdstTDTxFjvYs9Ij/T/dLvg/XHzAp6s5Wkhp2ccPY7EJK84u8TZ/DS9QfJ8O5MMDbKvzyzs9I91drZvY92dQot/UWWAykUzG0q6xuOaGWcWrdkYUw8/f1ACiI5669v8efN5Hfylh/FqvNWpq22w4vzxJjPU4iYFc49WN3Ywh1X6LLNZVdpJkopYkDHb+vYxGtj4Ll51rQFyZ8IBq0Tlg2DI2oFjqFI61n24MKLW40zyY2/7YSEMCpNldTdlYpGhipHWLn2Dg/XFctowxNVRGsquhO9nbJWT8Z14OnaEIyuj2hFJocu84=;yjFgSEyJX2knxWqIWc9MjQ=="
 ---
 
