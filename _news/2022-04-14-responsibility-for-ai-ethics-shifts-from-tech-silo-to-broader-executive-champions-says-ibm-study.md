@@ -2,64 +2,19 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T04:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
-webUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
+publishedDateTime: 2022-04-14T10:01:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
-quality: 71
-heat: 91
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KHON2
+  domain: khon2.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
-images:
-  - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
-    width: 2700
-    height: 1845
-    isCached: true
-
-related:
-  - title: "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study"
-    excerpt: "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics"
-    publishedDateTime: 2022-04-15T06:51:00Z
-    webUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/"
-    ampWebUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 60
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Responsibility-for-AI-Ethics-is-Shifting-from-Tech-Roles-to-the-Business-Executives_-says-IBM-Study-1024x585.png"
-        width: 1024
-        height: 585
-        isCached: true
-  - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions: Study"
-    excerpt: "A new IBM Institute for Business Value (IBV) study has revealed a radical shift in the roles responsible for leading and upholding AI ethics at an organization. When asked which function is primarily accountable for AI ethics,"
-    publishedDateTime: 2022-04-14T07:51:00Z
-    webUrl: "https://www.uniindia.com/story/Responsibility-for-AI-Ethics-Shifts-from-Tech-Silo-to-Broader-Executive-Champions-Study"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 45
-    images:
-      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
-        width: 730
-        height: 400
-        isCached: true
-
-secured: "4r/3NGTOW0ZvXJlZoxvq7McSJspUGKoH/lF2JjIZUBc3GHzLvXkXBeol9hlkYDNn0OrhNbuf2fU8Lir8ZGHZszjHpVc6yJT1Dsf3/dmwgPSO2WbnQNjGK7QszSPeiPl0s3l/f25eAtiQ6vNY8DuQrrpBnRmpPOlHLJGxZrCzUfW3xbnju9MK+pbbCg9OuAeSu/h9ziRyywdFzLu0F7IZ0xtFL3gFhZyEl0ChdWlrnth3keKLgVIRJx9UEDR96S9VkV7t6JIOkHzK9lA13hdJztaToKeBi5ijpMMk0eJJ/Q/0xDgmrRBa7MpMEYyU7xGMOWm2S6KdNw8gFsm67LHdDEgS8Hh8dhStG/FlY0VDaLA=;7hH3K0lz/V1ZCNKFWL6vew=="
+secured: "McCg68HVWiLiE5rr9s6GxJQ/UcReomGt4uP7F9rXPSrJuBPnGjwcTXBc0stw3fS7k/vDHWEpG9lsUMhPEi5dGKusSUB3KCmCCbu/VrmwmS1rAKZQ7G/dyfgrslzllnw7xZDE1+HRImbIXmivn5J7zCZJhwe5J5RflHHfFtrNzHkA7DSo0Nz/suSgz0bn7ApVBDObqiBVnaRHNT2YuauaT39KkcPbYM5DxlqHm/N66/iH+EtHs4g3Vdd/OnNwv0poUKlwls8hhdMK5Y3MngrlJdthIO2Um5c8fnSvYnVFQ4Edncj93eaRQUp3Ry/IMSREoODuJAll40rYtSLDLD3FvmuUlL9og8hd5rzaKlvs9EyqhG6llFIvXxXSQhlsXVVXSm84rw+59uOFV/2oIAmyiIoyZLG7WSs8vYgEDVz5idcuB0AKETPjV1ajE5ovEKy3lZGKnZOUHw1Kjn6oQLXr3g0Mr9kJN7RZHj5Wm6RD60C/sqjnZwkVRVH6hYVorZTmX9CArzzzt87qn9A/f34Qzg==;7LGHnmoS4LCP1yFB+kWVbw=="
 ---
 

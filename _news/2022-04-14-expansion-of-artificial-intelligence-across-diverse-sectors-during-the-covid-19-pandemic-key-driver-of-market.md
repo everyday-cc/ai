@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"

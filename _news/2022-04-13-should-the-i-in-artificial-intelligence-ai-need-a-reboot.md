@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 secured: "6CjiQgi4h7az7oheGwA0PI7h0HVQXeYgRrLtayGw8BK5Ua5l9pAUfpJoASuS4CQyPCeT4kR9m5cpgh+d096MAuA9o2dty3dHSff6Kmp3D8fhHeKan7k9URzC+IKJkmPk6t8k/E5P4VhrH6lI+2dVj1kPYc+mxGakZvwMhy3+0bjhJxBAKYplbWXaJe0G49C8CvHPxxEeRWGglR6P2i6RP990ep4Z8xKN+vUPZlj136VqgOqsnWeOUvj/s4CnX1y9zb3QZNeKeDv5hxcsOOmRsbVhZGDqAp772fsFrabzXzdJYvjUOczKQwrAAQXvgjPswBR3jsnb2quo36ZPCDEgn+lRtXEF0s8+BXo1zCS3qaLcfp+4Zt9WWZCZ6Nq5Q1m7bPjK2onu2rzD8sjXWUGiXnmakkdAVFCTwfxadpHE7Eflf+vpRHkR1heseodNCqacUBll1dILTkU6ZTg3ZKIhN6EUBpA2GPabhOBB3ROfyNN3lnfmZbRHTlX5gCzY0YZGIdMFytW6kHrdZ19IF9egdA==;nEYf4twp2Unjg4PAPs+yuA=="
 ---
