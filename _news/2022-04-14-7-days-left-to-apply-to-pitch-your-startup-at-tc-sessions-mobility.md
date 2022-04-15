@@ -51,7 +51,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-4.png?w=1024"
         width: 1024

@@ -48,15 +48,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "Rethinking Talent Management Through AI"
-    excerpt: "Although it may seem complex, AI just refers to advanced data analysis procedures that allow us to study not just the clean, organized, numerical data that traditional regressions can handle, but also messy,"
-    publishedDateTime: 2022-04-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/04/14/rethinking-talent-management-through-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
     excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
     publishedDateTime: 2022-04-13T06:42:00Z

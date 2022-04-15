@@ -106,6 +106,20 @@ related:
         width: 500
         height: 334
         isCached: true
+  - title: "Wilson Allen wins Microsoft Gold status for data analytics as it prepares to launch managed service offering"
+    excerpt: "Wilson Allen has been certified by Microsoft as a Gold partner as it prepares to roll out a new data analytics managed services offering."
+    publishedDateTime: 2022-04-12T10:57:00Z
+    webUrl: "https://legaltechnology.com/2022/04/12/wilson-allen-wins-microsoft-gold-status-for-data-analytics-as-it-prepares-to-launch-managed-service-offering/"
+    type: article
+    provider:
+      name: Legal Technology
+      domain: legaltechnology.com
+    quality: 20
+    images:
+      - url: "https://legaltechnology.com/wp-content/uploads/2022/02/220210_nd_LITI_300x250-Feb-2022.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
     excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
     publishedDateTime: 2022-04-13T09:49:00Z

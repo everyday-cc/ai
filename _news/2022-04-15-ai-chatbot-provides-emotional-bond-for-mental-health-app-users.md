@@ -39,6 +39,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Can Customers Handle the Truth About Conversational AI Chatbots?"
+    excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Mayb"
+    publishedDateTime: 2022-04-15T16:20:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-5538c66a72ae730814bc1f6ad5c1f9fc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Paladin Teams Up With Ukrainian AI Chatbot, Legal Organizations to Help Those in Crisis"
     excerpt: "The new partnership seeks to connect attorneys around the world to Ukrainians scrambling for legal advice, and provide more streamlined access to legal services for those in need."
     publishedDateTime: 2022-04-14T18:00:00Z

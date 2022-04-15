@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2022/04/15/magazine/ai-language.html"
 ampWebUrl: "https://www.nytimes.com/2022/04/15/magazine/ai-language.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/15/magazine/ai-language.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://static01.nyt.com/images/2022/04/17/magazine/17mag-openai-promo/17mag-openai-promo-facebookJumbo.png"
@@ -30,6 +31,6 @@ images:
     height: 550
     isCached: true
 
-secured: "wLIXl+fXJThSchFGwW2Y4THkXCNyjd3h5Tx4kPzzsoMQX8MssZ98iT9jDxcO0+Bpc2jEXW9RCwHKEESfpRR0EVUJ9mVaKxyFFIV0lI8OZ+gfNiW3sHR3kWZQCodvygLbnKlZWKvOqCfxVQq9ROFcS+VJ5d8o2nxpSqCUaCqZxXX1fHV8JEmzY37JKRtGrady8dg71amQmY2Xk/D2bc+6Mm3LxXqjmyG8Vrf8mb1QDbCPvGTFQZWiSTO14MmbRAcC1kRGaHnRYKJ/MGR5vTxch5NbX+Yhdv57dpGrMvIfGW7INEu38+f1l5hGuCGxiw8+6PbqqouVObV9lSgUhs5R4/p9Q8E7boZJjq22MDiP8gg=;oWD6Xnuf+JYRqR8YNs+NCw=="
+secured: "/PGe9MKb+npfBy8VJp8fJQBjXb2uJF5AOe+U/Oah8hyXveC3agq9Ru9C8GRHcBgoq4M/Y9icc6gVDdjzFuMUd/Qg3aDTIkfqzaVFF5ROkMiCg7jmimp881FniVwnkFbAxfcv9m5wW4zV9eGC3yPcMVZ8EHs2qzFYQsrcPBRjbw88dC8+LEJOl+VvE55z0Hyq5yGFiWeUiHhDmbgRXfQXQMzhk17FnNwg94cUjIz7Uww9bM09DoSsgXwPk7Fd38H2GZPz1j9cdfjXdrTfgBp9ikdqdv/8Ld+/VhZiyuLWqQlfjfck5jNi/hzDWwdt4Z5jbZ/pvTVI8LEdfCgjCzQYJf66hGGU1sXZVEeaKoQPoe21jGNbdlZfy8+38RpAhPYdj0KDvde83f/35MpKcRdkwEmrxC7Ip0RjnEvbXu9Zg7xpLAQ5gi39pr/59vQlDFLxSc+Xbl1xnEWbJ0XcoIKXT6VZjZlcl7iXunm+vDaR84o6NVc8QMeBuFL5ojmtopBDI6D94qMfAZ8KOUsO7UNJeQ==;d4rXseSldj3Ea5nycXyHSw=="
 ---
 

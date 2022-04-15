@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/indi
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/12/w600X390/India_US_Flag_Reuters.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "US and India launch talks about military AI"
+    excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
+    publishedDateTime: 2022-04-15T14:27:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/yn6AlRGoKGRxZIAkJTzMElmVFoY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/2XCHIWVJWJBTPKHX3WZQTY747Y.jpg"
+        width: 1024
+        height: 690
         isCached: true
   - title: "Who are Beatoven.ai? Meet India’s first and only AI-backed music tech start-up"
     excerpt: "Beatoven.ai is India’s first and only AI-backed, new age, web-based disruptive music tech start-up that provides a platform for music composers and content creators to help them create royalty-free, affordable, easy to license, exclusive music."

@@ -3,8 +3,8 @@ category: news
 title: "Dell, Nvidia, AMD to power new Ohio AI compute cluster"
 excerpt: "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator"
 publishedDateTime: 2022-04-13T13:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
-webUrl: "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 338
         isCached: true
 
-secured: "Mqk21rgy+ELlYfAVLcEXYjG/QIVE4BxnNBVAOTPD0CfXM3t+CrOHv5ySN6xNsAlYxFxWkxCOL8SUnt/nFKgxLRkEgd+MD1/+LuyF1h0zDXVgHjuSorUC1DQdUhTjDnb4Z1d75YLdASwmPVtaDMW43HCx9PqDU84I5E9kLAXTTWD/XO4J0XJQ40nTWEoFYMi8DODWV2VDngo2uMpXmCkdiZEvVxWF/pHRLAaYmzkRqSfnD5+jIC2wR6yEZOW7Y+eDQ7GQKg/l5Y+7ZbQyZl49YdlX4kuPe4OIo3NPEtXDwD/JR8PpeVsGH9K5FHCqmvFwKb+vlUB5j7a0tEmn2M4NtSnbep+Ll7s0oMuXmyugdMs=;UiurdP8+ezgMY+bsgT+oig=="
+secured: "KmCbvGi9Vajnl+/WKAb3Tx0EnSvLgGbqLjPE4m/0iQjKFM92XCA0+8RovaTiGiLbXgDpWwbsAmQvAWJAhlicms/OMFHLKrHj5pXzz53ssBF+/RVzavCzeG2dwU0MFwdUB8QsMhrNm2/fcRC8OhDyEMvqFRUK2gQ3t34Cl6r6LrxAsZKCzfXAHHWVgWVpXUIIj2YXPiEY/goBiYw4vSt7YbhUUA0Cl6hU2KGq1Qu4n4KNe62oacYxVbgm/nKR1DSlvMyJkITcdMximSkmAq2P/SBmE+SvFb8OMlRbWbdEi8FlzLG4dRq6QZp2RI+zRwi6HIF5Olx9jV+rvtzbObsHbj8+HglgQ0Gh+1VCE7WP0Sk=;MOLA6Bz2DMq3kuXI8k6eWA=="
 ---
 

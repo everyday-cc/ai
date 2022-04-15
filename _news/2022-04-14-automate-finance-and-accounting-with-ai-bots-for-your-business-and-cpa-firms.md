@@ -58,22 +58,6 @@ related:
         width: 799
         height: 499
         isCached: true
-  - title: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off"
-    excerpt: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off. | Crowdfund Insider: Global Fintech News, including"
-    publishedDateTime: 2022-04-10T23:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 65
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
-        isCached: true
   - title: "AI in financial services"
     excerpt: "Artificial intelligence stepped out of science fiction years ago and is at work in Luxembourg in insurance, financial services and fraud. Andreas Braun, director, artificial Intelligence and data science at PwC Luxembourg and Ajay Bali,"
     publishedDateTime: 2022-04-11T09:53:00Z

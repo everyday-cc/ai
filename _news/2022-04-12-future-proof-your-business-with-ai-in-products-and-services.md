@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-you
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all"
         width: 799
         height: 499
-        isCached: true
-  - title: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off"
-    excerpt: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off. | Crowdfund Insider: Global Fintech News, including"
-    publishedDateTime: 2022-04-10T23:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 65
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
         isCached: true
   - title: "Automate finance and accounting with AI bots for your business and CPA firms"
     excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."

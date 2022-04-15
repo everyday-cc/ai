@@ -56,22 +56,6 @@ related:
         width: 799
         height: 499
         isCached: true
-  - title: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off"
-    excerpt: "How to Implement Artificial Intelligence in Your Business So That Your AI Investment Pays off. | Crowdfund Insider: Global Fintech News, including"
-    publishedDateTime: 2022-04-10T23:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/189588-how-to-implement-ai-in-your-business-so-that-your-investment-in-this-technology-pays-off/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 65
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
-        isCached: true
   - title: "Automate finance and accounting with AI bots for your business and CPA firms"
     excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
     publishedDateTime: 2022-04-13T20:00:00Z

@@ -39,6 +39,20 @@ related:
         width: 896
         height: 504
         isCached: true
+  - title: "In Kazakhstan, Artificial Intelligence and the Research Commercialization Behind It Is Saving Lives"
+    excerpt: "The World Bank-funded Fostering Productive Innovation Project in Kazakhstan introduced several innovative research and development commercialization programs to improve the quality and relevance of research and spur firm innovation."
+    publishedDateTime: 2022-04-14T00:00:00Z
+    webUrl: "https://www.worldbank.org/en/news/feature/2022/04/14/in-kazakhstan-artificial-intelligence-and-the-research-commercialization-behind-it-is-saving-lives"
+    type: article
+    provider:
+      name: World Bank
+      domain: worldbank.org
+    quality: 25
+    images:
+      - url: "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xettgwMkxaNjxh8+pMv3/2NFt64bywaxZ8hBHOXaxRHO+PHH3XtW+XtRJSVsiSWVnZhi+edLUT5YV/hGopXYagvPbfkrMr9WpLa/eBO17RQ16fZ2v7orR4dLt2/cwneupYkzzTFA80gfePmKnCGaHAGQuPyOXPruGFpmE/Xj+AtZDNt1sgrUXhs5Ujpgk6oZcO8+MJyJB+8FFD5jperbO1tuepVzNsEVM/1cGSGDKBl/SMhjCqaAWNUM4PmIHWYs8E3nONG175i5gpcDQoreua+Uk833rUAHtKhYF2CHy6qOidC7VdaK8jTT/KH4AXRzICj2wVdvbOnbgJv8gWbYbFCt+3ixGyyid6MlO8NupkjK0xcdrXbS97BNJaDADcLFehBFw+ikDOSUJOamTZkjyVcCE8HQFti19AJfyhSBUaQp81MyWbb39NsfssKFYVDOph9nJgPIijDVQtxPZzJc/nDG1WCslvcQMvxdy8Ws51o3FqsgDLmeUpFnkyhwhZAhNJK4Ouu+322U2GG515Cm5Q==;qD/vtr6c1tRU9kLQDZptcQ=="
 ---

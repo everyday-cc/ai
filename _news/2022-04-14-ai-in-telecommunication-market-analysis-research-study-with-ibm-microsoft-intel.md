@@ -140,14 +140,19 @@ related:
         height: 800
         isCached: true
   - title: "Worldwide Artificial Intelligence in Digital Genome Industry to 2028 - Featuring Microsoft, Fabric Genomics and PrecisionLife Among Others"
-    excerpt: "The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-04-14T18:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-artificial-intelligence-digital-genome-industry-2028-featuring-/2022/04/14/9583612.htm"
+    excerpt: "DUBLIN, April 14, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has ..."
+    publishedDateTime: 2022-04-14T20:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-in-digital-genome-industry-to-2028---featuring-microsoft-fabric-genomics/article_a3cf54c9-f4ca-5169-8b15-c66ea69f670a.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "DJxGu9rrX6DruCcVUiqNWYzlL+RBtDN81nwQ+MeC1O92EkBBLFVIJM2qDqfPUULeYnSKEZ51JgN3gV67I77ROUoSlOa87S67HK5uL8DuV9vzdlmEi8OM41PX5NeDk06z4IAmcnBS10uQ6VerSoC3DCKrGH1LU/RxinMlDWrBcCzZ8pglYHrkVMZaDhgd+a0XJvdCXM65HqrhiFsBHlvPP2/etMZkxqbQBrLjmQskg400SVTplqMBe1mebm2dbSm36AgvBzcja4dej/HG7ZMz2ogB+Z17M8P1hkcmcEUDVUhOdAR4cL1gtDFnSqNVF6xe994PT5E0a0Sk/i0bJqpdQsW2JXe/qMm9a0Q1thReUMWVMYQCMp1dCJb+afGTTyDfIcxixvihUABWcIJnlb2qe1uaNcMMXNciOpiAlIcOgXkvPqdl7tSzA730BfsmwKFi6Xk69+AF1d1vrRYnS+2kZuPRQfnObckrs1d97MxO8x/+EAxmoYrQrzg/nT616vfN2sMxB3XfmeIIgTup3UahUA==;al8U1VWRuBgjHwzoXGPHDg=="
 ---

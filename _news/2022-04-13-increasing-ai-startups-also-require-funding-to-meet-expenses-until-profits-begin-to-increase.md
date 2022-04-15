@@ -48,15 +48,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
-  - title: "Rethinking Talent Management Through AI"
-    excerpt: "Although it may seem complex, AI just refers to advanced data analysis procedures that allow us to study not just the clean, organized, numerical data that traditional regressions can handle, but also messy,"
-    publishedDateTime: 2022-04-14T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/04/14/rethinking-talent-management-through-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Advancing data discovery in the life sciences through artificial intelligence"
     excerpt: "Vyasa has developed deep-learning artificial intelligence solutions for organizations looking to solve the complex data challenges associated with healthcare and the life sciences, from improving scientific research and accelerating drug discovery and development,"
     publishedDateTime: 2022-04-11T16:38:00Z

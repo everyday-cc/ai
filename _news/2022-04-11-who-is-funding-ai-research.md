@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "In Kazakhstan, Artificial Intelligence and the Research Commercialization Behind It Is Saving Lives"
+    excerpt: "The World Bank-funded Fostering Productive Innovation Project in Kazakhstan introduced several innovative research and development commercialization programs to improve the quality and relevance of research and spur firm innovation."
+    publishedDateTime: 2022-04-14T00:00:00Z
+    webUrl: "https://www.worldbank.org/en/news/feature/2022/04/14/in-kazakhstan-artificial-intelligence-and-the-research-commercialization-behind-it-is-saving-lives"
+    type: article
+    provider:
+      name: World Bank
+      domain: worldbank.org
+    quality: 25
+    images:
+      - url: "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Bio Presents Research Results of AI-based Cancer Diagnosis and Prognosis at the AACR Annual Meeting 2022"
     excerpt: "Five abstracts in prostate and breast cancers, Deep Bio's main research areas, are presented during the online sessions."
     publishedDateTime: 2022-04-11T14:00:00Z

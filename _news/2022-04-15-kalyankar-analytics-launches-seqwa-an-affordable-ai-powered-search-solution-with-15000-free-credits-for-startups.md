@@ -119,6 +119,20 @@ related:
         width: 500
         height: 334
         isCached: true
+  - title: "Wilson Allen wins Microsoft Gold status for data analytics as it prepares to launch managed service offering"
+    excerpt: "Wilson Allen has been certified by Microsoft as a Gold partner as it prepares to roll out a new data analytics managed services offering."
+    publishedDateTime: 2022-04-12T10:57:00Z
+    webUrl: "https://legaltechnology.com/2022/04/12/wilson-allen-wins-microsoft-gold-status-for-data-analytics-as-it-prepares-to-launch-managed-service-offering/"
+    type: article
+    provider:
+      name: Legal Technology
+      domain: legaltechnology.com
+    quality: 20
+    images:
+      - url: "https://legaltechnology.com/wp-content/uploads/2022/02/220210_nd_LITI_300x250-Feb-2022.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
     excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
     publishedDateTime: 2022-04-13T09:49:00Z
@@ -152,6 +166,6 @@ related:
       domain: digitaljournal.com
     quality: 0
 
-secured: "Pe9nE0+s8PWGBOWk5u0MD9RZvJUGP1w2zGB+/6Iu8Ehug5IAxA4uEc15ONnml8v+9q62hq5/kHUhjEtCEJu4n53jpgEIvTKda693xF0S3BueFxlXmemfarMlI+Wvh0TY8oVDmG236UEOw80ZPRO50q7xx+dzI2K558CoHAPvXAI8GUyWDXSMs0XVBl/e1yCZSp/v3tesCBzc9RqgiedzasWRiv58XHF7ZvmlqZlwKRtrWLk5eqQlbyGwh/cuG3nw7kjdRydNFtOx6dUYA33dOZ1NQtAXW8WT5Fp5XllbuIMfRRz4MLiP/E8wnqjN5GbN8y2yMjexhJPqVsbCfv5NvhdcxWz6Szj8wT+ms2vTXMo=;kwvAMoY+SZ0ipnb00eOJbA=="
+secured: "2a5VGMJrZeMSpZNWZC6OmecT7kvjPIX5XlsZSFy9l24B3TEfZkc5PXULAOXW0kaTs2b1zNBO4IVDLRTcDqrFI95fzG4fWLlj7rce7SAMEvHDkJ1SLc+eei5Uenreafpazs+BaFsGhQJutU2kQIopKIsXN+/3jvATyk8OCo0KgWjP3HY+/HLoylCgUsfMwo4gvQHTqjIxDfAgxC5lmzq8hF6zj5sRWQVjV1LiKtOE0UulVcjWbj6U+JbYkiji3Cg5bP1S0EHhM0ChrVrZe+HOVBRlUJetDF6g6ftn1iOlGWZB4s1ZA7O0BFaUqFCWG3uMgWi0QI5wpWpEMZCD75D7Fwn57HhPT7ho/ZXE4QT6YiBWsWu3IcDknnuu4yutxEB/JduNsAzeh2z3KAgN5kN2s9kTvi7vvfZTEUg0dn7I6zEyGjl8d5mW6rJwAm697lKWbFQ/KthoR1TQs0O/ZvJxUkS5zOtlmBwXyLaKcp5prYybDtPjQLRUGcNZhdUMkCJIarYbfjK1EFLY13ZLN+hquw==;xueq7ElUqma3DrewcbxDdQ=="
 ---
 

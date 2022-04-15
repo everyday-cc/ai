@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/manage-dialog-to-eli
 webUrl: "https://aws.amazon.com/blogs/machine-learning/manage-dialog-to-elicit-amazon-lex-slots-in-amazon-connect-contact-flows/"
 type: article
 quality: 88
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 1139
     height: 630
     isCached: true
+
+related:
+  - title: "Build a virtual credit approval agent with Amazon Lex, Amazon Textract, and Amazon Connect"
+    excerpt: "Banking and financial institutions review thousands of credit applications per week. The credit approval process requires financial organizations to invest time and resources in reviewing documents like W2s, bank statements, and utility bills. The overall experience can be costly for the organization."
+    publishedDateTime: 2022-04-15T17:48:03Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 111
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/15/ML-7548-image013.jpg"
+        width: 1459
+        height: 860
+        isCached: true
 
 secured: "GIkRqSkDwgyE9L8doC+++ZTThQGERrBzWgxi6kNEoj7qHYKQ+dOpQWnz4rJpKOmrd2y+DKNuyVRjcyqZoVo+aTxJMEULFtsl41OIfzWsCXFXK2isiGJrNUhu9ETC/2T8mdOENFaVqZp3wbRW8WS9X0D9wLbv0J8l51M67GMyT7px+Fhnv1m0g2SkC4gwEmI6exHy+9xoJdNKGYEFEYNoDxgdkHN6/13JZ335n6MyghyxjgfTglP3GPtCKG2Jb+2ZGkP+Xfbxx8/CPF+YrXjLXmE0sP8YeE79RWsb4XTkxF0a4Z2QGDPX6R790ITDTRsNZPvspsnm5gWHrIK4Kpphgm34Oyy8LfAwYRB55nROl/4=;PJYaXBCz8N63/YkQwvjr2A=="
 ---

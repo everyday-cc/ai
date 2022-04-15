@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
-excerpt: "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have ..."
-publishedDateTime: 2022-04-14T08:04:00Z
-originalUrl: "https://www.keloland.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
-webUrl: "https://www.keloland.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
+publishedDateTime: 2022-04-14T04:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
+webUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 71
+heat: 91
+published: true
 
 provider:
-  name: KELOLAND News
-  domain: keloland.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://i0.wp.com/www.keloland.com/wp-content/uploads/sites/103/2021/04/snapshot-2-9.jpg?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
+  - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
+    width: 2700
+    height: 1845
     isCached: true
 
 related:
@@ -56,6 +60,6 @@ related:
         height: 400
         isCached: true
 
-secured: "5X8ox7QQ4UtlASHW5RNHZrGyGIiVzK8pM7FtNp9gfJWwp+J53JRfjKnxvIcQ094cyiM7XKlLlY1iUGei6NLuJVrfirF7QBApSlaRI8nYx2d+DJmlURw8FwMDpY77NB+o00+0IosgnOFqvKdKBy+/Ntwqc9yY02R1ba3pP8gk4BZdpVEbcxwB6ZDl+2J9yU6az4IqC84GAf4xH9mtvzJVJOwxfi/puBMo8egrzYu6G41KkCsinPUdsLrPiPQCx7Nq9MtUo2qihv2iohEfxNKb31t3wIfoUientNhcieloz+LeCJRFlFNQoAJnHgT0S7y2p1u1LQYOjDvwk7iHcU1l736VJ0reoaLirbjEV74n2+Q=;uwVWajaFtVlznT3izR6E5A=="
+secured: "4r/3NGTOW0ZvXJlZoxvq7McSJspUGKoH/lF2JjIZUBc3GHzLvXkXBeol9hlkYDNn0OrhNbuf2fU8Lir8ZGHZszjHpVc6yJT1Dsf3/dmwgPSO2WbnQNjGK7QszSPeiPl0s3l/f25eAtiQ6vNY8DuQrrpBnRmpPOlHLJGxZrCzUfW3xbnju9MK+pbbCg9OuAeSu/h9ziRyywdFzLu0F7IZ0xtFL3gFhZyEl0ChdWlrnth3keKLgVIRJx9UEDR96S9VkV7t6JIOkHzK9lA13hdJztaToKeBi5ijpMMk0eJJ/Q/0xDgmrRBa7MpMEYyU7xGMOWm2S6KdNw8gFsm67LHdDEgS8Hh8dhStG/FlY0VDaLA=;7hH3K0lz/V1ZCNKFWL6vew=="
 ---
 

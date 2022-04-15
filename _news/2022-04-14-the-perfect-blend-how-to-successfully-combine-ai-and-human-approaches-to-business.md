@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-13T20:40:00Z
 originalUrl: "https://www.stamfordadvocate.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php"
 webUrl: "https://www.stamfordadvocate.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/25/13/72/22331011/3/rawImage.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "75fRMkYNNwDxCb40w3jg3bRin88PiGus6xY6IoQ+yRTTHXVhajrkXzYDH90AuykYwTjyd7NOVljYGBxozIy8Gqxy6DKOc4BYezIeZbWt7JJbUpAXyV0pg24HAOovQ3l0rl3IBeLiUe1Lq2GJagpEmghba42gxvrfU+15eDNrkvfy2/mVy9YESIjGPB+qz+FXn8fkHO73WrbibKLvxPuspYou9J3e3DeOAgKCAeVzs13Ri7aVU3cig4UXyF72gUu9zma/PwkC57JsoIUqHGRwspw3+S4VGzveaQ9XPfjieLGUOrTeTYVWCTW88pACEFltqBy/QUm9pjrazEq7MLK6THHx8cOASiFEglH6zkiGu04=;M87JzJwmivSzxqNc49L+zw=="
+secured: "GFiPSk7+K1q9QCV9k12cgpAwgaJwyWgSP3Flv9jlu8H1USp0ibM43Y6YDhopKFmg2ZsvJFNF3mIkiKL0p2tHRpWjev2IM6/bcx/iSsLDdG3s5EF58zSFuXbfd5bcX54XBr4dDasiVGFLUWQHGSglDJPybMslVEhDOLD6VFCJHFAGyAbDW7SSTy6B2a9TU5qoaoBwlZ+ZU29AxFR86O6+ZgMaAe6WlgpzmVBB8tL0LbCsYSAEYXwkzoxrp+B4xmWhZN6vGOB1LayLT4U/keDXmSDwU13sYCRAqrT/7mobiSkWuKeuZqIlrl6Vn4+zGbT3ioqtT5lD3F0UBvRdcFCnNf9hGqqgx7t0rAzBIK5XTowlnck7omEsvfM6N6pcbFo8/Dxr/VXnyVtaPT8Xd0wcE63C5AYLoc89Hew0km9GurRnrnfvvjqZQ2FMUqippUOmz/hvXH9NeYAYmhNw72O+YspwAY1PZdn8boakGFZU3wQRrJgLIN+Ibzf4K6GPz2T7kKBJTFplcvOH4xV7jSK5hQ==;ZjwBphzg8gO6qGiynz6j1w=="
 ---
 

@@ -42,6 +42,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Engineers enlist AI to help scale up advanced solar cell manufacturing"
+    excerpt: "Perovskite materials could potentially replace silicon to make solar cells that are far thinner, lighter, and cheaper. But turning these materials into a product that can be manufactured competitively has been a long struggle."
+    publishedDateTime: 2022-04-15T17:57:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949896"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
 
 secured: "jf+jfvgOeqNsJsF8UvlpIsv4ZbpZIrBry8ZZvfLAcA3Ota8soNSiE7Mzaf4WjM5z33XgULGUgCDx4rl1+ENzwKqxyJw+CAIYAECsssKQaEY8xY0pwoo9j0pDMzT7v+YW9fxJE8vmuN9TPqO7mY5QBfegqHpkIiN9tcvsq/m0zWdPrlEwdZI9wr+a53ihofu8tRtma1xoedGQl1e8SDtzlh4fFnd/FONPHmlbQsbXbbSwlZ7qttqIVWtUHSkuRCuDLC4RgyLnxLzvpSf9mapG1RlJGb7B/rrZLJuoRuyHJfo7s8SHfnRTVmIoNhKcgltXLZN/deRb/8vBSRkvXCI0Ewzzpk0FK2BLTdfxU1WeIQU=;kT6ehC4R1Q8YoohY0U765A=="
 ---
