@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI Week brings together the world AI community"
-excerpt: "The jam-packed week also includes panels on AI career paths for kids, AI for competitive advantage and the ethics of AI; a career and talent mixer connecting AI career seekers with top companies; and a full-day academic symposium bringing together the ..."
-publishedDateTime: 2022-04-14T18:11:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
+excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
+publishedDateTime: 2022-04-15T03:46:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=647969"
+webUrl: "https://us.acrofan.com/detail.php?number=647969"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Immigration Could Decide the U.S.-China Artificial Intelligence Race"
-    excerpt: "Attracting talent has become an increasingly important factor in the growing rivalry between the United States and China for tech dominance."
-    publishedDateTime: 2022-04-10T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/immigration-could-decide-us-china"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/naturalization.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "Even Bond would have to share his secrets in the world of AI spying"
     excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
     publishedDateTime: 2022-04-14T04:00:00Z
@@ -70,6 +56,6 @@ related:
         height: 377
         isCached: true
 
-secured: "Hx52K5WBiMmYpFQ78jmaR4+zlVe38+6qrlQtfa0QTGd3y6gqWbBmOgKIN661pPBprPir7FzRVui5IMgSLEppRitHMtem6YfY7+xfTPheCWKMyXt1+rem407dBBbv4ymLrG4/uXubbdpomaNKvWv7NH8umZCDunEWUGzGaJdyy+tYDjeIfRZArv3C0ilh/NI1GHAOerw69CYyvxJm9t5kBqB96tn84+bgQ9eVXMg04Ll9gq83/4y0LB4tVOp0EHC8xfSzi4uyMyv/iqDJrfUTpre7V7/MpNNBiwZfP8lUDhuT3XadDrxHZ/YkFyc/fKP5HZUYP4ZCWGwWRxvQgijuRv0DxihKrY4JdOIYjdHwJRI=;IKcmILrHgOeHbMLQSQm+Aw=="
+secured: "VkFb7MraqETcT7qTkbfF8ge0GuusA/m3npEMnsoIq76gaoguOdp9pdvAmoK2DWMEqBHTOmzamOZcxtLy50TVslIE0pSFrRQdyDyxbGbE7MBfr570BCt+squX4raneUnpVKwU646ISHZRZnwxNRBVBTj8eDj2MDoHErORgMTFl5r+1CYWZBxE0O5O6PbG7r3PyJyPt8vyMRIMuu17WaQ3Rg3i14nz3nAxgcZSwZP0mmkDZqtNC31kRa6EyJxTfBztpAauPtADsV7QY9QktkJFDmR/XXlHbej/aNPn9XwTGhUnpAGLJr59WZRQ8T6IBeJvpOktrI//vd7z1/PDqbD8JC1QLD8mFo7buO8/KeZDx+c=;IbdUtX88JMR71COylpbjpQ=="
 ---
 

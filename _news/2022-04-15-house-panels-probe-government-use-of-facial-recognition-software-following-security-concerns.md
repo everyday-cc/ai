@@ -1,20 +1,20 @@
 ---
 category: news
 title: "House panels probe government use of facial recognition software following security concerns"
-excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.Critics of the ..."
-publishedDateTime: 2022-04-14T20:54:00Z
-originalUrl: "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
+publishedDateTime: 2022-04-14T19:47:00Z
+originalUrl: "https://www.wlwt.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.wlwt.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 quality: 65
-heat: 95
+heat: 115
 published: true
 
 provider:
-  name: KETV Omaha
-  domain: ketv.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - Computer Vision
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "House lawmakers investigating gov't use of facial recognition software"
+    excerpt: "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-15T01:17:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 59
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "House lawmakers investigating government use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-04-14T22:30:00Z
@@ -44,19 +60,30 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
-    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify"
-    publishedDateTime: 2022-04-14T21:40:00Z
-    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+  - title: "House panels probe gov’t use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-14T18:14:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
+    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
+    publishedDateTime: 2022-04-15T02:40:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
     quality: 31
     images:
-      - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
-        width: 1920
-        height: 1080
+      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
+        width: 2500
+        height: 1663
         isCached: true
   - title: "House panels probe gov’t use of facial recognition software"
     excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently"
@@ -68,6 +95,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "1M0PL1UUmACD9bzhLVuh5uQ06vxOtGkSvW01mAsBkBCkDeUKZ3VKaCKOR7mvZ9X2CS29bWTFECVWq90kGSE9xREyNmFKymTjJbbb91ONhfGW85ZLOxVtA25Yg0ZfqY9wDq0zT6WmMVyCaFZEVDePmif6MBL/X51L/fCtlivL4S/JhGjxwi66ixLLV/P99jEqaHARRLpWhFjuc3ghcTiMsVfNR3XNre7yQW24oDqYXu/bayJROWznLsA9iBHzKCdOBtE+/N+Tme0t+sAuFA1LxGjkf+NGXkx3FUmsjfgE4UJbmo/DYzDqHnYDqsfbv3sOY1ZyP/vZijfEk8pLyOor00uvmarb2SAYXiNGdJWtWjg=;wP+wP8L7qox16CgEfmWJZQ=="
+secured: "i/yuJR2KbZOYHGeT72szyzU9NjKiENT5Oygve9PFqyplVHAcB9poShr8cvpEOuwzzkOsGX4v5GIt+L/2daisWDTtvCeU6HHt60bSnkkaCo63fyrWvmyXWa/AVuhjrPPL+z78YspsO/BwHKx1w0C5PN7kd3fAwUv4mNeNS/9wZXQHoOxCmTCGH9Mggici/wQ5lKM/j9X3cvKb8QEG30D9QNvJimF7aPUcwfp+7JSQ3Lot3XsX1MGVIoa3wO2xBueGWkQ4WkHTbC4as6WopVjm9nhzRs9qPk4xyHA35IRMR/bb/vcdxkxX8yFYb/JOgcFwzC7NeJSPxtQ/NiT3iEt3Q8gY9HNGVuxNbqjqsgGFaV4=;VGAb3Kp12W+Pxxp/0RZJAA=="
 ---
 

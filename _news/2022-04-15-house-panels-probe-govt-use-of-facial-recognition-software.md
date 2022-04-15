@@ -1,30 +1,24 @@
 ---
 category: news
-title: "House lawmakers investigating government use of facial recognition software"
-excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-publishedDateTime: 2022-04-14T22:30:00Z
-originalUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-webUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+title: "House panels probe gov’t use of facial recognition software"
+excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+publishedDateTime: 2022-04-14T18:14:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
+webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WZZM
-  domain: wzzm13.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://media.wzzm13.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "House panels probe government use of facial recognition software following security concerns"
@@ -59,17 +53,22 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "House panels probe gov’t use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T18:14:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+  - title: "House lawmakers investigating government use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-14T22:30:00Z
+    webUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
+      name: WZZM
+      domain: wzzm13.com
+    quality: 57
+    images:
+      - url: "https://media.wzzm13.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
     excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
     publishedDateTime: 2022-04-15T02:40:00Z
@@ -94,6 +93,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "mSx0+2/fe9ZyxOl2ddylLFpCJj5crIAGkPsspvgpbBDbFW/pNgxPPvci+x6ZFMrQNLVSUM0EAS1wzWsvBlTNGioCLiRLSlNBqOgdG7HJawtMmwtq/+XD9ZsLKc/Eet77tbhb7CZZn3YQDEWPff8o12ZfiQJY5a4rvatkmPC8Pfa68lRIrVnguIwACtyLj8CoNNLOgzfGOTBtZ92BJK9tDksQS/ZdziZSvlqLl4L0OIxi9nEH1NFpcN9YL5xkmcUhgs2wS7V9j86plb5y4duuMue0nNsZ/18JZq55NEblSBtXyiPVzHnJoV7+VNrn+bds3e08Feq74rcTmSZilK7mWOt1ZoaHXpJqiqz/BTVOT/1le3RoD0ld95LtxB11fraIbKcyDzPL8j+XrSJI1QKvC+3sr/C4HqH6XLrRvQhEq0juRXNbsF9u+Ejn5pfxPZqVIvUP9s+nGQiS8/hh7/6XDOt+mewPXXH95Q2wfaelRHTkvSeQ66byI2diNdamCP5H8kXAj78mpj1pWUnRoWKMOA==;NHvTdTG8UQEothIgjl+cFA=="
+secured: "foBpDjoVS3vCPldkdpsRk5LKaltNNG1wk+R1Cw/7Rpu2Pr/P42gsq9P1JZISHB/4UmMIHmDrb8jcV76XxwPs8AqnC8xI9K8qjjeAU7JPB/M9QziAXVoJc7GLQYZqI+JUHhJlKKZFraYXlu51juRE6k/wxw5UhZ/bbD8+7JDHfPbQCm/VOQnDLayuE4PjCJ1ko8hWoCvD79RYfU25rwwrK9vz/7Wtw7Su4dyJnePsx0PSzaf2xiWpAjOwghsUb8semBpQPbzOopCDQ1s5TgS7cbflUYxc077y6RX1e7WqoIm1ckUY1CdpvTkfVoZC8GNbDUYxl63aBjSX95wE1pCzwEPJhvgfxL7ZVmhlucTIOgSZ/Zfdae3wzFkT/jOQkNE6vKoVDbVCCHXFYHlIb1YhwSLLpjYxJ/DNbTq+pSpL5jF0AnFycqfUgpnjghUSUZhuLRkVwsT8VRV2h76zfEPZWcnaodHgI3VJ681MttffV1FL1BDJ4fpGwOoczostHT6fqlzAPc+c5Rs1YAX20bZMRw==;MEBUeyE9HRsPfnIzVcTNXg=="
 ---
 

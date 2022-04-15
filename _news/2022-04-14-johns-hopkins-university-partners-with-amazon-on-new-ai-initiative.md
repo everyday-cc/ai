@@ -1,25 +1,21 @@
 ---
 category: news
-title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
-excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
-publishedDateTime: 2022-04-13T16:16:00Z
-originalUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
+title: "Johns Hopkins University partners with Amazon on new AI initiative"
+excerpt: "The initiative from Amazon and Johns Hopkins University will focus on research in interactive artificial intelligence, which focuses on making it easier for humans to interact with machines."
+publishedDateTime: 2022-04-14T16:00:00Z
+originalUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/04/14/johns-hopkins-amazon-ai-initiative.html"
+webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/04/14/johns-hopkins-amazon-ai-initiative.html"
 type: article
-quality: 41
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Analytics
-  domain: healthitanalytics.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI
-  - AI in Healthcare
-  - Machine Learning
 
 related:
   - title: "Hopkins researchers develop AI technique to predict cardiac arrests"
@@ -54,16 +50,18 @@ related:
         width: 750
         height: 340
         isCached: true
-  - title: "Johns Hopkins University partners with Amazon on new AI initiative"
-    excerpt: "The initiative from Amazon and Johns Hopkins University will focus on research in interactive artificial intelligence, which focuses on making it easier for humans to interact with machines."
-    publishedDateTime: 2022-04-14T16:00:00Z
-    webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/04/14/johns-hopkins-amazon-ai-initiative.html"
+  - title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
+    excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
+    publishedDateTime: 2022-04-13T16:16:00Z
+    webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
 
-secured: "ggbkFkbscrijcmR7IHXZXt+8Dq/XNtvNzoHjhEHyPTzxCHiEvOFNVJTJcUtg/DNauPMJHd0euxv5/9ZPNXp5dXYAXhm8tEwP8e2U12w65/CK7PvkB84lxZNVHDOJ399+s2zgs9vMbkdKvnC65CFlsknJt6AelS58TLatK/0hF079buy1P3buplZD1bLdc3ts7OTIVOyCtwQzl39nYh2areszCit39zfhTrcgkpJQVvvC+cU/+UaGXX8ZkIWFFPDiwCfYHrE5iW1mLNDASJHuHH2HKl8ykNLEkHfkSxs3Kx862maAtmcqFR+GHYBwIMG2xNma1Pq3uF51vAw5v2AUW07X48qQsLzkS728y1qnAeH3MCom0ci9PveUtnqOGtOk4t0ORkTKkOPYljnnNjPQs4AEEy3g5ziblR2QOCeH8YhDLamiy0kYljVksSZz7SUp/LQnol+YBnfUg48GQHl1H7FFNFoJFGpX+GbqK81OYEl7NXZxXZygogPXbt8trfwa78Y4Ctni63rHZv9PEbkW6A==;/5XAl1aR+f4Epj4iA4MB0g=="
+secured: "i8b6rtls1Q4IbVdvm7bf257BAHwXMp/eu62xrqN0/Boj6UPEZexY2omH0+LG6I4f0lGfomJ/Gs7f+/bTMjpwtsuV5/Ve6+SryzMXph7v3cIxpqOe8KeVeg0tQTeHhwZM0YQNzy87ErQMGhD3hKlyeEO1JsyB5K10bU6AKBY9+G4PU996MUSSJxyv7LBms+Kv4j80ER2KfjW16T/7aE0ZQNVsiQcK0q03hQjnjkDj/djJ34zx7noaPYQr+sv/5zTqNsIceeYcRBLuvmomsPSnROxLYiJhnN4Za5HvNN66DfF2abyW5Nd788sDk9MLisaAK/z3UOpnvlky9Ra6lxjnhlBGYrnV5e4vl1EJzHHZChnsD971X/4WExq2RnwVu5kaeM7mOIpb0zmNoYd1m3Xl93RtHxOtMSjvV/VLmkZq0ifFRJApyz4HWbaGfWVtKC+RpevDUoNrwanfIYPBjsagGngrHAtHp9jdH0UuaYZvB2aXWW6x4QBub+rgA8B0j3OmcEkdy6FNJeMilr/E8ymZEQ==;YA+wvbJPtxfRe2a/v+hNuQ=="
 ---
 

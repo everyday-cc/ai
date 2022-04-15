@@ -2,49 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2022-03-15-why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence.md",
-      "title": "Why is the health care industry slow in adopting artificial intelligence?",
-      "excerpt": "A new report explores several reasons, including barriers to entry, biased algorithms, and limited access to data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
-      "originalUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/07/digitalization.jpg",
-          "width": 600,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2022/03/15/why-is-the-health-care-industry-slow-in-adopting-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2022-03-15T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benefits Pro",
-        "domain": "benefitspro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-15-deep-learning-chipset-market-report-analysis-share-revenue-growth-rate-with-forecast-overview-2022-2031.md",
       "title": "Deep Learning Chipset Market: Report Analysis, Share, Revenue, Growth Rate With Forecast Overview 2022-2031",
       "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Mar 15, 2022, 00:00 /Comserve / -- Deep Learning Chipset Market Outlook and Forecasts By Top Manufacturers, Production, Consumption ...",
@@ -1140,6 +1097,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-firms-step-up-to-cash-in-on-robotaxi-biz.md",
+      "title": "Firms step up to cash in on robotaxi biz",
+      "excerpt": "A Baidu Apollo robotaxi is seen in Beijing in December. HUANG YONG/FOR CHINA DAILY Competition in China's autonomous driving sector is set to heat up as several self-driving companies are accelerating commercial operation of self-driving taxis to provide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202203/15/622fe7efa310cdd3d8356f9b.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

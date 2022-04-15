@@ -53,6 +53,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
+  - title: "Johns Hopkins University partners with Amazon on new AI initiative"
+    excerpt: "The initiative from Amazon and Johns Hopkins University will focus on research in interactive artificial intelligence, which focuses on making it easier for humans to interact with machines."
+    publishedDateTime: 2022-04-14T16:00:00Z
+    webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/04/14/johns-hopkins-amazon-ai-initiative.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "ybpTdRRh/lk8F3BUuyclZU+FSanpndeo75FZR4V5gUVV8P+aFfeNV+fgYcK1cQRL8jZEiJWqNQrncEYZUqL/Y1vPTZHB0i1gVQtHNX+HS3ysz2Yu2zU4zmsnwzoP5tRJwOuNMPZTQXlmHKT721t/6yDw9SuJPWyfCFbzFil51IyxmHKghW+TjH4SfvcuP0FA2QhdAUftYKKZj6fX8cRwIHBOyDLppZBzMmcHjvRkc0+BqalVmw41/IpkBhNDpdJMqk/CvhhVFeDh5rxAMTotl4r4MbX5yLpd5hJhH0x1/w+4pLqEi8S+CV5FlMdG/8pqB59hPNybWrMPxk5eEbzg1f3j7opGul58dt0I4hweIAEVSSlnJ/yQIBTT0/yx9cW64nasq58GG5jph5q2Q6917t6fRaINCOZclr+cPf3/44dle57UcYf8laGSpBwLfxExhegOWqRXkOxa0aWfN3ZIEhUjDnCZvY3ELNxV96z0/S+BYcoM3SjsIit2JkarjZQ0Mw+6CNaTjH2CcQlbP/o3tQ==;dYlompH6D8PsyHIvbk11pA=="
 ---

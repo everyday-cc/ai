@@ -41,32 +41,18 @@ related:
         height: 800
         isCached: true
   - title: "AI Week brings together the world AI community"
-    excerpt: "The jam-packed week also includes panels on AI career paths for kids, AI for competitive advantage and the ethics of AI; a career and talent mixer connecting AI career seekers with top companies; and a full-day academic symposium bringing together the ..."
-    publishedDateTime: 2022-04-14T18:11:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
+    excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
+    publishedDateTime: 2022-04-15T03:46:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=647969"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Immigration Could Decide the U.S.-China Artificial Intelligence Race"
-    excerpt: "Attracting talent has become an increasingly important factor in the growing rivalry between the United States and China for tech dominance."
-    publishedDateTime: 2022-04-10T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/immigration-could-decide-us-china"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/naturalization.jpg"
-        width: 1222
-        height: 815
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "l30mCWo/CYC9EJUvetsRFqvHkG2XntuZWCNE/4n9oz3UjNFAhPCZsf6fQkUBzsDe4Xmqfhf6Ki3rnlrmfnlzVUsM3828DVtOR+AXeU0RzvsX5l8SGTOXmIxoIXsoMjPVq/VQHKYQweX8/N3Zz0cOqCgUGaoqJKIupNKPWyS2ocidx9feNy7fbPlKtVp45LyICRkQFgDGREd8iMkvUAImufDKNkPFN+/lnKgJ0Nlev/4AVTs+ljAqeD6/JJCINMpiRAF+KeB+OrLtF/Mix9/3M0TpWiir98SxC9jeBDY25Ch7nSL3jDmiEZY/9F77a0OdGJfUxpLLbeFY16MtjsvHhhvSVa/XS3mc+WYfbi7bg8f41Bd7kqCXnN2r/dIyDUSNMSzSX+C56IAAmdUm5XTZ4Z7ZxdljBTwQBq3bCem2Pbferexs3R6KbXyGRyGvCexYS/hT8qQYGM5Yn2bvv4ZJr/HPJJhRLjnDh6XHVR4R57K2V/h28L8bQGtP2mx+oC51h591Uj3goTOj2OLu2706DA==;JC/jB4UgZxTjKxyiSrikSw=="

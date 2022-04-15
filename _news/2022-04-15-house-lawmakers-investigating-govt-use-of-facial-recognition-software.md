@@ -1,27 +1,27 @@
 ---
 category: news
-title: "House lawmakers investigating government use of facial recognition software"
-excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-publishedDateTime: 2022-04-14T22:30:00Z
-originalUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-webUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+title: "House lawmakers investigating gov't use of facial recognition software"
+excerpt: "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates."
+publishedDateTime: 2022-04-15T01:17:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+webUrl: "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WZZM
-  domain: wzzm13.com
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.wzzm13.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+  - url: "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T01:17:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+  - title: "House lawmakers investigating government use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-14T22:30:00Z
+    webUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
+      name: WZZM
+      domain: wzzm13.com
+    quality: 57
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+      - url: "https://media.wzzm13.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -94,6 +94,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "mSx0+2/fe9ZyxOl2ddylLFpCJj5crIAGkPsspvgpbBDbFW/pNgxPPvci+x6ZFMrQNLVSUM0EAS1wzWsvBlTNGioCLiRLSlNBqOgdG7HJawtMmwtq/+XD9ZsLKc/Eet77tbhb7CZZn3YQDEWPff8o12ZfiQJY5a4rvatkmPC8Pfa68lRIrVnguIwACtyLj8CoNNLOgzfGOTBtZ92BJK9tDksQS/ZdziZSvlqLl4L0OIxi9nEH1NFpcN9YL5xkmcUhgs2wS7V9j86plb5y4duuMue0nNsZ/18JZq55NEblSBtXyiPVzHnJoV7+VNrn+bds3e08Feq74rcTmSZilK7mWOt1ZoaHXpJqiqz/BTVOT/1le3RoD0ld95LtxB11fraIbKcyDzPL8j+XrSJI1QKvC+3sr/C4HqH6XLrRvQhEq0juRXNbsF9u+Ejn5pfxPZqVIvUP9s+nGQiS8/hh7/6XDOt+mewPXXH95Q2wfaelRHTkvSeQ66byI2diNdamCP5H8kXAj78mpj1pWUnRoWKMOA==;NHvTdTG8UQEothIgjl+cFA=="
+secured: "MZ0QR1sMxdQSc6i9GnzzQgNKltvbEtsBBEka51ZQAN58eNhXjsJAMWker2q3VQBj7Hz8l3eWforS+M5w7XsW7XDzmdymu7cvZpyYYdcHlKXaVE1vJWdO/bAb2+HFhGA/uOvH4vB6S1n7YGrI6/AKSPk1J68GpMMO0ZwE4RR7Y7vmbFit4shBuE75GVZWLcl6cPb9xDsrGZso5t07DnG1SRgvaZwNyidM9Quz3LLZgsw9EklXOU2KRNk3zR2oibl8uNPT78d4wqqhMNe8Vhl/O9hQFL7UraCZj9nvqlbM0vWja9ED9Jf1/AcI9A3Nr4+1jrbOzyc0fG8r7ALkD+S612AvhB8cxgCfrz0ddnLMDKg=;B+DkTiI1gXJGVtNqsolPfw=="
 ---
 

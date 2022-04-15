@@ -2,49 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2022-03-11-self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round.md",
-      "title": "Self-learning autonomous driving AI startup Autobrains closes $120M Series C round",
-      "excerpt": "Autobrains, a company that’s developing self-learning artificial intelligence technology for assisted and autonomous driving systems, said today it has closed on a $120 million round of funding. The Series C round was led by Temasek and saw participation from existing investors Continental and BMW I Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "originalUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/percfields_W_LOGO-Copy.jpg",
-          "width": 2561,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-11-brain-based-computing-chips-not-just-for-ai-anymore.md",
       "title": "Brain-based computing chips not just for AI anymore",
       "excerpt": "With the insertion of a little math, researchers have shown that neuromorphic computers, which synthetically replicate the brain's logic, can solve more complex problems than those posed by artificial intelligence and may even earn a place in high-performance computing.",
@@ -1158,6 +1115,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-10-cardiovascular-deep-learning-for-high-throughput-precision-phenotyping-of-left-ventricular-hypertrophy.md",
+      "title": "Cardiovascular Deep Learning for High-Throughput Precision Phenotyping of Left Ventricular Hypertrophy",
+      "excerpt": "The under-recognition of hypertrophy, measuring error and variability, and difficulty distinguishing causes of increased wall thickness, such as hypertrophy, cardiomyopathy, and cardiac amyloidosis, all restricted early diagnosis and characterization of increased left ventricular (LV) wall thickness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/cardiovascular-deep-learning-for-high-throughput-precision-phenotyping-of-left-ventricular-hypertrophy/",
+      "originalUrl": "https://www.physiciansweekly.com/cardiovascular-deep-learning-for-high-throughput-precision-phenotyping-of-left-ventricular-hypertrophy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researc
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
+  - title: "Johns Hopkins University partners with Amazon on new AI initiative"
+    excerpt: "The initiative from Amazon and Johns Hopkins University will focus on research in interactive artificial intelligence, which focuses on making it easier for humans to interact with machines."
+    publishedDateTime: 2022-04-14T16:00:00Z
+    webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/04/14/johns-hopkins-amazon-ai-initiative.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "iu0W6vBg3cgp6ywfJZ9H4yxsEuP27TwiJNNG6e5T2Dj6b4uaVRyxx7TxQDdQ6uRwLOJtO2o61263uMVtnTjgC+8ZkRYszeS3iwCVCVT+M3E0Ib7J0Rxchj53xA3DO3vPDi/PVcDQEfFc+TQIIML9eoKYeHT5OL6d7bSFrFp84YAEr5l5NxSyjXDwTBiDspS3Y8+W4pgxWEGXwLN7EcSlqAu3WVa1r0YkQRwslb/loH4TX+XifecFBtzvsnv/QqXrwa/fEcaWP7dfqI6rvSbJ/wMcr1u+YOvWG1XwpNNXdyrd61lUGavlhCRCfNCkMVhcqkMkedjpoaXMhGKpZneE1HwFH3sK0d6svOuXE8ty18U=;+Tf3g6wVPkiDlyt/a3aWrw=="
 ---
