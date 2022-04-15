@@ -137,6 +137,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
+    excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
+    publishedDateTime: 2022-04-15T14:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kalyankar-analytics-launches-seqwa-an-affordable-ai-powered-search-solution-with-15-000-free-credits/article_ad73c360-739e-5faf-8c6d-deada0a20fa3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "CIoqrArJFU/BA5vdZQmqEs3/jLCdbdE1DnD9pFujmAijYOmKWjoY0jQ6BUeY5EsjcXrYUuazoBIFQDit7A5rH0vDGKmtONtUMixdyDbOI+mt3sls43ggkddi4Gu4J6PwiXvaFNM0879/cgT+GYuVeyjkjNFoX0gBHaKDr7V/dObGLTsPk4diXxnMPsOZmoDwvPYBqa7iPLjopYhAuxKQsA7O8oZe6YRutiAUxYMwE2nCvxKG/tvIKZzVeC/9zk4pqui3RazrJYthgnZaf0woMR+zIx6+YA2P2r0Mqn4DeN0Jx/kR17WA5RV20vhCFsq3WN2Q7B/xaEviXuo5n2htw1qn1bjKvMM9sRB2qxV03Eg=;Rvl6q1h53gY6Auhw/rUY8A=="
 ---

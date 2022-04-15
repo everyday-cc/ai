@@ -42,18 +42,18 @@ related:
         height: 585
         isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
-    excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-    publishedDateTime: 2022-04-14T06:01:00Z
-    webUrl: "https://www.abc4.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+    excerpt: "80% of respondents in this year's survey pointed to a non-technical executive as the primary advocates for AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have ..."
+    publishedDateTime: 2022-04-14T08:04:00Z
+    webUrl: "https://www.keloland.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
     type: article
     provider:
-      name: abc4.com
-      domain: abc4.com
+      name: KELOLAND News
+      domain: keloland.com
     quality: 41
     images:
-      - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
-        width: 2700
-        height: 1845
+      - url: "https://i0.wp.com/www.keloland.com/wp-content/uploads/sites/103/2021/04/snapshot-2-9.jpg?w=2000&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "bw+sFMMIaOLw6Bo3jAlYAJK6BTds4cHentEj7cr/oq+buWPquSDsaHQWJDN9P/aOVwy26FLFuChVog8eF1XbcxdxZBdnPtK/UoBG3PtEgw/OhQ5e53Ga+X0W79Dw4wZDsZ9HNtvDFAzC8qQaqswWa6jHDL2oFHSKymlikbw8881tOqueCkEMGu9+YAqyfb1LdCmIPSjVmnfSGsadIm0flm5iWT5jrlqjDWnsge9Cn0eHMm/WgB43my6Zhrhxg7RYReBqRRQKSFNjK4Uk8k7Bl4GtGnAlLpb86rM/0KvruKxo7HqpV6zrHycuGPekLlPxUhusIb+8UxoY5z3So9Pmo8KND9i/id8FB30eizqoZHo=;R8auW1BshTPIFXRfoyajjQ=="

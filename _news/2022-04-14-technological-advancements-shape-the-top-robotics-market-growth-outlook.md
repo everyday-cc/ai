@@ -7,7 +7,7 @@ originalUrl: "https://www.wicz.com/story/46294605/technological-advancements-sha
 webUrl: "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
     quality: 18
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence Chatbots Market Size of Top Players 2022 with Business Development Plans, Growth Insights, Size and Share Forecast 2028"
+    excerpt: "AWS, LogMeIn, Inbenta Global “Artificial Intelligence Chatbots Market” report covers current viewpoint along with the future trends and dynamics for Artificial Intelligence Chatbots market ..."
+    publishedDateTime: 2022-04-11T10:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chatbots-market-size-of-top-players-2022-with-business-development-plans-growth-insights-size-and-share-forecast-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/fb97627fe093f9e9d4c991b74770bfb2dd5a0c6e-600x337.jpg"
         width: 600
         height: 337
         isCached: true

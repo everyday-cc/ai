@@ -182,6 +182,15 @@ related:
         width: 877
         height: 432
         isCached: true
+  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
+    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
+    publishedDateTime: 2022-04-11T12:16:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=644996"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
   - title: "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ..."
     publishedDateTime: 2022-04-12T18:33:00Z
@@ -199,6 +208,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "FzpVNXVHjN8vmn1emeCOGRVC16XbNtpcmPWh0jYt2FShnhM++EJnttw+Kii5sO28yyI/x0awQlwHiGSrzKDdNotXl48idZFiL8vVfhhC9+wIH0wZVkKFZSllH4co4ktpgErZGLPh+v2QogcytSPws6YkSKOq+Dpo3gkQW4lZiBjyox0v3Cc2xovHcE4TUqpOPI20111vVdDLDT7rM/FLewRplnHkBXsr5bfO82JrhEmn682jBkY14d+UAGqhbTwhbmbEUEAD2dKzuBODbDFFZv19XBju5VX4Zf/PAKhm2e/+Njrk6U19H/k153UoV/CipsZu7rHvEqAL8RW4YQ6uLOaFc8tIjmEvJp3m+LUM7xFMmWs206d8jrcTEBDhdk4lG6ftMwv4k82cL5kRLV5XiHS1KGm4M1IQ91Bnv9RpyhEmk7S6mOPcfpbZSUcYifZcBeyX0BCuL5oKOmcx3/jx4820aOahzNqP3NzVQD1nvl+CPj53tUoDpbRbZXTaD5G5n8YB5d9AxYD/OS4eOgQWnw==;eIm5qTvz5FFEUZK91i9oNw=="

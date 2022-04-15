@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T13:32:00Z
 originalUrl: "https://www.rediff.com/movies/report/grammy-winner-falu-shah-never-ever-had-i-imagined-that-i-would-one-day-give-a-voice-to-my-nation/20220415.htm"
 webUrl: "https://www.rediff.com/movies/report/grammy-winner-falu-shah-never-ever-had-i-imagined-that-i-would-one-day-give-a-voice-to-my-nation/20220415.htm"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: rediff.com

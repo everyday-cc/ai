@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T09:40:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272483815/rbi-certifies-fintech-led-121-finance-as-india-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022"
 webUrl: "https://www.bignewsnetwork.com/news/272483815/rbi-certifies-fintech-led-121-finance-as-india-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Big News Network.com

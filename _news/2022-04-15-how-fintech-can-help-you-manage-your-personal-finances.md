@@ -1,0 +1,102 @@
+---
+category: news
+title: "How Fintech Can Help You Manage Your Personal Finances"
+excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
+publishedDateTime: 2022-04-15T14:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/424896"
+webUrl: "https://www.entrepreneur.com/article/424896"
+type: article
+quality: 69
+heat: 119
+published: true
+
+provider:
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
+    width: 1024
+    height: 658
+    isCached: true
+
+related:
+  - title: "How digital debt collection can spur fintech success?"
+    excerpt: "Digital transformation is constantly reforming and refining the financial services industry as we know it. Digital technologies like Artificial Intelligence (AI), Machine Learning (ML) and Blockchain are disrupting the industry to a great extent"
+    publishedDateTime: 2022-04-11T15:00:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Pic-2-5.png"
+        width: 289
+        height: 305
+        isCached: true
+  - title: "Global Web3 & FinTech consultancy Wachsman opens in London"
+    excerpt: "Strategic communications consultancy Wachsman, a specialist in Web3, blockchain and fintech verticals with more than 130"
+    publishedDateTime: 2022-04-11T11:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/global-web3-fintech-consultancy-wachsman-opens-in-london/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
+        isCached: true
+  - title: "15/04 – Weekly Fintech Recap"
+    excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
+    publishedDateTime: 2022-04-15T11:54:00Z
+    webUrl: "https://financialit.net/news/payments/1504-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_8.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "ADGM-based FinaMaze selected as part of the Fintech Saudi Regulatory Accelerator Program"
+    excerpt: "Fintech Saudi is an initiative under the Kingdom’s Financial Sector Development Program as part of the Saudi Vision 2030"
+    publishedDateTime: 2022-04-12T06:26:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgm-based-finamaze-selected-as-part-of-the-fintech-saudi-regulatory-accelerator-program-qg01c25q"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 15
+    images:
+      - url: "https://static.zawya.com/version/c:ZDM4ZmFmYjEtOGY0Ni00:OWY2MTM1/finamazefoundermehdipicture-jpg.jpg"
+        width: 900
+        height: 1350
+        isCached: true
+  - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
+    excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
+    publishedDateTime: 2022-04-15T13:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189729-fintech-tifin-which-uses-ai-and-investment-driven-personalization-announces-new-partnership/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
+
+secured: "tbMRx4unakQnm6gBci/ijmtWEBR8BKIfbE0+LR81TYL1nZ+PRcxam1nc4P2xrgcmU2pJvTgySuy7miU+4zC6ln2FcUtx/zaIN1x8hxLQilr2kzIkhKzQhrDPL8OU5QtYa+Dv1XjWlb7R8+r2f3Arwq+BYvPLAZxHbxBrOdLxkCmfSiIzTULo5jL8IioE5+IKBFJEdN+qNMIgSFYXWMTmqrl0E5XRBnud3+g/kOpVB4DvR2ZziEjZk16hlAUbZaL6DyFrUphwzs31KO9b9xNicGL9D+O2b+g4UDbQ3joLFoQNCcjEn2j9HOZWU/VZC/bq7UzTD0CUeLevJKBksO8Jc7q7boRH9GqQHAsiXxUPBdw=;7V/h77MtIJndcmypS6s3aA=="
+---
+

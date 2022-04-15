@@ -102,6 +102,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Unlocking the Business Value of AI and ML"
+    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
+    publishedDateTime: 2022-04-13T13:22:00Z
+    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
 
 secured: "lk/+qw4OImUUJqEva50CyioZaLkyH9YtXbryqjeweZewLLw2xaRemzcVKnIJKXRehLBlBrhJhDFHu2Xr+ySd9jUVNAZKru7J1SMLOIcNML1CocyBKSg7LpBh+H1TZw6VWGzCANsKUjKqxS9k2mpbBCtsjJxCgSVnqReVXYmlQg30uKQR7ELDwHTxq3mWzG+qVtFp86UDDDT6y5zYG1hLBCfoIi8a71dyKRT4q4ib/YmXEWFfqq24FA/bPP5eTdRaD8yxbhQsvPQ2ghCRfw+oaoQ/V67SIeLD5VTFsZxmbHsYx+6chyScWryqlsrxYxnOSEeFwyJjXwEQ59meD2Zpxo2zbQRqeZEO5qar5lhO02YchEvBojwpVrkwLBNR8tENtHLK1YMWysXNmX7Um0u1pDPmmARawiFeyBTg3OMFQe5jMsjqg9fyPB3s8Hx3UCo05xotAUP1fWfAk/9tmvVO9K8RaFbVlG/+mkmvc69kh8lnqY/xNbhT7f1RrVJPcq4UXbNOa2+6eLHpERKAH4spFw==;mipYDo5vN4lGyqT9bFzVvg=="
 ---

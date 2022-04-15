@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T13:02:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/humans-ai-strengthens-its-position-in-asia-with-new-listing-on-top-tier-crypto-exchange-liquid-802673436.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/humans-ai-strengthens-its-position-in-asia-with-new-listing-on-top-tier-crypto-exchange-liquid-802673436.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: PR Newswire

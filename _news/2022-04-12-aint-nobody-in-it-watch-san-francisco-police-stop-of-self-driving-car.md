@@ -3,25 +3,25 @@ category: news
 title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
 excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
 publishedDateTime: 2022-04-12T00:10:00Z
-originalUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
-webUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
-ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
-cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
 type: article
 quality: 58
 heat: 118
 published: true
 
 provider:
-  name: NBC 10 Philadelphia
-  domain: nbcphiladelphia.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcphiladelphia.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -111,6 +111,6 @@ related:
         height: 549
         isCached: true
 
-secured: "VNHh3RahjMb/Lg77tb8SqMtZ9v299A2vaNICKHyL6VIdnvhQqqS+MfuQfp4D8TrrhjvZP145UWMTm7iruhJxRHA795uk6dxMrnNr7fCqae7cb6SySsAIiS7hjnbUy8maEiPeFNCqLXp60fFD8xbA5shO4HqmumzjSfWbK6QHF2yKRfyEwtmmOL4HKzsd2QARyUBfV2zOPnw2NsvGduIgR4xMyJYNZe34ulJmA9/ksjBgE/BB1TCtFmgvfKOpnQN57U5AHF7CkPhy6kKnmo9l1/ERpv33CVBQMFhP0gZL7pQb0qv0QPNPzePSy43Z230p3qIfLUJtDwCX6jwiStVVBVYQGd6JYXvo9mOp7eyEbaI=;t8/hZ40O2pLe21TPFkgPhw=="
+secured: "SVeBw0Gct1Uf0TrEfEOJmvwEa7l/Z6e+w6g1wIImHFx+QzM4rlSzWxgjY85UGaAIgTWlOaYXpUkNZwhn/Gj1mTgb/0Sqvm4gB1sC2HIfzGdapJpUp/kuejSqd0lCAUl1Jz9KtAP/ltad/DiXYVUWiwWKDB2WN7Ozb2Lp5Baq/XI8YDOdMPe9tsIRMJdZYtcqAX/4mvDNkI3q4XHFveWCE/Q3DhWZOsmH2OLfHZq7dmqxxggZQAWs5WY6bS8RsYm5toYW7GMHKla/ri0mnrV8FcnHAd7oviZ8XXr54PCzujM/L6Mba2whOZ5qib5M2vUejAQ4XGUNxRJA8Wr9VYeDOr1OidvthfRQG7S2YfG1Rtw=;vlJpZYATokkXSAIsRTL8RQ=="
 ---
 

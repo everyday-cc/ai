@@ -34,6 +34,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Five Practical Ways To Boost Your Marketing With Artificial Intelligence"
+    excerpt: "Marketing AI holds enormous promise, but it is a journey that organizations are just now undertaking, especially in B2B environments."
+    publishedDateTime: 2022-04-15T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/04/15/five-practical-ways-to-boost-your-marketing-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "qi8eZtpB2J7NUATXCOrrQaiRATZLGJRamGEAfMW9kHPiDHDL91OcbexEUL2WPR27WbDgSkDBnhgYq2mg1JY9h/n4DhmjYV1O6nbXD240TkniaqhC3VpNLzlTbKWdTRMYEGYXX5jCkMM3EY3gf/w6L00WXD7vbDLKyMQJzy5KUd6TOJx6LrJ98V1h7Cc8JJaiP2j3FJ1AeS90DLe1Q0F+412zj5xtO5zY3n4WIop2jlyvbYHZxCZW9d/X/poMCzu0glHlLUEvkoSG7QaiHMG7CDo/4+L5NIh1CGPIelVeRte3yZj+h2SZQs4HFtbdxfO8D+nw+728PoGY920EdRTiub1OBQYCwThETGCdrl50DnBbTCS9ScXJp4zqmGnawWnQqpn/WiFg2xMqTenAYUFDjZWJalq6BQGxBSJ4yKCIZ58C2WZBUba5uVAMoG8ObxgG2b7eoWcuPkLRZjq+9xIrYvmFqIGl3izRVNy9Wfzx5urjiTY+BKO9sv9n+vgsbA8utHqYUiXtoIftLz/GBLTUdg==;+Fj0rJ1K4l4RaSQkptH6fw=="
 ---

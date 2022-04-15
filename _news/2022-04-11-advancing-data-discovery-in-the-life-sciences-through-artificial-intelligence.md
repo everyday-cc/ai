@@ -57,6 +57,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
+    excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
+    publishedDateTime: 2022-04-13T06:42:00Z
+    webUrl: "https://www.techthirsty.com/increasing-ai-startups-also-require-funding-to-meet-expenses-until-profits-begin-to-increase/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 28
+    images:
+      - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"
+        width: 948
+        height: 451
+        isCached: true
 
 secured: "ZPsYaxBYOfXLYR0zjn/c4kamFGR48RPOdJBvz6sYBGwPFJcARVVY8B2Oo0qfJHtJXm3gHUTdYRYPOvDkn0xDBg6+FtPIjWZiZvaCqo0up3Vjp7Wzy8MVl1WXudAlzxMxb+6OIW7xuk5Cf0UYXyZ5NNnnB5D/6x66RX5OninGafHkti+8idmVYwJ2Y8BFoOqMx+E3aKfuk5RZEXsG/pwmmB2jGuRSjBWOEMqUhct0REZhHfGkXJU0AU/I+bUMRow9GfuQG7BMdcZI3qUbI7o4hp+EAJQUKypNpNWJvqEpwZsuECxCTMfXAY3AOS8UQjHnkAT7rT3xhGh2LlcTCTAPaACu7ntXcnO1L3kF27NowrsiOJkSwG1p4X9qUgI5t7gq6z9cFRuekbyIubP3L1iIoSZ6qkjTPJMe6UpfZ4eAo3n421dY5+ObkO63ALNg9D7fus6qDKxthSTo8cHSbNi4pVsa3Qh4PKiIz3GHgly0JmxMFlSR8iNL2KDzWsXITCjwPF5bWnCbJH5NrgCC5c/d0A==;gf96kPOPG2K85wikrUqdAw=="
 ---

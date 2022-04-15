@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/how-are-indian-banks-adopting-digiti
 webUrl: "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -39,6 +39,15 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "MAN Working with Amazon Web Services on Maritime Digitalization"
+    excerpt: "MAN Energy Solutions has selected Amazon Web Services (AWS) as its preferred cloud provider to provide advanced analytics, machine"
+    publishedDateTime: 2022-04-15T12:27:00Z
+    webUrl: "https://www.marinelink.com/news/man-working-amazon-web-services-maritime-495821"
+    type: article
+    provider:
+      name: Marine Link
+      domain: marinelink.com
+    quality: 19
 
 secured: "VPT0KijT1qYhPeJRZ5FKDAt0fiUqWJUD6dupbFlPtpNcVs3a23H8pfvlmQVYOfphUWFIQ6Gks8cAi3G9aufZaSx8l3JATSXcphuURbMqnbzzdIFA/OqNPtq8o7AZJcDeX4E5GTG8ovCTllr0hsBgM0QKOpE297SSzfoK9GDCKpWFra/jlsfbXm0mcOmdarxOyiurvH3KUKLYBMuwn2iBv0NLI3Qg0j/yh/ykQq0tedb9SWI19aIXOoPI7CsRk19kLrN+VO+HERljm8IMHLe7ftlUKEapACKWMsjqgyPFwprMjouwYrBNogRV11KyBQ3MAwrMPzlkJDuQTuKkAHwTqPYORCGOeb54Ud6zZ8zlRDA=;VZhIeSpRgZVT/B7hOFrbkw=="
 ---

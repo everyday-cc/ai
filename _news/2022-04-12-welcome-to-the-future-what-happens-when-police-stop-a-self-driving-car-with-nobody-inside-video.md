@@ -30,16 +30,16 @@ related:
   - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
     excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
     publishedDateTime: 2022-04-12T00:10:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
     type: article
     provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 58
     images:
-      - url: "https://media.nbcphiladelphia.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

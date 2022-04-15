@@ -3,18 +3,18 @@ category: news
 title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
 excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
 publishedDateTime: 2022-04-12T23:17:00Z
-originalUrl: "https://www.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
-webUrl: "https://www.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/nation-world/national/article260361345.html"
+originalUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
+ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -131,6 +131,22 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Self-driving car pulled over by San Francisco police, but there was nobody inside"
+    excerpt: "A video posted on social media reveals San Francisco police pulling over a self-driving vehicle, only to find nobody inside. The driverless vehicle belonged to San Francisco-based company ..."
+    publishedDateTime: 2022-04-12T07:22:00Z
+    webUrl: "https://www.abc.net.au/news/2022-04-12/self-driving-car-police-pull-over-san-francisco/100985792"
+    ampWebUrl: "https://amp.abc.net.au/article/100985792"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100985792"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/bdc66502bc8e8709509be4ebcc3d297b?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485"
+        width: 800
+        height: 450
+        isCached: true
   - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
     excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
     publishedDateTime: 2022-04-13T12:00:00Z
@@ -164,6 +180,6 @@ related:
       domain: tweaktown.com
     quality: 4
 
-secured: "Dt37e+O1l9xPYJOtEVF7FDXx/NxLXbnGUCKUcI52F6R3YDsk0dg+N3a5Ph2N3j5yoLf2VweLYDuQfolgyoylVhGKn8hFWt0jarREtfoE817aDcwq6UrN+/vRImptruIRH9JUtUHIhvNeDWWfzEJMfixYIpYEornBwtLbKt0SYkhYuPbVesIz7zUHneuTlHTPSWKle6YlEOFxCkCR2LsH5xjb3IpJIcZWkOxmrzgxXar0bbrMDa9/igzYNw5Hz2YW9n9sl/DRrH5hP+vyoN6doOQo9AaiGIAANxWbZ4g9V9zR/qtiwDSVR/nr8hA9IkFI/3ujJoDZg1kP1pk3dF9Tiic8eEAUALVp81Nv/7TTfzQ=;FRNCNyZnUFFLiUdutpmLrQ=="
+secured: "2bAc7lEmFMlOhe/QNGTW3Jnd4Qs83RrF2D5rqHmLmzVwJkj6ML1j64dSkjTY2YVCIBGrUf9KEe60L6duq2YlUv2+049tyTTQ/bIZ+XG6hEZlo8u+FAclOQJLSjUzomJaq6UYlVks36Nr8UkC8hLXjEaJFe0Ful/YB5y9x5X7jCUt/exQUo2t+jPaaG7S/f9a1gCRCggEC0qABSAnZkvIzTdAuaEHlHE1IhgnuZFQHM6piDUazjTlK+dZi/5mcOngguyJTM+G3DvyRjODh83m3JS+VdrkIci7a9uk+9dKIqlKKTMY0S0HfaihXTyaX1HpIpNOLEkKyBZf2fDCkGvQl8LVFnr/Sj1p80OBRjg4+58=;ZMSXACEc9EfGrKd7VPAhBw=="
 ---
 

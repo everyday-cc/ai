@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/"
 type: article
 quality: 104
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "7 Days left to apply to pitch your startup at TC Sessions: Mobility"
+    excerpt: "Calling all mobility founders! The clock is ticking and we’re down to seven days left to apply to pitch TC Sessions: Mobility taking place on May 18-19 in San Mateo, CA with online analyst commentary on May 20th."
+    publishedDateTime: 2022-04-15T15:24:00Z
+    webUrl: "https://techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/"
+    ampWebUrl: "https://techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-4.png?w=1024"
+        width: 1024
+        height: 468
+        isCached: true
   - title: "Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities"
     excerpt: "Pssst. Lean in and learn about one of the most value-packed ways to experience TC Sessions: Mobility 2022, our annual deep-dive focused on the rapidly evolving world of transportation technology and early-stage startups."
     publishedDateTime: 2022-04-11T15:50:00Z

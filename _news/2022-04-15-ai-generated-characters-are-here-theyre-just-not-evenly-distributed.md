@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T12:43:00Z
 originalUrl: "https://www.forbes.com/sites/traceyfollows/2022/04/15/ai-generated-characters-are-here-theyre-just-not-evenly-distributed/"
 webUrl: "https://www.forbes.com/sites/traceyfollows/2022/04/15/ai-generated-characters-are-here-theyre-just-not-evenly-distributed/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

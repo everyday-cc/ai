@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T12:01:00Z
 originalUrl: "https://www.cnet.com/tech/mobile/why-smart-clothes-are-still-years-away-from-entering-your-wardrobe/"
 webUrl: "https://www.cnet.com/tech/mobile/why-smart-clothes-are-still-years-away-from-entering-your-wardrobe/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: CNET

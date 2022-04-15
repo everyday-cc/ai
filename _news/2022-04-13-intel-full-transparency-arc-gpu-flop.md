@@ -52,6 +52,15 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 19
+  - title: "Intel to boost performance per watt 5 times in next-gen CPU-GPU"
+    excerpt: "Intel Corporation announced ambitious plans to achieve net-zero greenhouse gas emissions in its global operations by 2040, including achieving a 5-times increase in performance per watt for its next-generation CPU-GPU."
+    publishedDateTime: 2022-04-15T06:07:00Z
+    webUrl: "https://www.digitimes.com/news/a20220415VL201/intel-ic-manufacturing.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 19
 
 secured: "8fFneyEtVs59Ah9PuO9b+cEeDk7q3yITCyro/rdNmBlujl2qbQjHysPzWy2R9uJGbSYlXNQNuCLgr117YIvD+Q1MIlS5pgnp+IpPdQis+ykhu3FpcrkCSpFi3hlk5aeJXUEWWrh2VvZqBzygYB07Tl+eXihx4K/oNigmbCMFK2Ma40/ikVleQ4FMj3jbJPiKk9PibAM50dvt6bvqXzg4uTy9orR12qsRrqe67RV+JLOWPMX4DquULheHdeBZHKsuvk49hLursOdwPmPkMAjCWzAAIDI1QuOtyANbQNb9xXp6cLUe5OCu4euqcbsbu+BzzI/8sqeo18Ua1HEaDu1QoEOs9qp9o13yHR4z29QC+DYM9jgkM6qSLju9kXY+xA5DDhY0AVMSVRVG6D5N/QM2gNhQTdTcKn7mbKddZwCdHiZJI7Aqp7LKIhQafUG1qsbGmn/qTFSt9fUWvq2kQH8eLbvy3/NGfHwVC9D9OEBhA+Se6tOS4OnG30/5/1fJ9F81EeX1pIBmsm6/4eBuTNEfbw==;tDMaE9cQAbkJymg7Ft8SNQ=="
 ---

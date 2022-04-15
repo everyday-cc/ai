@@ -2,17 +2,17 @@
 category: news
 title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
 excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
-publishedDateTime: 2022-04-15T02:40:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+publishedDateTime: 2022-04-14T21:40:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - Natural Language Processing
@@ -20,7 +20,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
+  - url: "https://ktvz.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
     width: 2500
     height: 1663
     isCached: true
@@ -106,21 +106,19 @@ related:
         width: 1267
         height: 713
         isCached: true
-  - title: "House lawmakers investigating government use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T22:30:00Z
-    webUrl: "https://www.wzzm13.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+  - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
+    excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
+    publishedDateTime: 2022-04-15T13:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
     type: article
     provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 57
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 35
     images:
-      - url: "https://media.wzzm13.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/6e/e6e919ea-286e-56cd-882b-c3706ef94e36/6259711bd1e21.image.jpg?crop=960%2C504%2C0%2C25&resize=960%2C504&order=crop%2Cresize"
+        width: 960
+        height: 504
         isCached: true
   - title: "House panels probe gov’t use of facial recognition software"
     excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently"
@@ -131,7 +129,16 @@ related:
       name: MyNorthwest.com
       domain: mynorthwest.com
     quality: 21
+  - title: "House lawmakers investigating government use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-15T13:10:00Z
+    webUrl: "https://www.10tv.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    type: article
+    provider:
+      name: 10TV.com
+      domain: 10tv.com
+    quality: 17
 
-secured: "I8EzicQqAsrd6EwxlGiuhCj76Mxi6Wz16Ylc9so4HqdwKwXv37DK/2MKsUyHPjZZt20Gq8f5PfgmV1jO+00Jtc5O4wX/zbCsNEDqsgRo1uB++2NKO21cVgyL3AdI+Ot5r7UfahMaN7QWs2yBkFlE2KoCxUetbNGX1OIGvBt/1VZ88iGw7QX9EMcOPHfK0oXtYua8bDniO/OQUgR5TWuuvNyTCw3sERZj2BypKZlh1bYLsTCE3Qs2neRy7lv1n7zo/6dBpCkK1q7MAFYyFOeyQKf2aAaK0DXtTZIYebTlKUNDg60Mwvt3Jl314/V9GT7SsFV1WKhTguP7YKO+mBpyhGtK67rBLe8HSyKbRLkSXurn3mnoYjrE8Xw0Ks5ywKdHakr36T8N6M0KuAGeMeG+9eRocWWf+7XGw9aaJB9jjQ47TdaJENYtF4g5ZgnOybayQSlcyVHAhyNtFc0sZxL6f4hADyIsKKbIKllzqG1CgEr3Z+B5nCpczyWdBAbt0A03hSkNwKcZDPHC4gDOdLpqHQ==;4acfhkW1kCgpT7XS5ZkUJw=="
+secured: "It+1CCsLe2tUS2IhLU/iBa7/7h2STsjor9Ur1y5iyBtLPZ47mE1VwyCZA5gHtoYC+lr3Z9y4YJQ+/WjDqvnWHdLNSE90qfYdv1fVxOVo+NkKfDk9Ai9EPk69gn6ruIe9fUt1f2KsUGelqm3FWfEcR7bpV9290uen/zojScxV7Gzu3smgfaMpT39Ellij9URnVRhkfnXFC64/lVUWJ7Ki7Lf7+qCPxnYkgRwvXIpIPvQUqEaNetLtym1c/Hzr+xYZ5mSC8KWbolnChJhaCl5Ma3F+u+b9fl4BIdUq8+5W3KuhvTsMXiwmO9MADy4OfLTnWC5Ww8lAdz1BgVMOg/1WogGHrgaDpsFR6v6BRruJjHg=;EsXwAVLhRmM3Bltt2kdlsA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T11:39:00Z
 originalUrl: "https://www.farmprogress.com/technology/robotics-solving-water-fertilizer-labor-challenges"
 webUrl: "https://www.farmprogress.com/technology/robotics-solving-water-fertilizer-labor-challenges"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Markets

@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Even Bond would have to share his secrets in the world of AI spying"
-    excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
-    publishedDateTime: 2022-04-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "AI Week brings together the world AI community"
     excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
     publishedDateTime: 2022-04-14T19:56:00Z
@@ -53,6 +39,15 @@ related:
       name: WHNT
       domain: whnt.com
     quality: 19
+  - title: "Even Bond would have to share his secrets in the world of AI spying"
+    excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
+    publishedDateTime: 2022-04-14T04:00:00Z
+    webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "WT34VgXs5dep0MPRS7hh1Jm5LZyuezAXlOShWI9oFp1Z2qEdMFHfFy00NcOTj9KpkcFjqAh+YAMpkjSEYP45zMOxbd27t3B4kqkDUSQ6xFI83A2JxTRnoJxY9ER1ZAxz55xACK+de6EtMq3ZmATVZI68TOIj1lJ41RG9hSJ8W+c6o6JF1HunYmHfDvDwuUEfPtJCljH89xV2CzOxfdlU8PyGRyq/7Q5LpipXuZ3ay7DHlitgpJzc9cb9fYIhHfEHeMVlph80rDO8V9yfzMgjb3o8oP6sanmfIMjaY00+4O7UIruiFLkZyQZgEmacnDXKD4HtQUgUDHkoZ+nBNJcsvmMO5NuCnuoYojOEpvF9ZR+U1rWhV3z/1XXOq8oeBV9dzu7I7XPHMlLXOeKkp2UxNz9aJCtVRFVuk0zgI7N/PHJQgZu6UtDTBu3PkyMogeY/Ix85Eos6cOPEuQPWvJHsGRs6a5m0H7i+xKw6X+SZYzRikkxkuFmureRjvJ2mmJFdiWS13XtpfYA0wciH0sPeEQ==;O3eQkWkxD1+ID4vMgI5lag=="
 ---

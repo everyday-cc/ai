@@ -7,7 +7,7 @@ originalUrl: "https://www.admin.ch/gov/en/start/documentation/media-releases.msg
 webUrl: "https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-88019.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Switzerland delegation meets Dr Jitendra, seeks collaboration in healthcare, AI"
-    excerpt: "Indian origin Switzerland Member of Parliament, Niklaus Samuel Gugger called on Union Minister of State (Independent Charge) Science & Technology; Minister of State (Independent Charge) Earth Sciences;"
-    publishedDateTime: 2022-04-10T21:39:00Z
-    webUrl: "https://www.dailyexcelsior.com/switzerland-delegation-meets-dr-jitendra-seeks-collaboration-in-healthcare-ai-2/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 50
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/04/page5-18.jpg"
-        width: 800
-        height: 382
-        isCached: true
 
 secured: "/IsdE4WFt53RX+W0Ynt5xZ8va6y1jDZ2lRZtkjjw/QAsVnA+riHZqNFTkOxFnyOTEiiG1nuWZTOQsFFAjboHfp2GAecZ2Eh8bKDtxneo5dof/rbQ932ef0BIP7suX4lNf20KqsStp0E+Ws/O5jSMLV9tNLLUvFzFpXN9sunQJ2ob3Hgu//3slDR43syAcd/wRkZFSQn4jybBAo9zzHiDA8VGqvmywKbCwYIq0qPXqN+M6DStp39ARARcvLFk8WSaxeSFg/tAhnNI4Bg0boZ486UG1dWARSCRhMZRCBMaEgMLhiUGMjKhYB+w8PfFLEfu+kOtnRiZ2rQWFmgIKyuDbe9/a8yfyODYY48HpEel2Bs=;ZmqflaEMHIzho0Dozl4iEQ=="
 ---

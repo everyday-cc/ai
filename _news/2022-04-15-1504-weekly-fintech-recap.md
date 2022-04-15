@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Fintech Can Help You Manage Your Personal Finances"
+    excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
+    publishedDateTime: 2022-04-15T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/424896"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
+        width: 1024
+        height: 658
+        isCached: true
   - title: "How digital debt collection can spur fintech success?"
     excerpt: "Digital transformation is constantly reforming and refining the financial services industry as we know it. Digital technologies like Artificial Intelligence (AI), Machine Learning (ML) and Blockchain are disrupting the industry to a great extent"
     publishedDateTime: 2022-04-11T15:00:00Z
@@ -41,22 +55,43 @@ related:
         width: 289
         height: 305
         isCached: true
-  - title: "Why AB InBev is betting on fintech and metaverse"
-    excerpt: "From investing into financial technologies to entering the metaverse, the beer maker is going all out to build a technology-led customer experience"
-    publishedDateTime: 2022-04-12T03:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/why-ab-inbev-is-betting-on-fintech-and-metaverse/90790538"
+  - title: "Global Web3 & FinTech consultancy Wachsman opens in London"
+    excerpt: "Strategic communications consultancy Wachsman, a specialist in Web3, blockchain and fintech verticals with more than 130"
+    publishedDateTime: 2022-04-11T11:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/global-web3-fintech-consultancy-wachsman-opens-in-london/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90790538,imgsize-53328,width-1200,height-628,overlay-etcio/why-ab-inbev-is-betting-on-fintech-and-metaverse.jpg"
-        width: 1200
-        height: 628
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+        width: 450
+        height: 376
         isCached: true
+  - title: "ADGM-based FinaMaze selected as part of the Fintech Saudi Regulatory Accelerator Program"
+    excerpt: "Fintech Saudi is an initiative under the Kingdom’s Financial Sector Development Program as part of the Saudi Vision 2030"
+    publishedDateTime: 2022-04-12T06:26:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgm-based-finamaze-selected-as-part-of-the-fintech-saudi-regulatory-accelerator-program-qg01c25q"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 15
+    images:
+      - url: "https://static.zawya.com/version/c:ZDM4ZmFmYjEtOGY0Ni00:OWY2MTM1/finamazefoundermehdipicture-jpg.jpg"
+        width: 900
+        height: 1350
+        isCached: true
+  - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
+    excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
+    publishedDateTime: 2022-04-15T13:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189729-fintech-tifin-which-uses-ai-and-investment-driven-personalization-announces-new-partnership/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
 
 secured: "ZWf+HzMWLJzrU2i1EXNe9oPoeAjZrwy9UOJd4XNgTvKtw9MaKH8jP94xmknZg+iPyBT3PAWh0DuLIShjLITB2/iCDEzzFyyPp4OmBJyrl0LWxrpRsrKSFSV+AQPH/FnMK3QeMg9eK0BPx6Vcyvn6K+RoAtM0m9qwWOk7+CATmNDVw11NbvvdgD2yl7w/k5TYQlo6FeAXwqNaBnYGMDEToWQOenMjEeCLUQePbbWb5mdEa53+GpUMAYHgBECLR6ENi+z/ncKC1GKidTZOt7s1T/k8CD4mRsuDSa5HJ+KEYHv8AQuUJA+fAz3KQRd8RXQUqPrwD+VQAwL0AA//GevGQbcenjX1fcPQmeHZLMKkBjo=;Ry8NB4xUR25vctDjo7oEUg=="
 ---

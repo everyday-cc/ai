@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T12:10:00Z
 originalUrl: "https://www.restaurantbusinessonline.com/financing/kiosks-ai-are-horizon-burgerfi-anthonys"
 webUrl: "https://www.restaurantbusinessonline.com/financing/kiosks-ai-are-horizon-burgerfi-anthonys"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Restaurant Business

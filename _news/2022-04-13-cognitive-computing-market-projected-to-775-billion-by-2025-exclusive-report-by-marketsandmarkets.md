@@ -191,6 +191,15 @@ related:
         width: 877
         height: 432
         isCached: true
+  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
+    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
+    publishedDateTime: 2022-04-11T12:16:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=644996"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
   - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
     excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
     publishedDateTime: 2022-04-14T13:04:00Z
@@ -199,6 +208,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "A1KU5x7zceSvRs9QukPOfBYM0F+PBGNdldpfC8IWY42G1/HcWz7OKYu9Emgx4Vn5bs6drOoy+7lgGj4Jg5IJfJ+/ea9X+JC9FmWH5xXopd80Q+maiiPK9ZU857TXOt7jLCDR1AvtIbuYF6CEWK1DVfVidx1QubV7DFenP3yGkRzmboY0KaueaZJPE0td8NISGrDorLBo9Dzb7iHtiMp8BBSNN4RJqkZlebz+idWWuF3gbvllbZDspv6BoAlUQbyEysuJeZyp6hVZOK2k27WVpTi8DkWNXlSr43wnUhuwaZIBga31JbujWuiU8wDrcflECJNPJ6lV1iOEYbDZpVlAVC7l/uL4qOZIJlfkPeQ0xFJbhIlZrDSsTfV4Bq7fk/yOUAoEUAc6T53/+hrDIIwZ18DHH7g9nxaZCWC9EPm6Tl9Je5hEBpQbZ+w2j1sTr0VJTGDJrzD8bzbSQ9UQVmxRfysI43ZkJvv5guMakCz7l6pL1tJscA9sHiu5zev79cL0fXVXTSezzfNIb2afU60gow==;OWOipasq5VgsliaN/aWB8g=="

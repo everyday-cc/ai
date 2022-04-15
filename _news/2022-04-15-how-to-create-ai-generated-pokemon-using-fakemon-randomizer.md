@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T13:47:00Z
 originalUrl: "https://www.dexerto.com/pokemon/how-to-create-ai-generated-pokemon-1804936/"
 webUrl: "https://www.dexerto.com/pokemon/how-to-create-ai-generated-pokemon-1804936/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Dexerto.com

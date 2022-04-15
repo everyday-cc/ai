@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Get 42 hours of Microsoft Azure training for under $6 per course"
-    excerpt: "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary"
-    publishedDateTime: 2022-04-10T21:20:00Z
-    webUrl: "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/"
+  - title: "Microsoft And NASA Leverage AI To Streamline Safety In Space"
+    excerpt: "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment."
+    publishedDateTime: 2022-04-12T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 794
         isCached: true
   - title: "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer"
     excerpt: "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients."
@@ -61,17 +61,66 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Ed Tech in a Hybrid World With Microsoft's Joe Brazier — ICYMI"
-    excerpt: "Joe Brazier leads K-12 strategy on Microsoft's worldwide education team. This week he answered the \"In Case You Missed It\" crew's questions about the changing needs of educators in the wake of COVID-19."
-    publishedDateTime: 2022-04-11T22:38:00Z
-    webUrl: "https://www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi"
-    ampWebUrl: "https://www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/education-technology-needs-microsoft-joe-brazier-icymi?_amp=true"
+  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
+    excerpt: "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture."
+    publishedDateTime: 2022-04-14T08:42:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-14T20:09:00Z
+    webUrl: "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
+    excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"
+    publishedDateTime: 2022-04-12T12:35:00Z
+    webUrl: "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 54
+    images:
+      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
+        width: 730
+        height: 400
+        isCached: true
+  - title: "BPCL collaborates with Microsoft to leverage cloud and AI to redefine customer experience"
+    excerpt: "BPCL will leverage Microsoft's Cloud & AI capabilities to accelerate its digital transformation and shape future innovations in the oil and gas industry."
+    publishedDateTime: 2022-04-12T08:23:00Z
+    webUrl: "https://news.microsoft.com/en-in/bpcl-collaborates-with-microsoft-to-leverage-cloud-and-ai-technologies-to-redefine-customer-experience/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 45
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/45/2022/04/MS_BPCL.png"
+        width: 900
+        height: 640
+        isCached: true
   - title: "Bharat Petroleum collaborates with Microsoft to leverage cloud and AI technologies for better customer experience"
     excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft announced a strategic cloud partnership for seven years aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the oil and gas industry."
     publishedDateTime: 2022-04-13T06:13:00Z
@@ -86,6 +135,24 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
+    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
+    publishedDateTime: 2022-04-14T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+  - title: "Worldwide Artificial Intelligence in Digital Genome Industry to 2028 - Featuring Microsoft, Fabric Genomics and PrecisionLife Among Others"
+    excerpt: "The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-04-14T18:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-artificial-intelligence-digital-genome-industry-2028-featuring-/2022/04/14/9583612.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "vAzCLWCgYDQ/5GzADHIs5T2TuBx5KLsH4+f3ttSlAbjPe9Qyp/0vcyHr7CqMJXS4lGh+HPUxVwtGP2IwGkuAh/bS7J3lHeG3kFG+0kDvnrawxU3sWy7WW8Y51ndL+ssBRvO2tQRAuLXIYwU6NBqnPTSf31f2tuSN1d3iGzM81pVRDq3P4sgrJP9o6pt4V8Xu4KLH/KDqIo+AD+4ZZGQcLD0Pe9ZA1pFD0iTe/bnnZiVNTT8w1nHq0DJUrEHf1kLD6cXm/KqPOtGnRgqg28Tj5nmhP4zMpuTVMIxiio57GSljoEYkc9H5IDs7cF6uhTC4BNGZ223m3JrgdnHXURiX9bI4rUPREfVL4W4ZtQDfLZdI56kDTh+hn5jre+ikwc7ZBcLV1EEo53jxsUjwfnMLiL1OfeLdgOEcDa4KcmSTBr3NGz4knyLvKaUOTTZt9V1hMFyIZMVBUIJZX/e+VDqN7BSDfgGeoMhG867c7pp6AXoFPpzNM1XnxrpfJnDgw5t/Ynrv8FMWO87AEPEPnrO1gA==;JJ5F35ebhxjGjPOMjNui4g=="
 ---

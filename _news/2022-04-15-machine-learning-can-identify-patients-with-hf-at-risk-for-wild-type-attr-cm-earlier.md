@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T12:53:00Z
 originalUrl: "https://www.ajmc.com/view/machine-learning-can-identify-patients-with-hf-at-risk-for-wild-type-attr-cm-earlier"
 webUrl: "https://www.ajmc.com/view/machine-learning-can-identify-patients-with-hf-at-risk-for-wild-type-attr-cm-earlier"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The American Journal of Managed Care

@@ -183,6 +183,15 @@ related:
         width: 877
         height: 432
         isCached: true
+  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
+    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
+    publishedDateTime: 2022-04-11T12:16:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=644996"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
   - title: "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ..."
     publishedDateTime: 2022-04-12T18:33:00Z
@@ -200,6 +209,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "n5IdWoX/babHPsqjQrZ2LSGBllsPxxCqSzNw0z0sehCK5ePI0ZNQccuk89aRtDR2Kd/WBAEg+2XoWpNEcOJV8iuaA0Bz5aoN0PG5TJb5lq7FAdhM3WWWLwZN8gs+Ud444l7LrY23FEuo7Sz37Z0XGcDMjg5meWGjj/znD7BEur/o4sGv+O2m5JAVzMQsSL6opsmpxTWz71IGPWTfAHA1vE075r225sDSLDb9s1sANvj8/Ygptb6HuOjdCk5L3QmsID8NkW4ks0v1QLJhY1pPixjNXEDte+OJdTA8f6M/ac5toyKDRLWOyvG55UlxTiFCO+z4p9n4C1yWL7VG/ok7gfYXTZX5n3FacPc4/wfLazo=;HOivkpDurYYV4mH3j4Pyug=="

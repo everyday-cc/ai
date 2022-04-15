@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-n
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,33 +26,14 @@ images:
 
 related:
   - title: "Amazon announces New AWS Local Zone Cloud Infrastructure in Kenya"
-    excerpt: "Wednesday announced plans to launch an AWS Local Zone in Kenya. The new AWS Local Zone(s) in Kenya will join 16 existing AWS Local Zones across the United States and an additional 32 AWS Local Zones planned to launch in 26 countries around the"
-    publishedDateTime: 2022-04-13T18:54:00Z
-    webUrl: "https://www.kbc.co.ke/amazon-announces-new-aws-local-zone-cloud-infrastructure-in-kenya/"
+    excerpt: "The new AWS Local Zone in Kenya is a continuation of our investment to support customers of all kinds and our commitment to accelerate innovation by bringing cloud infrastructu"
+    publishedDateTime: 2022-04-13T19:21:00Z
+    webUrl: "https://www.kbc.co.ke/amazon-new-aws-local-zone-cloud-infrastructure-kenya/"
     type: article
     provider:
       name: Kenya Broadcasting Corporation
       domain: kbc.co.ke
-    quality: 39
-    images:
-      - url: "https://www.kbc.co.ke/wp-content/uploads/2022/04/IMG-20220414-WA0002.jpg"
-        width: 1250
-        height: 834
-        isCached: true
-  - title: "Kenya: Amazon Announces New AWS Local Zone Cloud Infrastructure in Kenya"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company has announced plans to launch an AWS Local Zone in Kenya."
-    publishedDateTime: 2022-04-13T05:50:00Z
-    webUrl: "https://allafrica.com/stories/202204130055.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 38
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
+    quality: 19
 
 secured: "yu14t/HGgYXeSriVAsH1NBCIZQ+vwPiZ5wR1c3+xQCfPCsS6NetQDHNHkonFGPxNC1Fbi1egPmrpiLVx1pUmqjj0iPehARu75pLbNsqZXGgcyEZg8KuQfZ3tyqv20/S9UOWt6HMacvoONrt37kgPZlDagYTK5AULhKohIStNec/gvn8XWVTYgEMTP08bumcTP4gcZ1DbOrCbFv1SFzpUwUgypl6Boy7yqyq+MPtjpBUKNTcITxad3ch8ABjBTmZ2GjvJ1MmFSZRJO2sGxPlsi2COhBJn9aaibWML6doFzb7sfq9UKz1PVbkckk0blzv0EvAE9fz3fAFqAjEVFNbWgNeorr1qKcELDrXsLT0yTGJAjQxRddzHNLLOlkP3m0hvvNkWCmqwYzu9Fo3m1Cm1PA5ESN1+uh3fwf6f2lTODPLOMsFi2mT0k5uaV6UBLvP41wXssbAIfknp1fnyy6uJdW/cZiL7zM99kCz0mOFJLIpS70xaGn2hkIbU9pGULC6s/VBs2ReFz/TDIsJ9mnaQvQ==;25VnyyU0hzRWNE5CANLasw=="
 ---

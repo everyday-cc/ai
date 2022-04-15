@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-wit
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Five Practical Ways To Boost Your Marketing With Artificial Intelligence"
+    excerpt: "Marketing AI holds enormous promise, but it is a journey that organizations are just now undertaking, especially in B2B environments."
+    publishedDateTime: 2022-04-15T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/04/15/five-practical-ways-to-boost-your-marketing-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
   - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
     excerpt: "WELL has entered into a strategic alliance agreement with Tali.ai which allows WELL to commercialize Tali's AI technology across WELL's EMR portfolio. Tali's technology allows doctors to have a 'conversation with their EMR' to support patients with greater efficiency and deliver improved patient outcomes."
     publishedDateTime: 2022-04-13T11:24:00Z

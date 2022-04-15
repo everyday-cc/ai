@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T13:01:00Z
 originalUrl: "https://www.sltrib.com/news/2022/04/15/robots-are-salt-lake-city/"
 webUrl: "https://www.sltrib.com/news/2022/04/15/robots-are-salt-lake-city/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Salt Lake Tribune

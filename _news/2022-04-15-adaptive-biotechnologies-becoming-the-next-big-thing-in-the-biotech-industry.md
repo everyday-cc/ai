@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T11:58:00Z
 originalUrl: "https://seekingalpha.com/article/4501632-adaptive-biotechnologies-becoming-next-big-thing-in-biotech-industry"
 webUrl: "https://seekingalpha.com/article/4501632-adaptive-biotechnologies-becoming-next-big-thing-in-biotech-industry"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Seeking Alpha

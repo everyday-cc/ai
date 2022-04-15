@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-you
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Unlocking the Business Value of AI and ML"
+    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
+    publishedDateTime: 2022-04-13T13:22:00Z
+    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
 
 secured: "6eD6/6XTsH5/IwO74c/pnSpRMwhj//zdm1aEA7TUjHWXMzmB4LOlLzf+JSN15/nfc9PGmSfHEbKRQpz/jlId2K+25o5DSPNTInTGFzUc1HbJW07AV/PfmC7QRnWhg67yfT3d2ZMZNyaXYyFygREf55/8+WixdHQEkVE5/UmNENBrPHx8qTQD4IY2+4ykgK9F34SZXRlCajuMoJ38D/4yaoaX+IEBN6fafikN/PFxLTJ8sVlomXG//z7qTpehpXw4FUhkTjQ4A7yAU3UQA49zsrazm2VFPEPn6zrilexAhgvOnnMbNDy86wm97v1Z8ZSiNMHcziTb9rkm5fxvSsapsVxNOp7AmB2xYWXIOYOLENToy1bwuYois+SpRF2O9OJl+05kX7wGyHMusrmeWBMNWOvGL8iMot+jhmOd830CPY1mO2LwAXcqrd5r4g0Ey0EDRQAbpYlT5yqtKEZaZqrwvGkG/bxKHA38daX+cfr0ZMNPyQwZPUf0MKXnJWNuud6gpBvjp90LaKtgrPoVPKleyA==;LUbH6xqPrBoBgFyJtFayVQ=="
 ---

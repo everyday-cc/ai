@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 199
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,147 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Startups Join AI Acquisition Rush"
-    excerpt: "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence."
-    publishedDateTime: 2022-04-11T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401"
+  - title: "AI In CTV AdTech: Streamlining The Ad Bidding Process"
+    excerpt: "AI already plays an integral role in advertising technology, facilitating processes that human marketers are incapable of performing themselves at the scale modern marketing platforms require."
+    publishedDateTime: 2022-04-15T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/15/ai-in-ctv-adtech-streamlining-the-ad-bidding-process/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://images.wsj.net/im-520831/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60351bd94012479d5761ba1e/0x0.jpg?format=jpg&width=1200"
+        width: 612
+        height: 408
         isCached: true
-  - title: "Robots are creating images and telling jokes. 5 things to know about foundation models and the next generation of AI"
-    excerpt: "New software that can generate images and text on command may deliver ‘good enough’ creativity in advertising, copywriting, stock imagery and graphic design."
-    publishedDateTime: 2022-04-13T04:50:00Z
-    webUrl: "https://theconversation.com/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
-    ampWebUrl: "https://theconversation.com/amp/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/robots-are-creating-images-and-telling-jokes-5-things-to-know-about-foundation-models-and-the-next-generation-of-ai-181150"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/457810/original/file-20220413-28-ldw894.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=321&fit=crop"
-        width: 320
-        height: 321
-        isCached: true
-  - title: "Venture funding for chip startups has doubled in the last five years thanks to AI"
-    excerpt: "Funding for chip startups used to be rare. But in the last five years it’s more than doubled. Here’s why. Max A. Cherney is a Technology Reporter at Protocol covering the semiconductor industry. He has worked for Barron's magazine as a Technology Reporter,"
-    publishedDateTime: 2022-04-15T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/chip-ai-venture-capital"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 49
-    images:
-      - url: "https://www.protocol.com/media-library/chip-startups.png?id=29682922&width=1200&coordinates=0%2C42%2C0%2C43&height=600"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cities Take the Lead in Setting Rules Around How AI Is Used"
-    excerpt: "As cities and states roll out algorithms to help them provide services like policing and traffic management, they are also racing to come up with policies for using this new technology."
-    publishedDateTime: 2022-04-11T22:35:00Z
-    webUrl: "https://www.bangkokpost.com/business/2293810/cities-take-the-lead-in-setting-rules-around-how-ai-is-used"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2022/04/12/4278922_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Leading MEPs raise the curtain on draft AI rules"
-    excerpt: "The two co-rapporteurs finalised the Artificial Intelligence (AI) draft report on Monday (11 April), covering where they have found common ground. The most controversial issues have been pushed further down the line."
-    publishedDateTime: 2022-04-11T14:45:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/leading-meps-raise-the-curtain-on-draft-ai-rules/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/04/shutterstock_540433660-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
-    excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."
-    publishedDateTime: 2022-04-11T20:39:00Z
-    webUrl: "https://menafn.com/1103992769/Integration-Of-AI-In-Renewable-Energy-Shapes-The-Condensers-Market-Growth"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/11/EP_372b0image_story.png"
-        width: 966
-        height: 487
-        isCached: true
-  - title: "Scale AI moves to scale supply chain AI startups with new funding, partnerships"
-    excerpt: "Scale AI has invested $24 million to support five AI projects in supply chain operations and is partnering with MaRS to support 12 Canadian AI startups."
-    publishedDateTime: 2022-04-11T10:00:00Z
-    webUrl: "https://betakit.com/scale-ai-moves-to-scale-supply-chain-ai-startups-with-new-funding-partnerships/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 35
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/04/MaRS.jpg"
-        width: 1052
-        height: 630
-        isCached: true
-  - title: "Unlocking the Business Value of AI and ML"
-    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
-    publishedDateTime: 2022-04-13T13:22:00Z
-    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 34
-  - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
-    excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
-    publishedDateTime: 2022-04-13T06:42:00Z
-    webUrl: "https://www.techthirsty.com/increasing-ai-startups-also-require-funding-to-meet-expenses-until-profits-begin-to-increase/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 28
-    images:
-      - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"
-        width: 948
-        height: 451
-        isCached: true
-  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
-    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
-    publishedDateTime: 2022-04-12T12:31:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 12
-  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
-    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
-    publishedDateTime: 2022-04-11T12:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=644996"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
 
 secured: "1qU3KlQWGYQs4T0k+b5uD/TJD0kdZxv6z4I9vqk8yMMpPbQearylPj0OlzXxYE8pX17ueVg4CjDlSm6sTZjBxznrl9k8NoKuhOqJ9lM4fmQcJTh/A/TRIHmLPMhEID4EUp7XZD4Oo92wxg7hHTskWmXUjJo/VwYDgAxA7YQLIyUXxWjRNUv7UxGwsOkjo/3nF7hDXa79Kkxm6lsBGD/8BP+hFGPvevZ2fTdmUMVHy3ZXkYjifdtoToexZN5yyhX3n8mjhsD9TRM4ehwcfxuu61VdYnI2m197Y+qUbGdASMHftduyetTH9viHFw2kS9aLbujuZ+sV8/nelRzvkS8ItF0Xwv7gFRZToZrzkIXdzu++ZM3vvTHc0KS2DAuhCSvWqOXd5vYmtT2T6Gyf6dn5ZEHi1aP9bx4dctviAm+GKUR6jb/0rBbkiZ7Hcyr4qrEOW0ZQifenRLogc+ATyrMIYttU9o0n+wN/keBa44ths2qfmfsZTZqjzsMJDIVq8VlzOBuRq0ico8Z05a8x7mNeBw==;lOpgYt9j8U7b/eHJNkG/qQ=="
 ---
