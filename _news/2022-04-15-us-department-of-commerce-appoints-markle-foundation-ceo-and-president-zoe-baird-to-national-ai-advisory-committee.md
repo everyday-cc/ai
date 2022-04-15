@@ -1,26 +1,26 @@
 ---
 category: news
 title: "U.S. Department of Commerce Appoints Markle Foundation CEO and President Zoë Baird to National AI Advisory Committee"
-excerpt: "Today, the U.S. Department of Commerce announced the appointment of Markle Foundation CEO and President Zoë Baird to the National Artificial Intelligence Advisory Committee (NAIAC), which will advise the President and the National AI Initiative Office on a range of issues related to artificial intelligence (AI)."
-publishedDateTime: 2022-04-14T23:34:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220414NY26424/u-s-department-of-commerce-appoints-markle-foundation-ceo-and-president-zoe-baird-to-national-ai-advisory-committee/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220414NY26424/u-s-department-of-commerce-appoints-markle-foundation-ceo-and-president-zoe-baird-to-national-ai-advisory-committee/"
+excerpt: "Baird is one of 27 members who will serve on the committee. Effective AI policy can enable America to lead the world in economic growth that equitably rebuilds the middle class. \"AI presents far ..."
+publishedDateTime: 2022-04-15T01:35:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220414NY26424/u-s-department-of-commerce-appoints-markle-foundation-ceo-and-president-zoe-baird-to-national-ai-advisory-committee/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220414NY26424/u-s-department-of-commerce-appoints-markle-foundation-ceo-and-president-zoe-baird-to-national-ai-advisory-committee/"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+  - url: "https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png"
     width: 600
-    height: 207
+    height: 248
     isCached: true
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "bqjDY0cFHJcFd/VH1xlSrXjFmT8AMBxyDJKxizByX0+ImKzrGGP2W2hAyK9cWv7njnmpGuhS88n36yv2tSc6+bpZfft+KJl2Q9ArG7sjyksR99OjUU2s8WsFf4EoCHjDDMipLyvMu55SPclfsldyWsupVdqp+xl0m1p3A/bM19WXgc70lk/NZbkampNDMryQZ8wmbEmCNDWeKwx9rxhSwVWMHRDVVXW8vJMj+61mgXCmcsBg4Fteys/uyKbK2IU7GfVR3PPZkpY3PW5XJLDqCnr94KS52ALWA01Kj2Tpzr4is5CKBXCosbCTySIYDQsKzBvQ+zpjjBUZThEQ4bstLuNjsaTdqxnyp78LwEQitCU=;3h9pIg4MQsiya8zm7m19cg=="
+secured: "BIsDzHxSiYBUZTA2x+LEsFTHjLrZUA7WuJu6dlGMCrHc4E8YGkuE6FRABPa3ZrK5l6rp2Elf9ya8TOeL/FZ9gFaSnu9NVMlK/BzEREJ1AirrHh079KxtEvsfRYP4Bih7Sl2IZUaEdYHXwj/Vssdq6/7HstbOxUbCzGH/5+W/54lLpK650CEkR8SBVz5b8Snl5wFQo4yXuDpK/qi1LjhM3M1bYmAaeFBWIRtlj5MqcSO4zdvs3gkAVrN2FDk4AFuz4MUWqVUhHWRpLgcRDLZ/kLe7gMX3KFggt8PE9gNRoVV3yy2ZodkkkPQMpv1HiACoE1GLdp8qJherE0rAJ9Ky8R2Ljr8OuB3KmZEagWOeyLc=;WPZ00TIXs8T49URWKc3i1w=="
 ---
 

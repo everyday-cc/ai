@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Tech Momentum: CEO’s of MQ, NEXCF, SNAP, PBTS, Driving Revenue Growth in Fintech, AR, Web 3.0, Metaverse, and Digital Transformation"
-excerpt: "NexTech AR Solutions (OTC: NEXCF) (CSE: NTAR) CEO Evan Gappelberg: “NexTech is On-Ramp to Metaverse & Web 3.0 for $5.5 Trillion E-Commerce Market” NexTech AR (OTC: NEXCF), a featured presenter at Wall Street Reporter's \"Next Super Stock\" investor conference series,"
-publishedDateTime: 2022-04-14T15:29:00Z
-originalUrl: "https://www.abc4.com/business/press-releases/globenewswire/8522626/tech-momentum-ceos-of-mq-nexcf-snap-pbts-driving-revenue-growth-in-fintech-ar-web-3-0-metaverse-and-digital-transformation/"
-webUrl: "https://www.abc4.com/business/press-releases/globenewswire/8522626/tech-momentum-ceos-of-mq-nexcf-snap-pbts-driving-revenue-growth-in-fintech-ar-web-3-0-metaverse-and-digital-transformation/"
+excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from CEO’s of: Marqeta, Inc. (NASDAQ: MQ), NexTech AR Solutions (OTC: NEXCF) (CSE: NTAR),"
+publishedDateTime: 2022-04-14T13:32:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-snap-inc-evan-spiegel-480585f22e8e2c6d756dc398dab6ccb7"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-snap-inc-evan-spiegel-480585f22e8e2c6d756dc398dab6ccb7"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: abc4.com
-  domain: abc4.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "j0MyWAwWw5A+EkJ2x4B1K2VnqDXU00n0LFE67kSN+6oJ1D/j+pgNNTQpKTgiWEP6d9KUgDNxt/AoRquFmnHemLI9hcjTQtxLIqmgsLGtoT4PJ3QPizv0pWHHCcSOUDCaBiajP1YZvD4ABdj0WVF5FNIurHhiSdZj8ou157N/jBx1ppbMmSmd21UhqQeMYqFmrIL+n0mNYtM0i2deT8r9oHu4+d/dBLiHFDZEJ5Wj9SyTmbMSFPP3C7n4fu2GZf2JPrEN+sHZK9zBEgxfpkv6um/gLFDrPlHGLXwJrNYTFLntHIUHAmYfxa5kKpaFfTe3Wt2haYZXmpn+JyEea3NcbNwHWYPRtnK2HTWuDhmDvUQ=;U1VmWrocdNrEhofTs8ws9Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "crtxGYcR6U6HHz+N3mdyLk9+yeoOV0rZ0fg5UY6GpPrVRPzPCMkJtu2IPZz0rxlShpDZcxt1usCOZ5+9B+keLZFrcYPVyCnFv/Piaki2UA0j7Z/TUlg5p6GzrrvZk4zuNgqA2/tfrEKn+V0ImALJ0af46Qtnnlujww98dBfPmyUDL4O+0JAL6+WXLKcM8jejHPBn1JKHy3lsb6Gpqjdg5ubd82+xIF405xpOGfBMpYEnTcJvjYqbek9S1D+zAPCria+vABkNiBcVg7z43hzzit1qXi6jAlLrpnwSwtpT9KgaW8pi6dlGT0eHRHQp9GViiidye5eD+hgdrUnrx6dW9/6WCYqk5VNeArgpnJbC4Wo=;wIReJWhOSnF9zzaE+47n+w=="
 ---
 

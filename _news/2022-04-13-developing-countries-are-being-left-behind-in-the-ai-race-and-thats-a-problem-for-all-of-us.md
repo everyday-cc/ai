@@ -41,6 +41,20 @@ related:
         width: 600
         height: 480
         isCached: true
+  - title: "Left behind in the AI race"
+    excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
+    publishedDateTime: 2022-04-13T18:00:00Z
+    webUrl: "https://kathmandupost.com/columns/2022/04/14/left-behind-in-the-ai-race"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 39
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/thumb5-1649949962.jpg"
+        width: 900
+        height: 550
+        isCached: true
 
 secured: "C6EjbviyrV2ctlqiF+ChxElVJPHEm438s65En2BXQFPuuK4g0OEzyzLOfJRXySSvxcVUeYfoJGMycXLkAAhbz2fsaXDWnVCN+lnoWcYeesTBlDZF+2iO6sApC6g/5v3Jlr4xcEFkslrd/zx3LIxGkZu/51HKFuwipr0jiOSlSeRutEWVAtnVeFDoZSfi3K5J/zPch7DRgydPofdVPJIeoGBo4RAQI/7kBpHrfaWNmT4RbyOgZrTiuri3zcpPBxq83gS5F02PEk/olxtfAHMMjh1CU11aO5t3ScMLWyAYtFNmGy1bZyg9ueOmf20TxehsHWLGJj6keIJIqyyupacO1e8v9UvyJ+kjDkwQ/sogSnPJVICpagyujqcEqOLK+5XI0k1tGP9NDgEwRQTD0HgGtBKCYUjlRbtHA2SMCTuhkkcr7JAjGWUMhs1RhkVjD5WTmp4C5iNb9CuKNB8YiOR9NuefP27RoOeaBZkiIsmWR1dHrsGrMJedM5kc7ADqeZ+Cq7IHX79ViXZKqikLfilSqQ==;4TZuwF/t0D4+7Mk6FB1XmQ=="
 ---

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All"
-excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI's breakthrough approach to delivering 'machine learning for everyone'."
-publishedDateTime: 2022-03-31T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning/article_c8ea8ee8-dcad-57a6-941e-604aed0965f0.html"
+excerpt: "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’."
+publishedDateTime: 2022-03-31T13:37:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
+webUrl: "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "eQ2q9yAFfg0DcAPrcI28Mzc0rWK+A6/DLW6xILru5LtRMHDJ347Vts1dDHM5T651zLLjhm1puCLUHCitOlR2h0nQgGOAKp+ArJ8ev+CS7I++m6onhhL6pC9hFpNyPHhg3RPjeI4qnhG0LjFzRPrKNtyeMj84WJe+ZixHLzur1rEh2m8q88FROY9qhkGhldRrvSt8kvywXjpUpLJ8EbaeVkLVFDuWomBNygplktZh015t4wgiftVCGsJTIwbGgEF09nob/zIXlyaznHJwTxmEBkrawfmltI+f5eya0+RdlQsPJy5aTFjPO0mubP2qIOjDZLAoCHFQhbTVqMuLQuZssMeg8tOwaHwk2E1It3ZJDwhzraF5hQjtIcw4pdMm4V9vXyjHeq0E8hz/E/afQa9d03uuAcJzIqZOj9dJk/h/UdgZX+27iecqoYskWM7RPEX34QTVRqlOdKzy6YS/sEFzKcasLs7w544p4PRlGOxH8mBZhpuRFqlZgcQovFskeghLavHHQhHgQ0n3P07vVZMDDg==;9VKMp+LsmRRQkdfgpsdm4w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "9Y+h5W1QO/dnZhyMYF1Pz1E6FCf9kzNb75eelUvwE4rtPFU8hRhTnL5zMMurDjQsVTR2yMlaK+m2vAn09GrSWjAvl36tbnXsiRs01V96YB75OIk+LzEj9c9Lgm2KcLXF8qIqccKyxhm2vQTD2IgZuKmQ1oZKSTd7vnG3mENb7Q5CGvIGOeqtXiPJZV7FkgQXwxSP9fhrS0prhxItLqxawk0nJLeKEihsYJRGT9WXG7IGMxvYqqEGwDFUNj14fngd2vqZUl+WjS3x4UWEVKH/W4DbT1ccR1RVJvR1Rqrmo0vsgzrSDU3WOfhdvi5G3TUwgxidLg1B0cc/urA0kxoXR8v/W55eRLHukY8I6/1qbMg=;7FyhIqgOVx0mt2Z758mZVA=="
 ---
 

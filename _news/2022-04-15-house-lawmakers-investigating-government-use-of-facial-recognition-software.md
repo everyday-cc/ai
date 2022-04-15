@@ -44,18 +44,18 @@ related:
         height: 677
         isCached: true
   - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
-    excerpt: "Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy ..."
-    publishedDateTime: 2022-04-14T22:05:00Z
-    webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify"
+    publishedDateTime: 2022-04-14T21:40:00Z
+    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 29
+      name: KEYT
+      domain: keyt.com
+    quality: 31
     images:
-      - url: "https://kvia.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300-860x572.jpg"
-        width: 860
-        height: 572
+      - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "House panels probe gov’t use of facial recognition software"
     excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently"
@@ -67,6 +67,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "XyY+vTtItXoXS6ZtrCV1wfqIOMJF1Fk9/1UIhmArW+k03xPBjJTZZ92aQdzfnOclW/T4oq3sL+m3EoL7CG5gxMveWISiY2sojH6/+8DnyrZeXmeH4PbyNj8ZCveG9YLSQ0l3S2fHLOd8FWCwYxS2CE28r4VclzxVKBm84hfUivLFoOVHlqFeFfZm6VDmStVYqngQ9DBaU4d06+fSoqhcx3rXGRNUVyFemwfELv7a1fBJhKgrZsVJRE1mAQxsreishM4yjVpCTiYJcxe8hCkm0N8yVlIQyQ6t8CnBPWkHf5273o7BcF7y/ErUGVg71hl4FFkpwSbJaUGyq/Z+C2xzmCW6nPyE6Fd4tLKnH9gQXOw=;6g7qHXSBH/kiH4eiDrhBBQ=="
+secured: "mSx0+2/fe9ZyxOl2ddylLFpCJj5crIAGkPsspvgpbBDbFW/pNgxPPvci+x6ZFMrQNLVSUM0EAS1wzWsvBlTNGioCLiRLSlNBqOgdG7HJawtMmwtq/+XD9ZsLKc/Eet77tbhb7CZZn3YQDEWPff8o12ZfiQJY5a4rvatkmPC8Pfa68lRIrVnguIwACtyLj8CoNNLOgzfGOTBtZ92BJK9tDksQS/ZdziZSvlqLl4L0OIxi9nEH1NFpcN9YL5xkmcUhgs2wS7V9j86plb5y4duuMue0nNsZ/18JZq55NEblSBtXyiPVzHnJoV7+VNrn+bds3e08Feq74rcTmSZilK7mWOt1ZoaHXpJqiqz/BTVOT/1le3RoD0ld95LtxB11fraIbKcyDzPL8j+XrSJI1QKvC+3sr/C4HqH6XLrRvQhEq0juRXNbsF9u+Ejn5pfxPZqVIvUP9s+nGQiS8/hh7/6XDOt+mewPXXH95Q2wfaelRHTkvSeQ66byI2diNdamCP5H8kXAj78mpj1pWUnRoWKMOA==;NHvTdTG8UQEothIgjl+cFA=="
 ---
 

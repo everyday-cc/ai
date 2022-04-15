@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-14T19:00:00Z
 originalUrl: "https://www.itbusinessedge.com/it-management/5g-and-ai/"
 webUrl: "https://www.itbusinessedge.com/it-management/5g-and-ai/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/04/5G-and-AI-Ushering-in-New-Tech-Innovation.jpeg"
+    width: 1500
+    height: 985
+    isCached: true
 
 related:
   - title: "5 things to know about the hottest new trend in AI: foundation models"
@@ -56,6 +63,6 @@ related:
       domain: techxplore.com
     quality: 10
 
-secured: "26e6CWQ/CZP051xT9Nt1Tu73y9JroFUBURaHIq67HTlnWvqijlZ+yQI+YvEI9EEeIu4wcJcKDZsrl7qR14geMtsJTGftEchsJCIjoHKxUyYzDx+epRoMOQnUOKB+VfeO78orM+SPzuiB6zLWrW3XwoEssYeQpI/ktp6M1+m3L1OjICT5EODJuo/VJLBRkt/mMYjloFh45Sa0odcch1UK7EDQBExoikS6lNcmDD0GqQ91EbUxfQd0A6GCOQViiqMSmH4pNnC5CSIvvlymXeNgtRMCNHM8xRGOgBnCrlk1KLJ+IpjDEjMTQWuexOfPByv6b8Y/8ozLWMoAV2RnOa6HPHqpiX3ceYR7tSGEoCyWKgdxzomhusV66gXAju9lXeIJgKgkjNBW2Ht0aOTK5tEh5tJn7lb/X2YgYpJs3bvV7nboQq27FYvbwycWOSo4SJBfYvCHftJnzvwX4ct/Y1z3TgzeqsBcIz5hPxUgws5KOCa4EFSrj9v2N/9mRYch4oDbn0pVK9E3yIIRZgpbpqdjOQ==;UYO+znotGn/RW96qZlCWcg=="
+secured: "mkj5+PQ5hx9/YgJ3YybcYRMNFFA8IfVoitILxKXWa2Inyp1rGPtczS/2p5zXpWk6Q/hopSknYzGtGf1soF03L0iomObXlxC3L5OAkSJfbKN3WWL2ANUQblXImvFkOfTt4i0o6gw//8mkGzmDtCi6E0UkEP/b0hHXNFIreE68yVkTx3dl/tXkNKfxC5p0OW4ef5DbRQf5rIN/Yq5kROGMf6K4KdRYL+CkiysQa+3CkWjXQZQNYozIkuxKlZLE5gr89nsuMOGv/cub/hkVC5wVQxS/hMq1iJoS6NT7ZBqwteWvIW/X/CV3MEcIeHDiQB0WgoTz9hcKNNy4qd11Rz73BwyMXOhzxOjEFI6nQXO1JLU=;ESHkieFpFFDc+EFHHRlrbQ=="
 ---
 

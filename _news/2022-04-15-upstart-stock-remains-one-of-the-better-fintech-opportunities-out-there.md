@@ -33,22 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands"
-    excerpt: "This cutting-edge FinTech app is using A.I. and machine learning to efficiently aggregate data to create potential trades. As a result, investors of this technology may benefit from the potentially pr"
-    publishedDateTime: 2022-04-10T07:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/r26559078/new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26559078"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26559078"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
     publishedDateTime: 2022-04-11T08:05:00Z

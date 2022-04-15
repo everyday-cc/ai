@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Week brings together the world AI community"
+    excerpt: "The jam-packed week also includes panels on AI career paths for kids, AI for competitive advantage and the ethics of AI; a career and talent mixer connecting AI career seekers with top companies; and a full-day academic symposium bringing together the ..."
+    publishedDateTime: 2022-04-14T18:11:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Even Bond would have to share his secrets in the world of AI spying"
     excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
     publishedDateTime: 2022-04-14T04:00:00Z

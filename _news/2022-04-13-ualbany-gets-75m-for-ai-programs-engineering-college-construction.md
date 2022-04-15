@@ -38,12 +38,19 @@ related:
   - title: "UAlbany gets $75 million from state budget for artificial intelligence initiative"
     excerpt: "ALBANY - The University at Albany's $200 million artificial intelligence initiative is taking off, funded with $75 million from the state's new $220 billion budget. UAlbany President Havidán Rodríguez said the money for what UAlbany calls its Albany AI Supercomputing Initiative,"
     publishedDateTime: 2022-04-12T14:30:00Z
-    webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-HP-latest-news"
+    webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-HP-business-package"
+    ampWebUrl: "https://www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
     type: article
     provider:
       name: Times Union
       domain: timesunion.com
-    quality: 12
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/01/13/22287042/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "XzmMAtUsAwhDU/kcXnXIAwIz3nss9vhB2v2RaK6doLTtJOxCIaIGPIiYMGxZkRNt4KBOXsR/wYhic8pbrMM0e8HF8Z1CeckDkM4XCSjvsJq/w+vgjLO9ZRqHkxdYcf+TccqYSkqrvMkTTaRUsj+WS80An5hljTqAlAq4NAT6hFnnOaaS1mo/EwLNHTkUt7myWjcDHzX4/Mg0N3RO1wBhQWsRxL88N0iY4Qwtzd6D7rzz0Dwgq0mQ5AuoosuhE60H+rGP0YxBr/sXQ+agLnYJErabimUWQ7mMfLbpXexiiPckAo9JvlcSFBaClh5hxttN+PmTEVHve7K9HbpXQYFj/7gGoNBOMoS+1rTQ65QZpfGuur38YahP4Yr1D57yp+HZoZYWq+f6ktKz6tzvw6sLKuxbRwCPrpueNx4h2rhSfUtp3ja5MCHVoBugJG2wIpJtQdkCjZFJNnTtPkdAf0k/ZSuqu+CTX6WnmM045Hlfu6p8K0l0ooUGwqmVpBSb/Tagb5eKB7bvShkNgYfSo4Tihg==;pvv9xiRdPWIGbHZJhyJwKA=="
 ---
