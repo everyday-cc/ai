@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market to exceed USD 66,811.97 million by 2027 says, The Insight Partners"
+    excerpt: "According to The Insight Partners latest study on “Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 – COVID-19 Impact and"
+    publishedDateTime: 2022-04-15T11:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-diagnosis-market-to-exceed-usd-66811-97-million-by-2027-says-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4e73b4174c4a302cc87ea8aea53515c63421d5b1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Medical Robots Market Size worth USD 31.8 billion by 2031| CAGR: 16.2%: Growth Plus Reports"
     excerpt: "The Global Medical Robots Market is expected to clock US$ ~31.8 billion by 2031 owing to technological advancements in robotic systems, heightened adoption of surgical robots, growing demand for non-invasive/minimally invasive surgeries,"
     publishedDateTime: 2022-04-11T20:40:00Z

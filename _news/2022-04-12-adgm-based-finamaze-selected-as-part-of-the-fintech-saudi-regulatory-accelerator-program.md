@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/adgm-based-f
 webUrl: "https://www.zawya.com/en/press-release/companies-news/adgm-based-finamaze-selected-as-part-of-the-fintech-saudi-regulatory-accelerator-program-qg01c25q"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Orlando-based Cogent Bank is scouting the fintech sandbox for its next partnership"
-    excerpt: "Cogent Bancorp Inc. is steadily growing its fintech portfolio. Orlando-based Cogent Bank is investing in an artificial intelligence-powered mortgage advising company, Home Lending Pal Inc. in Orlando."
-    publishedDateTime: 2022-04-14T13:17:00Z
-    webUrl: "https://www.bizjournals.com/orlando/news/2022/04/14/cogent-bank-ai-mortgage-advisor.html"
+  - title: "RBI certifies fintech led 121 Finance as India’s first NBFC-Factor, after revised Registration of Factors Regulations (2022)"
+    excerpt: "Finance becomes India’s first fintech-led NBFC-Factor to receive the Certificate of Registration under Registration of Factors (Reserve Bank) Regulations, 2022. The NBFC-Factor addresses the most significant challenge most businesses suffer from,"
+    publishedDateTime: 2022-04-15T09:00:00Z
+    webUrl: "https://theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/?amp"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
-  - title: "RBI certifies fintech led 121 Finance as India's first NBFC-Factor, after revised Registration of Factors Regulations (2022)"
-    excerpt: "Finance becomes India first fintech-led NBFC-Factor to receive the Certificate of Registration under Registration of Factors Reserve Bank Regulations 2"
-    publishedDateTime: 2022-04-15T09:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272483815/rbi-certifies-fintech-led-121-finance-as-india-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 12
+      name: ThePrint
+      domain: theprint.in
+    quality: 32
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://static.theprint.in/wp-content/uploads/2022/04/Dr_Ravi_Modani_Founder_and_CEO_121_Finance2022041507520720220415084026.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Abu Dhabi’s ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme"
-    excerpt: "Saudi Arabia's fintech market is expected to reach transaction values of more than $33 billion by 2026 and the market is expected to grow annually by 15 percent Abu Dhabi's ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme Abu Dhabi,"
-    publishedDateTime: 2022-04-12T08:46:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/banking-finance/abu-dhabis-adgm-based-finamaze-set-to-enter-saudi-arabia-as-part-of-a-fintech-accelerator-programme"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 0
 
 secured: "Psn00rYcWvfwwtCH2qSlv/VNuHGFx7X+putQaRmJn+Ulnqnkb5x4sJtuQxOaSCG3vpnHfRBy2eU1bV9G9AIieOps+D/o9LaeLObsEI3mx6JHA5uR/yUILQ/GlpPxcp+EmA1Rz2cERruH13CzQ0tC5TpS9wl4cJU1TMUyvqoPPrq3n9YlUitcjt4+NTQWyCZ5tRJArKXaHrldIlhbCMJB5dgaCf1Rb7xxg81asUoHg8gWucJ66V7/yB6uBsA/PA0GrPDb9ojWsGbq3vLyLF7wxdD+f90zfB5Ccl9U0UyV88aslcwY6fh9cBkUELKGp2/R8n9HHwo1qArXqb6QNKNkCTadlmMJS5qxKn3dX3KKdPGXGLWz0vfffnFreo5ouAgA7o25BfhIf/efGhYzsSXLFNf7Zae15+W25zyCf2Bf/XbTWCjUb+w+sghVE10kbUIwoTe8/bJmkysEbHt85r6lDSFmpOYNu4bv78zYTY2Cz0/XW3iWqJemBgjG7W//3nGlK0AEFKGX7NX9IRDfDkurJQ==;maNvI4ZhRkBL5+RLXZm/2A=="
 ---

@@ -2,6 +2,57 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-02-26-c3ai-inc-ai-flat-as-market-gains-what-you-should-know.md",
+      "title": "C3.ai, Inc. (AI) Flat As Market Gains: What You Should Know",
+      "excerpt": "C3.ai, Inc. (AI) closed at $21.61 in the latest trading session, marking no change from the prior day. This change lagged the S&P 500's daily gain of 2.24%. Meanwhile, the Dow gained 2.51%, and the Nasdaq,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/420748",
+      "originalUrl": "https://www.entrepreneur.com/article/420748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-420748.jpeg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-25T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-26-exclusive-uber-revamps-driver-pay-algorithm-in-large-us-pilot-to-attract-drivers.md",
       "title": "EXCLUSIVE Uber revamps driver pay algorithm in large U.S. pilot to attract drivers",
       "excerpt": "Uber Technologies Inc is testing a new driver earnings algorithm in 24 U.S. cities that allows drivers to see pay and destinations before accepting a trip and raises the incentives for drivers to take short rides in an effort to attract more drivers.",
@@ -1130,49 +1181,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-kuka-robotics-builds-leadership-team-with-two-key-position-appointments.md",
-      "title": "KUKA Robotics Builds Leadership Team With Two Key Position Appointments",
-      "excerpt": "KUKA Robotics has named Casey DiBattista and Vancho Naumovski to key leadership positions within the company, leveraging decades of experience and expertise to drive organizational growth and lead the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/february-2022/kuka-robotics-leadership-team-appointments? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/february-2022/kuka-robotics-leadership-team-appointments? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/dcecd334-ee02-4f74-8816-01d7acf5ec70/Kuka-news-feb-24-2022.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

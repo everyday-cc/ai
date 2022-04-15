@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
     excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-    publishedDateTime: 2022-04-14T04:01:00Z
-    webUrl: "https://www.wate.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+    publishedDateTime: 2022-04-14T06:01:00Z
+    webUrl: "https://www.abc4.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
     type: article
     provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
+      name: abc4.com
+      domain: abc4.com
     quality: 41
     images:
-      - url: "https://i0.wp.com/www.wate.com/wp-content/uploads/sites/42/2022/04/The-shops-at-Turkey-Creek.jpg?w=2000&#038;ssl=1"
-        width: 1920
-        height: 1080
+      - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
+        width: 2700
+        height: 1845
         isCached: true
 
 secured: "/T7qFhfHNvFOFH1MKMYxYsq0Gplag/XxLk+0/Po+GJkIPsQJ/kbvD+PVIuVr+G7UUl0L8HDMJzw2QcUZxExkhOD01QpWxWHAghEdgSnCwWiACgarH512Mzen4UzEeOW0pIofqS8R0eIr+kuU3cVk7lUdDXea+p2aDyqfLS57SwuUdvSrmiAUMFa2Um/ZSnJa53LmpiIqVgWXPaGAPnNA6JUjEmD1BwotNukSQ+SFz/ORqvIo+Srx1LZLxFCxI8BsAiMg9HnvIz6xmyQJvSYUqcHCatTlVhrW+9YWcuW4JKbVahyxigSlpCpYAGlaFnAME4nBU22MM+BE6y1pG+HPvxPSQOBVOEWCvFLiA8QWGReAbz4Lxb4WkicWtflbQqgdmqi4+LHKhmMFIp/0EfW7bintCAlxN3u91pN1Btc+p3XuL7NjmQa18kQ9Ihyhyz30A2Vrxm7rmjknxX+wmthOLJ3aPTH9rY0ZtPzA1QmHNBZstVI9tTcpiihCC4iIGQblWR2Z8OrftyvDdRVhGjijbA==;QjG+6bUPJsF2wmqFU397yw=="

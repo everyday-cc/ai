@@ -1,27 +1,29 @@
 ---
 category: news
-title: "RBI certifies fintech led 121 Finance as India's first NBFC-Factor, after revised Registration of Factors Regulations (2022)"
-excerpt: "Finance becomes India first fintech-led NBFC-Factor to receive the Certificate of Registration under Registration of Factors Reserve Bank Regulations 2"
-publishedDateTime: 2022-04-15T09:40:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272483815/rbi-certifies-fintech-led-121-finance-as-india-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022"
-webUrl: "https://www.bignewsnetwork.com/news/272483815/rbi-certifies-fintech-led-121-finance-as-india-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022"
+title: "RBI certifies fintech led 121 Finance as India’s first NBFC-Factor, after revised Registration of Factors Regulations (2022)"
+excerpt: "Finance becomes India’s first fintech-led NBFC-Factor to receive the Certificate of Registration under Registration of Factors (Reserve Bank) Regulations, 2022. The NBFC-Factor addresses the most significant challenge most businesses suffer from,"
+publishedDateTime: 2022-04-15T09:00:00Z
+originalUrl: "https://theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/"
+webUrl: "https://theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/"
+ampWebUrl: "https://theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/rbi-certifies-fintech-led-121-finance-as-indias-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022/917395/?amp"
 type: article
-quality: 12
-heat: -1
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://static.theprint.in/wp-content/uploads/2022/04/Dr_Ravi_Modani_Founder_and_CEO_121_Finance2022041507520720220415084026.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -39,25 +41,7 @@ related:
         width: 900
         height: 1350
         isCached: true
-  - title: "Orlando-based Cogent Bank is scouting the fintech sandbox for its next partnership"
-    excerpt: "Cogent Bancorp Inc. is steadily growing its fintech portfolio. Orlando-based Cogent Bank is investing in an artificial intelligence-powered mortgage advising company, Home Lending Pal Inc. in Orlando."
-    publishedDateTime: 2022-04-14T13:17:00Z
-    webUrl: "https://www.bizjournals.com/orlando/news/2022/04/14/cogent-bank-ai-mortgage-advisor.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
-  - title: "Abu Dhabi’s ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme"
-    excerpt: "Saudi Arabia's fintech market is expected to reach transaction values of more than $33 billion by 2026 and the market is expected to grow annually by 15 percent Abu Dhabi's ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme Abu Dhabi,"
-    publishedDateTime: 2022-04-12T08:46:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/banking-finance/abu-dhabis-adgm-based-finamaze-set-to-enter-saudi-arabia-as-part-of-a-fintech-accelerator-programme"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 0
 
-secured: "lRTvVpwII6z4UDuxxmGSx3rFjiB8KA5xMdEiaX2SifaNyYmkmCBY0DeVonaW9YLTHZpr4IEQr93+kldHyjdpC1QnZGQRT1Vozr003VSvwUSanfJ9QhHb/FEBy//T+lnZakTfM5IcmAPkotkmjhJo0yxcINldN3clpjhIJrWu7CQ4jVmfb2cUnAMoeZC7zQcZUkiOtJmFNN3QsBOLl2i8TByzyv/h6JR+bDLh4K1u0Lfwp9ZLgidWu53j8SCYvW2y2YpRlzJfF8xJabLlXFhZf8b+Quo2yGOu7SAckaycVzyx/2PMOa+F3I4fnJSDAmdV89wqX9PQV/YIrFRlPW8J/nIeAons8rICcGMgdhKmkc8=;ooz4ZqQ5FgEvKcpKG7Gsgw=="
+secured: "r1vEAaRX1/VPxdLgxDdsSD3fpl3AmWN5p8+5c3DhtRnZc3I+9hlXLedXZJrPwWEKwvhY/6d0iO1lglGm/H+mJKGqbxtKCRk6FLviJIimJk1rg1mdfHaVrvJEfKJ68VBzRJQ7F3x5DWxPBIMTTZwoJQEEUIoH1h+mv8ymU8ZqrSWWEddODaNdfH/WSomILMzay2gyYSJPOl69Q8fd096kzwWxNX2PQBaOZEIknotVv/bphUqn51iT5IA9UFmXVBVJ969VFLCObkFbO5/SGbEhGe2LzrzLTZB29eoUm/Kg3ZL9RcwEYftxASI8qWqe4+MMNh1BpTXNMHzvtob2RsbeJ/eo39Fx8+NuiEStd2gp3Xk=;J7jpfNLk8zHvUS3JC4yTLw=="
 ---
 

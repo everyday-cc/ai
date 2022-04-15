@@ -30,13 +30,13 @@ related:
   - title: "House panels probe government use of facial recognition software following security concerns"
     excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
     publishedDateTime: 2022-04-14T19:47:00Z
-    webUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    ampWebUrl: "https://www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 65
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*"
@@ -74,6 +74,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "ID.me and Facial Recognition Software Probed by Lawmakers"
+    excerpt: "Lawmakers have launched an investigation into ID.me, the identity verification contractor, and its use of facial recognition."
+    publishedDateTime: 2022-04-15T10:25:00Z
+    webUrl: "https://www.maketecheasier.com/id-me-facial-recognition-lawmakers/"
+    ampWebUrl: "https://www.maketecheasier.com/id-me-facial-recognition-lawmakers/?amp"
+    cdnAmpWebUrl: "https://www-maketecheasier-com.cdn.ampproject.org/c/s/www.maketecheasier.com/id-me-facial-recognition-lawmakers/?amp"
+    type: article
+    provider:
+      name: maketecheasier.com
+      domain: maketecheasier.com
+    quality: 59
+    images:
+      - url: "https://www.maketecheasier.com/assets/uploads/2022/04/Lawmakers-ID-me-Facial-Recognition-Featured.jpg"
+        width: 1350
+        height: 675
         isCached: true
   - title: "House lawmakers investigating government use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
@@ -115,6 +131,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "WFKs6pAry34yHhGHM1HhC6GMxWedp4tbQsJ4kfm6Bx6bEDkDR5Jzsv61gzJcm6y9VwrD9ShshftJg0iIeILqHKOIx00VsBgHtQbHd7cza79naQlb4z28yAJnxWRUa+IwK2quw6SWV5fORREZQuQ17jXJ4QwNuRK7bx6ass9OXUTtY32I+TYGnGgW4wRWipO70/KV0RlsoV48y7qb9mWUOP023yMcn8F06lKyVfgmlmFCdm/35JAlkKu2Br2xqSu0aZa8R3q9+5MKBPi4BPwNQFJ9AjulDnRhPUuOs8G6R+dGqRnEwH0DiqIisSQcbAE65h50LbRheh/LB1lR7b+jzvGoJyStkCq3dBmj4+5xaJo=;9ZSXivvGxEZgItvcDbJhWQ=="
+secured: "Kj1SE4PO57tUa5OBSVF5Jj0/t/nZ/t7Y3zsK0MIs476v8oTk9TetM/PB/QtXvk6Hp40i8tdCca9C8coLOTFuYPbBKbCXo9oQAsddM6FtNMmOqBYFEHj1bbQGvPvlVTTRq8jBAcJDk3R0SRw8QV4acVSs6KWu+iVnvjZ9yHMMEB3YuAPC+5EaHPzJVfxsNBv4jMjLrqC0D7BFCfBwVbPil0KL+5dREtzLKMXKSIAmbwXXIAVEpxowULTkqgJ623zon/U3KZ/pdN3gfANvJVzxNIox5wKUoNSp+a9xjGG4/eAompoYJwSoxsxeGD+IV/BZfUP3Hwy/Sxg+Us+Efi+2RtFWk0TEKa56fUmnHaX7hvtA5zkCcOHjMrYh5YLTObmOe+nXMqHRIUtJs5pYbo3R8+Ddq+F8iCzhUB0XRffy5AwiX3hS+TeE0fnfqx0x+IjxdruXl4ge4DYZq0gA22tvC923dwy0tGRbIwYRz+qa5s0uQXUihF3/Q7BKq0Kk4jjPTr0SArwzmEAouLlrHqI6HQ==;rWGRHzSyXdJKMgFBSz2cmw=="
 ---
 

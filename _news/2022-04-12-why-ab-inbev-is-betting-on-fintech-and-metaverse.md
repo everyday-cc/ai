@@ -43,6 +43,20 @@ related:
         width: 289
         height: 305
         isCached: true
+  - title: "15/04 – Weekly Fintech Recap"
+    excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
+    publishedDateTime: 2022-04-15T11:54:00Z
+    webUrl: "https://financialit.net/news/payments/1504-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_8.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "aB120D48xcLuheUrzea+VnIrGAUlz3bixWnyVibGYggLGp+7q5kTyAl4lRAkhglOVDtYp/cK3UCPADjIFVHo1jIz/cGokMgb54rgScGsKcQHwOE9U5YMAvn8LyuJwPJaQ21wYhtnBlbqsMamle1BKdq7KAlfe/oYGF26c3Eglln0ApYc5ZsdD4BeX/Rcm1RoDkR59ueyTbMbCAnjzAax3cKrz+urKidWg53GgalDDntD8SU2JVCuXYJuC8UllMAQOBwj+mbSt5KqECJRDJ8CiGiK9EFSpws8ZLVxvtNJMN53MKCT/A1MQIf/C5JPZ5+qZn8NPFartMYJ54L7npBHYyt8fuvSjIWr+SP9U66QXmTKPoPXN5gEhT840oqOlssocTJpJ9s1JP4Swya7qEqBfqkxoQ32Bl7NqbNfDonMktqzMcmPwYjcUWXrBw92llvuTNPr6IziRl6KJr+B65cEhqOjgH24Xygb3Ko/Can5N1Q45SSpMWnNMojH3effJfMuBzJYRoJ1yjhzigQDo9yNHA==;zolZ/OP/gevk44EJdAmqgw=="
 ---

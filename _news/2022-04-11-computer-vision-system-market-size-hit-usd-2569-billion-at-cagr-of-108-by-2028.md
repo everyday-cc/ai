@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market to exceed USD 66,811.97 million by 2027 says, The Insight Partners"
+    excerpt: "According to The Insight Partners latest study on “Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 – COVID-19 Impact and"
+    publishedDateTime: 2022-04-15T11:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-diagnosis-market-to-exceed-usd-66811-97-million-by-2027-says-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4e73b4174c4a302cc87ea8aea53515c63421d5b1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market is expected to reach the value of 4.32 billion USD by the end of 2027."
     excerpt: "As per our research report in 2021, the Artificial Intelligence in Aviation Market size was estimated to be worth 1.25 billion dollars in 2021, and it is"
     publishedDateTime: 2022-04-11T04:24:00Z

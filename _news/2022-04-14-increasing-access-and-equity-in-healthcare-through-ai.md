@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-he
 webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
 type: article
 quality: 54
-heat: 85
+heat: 84
 published: true
 
 provider:

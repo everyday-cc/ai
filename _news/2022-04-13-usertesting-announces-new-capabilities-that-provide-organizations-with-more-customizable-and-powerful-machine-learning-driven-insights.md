@@ -28,6 +28,15 @@ related:
       name: KXAN
       domain: kxan.com
     quality: 13
+  - title: "UserTesting Announces New Capabilities that Provide Organizations with More Customizable and Powerful Machine Learning-Driven Insights"
+    excerpt: "UserTesting (NYSE: USER), a leader in video-based human insight, today announced new features as part of its quarterly product release to help companies gather human insights specifically tailored to how their business operates."
+    publishedDateTime: 2022-04-15T10:57:00Z
+    webUrl: "https://itnewsonline.com/BusinessWire/UserTesting-Announces-New-Capabilities-that-Provide-Organizations-with-More-Customizable-and-Powerful-Machine-Learning-Driven-Insights/28327"
+    type: article
+    provider:
+      name: It News Online
+      domain: itnewsonline.com
+    quality: 0
 
 secured: "QJWJMVOCcCAOvea9kxetgFu8VW44dxriKvx9vsw+ghdb4rmHrhIeYZbVcGi/CaMqz5PJeQSZxKRHDWcol6TtirhtyTEjmw+5t6wHNNHrgiqhpyFhnlGXCsT7VNk7mkUNocwTxHRkxVo6wT1Rxl+Cw+GJ+hg6+97ZFjPsDsKpSZCscv2MX3Cy8mBzMmgoWrAAxsm8yjvhjcQtHGUfi3BMbhFdV9YC//VYxYk0Rydhu8Q0x2JJxg7ECycnAMzEvDmpJmctMAsR9hNblysJpi9OVnX271pEKFSyKaF8V+/bnoZce3EMCOGBebavbV8WRwmqhGU9lb6KucnZK3ixSbCZIReQNwFqcFBDBKg6c4+YD+A=;rp7c6PDm+vY5qVoOMUuy2Q=="
 ---

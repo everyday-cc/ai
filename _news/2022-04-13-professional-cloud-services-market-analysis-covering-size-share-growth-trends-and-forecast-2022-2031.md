@@ -155,6 +155,20 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 16
+  - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
+    excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
+    publishedDateTime: 2022-04-15T10:34:00Z
+    webUrl: "https://www.fmiblog.com/2022/04/15/soc-as-a-service-market-industry-research-segmentation-key-players-analysis-and-forecast-to-2031/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 10
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2022/04/FMI-3.jpg"
+        width: 1008
+        height: 504
+        isCached: true
   - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
     excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
     publishedDateTime: 2022-04-14T06:14:00Z
