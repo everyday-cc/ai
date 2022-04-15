@@ -3,14 +3,9 @@ category: news
 title: "Dell, Nvidia, AMD to power new Ohio AI compute cluster"
 excerpt: "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator"
 publishedDateTime: 2022-04-13T13:30:00Z
-originalUrl: "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
-webUrl: "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
-ampWebUrl: "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
-cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
+originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
+webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
 type: article
-quality: 59
-heat: 69
-published: false
 
 provider:
   name: theregister
@@ -20,28 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg"
-    width: 1200
-    height: 600
-    isCached: true
-
-related:
-  - title: "MBX to Fast-Track Next-Gen Medical AI Platforms with NVIDIA"
-    excerpt: "ANAHEIM, Calif., April 12, 2022 /PRNewswire/ -- MD&M West Booth #1259 -- MBX Systems, a specialized hardware designer and integrator, announced today that it is working with the NVIDIA Clara Holoscan MGX AI computing platform to streamline the development ..."
-    publishedDateTime: 2022-04-12T14:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mbx-to-fast-track-next-gen-medical-ai-platforms-with-nvidia/article_f9c9e63d-c108-5041-8ddc-c3de1d882079.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-
-secured: "DoTT/gogx80teOiIkQKC9uLvh11kw9U/SYT3nhtKwGyjX9H6msQr9TeOWBbsRrwBxFR3qiz7Ab7gAVFiP1O5dBWWnWGj5ZbMgu8rM16iR+z2SvcyjoWnW9j6PhEoIO3m0NlLWL/LjtsELdATANVG9+MXI2neTdEQ8f7CF7OCQ3LH4kq4GcsDYR4tYg0mOGwLFrLWVGMXbShUjcJHfDdnImIPUJWfZmzJ1GRbFakXf8LmkYwOgVuKkcMJX2MsPJ3OhIo3cATBXAOK/ix6i3VRcpVtA3ZDS1eUUiQgATboJAmxgezZJvZJWRlRdAHSMapqDwlMwnM4Z4Hy77OgkUWUaP7Q8wX11v7erv+6I5DZ84k=;V4jy4h3leHhdAoEatLLU6A=="
+secured: "B8LgBZJKsnTTqJqnZ7w9s6cVhgYDWeBuHUTVAaCOfcpb6bUzBqNmvGxP0gabMpLNIY2vCN2zkjhuM8ZK6jbO8AJHTIFBFD+B+Gg9aORdjtR9xkBKX9U4gTsUleeU8BwjgcxWtSJcuboX+E24v3So36vKYO6moXlbejhxoiKuU+Z8dGyAM3R5JYZ3JBQlWPexYJ4v41mfgEJzUfHICv114q3M9dN9j8u6Ajl4oc+YAV5cOfwFleq8bvhVPKX3jersuSegSDoBf29MWVyGPUoen1PBhwXq61THvILtg+PlnM9aB8cWRIlqS/oiaxnX6uN84AHbP/Ew4Rmctg64+NUbDZ80KFS3afRHgl5pxn7HZuJ9kMA9wWHUy6bIN1hE6HDVimeStJus2wTmdl4uBFyXl4jtOKOvOSa/sUGNTFiT5EIkbAzUTJwuAwagE4Q9u/psYu0lc7Y3fHBjI8Ls1ac13qjxOCWVHrP46WhUPvH7loG2sJGLTXR1J2Qn2o4xhhQkYm+BUuo9SZvauQ1UrB9Y4w==;OFklzf7b9pkHoxcc7PR/vw=="
 ---
 

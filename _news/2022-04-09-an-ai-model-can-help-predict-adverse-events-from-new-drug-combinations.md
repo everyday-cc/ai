@@ -2,19 +2,19 @@
 category: news
 title: "An AI model can help predict adverse events from new drug combinations"
 excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
-publishedDateTime: 2022-04-08T19:46:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/949288"
-webUrl: "https://www.eurekalert.org/news-releases/949288"
+publishedDateTime: 2022-04-08T19:45:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
+webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "7ibmCg7nsoyFaCLxx8YJ9I/a8wmt+JiL0Hcmt5BA8Ak60vioC9GtKtR2pLd5EdVljzypS2JE3OojdZZGXQhPQHhc9FA3NS1f2/WmMyR0w9BrvR/mHCVNHxVyV7fMbn0YJ487Yx2KhGJDR4zQs3IyJDbNHd981ZvDXLIM+JFseSpwX+dzFsW43j2Ifgbz/FY5ESVke97r3OAm48a7KT36PtnM7tSlkJmvkLFsCm2efnhZE/7kFigaA6qFz2pCfZRrifwyzi0uwlbb4WDiRth2wCL45Q6KGMcFTYIh8tvd8uSkqM7A9NoBUwLBOo0spRRJd+zqW1PD48DTd9nkwHui0k4Z52vNuvBJ1uH53RAh8gM=;8G6dnwMlj8TfGVjPDzsrbA=="
+secured: "tPgeaDSl5HmlFlSqzHfMlH6u5b3eJMKsJjv+kKZFNHlKQjC+9vg/H1AFtTB9yujL/dcVNOa1lBc4JmQZ2HKwmoXxXPNten+nMQML7x7CeOE7Zx9FwJqQeoVN+E5s0y5MYDdcXzx15i93Ix1TrO7Osqh76ys6iMTus+FJcKdp/WuyvKvUQy2Z69A/4AdWlc+BNQWQQPetkLZ7PK5dttSYfU6hGhyxye4EUEUKssk7eCPk22I3FtNzRSywnyj2szfYabHPX88C3IEnglqDOvnKOaSNPCLV55a+DcvGiCg9k1Xxqa9A5Ya5n/32aZA2h51+CqXmAz0azCQJu6buZfaattt68XOYzty7ddAQ315ILn4t8bKvxKw3jmxUwTUC31PyyTl+vvk8Fl8i3TRzbg0GUyTLRU8RW780H5Ldh05L8K2T5Xc+z3RjC19dXldgoJ83dKSWHZSgM6y9EFeZbO7OV544TmXhBldpThHsdY0zpl69XYxl4Xvy69qMm+p790YMxLrzdOKAO3IfIlnWEleQPg==;ZWEZ365CdR1iPgxr6mfplw=="
 ---
 
