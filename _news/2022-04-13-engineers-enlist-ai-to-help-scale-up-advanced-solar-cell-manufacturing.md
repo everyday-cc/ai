@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Engineers enlist AI to help scale up advanced solar cell manufacturing"
+    excerpt: "Perovskite materials could potentially replace silicon to make solar cells that are far thinner, lighter, and cheaper. But turning these materials into a product that can be manufactured competitively has been a long struggle."
+    publishedDateTime: 2022-04-15T20:33:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220415135408.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial Intelligence in Manufacturing Market"
     excerpt: "Global Artificial Intelligence in Manufacturing Market has been valued at US$ 1.5 Billion in 2021 and it is expected to reach the high market capital of US$ 17.2 Billion by 2027."
     publishedDateTime: 2022-04-12T04:25:00Z
@@ -40,15 +49,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Engineers enlist AI to help scale up advanced solar cell manufacturing"
-    excerpt: "Perovskite materials could potentially replace silicon to make solar cells that are far thinner, lighter, and cheaper. But turning these materials into a product that can be manufactured competitively has been a long struggle."
-    publishedDateTime: 2022-04-15T17:57:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949896"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
 
 secured: "lSk7yRBbHu9YuLmD6sATpQBOcr7J41/Vi3gsqgQL5RYpZybZgwsN3pun6NSgsT5CSCyebuje7Q4f9XG0lS+dOarwJTJBKooAJXxlBKSuBB0E9ZNdWdXH8ce2xcgtc0D3T+D39QaD5H317Uj53e6olNeFnJjDi8xfKVr0xpPR2DqzeOwkAHMUolh2h/fyuLDe/l06mjLu1QTG9/bCGDvTbiXn2rk3VXhvix+aTzQX1leMBzDMjzw25l52k1sbYlxGEh4zvkwPKJXKXFx7XusTBdB0I+0poW2eYKHR3/y5MtSBaLXLEYFweNEdlZoGyNpSN8Ms41Lc2VAkhP2fuAw6ElAjHO2ml+8NpCjb/ms5tQc=;/UQ/7me/kcQYJgcASlezAA=="
 ---

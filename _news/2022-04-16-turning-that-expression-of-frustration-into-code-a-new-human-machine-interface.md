@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T19:54:00Z
 originalUrl: "https://www.biometricupdate.com/202204/turning-that-expression-of-frustration-into-code-a-new-human-machine-interface"
 webUrl: "https://www.biometricupdate.com/202204/turning-that-expression-of-frustration-into-code-a-new-human-machine-interface"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Biometric Companies

@@ -67,20 +67,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market is expected to reach the value of 4.32 billion USD by the end of 2027."
-    excerpt: "As per our research report in 2021, the Artificial Intelligence in Aviation Market size was estimated to be worth 1.25 billion dollars in 2021, and it is"
-    publishedDateTime: 2022-04-11T04:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-aviation-market-is-expected-to-reach-the-value-of-4-32-billion-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6bdcdf6c2a9953227a2438f7096c3ec8d898f57f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Medical Robots Market Size worth USD 31.8 billion by 2031| CAGR: 16.2%: Growth Plus Reports"
     excerpt: "The Global Medical Robots Market is expected to clock US$ ~31.8 billion by 2031 owing to technological advancements in robotic systems, heightened adoption of surgical robots, growing demand for non-invasive/minimally invasive surgeries,"
     publishedDateTime: 2022-04-11T20:40:00Z

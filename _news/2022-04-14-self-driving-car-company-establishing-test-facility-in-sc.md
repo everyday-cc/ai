@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday."
-publishedDateTime: 2022-04-14T00:03:00Z
-originalUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
-webUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
+excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
+publishedDateTime: 2022-04-13T20:16:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Post and Courier
-  domain: postandcourier.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/aa/3aa16c2d-1403-57c3-8e8f-df9d49dd8747/5f4e9e69c476a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
-    width: 800
-    height: 420
-    isCached: true
 
 related:
   - title: "Self-driving car maker Argo AI plans test facility in South Carolina"
@@ -88,6 +84,6 @@ related:
         height: 527
         isCached: true
 
-secured: "JhGk7OCLd5UYJFRQ/o+ItTcDluqlc6mewC2ypEq0ivxfl4NHZMtgZd3dS4SzjOfK8Vd/OzRnwT70LElJ3aJPywD3ZHvmhuLYb2p/Y4lY4cgGMvMDwJDZKk43E+886osl7XiPR8XYEzwvWG7xfU3e+vg0zqkVAbDDVD4OFutoXWDCoKZTVy3xq295MtlLIrloPZIVpDm7FGKiF/DlNagupcYA1wvxRS3ZQCtSI2NUb3Qiv0fGwFeDL9WZaivrga2ewPX20F8UI5/5zbeEL99G6omAbv5kV6/2sw/bhRhfNbkxl5PoTZNEU0Quji6HiMJGzvvXcrByQwOFLJmfC3ScnWpDn3cj/jT8cX9dU9sHJ2t/7bAPh1KnOyl1O5W+3DmrsmjJQjSpIcJS6mw0HEtOaxxfhYRunjeeY4UI3UY+BDuXcyDMwMQKlMMHMB8DmKi51CixnOcBgbLsgzj+qhTmejWK6hFDUwgb9jTGHpphrOghjT9QWeXhSBQ0tg5zCohtEcj1btNH5PXdwwFl4LYiEg==;bTdQqtY9PXb5tl5HuztG3w=="
+secured: "2vg+eyOQq05ANogwUBj7ylv4eYyTweT7X/xphI8NApxq1kN0dPhbJWmthcFnkfdAot8N0drB/4aYI+rY58BEJbMFSIcBiiR26+CeWtPsdbhkIPRMjaI1hUh8WuFr1nv5e2zv7RSbfXeDWoNTWulUNfWL7rtXLywtAkNNyUzyW47jJb6d3iG1QW3r/DDcxTSbylqjJBBmT4mjQI91He3AqR3MHEUHVbs7MCmrzIgan2yRrgM3jOz8Ie3K6sIqx7OBsr7DnudArY928FrLiReFhIkRop2EtcDVzXE4xcoY6n5AZCZ2CLdR7/18XULeccsswf4N5n6PN8Ds824cbydcPNwUC10yUYSv0Suwz+a8Wr0=;1REA9vWy9biQvtxVYDMANQ=="
 ---
 

@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Developing countries being left behind in AI race"
-    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
-    publishedDateTime: 2022-04-14T08:39:00Z
-    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
+  - title: "AI And ML Think Green"
+    excerpt: "One powerful subset of AI is machine learning (ML), which involves not predefined instructions and fixed algorithms but learned patterns over artificial neural networks. Developers have used ML to ..."
+    publishedDateTime: 2022-04-13T13:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
-        width: 600
-        height: 480
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 848
         isCached: true
+  - title: "Unlocking the Business Value of AI and ML"
+    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
+    publishedDateTime: 2022-04-13T13:22:00Z
+    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
 
 secured: "dxZP0VH1CmkFr0a+CBXR2SXJtIRYFd9VaSSW3WZZBWGtrSfzZl3n5+qGImBvFfAShURxt213E7l8s137HSN/v9T30VTUU4iNxTrY2c4m0wCrNhq/fVnFVCrqpWxGfsX04mVsYtNsqlqi+FGrRagQbsSZAwuKeZ9+Ic+YLyLPR9aNubee648zFRO7wCSHFj2wX3BP18EXE1r70AoJEcg6jOMNzljKKItlRtzhnl5vUajoyzYEgJ00AQMemjVXcEuwdOOLO/e2zy+MiUfG2B8uu2vTceZ590L806moOMJ+8NKOCg1RgiU/PqfEgLV09Ir8o5ANmcmvUJ8huieNwv915HP70vg3AahUX6dfKDXCcwTVjXu7+09bKIMdakHBZcCtMqYZDONF/edZmSESTZY6/sLBfXGRrcYOZ/prFw86EF4tIl5W4xzAwrYJyraB3ply7WT5tEHjITW9F977MwmWv2p8DIvpXpW5WPtjgpRiBYXDdeXLofL2V6gM+mYHzt7w+MgkTkqQmH0DgrVOoCY1NQ==;ducASGyIr6mu1Uw6LZ8tUg=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ukraine uses facial recognition software to identify dead Russian soldiers"
+    excerpt: "Ukrainian officials are using facial recognition software from the United States to identify captured or dead Russian soldiers since the Russian invasion began 50 days ago."
+    publishedDateTime: 2022-04-15T21:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 72
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/fce75ee/2147483647/strip/true/crop/3065x1735+86+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F60%2F3b%2F7679060f4b15876cb5378b1eee14%2Fbefunky-collage-95.jpg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "Ukrainians Use Drones, Facial-Recognition Software as They Investigate Alleged War Crimes"
     excerpt: "BUCHA, Ukraine—Searching for evidence in the killings of hundreds of people by Russian troops here, Ukrainian prosecutor Ruslan Kravchenko unlocked the double doors leading to a boiler room on the south side of town. The space had been used as an office ..."
     publishedDateTime: 2022-04-12T13:04:00Z

@@ -79,6 +79,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Cleantech startup’s AI, blockchain technology aim to improve Scotland’s water infrastructure"
+    excerpt: "Hypervine, the cleantech construction startup that uses artificial intelligence (AI) and blockchain technology to provide end-to-end site data for construction and mining firms, boosting efficiencies and enabling reductions in carbon emissions,"
+    publishedDateTime: 2022-04-15T19:18:00Z
+    webUrl: "https://www.mining.com/cleantech-startups-ai-blockchain-technology-aim-to-improve-scotlands-water-infrastructure/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 6
   - title: "FinTech trends that businesses should follow in 2022"
     excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
     publishedDateTime: 2022-04-11T08:05:00Z

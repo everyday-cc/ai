@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Driverless vehicles park themselves in rapidly expanding market"
-excerpt: "IHS Markit said the value of the autonomous car service market will exceed 1.3 trillion yuan by 2030, accounting for 60 percent of the nation's ride-hailing market that year. Li, the Baidu CEO, said China leads the world in self-driving technologies,"
-publishedDateTime: 2022-04-14T02:40:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
-webUrl: "https://global.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
+excerpt: "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ..."
+publishedDateTime: 2022-04-14T01:41:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
+webUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -18,7 +18,27 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
+    width: 718
+    height: 478
+    isCached: true
+
 related:
+  - title: "The Internet Can't Believe Cops Pulled Over A Driverless Car"
+    excerpt: "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ..."
+    publishedDateTime: 2022-04-12T19:19:00Z
+    webUrl: "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/the-internet-cant-believe-cops-pulled-over-a-driverless-car/l-intro-1649790585.jpg"
+        width: 1600
+        height: 902
+        isCached: true
   - title: "Video shows driverless car speed away from cops during traffic stop"
     excerpt: "A driverless car sped away from a bewildered San Francisco police officer during a traffic stop, new video footage shows. In a bizarre clip posted on April 1, police appear to stop a"
     publishedDateTime: 2022-04-11T15:14:00Z
@@ -51,7 +71,18 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
+    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
+    publishedDateTime: 2022-04-12T23:17:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 31
 
-secured: "wgEBKr3wxssEH0yDwRpRJy/bkxOz9Tyd83AbKHkOhufkEvqiM2vS5JZH72aqv5FVh831F905lbEoWGkHrv7RSQIk3iyMOZIkwDHmKaazwd+POYHlvMyxG999CeEPuJjvnYVU2BOgiN9/T4cGRJ3umciC/RCYZROByjApvi3G07VIlv4wm5vmmv+KPCMu9oZYWbWbSnmDWLBMACcwQKCLBzKecwgaUwyVwTxPrCZS37JA8bpHXXc1IgW5ZSUlR80v4wfMIqB+w6LQbHt8iMc1eCPtpgL0/YUlxV+Knx1uboCLHo3Qzz9VeLad8l53o4LhqLhNxmfnagC7QVwklTjO4NxzQ2o8F4AsMn2jVwUHcxvBkQo1wKZVIH3rEUhjwae8YGm+u/8w7OQN2ge1baCTj5W7IIsNkbsdlOwr5E6OJkEp1xVwREWs94Vv4eUUVzV6LlPwqoiEusdOuPolmOChD4lbuwdEItYzewQQUsYCt5aUlkYq7JH007JO/pBer6a/oWvqGwpSICPQOy8wzVECRg==;LXK3yp3OuZMkHuMEdroPhw=="
+secured: "P8Z96QN8fw/yBLh45+htaX6Ed0DKyzpWXEEP5PDQk1KyHldKMZKOJsS8fPElpMGUXJy8SwTwLZ79fKQvHdx8Yasldn7JjjJACtkk9IT59lvgkAvV9UJo3GQsqxAIR/dFD+eEypoNPKnWalZAYTCkGzbbLfIAvXA0Wc0ZNpPZvOxLFCWHSnxpQBWyjEcL+kSuZR4s/J8pHX/OLrpOoJtwj0tbyrVLx+uOMkIxuGh7/qUsZXNUTbwXM/9pebYU8TwXKK3cgGXcY16TGwobiZTXfvoxpYq+H/j7anlVSgk38xlY/1PuW/BRsErh0fN4/qGbjWZ9GOlidE1GmsrVZgwn5oi3NjdE2V9/Mp2jwhiel8s=;KwUMG2ns+GlTjdxrGZ5ElA=="
 ---
 

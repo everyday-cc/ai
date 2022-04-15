@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ukraine uses facial recognition software to identify dead Russian soldiers"
+    excerpt: "Ukrainian officials are using facial recognition software from the United States to identify captured or dead Russian soldiers since the Russian invasion began 50 days ago."
+    publishedDateTime: 2022-04-15T21:39:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 72
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/fce75ee/2147483647/strip/true/crop/3065x1735+86+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F60%2F3b%2F7679060f4b15876cb5378b1eee14%2Fbefunky-collage-95.jpg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "Ukraine Reportedly Using Facial Recognition to Send Photos of Dead Russian Soldiers to Their Mothers"
     excerpt: "Soldiers in Ukraine are using facial recognition software Clearview AI to identify dead Russian soldiers and send it to families in Russia."
     publishedDateTime: 2022-04-15T17:04:00Z

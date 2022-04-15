@@ -40,18 +40,18 @@ related:
         height: 1260
         isCached: true
   - title: "Can Customers Handle the Truth About Conversational AI Chatbots?"
-    excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Mayb"
-    publishedDateTime: 2022-04-15T16:20:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-5538c66a72ae730814bc1f6ad5c1f9fc"
+    excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Ma"
+    publishedDateTime: 2022-04-15T16:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/can-customers-handle-the-truth-about-conversational-ai-chatbots"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Mariopul-AFP-1K-03-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Paladin Teams Up With Ukrainian AI Chatbot, Legal Organizations to Help Those in Crisis"
     excerpt: "The new partnership seeks to connect attorneys around the world to Ukrainians scrambling for legal advice, and provide more streamlined access to legal services for those in need."

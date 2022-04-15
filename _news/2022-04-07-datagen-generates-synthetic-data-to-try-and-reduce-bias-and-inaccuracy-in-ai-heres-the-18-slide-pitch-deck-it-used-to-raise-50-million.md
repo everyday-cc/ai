@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.insider.com/624d6b41df9dd800183f2db3?width=1200&format=jpeg"

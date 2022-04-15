@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T11:08:00Z
 originalUrl: "https://www.adsadvance.co.uk/safely-navigating-the-path-to-autonomy-in-naval-operations.html"
 webUrl: "https://www.adsadvance.co.uk/safely-navigating-the-path-to-autonomy-in-naval-operations.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Advance

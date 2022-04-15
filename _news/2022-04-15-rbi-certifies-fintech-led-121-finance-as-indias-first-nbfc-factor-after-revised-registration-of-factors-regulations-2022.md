@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "RBI certifies fintech led 121 Finance as India's first NBFC-Factor, after revised Registration of Factors Regulations (2022)"
+    excerpt: "Finance becomes India's first fintech-led NBFC-Factor to receive the Certificate of Registration under Registration of Factors (Reserve Bank) Regulations, 2022. The NBFC-Factor addresses the most significant challenge most businesses suffer from,"
+    publishedDateTime: 2022-04-15T21:23:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220415/3931501.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "SJGliqHo20zcc/GKZOHCV7/shYiXeu7QS2+MqGAFevULP6T18rVdUM9MVrv3SmbwDUqC6JXGWhecHVCNTS/ydbX3TYq5UsWgZjQzExnUPzUT1y0lozEn+kpaLWYl+m/m4N9+EI99WTKlaq1Mb7xZPYIM45JX02JVKSB/U3QolSq9gQSE8zFb7uh8VcQEck5Rn+PG+NZfjLAUNTZ3214WrkoC8KhP4AfoVSyCUQ5EGmtp7blTph0iBG+l/NkPROv3LsnSRaN/0oOasBIB57f/Sp7Z23PHzuZqrjwzvt7CT5RuBYqGggDcPVS8HKKDxZIBqoC4ofkhEW3qAUE0Gy/v7wireEEUYbFnxhd3jzamOWE=;ULDoyNfYW/CnWbDanL2Opg=="
 ---
 

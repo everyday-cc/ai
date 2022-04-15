@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T19:49:00Z
 originalUrl: "https://www.phoenixnewtimes.com/news/heres-why-robots-are-butchering-this-2009-new-times-story-michael-brian-miller-glendale-double-murder-13437273"
 webUrl: "https://www.phoenixnewtimes.com/news/heres-why-robots-are-butchering-this-2009-new-times-story-michael-brian-miller-glendale-double-murder-13437273"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Phoenix New Times

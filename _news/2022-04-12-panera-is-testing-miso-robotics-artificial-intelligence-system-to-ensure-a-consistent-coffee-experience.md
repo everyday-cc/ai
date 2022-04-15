@@ -69,6 +69,20 @@ related:
         width: 1240
         height: 812
         isCached: true
+  - title: "Tech Tracker: Robots brewing Panera coffee and (more) drones delivering It’s Just Wings"
+    excerpt: "Tech Tracker rounds up what’s happening in the technology sector of the restaurant industry, including news from restaurants, vendors, digital platforms, and third-party delivery companies. Here’s a breakdown of what you need to know and why: The MisoRobotics fleet of robots keeps expanding: From Flippy the fry cook to Sippy the automated soft drink dispenser and Chippy the Chipotle tortilla chip robot."
+    publishedDateTime: 2022-04-15T19:35:00Z
+    webUrl: "https://www.nrn.com/technology/tech-tracker-robots-brewing-panera-coffee-and-more-drones-delivering-it-s-just-wings"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 31
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/Panera-Miso-Robotics.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Panera to Try Robots Serving Coffee"
     excerpt: "Panera Bread (NASDAQ:PNRA) is piloting Miso Robotics’ new automated coffee brewing system as it doubles down on its drink subscription program. It’s part of a broader shift across the restaurant industry toward automation as many eateries struggle"
     publishedDateTime: 2022-04-12T13:45:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/deep-bio-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/deep-bio-presents-research-results-of-ai-based-cancer-diagnosis-and-prognosis-at-the-aacr/article_0a1c437f-8385-58f2-8dc0-fe42e8d12fdd.html"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Who is funding AI research?"
-    excerpt: "AI is seeping into every aspect of daily life, and the kind of impact it has is unprecedented. A lot of the innovation and research and development work in AI (or any other field for that matter) happens at the leading labs of the world."
-    publishedDateTime: 2022-04-11T04:20:00Z
-    webUrl: "https://analyticsindiamag.com/who-is-funding-ai-research/"
+  - title: "GC Genome Presents AI-Based Liquid Biopsy at the American Association for Cancer Research (AACR) Annual Meeting 2022"
+    excerpt: "GC Genome, a leading company in Genomic Diagnostics, is pleased to announce that the company presented the deep learning algorithm that detects and classifies multi-cancer using cf-WGS (cell free DNA whole genome sequencing),"
+    publishedDateTime: 2022-04-15T07:28:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-technology-health-business-breast-cancer-cf3f7a9697a14f1ba8b91a00dfcc5115"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Funding_AIM.jpg"
-        width: 896
-        height: 504
-        isCached: true
-  - title: "In Kazakhstan, Artificial Intelligence and the Research Commercialization Behind It Is Saving Lives"
-    excerpt: "The World Bank-funded Fostering Productive Innovation Project in Kazakhstan introduced several innovative research and development commercialization programs to improve the quality and relevance of research and spur firm innovation."
-    publishedDateTime: 2022-04-14T00:00:00Z
-    webUrl: "https://www.worldbank.org/en/news/feature/2022/04/14/in-kazakhstan-artificial-intelligence-and-the-research-commercialization-behind-it-is-saving-lives"
-    type: article
-    provider:
-      name: World Bank
-      domain: worldbank.org
-    quality: 25
-    images:
-      - url: "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "xettgwMkxaNjxh8+pMv3/2NFt64bywaxZ8hBHOXaxRHO+PHH3XtW+XtRJSVsiSWVnZhi+edLUT5YV/hGopXYagvPbfkrMr9WpLa/eBO17RQ16fZ2v7orR4dLt2/cwneupYkzzTFA80gfePmKnCGaHAGQuPyOXPruGFpmE/Xj+AtZDNt1sgrUXhs5Ujpgk6oZcO8+MJyJB+8FFD5jperbO1tuepVzNsEVM/1cGSGDKBl/SMhjCqaAWNUM4PmIHWYs8E3nONG175i5gpcDQoreua+Uk833rUAHtKhYF2CHy6qOidC7VdaK8jTT/KH4AXRzICj2wVdvbOnbgJv8gWbYbFCt+3ixGyyid6MlO8NupkjK0xcdrXbS97BNJaDADcLFehBFw+ikDOSUJOamTZkjyVcCE8HQFti19AJfyhSBUaQp81MyWbb39NsfssKFYVDOph9nJgPIijDVQtxPZzJc/nDG1WCslvcQMvxdy8Ws51o3FqsgDLmeUpFnkyhwhZAhNJK4Ouu+322U2GG515Cm5Q==;qD/vtr6c1tRU9kLQDZptcQ=="

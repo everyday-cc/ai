@@ -67,6 +67,15 @@ related:
         width: 1138
         height: 773
         isCached: true
+  - title: "Audit: Lockport's bidding for facial recognition system was legal but not transparent"
+    excerpt: "SN Technologies was the only respondent. \"Seeking competition for the initial facial/object recognition software may have provided for a more transparent procurement process,\" the auditors wrote."
+    publishedDateTime: 2022-04-15T18:30:00Z
+    webUrl: "https://buffalonews.com/news/local/education/audit-lockports-bidding-for-facial-recognition-system-was-legal-but-not-transparent/article_78000f7a-bb5e-11ec-a92e-075df8b7085d.html"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 12
 
 secured: "L+ElTiReP14GSom//2NrqnC2/C0y3bbRm4e8kVftRQqz83ycz7Egu9y88Qu3X+cSRl3Ff0r1skOcK3Q0rZCJExyW8cMnT4JEMhvVlXg3zhDx09Ryg5MFo+M4SafpCknYLfAYhnlpOPDADoh+JgYd6E8FE0Av4ZeqWWs3BzBgslojmuAQzxCJ0TxJ/XCAI/OIpYmB3h2QXb26Nozs8ql1u2S6UYpCGnsiJiAmBCGD5GbhH+8NDmtau7NvAUvZ0yRhxN1DyN5M/Lm3Y5EvntZ8sMtAWY+GSSVdtDQRJwfS5Ng/m0YZkJWOkcIyIoi8g5dkcvDN4FqsZn7m2uEnmishdaHORRjc8q8uDWX0PYEgvJI=;y95Mg5Igaxl1KjsCGMUqPA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-a
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Internet Can't Believe Cops Pulled Over A Driverless Car"
+    excerpt: "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ..."
+    publishedDateTime: 2022-04-12T19:19:00Z
+    webUrl: "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/the-internet-cant-believe-cops-pulled-over-a-driverless-car/l-intro-1649790585.jpg"
+        width: 1600
+        height: 902
+        isCached: true
   - title: "Watch this driverless car get pulled over, then bolt for it"
     excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
     publishedDateTime: 2022-04-13T14:54:00Z
@@ -44,14 +58,30 @@ related:
         height: 641
         isCached: true
   - title: "Driverless vehicles park themselves in rapidly expanding market"
-    excerpt: "IHS Markit said the value of the autonomous car service market will exceed 1.3 trillion yuan by 2030, accounting for 60 percent of the nation's ride-hailing market that year. Li, the Baidu CEO, said China leads the world in self-driving technologies,"
-    publishedDateTime: 2022-04-14T02:40:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
+    excerpt: "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ..."
+    publishedDateTime: 2022-04-14T01:41:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
     type: article
     provider:
       name: China Daily
       domain: chinadaily.com.cn
-    quality: 19
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
+        width: 718
+        height: 478
+        isCached: true
+  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
+    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
+    publishedDateTime: 2022-04-12T23:17:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 31
 
 secured: "mi0IUwSHPPqzKhkIS5grv1Cw3Jjt/FAFk7BDEamE7m/6rKS4/cur0nPk2Tc1W/rn/Vv+yZqwP0ewZhZZC/lWN0MVhdIcDbu1SGxFgdUpg/4O5rgH9x9unmTuJzyTYHyTZi7860StlHVZY9Unf8Mb05ykEkG6DQIXodhBq0uwme2zbgyJ6cy1YCjBg2WtGac502mXQzIEJsyyUQZEfXG35Al1wHiDGaAYgRVrJLcNt57CU8jWq8aQHsSVszjgLtLNeUID4BPNi493z21l2YkjoGdMcF0O7NjvO4ER68yuky56w6k6Nv6SRkWjfDnWa7tKWUT1cfUnwldKNE6pk3D8OlqhqheVhTim8A96aDNeLY94AKOwc234ItpZxNQoqTHZ0zKNkwA/sLd7rTKgCQ54lf2CGHL6FzVegj/XOBgRKJgxYF6+oAd3EjXAb1RPoQquE0/G9sP0zFE6jjAwOH3RW+qdfSJbxbmYLoNzUuGKkJFQfxxP8ljR7QeYzvqNYie+ZH0brbv1wGYphkqkl+V6Tw==;OrAPYrtvZU/D2HYyz3dThg=="
 ---

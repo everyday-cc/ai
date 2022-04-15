@@ -41,6 +41,54 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Video Shows Confused Police Pulling Over Self-Driving Taxi"
+    excerpt: "A now-viral video of San Francisco police officers pulling over a self-driving taxi is as dystopian as it is hilarious. Initially posted to Instagram, the video filmed in San Francisco’s Richmond district shows SFPD officers drive up behind the parked autonomous vehicle — only to have it leap forward and pull over again a couple hundred feet up the road."
+    publishedDateTime: 2022-04-11T17:57:00Z
+    webUrl: "https://futurism.com/the-byte/video-police-pulling-over-self-driving-taxi"
+    ampWebUrl: "https://futurism.com/video-police-pulling-over-self-driving-taxi/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/video-police-pulling-over-self-driving-taxi/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2022/04/sfpd-robotaxi-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Watch A Self-Driving Car Comically Blow Off A Cop During Traffic Stop"
+    excerpt: "Police in San Francisco got the surprise of their lives when a car they were attempting to pull over had no driver"
+    publishedDateTime: 2022-04-13T16:16:00Z
+    webUrl: "https://hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    ampWebUrl: "https://amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 44
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58251/content/cruise-av.jpg"
+        width: 708
+        height: 419
+        isCached: true
+  - title: "A self-driving car is pulled over by police, find out what happened next"
+    excerpt: "Footage has been released of San Francisco police pulling over a Cruise self-driving car. What happens next is fascinating to watch."
+    publishedDateTime: 2022-04-11T11:03:00Z
+    webUrl: "https://interestingengineering.com/pulling-over-driverless-car"
+    ampWebUrl: "https://amp.interestingengineering.com/pulling-over-driverless-car"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/pulling-over-driverless-car"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QlO7jjomw7/sizes/cruise_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "San Francisco police stop self-driving car – and find nobody inside, video shows"
     excerpt: "Clip prompts amusement online as car stops, then drives across an intersection, leaving police behind"
     publishedDateTime: 2022-04-11T22:15:00Z
@@ -56,6 +104,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0aaac1d71fec9ec454192ebc3ce1581d26e7336c/0_148_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0ef3b42343dd745b65db4fd4cb9ebf23"
         width: 620
         height: 372
+        isCached: true
+  - title: "Self-driving car pulled over by San Francisco police, but there was nobody inside"
+    excerpt: "A video posted on social media reveals San Francisco police pulling over a self-driving vehicle, only to find nobody inside. The driverless vehicle belonged to San Francisco-based company ..."
+    publishedDateTime: 2022-04-12T07:22:00Z
+    webUrl: "https://www.abc.net.au/news/2022-04-12/self-driving-car-police-pull-over-san-francisco/100985792"
+    ampWebUrl: "https://amp.abc.net.au/article/100985792"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100985792"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/bdc66502bc8e8709509be4ebcc3d297b?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485"
+        width: 800
+        height: 450
         isCached: true
   - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
     excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."

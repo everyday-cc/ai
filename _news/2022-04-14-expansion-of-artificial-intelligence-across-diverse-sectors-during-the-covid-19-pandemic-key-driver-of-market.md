@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-14T07:05:00Z
 originalUrl: "https://www.digitaljournal.com/pr/expansion-of-artificial-intelligence-across-diverse-sectors-during-the-covid-19-pandemic-key-driver-of-market"
 webUrl: "https://www.digitaljournal.com/pr/expansion-of-artificial-intelligence-across-diverse-sectors-during-the-covid-19-pandemic-key-driver-of-market"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:

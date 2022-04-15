@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Can Customers Handle the Truth About Conversational AI Chatbots?"
-excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Mayb"
-publishedDateTime: 2022-04-15T16:20:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-5538c66a72ae730814bc1f6ad5c1f9fc"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-5538c66a72ae730814bc1f6ad5c1f9fc"
+excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Ma"
+publishedDateTime: 2022-04-15T16:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/can-customers-handle-the-truth-about-conversational-ai-chatbots"
+webUrl: "https://www.digitaljournal.com/pr/can-customers-handle-the-truth-about-conversational-ai-chatbots"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Mariopul-AFP-1K-03-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -62,6 +62,6 @@ related:
       domain: law.com
     quality: 9
 
-secured: "Ktb9mEAQNRlpah7y9Vi9deJPNixrThpiUnKJe8LXyjOdm0etWbtmCLBXUzKpcJ+36YrM0LZwyWdQx6hCZ1mDx6o80HRTKbCpLBT899FI8ZVyuYHNcNXDEhMDiGJqxXOhQDZAJmgq2MoDcvcpiNdNNPT5MfknMF8ODIVHXSumTLEjmLJJVSZZd9beiYj6+fvmqoGiHLPX9FAQv8gwxLvsocmFCN5VDTY69klHZfwvwGU5GjZl53olf7bqS4eVANPv9ChI3+dZaDKunBRt762EYx2gLZHWpgdzdJBt2PU75i5EZIcQ8L7ecPFYIcakRssRqcb/mUASOwyQe3RStRDWvW2vzysw1JTv0FoPPZZiWlg=;GA3JGBWDu5EnJVU6rbrfYg=="
+secured: "XCiPYRsjXG9cW1QX7V8LnAUArenhBlTWLz0R13rdHMKZjXIoUgyxG4PwrMnl/z6Skk2cxcw6lJ5E6849sdpizFXrm1TqdYzlNDNadAncvCj58U0uyketguSfu7+ozT6BPheLF4AMHqXFMyaQ3JxD1RNt9xRf8rSW3rFtsDUXcEYvvVyfJ1kxZdZerGboHtd2J4RNMZhFLQVSyRA56oK6xx8R1P8OQOnwKRE0NiZeMePBCPBPLjp/Urs8VAsa2pJaeUiyvvD5cPy9myys3a7Q/wwGtbee6jSq1kOco59E9M3nzK0LoLm8knfhG/1PfDKhp+tM9YgAfK7AoBnUPTKASOmRmOHovthFggTrZeEnSs8=;PURT9Fgp0w0UlkuPH2HqSA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-15T18:09:00Z
 originalUrl: "https://www.aaas.org/news/study-ranks-jobs-threatened-robots-and-offers-robot-safe-options"
 webUrl: "https://www.aaas.org/news/study-ranks-jobs-threatened-robots-and-offers-robot-safe-options"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AAAS

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
+    excerpt: "Sanctions and brain drain have had a massive impact on the high-tech economy, and the effects may linger for years."
+    publishedDateTime: 2022-04-15T18:46:00Z
+    webUrl: "https://www.defenseone.com/ideas/2022/04/russias-artificial-intelligence-boom-may-not-survive-war/365743/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 21
 
 secured: "NIBWic5LL3heKYT21a+pu/TSr4ti4ZuaOzyeWmd4Jx8Wo48PXLezt6UY58tWsPi5W8qj8dq79Zq3tMLP928x6vA2Xc9oGzPuY5AJs6OvIvKj98BD5OR/Kq9zyWkRIGMBgz8rE1oYREpEKBQ5YnMis8a/ErbbBBKcv793L60i4lognDghhM26VxbQG6PA2n+1DYoRZFpUrmiL0V1HE60HgtoYWnc4G+AyDriXY4irlhd8Mn/Q9Ow/wsUEjMdkuvTs5ICvgvqQ0gNhUL1KsLjW5Cm/86CK3OvNuFtrgF6/xiSknZA6gqaB29KaAdORAlRHLnt/CD3wNzEUbuPaqQxGSpu0tI89ywqut7rfxdWI1xI=;opr+fOv0hjM9aPDhklqhgA=="
 ---

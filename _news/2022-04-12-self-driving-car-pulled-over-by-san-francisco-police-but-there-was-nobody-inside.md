@@ -27,51 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Cops confused as they pull over an empty self-driving car"
-    excerpt: "In what appears to be the first incident of its kind, cops recently pulled over a self-driving car with no one inside it. A video shows what happened next"
-    publishedDateTime: 2022-04-11T01:10:00Z
-    webUrl: "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp"
+  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
+    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
+    publishedDateTime: 2022-04-12T00:10:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 58
     images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/cruise-automation.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Internet Can't Believe Cops Pulled Over A Driverless Car"
-    excerpt: "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ..."
-    publishedDateTime: 2022-04-12T19:19:00Z
-    webUrl: "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/"
+  - title: "The AI infusion: Join theCUBE at AWS Summit San Francisco"
+    excerpt: "An example can be found in how Ampersand Inc., a data-driven TV advertising sales and technology firm, uses AWS Batch to run 50,000 concurrent machine learning models in less than one day. A look at how AWS enables enterprises to put data to work with artificial intelligence and machine learning-powered low-code and automation initiatives will be the focus for theCUBE,"
+    publishedDateTime: 2022-04-14T20:49:00Z
+    webUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://www.slashgear.com/img/gallery/the-internet-cant-believe-cops-pulled-over-a-driverless-car/l-intro-1649790585.jpg"
-        width: 1600
-        height: 902
-        isCached: true
-  - title: "Police pull over one of Cruise's self-driving Chevy Bolt prototypes"
-    excerpt: "Footage of the incident published on social media shows officers puzzlingly circling one of Cruise's Chevrolet Bolt-based self-driving prototypes. Posted on Instagram by user b.rad916, the three ..."
-    publishedDateTime: 2022-04-11T16:32:00Z
-    webUrl: "https://www.autoblog.com/2022/04/11/gm-cruise-san-francisco-police-stop/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/04/11/gm-cruise-san-francisco-police-stop/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/04/11/gm-cruise-san-francisco-police-stop/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/1309x736+611+115/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/04/11113824/cruise-police-sfpd.jpg"
-        width: 800
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AWS-Summit-San-Francisco-Hero-Image-2022.png"
+        width: 1182
+        height: 662
         isCached: true
   - title: "Video Shows Confused Police Pulling Over Self-Driving Taxi"
     excerpt: "A now-viral video of San Francisco police officers pulling over a self-driving taxi is as dystopian as it is hilarious. Initially posted to Instagram, the video filmed in San Francisco’s Richmond district shows SFPD officers drive up behind the parked autonomous vehicle — only to have it leap forward and pull over again a couple hundred feet up the road."
@@ -121,65 +105,75 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "NASA's Record-Breaking Mars Rover Is Way Better At Self-Driving Than Earth Cars"
-    excerpt: "You generally want your $2.4 billion mission to go as smoothly as possible, and its a testament to the kind of careful engineering that can go into self-driving technology that we trust it enough ..."
-    publishedDateTime: 2022-04-12T15:03:00Z
-    webUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123"
-    ampWebUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+  - title: "San Francisco police stop self-driving car – and find nobody inside, video shows"
+    excerpt: "Clip prompts amusement online as car stops, then drives across an intersection, leaving police behind"
+    publishedDateTime: 2022-04-11T22:15:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 40
+      name: The Guardian
+      domain: theguardian.com
+    quality: 39
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/889b177f737fdb67ad2425b0e3629278.jpg"
-        width: 800
-        height: 435
+      - url: "https://i.guim.co.uk/img/media/0aaac1d71fec9ec454192ebc3ce1581d26e7336c/0_148_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0ef3b42343dd745b65db4fd4cb9ebf23"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
-    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
-    publishedDateTime: 2022-04-12T23:17:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
+  - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
+    excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
+    publishedDateTime: 2022-04-12T13:18:00Z
+    webUrl: "https://www.timesunion.com/business/article/Waymo-s-self-driving-car-is-ready-for-commercial-17074762.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 31
-  - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
-    excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
-    publishedDateTime: 2022-04-13T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/04/13/in-sf-we-find-out-what-happens-when--cops-pull-over-a-cruise-self-driving-car/"
+      name: Times Union
+      domain: timesunion.com
+    quality: 38
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/12/62/22326455/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Self-driving car stopped by San Francisco police"
+    excerpt: "San Francisco police officers were faced with a new challenge after stopping an autonomous vehicle with no-one inside. Officers approached the car, operated by Cruise, because it had been driving without headlights."
+    publishedDateTime: 2022-04-12T12:36:00Z
+    webUrl: "https://www.bbc.com/news/technology-61080666?via=indexdotco"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 31
-  - title: "How can cops cope with self-driving cars?"
-    excerpt: "Self-driving cars are such a common sight in San Francisco that they’re hardly worth a second look. But when an autonomous vehicle — sans backup driver — gets pulled over by the police, that’s worth a gander. And that’s what happened the night of ..."
-    publishedDateTime: 2022-04-12T21:30:00Z
-    webUrl: "https://www.sfexaminer.com/findings/how-can-cops-cope-with-self-driving-cars/"
+      name: BBC
+      domain: bbc.com
+    quality: 34
+  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
+    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
+    publishedDateTime: 2022-04-12T00:06:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
     type: article
     provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
+      name: MARCA
+      domain: marca.com
+    quality: 30
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving car stopped by San Francisco police"
+    excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
+    publishedDateTime: 2022-04-13T06:48:00Z
+    webUrl: "https://www.the-star.co.ke/news/world/2022-04-13-self-driving-car-stopped-by-san-francisco-police/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
     quality: 24
     images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2022/04/28380836_web1_220412-SFE-AVUPDATE_1-700x467.jpg"
-        width: 700
-        height: 467
+      - url: "https://lh3.googleusercontent.com/W5CX_RecPpSBzSU4ULyCsM8oKZaYqLtvmBQ-63EMqxE8ZpbBTkQNqywjZph6JfvXk-z2oidqFaSh94lzNEh0qrhN8a6rT2d4sGHXMwkgAw=s1000"
+        width: 976
+        height: 549
         isCached: true
-  - title: "Video shows self-driving taxi pulled over by confused police officers"
-    excerpt: "The autonomous vehicle pulled over by police was a Chevy Bolt operated by Cruise. San Francisco Police Department (SFPD) officers pulled over the Cruise vehicle as it did not have its lights on. The autonomous vehicle responded as expected, pulling over ..."
-    publishedDateTime: 2022-04-12T13:21:00Z
-    webUrl: "https://www.tweaktown.com/news/85554/video-shows-self-driving-taxi-pulled-over-by-confused-police-officers/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
 
 secured: "JLTxu5G7yUIA6UlSr79eOgYDlvLWLTgUEUSIp5v23r7YBWnHA4WMG9UHXXqbTS8dHq8pyTIJ1wGY/eCvBM/vEb4s/22Q+LpHx9H3fwPbyqat3fHRBqPAKcSn541IDh/FJioMU+AqP8yVc8b8ebRuJHlXrVz3DxnKWlgPD65gfcYL0R7boGg3z8Tj6e5dlLJl1TYLo+8pVhLLvG9huJIe/uVl85Znw49PrweAdU7KySwDfzARQaSo6JEseb3K2tFnJgf/W7RxgpztUWf2wHNhmOiYJqmIQOuc2oMT6pCuLrPB64T9emAao+mrZ2oA3MjKVp79WksLNF2TnwDJ77zQJmW6b7YnjDguc3yYlHxfcpI=;B9Qpd4LvguELyyq905MBpg=="
 ---

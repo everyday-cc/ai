@@ -47,18 +47,18 @@ related:
         height: 1260
         isCached: true
   - title: "Can Customers Handle the Truth About Conversational AI Chatbots?"
-    excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Mayb"
-    publishedDateTime: 2022-04-15T16:20:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-5538c66a72ae730814bc1f6ad5c1f9fc"
+    excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Ma"
+    publishedDateTime: 2022-04-15T16:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/can-customers-handle-the-truth-about-conversational-ai-chatbots"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Mariopul-AFP-1K-03-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "3UPQIf9LqUkMAcr2ezG4yilOhstEuVJ5UcgU2z5O1CXCaN6n53sd9uXrA4poPUUrpyC16xlopuqrGPgwO3pN3O/eClDKef4u9plPvhL8WmoeVW7nvc81Xki+aj9AUEv1nBTdTdhMSzp9FTWTQajLMn0sm17uHG1EIyJhTb82zWTUwEqlZXGOHX8YTOkXOJznX3Fo+LcNGZ3SOb9dlskEkl2JAgJKuQouqq86BbhkQHNUS7QEnqUWUt/M6QJnVA00cQEYzGJY2UZwNv9JX3B469rCgHqvoFkKaUhcuZuMZaXwqRREeelspOYAA3Wu4Nif8sh2+gQfFcs6oIDB5m5cuh8PT0ookYcMWmKGVVvHudN1QSfVmf+NVDJUHmclkcXLHT0lQnnaPJrCihGnAbQwWJhfdD3MWiYNKkTQL6mBxU4bbARAC53VjYyUxzgyOTJc9rkQ0T+PD2KtUiVtua4KMgY3PznhZBVbqiNsCnRd4nL7e3kP4Cu3qYu4njXz44yVL2Ixgg+6D7ZOMITXONlWig==;af4VQGLqy6ruxkkNB1FEWA=="

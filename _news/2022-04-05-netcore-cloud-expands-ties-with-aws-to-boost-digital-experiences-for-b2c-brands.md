@@ -2,19 +2,25 @@
 category: news
 title: "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands"
 excerpt: "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings."
-publishedDateTime: 2022-04-05T08:11:00Z
-originalUrl: "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands"
-webUrl: "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands"
+publishedDateTime: 2022-04-05T07:41:00Z
+originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
+webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
 type: article
 
 provider:
-  name: The Free Press Journal
-  domain: freepressjournal.in
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "164KOIuh9THRrTa1JV112EV5Hi1Tv6dU97KtGMLRJr4ekf2ddNoHiiCGJUHgq6v+bPlLY/spqZ6HynCa5MGxcXaBiVUba7e1DuE8I+4yToVxce1UdXP9IuxLm4h4xiP/akyVw1weKmqVHwiK4rBz1W0Tqiqh6NLZxDfJqtSnPmgg0aZ4IHw0sUuFwTYUbcrdjmWqkjOzEsvDQNYgDjvDNTEox9VmPrwSj19wG+TZAi7U+JCS6tksv2y1hTYbfEGssQ2y+a6LxPbYAoBR9PhHOPLmFoY4p3j5m8rI4LiSZb52Q1dGeRjAeAn63EcEUZUkXqtRVELiM4SraS4mWFAFK0gTB+bggAkBJEtFoznS+sZgp6dpAj/PDm5SfYtTUkH58b3JhvEcd7SB8NxY2WfPy4vzE6F52m7IsRjetJcX2ZX3qfbXEU4204j6UQ5DhDQqGub5X7tRgQCU0kxXMtqKn1JK3sMuvm0BtC/LjiUVTuWPRhuxqlmF7y1RLMbCjI95pnd2bxksmw8YbmBa9TQUKA==;jdANbKKi+waSxToJ3MD0nA=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "XdLoapj2X2s4FAZTtP56MsjHEJEToi3UQ0KWlVpRnBxD7Co097zSz/gYEVF/60uS8lEvvomBEx7qGOCmZg0GZrKaJ2n4jWQus3E0eTskhtskP3U7uTG0AHYRFVaygPi7xtZBf4r1OjRGg7HOrdnYbIkoy0DuLZHZWOlJASU3/oj+XGiI6c9rfS5zF5J+tKP4hhvb5yRDJkOHc4cvc7NadV7kxtGlXH/fh6C4xgdKOw9IO7uvV/7cITYV/P3cxs3JrwqaAk/skvPhzjd3XcxrZNQsPUE7E3zUfTkt3jw2ndz0RL3mjnryhk4Q5avAzvIPPiRD2H5LyrMfC/lOGDFn2yCqZ3N/SIavh99YcPqwOP8=;hU+/4P/3/gDlJGah0+yGAA=="
 ---
 

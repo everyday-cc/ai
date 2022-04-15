@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence may help trainee teachers with assessments – study"
-    excerpt: "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available."
-    publishedDateTime: 2022-04-11T01:50:00Z
-    webUrl: "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
-    ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/"
-    type: article
-    provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 70
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg"
-        width: 1620
-        height: 1080
-        isCached: true
   - title: "Trainee teachers made sharper assessments about learning difficulties after receiving feedback from AI"
     excerpt: "A trial which used artificial intelligence to train new teachers to spot potential learning difficulties in pupils found that the approach significantly improved their assessment skills. 178 trainees assessed six fictionalised pupils for potential signs of conditions such as dyslexia and ADHD."
     publishedDateTime: 2022-04-11T15:21:00Z

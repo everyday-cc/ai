@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BOSS Names Paul Syarto Chief Strategy Office and Amanda Wild Chief Marketing Officer"
-    excerpt: "BOSS, the data technology powerhouse made up of PhDs and data scientists names serial entrepreneur Paul Szyarto as Chief Strategy Officer and marketing mastermind Amanda Wild as Chief Marketing Officer."
-    publishedDateTime: 2022-04-11T04:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-799cd49f3fed4249b71c5606c28dda79"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ci6rWY6Uq/+4uPvfm38lB7h444fEQezwcf+ANDLOUwxCldPHzTbUqjgstxnMp24JY+wUaVWsCJ3BTwVfvJJHFw1aTGqOEJ8Aq+c6wSnh6y+wzcEpS9KMCqh44zgZet5LmB6OXsvPM5p8TxbfttkH9WYEjOpPx7yCOHT06n9TzcZyA6vQsrL7uS/yRKD6vKW64BroHe1lALoCB5TAazZfTuMe8+yFNv0Mo4R0LEalY5nEaWFuBMNtx4wEAq32ixpk6CvlG8IamAI8UgYZaF96RgNVhHr87rbPDx0099dYdkbwnGi8PHeekWb0sBLhZmZcyH93hKFHPbxliz8E3MMoWoOFXWYYYZ5B/IIcpwzP9Os=;xjRgBytAfjaKKuTzySr9CA=="
 ---

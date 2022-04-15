@@ -88,6 +88,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Cleantech startup’s AI, blockchain technology aim to improve Scotland’s water infrastructure"
+    excerpt: "Hypervine, the cleantech construction startup that uses artificial intelligence (AI) and blockchain technology to provide end-to-end site data for construction and mining firms, boosting efficiencies and enabling reductions in carbon emissions,"
+    publishedDateTime: 2022-04-15T19:18:00Z
+    webUrl: "https://www.mining.com/cleantech-startups-ai-blockchain-technology-aim-to-improve-scotlands-water-infrastructure/"
+    type: article
+    provider:
+      name: Mining
+      domain: mining.com
+    quality: 6
   - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
     excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
     publishedDateTime: 2022-04-13T09:28:00Z

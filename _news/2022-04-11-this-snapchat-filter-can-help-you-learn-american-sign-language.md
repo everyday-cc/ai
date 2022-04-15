@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-snapchat-filter-can-help-y
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-snapchat-filter-can-help-you-learn-american-sign-language/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI Competition With China Should Be Done the American Way"
+    excerpt: "With much of the national security community’s attention now turned to long-term competition with China, the race to sustain the United States’"
+    publishedDateTime: 2022-04-15T19:44:00Z
+    webUrl: "https://www.hudson.org/research/17752-ai-competition-with-china-should-be-done-the-american-way"
+    type: article
+    provider:
+      name: Hudson Institute
+      domain: hudson.org
+    quality: 17
 
 secured: "UOF/iT/1R7nbMkYpXkdCd+Gpckdqb/SATDqYF8x8d5+82BxagmFgZ+H4+Xu3Z58O+zubjzAC+edTPwUvtP2d1Yc9ecDhq0gOiaiqUwg0QVBVvLSm4Qgk6IIwL2mxC+nHn3fqJbfn4XvoEA2Km/ROjnjWf41XKhf8X/UGYVUkT5fwm0W6qDMyDrLJXE6xlDcS1bP8w+N6nsO6lFe2Ur4kn332ceLAtflZzuJT+SlXAPEKqTs6u0FMmRALg9OlF15RXmm/xioo1vqSnb5zPfQLR023AVgFI8SRdt8vSDZmuW6LvTAyHT6HURjn5dyTz3EPE0W70fwcDfa3+4Ok3HdeckmMeIXcQeg7W/hlEwIMtmWe1Mv/Pt3Wp64tcrR7Z5p9/iT/QytR38vHysj71kovI8DAnlZHYs69wSg8YVWz5oWJ5nWa4x0AayHy9Ya6G7mk6F1IFu3CQgsUH9TnFr38BOA2BFZLgmDNStZkMoGsa8/BnDRrwmpIWIIgBj9sm7MSwL/Yo8oodILtWWLyk+S6Ow==;sPf5m8JsPwNnyrVAFutwoA=="
 ---

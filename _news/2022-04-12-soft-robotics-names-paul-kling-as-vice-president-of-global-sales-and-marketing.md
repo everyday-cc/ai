@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-ro
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soft-robotics-names-paul-kling-as-vice-president-of-global-sales-and-marketing/article_e185b70c-dcea-5b8a-91e0-ec7b97251f19.html"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "BOSS Names Paul Syarto Chief Strategy Office and Amanda Wild Chief Marketing Officer"
-    excerpt: "BOSS, the data technology powerhouse made up of PhDs and data scientists names serial entrepreneur Paul Szyarto as Chief Strategy Officer and marketing mastermind Amanda Wild as Chief Marketing Officer."
-    publishedDateTime: 2022-04-11T04:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-799cd49f3fed4249b71c5606c28dda79"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Computer Vision Is Transforming the Transportation Industry, Making It Safer, More Efficient and Improving the Bottom Line"
     excerpt: "Computer vision is helping to reshape the transportation industry at every level from streamlining the passenger experience to preemptive fleet maintenance to fuel optimization. As the transportation industry continues to evolve, converging technologies ..."
     publishedDateTime: 2022-04-12T14:35:00Z

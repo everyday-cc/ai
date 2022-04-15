@@ -9,8 +9,8 @@ ampWebUrl: "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-l
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CSOonline
@@ -43,6 +43,15 @@ related:
         width: 614
         height: 250
         isCached: true
+  - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
+    excerpt: "Sanctions and brain drain have had a massive impact on the high-tech economy, and the effects may linger for years."
+    publishedDateTime: 2022-04-15T18:46:00Z
+    webUrl: "https://www.defenseone.com/ideas/2022/04/russias-artificial-intelligence-boom-may-not-survive-war/365743/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 21
 
 secured: "iYtyhJTnhDrjFB2/x/uG5R5dtMp04smnCc9/nq3q+34a4pSBEeuZ1XcZ3nhcRPxUn4dCrLWj2AUBRRqvXeSOSTgeqzFrf4Y1rMm+dq71LSVtJlko5OyMwmzSoSWwAx8UqewEJqXZp1qX/3d76GpHSVmUjQ6ALnT7LaemklHVaJf+vjIvknLm/u7VmrJF5JrrRjpX9GmNDXC2S1KMLunuJCkMc8qp9y9niyBU1bO8DbFxDpS6R4nLhbdZeCqly1wjTjkLBLEhGl9Wh9XkmCfDO8TrlBwSCogNMOpXSjNo3bt9S44/LFaOsfzW2t9m4blB56bvL4fAINWHqxK3SBLIxpWDGuN0GzYtXeQDY4e4EjLFHPNpdsP6ucx21i51XQ+gNgVyG7T9IQL7isQk5dth6E3k+g/tcWrCkczBP7QzBNmFiezbZM1KF0Kp6wCwBBt9sEdGU2nPEvoggDYi9JHluEwlGSfnTKcCxvTbtWoLIjwcjo8NeIPxNDgah0x+US8jlfm7GQGkHrdagO9G+qH65A==;btBqYXf+SA/BehdEaWj1tw=="
 ---

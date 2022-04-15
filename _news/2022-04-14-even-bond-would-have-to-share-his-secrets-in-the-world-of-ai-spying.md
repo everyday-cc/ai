@@ -43,6 +43,15 @@ related:
       name: WHNT
       domain: whnt.com
     quality: 19
+  - title: "AI Week brings together the world AI community"
+    excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
+    publishedDateTime: 2022-04-15T19:46:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=647969"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 19
 
 secured: "m1pAlIx/xPj9SJ8AyEdUuLNYjSaoa+dc3yPjJdGcn/iBSnA3eXzQBEOiLhlRWB0M48lWXmTl6xcCBPu99+vIcPJqe0CddDvTrIyMJkcti9AHvpHP5NwUOKWB83y7242TfdUJvOCr4swHWPnMECv55Z95ptb/LCNCj9DlYV41fL9cVEPK7/f5Y5+WJCILtSu6je3tSyILdfVIyKvrXNvzPL+iNBEApi2mYHMRDWH3JaCv1qspUsfvEQRC6ToOfXzr2BjpO6t7Yc6KXMbwIoJi7cDQhCCohvhH4bvH0RJ/PcY/C2LdiNxgz5sXErWZpiXO4HBVEVqDiV1cpjAw3zy2dZi+yWOIkjyLN2nBTsE2X2fb3ZlF58dq7/WwWY1hMm9BjZPB3MpffxVO8C9pzdzD6TJw60HF2n73WJKKA2UbdaSZmX3d3P3eIQ7doWvmvpnmKIw/kXHymtrFFqzas36S8SfFtUaXZxp8c0PLFQ8O654T0mwvjZorqo6iLWfgZ6I8uAsvDw+M1W/USwYMsyHNRg==;GJiARbe3610M/Z7YzA+zMA=="
 ---
