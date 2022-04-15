@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts Institute of Technology: An optimized solution for face recognition"
-    excerpt: "The human brain seems to care a lot about faces. It’s dedicated a specific area to identifying them, and the neurons there are so good at their job that most of us can readily recognize thousands of individuals."
-    publishedDateTime: 2022-04-12T03:48:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-an-optimized-solution-for-face-recognition/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-an-optimized-solution-for-face-recognition/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-an-optimized-solution-for-face-recognition/"
+  - title: "The Art Exhibition That Fools Facial Recognition Systems"
+    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
+    publishedDateTime: 2022-04-11T11:24:00Z
+    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 54
+      name: Security Week
+      domain: securityweek.com
+    quality: 39
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Researchers urge facial recognition restrictions, broad consideration by Canadian lawmakers"
+    excerpt: "The researchers say that the risks of facial recognition use for individuals and society are significant and should be considered in terms as broad as possible."
+    publishedDateTime: 2022-04-13T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
+  - title: "The waste picker fighting for global recognition"
+    excerpt: "More than 20 million people around the world work as waste pickers. They are the de facto recycling system in many parts of Latin America, Africa and Asia, making a living by sorting through garbage for reusable materials,"
+    publishedDateTime: 2022-04-13T16:01:00Z
+    webUrl: "https://www.politico.com/newsletters/the-long-game/2022/04/13/the-waste-picker-fighting-for-global-recognition-00024944"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/91/0b/427a1874454fb9e48b1790029f0a/20220413-soledad-lg.png"
+        width: 1138
+        height: 773
         isCached: true
 
 secured: "li1+Ua+t1FAfwIo5c/7lFQcUdGD4uuRB/mFUWOXbfWmoNk+gXbM6ViUBF1obP9suD5CZfS39f/TI19M5M9KaV6cwl5OcYhl+YAPz1eNNKYbMf2uQUiu2TWnge5Bo7mdzaTeTj7mUH6/iQ3KFLOMfcdwNTLjXyTQelJWpK2oSwnAm+v6F/193U5LqnxBML6J8sT23m+wUybY0EFToeCJIPowfcsDd39hient5NrRyjmGOQ7V6JZU0awfWmPzipAp6s0v5e3MLGqPlTGQSFuLAoiGTbGu11EfwbGIJgG/qyFxl1ETVFNGQ0SZt1NfDAcF9Lw7wcHHbZExVqVqH1zFg65LNhPDOxMwZv1WPUwlWkyZZyb6+f/HRjEyus36HHnMT6bLFpa2H7B4wCK2fFgHQk0Qb86bozcqHC4H45dxT9bbGndtsM1UewRFSYZcGvkisL3O8mHm9KkWziYJw1s0iT8ByjADpYAcqKh04YLTLTFvhLry6v+fyps/KTvI2JaBUUc9uyQ0mSuVDOkVVdrI9uA==;D+pWYI2ayUW7islz1oZgTQ=="

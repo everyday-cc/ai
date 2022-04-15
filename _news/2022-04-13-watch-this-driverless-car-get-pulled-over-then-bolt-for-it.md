@@ -2,26 +2,26 @@
 category: news
 title: "Watch this driverless car get pulled over, then bolt for it"
 excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
-publishedDateTime: 2022-04-13T14:54:00Z
-originalUrl: "https://www.kens5.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-webUrl: "https://www.kens5.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-ampWebUrl: "https://www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+publishedDateTime: 2022-04-13T15:12:00Z
+originalUrl: "https://www.wtsp.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+webUrl: "https://www.wtsp.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KENS
-  domain: kens5.com
+  name: WTSP
+  domain: wtsp.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.kens5.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
+  - url: "https://media.wtsp.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -53,6 +53,6 @@ related:
       domain: chinadaily.com.cn
     quality: 19
 
-secured: "AVXgJ3NEOxi1bxLIuv8VBVFypHVnhE7zRo3mGKTY2ne+j74asI3fwn4jSy+rW2yotmx5Eubi+Eb2VyjEEqhocvTCaxHL+KW8nA2e9DWLV6Wzokdzjt1IiOloRtjEGcGfhvQLocH6l7RM6e6WiNT82+x9UG5eYjrPwj+vYFGnp/q6XkHOLSRbfC861tAIMZTxlH9jvTFv45taWGDTegJqNvPM8oaKvAEpdByAPfOX/iP/jGyt6kKLrDw0kAFd0290IcetPESS7+2QUTBE73sdWXahPk4NMXKZUMjWb/ci2sbBhKpvIFzPf1TElA5Rp6TtbHrEtpRQfUuixTmfOQfqxZhUmJw09u8cMRf7yJo5fPY=;UMVWtMylq4LkS5tjLz3UFQ=="
+secured: "Qke1VToz4yuQtiBqaovBKGWX4Tk4qpnWqw/L0qsGDcVXrFTbGkCHCIwv0NHGuNSmjdJ8+NzQprsYfgs4OeLI4/kqFZPS9oj6Nf3u8J5WJYJyrH34LVaJZnnZqWZ9iqzxs5Vzb/ffvYjcQL+m5+TZej30pdYIjiS0whPfECfcOUkl2SmNIQQH9WNqYjeG2M2pR9tTzrfcZZ/1ROFNF+uG0P9Foja4DTulBMONsX5kv+kM8a8ohOG2o+heyvsdOXzkYVV+MU8XbAzPtHZp31wpBvzTRj+6phDa+jZ7QdhD1uMMn+9LbyGFacxrXz05ZzJjJDmvpv5wcKZYhnBHrrxfPdDEssMDSoflzCpLvHRw5TM=;ge9IXoa+6j3829JCFFsHig=="
 ---
 

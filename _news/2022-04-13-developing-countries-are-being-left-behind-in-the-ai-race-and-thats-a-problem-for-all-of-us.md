@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/developing-countries-are-being-left-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,34 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Developing countries being left behind in AI race"
-    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
-    publishedDateTime: 2022-04-14T08:39:00Z
-    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
+  - title: "AI and Robots Are Coming – To Drive Human Spirit"
+    excerpt: "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,"
+    publishedDateTime: 2022-04-13T14:01:00Z
+    webUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
+    quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
-        width: 600
-        height: 480
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg"
+        width: 750
+        height: 617
         isCached: true
-  - title: "Left behind in the AI race"
-    excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
-    publishedDateTime: 2022-04-13T18:00:00Z
-    webUrl: "https://kathmandupost.com/columns/2022/04/14/left-behind-in-the-ai-race"
+  - title: "Robots are learning to think like humans. Can they meet Amazon's demands for speed?"
+    excerpt: "In a lab at the University of Washington, robots are playing air hockey. Or they're solving Rubik's Cubes, mastering chess or painting the next Mona Lisa with a single laser beam. As the robots play,"
+    publishedDateTime: 2022-04-13T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
     type: article
     provider:
-      name: kathmandupost
-      domain: kathmandupost.com
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
     images:
-      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/thumb5-1649949962.jpg"
-        width: 900
-        height: 550
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/2-robot.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Artificial intelligence keeps the spirits up during the pandemic"
+    excerpt: "So it is fitting that one such lockdown era trend is intersecting with another — that of surging focus on digital transformation — as supermarket giant Coles’ Liquor arm looks to invest in artificial ... are in insurance or healthcare, there are ..."
+    publishedDateTime: 2022-04-12T19:04:00Z
+    webUrl: "https://www.afr.com/technology/artificial-intelligence-keeps-the-spirits-up-during-the-pandemic-20220410-p5acfl"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "C6EjbviyrV2ctlqiF+ChxElVJPHEm438s65En2BXQFPuuK4g0OEzyzLOfJRXySSvxcVUeYfoJGMycXLkAAhbz2fsaXDWnVCN+lnoWcYeesTBlDZF+2iO6sApC6g/5v3Jlr4xcEFkslrd/zx3LIxGkZu/51HKFuwipr0jiOSlSeRutEWVAtnVeFDoZSfi3K5J/zPch7DRgydPofdVPJIeoGBo4RAQI/7kBpHrfaWNmT4RbyOgZrTiuri3zcpPBxq83gS5F02PEk/olxtfAHMMjh1CU11aO5t3ScMLWyAYtFNmGy1bZyg9ueOmf20TxehsHWLGJj6keIJIqyyupacO1e8v9UvyJ+kjDkwQ/sogSnPJVICpagyujqcEqOLK+5XI0k1tGP9NDgEwRQTD0HgGtBKCYUjlRbtHA2SMCTuhkkcr7JAjGWUMhs1RhkVjD5WTmp4C5iNb9CuKNB8YiOR9NuefP27RoOeaBZkiIsmWR1dHrsGrMJedM5kc7ADqeZ+Cq7IHX79ViXZKqikLfilSqQ==;4TZuwF/t0D4+7Mk6FB1XmQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-s
 webUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: SiliconANGLE
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
+    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
+    publishedDateTime: 2022-04-12T00:10:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 58
+    images:
+      - url: "https://media.nbcphiladelphia.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "San Francisco police stop self-driving car – and find nobody inside, video shows"
     excerpt: "Clip prompts amusement online as car stops, then drives across an intersection, leaving police behind"
     publishedDateTime: 2022-04-11T22:15:00Z
@@ -64,6 +80,22 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
+  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
+    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
+    publishedDateTime: 2022-04-12T00:06:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 30
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving car stopped by San Francisco police"
     excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
     publishedDateTime: 2022-04-13T06:48:00Z
@@ -78,15 +110,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
-    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
-    publishedDateTime: 2022-04-12T00:10:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 18
 
 secured: "ocIVMW91GbVL5oYrYhWHCHsxvzkC+O6rZU3UPdky+gpTUGH+MwBB31rAyi1sHcNZMhbSEIEMEUI4UtY/UN4cjNlvWJ8DbXB4wjMcuJ48mIci3vs7Ieu+dtgGdw7sxHujF/mRR0v+DrNAujxJzfEKQpuKOq4O7yU9kvo1EDE29IedYnCFu6KAflSqWSkG5KB2JFs1xm54IPojmYq0XRCat9vLHk3ruuIaTSf0upUlBXHc6/EmNcfjWTU4ufHUvcnL024CVuqG/tW4k6e7eprzVK/NdF0vFrwHYqGbDP/MFWlPXZjEjyba5t+jg7RqLe+NH9bGPsAGOkgOZ/G8zcovQNmM/l2priucV1Incqp1Yxuandv2UULwwYF687RZ1UgoMUtmTdhLixZkqZpwtU8RLayxFYVEfRpu/2P1mAkXiHdOG33lSPryP4QFtatwgjYED8OGpuN7N7Bg7cTBgDdhDjFgPfpCi6hJBibGpywI6ECZCSA/t7rgyutW971HSAJrqcYzfjOepfxnru5kpgAW7w==;9TtZTSNToStU96pyAPm/RQ=="
 ---

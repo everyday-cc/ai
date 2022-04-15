@@ -3,18 +3,18 @@ category: news
 title: "House panels probe government use of facial recognition software following security concerns"
 excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
 publishedDateTime: 2022-04-14T19:47:00Z
-originalUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+originalUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 quality: 65
-heat: 115
+heat: 125
 published: true
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -45,20 +45,36 @@ related:
         height: 641
         isCached: true
   - title: "House panels probe gov't use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T17:16:00Z
-    webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
-    ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
+    publishedDateTime: 2022-04-14T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House committees launch probe into feds’ use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-15T08:50:00Z
+    webUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/"
+    ampWebUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/man-gc0619524e_1280-e1644924933516.jpg"
+        width: 1267
+        height: 713
         isCached: true
   - title: "House lawmakers investigating government use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
@@ -100,6 +116,6 @@ related:
       domain: mynorthwest.com
     quality: 21
 
-secured: "ClHN5lcTj84cppMKSNnPJodw5eSwSyERzJOqN6f7gYHFvQrqeZ7z6No3fr94QsOmHwkpuvsCnXsK5juitzowEgUUhayeM3AtjCMe0i04gSGFAGfPRV5ZsKU8indCHaTToQBJpLckZQ3aylELmYoiDIU5ht+McvYrZQZv3HtEDcfa0sp9kX18zGtpovV9yCZAhpkOW2LCwYKizC5uF8L7wsIS/TFnoiM00iAUUCU2ltDZDACbiK7QuG5hRPWj7oRWGldazabHaBkoIq3jeUkh9snoE/VcFLv5dmK4yaOf9fd4l48OrLlDDs/QXMVKeZ1esWPOC1NNAMYWyoutktpsuSKB3Nw7IrkQDC7DfrOtlVJNzGGesHFaQKD2XVa93lEHIA4AC23uaybf+FD8HzKP4U+bFVjhXswy1U/2xmSEzZcx0T+1Zsmjp/0RVrX7sR0ZX4dUI6fi90vCX8rxpuKPrSpwFJtoZv2WDQN3D9F/Pabiv4SC+CAeS91paZRZpqTqgRBeEY5q3t5RPXIzs9VPfA==;PZBsFjfa4qxKZwHCZSarFw=="
+secured: "MyNFqxrBT1shE71e1dfGfMl5OxdXYdjUCRBjG1PhyWSOGmf0btMMifrklG3ooppHMNNPIoULKy9368/dcaqFfvDuPnzFQ5Eg7MPClilcJKhHQ8NPpVAU0CtI1xFjFeSgQ62VUCfaIjHPSUiqJ46BlJ4UAypZJQjdDtIBNXwsatWDA5nrFb2pDLk5DDCKEPkaq3Ix/VPiHhjJK4WrXytsYG5rZohltPEpkxHki2e4WPbJ3F59+Dt78if7dACN+XHrUZSITCYjr1R8zBZus1t9ITRxWhUMq9EadMQuecdog99F3+kMZA/A6AZTuEIdwzkt4tMhhfEjsWveB8eLvftuC7MOa3ZgilqdhPXZTy61aG0=;W2k8F8vNLdnFgR4SynG0cw=="
 ---
 

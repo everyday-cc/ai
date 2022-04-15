@@ -3,20 +3,28 @@ category: news
 title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
 excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
 publishedDateTime: 2022-04-12T00:10:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
+originalUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
+webUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
+ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
 type: article
-quality: 18
-heat: -1
-published: false
+quality: 58
+heat: 118
+published: true
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC 10 Philadelphia
+  domain: nbcphiladelphia.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.nbcphiladelphia.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "The AI infusion: Join theCUBE at AWS Summit San Francisco"
@@ -72,6 +80,22 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
+  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
+    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
+    publishedDateTime: 2022-04-12T00:06:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 30
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving car stopped by San Francisco police"
     excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
     publishedDateTime: 2022-04-13T06:48:00Z
@@ -87,6 +111,6 @@ related:
         height: 549
         isCached: true
 
-secured: "Znc9umojKyjFO1qJiKy9pbtUXbI0K5YXrgHVqbCS8+e12DT4LliNg30zcVnUiZHtVGk3zVmqw6VisagEchPoi7Y6IUwtAepJXLqR4W+aUPtMEbwFqBQ1GQwinhDF83ctVIwZOjUC/wbuc4aIIN7IuxzgQiqszd8o11GiwzdAlUt1Netevq+3w36jsPdfKKah0KoZD8GrAiIO+Iy2VEiUl6Jc59vQT622gIn+M0fSbe7CjP7B01k/J51vwlVlzig/x7DLCEggdV5rrgc/PXUFDZuIWka6J77K164yn2i5js1OP43xkY3KoayK7VlhITLpCAAz0f17t1PhyKsYu8ZD4zADl/tEt4oGCcRY80Bq8+fUsN/jD8NkaXNKL1ejNglavCECEOITYrd7PggtkhisGXgMtSVNeOVrpn+T41HMZ8JUNk9Co2cC3O/z8qmXDCLXFZ1RYOV3M21xXaKH4telJdR9nR4fTXHSpzXgG2UkmXWUpOt6EMnszXUS+DBS1ebtAY87Lj01B+/ILrNsABAwvg==;VM9jOXlwwPXzYCzptgXBsA=="
+secured: "VNHh3RahjMb/Lg77tb8SqMtZ9v299A2vaNICKHyL6VIdnvhQqqS+MfuQfp4D8TrrhjvZP145UWMTm7iruhJxRHA795uk6dxMrnNr7fCqae7cb6SySsAIiS7hjnbUy8maEiPeFNCqLXp60fFD8xbA5shO4HqmumzjSfWbK6QHF2yKRfyEwtmmOL4HKzsd2QARyUBfV2zOPnw2NsvGduIgR4xMyJYNZe34ulJmA9/ksjBgE/BB1TCtFmgvfKOpnQN57U5AHF7CkPhy6kKnmo9l1/ERpv33CVBQMFhP0gZL7pQb0qv0QPNPzePSy43Z230p3qIfLUJtDwCX6jwiStVVBVYQGd6JYXvo9mOp7eyEbaI=;t8/hZ40O2pLe21TPFkgPhw=="
 ---
 

@@ -2,27 +2,21 @@
 category: news
 title: "AI Week brings together the world AI community"
 excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-publishedDateTime: 2022-04-15T03:46:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=647969"
-webUrl: "https://us.acrofan.com/detail.php?number=647969"
+publishedDateTime: 2022-04-14T19:56:00Z
+originalUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup"
@@ -56,6 +50,6 @@ related:
         height: 377
         isCached: true
 
-secured: "rIPMn9uqyDyIpnt2NOlg/UDMkTKiJq52ptplCs5HHGhIS2S8Aq2y1tdqv6LdSvYMvFwgyPLRxE+ShLzXsq5uXjEC60nhj0TuoJTigxBy4zZZ3HzA8a0tpDneX5BuoFpzeOuXolNU/vb+CcHGj7C0JnkU4NYfnbT1LTz9UaHuHWgL4zvF9kLwLSVoBCyUJ55+SRBeFpCSSHRb15pTdoKe6c+qVXlycR8cahebpWGyCkI2UMIf6kC3IRJdcQnN+hgND3zJPtr5HWFj93NOwiPVWJmUlvZcED5nX6Wr/1w9WR0WLLFgbHxKA+2oJPELKo/Cw/LUgFzn/qpGzLlgaoXeEJCTOx4UliQtrjfZOAq/Wno=;e6CwBgXu+94Hr/K9+g3LaQ=="
+secured: "97xEBq19jyVKAeIHZ8ljlSMiwnSAEwdWHvhk13yWpSBdT0sfmHnz4C7t1M42y7SWQ9GZkSDroWJ/EdY6iKdu3QHjO07CnehwoQlioyValls5Mel41+k6kg+NxzWWQOpWZi1qcjuYHvKWsOr6q1rol4m+yp9vEZBgT9CcRndFJEM8mlp3wnJFoBDl7Vwm93+7V2+5u/vlwsKLkc0tusXYSx+ddEI9NK1jbc0nekN448SLiQv/0S7u7PkbsVbXqVHCb4JxR0cbLSjcXsQSgO/JX3p0RFPsjiqDmA3lBebggbL/kNST/ueaCl7Yv6tW053h2eNZatllJmdYv3jvgtL41Ak7tFtdbGf2njOLIK3UHAg=;oOgwDTyMshSvHgOY2LR79g=="
 ---
 

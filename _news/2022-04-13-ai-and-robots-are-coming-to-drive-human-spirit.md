@@ -7,8 +7,8 @@ originalUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-
 webUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: CEOWORLD magazine
@@ -25,75 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "How Hospitals Are Using AI to Save Lives"
-    excerpt: "Emergency rooms and ICUs are turning to artificial intelligence to identify and treat patients who are most at risk."
-    publishedDateTime: 2022-04-10T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000"
+  - title: "Robots are learning to think like humans. Can they meet Amazon's demands for speed?"
+    excerpt: "In a lab at the University of Washington, robots are playing air hockey. Or they're solving Rubik's Cubes, mastering chess or painting the next Mona Lisa with a single laser beam. As the robots play,"
+    publishedDateTime: 2022-04-13T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
     images:
-      - url: "https://images.wsj.net/im-521047/social"
-        width: 1280
-        height: 640
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/2-robot.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Using artificial intelligence to diagnose cancer"
-    excerpt: "During her Ph.D., Dr. Qurrat Ul Ain developed a computer-aided diagnostic system that can identify certain characteristics of the disease from a photograph of a skin lesion."
-    publishedDateTime: 2022-04-14T15:26:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-artificial-intelligence-cancer.amp"
+  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
+    excerpt: "Many modern AI-driven applications, from the Google translate feature to robot-assisted surgical procedures, leverage deep neural networks. These are a special type of deep learning model loosely ..."
+    publishedDateTime: 2022-04-13T11:48:00Z
+    webUrl: "https://theconversation.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
+    ampWebUrl: "https://theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-5.jpg"
-        width: 960
-        height: 720
-        isCached: true
-  - title: "Here's How AI Is Going to Reshape the Hospitality Industry"
-    excerpt: "Artificial Intelligence (AI) is the key to meeting your customers’ needs in the hospitality industry before they even know they have them. Anywhere. At any time. Integrate AI into your hospitality offering,"
-    publishedDateTime: 2022-04-14T19:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/422931"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: The Conversation
+      domain: theconversation.com
     quality: 47
-  - title: "Using AI to predict future cardiac arrest"
-    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
-    publishedDateTime: 2022-04-14T16:50:00Z
-    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
+    images:
+      - url: "https://images.theconversation.com/files/457467/original/file-20220411-19-lp9io8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Artificial intelligence keeps the spirits up during the pandemic"
+    excerpt: "So it is fitting that one such lockdown era trend is intersecting with another — that of surging focus on digital transformation — as supermarket giant Coles’ Liquor arm looks to invest in artificial ... are in insurance or healthcare, there are ..."
+    publishedDateTime: 2022-04-12T19:04:00Z
+    webUrl: "https://www.afr.com/technology/artificial-intelligence-keeps-the-spirits-up-during-the-pandemic-20220410-p5acfl"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
-        width: 796
-        height: 569
-        isCached: true
-  - title: "Google is using AI to update business hours that are out of date on Google Maps"
-    excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"
-    publishedDateTime: 2022-04-11T06:20:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/260465/Google-is-using-AI-to-update-business-hours-that-are-out-of-date-on-Google-Maps"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 33
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-04-09-1258324.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "0XxhTmZew24QKo3Rkpf7Kd5mnaIU6BfulNtJO3u9LlI4DJ70Zhm+tqiYPUPAZ2wgMp5qios/Mq/2DtI7DypKE+hEwvFJfJx6Q3RL5WjoOdWfCpHuInRu0FmwderVIIQnF9/A+tIFN+CAXpooanPCX1cMEHDjrDisZPlnMW+3rQA3IJRWioSyoA9NKSlykmGxQgG8U4Ao0Cg+B5ZlOVCauKC5+4X1YMBljrPL5bWnfldv5OJ0iWfUL+4WqE7BEl4qahE1eQomuwv9lINcy5W9zOSJqgG81/UdFfedQb6e7d9i/Jj8Rf4EgVb78z/7Z0eN0Npszi+/iZCjmWaDCfDVUegDOfuhfRLI8D+x8vCXGkKHe6Q2L+GMh7nQJLjhjd0fzkubIo0p+dFqPJaWGbCpuSq39YtOoNfLZRGoNGKdXbb2vF3qPxJmfbBmUnyLIiUQIllqTQUyoBk2F7RRdeEUua35z/ii9n9/iECkGUK4J670RQs+Y1uKDIWjmdPtOODS+0G3s1XINfM0+iPr/hArzw==;JqCs94cWsLEnkkUGBqnA2A=="
 ---

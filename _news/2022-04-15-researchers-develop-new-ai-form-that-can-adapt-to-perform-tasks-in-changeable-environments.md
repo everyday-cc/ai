@@ -53,6 +53,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
+  - title: "Using AI to predict future cardiac arrest"
+    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
+    publishedDateTime: 2022-04-14T16:50:00Z
+    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
+        width: 796
+        height: 569
+        isCached: true
   - title: "Johns Hopkins University partners with Amazon on new AI initiative"
     excerpt: "The initiative from Amazon and Johns Hopkins University will focus on research in interactive artificial intelligence, which focuses on making it easier for humans to interact with machines."
     publishedDateTime: 2022-04-14T16:00:00Z

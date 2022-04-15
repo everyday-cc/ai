@@ -43,19 +43,19 @@ related:
         isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
     excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-    publishedDateTime: 2022-04-14T06:01:00Z
-    webUrl: "https://www.abc4.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+    publishedDateTime: 2022-04-14T04:01:00Z
+    webUrl: "https://www.wate.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
     type: article
     provider:
-      name: abc4.com
-      domain: abc4.com
+      name: WATE 6 On Your Side
+      domain: wate.com
     quality: 41
     images:
-      - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
-        width: 2700
-        height: 1845
+      - url: "https://i0.wp.com/www.wate.com/wp-content/uploads/sites/42/2022/04/The-shops-at-Turkey-Creek.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "y/FrTR/MXGB0ksYfPtLa5ku1IrQDHsVWym8rAClOzy3ZySlc8Y2AxAJ/v6HLF3nA9gEBmaojlFYrnFktL4H2rQz0+S+1Kmlil7wBIN64Io1vRxvLH5tEOWP5kW7SYby0P6hWQK/JDpsRoot5lrgIPtO8O4pXIgjz1VVncFgGoA34+n49z8Wz/GrS3q50S3KlcueEKzyJCcxZPNC/uT8fPvW6SIbySK4gI7ml27xZH50bcEmnvjTOE3T7hUZbBrHbO83NNbbPPArqsDuXYvHGzhNyRdlHFmDSKi80vXdFtmjPZpNsDBCnAawGR0lxyiaQidWKHC+IeyXYqFbfHYdS3kUdk6deaUdt3KkUK0PptR0=;oIcD71RZjq3+dGEWZeCnrw=="
+secured: "Z63aG6HJGkf0P6u2u5wUHNk6MSDBifaWQD7CG+xfoYcedakCRahf8eoO5HPOjk7TGvJFGxgtGWjOcCE01QJVN7NDwzd3HtUq0p2BMXU1Du6G/IiV2tWr9KseBsMah2BS5+gAUfPTlckhkXKzKDMsjjWkFS5XZHcntw8INKOUc+7LedR+4SMzTIdDj8YcyUacAukyZ1vfpZ3VEe7+66WQL5Fsv5UckAx4DUwcO7wt+peWjk8OlAYZJ3P/ItA9zx/KVpMoqniD3l2X24920MDcgW3diqX/DwK+uogazGzwtxQFinrEozkttqWrAlmAC7WD+ZIiKNhG/rdxs7fewyOt8oKy5Jgi0KXwYjlRDAJX5mxvRIZMvFVXvrW+82yrTUzdepcBrdYgQO3T8V2SJKn6aZIE3kz/o3iKF98qomxeDwdO/IGDzmx97LJ31B5I6Ye1o7FxCIAdj7gnsXtG5nQc2ZgTtWhSWW4Xwxxy7awerq2GCIdHLe7xIVScmc/ntjrwrntWApJDekZBqqb9m9Xkvg==;ZymO3f6Lfvsi2Zeb3vkG9A=="
 ---
 

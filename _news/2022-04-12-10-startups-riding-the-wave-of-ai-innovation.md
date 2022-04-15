@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/11/10-startups-riding-the-wave-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.theconversation.com/files/457810/original/file-20220413-28-ldw894.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=321&fit=crop"
         width: 320
         height: 321
+        isCached: true
+  - title: "Venture funding for chip startups has doubled in the last five years thanks to AI"
+    excerpt: "Funding for chip startups used to be rare. But in the last five years it’s more than doubled. Here’s why. Max A. Cherney is a Technology Reporter at Protocol covering the semiconductor industry. He has worked for Barron's magazine as a Technology Reporter,"
+    publishedDateTime: 2022-04-15T09:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/chip-ai-venture-capital"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 49
+    images:
+      - url: "https://www.protocol.com/media-library/chip-startups.png?id=29682922&width=1200&coordinates=0%2C42%2C0%2C43&height=600"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Cities Take the Lead in Setting Rules Around How AI Is Used"
     excerpt: "As cities and states roll out algorithms to help them provide services like policing and traffic management, they are also racing to come up with policies for using this new technology."

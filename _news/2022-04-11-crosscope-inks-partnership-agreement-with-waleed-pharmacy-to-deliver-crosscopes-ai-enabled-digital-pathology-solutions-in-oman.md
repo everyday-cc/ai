@@ -38,6 +38,15 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
+    excerpt: "Harbor Capital Advisors to leverage Distill by TIFIN, enabling asset managers to personalize engagement with financial advisors and drive"
+    publishedDateTime: 2022-04-13T12:20:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry-1031349538"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 0
 
 secured: "wHOsuYennTTzg8fk97BmW/rBF5lKeNijgp1bztsgDB/SxtUEwu8a9UBEL/8z3Xb2NsvDLsZG19Pa7H2eoW01ergistBtEcMR0KajqT+8f7IFmE1wPTne00prGzJfrI96wqk6QGDLUqIApRN3B5yjXUeq3Aba4lN0W24cyThWoKJESLzT3im4rhFkzOBGxCtWI3jdF4CYyE4FWaNInoL5p7jt3jKfk1nZUPkgmWnhExNfumLbpMK3847Gr14BvmByG2TfyyaadjUt9dhgK0oVbEH7sv6gWMP1Lo1zaCkfG19wbSF/bS+rxuRzuMkG2jSBwvYl2NhYs4KNeKU9kgYlFa8CuAkkD5wupUEkS3qVgDA=;SzaAeqnP9XAQn3g/nIFwAQ=="
 ---

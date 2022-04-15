@@ -61,6 +61,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 41
+  - title: "Using AI to predict future cardiac arrest"
+    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
+    publishedDateTime: 2022-04-14T16:50:00Z
+    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
+        width: 796
+        height: 569
+        isCached: true
 
 secured: "i8b6rtls1Q4IbVdvm7bf257BAHwXMp/eu62xrqN0/Boj6UPEZexY2omH0+LG6I4f0lGfomJ/Gs7f+/bTMjpwtsuV5/Ve6+SryzMXph7v3cIxpqOe8KeVeg0tQTeHhwZM0YQNzy87ErQMGhD3hKlyeEO1JsyB5K10bU6AKBY9+G4PU996MUSSJxyv7LBms+Kv4j80ER2KfjW16T/7aE0ZQNVsiQcK0q03hQjnjkDj/djJ34zx7noaPYQr+sv/5zTqNsIceeYcRBLuvmomsPSnROxLYiJhnN4Za5HvNN66DfF2abyW5Nd788sDk9MLisaAK/z3UOpnvlky9Ra6lxjnhlBGYrnV5e4vl1EJzHHZChnsD971X/4WExq2RnwVu5kaeM7mOIpb0zmNoYd1m3Xl93RtHxOtMSjvV/VLmkZq0ifFRJApyz4HWbaGfWVtKC+RpevDUoNrwanfIYPBjsagGngrHAtHp9jdH0UuaYZvB2aXWW6x4QBub+rgA8B0j3OmcEkdy6FNJeMilr/E8ymZEQ==;YA+wvbJPtxfRe2a/v+hNuQ=="
 ---

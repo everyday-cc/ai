@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Worldwide Artificial Intelligence in Digital Genome Industry to 2028 - Featuring Microsoft, Fabric Genomics and PrecisionLife Among Others"
-excerpt: "DUBLIN, April 14, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has ..."
-publishedDateTime: 2022-04-14T20:39:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-in-digital-genome-industry-to-2028---featuring-microsoft-fabric-genomics/article_a3cf54c9-f4ca-5169-8b15-c66ea69f670a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-in-digital-genome-industry-to-2028---featuring-microsoft-fabric-genomics/article_a3cf54c9-f4ca-5169-8b15-c66ea69f670a.html"
+excerpt: "The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets."
+publishedDateTime: 2022-04-14T18:59:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-worldwide-artificial-intelligence-digital-genome-industry-2028-featuring-/2022/04/14/9583612.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-worldwide-artificial-intelligence-digital-genome-industry-2028-featuring-/2022/04/14/9583612.htm"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "Microsoft And NASA Leverage AI To Streamline Safety In Space"
@@ -111,6 +105,6 @@ related:
       domain: digitaljournal.com
     quality: 28
 
-secured: "JLjB1RG2n2Wk3ZNGafqKpj70r8G45x5Kz8oC7bjY66mbcxg2+iwCcEjYXXggbuqYamvz894231O+BjXZOh9uTIdqvD9ausAPG+AXWL1KWkFthM1e9w7/xJ9ne4+QSQi6T0AuS1cD+2ok7QNphUZIc6EuXosSmfAh2jFjqJ0DvcI62Y6kGotFTbKqop/3EmBdZkFDo1sp+Bk86wkL3HCDy74lg6FwvFhg3gR9veJWyc3FuPbVbhgXC0ZRbZOWhquyAe7jvWQlE68bW8GLIZGRd9Ak6TklEX5F5IqXj3NTpo8C2gEpmuioyjqHjz4CZgHIR9oQr1B8Ns2XJtOTLxlvFIL9kWAh2r8ubTiZXtWEHlM=;Z5wpM1+u4+EJ+Xhm2iifvQ=="
+secured: "SoAMj1G+Z1zyOmuKeuQ/NyWo6iESPxYY/u3iZ3yLDq8Rib/fNpmXdFwz0htyWxk+3DQMJ2OTccOZjxxI2VdGqWAPc3YEppMlOZmFYPvhLcm1RndNssoGGANHeXm1UwyqH3t+iJYId27F4HbE5aLa6MUvy9TWcj7TiIT29bwp1m9atJzmi1EmGRXHnTYOdZmRUETQHYxW11x/VAkSXRnex3QLRbjId9sDuuTzp8h+V5r31AwrrOKDx+IFvXVbLFvpYz6gjblP1FcM8tLzckAke2UxWC4bxuL+JXO49BVO8Y+GP6pRWioz28PmG5Yk7c70m1/lXSUG2nMGyPzrvizP8rMk2hSINI1oyLwlJqAF0IU=;IK5OHw8+RQEZfu0JPOB92g=="
 ---
 

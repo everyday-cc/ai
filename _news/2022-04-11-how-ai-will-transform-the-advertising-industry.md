@@ -7,7 +7,7 @@ originalUrl: "https://www.adnews.com.au/news/how-ai-will-transform-the-advertisi
 webUrl: "https://www.adnews.com.au/news/how-ai-will-transform-the-advertising-industry"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,29 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "HAUSER Insurance Discusses AI Trends In The Insurance Industry"
-    excerpt: "The past few years have seen significant advancements in information technologies such as artificial intelligence, and the adaptation of such technologies were only further necessitated and accelerated as a result of the coronavirus pandemic."
-    publishedDateTime: 2022-04-11T22:22:00Z
-    webUrl: "https://www.hometownstation.com/news-articles/hauser-insurance-discusses-ai-trends-in-the-insurance-industry-413074"
+  - title: "Here's How AI Is Going to Reshape the Hospitality Industry"
+    excerpt: "Artificial Intelligence (AI) is the key to meeting your customers’ needs in the hospitality industry before they even know they have them. Anywhere. At any time. Integrate AI into your hospitality offering,"
+    publishedDateTime: 2022-04-14T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/422931"
     type: article
     provider:
-      name: Santa Clarita Radio News
-      domain: hometownstation.com
-    quality: 37
-    images:
-      - url: "https://2021media.s3.amazonaws.com/2022/04/Flare.jpg"
-        width: 512
-        height: 342
-        isCached: true
-  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
-    excerpt: "Harbor Capital Advisors to leverage Distill by TIFIN, enabling asset managers to personalize engagement with financial advisors and drive"
-    publishedDateTime: 2022-04-13T12:20:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry-1031349538"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 0
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 47
 
 secured: "GRSMcUPPPEBf/xRY6n9BMgzzJZOb7XgbSSYkf98wFgeHpgKfSeNrKQmvnDXPdVAVg0F7w7Km+SqldN7tJWL9Ku4aLUP6sKv/+49EfCEif5+pk/1Gv2e17yFuwzHSjCo1XK3Xn2f8J6GUwbCoy236dUGrqCuTr6sl2nmTjznWp8TXAUG1ZP5EX+NsJ6A1DU5kSa7udyWRI+eFpByuXKK8rDj+KPVT+ysAm2QOWQZv7aP4W6ZcuygjVmoArbaMLtIfdIqHr3NzSJCL0UksKtbSD2cT5GDBC0mv5hOUur/L0XPJMPgzP5SdgeSxd0LGvtlOiSi7RXQNv7dGsokC3cp0pqi7+jryXUgcrK/+YdB3/5o=;ufFTo4b20nGWrA7JqC+HrQ=="
 ---

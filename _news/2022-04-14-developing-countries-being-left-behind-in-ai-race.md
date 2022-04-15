@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behi
 webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
-    excerpt: "Many modern AI-driven applications, from the Google translate feature to robot-assisted surgical procedures, leverage deep neural networks. These are a special type of deep learning model loosely ..."
-    publishedDateTime: 2022-04-13T11:48:00Z
-    webUrl: "https://theconversation.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
-    ampWebUrl: "https://theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/457467/original/file-20220411-19-lp9io8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Left behind in the AI race"
     excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
     publishedDateTime: 2022-04-13T18:00:00Z

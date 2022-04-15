@@ -101,19 +101,14 @@ related:
       domain: digitaljournal.com
     quality: 28
   - title: "Worldwide Artificial Intelligence in Digital Genome Industry to 2028 - Featuring Microsoft, Fabric Genomics and PrecisionLife Among Others"
-    excerpt: "DUBLIN, April 14, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has ..."
-    publishedDateTime: 2022-04-14T20:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-in-digital-genome-industry-to-2028---featuring-microsoft-fabric-genomics/article_a3cf54c9-f4ca-5169-8b15-c66ea69f670a.html"
+    excerpt: "The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-04-14T18:59:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-worldwide-artificial-intelligence-digital-genome-industry-2028-featuring-/2022/04/14/9583612.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "RgLgyvGRhkDWT7XMQZoxlSLGj48ERLaCanFha6wuAgDP+9ELkifd+JD0VhN7ZGLeGhf5GY7XRxHQC4yI5uaUsSslNobJ92R2GZ7sl6yZSLsPbo4RiFQIOHieNrxJdiZAXn0FR2lQlY1svspHB5mSINbs3n7Zyv6xWsl7QGOuFFDVdaOHlB/IAteZ4vQLnGAikAkXQjfFV1Apw7xzD1Pt4/OYvtMqs/13+23YjFbqyIhJ0mKPs2ktzJEQRtH991iRlBYXlJkgfzpY/AQLbEy6+ILSskvAu6Z2gqFEB3NtkXwo8FMSA4jAs74lUeofOluya4RcVwtF/VKg9yrLum09CznPonGHyhV341KQHO7nD6k=;AtBdi/zAPQQOo6vcfp46iw=="
 ---

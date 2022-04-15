@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 750
     isCached: true
-
-related:
-  - title: "Deep Science: Combining vision and language could be the key to more capable AI"
-    excerpt: "In this edition of Deep Science, we highlight new research that illustrates the potential benefits of combining vision and language AI systems."
-    publishedDateTime: 2022-04-10T17:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/deep-science-combining-vision-and-language-could-be-the-key-to-more-capable-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/ezgif-5-a450edf705.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "rcFVO5M6SuCzDxEBQq2F+oL/fEjifgWUiooZquK5CaCgB/Zv/K2rVSvwx1OKvssAPDopESFxNMH9zHnCDcIQxke3tlKBOAIz+SF4X08osnEsXPtIm0a9sTWBVu7ElhMfkMA9LzsWwHHfmfwKTtrzPy8Bs7PQ/QWIupMMf5leOaVuio6ZuI7WKblGdJYKM00ZDi7MO/nFvBf5M9wUIegboBH3rPxdGeRnOtySWIwp0RW/v/bD8gi2eQ7TU4sjqfFhxvnR6t8QxoO+1HltMtdCXm9DJmZPgfc06OqeWRs5HXHVUnDOQmco0Fxhor7dX1v6lo4dnFiPXst6XlyrxadcJewjUWZ/iGKeov3LpGzxtzI=;bf9byuyYpxg/PdLczTaoTw=="
 ---

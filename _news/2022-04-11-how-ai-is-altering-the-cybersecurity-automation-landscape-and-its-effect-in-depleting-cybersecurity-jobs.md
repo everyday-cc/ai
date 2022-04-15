@@ -37,6 +37,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 61
+  - title: "How AI can drive a quantum leap in cybersecurity automation"
+    excerpt: "The capabilities of automation tools have not gone unnoticed in the cybersecurity market. Here, Tim Wallen, LogPoint Regional Director, UK&I, discusses what is needed for AI, Machine Learning and RPA to transform cybersecurity."
+    publishedDateTime: 2022-04-15T07:16:00Z
+    webUrl: "https://www.intelligentcio.com/eu/2022/04/15/how-ai-can-drive-a-quantum-leap-in-cybersecurity-automation/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.intelligentcio.com/eu/wp-content/uploads/sites/20/2022/04/AdobeStock_320206922_1000px.jpg?fit=1000%2C450&#038;ssl=1"
+        width: 1000
+        height: 450
+        isCached: true
 
 secured: "L0MNMq5YaG/BTX68XAOcvsCMWit7sqmvUikgl+Jonftfx8+rleV1gXxMc9cDNFt9Iz5BBpbtdBptbogRKY8uqZGswD0uc3Cts3tGZpXVj/5rMx2diXp4XV9tXrjNOfz0c2abVtP3TLNJh9iOI+O2EUFm4HQX3uT5Sf2epcax6afH8qCsIIrbra3/yw+vdodpZeVP9DeXRoVIbZz4awtPqrfbwT1/eUcvkjoUgfIJVc35oWmx5+60qor2Bxi1fWVhg6xh8Y8/S77hVO28aUFmDeMqa+yXyG6F/qT0jwVyjMlQcs+PhzGy1u9ZjhWrYnBAixpEMUnkAYjr34EIKkAFr31wI5uHRyDlOpRZ7TfpEjw=;T5E7uG2nGsAELGr3RvpjIA=="
 ---

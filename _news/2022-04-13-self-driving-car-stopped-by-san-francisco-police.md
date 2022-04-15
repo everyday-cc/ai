@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
+    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
+    publishedDateTime: 2022-04-12T00:10:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/driverless-car-traffic-stop-san-francisco/3204740/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 58
+    images:
+      - url: "https://media.nbcphiladelphia.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The AI infusion: Join theCUBE at AWS Summit San Francisco"
     excerpt: "An example can be found in how Ampersand Inc., a data-driven TV advertising sales and technology firm, uses AWS Batch to run 50,000 concurrent machine learning models in less than one day. A look at how AWS enables enterprises to put data to work with artificial intelligence and machine learning-powered low-code and automation initiatives will be the focus for theCUBE,"
     publishedDateTime: 2022-04-14T20:49:00Z
@@ -78,15 +94,22 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
-  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
-    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
-    publishedDateTime: 2022-04-12T00:10:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
+  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
+    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
+    publishedDateTime: 2022-04-12T00:06:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 18
+      name: MARCA
+      domain: marca.com
+    quality: 30
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "4YsDjekeaasTk1BiDJpB3udayip8ZyVNqm0K0rmgNcBLbuF1lguYD16tKpdjzl50bjxWQm5Sph8Kgzn/ksjY1Ie6I1RGsubTSxKj++bcyOjNzeR1oVu+yggkpJ7TR3vFEFW5qemYsxhL9fsuJBeaUbGKPgID5/DhUEUbS8267txkey7LWYIN9h30LECiNUZm4LMKxCw16dQfgMndH0sH0zXfcDQX8I8aEcJg9rtt+BScmvS1wyyWCaePAlJh9CAHhvQpvsxoOVLFvYEs80+94r5QqvYq5ogQRmuAU/1yo6zidLvP2k2sTjhEvKeJR/K6TTTsEBvwa0RbHCBuWkz8GHzI++9Eh0UWQfIk07IKKLE=;zUCSAFbH0wQ8DUn7dCpokw=="
 ---

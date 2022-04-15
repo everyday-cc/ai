@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-15T07:54:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-may-see-a-big-move-nvidia-verint-systems-icarbonx-ibm-quadratyx"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-may-see-a-big-move-nvidia-verint-systems-icarbonx-ibm-quadratyx"
 type: article
-quality: 25
+quality: 29
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4e73b4174c4a302cc87ea8aea53515c63421d5b1-600x337.jpg"

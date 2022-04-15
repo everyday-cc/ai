@@ -34,6 +34,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 13
+  - title: "RBI certifies fintech led 121 Finance as India's first NBFC-Factor, after revised Registration of Factors Regulations (2022)"
+    excerpt: "Finance becomes India first fintech-led NBFC-Factor to receive the Certificate of Registration under Registration of Factors Reserve Bank Regulations 2"
+    publishedDateTime: 2022-04-15T09:40:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272483815/rbi-certifies-fintech-led-121-finance-as-india-first-nbfc-factor-after-revised-registration-of-factors-regulations-2022"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 12
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Abu Dhabi’s ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme"
     excerpt: "Saudi Arabia's fintech market is expected to reach transaction values of more than $33 billion by 2026 and the market is expected to grow annually by 15 percent Abu Dhabi's ADGM-based FinaMaze set to enter Saudi Arabia as part of a fintech accelerator programme Abu Dhabi,"
     publishedDateTime: 2022-04-12T08:46:00Z

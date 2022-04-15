@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-ktaka.md",
+      "title": "Artificial Intelligence & Robotics Technology Park launched in K'taka",
+      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched i..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-90204240,imgsize-44018,width-1200,height-628,overlay-etcio/artificial-intelligence-robotics-technology-park-launched-in-k-taka.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
+      "publishedDateTime": "2022-03-14T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-how-3d-tech-advances-will-impact-robotics-vision-systems-in-2022.md",
       "title": "How 3D Tech Advances Will Impact Robotics Vision Systems in 2022",
       "excerpt": "Vision technology is shifting from image capture to object recognition and tracking. Robots with advanced 3D capability can differentiate objects, perceive human form. How autonomous robots are ...",
@@ -1340,49 +1383,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-rogue-space-systems-receives-foundational-investment-from-seldor-capital.md",
-      "title": "Rogue Space Systems Receives Foundational Investment from Seldor Capital",
-      "excerpt": "LACONIA, NH, March 01, 2022 /24-7PressRelease/ — Rogue Space Systems, a startup developing robot spacecraft to deliver in-space services, is pleased to announce Seldor Capital, an early stage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/rogue-space-systems-receives-foundational-investment-from-seldor-capital",
-      "originalUrl": "https://www.digitaljournal.com/pr/rogue-space-systems-receives-foundational-investment-from-seldor-capital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Kharkiv-Ukraine-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
