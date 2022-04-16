@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence may take your job. Some lessons from my grandmother"
-excerpt: "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope."
-publishedDateTime: 2022-04-14T05:23:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-webUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+excerpt: "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now."
+publishedDateTime: 2022-04-14T13:28:00Z
+originalUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+webUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
-    isCached: true
-
-secured: "WKBQoJUhx6suCWa4V6h3W4GBANeVmHkYcsJcCcDDGXG47/eiK0YiiERciGfUkcic1mTHapKKbCg+v66j8ajiR8fpeH+jKNBXf4sZKGSR0REUA8QqDQEAlkQzMTmUqL55XXU/jgIXQ5chOEHmb6zcpwksRKamVBpa9Ie1pUulJzikIshtKBzu9gChw6JPKGkdXHzEbok0DAdCi36BPWSC59m900K+ns/lM2iO84lAGW5kP7zhL1Bk8agdAwaq2qMppaHMhKjgvDLjvVvqc3APlBmX6zTI366fvwy/vcscajjLcLcwuCsCyqwzZz/RCvzl2JsSnmN2Wgk9orkR+krxhdoNxYPDKoH+bX/3P1AQbcI=;1JFbAjgYmg7VQjS7qkiz0Q=="
+secured: "qoi6888MyKrusrpPcIqw/Xlc1Kn03Xst50kcq1qmoquFT8hoqYPHTKtGu5iySmewXlIuyjWwCiQFgqI2elMwWE4rjoZWPCzK/euGOPm793n+JaULf1kBzQCafvGepoRja1/aWR5PPdI3ZLjOZCQxdmN8ovsdjLrtiX49qYY1sX9mZPdNLMLFlcp1SQYIMsR27OBiNdK31Cj6JB39mBxhTcddm3uCP7iieZxlT6mN5NngQ9cHnenPS1wERpfcltmIaufMGneBEOiMQXhaHdZTwKqGNnQOnP+QRvFqNoO3kUnBoE5wf+F4YJLxyE2axP8i4C2NpKUjq7JFB6kddKZEvQaX8/cBloVQ4ywGhyeESjfBg1UuLVaij2D2zLVQSfA9jNviXK8JXMeXkmAoqBFRCeEoFwgaLTukw3jcrB83c6c4309T64o2cW5Zv971O6EftCG0/NiSv3mBiiBv0opAzIOXcSN8ZUp0WtlA6wts9d70/2lVO8zLiBxJI+cJ9to79R6Zo5+o5SrOj7s5B4BjDA==;jgI4TiDF4LaXqg80ub904Q=="
 ---
 

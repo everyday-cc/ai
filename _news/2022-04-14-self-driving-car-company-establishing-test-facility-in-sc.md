@@ -1,95 +1,20 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "COLUMBIA, S.C. (AP) — Governor Henry McMaster’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in ..."
-publishedDateTime: 2022-04-14T12:17:00Z
-originalUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
-webUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
-ampWebUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
-cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
+excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
+publishedDateTime: 2022-04-13T18:21:00Z
+originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
-  name: WCBD
-  domain: counton2.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/GettyImages-1285307584.jpg?w=1280"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Self-driving car maker Argo AI plans test facility in South Carolina"
-    excerpt: "A closed-course track will be built in the South Carolina Technology and Aviation Center for development and testing of self-driving auto technology."
-    publishedDateTime: 2022-04-13T19:48:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/04/13/self-driving-car-maker-argo-ai-plans-test-facility-south-carolina/7309486001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7309486001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7309486001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/03/PDTN/eda26d69-46d7-464b-8577-50a7a977bdb7-GettyImages-1161596205.jpg?auto=webp&crop=772,434,x61,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self-driving car company creating test facility in South Carolina"
-    excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced on Wednesday. Argo AI’s $2.6 million investment"
-    publishedDateTime: 2022-04-13T20:00:00Z
-    webUrl: "https://www.wbtw.com/news/state-regional-news/self-driving-car-company-creating-test-facility-in-south-carolina/"
-    ampWebUrl: "https://www.wbtw.com/news/state-regional-news/self-driving-car-company-creating-test-facility-in-south-carolina/amp/"
-    cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/news/state-regional-news/self-driving-car-company-creating-test-facility-in-south-carolina/amp/"
-    type: article
-    provider:
-      name: WBTW
-      domain: wbtw.com
-    quality: 44
-    images:
-      - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/04/road-867991_1920.jpg?w=1280"
-        width: 1280
-        height: 714
-        isCached: true
-  - title: "Self-driving car company establishing test facility in Greenville Co."
-    excerpt: "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state."
-    publishedDateTime: 2022-04-13T21:17:00Z
-    webUrl: "https://www.wspa.com/news/local-news/self-driving-car-company-establishing-test-facility-in-greenville-co/"
-    ampWebUrl: "https://www.wspa.com/news/local-news/self-driving-car-company-establishing-test-facility-in-greenville-co/amp/"
-    cdnAmpWebUrl: "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/local-news/self-driving-car-company-establishing-test-facility-in-greenville-co/amp/"
-    type: article
-    provider:
-      name: WSPA
-      domain: wspa.com
-    quality: 44
-    images:
-      - url: "https://www.wspa.com/wp-content/uploads/sites/53/2022/04/GettyImages-1155294731.jpg?w=1280"
-        width: 1280
-        height: 848
-        isCached: true
-  - title: "Self-driving vehicle tech company Argo AI investing $2.6m for Greenville testing facility"
-    excerpt: "This will be the Argo AI's third test track along with ones in western Pennsylvania and Munich, Germany. The company plans operation at SCTAC later this year."
-    publishedDateTime: 2022-04-13T15:51:00Z
-    webUrl: "https://www.postandcourier.com/greenville/self-driving-vehicle-tech-company-argo-ai-investing-2-6m-for-greenville-testing-facility/article_a567436a-bb41-11ec-adbb-07e66cc3519e.html"
-    type: article
-    provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/60/a601d3c6-bb46-11ec-8c64-a76c68d034de/6256fa45a68e5.image.png?crop=1003%2C527%2C0%2C19&resize=1003%2C527&order=crop%2Cresize"
-        width: 1003
-        height: 527
-        isCached: true
-
-secured: "DdbxP7KoHCZjSJsHRob861+qtzwzL0KxnQPPInWpFf8K1lSxmgYY3yBTsmAEGW0nruFgmCtYf+j1fi/5n7DG6A7Fq0/sdDzMZItZb3ni0wTvPtl6iK5HOJbmFMZuQ11a/mC88478rneyDTiHEGOIMH2yaBwx4oegG57o1kev+IshC3IW9dJPHNhcBGlIVCDX7eH1fRmFSKpn88mG3M90Xy/po3vrv8REV1NutCh+d9AteH9y5EsDGnVUsgY37Eqyi9WfzUBiopDCP06cFLvLDxRVIz+R73QJQiw11Npd4/Wwy9Fp55pHzUMbytxqd+6oy4iLV/Bka0pM3iqKrx6pcciOqMIvNOcImo+HthiF4z0=;qLjzIQaAcY51HrlmcX+ZUQ=="
+secured: "WXQWTtnxlhuiQKMIrNApMAT+cT4kjzwjK3/875exLz+hGUG/kfxheB0taLZL8hlZFrEmPFSRac8MALy1SfcRxJOEZJaYXeXbYp8alfYMizx6Lor/mQRS6sViYj9Dl+l0adJbl3CPtPU/rEnr2xJEFW8mlKxo8XJYkfltk5Bw41jJbE/JiA+MQwBQI6/t/0L/9r5fTC3Uw13lyMjnuk8UaIdTheNSGYbhxVTUZTtm9ZLxv4QjJX91X54gxEwdYOt7BzBG+gATwgAOjCxBDxh7G1Bg3zbUBxV8Aj8/09zUmzNzsHUME3J8LZ4yK/34zuYFQPW69hV3AGCD7mEgpKdItPSQnPqP/hoz7UNL14HGDLc=;8ByMZew9q8rWjB5Rwjy+WA=="
 ---
 
