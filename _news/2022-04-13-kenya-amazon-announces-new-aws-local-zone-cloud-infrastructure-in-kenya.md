@@ -24,17 +24,6 @@ images:
     height: 664
     isCached: true
 
-related:
-  - title: "Amazon announces New AWS Local Zone Cloud Infrastructure in Kenya"
-    excerpt: "The new AWS Local Zone in Kenya is a continuation of our investment to support customers of all kinds and our commitment to accelerate innovation by bringing cloud infrastructu"
-    publishedDateTime: 2022-04-13T19:21:00Z
-    webUrl: "https://www.kbc.co.ke/amazon-new-aws-local-zone-cloud-infrastructure-kenya/"
-    type: article
-    provider:
-      name: Kenya Broadcasting Corporation
-      domain: kbc.co.ke
-    quality: 19
-
 secured: "/udO3OmEMJlg49AyGIqPrpCsWctFtiCSCHLo0NEwHKiLJ38G3EMiJ9wuiCsvVvC9af8AvTMqbe0bzvpSau+KOTui6d2J+MdP9SP722ZW8fQST1iRx7RVWzPcsDFunYecfYXsdstM+y9yidWNGTkQdIz+1D3t4DRsZ0FZHtq6exwqNreSmUtyopSBOh52Cc4JOUy/YSDgH5tSNBAOWGlYguXrQyw91+3hvibxPjpGzBty4RCw7h161JEYlpa65Hg+KCModO1fDVdV8UqRfkDRHXW2UnwSFx5ProORXjC6aoR2YzcZI/+fhK+Fk6ty0JvIpOss2iClUZ9d4g/N0kQhQSNidPS2/eyrp2NhMCbepLk=;MVrrhfJJZ5fHK7BnnjtR8g=="
 ---
 

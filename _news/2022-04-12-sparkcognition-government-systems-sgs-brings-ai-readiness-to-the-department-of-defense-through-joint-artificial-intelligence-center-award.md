@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-12T12:12:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-government-systems-sgs-brings-ai-readiness-the-/2022/04/12/9581020.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-sparkcognition-government-systems-sgs-brings-ai-readiness-the-/2022/04/12/9581020.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

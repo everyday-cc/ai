@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market is expected to reach the value of 17.2 million USD by the end of 2027."
-    excerpt: "According to our research analysis, the Artificial Intelligence in Manufacturing Market size was estimated to be worth 1.5 billion dollars in 2021, and it"
-    publishedDateTime: 2022-04-12T04:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-is-expected-to-reach-the-value-of-17-2-million-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "uSF3Ksq8wjRqAHSk8yYJNomVEd915v41bGD1QCg+FWpJXs686ir5r4UjqtAko+eEiAy0BoHzLXcxjB3KZa8Ttw68w+DSktcg5UaCmKhhHCqqUTNsUI2FrK7MFQmeuzrJZOPK7siHng1jBBwC41GoyXKA8VjsThIGj0B/IBTiAlK/fue7rXlnNU/xHvUwDBxN39DWBTvct7IrbFIC+bXMTaaS/HjwnekG8QtPVLVZZZ1aZnBzRwgUBJjGdBJlga9jxdA+ITQfvi5dH3NXAUv8tFK4yG2jLsFSQdId7TCPWMqpa5cw/4Bxgca3gHJOxyo1djXJKgfastBKlV+7Jd3ski9HniT5AMBXD7qK1Hm/Yyw=;0ClLS8PfXUMEwiZkah7xfQ=="
 ---

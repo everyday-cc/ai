@@ -7,7 +7,7 @@ originalUrl: "https://www.cityam.com/ex-deepmind-employee-says-ai-firm-sought-to
 webUrl: "https://www.cityam.com/ex-deepmind-employee-says-ai-firm-sought-to-salvage-its-reputation-instead-of-dealing-with-complaints/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Google AI
   - AI
+
+related:
+  - title: "Ex Google Deepmind employee blasts response to harassment letter"
+    excerpt: "DeepMind, Google's AI research division, accuses the company's human resources department of purposely delaying its reaction to her complaints about sexual misconduct"
+    publishedDateTime: 2022-04-15T06:49:00Z
+    webUrl: "https://techstory.in/ex-google-deepmind-employee-blasts-response-to-harassment-letter/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/mihai-surdu-DeI2BMIMDFA-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "33HUVZhkPKt7Pa3bIln2a2FaamOEG/7xv1B5fqYkno3awc2LStk/vabJalwkHtbL/XM1ED2CFJiNk1d8oRCcIHt9B3hUMrukG30uevMVnSqEFCIWs9UYfkzlmBNPCf3uv97lyCS91Ssx0RPckzdk9bGOcq5wfNxY9Y46wP2Vwf0eiLeJaumKmeyAwn6Wkg1nEtbK2pc9NYzAOPx/BeDkWmhkHt0Ply9AMq4Q1/QWCv3FNXTi3Li2C4tbZTeKkANN7/eglzKi850SherTlakzTRGvJSoysyBpQY9hs6EZEMiy2iSh4KAuxxl7hmVNsRCGjW4sL5pnbjKl7bxCxP2RVEMZUYWUt8xfba40whgJo8ZxfJDeNEvzCZwPE8XqNvUTn+uVTWoCyNhq+B79A6WyZzVyPwIGsu6wE9bWFaj5MU6i8PjBVyMvDoEigkE8UYbD24cRfe6AD+9MpfeF3Ra9Ib6Tl7630KgBhhwG9TSc/ddDVZzgQb3fyJNsfXwTNfBng8lkBDr3SQpEzy1qCENQrw==;/hNpPqzHMGaXReKQlEUhmg=="
 ---

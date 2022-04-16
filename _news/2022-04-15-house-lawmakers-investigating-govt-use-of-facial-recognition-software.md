@@ -105,20 +105,6 @@ related:
         width: 960
         height: 504
         isCached: true
-  - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
-    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
-    publishedDateTime: 2022-04-14T21:40:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 31
-    images:
-      - url: "https://ktvz.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "House panels probe gov’t use of facial recognition software"
     excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently"
     publishedDateTime: 2022-04-14T06:13:00Z
@@ -137,6 +123,15 @@ related:
       name: 10TV.com
       domain: 10tv.com
     quality: 17
+  - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
+    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
+    publishedDateTime: 2022-04-15T02:40:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 9
 
 secured: "KINifwd0J8xFDjz2hn2WGqaY9k5t+Y+PsO2oJkHBDRugNaqltgopNu/9jdncO9SVLtz3ru2764Or347MixcAYv8Y58jQIvrumNK9gCdQQvMO9K/KGwv3AxvNm/F1GZbOS3RMWOZ0cfwtpHnFxynDx4gyf/hwXrG0qkmgr87DJy5Gl799vDe8yD1hnCeICkyxQwFPccxL5L4a73U5LuybuR1Le9ABSt6Zm1FUvEINEm+sB4M+IEEfRFq0MoqYbUBVzZpc3bZLyd4F1AHZ/A4qgGwaLx5JIH7f5vMgAM70jw5erDjGL8ek779c2K4fv6O1LD5DscDddL5c9W+qPrmxtK9BHoD7j9BVsHJ1NI6ABfhipkB2YPpRbafRz/yDUgLOuXhqdYWocSXmgnIGKtVFJTgInYZXJJubtUBZXCt4keiEONVMHnKnQdDh+Q7Fc4F/u4dT0bwv2DUdiNGRSxAMqYG3HIiHn28qX0PFkzgTBAg1NO0/Ryo9dXq5OSBHgfQ+0/Bh+KSZwHX2UBZnijhmQA==;aWgRRNUj40tZ3ue8dS/pcA=="
 ---

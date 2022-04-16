@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-16T19:05:00Z
 originalUrl: "https://venturebeat.com/2022/04/16/how-dall-e-2-could-solve-major-computer-vision-challenges/"
 webUrl: "https://venturebeat.com/2022/04/16/how-dall-e-2-could-solve-major-computer-vision-challenges/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

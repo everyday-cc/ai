@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-16T18:18:00Z
 originalUrl: "https://www.thepharmaletter.com/listing/focus-on/pharmaceutical-deals?tagid[]=7083&tagid[]=18442"
 webUrl: "https://www.thepharmaletter.com/listing/focus-on/pharmaceutical-deals?tagid[]=7083&tagid[]=18442"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Pharma Letter

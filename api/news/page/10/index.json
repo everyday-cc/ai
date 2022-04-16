@@ -2,40 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-04-05-outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat.md",
-      "title": "Outdoor and Dock Exhibitors Offer Whatever Floats Your Boat",
-      "excerpt": "From a Stiletto to a Rekognition Video Analyzer, outdoor and dock exhibitors are giving Sea-Air-Space attendees the opportunity to check out cutting-edge defense technology. The carbon-fiber, 88-foot M-80 Stiletto is a floating platform devoted to",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
-      "originalUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
       "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
       "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
@@ -304,49 +270,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
-      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
-      "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
-      "originalUrl": "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/686666dc-7fc7-4858-9461-a3d2c8257f2e/Amazon_Web_Services.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
-      "publishedDateTime": "2022-04-05T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
       "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
       "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
@@ -377,6 +300,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
+      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
+      "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
+      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1111,6 +1077,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-how-reverie-is-serving-bharat-with-multilingual-bots.md",
+      "title": "How Reverie is serving Bharat with multilingual Bots",
+      "excerpt": "Through its robust partner ecosystem Reverie empowers multilingual chatbots to enable language interface through voice and conversational AI be it ... include machine translation, speech-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots-11649076963373.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/04/04/600x338/02_(30)_1649077118917_1649077124184.jpg",
+          "width": 599,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/how-reverie-is-serving-bharat-with-multilingual-bots/amp-11649076963373.html",
+      "publishedDateTime": "2022-04-04T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

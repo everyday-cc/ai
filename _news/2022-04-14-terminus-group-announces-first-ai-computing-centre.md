@@ -61,6 +61,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 17
+  - title: "Deal inked to establish National Centre for Big Data Science and Artificial Intelligence"
+    excerpt: "AMMAN — The Hashemite University, Zain Jordan and the Big Data Solutions Corporation on Saturday signed a partnership agreement to establish a Jordanian National Centre for Big Data Science and Artificial Intelligence. According to a statement by Zain ..."
+    publishedDateTime: 2022-04-16T19:55:00Z
+    webUrl: "https://www.jordantimes.com/news/local/deal-inked-establish-national-centre-big-data-science-and-artificial-intelligence"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 8
 
 secured: "HoaC/+E7HHk9wAdxfBPqlEEYH0iUd0QAs/ppw101ElyOZHnGdcuVjfTv5r5zdVJZU2QDt6ORkvvDnpuIokEVjAUHR7oTWYd4Ex/lv0iTSxCyfLjQikl+AqD5SwVCC0G9G8VoueYsFgvn1uVLrhuU+kgOYkeJnQiRBSoHLcSXXU9q5hy/h8GzrzEuZwsrtZwb02L5QOmrpp4dWLq4CHi65mztG5LberNx8KrVdsAueQeLTznXWBrArmnXuYqjU/qvyYvNujxqNfSp1aSjmDpW9PjuosRDRzjVoAxs6UhpM3UcwQ+nysYhHMfAhtaMTHEZEsVYvYpiQewIcTlcuwa6rl3OSRUZG2xyugE4BVKgA9g=;2EXVpMItLxG7tMzxgobdBQ=="
 ---

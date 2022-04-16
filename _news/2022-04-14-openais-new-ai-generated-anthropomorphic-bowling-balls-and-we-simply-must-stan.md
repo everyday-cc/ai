@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/openai-bowling-balls/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-bowling-balls/amp"
 type: article
 quality: 55
-heat: 77
+heat: 75
 published: true
 
 provider:

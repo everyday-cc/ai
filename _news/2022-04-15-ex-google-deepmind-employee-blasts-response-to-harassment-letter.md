@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/ex-google-deepmind-employee-blasts-response-t
 webUrl: "https://techstory.in/ex-google-deepmind-employee-blasts-response-to-harassment-letter/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind launches GPT-3 rival, Chinchilla"
-    excerpt: "Chinchilla reaches a state-of-the-art average accuracy of 67.5% on the MMLU benchmark, a 7% improvement over Gopher."
-    publishedDateTime: 2022-04-12T04:37:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-gpt-3-rival-chinchilla/"
+  - title: "Ex-DeepMind employee says AI firm sought to ‘salvage’ its reputation instead of dealing with complaints"
+    excerpt: "A former DeepMind employee has hit out at the Alphabet owned firm for seeking to “discredit” her in a bid to “salvage” its own reputation, after she"
+    publishedDateTime: 2022-04-13T11:08:00Z
+    webUrl: "https://www.cityam.com/ex-deepmind-employee-says-ai-firm-sought-to-salvage-its-reputation-instead-of-dealing-with-complaints/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/deep.png"
-        width: 1366
-        height: 768
-        isCached: true
+      name: City A.M.
+      domain: cityam.com
+    quality: 18
 
 secured: "rjL95ddKDpmhztAZ5el3FDLIuGbZprKuLADubcjTJgqScPiJUP/hQdeZD3eNsuFFU6rkPexT+X54dsNVFJLmvmAEIoIRqBxx5jLqYYm4WF5a6xeLnj4nBni4tCrDxnl8v/BUOBidUNfI4WLm8ixu09a1NBv1KNTp6/zk+llx4X1KNCUztlOxsyKF4hezel3aBts3Hm5xKyrUXpedSUis1fqCZMF82yhA3Wnr1XmoIbWRs4eMUdbw3M1ZRTN2w3Itb0hJGYsmeKD4ED4hOzCoQ5SesSW8Z845JDssJx1PeOBYFKXKF0jUo/4/96/bZrx48R/slxZIbKdI2zb2EzEGqo8L4gF1vucqzhgC2F96w2A7QIYC04r1bFmRUDoc+0ytYOvRSqRGZ49Jj+54P02qs/QR6omC8H8Kcp+iJPY+ImvsuoarubvBqBdOJ6+meSuwqofRw1f3LUSnWcQ4nMc0XhlfAU/5KTvZDv60cB0sz6rvz3p/JQFvquF0s+z2HZheGF2KCSa1Q4trdJbiDsSKUg==;tv/gy7z4Hu7giZAcAbuRVA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4501601-micron-technology-chip-
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4501601-micron-technology-chip-stock-automobile-ev"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "Massachusetts Institute of Technology: An optimized solution for face recognition"
-    excerpt: "The human brain seems to care a lot about faces. It’s dedicated a specific area to identifying them, and the neurons there are so good at their job that most of us can readily recognize thousands of individuals."
-    publishedDateTime: 2022-04-12T03:48:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-an-optimized-solution-for-face-recognition/"
-    ampWebUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-an-optimized-solution-for-face-recognition/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-an-optimized-solution-for-face-recognition/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 54
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "eqPmf3HqYo7eMkQurdL4XCZSFeK8fnVE2HzsiuYme0cIpTETEC1kN0yvw17CI8HIVigr0VygzTPC9T4znHY+FopBgv7UCbN4RoDo6T0TmzhUpeG7vL6PQGmBGrl0H6+gtCoIHE6/+TmGQJgrw2Omu1p6UVattorWBeEjgYJ+zNCh0X0H/VYgOdVU7BmHYFLGgYvDCoFIx2GZyiwrlIX9DZBTBvng0R5PbdenN+5CJ0bRbGRja32ABYA65bsfp3KwbM6D9s8mHyoTnUfY7yUIbBGpe5vGoF+NMd2Agbw6X8zxbgdr5ZDC3FIBsCwSg7D2Tn6Pay0AE5m0hTkaj+J1fqyu/zRsQujoow+532aa1Wf9t0QGbHN7+H2ek7gOrIBgxo+U9Pl3YhQV5jQrvl8Ahad+vNYETYm1k2H6jnVBWLJYaqq1TjaNO2UNRYCWBkzLw3+IJzaMSioq9g4WqWQBZjfT9YrHA1yXK6GygRVkYI3E5akcmMJD8fa1ZZ79BBU8k1aTs2DlDVsXlJJeCEkFhQ==;5WxWNReHPU1SG9mG6FV/HQ=="
 ---

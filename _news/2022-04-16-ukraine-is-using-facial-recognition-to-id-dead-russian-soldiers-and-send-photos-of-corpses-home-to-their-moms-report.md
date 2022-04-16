@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/fce75ee/2147483647/strip/true/crop/3065x1735+86+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F60%2F3b%2F7679060f4b15876cb5378b1eee14%2Fbefunky-collage-95.jpg"
         width: 530
         height: 300
+        isCached: true
+  - title: "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers"
+    excerpt: "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind."
+    publishedDateTime: 2022-04-16T21:48:00Z
+    webUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions"
+    ampWebUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 70
+    images:
+      - url: "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png"
+        width: 600
+        height: 315
         isCached: true
   - title: "Ukraine Reportedly Using Facial Recognition to Send Photos of Dead Russian Soldiers to Their Mothers"
     excerpt: "Soldiers in Ukraine are using facial recognition software Clearview AI to identify dead Russian soldiers and send it to families in Russia."

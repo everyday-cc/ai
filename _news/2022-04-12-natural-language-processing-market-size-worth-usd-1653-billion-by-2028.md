@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     quality: 29
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4e73b4174c4a302cc87ea8aea53515c63421d5b1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market is expected to reach the value of 17.2 million USD by the end of 2027."
-    excerpt: "According to our research analysis, the Artificial Intelligence in Manufacturing Market size was estimated to be worth 1.5 billion dollars in 2021, and it"
-    publishedDateTime: 2022-04-12T04:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-is-expected-to-reach-the-value-of-17-2-million-usd-by-the-end-of-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/5032ea4ef5e756c755d3f7b4164f86034523018f-600x337.jpg"
         width: 600
         height: 337
         isCached: true

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Server AI Chip Market, Global Outlook and Forecast 2022-2028"
-    excerpt: "The global Server AI Chip market was valued at million in 2021 and is projected to reach US$ million by 2028, at a CAGR of % during the forecast period. The U.S. Market is Estimated at $ Million in 2021,"
-    publishedDateTime: 2022-04-12T04:44:00Z
-    webUrl: "https://galleonnews.com/news/246952/server-ai-chip-market-global-outlook-and-forecast-2022-2028/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 34
   - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
     excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
     publishedDateTime: 2022-04-12T12:04:00Z
@@ -43,6 +34,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 23
+  - title: "Cloud AI Market size to increase by USD 10.22 bn | High growth expected in software segment | Technavio"
+    excerpt: "Start by Downloading a Free Sample Report The market is driven ... and cybersecurity-related threats will hamper the market growth. The global cloud AI market is highly fragmented due to the presence of many global and international players."
+    publishedDateTime: 2022-04-13T02:42:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud-ai-market-size-to-increase-by-usd-10-22-bn-high-growth-expected-in/article_6534fa91-c5fb-5475-9854-14bd2ebf3086.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/b3/3b3afe77-1954-5d15-be69-a9b256125b90/625630341b3b3.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market Insights by Emerging Trends, Growth and Forecast till 2022-2031"
     excerpt: "Comserve / -- Artificial Intelligence in Accounting Market Growing need to automate mundane accounting tasks and support data-based advisory and decision making is expected to drive the overall growth of AI in accounting market."
     publishedDateTime: 2022-04-13T08:34:00Z
@@ -84,20 +89,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Global Veterinary Healthcare Market To Be Driven By Rapid Adoption Of Digital Technology In Veterinary Healthcare In The Forecast Period Of 2022-2027"
-    excerpt: "Artificial intelligence (AI) is increasingly being integrated into various veterinary healthcare research and development (R&D) operations to better analyse data, which is fueling market expansion. Key Market Players The major players in the market are ..."
-    publishedDateTime: 2022-04-12T10:33:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-veterinary-healthcare-market-to-be-driven-by-rapid-adoption-of-digital-technology-in-veterinary-healthcare-in-the-forecast-period-of-2022-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "eSxHmWeCbAKFNWEblqksI3hFsVly99B75EzyG0nmyDOXb75IpQ1YgU3HtYiA7AK8iWw1EZbTLpFnvFrx2f5GDoGi6z8xvviPHUScgqQSmMQpTZ2Uc337NVeKvtF6osjg0YJ+8oZHLNm0qvZHTxdqoEl+8mqMSM2V/pxfC0qVlA+XshaiNH1jSL7hmY4IOQWrfNqKcyIkflGjOOL5/bgIL/f8mEBfQ97i9DiS/hmt9g1vCJg341aHE+flTipxNNFfCiRtp1BjcmGty/2KyGuLVXGTR6JK4ZnLz3g5SRGVixmuLDSP0OxRGGgO4+H/zubc3GxnGmX2T5ulb4pakcxnQXgOna1Lb79uvPa8rHtTf98=;k4/Ib0iKqsXFCOtODJnh1A=="

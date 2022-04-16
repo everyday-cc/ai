@@ -38,20 +38,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market"
-    excerpt: "Global Artificial Intelligence in Manufacturing Market has been valued at US$ 1.5 Billion in 2021 and it is expected to reach the high market capital of US$ 17.2 Billion by 2027."
-    publishedDateTime: 2022-04-12T04:25:00Z
-    webUrl: "https://www.marketdataforecast.com/market-reports/artificial-intelligence-in-manufacturing-market"
-    type: article
-    provider:
-      name: marketdataforecast
-      domain: marketdataforecast.com
-    quality: 41
-    images:
-      - url: "https://www.marketdataforecast.com/images/download.png"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "W8agGf7py3dnDHBJS+XKG3IwRglBI2Tz3GGnfY4OaZRtPGTb5aodtkPxQhgqq5rtI+TjyZn1oraPj9E8knb4aOAqp0F0bQiGnDM0+OKoBF5yY+Iy8NqOzZ3X5HgTcUnzidUUsmG1k/sOr49+WFE1EDVsCCs3nrvQ/v7evYUpRbSlBR+NnyMAonb7YONfHj+ebadA83cYiRAieJf9w2bI9po8Lf6Kv59ExkRDUy3h8jt5rUnqQ6nF0V/WHzf9kTs92VmlS+iOGM51glot2/w98bW9SleO+vbfRe1GrxXpmKJOM+iEerR1v5P/ufHjxoHRfPr6HilTQlz9v+RRyE98d8et6EqQv6tnIXbXbZU9Fpo=;htv863M2jW9AFDBOOH95SQ=="
 ---
