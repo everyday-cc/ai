@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-he
 webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Helping Customers Through Voice AI"
-    excerpt: "A strong passion to enhance customer experience through AI-driven automation led to the formation of AI Rudder, a voice AI technology. “Together with my co-founder, Teng Ren, we saw an opportunity from day one to build a truly international company that develops advanced voice AI technology to help businesses solve its B2C communication challenges,"
-    publishedDateTime: 2022-04-11T12:26:00Z
-    webUrl: "https://www.entrepreneur.com/article/424453"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "Advancing data discovery in the life sciences through artificial intelligence"
     excerpt: "Vyasa has developed deep-learning artificial intelligence solutions for organizations looking to solve the complex data challenges associated with healthcare and the life sciences, from improving scientific research and accelerating drug discovery and development,"
     publishedDateTime: 2022-04-11T16:38:00Z

@@ -28,15 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 31
-  - title: "AI could help trainee teachers identify pupils with learning difficulties"
-    excerpt: "AI could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, according to a new study."
-    publishedDateTime: 2022-04-11T12:56:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/04/ai-could-help-trainee-teachers-identify-pupils-with-learning-difficulties/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 16
 
 secured: "AE7yA6UodDDFGLxmhla0gOYR0L89BsKxcWtXJ+U3TBego1SPXG0ZClCgo/7uQHOd8xDKpycQMB2ZBKAj23lSLkbIsBUDd96yeyjzJNVc8+TmRqlGYQBuCMgbTXmAHckdW7nQeQPZCwYyR1B7mXZ4N35s0RV7t2EpsjpUmtpkDUvd+h1jv73s0aasiC53fZGeKOLGWCKm6lpUgansL7JmrcYmO/lufzIO87bEEmYxJHdm3nvT0nwXhVn8Euj7LAoz5tI/d3zAtk55tpjgXGoGlpqD1eSHIh/8m2XEVErAOo9Wx0LJKMiasg6zD8Cc/iGlADHaPNPyCx5dkbA7He20njvqzyckfbO2MRSlIznJULs=;ZOYB37kpja/lmaCexw9GiQ=="
 ---

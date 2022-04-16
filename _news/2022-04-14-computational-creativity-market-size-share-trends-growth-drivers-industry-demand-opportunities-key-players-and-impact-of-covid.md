@@ -154,15 +154,6 @@ related:
         width: 877
         height: 432
         isCached: true
-  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
-    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
-    publishedDateTime: 2022-04-11T12:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=644996"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
   - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
     excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
     publishedDateTime: 2022-04-15T11:33:00Z

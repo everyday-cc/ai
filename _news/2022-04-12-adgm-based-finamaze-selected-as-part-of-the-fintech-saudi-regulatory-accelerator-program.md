@@ -55,20 +55,6 @@ related:
         width: 289
         height: 305
         isCached: true
-  - title: "Global Web3 & FinTech consultancy Wachsman opens in London"
-    excerpt: "Strategic communications consultancy Wachsman, a specialist in Web3, blockchain and fintech verticals with more than 130"
-    publishedDateTime: 2022-04-11T11:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/global-web3-fintech-consultancy-wachsman-opens-in-london/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
-        width: 450
-        height: 376
-        isCached: true
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z
@@ -82,6 +68,20 @@ related:
       - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_8.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fintech start-ups frustrated by red-hot recruitment market"
+    excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
+    publishedDateTime: 2022-04-16T05:03:00Z
+    webUrl: "https://www.thehrdirector.com/business-news/financial/fintech-start-ups-frustrated-red-hot-recruitment-market/"
+    type: article
+    provider:
+      name: theHRDIRECTOR
+      domain: thehrdirector.com
+    quality: 24
+    images:
+      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
     excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."

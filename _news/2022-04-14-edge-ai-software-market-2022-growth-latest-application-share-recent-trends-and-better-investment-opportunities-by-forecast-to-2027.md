@@ -145,15 +145,6 @@ related:
         width: 406
         height: 250
         isCached: true
-  - title: "Ambulatory EHR Market Research Report 2022 - Global Forecast to 2028: Opportunities in the Integration of Artificial Intelligence and Machine Learning"
-    excerpt: "The main driving factors are increasing government support for adoption of EHR solutions, increasing trend of patients shifting towards ambulatory care rather than inpatient, and growing need to reduce operational costs in healthcare industry. Furthermore ..."
-    publishedDateTime: 2022-04-11T12:16:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=644996"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
   - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
     excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
     publishedDateTime: 2022-04-14T13:04:00Z

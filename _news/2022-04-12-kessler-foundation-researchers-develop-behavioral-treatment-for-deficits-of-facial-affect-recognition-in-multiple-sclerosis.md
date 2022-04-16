@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers urge facial recognition restrictions, broad consideration by Canadian lawmakers"
+    excerpt: "The researchers say that the risks of facial recognition use for individuals and society are significant and should be considered in terms as broad as possible."
+    publishedDateTime: 2022-04-13T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
     excerpt: "A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis ..."
     publishedDateTime: 2022-04-12T17:03:00Z
@@ -40,20 +54,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
         width: 1920
         height: 982
-        isCached: true
-  - title: "Kessler Foundation Study Supports EMOPRINT for Facial Recognition Deficits in Multiple Sclerosis"
-    excerpt: "A recent study provides Class 1 evidence supporting the efficacy of EMOPRINT for treating facial recognition deficits in people with MS."
-    publishedDateTime: 2022-04-14T22:55:00Z
-    webUrl: "https://ptproductsonline.com/neurological/multiple-sclerosis/kessler-foundation-study-supports-emoprint-for-facial-recognition-deficits-in-multiple-sclerosis/"
-    type: article
-    provider:
-      name: Physical Therapy Products
-      domain: ptproductsonline.com
-    quality: 26
-    images:
-      - url: "https://ptproductsonline.com/wp-content/uploads/2022/04/facial-recognition.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "a7CGBMmQxln4/8ymLLOBgYryRUbGBRwF0ye1I4Bcx/5h9pXfUKmWfeymWbsmddXA3Qh9oKU2DNC+yCBR9UVWuhvgU/LUpyALsDuY+1DVPLKKZYGcdxWlo9D4TnXCXBCCRPbspXBxFrYsH5kVREYdBScQjp3oHinkq9X2uDyGcIMYmq35/eq30deAtn/8o8lqUmzBn8Yk1v7w9antW71IHF4cbPVGr5KS6d8T9/ptoJRF+5MlDZDjkVsbKQQdCgidW+3J4dU+vq7eg8qpKpuBsqBeoBUKtHIEOtrpXGg7/FkYfQ9Q3LtC4tcRflUaWlcdqx4vrIS5JN6N7Atdn84olatxWJ7pkFUCPFvmiXJk8m4=;r50yGnVgWuwgE2b4Xy4Xdg=="

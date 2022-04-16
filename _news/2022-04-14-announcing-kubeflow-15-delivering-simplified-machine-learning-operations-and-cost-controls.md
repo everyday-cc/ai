@@ -2,28 +2,28 @@
 category: news
 title: "Announcing Kubeflow 1.5: Delivering Simplified Machine Learning Operations and Cost Controls"
 excerpt: "The latest release also simplifies support for high-availability options in its AutoML component. Finally, Kubeflow 1.5 adds the MPI framework to Kubeflow's Unified Training Operator, creating a ..."
-publishedDateTime: 2022-04-14T13:42:00Z
-originalUrl: "https://wgntv.com/business/press-releases/cision/20220414LA25185/announcing-kubeflow-1-5-delivering-simplified-machine-learning-operations-and-cost-controls/"
-webUrl: "https://wgntv.com/business/press-releases/cision/20220414LA25185/announcing-kubeflow-1-5-delivering-simplified-machine-learning-operations-and-cost-controls/"
+publishedDateTime: 2022-04-14T13:39:00Z
+originalUrl: "https://myfox8.com/business/press-releases/cision/20220414LA25185/announcing-kubeflow-1-5-delivering-simplified-machine-learning-operations-and-cost-controls/"
+webUrl: "https://myfox8.com/business/press-releases/cision/20220414LA25185/announcing-kubeflow-1-5-delivering-simplified-machine-learning-operations-and-cost-controls/"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: WGN-TV
-  domain: wgntv.com
+  name: WGHP
+  domain: myfox8.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/White-Sox-Jackie-Robinson-Jerseys.png?w=2000&#038;ssl=1"
-    width: 727
-    height: 411
+  - url: "https://i0.wp.com/myfox8.com/wp-content/uploads/sites/17/2022/04/Capture104.png?w=2000&#038;ssl=1"
+    width: 637
+    height: 276
     isCached: true
 
-secured: "oqnGa10tJ2F6T/lbox/qA0/Ybm5Rn1OhJGw1zke0qUOQFSS33ptnGfekvmF38WXJMdyTUJvYDYmdHYVdKPo1pjszWgIEqL0rhq3OWshYZtBmJXiLhM7jMGFAofP6Qk1HYsupSFxB/Ew690ERj6AF0iL4v3q3UIl8zRFGJ1EvVqqIOwvKT+23FgPrVNtRX2Zb+PvFY4qpcDEYIEtzQb9eT3ht6NE6oduG0iJmU7mi/qGSNU1pdKBgknKuXs6HhTUJBdMAMUa2zMbvfHJkYh3s68q2IDkrTBTgfB1xOKxNxGwQyxFlEC0JdWMT9SNeJRjsWDHSbSQnR1nvuTDgK9mF4QHgcnYY8Wi6WmWOuaHDa4U=;N9+gnszKXROi1Myzbscieg=="
+secured: "tyVUoTnu/zOO6WW7YrNH2fNzmASVaFVH7GvtQ3FIdgIU2YwlX0gxKZavcJG8VIjjMYsoOKT5+wqW3gRuGzezWlFqi3wYc7zJYZHyXoAsrK2ls6RE1m5JrtfranilGDZO4S0oOYU2NI5XauBWSVnhsileTRbwpkPMgqrMjodCz323aFzN7nggx7E1xG4rts24A7o70mzUBD5A5SDC3lYIcm66YYESK/UxxEcoqQmh1lEP2SHic0Ulchyd+6PXQILmETqwMcDSfn0iF5TuRi92coChKbAp1XLm48OoVYtJq4sam9tVYckXYqJHeYeO+UQzHo24F9Vw50QgvPOp7JtKKk8jUbcrwADVNvz48ttbHQE=;aI7R/KXWkCvbEeN+VTvLWw=="
 ---
 

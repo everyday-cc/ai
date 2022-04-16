@@ -93,22 +93,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "A self-driving car is pulled over by police, find out what happened next"
-    excerpt: "Footage has been released of San Francisco police pulling over a Cruise self-driving car. What happens next is fascinating to watch."
-    publishedDateTime: 2022-04-11T11:03:00Z
-    webUrl: "https://interestingengineering.com/pulling-over-driverless-car"
-    ampWebUrl: "https://amp.interestingengineering.com/pulling-over-driverless-car"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/pulling-over-driverless-car"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 43
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QlO7jjomw7/sizes/cruise_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Self-driving car pulled over by San Francisco police, but there was nobody inside"
     excerpt: "A video posted on social media reveals San Francisco police pulling over a self-driving vehicle, only to find nobody inside. The driverless vehicle belonged to San Francisco-based company ..."
     publishedDateTime: 2022-04-12T07:22:00Z

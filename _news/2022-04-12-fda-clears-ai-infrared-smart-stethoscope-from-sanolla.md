@@ -38,20 +38,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope"
-    excerpt: "NESHER, Israel, April 11, 2022 /PRNewswire/ -- Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the ..."
-    publishedDateTime: 2022-04-11T12:20:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 22
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
   - title: "Israeli Startup Sanolla Gets FDA’s 510(k) Clearance for its ‘Infrasound’ Stethoscope"
     excerpt: "The AI algorithm helps identify several cardiopulmonary conditions, including chronic obstructive pulmonary disease, pneumonia, asthma and cardiac morbidities."
     publishedDateTime: 2022-04-14T04:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbc.ca/amp/1.6417499"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6417499"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 620
     height: 349
     isCached: true
-
-related:
-  - title: "Researchers Develop a Robot Hand that Can Feel Objects"
-    excerpt: "In a recent breakthrough, a team of engineers has come up with an artificial fingertip that reacts to texture and shapes much like a human fingertip."
-    publishedDateTime: 2022-04-11T11:58:00Z
-    webUrl: "https://propakistani.pk/2022/04/11/researchers-develop-a-robot-hand-that-can-feel-objects/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 19
 
 secured: "JQaY2+0AJzniwYjNAsHh4hJsKQmKSjyRTvEPb0ehdYveXhkgbEmYF6krUYHKxSULW82qbGVC4CiiLYb1wJlxSx+Ff84/5TnY06Rd397PLLPA11/kksLPuCmzqIi28GU8IFyl6YEJFW4t7Vu5/85K+eGyX1UfLVA538nPivpoK78D/nfiXW4s00R244fAQJqcXjbjSjsDWpdpYNyfxeXMzSLNqTkVLMqkVTmXJ2UrkmRZCf53NsH1BxtlzoWgft5ve8p1ncpW15CoStJvOPiAmb0/4E5PxS4pPL3TxNvfYApKlOEBeyOCQZ6uXu9OwJqkH4P8AOvwuwQhWgD4vQlJ0qZDxE6dXHgSWKLlY9qr6l62+wZS5tOa5CCg2HOfGDTkfTdjvKFFiVagxoHZ/Ij+QqcywkgvPfHBup612nJ5K/HGCcPdNAqq83CTg5LK1ebAvhc5iORfGS105R16v4TVRy/kTHrNNMAs1MPQ5ouxA+YQLVsxO/pZmDdh6C0C4c8914tayJ/vV5mZkJu/eKKSCQ==;gBVg3C8MAqAwxwGLAz7WDw=="
 ---

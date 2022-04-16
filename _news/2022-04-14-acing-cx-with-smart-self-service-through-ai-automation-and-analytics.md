@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -137,15 +137,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "BigBear.ai acquires predictive analytics software firm"
-    excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
-    publishedDateTime: 2022-04-11T12:32:00Z
-    webUrl: "https://seekingalpha.com/news/3822280-bigbearai-acquires-predictive-analytics-software-firm"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
     excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
     publishedDateTime: 2022-04-15T14:30:00Z

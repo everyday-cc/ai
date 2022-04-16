@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Family Ties Enterprises, Inc. and TQIntelligence Launch A Voice AI Digital Health Solution for Georgia Youth"
-    excerpt: "Family Ties Enterprises, Inc. and TQIntelligence today announced that Family Ties Enterprises, Inc. will integrate Clarity AI, TQIntelligence's digital health platform, into in-school programs throughout Georgia to provide mental health services to the most vulnerable patient population."
-    publishedDateTime: 2022-04-11T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/family-ties-enterprises-inc-and-tqintelligence-launch-a-voice-ai-digital-health-solution-for-georgia-youth-1031345977"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/1783526/Agency_new_logo_blue_transparent__2_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Observe.ai raises $125M, adding Zoom as an investor, to supercharge the contact center market"
     excerpt: "Contact centers play a key part in call a company engages with customers, amounting to what is a $400 billion market globally. Its aim, said Swapnil Jain, the CEO of Observe.ai, is to target the \"dreadful experiences\" that tend to be the norm when it comes to contact center engagements."
     publishedDateTime: 2022-04-12T12:02:00Z

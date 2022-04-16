@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 794
         isCached: true
-  - title: "Sorry, developers: Microsoft's new tool fixes the bugs in software code written by AI"
-    excerpt: "Microsoft reckons machine-generated code should be treated with a \"mixture of optimism and caution\" because programming can be automated with large language models, but the code also can't always be trusted."
-    publishedDateTime: 2022-04-11T11:47:00Z
-    webUrl: "https://www.zdnet.com/article/sorry-developers-microsofts-new-tool-fixes-the-bugs-in-software-code-written-by-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sorry-developers-microsofts-new-tool-fixes-the-bugs-in-software-code-written-by-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sorry-developers-microsofts-new-tool-fixes-the-bugs-in-software-code-written-by-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b553df9f6b432740715bbd73bcb357d1d312bc9f/2022/04/04/c113740a-de27-4483-b0b2-f748b8f1e75b/how-to-stand-out-in-a-job-interview.png?width=1200&height=675&fit=crop&format=pjpg&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
     excerpt: "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture."
     publishedDateTime: 2022-04-14T08:42:00Z

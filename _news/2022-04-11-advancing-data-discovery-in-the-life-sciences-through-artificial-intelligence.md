@@ -39,15 +39,6 @@ related:
         width: 687
         height: 508
         isCached: true
-  - title: "Helping Customers Through Voice AI"
-    excerpt: "A strong passion to enhance customer experience through AI-driven automation led to the formation of AI Rudder, a voice AI technology. “Together with my co-founder, Teng Ren, we saw an opportunity from day one to build a truly international company that develops advanced voice AI technology to help businesses solve its B2C communication challenges,"
-    publishedDateTime: 2022-04-11T12:26:00Z
-    webUrl: "https://www.entrepreneur.com/article/424453"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
     excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
     publishedDateTime: 2022-04-13T06:42:00Z

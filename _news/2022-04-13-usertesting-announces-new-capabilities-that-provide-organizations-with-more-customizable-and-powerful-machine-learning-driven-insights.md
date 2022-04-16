@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-usertesting-announces-new-capabili
 webUrl: "https://www.tmcnet.com/usubmit/-usertesting-announces-new-capabilities-that-provide-organizations-with-/2022/04/13/9582494.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Allvision's New Offering Provides Customizable Access to Geospatial AI Platform"
-    excerpt: "AIGIS enables businesses and government agencies to jumpstart AI pipeline . PITTSBURGH, April 11, 2022 /PRNewswire/ -- Allvision IO, a geospatial analytics company, is pleased to"
-    publishedDateTime: 2022-04-11T12:00:00Z
-    webUrl: "https://www.kxan.com/business/press-releases/cision/20220411NE19496/allvisions-new-offering-provides-customizable-access-to-geospatial-ai-platform/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 13
   - title: "UserTesting Announces New Capabilities that Provide Organizations with More Customizable and Powerful Machine Learning-Driven Insights"
     excerpt: "UserTesting (NYSE: USER), a leader in video-based human insight, today announced new features as part of its quarterly product release to help companies gather human insights specifically tailored to how their business operates."
     publishedDateTime: 2022-04-15T10:57:00Z

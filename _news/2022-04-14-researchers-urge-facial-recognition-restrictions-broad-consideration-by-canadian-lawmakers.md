@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-rec
 webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,57 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "The Art Exhibition That Fools Facial Recognition Systems"
-    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
-    publishedDateTime: 2022-04-11T11:24:00Z
-    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
+  - title: "Researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
+    excerpt: "A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis ..."
+    publishedDateTime: 2022-04-12T17:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.amp"
     type: article
     provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 27
     images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
+        width: 1920
+        height: 982
         isCached: true
-  - title: "Speech recognition for French and integration into a spoken language comprehension system"
-    excerpt: "We are faced with an industrialization phenomenon that makes itself felt in literature as well as in every other subject. The reshaping of literature according to the conditions of market capitalism turns literary products into simple consumables. Newly released literary novels, stories, poems, essays, etc. literary products no longer have an artistic quality, they are consumed quickly and resemble Hollywood movies…Identical, fabricated books adorn the shelves of the bookstore. We are faced with books that appeal to the eye, not to the pleasure of reading. Every day, we are showered with novels whose content resembles a movie script, and the most popular ones are immediately adapted to the cinema. Their styles, plots and even the subjects themselves are extremely superficial, identical books are everywhere.There are quite a few pages in such works, but it is possible to read and finish them in a short time. We would like to say that the reason for this is that it is written in a successful language. However, if we consider that the majority of the people who read these books find it boring and they find it boring, this is not the main reason. The main reason is that in such industrial novels, whether it is character analysis, description of environment and events, a very superficial work is done. Writers don't think about these things. Because – a group of authors should be excluded from this – what is important for authors now is the sales figures and the amounts they will earn, rather than the literary and aesthetic characteristics of their works."
-    publishedDateTime: 2022-04-12T01:24:00Z
-    webUrl: "https://www.amazon.co.uk/Speech-recognition-integration-language-comprehension-ebook/dp/B09XJ3Z775"
+  - title: "Kessler Foundation researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
+    excerpt: "East Hanover, NJ. April 12, 2011. A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis (MS). The article ..."
+    publishedDateTime: 2022-04-12T13:51:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949486"
     type: article
     provider:
-      name: Amazon Associates UK
-      domain: amazon.co.uk
-    quality: 30
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
     images:
-      - url: "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png"
-        width: 350
-        height: 450
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/54ef56bc-cb56-4c3b-a26d-cf03718dd400/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
-  - title: "The waste picker fighting for global recognition"
-    excerpt: "More than 20 million people around the world work as waste pickers. They are the de facto recycling system in many parts of Latin America, Africa and Asia, making a living by sorting through garbage for reusable materials,"
-    publishedDateTime: 2022-04-13T16:01:00Z
-    webUrl: "https://www.politico.com/newsletters/the-long-game/2022/04/13/the-waste-picker-fighting-for-global-recognition-00024944"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/91/0b/427a1874454fb9e48b1790029f0a/20220413-soledad-lg.png"
-        width: 1138
-        height: 773
-        isCached: true
-  - title: "Audit: Lockport's bidding for facial recognition system was legal but not transparent"
-    excerpt: "SN Technologies was the only respondent. \"Seeking competition for the initial facial/object recognition software may have provided for a more transparent procurement process,\" the auditors wrote."
-    publishedDateTime: 2022-04-15T18:30:00Z
-    webUrl: "https://buffalonews.com/news/local/education/audit-lockports-bidding-for-facial-recognition-system-was-legal-but-not-transparent/article_78000f7a-bb5e-11ec-a92e-075df8b7085d.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 12
 
 secured: "tXBJ8caBV4wVayVCMS0P+p6XorEM/lzwoePYtkHWnx3QUcAZpsKdImyq3j7TlSctT/Q8qDpO+/DQK0Gp9oseWiiQh8cxTRfHKpe8UnKN7ymySyb4eOOq9XQaSuyjodRSrJaW3yTT48JkA0oCig5oAQSJjG0KVTURZImtfOlgkSGzfoQyrraC+fck6zmyWA27JlTgUSZwczofSB9dCNdEa4s2+YFzgdUpGAVeBeXl/5OI+sy2knajKplvaPVIemMqCbVK2bTk29qarISadxYndo9/lGSxccGJG1vQ+Cfe3n/Gm0AUDGjil7W7NlDrmN/wvca+Q6zEL7JtHOoNiHq6rWdiNX62KyzFKGUMwxlDZWg=;rMtCcSnJ+TE5FDfa52H1sQ=="
 ---

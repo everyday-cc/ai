@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sportradar to boost AI capabilities via Vaix acquisition"
-    excerpt: "Sportradar has acquired Vaix, an Artificial Intelligence solutions provider for the gambling industry, building on a previous partnership."
-    publishedDateTime: 2022-04-11T12:53:00Z
-    webUrl: "https://sbcnews.co.uk/technology/2022/04/11/sportradar-to-boost-ai-capabilities-via-vaix-acquisition/"
-    type: article
-    provider:
-      name: sbcnews.co.uk
-      domain: sbcnews.co.uk
-    quality: 17
   - title: "Sportradar acquires AI firm Vaix to help bookmakers deliver personalised bets"
     excerpt: "Sportsradar's Vaix acquisition formalises two-year partnership to drive engagement and reduce churn for betting operators."
     publishedDateTime: 2022-04-13T11:37:00Z

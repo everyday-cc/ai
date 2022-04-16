@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Family Ties Enterprises, Inc. and TQIntelligence Launch A Voice AI Digital Health Solution for Georgia Youth"
-    excerpt: "Family Ties Enterprises, Inc. and TQIntelligence today announced that Family Ties Enterprises, Inc. will integrate Clarity AI, TQIntelligence's digital health platform, into in-school programs throughout Georgia to provide mental health services to the most vulnerable patient population."
-    publishedDateTime: 2022-04-11T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/family-ties-enterprises-inc-and-tqintelligence-launch-a-voice-ai-digital-health-solution-for-georgia-youth-1031345977"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://mma.prnewswire.com/media/1783526/Agency_new_logo_blue_transparent__2_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Observe.ai lands $125M in funding for its intelligent call center software"
     excerpt: "The intelligent contact center software provider Z21 Labs Inc., which does business as Observe.ai, announced today it has raised $125 million in a new round of funding. The Series C round was led ..."
     publishedDateTime: 2022-04-12T11:59:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-16-is-ai-the-ultimate-matchmaker-this-ya-novel-explores-tech-and-dating.md",
+      "title": "Is AI the ultimate matchmaker? This YA novel explores tech and dating",
+      "excerpt": "British author Samantha Cheah narrates the bizarre dating experiences of a university student in London in the 2030s.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
+      "originalUrl": "https://www.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2022/04/14/987b9308-cd4c-485e-a3a0-7ee43bf62c7a_3a0f635e.jpg?itok=3zLCrzp4&v=1649920075",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its",
+      "publishedDateTime": "2022-04-15T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-who-serves-on-the-new-national-ai-advisory-committee.md",
       "title": "Who Serves on the New National AI Advisory Committee?",
       "excerpt": "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair.",
@@ -1408,49 +1460,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-designing-ai-ethics-in-practice-and-in-public.md",
-      "title": "Designing AI Ethics, in Practice and in Public",
-      "excerpt": "Just as the design of user experience for AI and its related technologies are vital concerns for architects and designers, so too are questions about ethics and AI. In this talk, which will kick off the Center’s symposium on Bringing Digitalization Home: How Can Technology Address Housing Challenges?",
-      "sourceUrl": null,
-      "webUrl": "https://www.hks.harvard.edu/events/designing-ai-ethics-practice-and-public",
-      "originalUrl": "https://www.hks.harvard.edu/events/designing-ai-ethics-practice-and-public",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png",
-          "width": 840,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

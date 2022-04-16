@@ -55,19 +55,19 @@ related:
         width: 289
         height: 305
         isCached: true
-  - title: "Global Web3 & FinTech consultancy Wachsman opens in London"
-    excerpt: "Strategic communications consultancy Wachsman, a specialist in Web3, blockchain and fintech verticals with more than 130"
-    publishedDateTime: 2022-04-11T11:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/global-web3-fintech-consultancy-wachsman-opens-in-london/"
+  - title: "Fintech start-ups frustrated by red-hot recruitment market"
+    excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
+    publishedDateTime: 2022-04-16T05:03:00Z
+    webUrl: "https://www.thehrdirector.com/business-news/financial/fintech-start-ups-frustrated-red-hot-recruitment-market/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: theHRDIRECTOR
+      domain: thehrdirector.com
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
-        width: 450
-        height: 376
+      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "ADGM-based FinaMaze selected as part of the Fintech Saudi Regulatory Accelerator Program"
     excerpt: "Fintech Saudi is an initiative under the Kingdom’s Financial Sector Development Program as part of the Saudi Vision 2030"

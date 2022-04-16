@@ -147,15 +147,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "BigBear.ai acquires predictive analytics software firm"
-    excerpt: "BigBear.ai (BBAI) shares dropped ~3% Monday morning after the software firm announced the acquisition of ProModel; financial terms of the deal were not disclosed.Based"
-    publishedDateTime: 2022-04-11T12:32:00Z
-    webUrl: "https://seekingalpha.com/news/3822280-bigbearai-acquires-predictive-analytics-software-firm"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
     excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
     publishedDateTime: 2022-04-14T12:59:00Z

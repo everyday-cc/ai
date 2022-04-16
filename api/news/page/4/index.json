@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-12-india-us-to-hold-dialogue-on-artificial-intelligence.md",
+      "title": "India, US to hold dialogue on artificial intelligence",
+      "excerpt": "Secretary of State Tony Blinken and Defence Secretary Lloyd Austin hosted the fourth 2+2 ministerial dialogue with Defence Minister Rajnath Singh and External Affairs Minister S Jaishankar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/04/FQHBJ4raAAEsnoy.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp",
+      "publishedDateTime": "2022-04-11T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-machine-learning-models-leak-personal-info-if-training-data-is-compromised.md",
+      "title": "Machine learning models leak personal info if training data is compromised",
+      "excerpt": "Machine learning models can be forced into leaking private data if miscreants sneak poisoned samples into training datasets, according to new research. A team from Google, the National University of Singapore, Yale-NUS College, and Oregon State University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/12/shutterstock_personal_information.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/",
+      "publishedDateTime": "2022-04-11T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-aint-nobody-in-it-watch-san-francisco-police-stop-of-self-driving-car.md",
       "title": "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car",
       "excerpt": "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here.",
@@ -10,7 +95,7 @@
       "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -53,7 +138,7 @@
       "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1088,95 +1173,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
-      "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
-      "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
-      "originalUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/932/470/GettyImages-173671212.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
-      "cdnAmpWebUrl": "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
-      "publishedDateTime": "2022-04-10T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5",
-        "domain": "fox5dc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-ai-pioneer-suggests-trickle-down-approach-to-machine-learning.md",
-      "title": "AI pioneer suggests trickle-down approach to machine learning",
-      "excerpt": "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "originalUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "publishedDateTime": "2022-04-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

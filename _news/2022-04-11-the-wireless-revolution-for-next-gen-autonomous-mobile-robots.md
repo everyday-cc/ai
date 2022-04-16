@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Which Industries Will Profit From The Robot Revolution?"
-    excerpt: "We are already living in the future. Our everyday lives are influenced by robots in many ways, whether we're at home or at work. As artificial intelligence, open source algorithms, and cloud technology have been developed in recent years,"
-    publishedDateTime: 2022-04-11T12:00:00Z
-    webUrl: "https://i-hls.com/archives/114084"
-    type: article
-    provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 19
-
 secured: "64uMzZz2ltUX9M0URyGRUpD2qFagbyI+hDMD3cf/SVKSasFA16KCWqwfgK51Aw/OVzKZ0h/U+ndP10zvHo+30wTNTomSc1uELW8qAalmjo4Egbzxu8h/c2yMN8NbGY4m9ezk3gwO3ZyEHUiAsvTJroJKecjyV+jsgvpQdAY28cfsyJxObwAuJ3WAlPE0fQT6YVeCtFVlMQkObaqEFbtkqayKPhLQTFPSAk+xTjE+m4w9RFRH+TtQiRUJ09tnexnA/wZB5HhlUK1QJN4GGlZkBalSzi8RqlW5KO0xqbKM3E4lT9278c2iX5Mqc0KBphJZWkDgXY4WKBYLcnRM/W7NecqihfrI+ggaD0wTb0Jfhow=;9Prgfd8vbxDdPDqJzG+n5Q=="
 ---
 

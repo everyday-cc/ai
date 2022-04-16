@@ -25,57 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Art Exhibition That Fools Facial Recognition Systems"
-    excerpt: "The most boring art exhibition in the world has been launched online. It comprises just 100 images of the same painting: 100 copies of the Mona Lisa. But all is not what it seems – and that’s the whole point."
-    publishedDateTime: 2022-04-11T11:24:00Z
-    webUrl: "https://www.securityweek.com/art-exhibition-fools-facial-recognition-systems"
+  - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
+    excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."
+    publishedDateTime: 2022-04-11T20:39:00Z
+    webUrl: "https://menafn.com/1103992769/Integration-Of-AI-In-Renewable-Energy-Shapes-The-Condensers-Market-Growth"
     type: article
     provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
+      - url: "https://menafn.com/updates/pr/2022-04/11/EP_372b0image_story.png"
+        width: 966
+        height: 487
         isCached: true
-  - title: "Researchers urge facial recognition restrictions, broad consideration by Canadian lawmakers"
-    excerpt: "The researchers say that the risks of facial recognition use for individuals and society are significant and should be considered in terms as broad as possible."
-    publishedDateTime: 2022-04-13T22:17:00Z
-    webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "The waste picker fighting for global recognition"
-    excerpt: "More than 20 million people around the world work as waste pickers. They are the de facto recycling system in many parts of Latin America, Africa and Asia, making a living by sorting through garbage for reusable materials,"
-    publishedDateTime: 2022-04-13T16:01:00Z
-    webUrl: "https://www.politico.com/newsletters/the-long-game/2022/04/13/the-waste-picker-fighting-for-global-recognition-00024944"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/91/0b/427a1874454fb9e48b1790029f0a/20220413-soledad-lg.png"
-        width: 1138
-        height: 773
-        isCached: true
-  - title: "Audit: Lockport's bidding for facial recognition system was legal but not transparent"
-    excerpt: "SN Technologies was the only respondent. \"Seeking competition for the initial facial/object recognition software may have provided for a more transparent procurement process,\" the auditors wrote."
-    publishedDateTime: 2022-04-15T18:30:00Z
-    webUrl: "https://buffalonews.com/news/local/education/audit-lockports-bidding-for-facial-recognition-system-was-legal-but-not-transparent/article_78000f7a-bb5e-11ec-a92e-075df8b7085d.html"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 12
 
 secured: "li1+Ua+t1FAfwIo5c/7lFQcUdGD4uuRB/mFUWOXbfWmoNk+gXbM6ViUBF1obP9suD5CZfS39f/TI19M5M9KaV6cwl5OcYhl+YAPz1eNNKYbMf2uQUiu2TWnge5Bo7mdzaTeTj7mUH6/iQ3KFLOMfcdwNTLjXyTQelJWpK2oSwnAm+v6F/193U5LqnxBML6J8sT23m+wUybY0EFToeCJIPowfcsDd39hient5NrRyjmGOQ7V6JZU0awfWmPzipAp6s0v5e3MLGqPlTGQSFuLAoiGTbGu11EfwbGIJgG/qyFxl1ETVFNGQ0SZt1NfDAcF9Lw7wcHHbZExVqVqH1zFg65LNhPDOxMwZv1WPUwlWkyZZyb6+f/HRjEyus36HHnMT6bLFpa2H7B4wCK2fFgHQk0Qb86bozcqHC4H45dxT9bbGndtsM1UewRFSYZcGvkisL3O8mHm9KkWziYJw1s0iT8ByjADpYAcqKh04YLTLTFvhLry6v+fyps/KTvI2JaBUUc9uyQ0mSuVDOkVVdrI9uA==;D+pWYI2ayUW7islz1oZgTQ=="
 ---
