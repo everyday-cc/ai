@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Youngkin amends bill lifting facial recognition technology ban in Virginia"
-    excerpt: "Governor Glenn Youngkin is amending a controversial bill that could lift a partial ban on facial recognition technology in Virginia. Supporters say it’s an important tool for police to pursue"
-    publishedDateTime: 2022-04-12T00:36:00Z
-    webUrl: "https://www.wavy.com/news/politics/virginia-politics/youngkin-amends-bill-lifting-facial-recognition-technology-ban-in-virginia/"
-    ampWebUrl: "https://www.wavy.com/news/politics/virginia-politics/youngkin-amends-bill-lifting-facial-recognition-technology-ban-in-virginia/amp/"
-    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/politics/virginia-politics/youngkin-amends-bill-lifting-facial-recognition-technology-ban-in-virginia/amp/"
-    type: article
-    provider:
-      name: WAVY
-      domain: wavy.com
-    quality: 57
-    images:
-      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2022/04/facial-rec.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Virginia Gov. Glenn Youngkin amends bill lifting facial recognition technology ban"
     excerpt: "Gov. Glenn Youngkin is amending a bill that could lift a partial ban on facial recognition technology in Virginia. DANVILLE, Va. – Governor Glenn Youngkin is amending a controversial bill that could lift a partial ban on facial recognition technology in ..."
     publishedDateTime: 2022-04-12T22:31:00Z

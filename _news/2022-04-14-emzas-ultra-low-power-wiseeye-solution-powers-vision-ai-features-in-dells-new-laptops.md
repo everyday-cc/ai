@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-14T10:59:00Z
 originalUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
 webUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2021/12/gettyimages-1353771133-594x594-1.jpg?w=2000&#038;ssl=1"

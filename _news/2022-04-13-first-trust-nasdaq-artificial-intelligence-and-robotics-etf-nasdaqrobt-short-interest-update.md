@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificia
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU) Short Interest Update"
+    excerpt: "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU – Get Rating) was the target of a large decrease in short interest in the month of March. As of March 31st, there was short interest totalling 2,800 shares,"
+    publishedDateTime: 2022-04-16T16:02:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 74
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks14.jpg"
+        width: 1024
+        height: 528
+        isCached: true
   - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Down 46.1% in March"
     excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) was the recipient of a large drop in short interest in the month of March. As of March 31st, there was short interest totalling 9,"
     publishedDateTime: 2022-04-15T07:38:00Z

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-13-zapped-the-grid-is-on-life-support-can-ai-fix-it.md",
+      "title": "Zapped: The grid is on life support. Can AI fix it?",
+      "excerpt": "Everything you wanted to know about our fragile, ageing, and increasingly unreliable grid (and how AI may be our only hope).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "originalUrl": "https://www.zdnet.com/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/043fc29998d4bc6f77b26f818bef94fceb617bc8/2022/04/05/36f83171-e88c-47a1-aca7-9a02c9748980/grid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zapped-the-grid-is-on-life-support-can-ai-fix-it/",
+      "publishedDateTime": "2022-04-13T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
       "title": "Intelligent robotics for laundries closes automation gap",
       "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
@@ -139,7 +190,7 @@
       "originalUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -236,7 +287,7 @@
       "originalUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -800,6 +851,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-bpcl-collaborates-with-microsoft-to-leverage-cloud-ai-technologies.md",
+      "title": "BPCL collaborates with Microsoft to leverage cloud & AI technologies",
+      "excerpt": "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies",
+      "originalUrl": "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uniindia.com/public/default-image/default-730x400.png",
+          "width": 730,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-panera-will-test-an-ai-coffee-system-from-the-makers-of-the-flippy-burger-bot.md",
       "title": "Panera will test an AI coffee system from the makers of the Flippy burger bot",
       "excerpt": "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,",
@@ -956,6 +1050,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
+      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
+      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know.md",
       "title": "Overcoming Supply Chain Challenges With AI: What Large Manufacturers Need To Know",
       "excerpt": "The supply chain has always been extremely complex and hard to manage; everything has become incomparably harder as the Covid-19 pandemic brought about a whole chain of unprecedented challenges.",
@@ -1046,142 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-feathr-linkedins-feature-store-is-now-available-on-azure.md",
-      "title": "Feathr: LinkedIn’s feature store is now available on Azure",
-      "excerpt": "With the advance of AI and machine learning, companies start to use complex machine learning pipelines in various applications, such as recommendation systems, fraud detection, and more. These complex systems usually require hundreds to thousands of features to support time-sensitive business applications,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3a5d4b16-1ae4-45a1-8384-1e8850b083a5.png",
-          "width": 1024,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T02:00:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.md",
-      "title": "Blu Digital unveils FAST, AVOD AI-driven ad detection software",
-      "excerpt": "Blu Digital has launched what it says is the industry’s first cloud-based ad-marking software using AI and validation to enable content distributors to prepare content for monetisation to the FAST and AVOD markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
-      "originalUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2022/April_2022/BluSpot_interface_12April2022.jpg",
-          "width": 900,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html",
-      "publishedDateTime": "2022-04-12T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-artificial-intelligence-may-improve-diabetes-diagnosis-study.md",
-      "title": "Artificial intelligence may improve diabetes diagnosis: Study",
-      "excerpt": "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study",
-      "originalUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/04/Artificial-intelligence-may-improve-diabetes-diagnosis-Study-831x450.jpg",
-          "width": 831,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp",
-      "publishedDateTime": "2022-04-12T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

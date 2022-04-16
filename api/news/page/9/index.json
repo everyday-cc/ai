@@ -2,6 +2,196 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-06-bangalore-international-airport-aws-to-open-joint-innovation-center.md",
+      "title": "Bangalore International Airport, AWS to open joint innovation center",
+      "excerpt": "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
+      "publishedDateTime": "2022-04-06T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing.md",
+      "title": "Google’s cloud-based approach offers open ecosystem for data sharing",
+      "excerpt": "Google's new releases emphasize breaking barriers between clouds from different merchants and also self-hosting options by the customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/amp/",
+      "publishedDateTime": "2022-04-05T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-isaac-asimovs-three-laws-of-robotics-wont-stop-robots-from-harming-humans.md",
+      "title": "Isaac Asimov’s “three laws of robotics” won’t stop robots from harming humans",
+      "excerpt": "On the 30th anniversary of Isaac Asimov’s death, it’s time to see if the “three laws of robotics” mean something outside of his stories. Isaac Asimov was an American writer and professor, considered (during his lifetime) as one of the “Big Three” science fiction writers along with Robert A.",
+      "sourceUrl": null,
+      "webUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
+      "originalUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/7VIOAMSXCVFKXB26ATQ7YKO6GU.jpg",
+          "width": 1067,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
+      "cdnAmpWebUrl": "https://culturacolectiva-com.cdn.ampproject.org/c/s/culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
+      "publishedDateTime": "2022-04-05T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "graffiti",
+        "domain": "culturacolectiva.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space.md",
+      "title": "New Microsoft Azure services will help us learn about the darkest reaches of space",
+      "excerpt": "When it comes to geospatial intelligence and remote sensing AI, Microsoft already has partnerships with Blackshark.ai, Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
+      "originalUrl": "https://www.techradar.com/sg/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T20:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command.md",
       "title": "Meet DALL-E, an AI algorithm that can draw anything on command",
       "excerpt": "DALL-E is what artificial intelligence researchers call a neural network, which is a mathematical system loosely modeled on the network of neurons in the brain. That is the same technology that ...",
@@ -939,179 +1129,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat.md",
-      "title": "Outdoor and Dock Exhibitors Offer Whatever Floats Your Boat",
-      "excerpt": "From a Stiletto to a Rekognition Video Analyzer, outdoor and dock exhibitors are giving Sea-Air-Space attendees the opportunity to check out cutting-edge defense technology. The carbon-fiber, 88-foot M-80 Stiletto is a floating platform devoted to",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
-      "originalUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
-      "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
-      "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "publishedDateTime": "2022-04-05T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
-      "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
-      "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
-      "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg",
-          "width": 1279,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
-      "publishedDateTime": "2022-04-05T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-three-former-deepminders-are-developing-ai-to-pick-stocks-and-crypto.md",
-      "title": "Three former DeepMinders are developing A.I. to pick stocks and crypto",
-      "excerpt": "Martin Schmid, Rudolf Kadlec and Matej Moravcik left DeepMind in January to set up EquiLibre Technologies, relocating to Prague in the Czech Republic. The trio used to work at IBM and developed an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "originalUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102035717-72012198.jpg?v=1532564415",
-          "width": 5400,
-          "height": 3300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "publishedDateTime": "2022-04-05T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

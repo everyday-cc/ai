@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-s
 webUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: SiliconANGLE
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car"
-    excerpt: "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here."
-    publishedDateTime: 2022-04-12T00:10:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 58
-    images:
-      - url: "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Watch A Self-Driving Car Comically Blow Off A Cop During Traffic Stop"
-    excerpt: "Police in San Francisco got the surprise of their lives when a car they were attempting to pull over had no driver"
-    publishedDateTime: 2022-04-13T16:16:00Z
-    webUrl: "https://hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
-    ampWebUrl: "https://amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 44
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58251/content/cruise-av.jpg"
-        width: 708
-        height: 419
-        isCached: true
   - title: "Self-driving car pulled over by San Francisco police, but there was nobody inside"
     excerpt: "A video posted on social media reveals San Francisco police pulling over a self-driving vehicle, only to find nobody inside. The driverless vehicle belonged to San Francisco-based company ..."
     publishedDateTime: 2022-04-12T07:22:00Z
@@ -96,22 +64,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 34
-  - title: "Welcome to the future, What happens when police stop a self-driving car with nobody inside? (VIDEO)"
-    excerpt: "An online video surfaced today where a futuristic situation took place, units from the San Francisco Police Department stopped a car that was driving without headlights, when they"
-    publishedDateTime: 2022-04-12T00:06:00Z
-    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
-    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
-    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/04/12/6254d09bca47411c388b4581.html"
-    type: article
-    provider:
-      name: MARCA
-      domain: marca.com
-    quality: 30
-    images:
-      - url: "https://phantom-marca.unidadeditorial.es/1caf48efa8bb8a5a3f3b3bbe2519721f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/12/16497255496496.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-driving car stopped by San Francisco police"
     excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
     publishedDateTime: 2022-04-13T06:48:00Z

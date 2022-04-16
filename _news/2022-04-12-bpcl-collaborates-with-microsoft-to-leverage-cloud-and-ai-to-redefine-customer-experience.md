@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft And NASA Leverage AI To Streamline Safety In Space"
-    excerpt: "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment."
-    publishedDateTime: 2022-04-12T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 794
-        isCached: true
   - title: "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer"
     excerpt: "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients."
     publishedDateTime: 2022-04-12T10:30:00Z
@@ -91,57 +75,15 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
-    excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"
-    publishedDateTime: 2022-04-12T12:35:00Z
-    webUrl: "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies"
+  - title: "Authomize's Cloud Identity and Access Security Platform Now Available on Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to the Authomize platform for comprehensive cloud security and compliance capabilities . TEL AVIV, Israel, April 13, 2022 /PRNe"
+    publishedDateTime: 2022-04-13T13:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582424.htm"
     type: article
     provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 54
-    images:
-      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
-        width: 730
-        height: 400
-        isCached: true
-  - title: "Bharat Petroleum collaborates with Microsoft to leverage cloud and AI technologies for better customer experience"
-    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft announced a strategic cloud partnership for seven years aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the oil and gas industry."
-    publishedDateTime: 2022-04-13T06:13:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/15850/bharat-petroleum-collaborates-with-microsoft-to-leverage-cloud-and-ai-technologies-for-better-customer-experience.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 33
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2022/a84fe41ed3a5ef75c9898ff34ff76221.png"
-        width: 600
-        height: 800
-        isCached: true
-  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
-    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
-    publishedDateTime: 2022-04-14T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-  - title: "Worldwide Artificial Intelligence in Digital Genome Industry to 2028 - Featuring Microsoft, Fabric Genomics and PrecisionLife Among Others"
-    excerpt: "DUBLIN, April 14, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Digital Genome Market, by Offering, by Technology, by Functionality, by Application, by End User, and by Region - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028\" report has ..."
-    publishedDateTime: 2022-04-14T20:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-artificial-intelligence-in-digital-genome-industry-to-2028---featuring-microsoft-fabric-genomics/article_a3cf54c9-f4ca-5169-8b15-c66ea69f670a.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
 
 secured: "RgLgyvGRhkDWT7XMQZoxlSLGj48ERLaCanFha6wuAgDP+9ELkifd+JD0VhN7ZGLeGhf5GY7XRxHQC4yI5uaUsSslNobJ92R2GZ7sl6yZSLsPbo4RiFQIOHieNrxJdiZAXn0FR2lQlY1svspHB5mSINbs3n7Zyv6xWsl7QGOuFFDVdaOHlB/IAteZ4vQLnGAikAkXQjfFV1Apw7xzD1Pt4/OYvtMqs/13+23YjFbqyIhJ0mKPs2ktzJEQRtH991iRlBYXlJkgfzpY/AQLbEy6+ILSskvAu6Z2gqFEB3NtkXwo8FMSA4jAs74lUeofOluya4RcVwtF/VKg9yrLum09CznPonGHyhV341KQHO7nD6k=;AtBdi/zAPQQOo6vcfp46iw=="
 ---

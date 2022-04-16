@@ -2,6 +2,142 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-12-feathr-linkedins-feature-store-is-now-available-on-azure.md",
+      "title": "Feathr: LinkedIn’s feature store is now available on Azure",
+      "excerpt": "With the advance of AI and machine learning, companies start to use complex machine learning pipelines in various applications, such as recommendation systems, fraud detection, and more. These complex systems usually require hundreds to thousands of features to support time-sensitive business applications,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3a5d4b16-1ae4-45a1-8384-1e8850b083a5.png",
+          "width": 1024,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T02:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.md",
+      "title": "Blu Digital unveils FAST, AVOD AI-driven ad detection software",
+      "excerpt": "Blu Digital has launched what it says is the industry’s first cloud-based ad-marking software using AI and validation to enable content distributors to prepare content for monetisation to the FAST and AVOD markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
+      "originalUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2022/April_2022/BluSpot_interface_12April2022.jpg",
+          "width": 900,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html",
+      "publishedDateTime": "2022-04-12T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-artificial-intelligence-may-improve-diabetes-diagnosis-study.md",
+      "title": "Artificial intelligence may improve diabetes diagnosis: Study",
+      "excerpt": "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study",
+      "originalUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/04/Artificial-intelligence-may-improve-diabetes-diagnosis-Study-831x450.jpg",
+          "width": 831,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp",
+      "publishedDateTime": "2022-04-12T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-blockchain-to-revolutionize-the-lending-space-in-the-fintech-industry.md",
       "title": "Blockchain To Revolutionize the Lending Space In the Fintech Industry",
       "excerpt": "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame",
@@ -509,6 +645,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-how-low-code-machine-learning-can-power-responsible-ai.md",
+      "title": "How low-code machine learning can power responsible AI",
+      "excerpt": "Although accuracy of AI models is important, there is an urgent need to understand how AI can be designed to operate responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1182764552.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "publishedDateTime": "2022-04-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "T he artificial intelligence (AI) market has grown like a weed in recent years as organizations gather and process more data to make smarter decisions. However, it can be difficul",
@@ -691,24 +879,33 @@
     {
       "path": "_news/2022-04-11-israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope.md",
       "title": "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope",
-      "excerpt": "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans.",
+      "excerpt": "NESHER, Israel, April 11, 2022 /PRNewswire/ -- Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the ...",
       "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "width": 600,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T05:00:00-07:00",
+      "publishedDateTime": "2022-04-11T05:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -948,203 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-startups-join-ai-acquisition-rush.md",
-      "title": "Startups Join AI Acquisition Rush",
-      "excerpt": "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401",
-      "originalUrl": "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-520831/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-may-help-trainee-teachers-with-assessments-study.md",
-      "title": "Artificial intelligence may help trainee teachers with assessments – study",
-      "excerpt": "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "publishedDateTime": "2022-04-10T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cops-confused-as-they-pull-over-an-empty-self-driving-car.md",
-      "title": "Cops confused as they pull over an empty self-driving car",
-      "excerpt": "In what appears to be the first incident of its kind, cops recently pulled over a self-driving car with no one inside it. A video shows what happened next",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cruise-automation.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "publishedDateTime": "2022-04-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-get-42-hours-of-microsoft-azure-training-for-under-6-per-course.md",
-      "title": "Get 42 hours of Microsoft Azure training for under $6 per course",
-      "excerpt": "With this comprehensive bundle, you can start your cloud computing journey while studying totally online -- no school enrollment is necessary",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "originalUrl": "https://www.zdnet.com/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e0de291bb0c3dd3c2874894221d7e481d0e5170b/2022/04/05/5059ada6-b553-4485-86c2-ab88d0440a1d/zd-microsoft-azure-prep.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/get-42-hours-of-microsoft-azure-training-for-under-6-per-course/",
-      "publishedDateTime": "2022-04-10T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

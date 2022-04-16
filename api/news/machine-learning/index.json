@@ -751,6 +751,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-how-low-code-machine-learning-can-power-responsible-ai.md",
+      "title": "How low-code machine learning can power responsible AI",
+      "excerpt": "Although accuracy of AI models is important, there is an urgent need to understand how AI can be designed to operate responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1182764552.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "publishedDateTime": "2022-04-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-ai-pioneer-suggests-trickle-down-approach-to-machine-learning.md",
       "title": "AI pioneer suggests trickle-down approach to machine learning",
       "excerpt": "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.",
@@ -1401,49 +1453,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-researchers-identify-new-medicines-using-interpretable-deep-learning-predictions.md",
-      "title": "Researchers identify new medicines using interpretable deep learning predictions",
-      "excerpt": "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg",
-          "width": 1379,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp",
-      "publishedDateTime": "2022-04-05T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

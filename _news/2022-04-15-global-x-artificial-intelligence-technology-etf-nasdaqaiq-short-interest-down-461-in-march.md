@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 663
         isCached: true
+  - title: "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU) Short Interest Update"
+    excerpt: "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU – Get Rating) was the target of a large decrease in short interest in the month of March. As of March 31st, there was short interest totalling 2,800 shares,"
+    publishedDateTime: 2022-04-16T16:02:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 74
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks14.jpg"
+        width: 1024
+        height: 528
+        isCached: true
   - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Growth in Short Interest"
     excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) was the target of a large growth in short interest in March. As of March 31st, there was short interest totalling 378,200 shares,"
     publishedDateTime: 2022-04-16T10:38:00Z

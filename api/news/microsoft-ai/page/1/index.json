@@ -45,6 +45,93 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-bpcl-collaborates-with-microsoft-to-leverage-cloud-ai-technologies.md",
+      "title": "BPCL collaborates with Microsoft to leverage cloud & AI technologies",
+      "excerpt": "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies",
+      "originalUrl": "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uniindia.com/public/default-image/default-730x400.png",
+          "width": 730,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United News of India",
+        "domain": "uniindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
+      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
+      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-feathr-linkedins-feature-store-is-now-available-on-azure.md",
       "title": "Feathr: LinkedIn’s feature store is now available on Azure",
       "excerpt": "With the advance of AI and machine learning, companies start to use complex machine learning pipelines in various applications, such as recommendation systems, fraud detection, and more. These complex systems usually require hundreds to thousands of features to support time-sensitive business applications,",
@@ -764,6 +851,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-04-machine-learning-as-a-service-market-size-worth-3881-billion-globally-by-2028-at-412-cagr-verified-market-research.md",
+      "title": "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®",
+      "excerpt": "Increasing application of cloud-based solutions, technological development in artificial intelligence and cognitive computing market, and increase in market for prediction solutions are some of the fa",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-empowering-space-development-off-the-planet-with-azure.md",
       "title": "Empowering space development off the planet with Azure",
       "excerpt": "Any developer can be a space developer with Azure. Microsoft has a long history of empowering the software development community. We have the world’s most comprehensive developer tools and platforms from Github to Visual Studio, and we support a wide range of industries and use cases from healthcare,",
@@ -1267,164 +1398,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure.md",
-      "title": "Chip Design Moves To The Cloud With Synopsys And Microsoft Azure",
-      "excerpt": "The two companies have collaborated to enable engineers to design chips using cloud resources and dynamic licensing. Digital chips are the new lifeblood for nearly every human endeavor and currency for innovation. But design a chip is a very expensive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e3bcc2e4fd6128c007e8d/0x0.jpg?format=jpg&crop=2201,1238,x119,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/03/30/chip-design-moves-to-the-cloud-with-synopsys-and-microsoft-azure/amp/",
-      "publishedDateTime": "2022-03-30T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031.md",
-      "title": "Cognitive Computing in Healthcare Industry Market Growth, Trends, Price, Scope, Competitor Analysis and Forecast 2022 to 2031",
-      "excerpt": "In recent years, the use of big data analytics and cloud services has seen positive growth and has created a platform for cognitive computing ... Google, Microsoft, Palantir, and PTC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-in-healthcare-industry-market-growth-trends-price-scope-competitor-analysis-and-forecast-2022-to-2031-2022-03-29?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-28T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise.md",
-      "title": "Microsoft Azure Defender for IoT vulnerabilities could lead to ‘full network compromise’",
-      "excerpt": "Five critical vulnerabilities in Microsoft Azure Defender for IoT were disclosed by researchers at SentinelOne.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/sentinellabs-azure.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/microsoft-azure-defender-for-iot-vulnerabilities-could-lead-to-full-network-compromise/amp/",
-      "publishedDateTime": "2022-03-28T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

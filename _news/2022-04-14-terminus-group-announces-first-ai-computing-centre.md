@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-a
 webUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-ai-computing-centre"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aclaró AI Announces Vehicle Center"
-    excerpt: "Aclaró AI, an IoT company that creates modern solutions for automotive retailers, is extremely excited to announce a new product that can quickly locate vehicles for customers regardless of location."
-    publishedDateTime: 2022-04-14T17:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aclaro-ai-announces-vehicle-center"
+  - title: "Zagreb to Become AI and Data Science Scene's Centre in May"
+    excerpt: "The City of Zagreb is set to become the centre of data science and artificial intelligence (AI) this May, with six keynote speakers and many lectures on offer."
+    publishedDateTime: 2022-04-16T05:18:00Z
+    webUrl: "https://www.total-croatia-news.com/travel/62075-zagreb"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
+      name: Total Croatia News
+      domain: total-croatia-news.com
+    quality: 39
     images:
-      - url: "https://www.send2press.com/wire/images/22-0414-s2p-aclaroai-vcenter-800x600.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.total-croatia-news.com/media/k2/items/cache/872414604f95ac4ff229b18a9d9e962a_XL.jpg"
+        width: 1170
+        height: 731
         isCached: true
   - title: "Terminus Group Announces First AI Computing Centre"
     excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"

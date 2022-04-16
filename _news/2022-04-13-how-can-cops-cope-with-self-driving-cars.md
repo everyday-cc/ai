@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "NASA's Record-Breaking Mars Rover Is Way Better At Self-Driving Than Earth Cars"
-    excerpt: "You generally want your $2.4 billion mission to go as smoothly as possible, and its a testament to the kind of careful engineering that can go into self-driving technology that we trust it enough ..."
-    publishedDateTime: 2022-04-12T15:03:00Z
-    webUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123"
-    ampWebUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+  - title: "Watch A Self-Driving Car Comically Blow Off A Cop During Traffic Stop"
+    excerpt: "Police in San Francisco got the surprise of their lives when a car they were attempting to pull over had no driver"
+    publishedDateTime: 2022-04-13T16:16:00Z
+    webUrl: "https://hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    ampWebUrl: "https://amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-a-self-driving-car-blow-off-a-cop-during-traffic-stop"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 40
+      name: HotHardware
+      domain: hothardware.com
+    quality: 44
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/889b177f737fdb67ad2425b0e3629278.jpg"
-        width: 800
-        height: 435
+      - url: "https://images.hothardware.com/contentimages/newsitem/58251/content/cruise-av.jpg"
+        width: 708
+        height: 419
         isCached: true
+  - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
+    excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
+    publishedDateTime: 2022-04-13T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/04/13/in-sf-we-find-out-what-happens-when--cops-pull-over-a-cruise-self-driving-car/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
 
 secured: "3lu+HMeSCMR/79Md8gnM8UGkxUtWDw4x5cfF7wFI9X9BAYPRUUXYIiSJYWqwPPRGXOJ3uvkeigH3cDKpbtZIR375RYLwUlRlNBk4xBxERhGX3sgTVfg1i47GtXSTwHZkSoaXVjsEXlEyixChPnklXneXJGo02B9v5GDJPkRYGDYMz5gG+/VISt2lIwcb0L1alrgL+oZC4UhGbZ9HiK5bPJ0D6RBP+03JrNdwbPbKvHy1UK7snB0X1JYU2ZtQAupVuWLiijOxW9aAgue41bypXLPwRUd+huXS3j+tlncAVywApqyNcdsPJhH/xQQQBB4ttJfkKbZqst7noCrkWSsbpXeTy/M64HH5esUZtbGDGLI=;F7qB7dcz44bgBOzHm+sQQg=="
 ---
