@@ -2,26 +2,26 @@
 category: news
 title: "Watch this driverless car get pulled over, then bolt for it"
 excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
-publishedDateTime: 2022-04-13T14:54:00Z
-originalUrl: "https://www.kens5.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-webUrl: "https://www.kens5.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-ampWebUrl: "https://www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+publishedDateTime: 2022-04-13T16:52:00Z
+originalUrl: "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+webUrl: "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KENS
-  domain: kens5.com
+  name: KARE 11
+  domain: kare11.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.kens5.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
+  - url: "https://media.kare11.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Driverless car got pulled over by San Francisco police, then bolted. The company said it was by design."
+    excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
+    publishedDateTime: 2022-04-13T18:59:00Z
+    webUrl: "https://www.wbir.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+    type: article
+    provider:
+      name: 10 News
+      domain: wbir.com
+    quality: 58
+    images:
+      - url: "https://media.wbir.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Driverless vehicles park themselves in rapidly expanding market"
     excerpt: "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ..."
     publishedDateTime: 2022-04-14T01:41:00Z
@@ -83,6 +99,6 @@ related:
       domain: miamiherald.com
     quality: 31
 
-secured: "JqGiE8eC0YoSqCcROz1NAtMc5wCPoGuDOm8CaNUWZDXLnXNp0u2zUVomQsW8Aqw2AxvqJHDgOwji4yXEBv7r2Vtd/Z8cWWazpmMWugNvtQft06mClIP/wsemuE7hl2fchV9/J/Zg0VY+KeCbaTrADcJOMKBE7+EdV/y/dQSC3AYyLoWzSMB78QCEaZaDDKffAXs4xsNnMqoMI3qZJ83kUdTAqHeOSY10lkLv4Av1YPGhM3CucqGnGUj/R4f9A/IgrkdcqPGi23NdM9ul8FgCPyhYLT6dD7uIZLiXmx0ThcWnWyrrQOf8H6QhSaLbzQQy/iVNwhSDmcDCPaRygzItUPHSKeztf3l3xsZKb/SRdHI=;DrRYjIA1jrGj3ppPo3ch7A=="
+secured: "G1mIIa2IOLtQd+gSt/1nnRHWw/3Eht+9Jcn0/RrTe90WQ5vFBOdrLPz/K3wh/jejSPzliz7KGHDSUW4+fkXMN4Sy8AvfRqpxAh/Pbrse4a8+pDvhCyM76mgzEcJO1fix2ky9W1Xm5/LRko/ys7x2LB4bs6OcXlG0gpa0Et8e2Oea9Si3UFrE19rcI4hxW2c5i98G9VOaEZbbX3r+Un0K4lwPo3/ypwfsk94UbJO3qsvWzD3noT7ffQvzqr3iK23/kwJxr6AuaZ4tMX3eNIPqaYs7qJoxc0iX1iqT21iABo2XCs0u0+zQJ/r6MYYlG5yHcroxLFtnok2VDe3ar559xm47Ak/kp/AcmeV6Ry+wlf4=;Ll5r8psfCxDsL9ivy5jUFQ=="
 ---
 

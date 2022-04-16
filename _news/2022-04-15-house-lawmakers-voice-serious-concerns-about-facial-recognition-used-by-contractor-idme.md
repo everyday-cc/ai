@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-15T02:40:00Z
 originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
 webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
@@ -56,6 +57,22 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "House panels probe gov't use of facial recognition software"
+    excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
+    publishedDateTime: 2022-04-14T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "ID.me and Facial Recognition Software Probed by Lawmakers"
     excerpt: "Lawmakers have launched an investigation into ID.me, the identity verification contractor, and its use of facial recognition."
@@ -112,15 +129,6 @@ related:
       name: MyNorthwest.com
       domain: mynorthwest.com
     quality: 21
-  - title: "House panels probe gov't use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T17:16:00Z
-    webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
   - title: "House lawmakers investigating government use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-04-15T13:10:00Z
@@ -131,6 +139,6 @@ related:
       domain: 10tv.com
     quality: 17
 
-secured: "gy3K77ex0Bw9Lkw5IkY9v/8/ZEssCEtWTlgXXgNJQzX7npuJzz90QkIMpmMQN/AVIZqX+JOats2dhJQlNwWJNpKwgcMebyutx0bIprnOeIDGs17MIFl2BKQj/NpRWutI9qgj5rUf+wD4Jj1U6ZOKmrA9QyiObv+M7LETKY6k9URB6rVRXQiZ6YGSw5U65mDlapDPm1ekyKLxPBsWOVu4wGiyHuQJzl/aL+gf4B1uUy2o+rCHP6y+WnINOCCOXTq11g57ZPV+Ob5l7Pla0VW0sRy3UzvreVH2QO9rimwWs1TTTmry3fc5tTr2nuOkq7UlxufyVEAo0+JBJ54vFmlyZqBnspbnlfWrbn6I8WXud2A=;mFr9qy51GAhnB7M67anRgw=="
+secured: "IC98i33wF2ScchZnAtWouIKvfTurAWYK/IuyaQx0q5UtPLy25mKsusPjWqSC65xAwV/jY/7nRXB+RBft3MXR53uz7Rtf/cWpFRB2ws/yr54nOv+amlfNDwZZcDR5CSEN0a9VbT9KOrAzbrEoOFLrIUdlFt0QJFS1yLFRcVOBICH9jja0kK3EuaszLdyZtPK8zLmb2DUeMNtnbetUTY6/E8LQYsEhm1kY+CpX1YIdOI3LgaFKh13Wt2x+f6vREm095zG1R5xgPODX5s1qQopSwTiIGqBr5KU/259PCoZhpBYFogzw8xpX07BhciJrcc3J7X7Zi8Nj5iXKHw10YRG6KQEjT//L7MK6R7vwehzciD0WoK+2IIHIs8f/fNZzKN7doAS6A4XcYYYtOol0XTrIq1smLq94xbMLKvcwTdZq/HXkrEQecpAAlJL1miPqi9lm6I4mNOgPDq37nU+12NbUphL1NieQK8UAWnoEtDj50M/mMGqfHTeO0Q56L6Op2iVU4ngbS1lMR9irC9Ae+T4qtQ==;ceuUDXNc7VLx9h1y1xgIPw=="
 ---
 

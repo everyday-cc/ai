@@ -1,22 +1,22 @@
 ---
 category: news
 title: "China's Baidu exploring options after U.S. delisting risk"
-excerpt: "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted. We apologize, but this video has failed to load."
+excerpt: "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted."
 publishedDateTime: 2022-03-31T00:00:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk"
-webUrl: "https://financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/"
+originalUrl: "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk"
+webUrl: "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk"
+ampWebUrl: "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/"
+cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: National Post
+  domain: nationalpost.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "MNPhH0FdCbHlUks/rC+PMUM+aZsJlYOY+lwQo3mHO6Eg1c74dp+pNBj9PehA+yX3jsq/j3QCnWkWXtBf3JLEN+FSWwBSKzFq8cOs1eOZHyb6c8UTkr5DavA52ePhrC9ZqDKE5mZHw81jf7ibEwQmEVQRYLL0ce15kd0b4c0OQtJN9wZTTJuDEKz2mQ/gzJHgcAD9EdIJI2DDRsch5YpV+R3r62CMCRgmThgOy5QmHorUvoUR1+uKSpvTUEWVakS3XutWlVDX6kQHmChPSnXHCfBNuMvhD3iDUhxEtexiZfBcGCufV2qoRFP27JE1fGAgTIAF9aCu4BlWA79mdvHWYetA5jaT0LfKXRb6MJdGbXw=;V09S3lWEdl/wbpmtADqWKw=="
+secured: "E07wuzNn01hRapzaGBb6++lF4S5GvoJiUmz8YvcXYDikFJqlPXLDmcaKcKg9E2t9SH6UMTMs729Pw04hXWnNLBJT1uDHWSokYDMVOnmJLgpdtKTvuLZByYecWvcuapqhs1cyVC87FfvsI7JJZCW09wGS+xd0S0xIifh3iTYh84XU8KykgVinovt8IgbsGGRPIn8gb9o6pz86xJYO8dBEMwCH+EM1QOY+oQQHjGQ0QM9pMOxS+1zIovq/U5J2ImK/UDgZ4/YMyJWz9rH/6JwIIxc39RNgRPmOaa/vn/wK/FrUGOCVpK1lh0OyXkWUyJIQFwmAm72CLEKW1eXcQOuaZdjbQHA40ouQn8Ua0vmXNVU=;2OXKsnT6Q/V6nUoltMY9Lw=="
 ---
 

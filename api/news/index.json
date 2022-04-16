@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-16-who-serves-on-the-new-national-ai-advisory-committee.md",
+      "title": "Who Serves on the New National AI Advisory Committee?",
+      "excerpt": "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee",
+      "originalUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true",
+      "publishedDateTime": "2022-04-15T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect.md",
       "title": "Build a virtual credit approval agent with Amazon Lex, Amazon Textract, and Amazon Connect",
       "excerpt": "Banking and financial institutions review thousands of credit applications per week. The credit approval process requires financial organizations to invest time and resources in reviewing documents like W2s, bank statements, and utility bills. The overall experience can be costly for the organization.",
@@ -1175,48 +1217,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-south-korean-companies-creating-ai-reps-some-on-social-media.md",
-      "title": "South Korean companies creating AI reps -- some on social media",
-      "excerpt": "A growing number of South Korean corporations and government agencies are releasing their own AI characters to communicate with audiences at home and abroad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5461649944598/2022/1/16499450107672/v1.5/South-Korean-companies-creating-AI-reps-some-on-social-media.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/",
-      "publishedDateTime": "2022-04-14T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

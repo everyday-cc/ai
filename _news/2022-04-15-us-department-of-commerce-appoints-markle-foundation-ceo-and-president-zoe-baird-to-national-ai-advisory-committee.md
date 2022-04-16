@@ -24,15 +24,40 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration takes step forward on AI policy"
-    excerpt: "The Department of Commerce has appointed more than two dozen experts to a committee that will advise President Joe Biden on artificial intelligence policy. Why it matters: It's the Biden administration's first substantive step to shape U."
-    publishedDateTime: 2022-04-14T19:28:00Z
-    webUrl: "https://www.axios.com/biden-administration-ai-national-artificial-intelligence-advisory-committee-07edc844-af8a-4df5-aadd-2800b6a42ff2.html"
+  - title: "Who Serves on the New National AI Advisory Committee?"
+    excerpt: "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair."
+    publishedDateTime: 2022-04-15T23:03:00Z
+    webUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee"
+    ampWebUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Commerce appoints 27 experts to National AI Advisory Committee"
+    excerpt: "The committee, established in September, will make recommendations on U.S. global competitiveness and the National AI Initiative."
+    publishedDateTime: 2022-04-14T19:41:00Z
+    webUrl: "https://www.fedscoop.com/commerce-appoints-experts-ai-committee/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
     quality: 17
+  - title: "27 Artificial Intelligence Experts First To Serve On Commerce Advisory Board"
+    excerpt: "After being established in 2021, the National Artificial Intelligence Advisory Committee elected its first members to advise the federal government on AI policy."
+    publishedDateTime: 2022-04-14T19:44:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/27-artificial-intelligence-experts-first-serve-commerce-advisory-board/365679/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 14
 
 secured: "BIsDzHxSiYBUZTA2x+LEsFTHjLrZUA7WuJu6dlGMCrHc4E8YGkuE6FRABPa3ZrK5l6rp2Elf9ya8TOeL/FZ9gFaSnu9NVMlK/BzEREJ1AirrHh079KxtEvsfRYP4Bih7Sl2IZUaEdYHXwj/Vssdq6/7HstbOxUbCzGH/5+W/54lLpK650CEkR8SBVz5b8Snl5wFQo4yXuDpK/qi1LjhM3M1bYmAaeFBWIRtlj5MqcSO4zdvs3gkAVrN2FDk4AFuz4MUWqVUhHWRpLgcRDLZ/kLe7gMX3KFggt8PE9gNRoVV3yy2ZodkkkPQMpv1HiACoE1GLdp8qJherE0rAJ9Ky8R2Ljr8OuB3KmZEagWOeyLc=;WPZ00TIXs8T49URWKc3i1w=="
 ---

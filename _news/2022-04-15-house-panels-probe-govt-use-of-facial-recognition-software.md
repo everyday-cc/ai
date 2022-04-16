@@ -1,22 +1,30 @@
 ---
 category: news
 title: "House panels probe gov't use of facial recognition software"
-excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-publishedDateTime: 2022-04-14T17:16:00Z
-originalUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
-webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
+publishedDateTime: 2022-04-14T18:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "House panels probe government use of facial recognition software following security concerns"
@@ -105,7 +113,7 @@ related:
     provider:
       name: Local News 8
       domain: localnews8.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
         width: 2500
@@ -130,6 +138,6 @@ related:
       domain: 10tv.com
     quality: 17
 
-secured: "5MgdMJytJzbmSj3thaI9kGZAOG94d3CqrNomGNdX2EPbInHb7LidUJU4oK7ptIqgg0YEzzAYxOfiOQsjIOAxDDKBUo4qxHJsCkQ8dLol2Z4v33k+EB7PHC6BaRnYY1kpODn51KCTJ1qmd+JWqzh/+c8DutAyBBeN/i3mym4Qyzb0RK3rDiUkyq6XrHaZllef6pB177qnqQ2QIkvTyJQhcYuR7v6ksgj8rmipw1l9vKaUZqiYfzCHCiL7gZqIzkqPnEuUHvDCPrsGK6yGkri7yn6NvRhdg/xBAgPGUK91Y/RSaOCDQKYhXSwMTQAlAKRxP3u0S1a4S0QvV5U25oiRqyzYGhVf8qg4jaVBbfXW9Fo0ujgeThdTkBEwg2P71nVCgCasn9NI8YaVeJ789GmEmPABqMpBNJn4B04fEFKWWZC4ppekUEJLJrMtQOkarPAR09apq2kfriJ6pyX/Vfn2//y7QOEOxvvOI3u782qjnjLUFEqLEJkUQOpvJWt9MUgtOtHXxto9SJLtnmuKEr6wYg==;yTDnz2qeRnXZeFZNQp5r3Q=="
+secured: "zfGQ8+mnfhs3bNA3z70QLJWOdxH02Kc/pwujOlXkMrphB1iuKG7HqE3rlTUDfR+NNy5WKstst8t3rsiCdj1Vxvf477Dcbmv2LCWChrwo3zk1EBrVGqiC8gQekU/M9KjjUnLEmLVtLjPSgbB92WiJERazaE2mJ90AmAgw8xccCYJXxBR/fWQFBHp0XwEP55WRZvtJT0mzPgS4mQoMvOzpjRwak81UByOsDpwvPwkDqCKylegQEGBNSezMp75KaVCZXdIIFwWPlvixkyM7KpJd8MZRd6tuGETYzchUQ9xHIi8d78aBsoTvu1ZP/h7Y4J9coBZuUU8vAa3vgoAny0YV1OXPbwVrdAT0vmznmrmXtkU=;66QJVnq8diRi5nvYPcjImQ=="
 ---
 

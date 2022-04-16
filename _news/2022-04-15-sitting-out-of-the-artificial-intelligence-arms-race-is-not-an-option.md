@@ -39,20 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google is using AI to update business hours that are out of date on Google Maps"
-    excerpt: "Google has shared how it’s using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up"
-    publishedDateTime: 2022-04-11T06:20:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/260465/Google-is-using-AI-to-update-business-hours-that-are-out-of-date-on-Google-Maps"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 33
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-04-09-1258324.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "hlgwQ22WMNLmcG6edXMD88j3GXf/Xm5RMn6jpfdG/XbiSWzUrKJTnM8TfzZVyiW9D6ST3Zul15VpqDv+6dMG9OCcL0xBsGI9CjoV11ZRORYsms/JARi6RdVPoCVvF6NQYDzmOoU1khAYiigb5T+bI5tUwRD3aBIyJU5kvzqxlSuZ0q3DRP+14fIJ1g88j0kbM/4Fso5VyMzTAtxN4shJMIufo506s30ZcPQoKNGKL++/93fXX5z4TpeznOO2ZyVt3wXwNkDTrBUKfuXin+6EwIQJA97MLAn1U0GFf4YkMrZkCHdQ8dPgI7Agu8vOXCNA4J/SCGnWwVJsejzKgYLvNxed6VmiQghM800EzBOpcMw=;WqlPx7zp9Kll7JGzEFnuOg=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T04:01:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+publishedDateTime: 2022-04-14T10:01:00Z
+originalUrl: "https://www.khon2.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://www.khon2.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: KHON2
+  domain: khon2.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/guards.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 450
+  - url: "https://i0.wp.com/www.khon2.com/wp-content/uploads/sites/8/2022/04/CORPUZ-SECOND-ROUND-LOTTE-CHAMPIONSHIP-VO-1.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 400
         isCached: true
 
-secured: "pxFrP3bFmJ3UQD8svAGU+L5J2HvM4lHX6YPGE1LV9rdnmPa1BQuXi2ypE7ifuGxpzlM9el6jw+zKmoG4DKuDmrG+G+DCV3ip2XeEd6sbsbTd+A7EnLXKsLVzmvuB5sr4AvpAJD+EBH1GYNdbJQ4HsMvKYHMaLw9YGHWCmZmkYhpxqJjC9yN+nkQRIUDGnmt0I53Z3e+/It+84mfMtR41OUqca6YMDVFZTwA2i/UQCZe21y6Pef1WVQk1QB7vDa1VhZqDnPi41D61UH7p0SllzvPG9X1BCNIaYY3wO4h/Lp0NaI/6E47TbSnouqNhLKaLl5lzGpkA32YCbjHbRUFP6wwn3l38wa4DQPFTLQmqeFw=;jLPp0OJM6Zzf08QlPByqWg=="
+secured: "fDebZTBKVaZHQnOE0d2zGTFJ9G2XTp51dpRq2YkJy8R+dxK7itWF98ycDqcn3UaODDUSzFJjNlmABQiuo6ZRnCI/p9kLPTt7Tb4s5XiY4UPwEa2Oc11u+PNRvroAoWkHuD6aUf35cOu+RJyKpjYd/VQKpVdhExVczGq1jIsXI6o3CsKIe8veeP8bl07Hv0p/P42IyiFkarW0djxaseUbA61Szq8oV42sHTiA927/KSXTD5HSGlgENxIMnmsLs8oXpeYf3C3fWfr1ItBSNYm1WKkOjG4/hQV5OvZR0fAt+GzEnh9A8KVgLS7Gj0g5nTh3723dEox9gjcIhQNkVBPlj6KD37zq3+7s1EYhdgvUR4c=;PGU2FaBn4zpx7nz3vwa6Dg=="
 ---
 

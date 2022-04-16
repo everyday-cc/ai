@@ -2,26 +2,26 @@
 category: news
 title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
 excerpt: "TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital distribution, announced that Distill by TIFIN is partnering with Harbor Capital Advisors (Harbor),"
-publishedDateTime: 2022-04-12T14:30:00Z
-originalUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
-webUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+publishedDateTime: 2022-04-12T12:30:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: FOX21 News
-  domain: fox21news.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/guards.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 338
         isCached: true
 
-secured: "fXnihlG4h0wRminvXS7zP2dR5abuVQv59rO6+MFKEGsND1stET9k9XP0S4+5qe49vbbg9ByD4jXIL9AQfry+Y9MnogTnlfNOWGlCZ0ZNBx1enUYvlRyamMwWtoFiRuht8y2LXRZKIXJWi4JuKG1tY9GAL5qPQOAdnrVtJNULUdfgx7/ovNYcO3FW6IHOmXEDI62YVksTzi8PTq7lK0A3ihuruTwtIzMu3APk/7jClOnL+RB9S03GCeorDh4Q5+zoVaI4KTAnqosYw/dgDi+pSs743D3ho0DozCDj6lbNGHirkKdenQM9PBdeoGLCfs7ckGSu5zO9avLV2S3PVQdUSmJanZmueRy3ycQE+PpSjOQ=;6zwaxsOmRCEm5W477SV25g=="
+secured: "janonEQXCArHGmctU+XQCiqx2FOz8I6ooYCt0RUb2IqI1GSpW9NTQpxD8VEWtL1hkX+OxoTUbqd6a/stBNZTaFtd10D+KT+5I3Nih/QnvwBb6M8pf+5zWtzVBXCH38pw10dqOxdLnZ7oqV3EwBlJZwT3ZKmwxCZIwW9PxG14yaxZJm3M3ChKmPLRpTHMLR5tVYzfVfMmsy3O3LSdtXy6umePYox+Xg+kmpZnojKwOY6ujAkDzqJAN+/2YqrxxoG4SW1jhr8RhihId73Nj2+VL/zLsXliNoDy6rL1hYKIVyI5SygmC66qbBNPojwPYqtWQFzhDzFJaSKfgczA3+Oes7iXnrwLIYrmNgrLvScUU+0=;2kfnx3RKNLX3HHLw57HIBg=="
 ---
 

@@ -75,20 +75,6 @@ related:
         width: 649
         height: 250
         isCached: true
-  - title: "Military Satellites Market Growth Analysis 2022 by Top Manufacturers, Company Overview, CAGR Status, Revenue and Forecast till 2028"
-    excerpt: "Apr 11, 2022 (The Expresswire) -- \"Military Satellites Market\" report compromises a wide range analysis of market dynamics like current trend,"
-    publishedDateTime: 2022-04-11T05:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-satellites-market-growth-analysis-2022-by-top-manufacturers-company-overview-cagr-status-revenue-and-forecast-till-2028-2022-04-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market Size, Share, Trends, Demand Forecast, Industry Revenue, Opportunities, and Impact of COVID"
     excerpt: "Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period). We will ..."
     publishedDateTime: 2022-04-12T12:25:00Z
@@ -190,15 +176,6 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 0
-  - title: "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ..."
-    publishedDateTime: 2022-04-12T18:33:00Z
-    webUrl: "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
     quality: 0
   - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
     excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"

@@ -75,14 +75,14 @@ related:
         isCached: true
   - title: "Self-driving car company establishing test facility in SC"
     excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
-    publishedDateTime: 2022-04-13T20:16:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+    publishedDateTime: 2022-04-13T18:21:00Z
+    webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
     type: article
     provider:
       name: Houston Chronicle
-      domain: houstonchronicle.com
+      domain: chron.com
     quality: 24
 
 secured: "WobK5ZQk+ZFJAXzrvzSiMq1Ft5PQEQ/GwnJN66JicMxJzTW1CVFt0DGXus6zLO1oEQwAIhNsxSOZ08+ZXf+fIKzuWK7YracUdRmOV2Do+3dnf+Qi0Q4/IzpZqns49lImbwaBChuR2cw6mw1+wu8HJ4CR1qUJ44ndb/wA2ZQTdM4berv31PitPuoRjk05NEydWJvUVU1nzFdsHDQAPmjBKEEHff73gO/s5DENED28pIValgI9YCLxOAmI60nsnLM5wPoecTLoaRh7m4PBPRMrJlStK0ErS+FXBqpoFsL6HVepdTUREP1TlVLsC2nXbOKyPm1bjxiA5j64rWtaCL3hgKDQHwBGFtqF5ysy3N1N5RiS4htnGd8zJD089n+HbRVqsWm5hnR80JxuqbR7ubLkUlrFkOkjrAInhS/fZO+pEkgIn6eI5HCN85mlMojpyA0Ms3hKzvIU2w8XViD5zyKMEUNbYYZIvCo54tuXeiS6MWoVT4LYPTqkCn0qdQwVbZYPh9KYb70xrzaM4sQFrqM0gQ==;W2jxUq11B9l3O4j/2mG8Qg=="

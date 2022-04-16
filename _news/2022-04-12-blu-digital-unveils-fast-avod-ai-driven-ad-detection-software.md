@@ -56,17 +56,17 @@ related:
         isCached: true
   - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
     excerpt: "TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital distribution, announced that Distill by TIFIN is partnering with Harbor Capital Advisors (Harbor),"
-    publishedDateTime: 2022-04-12T14:30:00Z
-    webUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+    publishedDateTime: 2022-04-12T12:30:00Z
+    webUrl: "https://fox8.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
     type: article
     provider:
-      name: FOX21 News
-      domain: fox21news.com
+      name: FOX8 Cleveland
+      domain: fox8.com
     quality: 9
     images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://i0.wp.com/fox8.com/wp-content/uploads/sites/12/2022/04/guards.jpg?w=2000&#038;ssl=1"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "Wf7+n2s0rO+fmKql3yVBeAjMiWN2EHyLJA1Yhq9qVTRbu9PvF3StGx7HER19Jji7BEx/YEDL/r6OZClstENI+DBLaVlcDJUS6rMbgEl7eVto8U+5kHW5o4wRGYq11syM3DOENg8lnBO92G793Z3vwUUrQ+yg8wc6BBMl8k2O2voUd8ez9eaBqXFrJLtxoaLd05KC/tgfcVRs/qWUAiZRKCqYhWncWg47Gs5r+bNmqyC5rVSMs+ad2V+JzeclUbf5mwg/nriXiZ37/Un7eAWcBE2NS0OpbSuAJkQuQG0oigZYGd4kY38BrW/t3xbtoL/qWXmCaRjIqpHlxK8fYV/xQmUO9LYEnVQ/eE14jld7OHA=;LJTbntvBSoBbmLm+3UIGFw=="

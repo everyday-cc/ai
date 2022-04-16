@@ -2,11 +2,11 @@
 category: news
 title: "Self-driving car company establishing test facility in SC"
 excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
-publishedDateTime: 2022-04-13T20:16:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+publishedDateTime: 2022-04-13T18:21:00Z
+originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
 type: article
 quality: 24
 heat: -1
@@ -14,7 +14,7 @@ published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
+  domain: chron.com
 
 topics:
   - AI in Autos
@@ -84,6 +84,6 @@ related:
         height: 527
         isCached: true
 
-secured: "2vg+eyOQq05ANogwUBj7ylv4eYyTweT7X/xphI8NApxq1kN0dPhbJWmthcFnkfdAot8N0drB/4aYI+rY58BEJbMFSIcBiiR26+CeWtPsdbhkIPRMjaI1hUh8WuFr1nv5e2zv7RSbfXeDWoNTWulUNfWL7rtXLywtAkNNyUzyW47jJb6d3iG1QW3r/DDcxTSbylqjJBBmT4mjQI91He3AqR3MHEUHVbs7MCmrzIgan2yRrgM3jOz8Ie3K6sIqx7OBsr7DnudArY928FrLiReFhIkRop2EtcDVzXE4xcoY6n5AZCZ2CLdR7/18XULeccsswf4N5n6PN8Ds824cbydcPNwUC10yUYSv0Suwz+a8Wr0=;1REA9vWy9biQvtxVYDMANQ=="
+secured: "XvrerPQNEzoX+PrrM9M0vPPB78jpsztvk1+fjGQFU9S0FDueIPeTL6RF/u75wsULGhoYoSrw7t8deCuOTezx31GoYncxdNSRxSifhWn+5CmXLeVP39cwXNRqRYiG+P8RgWMTcm4g7PvbAOYbDN0SUVQNwT+p3mvxIa49XLx+Qf84nlKSdze2fOpD1HLr539wx81cSSBXalPNDjHqtlAYe8X/tc5M2zq7YgVOeAB9VkyUkU1LvKLdNdeVm0kbtiHyQHsruw5Ev02i/YDO3f7/DtH7nduBZ0BRKBvJihDhRcau3jS7jUbZJDYPlWjpjsixd2A06xy5eyO+mmA8TDDgfeuXwQ5XAfjLte4HAx5i8BI=;ML9DoY8m85zUxnY/0u8qDQ=="
 ---
 
