@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Class Action Reminder: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Securities Fraud Class Action Lawsuit"
-    excerpt: "The law firm of Kessler Topaz Meltzer & Check, LLP ( informs investors that a securities class action lawsuit has been filed against"
-    publishedDateTime: 2022-04-11T15:11:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/class-action-reminder-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-investors-of-securities/article_415197ce-912f-57e0-bb23-4951f56484cd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/37/b37b1908-c321-512d-95ef-bcbf06e0fcd7/6080488ac185d.image.jpg?crop=1030%2C541%2C290%2C0&resize=1030%2C541&order=crop%2Cresize"
-        width: 1030
-        height: 541
-        isCached: true
   - title: "Investor Action Notice: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
     excerpt: "Los Angeles, California--(Newsfile Corp. - April 11, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (\"C3 ... law and rules of ethics."
     publishedDateTime: 2022-04-11T18:50:00Z

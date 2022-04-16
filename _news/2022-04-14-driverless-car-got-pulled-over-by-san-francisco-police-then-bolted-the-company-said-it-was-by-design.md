@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 902
         isCached: true
-  - title: "Video shows driverless car speed away from cops during traffic stop"
-    excerpt: "A driverless car sped away from a bewildered San Francisco police officer during a traffic stop, new video footage shows. In a bizarre clip posted on April 1, police appear to stop a"
-    publishedDateTime: 2022-04-11T15:14:00Z
-    webUrl: "https://nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/"
-    ampWebUrl: "https://nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/cruise-car-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Watch this driverless car get pulled over, then bolt for it"
     excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
     publishedDateTime: 2022-04-13T16:52:00Z

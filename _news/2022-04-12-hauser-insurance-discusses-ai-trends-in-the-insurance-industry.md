@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-11T22:22:00Z
 originalUrl: "https://www.hometownstation.com/news-articles/hauser-insurance-discusses-ai-trends-in-the-insurance-industry-413074"
 webUrl: "https://www.hometownstation.com/news-articles/hauser-insurance-discusses-ai-trends-in-the-insurance-industry-413074"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://2021media.s3.amazonaws.com/2022/04/Flare.jpg"

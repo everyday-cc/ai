@@ -7,8 +7,8 @@ originalUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-he
 webUrl: "https://medcitynews.com/2022/04/increasing-access-and-equity-in-healthcare-through-ai/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: MedCity News
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing data discovery in the life sciences through artificial intelligence"
-    excerpt: "Vyasa has developed deep-learning artificial intelligence solutions for organizations looking to solve the complex data challenges associated with healthcare and the life sciences, from improving scientific research and accelerating drug discovery and development,"
-    publishedDateTime: 2022-04-11T16:38:00Z
-    webUrl: "https://www.nature.com/articles/d43747-022-00120-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 36
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-022-00120-7/d43747-022-00120-7_20292870.png"
-        width: 1024
-        height: 384
-        isCached: true
   - title: "Increasing AI Startups, also Require Funding to Meet Expenses Until Profits Begin to Increase"
     excerpt: "AI start-ups have raised approximately US$36 billion in funding by 2020. These figures were exceeded in the first six months of 2021, reaching US$38 billion. Top 10 most funded AI start-ups are"
     publishedDateTime: 2022-04-13T06:42:00Z

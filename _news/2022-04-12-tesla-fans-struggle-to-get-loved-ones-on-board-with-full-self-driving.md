@@ -61,20 +61,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 51
-  - title: "Tesla’s Self-Driving Taxi Does Nothing for TSLA Stock"
-    excerpt: "One of the company’s commitments was to making a “dedicated” self-driving taxi in the future. I wouldn’t hold your breath if you’re expecting this announcement to move TSLA stock higher."
-    publishedDateTime: 2022-04-11T15:40:00Z
-    webUrl: "https://investorplace.com/2022/04/teslas-self-driving-taxi-does-nothing-for-tsla-stock/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 39
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/07/tsla1600e.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "F1iUfy8FGvRR2lIsDz03HroQLeTbklrO0GmEpvL6oypVRXze2WfwmMb7mjCC78yBcu/Q6efV/wEgGhILVo4EwbCjvZIwZVUmBkSxvTRA8gZVtW2eBUcTLRR/zDcJmEqEzMRgKBLU9oYj/tro+SN4ff+1UxISLynNRbKNJRZpqK3p3Ngg6oK6oI/WF4ogU9wiz1RBMPg/2i7b5OCj5+FPHardVBGW8m6Q2v+iONSlHyeaTa9Bo2hog7Ew0ARZkFmkPFu4ZU8kHSWNuKgBBmNw5yEbF8iZ/hkj0ZAQA+Kage9CRUvPHr6x2C7epdt39ErsXNmhDzEAnKRDHV59iIRUgaDHH1yhg8AGQ34d4Je4Utc=;REdm7DVju8+QaWVCb171Jw=="
 ---

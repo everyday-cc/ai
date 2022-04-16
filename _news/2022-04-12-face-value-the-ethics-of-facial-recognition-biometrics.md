@@ -22,19 +22,19 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Facial recognition planned for UK schools without Biometrics Commissioner consultation"
-    excerpt: "Fraser Sampson says he was not consulted over plans by the DfE to deploy facial recognition cameras to scan pupils’ biometrics at schools across the country."
-    publishedDateTime: 2022-04-11T15:34:00Z
-    webUrl: "https://www.biometricupdate.com/202204/facial-recognition-planned-for-uk-schools-without-biometrics-commissioner-consultation"
+  - title: "US continues lively debate over facial recognition and biometrics in law enforcement"
+    excerpt: "Though criticism for biometrics in policing persists, a new survey suggest that when police use body cameras and facial recognition it may actually build trust."
+    publishedDateTime: 2022-04-14T20:40:00Z
+    webUrl: "https://www.biometricupdate.com/202204/us-continues-lively-debate-over-facial-recognition-and-biometrics-in-law-enforcement"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 33
+    quality: 34
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/02114722/3025CDA7-1DB4-4909-AEBF-E13BC58EA9D8.jpeg"
-        width: 1021
-        height: 729
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/09/07150137/NYPD-security-surveillance-camera.jpg"
+        width: 1400
+        height: 931
         isCached: true
 
 secured: "uiBQ0iA5LVQBJmvfvt1Hw+JHvw8+DDRqdKwwZzcBGkdoUp2XrZm+tBkN8dYLuII/HEgWRfbn03nzi3BiTABmPCoIQ4AZVjaTQ6Q1sechXmTVZcE1StaA4RGEQguk6GmVUP1cjZO8YuxGdjeWBuGCvrq+piFFZE7x8X3EHHYzi8mrEfX/NeNcNLNfxNZEvCbBqf1CkklvJTLVbCQRbH8KqeEv15vAxZ7yUVpVVv3raclNesn51OnFKXJNVxTDBMKwRiE3uWRbz/Jof4KqFCgQaNbSetVTzt9oKdqa3PLRKcbTmUFRMt1QNOS6C1GXLQ/+ZTy0JPT3kPQ3iGLJwCLlgzTz11EbRPs9SIhkIxu5svhIXLLK8zTYH8sKKcTnbJAQZJ05EkuhO3N1iEFokT+1KlnHNuFEscF49+0KcFUhO/6LPGEdbNzciqhk11kSCvAGAA3/B3MvCLM51qrYJoHuFGiPDcMhV9eWSx4iWRUdWm4shB5igfo8TIgKt3THOCzQNTE7wk2c8yOKt0UlOstXTQ==;spAfV4UafyHaz2MTZOskwQ=="

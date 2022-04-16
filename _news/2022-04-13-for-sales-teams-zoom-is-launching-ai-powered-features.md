@@ -35,22 +35,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
-  - title: "Db2 13 makes z/OS debut, promises AI, hybrid cloud features"
-    excerpt: "In the first major upgrade since 2016, IBM is releasing a basket of updates for the edition of its well-established Db2 relational database for the z/OS mainframe operating system. The latest tweaks are designed to use machine learning to make systems more efficient to manage and operate."
-    publishedDateTime: 2022-04-11T16:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/11/db2_13_appears_for_osz/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/04/11/database.jpg"
-        width: 820
-        height: 312
-        isCached: true
   - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
     excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
     publishedDateTime: 2022-04-14T05:21:00Z

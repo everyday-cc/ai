@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Woman-Facial-Recognition-Concept.jpg"

@@ -24,22 +24,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "Beyond target identification and ligand discovery: connecting artificial intelligence and cell signaling"
-    excerpt: "InterAx Biotech has developed a specialist drug discovery approach that combines artificial intelligence, integrated mathematical models and cell biology experiments to enable the early identification of safe and effective candidates."
-    publishedDateTime: 2022-04-11T16:34:00Z
-    webUrl: "https://www.nature.com/articles/d43747-022-00113-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-022-00113-6/d43747-022-00113-6_20292814.png"
-        width: 1024
-        height: 566
-        isCached: true
-
 secured: "xqVHtyHhjM33QuvLmUTYrTHBXbiTc+cpB0RXYSnXYjJ1pr6gIE87089wmEGaaiZViw7xmCc6tLj4iZdRYWZavTp4ydSOfpnGrmjRw6s04pmh7Ig6/VOIF4JMDkKJNERCAJ7s+jZ104I5Pnm0QSgJu7/d5R68Yvcoe/MItEw+LDRBYrKe5lJncrjvSaQA+0jajidYegnxCKf8ByYa86WkLJ7vS5lix7EEwJws7NIDsgVDaCtanYcSahMAmGo12fLVQ7y+eMKT4llHkK4FY4gUK8zE6wK6KropSCFzSZScoJZd+csFESkRKrizOOiFzBO9kBP+MuyCvo/TNVKBs+4oNGcLGdkpNwBTSKgC6z0lIHr7yPmIEVrnMMkumbGpzd5jZ3Vj0v9s5U08CZbGv8KnxVG5firH+3Tz2eZII5kB9kUuZLeZRcVQdtxpYr9IFRQBEfYYfcrH6sH0zENEJFaf3kyfcAKg4taY34Tlw6wNU5NOFcI+o2WmCYF70mq57XetOwdOuha4P1QojZ8Vy3kd4w==;Psqhk3JRHbZoW1kBC5cycA=="
 ---
 

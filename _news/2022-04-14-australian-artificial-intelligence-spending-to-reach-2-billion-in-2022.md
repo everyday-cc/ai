@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spe
 webUrl: "https://www.crn.com.au/news/australian-artificial-intelligence-spending-to-reach-2-billion-in-2022-578796"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1400
     height: 900
     isCached: true
-
-related:
-  - title: "Asia/Pacific* Artificial Intelligence Spending to Reach $32 Billion in 2025, Says IDC"
-    excerpt: "SINGAPORE – According to IDC's latest Worldwide Artificial Intelligence Spending Guide, Asia/Pacific* spending on AI systems will rise from $17.6 billion in 2022 to around $32 billion in 2025. Businesses invest in artificial intelligence (AI) to gain a ..."
-    publishedDateTime: 2022-04-11T15:41:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/"
-    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/asia-pacific-artificial-intelligence-spending-to-reach-32-billion-in-2025-says-idc-44147/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 50
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "URuYSBp420hrneP/wINkVdCrYupa3RJAqDrChLJZdEG/RKYEFpTYE1osmQfmvtwVCpPf3BLXfqDoGnpNT7qU2PX0OeRigCJwpReIsIskEKIz2+XIhJ3KswMHkI9yUejoBDPUhqpXF9lLsWkSS1a0mBiDci2Gddp75Q79+jPRz/AxwmrvGhuXJgKgEPNct9epbQT4xFrQIsZh91J/Iip/0J/NNbCrfK7EjJb5Elz9mjkiJXMd4UIrqUDK2XzLHBtPesFm4Y8Bkfsx5ugR7x/7CkzcRnJ59ApvDHgafcEOjBv4MKW72vxwTd0648dZH9Z0T40SDE9ySmWGARPYz19WoU/YEvJxJuyQ0wacAlv/MF02LwAP5vw+V19VKSpsdo+1wBC4zNtYKw5skben0W4Hq6GSArzPgNTORWvKopTlu8N0ov6bri2xeougpL1OvVQAv+VgzsbWv2XcJ5KW04dzlKr/rkV4Kxml6fDHGoFnFX8nEeklQm1jFCyYrEWNt6IhFnzJ9QEeggisU1GtXFszhg==;EMbNt8nWYNPfiYy95W80gw=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 687
         height: 508
         isCached: true
-  - title: "Advancing data discovery in the life sciences through artificial intelligence"
-    excerpt: "Vyasa has developed deep-learning artificial intelligence solutions for organizations looking to solve the complex data challenges associated with healthcare and the life sciences, from improving scientific research and accelerating drug discovery and development,"
-    publishedDateTime: 2022-04-11T16:38:00Z
-    webUrl: "https://www.nature.com/articles/d43747-022-00120-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 36
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d43747-022-00120-7/d43747-022-00120-7_20292870.png"
-        width: 1024
-        height: 384
-        isCached: true
 
 secured: "NbhNMlfpBesXdJA9P0ZdyM5FEdA10rxl4KjYJol+F+6nmart8J/sPj9BgOgFFCeRVX4Jrd96ST8Hd2/H1HiDvoOD8k+l+LC6fmtwUgGHHYoj4M1AHlrSiTvA72Pw4oCXm3Ls+iB2JP/8nQRXxgd7mUOzWVfHs3pFmSpgZ/Ik/ypqxJe9Rli+pSytmQQK07dkdgY8UH4+O+aiKQvrJ45hQGmgK4q+Ji1mRy1yF0Xq6F2QVXrBcVjpYSqIg1cGruuXU15ycrX21zCCbpLrBZV7SW1zut8bo2Cu3u5FzTXxLkK+QdokB7txNCnAbof2dRVH/dRngrVLtUjQ/rdv7BklyyTz5AmsEGilMPd3STKVMfiDpqsTRSnLPNV6lDzB1So+KlWP3+ioavHmpbH9pZV5aCiH7n9HHLtVHBAMQpxo2ow8K/nAuPJuT3qvQodUslLx0a0Arp73AJCbnmgOuJwoJoQ+Zzwyy08i2Ki8RQ+LTc6IGmVU76YgufE4aNNVgLsZR/5PysPgFAkPY9/drg1NdA==;0LtoAYpE9xZ5/yny4U1F4Q=="
 ---

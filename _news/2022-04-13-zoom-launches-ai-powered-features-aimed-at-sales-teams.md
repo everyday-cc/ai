@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-feature
 webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Db2 13 makes z/OS debut, promises AI, hybrid cloud features"
-    excerpt: "In the first major upgrade since 2016, IBM is releasing a basket of updates for the edition of its well-established Db2 relational database for the z/OS mainframe operating system. The latest tweaks are designed to use machine learning to make systems more efficient to manage and operate."
-    publishedDateTime: 2022-04-11T16:30:00Z
-    webUrl: "https://www.theregister.com/2022/04/11/db2_13_appears_for_osz/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/04/11/database.jpg"
-        width: 820
-        height: 312
-        isCached: true
   - title: "For sales teams, Zoom is launching AI-powered features"
     excerpt: "Second Work Transformation Summit this week has seen Zoom unveil the next iteration of its AI tool Zoom IQ for Sales, which analyses sales meetings and transactions to offer actionable information. According to Verified Industry Research,"
     publishedDateTime: 2022-04-13T16:50:00Z

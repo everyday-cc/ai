@@ -47,22 +47,6 @@ related:
         width: 1022
         height: 535
         isCached: true
-  - title: "Demo at TC Sessions: Mobility 2022, where tremendous value meets huge opportunities"
-    excerpt: "Pssst. Lean in and learn about one of the most value-packed ways to experience TC Sessions: Mobility 2022, our annual deep-dive focused on the rapidly evolving world of transportation technology and early-stage startups."
-    publishedDateTime: 2022-04-11T15:50:00Z
-    webUrl: "https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/"
-    ampWebUrl: "https://techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/11/demo-at-tc-sessions-mobility-2022-where-tremendous-value-meets-huge-opportunities/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-2.png?w=1024"
-        width: 1024
-        height: 468
-        isCached: true
   - title: "7 Days left to apply to pitch your startup at TC Sessions: Mobility"
     excerpt: "Is an early-stage startup. Has a minimally viable product. Focuses on tech impacting various aspect of mobility: AI, robotics, 5G, SaaS, climate tech, VITAL crafts, fueling, data processing ..."
     publishedDateTime: 2022-04-14T16:11:00Z

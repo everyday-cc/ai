@@ -39,22 +39,6 @@ related:
         width: 1600
         height: 902
         isCached: true
-  - title: "Video shows driverless car speed away from cops during traffic stop"
-    excerpt: "A driverless car sped away from a bewildered San Francisco police officer during a traffic stop, new video footage shows. In a bizarre clip posted on April 1, police appear to stop a"
-    publishedDateTime: 2022-04-11T15:14:00Z
-    webUrl: "https://nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/"
-    ampWebUrl: "https://nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/04/11/driverless-car-speeds-away-from-cops-at-traffic-stop-video/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/04/cruise-car-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Watch this driverless car get pulled over, then bolt for it"
     excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
     publishedDateTime: 2022-04-13T16:52:00Z
@@ -99,6 +83,6 @@ related:
       domain: miamiherald.com
     quality: 31
 
-secured: "+xEnoTcAvGTKoglcm1NQm5iuHDdj0W18efaKp/Rks+x5ED9n6EZlVBa7cXz/KpqPQNobztBIPxiQAtylgV5XS7w4xVqlBiDkg7CFaDNp+4h19r2dJyU/M8DaXC1BvFYhu01ZmDgbFvXDTgFde48IuUsAgHRrAXGzvIbkZ2IBhe+Oty00kEa7HX6YryG+/vpB8nsFMhQ4Y3PpCxVXImGPQhp1n0wtGn8JSNRe5uBMjRPPbfqsGaGozvKFGfRSZ6VGh7AMiNc71uLwvYmkKZ4jNr3Pv+RMC5wOYdJAGfADnC246vA8wUN8NoRaaDeixN6H3kNsBrS3MOE/pGpWhxanlnUJpdtuHy1DK8YAKnblmtI=;B5hcW0eDpcG8oyCXRFeKPg=="
+secured: "8pq2Y63ZYJEv/G8wzHY415sXqn+/pPid+vWcbAyP9g9P9083gyl/XLsWPlF7mv79k0Q3Hy+EjCz/D9FMBplRcYfq/woOxwHXmU2c7pBqj6pNT9jBNPwd1O/nxUa4VDQZWJzgdi90B4ZExJFfw2Z4Mx4lil3a87SL8jM3LhYzX62450rifIpbc3suqlS0gO6VogGvSMbfEPo3gfiNwzlWngx/pSHoUUTG67ScpWrSb9/MMqDpWpoXplPC1biwfMywqwMYdjDS/jL5jPE/nfbxucXI6qD8KktorsJTOjSDkBMqS4cMWMLfV7SdcSAMcPVYTkU0abauOhnsdpheU03Fvqpkl065vYad1hKBbHGuMZ4=;siwj6f6scLVoWpWPdmHBww=="
 ---
 
