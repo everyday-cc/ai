@@ -97,15 +97,6 @@ related:
       name: Mining
       domain: mining.com
     quality: 6
-  - title: "FinTech trends that businesses should follow in 2022"
-    excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
-    publishedDateTime: 2022-04-11T08:05:00Z
-    webUrl: "https://www.israelnationalnews.com/news/325583"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 4
 
 secured: "13KSAiHA6eZ1y1Lr5cx8rtFGWWtq8Koldrn5EYMYJ8pcoZDJ91MJpKXDe+G1HoVXY7bCHjARiRYhoElgBjno2+gi951ONapgqXBAbPGgds8hdTd50stsn4TgKB9/8KneD4G22c/OyYxP+QXjKrsKBmJo5RiMulZkayvmD8i6Lfe1Xn2tggrDFlUc0kJsaV9cX5OZF3CoMV5c5fw2R19xzxJEjkJiboIh/tLnh2uPU6C7LH8P9ktRHNyshZFySAujFfe4jqAMP0zKfQSwwcfaVJq0XufuhrTK6oUtrxui9InrNspHDbdutsn9v21peAbDyJgw70oe+65Eas16kKioUSCOihGybmETiEB0DS6ImpY=;/3PDjdNUqi14BUHiMXT1yg=="
 ---

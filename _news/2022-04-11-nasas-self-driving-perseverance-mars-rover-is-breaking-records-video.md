@@ -41,20 +41,6 @@ related:
         width: 800
         height: 435
         isCached: true
-  - title: "How can cops cope with self-driving cars?"
-    excerpt: "Self-driving cars are such a common sight in San Francisco that they’re hardly worth a second look. But when an autonomous vehicle — sans backup driver — gets pulled over by the police, that’s worth a gander. And that’s what happened the night of ..."
-    publishedDateTime: 2022-04-12T21:30:00Z
-    webUrl: "https://www.sfexaminer.com/findings/how-can-cops-cope-with-self-driving-cars/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 24
-    images:
-      - url: "https://www.sfexaminer.com/wp-content/uploads/2022/04/28380836_web1_220412-SFE-AVUPDATE_1-700x467.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "p8KIVZF4ye4IKhWQPMXp63LmUbID1q8Xq6F0w6nYlQ+TSEZJiATZ4OuZGdiwEt2dPFLUTZEvM6qbAvPsBB79nk8rVNqPfHjwJe5SkLmJT7ABqG0heV4iPwpbZVQm8dEmO2y1bNfGC7ok6JWEFH9HWV214ZIPyfC+TosRLmmFXPketXC9tuhtbWftxch67JblKlJM8M7n5RFMHlzuvXfowzV/+Q9AMpoPY3lWOHTzqCdyBZ7FC7l4X+vG0XYvGbCOxc0SMrRfUxTVxyybMvjzEgg28mXNZhY45/jNFA+rr/BzsVd8m5KRnyUbcl0Ja9fP30S5JJn0b3odkJVfPMsdQdecpR3wAEy60F2siLupwco=;tUgFxdyvFMrDvyvPFPSPow=="
 ---

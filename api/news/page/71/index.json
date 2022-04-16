@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-02-11-speech-and-voice-recognition-market-worth-usd-283-billion-by-2026-exclusive-report-by-fortune-business-insights.md",
+      "title": "Speech and Voice Recognition Market Worth USD 28.3 Billion by 2026 – Exclusive Report by Fortune Business Insights™",
+      "excerpt": "Speech and Voice Recognition Market Size, Share & Industry Analysis, By Component (Solution, Services), By Technology (Voice Recognition, Speech Recognition), By Deployment (On-Premises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-usd-28-3-billion-by-2026-exclusive-report-by-fortune-business-insights",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-usd-28-3-billion-by-2026-exclusive-report-by-fortune-business-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Ukraine-Stop-War-Protests-AFP-1K-02-e1645941090514-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-10T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-global-artificial-intelligence-ai-in-agriculture-market-top-manufacturers-emerging-technologies-growth-rate-demand-sales-forecast-till.md",
       "title": "Global Artificial Intelligence (AI) in Agriculture Market Top Manufacturers, Emerging Technologies, Growth Rate, Demand, Sales, Forecast till 2028",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 11, 2022 (The Expresswire) -- The \"Artificial Intelligence (AI) in Agriculture Market\" 2022 Research report will make detailed analysis essentially on top to bottom ...",
@@ -1136,49 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million.md",
-      "title": "Billion dollar fintech Liquidity Group uses AI to fund another fintech with $30 million",
-      "excerpt": "“Our AI platform allows us to move at light speed – going from ... and we look forward to supporting other great fintech companies in the future.” “Liquidity’s capital infusion will fuel our continued rapid growth,” said ThinkMarkets CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
-      "originalUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/02/fintech-liquidity-fund-with-AI.png",
-          "width": 700,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/billion-dollar-fintech-liquidity-group-uses-ai-to-fund-another-fintech-with-30-million/amp/",
-      "publishedDateTime": "2022-02-10T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

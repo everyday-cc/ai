@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/image-recognition-market-expecte
 webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-expected-to-reach-86001-million-by-2025"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,33 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Voice Recognition Market to hit US$ 10 billion by 2028, Says Global Market Insights Inc."
-    excerpt: "Major voice recognition market participants include Aculab PLC, Advanced Voice Recognition Systems Inc., Alphabet Inc., Amazon.com Inc., Apple Inc., Aware Inc., Brainasoft, Fujitsu Ltd., IBM etc. SELBYVILLE,"
-    publishedDateTime: 2022-04-11T07:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26561435/voice-recognition-market-to-hit-us-10-billion-by-2028-says-global-market-insights-inc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26561435"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26561435"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Railway Connector Market to hit $1,150.21 Million, Globally, by 2028 at 5.3% CAGR: The Insight Partners"
-    excerpt: "According to the new research report published by The Insight Partners, titled “Railway Connector Market Forecast to 2028 – COVID-19 Impact and"
-    publishedDateTime: 2022-04-13T15:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/railway-connector-market-to-hit-1150-21-million-globally-by-2028-at-5-3-cagr-the-insight-partners"
+  - title: "AI Smart Transportation Market to Reach $7,065.1 Million, Globally by 2028 and register a robust CAGR: Emergen Research"
+    excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the ..."
+    publishedDateTime: 2022-04-15T09:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-smart-transportation-market-to-reach-7065-1-million-globally-by-2028-and-register-a-robust-cagr-emergen-research"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
+    quality: 15
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4e73b4174c4a302cc87ea8aea53515c63421d5b1-600x337.jpg"
         width: 600
         height: 337
         isCached: true

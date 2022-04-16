@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of-portable-security-systems.md",
-      "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of Portable Security Systems",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-7d83274094564fff4496b7b05527a3fb",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-robotics-artificial-intelligence-7d83274094564fff4496b7b05527a3fb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of.md",
       "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of ...",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
@@ -1288,6 +1244,49 @@
       "provider": {
         "name": "ETF Daily News",
         "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-karnataka.md",
+      "title": "Artificial Intelligence & Robotics Technology Park launched in Karnataka",
+      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched in the city on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "originalUrl": "https://www.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data1.ibtimes.co.in/en/full/770339/artificial-intelligence-photopixabay-com.jpg?w=570&h=312",
+          "width": 570,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "publishedDateTime": "2022-03-14T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
         "images": null,
         "publishers": null,
         "authors": null

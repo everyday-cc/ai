@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-05-vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before.md",
+      "title": "Vivienne Ming: A Force In AI Unlike Any We Have Seen Before",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to have a conversation with Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624bc25428c6d4f79594b9e5/0x0.jpg?format=jpg&crop=3000,1688,x0,y72,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
+      "publishedDateTime": "2022-04-04T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-spot-goes-to-pompeii-why-a-robot-dog-is-patrolling-ancient-ruins.md",
       "title": "Spot goes to Pompeii: Why a robot dog is patrolling ancient ruins",
       "excerpt": "Boston Dynamics’ robot dog Spot has been tasked with a new job - patrolling the ancient ruins of Pompeii. The robot will be used to inspect the site for safety issues and record structural changes over time to better manage the historic ruins.",
@@ -470,19 +521,19 @@
     {
       "path": "_news/2022-04-04-machine-learning-as-a-service-market-size-worth-3881-billion-globally-by-2028-at-412-cagr-verified-market-research.md",
       "title": "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Machine Learning As A Service Market\" By Component (Services, Software Tools),",
+      "excerpt": "Increasing application of cloud-based solutions, technological development in artificial intelligence and cognitive computing market, and increase in market for prediction solutions are some of the fa",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook",
-          "width": 2696,
-          "height": 1414,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -495,8 +546,8 @@
       "publishedDateTime": "2022-04-04T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -506,7 +557,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
@@ -1104,58 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-cognitive-spending-systems-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028.md",
-      "title": "Cognitive Spending Systems Market Segments, Growth, Share, Size, 2022 Major Companies Profile, Competitive Landscape and Key Regions 2028",
-      "excerpt": "Apr 04, 2022 (The Expresswire) -- Global “Cognitive Spending Systems Market” (2022) Gives a start to finish investigation of critical angles like development drivers, significant difficulties ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-spending-systems-market-segments-growth-share-size-2022-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-04-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

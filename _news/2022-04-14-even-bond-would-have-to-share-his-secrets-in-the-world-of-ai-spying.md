@@ -3,10 +3,10 @@ category: news
 title: "Even Bond would have to share his secrets in the world of AI spying"
 excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
 publishedDateTime: 2022-04-14T04:00:00Z
-originalUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60?shareType=nongift"
-webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60?shareType=nongift"
+originalUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
+webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+    width: 619
+    height: 377
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup"
@@ -53,6 +59,6 @@ related:
       domain: acrofan.com
     quality: 19
 
-secured: "m1pAlIx/xPj9SJ8AyEdUuLNYjSaoa+dc3yPjJdGcn/iBSnA3eXzQBEOiLhlRWB0M48lWXmTl6xcCBPu99+vIcPJqe0CddDvTrIyMJkcti9AHvpHP5NwUOKWB83y7242TfdUJvOCr4swHWPnMECv55Z95ptb/LCNCj9DlYV41fL9cVEPK7/f5Y5+WJCILtSu6je3tSyILdfVIyKvrXNvzPL+iNBEApi2mYHMRDWH3JaCv1qspUsfvEQRC6ToOfXzr2BjpO6t7Yc6KXMbwIoJi7cDQhCCohvhH4bvH0RJ/PcY/C2LdiNxgz5sXErWZpiXO4HBVEVqDiV1cpjAw3zy2dZi+yWOIkjyLN2nBTsE2X2fb3ZlF58dq7/WwWY1hMm9BjZPB3MpffxVO8C9pzdzD6TJw60HF2n73WJKKA2UbdaSZmX3d3P3eIQ7doWvmvpnmKIw/kXHymtrFFqzas36S8SfFtUaXZxp8c0PLFQ8O654T0mwvjZorqo6iLWfgZ6I8uAsvDw+M1W/USwYMsyHNRg==;GJiARbe3610M/Z7YzA+zMA=="
+secured: "LzBoUfOYRvqaRysl889I90zDgLGB3s4k5ocfjqNWWhGpeT11Eecv0KRGHwceR7gIpJxvnTsNAGr0GmjnKYGMNmX62wsKSuP+aN1xDW/C1vqRCDiXKTMi3ZLDrbgCfX8wN1xegtdKBnzLi9yo3Wm3Nqw3wPh91G1Dbv9k3LFcxlYDIRNC3pMQCosKi+vYx9ZWvTjm8YgdoV4pal5Yrm4Uq+QD12RaKgovXTZu70oCsrhPY+fkr7z4wf9XvA+93x9qNEj4DLsCi7pUq47dwuMSRhZ6KowPLSarE0OGMOsuv8B9azdRY7fgAz79YERhEhMyZ6YAxaxFo6exQSc48OiN5ie3HCLx6mkcB5gqqUWrOqk=;j0/PWtQ1m388P0TJkNOnMQ=="
 ---
 

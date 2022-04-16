@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/developing-countries-are-being-left-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,45 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Robots Are Coming – To Drive Human Spirit"
-    excerpt: "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,"
-    publishedDateTime: 2022-04-13T14:01:00Z
-    webUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/"
+  - title: "Developing countries being left behind in AI race"
+    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
+    publishedDateTime: 2022-04-14T08:39:00Z
+    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
     type: article
     provider:
-      name: CEOWORLD magazine
-      domain: ceoworld.biz
-    quality: 54
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg"
-        width: 750
-        height: 617
+      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
+        width: 600
+        height: 480
         isCached: true
-  - title: "Robots are learning to think like humans. Can they meet Amazon's demands for speed?"
-    excerpt: "In a lab at the University of Washington, robots are playing air hockey. Or they're solving Rubik's Cubes, mastering chess or painting the next Mona Lisa with a single laser beam. As the robots play,"
-    publishedDateTime: 2022-04-13T16:00:00Z
-    webUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
+  - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
+    excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
+    publishedDateTime: 2022-04-15T13:15:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/sitting-out-artificial-intelligence"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/2-robot.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://nationalinterest.org/sites/default/files/main_images/20516463898_9f73728fad_k%20%281%29.jpg"
+        width: 1222
+        height: 687
         isCached: true
-  - title: "Artificial intelligence keeps the spirits up during the pandemic"
-    excerpt: "So it is fitting that one such lockdown era trend is intersecting with another — that of surging focus on digital transformation — as supermarket giant Coles’ Liquor arm looks to invest in artificial ... are in insurance or healthcare, there are ..."
-    publishedDateTime: 2022-04-12T19:04:00Z
-    webUrl: "https://www.afr.com/technology/artificial-intelligence-keeps-the-spirits-up-during-the-pandemic-20220410-p5acfl"
+  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
+    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
+    publishedDateTime: 2022-04-12T12:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 12
 
 secured: "C6EjbviyrV2ctlqiF+ChxElVJPHEm438s65En2BXQFPuuK4g0OEzyzLOfJRXySSvxcVUeYfoJGMycXLkAAhbz2fsaXDWnVCN+lnoWcYeesTBlDZF+2iO6sApC6g/5v3Jlr4xcEFkslrd/zx3LIxGkZu/51HKFuwipr0jiOSlSeRutEWVAtnVeFDoZSfi3K5J/zPch7DRgydPofdVPJIeoGBo4RAQI/7kBpHrfaWNmT4RbyOgZrTiuri3zcpPBxq83gS5F02PEk/olxtfAHMMjh1CU11aO5t3ScMLWyAYtFNmGy1bZyg9ueOmf20TxehsHWLGJj6keIJIqyyupacO1e8v9UvyJ+kjDkwQ/sogSnPJVICpagyujqcEqOLK+5XI0k1tGP9NDgEwRQTD0HgGtBKCYUjlRbtHA2SMCTuhkkcr7JAjGWUMhs1RhkVjD5WTmp4C5iNb9CuKNB8YiOR9NuefP27RoOeaBZkiIsmWR1dHrsGrMJedM5kc7ADqeZ+Cq7IHX79ViXZKqikLfilSqQ==;4TZuwF/t0D4+7Mk6FB1XmQ=="
 ---

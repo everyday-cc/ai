@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "NASA's Record-Breaking Mars Rover Is Way Better At Self-Driving Than Earth Cars"
-    excerpt: "You generally want your $2.4 billion mission to go as smoothly as possible, and its a testament to the kind of careful engineering that can go into self-driving technology that we trust it enough ..."
-    publishedDateTime: 2022-04-12T15:03:00Z
-    webUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123"
-    ampWebUrl: "https://jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/nasas-record-breaking-mars-rover-is-way-better-at-self-1848779123/amp"
+  - title: "AI Strikes Again – Self Driving Cars Are Already Here"
+    excerpt: "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ..."
+    publishedDateTime: 2022-04-11T20:48:00Z
+    webUrl: "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 40
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/889b177f737fdb67ad2425b0e3629278.jpg"
-        width: 800
-        height: 435
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Cars.jpeg"
+        width: 877
+        height: 432
         isCached: true
-  - title: "NASA’s Self-Driving Perseverance Mars Rover Is Breaking Records [Video]"
-    excerpt: "NASA’s Perseverance Mars rover is using its self-driving capabilities as it treks across Jezero Crater seeking signs of ancient life and gathering rock and soil samples for planned return to Earth. NA"
-    publishedDateTime: 2022-04-11T10:49:00Z
-    webUrl: "https://scitechdaily.com/nasas-self-driving-perseverance-mars-rover-is-breaking-records-video/"
+  - title: "AI and Robots Are Coming – To Drive Human Spirit"
+    excerpt: "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,"
+    publishedDateTime: 2022-04-13T14:01:00Z
+    webUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 24
+      name: CEOWORLD magazine
+      domain: ceoworld.biz
+    quality: 54
     images:
-      - url: "https://scitechdaily.com/images/Mars-Perseverance-Rovers-First-Autonav-Drive.gif"
-        width: 777
-        height: 437
+      - url: "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg"
+        width: 750
+        height: 617
         isCached: true
 
 secured: "3lu+HMeSCMR/79Md8gnM8UGkxUtWDw4x5cfF7wFI9X9BAYPRUUXYIiSJYWqwPPRGXOJ3uvkeigH3cDKpbtZIR375RYLwUlRlNBk4xBxERhGX3sgTVfg1i47GtXSTwHZkSoaXVjsEXlEyixChPnklXneXJGo02B9v5GDJPkRYGDYMz5gG+/VISt2lIwcb0L1alrgL+oZC4UhGbZ9HiK5bPJ0D6RBP+03JrNdwbPbKvHy1UK7snB0X1JYU2ZtQAupVuWLiijOxW9aAgue41bypXLPwRUd+huXS3j+tlncAVywApqyNcdsPJhH/xQQQBB4ttJfkKbZqst7noCrkWSsbpXeTy/M64HH5esUZtbGDGLI=;F7qB7dcz44bgBOzHm+sQQg=="

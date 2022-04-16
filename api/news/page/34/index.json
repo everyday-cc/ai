@@ -2,6 +2,59 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-03-16-chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips.md",
+      "title": "Chipotle Is Testing An AI-Driven Robot To Make Its Tortilla Chips",
+      "excerpt": "Miso Robotics' Chippy is in test at the Chipotle Cultivate Center with plans to eventually integrate into a Chipotle restaurant in Southern California later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604055621f986bf7c978c45c%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "publishedDateTime": "2022-03-16T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-ai-startup-modern-intelligence-raises-5m-to-launch-innovative-maritime-surveillance-ai.md",
       "title": "AI Startup Modern Intelligence Raises $5M to Launch Innovative Maritime Surveillance AI",
       "excerpt": "AI startup Modern Intelligence has secured a $5 million seed round, the company announced today. Led by Bedrock founder and managing partner Geoff Lewis, with participation of Vine Ventures, Air Street Capital,",
@@ -1043,49 +1096,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-progress-updates-sitefinity-dx.md",
-      "title": "Progress updates Sitefinity DX",
-      "excerpt": "The latest release of the Progress Sitefinity DX digital experience platform delivers .Net 6 support and new digital asset management, advanced search and audience analysis, segmentation and ...",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-software/progress-updates-sitefinity-dx.html",
-      "originalUrl": "https://itwire.com/business-software/progress-updates-sitefinity-dx.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/b4c9dfb15f87c67af432886c067470f0_M.jpg",
-          "width": 375,
-          "height": 289,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

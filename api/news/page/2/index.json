@@ -181,6 +181,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
+      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
+          "width": 2700,
+          "height": 1845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-openais-new-ai-generated-anthropomorphic-bowling-balls-and-we-simply-must-stan.md",
       "title": "OpenAI’s New AI Generated Anthropomorphic Bowling Balls and We Simply Must Stan",
       "excerpt": "Strike! Move over, NSFW bowling animations — there’s a new weird bowling meme in town, and this one was made by computers. Using OpenAI’s DALL-E2 text-to-image generator, which was just released a week ago,",
@@ -698,7 +750,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-to-hit-46-9-of-cagr-by-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -729,49 +781,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-and-robots-are-coming-to-drive-human-spirit.md",
-      "title": "AI and Robots Are Coming – To Drive Human Spirit",
-      "excerpt": "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,",
-      "sourceUrl": null,
-      "webUrl": "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/",
-      "originalUrl": "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg",
-          "width": 750,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CEOWORLD magazine",
-        "domain": "ceoworld.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

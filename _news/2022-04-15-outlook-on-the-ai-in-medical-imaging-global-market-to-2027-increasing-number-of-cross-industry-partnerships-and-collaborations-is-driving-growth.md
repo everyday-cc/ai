@@ -60,20 +60,6 @@ related:
         width: 353
         height: 249
         isCached: true
-  - title: "Robot Operating System Market Report 2021 Size, Share, Growth, Trends, and Forecast 2031 | Analysis"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Robot Operating System Market that emphasizes the l"
-    publishedDateTime: 2022-04-11T08:43:00Z
-    webUrl: "https://menafn.com/1103990022/Robot-Operating-System-Market-Report-2021-Size-Share-Growth-Trends-and-Forecast-2031-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?199514"
-        width: 649
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
     excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
     publishedDateTime: 2022-04-12T12:04:00Z

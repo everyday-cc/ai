@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/techland-when-great-power-compet
 webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/sitting-out-artificial-intelligence"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Leading MEPs raise the curtain on draft AI rules"
-    excerpt: "The two co-rapporteurs finalised the Artificial Intelligence (AI) draft report on Monday (11 April), covering where they have found common ground. The most controversial issues have been pushed further down the line."
-    publishedDateTime: 2022-04-11T14:45:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/leading-meps-raise-the-curtain-on-draft-ai-rules/"
+  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
+    excerpt: "Many modern AI-driven applications, from the Google translate feature to robot-assisted surgical procedures, leverage deep neural networks. These are a special type of deep learning model loosely ..."
+    publishedDateTime: 2022-04-13T11:48:00Z
+    webUrl: "https://theconversation.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
+    ampWebUrl: "https://theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
+      name: The Conversation
+      domain: theconversation.com
+    quality: 47
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/04/shutterstock_540433660-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://images.theconversation.com/files/457467/original/file-20220411-19-lp9io8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
+  - title: "Developing countries being left behind in AI race"
+    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
+    publishedDateTime: 2022-04-14T08:39:00Z
+    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
+        width: 600
+        height: 480
+        isCached: true
+  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
+    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
+    publishedDateTime: 2022-04-12T12:31:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 12
 
 secured: "hlgwQ22WMNLmcG6edXMD88j3GXf/Xm5RMn6jpfdG/XbiSWzUrKJTnM8TfzZVyiW9D6ST3Zul15VpqDv+6dMG9OCcL0xBsGI9CjoV11ZRORYsms/JARi6RdVPoCVvF6NQYDzmOoU1khAYiigb5T+bI5tUwRD3aBIyJU5kvzqxlSuZ0q3DRP+14fIJ1g88j0kbM/4Fso5VyMzTAtxN4shJMIufo506s30ZcPQoKNGKL++/93fXX5z4TpeznOO2ZyVt3wXwNkDTrBUKfuXin+6EwIQJA97MLAn1U0GFf4YkMrZkCHdQ8dPgI7Agu8vOXCNA4J/SCGnWwVJsejzKgYLvNxed6VmiQghM800EzBOpcMw=;WqlPx7zp9Kll7JGzEFnuOg=="
 ---

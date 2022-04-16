@@ -2,6 +2,48 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-02-09-scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform.md",
+      "title": "Scopio secures $50M in series C funding to develop telehematology imaging and AI analysis platform",
+      "excerpt": "The very common Peripheral Blood Smear review, used time and again for diagnostics, is typically conducted by a human analyzing the sample on a glass slide under a microscope and checking cell ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
+      "originalUrl": "https://medcitynews.com/2022/02/scopio-secures-50m-in-series-c-funding-to-develop-telehematology-imaging-and-ai-analysis-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/02/for-pbs-pr.png",
+          "width": 1366,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-the-bull-thesis-for-c3ai-is-more-artificial-than-intelligent.md",
       "title": "The Bull Thesis for C3.ai Is More Artificial Than Intelligent",
       "excerpt": "At least two big-bank analysts are not particularly optimistic. First, Bank of America Global Research analyst Brad Sills downgraded his rating on AI stock from “neutral” to “underperform,” which is similar to a “sell” rating. Sills also cut ...",
@@ -1124,58 +1166,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-microsoft-open-sources-graph-engine.md",
-      "title": "Microsoft open-sources Graph Engine",
-      "excerpt": "The LIKQ query language is also used by Microsoft inside of its Cognitive Services, specifically its Academic Graph API. Both the LIKQ language and the Graph Engine source codes are available ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
-      "originalUrl": "https://sdtimes.com/analytics/microsoft-open-sources-graph-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2014/12/HANDYALEX.jpg",
-          "width": 253,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

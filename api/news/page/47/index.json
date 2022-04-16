@@ -2,6 +2,59 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-03-03-luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m.md",
+      "title": "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
+      "publishedDateTime": "2022-03-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-three-ways-to-overcome-industrial-ai-roadblocks.md",
       "title": "Three Ways To Overcome Industrial AI Roadblocks",
       "excerpt": "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,",
@@ -1173,59 +1226,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
-      "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/skill_impact3-1260x437.png",
-          "width": 1260,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T07:24:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

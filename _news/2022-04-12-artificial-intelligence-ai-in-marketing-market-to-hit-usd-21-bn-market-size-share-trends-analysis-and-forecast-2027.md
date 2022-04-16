@@ -61,20 +61,6 @@ related:
         width: 353
         height: 249
         isCached: true
-  - title: "Robot Operating System Market Report 2021 Size, Share, Growth, Trends, and Forecast 2031 | Analysis"
-    excerpt: "Kenneth Research, in its repository of market research reports, has recently added a report on Robot Operating System Market that emphasizes the l"
-    publishedDateTime: 2022-04-11T08:43:00Z
-    webUrl: "https://menafn.com/1103990022/Robot-Operating-System-Market-Report-2021-Size-Share-Growth-Trends-and-Forecast-2031-Analysis"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?199514"
-        width: 649
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence in Education Market Size, Share, Trends, Demand Forecast, Industry Revenue, Opportunities, and Impact of COVID"
     excerpt: "Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period). We will ..."
     publishedDateTime: 2022-04-12T12:25:00Z

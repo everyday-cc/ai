@@ -89,15 +89,6 @@ related:
       name: Mining
       domain: mining.com
     quality: 6
-  - title: "FinTech trends that businesses should follow in 2022"
-    excerpt: "We’ll consider the FinTech trends for 2022 that determine the development of the financial industry for the next five years."
-    publishedDateTime: 2022-04-11T08:05:00Z
-    webUrl: "https://www.israelnationalnews.com/news/325583"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 4
   - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
     excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
     publishedDateTime: 2022-04-13T09:28:00Z

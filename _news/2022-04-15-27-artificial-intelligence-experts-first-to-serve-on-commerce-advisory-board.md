@@ -28,7 +28,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
         width: 840

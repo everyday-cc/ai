@@ -192,6 +192,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-ai-strikes-again-self-driving-cars-are-already-here.md",
+      "title": "AI Strikes Again – Self Driving Cars Are Already Here",
+      "excerpt": "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
+      "originalUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Cars.jpeg",
+          "width": 877,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "T he artificial intelligence (AI) market has grown like a weed in recent years as organizations gather and process more data to make smarter decisions. However, it can be difficul",
@@ -1143,58 +1186,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-cities-take-the-lead-in-setting-rules-around-how-ai-is-used.md",
-      "title": "Cities Take the Lead in Setting Rules Around How AI Is Used",
-      "excerpt": "A look at what New York, London, Barcelona and other places are doing to establish regulations that other cities—and countries—may want to copy",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "originalUrl": "https://www.wsj.com/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-521230/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/cities-take-lead-setting-rules-around-how-ai-is-used-11649448031",
-      "publishedDateTime": "2022-04-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

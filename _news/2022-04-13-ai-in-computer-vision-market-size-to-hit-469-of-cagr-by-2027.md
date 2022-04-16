@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-siz
 webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-to-hit-46-9-of-cagr-by-2027"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
         width: 353
         height: 249
-        isCached: true
-  - title: "AI in BFSI Market to hit US$ 140 billion by 2028, Says Global Market Insights Inc."
-    excerpt: "The Artificial Intelligence (AI) in BFSI Market from data analytics & visualization solution segment is expected to grow at 30% CAGR from 2022 to 2028 driven by the continuously growing digital data and increasing inclination toward the customer-centric business model."
-    publishedDateTime: 2022-04-11T08:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/11/9579974.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1794234/Artificial_Intelligence_BFSI_Market.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "AI-Enabled Testing Tools Market Is Expected To Project A Stellar CAGR of 16.9% From 2022 to 2030"
     excerpt: "According to a latest report by Future Market Insights (FMI), global AI-enabled testing tools market revenues will grow at over 13% CAGR through 2030."

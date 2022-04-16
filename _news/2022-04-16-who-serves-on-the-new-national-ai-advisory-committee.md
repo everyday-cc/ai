@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advi
 ampWebUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
 type: article
-quality: 57
-heat: 87
+quality: 59
+heat: 89
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
@@ -59,6 +60,6 @@ related:
         height: 248
         isCached: true
 
-secured: "Jhm21h4dcZYSu0oqONs3Ys6lvxf1XXBZT4bhDn+dbEdJnYpcl/qzqqOJ61sBvcbZqdhdot19eXRwqYB8KtGvoQvBI4Su2p3NHkM1Sa/UnBe4w4NN/Ab861bI5GZfN8d/yV3Ln1/uDa9/denlhUT02cI5a6Reh+pfsGzJfFNZZyDKNVf7RRDjzgCZgAeRTlt2bdEKFvj6crE3Do0MmkrNRyUegcB99hyzhOS7hw234+LKRWyAuXdIH1jSfyx8L3QkxmSg+1/j5M8eYa0j7cqqyuUFeDurFPHjnVdzHtURfuzC46M/5lRTBn0nuBEbd3T0FrgaIDeDSuVOR8V2JaGDLV8LpXOA66kPCGKaIThkemQ=;phB9sMjUlS+sI4NY32xzww=="
+secured: "KP4YJa470Ibt1/dPIKQYCZnruEbeIsAPERsC8uHuChtTij1wgL+eM4UXwi6+hKnlSsWnzDo4fX/Yn8RZjXX09FLdJIbBR3Q177DGVBJfYcvF5/KrU5usaqAXja7SrsU96o+xlqrheRoTFc22cIPBoEidW2tmurk1H1gZpVwCS4Bly9b5uYJ7iqgl415ujdJG6Md4doQJI74t//AvPN3pSA2WI+B14Elq3tEqt+Q8i6mvrJYVaKlTAyiVgUyLwQVoaLx8DjCT5qiCB00xRYpEkwaUC2fA/Gyz+ZKNbUxpjpLSvrZJRj0VKVL+T993iMXGP7z2sSEqYcbcCUItccS20cQ7v9HrM4YSuFZU2sgWmOi4TTHGzMNAzjzDbihLR0eI5nEc1QAaA6oQyshC5EcKh7+rq9ZHMgPtffbsaDPeUkxWziIIle/L8Xd22KQMH9nMXGJEpdxX5fL0DSIie2LgDw2Xrytx3nrcJyIchqBpg+qwTZJ9SiCTY6+J2Q9/TQdZWtB8l+DhPtLcPP0rdZ9Zwg==;VAZLQOx2A4yCOEUpK9q5gA=="
 ---
 

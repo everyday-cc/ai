@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-06-google-announces-new-tool-for-data-storage-and-integration.md",
+      "title": "Google announces new tool for data storage and integration",
+      "excerpt": "Google wants its to offer the control of the best data warehouses with the seemingly endless availability of cloud storage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/google-announces-new-tool-for-data-storage-and-integration/amp/",
+      "publishedDateTime": "2022-04-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
       "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
@@ -838,6 +881,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
+      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
+      "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "originalUrl": "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/686666dc-7fc7-4858-9461-a3d2c8257f2e/Amazon_Web_Services.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands",
+      "publishedDateTime": "2022-04-05T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
       "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
       "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
@@ -868,49 +954,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
-      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
-      "excerpt": "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
-      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1049,57 +1092,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before.md",
-      "title": "Vivienne Ming: A Force In AI Unlike Any We Have Seen Before",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to have a conversation with Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624bc25428c6d4f79594b9e5/0x0.jpg?format=jpg&crop=3000,1688,x0,y72,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
-      "publishedDateTime": "2022-04-04T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

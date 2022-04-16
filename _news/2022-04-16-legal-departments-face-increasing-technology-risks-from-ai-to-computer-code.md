@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2022/04/15/legal-departments-face-
 webUrl: "https://www.law.com/corpcounsel/2022/04/15/legal-departments-face-increasing-technology-risks-from-ai-to-computer-code/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 633
     isCached: true
 
-secured: "mBKsh2JPeQuf3GHRH0guyACY5fHgSJpAvAguxk69ei4lXekT/TO5oIsn76tbdEXfQXcMi1ZzYVZFNX+8voh1kwiHXllwkGhsX8jfjF5r5bYW5y18ybfJW/Agm1kAqEm4vJNcUZqeId6ZDUXT8PdEmx1rsGkqxSTQQ0nJuQ3ST5eb3QjM960arD/YcJ11Z+ekG7tmhEbVXyswSlo0/MV3STTD3OYErDlbBId/0OYeJbELlFZR7+fx3h/ymgGSlQFq9ogrX9QMrrDc36jVaXVKetIHACJj8ltx9aWFlQeP/fBNqpuHTJo18QGdbpKizV9CZqvbKTNT1yGF+ZFqKfvHX3CT0TZ9FlcoQKVNzf6F2gQ=;GTKslHkwvo4xtB5onIFU8g=="
+related:
+  - title: "Willy Pell from Blue River Technology brings AI to the farm"
+    excerpt: "Learn how Blue River Technology brought autonomy to John Deere tractors and are using machine learning to continually improve the operations."
+    publishedDateTime: 2022-04-16T00:02:00Z
+    webUrl: "https://www.therobotreport.com/willy-pell-from-blue-river-technology-brings-ai-to-the-farm/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 67
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/03/john-deere-autonomous-tractor.jpg"
+        width: 1000
+        height: 665
+        isCached: true
+
+secured: "47pkDOfwcVN4Y8juVlPiGMMjw7YSzTcunpPqncDN7BZ39GBcdlxNR+ckHUzJywnBpU8famchLChe00978J51vlbEdxuM+oNdNsKN9UpLqolUAT60cbQwIJGfGJ7ZWOHwPZhTtacveV7ajZxGM2Et55u8VUkjYDA2ImYBLeskkSxogLNZrCICDy53r7D25vLTeaIB3oKMBr0Keg06WtMVtyX5Cs/xXY163wpEs9SeYsmZ/20Ud4Y2LQE9cYEbirSNe4VT/pKKzik/PNkqgFNx4pvpcnYAhl8Ey97m3J2J85v7j0SjTVvSuwGhQNVtSF1MP60XI/8jYczUYdsKFFOrb9GeCldu8575WcxwOPW1jvagelRe5tVACyPaXRzOp0JIsU5DBs8KBQVD/28lbrDyLCKnGUiNe6ovRQlrzx98Y0Y6D1OZWMChHgpwgJWh6rBr1fatNtw0Gytf7WifFlkj8wXa1eJoVAun3oBimcxQnn+YYcvy0yngXk876xwdhnjPmTolmJIzzpoRpvnw+2zvFw==;DzzjgD13xRyGuXXOd+q3DA=="
 ---
 

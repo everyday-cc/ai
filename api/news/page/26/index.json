@@ -2,6 +2,58 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-03-22-how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws.md",
+      "title": "How Amazon Search achieves low-latency, high-throughput T5 inference with NVIDIA Triton on AWS",
+      "excerpt": "Amazon Search’s vision is to enable customers to search effortlessly. Our spelling correction helps you find what you want even if you don’t know the exact spelling of the intended words. In the past, we used classical machine learning (ML) algorithms with manual feature engineering for spelling correction.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/21/ML-8065-image001-feature.png",
+          "width": 612,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T09:47:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
       "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
       "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
@@ -1020,49 +1072,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history.md",
-      "title": "Commentary: Calling Asians ‘robotic’ is a racist stereotype with a long, troubled history",
-      "excerpt": "When U.S. figure skater Nathan Chen won the gold medal in men’s figure skating at the 2022 Winter Olympics, a Washington Post article attributed his win to a fierce, focused, “robotic” zeal. This robotic characterization draws on a dated stereotype of Asians as stoic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2022/03/22/commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history/",
-      "originalUrl": "https://www.pressherald.com/2022/03/22/commentary-calling-asians-robotic-is-a-racist-stereotype-with-a-long-troubled-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressherald.com/wp-content/themes/mainetoday-pressherald/assets/images/tr-icon.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

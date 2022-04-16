@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12"
 type: article
 quality: 69
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision System Market Size hit USD 25.69 Billion at CAGR of 10.8%, By 2028"
-    excerpt: "Reports And Data Computer Vision System Market Size – USD 11.35 Billion in 2020, Market Growth - CAGR of 10.8%, Market Trends –Increased d"
-    publishedDateTime: 2022-04-11T08:34:00Z
-    webUrl: "https://menafn.com/1103990227/Computer-Vision-System-Market-Size-hit-USD-2569-Billion-at-CAGR-of-108-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/11/EP_0099aimage_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market Size and Value to Reach USD 58440 Million | Growing at CAGR of 24.9% | Forecast Period 2022-2028"
-    excerpt: "The global Artificial Intelligence Software Market size is USD Million in 2022 from USD 12330 Million in 2021, with a change of % between 2021 and 2022. The global Artificial Inte"
-    publishedDateTime: 2022-04-11T07:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-size-and-value-to-reach-usd-58440-million-growing-at-cagr-of-249-forecast-period-2022-2028-2022-04-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Diagnosis Market to exceed USD 66,811.97 million by 2027 says, The Insight Partners"
     excerpt: "According to The Insight Partners latest study on “Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 – COVID-19 Impact and"
     publishedDateTime: 2022-04-15T11:09:00Z

@@ -279,49 +279,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-13-ai-and-robots-are-coming-to-drive-human-spirit.md",
-      "title": "AI and Robots Are Coming – To Drive Human Spirit",
-      "excerpt": "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,",
-      "sourceUrl": null,
-      "webUrl": "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/",
-      "originalUrl": "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ceoworld.biz/wp-content/uploads/2022/02/william-e-halal.jpg",
-          "width": 750,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CEOWORLD magazine",
-        "domain": "ceoworld.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
       "title": "Intelligent robotics for laundries closes automation gap",
       "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
@@ -1373,6 +1330,58 @@
       "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
       "publishedDateTime": "2022-04-04T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
+      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
+      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
+      "publishedDateTime": "2022-04-04T09:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
