@@ -6,9 +6,6 @@ publishedDateTime: 2022-04-13T18:42:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -18,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "/fEvYLIHIJrT2wkqq0ULyKDXJMDZIVcHndMnabGcyCaD0fxw875RUFwXK03IDmiUOoRlRYkuhTvlOtcy+d+nhp95ddi0cEmcJLBMG5OCOH1Bw8ycBt5wszuvTm7uRIYiSE+rY8CNXoVPEC9rdDKgt4vFSHbC3FLGuBa2205aDs5ofkLtcORfH2Yt+CIAWXkw2xzaeOYSqgIFt3szRMPrSCAM8iR8jQSZ4h2o5hvvXSSs9sUCkaBdw+OIVt0OcoIy0Ekj3Kjp1g/9EyJZOTjArpt7BROdue7AzN0A/aXRNGXXyoyqIORyxc/4IbYBBBN5oVE9ChU6PdZIx4v5Vjq2u2eP1gCpCLZlu7fhBmokJ/E=;VBHl3SQsBR26e5+xu29fxg=="
+secured: "aufYZO1oDI6mWu/n9zKdXzhcudwOgqB2hvJNTOTVr7HvF5rxYwszOzB2+7tsRRPy1V8ToHLIhUF4RPe5Kua8dUE6w4mS+Re2K/uBXYSzdJ9829wuDri+b6LJ4kcrOujJyLUDMySBkSbVRYCYpeQYAMYq6Gqqw+KkVSqsxwqq7l6MJQmE6z/e6TGnOr32We7HfhLvKeoulCLdjiJwjSm4VBUp7niEVjzBtSCrO55zw3SnIaY/XvqeBggeMacKNqFxtNNlycTAr+4nxvyd1W5a8ASxfm5h2Qp9G9/sDPumLQKY9FsMOiGSOY89vBZavWdJE+2xV6lQchjVusOTO9dTd5gLtYSVCeTlxhfl3qXiDAk=;SApoPueaKa/tHeeJ5/H6Nw=="
 ---
 

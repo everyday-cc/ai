@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Machine Learning As A Service Market\" By Component (Services, Software Tools),"
+excerpt: "Increasing application of cloud-based solutions, technological development in artificial intelligence and cognitive computing market, and increase in market for prediction solutions are some of the fa"
 publishedDateTime: 2022-04-04T14:15:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at/article_f17ab42b-bfe6-5636-99ed-faaf78e94f10.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
-    isCached: true
-
-secured: "Za1JMFBudL9oPmMpnmRUiNSNTOT8qgYRtnlxRPKH2bOH96A19TZqVVd3nUfdAdEgl8xyubA3/eUcmmt/GKRku9Au3KA0+o0rgKdajkYOLHCh/mVCqmKRVJ/Rn6K+4F/pbuXeGyohlmcW6EkhWIXxbLTb7oO4bzZdYcdjRoagSjIVbpwA6JqfiZ4AYnlcT4EWdIEvEt+CiJyv1uvb4F5c4Vblg8iX7rQwfU2F+h7QKlHGFWAqdnIxCJPYY0BdSUfvMn+P5d4iMaU5vDqSM3QbbciQEmEECTBVUXfLyOTsTwR1fvpguAPqa+W58ZEzWuqGaVRD5qHrJS05aa6C+//kTySaTBoNnxKSeDCupf2K1vQ=;sBlwwglRRpT5HAC2hewK4g=="
+secured: "EzOGnNhrTqONRtHUs/UhnCfM6OBp0oLw991Ftka+7K41w+aCn6hUm8gZuEDLtDu2AZmSu54w+oYQ5rWO6EscU62Y7dg4EA51P81+l1049agj+u0p5fDfgoJy/QYo7sJKW/53JcOT83q4Ok0zzwmVz5pKMlzBoAtQWrTYWi6Qv7WOyCnXiQ0NHSF0AS/4AlfMcVodO8BeGuXVigoggGeua9QTsv5lCvHYIV5XyE1RUblO2db0QVPFvYULNmEr4Ij7bgsWObuPsr7yKYcXqaOaIYjEpm6xSqWdTqbwU3mqbAkmFGueUTFyRhKC+yef4rKBu4gO2zczLJ/rR8UVnhqUaM0Bfp+SP9C9Py4Fm3D6lYPNOEYodVpp/K6mp14AUmcpuvAsx34dNUCAn1JjpO3Y0bz2MpsRE8NjhZainbNKfQeks3w+eoHXLbND8tDpyOUvVRPCWpT+Ripy0EGWc5dQqNMTQvNJ9ma4yZg84XiR12pMiQJUB6oWBWbLLCsAV/hb+izZrlDxZ3RZXDaK2y++sw==;s/v6YTxR+TI7nTyp5VlTlA=="
 ---
 

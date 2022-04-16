@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2021/12/gettyimages-1353771133-594x594-1.jpg?w=2000&#038;ssl=1"
