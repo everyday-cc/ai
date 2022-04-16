@@ -1,29 +1,29 @@
 ---
 category: news
 title: "'AI, machine learning can facilitate rollout of frugal innovations in a resource-scarce world'"
-excerpt: "Frugal innovations are of vital importance in a resource-scarce world - and particularly in a country like India - and can get a vital leg-up through artificial intelligence and machine learning as this will ensure their optimum utilisation,"
-publishedDateTime: 2022-04-16T06:48:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=948538"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=948538"
+excerpt: "The role of AI, Machine Learning, etc. can be very important in facilitating the rollout of frugal innovations in a resource scarce world since they can help in more judicious use of resources ..."
+publishedDateTime: 2022-04-16T10:46:00Z
+originalUrl: "https://menafn.com/1104032745/AI-machine-learning-can-facilitate-rollout-of-frugal-innovations-in-a-resource-scarce-world"
+webUrl: "https://menafn.com/1104032745/AI-machine-learning-can-facilitate-rollout-of-frugal-innovations-in-a-resource-scarce-world"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-    width: 280
-    height: 250
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?129652"
+    width: 537
+    height: 249
     isCached: true
 
-secured: "SACzv3TrJxs3zJa5/ERSGkk3c4+4WUtdMj8pvcTdLMYinTuz44J5zZBpk7MYD3sWcQTRDZ0R87hcy15kO11HPXwopxhqBC3KLS2W8a+nx4l9e+4gFDflaqeXtt2sA8EWeRC1Su3C4f93A6mB5G042WaIdSKHiu1bDenC1736D+cshs4d3ioeXBQfbqRwemiAT+QfD5MAk5SJlQMU2DlfLVl9B6PHwmyioetr6D1/JxO1Bv6oR/v2oOrXJJfZsAJP5JD2O4ThdMOZHtQ/WvkESCn7A63AtS76Z1XGK5SYbbx9SZKfblE0pVwESVYSPFOQPE2hmfyzunU6JifOcaEG5sQiX61rpL/i2eJNA2nLnuM=;3vP5kiW4MFnZweHKSw9rNQ=="
+secured: "izsr57MxpiZw1MmdUN1LY4FanWfyz9WBvhaE4GTPMbeXlIRK9vguAn47VZiCb2/uGqhIIKOYdOIlUnlC4PL7yoWmtmLN/owXlV6sAidCE7nRLUNU2DYA+tTOikA1TUKZ69VXLVO4cOGUTJT9ufblwH1xXGvDqwWj33pWM9hFiCtvqqwAqng4CdyMjxLinRIvwDuGUJw8VQv4avQjE0nFC2kb1F+LAlU5w3nEyw5813l/08MQr2SnuqbExggVxj6kAmFW+nTe9Rq8ecUk3R/s28jpv2mYpQWXLacWpsJUMIMGKipwEdAiwIN8OPmocAykpVWdDTzs7IP0fG1xDXhCnneX3Qjk/wPaf9Vn1FQhbg8=;ypfSYywPyCInMYSuDQtoPA=="
 ---
 

@@ -42,6 +42,17 @@ related:
         width: 1024
         height: 663
         isCached: true
+  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Growth in Short Interest"
+    excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) was the target of a large growth in short interest in March. As of March 31st, there was short interest totalling 378,200 shares,"
+    publishedDateTime: 2022-04-16T10:38:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/16/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-growth-in-short-interest/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/16/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-growth-in-short-interest/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-growth-in-short-interest/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 53
 
 secured: "LPy0zDpC45+pZe3ycvoiuiJONoub10NzruJE0Wb2iPOmnv+n6g3Xgq4b6qR6qjhFBBO+L67W2YIDWRjsWbDs1aVUHg1XY0lFWMXFax5uYZshrmLG4dyXfBlPcQ82Z7tW5QiqcU9xJHW1ZzebrgcdUR2deCCL7RAzY1uu6AsgDUAbOND19S1wPzZ5yH6F+BoGSdh8ksgSBHcacdhTPfOdbmZPfWbwKJj0R/P/5wHJnQhY0nUui48vdJJqfIuwFfQDnKbtSc/+dTwPgTQvrPDYIR9hHWEkbFTVY24n/XaSHimcyZ9P8mG8wnuNzoHi48oOZvT8bw0Q3ND1x3dXmWgsnFpUeHOFe0NIjujpXm351zjPXz8QuGDPYqPQTC+H6Gf7YTbPBjn7/sOuRow5j/OURGHwp3fWEeYgym7ACdC6PqABWkxllTo2CntxJ1lPhTwouITuiC9tM2tgq2m8q8p9yc/n6DUuXUOc8FcpLkIc5pP5XYt3r3vNJl7qflgXwP7oDXqXAO5xQZAC1h+i7IKeqA==;CSnn64Feoxe/ccVsTL82yA=="
 ---

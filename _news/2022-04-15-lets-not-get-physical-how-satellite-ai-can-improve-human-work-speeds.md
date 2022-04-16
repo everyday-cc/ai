@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satelli
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/amp/"
 type: article
 quality: 86
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 698
     isCached: true
-
-related:
-  - title: "Ethical hacking can improve AI bias"
-    excerpt: "Ethical hackers can attack any new artificial intelligence, or to strategize on how to use it for malicious purposes."
-    publishedDateTime: 2022-04-11T18:56:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/ethical-hacking-can-improve-ai-bias/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
 
 secured: "JLJQrmSl5rwd5Bth8WPfacpJ/HCjmFL/Ahj4DHY7ZDbF9DXG/UARcjRtzyynpTeAqFIGW8R8dMTokDVomFxIRHnIRpXQYmlqUGHabtjnd69YHE8TXhyS6tynFQxXC53UukoHY3QZxFqac0vY573O3lLydhqa0Yw1qgkfrEpmjxptImVXMValz2irAKSONSti3dP7eRMZE3tUavR1jxuL6LkjPvQpVFifUBmheiIyK/A4ObuBSzoDVs+RlGUh6TcGzZgTcV30CZPZXFGtxr1Aersx8OcN7qMqLOOqZF4cnj/ca0Lr+6NkYZMHbnRqaN3dxYT1coFicUMcBqdALhIeqw24kjEkkRSvUDfH8C9CGTL2AeG7pDTxCIWHN60q8qLs9JexKGjURjqQd4HVPZWpi5RZ6XGWWOoaTZmmKU19YNCHk3acrrpxJx9e3VqVxR32ukabXCoLqQFYHm1hy0FH6ugF0+qLz/c/qnM4ULz6H/jdUToN+R8nIEKlOhTj9269uFN77FS+SXALbEp+WTySHg==;A9tuSSEjUk58rYbzcLSbew=="
 ---

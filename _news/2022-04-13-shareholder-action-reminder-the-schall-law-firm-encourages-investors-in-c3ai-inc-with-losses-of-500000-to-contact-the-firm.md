@@ -35,15 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Investor Action Notice: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
-    excerpt: "Los Angeles, California--(Newsfile Corp. - April 11, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (\"C3 ... law and rules of ethics."
-    publishedDateTime: 2022-04-11T18:50:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/11/investor-action-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
   - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
     excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
     publishedDateTime: 2022-04-14T12:45:00Z
