@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 658
         isCached: true
-  - title: "How digital debt collection can spur fintech success?"
-    excerpt: "Digital transformation is constantly reforming and refining the financial services industry as we know it. Digital technologies like Artificial Intelligence (AI), Machine Learning (ML) and Blockchain are disrupting the industry to a great extent"
-    publishedDateTime: 2022-04-11T15:00:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Pic-2-5.png"
-        width: 289
-        height: 305
-        isCached: true
   - title: "Fintech start-ups frustrated by red-hot recruitment market"
     excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
     publishedDateTime: 2022-04-16T05:03:00Z

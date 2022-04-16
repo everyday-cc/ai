@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Class Action Reminder: Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Securities Fraud Class Action Lawsuit"
+    excerpt: "The law firm of Kessler Topaz Meltzer & Check, LLP ( informs investors that a securities class action lawsuit has been filed against"
+    publishedDateTime: 2022-04-11T15:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/class-action-reminder-kessler-topaz-meltzer-check-llp-reminds-c3-ai-inc-investors-of-securities/article_415197ce-912f-57e0-bb23-4951f56484cd.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 8
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/37/b37b1908-c321-512d-95ef-bcbf06e0fcd7/6080488ac185d.image.jpg?crop=1030%2C541%2C290%2C0&resize=1030%2C541&order=crop%2Cresize"
+        width: 1030
+        height: 541
+        isCached: true
   - title: "Investor Action Notice: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
     excerpt: "Los Angeles, California--(Newsfile Corp. - April 11, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (\"C3 ... law and rules of ethics."
     publishedDateTime: 2022-04-11T18:50:00Z
@@ -43,6 +57,15 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
+    quality: 0
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-14T12:45:00Z
+    webUrl: "https://www.koin.com/business/press-releases/cision/20220414NY24736/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
     quality: 0
 
 secured: "NqcIwIwB5FcYgRd8bYVL8hwYXR4MhkhE8jjPZmQOEbK3ks9zl01N1fSjsugnJx6RO+WNJaylHW22uO2LYIEed6PyJUdbih7kvK2g13X2DRcOrjLVAxzXJN61gGvZGigVbCaWWEKYYvPAYeHEEp8w67jY0HjFAr/bOjIfn7M7FrP+rlMvGAQDDQrAJT/riVYvNq2YG+Yqfybl4O42h2LHxjgDZTTkXitSGuQvsRJyz1XIq2NifLzRhelbdFEFAN3yV92Ow1J6mT4p9BlibbNkb95LE5zaKugxD5CZflguBuMgDMHyYq4+YFRcdlloZL6ZKB10nXA6C9fiZNWIqE2/ci9TNxaV4UJb+cnOSE86V1ggknHTdPtRcfVD+XsqbG2MuY3USl/sm+SCxkZ76E1NehiLsh4zq6vbxfVSfc60Y9yxvO3OYRIaFz4PH6ipntwa/KrmU//Ipkkl5O//5Tf6h41z6hWA+hPwZzjYRVlhq8SYftF4GAUc1oWFjY6xOlKB+ktSarVAZgMQGcZQGv+1nw==;Ms/9mVh98fxb9NY6N/h6Kw=="

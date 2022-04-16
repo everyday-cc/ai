@@ -2,49 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2022-03-17-the-most-valuable-use-cases-for-artificial-intelligence-in-web-applications.md",
-      "title": "The most valuable use cases for artificial intelligence in web applications",
-      "excerpt": "Capable of automating manual tasks, AI can lead to smarter decision ... a web application (such as Google Lens or Google Translate). At the moment the big breakthroughs are related to images and language, so web applications processing these are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "originalUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/03/most-valuable-use-cases-for-artificial-intelligence-in-web-applications.jpeg.optimal.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-17-face-recognitions-staying-power.md",
       "title": "Face recognition's staying power",
       "excerpt": "Facial recognition's deployment in everyday consumer devices, like iPhone's Face ID, has accustomed much of the public to its use. A Pew survey from 2019 showed that a majority of U.S. respondents trusted law enforcement to use facial recognition responsibly.",
@@ -1088,6 +1045,50 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-artificial-intelligence-is-everywhere-now-this-report-shows-how-we-got-here.md",
+      "title": "Artificial intelligence is everywhere now. This report shows how we got here.",
+      "excerpt": "Stanford's new report reveals what artificial intelligence is capable of these days, and how widely used it is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/",
+      "originalUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/03/16/brain-g4b6db4261_1920-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/stanford-artificial-intelligence-index-report/?amp",
+      "publishedDateTime": "2022-03-16T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

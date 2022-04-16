@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 658
         isCached: true
-  - title: "How digital debt collection can spur fintech success?"
-    excerpt: "Digital transformation is constantly reforming and refining the financial services industry as we know it. Digital technologies like Artificial Intelligence (AI), Machine Learning (ML) and Blockchain are disrupting the industry to a great extent"
-    publishedDateTime: 2022-04-11T15:00:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Pic-2-5.png"
-        width: 289
-        height: 305
-        isCached: true
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z
@@ -93,6 +77,6 @@ related:
       domain: crowdfundinsider.com
     quality: 8
 
-secured: "n+HOZvVzxgOKoK8Q6UBMhi3JEB+gkVwpvbp0qa/ZQ7XsC19JYiVaCnqVe1zWqCUZlSC9cszrrufxnbtPq1HnweMwwReCaaQJYxjqGVY/bWKatS0ssaPwd41arzEQ/OJogSfmnwhSK4rLfAhhUQ0m8EQdsyFiw3gIBparXEIIFoxnfBZUlhtD89L/Iag1mZOI3JDMpy0Eb5u3uF9MSeTiEMDF7QDQj+VVnA5BN3071k/dj54a/x1pgxW7v/dex4VeJzr2kVpPaUbxgOHfSafBQyaM6wvcFWoBSSA58Md1LTegwdBqNoH8CeB5YPETt+kHU/MrP1+z0yzVzw1HyRUEUGYrjBdCGrlFwEL6EGmJ97Q=;qTGytdpHn9sevpjSgZe5yg=="
+secured: "cjvzImQT1HyNb7wAIL4EbLYqzPvhNdecPd1zp+vi7skhPiEKpggjwQNi9wMpcaTktbdwYnwJm26VqI+0r3KRN8en5QT2pkJn5SAtRgka93XKKzCHo77J4MBs+PdROB/Qp8bZisA1OiGkLrEK7QLdyAoZeHob7l/l4gD18ZLINpH05feChYr9AHpeiT2p3EmwsQMEi7SRo/hM+qjPVb/U98wYNpAmTNreajv7wQmmido9GVzhCzLCZzIMa2osbVd6QoAbZNPaBtWdnKxjehqiWmD5GSqwJzMda6RY4M8qCP7GV6QN30ulcLmgg4el+7AYbHaYvoKcbulAfKRkioJouVgw2Sz/47fcAESef35AmeO5guf54nka4yF0NcqDAxlaPdpX/0SKWXpmJDKVRRMHdJWTcdF/kCZGo+47VUnSpof63sDlY3w7mChTxzWLfK5R03P4ISa2gN1Fe8LHolcCsNlaqVzNcQ/JawraFbXVh9FLWXspYY0c6PrGGMZQOMSVxAcxqZKnooIztU011FDAeg==;xEh4HBsoW4eC1Hhb1qfAxg=="
 ---
 

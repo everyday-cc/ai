@@ -38,15 +38,6 @@ related:
         width: 450
         height: 376
         isCached: true
-  - title: "Arkansas Federal Credit Union Taps Scienaptic’s AI-Powered Credit Decisioning Platform For Advanced Loan Decisioning"
-    excerpt: "Deployment of AI platform to bolster auto loans Leading global AI-powered credit decision platform provider Scienaptic AI announced today that Arkansas Federal Credit Union has chosen its AI-based underwriting technology to improve the credit union’s loan decisioning process and make advanced decisions for community members."
-    publishedDateTime: 2022-04-11T13:38:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/arkansas-federal-credit-union-taps-scienaptics-ai-powered-credit"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
 
 secured: "GJk1mMBhvt/wgMSazIGUil+BzpiWjBW3qN5zrUM/Yv+vscJ1hXkjrqnK2W27TyXrIaFkBgt6Dv3hGGKs1b8KVfLRs07rr7tVgaHwKlEUsc3RYtnSj0WjCcMynpa7sSBl9h2GvJX344QJTs2NDGzPkBJUf0mUs5Z9nXaRvAb58nEyp4l7XiVoFa193+37OYCuyqQpHSty/GrRFDl1g38jJlY5EIMp+I+9cIzrgQ1f3iPgNM1kl5ssu/OCDIB/Q6zlimPzYjNfZ7nnougCTybFHyNd0zC0Cv7343yOgIrDHCQRLuHRFraweWIujnX6e3+/PwLFse4PFDx45xI38uHW0pSDzKe1NQDL9bgXPtGpF/E=;H85JenNxWluvqjDmhGBxig=="
 ---

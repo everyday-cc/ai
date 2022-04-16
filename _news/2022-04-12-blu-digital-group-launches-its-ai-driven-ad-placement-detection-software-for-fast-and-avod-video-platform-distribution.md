@@ -40,33 +40,19 @@ related:
         width: 900
         height: 491
         isCached: true
-  - title: "AI For Fraud Detection"
-    excerpt: "Humans still have a role, but in a recent survey, about half of insurers said they are using AI to help cut down on fraud, waste and abuse."
-    publishedDateTime: 2022-04-11T14:20:00Z
-    webUrl: "https://www.managedhealthcareexecutive.com/view/ai-for-fraud-detection"
-    type: article
-    provider:
-      name: Managed Healthcare Executive
-      domain: managedhealthcareexecutive.com
-    quality: 37
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/ee249d1c756ebffaddd275da9cb262220ef22e85-1000x676.png?fit=crop&auto=format"
-        width: 1000
-        height: 676
-        isCached: true
   - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
     excerpt: "TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital distribution, announced that Distill by TIFIN is partnering with Harbor Capital Advisors (Harbor),"
-    publishedDateTime: 2022-04-12T12:30:00Z
-    webUrl: "https://fox8.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+    publishedDateTime: 2022-04-12T14:30:00Z
+    webUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
+      name: FOX21 News
+      domain: fox21news.com
     quality: 9
     images:
-      - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://i0.wp.com/www.fox21news.com/wp-content/uploads/sites/37/2022/04/RYAN.jpg?w=2000&#038;ssl=1"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "wf9PRA3n+GUROKWkUpvRVt4h+HGLAl+1iHnny07fbALQ2S+zkLsi0pqYZwS3d98AXvK+I+sXj8zKvHsDXmKTiSEA08pnJdrHhWuy/fUkv9CH26EdEpfQoEQeY7oA8gLs+XvTrIImHlb+3GNcitPMpxbDnU5T+QahEaqSyCGfhKZfF7KaykrjGLOPPJERUE7qJrx+PNeYdITu2YLgvS4TUqEvg7u3TSNS2PcfUAmykLcb42D6uGV6sMTz8lJ/iVsZLZTu1Edwb3dpgfVGBaQcrj3QxsEAjZZ/TgIMCnFZCDSg2gZ7q/sO3SXKBXvlpyVkTMgMsPCmUte+D7rf31TCdzm+ICWahV1Y4UyY9064yvrhL3RGiecOWu6bnxZLB1QI0HUO9upaGCFpXo2telIXmylMKjEHJDk3OlhHo14yGm+MWJBNo+1rMruKrbkt95Qj0hMPzQtkWGI4oD2J/D3dmADeXpNozQ9qJ5FGtKRBL70Zm2wrl86TI/+dLjrqfmGQHvC3I7oVNy+PA/K8XYri/g==;92mrMjrMIIs52OeVQ24QQw=="

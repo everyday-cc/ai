@@ -2,26 +2,26 @@
 category: news
 title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
 excerpt: "TIFIN, a fintech platform using Artificial Intelligence (AI) and investment-driven personalization to assist asset managers with their digital distribution, announced that Distill by TIFIN is partnering with Harbor Capital Advisors (Harbor),"
-publishedDateTime: 2022-04-12T12:30:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+publishedDateTime: 2022-04-12T14:30:00Z
+originalUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
+webUrl: "https://www.fox21news.com/business/press-releases/cision/20220412LA21603/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry/"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: FOX21 News
+  domain: fox21news.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://i0.wp.com/www.fox21news.com/wp-content/uploads/sites/37/2022/04/RYAN.jpg?w=2000&#038;ssl=1"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -41,20 +41,6 @@ related:
         width: 900
         height: 491
         isCached: true
-  - title: "AI For Fraud Detection"
-    excerpt: "Humans still have a role, but in a recent survey, about half of insurers said they are using AI to help cut down on fraud, waste and abuse."
-    publishedDateTime: 2022-04-11T14:20:00Z
-    webUrl: "https://www.managedhealthcareexecutive.com/view/ai-for-fraud-detection"
-    type: article
-    provider:
-      name: Managed Healthcare Executive
-      domain: managedhealthcareexecutive.com
-    quality: 37
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/ee249d1c756ebffaddd275da9cb262220ef22e85-1000x676.png?fit=crop&auto=format"
-        width: 1000
-        height: 676
-        isCached: true
   - title: "Blu Digital Group Launches its AI-Driven Ad-Placement Detection Software for FAST and AVOD Video Platform Distribution"
     excerpt: "Industry's First Cloud-Based Ad-Marking Software using AI and Validation Enables Content Distributors to Prepare their Content for Monetization to the FAST and AVOD Market"
     publishedDateTime: 2022-04-12T07:00:00Z
@@ -70,6 +56,6 @@ related:
         height: 338
         isCached: true
 
-secured: "oViMaQ9oiEeX8IlAK6raVhqezFxxZKo1IM7K36C7FTnO30H7hIAsbRz6MmNkV6pWtJlCOl/SZJc1Onw4QL6GltL/m9MLu3rC/T9yDLuOI2qQilnSSZtSP4qQi5MER9TDP73jg1RqdEYNzHoC/zUg0Uz9kO8v6DaL0bcLr4xf6Zd0VGmCKaB7SJsALSsq8VPpk6xxBI4DiOfEFGUYTIRJ3TyD6pJKjWmdd1y7mA2W4HaXGh5gvzT3enSkdopCf+neGAg5AIVcsfBtB5kMGhk/0XaW7Jo3itviw0sK+3z5RtgcP3Q/vP0n4Vhi8+RVn2U5U7GwhxDfgIDp22k9ZTEQEQ13g5nu1VEmbXIKNAuBSuw=;oCOlad4fKpTAsPcy8xNesg=="
+secured: "83MDj3Ya+cxsprNKR21FUabZMnhYQj2WACsEHaO3BWmDwhDD5qZmH7vdg+xQvXMpa4cpNYzhDuuAb7eESdY11fZEW/zrYNFiAHRZAUu37nFUakwWmtR9ZlxNRMUjMYu3pdyVOFXEF6p5VpS7yds6HgSQFYKzqAfMHI0jtoaqUQSeBJw/HYOO60mS3TXgrpcLzXLYKkTbqzGhnj7wQcidQ/D6l0w3D+w7csRvBnTCpV5edt94nHIWJ1iTHFvMRiD6DYDnucom7LegbgOFvrRj2q2xPC9txJbhMuZpyXUh3VlbvgBvrHtuZRR4pIwERnq9h9Si7mES9RmYacjHWgEzrqNqsT0AWMhVSZR6OgpF5Nk=;3PLeXlMxaqluD1NjHJedmA=="
 ---
 

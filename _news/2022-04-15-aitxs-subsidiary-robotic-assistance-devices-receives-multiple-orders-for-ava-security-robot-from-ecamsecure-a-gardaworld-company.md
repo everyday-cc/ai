@@ -1,24 +1,30 @@
 ---
 category: news
 title: "AITX's Subsidiary Robotic Assistance Devices Receives Multiple Orders for AVA Security Robot from ECAMSECURE, a GardaWorld Company"
-excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
-publishedDateTime: 2022-04-15T12:50:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8522948/aitxs-subsidiary-robotic-assistance-devices-receives-multiple-orders-for-ava-security-robot-from-ecamsecure-a-gardaworld-company"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8522948/aitxs-subsidiary-robotic-assistance-devices-receives-multiple-orders-for-ava-security-robot-from-ecamsecure-a-gardaworld-company"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for 2 AVA autonomous access control device from ECAMSECURE,"
+publishedDateTime: 2022-04-15T13:40:00Z
+originalUrl: "https://wgntv.com/business/press-releases/globenewswire/8522948/aitxs-subsidiary-robotic-assistance-devices-receives-multiple-orders-for-ava-security-robot-from-ecamsecure-a-gardaworld-company/"
+webUrl: "https://wgntv.com/business/press-releases/globenewswire/8522948/aitxs-subsidiary-robotic-assistance-devices-receives-multiple-orders-for-ava-security-robot-from-ecamsecure-a-gardaworld-company/"
 type: article
-quality: 21
-heat: 21
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: WGN-TV
+  domain: wgntv.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Security
 
-secured: "ZwpBbhi8y1jiKbrZr95Hz/ApGKKAuS1R2GJKYTH5BMIcT310Pn3MOJ6A1VfIe68ePM6xxQ9rdLtk38qehv+8rYBbTH87fhvjrQS7nB5KRM2eERWe1cDOm3+0MQ5lhumRuKjvCpwbrLwlWgYeBIvY04TqOeVv5exKaZI3ECtcZcl5Or1Wx71ZGIOVBVT2KwaraupRfC+wfKKhJpO71ea81YV/1Y+oHxFLUpqGxbsNQ77sJJ4yw9f6R2R3miG4AOvipx6jUuZAxosn61Mfl3AnpjzW3iKgL9yVHNVnmSyHbZjvDGR/8XP7FGGT1ctJmdyxdBnmlQHGwJRrS6bjq/siW0Gcqo0fPvKJ55uNF7U/9a0=;XGiyMla5CNZrDDVu7kA7FQ=="
+images:
+  - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2021/12/gettyimages-1353771133-594x594-1.jpg?w=2000&#038;ssl=1"
+    width: 594
+    height: 380
+    isCached: true
+
+secured: "yuorVSKmxy2G72XJE0hl4ZN/LQYvzYricwRJD3eiPrAmcSr2cWsS0JwJi6KCZyI/8INJIxbx1WLLadjBCGhagpzWD2PbzSds8L84sKoPsNNBTNqfbnOoKzpshSfcjIcJSBJB0rqP4JvrX5IpeILYkWKZaCXtIihBQ29Mq+a3LnNu5bYyYJNWw0o9b5+z0UB/89gxs7Ban5RUNC9KCilyGieKPlICSYljeGj/HfzV2n6su6Nbb2TgNBtM2hi5sgAZ1oIjoFlRDhrR+E7SjkNd948TU+xGfVk0sQikEim2w4nvKXv5+S7w/6soOMhxJ50+iqxCETa+kA/m3+MbwUOs0Fxlwh8t/vw63i14B82ES+I=;9K9Ks5MEjYpZL181Xg/+ew=="
 ---
 

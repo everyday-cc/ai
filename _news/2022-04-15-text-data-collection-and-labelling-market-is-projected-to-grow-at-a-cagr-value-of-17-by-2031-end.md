@@ -24,17 +24,6 @@ images:
     height: 495
     isCached: true
 
-related:
-  - title: "Voice Recognition System Market Witness an Outstanding Growth at CAGR 17%, by Forecast 2030 | Ford, BMW, Nuance"
-    excerpt: "Voice Recognition System Market Scenario In its recently published research report, Market Research Future (MRFR) asserts that the Global Voice"
-    publishedDateTime: 2022-04-11T13:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-recognition-system-market-witness-an-outstanding-growth-at-cagr-17-by-forecast-2030-ford-bmw-nuance"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-
 secured: "GjoH9508op1Aw6KeHPZd3WIrwdVuYnq4es1lhMk4n1L7IR845GUMpsrrsuT0UJLUC9ijCYflhl6ZcoPmek7ZEX4kb6ih5KhNfghzRc1zgjxIto8kFH15RWdGLnsGSlkdsW/WCYFe+pbjcVR8Dmqpyx6yToTNR79LbNYYHFW0soNfM3KRvbpQgj5PcJnHGe/VkBWTEoOy3wnnnn/urpQKx3jDmczCPCZGO0HwtTvWRZMf8uh04742FCHqmHSCX+PO1suzDohu2yPz178yGOWUfF5zlEi2h+cHYJiNW/3A2/XWjUnp0h1Tyo1TMutLT+VSF8HuwLFQ689ZB6n9Q7akjOMjzpM6UCIjsioXph/zEcmoOLIt57F6piFFJkTDe5KiR/5pcHsNF+k32uuLAhbuVkipTrsv54UXb6GmK8vx1SQFseRdJ2nOt4eOXRzNY09//3kS43cNnS4PJdco7T4pgoYO4tQHRolBoql/fPZ1ZKcWiFKp1t3mllj2IkbcgqqmqWskZa7g86E3ZOPWDHv57w==;ygY7IAU2flFibdtAuQ3jDg=="
 ---
 

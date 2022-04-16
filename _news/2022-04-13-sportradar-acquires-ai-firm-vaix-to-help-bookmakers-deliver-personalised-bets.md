@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sportradar acquires AI solutions specialist Vaix"
-    excerpt: "Sportradar has acquired Vaix Limited, a developer of Artificial Intelligence (AI) solutions for the igaming industry."
-    publishedDateTime: 2022-04-11T14:26:00Z
-    webUrl: "https://igamingbusiness.com/sportradar-acquires-ai-solutions-specialist-vaix/"
-    type: article
-    provider:
-      name: igamingbusiness.com
-      domain: igamingbusiness.com
-    quality: 37
-    images:
-      - url: "https://igamingbusiness.com/wp-content/uploads/2020/09/Deal-5_3.jpg"
-        width: 1300
-        height: 867
-        isCached: true
 
 secured: "F+d2tUakO6X718/6nvlxguqt3tmKp6Thu0cx8h/T7TVNyRGqnDokGdMwcmxN9XykrdV5h+haUUF5ZzUxcAbqOnf57NOvT8K/F7q8H2JsvzZZuI6vJNqwOOn1PViTf+wSCg3q3bXzCylN8qIFiOcwMCx72Ex9ijhY8KzpQ06HkkWmwjcp08Rur1j725SU/CdNtPRPfjPdDWBQ7FqbQEt5aL4OTNLgs5nHM83CI3qm+2PPKxRzPxIEXV0lCNViDUDS1zOKS/RjtybjhmR8my0yrrJxPARGjKbzDQDBCOYz0UiCJ7g7z432JOxMxX4rWDFt1xLzbUcSGcLPx6fjqhYmR/3N5qLSGsRa3ZXmD5c3Unw=;yBd5wHwZ/Nx4Y5qqAjZOZw=="
 ---

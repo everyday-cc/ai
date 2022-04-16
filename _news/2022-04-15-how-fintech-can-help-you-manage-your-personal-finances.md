@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424896"
 webUrl: "https://www.entrepreneur.com/article/424896"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How digital debt collection can spur fintech success?"
-    excerpt: "Digital transformation is constantly reforming and refining the financial services industry as we know it. Digital technologies like Artificial Intelligence (AI), Machine Learning (ML) and Blockchain are disrupting the industry to a great extent"
-    publishedDateTime: 2022-04-11T15:00:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-digital-debt-collection-can-spur-fintech-success/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Pic-2-5.png"
-        width: 289
-        height: 305
-        isCached: true
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z

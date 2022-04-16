@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Bio Presents Research Results of AI-based Cancer Diagnosis and Prognosis at the AACR Annual Meeting 2022"
-    excerpt: "Five abstracts in prostate and breast cancers, Deep Bio's main research areas, are presented during the online sessions."
-    publishedDateTime: 2022-04-11T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/deep-bio-presents-research-results-of-ai-based-cancer-diagnosis-and-prognosis-at-the-aacr/article_0a1c437f-8385-58f2-8dc0-fe42e8d12fdd.html"
+  - title: "AdTheorent Uses Machine Learning-Powered Predictive Advertising to Boost Donations and Drive Awareness for American Cancer Society"
+    excerpt: "AdTheorent developed custom machine learning models fueled by non-individualized statistics to identify and reach consumers with the highest likelihood of completing the required campaign actions."
+    publishedDateTime: 2022-04-14T12:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-uses-machine-learning-powered-predictive-advertising-to-boost-donations-and-drive-awareness-for-american-cancer-society-1031356528"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
 
 secured: "qmsmUAFEkCwTCBOKRkZhjE5240VD8oEjDs7uRyuCwhGgahxRzkhPeHjbbESeECrUi/nLRftF2zmVuGGuxUNhC03p760j31t86RJty1cCnGKxoetsGZNMSQlgPRwHDZ0RlAv94WKuINkmYYx9+NWvMlxaYnl4XofIeCvRAhLDgCe/tfQJDCmeq3x7g/r57gvv81xjpOey06bOaVkTQvJ+uI348/6esOSm1gc1sboESHBLh7Nuzw3JrE8e2JhdRMJyN//QxbzVpsWtgIQlveFXa5k17oaw1jTeBLhBSqMsiL5rftcawp5rm/oruKLS2q0wNFl8nSbraOyOtUXTDjUCGCXl5lo7j2ZIZBiA290aKWw=;pJCjz1kV7ccjSTXMzZBhkg=="
 ---
