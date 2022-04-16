@@ -53,20 +53,20 @@ related:
         height: 641
         isCached: true
   - title: "House panels probe gov't use of facial recognition software"
-    excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
-    publishedDateTime: 2022-04-14T18:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-14T17:16:00Z
+    webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "ID.me and Facial Recognition Software Probed by Lawmakers"
     excerpt: "Lawmakers have launched an investigation into ID.me, the identity verification contractor, and its use of facial recognition."

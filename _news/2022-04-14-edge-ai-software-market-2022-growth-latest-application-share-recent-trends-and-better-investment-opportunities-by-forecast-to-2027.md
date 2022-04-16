@@ -117,15 +117,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size, Share, Growth, and Forecast to 2029 | DataMIntelligence"
-    excerpt: "Market Overview. The Global Artificial Intelligence in Healthcare Market is expected to grow at a CAGR of 49.7% during the forecasting period (2022-2029). Artificial intelligence"
-    publishedDateTime: 2022-04-11T09:45:00Z
-    webUrl: "https://www.medgadget.com/2022/04/artificial-intelligence-in-healthcare-market-size-share-growth-and-forecast-to-2029-datamintelligence.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 16
   - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
     excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
     publishedDateTime: 2022-04-15T10:34:00Z

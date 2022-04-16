@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-07-policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs.md",
+      "title": "Policybazaar, IISc come together to develop automated speech recognition algorithms to effectively address consumer needs",
+      "excerpt": "Policybazaar, one of India's leading online market places for insurance, has collaborated with the Indian Institute of Science to work together on Automated Speech Recognition algorithms to enhance",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/07/full/20220407160955.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html",
+      "publishedDateTime": "2022-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
       "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
       "excerpt": "SAN FRANCISCO -- Toyota unit Woven Planet is following the lead of Tesla Inc. in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use low ...",
@@ -48,8 +91,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?937915",
-          "width": 416,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?765431",
+          "width": 458,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1093,49 +1136,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-toyota-joins-tesla-in-developing-self-driving-tech-with-low-cost-cameras.md",
-      "title": "Toyota Joins Tesla In Developing Self-driving Tech With Low-cost Cameras",
-      "excerpt": "Toyota Motor unit Woven Planet has joined Tesla Inc in trying to advance self-driving technology without expensive sensors such as lidars. Woven Planet told Reuters it is able to use low-cost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159",
-      "originalUrl": "https://www.ibtimes.com/toyota-joins-tesla-developing-self-driving-tech-low-cost-cameras-3464159",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/04/01/bangkok-international-motor-show.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

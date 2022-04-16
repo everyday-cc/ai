@@ -35,22 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 61
-  - title: "How AI is altering the cybersecurity automation landscape and its effect in depleting cybersecurity jobs"
-    excerpt: "AI has played a crucial role in Cybersecurity automation. One of the key advantages of AI in cybersecurity is its ability to process an enormous amount of data with assembly-line efficiency that organisations use."
-    publishedDateTime: 2022-04-11T10:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-altering-the-cybersecurity-automation-landscape-and-its-effect-in-depleting-cybersecurity-jobs/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-altering-the-cybersecurity-automation-landscape-and-its-effect-in-depleting-cybersecurity-jobs/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-altering-the-cybersecurity-automation-landscape-and-its-effect-in-depleting-cybersecurity-jobs/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 40
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Sandip-Kumar-Panda_Co-Founder-and-CEO-at-Instasafe..jpg"
-        width: 570
-        height: 570
-        isCached: true
 
 secured: "v1iHTrA8Lc5D5ATj5T6/oe50v4/O4mW6l1R6HEyGn7P3FmD8X0XPbLidOh1IlJmkF9vUYYH4yoeRAfRuH1bp3lWoR+iPXNsbG/tsmS8e5wIh8SsaI5K7EREbApqOraVC5dgfZ9nU90e0Iupk1fCSDp9SlHiESE9Hzan/4rV/FRYQFGnSCR9mGxAXMRRF62V4SNPoLZ7+UhhbZzGIEKXrkxFEzhYNhYLeI2NPsQgrA1tTFBhEzxbDzilvVxLQW/v0oKpHZHORmFe3xFRW9wBpsWVClaxRod7THMCCAnIpo6oAsDtFYD7WWnLkEeufR90bp3m7BWTTcGt3XlX8iZvQaO/rkkbuUMU+avb5kPQpaQE=;JeEKZ6rt4G+pAO39qG7l2A=="
 ---

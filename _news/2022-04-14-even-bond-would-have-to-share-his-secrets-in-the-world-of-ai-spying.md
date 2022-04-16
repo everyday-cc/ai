@@ -24,41 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup"
-    excerpt: "Artificial intelligence and machine learning have improved so much that they can even be used to collect data on historical broadcasts and previous World Cup tournaments. At the same time, limb-tracking AI technology could change the upcoming 2022 Qatar World Cup."
-    publishedDateTime: 2022-04-11T10:22:00Z
-    webUrl: "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/"
-    ampWebUrl: "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/"
+  - title: "Your guide to the wild world of warehouse robots"
+    excerpt: "Warehouse technology is getting better, faster, stronger — and smarter. Innovations like barcode scanners, microfulfillment centers and warehouse management systems have helped warehouse workers become drastically more efficient."
+    publishedDateTime: 2022-04-15T11:00:00Z
+    webUrl: "https://www.freightwaves.com/news/your-guide-to-the-wild-world-of-warehouse-robots"
+    ampWebUrl: "https://www.freightwaves.com/news/your-guide-to-the-wild-world-of-warehouse-robots/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/your-guide-to-the-wild-world-of-warehouse-robots/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6253f9796eb6ee328d44c77e/0x0.jpg?format=jpg&width=1200"
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/04/shutterstock_1896593944-1200x675.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "AI Week brings together the world AI community"
-    excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-    publishedDateTime: 2022-04-14T19:56:00Z
-    webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 19
-  - title: "AI Week brings together the world AI community"
-    excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-    publishedDateTime: 2022-04-15T19:46:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=647969"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 19
 
-secured: "LzBoUfOYRvqaRysl889I90zDgLGB3s4k5ocfjqNWWhGpeT11Eecv0KRGHwceR7gIpJxvnTsNAGr0GmjnKYGMNmX62wsKSuP+aN1xDW/C1vqRCDiXKTMi3ZLDrbgCfX8wN1xegtdKBnzLi9yo3Wm3Nqw3wPh91G1Dbv9k3LFcxlYDIRNC3pMQCosKi+vYx9ZWvTjm8YgdoV4pal5Yrm4Uq+QD12RaKgovXTZu70oCsrhPY+fkr7z4wf9XvA+93x9qNEj4DLsCi7pUq47dwuMSRhZ6KowPLSarE0OGMOsuv8B9azdRY7fgAz79YERhEhMyZ6YAxaxFo6exQSc48OiN5ie3HCLx6mkcB5gqqUWrOqk=;j0/PWtQ1m388P0TJkNOnMQ=="
+secured: "eIoMMSEtqnpGvNxddaxgeYNKYNGPvS6LS+8rYP2ksUwJh/N72N0qyPz0qmA32+TjHIT8KZwg9rHNPkNUv0jboM33/cartT0H6nbVTfPctrwndvwJHTb6tJr6Ey1A6kI1O/b1Yl7anyrK4sSw6Pad3u26vXpM85hxzHijpxM0TqAL5oToRIOS4xYenM4KhCfKH98ldJuPHoxrQ8wCtBhfpwzMWFru6OBVstWWckrIh5TYv/geIALqJv0FHtAUbg1kb7ZNaEjGjGFx8B84uQzb9s8GtDb6D7D6qAPdqIQyI1pLsd2lNlkCeXx8ZF8lzvH19N+2ylZpqbLSfjchHmlVPKVGBX4rzG8uJ8fGbRIxI3ky7jK6vgHafFHDSfIXBVEyGJ2XYABrV15mnvNd+WDGCKzJj5w4y7olKOrJKAujX9AWuNuSnPBTALTlWIISzgZtm6TAillPtTFSsg2uEUegU/pVUeqeUp33tBqJHN19f9/QWF44bfV9mO16QMmfpHrsO71YCzmRiQkSjGVEHELlhg==;NuMVU3Y2KqWYsaxCdmFUvg=="
 ---
 

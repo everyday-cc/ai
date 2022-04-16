@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
-excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software."
+excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software."
 publishedDateTime: 2022-04-12T13:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7"
+originalUrl: "https://www.eagletribune.com/region/lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop-for-deep/article_f5342306-cae7-5b77-a4f1-3cb7acd880bd.html"
+webUrl: "https://www.eagletribune.com/region/lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop-for-deep/article_f5342306-cae7-5b77-a4f1-3cb7acd880bd.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/12/a12ba7c4-1970-59e1-954e-5533f690ffa8/62557f7861d95.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -136,6 +136,6 @@ related:
       domain: enterprisetalk.com
     quality: 3
 
-secured: "TUZBGV5ZSpmijGQNRi4uKeE07Zsft1PYI7YKsSBC070Br00SV2DkN5bekpeZW0cc65bN1y+sIGKjxm+wd4DfasOzw1H5TUewjxd+mKgcMKE9YEnxkvDOounSJsueDcVfK9K0vDF3hHeO3egN57fW4X0I23sukIaALFpMp68UHqJcNbpljsqgNr4+sePHCRN9TdoO2ffBogPQZ0XYkWva590AFKPTTozHLiuUDpdYIVR+zzIE4HMhEkE7l+adkGFS6Az8lYfEi0CVR0HWyY86CKUKFvJAElVsXai15gxSCvuVnnCpgIX9XvXFRqMQglT8b+JmiV1Q59CtWiegHfomoaJB/LKj0g49AXln7OBag9Y=;hCdZdw4Kt5Yeee1gA0CwgQ=="
+secured: "YfJkoBG8sjBmXmcWStDAbWrsZHc9adgQVfU4BWbgnXcaVZnE74uZepClWGOxc2pvTdDqp2VI+7EZRsUzgP2QZ1Zxoecvcc0bGeyfkw8BTybm4UlONz55IDj0nN/voJz4oidmiHOpfTMDEqmXVq9Fs078evMZWftJOOQ9XDNvzHzaP0g6Jwdy6y7ljCWHplyT73cb8aCK4N5rX04K4w5eNBXpPGuyaOK180MPM9EDHc6hyWCFKCBix6cjr90CuXy8/Hs0M35w3RGSCloR/xjyM2kWWXXA0/bW88X+ZgwKkTBOMYKGd9W5RcLhXbX9ARehzLrDoP91shAc6pv52KEVcXf0dnhGbuf81gml4LpFnSQ=;wOsRwFVigx69jaGF7xdgoQ=="
 ---
 

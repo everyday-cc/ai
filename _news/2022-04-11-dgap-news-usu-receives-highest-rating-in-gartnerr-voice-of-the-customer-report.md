@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "USU receives highest rating in Gartner® \"Voice of the Customer\" report"
-    excerpt: "USU recognized as Customers’ Choice by IT Service Management customers in EMEA Möglingen, April 11, 2022 - USU is the only German manufacturer to be included in the new 2022 Gartner® Peer Insights™ ‘V"
-    publishedDateTime: 2022-04-11T10:45:00Z
-    webUrl: "https://www.realwire.com/releases/USU-receives-highest-rating-in-Gartner-Voice-of-the-Customer-report"
-    type: article
-    provider:
-      name: realwire
-      domain: realwire.com
-    quality: 4
   - title: "USU receives highest rating in Gartner(R) 'Voice of the Customer' report"
     excerpt: "USU recognized as Customers' Choice by IT Service Management customers in EMEA. Möglingen, April 11, 2022 - USU is the only German manufacturer to be included in the new 2022 Gar"
     publishedDateTime: 2022-04-11T11:18:00Z

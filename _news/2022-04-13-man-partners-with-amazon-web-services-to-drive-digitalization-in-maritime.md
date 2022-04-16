@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How are Indian banks adopting digitisation and AI?"
-    excerpt: "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years."
-    publishedDateTime: 2022-04-11T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/"
+  - title: "MAN Energy Solutions and Amazon Web Services Set to Collaborate"
+    excerpt: "MAN Energy Solutions has selected Amazon Web Services (AWS) as its preferred cloud provider to provide advanced analytics, machine learning, and Internet of Things (IoT) capabilities for MAN’s CEON platform."
+    publishedDateTime: 2022-04-13T11:13:00Z
+    webUrl: "https://www.cruiseindustrynews.com/cruise-news/27221-man-energy-solutions-and-amazon-web-services-set-to-collaborate.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Cruise Industry News
+      domain: cruiseindustrynews.com
+    quality: 39
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://www.cruiseindustrynews.com/images/stories/wire/banners/2022/greatlakes_2022.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "MAN Working with Amazon Web Services on Maritime Digitalization"
     excerpt: "MAN Energy Solutions has selected Amazon Web Services (AWS) as its preferred cloud provider to provide advanced analytics, machine"

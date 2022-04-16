@@ -33,7 +33,7 @@ related:
     provider:
       name: The Robot Report
       domain: therobotreport.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/03/john-deere-autonomous-tractor.jpg"
         width: 1000

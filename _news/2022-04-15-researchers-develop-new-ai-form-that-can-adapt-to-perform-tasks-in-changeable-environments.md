@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-ai-tasks-changeable-environments
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ai-tasks-changeable-environments.amp"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -24,58 +24,6 @@ images:
     width: 750
     height: 340
     isCached: true
-
-related:
-  - title: "Hopkins researchers develop AI technique to predict cardiac arrests"
-    excerpt: "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis."
-    publishedDateTime: 2022-04-11T10:37:00Z
-    webUrl: "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/"
-    ampWebUrl: "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
-    excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
-    publishedDateTime: 2022-04-13T16:16:00Z
-    webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-  - title: "Using AI to predict future cardiac arrest"
-    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
-    publishedDateTime: 2022-04-14T16:50:00Z
-    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
-        width: 796
-        height: 569
-        isCached: true
-  - title: "Johns Hopkins University partners with Amazon on new AI initiative"
-    excerpt: "The initiative from Amazon and Johns Hopkins University will focus on research in interactive artificial intelligence, which focuses on making it easier for humans to interact with machines."
-    publishedDateTime: 2022-04-14T16:00:00Z
-    webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/04/14/johns-hopkins-amazon-ai-initiative.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "ybpTdRRh/lk8F3BUuyclZU+FSanpndeo75FZR4V5gUVV8P+aFfeNV+fgYcK1cQRL8jZEiJWqNQrncEYZUqL/Y1vPTZHB0i1gVQtHNX+HS3ysz2Yu2zU4zmsnwzoP5tRJwOuNMPZTQXlmHKT721t/6yDw9SuJPWyfCFbzFil51IyxmHKghW+TjH4SfvcuP0FA2QhdAUftYKKZj6fX8cRwIHBOyDLppZBzMmcHjvRkc0+BqalVmw41/IpkBhNDpdJMqk/CvhhVFeDh5rxAMTotl4r4MbX5yLpd5hJhH0x1/w+4pLqEi8S+CV5FlMdG/8pqB59hPNybWrMPxk5eEbzg1f3j7opGul58dt0I4hweIAEVSSlnJ/yQIBTT0/yx9cW64nasq58GG5jph5q2Q6917t6fRaINCOZclr+cPf3/44dle57UcYf8laGSpBwLfxExhegOWqRXkOxa0aWfN3ZIEhUjDnCZvY3ELNxV96z0/S+BYcoM3SjsIit2JkarjZQ0Mw+6CNaTjH2CcQlbP/o3tQ==;dYlompH6D8PsyHIvbk11pA=="
 ---

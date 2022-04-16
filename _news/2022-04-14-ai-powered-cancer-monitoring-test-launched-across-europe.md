@@ -24,45 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "Investing in Eastern Europe’s AI future"
-    excerpt: "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s"
-    publishedDateTime: 2022-04-11T10:30:00Z
-    webUrl: "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/"
-    ampWebUrl: "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/"
+  - title: "Zoom launches AI-powered features aimed at sales teams"
+    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
+    publishedDateTime: 2022-04-13T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+  - title: "Db2 13 makes z/OS debut, promises AI, hybrid cloud features"
+    excerpt: "In the first major upgrade since 2016, IBM is releasing a basket of updates for the edition of its well-established Db2 relational database for the z/OS mainframe operating system. The latest tweaks are designed to use machine learning to make systems more efficient to manage and operate."
+    publishedDateTime: 2022-04-11T16:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/11/db2_13_appears_for_osz/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/11/db2_13_appears_for_osz/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
     images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
+      - url: "https://regmedia.co.uk/2022/04/11/database.jpg"
+        width: 820
+        height: 312
         isCached: true
-  - title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
-    excerpt: "INSAIT was officially opened today in Sofia. The world's leading technology companies Google, DeepMind and Amazon Web Services recognize the importance of INSAIT for the development of research ..."
-    publishedDateTime: 2022-04-11T14:57:00Z
-    webUrl: "https://www.novinite.com/articles/214680/Bulgaria+is+Investing+BGN+170+million+for+Artificial+Intelligence"
+  - title: "For sales teams, Zoom is launching AI-powered features"
+    excerpt: "Second Work Transformation Summit this week has seen Zoom unveil the next iteration of its AI tool Zoom IQ for Sales, which analyses sales meetings and transactions to offer actionable information. According to Verified Industry Research,"
+    publishedDateTime: 2022-04-13T16:50:00Z
+    webUrl: "https://bestgamingpro.com/for-sales-teams-zoom-is-launching-ai-powered-features/"
     type: article
     provider:
-      name: Novinite
-      domain: novinite.com
-    quality: 39
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 56
     images:
-      - url: "https://www.novinite.com/media/images/2022-04/photo_verybig_214680.jpg"
-        width: 640
-        height: 427
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/Zoom-launches-AI-powered-features-aimed-at-sales-teams.png"
+        width: 600
+        height: 350
         isCached: true
-  - title: "Amazon Web Services, Google, and DeepMind support launch of the first of its kind AI and computer science institute in Eastern Europe"
-    excerpt: "INSAIT, a new institute for computer science, artificial intelligence, and technology – the first in the region to offer world-class research facilities and globally competitive compensation – will be located in Sofia,"
-    publishedDateTime: 2022-04-11T13:02:00Z
-    webUrl: "https://www.realwire.com/releases/Amazon-Web-Services-support-launch-of-AI-and-computer-science-institute"
+  - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
+    excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."
+    publishedDateTime: 2022-04-13T13:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/evolutioniq-debuts-ai-powered-technology-aimed-at-lowering-insurance-claims-costs/"
     type: article
     provider:
-      name: realwire
-      domain: realwire.com
-    quality: 20
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 14
 
 secured: "ShQrUigLcdA9TSTKKOz+jbmZYNzvSfbYbkzIr/TK1C/+ytS16gSNDYsALau9cno/aFmfNozJEOe9qho8Ea5injzW2knv8eFBI+JPhnd4kUAHCFhWkNs+uZswDHmE+zXvPH/Z0bq0+7sXWfcLbA9DVMQqBTq1cgRpbQzPb8bkiBTXw2fOUfyNc7lhqM2JpfZeGXIQEgJNdxRdH5WSuT3MazlQsz0aANfViFOVqKSFw3GTDDjhrukjX2eY22S2AKaAhioG95dZbaKsiU2pfUDVaW/2xaoOFwqIHdsVwxUmcpNvqoJMUtajsar5PUjoBsqwVo/f4ltv+4fHgay8AZoy1BgaAB65Fzx4gqUgqaO2yEs=;KNiQH9ccaKNnT760XcQQyg=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbot startup LimeChat raises USD 4.2 Mn"
-    excerpt: "LimeChat helps brands leverage conversational mediums and powerful automation to create compelling user experiences."
-    publishedDateTime: 2022-04-12T07:38:00Z
-    webUrl: "https://analyticsindiamag.com/ai-chatbot-startup-limechat-raises-usd-4-2-mn/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Limechat.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Can Customers Handle the Truth About Conversational AI Chatbots?"
     excerpt: "Are customers ready for the truth that the friendly customer support agent on a company’s website is really a chatbot? Ma"
     publishedDateTime: 2022-04-15T16:15:00Z

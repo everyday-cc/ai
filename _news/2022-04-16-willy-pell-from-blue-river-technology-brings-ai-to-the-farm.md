@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-16T00:02:00Z
 originalUrl: "https://www.therobotreport.com/willy-pell-from-blue-river-technology-brings-ai-to-the-farm/"
 webUrl: "https://www.therobotreport.com/willy-pell-from-blue-river-technology-brings-ai-to-the-farm/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.therobotreport.com/wp-content/uploads/2022/03/john-deere-autonomous-tractor.jpg"
@@ -39,6 +40,6 @@ related:
         height: 633
         isCached: true
 
-secured: "WFyQxv0au4dsr9sUGSgkAArzB27AalHC2LozJbMjkKeiID4SMDwd0GjCPX9kEYi2sxpvtRZwe8pfLuKgLwuONBFjLawB0MUHz6tGL90PWy+ygrDqTnzCSIBPMAaOS9m1NObzGrzVVKan6VuB9oaMHlnaaHGwzrniFXwKw3/Wrl+8xXUHvQYUhdUYS2UgMKakfB5JBOIKnv0KB3WnpM1vROCzD+qcv7xrfKzrnmdeDNRL3ATYmHO54QXTuRmkLybKIHkbNivs2ibjDgJ/5TdxwMZekSqrbsZTB6N7WTvizUeTtty8L+gXCIGYgZeoWkXjptm+DGxFH/a1SAIlDdYKnfvYCdhZS9Qbfl0uTTBI/zg=;EqlkpHl2GIh8RQKwfGzYkA=="
+secured: "lViqjORDCnFpKmjrQpXrjeDK60I+nwfoMQKrLjZhJCFPq0TTUP+XG70ysQZ+uqf5WGf7Qj5cb8xpGx4XtWyICAulcOPXDMKYcVNdplspVrSJ0/dnxNlFpvJCsMM+3oe0Pvhb1md6bANKz1Vc3EyBD4FOY5h7PCyLAK5Et+n8vJNw/u4aT12g3ITqo4ndZaLBOTzjJYELSBZSBoN4H9oMXiVHxEvSBgnO7bIuv0jyMzjtHBW0cOaTTtdHcTTT92FeOCEs6WMhCBUmOB/QINLRMxMXDfcuq7UsycE0ZLxodRU8JAhYVGFfCuhqqvdU+55jiqw2gEABpNcfyukdJG/fTaCvXRJ2FZxbJM4CTXwTkeszI0e+SfAc5UCSGQNpBP8wl+vCVUkeKUAPaCrqxet/2kD92fkPB/kR00bz3456nZQuDYvVTryYvbDiqgBpfHZD8+DEYnJ7hj8Aasl1ivMDnt6FZXBfIb1iZRxUc0/DilOzE+iINmhVW0zNMCuKPz4LoapUMy62UJ0D9CJAO2Pndw==;PnOOSQVBcYDGjGFF1UYiiw=="
 ---
 

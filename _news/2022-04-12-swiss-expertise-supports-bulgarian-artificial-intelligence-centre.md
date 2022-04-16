@@ -32,6 +32,20 @@ related:
         width: 900
         height: 510
         isCached: true
+  - title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
+    excerpt: "INSAIT was officially opened today in Sofia. The world's leading technology companies Google, DeepMind and Amazon Web Services recognize the importance of INSAIT for the development of research ..."
+    publishedDateTime: 2022-04-11T14:57:00Z
+    webUrl: "https://www.novinite.com/articles/214680/Bulgaria+is+Investing+BGN+170+million+for+Artificial+Intelligence"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2022-04/photo_verybig_214680.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
     excerpt: "The Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) was opened in Sofia on Monday. The Swiss Federal Institute of Technology Lausanne (EPFL) and fe"
     publishedDateTime: 2022-04-11T14:16:00Z
@@ -97,6 +111,15 @@ related:
       name: SeeNews
       domain: seenews.com
     quality: 29
+  - title: "Amazon Web Services, Google, and DeepMind support launch of the first of its kind AI and computer science institute in Eastern Europe"
+    excerpt: "INSAIT, a new institute for computer science, artificial intelligence, and technology – the first in the region to offer world-class research facilities and globally competitive compensation – will be located in Sofia,"
+    publishedDateTime: 2022-04-11T13:02:00Z
+    webUrl: "https://www.realwire.com/releases/Amazon-Web-Services-support-launch-of-AI-and-computer-science-institute"
+    type: article
+    provider:
+      name: realwire
+      domain: realwire.com
+    quality: 20
 
 secured: "3rqQdrpnXAnP7BRLVP74W7KwOBUKTHCsSBDdvHbARPRgtDaliHAgxTn3Ae+7qVpzp9IoCCyHtH3qhx+QC4rR/wBtVR02g/ubcABBM3xQqR2y5sRW/CJBqdUATqGNsJ2FGKwxic1VcwS+v8WMLsf8NsjwyXYwkUWuWmlMCVD0bb4HRYqahmzFtGRNXZ709JYClcOzaXLa8r1xo0wYmwrVfZNgLhvkaOHoqdZbmtww/qqKHmeQO+cUCsbWUh7Sbz4Fj7kEOa6Cq4W4a5bFbJbr0vBQYEAhNQQXRM2xUsEmToBIUXlIwwYKHdXgsua7kIMbvg2YIa9Ac4GGrZW01g3DrhNMCB8+qR83Bg+uuxg+KY4=;m86Q5l/aFSN0+DpR2gT69w=="
 ---

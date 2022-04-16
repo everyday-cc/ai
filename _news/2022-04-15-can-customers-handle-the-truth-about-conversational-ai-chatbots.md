@@ -38,20 +38,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "AI chatbot startup LimeChat raises USD 4.2 Mn"
-    excerpt: "LimeChat helps brands leverage conversational mediums and powerful automation to create compelling user experiences."
-    publishedDateTime: 2022-04-12T07:38:00Z
-    webUrl: "https://analyticsindiamag.com/ai-chatbot-startup-limechat-raises-usd-4-2-mn/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Limechat.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Paladin Teams Up With Ukrainian AI Chatbot, Legal Organizations to Help Those in Crisis"
     excerpt: "The new partnership seeks to connect attorneys around the world to Ukrainians scrambling for legal advice, and provide more streamlined access to legal services for those in need."
     publishedDateTime: 2022-04-14T18:00:00Z

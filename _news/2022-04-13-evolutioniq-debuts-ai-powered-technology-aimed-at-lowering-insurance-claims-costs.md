@@ -58,6 +58,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
+    excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
+    publishedDateTime: 2022-04-14T05:21:00Z
+    webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/C2i%20Genomics.png"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "dmstXn2OavxTihuSgq8tlyvK2GII8CLT6+svH5nemnMNY1EXwcKWiF3LXAEE2rhRRaCLQL9Zfq3BLunG1T5B7pMJjSfTQIhnmn121TZF7A3ZcYg1Uegbu9DYi2ZihnMt7viY9zK2ibqnPX6vn87x2bctOay7zSMNWodE2gdkJQx/4XQD57Ma7zn8/sze0SOMCjKbxZ8wZr+yccvZKUNmFqONiSsSDDksEqUnZw38WyyJ4HQU8oecHSAz3ADmv3uvxXnyo3/d/TvmKvzV21M8ZK0RzUOlYYBNx8LVJQbvZy20zDVzoNi3yjGqDJS8NafoUaO5dZF9Tu5MbRuwbg4+01Gkiq8RGA+WHANADe1sSWgr3xRKfAed5++vMaKZxUOtICYvJYfDv3MaOxbroCcRYFAQbDCib3+gFXMUOvL4Iu4d3CXFhaBHJQqP9T1/ce4h5cMeGw/V0e2I7KX7vyp5DJFJ4ON2HWwnOxPhngY6MQvLjR+3qVHhnKiblifN6IW01MtezgpYgHWSWCZI9uAnOw==;5QDZ21UMeYPj7ZgAiklHbQ=="
 ---

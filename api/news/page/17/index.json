@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-03-30-oracle-adds-automl-to-its-mysql-heatwave-service.md",
+      "title": "Oracle adds autoML to its MySQL HeatWave service",
+      "excerpt": "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/29/oracle_automl_mysql/?td=amp-keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/03/29/oracle_automl_mysql/?td=amp-keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told.md",
       "title": "Lisa Smith chose to go to area controlled by ‘demonic’ terrorist group, court told",
       "excerpt": "Lisa Smith, a former soldier who denies membership of Isis, chose to travel to an area controlled by the “demonic” terrorist organisation having rejected peace and integration to embrace what is militant and violent,",
@@ -1091,57 +1125,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-concertai-a-startup-focused-on-cancer-research-raises-150-million.md",
-      "title": "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million",
-      "excerpt": "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
-      "originalUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-513830/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

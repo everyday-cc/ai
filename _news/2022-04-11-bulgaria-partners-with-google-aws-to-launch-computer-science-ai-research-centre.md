@@ -33,6 +33,20 @@ related:
         width: 900
         height: 510
         isCached: true
+  - title: "Bulgaria is Investing BGN 170 million for Artificial Intelligence"
+    excerpt: "INSAIT was officially opened today in Sofia. The world's leading technology companies Google, DeepMind and Amazon Web Services recognize the importance of INSAIT for the development of research ..."
+    publishedDateTime: 2022-04-11T14:57:00Z
+    webUrl: "https://www.novinite.com/articles/214680/Bulgaria+is+Investing+BGN+170+million+for+Artificial+Intelligence"
+    type: article
+    provider:
+      name: Novinite
+      domain: novinite.com
+    quality: 39
+    images:
+      - url: "https://www.novinite.com/media/images/2022-04/photo_verybig_214680.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
     excerpt: "The Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) was opened in Sofia on Monday. The Swiss Federal Institute of Technology Lausanne (EPFL) and fe"
     publishedDateTime: 2022-04-11T14:16:00Z
@@ -89,6 +103,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Amazon Web Services, Google, and DeepMind support launch of the first of its kind AI and computer science institute in Eastern Europe"
+    excerpt: "INSAIT, a new institute for computer science, artificial intelligence, and technology – the first in the region to offer world-class research facilities and globally competitive compensation – will be located in Sofia,"
+    publishedDateTime: 2022-04-11T13:02:00Z
+    webUrl: "https://www.realwire.com/releases/Amazon-Web-Services-support-launch-of-AI-and-computer-science-institute"
+    type: article
+    provider:
+      name: realwire
+      domain: realwire.com
+    quality: 20
   - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
     excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
     publishedDateTime: 2022-04-12T12:04:00Z

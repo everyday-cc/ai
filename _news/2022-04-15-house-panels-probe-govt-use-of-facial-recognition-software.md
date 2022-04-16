@@ -1,29 +1,29 @@
 ---
 category: news
 title: "House panels probe gov't use of facial recognition software"
-excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
-publishedDateTime: 2022-04-14T18:16:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+publishedDateTime: 2022-04-14T17:16:00Z
+originalUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
+ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -138,6 +138,6 @@ related:
       domain: 10tv.com
     quality: 17
 
-secured: "EtC6eV0Poi5fjCJse0/bJwnkO1ZqwIzLEV9ZGyvx0Ez6PmGsc2hFonrI2T82+slqwfUuIWmR4GpeIH+z/11jeaXkX4hEgUgE8Xop/G136oQsbrvGGAeXsq9IPPEsxSVyAkG7N21q0BtW923Pd5tHsCkQAr9oTUnSutVdT02k5J/junkz6ejd2N7nwqDQXQLQqLB4+Pts358qnyaCkAKwXEo64ml/4Xu/iUg6uHQnAQjv/qRPgb+cR1rm9JmZ7LLnudQh6VslpPLFrVxfzaXnG3NyRCphdpXv8JQyGjR95PT2Ijs3n61gWOT/ZwmNucyEMDO1ofIcVvAxFQnqbZ3b+nXXTs1mtqPVZbVYQq+Fur54oBA6gDkwwCbUHJRk4g2od+0urDZKhxOw269itYsplO6bCqoDObsW0wswSf6CkdGTY62GC2TJmeoSB3JvvUqeIa+U9nbJbZyW6SIjPhcXg1ZREbOiTrGRI2FqSFpGygzBjU6OnrvZH/Sqi4Lj/YaRsiC9wPqXFowXp145SfRhNg==;ij2HglemqXU06FZ9RvBxgw=="
+secured: "nvyvXicOj1T973HaArK/1JkTV+TfPGxIE0DyB3pZVjx496RbvThjRFFIuOPxT0XjRvLKJTrp00heTruSTXnk5bNcBK89SZKxQq0+uBCKbZ1soEgOhKtGOieP2KjREh9skYIgiMlVIchBwMAzrcly2J9HUuTRcvnrhKGu1rezv5aIWTsWjnOYdBirGSIm+LY/bfebm1QPaNHP0KwDk1drPG7scJO55IzOhauHoNswsqf9zG+V9oPvvT2E2Jicl70+x/olVXkC5JtLY6LySMXpl32X7tqwW2ATd/uPRYCXYUPJNOV/NJndESU7U2LAEjlGVwlhLOVT480cBmyaiJvI61LDxA3W+Xbx11qo/z9LHH8=;yKkHvE80wp0WdftFbM6AzQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/artificial-intellig
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "How AI is altering the cybersecurity automation landscape and its effect in depleting cybersecurity jobs"
-    excerpt: "AI has played a crucial role in Cybersecurity automation. One of the key advantages of AI in cybersecurity is its ability to process an enormous amount of data with assembly-line efficiency that organisations use."
-    publishedDateTime: 2022-04-11T10:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-altering-the-cybersecurity-automation-landscape-and-its-effect-in-depleting-cybersecurity-jobs/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-altering-the-cybersecurity-automation-landscape-and-its-effect-in-depleting-cybersecurity-jobs/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-altering-the-cybersecurity-automation-landscape-and-its-effect-in-depleting-cybersecurity-jobs/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 40
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Sandip-Kumar-Panda_Co-Founder-and-CEO-at-Instasafe..jpg"
-        width: 570
-        height: 570
-        isCached: true
   - title: "How AI can drive a quantum leap in cybersecurity automation"
     excerpt: "The capabilities of automation tools have not gone unnoticed in the cybersecurity market. Here, Tim Wallen, LogPoint Regional Director, UK&I, discusses what is needed for AI, Machine Learning and RPA to transform cybersecurity."
     publishedDateTime: 2022-04-15T07:16:00Z

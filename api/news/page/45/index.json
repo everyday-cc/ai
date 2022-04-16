@@ -2,6 +2,50 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-03-05-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
+      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
+      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning-2/",
+      "publishedDateTime": "2022-03-04T19:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-05-mtsu-among-seven-tennessee-colleges-to-partner-with-amazon-for-free-tuition.md",
       "title": "MTSU among seven Tennessee colleges to partner with Amazon for free tuition",
       "excerpt": "Amazon and the institute also sponsored the first DeepRacer event on campus in November, which allowed middle school and high school teams to compete by collecting and assimilating real-time visual data to guide the navigation of autonomous vehicles.",
@@ -1126,48 +1170,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-c3ai-ceo-tom-siebel-says-the-stock-is-a-screaming-buy-heres-why.md",
-      "title": "C3.ai CEO Tom Siebel Says the Stock Is a ‘Screaming Buy.’ Here’s Why.",
-      "excerpt": "Shares of enterprise artificial intelligence software firm C3.ai are higher on a strong fiscal-third-quarter report. CEO Tom Siebel says, 'We killed it.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "originalUrl": "https://www.barrons.com/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-497252/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-earnings-ceo-51646328476",
-      "publishedDateTime": "2022-03-03T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

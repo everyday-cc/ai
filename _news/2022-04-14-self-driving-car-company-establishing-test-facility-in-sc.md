@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
-publishedDateTime: 2022-04-13T18:21:00Z
-originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+excerpt: "COLUMBIA, S.C. (AP) — Governor Henry McMaster’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in ..."
+publishedDateTime: 2022-04-14T12:17:00Z
+originalUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
+webUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
+ampWebUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
+cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: WCBD
+  domain: counton2.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/GettyImages-1285307584.jpg?w=1280"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Self-driving car maker Argo AI plans test facility in South Carolina"
@@ -84,6 +90,6 @@ related:
         height: 527
         isCached: true
 
-secured: "iT8tCnA+mymD4fDNInSVzX5gGtEBKLlLFwZuHeXqy+J7YcIFBZopVeRhMo0WLyNOQG72Rc4PiZqn3kUqdo5bxOHovZLbUhrrp/1+NdoVX37wSsIriouubQkdS+yECemf5qCXiqv3n5965bmVxZtFq6SQXfgbH5AsUKIWPyMI+0IfJwLT+28DNgPIfGASX5YCM32DkVF/O7qVJ6xc8vHkM463TjCojlU046JNekqTBnbdHE3ohqy/vDHjjsgXkYB1qjUnp79kR2X5HuOMqlhnPN/AldY7fA+Rmr5Kw6Mb+bJUPOlTV3+8FsknoKtsartYoWbf5Gz+c/dmoyOr77vfGQe8RiRgBkakShwUQv7G2ww=;FcZv00GAuLuLg9dxTL2czw=="
+secured: "OV41TXmrrmTzyjQt/AjMb6w9+7KQFY5d4jGVlS9BXMjhzj/UfTwmnfYj5Q+N8TWIgAosZKdK78+YS24Pc+eKQYr31CBhNZhm2UcgPoeZpj8mB4lsUXUtVHrWu/q0z6fhgEZ1BRUh5Q5wF/p7o5SnYAwzP/0tTRImjd/Bc+gEItOSUXVAko3pdNRk7jPao8qgmThSMrq+0gvbvU3e4EJRI3/AVPhcwvXwIFPOV0gzSI/jU+D5zO0JCUzlZA2VyBv54xqHTizCk7uDCaOsRxRH5qYniFWyLOIsCVjfTGBPiuCi0QOi85LjFyyDC1BVE3HiYXqXFXZc3XS0ZwYCE+jJI/J6oA0REB80I65klwECLlM=;JewstZ7w4PcBiPwFzkySZw=="
 ---
 
