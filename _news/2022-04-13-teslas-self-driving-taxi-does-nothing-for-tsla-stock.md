@@ -37,29 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla accelerates hiring for Optimus robot project, develops ‘overall humanoid software architecture’"
-    excerpt: "Tesla is ramping up hiring for its Optimus robot project, also known as Tesla Bot, as it starts using its AI expertise to develop its “overall humanoid software architecture”. As we previously reported,"
-    publishedDateTime: 2022-04-11T19:16:00Z
-    webUrl: "https://electrek.co/2022/04/11/tesla-accelerates-hiring-optimus-robot-project-humanoid-software-architecture/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 51
-  - title: "Tesla fans struggle to get loved ones on board with ‘full self-driving’"
-    excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ..."
-    publishedDateTime: 2022-04-11T19:47:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg"
-        width: 2000
-        height: 1351
-        isCached: true
 
 secured: "pEoHSYCceVgN8R6F6xl92A6NO3P3+PLt3TgqpCNmGE6cxL+Hr8KQ8LtdJpCJrXgSoQi57jJwFLJYDDYbJt9+LroBr8tmv1wBOvpiNFMXDaVdr4W+cjXyVDSCFe10XcYbMUJv8jIhdelBUlVOArzaKFAwA2pqGw+qjou19BfItNXm2vUp9PjerGzivpt7zDYCOk1xJArSO1GzoWdZW7qiTLjF1usG6rTUTpbTYoRAc8QeHmgPjN4te5IQj7i7aZxoLSHXfY4Jdj4Nz5lJDcVz68tdrbOQapu3EgpGddcSig1K8v7sdR72R7V8ih+z650Gl/bbx36EwAIQ40zrfdTLSxJT403X4ZSABenHUYFRUwkWNly5M24n8dPHKGwnwqmJGSXsi+ggaUxeVTZTomF99mSYZkwkJ/jONw6twt58XUDZBLvD+hZi8LEc4TTpCZz5o2iuzSj3EPP/EWPuFLJoofH380fu93fRUCts3OxlpbsKnZcCjCFCNWfpT+PSgrTglddSU71lgTuljK6m92t1Pw==;TBQyo1Y94f/RaMkJgJ+zSw=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 560
     isCached: true
 
+related:
+  - title: "The Transhumanist Agenda is capturing your data and influencing your mind"
+    excerpt: "Evil Google is a primary culprit and the most egregious offender; they have major control and influence since ... Many people regard transhumanism as turning human beings into robots, but it actually describes a social and philosophical movement that ..."
+    publishedDateTime: 2022-04-16T14:30:00Z
+    webUrl: "https://ussanews.com/2022/04/16/the-transhumanist-agenda-is-capturing-your-data-and-influencing-your-mind/"
+    type: article
+    provider:
+      name: ussanews
+      domain: ussanews.com
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/nworeport.me/wp-content/uploads/2022/04/image-624.png?resize=360,360&#038;ssl=1"
+        width: 360
+        height: 360
+        isCached: true
+
 secured: "7psU2kJJsaZJyZmB6ThMv2v15IiYVIzh1tOxKDN3FDqUOyQyzso+/tNRTPdFC5/8V9ZUAEVJLdmiDoqQ3OnDzNcYTMwEiVFB8XXeO1aHktedG1yEGfO5oMtIDJmf627gLEnBy4AGSAGnVVtjOEewKRp7CiiIsAl+PRPcrue7s4opjcTlLkUlN/lNVHp/gkSbfkXTggBjAmqyZ+jIo2S6prkb1Oci7LznI+0aQkbts2eTkip55G2EKhFkU79wfOIhlZ2eWNLqDwC1n4mwTy4Ll3ai+C4pEk8yv8nUKeUmA8U282yrMrFnbJ086WVKB7FCMvfpaArVnKP9Ld3SXPPYGOQ/RsW+FTlx92PTMrmI/PE=;YOgnZLCLfBT2+kI9d30Nog=="
 ---
 

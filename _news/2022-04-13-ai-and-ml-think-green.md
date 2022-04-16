@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Science: AI cuts, flows, and goes green"
+    excerpt: "TechCrunch's Deep Science column looks at the past week in scientific research. This edition touches on AI applied to recycling, among other topics."
+    publishedDateTime: 2022-04-16T14:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/"
+    ampWebUrl: "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Left behind in the AI race"
     excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
     publishedDateTime: 2022-04-13T18:00:00Z

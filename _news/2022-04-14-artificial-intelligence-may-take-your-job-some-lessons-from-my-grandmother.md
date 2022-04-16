@@ -5,7 +5,12 @@ excerpt: "My grandmother, Claire Hastings, was born in the 1920s on a farm in Ar
 publishedDateTime: 2022-04-14T13:28:00Z
 originalUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
 webUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+ampWebUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Phys.org
@@ -14,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "fxwVYFazgchRW12Vpllcl9reDlLe6Pm0AAwmJDQEz0usLgpd5GGXpOB4kIiY21M80dWqR8y3Kao5D6Gsa/hk/9+63xzsaDpiYPkKjPscKT/rK3X32ckgOaET7jeSaMp4/PAyo5OXVOYWQYXiTgNOn6nNQpOY6VDHqfv1O5oKO+zy+t/17SNBFCEXjK6biXXIhEZXm0k3YBjbj8+Zv4L3TH8nZnUc8oBUzfT/PARPmxAnFxAS3xwKiyJQxyWZ/xQaj+o/cLdlv3kd00sDmoMSyQ9d4iAn+wwfyfbpfiQqhSPoayA9ceNQib4uxKLITN0KxWbpewjJX08N2keFtAmZY3xXhJood0ranod1pxVZMWQ=;mbD7vuX5VWMoXOB71mKbjQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg"
+    width: 1356
+    height: 668
+    isCached: true
+
+secured: "BPk9/fXcahtigiuKtXUfO0RqWcQjFJyjAAxaW/KF91pEudRuZzRM/6R82WYJbcq3fu3nsPAN4JxMhuxSxFEwPMSE/NotGNTqD9GjrZECbGYF7R1+N54MovQUdiNDeYYhiQOyXSogE46ZsEBRc5I89WOfz2XppGxNlFCuJo8KwRGO3z7vz4lmXcxWCvyR36jUvjmfN7SktGadXc80iHcGDVhOUfGB3c8Hssxjo5mmUemhzMzLPOILgw/kCO9qAiFmtRqQeUdo3zM/uJnnhty2jQnV/ceYMyWJVOkXbQUDUTqN4bxLhppgoqYHR8yYd3TZm3vN8cZYJTmWy3OGjdGjcdI6sugSzWB1gw1PYd62Bek=;maKWX65K7OLaFErhP3YxoQ=="
 ---
 

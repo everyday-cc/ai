@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26644087"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087"
 type: article
 quality: 76
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -39,29 +39,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla accelerates hiring for Optimus robot project, develops ‘overall humanoid software architecture’"
-    excerpt: "Tesla is ramping up hiring for its Optimus robot project, also known as Tesla Bot, as it starts using its AI expertise to develop its “overall humanoid software architecture”. As we previously reported,"
-    publishedDateTime: 2022-04-11T19:16:00Z
-    webUrl: "https://electrek.co/2022/04/11/tesla-accelerates-hiring-optimus-robot-project-humanoid-software-architecture/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 51
-  - title: "Tesla fans struggle to get loved ones on board with ‘full self-driving’"
-    excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ..."
-    publishedDateTime: 2022-04-11T19:47:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg"
-        width: 2000
-        height: 1351
-        isCached: true
 
 secured: "r9zh2tvX9iWK0ajw1GfdBVi9noM1ni9DqlSjYvUz40pie1tF/RNGIyBu/jkoUjtrHBPnCZHmdhgTAbq2uxOzR72xYbjz6kKVgbUiXl7Gg/kh1Jlhx+qsq0BYQSXPBoUCnWFiQ3zIi7QqTXhXyj7zN44xJSlwsQpK2xC/M6KB7lPJMQrZAcpW8TvSdh/9NGDG62x73hfiA6YZMJq/WriRPl5RcdwQcw/ncrP/pwelAZj7f7mNf9tMBetAUlJJFk87XCS3v2g4oXH/hMntm56JB6Wy+PbawPX3sPqj/rTik798c+CBWFsqA22Bu3nrX3MTJSmQylOAXSDMO9tJ6khbuoNzF5oPFn8HWpCPDqKdsZ4=;gV/3dVna/eot/0oudklwiw=="
 ---

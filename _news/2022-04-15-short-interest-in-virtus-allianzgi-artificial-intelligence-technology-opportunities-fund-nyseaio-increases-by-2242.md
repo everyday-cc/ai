@@ -31,6 +31,17 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 44
+  - title: "OneSoft Solutions Inc. (OTCMKTS:OSSIF) Short Interest Up 67.2% in March"
+    excerpt: "OneSoft Solutions Inc. (OTCMKTS:OSSIF – Get Rating) saw a significant increase in short interest during the month of March. As of March 31st, there was short interest totalling 9,700 shares, an increase of 67."
+    publishedDateTime: 2022-04-16T15:38:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/16/onesoft-solutions-inc-otcmktsossif-short-interest-up-67-2-in-march/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/16/onesoft-solutions-inc-otcmktsossif-short-interest-up-67-2-in-march/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/onesoft-solutions-inc-otcmktsossif-short-interest-up-67-2-in-march/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 24
 
 secured: "0bL0Uaxdh2/W+nOZv3q6Xsesv+qIlRYkPgy2mN7qb79jzsmJAIwWNwK7M37fbBl3rC1FZSQfcowbLQILYoaqsgk5PFlGv2JvYYmnq8QQCz9u0HwZG5FMlqab6KaepodbXq2XV2UlxFUytcljhfNcRxheV0M7z+W7WysKhnwWbJPoIGARWBkbUOCfxi+EATxk+mwZfQvB9OPAc6y0AI4lHjaJv4ng7vs5Yowlca/ba7tkGjhkszCp0WbXt7FF2HQnP21vDAufLlFF6eUpySJdpcCnyeNa1GJCf5mXQNtWfEO5jEDHcdBBI2Ff5KEuGcd6Dhf6aY9WIz95/ISKegFISa8u0z9u5ayE9EuayOb3pC4=;R3iHSz5EQAIuXytlHErn/Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/aclaro-ai-announces-vehicle-cent
 webUrl: "https://www.digitaljournal.com/pr/aclaro-ai-announces-vehicle-center"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,45 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Terminus Group Announces First AI Computing Centre"
+    excerpt: "The Centre will support acceleration of AI industry research and development through support of SMEs and talent developmentDubai, United Arab"
+    publishedDateTime: 2022-04-14T16:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-ai-computing-centre"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://orders.newsfilecorp.com/files/8457/120422_cb9e993834ed1a08_001.jpg"
+        width: 550
+        height: 330
+        isCached: true
+  - title: "Terminus Group Announces First AI Computing Centre"
+    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
+    publishedDateTime: 2022-04-14T21:50:00Z
+    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
+        width: 550
+        height: 330
+        isCached: true
+  - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
+    excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
+    publishedDateTime: 2022-04-12T12:04:00Z
+    webUrl: "https://menafn.com/1103998828/Swiss-expertise-supports-Bulgarian-artificial-intelligence-centre&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
 
 secured: "JcUyMxw2qU+bTmUygqe9VXUAw1pYvbpWeYVm568JC1SN0IppGfHxcIMIF9TWOQOXe5wFXFBiLvQO+Ow9R75ZJusTx8AfJoVXYG94+gFcbggxCaT+QrJk/1OW8saBF2ib6mbMRMYmDkr0YfsIWMrd9cdWkOZMa/nenXtlZsiDNaihq14r/GHpmAs+lY3AgzccxQ5O+cWmYmLf8PSKsvaxSUGav0rbgzrfJiaeYe+ecD331pV5zE6sEf8CHw6iWwbSO/F6xTk6lDQyOlsp+b1lI/YG0Qa8OPIibl3itWgYZbuDADOrqiU3Ay0Ra5A7YrFNafix84VW8o2i0y2HhiNlbXeTo56+RqZnxQOZ7M0HfHo=;gHeDm3UpDeywPcC9r6BXCg=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 408
     isCached: true
 
+related:
+  - title: "Zagreb to Become AI and Data Science Scene's Centre in May"
+    excerpt: "The City of Zagreb is set to become the centre of data science and artificial intelligence (AI) this May, with six keynote speakers and many lectures on offer."
+    publishedDateTime: 2022-04-16T05:18:00Z
+    webUrl: "https://www.total-croatia-news.com/travel/62075-zagreb"
+    type: article
+    provider:
+      name: Total Croatia News
+      domain: total-croatia-news.com
+    quality: 39
+    images:
+      - url: "https://www.total-croatia-news.com/media/k2/items/cache/872414604f95ac4ff229b18a9d9e962a_XL.jpg"
+        width: 1170
+        height: 731
+        isCached: true
+
 secured: "VAOKJxLC3JMOFXe6CraDEIGzG0X7L/W5JyG3JeAF8FWNMELrFeDDv6KGMvkxCsXH+65AvJO01I/wLW44u2q7s08Weo810onDZbxQzSrJFaTd/1Y2J9inOQQMY0WNmXhoQN3WfBdhnhG4SZVBNRbjJtgtQa6pScUG4WXIjVtI1HxW9KDdFUdZPKz7e6tGQT1sy6kbko56WZfUz3XS+yUik5rsVyRL+h+jEBOEO7doUpPc0R6K0+b1U6O6vqT9B+Lg3PGrYFJdM1DV1hdRDXWlF7wxxrxfVIsyOBhEBuZNrv8bT/cPiRO89T4fGvUBl3Gaq3N5/MXSYlUDiU4nKDPUnQGhCg0FAByXbZ12ERlaCVUpfDGBaLL0vEi+tz9s+MYsP844eO5NLCkYxkfNY1MdG9ECOSX/Xf5qJiZR7Mmdhqk9XeCBzJ06WlxAbLCdGzyFdsJsLm1b5e1tfNfyzE3JO7YVrebaaT8P5TL/pQv+1Egu9K5Bz2lQx1CaiaVEjGcVEWYsJIih4pG0iEV4uge+lg==;Z8ezDkkDQxYPkTb4eAeKCg=="
 ---
 

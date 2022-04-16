@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-16T12:17:00Z
 originalUrl: "https://www.tribuneindia.com/news/science-technology/scientists-propose-faster-more-accurate-method-of-forecasting-precipitation-over-himalayas-386880"
 webUrl: "https://www.tribuneindia.com/news/science-technology/scientists-propose-faster-more-accurate-method-of-forecasting-precipitation-over-himalayas-386880"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Tribune

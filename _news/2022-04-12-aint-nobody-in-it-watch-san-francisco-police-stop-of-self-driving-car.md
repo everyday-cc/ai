@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/national-international/driverless-ca
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp"
 type: article
 quality: 58
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/58251/content/cruise-av.jpg"
         width: 708
         height: 419
-        isCached: true
-  - title: "San Francisco police stop self-driving car – and find nobody inside, video shows"
-    excerpt: "Clip prompts amusement online as car stops, then drives across an intersection, leaving police behind"
-    publishedDateTime: 2022-04-11T22:15:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/11/self-driving-car-police-pull-over-san-francisco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
-    images:
-      - url: "https://i.guim.co.uk/img/media/0aaac1d71fec9ec454192ebc3ce1581d26e7336c/0_148_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0ef3b42343dd745b65db4fd4cb9ebf23"
-        width: 620
-        height: 372
         isCached: true
   - title: "Self-driving car pulled over by San Francisco police, but there was nobody inside"
     excerpt: "A video posted on social media reveals San Francisco police pulling over a self-driving vehicle, only to find nobody inside. The driverless vehicle belonged to San Francisco-based company ..."

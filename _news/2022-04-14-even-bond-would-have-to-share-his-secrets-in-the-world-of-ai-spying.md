@@ -3,8 +3,8 @@ category: news
 title: "Even Bond would have to share his secrets in the world of AI spying"
 excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
 publishedDateTime: 2022-04-14T04:00:00Z
-originalUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
-webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
+originalUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60?shareType=nongift"
+webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60?shareType=nongift"
 type: article
 quality: 37
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 675
         isCached: true
 
-secured: "eIoMMSEtqnpGvNxddaxgeYNKYNGPvS6LS+8rYP2ksUwJh/N72N0qyPz0qmA32+TjHIT8KZwg9rHNPkNUv0jboM33/cartT0H6nbVTfPctrwndvwJHTb6tJr6Ey1A6kI1O/b1Yl7anyrK4sSw6Pad3u26vXpM85hxzHijpxM0TqAL5oToRIOS4xYenM4KhCfKH98ldJuPHoxrQ8wCtBhfpwzMWFru6OBVstWWckrIh5TYv/geIALqJv0FHtAUbg1kb7ZNaEjGjGFx8B84uQzb9s8GtDb6D7D6qAPdqIQyI1pLsd2lNlkCeXx8ZF8lzvH19N+2ylZpqbLSfjchHmlVPKVGBX4rzG8uJ8fGbRIxI3ky7jK6vgHafFHDSfIXBVEyGJ2XYABrV15mnvNd+WDGCKzJj5w4y7olKOrJKAujX9AWuNuSnPBTALTlWIISzgZtm6TAillPtTFSsg2uEUegU/pVUeqeUp33tBqJHN19f9/QWF44bfV9mO16QMmfpHrsO71YCzmRiQkSjGVEHELlhg==;NuMVU3Y2KqWYsaxCdmFUvg=="
+secured: "T2WrwrkNh7reCsZs1dCZZ1/IxXtay69+zTjnOEM/AQW0KO5EuIQh/sj+eqR9ob9JX57g6+u3IZZ2kIFhbqAy/WOrX56aO824O5GKEnhyzKZWUvS36SBGaYRPxTfj+katixxdh2Bid/AX18m1gD+RiD7MVbzXegOb1NkqF80C3KjJZrQjjR7DqHccW7dnQnJVd2RxiPiP3DLy2gQ6w4Z10IJDp9NY7IZhl7v+t4CmUZeMvcI7pgzF8lFLjU30XI5cOGsPEZ3uob+BQP6hrdjLhDXDItyHwTniXf+2xX6bjKFPlcDyXs4po7hVFlyB1qgFx1qpuTajKAGlbj50qbrsYO9rsvZvW0Bv9sjAqdHxt4w=;JdZXBu8/G7xqzptAEgcDVg=="
 ---
 

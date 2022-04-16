@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "FDA clears AI-infrared smart stethoscope from Sanolla"
-    excerpt: "Israeli startup Sanolla Ltd. won U.S. FDA 510(k) clearance for its smart-infrared stethoscope Voqx. The artificial intelligence (AI)-based device is the first stethoscope cleared by the U.S. FDA to detect infrasound and audible information to identify clinical conditions."
-    publishedDateTime: 2022-04-11T22:53:00Z
-    webUrl: "https://www.bioworld.com/articles/517795-fda-clears-ai-infrared-smart-stethoscope-from-sanolla"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
-    images:
-      - url: "https://www.bioworld.com/ext/resources/BMT-source/2022/04-11-Sanolla-VoqX.png?height=635&t=1649712394&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "FDA clears AI-infrasound smart stethoscope from Sanolla"
     excerpt: "Israeli startup Sanolla Ltd. won U.S. FDA 510(k) clearance for its smart-infrasound stethoscope Voqx. The artificial intelligence (AI)-based device is the first stethoscope cleared by the U.S. FDA to detect infrasound and audible information to identify clinical conditions."
     publishedDateTime: 2022-04-12T14:13:00Z

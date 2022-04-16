@@ -39,6 +39,15 @@ related:
         width: 800
         height: 598
         isCached: true
+  - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+    publishedDateTime: 2022-04-15T20:09:00Z
+    webUrl: "https://menafn.com/1104030615/Kin-Carta-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 15
 
 secured: "DHLXTMQPLnzma2+doMPtCuphtes0RNhX0XQj5fKYLbzenxcErSSUj1XLtazKihv+gfqZPcrARgHZfwq1HBL+nWYW1exoUnnrxlBhxQVTPBf74BDrw/HgxsButSzr5knmblZ4XscNISdT5hC3oh2WEM5HzgdWB+Q2KkChG4HldUJq+UU75dDlnqoY6xvQwpu1rPCVVmbkQoI89MRLjkj7C46/ndl4WIYpDPAKv5TIKUJdRrmiMgQrGc9IaKU7s40GHkIHkarhKaUVzWlBTmT0RcaxRYkCUj6JgLFfJojSBM1yNXb2znYTyblZHBpEk+CdG9ReVWbeWOmLPH81G03i9D9GjKmd6isDmBmja6rHNt4=;/mMiPs6Xk/PSkhf+njEmxQ=="
 ---

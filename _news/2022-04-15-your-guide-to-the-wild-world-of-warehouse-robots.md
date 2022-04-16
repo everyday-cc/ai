@@ -30,7 +30,7 @@ related:
   - title: "Even Bond would have to share his secrets in the world of AI spying"
     excerpt: "New technology will revolutionise espionage, but the US and UK must work together to secure their intelligence advantage"
     publishedDateTime: 2022-04-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60"
+    webUrl: "https://www.ft.com/content/a15634b3-c5aa-43d1-b36d-68851a7f3b60?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

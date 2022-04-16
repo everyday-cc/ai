@@ -7,7 +7,7 @@ originalUrl: "https://www.amazon.co.uk/Speech-recognition-integration-language-c
 webUrl: "https://www.amazon.co.uk/Speech-recognition-integration-language-comprehension-ebook/dp/B09XJ3Z775"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Integration Of AI In Renewable Energy Shapes The Condensers Market Growth"
-    excerpt: "As per TBRC's condensers market analysis, integration of AI in the air conditioner is shaping the market. Major companies operating in the air conditioning sector are implementing AI technology to ..."
-    publishedDateTime: 2022-04-11T20:39:00Z
-    webUrl: "https://menafn.com/1103992769/Integration-Of-AI-In-Renewable-Energy-Shapes-The-Condensers-Market-Growth"
+  - title: "Researchers urge facial recognition restrictions, broad consideration by Canadian lawmakers"
+    excerpt: "The researchers say that the risks of facial recognition use for individuals and society are significant and should be considered in terms as broad as possible."
+    publishedDateTime: 2022-04-13T22:17:00Z
+    webUrl: "https://www.biometricupdate.com/202204/researchers-urge-facial-recognition-restrictions-broad-consideration-by-canadian-lawmakers"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/11/EP_372b0image_story.png"
-        width: 966
-        height: 487
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
         isCached: true
 
 secured: "li1+Ua+t1FAfwIo5c/7lFQcUdGD4uuRB/mFUWOXbfWmoNk+gXbM6ViUBF1obP9suD5CZfS39f/TI19M5M9KaV6cwl5OcYhl+YAPz1eNNKYbMf2uQUiu2TWnge5Bo7mdzaTeTj7mUH6/iQ3KFLOMfcdwNTLjXyTQelJWpK2oSwnAm+v6F/193U5LqnxBML6J8sT23m+wUybY0EFToeCJIPowfcsDd39hient5NrRyjmGOQ7V6JZU0awfWmPzipAp6s0v5e3MLGqPlTGQSFuLAoiGTbGu11EfwbGIJgG/qyFxl1ETVFNGQ0SZt1NfDAcF9Lw7wcHHbZExVqVqH1zFg65LNhPDOxMwZv1WPUwlWkyZZyb6+f/HRjEyus36HHnMT6bLFpa2H7B4wCK2fFgHQk0Qb86bozcqHC4H45dxT9bbGndtsM1UewRFSYZcGvkisL3O8mHm9KkWziYJw1s0iT8ByjADpYAcqKh04YLTLTFvhLry6v+fyps/KTvI2JaBUUc9uyQ0mSuVDOkVVdrI9uA==;D+pWYI2ayUW7islz1oZgTQ=="

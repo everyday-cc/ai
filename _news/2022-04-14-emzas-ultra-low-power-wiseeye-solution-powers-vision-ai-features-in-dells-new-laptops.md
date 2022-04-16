@@ -17,7 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2021/12/gettyimages-1353771133-594x594-1.jpg?w=2000&#038;ssl=1"
@@ -45,6 +44,6 @@ related:
       domain: stockhouse.com
     quality: 9
 
-secured: "XgfkiESU87W2DH7XbzzVd57dno6bgS5YrBwsP2lUGc9xe+UWanX7fnQF5MaaDuwjl1wFFEmOwF7zYsU5ZpQ1hZyQsHqWU7o6W2abW+pPawlBebrllAaARSsh4H3eZwW503yLPJZ6INmpFQHkJpddMUQHkkuufDcgYQxQkpMqCRCXPSDoOisCldkUG+/D1uOCo8fOGeGL/QV0xI820KS0sWUn756z+iU5+6i94593PGp+0L8a6VsqJyw1b0FqhvMCUSi3ZSZAv1vlDUn6wpRS4oKWTr9Iu6AxIdNFN+WSZmzK9HwM6YpEPcwPDVmpyoqlKwNHrILhAet0CsX/5N9BCEU0LE7DRSItNBtQgw5qxPY=;Meb+FxsM7IHhfFH1v71niQ=="
+secured: "/ut8Y0dq882N6kF9x6dL3epKZOnFBCdScCbp21N4BbIQs/ccFj7HSJERDq2o54Rkg16KtrXT04YMVVBNf7QOsQfXcxQ8kbXIapEI8iJ8BKIlFGOonwgyjoI9Bv0KTbIABG4bM6CuPqPJ1B3r24j6d1XdiGqcUoK4/Z0gcFx6+DEFAOg350HtCQJxRyDnB1uvwcAOuCjN9mfEw1YxnnMym13cx7Y2R7bOnzPHIZZL6xVZvOc6TXOx2E0hArGZ6BJv+udG3XnjHTmV9z64XP0v7Riels8dQQMpp3E6XsFpk7vatAT79RqkYMKhu83C2ve1h4JEyrY9+HIBuRxaeeA1Mti1ho64/URVVQQnm+OCsUc=;a0w+hlma7J1w+mSM0oMh0A=="
 ---
 

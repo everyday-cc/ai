@@ -7,7 +7,7 @@ originalUrl: "https://washingtontechnology.com/companies/2022/04/c3-ai-hires-new
 webUrl: "https://washingtontechnology.com/companies/2022/04/c3-ai-hires-new-defense-intelligence-leader/365609/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "The AI-Enhanced Military Intelligence Warfare Precedent"
-    excerpt: "AI-Enhanced Military Intelligence Warfare Precedent: Lessons from IDF's Operation“Guardian of the Walls” Earlier in May this year, the Israeli-Pales"
-    publishedDateTime: 2022-04-11T20:46:00Z
-    webUrl: "https://menafn.com/1103994140/The-AI-Enhanced-Military-Intelligence-Warfare-Precedent"
+  - title: "Major General Martin F. Klein Joins C3 AI as Senior Vice President for Defense and Intelligence"
+    excerpt: "C3 AI (NYSE: AI), the Enterprise AI software company, announced that Major General Martin F. Klein, USAR (TPU) has joined its executive team to oversee the company's defense and intelligence operations."
+    publishedDateTime: 2022-04-13T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582470.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "XcLkTJ+D3xvw6gMRZ6FIezWkl41jYI9CGyTJoYssBJvzDHYcb4FFrq0KCQ7xWz2by9i0Bpx1+AjK6H3oBd5jLuATBEN+W7giXHlN/9TGaVpGvceQvqjbQMxETCo/H+Dbd742gqj9Z897l7BAlPg1c2ODWfQsRaZl5jkbgPF1QZEyAloeal/9bMfxseH3gSNhOP88hthhGbvPGHg22kxFxl8smrkgXEFrW+rcHYhtXZqbHuD7VPCzg6X8myvLrqhqSpbiSTWsL0piabFZ9Q9JkWrEP46Iq/v3SaE+7erqFQ85Lcs12oiGdTP1osZ0W6afmwJ4HXgLKiy58nTw927G4iuZ1rAYkSFH43wt1qZorfEDAwG1Rhx8qEvmatOihz83dB6evqPcWloE2M2NSVTudnhI5CgfHCS+6lb/WCCSAgbF2YuN35bOic1rNOUG7pjKQdZcLMIyorMokECQ0p7q+OBX2zsljxSSpfXinRfYxL7LDhFpr1H3+eO7Iti3NPevdcJreSK+WtNe2hBwXDIYxw==;Yoj1as2t+dtWtbI+TMkQsg=="
 ---

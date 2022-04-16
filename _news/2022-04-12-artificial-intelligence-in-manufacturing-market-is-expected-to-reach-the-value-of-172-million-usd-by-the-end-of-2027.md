@@ -52,20 +52,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Medical Robots Market Size worth USD 31.8 billion by 2031| CAGR: 16.2%: Growth Plus Reports"
-    excerpt: "The Global Medical Robots Market is expected to clock US$ ~31.8 billion by 2031 owing to technological advancements in robotic systems, heightened adoption of surgical robots, growing demand for non-invasive/minimally invasive surgeries,"
-    publishedDateTime: 2022-04-11T20:40:00Z
-    webUrl: "https://menafn.com/1103993793/Medical-Robots-Market-Size-worth-USD-318-billion-by-2031-CAGR-162-Growth-Plus-Reports"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?686604"
-        width: 353
-        height: 249
-        isCached: true
 
 secured: "EyR6tfjQl04efmgh8R7raDb4DXIMjw+VKCbFBqGjEZXVxlA7dwF2nsQg/UhSWALwAc7h7HDs6FpXriVWFvF7ugYTpaxrdQLGrEZ376TZ3NlwXHjFOSYXGk6Y+2KlHsqFhS+A2yna4iWXP1yhwHqE5XYwq0pyzyhiydTK0krtHoFdKgb/x9HBwrWI1uY0eLAT/xXukWL2xSVGdqrz2SWNCxaWkIpiDyaNnf2ztgbprPQsWZlONrfN8Cl83Rp55OEkfBp3l6zlsyyTbbR9I077ZZRY1vHS35vS6Pc1B+SO0FM1DErinruVMpOzITFjMDmQwnfgTDSnU9I5TqFxygbMyHSyC/xn40iuAq+DdRSoRDU=;RfReXyjcArUmcNTsufThKQ=="
 ---

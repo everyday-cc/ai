@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-dee
 webUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "However, the DALL-E 2 raises questions about AI techniques by demonstrating the capability of generative deep learning"
+    excerpt: "Lab for the study of artificial intelligence DALL-E 2, a machine learning model that can produce amazing visuals from text descriptions, grabbed headlines again for OpenAI. It builds on the success of its predecessor,"
+    publishedDateTime: 2022-04-16T13:10:00Z
+    webUrl: "https://bestgamingpro.com/however-the-dall-e-2-raises-questions-about-ai-techniques-by-demonstrating-the-capability-of-generative-deep-learning/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 12
 
 secured: "ZEfbY2UwwG2hYMF1dz7Iz+s+fCpk2go7EiH+6VHfYwGmG6ZHdkwV4O+c3PRUTR8BlyoMHti4k/CPKf0+HNHTPdGN4PHnI3EY4lNW4fRIzA4JL30CiRueQAPSe72OQlzRBJdugweL6gIl7PPSylcCZkwAsfuQEIta9j2EFEYSNrY1lykoPv4NteqIauizJ70zoysi63fgds1W6aUdKX0PyETHjCvq8wZSIBwYHYYcgXTRdc27tnNQMKV+VJGyy2j5h/uFrGiSKZ5awo5e8T0GGulxTPEWm+9KDH0uwwvQj7PQzj8UFQMDE1kNNxzkPfgE1KuYs4H2ontLqyB0HAetZdoNzseoeQHJeWjU4cCmVI/rlo6EAAVHaDAEDWpfay7+h1FvE1To6eiyo1XoKUaaQ+fB17+SM8BZ5reBRsyWxFXdxFCc7hzG2Xs+/oitYdE/EkQnn+QThb/Wiy6K2nCEbPtQMIgkURWSLTEiX6FLhBgf0zJX9YvLTuWl4tYVpARQ4nauwSkv494Eynv8bq9d0w==;nqlAlPAeVKETl0rPcw3xBw=="
 ---
