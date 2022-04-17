@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/ai-algorithm-improves-accuracy-and-costs-of-m
 webUrl: "https://www.unite.ai/ai-algorithm-improves-accuracy-and-costs-of-medical-image-diagnostics/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may improve diabetes diagnosis: Study"
-    excerpt: "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were"
-    publishedDateTime: 2022-04-12T07:30:00Z
-    webUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study"
-    ampWebUrl: "https://telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/artificial-intelligence-may-improve-diabetes-diagnosis-study/amp"
+  - title: "Engineering team develops new AI algorithms for high accuracy and cost effective medical image diagnostics"
+    excerpt: "Artificial intelligence has also been widely used to further enhance the process. However, conventional medical image diagnosis employing AI algorithms require large amounts of annotations as supervision signals for model training. To acquire accurate ..."
+    publishedDateTime: 2022-04-12T19:16:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220412095357.htm"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 57
-    images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/04/Artificial-intelligence-may-improve-diabetes-diagnosis-Study-831x450.jpg"
-        width: 831
-        height: 450
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 31
   - title: "Study finds artificial intelligence may improve diabetes diagnosis"
     excerpt: "A new study has found that a fully-automated artificial intelligence (AI) deep learning model can identify early signs of type 2 diabetes on abdominal CT scans. The findings of the study were published in the journal,"
     publishedDateTime: 2022-04-16T09:23:00Z

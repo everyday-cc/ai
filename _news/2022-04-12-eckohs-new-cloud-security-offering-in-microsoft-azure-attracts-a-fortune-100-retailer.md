@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=645669"
 webUrl: "https://us.acrofan.com/detail.php?number=645669"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
-  - title: "BPCL collaborates with Microsoft to leverage cloud and AI to redefine customer experience"
-    excerpt: "BPCL will leverage Microsoft's Cloud & AI capabilities to accelerate its digital transformation and shape future innovations in the oil and gas industry."
-    publishedDateTime: 2022-04-12T08:23:00Z
-    webUrl: "https://news.microsoft.com/en-in/bpcl-collaborates-with-microsoft-to-leverage-cloud-and-ai-technologies-to-redefine-customer-experience/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 45
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/45/2022/04/MS_BPCL.png"
-        width: 900
-        height: 640
-        isCached: true
 
 secured: "ho//WGUrqdb6FDp4cqX0tCJ/mNCuFg3Z+n0pMNmffSmx7oaWdYr+aLE4kYjqgtkVVexeVglXP0Jb5FEBH8IAifItKWGcNKjytkm+zAvasue2RYbrZAGKsCaABOZlOGGjokhobFVqrhLG0NipTe5vE5AkCd6jI1Mqscg8yc3CRrAANUkqNAWesWxqAJGDcObp43vlZR6H1RstQFecl9xsOiAaefw5u6kzyjXT7VbSRgDi9z6rHz/2zTxLltqr9Jvp6rhyaSm+Iv3OVfmq/cV9MO4iHa0JRZLEW57M/sJ+LRAPTud2+c6xvvzHW0yMsyGHjH+mrDQC2qFXpIK6RubIEbx3FhZxpk6q84N6VVL47TY=;YeZv6+vT9996h+notnWgdQ=="
 ---

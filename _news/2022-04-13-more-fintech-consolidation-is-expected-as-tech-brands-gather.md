@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Blockchain To Revolutionize the Lending Space In the Fintech Industry"
-    excerpt: "With increasing focus on the payments segment and closely followed by securities and trade finance, blockchain will focus on evolving complexity and delivery time frame"
-    publishedDateTime: 2022-04-12T07:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/424530"
+  - title: "How Fintech Can Help You Manage Your Personal Finances"
+    excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
+    publishedDateTime: 2022-04-15T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/424896"
     type: article
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 69
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649746958-Myproject199.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
+        width: 1024
+        height: 658
         isCached: true
   - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
     excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
@@ -88,15 +88,43 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Cleantech startup’s AI, blockchain technology aim to improve Scotland’s water infrastructure"
-    excerpt: "Hypervine, the cleantech construction startup that uses artificial intelligence (AI) and blockchain technology to provide end-to-end site data for construction and mining firms, boosting efficiencies and enabling reductions in carbon emissions,"
-    publishedDateTime: 2022-04-15T19:18:00Z
-    webUrl: "https://www.mining.com/cleantech-startups-ai-blockchain-technology-aim-to-improve-scotlands-water-infrastructure/"
+  - title: "15/04 – Weekly Fintech Recap"
+    excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
+    publishedDateTime: 2022-04-15T11:54:00Z
+    webUrl: "https://financialit.net/news/payments/1504-weekly-fintech-recap"
     type: article
     provider:
-      name: Mining
-      domain: mining.com
-    quality: 6
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_8.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fintech start-ups frustrated by red-hot recruitment market"
+    excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
+    publishedDateTime: 2022-04-16T05:03:00Z
+    webUrl: "https://www.thehrdirector.com/business-news/financial/fintech-start-ups-frustrated-red-hot-recruitment-market/"
+    type: article
+    provider:
+      name: theHRDIRECTOR
+      domain: thehrdirector.com
+    quality: 24
+    images:
+      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
+    excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
+    publishedDateTime: 2022-04-15T13:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/189729-fintech-tifin-which-uses-ai-and-investment-driven-personalization-announces-new-partnership/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
 
 secured: "13KSAiHA6eZ1y1Lr5cx8rtFGWWtq8Koldrn5EYMYJ8pcoZDJ91MJpKXDe+G1HoVXY7bCHjARiRYhoElgBjno2+gi951ONapgqXBAbPGgds8hdTd50stsn4TgKB9/8KneD4G22c/OyYxP+QXjKrsKBmJo5RiMulZkayvmD8i6Lfe1Xn2tggrDFlUc0kJsaV9cX5OZF3CoMV5c5fw2R19xzxJEjkJiboIh/tLnh2uPU6C7LH8P9ktRHNyshZFySAujFfe4jqAMP0zKfQSwwcfaVJq0XufuhrTK6oUtrxui9InrNspHDbdutsn9v21peAbDyJgw70oe+65Eas16kKioUSCOihGybmETiEB0DS6ImpY=;/3PDjdNUqi14BUHiMXT1yg=="
 ---

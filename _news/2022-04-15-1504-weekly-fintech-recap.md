@@ -39,6 +39,61 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
+    excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
+    publishedDateTime: 2022-04-14T18:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-stock-remains-one-of-the-better-fintech-opportunities-out-there"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Impact of Fintech on business and the common-man"
+    excerpt: "Through artificial intelligence (AI), Fintech allows businesses to better associate with customers and clients through real-time data exchange. As per estimation, AI will drive more than 90% of ..."
+    publishedDateTime: 2022-04-12T14:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Shams-Tabrej-Financial-Expert-Founder-and-CEO-Ezeepay.-scaled.jpg"
+        width: 2560
+        height: 1969
+        isCached: true
+  - title: "Impact of Fintech on business and the common-man"
+    excerpt: "Through artificial intelligence (AI), Fintech allows businesses to better associate with customers and clients through real-time data exchange. As per estimation, AI will drive more than 90% of ..."
+    publishedDateTime: 2022-04-13T02:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Shams-Tabrej-Financial-Expert-Founder-and-CEO-Ezeepay.-scaled.jpg"
+        width: 2560
+        height: 1969
+        isCached: true
+  - title: "Google fund invests in Dutch fintech Payaut"
+    excerpt: "Google's AI-focus venture fund has led an €8 million seed round for Payaut, an automated payment provider for online platforms and marketplaces."
+    publishedDateTime: 2022-04-13T08:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40065/google-fund-invests-in-dutch-fintech-payaut"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/2861.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Fintech start-ups frustrated by red-hot recruitment market"
     excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
     publishedDateTime: 2022-04-16T05:03:00Z
@@ -62,6 +117,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
+  - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
+    excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
+    publishedDateTime: 2022-04-13T09:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "ZWf+HzMWLJzrU2i1EXNe9oPoeAjZrwy9UOJd4XNgTvKtw9MaKH8jP94xmknZg+iPyBT3PAWh0DuLIShjLITB2/iCDEzzFyyPp4OmBJyrl0LWxrpRsrKSFSV+AQPH/FnMK3QeMg9eK0BPx6Vcyvn6K+RoAtM0m9qwWOk7+CATmNDVw11NbvvdgD2yl7w/k5TYQlo6FeAXwqNaBnYGMDEToWQOenMjEeCLUQePbbWb5mdEa53+GpUMAYHgBECLR6ENi+z/ncKC1GKidTZOt7s1T/k8CD4mRsuDSa5HJ+KEYHv8AQuUJA+fAz3KQRd8RXQUqPrwD+VQAwL0AA//GevGQbcenjX1fcPQmeHZLMKkBjo=;Ry8NB4xUR25vctDjo7oEUg=="
 ---

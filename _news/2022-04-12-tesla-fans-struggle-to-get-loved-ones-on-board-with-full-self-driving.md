@@ -2,26 +2,28 @@
 category: news
 title: "Tesla fans struggle to get loved ones on board with ‘full self-driving’"
 excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ..."
-publishedDateTime: 2022-04-11T19:47:00Z
-originalUrl: "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
-webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
+publishedDateTime: 2022-04-12T12:10:00Z
+originalUrl: "https://www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
+webUrl: "https://www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
+ampWebUrl: "https://www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg"
-    width: 2000
-    height: 1351
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b.jpg?w=1024&h=692"
+    width: 1024
+    height: 691
     isCached: true
 
 related:
@@ -52,16 +54,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla accelerates hiring for Optimus robot project, develops ‘overall humanoid software architecture’"
-    excerpt: "Tesla is ramping up hiring for its Optimus robot project, also known as Tesla Bot, as it starts using its AI expertise to develop its “overall humanoid software architecture”. As we previously reported,"
-    publishedDateTime: 2022-04-11T19:16:00Z
-    webUrl: "https://electrek.co/2022/04/11/tesla-accelerates-hiring-optimus-robot-project-humanoid-software-architecture/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 51
 
-secured: "F1iUfy8FGvRR2lIsDz03HroQLeTbklrO0GmEpvL6oypVRXze2WfwmMb7mjCC78yBcu/Q6efV/wEgGhILVo4EwbCjvZIwZVUmBkSxvTRA8gZVtW2eBUcTLRR/zDcJmEqEzMRgKBLU9oYj/tro+SN4ff+1UxISLynNRbKNJRZpqK3p3Ngg6oK6oI/WF4ogU9wiz1RBMPg/2i7b5OCj5+FPHardVBGW8m6Q2v+iONSlHyeaTa9Bo2hog7Ew0ARZkFmkPFu4ZU8kHSWNuKgBBmNw5yEbF8iZ/hkj0ZAQA+Kage9CRUvPHr6x2C7epdt39ErsXNmhDzEAnKRDHV59iIRUgaDHH1yhg8AGQ34d4Je4Utc=;REdm7DVju8+QaWVCb171Jw=="
+secured: "7HvwENnso1jHZI8rP2qebc0fXxnKmEzvWlSZB9CWzRgpq6I92BsPycivn8GQeUxHgmPnz+wVOOxhd+xcZdX85wLjQziWEZZNPIW1macn6ZqeAO5SBXLnBcO5f5xK7baKU0rXzsYVCUIVnVDB+JNvPMqOjbQ9tDO+BgENoU1tjoSWgcaQDCxzbeHTfGnfsTESxk4HyutGdFykl76FDhq8/Yz2tBPka6fXlPMAfV4DpeTG1SAKIZYFHMb0psJztD7sCH3IqiSbc+0kFEBrUVAqLK0QoWY5IPmuGtha6z7LhO+3N78jYASqGRnt4LypB/8Ve2TaM7qSCVgwJ0zRrbpnObsNpDYiccVl1QevBVvkhKU=;wAofO2EpU8uQaGe88C0VKQ=="
 ---
 

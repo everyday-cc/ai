@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 736
         isCached: true
-  - title: "Bosch to Buy Automated-Driving Company Five"
-    excerpt: "By Kim Richters Robert Bosch GmbH said Tuesday that it has agreed to acquire U.K.-based automated-driving company Five to accelerate its development"
-    publishedDateTime: 2022-04-12T07:41:00Z
-    webUrl: "https://www.marketwatch.com/story/bosch-to-buy-automated-driving-company-five-271649749321"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How to craft the perfect pitch deck for your AI startup"
     excerpt: "The right set of investors can be a deciding factor in your startup journey. At LUMIQ, we build AI-powered products for financial enterprises. Getting early backers who believed in our vision was crucial for us. Thanks to the rapid digitisation ..."
     publishedDateTime: 2022-04-13T10:01:00Z

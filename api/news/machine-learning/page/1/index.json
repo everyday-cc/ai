@@ -1404,21 +1404,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-06-meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command.md",
-      "title": "Meet DALL-E, an AI algorithm that can draw anything on command",
-      "excerpt": "DALL-E is what artificial intelligence researchers call a neural network, which is a mathematical system loosely modeled on the network of neurons in the brain. That is the same technology that ...",
+      "path": "_news/2022-04-06-deep-learning-rising-in-importance-within-booming-ai-sector.md",
+      "title": "Deep learning rising in importance within booming AI sector",
+      "excerpt": "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,",
       "sourceUrl": null,
-      "webUrl": "https://www.sfexaminer.com/findings/meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command/",
-      "originalUrl": "https://www.sfexaminer.com/findings/meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command/",
+      "webUrl": "https://global.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://www.sfexaminer.com/wp-content/uploads/2022/04/28379800_web1_220406-SFE-OPENAI_1.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png",
+          "width": 720,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1428,11 +1428,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T18:29:00-07:00",
+      "publishedDateTime": "2022-04-05T22:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Francisco Examiner",
-        "domain": "sfexaminer.com",
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

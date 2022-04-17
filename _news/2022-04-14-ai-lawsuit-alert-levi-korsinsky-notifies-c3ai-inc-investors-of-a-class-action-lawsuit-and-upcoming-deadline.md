@@ -34,6 +34,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Deadline in Securities Fraud Class Action Lawsuit"
+    excerpt: "Vancouver Canada · V6E 4A6 // KISS PR Brand Story PressWire // The law firm of Kessler Topaz Meltzer & Check, LLP (  informs investors that a securities class action lawsuit has been filed against C3."
+    publishedDateTime: 2022-04-17T00:19:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-business-lawsuits-class-action-securities-fraud-cc5abdde83a1bf45739da7f2edc304cf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Shareholder Action Reminder: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
     excerpt: "Los Angeles, California--(Newsfile Corp. - April 12, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (\"C3 ... law and rules of ethics."
     publishedDateTime: 2022-04-12T18:59:00Z

@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla fans struggle to get loved ones on board with ‘full self-driving’"
+    excerpt: "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ..."
+    publishedDateTime: 2022-04-12T12:10:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/04/12/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b.jpg?w=1024&h=692"
+        width: 1024
+        height: 691
+        isCached: true
 
 secured: "pEoHSYCceVgN8R6F6xl92A6NO3P3+PLt3TgqpCNmGE6cxL+Hr8KQ8LtdJpCJrXgSoQi57jJwFLJYDDYbJt9+LroBr8tmv1wBOvpiNFMXDaVdr4W+cjXyVDSCFe10XcYbMUJv8jIhdelBUlVOArzaKFAwA2pqGw+qjou19BfItNXm2vUp9PjerGzivpt7zDYCOk1xJArSO1GzoWdZW7qiTLjF1usG6rTUTpbTYoRAc8QeHmgPjN4te5IQj7i7aZxoLSHXfY4Jdj4Nz5lJDcVz68tdrbOQapu3EgpGddcSig1K8v7sdR72R7V8ih+z650Gl/bbx36EwAIQ40zrfdTLSxJT403X4ZSABenHUYFRUwkWNly5M24n8dPHKGwnwqmJGSXsi+ggaUxeVTZTomF99mSYZkwkJ/jONw6twt58XUDZBLvD+hZi8LEc4TTpCZz5o2iuzSj3EPP/EWPuFLJoofH380fu93fRUCts3OxlpbsKnZcCjCFCNWfpT+PSgrTglddSU71lgTuljK6m92t1Pw==;TBQyo1Y94f/RaMkJgJ+zSw=="
 ---

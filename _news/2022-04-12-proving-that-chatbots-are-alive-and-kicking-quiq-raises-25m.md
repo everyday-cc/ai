@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/12/proving-that-chatbots-are-alive-an
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/proving-that-chatbots-are-alive-and-kicking-quiq-raises-25m/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "AI chatbot startup LimeChat raises USD 4.2 Mn"
-    excerpt: "LimeChat helps brands leverage conversational mediums and powerful automation to create compelling user experiences."
-    publishedDateTime: 2022-04-12T07:38:00Z
-    webUrl: "https://analyticsindiamag.com/ai-chatbot-startup-limechat-raises-usd-4-2-mn/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Limechat.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "M3B7/p2uJJbBZSFg6+znxctI5ymMxWjSf79q/K8ZnsAA+/u3c5AIgBshMMOlIktc2Epg+WjOo78prHuw0g0EPINd0OvHjO9/xLBzFZbpzjNTZC5f410/R8mizgUn2dLHQMbjzMqLWGXDMstroreGgjdSBa6BAKG+uXRDvHbTwMkTIVCEshdXkx/qGcSQ39ZiyYKkeOLfynKNvcTFBD/3Dcxh6fjW6RiVSaHRYzoTvLox6QcMXWs3F2THfZWOJie6ICnfKgPxV0WWbOjdtC3KV0kaIanXsomLO2GtJ1AKO6QNb8BzY1La0az8nnOFxuWd87WP8c1BDi48CKYtaj65A1NsVyWTSmsHGImpZlRC+Ro=;vGWg+M6SA6nR9nR7qt1t6g=="
 ---

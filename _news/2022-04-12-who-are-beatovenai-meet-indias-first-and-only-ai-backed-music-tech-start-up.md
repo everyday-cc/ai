@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "US and India launch talks about military AI"
+    excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
+    publishedDateTime: 2022-04-15T14:27:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/yn6AlRGoKGRxZIAkJTzMElmVFoY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/2XCHIWVJWJBTPKHX3WZQTY747Y.jpg"
+        width: 1024
+        height: 690
+        isCached: true
   - title: "StatScope – India’s first artificial intelligence based market analysis service launched"
     excerpt: "StatScope has launched India’s first locally built artificial intelligence (AI) based market analysis services. Artificial intelligence can help"
     publishedDateTime: 2022-04-14T20:50:00Z

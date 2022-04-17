@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-14T09:00:00Z
 originalUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
 webUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - AI Hardware
 
 images:
   - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
@@ -45,6 +44,6 @@ related:
       domain: stockhouse.com
     quality: 9
 
-secured: "1LnQ/hM1JEK8zSlOtHwsThznhukjALWO7ZQZOjemmF52RgWGocOfKFeNk4X4ZPh52pjxd6FM1P4FtP8vcOvShNUiUxJydzq8tSaYHbNl0I2UOqsliOpdweoxndHjdPyfVvPCKO0WCduClxmm97JZDI9mPKZ4TU5I5G7PVr0zugrjMiKfm6XDNbuLS4peFqfG1pWphMtxS93EJlKZNV3WCV4kr0UdM/3ttiXejAjN4FQPoOa+k8ZrV5/NCBXGbF3i9YeNLCIolEXgsMXbZAQCKOAonm6C52gZDAQ5aKPu0R5e9X3ERU9XvAbGBkuA9WiAnjGJ4/ro+V1pzrGrUXqiacXR5JQE4ANocyzukATOf5s=;Laae1bjJOao1mOfxVie0LQ=="
+secured: "fUFNlM57hq+31t6Fga0wbCds95MRqRkBcGv1jondyRPWonXseuiYerQHGxdPChEvyQAUaLOIorL886B3VQzdcUxNeGKFcdg7Xpo5SK47VZmorIyaBCK59bGoh7sfOeccJBH1gW353ifG+4NUs1lDTPmsod1tAR+VkuVneiSGM1Dheu64nOUv6CC0ngzwAge9ytNEXiyq7gdbnNhdTko8KcTcn0/fuumWz0E3USv7D16zhB/vDgIJKGHR7k5Q9ztBVDuZsx3DKGrbOMZIkFfBQTtyRrx1UEyAf2ZIjJ0PNPcniYUIjhkI68jzoWZImB/pvwM4bwJrL9UZbVntxaUSEgU1VFMKCbSoCeA+Qfy1T4M=;gys83XGKWKSI/YU9smqi8A=="
 ---
 

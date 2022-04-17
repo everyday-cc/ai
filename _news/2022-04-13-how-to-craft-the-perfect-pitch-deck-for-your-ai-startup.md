@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 736
         isCached: true
-  - title: "Bosch to Buy Automated-Driving Company Five"
-    excerpt: "By Kim Richters Robert Bosch GmbH said Tuesday that it has agreed to acquire U.K.-based automated-driving company Five to accelerate its development"
-    publishedDateTime: 2022-04-12T07:41:00Z
-    webUrl: "https://www.marketwatch.com/story/bosch-to-buy-automated-driving-company-five-271649749321"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bosch-to-buy-automated-driving-company-five-271649749321"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai"
     excerpt: "“I expect that to start happening as well in the next year.” (TechCrunch+ is our membership program, which helps founders and startup teams get ahead. You can sign up here.)"
     publishedDateTime: 2022-04-12T23:19:00Z

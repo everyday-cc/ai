@@ -39,22 +39,6 @@ related:
         width: 1182
         height: 662
         isCached: true
-  - title: "Self-driving car pulled over by San Francisco police, but there was nobody inside"
-    excerpt: "A video posted on social media reveals San Francisco police pulling over a self-driving vehicle, only to find nobody inside. The driverless vehicle belonged to San Francisco-based company ..."
-    publishedDateTime: 2022-04-12T07:22:00Z
-    webUrl: "https://www.abc.net.au/news/2022-04-12/self-driving-car-police-pull-over-san-francisco/100985792"
-    ampWebUrl: "https://amp.abc.net.au/article/100985792"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100985792"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/bdc66502bc8e8709509be4ebcc3d297b?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Waymo's self-driving car is ready for commercial service in San Francisco"
     excerpt: "It's called Waymo and it's about to make history with its self-driving vehicles. The subsidiary of Alphabet (which belongs to Google) has been testing its driverless cars on the streets of San Francisco for almost a year and could soon start operating to ..."
     publishedDateTime: 2022-04-12T13:18:00Z

@@ -25,22 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Blu Digital unveils FAST, AVOD AI-driven ad detection software"
-    excerpt: "Blu Digital has launched what it says is the industry’s first cloud-based ad-marking software using AI and validation to enable content distributors to prepare content for monetisation to the FAST and AVOD markets."
-    publishedDateTime: 2022-04-12T07:49:00Z
-    webUrl: "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2022041262327/blu-digital-unveils-fast-avod-ai-driven-ad-detection-software.amp.html"
+  - title: "Artificial intelligence on track to transform transportation industry"
+    excerpt: "AI is likely to become increasingly embedded into rail networks around the globe and represent the innovation that brings train transport into the 21st century."
+    publishedDateTime: 2022-04-15T12:23:00Z
+    webUrl: "https://knowtechie.com/artificial-intelligence-on-track-to-transform-transportation-industry/"
     type: article
     provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 57
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
     images:
-      - url: "https://www.rapidtvnews.com/images/2022/April_2022/BluSpot_interface_12April2022.jpg"
-        width: 900
-        height: 491
+      - url: "https://knowtechie.com/wp-content/uploads/2018/10/email-marketing-400x240.jpg"
+        width: 400
+        height: 240
         isCached: true
+  - title: "The 7 transformational technology trends to revolutionize the financial sector in the post-pandemic era"
+    excerpt: "By Sam Barton, Group CTO, Smart Sam Barton is Group CTO at Smart, the global retirement technology provider backed by J.P. Morgan, LGIM, and others. Sam describes the 7 transformational trends with the power to boost the financial sector forward to meet the new needs of Americans."
+    publishedDateTime: 2022-04-14T16:09:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-7-transformational-technology-trends-to-revolutionize-the-financial-sector-in-the-post-pandemic-era/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-7-transformational-technology-trends-to-revolutionize-the-financial-sector-in-the-post-pandemic-era/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-7-transformational-technology-trends-to-revolutionize-the-financial-sector-in-the-post-pandemic-era/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 28
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1127243234.jpg"
+        width: 750
+        height: 399
+        isCached: true
+  - title: "Harbor Capital Advisors Partners with TIFIN's AI-Powered Digital Distribution Solutions to Transform the Asset Management Industry"
+    excerpt: "Harbor Capital Advisors to leverage Distill by TIFIN, enabling asset managers to personalize engagement with financial advisors and drive"
+    publishedDateTime: 2022-04-13T12:20:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/harbor-capital-advisors-partners-with-tifins-ai-powered-digital-distribution-solutions-to-transform-the-asset-management-industry-1031349538"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 0
 
 secured: "o3BCDSS5kdLLpFwjldnyDUaxxBr41BfkDiCPN5J4W4F8GC7R1ONln4h9QuxT5nopByQFmKMyIeQWKLiSORjDzKiqx7i8jnoEggmBEVIyZZKIBvxNJ/zc7C39qVVTXMjPR4egNFnQUFJYkNfDZBrgMbQkTMRSpg/liu2eUCXzHE9BwIotjHAFmSHF721XP/iiy1+SzQiWjNCHvW8lTSzqBXl/DzOPyoG/sNscIdGUEbZx+b5phfkHgmHcWBQMpID6bZpCxcZ8cutSSx+HgHxnJHD/CwodnsCeWNZ04mG2RLgHFnAxrcrlqvFvC/jlYuUWR9FKg4aXm4WCevQmnRjC6KzlBacJCORNO/YcZU5bRUw=;sS8cWI/JtkiwcXb0lgj0Vg=="
 ---
