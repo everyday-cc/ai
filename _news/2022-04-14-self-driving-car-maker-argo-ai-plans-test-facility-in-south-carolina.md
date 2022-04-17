@@ -59,22 +59,6 @@ related:
         width: 1280
         height: 848
         isCached: true
-  - title: "Self-driving car company establishing test facility in SC"
-    excerpt: "COLUMBIA, S.C. (AP) — Governor Henry McMaster’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in ..."
-    publishedDateTime: 2022-04-14T12:17:00Z
-    webUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
-    ampWebUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
-    cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
-    type: article
-    provider:
-      name: WCBD
-      domain: counton2.com
-    quality: 44
-    images:
-      - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/GettyImages-1285307584.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Self-driving vehicle tech company Argo AI investing $2.6m for Greenville testing facility"
     excerpt: "This will be the Argo AI's third test track along with ones in western Pennsylvania and Munich, Germany. The company plans operation at SCTAC later this year."
     publishedDateTime: 2022-04-13T15:51:00Z
@@ -89,6 +73,17 @@ related:
         width: 1003
         height: 527
         isCached: true
+  - title: "Self-driving car company establishing test facility in SC"
+    excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
+    publishedDateTime: 2022-04-13T18:21:00Z
+    webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
 
 secured: "FL/zlCeQ621VG3OIizRMFX4vod1UiSnBsXXCnzk6MoUsIfaYVw7NzrIHK9yL6/Tyr+r0zsmCoJJz/JoRETZNk0m5D+yoUKrHd9Y9/Nj4I8/juUJAXCzEtwx7mYNmfIE8fq4H2OfTPg9bxJMnS8Xov/489UwXw4D0rbKHxc0DFo7N92EnQLbLOSxd3KQdRRC1dvuTOnMhZr6EpqW7yQhujNvPP8f6767HDoLUM/LlTHoFaIfF2FWD4kV1eeU5GQstBDBHTg3IxhjP7/kaygNT0u38x0PdtzggE5aZGjs4aippeHLwi6a+ISJRfssactUEKMXQcsM7OlckSUV+MbfiegiPagPp/sKTy/4ZO5eBVpk=;vZPNNLncx7M7MMo75WBEWg=="
 ---

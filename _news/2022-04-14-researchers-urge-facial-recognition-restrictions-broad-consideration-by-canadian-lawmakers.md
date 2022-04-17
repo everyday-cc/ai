@@ -24,24 +24,6 @@ images:
     height: 1812
     isCached: true
 
-related:
-  - title: "Researchers develop behavioral treatment for deficits of facial affect recognition in multiple sclerosis"
-    excerpt: "A recent study by Kessler Foundation researchers demonstrated efficacy for the behavioral intervention, EMOPRINT, for treating deficits of facial recognition in individuals with multiple sclerosis ..."
-    publishedDateTime: 2022-04-12T17:03:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-behavioral-treatment-deficits-facial-affect.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 27
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-facialrecogn.jpg"
-        width: 1920
-        height: 982
-        isCached: true
-
 secured: "tXBJ8caBV4wVayVCMS0P+p6XorEM/lzwoePYtkHWnx3QUcAZpsKdImyq3j7TlSctT/Q8qDpO+/DQK0Gp9oseWiiQh8cxTRfHKpe8UnKN7ymySyb4eOOq9XQaSuyjodRSrJaW3yTT48JkA0oCig5oAQSJjG0KVTURZImtfOlgkSGzfoQyrraC+fck6zmyWA27JlTgUSZwczofSB9dCNdEa4s2+YFzgdUpGAVeBeXl/5OI+sy2knajKplvaPVIemMqCbVK2bTk29qarISadxYndo9/lGSxccGJG1vQ+Cfe3n/Gm0AUDGjil7W7NlDrmN/wvca+Q6zEL7JtHOoNiHq6rWdiNX62KyzFKGUMwxlDZWg=;rMtCcSnJ+TE5FDfa52H1sQ=="
 ---
 

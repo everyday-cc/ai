@@ -1,0 +1,31 @@
+---
+category: news
+title: "IBM, AMD embrace Israeli artificial intelligence technology"
+excerpt: "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ..."
+publishedDateTime: 2022-04-17T11:41:00Z
+originalUrl: "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/"
+webUrl: "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/"
+ampWebUrl: "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/"
+cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/"
+type: article
+quality: 59
+heat: 59
+published: false
+
+provider:
+  name: The Times of Israel
+  domain: timesofisrael.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://static.timesofisrael.com/www/uploads/2022/04/NeuReality-IBM-TOI.jpg"
+    width: 1600
+    height: 1000
+    isCached: true
+
+secured: "3GRYGM8asWWDBzrdV1kIdTzqbTMH0KX6KxXXuNVuVXmGD7fndNUtqx16HMJHpCdLR/MbHMIcIqdiR2dBWsd6g9e3/zT72aAF56EOKuijKZ5T+S6OQgVlUQ59xx+hZ3mDjWFatwOyT3LPA9YN3CDY19CP36neG55S0FgYB2xWwRM204UbRe09lmIUpP8XrCudlY1okOpemlanXzyoff/aUhnIaLfqzvDEamLxeTZRODLUcUxNKPeCaUjufI45hTgNrxYOFFbKTTxRXe68wsS68poPdCVZoHPzMonfwvosaCUx1TD5CUjAh6/b6iEnvIkam+5yh1Z1JFB9fti3HUKWa5VNvxrm027n1h183pbHBis=;N+058EC0Gn19jDQC/uBJUQ=="
+---
+

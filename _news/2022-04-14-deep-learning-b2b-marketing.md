@@ -7,7 +7,7 @@ originalUrl: "https://www.ictsd.org/deep-learning-b2b-marketing/"
 webUrl: "https://www.ictsd.org/deep-learning-b2b-marketing/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 626
     height: 417
     isCached: true
-
-related:
-  - title: "Cognitive Computing Market projected to $77.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The report includes the study of the key players offering cognitive computing solutions and services. The major vendors Microsoft (US), Google (US), IBM (US), Numenta (US), SAS Institute (US), AWS ..."
-    publishedDateTime: 2022-04-12T18:33:00Z
-    webUrl: "https://menafn.com/1104000062/Cognitive-Computing-Market-projected-to-775-billion-by-2025-Exclusive-Report-by-MarketsandMarkets™&source=139"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
 
 secured: "lz1JH2ImJvQ9R/meCDJcbshit02Ub/Rwxr2KEI/r4ETn71Og3zW2nzHbcnrmgedtZy5tBGSzkXyc1fEYt3o5Z2+7w9uFxN+GwPehCHkA4ZTRCW3u2DJjrhlwKc6eqMTTdiHBUZNq9+Lp7ZkQVCEIVMEe1v/Rs9v87F7dUZwV6P5OC9DiFW0N9Q+joKP0ezlX3Ytu1Dyiqn9UNjykAKGorDkB2uas+Uvx/4D9hQZW9/tSfI0mL8tq79MLdaCjEJPyCQIt5xZqtMG8ivuUnuFyAt/6DHjAmUDm+FsygwIyCeNyS8sbTf/2dPvU992hOI3t17N4R/bnPzKzT3Ksr4JIUteoF3/IBscqjPA7qoxroOg=;9qMTHwMA4K5VMq3bRChX/w=="
 ---

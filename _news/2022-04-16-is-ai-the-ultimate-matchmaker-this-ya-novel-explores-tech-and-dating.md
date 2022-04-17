@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/yp/discover/entertainment/books/article/3174233
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
 type: article
 quality: 89
-heat: 91
+heat: 93
 published: true
 
 provider:

@@ -48,15 +48,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Shareholder Action Reminder: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $500,000 to Contact the Firm"
-    excerpt: "Los Angeles, California--(Newsfile Corp. - April 12, 2022) - The Schall Law Firm, a national shareholder rights litigation firm, announces the filing of a class action lawsuit against C3.ai, Inc. (\"C3 ... law and rules of ethics."
-    publishedDateTime: 2022-04-12T18:59:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/12/shareholder-action-reminder-the-schall-law-firm-encourages-investors-in-c3-ai"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "TqTrVOHHtJ9RtSBf4Uvjv1EXEMqRnf3TDsTz0I3YeZ4pkRsVNpbU1Uhira7RUOmd3pcqpdqDSus6tiOjX3ouiEJ0S1lmoaWnidWTxilaKv+sQRT5KU8RDTU4TrGBLZc2TZvXBwP4uDZNUpi6vOmyvUqqbSqykQv/M04pQvWpLdhd/DpjFVsu1hr3y+wWRMOvedtLar8yAY2F7uNowBi9FblMniJNP3t0IgevYwyjCgPH3ljwag2yBKrxRUVeaZsU4rEt/sOfzx2LAUHNvsv87u/fpTA/9Bp5mzPTV5PWrM5UqNZW55Ynq/ti4dDeTMKgVVn6AfYo0OZwTNa4Z9sCB2ssjY+Se0h6s/OxuuMi8Ck=;092M/DyNvOckqPivNXly7A=="
 ---

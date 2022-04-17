@@ -45,6 +45,20 @@ related:
         width: 799
         height: 499
         isCached: true
+  - title: "How the philosophy of mind and consciousness has affected AI research"
+    excerpt: "Descartes separated the mind and body to create a neutral space to discuss nonmaterial substances like consciousness, the soul, and even God. This philosophy of the mind was named cartesian dualism. [3] French philosopher Rene Descartes proposed the theory of dualism between mind and body."
+    publishedDateTime: 2022-04-17T11:00:00Z
+    webUrl: "https://thenextweb.com/news/how-philosophy-of-mind-and-consciousness-has-affected-ai-research"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-85.jpg&signature=81d9cfbc39f092da4f847b2e254c5f73"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "OpenAI’s New AI Generated Anthropomorphic Bowling Balls and We Simply Must Stan"
     excerpt: "Strike! Move over, NSFW bowling animations — there’s a new weird bowling meme in town, and this one was made by computers. Using OpenAI’s DALL-E2 text-to-image generator, which was just released a week ago,"
     publishedDateTime: 2022-04-13T20:16:00Z

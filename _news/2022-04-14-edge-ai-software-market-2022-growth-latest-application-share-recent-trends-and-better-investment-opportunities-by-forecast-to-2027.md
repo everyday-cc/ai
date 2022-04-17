@@ -52,20 +52,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Professional Cloud Services Market Analysis Covering Size, Share, Growth, Trends and Forecast 2022-2031"
-    excerpt: "This is supported by AI and machine learning coming with cloud service ... September 2018 - Microsoft has announced the general availability of Azure Data Box, a physical box which organizations ..."
-    publishedDateTime: 2022-04-12T22:24:00Z
-    webUrl: "https://menafn.com/1103997902/Professional-Cloud-Services-Market-Analysis-Covering-Size-Share-Growth-Trends-and-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 8
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?891739"
-        width: 406
-        height: 250
-        isCached: true
   - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
     excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
     publishedDateTime: 2022-04-14T13:04:00Z

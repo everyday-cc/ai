@@ -65,15 +65,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Razer just quietly launched a laptop for machine learning"
-    excerpt: "The new Tensorbook may look like a gaming laptop, but it’s actually a notebook that’s designed to supercharge machine learning work. The laptop’s similarity to popular gaming systems doesn’t go unnoticed, and that’s because it was designed by ..."
-    publishedDateTime: 2022-04-12T18:01:00Z
-    webUrl: "https://www.digitaltrends.com/computing/razer-lambda-tensorbook-machine-learning/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
   - title: "Lambda, Razer launch laptop for deep-learning app development"
     excerpt: "The new Razer x Lambda Tensorbook provides developers with high-end computing performance for creating, training and testing deep-learning models locally."
     publishedDateTime: 2022-04-13T12:43:00Z
