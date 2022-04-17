@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Neptune.ai raises $8M to streamline ML model development"
+    excerpt: "Register today! Neptune.ai, a Polish startup that helps enterprises manage model metadata, today announced it has raised $8 million in series A funding. Whenever an organization experiments with ..."
+    publishedDateTime: 2022-04-12T19:09:00Z
+    webUrl: "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Neptune.Ai Raises 8 Million USD to Enhance Machine Learning Model Development"
     excerpt: "Neptune.ai that assists organizations in managing model metadata, announced the completion of an 8 million USD series A investment round."
     publishedDateTime: 2022-04-13T13:34:00Z

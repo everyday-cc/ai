@@ -42,14 +42,19 @@ related:
         height: 480
         isCached: true
   - title: "Scientists use machine-learning approach to predict risk factors of conduct disorder in kids"
-    excerpt: "According to a new study, a machine learning approach can assess risk factors and predict the later development of conduct disorder (CD) in children with high accuracy. The study was published in the journal,"
-    publishedDateTime: 2022-04-17T07:53:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220417/3932156.html"
+    excerpt: "New Haven (Connecticut) [US], April 17 (ANI): According to a new study, a machine learning approach can assess risk factors and predict the later development of conduct disorder (CD) in children with high accuracy. The study was published in the journal ..."
+    publishedDateTime: 2022-04-17T08:21:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272488804/scientists-use-machine-learning-approach-to-predict-risk-factors-of-conduct-disorder-in-kids"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 13
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1650183251.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "Mhesm4F+V9vRwR0QBK+l6BeixhLnzCzhp6g/ADqcd8VjdmhQCjUwgoFsVXiEsiwnCy4TU5SHwQGIucACYZk3BQcFBpkSdjCZ2UbdGdJGiSWja7Wle6TUtD5Er61Ga7319qxqlkoYUZmbjt4v5Kmx1z4OugxwIQ79PTLXfEJ/wqlWZz6bIEviL0CLi+Cl6ILoqWQXMYMFjzKTuFGPUqxKZHtwH/PWMes3g6vFapmA5WGb43tGG4cJgRWThuXzZGuA2Wb9sLIZHVqQLN4Gb/s7HMdqyE2DF2FbHR5XWPeSHOrRqE7YWWjt1BICHJDlarfgoe8T9WU/T35SmcQYUz7S6zBJBvJ1iQ4dU0QqllaB+z4=;OVS2tIVbf8tHxzrGVsDWEg=="
 ---

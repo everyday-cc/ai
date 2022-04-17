@@ -7,7 +7,7 @@ originalUrl: "https://www.bernama.com/en/business/news.php?id=2072355"
 webUrl: "https://www.bernama.com/en/business/news.php?id=2072355"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,13 +26,18 @@ images:
 related:
   - title: "AI Week brings together the world AI community"
     excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-    publishedDateTime: 2022-04-14T19:56:00Z
-    webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+    publishedDateTime: 2022-04-14T18:12:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
     type: article
     provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Week brings together the world AI community"
     excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
     publishedDateTime: 2022-04-15T19:46:00Z

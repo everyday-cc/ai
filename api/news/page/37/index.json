@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-03-15-linkedin-and-deepmind-co-founders-form-ai-startup-to-help-humans-talk-to-computers.md",
+      "title": "LinkedIn and DeepMind co-founders form AI startup to help humans talk to computers",
+      "excerpt": "CNBC reports LinkedIn co-founder Reid Hoffman and DeepMind co-founder Mustafa Suleyman (pictured above) have formed Inflection AI, a company that will use artificial intelligence software to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
+      "originalUrl": "https://www.engadget.com/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/42fa7ef0-9efd-11ec-aff2-3c1d5945b1a7",
+          "width": 5496,
+          "height": 3664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/linkedin-deepmind-co-founders-inflection-startup-171543930.html",
+      "publishedDateTime": "2022-03-15T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-microsoft-expands-healthcare-cloud-strategy-with-new-solutions-and-capabilities-across-data-ai-and-clinician-experiences.md",
       "title": "Microsoft expands healthcare cloud strategy with new solutions and capabilities across data, AI and clinician experiences",
       "excerpt": "Delivers industry's first generally available solution that ingests, manages and transforms a combination of clinical, imaging and MedTech",
@@ -1097,40 +1149,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm.md",
-      "title": "Self-driving Car Technology Market Shaping From Growth To Value : BYD, Volkswagen, IBM",
-      "excerpt": "The Latest survey report on Self-driving Car Technology Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast peri",
-      "sourceUrl": null,
-      "webUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
-      "originalUrl": "https://eclecticnortheast.in/2022/03/15/self-driving-car-technology-market-shaping-from-growth-to-value-byd-volkswagen-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eclectic Northeast",
-        "domain": "eclecticnortheast.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

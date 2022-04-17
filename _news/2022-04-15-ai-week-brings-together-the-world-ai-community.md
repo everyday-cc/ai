@@ -2,21 +2,26 @@
 category: news
 title: "AI Week brings together the world AI community"
 excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-publishedDateTime: 2022-04-14T19:56:00Z
-originalUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
-webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+publishedDateTime: 2022-04-14T18:12:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-science-edmonton-alberta-canada-f5b6e6a315c1ac081cb1c5f302ebfbce"
 type: article
-quality: 19
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: WHNT
-  domain: whnt.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Amii announces AI Week programme, bringing together world AI community"
@@ -43,6 +48,6 @@ related:
       domain: acrofan.com
     quality: 19
 
-secured: "us+1g5jfzNuQIIc7U9tnNYKPA6Sy8LalfSwVsXzg+rANiM7bd2pQSFIHbj4U5xoVNXeBjrjRrvwKYeG7LFBcSJ1ngljM4JZTkGvmkY7A2k19P1KsKGmgBCEps/xexXIDZRrWXvhQwPGAy6QSk4D3vKjDzw0n/cEgElE0bguTbiexqzzmx7p0XilLM893vdtJIM+Vqv+df1OYWZTNodLovoa4/L+XPdW+g5+OUwg5T+1kUKQD89cKVMmfFOt/c6Sf39JsdrfCrPniqDUPESA1ZrM9NYuPLBTWnIMda+8yuQnnWPdPEnG0dppe2NlVtuSOntppzPQ7cUDSErKpCjX5S4i127ODsB0OLXo9c/BOcyU=;bs+5L0PNaECVEcwx3ssf9Q=="
+secured: "OBglahqrl1/oCMU3u59FMd2egvqRurk4TDZct586ahOHghqSxIIfRVKPe6s1FHPdIg7ldBioBFG+tcmgD9nZXtMMB2hnytKuDXtPhyQnN2PS3Dhn4cu+Xx4FQYaebfuCsKN+DxKq8TnNmJmgqCmuEJa2i5r0kc25dpAxotEpjFaDoqRszaomJdfVziPC883Y+KuPFyM68cQkd3aW0wlOiIVIeOguhs9WE4v3EX7kU88/fWfJJzimQXNIy6aC8yW9KxHYmv/yQ8NsEEuBFDPkW/MeIXgUdSupVejQp4STV4jyvY+nyM/+YpHjDDoFmb/u63KAwC87cKDz/oCCLHPK/TmP7MJBg1uTqJipGhaopFk=;nz2zTe7QLnAMqo5TALO79Q=="
 ---
 
