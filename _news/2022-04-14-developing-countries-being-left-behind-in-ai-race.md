@@ -71,6 +71,20 @@ related:
         width: 1222
         height: 687
         isCached: true
+  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
+    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems which filter spam emails and identify toxic content on social media,"
+    publishedDateTime: 2022-04-17T19:29:00Z
+    webUrl: "https://www.dailyexcelsior.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 27
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/04/3-35.jpg"
+        width: 1200
+        height: 887
+        isCached: true
 
 secured: "Q1Y9TFFNnqhUb8ONmB+KpJTauHuRc/3QHr26Vm4NN/dqdjxNU/ujLtW7gWqFAd3oipD1MMToVUVA1A9OAsuVn07YWaN3tJrdRGBD3rOrX+Khu3E2tB0WcFkIyrNfLPlIuKofO4dmL5qBEQpPWj7x1PtOAeIYJnDU9R+5w3QHrsklmPgdhsfFIJpF7/DNvAM+bXvtn3Rcb//nE0UfhDwcxrBA9UHaPP/VA749KMKsqylfvduTl0iAmQnYx2nwT+qWAonu2RvfafFDY7tc5lsFj+82Ahf21EJB5LKqgA83kg+6LRIRxkTRzPdX6L3WCMAykjwuJ5TfKb4ak/UNaSns31NcbFVhxfDBe9z2FHhBk04=;LVJfvDTpFykdUr6IXl7GDg=="
 ---

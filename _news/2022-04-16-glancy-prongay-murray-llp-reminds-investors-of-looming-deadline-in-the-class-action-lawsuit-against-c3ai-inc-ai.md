@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26653011"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26653011"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPCOMING AI DEADLINE: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit"
+    excerpt: "Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3."
+    publishedDateTime: 2022-04-17T00:12:00Z
+    webUrl: "https://www.barrons.com/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
+    ampWebUrl: "https://www.barrons.com/amp/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 36
+    images:
+      - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Deadline in Securities Fraud Class Action Lawsuit"
     excerpt: "Vancouver Canada · V6E 4A6 // KISS PR Brand Story PressWire // The law firm of Kessler Topaz Meltzer & Check, LLP (  informs investors that a securities class action lawsuit has been filed against C3."
     publishedDateTime: 2022-04-17T00:19:00Z

@@ -3,8 +3,8 @@ category: news
 title: "A detector that can learn the fingerprint of light"
 excerpt: "Photodetectors are devices that can be used to characterize light waves in terms of But this measurement subsumes several wave properties into a"
 publishedDateTime: 2022-04-13T15:55:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00973-z"
-webUrl: "https://www.nature.com/articles/d41586-022-00973-z"
+originalUrl: "https://www.nature.com/articles/d41586-022-00973-z?code=30ef7a1a-8c8c-4ffa-955d-9b03386b746b&error=cookies_not_supported"
+webUrl: "https://www.nature.com/articles/d41586-022-00973-z?code=30ef7a1a-8c8c-4ffa-955d-9b03386b746b&error=cookies_not_supported"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "vnji5JRr6uqsEkjrdrjz1qmzJ1wPXw9oiyL3V/V1REdGyfgjekguLSOXdgd04xjZ+Hi6HajFX45Ij1A1JiHInSMKlpbAYu79wAgutuy+Y0ZOXSNNNR5fRQmYQ0McvzyIQgjahKPLl+6qPK1oc6qNUdyW4JCrTIK3svEeGV4Z65bi6wpvSskypSMk6xUTtJc0zUEyg3nf3xS28fl2RyJowZRmINAU3eKKN4fHG38MVlasNsJjv3BqX9hB0xelwlezBkr6DDtNuwvTIqG6SrXEW6ABQ6/ym0v5rS1d7uNhiDGqTunR/CAHIqR6dJ9OoaSrq+FphpD2OiW056N5XEJh04pxU48os7zKo57ChRRa6/ExSaG+DLspkMfyBW4N87ATj4ChVipaUCmjCJsYq6iEXuFbipO/xQU2YIYy7P5/8y/6DAWVWbD6Q8PGRIAxz2d5+Q6515mHFHiLM0qq1PX3fgz4OIMarfcZ77tS6VFJ8ia0GuTMg+jc2woz5wjR8ckpMixCa1N9CnM+XQHXKvp8Rw==;vMNolBDTcZRWVZA5Ztj83w=="
+secured: "ad32pXMPtSeLB93rcZngKWXTihvFtjDJHT45WF+JRYUpzfvpNC+Aex2DCo3BRvkbtECTvnbzQdN4phS92WROqyv947OsexcMhhQJ6LzBQkRxPsBENW14PlSlveIALX0R6iO7CmPcL6XC0/OKXT2AuD87ChWc/XcO5D47CZONtdXW0WMz2p5qPAAZEKyE5T0Pjd0namVDNDkqfO7AbzgDai3ylZmxnfbuFAan+5G9Fox19HuQSvXXDnreBp4niKjDyRNhhR5SWL2RxEHcSotTHiVj5/B8DutRfhSRPRpsx4RVUzEiLX4MitfaMXWbth1Qm9+urbOkxBzzsfyaSOmjQivTsYgHCHEIvmknSiPzfEA=;fMIxyS1wiw+wkANjhOS5bg=="
 ---
 

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPCOMING AI DEADLINE: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit"
+    excerpt: "Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3."
+    publishedDateTime: 2022-04-17T00:12:00Z
+    webUrl: "https://www.barrons.com/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
+    ampWebUrl: "https://www.barrons.com/amp/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 36
+    images:
+      - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
     excerpt: "Glancy Prongay & Murray LLP (\"GPM\") reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of"
     publishedDateTime: 2022-04-15T17:00:00Z

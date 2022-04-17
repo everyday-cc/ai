@@ -113,15 +113,15 @@ related:
     quality: 39
   - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
     excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
-    publishedDateTime: 2022-04-15T02:40:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+    publishedDateTime: 2022-04-14T21:40:00Z
+    webUrl: "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 29
+      name: KTVZ
+      domain: ktvz.com
+    quality: 31
     images:
-      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
+      - url: "https://ktvz.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
         width: 2500
         height: 1663
         isCached: true
@@ -135,13 +135,13 @@ related:
       domain: 10tv.com
     quality: 17
   - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security."
-    publishedDateTime: 2022-04-15T13:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cyberlink-announces-integration-its-facemereg-security-facial-recognition-/2022/04/15/9583817.htm"
+    excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
+    publishedDateTime: 2022-04-15T13:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 15
 
 secured: "MNUFBsQrf2g6JiArCeDTQRfYTuqHR+cc2Y9msIdjKqpVTN4Q0F55o1VZ/96S/c14F85I32cr0ji7x8yikMB+JbdzqhVfdwd6rlLqj9g5w7bnli2TjkVIBtrCGd+WFtwJhK6HWyj1Tamiiqvbp3zFK64DHLZ1+G6mwOeqzsAdRYpt2wF8aAE64thd4u6plfKueAdbV13KtCyG0sy8G72Z1v0yuN71HU8g81wZx58oLiwReC77E7V5vhJ0iGiYEJ4BArkm8mux5O4j/40pmeJvsoWbzKV9l5U73yhp0R5I7vTPcvdWp/OBDyrSyL6BFMVvPya/4IaL67vOsRku0W4ymuBdbOZ6wxAvnLdYfMUO8kRmmIAkUGOm79JeqvoYUkfYcmm8nb4Qpz6dSphtIzS6dHK6FT9OOVLzW/zx6dPnCiZ62UrdB2q5S/ER73fQO/xeERwMMSPerLVhHpFIIkXVNZTtYO/jJZyAM0VSOJs6zuLNMMGPq8vWe2T1WCcFnmFyP/9qyqkBiNL90hflg6mqEw==;hHVD0w15ffgbfDLsShjPTw=="

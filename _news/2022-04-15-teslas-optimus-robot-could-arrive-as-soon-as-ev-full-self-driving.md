@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26644087"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087"
 type: article
 quality: 76
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Tesla’s Self-Driving Taxi Does Nothing for TSLA Stock"
-    excerpt: "Elon Musk made several announcements recently while launching Tesla’s (NASDAQ:TSLA) gigafactory in Austin, Texas. One of the company’s commitments was to making a “dedicated” self-driving taxi in the future."
-    publishedDateTime: 2022-04-13T03:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/teslas-self-driving-taxi-does-nothing-for-tsla-stock"
-    ampWebUrl: "https://www.nasdaq.com/articles/teslas-self-driving-taxi-does-nothing-for-tsla-stock?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-self-driving-taxi-does-nothing-for-tsla-stock?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "r9zh2tvX9iWK0ajw1GfdBVi9noM1ni9DqlSjYvUz40pie1tF/RNGIyBu/jkoUjtrHBPnCZHmdhgTAbq2uxOzR72xYbjz6kKVgbUiXl7Gg/kh1Jlhx+qsq0BYQSXPBoUCnWFiQ3zIi7QqTXhXyj7zN44xJSlwsQpK2xC/M6KB7lPJMQrZAcpW8TvSdh/9NGDG62x73hfiA6YZMJq/WriRPl5RcdwQcw/ncrP/pwelAZj7f7mNf9tMBetAUlJJFk87XCS3v2g4oXH/hMntm56JB6Wy+PbawPX3sPqj/rTik798c+CBWFsqA22Bu3nrX3MTJSmQylOAXSDMO9tJ6khbuoNzF5oPFn8HWpCPDqKdsZ4=;gV/3dVna/eot/0oudklwiw=="
 ---
