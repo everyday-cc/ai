@@ -3,14 +3,9 @@ category: news
 title: "Dell, Nvidia, AMD to power new Ohio AI compute cluster"
 excerpt: "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator"
 publishedDateTime: 2022-04-13T13:30:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
-ampWebUrl: "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
-cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/"
+originalUrl: "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
+webUrl: "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: theregister
@@ -20,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "b4E9rSto42+TLxx4DXFioJxP2Vp1GIi2wP5CezcMTAvGa1pfI7aQZfnoiyDKcFXhNjXrvmuGx/iFaBfFq8DH9s8jcnKBMese7qXy1E/i67FcJFUeKyBkzvcsTJbSphePUizXLrvLIOD0HTemA5oT7k0tiQqHei1FoEua/FKM2S/SP2qTCebjjcqqNRSOmOmAgSsGp0/cg1TCrUNtbSUlKAG/KRh5gNrTjX8APWTbZrZpttG9gwp3h2GLuOPSffkPv0MiW/7bpCIMzoCLxTBDRhU2JkLAbFN9dv554FPhCN5JhqHA11VktHNuN22NIOfyMqGM1brFguh54K0iJoAUcGBg99Q21mQSNCE43DsPQxs=;R1XLUnVDbtYKg6eF56Bqaw=="
+secured: "qpi4tJTrCQGuxWfvK/ybXCLgFxQkNQZmsABlPUO40GaSJlaC2uZVRv2yEM194RyRskAw8cMT6EE/1t0mRgXZOmMVdOdNYQwqvzsDZXw45yhB/oVBcasY6Qxd6y4/Sfd7qLXFLVIwNu5qxVnxz4fyEeNVuniMAMvhVtEDrTcbLuiSPlpT+g4BylM4kgSwjY3vgsKQppR/WfbIUfEpOXlhy+2sZYOcn2+6YFSC37vll8EZBN7uZL1Bk1fpx/j6LlfTksvHJ2eENiDAeCVc5/atHuFxiB7CoJXPPUJCbC2M7afDXr860D2Y1ywSHmSyK+qpxbEBCJyykb3nh3RqnMuWW8iF15A6beFQ7nlelbCtOgrbSvS0rfy4y/foU6Fbh/G7s8Y9I6TL2W31YAbjFBOX6+MP1J0hInwbkU12VKa9vXLUoxV8ERfOQ0R9FCVNeH9krGBHs6cdcmWOOeBHJwfPFZQ9phCbxFSKd1Y3LG7kYoDJymfJ7XsI+oJ+JlfsujxsuKKhNKdgUlFHELNPZ4pjCg==;o9wLbsQ/3gTd37g1XvKWnQ=="
 ---
 

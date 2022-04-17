@@ -2,25 +2,19 @@
 category: news
 title: "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands"
 excerpt: "In a bid to enhance digital experiences for B2C Brands, customer engagement and Communications Platform as a service (CPaaS) company Netcore Cloud on Tuesday announced a multi-year pact with Amazon Web Services (AWS) for its cloud service offerings."
-publishedDateTime: 2022-04-05T07:41:00Z
-originalUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
-webUrl: "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands&source=22"
+publishedDateTime: 2022-04-05T08:11:00Z
+originalUrl: "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands"
+webUrl: "https://www.freepressjournal.in/business/netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "c3f5BPZ5BcAJghan3P3A8VBhRn9VuNQx9jPqPy7wR7CFyCYDvNUWbY5bVNm6gjmBO/YGB6gPbsOgGOx3/C0LWHtcF5PZdEzfjK3SCjn2pjRXiXKhmvzhroRxN5qhhkvUGJJnJuC9gwyikfe0RhvLmXFePo1NwydBRIUzuZEebgnTrzizpH6QIt5sojfRPoKo6RrXgJi94zhLtlgpjboN9S4i/tNLvOD3ez7HY9dsTDO0BNZU5skUVkYOZeBV+N9rFU20RxkPhPGW5Ys77PLFl466pIBBle6sPAmVNgPqRRsKhp38WHsasIqTarModtVH8G6XLiNmHsHkoZmNudJjsDnEOPKvoyWWWKUNmHygxv61mxDWNguAYB5SxRolTIH8x/DqTtzBKaR328myk+zvGXW9HU8GkpAWq3RJ+Qw/C9nYPHHGmfdg0DgyBegV5avxxJWxk98J39k97R7/IpYyfIkNLWyZ/WXUf7OJVZDnu+8hDCALBLPYuKeC4BY6Nuu5yDrV0pTFq+vgTf1skMKTnQ==;33wrjT4pGJtIjpcT/dTHVw=="
+secured: "YSlNBQwkwUTfsM1SrgrX3o9Nd5na4z2EYyAoZG5BmS5+67jxYjXIuLsY20Ea8eKleq8zuJ6gZkdsPFiotIkifjynu21Ew+aspmy3wWYULNpPj1U0CTK/w1E70I9oXrqPoPuVm5+yUSOzk0hVDZCG56ap4tvbmNovejNkrZbb3xuTZLY/AWfZ9zg/X+Qm0jmFx4dIruk8jN78SvfsVbCfYn/SBCHu76A0yZQvZsC4+afDcvAOzp18qrgu67UTGkApb+r7nwEKs3x4/HOjPBQFfkzjlxPCWlYIdIiNlx4AC8RpIJrk4+0vwOFxNidu0qfNqYMA70iZ39zsOfHmhrp7r+665tR+VuwCuIsFEJPF3uj5MIFV2619C6+n/nj5BXIrhV8sFg1kATWpWVuZAmxLRDOvoZbSCW4ADX/OqjxhB05lQGjuyeUJ2BZJEMAs7CjitbMneWrdLJkjPO0hj+RvIaoABvQJnN5ATVTz8p7dwWZtnh2AJQ47qBIfcUZl4c7kStqcEtg4p7wV+FNn1xdYfw==;fuGtvaQ5ktnTL/yPl4gfFQ=="
 ---
 

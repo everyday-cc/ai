@@ -1,40 +1,20 @@
 ---
 category: news
 title: "Six Nines Announces Support for AWS for Games"
-excerpt: "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through"
-publishedDateTime: 2022-04-13T17:33:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html"
+excerpt: "AWS for Games is an initiative featuring ... development operations (DevOps), high performance computing (HPC), and artificial intelligence & machine learning (AI/ML). Gaming is a specific ..."
+publishedDateTime: 2022-04-13T18:24:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220413SF22045/six-nines-announces-support-for-aws-for-games/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/87/2870dd26-607e-54a3-8cc4-c474e45ba8f4/625709700b403.image.jpg?crop=762%2C400%2C329%2C0&resize=762%2C400&order=crop%2Cresize"
-    width: 762
-    height: 400
-    isCached: true
-
-related:
-  - title: "Amazon announces New AWS Local Zone Cloud Infrastructure in Kenya"
-    excerpt: "The new AWS Local Zone in Kenya is a continuation of our investment to support customers of all kinds and our commitment to accelerate innovation by bringing cloud infrastructu"
-    publishedDateTime: 2022-04-13T19:21:00Z
-    webUrl: "https://www.kbc.co.ke/amazon-new-aws-local-zone-cloud-infrastructure-kenya/"
-    type: article
-    provider:
-      name: Kenya Broadcasting Corporation
-      domain: kbc.co.ke
-    quality: 19
-
-secured: "wW5BMS/f99vmnQDzFrY/fjD9K8Ffb/IOnnNLeLtkQjVq/eIp8lKj5nvYyOSMZlnN7DgUaNkqc5XgJ/1dDElFmzgWKls1XIQgk+lyuvp0IXuu6UIt+tHtXr2MPviCpbJwoudB+zzDWIJZWrjGOdTt8Y98aQK+zeh+kWAGLW2S8ALBHhT4jq7VzN4kTgJiF4kzuuPR9KKvXY8cru8W5JF6/LXs5BGMs7sE4WUvN77TJ/HhHKisUCzQCiSWvNG+8F2NhBjpV8oMzIeiUuWQo6lV8uEqe0yfM8vNH8lR4y0k4YnsezVjDY/GQcIza7lW1R4RLSuDZlBzaBydQ2ZCAwTuH+DK0wI52ahF0DJ4y1ndTi4Rg7xttl/qtUoI7TXds7TUlCjURhONyTkZPHFzSjhVL/P1ZihVEsn99EyFfDM8vQmz+VM8HVtmsG8vKkF9Nt5E7zdGQ/YyDV7TUQKCTZ6RUE7HmZzf8OVTt+FgOOr0V+ajLisM8JkYtLptEM7JJrJWPNIhPOk7LUyfJfFyZUU+6w==;dAfZKl/Cr9tKOApAUqBXmw=="
+secured: "1rnS5yfXM/Kd5PxMqHjUxYDhtVhhQPeuTUQIb9BK3oqCdk+68P8kGKTbnDsiYWW+LmYsRCZPW36U7NXR5ZFdi4HdqyePBy6oxo0XohBgjBUC/QODHNgLGII+RIO6xREp1O+1i3gA07xuFVxjEXkm/5Ux2STsgUG5uez3Qnkc77lHwVq3aR4aOlcmwY979ukeWDchD+k0mhFLcAyb+B4qgltznkIa/IU5oCiQmj6MPG6Aj3y8QyzR6tldahqw6/95mPTOv6vxKpqyVPN7ZsKja9iunRnM97KAenVE8nfQwGhu/b8GPgWvHsORe2qqyCX2MngIONcmnNZluxqq0RbBmGJC/2La6BD1A78jrzcPMiI=;rLqjl2jkWM8AQFUi2hVB2g=="
 ---
 
