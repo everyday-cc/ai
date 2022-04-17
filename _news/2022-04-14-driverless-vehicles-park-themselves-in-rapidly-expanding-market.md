@@ -57,17 +57,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
-    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
-    publishedDateTime: 2022-04-12T23:17:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 31
   - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
     excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
     publishedDateTime: 2022-04-13T12:00:00Z
@@ -78,6 +67,6 @@ related:
       domain: forbes.com
     quality: 31
 
-secured: "9gdRA2I4xG3M6oaeaCSVCXRh56gsbmAH5y/qjVbRcm47paE3JTSw7cLLh4ni5mwPEtIMPkjf4hNdYaQeAHIv4hCNEqpACJgK0ODEC/nvXBe5OYiqdH0rfIo8MTBY5oyTiTxG/p+eRN1mWMNWrLEfVDxuNnc+lR5Ci6X7t0KC7Jm8kK0gD7Gkod9FDIdja5otxa1ZG1fWl8TKw7hm3aNwZdBGxZa7Eyp56WII2bFbykwApnNmXCwnWS6D4tiYMGmEFuZNlQdX2XLnntDmTohagxDl6FlBh587vEOlOY8MinFr4lVyuDF9rTbkqZPulXsgtYC02VA/S8KznyB2Sjk7xONz42x2YkWhfipDPu9K19g=;CwIfsSFrnFi++DUhVRkdIw=="
+secured: "k+SLTRdqDbp466Vm0R54PxX3/BQOKCgMT3j6b9yqxAKrreBUA1Uzf/hjOc2r3D2gaf8EDQGgqo5IXKiR3fB2EmIvV0LrGt8Y4U6ilpy0Oree8NUqx/JRKMIjapmphdxVZeHk4CmyPIQdBQkDMhKj1M2E6OAeExGCyvRSdgtSSwMmbRXAS+9txxSBqDz2bxjkw+qR98GgNKWs1KTN7eGjlLcQnc9/Sbn+6SzeCJr/awUZ+KB/MdRwycJXk5ZxBrd3uJDIDOY5r2ZNp1vCI0mDN166DgVd5FCUNFyOXaFpi2cfOqMto7vO+GUHRf2q8bXQco4TxUiBXToecIFYwCBRlDiUJ+CRlX8kyMRLBWDEH60=;u4XO3CQCEOiPO+lLTjHxTQ=="
 ---
 

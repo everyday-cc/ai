@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine-learning approach predicts development of conduct disorder with high accuracy"
-    excerpt: "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy. The study appears in Biological Psychiatry: Cognitive Neuroscience ..."
-    publishedDateTime: 2022-04-12T23:27:00Z
-    webUrl: "https://www.news-medical.net/news/20220412/Machine-learning-approach-predicts-development-of-conduct-disorder-with-high-accuracy.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220412/Machine-learning-approach-predicts-development-of-conduct-disorder-with-high-accuracy.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220412/Machine-learning-approach-predicts-development-of-conduct-disorder-with-high-accuracy.aspx"
+  - title: "Machine-learning approach might predict risk factors of conduct disorder in kids: Study"
+    excerpt: "Cognitive Neuroscience and Neuroimaging' stated that machine learning can assess risk factors and predict the later development of conduct disorder (CD) in children with high accuracy.  Conduct Disorder is considered a serious behavioural and emotional disorder that can occur in children and teens."
+    publishedDateTime: 2022-04-17T14:08:00Z
+    webUrl: "https://www.wionews.com/science/machine-learning-approach-might-predict-risk-factors-of-conduct-disorder-in-kids-study-471724"
+    ampWebUrl: "https://www.wionews.com/science/machine-learning-approach-might-predict-risk-factors-of-conduct-disorder-in-kids-study-471724/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/machine-learning-approach-might-predict-risk-factors-of-conduct-disorder-in-kids-study-471724/amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
+      name: WION
+      domain: wionews.com
+    quality: 36
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/FMRI_scan_during_working_memory_tasks-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/04/17/255348-risk-factors-of-conduct-disorder-in-kids.jpg"
+        width: 918
+        height: 506
         isCached: true
   - title: "Scientists use machine-learning approach to predict risk factors of conduct disorder in kids"
     excerpt: "New Haven (Connecticut) [US], April 17 (ANI): According to a new study, a machine learning approach can assess risk factors and predict the later development of conduct disorder (CD) in children with high accuracy. The study was published in the journal ..."

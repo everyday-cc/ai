@@ -69,17 +69,6 @@ related:
         width: 718
         height: 478
         isCached: true
-  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
-    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
-    publishedDateTime: 2022-04-12T23:17:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 31
 
 secured: "droAg/uXM3GIhBnxSQHpL92Efsg9nj5YWkn6EdZI6DPnZjgrWJtbr7j4g2YO9pHgEyPtGOmIuAjoGrglXQRpHxnW/a7UymS303Ii6/RYHlhz0Qwutd2D6uLg/+M9lbOEUbityKCoIOFnhLW3FqmARTsRCP5JMywemv3qJbiHY7ig7U1vrQnDjA//gYOPO5V5c5PFt9Z3XN/ugJHHiNyg8N7N1lkV/yn+JdWqtbccH08r4K/4Vbvy1ayAMs1doVxrRNvnI6TLY3hhRnLokiY8rOAbkmqCzcTBys8kuTTFfnP38bJ6EouH0XNjC32hN7vC4owuK39ZHctKGxG0FnArqaTY1zYNuAh74IptOEBe62y1FtGbUuiQ+9WG+Q/iTPqC5/6NNQVgJwBoI7Cg0GIqPuj+rdeapw9Kf18uTCKgPhnei5IQD/iYNR1siFUOM83XCpTJvuYs5WOy1t7wCSGydhh+MfKDI2ocUN5XkoNxFgJtSqop/cb7U3KuLO2uBUJUdU5KkSasOPeDnaS/cLT6pg==;uT2mxBrRNq6pIuxGOVnfIw=="
 ---

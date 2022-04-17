@@ -2,26 +2,26 @@
 category: news
 title: "Emza’s Ultra-Low-Power WiseEye™ Solution Powers Vision AI Features in Dell’s New Laptops"
 excerpt: "Emza’s unique and powerful computer vision and ML algorithms. A Tiny AI system on chip (SoC) that consumes an order of magnitude less power than its nearest competitor, designed by Himax."
-publishedDateTime: 2022-04-14T09:00:00Z
-originalUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
-webUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
+publishedDateTime: 2022-04-14T10:59:00Z
+originalUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
+webUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: WGN-TV
+  domain: wgntv.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
+  - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/44.43.png?w=2000&#038;ssl=1"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: stockhouse.com
     quality: 9
 
-secured: "bj5kA1yKJjrp+vgNuL7GcIxYL19Ek4uWY8otMwsH88IVHVC109oOrUz7S1PfrJceBdaKXMscDf2osdh0wgILT7lkF118JcQqZG3O9fug8urV3qQ/JJsJ8pfMWXDimr/lWcqQ8fe3bYZl+1wPPPQ3hJFr8tqkkYxyuskZW8fn8d46FThovYZxGQzzraxZjYHOsbwYXqdD+/747jxTu0AQV7O+aBXSbmY2ug06M4QxAhUcWK4oI7B8vzE6JEn76uDdX1NyM9vFvgP8A6wjA8Y0w7dbHAI8ESgCiCv+9jrymi6iXTH8ijA3HJTTwbDnpbV65g7c6SEJdOO4WghL6NhQ4H1YFE7dM9cNmgaEL/DxIa0=;oDaE5BeBL65OMMDeP5t/JA=="
+secured: "ZkotFVOQLGFonPTohgRjk/hcJk1RxAPO+zxhyK0obpjIPVg2jCR5tAvKKQFAgXHEpcWj0EP6pomMljo1aeml5jAaCU+nemyXYF8aXaXQAHohrVcg83/JshGQUiGSQOKHceLOk77dcMEYz9wXt6Z8FDqOmtiWzl+oPSRMXUBZAk4Vd1cgo9lUUnk91x+TDQNEJ0ROZQ8ycmeI4lnOwsnHgrrAdXwQdaono4IruMYh3Ko8c5tmDz2D8fCOrSiU3knNCUl2QgPRW4fWCcvR2gw8inXtd5KKtkDzmHZnQAritddOHcb5EwB9q1OfdUGFwq0LRqPh4vwrYzXpY4+nu66HmnlEj2BU1fJLZi2nAUWtYRI=;Eac2xSzclw9769eM+NplBA=="
 ---
 

@@ -60,20 +60,20 @@ related:
         height: 641
         isCached: true
   - title: "House panels probe gov't use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-14T18:11:00Z
-    webUrl: "https://www.chron.com/news/article/House-panels-probe-gov-t-use-of-facial-17081354.php"
-    ampWebUrl: "https://www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-panels-probe-gov-t-use-of-facial-17081354.php"
+    excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
+    publishedDateTime: 2022-04-14T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/25/15/05/22335818/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "House committees launch probe into feds’ use of facial recognition software"
     excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
@@ -102,20 +102,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
-    excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
-    publishedDateTime: 2022-04-15T13:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 35
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/6e/e6e919ea-286e-56cd-882b-c3706ef94e36/6259711bd1e21.image.jpg?crop=960%2C504%2C0%2C25&resize=960%2C504&order=crop%2Cresize"
-        width: 960
-        height: 504
-        isCached: true
   - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
     excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
     publishedDateTime: 2022-04-15T02:40:00Z
@@ -148,6 +134,15 @@ related:
       name: 10TV.com
       domain: 10tv.com
     quality: 17
+  - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security."
+    publishedDateTime: 2022-04-15T13:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cyberlink-announces-integration-its-facemereg-security-facial-recognition-/2022/04/15/9583817.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "dMRXfHPciRd/y65TT3i4ns/LBbBhRboghQGGlLYnSm50MhgYr3nzRRqFoUEUxNkxYjeBjjlic+XAeu1qpc4/4S5NBJFCrJ3N/p0AJhUWAoaOhilwMLD+a6jMU/olwTLcJ0qF0rsjx1bRh/q6ottIhdr/qy6T3hGr7iy1uK68asHTJr7+BuQ7O34r8gUhpuAwdA69V6mAMOCBDzFYLfbt/fptUts3OBUy1X+KfN64HzWB7g4T3r6sKCANutmqxGnvk4gzw1P1Dxfln309Ytvl4uqcs0JjZKiR2+skQ199PkOHUzyGunkMu3MtxUMD2dH7kDr7pd2wfXqnciKsJfzJuZxaz6lV2qdRmSFCSnsHqbO8YG1BH7hLb9OPKTB+IEwdUQBBoECkt0PaYCexc4Zkzu49m08tsynCFELCeeGF7EYGNCA+deasNphR76gjxu0OSz8i1Hq0r8kaaYOl0OelecfVZBzVBR1cYQXUu2U8ya+nQTioDDL2YuE1L6n/YIcl40HfY90Fu0wB/wpHF+iAlw==;nvQCWmmGPALUubitbe5soA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/driverless-car-
 cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 718
         height: 478
         isCached: true
-  - title: "Driverless car is pulled over by cops, but then it drives away, California video shows"
-    excerpt: "A self-driving Cruise car was pulled over in San Francisco on April 1, 2022. Then it drove away from police before yielding to them. Screengrab from Instagram A driverless car was stopped by ..."
-    publishedDateTime: 2022-04-12T23:17:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article260361345.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article260361345.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 31
   - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
     excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
     publishedDateTime: 2022-04-13T12:00:00Z
