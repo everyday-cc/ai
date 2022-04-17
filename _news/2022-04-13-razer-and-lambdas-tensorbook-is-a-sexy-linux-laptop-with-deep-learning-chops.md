@@ -66,20 +66,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
-  - title: "Lambda and Razer’s Tensorbook is a souped-up laptop for Deep Learning"
-    excerpt: "Of course, if you don’t need to be able to run deep learning and AI software locally on your laptop, developers can also pay for Lambda’s cloud services which included virtual machines with ..."
-    publishedDateTime: 2022-04-12T14:45:00Z
-    webUrl: "https://liliputing.com/2022/04/lambda-and-razers-tensorbook-is-a-souped-up-laptop-for-deep-leaning.html"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 39
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2022/04/tensorbook_03.jpg"
-        width: 720
-        height: 800
-        isCached: true
   - title: "Lambda, Razer launch laptop for deep-learning app development"
     excerpt: "The new Razer x Lambda Tensorbook provides developers with high-end computing performance for creating, training and testing deep-learning models locally."
     publishedDateTime: 2022-04-13T12:43:00Z
@@ -89,20 +75,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
-    excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software."
-    publishedDateTime: 2022-04-12T13:02:00Z
-    webUrl: "https://www.eagletribune.com/region/lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop-for-deep/article_f5342306-cae7-5b77-a4f1-3cb7acd880bd.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 31
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/12/a12ba7c4-1970-59e1-954e-5533f690ffa8/62557f7861d95.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
     excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software. The sleek laptop, coupled ..."
     publishedDateTime: 2022-04-12T19:29:00Z

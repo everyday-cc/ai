@@ -2,27 +2,26 @@
 category: news
 title: "Emza’s Ultra-Low-Power WiseEye™ Solution Powers Vision AI Features in Dell’s New Laptops"
 excerpt: "Emza’s unique and powerful computer vision and ML algorithms. A Tiny AI system on chip (SoC) that consumes an order of magnitude less power than its nearest competitor, designed by Himax."
-publishedDateTime: 2022-04-14T09:00:00Z
-originalUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
-webUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
+publishedDateTime: 2022-04-14T10:59:00Z
+originalUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
+webUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: WGN-TV
+  domain: wgntv.com
 
 topics:
-  - Computer Vision
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
+  - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/Bloct-wea-0417-feature.jpg?w=2000&#038;ssl=1"
+    width: 1850
+    height: 1129
     isCached: true
 
 related:
@@ -45,6 +44,6 @@ related:
       domain: stockhouse.com
     quality: 9
 
-secured: "fUFNlM57hq+31t6Fga0wbCds95MRqRkBcGv1jondyRPWonXseuiYerQHGxdPChEvyQAUaLOIorL886B3VQzdcUxNeGKFcdg7Xpo5SK47VZmorIyaBCK59bGoh7sfOeccJBH1gW353ifG+4NUs1lDTPmsod1tAR+VkuVneiSGM1Dheu64nOUv6CC0ngzwAge9ytNEXiyq7gdbnNhdTko8KcTcn0/fuumWz0E3USv7D16zhB/vDgIJKGHR7k5Q9ztBVDuZsx3DKGrbOMZIkFfBQTtyRrx1UEyAf2ZIjJ0PNPcniYUIjhkI68jzoWZImB/pvwM4bwJrL9UZbVntxaUSEgU1VFMKCbSoCeA+Qfy1T4M=;gys83XGKWKSI/YU9smqi8A=="
+secured: "VUC+Lyu4ib1wpNIqagwwoMzWgaMgjpjowwNcuZ2MOZhdaO5/Se0uCZyE5+NjqxuvBh38VWWZWELPVvUUo+iDrM3M16IEEB6fptRdmHSG9JGXpGCLmaQBJN0rhmoUg+Ba6ujiugSRMekFR9WOGTlnLMebgqzwAdEcA96yha1HY+7laATZXUbNtbRquw74gfAtWqsNVA/ULEgRj/IEKGNV1iicEmF+Kx7CcgrKh4W9PQkYDRG3VOpWLX08lhbkZ/WsJ5Ikn2Auq5W9BvBTIegdoHsytk2W8bOIj/JWi8wMPf0gwHSa/CVUi8U+ZMvfwuG7J3tV/IZH2RytcL3RGIGhYYa6UAI7VfIQX7whLApCyCY=;iCB1+fYx9fWCLFWLF9xe+w=="
 ---
 

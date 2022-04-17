@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-04-conquer-mars-rovers-superseded-swarms.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-conquer-mars-rovers-superseded-swarms.amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2880
     height: 1620
     isCached: true
-
-related:
-  - title: "Divide and conquer: Mars rovers to be superseded by swarms of two-wheeled robots"
-    excerpt: "“That said, two-wheeled robot technology has come a long way toward making those things more stable than they used to be, so even that is somewhat less of an issue now.” The scientist continued: “Artificial intelligence technologies supervising the ..."
-    publishedDateTime: 2022-04-12T14:36:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949524"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ffb3272-379d-4589-a1a3-a0255b9382c9/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "2tj+xYDOTIvcrF4SASCjARSYASsR2v8CDJcBInepq/87jACWWDEgvYbtGar8GXSopEeJ5BtGlOopLb08XXJKd7qbwsB5kk8n+wNxfKJE2SHJtQYlmAXbc+gvhDFhAeSi2lms8f/jGGj6xYBF/oITbnvP/yxgWa8QOZOtHrKpDpiKKroza1P3QFZpNb3WYVDsDjb6arjopE3tpHNv/l6A+9WktY2geokMQ9r2krB791S+bsWr0NcLK5EXb3gkg4wx/tdeNyP3VTVBQTebMFT2lk+nW2fCJwRQdUfbA7Vs3h1AwT/pzKgVLJ4+/yRpJlGgX56/LuwEpejuMMTJenA6suNQCJvdD5PPCx9XUWHM+oPk6QGMYUzPpUWfvab53ov5IyuSMnHeCYdjH01nrp2+TwswEhy/eXGLfPxIUAsS/LNHrHLapmFpiyREPCUGFrOs03P1/spWuZaYUliRYCLXOPCMfeuZHq3+8vT+61RlD4qrK1OnzX5+/m6m/ZMLOK0A76t/sgJncvYR95/gRVOfPw==;YFRP31RcTnXGUmw5cmLS0A=="
 ---

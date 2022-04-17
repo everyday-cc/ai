@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning predicts conduct disorder in kids"
-    excerpt: "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy."
-    publishedDateTime: 2022-04-12T14:39:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-machine-disorder-kids.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-disorder-kids.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/rowdy-children.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Machine-learning approach predicts development of conduct disorder with high accuracy"
     excerpt: "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy. The study appears in Biological Psychiatry: Cognitive Neuroscience ..."
     publishedDateTime: 2022-04-12T23:27:00Z
@@ -57,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Scientists use machine-learning approach to predict risk factors of conduct disorder in kids"
+    excerpt: "According to a new study, a machine learning approach can assess risk factors and predict the later development of conduct disorder (CD) in children with high accuracy. The study was published in the journal,"
+    publishedDateTime: 2022-04-17T07:53:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220417/3932156.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "Mhesm4F+V9vRwR0QBK+l6BeixhLnzCzhp6g/ADqcd8VjdmhQCjUwgoFsVXiEsiwnCy4TU5SHwQGIucACYZk3BQcFBpkSdjCZ2UbdGdJGiSWja7Wle6TUtD5Er61Ga7319qxqlkoYUZmbjt4v5Kmx1z4OugxwIQ79PTLXfEJ/wqlWZz6bIEviL0CLi+Cl6ILoqWQXMYMFjzKTuFGPUqxKZHtwH/PWMes3g6vFapmA5WGb43tGG4cJgRWThuXzZGuA2Wb9sLIZHVqQLN4Gb/s7HMdqyE2DF2FbHR5XWPeSHOrRqE7YWWjt1BICHJDlarfgoe8T9WU/T35SmcQYUz7S6zBJBvJ1iQ4dU0QqllaB+z4=;OVS2tIVbf8tHxzrGVsDWEg=="
 ---

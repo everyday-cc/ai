@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104005939/How-the-election-could-affect-the-fu
 webUrl: "https://menafn.com/1104005939/How-the-election-could-affect-the-future-of-a-First-Nations-Voice-to-Parliament"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1288
     height: 849
     isCached: true
-
-related:
-  - title: "Parliament must be able to have the final say on voice"
-    excerpt: "The dividing line between yes and no answers is the dividing line between an acceptable, sensible constitutional recognition of Indigenous people and a radical and indefensible attempt to remake our Constitution on racially divided lines. While the voice ..."
-    publishedDateTime: 2022-04-12T14:02:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/parliament-must-be-able-to-have-the-final-say-on-voice/news-story/85794f14f53bd8def20bd47cf920f293"
-    ampWebUrl: "https://amp.theaustralian.com.au/commentary/parliament-must-be-able-to-have-the-final-say-on-voice/news-story/85794f14f53bd8def20bd47cf920f293"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/parliament-must-be-able-to-have-the-final-say-on-voice/news-story/85794f14f53bd8def20bd47cf920f293"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
 
 secured: "M/vRf+NClC6eO1GTn+xij/7Xn9nOaB7m06YEkclhKY3Rd3R8gY58ezk590I3UFAnNw9b6vOwPszkvFUQyejTo8YliAe7OE6tUo56S4dEgFOwopNnMg3PoS6LsfmGWgrRX4tmwOJJokIBcLpRlJ5dGOpCbGfbghOs1DEaB+NGLDR04x5t6okSCjp5S3LsTfKoQfAmAYJzWlZcKsVZCSHo8C8OwYgf4SIBtYjg6CyRGh5OlITKRXzo5D/Q/4h01fMGdI1OWZ1RLg0jWfRq8NJlrBiCEJNijyQKzJpIgoteTNQUTBLXg7roA+j/5+WyOPGwdn+hequ2xGMlgovoq0tO13nL6EvR6VmRfNHe67qeLwvkSN0m8Ad4vcA4oHd6j3wfHRtcTUth3MYs4N65LdXlORXGj9VHN0YH3rGCdsEgj5YMkXvN+DxhJ/Qm8DJVQl8Sj2xsIzGp7/mRTJJ4tcK5of6n5kFI4yBeupvBFe/QXhwHVdteMunuvoRXfgiid1L2KNb+rlIpJW+iYiBuWXdw9g==;BXnL8ibjbsUZaHhZXLfDKg=="
 ---

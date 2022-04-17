@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
-    excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
-    publishedDateTime: 2022-04-12T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AI and IoT analytics protect people and koalas"
     excerpt: "These sensors are powered by artificial intelligence (AI) and machine learning from SAS, the leader in analytics. Attentis has created the world's first integrated, high-speed sensor network throughout Australia's Latrobe Valley. Today, this network is the ..."
     publishedDateTime: 2022-04-12T20:39:00Z

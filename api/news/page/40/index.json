@@ -2,111 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2022-03-12-a-survey-of-ai-news-from-around-the-web.md",
-      "title": "A Survey of A.I. News from Around the Web",
-      "excerpt": "I wanted to present some curated links about A.I. in case you have an obsession like I do to follow some of the best related stories from around the Web. If you enjoy articles about A.I. at the intersection of breaking news join AiSupremacy here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
-      "originalUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH-_z21-2zajg/article-cover_image-shrink_600_2000/0/1647054721661?e=1653523200&v=beta&t=LzhFQen8sg0FC4Wgdi_XopZqwllrPOci3ZiO8hKZruE",
-          "width": 612,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-federated-learning-for-text-generation.md",
-      "title": "Federated Learning for Text Generation",
-      "excerpt": "This tutorial builds on the concepts in the Federated Learning for Image Classification tutorial, and demonstrates several other useful approaches for federated learning. In particular, we load a previously trained Keras model, and refine it using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hr-ba",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T17:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-12-researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.md",
       "title": "Researchers develop a system of synthetic biosensors to assess the response of cancer therapy",
       "excerpt": "Immune checkpoint blockade (ICB) inhibitors have transformed the treatment of cancer and have become the frontline therapy for a broad range of malignancies. It's because they work better than the previous standard of care.",
@@ -1122,6 +1017,101 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-brain-based-computing-chips-not-just-for-ai-anymore.md",
+      "title": "Brain-based computing chips not just for AI anymore",
+      "excerpt": "With the insertion of a little math, researchers have shown that neuromorphic computers, which synthetically replicate the brain's logic, can solve more complex problems than those posed by artificial intelligence and may even earn a place in high-performance computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310170837.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310170837.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-11-2022-will-be-the-year-of-applied-ai.md",
+      "title": "2022 Will Be The Year Of Applied AI",
+      "excerpt": "For decades, since the 1950s when the term “artificial intelligence” (AI) was allegedly first coined, the concept of a machine ... to financial forecasting to chatbots and customer service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/11/2022-will-be-the-year-of-applied-ai/amp/",
+      "publishedDateTime": "2022-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

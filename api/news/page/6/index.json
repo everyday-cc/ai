@@ -2,91 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-04-09-an-ai-model-can-help-predict-adverse-events-from-new-drug-combinations.md",
-      "title": "An AI model can help predict adverse events from new drug combinations",
-      "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave.md",
-      "title": "A newcomer to AI data labeling, Encord looks to ride a rising tidal wave",
-      "excerpt": "Aiming to generate labeled data sets for computer vision projects, Encord launched its own beta version of an AI-assisted labeling program called CordVision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
-      "originalUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Screenshot-2022-03-24-at-16.41.23-copy.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
-      "publishedDateTime": "2022-04-08T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-09-apply-to-pitch-your-startup-at-tc-sessions-mobility.md",
       "title": "Apply to pitch your startup at TC Sessions: Mobility",
       "excerpt": "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here.",
@@ -1216,6 +1131,101 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
+      "title": "Ukraine uses facial recognition software to spot Russian spies",
+      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "publishedDateTime": "2022-04-07T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become.md",
+      "title": "IBM And MLCommons Show How Pervasive Machine Learning Has Become",
+      "excerpt": "IBM announced its latest Z-series mainframe and MLCommons released its latest benchmark series. The two announcements had something in common – Machine Learning – which is becoming pervasive everywhere from financial fraud detection in mainframes to detecting wake words in appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624f9430713ac031f54ebda5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
+      "publishedDateTime": "2022-04-07T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

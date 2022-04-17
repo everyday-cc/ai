@@ -347,49 +347,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-12-ny-state-budget-allots-75m-for-ai-at-university-at-albany.md",
-      "title": "NY State Budget Allots $75M for AI at University at Albany",
-      "excerpt": "Next-generation chips and supercomputers are what's needed to power the AI revolution in which devices take the place of humans in gathering data and making decisions based on that data. \"Together with Albany AI, the proposed reunification of UAlbany and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/aa7c503/2147483647/strip/true/crop/1440x751+0+105/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9e%2F71%2F67a0aaf546c78384ec8f6ce8981d%2Funiversity-at-albany.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true",
-      "publishedDateTime": "2022-04-12T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-12-panera-will-test-an-ai-coffee-system-from-the-makers-of-the-flippy-burger-bot.md",
       "title": "Panera will test an AI coffee system from the makers of the Flippy burger bot",
       "excerpt": "Miso Robotics, the company that built a robot burger flipper in use at White Castle and a tortilla chip maker Chipotle is testing, has turned its attention to coffee. Its AI-powered CookRight Coffee system will monitor temperature,",
@@ -1403,6 +1360,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-opinion-intel-spices-up-pc-market-with-arc-gpu-launch.md",
+      "title": "Opinion: Intel spices up PC market with Arc GPU launch",
+      "excerpt": "Intel officially announced today the Arc A series, which is targeted at laptops. A version of Arc for desktops has been promised for the second quarter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/03/2022-03-30-image-43.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93984-opinion-intel-spices-up-pc-market-arc-gpu.html",
+      "publishedDateTime": "2022-03-30T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

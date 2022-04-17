@@ -44,22 +44,6 @@ related:
     quality: 49
   - title: "Impact of Fintech on business and the common-man"
     excerpt: "Through artificial intelligence (AI), Fintech allows businesses to better associate with customers and clients through real-time data exchange. As per estimation, AI will drive more than 90% of ..."
-    publishedDateTime: 2022-04-12T14:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/04/Shams-Tabrej-Financial-Expert-Founder-and-CEO-Ezeepay.-scaled.jpg"
-        width: 2560
-        height: 1969
-        isCached: true
-  - title: "Impact of Fintech on business and the common-man"
-    excerpt: "Through artificial intelligence (AI), Fintech allows businesses to better associate with customers and clients through real-time data exchange. As per estimation, AI will drive more than 90% of ..."
     publishedDateTime: 2022-04-13T02:55:00Z
     webUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"
     ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/impact-of-fintech-on-business-and-the-common-man/?source=app&frmapp=yes"

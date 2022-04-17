@@ -2,109 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
-      "title": "Investing in Eastern Europe’s AI future",
-      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup.md",
-      "title": "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup",
-      "excerpt": "Artificial intelligence and machine learning have improved so much that they can even be used to collect data on historical broadcasts and previous World Cup tournaments. At the same time, limb-tracking AI technology could change the upcoming 2022 Qatar World Cup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6253f9796eb6ee328d44c77e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/",
-      "publishedDateTime": "2022-04-11T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-11-startups-join-ai-acquisition-rush.md",
       "title": "Startups Join AI Acquisition Rush",
       "excerpt": "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence.",
@@ -884,8 +781,8 @@
       "title": "The rise of TikTok: why Facebook is worried about the booming social app",
       "excerpt": "Chinese-owned video platform is set to overtake the advertising scale of Twitter and Snapchat combined",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?via=indexdotco",
+      "webUrl": "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app",
+      "originalUrl": "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1217,6 +1114,91 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-an-ai-model-can-help-predict-adverse-events-from-new-drug-combinations.md",
+      "title": "An AI model can help predict adverse events from new drug combinations",
+      "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave.md",
+      "title": "A newcomer to AI data labeling, Encord looks to ride a rising tidal wave",
+      "excerpt": "Aiming to generate labeled data sets for computer vision projects, Encord launched its own beta version of an AI-assisted labeling program called CordVision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Screenshot-2022-03-24-at-16.41.23-copy.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "publishedDateTime": "2022-04-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

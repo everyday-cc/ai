@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conferen
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 800
     height: 534
     isCached: true
-
-related:
-  - title: "Stanford University Publishes AI Index 2022 Annual Report"
-    excerpt: "The report is organized into five chapters: Research and Development; Technical Performance; Technical AI Ethics; Economy and Education; and AI Policy and Governance. These chapters are based on publicly available data and contain dozens of charts."
-    publishedDateTime: 2022-04-12T13:30:00Z
-    webUrl: "https://www.infoq.com/news/2022/04/stanford-ai-index-2021/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2022/04/stanford-ai-index-2021/en/headerimage/generatedHeaderImage-1648335284106.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LgEGC95vE8Sc6vSLrCiv7mExVQcDpjlWIhG/K+O+3pDr0EcQWJpWDO3jrcfJUXnai6/Xjo/PxSeHRutIX45rQWfr28KAmE20tV+rSTY04z+4y6/63YMERQ0lExwM2HC3WuLz0ITXLfob/a6RnEsxxwq3IqsnZL0+drvHvn1/s5mNTvvmLfxL5x1rtvX5PwJejnkWWu5YP7eluovwQxNk5l5ae1xDmj3GoUpA2oTQMu7vm6rubWIipFtLqWSqQniWpYsEUn8gCFWrbBQBA4eulHAOsXLdHG5iAqDGTWJbfsRaMruZW0V+aqQt8ImASuIFqWuwXSVE+KWsbiB/UnibkTs+frh4dwMPKr8ucsaN6nWgG+4IJloSx1gBydxI1vdNHXAa+c3ts3rYvjf059aZbwqqUA965dzqBz5kXaWcz23vLI6QlftJ6A2M7EblHbrarYeS8SfW1Lp9RhbHPNK8qOmZQtccOHNy1CS+mqDBe6T57EG+E/Kup1iNCjenEyofCEhbPiTq1IYCQPtpFL0L0w==;YiDf0Am8wh7dr91UlLMfcA=="
 ---

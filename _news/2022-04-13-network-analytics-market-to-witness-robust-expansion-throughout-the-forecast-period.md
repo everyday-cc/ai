@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
-    excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
-    publishedDateTime: 2022-04-12T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AI and IoT analytics protect people and koalas"
     excerpt: "These sensors are powered by artificial intelligence (AI) and machine learning from SAS, the leader in analytics. Attentis has created the world's first integrated, high-speed sensor network throughout Australia's Latrobe Valley. Today, this network is the ..."
     publishedDateTime: 2022-04-12T20:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Ukrainians Use Drones, Facial-Recognition Software as They Investigate Alleged War Crimes"
-    excerpt: "BUCHA, Ukraine—Searching for evidence in the killings of hundreds of people by Russian troops here, Ukrainian prosecutor Ruslan Kravchenko unlocked the double doors leading to a boiler room on the south side of town. The space had been used as an office ..."
-    publishedDateTime: 2022-04-12T13:04:00Z
-    webUrl: "https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 40
 
 secured: "eTAUu8CnaMtWlXkQoebMjDVwROoT5f0meBcoxaLtfliuURHAWmdYW+O7t94Kja17lDRWpQLOeyIFsjNjSbL/A1iDgIJT5ozEe7lGYeWww2Ow+/r0Wm1jxokyRAbmQSk2f3B0B314HA3zLuKAAhm+Jjah1pVcuQVB2fK2m1gEtZ++Tk7QHrku8UiXXT1aBtnsp4jcAiMi2fWVbGq8tCFMSYCRPqarWHaM4riK71pUIPhHQFwwttHmseu/m1Q2VElfbBTqjBHC2+MeUKcETvBgtfcFPDlT/uja4KxQ8G4Lo9tYEbV04OB7/qgl+Kas+1uE0ZRDRnxUpQlcN/anHwHys2JcVpCjZ5X0U1vcOW8CVLui1vsC5xQ9qtmZ9trjeFUpuDPb+Ja14mGX5djOlWZQIlbcBR0PwX/elq3ozje1HmXOpDRywcuGDWzz748/nS7A2KCxqMAp3H/B1uqmxL2C0fPEL5QXdZg6NcluHRgs1buw+4yVJj1t0JEjlZnq6HGSfvF+iGQDbyethWO44AsYlw==;zvNj8dF82i0YUBynBZbbgA=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "Noogata Closes $16 Million Series A to Make AI Analytics Accessible"
-    excerpt: "Funding will accelerate the company's continued expansion in the U.S. and R&D investments in Israel to help enterprises leverage data-driven"
-    publishedDateTime: 2022-04-12T13:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/noogata-closes-16-million-series-a-to-make-ai-analytics-accessible-1031349890"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "CaliberMind Launches AI-Based Revenue Analytics Platform"
     excerpt: "Concept: American B2B customer data startup CaliberMind has launched a B2B revenue analytics platform for enterprises to analyze their revenue. The platform utilizes AI to help enterprises to connect, analyze, and activate data to attract new customers ..."
     publishedDateTime: 2022-04-13T10:45:00Z

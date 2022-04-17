@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/ny-state-budget-allots-7
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/ny-state-budget-allots-75m-for-ai-at-university-at-albany?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAlbany gets $75 million from state budget for artificial intelligence initiative"
-    excerpt: "ALBANY - The University at Albany's $200 million artificial intelligence initiative is taking off, funded with $75 million from the state's new $220 billion budget. UAlbany President Havidán Rodríguez said the money for what UAlbany calls its Albany AI Supercomputing Initiative,"
-    publishedDateTime: 2022-04-12T14:30:00Z
-    webUrl: "https://www.timesunion.com/business/article/UAlbany-gets-75-million-from-state-budget-for-17073172.php?IPID=Times-Union-HP-business-package"
-    ampWebUrl: "https://www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/UAlbany-gets-75-million-from-state-budget-for-17073172.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 52
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/01/13/22287042/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "UAlbany gets $75M for AI programs, engineering college construction"
     excerpt: "severe weather predictions and advancing AI systems. UAlbany is also positioning the initiative as a way to elevate the region’s profile in next-generation computer chip development and support an ongoing effort for the Capital Region to become the ..."
     publishedDateTime: 2022-04-12T18:51:00Z

@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-15-the-ai-infusion-join-thecube-at-aws-summit-san-francisco.md",
-      "title": "The AI infusion: Join theCUBE at AWS Summit San Francisco",
-      "excerpt": "An example can be found in how Ampersand Inc., a data-driven TV advertising sales and technology firm, uses AWS Batch to run 50,000 concurrent machine learning models in less than one day. A look at how AWS enables enterprises to put data to work with artificial intelligence and machine learning-powered low-code and automation initiatives will be the focus for theCUBE,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/",
-      "originalUrl": "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AWS-Summit-San-Francisco-Hero-Image-2022.png",
-          "width": 1182,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-13-control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation.md",
       "title": "Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation",
       "excerpt": "You can establish feature stores to provide a central repository for machine learning (ML) features that can be shared with data science teams across your organization for training, batch scoring, and real-time inference. Data science teams can reuse features stored in the central repository, avoiding",
@@ -1344,6 +1301,49 @@
       "provider": {
         "name": "Mobility Techzone",
         "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-trendforce-aws-to-give-arm-a-leg-up-to-22-of-datacenter-servers-by-2025.md",
+      "title": "TrendForce: AWS to give Arm a leg up to 22% of datacenter servers by 2025",
+      "excerpt": "The increasing adoption of Arm-compatible processors by cloud service providers is expected to grow the CPU architecture's penetration rate in datacenter servers to 22 percent by 2025, according to a report by Taiwan-based research firm TrendForce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
+      "originalUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
+      "publishedDateTime": "2022-03-29T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-02-15-breaking-ai-stock-news-gbt-otcpk-gtch-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout.md",
-      "title": "Breaking AI Stock News: GBT (OTCPK: $GTCH) Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
-      "excerpt": "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\"), is developing an AI empowered technology for automatic compaction of integrated circuit (IC) layout blocks. As modern ICs are ever growing in complexity and size there is a high demand for design automation to reduce silicon area and increase its yield.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investorideas.com/CO/GOPH/news/2022/02151AI-Empowered-IC.asp",
-      "originalUrl": "https://www.investorideas.com/CO/GOPH/news/2022/02151AI-Empowered-IC.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg",
-          "width": 649,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investor ideas",
-        "domain": "investorideas.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-15-redmagic-7-confirmed-to-feature-independent-gaming-chip-called-red-core-1.md",
       "title": "REDMAGIC 7 confirmed to feature independent gaming chip called Red Core 1",
       "excerpt": "REDMAGIC says that the chip was developed jointly with Awinic and JD Esports. Awinic is a Shanghai-based company that specialized in high-quality, high-performance analog, digital-analog mixed-signal, RF, and IC for mobile phones, AI, IoT, and the like.",
@@ -1370,6 +1327,49 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix.md",
+      "title": "GPU Database Market to See Huge Growth by 2026 | Blazingdb, Heterodb, Fuzzy Logix",
+      "excerpt": "The Latest research study released by HTF MI “GPU Database Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
+      "originalUrl": "https://www.digitaljournal.com/pr/gpu-database-market-to-see-huge-growth-by-2026-blazingdb-heterodb-fuzzy-logix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/679798b7b60852d77d12fd2313bd60373088e7da-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],
