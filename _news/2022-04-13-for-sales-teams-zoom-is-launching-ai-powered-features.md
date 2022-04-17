@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/for-sales-teams-zoom-is-launching-ai-pow
 webUrl: "https://bestgamingpro.com/for-sales-teams-zoom-is-launching-ai-powered-features/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,38 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom launches AI-powered features aimed at sales teams"
-    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
-    publishedDateTime: 2022-04-13T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
+  - title: "China Tackles Towering Garbage Heaps With Artificial Intelligence"
+    excerpt: "Alibaba Cloud is using artificial intelligence to make waste incineration more energy efficient in China. Automation is sweeping the nation with more than 100 waste-burning facilities in 30 Chinese cities – roughly one in ten of the country’s garbage ..."
+    publishedDateTime: 2022-04-12T14:55:00Z
+    webUrl: "https://www.csrwire.com/press_releases/741341-china-tackles-towering-garbage-heaps-artificial-intelligence"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-  - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
-    excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
-    publishedDateTime: 2022-04-14T05:21:00Z
-    webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
+      name: CSR Wire
+      domain: csrwire.com
     quality: 37
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/C2i%20Genomics.png"
-        width: 770
-        height: 400
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/plasticbottles_Alibaba_040822.jpeg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
-    excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."
-    publishedDateTime: 2022-04-13T13:33:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/evolutioniq-debuts-ai-powered-technology-aimed-at-lowering-insurance-claims-costs/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 14
 
 secured: "Njz9LRj2upXOm539WDjin8ZXSyWIKO4lKv+INkiq3/SDOBMIUH4vxPbiXff+gcqRyKL+dDJW92ohwceNFt93PZ/8OKNDmqP8mE/D8spLFwnOsL+VX3sOB2MjkqD0QT9sHPlqKT0whGRVQ2HHXh0yshLylP2Q233yBU1tAmQp0n1oOaIElgmnPsa7SMPnjohRJmzZekSc+TL+SDtqVwnm2VmkYVNYXnuTiEfgwalosn79BJZlZbr+2Cp+7DbCm4CPE/ZLN+qbU6EuQlbr9gp8LIHk9iTRi7nhZTYL0oOakL9lKiUhvjVUPkXAuSseClSd+e/8Uqb0ReIN2QTQp2WXk5dPxpTfIi88kE07qRPcW19mk1EkRj0bezHgWTPsWVWzM2/RsQIHoUeuOnO6ZG0gaXgFvV/sgSAYggECBFBzsmEEv6eh2tFRLCV/pLLnOOUQif8lRr/T5UbVLdCOZ2JbslVGwtytI1il8zgkan2QfYwKPmXjKtY8vMK3RJTF8wbc6vsfSHT77HpEp8vN8/ZwOw==;ZZj0nlf/A/At2mwhrYZwBw=="
 ---

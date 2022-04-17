@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-l
 webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,40 +22,6 @@ images:
     width: 770
     height: 400
     isCached: true
-
-related:
-  - title: "Zoom launches AI-powered features aimed at sales teams"
-    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
-    publishedDateTime: 2022-04-13T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-  - title: "For sales teams, Zoom is launching AI-powered features"
-    excerpt: "Second Work Transformation Summit this week has seen Zoom unveil the next iteration of its AI tool Zoom IQ for Sales, which analyses sales meetings and transactions to offer actionable information. According to Verified Industry Research,"
-    publishedDateTime: 2022-04-13T16:50:00Z
-    webUrl: "https://bestgamingpro.com/for-sales-teams-zoom-is-launching-ai-powered-features/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 56
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/04/Zoom-launches-AI-powered-features-aimed-at-sales-teams.png"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
-    excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."
-    publishedDateTime: 2022-04-13T13:33:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/evolutioniq-debuts-ai-powered-technology-aimed-at-lowering-insurance-claims-costs/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 14
 
 secured: "ShQrUigLcdA9TSTKKOz+jbmZYNzvSfbYbkzIr/TK1C/+ytS16gSNDYsALau9cno/aFmfNozJEOe9qho8Ea5injzW2knv8eFBI+JPhnd4kUAHCFhWkNs+uZswDHmE+zXvPH/Z0bq0+7sXWfcLbA9DVMQqBTq1cgRpbQzPb8bkiBTXw2fOUfyNc7lhqM2JpfZeGXIQEgJNdxRdH5WSuT3MazlQsz0aANfViFOVqKSFw3GTDDjhrukjX2eY22S2AKaAhioG95dZbaKsiU2pfUDVaW/2xaoOFwqIHdsVwxUmcpNvqoJMUtajsar5PUjoBsqwVo/f4ltv+4fHgay8AZoy1BgaAB65Fzx4gqUgqaO2yEs=;KNiQH9ccaKNnT760XcQQyg=="
 ---

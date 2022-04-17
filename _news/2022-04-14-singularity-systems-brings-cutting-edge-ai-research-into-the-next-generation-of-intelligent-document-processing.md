@@ -18,22 +18,43 @@ topics:
   - AI
 
 related:
-  - title: "Prometheus AI, Removing The Guessing Work And Replacing It With Predictability"
-    excerpt: "Today, the cryptocurrency is worth more than $78 billion, with over 30 million traders worldwide in the market hoping to generate a profit. Yet, 90% are in a position of financial loss. It has led to many traders believing they need to upskill,"
-    publishedDateTime: 2022-04-13T05:23:00Z
-    webUrl: "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/"
-    ampWebUrl: "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/amp/"
+  - title: "Neuromorphic Computing Industry - Next Generation of AI and Machine Learning"
+    excerpt: "Emergen Research Logo The growth of the market is attributed to the requirement of better performing ICs and increase in demand for AI an"
+    publishedDateTime: 2022-04-13T08:39:00Z
+    webUrl: "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 53
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/Prometheus-AI.png"
-        width: 700
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
+        width: 445
+        height: 250
         isCached: true
+  - title: "Neuromorphic chip developer SynSense steps into the field of smart cockpits by initiating a technological exploration with BMW"
+    excerpt: "The world’s leading neuromorphic intelligence and solutions provider, SynSense, announced that it will advance the integration of neuromorphic chips and smart cockpits and explore related fields with BMW."
+    publishedDateTime: 2022-04-14T08:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-china-zurich-switzerland-europe-7b88406408e80270e59fa1f139ae5eb9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "7dclQrff9Pv2LI+6zsOyYAJ8/15tTyIzM+y7iYsLTe/vENhlmpAk2zxVwJ+rxUial8/PT4HlByfaQGp1pDHd+gs3NibzreoKchO3HeFad5Sluff5vT/zFC292ZutNLVvN7J3x/ZXPjwah7kwXsHIRjGshUmQysQ22Y3EONBXBFbX4TIo6Ng9XM9u8TiejWxZ3dpVxq+pySAawgJPznUV4GmxNpLWweo/Jn7drLQWXFFeLRfTsqRVGvmuk8UGnXi/4dIR9cu8l/j12S2FEd9EocpS6CZAR+CWIcSekm7HmdU2ouQdX8zM923OvYTlkGL2Rq9Xog4BoJXJie4mKSyZsAaH2x71wID2nh/tpAsCRPQ=;n6sC8RyaZuLTS2PuLeRerQ=="
 ---

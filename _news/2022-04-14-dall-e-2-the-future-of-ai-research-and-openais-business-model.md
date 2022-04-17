@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-researc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: VentureBeat
@@ -31,49 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "Future Proof Your Business With AI In Products And Services"
-    excerpt: "Artificial Intelligence (AI) is one of the most potent technologies businesses have ever had access to. In order to thrive and meet the customer expectations of the future, businesses must consider integrating AI into their products and services."
-    publishedDateTime: 2022-04-12T05:57:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/12/future-proof-your-business-with-ai-in-products-and-services/amp/"
+  - title: "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices"
+    excerpt: "DALL-E 2, OpenAI's new text-to-image generator, is better than its predecessor, but comes with a debatable business model."
+    publishedDateTime: 2022-04-16T11:00:00Z
+    webUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6255147e2792781e826c01b6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Automate finance and accounting with AI bots for your business and CPA firms"
-    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
-    publishedDateTime: 2022-04-13T20:00:00Z
-    webUrl: "https://www.ksl.com/article/50386299/automate-finance-and-accounting-with-ai-bots-for-your-business-and-cpa-firms"
+  - title: "OpenAI’s New AI Generated Anthropomorphic Bowling Balls and We Simply Must Stan"
+    excerpt: "Strike! Move over, NSFW bowling animations — there’s a new weird bowling meme in town, and this one was made by computers. Using OpenAI’s DALL-E2 text-to-image generator, which was just released a week ago,"
+    publishedDateTime: 2022-04-13T20:16:00Z
+    webUrl: "https://futurism.com/the-byte/openai-bowling-balls"
+    ampWebUrl: "https://futurism.com/openai-bowling-balls/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-bowling-balls/amp"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
-    quality: 53
+      name: Futurism
+      domain: futurism.com
+    quality: 55
     images:
-      - url: "https://img.ksl.com/slc/2872/287227/28722782.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
+      - url: "https://wp-assets.futurism.com/2022/04/openai-bowling-balls-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "With 5G, AI at the edge promises a compute-everywhere future"
-    excerpt: "Luxury auto maker Audi is driving full-throttle toward Industry 4.0, using AI inference and computer vision on the factory floor with autonomous robot welders that can react in real time and fix issues that may arise when welding the frame of a car."
-    publishedDateTime: 2022-04-13T14:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/13/1049529/with-5g-ai-at-the-edge-promises-a-compute-everywhere-future/"
+  - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-04-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-ai-exodus-openais-revolution/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/intelphone.png?resize=1200,600"
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/helena-lopes-1329842-unsplash-e1629656969203.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "“DALL-E,” the New AI Artist Who Can Draw Anything"
+    excerpt: "A sea otter inspired by “Girl with a Pearl Earring” and a robot playing chess in the style of Matisse are among the masterpieces generated by a new neural network."
+    publishedDateTime: 2022-04-13T19:59:00Z
+    webUrl: "https://hyperallergic.com/723877/new-ai-artist-who-can-draw-anything/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/04/Screen-Shot-2022-04-13-at-12.44.30-PM.jpg"
         width: 1200
-        height: 600
+        height: 740
         isCached: true
 
 secured: "/re0clLIusitKJB/jypGXNjeB3YVxqYIMzsmqu5lzvS/WC1WUVhMH9huwyPgrTNUHeDqI7YZXp7fUguKpCugupq8SwdtIu1EO6ZAmCWvPtJtfHf4W56shRdC+v00BEhqIBII/WG4hODlhLNqhuBn/Q52AtMrUez26mOdSS0Zq2WOOycP27559zp7sM74Vsm/sNqaNIFL01vRX9AQpIFGUh318oJQ5oAc930iLBS+4lyV6PDkMrF8oQ183L5Z03fdz+K18q0LtNM32irCRDO8/ca6oQ7Oa4XTZZnQZYYJOKUsdVCxBWcoHNOzArPuMpPmp4Wnwn+3hv0yoR1FFMjoV8g1GA7s82uXbyxgeRVbQdAZZ6ZsT6V6cIdL7poDaJkvzroDJa61tClmtWw0qD5TXSvkHzcJs9pVHdXV6zartdGl53QH0k1P4tBHSBBmk4d5QbLO9zwlIOLL4GoprHd7WvzCnND/bBQAmAY11DDWH5tmvszSQfjv6JEioTgy5SywhxblULAKdQpLUOK+ACGnGw==;pg0TD3JhQJZcVdz/hrv2Ug=="

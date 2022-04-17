@@ -18,51 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "India, US to hold dialogue on artificial intelligence"
-    excerpt: "Secretary of State Tony Blinken and Defence Secretary Lloyd Austin hosted the fourth 2+2 ministerial dialogue with Defence Minister Rajnath Singh and External Affairs Minister S Jaishankar."
-    publishedDateTime: 2022-04-12T05:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
+  - title: "StatScope – India’s first artificial intelligence based market analysis service launched"
+    excerpt: "StatScope has launched India’s first locally built artificial intelligence (AI) based market analysis services. Artificial intelligence can help"
+    publishedDateTime: 2022-04-14T20:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/statscope-indias-first-artificial-intelligence-based-market-analysis-service-launched"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/04/FQHBJ4raAAEsnoy.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "India, US to restart commercial dialogue, CEO forum later 2022 as artificial intelligence comes under focus"
-    excerpt: "During the 2+2 Ministerial, the two sides discussed their goal of driving inclusive economic growth in the two countries and across the region, said the US Secretary of State Antony Blinken."
-    publishedDateTime: 2022-04-12T08:19:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 39
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/4/12/w600X390/India_US_Flag_Reuters.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "US and India launch talks about military AI"
-    excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
-    publishedDateTime: 2022-04-15T14:27:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 37
-    images:
-      - url: "https://www.defensenews.com/resizer/yn6AlRGoKGRxZIAkJTzMElmVFoY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/2XCHIWVJWJBTPKHX3WZQTY747Y.jpg"
-        width: 1024
-        height: 690
+      - url: "https://www.abnewswire.com/uploads/1649928037.jpeg"
+        width: 1000
+        height: 607
         isCached: true
 
 secured: "WhW67WPTES0LEKsljEXu8x55yRnBLcYlbZJdl/P31CLNUIsaUN+9h1OdqC8ADoWCRVIt9rvPMIvClL+Z7YjGuwMPuKdCd9jQYAuvL99URkCjeDLB1nqw6ecG3zn7xTGpYT0vSfzD6IL2jINvrqj63ppDwPQmCjHKZ4imQcriZtxKE2uWo59m0Z8MdNAO6706M107+8mgrg5SEsXLr96OivDdIcqQcmOH6TOc2JyWjReLduinIt4eNKUFnzTYUA9kTnYFUre9SPDwMn8KqLX5W8iTdZ8iRKEB23+8d5/4GSjnUUGBAYzriwKBZyTkMrQNmCDKixdj7hGCrTYZjdsW6APNrBvZTLw0DfAEPxaUvnGHZUlfcpJ4PFahbdHCo6vuznRXY/TAH+FHWvzQrr0CFD1SkzTLWGhF0zseoCRKvAWIV9V4itLxKIK1U+EXXlT9ywOx73VPp+m40bYhceVE6qTQ6mwmXHntEz3uyNOa2v7Tibs+ZNLPEXyu832TK9UflDbOh7NyctddkTXf1nCI6Q==;JTgujr+rjpw2wboABhjWIw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satelli
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

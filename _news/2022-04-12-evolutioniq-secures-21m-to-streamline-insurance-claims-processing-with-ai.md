@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "EvolutionIQ Debuts AI-Powered Technology Aimed At Lowering Insurance Claims Costs"
+    excerpt: "EvolutionIQ has developed the insurance industry's first human-in-the-loop artificial intelligence (AI) claims guidance tool."
+    publishedDateTime: 2022-04-13T13:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/evolutioniq-debuts-ai-powered-technology-aimed-at-lowering-insurance-claims-costs/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 14
+
 secured: "YPSP5WyscRCiyMxu8iMDOZ+PQl2FUmUok8mBXFR9qWgv5942sSL/zIchX8X0l9MZUPmMiVwHv904J1M8i+JGW6A3R/H/la1N+pRSkyCbPFQdm3hXJbMeyBL2DAhhgObx6N6UBDFygS458qVizOcy0UdhCsHJ6FspiKuJit+5yfrav69KgIkktJtjHTca00ACBLHuJktV/7GdIIwbONeykG7WiEYPgean7kYky4gK4aIF4GwcGCHp3ntXEO2FaeBSsoFQISGHtIk/XIeFOfKrszIwdivB0IOa/0RGzOIlcNJrEJOhk8H86F6ibhtSXMAiBAiSQ/Sod8oy6bjcPMQXPq3cgUHyy6B/UeRYyShQvbJrG02Q/1QTY1Aa9IxR7kgXE2RV6BaHpxcltQPCQ7h6zHip9g2yjvwOgnGZ3M3xhfyvO5t4Pl7/+H3waXd8wTh9Y1y0Rc2UalWjFdIfAm4JpLKfVkGXVWYPFZ5ZXO5ZB57cXgrin66qOP9yIOUHMUz5IJ/slmV5RRl2AcnJtkG9Og==;AYZPYCN9rZ3kJpzmLII46A=="
 ---
 

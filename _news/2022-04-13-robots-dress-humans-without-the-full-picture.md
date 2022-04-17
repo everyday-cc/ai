@@ -7,7 +7,7 @@ originalUrl: "https://robohub.org/robots-dress-humans-without-the-full-picture/"
 webUrl: "https://robohub.org/robots-dress-humans-without-the-full-picture/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 425
     height: 239
     isCached: true
+
+related:
+  - title: "Robots are learning to think like humans. Can they meet Amazon's demands for speed?"
+    excerpt: "In a lab at the University of Washington, robots are playing air hockey. Or they're solving Rubik's Cubes, mastering chess or painting the next Mona Lisa with a single laser beam. As the robots play,"
+    publishedDateTime: 2022-04-13T16:00:00Z
+    webUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/2-robot.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xGcI0zd9clWzFazRs0U0v7xUtCyih7xXnZ2HuxUNsAfTaRYHGwd1GpAE/fjvSDYgUNdUTD+mniqZ7km1Au4GF17OH7pmrDb11qt6aJvq2/bgJ/cXk3aS3eI1aYbjX83atMZT2njP4uHJo9VsjVudmHE+U6jUJ8DLQPRhE0KeXo5Wpwjl0Q/ddX3sJEZYY3gkjOXxHg7jZ8ERWjfCRxbOoyUGsFK0xIfZ+aILdg5heDGdDAAht8s3mWtKtYcDzCfDru5+eV+degdDR2xllnsZXexSMb4Jn698RsykUfLz3oX82Io9qvbbAyXcK6C4xB85QKcOob6JRNY0l9XOqBAZGMqqpjY0XhRo8rreIRM9GhldNVl5S01X+SymR1MuW/f9vXJk6v1VuSJJha8Uj5DKXBgdzy9u8J5bX0w8KENpNhAU0E9yYNEyDrR+kNmPXj2CX0ep1v1HRmiMfToFAxztVh3QvFcIoomn9TjpcnZYv2z7rRWD39IZVGzPlGl5JbMjBNr31hl1JTfXzNiP+JmnLA==;eSv8CX44jykrKul3iHFvIQ=="
 ---

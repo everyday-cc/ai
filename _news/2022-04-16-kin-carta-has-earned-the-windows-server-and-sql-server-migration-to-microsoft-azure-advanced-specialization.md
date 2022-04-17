@@ -20,18 +20,20 @@ topics:
 
 related:
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-    publishedDateTime: 2022-04-15T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba"
+    excerpt: "CHICAGO, April 15, 2022 (GLOBE NEWSWIRE) -- Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization ... application development and data & AI. As a Gold Microsoft Partner ..."
+    publishedDateTime: 2022-04-15T13:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26651349/kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-speci"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26651349"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26651349"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Microsoft Translator adds Galician and Basque, commits to endangered language preservation"
     excerpt: "In case your language isn't already in Translator, know that it's only a matter of time. Now you can utilize Microsoft's tool for Galician and Basque."

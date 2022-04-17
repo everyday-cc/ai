@@ -7,7 +7,7 @@ originalUrl: "https://hyperallergic.com/723877/new-ai-artist-who-can-draw-anythi
 webUrl: "https://hyperallergic.com/723877/new-ai-artist-who-can-draw-anything/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,68 @@ images:
     width: 1200
     height: 740
     isCached: true
+
+related:
+  - title: "DALL-E 2, the future of AI research, and OpenAI’s business model"
+    excerpt: "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits."
+    publishedDateTime: 2022-04-13T22:50:00Z
+    webUrl: "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/"
+    ampWebUrl: "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all"
+        width: 799
+        height: 499
+        isCached: true
+  - title: "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices"
+    excerpt: "DALL-E 2, OpenAI's new text-to-image generator, is better than its predecessor, but comes with a debatable business model."
+    publishedDateTime: 2022-04-16T11:00:00Z
+    webUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "OpenAI’s New AI Generated Anthropomorphic Bowling Balls and We Simply Must Stan"
+    excerpt: "Strike! Move over, NSFW bowling animations — there’s a new weird bowling meme in town, and this one was made by computers. Using OpenAI’s DALL-E2 text-to-image generator, which was just released a week ago,"
+    publishedDateTime: 2022-04-13T20:16:00Z
+    webUrl: "https://futurism.com/the-byte/openai-bowling-balls"
+    ampWebUrl: "https://futurism.com/openai-bowling-balls/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-bowling-balls/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 55
+    images:
+      - url: "https://wp-assets.futurism.com/2022/04/openai-bowling-balls-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-04-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-metas-ai-exodus-openais-revolution/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/helena-lopes-1329842-unsplash-e1629656969203.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "nr65lRM4ajWU/Hbnkif8lSjAoAp/18H+fAJdTO093cCz2efPXF7Bu7AfroVCaR17zQr3ahb+W7YdEs6Xq4JVtHI0hKXRsbIUbk2V6v0x1zikqn+OOq/eR/z+5DGURvEHPJPCqFEBy69p6l62CCyZiNqdWTl3y+1BsRD0RIoPUEB0jp8oBTceos85Ty6IjRPc+U4VbBZ20w+pb73S9MFHWR/qxjrwsgQeeu59Nv5yV5orCQOvCTKSYEOAedhnIzl58PPPqCDkzQpjq8oeollFk3v4ijrU6Nk6D6X3GdCz56hwfGDBMGnj4V+A7DBRk/t1xBulZMKi+XLj/Li9OyihC37+xNHJQK1iLi4nRCdDjHfRfPPTJajAlNW8urrUVk48d4ZbwWnA8ufI9Hh+EqgFWGXNzPE1z/H3FBLwbusL0UMWZiGdI8cbwQdzcHXGpeyL+9iNRfmqIBIq+aotlbkd5iZZPJ6Gn3ShuVh6y2Q5Rc2NqG7Fu8Tx+MpgXWjO6TMIkrgA7jDETXvZ3C9FFkWS4g==;0x7VH0JHWagecqSjHSvTfg=="
 ---

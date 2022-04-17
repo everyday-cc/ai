@@ -41,20 +41,6 @@ related:
         width: 900
         height: 491
         isCached: true
-  - title: "Blu Digital Group Launches its AI-Driven Ad-Placement Detection Software for FAST and AVOD Video Platform Distribution"
-    excerpt: "Industry's First Cloud-Based Ad-Marking Software using AI and Validation Enables Content Distributors to Prepare their Content for Monetization to the FAST and AVOD Market"
-    publishedDateTime: 2022-04-12T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/blu-digital-group-launches-its-ai-driven-ad-placement-detection-software-for-fast-and-avod/article_700f635d-76a1-5784-bba3-941675c36ee7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "o3BCDSS5kdLLpFwjldnyDUaxxBr41BfkDiCPN5J4W4F8GC7R1ONln4h9QuxT5nopByQFmKMyIeQWKLiSORjDzKiqx7i8jnoEggmBEVIyZZKIBvxNJ/zc7C39qVVTXMjPR4egNFnQUFJYkNfDZBrgMbQkTMRSpg/liu2eUCXzHE9BwIotjHAFmSHF721XP/iiy1+SzQiWjNCHvW8lTSzqBXl/DzOPyoG/sNscIdGUEbZx+b5phfkHgmHcWBQMpID6bZpCxcZ8cutSSx+HgHxnJHD/CwodnsCeWNZ04mG2RLgHFnAxrcrlqvFvC/jlYuUWR9FKg4aXm4WCevQmnRjC6KzlBacJCORNO/YcZU5bRUw=;sS8cWI/JtkiwcXb0lgj0Vg=="
 ---

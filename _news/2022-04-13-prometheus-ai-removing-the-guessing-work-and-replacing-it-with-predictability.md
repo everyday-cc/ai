@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Singularity Systems brings cutting-edge AI research into the next generation of intelligent document processing"
-    excerpt: "Singularity Systems, a leader in intelligent document processing (IDP), announced today the general availability of new AI capabilities that break through the accuracy, efficiency, and speed barriers inherent in common AI-driven process automation software."
-    publishedDateTime: 2022-04-14T13:30:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY22220/singularity-systems-brings-cutting-edge-ai-research-into-the-next-generation-of-intelligent-document-processing/"
+  - title: "Gaming the Known and Unknown via Puzzle Solving With an Artificial Intelligence Agent"
+    excerpt: "Researchers design multiple strategies for an artificial intelligent (AI) agent to solve a stochastic puzzle like Minesweeper. For decades, efforts in solving games had been exclusive to solving two-player games (i."
+    publishedDateTime: 2022-04-16T22:08:00Z
+    webUrl: "https://scitechdaily.com/gaming-the-known-and-unknown-via-puzzle-solving-with-an-artificial-intelligence-agent/"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 0
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "p3wtsM1OWe4X7bBHgyD471Dls4H8vla/3ogMaRc3XEak7fBCPYT8ACv9mkDYEyJw9lXL15j9hNYvQVJ5ynoJLWo4yv1fQ3xdoDx3n7PgFJFP7BkywGKCrri2rUaGvZN8z9iDISHKTWjyaNhwgTN7Pwc6xMHw6QqK+3JZR8AAVCD9yB4w54g+c6Auz2fJoZGkbb3zn/8zy+3qOweozGJOEwLatWDII/7iZf7Ys1mb/ILhPxhmnxj5fBV+N60W1ocdSupi2A8YN+QiUd2Ek6ZcjLHh99h5f5ZRWQ6D996h7Onzvo3z+yITOsnqOGAZPb2CZk3eyiITqhXdsJKcoPJN1JslfsGp2heTBr+WOOpGpaE=;rxEsxcvmP1NnQWIH+HLogQ=="
 ---

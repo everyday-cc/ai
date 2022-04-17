@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next
 webUrl: "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: Middle East North Africa Financial Network
@@ -26,36 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI’s New AI Generated Anthropomorphic Bowling Balls and We Simply Must Stan"
-    excerpt: "Strike! Move over, NSFW bowling animations — there’s a new weird bowling meme in town, and this one was made by computers. Using OpenAI’s DALL-E2 text-to-image generator, which was just released a week ago,"
-    publishedDateTime: 2022-04-13T20:16:00Z
-    webUrl: "https://futurism.com/the-byte/openai-bowling-balls"
-    ampWebUrl: "https://futurism.com/openai-bowling-balls/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/openai-bowling-balls/amp"
+  - title: "Neuromorphic chip developer SynSense steps into the field of smart cockpits by initiating a technological exploration with BMW"
+    excerpt: "The world’s leading neuromorphic intelligence and solutions provider, SynSense, announced that it will advance the integration of neuromorphic chips and smart cockpits and explore related fields with BMW."
+    publishedDateTime: 2022-04-14T08:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-china-zurich-switzerland-europe-7b88406408e80270e59fa1f139ae5eb9"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 55
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
     images:
-      - url: "https://wp-assets.futurism.com/2022/04/openai-bowling-balls-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2022-04-13T09:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-metas-ai-exodus-openais-revolution/"
+  - title: "Singularity Systems brings cutting-edge AI research into the next generation of intelligent document processing"
+    excerpt: "Singularity Systems, a leader in intelligent document processing (IDP), announced today the general availability of new AI capabilities that break through the accuracy, efficiency, and speed barriers inherent in common AI-driven process automation software."
+    publishedDateTime: 2022-04-14T13:30:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY22220/singularity-systems-brings-cutting-edge-ai-research-into-the-next-generation-of-intelligent-document-processing/"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/helena-lopes-1329842-unsplash-e1629656969203.jpg"
-        width: 1050
-        height: 700
-        isCached: true
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 0
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "89CV7ugG6SLXqTocuH5022P3ofzFhExgRvaGmEYjYt2IKnZyF4EtnqgAMQlANgaPgw64jzAL7kM9eFJ2RB3J7F8ThvNagVwoq/bxwwj9YJ2FZmHCwaLehmxm9GywLXQLg0JlySNXpn+o13vGj9SabcgYwOcOJxHyWLJOQ8e1v0XzIwOcgP/MPTMvK9VXyfDXTZPXZSvZzxbzlCuf+aGUhT4iBKqjCCHwKLpY0HH68YtW3ql8r/bNglfjGSp1ewdIxqmmrQW/d7/u23hcaZAh60bSzCjhASowdjdN8vDUhMDAYpnYmPAWiC1eSboYLoCjj01w80Vg3vFDHU9iqdZZ0nTGjStuVeCUgozvrF79qZ0=;shcMVv1qNihoxselwjdCtg=="
 ---

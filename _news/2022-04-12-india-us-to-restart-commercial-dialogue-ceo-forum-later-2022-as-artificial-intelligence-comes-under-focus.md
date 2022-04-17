@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/business/2022/apr/12/india-us-to-re
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/apr/12/india-us-to-restart-commercial-dialogue-ceo-forum-later-2022-asartificial-intelligence-comes-unde-2441161.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "India, US to hold dialogue on artificial intelligence"
-    excerpt: "Secretary of State Tony Blinken and Defence Secretary Lloyd Austin hosted the fourth 2+2 ministerial dialogue with Defence Minister Rajnath Singh and External Affairs Minister S Jaishankar."
-    publishedDateTime: 2022-04-12T05:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/india-us-to-hold-dialogue-on-artificial-intelligence-8348391.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/04/FQHBJ4raAAEsnoy.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "US and India launch talks about military AI"
     excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
     publishedDateTime: 2022-04-15T14:27:00Z
@@ -56,15 +40,6 @@ related:
         width: 1024
         height: 690
         isCached: true
-  - title: "Who are Beatoven.ai? Meet India’s first and only AI-backed music tech start-up"
-    excerpt: "Beatoven.ai is India’s first and only AI-backed, new age, web-based disruptive music tech start-up that provides a platform for music composers and content creators to help them create royalty-free, affordable, easy to license, exclusive music."
-    publishedDateTime: 2022-04-12T12:32:00Z
-    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/who-are-beatoven-ai-meet-india-s-first-and-only-ai-backed-music-tech-startup-101649761910476.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 13
 
 secured: "sVwLIjXm6uz/8nN/of1Qgu+65LLugTvJB4OSrJBK0BxmHrPu3P1IU1eezRJZYMpomoAczmwWqHNJW0Bbt8JGelb562+xZ6638clqk3ECoar52xr1eoBlUpwM9TUeyOWlJIqYeWM2tD5KrCq0qYq4hYmL4nczT1NEebJvznH9wF4U8tZo47uqjK4b0TM+KSfwMlNe0pQy6lt28/OZVzR6JDMgtKWe2LiFcDypNeGSFyotiVkWjdAXQxv6z72VSH5k/tk4KuIgMXMWotD6VGiV3nRh1apGQZV8mAx4L2Y1Ay9nTXcnLG53QZPGHey5b7W5yIYBXC/AYXr2SdQmqkwMaPoUVqiuezhD1w0czDnQzR3so+225IN3RRlRmyGSQJLi8xIuooTtwguVlXoNeAOk/ME+7mlMCWqbzWbxWeoV5o9taXnBzza2fuq/pazoSnFZH2IbvxJ36iZVaudkJBnGRo1Mu7KeIZCOxYDGLuyrAt3H2Cl7et6CZbrJuCunlSBvdpPjq6f5UoRRaPXwLNZTmg==;pFDRyt/mOfAdc4AHLEo/QA=="
 ---

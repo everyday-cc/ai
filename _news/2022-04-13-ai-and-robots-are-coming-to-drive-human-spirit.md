@@ -7,8 +7,8 @@ originalUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-
 webUrl: "https://ceoworld.biz/2022/04/13/ai-and-robots-are-coming-to-drive-human-spirit/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: CEOWORLD magazine
@@ -25,47 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Robots are learning to think like humans. Can they meet Amazon's demands for speed?"
-    excerpt: "In a lab at the University of Washington, robots are playing air hockey. Or they're solving Rubik's Cubes, mastering chess or painting the next Mona Lisa with a single laser beam. As the robots play,"
-    publishedDateTime: 2022-04-13T16:00:00Z
-    webUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-humans-amazon-demands.amp"
+  - title: "Team Uses AI and Robotics to Treat Spinal Cord Injuries"
+    excerpt: "A team of researchers at Rutgers University has employed artificial intelligence (AI) and robotics to formulate therapeutic proteins. The team was able to successfully stabilize an enzyme that can degrade scar tissues resulting from spinal cord injuries."
+    publishedDateTime: 2022-04-16T23:46:00Z
+    webUrl: "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
+      name: unite
+      domain: unite.ai
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/2-robot.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/human-skeleton-163715_1280.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
-    excerpt: "Many modern AI-driven applications, from the Google translate feature to robot-assisted surgical procedures, leverage deep neural networks. These are a special type of deep learning model loosely ..."
-    publishedDateTime: 2022-04-13T11:48:00Z
-    webUrl: "https://theconversation.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
-    ampWebUrl: "https://theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us-180218"
+  - title: "Zoom launches AI-powered features aimed at sales teams"
+    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
+    publishedDateTime: 2022-04-13T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/457467/original/file-20220411-19-lp9io8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Artificial intelligence keeps the spirits up during the pandemic"
-    excerpt: "So it is fitting that one such lockdown era trend is intersecting with another — that of surging focus on digital transformation — as supermarket giant Coles’ Liquor arm looks to invest in artificial ... are in insurance or healthcare, there are ..."
-    publishedDateTime: 2022-04-12T19:04:00Z
-    webUrl: "https://www.afr.com/technology/artificial-intelligence-keeps-the-spirits-up-during-the-pandemic-20220410-p5acfl"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+  - title: "Advocat AI Has Created an AI-Driven Legal Contract Generator to Save Businesses, Their Corporate In-House Attorneys, and Customers Time and Money"
+    excerpt: "Advocat AI has created an AI-enabled platform to create legal documents to help in-house attorneys with legal intake, research, and drafting. This provides"
+    publishedDateTime: 2022-04-13T12:45:00Z
+    webUrl: "https://www.goskagit.com/townnews/commerce/advocat-ai-has-created-an-ai-driven-legal-contract-generator-to-save-businesses-their-corporate/article_845220be-bcc0-5a5f-b7a9-9d2f5ff29414.html"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 0
 
 secured: "0XxhTmZew24QKo3Rkpf7Kd5mnaIU6BfulNtJO3u9LlI4DJ70Zhm+tqiYPUPAZ2wgMp5qios/Mq/2DtI7DypKE+hEwvFJfJx6Q3RL5WjoOdWfCpHuInRu0FmwderVIIQnF9/A+tIFN+CAXpooanPCX1cMEHDjrDisZPlnMW+3rQA3IJRWioSyoA9NKSlykmGxQgG8U4Ao0Cg+B5ZlOVCauKC5+4X1YMBljrPL5bWnfldv5OJ0iWfUL+4WqE7BEl4qahE1eQomuwv9lINcy5W9zOSJqgG81/UdFfedQb6e7d9i/Jj8Rf4EgVb78z/7Z0eN0Npszi+/iZCjmWaDCfDVUegDOfuhfRLI8D+x8vCXGkKHe6Q2L+GMh7nQJLjhjd0fzkubIo0p+dFqPJaWGbCpuSq39YtOoNfLZRGoNGKdXbb2vF3qPxJmfbBmUnyLIiUQIllqTQUyoBk2F7RRdeEUua35z/ii9n9/iECkGUK4J670RQs+Y1uKDIWjmdPtOODS+0G3s1XINfM0+iPr/hArzw==;JqCs94cWsLEnkkUGBqnA2A=="
 ---

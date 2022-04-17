@@ -8,7 +8,7 @@ webUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions"
 ampWebUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
 type: article
-quality: 70
+quality: 74
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Natural Language Processing
+  - AI Ethics
 
 images:
   - url: "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png"
@@ -85,6 +87,6 @@ related:
       domain: wsj.com
     quality: 40
 
-secured: "CvIJYOoilFvohPL5mEVxzoCPE3VesOZTzev/0RzvQKmmV32gK32ybRmoPb4P4lV7QUhQ9Ilsw6zMQxBuK0TvrLu89VEO+mwtNy87X1mf9ub2uDwVvgPNRgB8bBzWes+EyHiXcNKB/tY59bEUZCK2xGAEaxzcHJUBEayx1iVvKy0nlxEAGtP7dAbNqQgn32p625y90kJ11OHkO1aheH1Yo769uN7Vpu10ou5zjAtDdV6aWOWTM+bU9Zh9W7xA4tV+YNtBe3Gk64Fzvx1qrWjuCQjh/UE1yivw/FvvvnTBabzdyRjXwdViQyWuOEHNHoU58p7prj1ibDx6UTJt451xUhITauCIbTPZ9j6j29TjNdU=;EKO2kCEAq22zg8Z5/2aw8Q=="
+secured: "KGUt8opFJF787+ujr3wNyFgeeXgYmVgjToRyMQBnTsirkno8i5lV14+bf/4XkGnpF8uwImOvA6JZk8fx0NXb5UIOrBNAImOvfg9i5CT5NBWfpaGFWBl0XS8SM31/2aS0eer7m8H1WbWVlcJfU8+wdlWBHcrrV1NRnyUo+Vy7KL2N0HisXW+KjotzMXdwhpUVn1yYayqRGa8JaOpVWmeZIe+wS08KqzDSCqbPqMKbKnbrXr6/e3+4/F6jMTcUrwhp+BYcLhn38i6SNxswwkkL8bqNoAOKTs/7s+eadxCcoPP3DWnnXdsyxuPz9qSEevVeJWQlnA6xwAkd0PZzrfoCJqIyHMCHAbTpANPUvwjuf9XuVlqrTi1SdqIZ296Bn/CJt8lh+gmC4tXrR5C/joJLhg11mRu0MXFhXX3MXdgOtwNBNqOR/WTuFbI+a1djHT/HKscpIkje4n1jlzXcy7l90Xfv91/2Ghjof04xTAw3m7f1ZMFOG1ei2PVS/3Y4dmQu9cS1Iu9/WIxffEnhmuxotA==;0v1HTHUIKhbdp15GdTnXaA=="
 ---
 

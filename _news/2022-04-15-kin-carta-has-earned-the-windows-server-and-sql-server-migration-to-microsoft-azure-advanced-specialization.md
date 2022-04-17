@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-publishedDateTime: 2022-04-15T13:03:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-cloud-computing-78e77dddf76e28b21fd46088650e9fba"
+excerpt: "CHICAGO, April 15, 2022 (GLOBE NEWSWIRE) -- Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization ... application development and data & AI. As a Gold Microsoft Partner ..."
+publishedDateTime: 2022-04-15T13:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26651349/kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-speci"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/g26651349/kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-speci"
+ampWebUrl: "https://www.benzinga.com/amp/content/26651349"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26651349"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 55
+heat: 75
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
       domain: menafn.com
     quality: 15
 
-secured: "DHLXTMQPLnzma2+doMPtCuphtes0RNhX0XQj5fKYLbzenxcErSSUj1XLtazKihv+gfqZPcrARgHZfwq1HBL+nWYW1exoUnnrxlBhxQVTPBf74BDrw/HgxsButSzr5knmblZ4XscNISdT5hC3oh2WEM5HzgdWB+Q2KkChG4HldUJq+UU75dDlnqoY6xvQwpu1rPCVVmbkQoI89MRLjkj7C46/ndl4WIYpDPAKv5TIKUJdRrmiMgQrGc9IaKU7s40GHkIHkarhKaUVzWlBTmT0RcaxRYkCUj6JgLFfJojSBM1yNXb2znYTyblZHBpEk+CdG9ReVWbeWOmLPH81G03i9D9GjKmd6isDmBmja6rHNt4=;/mMiPs6Xk/PSkhf+njEmxQ=="
+secured: "i9xk9SeP7gn80mku+vd/Kna7dr2kV6oOdFdNYxeU1Z9oskpqEzncu7hN9Q2MlEMwdXKqlXMX3LP6+bCztGa9eo4lxqJt3690Elibq4oK1dQwOp0fA8lRUGXd+T5CKdhYWD8p+3MTr1w1M/sBNJin30U6dPCOGLKt/tuPIAwvaYZ6HQULP04j3xESy8Z8yobakpgbXw/OnFFKrYYbnbVCprXOIro4Vz9suFtwn6ZVzGTIVQc7WJEKCRRHPvl+VEcMIwzDen8pLSCwmeLAMp62M7GpZF/axEzEyul6cfeyI0HQ4FK3jH7DB14EMwrGwNnHK8PeOpR53kQ28Cj1OZ2+wRH8fVjyNxBzQnufEgVzCkk=;hPv3vxprhka5NhWifucuIA=="
 ---
 

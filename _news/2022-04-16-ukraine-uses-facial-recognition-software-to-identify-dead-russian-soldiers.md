@@ -53,7 +53,7 @@ related:
     provider:
       name: Futurism
       domain: futurism.com
-    quality: 70
+    quality: 74
     images:
       - url: "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png"
         width: 600

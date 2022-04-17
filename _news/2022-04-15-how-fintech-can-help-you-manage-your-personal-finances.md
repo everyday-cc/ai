@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424896"
 webUrl: "https://www.entrepreneur.com/article/424896"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
         width: 2560
         height: 1706
-        isCached: true
-  - title: "ADGM-based FinaMaze selected as part of the Fintech Saudi Regulatory Accelerator Program"
-    excerpt: "Fintech Saudi is an initiative under the Kingdom’s Financial Sector Development Program as part of the Saudi Vision 2030"
-    publishedDateTime: 2022-04-12T06:26:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgm-based-finamaze-selected-as-part-of-the-fintech-saudi-regulatory-accelerator-program-qg01c25q"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 15
-    images:
-      - url: "https://static.zawya.com/version/c:ZDM4ZmFmYjEtOGY0Ni00:OWY2MTM1/finamazefoundermehdipicture-jpg.jpg"
-        width: 900
-        height: 1350
         isCached: true
   - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
     excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
