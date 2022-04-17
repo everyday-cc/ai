@@ -40,20 +40,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Northwell launches platform to create AI startups"
-    excerpt: "New Hyde Park, N.Y.-based Northwell Health partnered with startup studio Aegis Ventures to launch a platform to create healthcare-focused artificial intelligence companies. The platform, called Ascertain, aims to develop and commercialize healthcare AI ..."
-    publishedDateTime: 2022-04-12T21:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/northwell-launches-platform-to-create-ai-startups.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "GTB07e9nrEZhRKYaGrp4pTiGRdh+0WFHRaYwyk0GNEe+yGRcuOPOMGSPN94WUzRen09su46PflQPjhFxEacyt/ZN+hP2e2JPKelPvkl2rQvqfQau5ukRZT0bzZRJgadXw7cok/O8vMB1pCqctg3Z3fy6Gr7bc5/+KxMMn++LpPUgwfJtLQzWab+hSdn/1U08eXV1gskwqg7SIaJzxZeRmXuFfYUuCopI/2TZJnRlLFAmQCM2rHB1qkPS2XeqL6ZlQgUCNpliUZHe5momwkZM7CdjLLSpJ1rOK5g16ZLPGp/b8m+r+p56+Ev+bl2/YRt7qQgWM9r+X3oe2mAXuD4rXGRk0gtQ92NxMsNps3iyuykScGeFz/O0CRSjCeBG9jhKbDXWIdC2alZkzPe+JTF8DMwZBAIJs8bklMzjKbAQlI2Ultevay35J2qYXlMa+H4CF23/hChgfrGSKcRfYOGPjAuUe+xc2fdok8qkra6LTkvlG8lf+G7gpSp9sBUnK/AFiuZSR1l4FwWM0DUOhDfpzA==;x9cZ9i2yR4094pIxM8vn1A=="
 ---

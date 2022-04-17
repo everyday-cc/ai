@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-softwar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Observe.AI Raises $125M in Series C Funding"
-    excerpt: "Observe.AI, a San Francisco, CA-based Intelligent Workforce Platform that transforms contact centers through AI, raised $125M in Series C funding. The round, which brings total funding raised to date to $213M, was led by SoftBank Vision Fund 2 with ..."
-    publishedDateTime: 2022-04-12T22:20:00Z
-    webUrl: "https://www.finsmes.com/2022/04/observe-ai-raises-125m-in-series-c-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/09/observe-ai.png"
-        width: 307
-        height: 307
-        isCached: true
   - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
     excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
     publishedDateTime: 2022-04-14T19:05:00Z

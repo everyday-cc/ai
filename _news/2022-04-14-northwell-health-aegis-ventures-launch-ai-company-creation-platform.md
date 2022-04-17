@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/northwell-health-aegis-ventur
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/northwell-health-aegis-ventures-launch-ai-company-creation-platform"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Analytics
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Northwell launches platform to create AI startups"
-    excerpt: "New Hyde Park, N.Y.-based Northwell Health partnered with startup studio Aegis Ventures to launch a platform to create healthcare-focused artificial intelligence companies. The platform, called Ascertain, aims to develop and commercialize healthcare AI ..."
-    publishedDateTime: 2022-04-12T21:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/northwell-launches-platform-to-create-ai-startups.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Chairman of new Northwell/Aegis accelerator: It will build AI companies much faster"
     excerpt: "Northwell Health, the largest health system in New York, and startup studio Aegis Ventures announced Tuesday that they had launched the AI company creation platform Ascertain. The partnership brings $100 million in seed-stage funding and permanent long-term growth capital to launch companies at scale."
     publishedDateTime: 2022-04-13T22:04:00Z

@@ -3,12 +3,9 @@ category: news
 title: "Bulgaria to develop AI research centre in partnership with Google, AWS"
 excerpt: "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership"
 publishedDateTime: 2022-04-11T21:40:00Z
-originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
-webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
+originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=cee-telecoms-media-it-newswatch"
+webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=cee-telecoms-media-it-newswatch"
 type: article
-quality: 54
-heat: 104
-published: true
 
 provider:
   name: Business New Europe
@@ -24,73 +21,6 @@ images:
     height: 510
     isCached: true
 
-related:
-  - title: "Zagreb to Become AI and Data Science Scene's Centre in May"
-    excerpt: "The City of Zagreb is set to become the centre of data science and artificial intelligence (AI) this May, with six keynote speakers and many lectures on offer."
-    publishedDateTime: 2022-04-16T05:18:00Z
-    webUrl: "https://www.total-croatia-news.com/travel/62075-zagreb"
-    type: article
-    provider:
-      name: Total Croatia News
-      domain: total-croatia-news.com
-    quality: 39
-    images:
-      - url: "https://www.total-croatia-news.com/media/k2/items/cache/872414604f95ac4ff229b18a9d9e962a_XL.jpg"
-        width: 1170
-        height: 731
-        isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "The Centre will support acceleration of AI industry research and development through support of SMEs and talent developmentDubai, United Arab"
-    publishedDateTime: 2022-04-14T16:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-ai-computing-centre"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://orders.newsfilecorp.com/files/8457/120422_cb9e993834ed1a08_001.jpg"
-        width: 550
-        height: 330
-        isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
-    publishedDateTime: 2022-04-14T21:50:00Z
-    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
-        width: 550
-        height: 330
-        isCached: true
-  - title: "Backed by global tech giants, Bulgaria’s new AI institute seeks world-leading status"
-    excerpt: "The Sofia-based Institute for Computer Science, Artificial Intelligence and Technology (INSAIT) wants to gain world leading status within a decade."
-    publishedDateTime: 2022-04-13T06:59:00Z
-    webUrl: "https://emerging-europe.com/business/backed-by-global-tech-giants-bulgarias-new-ai-institute-seeks-world-leading-status/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 34
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2022/04/bigstock-conceptual-background-artific-22210097-1024x768.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
-    excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
-    publishedDateTime: 2022-04-12T12:04:00Z
-    webUrl: "https://menafn.com/1103998828/Swiss-expertise-supports-Bulgarian-artificial-intelligence-centre&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
-
-secured: "mj0n2kK6MeHFse0UOW90QKOwk1C1HzDREO+l/eDlJfFyT3N8NfgXtv1G52r3cFxHdfzG99c0skUl9tl6RMoK9sZXx7OqO5kcvzTNPaM+8hHTbzuw7ffuX6sWoTvkRC0MBE3iEiDMlk3fbjy/FBolXPHDZBgqRB4S2MwXBirVM5LEqvf5hmpU/uZm47LltyZOSidDYWHDB7inHbit3pqNSRAMQ0BVzbYLbEVm5T5YvOB6jqLNUAqmyYNFwxZ7uFb0gyYXH1dImnAjLHCvMQGZ4TxkOzyuSooGWWrSAxTmP5BnFomFhNWhq3jThk/NelCbYx2GaAyN8bYUp1HvGPfsaqt+Bs+i66utiuXkjvzMmOyH9fyIooAkL7SJEAUgRsgTVd7S9b0F0Dte7kPOfeLQ2jOfQ4DddZK4+mFtftAs9YeayUm9LnmgrwTXSCCFVC5i+jp3hyucNy/TsdYdPxrNOVKaBJsRXCbSl5jYH3DX31wMcFYFzYDTod7RGQnvd29LRCDkMDXql4GP+nFI3oPQYg==;QsbXN9mXBCu8TRuZ1afnLw=="
+secured: "YDSchUepXfrQ1zA6LcHfW9w5RcJWYN78ZMc6ZVglfwafPbM4cJ4+Xcc7IaAZfkKQValKLL6DcpvTBcw0U46zFDSMYMrmqf9hyPHXmhDpsoNPCTplCF8gm17dlBYeZ8wo1qDbBGN6aJ31gcX3SCmMWX40LU0zGXqE9OyUYX+g9FTMKvmUby7DoDmX4+KSDoG9Trjao3rlEfq+xJ285xrOyqENvI2Ys/2cwN/n61GmLwV6zOYWEvExTIGUYWoiFo2VsKf9drXC16dIoAtmMJAg8vuM13fbBiMo7CzwF3+SCH5MC/KGkW0MRUIF93rS+mGimp+9OBHRUQbFXlrwtRd+nHsNe3XdGzzyURWIrE0Wc3c=;8m08DpL+rGtIzYuMtofkSw=="
 ---
 

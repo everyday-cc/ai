@@ -48,15 +48,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 32
-  - title: "Panera testing coffee-serving robots"
-    excerpt: "Panera is partnering with Miso Robotics to test a coffee maker they say can brew the perfect cup of coffee. The CookRight coffee line uses artificial intelligence to monitor key coffee metrics including volume,"
-    publishedDateTime: 2022-04-12T21:40:00Z
-    webUrl: "https://www.kfvs12.com/2022/04/12/panera-testing-coffee-serving-robots/"
-    type: article
-    provider:
-      name: KFVS12
-      domain: kfvs12.com
-    quality: 19
 
 secured: "lvm+G8HHkD8NR+lRcifVHMFjSPgB5M3sHzW9hZJIaUWwla1ablpxF2rviHgxmkXRj4qcD5KeFNYNyoH3uBXD47bm/oeZAeJjv5hUyyxo3L/A2xVyCvDxyQevpFFjfOOkFnwbBXU5ftUn3URwF9aZImzXqBCAWOO2TxYytKJfTs1YPeFvX/ceCiXfyVMtJLGWm54fkorWKoNpgRr5OYAVRvERhYTwyCiZzqDG5ESDud9FTsN7l1ZB8dxdZCCQ+rReMmLAhed/ROuvnjnq7XdtYw5rdwvTdEhrshzqx7YceOIrHzuahlEBtLX9W5VNhVeN3929Rx0XW75MqKwPhMnlnYiuDC62aPj86YUmtffSfNY=;wwQ+IRl4KHTHwXYEdyK3oA=="
 ---

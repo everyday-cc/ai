@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "The Internet Can't Believe Cops Pulled Over A Driverless Car"
-    excerpt: "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ..."
-    publishedDateTime: 2022-04-12T19:19:00Z
-    webUrl: "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/the-internet-cant-believe-cops-pulled-over-a-driverless-car/l-intro-1649790585.jpg"
-        width: 1600
-        height: 902
-        isCached: true
   - title: "Watch this driverless car get pulled over, then bolt for it"
     excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
     publishedDateTime: 2022-04-13T16:52:00Z
@@ -81,6 +67,15 @@ related:
         width: 718
         height: 478
         isCached: true
+  - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
+    excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
+    publishedDateTime: 2022-04-13T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/04/13/in-sf-we-find-out-what-happens-when--cops-pull-over-a-cruise-self-driving-car/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 31
 
 secured: "2bAc7lEmFMlOhe/QNGTW3Jnd4Qs83RrF2D5rqHmLmzVwJkj6ML1j64dSkjTY2YVCIBGrUf9KEe60L6duq2YlUv2+049tyTTQ/bIZ+XG6hEZlo8u+FAclOQJLSjUzomJaq6UYlVks36Nr8UkC8hLXjEaJFe0Ful/YB5y9x5X7jCUt/exQUo2t+jPaaG7S/f9a1gCRCggEC0qABSAnZkvIzTdAuaEHlHE1IhgnuZFQHM6piDUazjTlK+dZi/5mcOngguyJTM+G3DvyRjODh83m3JS+VdrkIci7a9uk+9dKIqlKKTMY0S0HfaihXTyaX1HpIpNOLEkKyBZf2fDCkGvQl8LVFnr/Sj1p80OBRjg4+58=;ZMSXACEc9EfGrKd7VPAhBw=="
 ---

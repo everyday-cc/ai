@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-y
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Intel Takes on AMD, NVIDIA with First Discrete GPU for PCs"
-    excerpt: "Hyper Compute uses the combined resources of the CPU and GPU to speed up AI workloads. The company has partnered with top OEMs such as Dell, Lenovo, HP, Samsung, and many others to roll out laptops for gamers and professionals that feature Arc 3 GPUs ..."
-    publishedDateTime: 2022-04-12T19:49:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21237921/electronic-design-intel-takes-on-amd-nvidia-with-first-discrete-gpu-for-pcs"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
   - title: "Intel to boost performance per watt 5 times in next-gen CPU-GPU"
     excerpt: "Intel Corporation announced ambitious plans to achieve net-zero greenhouse gas emissions in its global operations by 2040, including achieving a 5-times increase in performance per watt for its next-generation CPU-GPU."
     publishedDateTime: 2022-04-15T06:07:00Z

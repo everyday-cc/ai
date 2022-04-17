@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-17T11:00:00Z
 originalUrl: "https://www.ibtimes.com/avoid-concerts-forfeit-big-game-no-need-thanks-ai-3476630"
 webUrl: "https://www.ibtimes.com/avoid-concerts-forfeit-big-game-no-need-thanks-ai-3476630"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: International Business Times

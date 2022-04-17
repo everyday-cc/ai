@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-s
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - Machine Learning
 
 related:
+  - title: "A novel AI technology predicts if and when a patient could die of cardiac arrest"
+    excerpt: "An AI has been trained on raw images of patients’ hearts as well as patient backgrounds to predict if and when a patient could die of cardiac arrest."
+    publishedDateTime: 2022-04-17T14:34:00Z
+    webUrl: "https://interestingengineering.com/ai-technology-predict-cardiac-arrest"
+    ampWebUrl: "https://amp.interestingengineering.com/ai-technology-predict-cardiac-arrest"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-technology-predict-cardiac-arrest"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 52
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQlrWa6N/sizes/cardiac-arrest_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Using AI to predict future cardiac arrest"
     excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
     publishedDateTime: 2022-04-14T16:50:00Z

@@ -5,6 +5,8 @@ excerpt: "Some household gadget is misbehaving and you need help. Or you have a 
 publishedDateTime: 2022-04-05T06:12:00Z
 originalUrl: "https://bdnews24.com/technology/2022/04/05/ending-the-chatbots-spiral-of-misery"
 webUrl: "https://bdnews24.com/technology/2022/04/05/ending-the-chatbots-spiral-of-misery"
+ampWebUrl: "https://m.bdnews24.com/amp/en/detail/technology/2041647"
+cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2041647"
 type: article
 quality: 24
 heat: 24
@@ -17,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/04/05/customer-service-chatbots-050422-01-smr.jpg/BINARY/customer-service-chatbots-050422-01-smr.jpg"

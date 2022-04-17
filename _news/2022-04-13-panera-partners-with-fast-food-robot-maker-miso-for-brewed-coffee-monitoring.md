@@ -48,15 +48,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Panera testing coffee-serving robots"
-    excerpt: "Panera is partnering with Miso Robotics to test a coffee maker they say can brew the perfect cup of coffee. The CookRight coffee line uses artificial intelligence to monitor key coffee metrics including volume,"
-    publishedDateTime: 2022-04-12T21:40:00Z
-    webUrl: "https://www.kfvs12.com/2022/04/12/panera-testing-coffee-serving-robots/"
-    type: article
-    provider:
-      name: KFVS12
-      domain: kfvs12.com
-    quality: 19
 
 secured: "jUGEDaprgRuDwdqopplb8hF+DBMgIF5/wRfsldyjDqjCcdboHaWGodL3R3CD2moA7O6MD0h62jFyYW6jogO2PR4n6mUgDLGDbA3OEw6VPEdPJVJxCKzTbMlgjgDHJaK4BYxV2PxCU75NHrT2nYn58uXpeV20IiC7ePrP5kTbOH11QqbJuzusATNeKnbmsbbIKbLMasvJwFpoR8AwzALU0puCVyCBE4ynTcccduKJZNXL21iR8pcJiE36wPNWrGq2DJ7skbK6AOr5CmmyhC7RQVxUYBEjCy+cjQIlaNEoOyYs+FWPN/5Uci+eUcsUFzNrbfBDXuGzPNtHXAi/6PY+KIG4oJzo5bP09KywDig3Qvd2lOTl4XcaMUny55XwpL4r4jQIvMPcBcqXhtzHONXQbAQH/MrPhjQ3B9cMwehUmCgl2FKE44rWrP0MPARz4O39lyOc0IcnyQ9jxfIW+xXm6Xbx5wDcvOcEQI5lodnNidCkxZkrpofv+XC9EYquC5HuX45FGuLY5W514FdOyiYL+g==;aq04Xu4/SGFkH7dgZA5QoQ=="
 ---

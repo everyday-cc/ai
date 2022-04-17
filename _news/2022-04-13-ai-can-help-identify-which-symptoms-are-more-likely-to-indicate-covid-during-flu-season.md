@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220413/AI-can-help-identify-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220413/AI-can-help-identify-which-symptoms-are-more-likely-to-indicate-COVID-during-flu-season.aspx"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can predict probability of COVID-19 vs. flu based on symptoms"
-    excerpt: "The next step is to create an AI, web-based calculator that can be used in the field. This would allow clinicians to arrive at a presumed diagnosis prior to the visit,\" said Alemi. From there ..."
-    publishedDateTime: 2022-04-12T20:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/26-covid.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI can predict probability of COVID-19 vs flu based on symptoms"
     excerpt: "A new study highlights how clinicians can use artificial intelligence and seasonality to screen patients and identify the probability of COVID-19 prior to testing."
     publishedDateTime: 2022-04-13T20:00:00Z
@@ -51,6 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Health systems are using machine learning to predict high-cost care. Will it help patients?"
+    excerpt: "Ideally, machine learning can help health systems, payers and social workers understand which patients have the highest need and bolster resources for those populations."
+    publishedDateTime: 2022-04-13T08:30:00Z
+    webUrl: "https://www.statnews.com/2022/04/13/high-cost-utilizers-health-patients/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 29
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/03/AdobeStock_334806317-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "//HxxvDUI/hEGPTNRfY6i8Iu7DpIdbPbJoFVw+A46KtG2v3x/lowXqigNOMzfDkVEGeft6J2PL77Iii0IsW4FUVNdJL8Hid0IUsJ9PFFYI9z5S7+2NbcalToby830Ep1Jb6CRI2SnYRjZQWME8jToJjAF7cHr55qCy8qS/qIXEcY+4rlCaBS44g781gX6owIJDOHQ4+ctYvO7nb/bkPnYI1HYzO7j+lx1klOab0qcR9/RvXmfbB/ABGG2TK06dzb0jx/p5YwRJFvr5iBLrfEe9TY2BL8c+1nABlnFLlOeYeXsZGegTMOZ78gcHiKcyvRGP6eS5GO0VxbByE9gm0gHHRaPS91hdpzulvJWtaeMo4=;0YToikAPDkQZNDL8l56+ig=="
 ---

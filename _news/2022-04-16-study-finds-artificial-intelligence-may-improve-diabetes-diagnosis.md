@@ -32,15 +32,6 @@ related:
         width: 840
         height: 600
         isCached: true
-  - title: "Engineering team develops new AI algorithms for high accuracy and cost effective medical image diagnostics"
-    excerpt: "Artificial intelligence has also been widely used to further enhance the process. However, conventional medical image diagnosis employing AI algorithms require large amounts of annotations as supervision signals for model training. To acquire accurate ..."
-    publishedDateTime: 2022-04-12T19:16:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220412095357.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 31
 
 secured: "XYyLOjwgT4t9U6NnU92otClq60D0p3cSJv9Cd+/4HHSFJR7pfaqGBJK1laL9YnC9rmU6GHzP8ZYQckye3c8llmIswoMY6nnJVo0W7NmFWOgkCrpMOtsAHFiIWbK38UOIRTu24Vcr8Eylr4/XRaS4UZ5oaRufTjMw9XDdpRq89eVH2XKTKGc35zNC9CN5CbpcqSn9En34QWNievAMTjY6KJZftAtYc67TJgoGr/4PrGTyqs1Cj6+S0Gn7KEQkx6s8qpkFXn7OceVLImFToJgmDqFG+FJa6o86UFSOMaFi4rVP5apyCqqS8SePtFAIdvql75NtINAHJ4R26ERd7hsRHfhgXmwItVlHBTqKwpd8Vrk=;TpA5fvKGwhoQ0eFsw5M1tQ=="
 ---

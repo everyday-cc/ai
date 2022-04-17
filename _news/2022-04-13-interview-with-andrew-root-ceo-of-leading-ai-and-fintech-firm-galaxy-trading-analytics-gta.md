@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "AI and IoT analytics protect people and koalas"
-    excerpt: "These sensors are powered by artificial intelligence (AI) and machine learning from SAS, the leader in analytics. Attentis has created the world's first integrated, high-speed sensor network throughout Australia's Latrobe Valley. Today, this network is the ..."
-    publishedDateTime: 2022-04-12T20:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-and-iot-analytics-protect-people-and-koalas/article_fd455f18-6b6d-5903-b0df-5888750f31d0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/fc/0fc90ba7-da94-5282-a5c8-62e5c261492f/6255bfcebad25.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
   - title: "CaliberMind Launches AI-Based Revenue Analytics Platform"
     excerpt: "Concept: American B2B customer data startup CaliberMind has launched a B2B revenue analytics platform for enterprises to analyze their revenue. The platform utilizes AI to help enterprises to connect, analyze, and activate data to attract new customers ..."
     publishedDateTime: 2022-04-13T10:45:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Facial Recognition, Video Analytics, Geospatial and Other AI Techniques Aiding Ukraine’s Investigations of Russian War Crimes"
-    excerpt: "For that, the investigators are aided by advanced machine learning technology, including facial recognition, geospatial data analytics, image analysis and analysis of streaming video from security cameras. A story in today’s Wall Street Journal focuses ..."
-    publishedDateTime: 2022-04-12T21:42:00Z
-    webUrl: "https://insidehpc.com/2022/04/facial-recognition-video-analytics-geospatial-and-other-ai-techniques-aiding-ukraines-investigations-of-russian-war-crimes/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 27
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/04/Ukraine-Bucha-041222-Shutterstock-2142943139.jpg"
-        width: 500
-        height: 334
         isCached: true
   - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
     excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
@@ -125,6 +97,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Adaptive and Spark Compass Announces Alliance - Combining Data Governance, Analytics and AI"
+    excerpt: "Adaptive, Inc., a leading provider of data governance and analytics capabilities, and Total Communicator Solutions Inc (TCS), aka Spark Compass, a leading provider of Artificial Intelligent capabilities to identify and analyze patterns of enterprise data,"
+    publishedDateTime: 2022-04-13T13:02:00Z
+    webUrl: "https://apnews.com/press-release/Newswire/technology-business-01a097b6bcc366926ff617917cd4ec97"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 9
   - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
     excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
     publishedDateTime: 2022-04-14T12:59:00Z

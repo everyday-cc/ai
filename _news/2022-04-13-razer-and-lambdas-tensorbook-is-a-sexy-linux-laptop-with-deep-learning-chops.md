@@ -66,20 +66,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning"
-    excerpt: "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software. The sleek laptop, coupled ..."
-    publishedDateTime: 2022-04-12T19:29:00Z
-    webUrl: "https://www.eagletribune.com/region/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_3dea9bcd-e932-59f9-bf61-89cd4f97d239.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 22
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/99/699e67af-47af-594f-9d90-8653bbe33ddc/6255d0ec22e49.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Razer & Lambda Tensorbook create laptop dedicated to machine learning"
     excerpt: "The new Razer + Lambda Tensorbook has been specifically designed to be the most powerful laptop in the world for deep learning."
     publishedDateTime: 2022-04-13T23:30:00Z
