@@ -37,7 +37,7 @@ related:
     provider:
       name: Neuroscience News
       domain: neurosciencenews.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://neurosciencenews.com/files/2022/04/psychotropics-ai-neurosicnes.jpg"
         width: 770

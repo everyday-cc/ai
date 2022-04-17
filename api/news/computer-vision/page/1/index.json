@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-13-youngkin-wants-amendments-to-hemp-facial-recognition-bills.md",
-      "title": "Youngkin Wants Amendments to Hemp, Facial Recognition Bills",
-      "excerpt": "Youngkin is also seeking amendments to another controversial bill that would lift a ban enacted only a year ago on the use of facial recognition technology by most police agencies. The measure passed in March with an unusual bipartisan coalition of support ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/",
-      "originalUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcwashington.com/2021/11/Generic-Marijuana.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp",
-      "cdnAmpWebUrl": "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/youngkin-wants-amendments-to-hemp-facial-recognition-bills/3023092/?amp",
-      "publishedDateTime": "2022-04-12T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Washington",
-        "domain": "nbcwashington.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
       "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
       "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
@@ -282,8 +239,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?968906",
-          "width": 602,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?903935",
+          "width": 444,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1322,6 +1279,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-facial-recognition-climate-change-and-dumplings.md",
+      "title": "Facial Recognition, Climate Change, And Dumplings",
+      "excerpt": "Bloomberg Opinion columnist Parmy Olson talks about the dangers of facial recognition technology being introduced in war, and columnist Adam Minter describes the importance of Russian cooperation in slowing climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2022-03-25/facial-recognition-climate-change-and-dumplings-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2PXbxrf4nZA/v0/1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -24,26 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Marketing Market to Hit USD 21 Bn | Market Size, Share, Trends, Analysis and Forecast 2027"
-    excerpt: "Forecast till 2027. Market Highlights. The global artificial intelligence in marketing is growing continually. The mar"
-    publishedDateTime: 2022-04-12T12:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-marketing-market-to-hit-usd-21-bn-market-size-share-trends-analysis-and-forecast-2027"
+  - title: "Artificial Limbs Market Trends 2022 Top Countries Data, Growth Drivers, Demand Status, Opportunity and Challenges, Forecast till 2027"
+    excerpt: "The “Artificial Limbs Market” provides an in-depth analysis industry size, share, growth revenue and upcoming innovations of industry. Artificial Limbs market includes key market patterns, regulatory measures,"
+    publishedDateTime: 2022-04-14T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-limbs-market-trends-2022-top-countries-data-growth-drivers-demand-status-opportunity-and-challenges-forecast-till-2027-2022-04-14"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 23
-  - title: "Cloud AI Market size to increase by USD 10.22 bn | High growth expected in software segment | Technavio"
-    excerpt: "Start by Downloading a Free Sample Report The market is driven ... and cybersecurity-related threats will hamper the market growth. The global cloud AI market is highly fragmented due to the presence of many global and international players."
-    publishedDateTime: 2022-04-13T02:42:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cloud-ai-market-size-to-increase-by-usd-10-22-bn-high-growth-expected-in/article_6534fa91-c5fb-5475-9854-14bd2ebf3086.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/b3/3b3afe77-1954-5d15-be69-a9b256125b90/625630341b3b3.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
@@ -75,20 +66,15 @@ related:
         width: 406
         height: 250
         isCached: true
-  - title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028” report has been added to ResearchAndMarkets.com’s offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism."
-    publishedDateTime: 2022-04-13T11:52:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
+  - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
+    excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
+    publishedDateTime: 2022-04-14T13:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computational-creativity-market-size-share-trends-growth-drivers-industry-demand-opportunities-key-players-and-impact-of-covid"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "K4Ht3zCHbiBI9g/78CNNV/VImIVWVF8i6RkW+80Wxw0PjDNjh0Gtz6iJ9Th2LDraZKtSuF6/lMHJJnEjoc2Ug4tRWCegkQHhfupyueRx+qO+N58xEu1XhjPhVp5vGUTk93/Sm76empC+elrnT+my26kZ0J4dTo9s849DNyPavEgMW/QR96ttGqKu6blObU8VdHoWTX6rNw3ZIsaGLH/CpQRvm9SBC5LtFA+tx29J+Yn2DAqmfKO5fBeLGLjMfwFCE+TfR2lW+er2tLS4K1W9WfiBO8XplAV8zq8V/NIXE52LxYVDRv+mpYJjXlUl6GfbmmPgOsUrPr1AbkG4ow0qCn7F5KMLH3WUrR9AixnDAqU=;h1jTtNF/Tg6zifzED6S+1A=="
 ---

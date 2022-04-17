@@ -53,15 +53,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Self-driving car stopped by San Francisco police"
-    excerpt: "San Francisco police officers were faced with a new challenge after stopping an autonomous vehicle with no-one inside. Officers approached the car, operated by Cruise, because it had been driving without headlights."
-    publishedDateTime: 2022-04-12T12:36:00Z
-    webUrl: "https://www.bbc.com/news/technology-61080666?via=indexdotco"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 34
 
 secured: "4YsDjekeaasTk1BiDJpB3udayip8ZyVNqm0K0rmgNcBLbuF1lguYD16tKpdjzl50bjxWQm5Sph8Kgzn/ksjY1Ie6I1RGsubTSxKj++bcyOjNzeR1oVu+yggkpJ7TR3vFEFW5qemYsxhL9fsuJBeaUbGKPgID5/DhUEUbS8267txkey7LWYIN9h30LECiNUZm4LMKxCw16dQfgMndH0sH0zXfcDQX8I8aEcJg9rtt+BScmvS1wyyWCaePAlJh9CAHhvQpvsxoOVLFvYEs80+94r5QqvYq5ogQRmuAU/1yo6zidLvP2k2sTjhEvKeJR/K6TTTsEBvwa0RbHCBuWkz8GHzI++9Eh0UWQfIk07IKKLE=;zUCSAFbH0wQ8DUn7dCpokw=="
 ---

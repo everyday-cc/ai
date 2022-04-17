@@ -53,20 +53,6 @@ related:
         width: 640
         height: 342
         isCached: true
-  - title: "Artificial Intelligence in Education Market Size, Share, Trends, Demand Forecast, Industry Revenue, Opportunities, and Impact of COVID"
-    excerpt: "Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period). We will ..."
-    publishedDateTime: 2022-04-12T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-size-share-trends-demand-forecast-industry-revenue-opportunities-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Stop-Putin-Russia-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Market Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 By Emergen Research Study"
     excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
     publishedDateTime: 2022-04-14T13:32:00Z

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial Recognition debate heats up"
-    excerpt: "Governor Glenn Youngkin can either sign the bill as passed, veto it or amend it. Youngkin's support would put him at odds with some members of his own party like Senator Bryce Reeves, who formerly worked in law enforcement. He fears the resource may be ..."
-    publishedDateTime: 2022-04-12T11:28:00Z
-    webUrl: "https://www.wric.com/video/facial-recognition-debate-heats-up/7595974/"
-    type: article
-    provider:
-      name: WRIC
-      domain: wric.com
-    quality: 19
 
 secured: "wMbjHqpYF8ZSbK9Bso4D0uWccA8org+kJA2lbAEdaMj+CzcoSIqFJmzoeeLwC7KlMg8L7PT+hGLYyDNYt72sk2NEBi6cuQeKeVa71t2BByH212in81+Z3klro3dSCy9V3tSI70KjPwBVQsiy41qIOuI33rMnJXnCWh9jm/j4bjDufQ754dwZ3M+FMXEY1Y0um//OfGalwjXJ9H/UwE0nvhxGorw6ZUhz+Bglv1D/TNrK24663GJRCnfKcu6h+gWwfdzv2LQ0AnOqbd5ag0M7gFvzBRGR5cTuDIU0hRqzSYMmdkb79QzDQdc4rEHF/16cDeUmpj9FNWCX6iEERAAMQSGsC1kfWgUEczn5T0SFRlhCJsbcKBnAQACSSVZO61JPhDps93sZGAOcobEA41+2dmVQp/ICsMHzfsjyVe3zUhBBReyfZvyQ1zbMwhZ+NTMjjKckwuJzBvnPZ0WVo6XGa69B/sRRhYuvbtHwuNaXZtir+dYfpMkLyjU/7IEQV44QAzQo3ger1wTUMqqOQaHMtQ==;1Pn/oGO0wXIx5Ec3hep82g=="
 ---

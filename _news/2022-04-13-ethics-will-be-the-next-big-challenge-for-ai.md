@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/ethics-will-be-the-next-big-challen
 webUrl: "https://www.afr.com/technology/ethics-will-be-the-next-big-challenge-for-ai-20220408-p5ac5d"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Artificial Intelligence Is the Next Step for Smart Homes"
+    excerpt: "In recent years, homeowners have adopted smart home technologies to improve their quality of life. Connected devices and appliances perform actions, tasks, and automated routines based on a homeowner’s preferences."
+    publishedDateTime: 2022-04-12T17:37:00Z
+    webUrl: "https://www.unite.ai/artificial-intelligence-is-the-next-step-for-smart-homes/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/smart-homes.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "VB2cq56B2e/0NLcgb4oIivMcdpMT/g1UoaKSvgoRGc9Y6QweDGbtKQW/LejRtPEuApv1JWpDyryKXnNyu9V5c+s4tMz2dea3MBMAPq6o9d417QEGx5se03mVlz1Dg/Y9QJwoh7cmFO5S/tJtHj8zK9EY1NgU4tqGCB2cJhpii5hLELrQzVU3OaoWwcl7rLrghqRiGjCoQzZxZHkgA1xyIKvGIgx3/q4/o83IdYfRJdRhoj+wZCWPVkc5kFZixdm4ABsW6KmdrverAG5TRi5HoHACrG34Ium+lTpoEw9xqGTUXV8T1qtXEIbDuY3B1VqEfedUbicTeXnZrnJsYlbc6rQZa0JNB2JxQjJhHNcWtHzkDhUIp1VKygPMK2bvk4ZB/ulhhY684AmYA0k7D6YQ+leiW1mA1NYOCoQ2i8JH5f+2f0D9GQBsqA019lX5XSa1gZYCYN6PRAgzRV4h9myp884KM1Os9GFgWp8Uzyeb5UrEydagfSAC87hw0YDzPJYwObQjYOWSUyLdsUfK9vt3ag==;bXF0SsukJNRaK1fDjxlQ4A=="
 ---

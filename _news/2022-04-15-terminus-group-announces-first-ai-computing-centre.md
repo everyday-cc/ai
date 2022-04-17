@@ -52,15 +52,6 @@ related:
         width: 550
         height: 330
         isCached: true
-  - title: "Swiss expertise supports Bulgarian artificial intelligence centre"
-    excerpt: "It is hoped that INSAIT will encourage research and jobs in eastern Europe. Keystone/ Valentin Flauraud  Switzerland's two federal insti"
-    publishedDateTime: 2022-04-12T12:04:00Z
-    webUrl: "https://menafn.com/1103998828/Swiss-expertise-supports-Bulgarian-artificial-intelligence-centre&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
   - title: "Deal inked to establish National Centre for Big Data Science and Artificial Intelligence"
     excerpt: "AMMAN — The Hashemite University, Zain Jordan and the Big Data Solutions Corporation on Saturday signed a partnership agreement to establish a Jordanian National Centre for Big Data Science and Artificial Intelligence. According to a statement by Zain ..."
     publishedDateTime: 2022-04-16T19:55:00Z

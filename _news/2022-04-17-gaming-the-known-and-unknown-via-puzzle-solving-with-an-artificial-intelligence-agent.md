@@ -40,6 +40,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Developing countries are being left behind in the AI race - and that's a problem for all of us"
+    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
+    publishedDateTime: 2022-04-17T05:00:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/articleshow/90889503.cms"
+    ampWebUrl: "https://m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-90889503/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "qvoT8FmZlhbRv1FcILZzDWaTgNK1fT250SL+H9ZNIRH9X5XUsgmubp6Y/Un9vQrjEHYDcG7OJMIRZgDBRSzIpVqtCCdF3RE/nu+4/UOZki1pvmsM/VrAKKRKIPOOdJkv6h+ps01CFTqurnq2kf8BoybiOx2LCmOyJrLlQ54/vN0pDPhvkvEWo0wQWsoegwkvnrsSLVY1i4mIPRfEcNqx/0ESDcSrcKAiNNcxyePfOghUAOr7CMGeW4KMJdgiTFptVk+wDWRzJvjkem0oJ5/CrnewzLigsGR06ET5Dsrduip2wOVgfvhZHtGVjU7MI6jv4uNTw9QeEimx71wiFubMOX93t4cdNxG/Tu7jFvprNIs=;3I02uuTjOeO/5b94SAS8+A=="
 ---

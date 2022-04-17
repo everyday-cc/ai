@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "View: Developing countries are being left behind in the AI race - and that's a problem for all of us"
+    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
+    publishedDateTime: 2022-04-17T05:13:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90889752,imgsize-68408,width-1200,height-628,overlay-ettelecom/view-developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Developing countries being left behind in AI race"
     excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
     publishedDateTime: 2022-04-14T08:39:00Z
@@ -55,15 +71,6 @@ related:
         width: 1222
         height: 687
         isCached: true
-  - title: "5 applications of Artificial Intelligence that are disrupting the banking sector"
-    excerpt: "The adoption of AI in different enterprises has increased due to the COVID-19 pandemic. Since the pandemic hit the world, the potential value"
-    publishedDateTime: 2022-04-12T12:31:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-applications-of-artificial-intelligence-that-are-disrupting-the-banking-sector/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 12
 
 secured: "C6EjbviyrV2ctlqiF+ChxElVJPHEm438s65En2BXQFPuuK4g0OEzyzLOfJRXySSvxcVUeYfoJGMycXLkAAhbz2fsaXDWnVCN+lnoWcYeesTBlDZF+2iO6sApC6g/5v3Jlr4xcEFkslrd/zx3LIxGkZu/51HKFuwipr0jiOSlSeRutEWVAtnVeFDoZSfi3K5J/zPch7DRgydPofdVPJIeoGBo4RAQI/7kBpHrfaWNmT4RbyOgZrTiuri3zcpPBxq83gS5F02PEk/olxtfAHMMjh1CU11aO5t3ScMLWyAYtFNmGy1bZyg9ueOmf20TxehsHWLGJj6keIJIqyyupacO1e8v9UvyJ+kjDkwQ/sogSnPJVICpagyujqcEqOLK+5XI0k1tGP9NDgEwRQTD0HgGtBKCYUjlRbtHA2SMCTuhkkcr7JAjGWUMhs1RhkVjD5WTmp4C5iNb9CuKNB8YiOR9NuefP27RoOeaBZkiIsmWR1dHrsGrMJedM5kc7ADqeZ+Cq7IHX79ViXZKqikLfilSqQ==;4TZuwF/t0D4+7Mk6FB1XmQ=="
 ---

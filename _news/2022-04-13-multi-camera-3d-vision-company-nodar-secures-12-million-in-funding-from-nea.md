@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/multi
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/multi-camera-3d-vision-company-nodar-secures-12-million-in-funding-from-nea/article_7aa2a3ed-c97d-54d5-985b-229b1a70630a.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Multi-camera 3D-vision provider NODAR secures $12M in series A funding"
-    excerpt: "NODAR’s flagship product, Hammerhead, uses advances in processing, computer vision algorithms and camera technology to produce ultra-precise 3D-point clouds from two or more cameras, Jiang said."
-    publishedDateTime: 2022-04-12T12:06:00Z
-    webUrl: "https://venturebeat.com/2022/04/12/multi-camera-3d-vision-provider-nodar-secures-12m-in-series-a-funding/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
 
 secured: "X1wTl9cU0fE3iYqJ1gnn5wbye6gfznEQWw5PGd0d9p15CWVm3ZMn0mhxvYL22FrmvKvONTWg61ifF84T5gfqTr8N2y1uu+hWgdaTpDAAHtLd0SrePwg/OrlUzqQq680vBQC/d3S4RaqO2n7vitwYtuyNWvvWzo1Wma6+R/AyWYHScX8Vai3k/xG6PD7iVK38g82iH9g8vPT58O+NS4LNVijf7SFMQUwIFMdVvJqB78vM7P+ndf776E2cjZ1TfCtPoUAv67cTxSDXY2nSCX/3ksFkvR5UAfGNubtOLuPFYNeHyXMIyHnXkMckAe4MoxSbTr237HsfMFKtuF6WPCe0dTXc37rlx1dcsr4IUTGBn9mjQz6Kzlg+mpRtSyK0ElySWIcTmjINHNas2PvaAF9YA7ai2cKc7dEiBzLBoJ0Qzo5I5LtxLKCzX5bnK9V03+ZpMGCNNLHF88cNMuIAEm8IB8zxKIBa523X0Oa/IEwfztl2OUsIliYiznUw3FoJMZV6VvwZl+e/jNsBOn4ToFYoPw==;vmMgsnxx9LpoWTaJbelQ8A=="
 ---

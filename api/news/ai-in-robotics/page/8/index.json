@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-10-joint-robotics-autonomous-systems-and-artificial-intelligence-ras-ai-demonstration.md",
+      "title": "Joint Robotics, Autonomous Systems, and Artificial Intelligence (RAS-AI) Demonstration",
+      "excerpt": "‘Robotics, Autonomous Systems and Artificial Intelligence’ was recently added to the Sovereign Industrial Capability Priorities list and the RAS-AI consortium is proud to be a part of the journey to delivering the best capability to our warfighter",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
+      "originalUrl": "https://www.linkedin.com/pulse/joint-robotics-autonomous-systems-artificial-intelligence-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGA2w2xa0Dqiw/article-cover_image-shrink_720_1280/0/1644469170228?e=1650499200&v=beta&t=nz5RLteTBzY34hdOOQ7_fWq4IfkBd_47qdvGmr3LuaA",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T22:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-10-kids-dont-try-this-at-home-robot-destroys-mankind.md",
       "title": "Kids! Don’t Try This At Home! Robot Destroys Mankind",
       "excerpt": "Keep in mind, I’m interpreting their comments as saying (essentially): “Soon machines will think and then they will out-think us and be impossible to control.” It is easy to imagine ...",
@@ -1283,58 +1335,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber.md",
-      "title": "Human Borgs: How Artificial Intelligence Can Kill Creativity And Make Us Dumber",
-      "excerpt": "New experimental research shows that artificial intelligence should be used with caution as a decision support tool for human decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/",
-      "originalUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f7da97908bf6944864d942/0x0.jpg?format=jpg&crop=1533,781,x227,y55,safe&fit=crop",
-          "width": 1533,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/amp/",
-      "publishedDateTime": "2022-01-31T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

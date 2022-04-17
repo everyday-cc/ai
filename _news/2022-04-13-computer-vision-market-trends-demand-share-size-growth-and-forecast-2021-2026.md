@@ -39,20 +39,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Education Market Size, Share, Trends, Demand Forecast, Industry Revenue, Opportunities, and Impact of COVID"
-    excerpt: "Market Research Future (MRFR) expects the artificial intelligence (AI) in education market 2020 to be worth close to USD 2 billion by the year 2023. The market’s advancement rate is estimated to be 38% between 2018 and 2023 (review period). We will ..."
-    publishedDateTime: 2022-04-12T12:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-size-share-trends-demand-forecast-industry-revenue-opportunities-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Stop-Putin-Russia-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
     excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
     publishedDateTime: 2022-04-15T10:34:00Z

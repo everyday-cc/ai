@@ -51,20 +51,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
-    excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"
-    publishedDateTime: 2022-04-12T12:35:00Z
-    webUrl: "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 54
-    images:
-      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
-        width: 730
-        height: 400
-        isCached: true
   - title: "Bharat Petroleum collaborates with Microsoft to leverage cloud and AI technologies for better customer experience"
     excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft announced a strategic cloud partnership for seven years aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the oil and gas industry."
     publishedDateTime: 2022-04-13T06:13:00Z

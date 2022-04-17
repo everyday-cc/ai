@@ -40,15 +40,6 @@ related:
         height: 662
         isCached: true
   - title: "Self-driving car stopped by San Francisco police"
-    excerpt: "San Francisco police officers were faced with a new challenge after stopping an autonomous vehicle with no-one inside. Officers approached the car, operated by Cruise, because it had been driving without headlights."
-    publishedDateTime: 2022-04-12T12:36:00Z
-    webUrl: "https://www.bbc.com/news/technology-61080666?via=indexdotco"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 34
-  - title: "Self-driving car stopped by San Francisco police"
     excerpt: "The law commissions for England and Wales and the Scottish Law Commission have called for legal changes to deal with self-driving vehicles. The independent bodie"
     publishedDateTime: 2022-04-13T06:48:00Z
     webUrl: "https://www.the-star.co.ke/news/world/2022-04-13-self-driving-car-stopped-by-san-francisco-police/"

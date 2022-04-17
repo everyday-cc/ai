@@ -2,6 +2,58 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-02-07-rise-of-fintech22-how-india-embraced-digital-payments.md",
+      "title": "Rise of Fintech'22: How India Embraced Digital Payments",
+      "excerpt": "Furthermore, AI needs to be implemented in our digital ecosystem in order ... India has disruptive potential in the finance sector, with more fintech businesses breaking new ground with their strong, cutting-edge technology, resulting in a record-breaking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-digital-payments-payomatix",
+      "originalUrl": "https://www.linkedin.com/pulse/rise-fintech22-how-india-embraced-digital-payments-payomatix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGYf0pL-EUrgg/article-cover_image-shrink_720_1280/0/1644219829753?e=1649894400&v=beta&t=FC5rKsNiqbF4Gbw32EmYXz-IhWf4MzxI8lsuDI7PAe0",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-06T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-global-artificial-intelligence-market-opportunity-analysis-by-massive-demand-trends-and-forecast-to-2027.md",
       "title": "Global Artificial Intelligence Market Opportunity Analysis By Massive Demand, Trends And Forecast To 2027",
       "excerpt": "Artificial intelligence (AI) is a branch of computer science that ... emerging opportunities & technologies as well as threats to the companies across the Healthcare, Pharmaceuticals, Electronics & Communications, Internet of Things, Food and Beverages ...",
@@ -1149,58 +1201,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
-      "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
-      "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
-      "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
-      "publishedDateTime": "2022-02-04T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
