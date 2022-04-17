@@ -87,15 +87,6 @@ related:
         width: 307
         height: 307
         isCached: true
-  - title: "Observe.AI Raises $125M Series C to Usher in AI-Empowered Era for Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has raised $125M in Series C funding led by SoftBank Vision Fund 2 with participation from Zoom Video Communications,"
-    publishedDateTime: 2022-04-12T11:02:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 12
 
 secured: "2euV9j6Hk9+I0nzLukVN1w+coLZZC8fW32fBI/uo5OSBcScnwNZHta0B1cY9vioSgCTLs1dpZE9jaFehg1HIH/UB9AufYBpoeWEh9E/IIz0BrvgdDLa5PmHCofn1pUz+FoReVpImB3WJohhWZURnHhstxAPalTc4LnAAHRGM8TXb5WWFQnwdUiFwZJnOmlwC3cTWfGZxqCS+T53lIPZAYR68heuJcE8u4ihU2TLJL5/UNC0092LyFI5xGqqQfnwoYFbdRqt3cFWfPAw8sdpWTWDWXloMQxn1uWt2dfw+z5rWml2wsRCz00oc6KroRXGG3lYG9jMO9OPJnCV25zMEHJ5WkltRBP0Y6ydDqb9NLV9EM68tkKYnIRFfUpSkcvETErhRfmPAo5PimPuZ5Pgln943DfT4OURrLkJ7dBc1GL90AGm0JQsWeAy5eghqvbcNIHPAKIR2Gd3cvOh8bgmqoE+zbq35va+zRp9dq+zwaMtHANX7I4pY10APE0NbDoMvrQ4LFQJIbQcZTky6cXKj5g==;x6Cbjxrbpx7UgOSPwxudfA=="
 ---

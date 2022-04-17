@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representa
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -26,47 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Korean startup exports League of Legends AI analysis program"
-    excerpt: "South Korean startup GameEye has signed contracts with five esports teams for them to use Deeplol Pro, the company’s artificial intelligence-based gaming data analysis program, the firm said Friday. The startup signed the deals on Thursday to five undisclosed League of Legends teams,"
-    publishedDateTime: 2022-04-15T05:54:00Z
-    webUrl: "https://koreaherald.com/view.php?ud=20220415000523"
-    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20220415000523"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220415000523"
+  - title: "Faces created by AI are more trustworthy than real ones"
+    excerpt: "The similarity between the mocked-up images and reality is such that it has been flagged up by research published in Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
+    publishedDateTime: 2022-04-17T03:40:00Z
+    webUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
     type: article
     provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 57
+      name: EL PAÍS
+      domain: elpais.com
+    quality: 59
     images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F15%2F20220415000439_0.jpg"
-        width: 630
-        height: 330
+      - url: "https://images.english.elpais.com/resizer/t9tif2fQuc5tbN7TWvX0pRFQ5J0=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7YXFHMKPOFAC7OGRXTB3IWVCPA.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
-    excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
-    publishedDateTime: 2022-04-13T11:47:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220413CN23943/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1796078/Simulating_removal_subtitles_NEW_ID_s_AIPP_Automation_platform_Film__Woman.jpg"
-        width: 400
-        height: 283
-        isCached: true
-  - title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
-    excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
-    publishedDateTime: 2022-04-14T01:52:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content-1031352332"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content-1031352332"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content-1031352332"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 27
 
 secured: "MKYtIPLk2qH7t5KxX4IErPiLVCJfy3IvJ/60edBgEKp2Bh8LLSKdCcO/D1rkzWMKYZS9RHc/btxrAiykafBXruowSzy5xr86Pgl8bs9nx+QWzOJx0LP3CxUnCdbGvyBA2onpLtcazvju5IA1psZswk1OOnQQCyTX12JMVNtalldjdSfvGtgY6+Khkt+lsAPMFxikffVAQBNiylwwMBd9WA1KuRZBUlB/++1nEBJvGBN7n90srFf3yfe8QFMu1W7QLAtQyIynSfZfH3h3FthrfB4x5hXGIUcAXvsTtglguM4wSOVTJPJ1J3TSeF9QDFrD1seEcRhDYh8bi2IVExz5ivri/MXcn+EBGV4qZNLlUxgC5AqafSNoZ9Qa7tEWSkg2Ax6meGAH0h+maCWP7qOlzP8awepnF7E6RwHSKOBQfeE7iP8bhUYVUUExjbrge+kw8gGrs9yRgeQCrwU1/50GgcaTcMNHZAOu+brN6rLLvcylaZ00EWm7zTJ/Y3HWBGyevWMfE/u21A4yiD6euFme8g==;yxSi1yQHdYEbo+ZFxTWjwQ=="
 ---

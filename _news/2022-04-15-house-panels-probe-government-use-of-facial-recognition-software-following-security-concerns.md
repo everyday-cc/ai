@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-o
 cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 quality: 65
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -92,6 +92,17 @@ related:
         width: 1267
         height: 713
         isCached: true
+  - title: "House panels probe gov’t use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-16T07:44:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
     excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
     publishedDateTime: 2022-04-15T13:02:00Z

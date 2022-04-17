@@ -53,20 +53,6 @@ related:
         width: 640
         height: 342
         isCached: true
-  - title: "Iris Recognition Market Poised to Garner Maximum Revenues by 2027"
-    excerpt: "On the contrary, high price of iris scanners, availability of substitutes like fingerprint scanners and face scanners, lack of awareness, and technological limitations are factors that may limit the global iris recognition growth over the forecast period."
-    publishedDateTime: 2022-04-12T10:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iris-recognition-market-poised-to-garner-maximum-revenues-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
     excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
     publishedDateTime: 2022-04-15T10:34:00Z

@@ -27,7 +27,7 @@ related:
     provider:
       name: FOX8 Cleveland
       domain: fox8.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
         width: 800

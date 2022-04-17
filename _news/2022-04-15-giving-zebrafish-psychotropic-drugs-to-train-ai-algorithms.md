@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-04-zebrafish-psychotropic-drugs-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-zebrafish-psychotropic-drugs-ai-algorithms.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Giving Zebrafish Psychotropic Drugs to Train AI Algorithms"
+    excerpt: "Researchers trained an AI to determine which psychotropic agent a zebrafish had been exposed to based on the animal's behaviors and locomotion patterns."
+    publishedDateTime: 2022-04-15T22:22:00Z
+    webUrl: "https://neurosciencenews.com/psychotropics-ai-20386/"
+    ampWebUrl: "https://neurosciencenews.com/psychotropics-ai-20386/amp/"
+    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/psychotropics-ai-20386/amp/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 57
+    images:
+      - url: "https://neurosciencenews.com/files/2022/04/psychotropics-ai-neurosicnes.jpg"
+        width: 770
+        height: 513
+        isCached: true
 
 secured: "5lCEJhWEN28/PKUrL8FnyoD87L/7L7NfPz8IJjes2Y6oDI6f+I2YlJMyO60Pzv6cbX5nRaJIEz+JaJQH0wURNq2WsvHhdZwUR1BF9aZzcoDUCwQg08rjhAdNzTpMig8qDrd9UHMAXSnpNj4wag0QY5N3vI4MzMCftbWFxQd+eCaCPu21mYzVIVGCbCs1zHJUnZX4SZPXmOpr13K17WHGVKBkZhLA9yf2wvEntvWy0sGy7WNYu46rJSF0k5ieA9a9SzZCFq+k3F2Xhw3WcDAn5XZIvASUUQNQ2BxEWVT+J52I2BMAJhPdXoWuC9sR76d6ZamL11BvvPhIQzIWNaTi3rRowYFE4pBvrpEd+AGXSeY=;UgA0T2V7C9eWBtHSBzpnuA=="
 ---

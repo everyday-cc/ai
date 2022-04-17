@@ -88,15 +88,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 17
-  - title: "Observe.AI Raises $125M Series C to Usher in AI-Empowered Era for Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has raised $125M in Series C funding led by SoftBank Vision Fund 2 with participation from Zoom Video Communications,"
-    publishedDateTime: 2022-04-12T11:02:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 12
 
 secured: "H/CpqkgR7c7TFXQLDtDtBcAPROHIe0LXzkFxzKc5hhuPOTBjV+Z5xx/PLRrtyoMom6w5rX530c3VymCIIxD+92/oJHbiJg9HmX5G2hPF9QO7f2Hfu2VCGS2aq5ue3VMSc02gCAXeZGWkijRHVfRIFQ/QhSrHQ96kESLJUFJ0pbsdHsKPo1iLNvOCHLoLSIhS6VczuNT26yrIJn3G6v7nL5nTZ3O82qBYgdt/Sx70ng8ue22c5h8iOGXrxqEmH5/S7N1UlumR/SDFOQUFwzVjO0vrjw73YKy5hkHdwb1SxiwQLcBaC9xEAjagpEPVGXEi6iN7ay3tEsBYwMIKGeWiMAyJNHM5fJ8SPTseZoN8hfM=;wABcX2mvGxn4S0m3wj9wQw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-micros
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer"
-    excerpt: "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients."
-    publishedDateTime: 2022-04-12T10:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=645669"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 78
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
     excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry."
     publishedDateTime: 2022-04-14T20:09:00Z
@@ -57,15 +43,43 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Authomize's Cloud Identity and Access Security Platform Now Available on Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the Authomize platform for comprehensive cloud security and compliance capabilities . TEL AVIV, Israel, April 13, 2022 /PRNe"
-    publishedDateTime: 2022-04-13T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582424.htm"
+  - title: "BPCL collaborates with Microsoft to leverage cloud & AI technologies"
+    excerpt: "(BPCL) and Microsoft have announced a strategic cloud partnership aimed at accelerating the firm's digital transformation and shaping the future of innovation in the oil and gas industry. The collaboration seeks to unlock the opportunities that Microsoft's cloud provides to address the unique challenges of the oil and gas sector,"
+    publishedDateTime: 2022-04-12T12:35:00Z
+    webUrl: "https://www.uniindia.com/story/BPCL-collaborates-with-Microsoft-to-leverage-cloud--AI-technologies"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
+      name: United News of India
+      domain: uniindia.com
+    quality: 54
+    images:
+      - url: "https://www.uniindia.com/public/default-image/default-730x400.png"
+        width: 730
+        height: 400
+        isCached: true
+  - title: "Bharat Petroleum collaborates with Microsoft to leverage cloud and AI technologies for better customer experience"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft announced a strategic cloud partnership for seven years aimed at accelerating the firm’s digital transformation and shaping the future of innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-13T06:13:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/15850/bharat-petroleum-collaborates-with-microsoft-to-leverage-cloud-and-ai-technologies-for-better-customer-experience.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 33
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2022/a84fe41ed3a5ef75c9898ff34ff76221.png"
+        width: 600
+        height: 800
+        isCached: true
+  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
+    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
+    publishedDateTime: 2022-04-14T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
 
 secured: "1Fqt8qKMMLwo/RXtnJhH9HcPcIWfpHqvUWoCAm7nR94+eVm+KobB1QROVbTkMrUj5w+B8wI+tjWv3w/f3W5ZSfz4DemzFGu4c1hsh58c1hPoih6yAmikhNgooNOJ3YBUEowZT4z2hLUHVXkN2ozVc0PLd9U7LZxOzzvCULmIpPjLxfRh9l7ebQVsq5iDmJgwRQEoy6i8cWhegzC+0zebmuRp3iw5Sk0LvKiAYMt4w68aIGY/bSRyrHYp3yE7QBd0ES4OlYpsc1+PC6KLX95EmwbBxZ3UGcoVbTDA0KPA1i0MoMysvh9Gj7Zs7Hv3wxX/65Nf46JtYuLW70s+x50rsiG1hbB3hOBGewED5JzeKjHRCVdJyT+dxnotFoQtubqVrZi4YJlikz2+28v4duTazcwBzbeVioPptRPC67yggrbD20eoT8vEQB5R1gLOPcRpgeQSELiFNhIuWROVjP3aBgQP2sQtUW2rqjteZfF4DxdRah/QZB3sSuFNd9mnVCmp0a3Xfu8ZlhW0tcqxtPQ+Gw==;axfX20xiznx7faklBduVew=="
 ---

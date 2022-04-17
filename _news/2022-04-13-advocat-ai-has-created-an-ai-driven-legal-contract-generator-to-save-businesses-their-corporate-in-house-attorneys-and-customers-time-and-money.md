@@ -26,7 +26,7 @@ related:
     provider:
       name: unite
       domain: unite.ai
-    quality: 69
+    quality: 71
     images:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/human-skeleton-163715_1280.jpg"
         width: 1000

@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-16T23:46:00Z
 originalUrl: "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/"
 webUrl: "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 101
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/human-skeleton-163715_1280.jpg"

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healt
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-diagnosis-market-to-exceed-usd-66811-97-million-by-2027-says-the-insight-partners"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Size Worth USD 16.53 Billion by 2028"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2022-04-12T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12"
+  - title: "Railway Connector Market to hit $1,150.21 Million, Globally, by 2028 at 5.3% CAGR: The Insight Partners"
+    excerpt: "According to the new research report published by The Insight Partners, titled “Railway Connector Market Forecast to 2028 – COVID-19 Impact and"
+    publishedDateTime: 2022-04-13T15:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/railway-connector-market-to-hit-1150-21-million-globally-by-2028-at-5-3-cagr-the-insight-partners"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "uSF3Ksq8wjRqAHSk8yYJNomVEd915v41bGD1QCg+FWpJXs686ir5r4UjqtAko+eEiAy0BoHzLXcxjB3KZa8Ttw68w+DSktcg5UaCmKhhHCqqUTNsUI2FrK7MFQmeuzrJZOPK7siHng1jBBwC41GoyXKA8VjsThIGj0B/IBTiAlK/fue7rXlnNU/xHvUwDBxN39DWBTvct7IrbFIC+bXMTaaS/HjwnekG8QtPVLVZZZ1aZnBzRwgUBJjGdBJlga9jxdA+ITQfvi5dH3NXAUv8tFK4yG2jLsFSQdId7TCPWMqpa5cw/4Bxgca3gHJOxyo1djXJKgfastBKlV+7Jd3ski9HniT5AMBXD7qK1Hm/Yyw=;0ClLS8PfXUMEwiZkah7xfQ=="

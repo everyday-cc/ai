@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-smart-transportation-market-t
 webUrl: "https://www.digitaljournal.com/pr/ai-smart-transportation-market-to-reach-7065-1-million-globally-by-2028-and-register-a-robust-cagr-emergen-research"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Image Recognition Market Expected to Reach $86,001 Million by 2025"
-    excerpt: "The report offers in-depth analyses of the industry by closely monitoring the key industry trends, drivers & opportunities, top investment pockets,"
-    publishedDateTime: 2022-04-12T10:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-expected-to-reach-86001-million-by-2025"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ghost-guns-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ZSRUUtwS9PpX5S85QN2+DzSeklhWJQONR+pxRsDD+OUOlSZ1iesqqNrWlnuvIfTdbju47YcZ/Mpo2JP1VPOYcJ0SUX6/jG8bUs/hbxJ9aTmnm7I0tFLoguoGPz1W1TjgpuGllQOcBzj+Ddt7C1TuOmfLlMwz79KMuV/6qfmeCauIQTEMt2mVYecdmC/UKVXyphlJp/XmnMTnXS885Tws3/kFKuPgD9LND7Kg2/DCTrRsCRri7i7G6Pmf1yYF3WkW4xFVqxUis2ucu6CjtkniiteEnMUEt4HItWFTGPy1By7iLd0xSu+8IWMkQxC7zgB4tUweppdKATrwPXdDNHrso6Ycesylb+I2x/4YYM2t11g=;4NVzroZ1I0LqYlgsV4qvMg=="
 ---

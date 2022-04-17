@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 17
-  - title: "Observe.AI Raises $125M Series C to Usher in AI-Empowered Era for Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has raised $125M in Series C funding led by SoftBank Vision Fund 2 with participation from Zoom Video Communications,"
-    publishedDateTime: 2022-04-12T11:02:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_8147f1d5-8d33-5799-9d1d-146cd051ff2f.html"
-    type: article
-    provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 12
 
 secured: "0qE/8gkOzCjtmcGOf4f9694LQkwQFI1BSs9atr9sMUGS13K7ZExFy8LhcoOGxiQhRSGkvve6UGPTsV6TbSbxUEwHYGtxRWOPuWQjnkmBe+8grZhZm6Yc+W4Z4F90Yi4nFCDG5X3Xf/R+u0i66InaXjC5ToAzu0SgEQVPCSTo4gOR1+TL6rL69nM8uI17moh6ImoCCRCM8OJF5SKWGaIgEE3J2z7wNAIM+pRUk1nUngfxx7LuK2751TnmrPE/hdNGDZov1C/jl781n9GQHi1Zk7k+oIkSCgj2o8xU3hZfe/lWPqYtz4bqOyJvbqh8iu/d/3vvO0POIugxCmFZMvLgAcyeh5f4p2MjWQsEGKARqzwy3o3UUFCKBoeBtB5b3F73q3DAn1bVmjeMQZUQR/S2fxbG6rLaVxZ6+a2Pd3aTGOgvhFGG0wiAqwNISWKZaB+wvQXoz8MkzQxOuE3RL02mHYcR6IHczr9psNqBE7QGgiQODWiErnTZFypDsNnSolRs2NAQ80jMn4X6do19LfEyCQ==;cpNORB4BbqurE3I4uowyEA=="
 ---

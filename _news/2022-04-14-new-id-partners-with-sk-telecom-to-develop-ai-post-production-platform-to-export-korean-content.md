@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "South Korean companies creating AI reps -- some on social media"
-    excerpt: "A growing number of South Korean corporations and government agencies are releasing their own AI characters to communicate with audiences at home and abroad."
-    publishedDateTime: 2022-04-14T14:05:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/04/14/AI-representataives-South-Korean-companies/5461649944598/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/5461649944598/2022/1/16499450107672/v1.5/South-Korean-companies-creating-AI-reps-some-on-social-media.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Korean startup exports League of Legends AI analysis program"
     excerpt: "South Korean startup GameEye has signed contracts with five esports teams for them to use Deeplol Pro, the company’s artificial intelligence-based gaming data analysis program, the firm said Friday. The startup signed the deals on Thursday to five undisclosed League of Legends teams,"
     publishedDateTime: 2022-04-15T05:54:00Z
