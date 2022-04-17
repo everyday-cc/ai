@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DiligentRobots"
   url: "https://twitter.com/DiligentRobots"
-  followers: 1142
+  followers: 1143
 
 size: 2-10 employees
 locations:
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=vniKNpy5SFs"
 
-secured: "sPvh29rzxtPcHhV7NctccEdcqFxKXF7L+F7KO7rl9iN0dvcaYtuSnGWiNMK6MNqwyQmlAgIlbAlTPeqlQiZ2KyTvTJPDqcxdj7SCevghr/PdkzqHIGNe/zVYj/hALR+UdiQACxeP/JjwzXL8AxjuTH3RIq2KxZTIxXBO8wY9a5xklrg5/tFKEZqOWiPCs+rEufSvwTQR2Txh8to9xdThZciDfKHL5R2qFgnu//ubRFHXKLDqTTw3REpTLxnbloPo3Wg1RRBbvGBc6anGgl6DmmNS+ecos12aHWSzrn3/StzR6OyFZ4s63rrCrjmWdHN6+SpahKjcKLzj7Jt881ha6UmCbrP4EOw1xifPWZSvn1FSj7lk70oK3KPF1WKLuug0qh4jd7SnBPc/8OpPR3kY1AA3VHQihIe9cgjhnpYQuDU=;r0UyE8scIpLse2LT0aqzoA=="
+secured: "N6SxUfKeTOdvTIPpPEf9VpSX5FMjDDU1kK7UHJN3MZy9ewu4tpwBewsDn3gErHOalt+EsogcYQPXw3qRF1tC99ptgPGqCafAqnWUaSE8cEdHxrKowCCZNPpHUe/AYGLVZ3usOulsdmEozCP+W4ZC7G83NFB3pVvpRphk7M6QAf8wzh3WVa7K6Vf+JAag/dFj+is6l6QMjHJI4LUXl3iW2yunjKlCvCmnAwmXqfJeMQDE0/r4tfJ0lMAO8XB+2ISt5ogyY78HIIxF0xViHwzWPlEUOtEv07chp5hMHnGquNr7U5PZPculVSRAe0k9J7LRYcWQzn2r3CSEq01tOtmXHcGc9u/wAuNv5Uoo1/Ev9ShDEuMrhGP0SYe1x+7tRJtuhGsm+0+V+JupUY9Ys6Ts+EVRyVVzc1YclXNtZIeL0l4=;bFQTfa67TwlJFWpvEl5DJQ=="
 ---
 

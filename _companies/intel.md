@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "IntelAI"
   url: "https://twitter.com/IntelAI"
-  followers: 26690
+  followers: 26689
 
 size: 10,001+ employees
 yearFounded: 1968
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "i//UuOsAjh6nsJ+ISvY99gbnKSkw+kRBzTb9t1Bc1ziZSUlv3x+K2H2YtGZ/hd2HXY1uorQFYgaoGfto2Ryur9DJQ+lG/9A55/jXqshbyPqPuMlaI+KoSfmiX00vPh/oOPcgcmcQHmyo7+zBunnBDQeyOgibKiqiGInVkgSAP006VG3b6ldZaypopMoTVb1XvTAwWKtHcduZ4gdzmhHRqoeJLbXosgwT8HCTcx/eTpWNFP+QCa+T+rjgOxo1HDLEUM9MOD3xXdjuECp9o+KktEOFxDP6rsMZv4Jv0yPkBXW71eKxQXop0SC1KUCrdZgoFCYLmFydGma0Saujce3u3/+j42ZPfBUqeIG13SHMh+d0WETTzMivjvRjKLwQDTziQEoM3Q0msaSJRoh7ZryYkZD3mr303Sy64RTdmJw62v8=;PsUre30nZ3sIKNpstCpUmg=="
+secured: "H0mL/Ol6DZT20ZsweSpaaSnadiuA56TFJ3nLj6vex94MOX+JlgJCjcSoe56NtMniy9sOZNOGEqaf22ReuFMV5HMDJa2/GIBpoO6GfHKxzOH9zgOyoEDPO2/5AoSQmLA4irK7WMl5J9Dp1xM7uUhrjcVfhECdL3ZN9thu2KgQBi0XeJI8z57aFVa5Box9lUnXhwFTzgnIAHtQdYwBNrXwQK7cPq1fRUB5TYoe8lZ1IUKe3cDJW4nPC+KM8IC5Mc/cKMsY9JDNZBM27I+OzarEWeJyKPtwyZ+5xh012ubklBG/7hmhHn/fv3dr/uRUeE5Ie9QaVzrxoEe9kyrEAIsBg9uTTC6m7AdksQO8cj/znS6qriH6gv2vY0alM7sK0ridlX5fzwhQDiQCVVpSKpvmnAdNqXh0vZXTYpRmpdiDovk=;dLTuXekhRPgoHlqTbxaHlA=="
 ---
 

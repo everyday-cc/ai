@@ -2,7 +2,7 @@
 name: "H2O.ai"
 overview: "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai."
 type: "profile"
-heat: 57
+heat: 0
 
 website: https://www.h2o.ai
 
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "W9oW7FSabwy3O/eYCuSgZnwTo8OErm3raOm6+/km9/Qi8dX9gDdhyytqUQn8FWLQxM+Dp7u69kpcISOnvn14yppCRLeRoCTGsaS/H21YGK5NnwlmBNc7mITp001vtFxruw1Nk7uAGik+DIHsv0z9vEURXA4sOym+VbwdPY+e8bqXGc1n9YRQGH4OZ4P2r/hFJTFvSygzHG6Fpoc/nck2rYZ9c67BjiPK5eTKfWlE9EqPOZ2RjQhwIJxEA//TGL7+Oaet+z5wfcT/vlBH22gJkWRpJyIJ6HRZGfOI0LJpmVTLUxZBPKV38yKPpObqyts/e0AqCJa6VRmoIwZJRe36WDhiX641GWmae0/OBpP4tOnDBUTUFJ7aNy1q+zli6a1iV8zPWmeO5pYrAa43B8Vv8oWDtVRHxTo4+PAeVwsejmY=;QqH6twaMowvtOBcAUXfs8A=="
+secured: "mXeSTxs55OnI1bY6klHMz5tgsXLhKCDvDQIW+n4MU0WkIvtBiksU/zEHhGJaM+ytRaeW3WNQkLkri/dIxxn3155xhf33vmYSadbg5DVhh36VxkLbuhCEIHe5vpxLFVEULbcQIZa9iq3CzSquCJPZhxeTPv8eb1Q6k7QDM85Eazv82aXRTxgQUKKEqdwQTdu1udBui2JjFdrI1JmF59vNEafNjsVInJNvoo4lGhhue/2eVppEYu49SXX+ZE0O3jWigdBgRX+zcdtySJznc0f/sBmpmCQTnaSb05AEWfJUoM3DntwSKA3dKj7Hgac7EMPXhBViHanFaFmmGrLyqD86vQQn/lZfmNb1vcAbfRbIqbMHGhwmK27WTx32pCnglnLFsk7oUMGDIaRasBPjRw8X8KXxh0iV5quNP4sl7ormNdM=;khblu3RJsgF4HWfStYlvxQ=="
 ---
 

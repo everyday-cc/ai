@@ -4,7 +4,7 @@ otherNames:
   - "Noodle Analytics, Inc."
 overview: "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://noodle.ai
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "dOda39QV5vTPgUYFXKkBxRTLEnzPRXIuQnc2c88PjTuyCYhENyT8k6oes39TM/7fFOeofbFr+OuX5R4cZaxFrRfZs5jtTKeUdMjEeu8H0nIEY0ujeGevi02hPteU0xDF7G/dKFoWl8foHmqkg0tjBdqLttEeEmllr2uoQNnsAbToxNmMgpokIxgu5UQAFtqncDS8pZqpopFZwgLVMToNNH/cHL/aaCtHkOzCp+pQqcvxdz9l3rR0Yecclaq5RuPO6+sTEID3E5LLidVfLqz0gfkHTS89oxKABo53Q0+Iq7HtKJivNquRjPao8yGxxYB690xGEi+Z1M4nCaE2tA9m+qGJ5wxmsDZCO2RgvqVhPEQSi6255s0KraeeVQZv2L8vSXPwgjTl5ByMnpxwRYDYxlLod5ZA3ytiPk8BWWeiL30=;MUNDpEmD9ssgrOkbOxlkeg=="
+secured: "xbxSY1A08M65CUj+Tm9JgBDRNty3g7MWwSRy+K5iUeoU2BXBeaCkaZKIKkyA9NcMomdZMrZAapYsygrXtbCVBxFKkZooY7BZ7/p+cU28TXdrZ7bMfTOcPW9Qpi9OE0XBAR8d9L3uv4Pp5okCglReN1xtS3KvviPfheR4Ql5DhNGqMvCIJeFFldsiWi0IO9mYsqfLkcWGXC9DOLnoWoRWQhP7R52fagIlp1r6t1a0g9hpcNiB2CyhFcQ5JcQbTp2EoAMRbJSPR0WzdAVhvskpHnIBATd4B2oS+TjNqAY9t/nsP53SJ1OAZhIBWAjsMZTOUnicQgl23LeqQbBeng4RQW9wlLGtiPRLIelV92hjZ5m2U7nkQ7jtsDrCyvYDEMdsvepJr8cwSDd8eFFxDeQ5u6jQXzmlp38SqA9omcCNzNk=;iMTEoF5ky+Q8S0gvTQ1s2Q=="
 ---
 
