@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-l
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://techhq.com/white.png"
         width: 614
         height: 250
+        isCached: true
+  - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
+    excerpt: "The gap between Russian military aspirations for high-tech warfare of the future and the actual conduct of war today is becoming clear."
+    publishedDateTime: 2022-04-15T00:00:00Z
+    webUrl: "https://www.cnas.org/publications/commentary/russias-artificial-intelligence-boom-may-not-survive-the-war"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 39
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/Russian-Hacking-Flag-cyber-hacking-computer-Hero-Getty.jpg?mtime=20220418115605&focal=none"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
     excerpt: "Sanctions and brain drain have had a massive impact on the high-tech economy, and the effects may linger for years."

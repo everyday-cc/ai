@@ -24,6 +24,22 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "TransPerfect Selected by Finnair as Main Language Services Provider"
+    excerpt: "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that it has been chosen by Finnair as its main supplier for translation services and globalization management technology."
+    publishedDateTime: 2022-04-18T17:00:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220418NY26275/transperfect-selected-by-finnair-as-main-language-services-provider/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1797567/Finnair_A350_Plane.jpg"
+        width: 400
+        height: 267
+        isCached: true
+
 secured: "L+4p7GPcB8+5yzQXC71NeOkAv8gPferYo6+HyKUBMBgGBXiy87ZyIeEFJ++UFWMb5qgCooMLlQq9BBvaf+fYNjEzePf51K/hxAq9OaPtJKs1nEgvokIyHah4+lYnmo0K+u3gYP+2eBCDcJAl5C9F4BMCqEzfKtazWLJDRZukYAljFMsAsH4+2LHxkw9O30fmd/dPyb2l5PTzsd0jEpW2xKZP+fi20uwMHMTneznU7AK2AFO/Afqr7rzLuSFmsgVq49taemaH5HR9WvPA8KA1OxEbqA7mYY1hBp+p9Yax+cj7ee9nrB17u6ZKjIADk+T7fi42WoYzt28n/M8voiOFeZ3xCku9vc+knXDx+s6vTig=;g7ndwc50ResxgHMGYxqxPg=="
 ---
 

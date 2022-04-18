@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-18T12:24:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-919dd58b71e94e369313667aeb258cd1"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-919dd58b71e94e369313667aeb258cd1"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

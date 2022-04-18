@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-25-business-law-prof-blog.md",
+      "title": "Business Law Prof Blog",
+      "excerpt": "I'm continuing to read my way through Hilary Allen's Driverless Finance ... We now have rapidly developing artificial intelligence technology working to identify and learn from patterns ...",
+      "sourceUrl": null,
+      "webUrl": "https://lawprofessors.typepad.com/business_law/2022/03/driverless-finance-fintech-and-risk-management.html",
+      "originalUrl": "https://lawprofessors.typepad.com/business_law/2022/03/driverless-finance-fintech-and-risk-management.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lawprofessors.typepad.com/responsive-template/CALIadvert.jpg",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TypePad",
+        "domain": "typepad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-chinas-ev-chassis-maker-pix-raises-11m-to-build-its-own-smart-vehicles.md",
       "title": "China’s EV chassis maker PIX raises $11M to build its own smart vehicles",
       "excerpt": "The autonomous driving industry in China has enjoyed a boom over the past two years, with both institutional and corporate investors pouring money into a driverless future. Companies thriving in the downstream,",
@@ -1327,42 +1370,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist.md",
-      "title": "These 2 Artificial Intelligence Stocks Are Set for Strong Growth, Says Truist",
-      "excerpt": "Let’s talk about artificial intelligence. AI is a growing segment of the tech sector, finding uses in almost every industry, especially those featuring autonomous systems. Self-driving cars, industrial robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
-      "originalUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
-      "publishedDateTime": "2022-03-16T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

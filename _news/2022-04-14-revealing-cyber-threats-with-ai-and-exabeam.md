@@ -43,6 +43,20 @@ related:
         height: 800
         isCached: true
   - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
+    excerpt: "The gap between Russian military aspirations for high-tech warfare of the future and the actual conduct of war today is becoming clear."
+    publishedDateTime: 2022-04-15T00:00:00Z
+    webUrl: "https://www.cnas.org/publications/commentary/russias-artificial-intelligence-boom-may-not-survive-the-war"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 39
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/Russian-Hacking-Flag-cyber-hacking-computer-Hero-Getty.jpg?mtime=20220418115605&focal=none"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
     excerpt: "Sanctions and brain drain have had a massive impact on the high-tech economy, and the effects may linger for years."
     publishedDateTime: 2022-04-15T18:46:00Z
     webUrl: "https://www.defenseone.com/ideas/2022/04/russias-artificial-intelligence-boom-may-not-survive-war/365743/"

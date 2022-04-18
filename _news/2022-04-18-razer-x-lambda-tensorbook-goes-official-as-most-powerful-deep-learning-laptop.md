@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html"
 type: article
 quality: 56
-heat: 86
+heat: 77
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Razer & Lambda Tensorbook create laptop dedicated to machine learning"
-    excerpt: "The new Razer + Lambda Tensorbook has been specifically designed to be the most powerful laptop in the world for deep learning."
-    publishedDateTime: 2022-04-13T23:30:00Z
-    webUrl: "https://www.tweaktown.com/news/85580/razer-lambda-tensorbook-create-laptop-dedicated-to-machine-learning/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Ad Of The Week: Razer’s Deep Learning Laptop"
     excerpt: "Razer’s first Linux laptop is here, and the Razer x Lambda Tensorbook is positioned as the world’s most powerful laptop for deep learning. Co-created with Lambda, this sleek laptop is powered by an 11th-gen Intel Core i7 CPU,"
     publishedDateTime: 2022-04-18T12:15:00Z

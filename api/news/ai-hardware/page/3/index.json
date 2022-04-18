@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-17-artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet.md",
+      "title": "Artificial intelligence Chips Market Is Going To Boom | Baidu, Mythic, Alphabet",
+      "excerpt": "Chips has recently been published. The market presents an analysis of the current industry dynamics in the Artificial intelligence (AI) Chips Market arena, as well as what our survey respondents believe the market will look like in 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
       "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
       "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
@@ -1362,58 +1405,6 @@
         "name": "Asia One",
         "domain": "asiaone.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai.md",
-      "title": "MWC: Qualcomm's new 5G modem is the first with built-in AI",
-      "excerpt": "At Mobile World Congress, Qualcomm is unveiling a series of connectivity innovations, as well as products and capabilities that are taking Qualcomm technology well beyond the smartphone market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9f8b7b53c8599c7c9b3fb44f8b893dee7188759c/2022/02/28/382bbc38-8a8c-41d9-8a94-9d683b4d9264/hero-image-snapdragon-x70-5g-modem-rf-system.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
-      "publishedDateTime": "2022-02-28T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

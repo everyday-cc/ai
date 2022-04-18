@@ -2,19 +2,27 @@
 category: news
 title: "An AI model can help predict adverse events from new drug combinations"
 excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
-publishedDateTime: 2022-04-08T19:46:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/949288"
-webUrl: "https://www.eurekalert.org/news-releases/949288"
+publishedDateTime: 2022-04-08T19:45:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
+webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Gp2ef7GxeIlxR2HR9C702v6wDT7dzay7LGBAFzAbeDKD29qQkzsucj2BJ7Kp/CkFj+OsrtfaO++L+fUC2Izg99w7L8qI1pvLmrRIS3wdsQbgX7Aaqqu9NwYB98vgkrrMK/wv+9bcU27LgDjMa+GfQDEM+EjEkjB1HfC5FEt88uPvvGVvmzOQ/RfdubjU145NfE5q40wWgiVgeJfKMLoKWYgMKYn+/WFmMEMZVE+3wVwHCc7a5vUL+emYd1MpH5GVKCbjhfZ0FAP7TCoTr+4LNPtjs3fKCsklvXvcuX/6/ndAETmhYRCmj9mepgn6EUZNEpH5e8xXmpohXozVJeBF6IP4ckjnWMqu1OKoXtNWLcc=;hXyDY0UG5XgNL2Junc6XNQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/drug-1.jpg"
+    width: 2880
+    height: 1923
+    isCached: true
+
+secured: "dCqpNdf1M18MXILc3KEDY7kNDYeHNTWYw3XFgbp0PEpvYRAp0MMNyrNEd1bnR2w94zuk2Yu6bm3hKd01dy1G/J/gE2RuVJ95ORzVye0gCq0Lnxe5xsMUPKA+WmLJrjaJHpgLCPmNQnVvVBi2zGfjOLqQqVPzHfcJ1A0e3kTeBwDwhFzsCq5Xtc5/ogWx3QdTdh+ojGMk+fTsajI/crDKytXHsQ+QhC7/LjVOYe68QhXPnusvGAbY8+E8rc53C7Q7NXy8If/B7Xb62tkbQ/w/OEtWd/UscMLA+e6E8NzV6rKz9FYYvqbGuk9sFsvTWNC4nFXc84SiwZExXL8/muohbh50GomF4kLFTcfpSILrAao=;B3p1Xs+HQ3wzmtHtgahvKA=="
 ---
 

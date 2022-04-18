@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-02-15-four-ways-artificial-intelligence-is-transforming-e-commerce.md",
+      "title": "Four Ways Artificial Intelligence Is Transforming E-Commerce",
+      "excerpt": "There isn’t an industry in the world that is immune to the influence of artificial intelligence (AI). From virtual reality (VR) gaming systems to AI robots in industrial manufacturing, the development of AI technology is revolutionizing the way we ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd9017bfb580cfe3fe8ef74/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/02/15/four-ways-artificial-intelligence-is-transforming-e-commerce/amp/",
+      "publishedDateTime": "2022-02-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-computer-vision-system-allows-analysis-of-microscopy-videos.md",
       "title": "Computer Vision System Allows Analysis of Microscopy Videos",
       "excerpt": "Researchers have developed a system based on computer vision techniques that allows automatic analysis of biomedical videos captured by microscopy in order to characterise and describe the behaviour of the cells that appear in the images.",
@@ -1094,49 +1146,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-machine-learning-helps-classify-hip-fractures.md",
-      "title": "Machine Learning Helps Classify Hip Fractures",
-      "excerpt": "A novel machine learning method designed by researchers helps identify and classify hip fractures. The machine learning process has shown to outperform human clinicians. Two convolutional neural networks (CNNs) developed at the University of Bath were able ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/Osteoporosis-Women.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-helps-classify-hip-fractures-205655-1.htm",
-      "publishedDateTime": "2022-02-14T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

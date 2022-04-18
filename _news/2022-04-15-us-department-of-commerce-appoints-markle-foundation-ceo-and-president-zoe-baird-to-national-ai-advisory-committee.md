@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAS data ethics head named to National AI Advisory Committee"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
+    publishedDateTime: 2022-04-18T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
+        width: 320
+        height: 400
+        isCached: true
   - title: "Who Serves on the New National AI Advisory Committee?"
     excerpt: "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair."
     publishedDateTime: 2022-04-15T23:03:00Z
@@ -39,6 +53,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "SAS data ethics head named to National AI Advisory Committee"
+    excerpt: "AI encompasses many technologies, including machine learning, neural networks, computer vision and natural language ... \"The diverse leaders of our inaugural National Artificial Intelligence Advisory Committee represent the best and brightest of their ..."
+    publishedDateTime: 2022-04-18T17:19:00Z
+    webUrl: "https://www.wate.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/1250367/sas_midnight_blue_Logo.jpg?p=publish"
+        width: 600
+        height: 248
         isCached: true
   - title: "Commerce appoints 27 experts to National AI Advisory Committee"
     excerpt: "The committee, established in September, will make recommendations on U.S. global competitiveness and the National AI Initiative."

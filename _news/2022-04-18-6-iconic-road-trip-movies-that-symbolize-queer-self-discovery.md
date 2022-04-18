@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-18T13:33:00Z
 originalUrl: "https://pridesource.com/article/6-iconic-road-trip-movies-that-symbolize-queer-self-discovery/"
 webUrl: "https://pridesource.com/article/6-iconic-road-trip-movies-that-symbolize-queer-self-discovery/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "+vpUbx9ZvmpklNF5P0gvJiZ59iZfzhCnIopogMiDr4JZ/vmNCbDZ4N44COayxlCEFOyNdVMm6noAnqB6Z1qLZrrrsRno/KhyUzvCRhnds+RTf9VqpK+1RwgTwI9cyM8K4WqtjKKkLJRPeG0YXcyiuDxHDZKRLWja7PgNWWe4etMmIaLH3JiHZk48nh39CYiMr5bOX9Tgw0umvPN+hsDHuK8r1EoD6aLNH9KI+/S2P9HkpgFzh3dzkam3yzmguGjCD2vitdU9qI5iV8ydD0H1+26HCNwlAJlyKDi5gNtGw7lzn2OZU+11Lf0I2QT8BShhd/XfUhMqyActDNH6EQAF6PzzcskXSsWyYqAgk+IkwaQ=;4My6tX58Q+w81qIvG98inQ=="
+images:
+  - url: "https://ebrcgtryq1-flywheel.netdna-ssl.com/wp-content/uploads/2022/04/desert1-1.jpg"
+    width: 1450
+    height: 795
+    isCached: true
+
+secured: "Fi5TOZ3S0vxbLk28GH7xd5DmDQeTuArph0rM9VTRR6QBDphTY4F9f7amSHhV6VEbdk+EcAU2vytIjIWcUcbOO5UFnHu+7g0C1lwtOHZShLu1Fq+8rxDOT6rIlopGc+MKvFlJm85or2CqX56opcC0kcOvAC8o4RRsJOnHPpYBHObZz1r6SyH82oSUBaTRkajef9vWhdueJ7dozkPwBT/PvC98QW3CbmUIE6u80dTD5Fcd2RUBSPdCrISlR4NfKGaMFBbmuTk5NlbmUpD4m6v1pUvewATw1vvZafidH+y+pj2M22Vu5rVC96nja7sFe3X9Ck4IhKZdR2dj8Dgp1Ukn9SBGBo55/DIo/KqK85Vj7aw=;lDtKt4guUXA+V1TcxF0kFw=="
 ---
 

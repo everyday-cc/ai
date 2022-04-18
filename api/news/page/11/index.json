@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-05-google-ai-deepminds-high-ideals-are-tainted.md",
+      "title": "Google AI DeepMind's high ideals are tainted?",
+      "excerpt": "It’s discouraging but perhaps not surprising that an organization such as DeepMind, which proclaims such high ideals, would have trouble recognizing that harassment and bullying are occurring within its walls,",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/04/05/1600x900/UKRAINE-CRISIS-RUSSIA-GOOGLE-1_1649166461655_1649166516153.JPG",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "publishedDateTime": "2022-04-05T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams.md",
       "title": "Expo 2020: How Dubai helped a 12-year-old Kenyan robotics wiz realise his dreams",
       "excerpt": "This innovative robotic solution drew the attention of Expo 2020 Dubai who asked Patrick to display the innovation at the Annual Investment Meeting (AIM) Startup at the world ... a regional hub of innovation, artificial intelligence (AI), big data and ...",
@@ -1030,58 +1073,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
-      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
-      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "publishedDateTime": "2022-04-04T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-07-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data.md",
+      "title": "Nokia Data Marketplace Paves Way for Blockchain-based Monetization of Health Data",
+      "excerpt": "Nokia announced that Equideum Health (Equideum), a US-based healthcare software solutions provider, has selected Nokia Data Marketplace to power its blockchain-based Equideum Exchange.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/expert-opinion/24064-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data",
+      "originalUrl": "https://www.thefastmode.com/expert-opinion/24064-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-monitaur-launches-governml-to-manage-ai-data-lifecycle.md",
       "title": "Monitaur launches GovernML to manage AI data lifecycle",
       "excerpt": "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio.",
@@ -105,50 +139,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
-      "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics' machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company's unique data sets and external factors, speeding time to market and driving revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272458151/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272458151/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1650269305235.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-04-07-ai-is-explaining-itself-to-humans-and-its-paying-off.md",
       "title": "AI is explaining itself to humans. And it's paying off",
       "excerpt": "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion.",
@@ -196,6 +186,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
+      "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
+      "excerpt": "Grid Dynamics’ new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Donbas-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1158,40 +1191,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
-      "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
-      "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "originalUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T3",
-        "domain": "traveltrendstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

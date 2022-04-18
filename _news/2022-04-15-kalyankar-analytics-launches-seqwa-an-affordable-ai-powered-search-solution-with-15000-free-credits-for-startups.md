@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "Noogata Raises $16M For Its No-Code AI Analytics Platform"
+    excerpt: "Noogata’s AI-solution for enterprises provides data-based insights, predictions, and recommendations without the use of code."
+    publishedDateTime: 2022-04-18T16:37:00Z
+    webUrl: "https://nocamels.com/2022/04/noogata-ai-analytics-blocks/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
     excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
     publishedDateTime: 2022-04-14T19:32:00Z

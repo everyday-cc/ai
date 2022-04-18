@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "AF2Complex: Researchers leverage deep learning to predict physical interactions of protein complexes"
-    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study by Georgia Tech and Oak Ridge National Laboratory details a computational tool able to predict the structure protein complexes – and lends new insights into the biomolecular mechanisms of their function."
-    publishedDateTime: 2022-04-18T13:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949934"
+    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study details a computational tool able to predict the structure protein complexes -- and lends new insights into the biomolecular mechanisms of their function."
+    publishedDateTime: 2022-04-18T16:06:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220418093952.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
-secured: "2+8dB4VYlxXQRrsLjg+E5semG1s2/RzFQkcPcOCfjBNt3PWyeZpltA6wZzRPOudm98wHniccRT1FXJ++q2BINHKqlG2CVEAzXH0gxYs+l7bKhN1nn0cHJob0rmdx0XgTMonKZdxFm8ii0C284M3AQPf8oLMd1S2uII+u+nRvAoOrD3cWVqb+5xVnE0LFgvQcaqg+hFcfuI0FAiiD3nW50SJNd96nr8kwSU37//u5sGhjS7JM2Cw9La5naWFTCpNb6edDHr8ICZCnQja5MHEjD/vLYy/+jZZpT/kIlWLlW4Hqr23xBv7N5lVp6EHIXxUGJVLE5ntOJEwGiMwMukqu9E7rSb+QIhe4XxFke5MSjzo=;hMmqPsLhdWjLz6Kz9Xlyuw=="
+secured: "iGRvNHG6yu82yBdclqZFuExDfAlfSz/BBmQ7duj2ojg+BLtoNxLcji6wCyfhq7nLYSUsitZoq9MjXvxV+x/jbyaeTtJnmnCsTnGcS5KoptTIuWmAeLJbxr7vI7oUgH2cLhBWbaceU+xuVatq8gax2jNN7qTlTCrSYOmzuhkyCeuDQXehUbA/SVk73wxb0Vn92NNE1COX0bVCxCtmzHQEliIO91v1LBLh7qPbtM3HvVOAs7Ew1t0j3nrxZ3xVtjYVqp25dIEgnPUyrtbfe7/3nt0n88rIuw3sSpg0RfKXi+UOrE+8K4zdUF/reiQTnFY5o/8lpuRbYyUu+qdmakgdmzfOxz5JdJUE124CRLiBvy65EE9ngUxvN56TCMkFOB2nbV4oaZ9oMgiLlnLK/OszyzoCBmATTTZOPCr2kMywJMlrq/jyKrV9SialN7RjEu4nH4iurGGwlHgdIuIp0WZKB1TfONyXSzZ1ADD/nQmutV+oIgs/MDufoTkwGdoqpLPyCl0MsO/k+m1wwwAtlW8Fqw==;dUfWVooJBIcTLGfHfp0psQ=="
 ---
 

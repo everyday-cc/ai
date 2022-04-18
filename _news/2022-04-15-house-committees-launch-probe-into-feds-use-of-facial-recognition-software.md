@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me"
+    excerpt: "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ..."
+    publishedDateTime: 2022-04-14T21:40:00Z
+    webUrl: "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 81
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House panels probe government use of facial recognition software following security concerns"
     excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
     publishedDateTime: 2022-04-14T19:47:00Z
@@ -91,40 +107,22 @@ related:
         width: 1350
         height: 675
         isCached: true
-  - title: "House panels probe gov’t use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-16T07:44:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+  - title: "House lawmakers investigating gov't use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-18T16:18:00Z
+    webUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
-    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
-    publishedDateTime: 2022-04-15T02:40:00Z
-    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 29
+      name: WQAD
+      domain: wqad.com
+    quality: 59
     images:
-      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://media.tegna-media.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "House panels probe gov’t use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently"
-    publishedDateTime: 2022-04-14T06:13:00Z
-    webUrl: "https://mynorthwest.com/3435837/house-panels-probe-govt-use-of-facial-recognition-software/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 21
   - title: "House lawmakers investigating government use of facial recognition software"
     excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
     publishedDateTime: 2022-04-15T13:10:00Z
@@ -134,15 +132,6 @@ related:
       name: 10TV.com
       domain: 10tv.com
     quality: 17
-  - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
-    excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
-    publishedDateTime: 2022-04-15T13:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 15
 
 secured: "Kj1SE4PO57tUa5OBSVF5Jj0/t/nZ/t7Y3zsK0MIs476v8oTk9TetM/PB/QtXvk6Hp40i8tdCca9C8coLOTFuYPbBKbCXo9oQAsddM6FtNMmOqBYFEHj1bbQGvPvlVTTRq8jBAcJDk3R0SRw8QV4acVSs6KWu+iVnvjZ9yHMMEB3YuAPC+5EaHPzJVfxsNBv4jMjLrqC0D7BFCfBwVbPil0KL+5dREtzLKMXKSIAmbwXXIAVEpxowULTkqgJ623zon/U3KZ/pdN3gfANvJVzxNIox5wKUoNSp+a9xjGG4/eAompoYJwSoxsxeGD+IV/BZfUP3Hwy/Sxg+Us+Efi+2RtFWk0TEKa56fUmnHaX7hvtA5zkCcOHjMrYh5YLTObmOe+nXMqHRIUtJs5pYbo3R8+Ddq+F8iCzhUB0XRffy5AwiX3hS+TeE0fnfqx0x+IjxdruXl4ge4DYZq0gA22tvC923dwy0tGRbIwYRz+qa5s0uQXUihF3/Q7BKq0Kk4jjPTr0SArwzmEAouLlrHqI6HQ==;rWGRHzSyXdJKMgFBSz2cmw=="
 ---

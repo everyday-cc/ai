@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-ac
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
 type: article
-quality: 95
-heat: 95
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200"

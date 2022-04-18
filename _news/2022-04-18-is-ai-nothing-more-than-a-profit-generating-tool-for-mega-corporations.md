@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-mo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     provider:
       name: WGN-TV
       domain: wgntv.com
+    quality: 0
+  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
+    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
+    publishedDateTime: 2022-04-18T17:50:00Z
+    webUrl: "https://www.cbs42.com/business/press-releases/cision/20220418SF26284/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company/"
+    type: article
+    provider:
+      name: CBS 42
+      domain: cbs42.com
     quality: 0
 
 secured: "OlWRKakIOn76ShTG/qZnwGPsthFAygwgua9f8fGyl+3ItaAknYZ+AnpqInbW1k6pMw1GSD1gvKsy3h5yoMQu3EdRJgjgOat+71PPa//rkoC3zg3s4XXhuH1G7mZjUMhiXpQMc9gHe3VRsCiXO0EKca/F/dE6bCoQ3Ex2YxHlE/uTGKG9l/EVu9nmjzNgsJdLgwG+w6WQXkGLN0J+APelkX6oV8oilXgCqik+Bx4vES8gX2CV59EPryAjaiCPdP7uMyxj1bSmTgCkJlsu0cfH5CQjFbBDt0S5t0fLT7SjleO9KiWrgo8HmqYrtyTjRkAyCKEbMlh+gOiIF5G2i5oGZPVxw5z5/Ci+BuDKig4a7wg=;XBwXGEKMxItvfLbV1m98nA=="

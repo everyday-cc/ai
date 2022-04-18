@@ -99,19 +99,19 @@
     {
       "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
       "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics' machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company's unique data sets and external factors, speeding time to market and driving revenue growth.",
+      "excerpt": "Grid Dynamics’ new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272458151/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272458151/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
+      "webUrl": "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.bignewsnetwork.com/cus1650269305235.jpg",
-          "width": 630,
-          "height": 420,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Donbas-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,11 +121,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:35:00-07:00",
+      "publishedDateTime": "2022-04-06T13:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,9 +135,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

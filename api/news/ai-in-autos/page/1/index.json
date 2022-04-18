@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
+      "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
+      "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-04-18T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-ai-models-to-detect-how-youre-feeling-in-sales-calls.md",
       "title": "AI models to detect how you're feeling in sales calls",
       "excerpt": "In brief AI software is being offered to sales teams to analyze whether potential customers appear interested during virtual meetings. Sentiment analysis is often used in machine-learning research to detect emotions in underlying text or video,",
@@ -1325,49 +1379,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy.md",
-      "title": "Xinhua Headlines: Gen Z's love of Guochao bodes well for Chinese economy",
-      "excerpt": "Wang Junwen thought he could easily snap up a fuzzy Winter Olympics mascot toy at a recent online pre-sale but all the products were",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272446689/xinhua-headlines-gen-zs-love-of-guochao-bodes-well-for-chinese-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-02T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

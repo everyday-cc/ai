@@ -45,6 +45,15 @@ related:
       name: Entorno Inteligente
       domain: entornointeligente.com
     quality: 31
+  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
+    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
+    publishedDateTime: 2022-04-18T17:50:00Z
+    webUrl: "https://www.cbs42.com/business/press-releases/cision/20220418SF26284/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company/"
+    type: article
+    provider:
+      name: CBS 42
+      domain: cbs42.com
+    quality: 0
 
 secured: "7dclQrff9Pv2LI+6zsOyYAJ8/15tTyIzM+y7iYsLTe/vENhlmpAk2zxVwJ+rxUial8/PT4HlByfaQGp1pDHd+gs3NibzreoKchO3HeFad5Sluff5vT/zFC292ZutNLVvN7J3x/ZXPjwah7kwXsHIRjGshUmQysQ22Y3EONBXBFbX4TIo6Ng9XM9u8TiejWxZ3dpVxq+pySAawgJPznUV4GmxNpLWweo/Jn7drLQWXFFeLRfTsqRVGvmuk8UGnXi/4dIR9cu8l/j12S2FEd9EocpS6CZAR+CWIcSekm7HmdU2ouQdX8zM923OvYTlkGL2Rq9Xog4BoJXJie4mKSyZsAaH2x71wID2nh/tpAsCRPQ=;n6sC8RyaZuLTS2PuLeRerQ=="
 ---

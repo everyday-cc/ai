@@ -374,50 +374,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
-      "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics' machine learning (ML) approach to price optimization and management leverages Google Cloud combined with each company's unique data sets and external factors, speeding time to market and driving revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272458151/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272458151/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1650269305235.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
       "title": "SmartHop raises $30M to boost trucking fintech products",
       "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
@@ -972,8 +928,8 @@
       "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
       "excerpt": "March 29, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran ...",
       "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
+      "webUrl": "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
+      "originalUrl": "https://fox8.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -992,11 +948,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T12:37:00-07:00",
+      "publishedDateTime": "2022-03-29T12:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1385,6 +1341,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-delphia-review-portfolio-management-meets-machine-learning.md",
+      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
+      "excerpt": "Delphia's portfolios are built around algorithms predicting market movements. The price of admission? Your data. Learn more in our Delphia review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
