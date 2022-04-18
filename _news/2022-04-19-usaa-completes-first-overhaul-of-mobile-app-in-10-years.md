@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T18:53:00Z
 originalUrl: "https://www.americanbanker.com/news/usaa-completes-first-overhaul-of-mobile-app-in-10-years"
 webUrl: "https://www.americanbanker.com/news/usaa-completes-first-overhaul-of-mobile-app-in-10-years"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: American Banker

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
+      "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
+      "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/",
+      "publishedDateTime": "2022-04-14T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.md",
       "title": "Russia’s AI setbacks will likely heighten its cyber aggression",
       "excerpt": "As sanctions hamper Russia's plans for AI dominance, it might turn up its cyber activities to hamper other countries' AI efforts.",
@@ -180,6 +231,83 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
+      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
+      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
+      "originalUrl": "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-driverless-vehicles-park-themselves-in-rapidly-expanding-market.md",
+      "title": "Driverless vehicles park themselves in rapidly expanding market",
+      "excerpt": "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg",
+          "width": 718,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -407,40 +535,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-self-driving-car-company-establishing-test-facility-in-sc.md",
-      "title": "Self-driving car company establishing test facility in SC",
-      "excerpt": "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php",
-      "originalUrl": "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php",
-      "publishedDateTime": "2022-04-13T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -931,26 +1025,17 @@
       "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
       "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
       "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "webUrl": "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "originalUrl": "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-13T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1061,93 +1146,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-bengaluru-airport-announces-winners-of-bial-genie-hackathon.md",
-      "title": "Bengaluru Airport announces winners of BIAL Genie Hackathon",
-      "excerpt": "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/04/13/1600x900/fahim-muntashir-F1PCLT669UU-unsplash_1649842544676_1649842564578.jpg",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
-      "publishedDateTime": "2022-04-13T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-neuromorphic-computing-industry-next-generation-of-ai-and-machine-learning.md",
-      "title": "Neuromorphic Computing Industry - Next Generation of AI and Machine Learning",
-      "excerpt": "Emergen Research Logo The growth of the market is attributed to the requirement of better performing ICs and increase in demand for AI an",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning",
-      "originalUrl": "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

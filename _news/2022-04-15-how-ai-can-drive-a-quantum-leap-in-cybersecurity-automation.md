@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "The Use of Artificial Intelligence in Cybersecurity"
+    excerpt: "The digital age has created several opportunities for us, and at the same time, we’ve been exposed to a whole new level of cyberthreats. There’s no denying that cybersecurity is now an integral part of every business that wants to avoid being a victim of identity theft,"
+    publishedDateTime: 2022-04-18T14:54:00Z
+    webUrl: "https://securityboulevard.com/2022/04/the-use-of-artificial-intelligence-in-cybersecurity/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 17
+
 secured: "v1iHTrA8Lc5D5ATj5T6/oe50v4/O4mW6l1R6HEyGn7P3FmD8X0XPbLidOh1IlJmkF9vUYYH4yoeRAfRuH1bp3lWoR+iPXNsbG/tsmS8e5wIh8SsaI5K7EREbApqOraVC5dgfZ9nU90e0Iupk1fCSDp9SlHiESE9Hzan/4rV/FRYQFGnSCR9mGxAXMRRF62V4SNPoLZ7+UhhbZzGIEKXrkxFEzhYNhYLeI2NPsQgrA1tTFBhEzxbDzilvVxLQW/v0oKpHZHORmFe3xFRW9wBpsWVClaxRod7THMCCAnIpo6oAsDtFYD7WWnLkEeufR90bp3m7BWTTcGt3XlX8iZvQaO/rkkbuUMU+avb5kPQpaQE=;JeEKZ6rt4G+pAO39qG7l2A=="
 ---
 

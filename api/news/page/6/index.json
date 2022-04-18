@@ -2,6 +2,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-11-technology-innovation-institute-announces-launch-of-noor-the-worlds-largest-arabic-nlp-model.md",
+      "title": "Technology Innovation Institute Announces Launch of NOOR, the World’s Largest Arabic NLP Model",
+      "excerpt": "Apr 11, 2022-- Technology Innovation Institute (TII), a global research center and applied research pillar of Abu Dhabi’s Advanced Technology Research Council, today announced the launch of NOOR, the world’s largest Arabic natural language processing (NLP) model to date.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
+      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
+      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
+      "publishedDateTime": "2022-04-11T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
+      "title": "How are Indian banks adopting digitisation and AI?",
+      "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
+      "originalUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
       "title": "Investing in Eastern Europe’s AI future",
       "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
@@ -1076,146 +1204,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-elon-musk-says-production-of-teslas-robot-could-start-next-year-but-ai-experts-have-their-doubts.md",
-      "title": "Elon Musk says production of Tesla's robot could start next year, but A.I. experts have their doubts",
-      "excerpt": "The electric vehicle maker may start production of a humanoid robot known as Optimus as early as next year, CEO Elon Musk said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "originalUrl": "https://www.cnbc.com/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107043923-1649419793298-gettyimages-1239825668-AFP_327X2VH.jpeg?v=1649420032",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/08/elon-musk-says-tesla-is-aiming-to-start-production-on-optimus-next-year.html",
-      "publishedDateTime": "2022-04-08T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-nopd-pushes-for-facial-recognition-software.md",
-      "title": "NOPD pushes for facial recognition software",
-      "excerpt": "The New Orleans Police Department proposed an ordinance to reinstate facial recognition software that was banned by the City Council in 2020. The Eye on",
-      "sourceUrl": null,
-      "webUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/",
-      "originalUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgno.com/wp-content/uploads/sites/2/2022/04/nopd-camera.png?w=1280",
-          "width": 668,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/",
-      "cdnAmpWebUrl": "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/nopd-pushes-for-facial-recognition-software/amp/",
-      "publishedDateTime": "2022-04-08T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.md",
-      "title": "Healthcare to increase tech spending for cybersecurity, marketing and AI",
-      "excerpt": "More than 80 percent of companies expect to increase or maintain technology spending in the next 12 months, with healthcare, life sciences and financial companies planning the largest increases, according to research Bloomberg released April 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-to-increase-tech-spending-for-cybersecurity-marketing-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/10.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

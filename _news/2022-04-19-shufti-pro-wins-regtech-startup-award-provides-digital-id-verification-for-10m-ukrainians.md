@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T18:25:00Z
 originalUrl: "https://www.biometricupdate.com/202204/shufti-pro-wins-regtech-startup-award-provides-digital-id-verification-for-10m-ukrainians"
 webUrl: "https://www.biometricupdate.com/202204/shufti-pro-wins-regtech-startup-award-provides-digital-id-verification-for-10m-ukrainians"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Biometric Companies

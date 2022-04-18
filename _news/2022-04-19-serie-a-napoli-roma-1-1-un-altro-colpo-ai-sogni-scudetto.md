@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T19:10:00Z
 originalUrl: "https://football-italia.net/it/serie-a-napoli-1-1-roma-un-altro-colpo-ai-sogni-scudetto/"
 webUrl: "https://football-italia.net/it/serie-a-napoli-1-1-roma-un-altro-colpo-ai-sogni-scudetto/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Football Italia

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T19:52:00Z
 originalUrl: "https://www.businessinsider.com/pitch-deck-how-marketing-startup-connectly-is-pitching-itself-to-investors-2022-4"
 webUrl: "https://www.businessinsider.com/pitch-deck-how-marketing-startup-connectly-is-pitching-itself-to-investors-2022-4"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Business Insider

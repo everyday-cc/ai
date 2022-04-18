@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-19-gsa-looks-into-facial-recognition-bias-and-improving-accessibility-in-federal-web-services.md",
+      "title": "GSA looks into facial recognition bias and improving accessibility in federal web services",
+      "excerpt": "The U.S. General Services Administration, which procures and investigates tech for things like government websites and online services, is making a two-pronged push for accessibility in its recently released Equity Action Plan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "originalUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-186872728.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
+      "publishedDateTime": "2022-04-18T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-the-success-of-ai-lies-in-the-infrastructure.md",
       "title": "The success of AI lies in the infrastructure",
       "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Artificial intelligence (AI) is bringing many changes to the enterprise, none of which is more vital to its success than infrastructure.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,59 +102,8 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
-      "title": "SAS data ethics head named to National AI Advisory Committee",
-      "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
+        "AI Hardware",
+        "Natural Language Processing"
       ]
     },
     {
@@ -358,7 +359,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -670,57 +671,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-18-why-you-should-use-ai-to-write-your-businesss-press-material.md",
-      "title": "Why You Should Use AI to Write Your Business's Press Material",
-      "excerpt": "Press material is a form of marketing material that's specifically designed to be distributed to the press. Press material is not only used for marketing purposes, but also for public relations. It gives the press an overview of what your company does and who you are as a company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/417465",
-      "originalUrl": "https://www.entrepreneur.com/article/417465",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1649708992-GettyImages-1225909157.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-17T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-17-team-uses-ai-and-robotics-to-treat-spinal-cord-injuries.md",
       "title": "Team Uses AI and Robotics to Treat Spinal Cord Injuries",
       "excerpt": "A team of researchers at Rutgers University has employed artificial intelligence (AI) and robotics to formulate therapeutic proteins. The team was able to successfully stabilize an enzyme that can degrade scar tissues resulting from spinal cord injuries.",
@@ -868,7 +818,7 @@
       "originalUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1047,6 +997,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-who-serves-on-the-new-national-ai-advisory-committee.md",
+      "title": "Who Serves on the New National AI Advisory Committee?",
+      "excerpt": "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee",
+      "originalUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true",
+      "publishedDateTime": "2022-04-15T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     },
     {

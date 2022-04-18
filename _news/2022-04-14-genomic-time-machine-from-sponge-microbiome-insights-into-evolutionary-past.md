@@ -27,15 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Genomic time machine in sea sponges"
-    excerpt: "Sponges in coral reefs, less flashy than their coral neighbors but important to the overall health of reefs, are among the earliest animals on the planet. New research examines coral reef ecosystems with a novel approach to understanding the complex evolution of sponges and the microbes that live in symbiosis with them."
-    publishedDateTime: 2022-04-14T01:03:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220413203126.htm"
+  - title: "Genetics affects functions of gut microbiome"
+    excerpt: "Scientists are exploring how human genetics impacts functions of the gut microbiome, and are expanding awareness of the role human genetics plays in shaping the microbiome."
+    publishedDateTime: 2022-04-18T18:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220418122937.htm"
     type: article
     provider:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Research shines light on the effects of genomic variation on gut microbiome function"
+    excerpt: "New research from Cornell scientists is exploring how human genetics impacts functions of the gut microbiome, and is expanding awareness of the role human genetics plays in shaping the microbiome."
+    publishedDateTime: 2022-04-18T18:19:00Z
+    webUrl: "https://www.news-medical.net/news/20220418/Research-shines-light-on-the-effects-of-genomic-variation-on-gut-microbiome-function.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 0
 
 secured: "x1lYoEjEYBLWHOaq0yW4a++hJRKylFSZ1MsafngVliXNJBQlysq7fdbHyThuLwMuF88ziIQVUpyhOBc6BXzN+o2IWP8TDbsTxsXsGzmNLmDIyxqvzAA3GdgA6hf/SwdU+t0kgMR0ihlOLJqp+qBY6hUzjz9joohI8fErjpi/78EJKMdGNjZSYeM0Z+MB5lDdsHLTdnpp3vP0gic3Lhhq6tDSeyZQbDximQpZPZ+2RngjF6r9kujrP0VPUnsaJHa43vaizSGzYBy6HmWDGGppByJZge0kW+m/7xGY5lF6D4u6UBj1zG19bszUdipCUZKI5Xfcjpl5+5hvTJUqJ0Ai29G9diu6F7HZexeedn/c45qG+zWZGZg3UODDVHpUuIrKBnC8zDyQUswVqXGBlGU98pVXlUP5m4xbp2V1SXUaw0rM7pU+cHunX2ISwGMeAbM7O3fXba9SVAxbL3nlYI/sBIKKEcpdxOSSbT7eay7fhRtLQ/dACSrXyOxnW1rEwtSr6+gPscEjZWfl80ytHfrtcg==;KxzM+ykdNr0Lb0FOKC5ZQQ=="
 ---

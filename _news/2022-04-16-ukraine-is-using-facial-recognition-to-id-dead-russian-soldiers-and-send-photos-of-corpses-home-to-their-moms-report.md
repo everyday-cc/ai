@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 112
+heat: 111
 published: true
 
 provider:

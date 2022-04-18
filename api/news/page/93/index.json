@@ -2,6 +2,135 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-01-26-baidus-car-making-jv-raises-400-million.md",
+      "title": "Baidu's car-making JV raises $400 million",
+      "excerpt": "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg",
+          "width": 711,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T18:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-baidus-electric-vehicle-arm-jidu-raises-400-mln-in-new-funding-round.md",
+      "title": "Baidu's electric vehicle arm Jidu raises $400 mln in new funding round",
+      "excerpt": "Baidu's electric vehicle arm Jidu Auto said on Wednesday that it has raised nearly $400 million from Baidu and Zhejiang Geely Holding Group in a new funding round. BEIJING, Jan 26 (Reuters ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round",
+      "originalUrl": "https://www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-electric-vehicle-arm-jidu-raises-%24400-mln-in-new-funding-round?amp",
+      "publishedDateTime": "2022-01-25T17:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-customization-basics-tensors-and-operations.md",
+      "title": "Customization basics: tensors and operations",
+      "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-load-and-preprocess-images.md",
       "title": "Load and preprocess images",
       "excerpt": "import numpy as np import os import PIL import PIL.Image import tensorflow as tf import tensorflow_datasets as tfds Note: all images are licensed CC-BY, creators are listed in the LICENSE.txt file. import pathlib dataset_url = \"https://storage.googleapis ...",
@@ -1021,127 +1150,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management.md",
-      "title": "Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management",
-      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response, today announced it has acquired Siriux Security Technologies, a leading provider of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia.md",
-      "title": "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia",
-      "excerpt": "In a blog (via PC Gamer), the company shared that the “massive AI research supercomputer” will be “the largest Nvidia DGX A100 customer system to date”. The AI Research SuperCluster (RSC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3147612",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2022/01/Meta-supercomputer-2000x1270-1.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-minority-languages-found-an-unlikely-ally-in-translation-companies.md",
-      "title": "How minority languages found an unlikely ally in translation companies",
-      "excerpt": "Professional translation companies are becoming an unlikely partner in protecting minority languages for future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
-      "originalUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.openglobalrights.org/userfiles/image/Tirosh_Images_01-25-22.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openglobalrights",
-        "domain": "openglobalrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

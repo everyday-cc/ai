@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-13-bengaluru-airport-announces-winners-of-bial-genie-hackathon.md",
+      "title": "Bengaluru Airport announces winners of BIAL Genie Hackathon",
+      "excerpt": "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/04/13/1600x900/fahim-muntashir-F1PCLT669UU-unsplash_1649842544676_1649842564578.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html",
+      "publishedDateTime": "2022-04-13T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-neuromorphic-computing-industry-next-generation-of-ai-and-machine-learning.md",
+      "title": "Neuromorphic Computing Industry - Next Generation of AI and Machine Learning",
+      "excerpt": "Emergen Research Logo The growth of the market is attributed to the requirement of better performing ICs and increase in demand for AI an",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning",
+      "originalUrl": "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-swarm-robotics-expands-the-possibilities-for-mars-exploration.md",
       "title": "Swarm Robotics Expands the Possibilities for Mars Exploration",
       "excerpt": "Roboticists from Skoltech have proposed the development of two-wheeled robots controlled through swarm intelligence algorithms that can operate independently or as part of a team to complete mission-critical assignments on the surface of Mars.",
@@ -615,6 +702,57 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations.md",
+      "title": "Data quality can make or break efforts to bring artificial intelligence to IT operations",
+      "excerpt": "Artificial intelligence for IT operations, or AIOps, could help IT run in a more unattended fashion. But the necessary data may not be ready to sustain it. 'Data is either going to be an obstacle or a",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
+      "originalUrl": "https://www.zdnet.com/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6b9a2c88fd064a6003ab680c9c75eb23c06ec47e/2022/04/12/33673e3f-0e23-46f9-a7ff-c4960c95ca55/img-9670.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
+      "publishedDateTime": "2022-04-12T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-graph-data-science-what-you-need-to-know.md",
       "title": "Graph data science: What you need to know",
       "excerpt": "GDS 2.0 also brings more machine learning and AutoML capabilities. The ability to create ML pipelines for tasks like link predictions is introduced. This means being able to fill in missing ...",
@@ -1036,144 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
-      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
-      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know.md",
-      "title": "Overcoming Supply Chain Challenges With AI: What Large Manufacturers Need To Know",
-      "excerpt": "The supply chain has always been extremely complex and hard to manage; everything has become incomparably harder as the Covid-19 pandemic brought about a whole chain of unprecedented challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61a8c4981493e6d6ce4b83af/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/amp/",
-      "publishedDateTime": "2022-04-12T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
-      "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
-      "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/incoming/32t9i4/article65313925.ece/alternates/LANDSCAPE_615/Spyne%20Black%20png.png",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/",
-      "publishedDateTime": "2022-04-12T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

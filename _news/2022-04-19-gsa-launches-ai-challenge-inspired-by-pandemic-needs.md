@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T18:39:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2022/04/gsa-launches-ai-challenge-inspired-pandemic-needs/365788/"
 webUrl: "https://www.nextgov.com/emerging-tech/2022/04/gsa-launches-ai-challenge-inspired-pandemic-needs/365788/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Nextgov

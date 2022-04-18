@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shif
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: enterprisetalk
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
-    excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-    publishedDateTime: 2022-04-14T04:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg"
-        width: 2700
-        height: 1845
-        isCached: true
   - title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions: Study"
     excerpt: "A new IBM Institute for Business Value (IBV) study has revealed a radical shift in the roles responsible for leading and upholding AI ethics at an organization. When asked which function is primarily accountable for AI ethics,"
     publishedDateTime: 2022-04-14T07:51:00Z

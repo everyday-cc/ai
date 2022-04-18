@@ -2,6 +2,135 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-02-19-study-says-companies-will-increase-spending-on-ai-solutions-by-196-this-year.md",
+      "title": "Study says companies will increase spending on AI solutions by 19.6% this year",
+      "excerpt": "Advancements in language, voice and vision technologies, and multi-modal AI solutions are revolutionizing human efficiencies,” says Ritu Jyoti, group vice president, Worldwide Artificial Intelligence (AI) and Automation Research at IDC. “Overall ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/ai/companies-to-increase-spends-on-ai-solutions-this-year-says-idc/",
+      "originalUrl": "https://www.mactech.com/2022/02/19/study-says-companies-will-increase-spending-on-ai-solutions-by-19-6-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/ashojoac/2021/08/ai-game.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-19T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-could-artificial-intelligence-really-wipe-out-humanity.md",
+      "title": "Could artificial intelligence REALLY wipe out humanity?",
+      "excerpt": "MANY fear that artificial intelligence will be the end of humankind ... When prompted with the question \"Is AI an existential threat to humanity,\" Matthew O'Brien, a robotics engineer from the Georgia Institute of Technology wrote on Metafact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/",
+      "originalUrl": "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/02/LG-AI-COMP2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/17703533/artificial-intelligence-wipe-out-humanity/amp/",
+      "publishedDateTime": "2022-02-19T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-19-student-in-india-develops-ai-model-that-turns-sign-language-to-english.md",
+      "title": "Student in India develops AI model that turns sign language to English",
+      "excerpt": "She invented the AI model using Tensorflow object detection API that ... Pryor and Navid Azodi invented a pair of gloves called 'SignAloud', which could translate sign language into speech or text. They won the Lemelson-MIT competition for their entry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/02/19/indian-engineering-student-ai-model-sign-language-english-768x432.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/student-india-develops-ai-model-turns-sign-language-english-2965771?amp",
+      "publishedDateTime": "2022-02-19T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-19-this-ai-can-control-the-sun-hot-plasma-in-a-nuclear-fusion-reactor.md",
       "title": "This AI Can Control the Sun-Hot Plasma in a Nuclear Fusion Reactor",
       "excerpt": "Google’s AI powerhouse DeepMind has made news again by using artificial intelligence (AI) to help shape the sun-hot plasma stream contained in a tokamak nuclear fusion reactor. The DeepMind team ...",
@@ -1100,156 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-what-the-history-of-ai-tells-us-about-its-future.md",
-      "title": "What the history of AI tells us about its future",
-      "excerpt": "Newsweek called the match “The Brain’s Last Stand”; another headline dubbed Kasparov “the defender of humanity.” If AI could beat the world’s sharpest chess mind, it seemed that computers would soon trounce humans at everything—with IBM leadi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
-      "originalUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/02/MA22_review_Deep-Blue3.png?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/02/18/1044709/ibm-deep-blue-ai-history/amp/",
-      "publishedDateTime": "2022-02-18T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry.md",
-      "title": "Hisense Breakthrough in 8K AI Image Quality Chip Technology Empowers the Global Display Industry",
-      "excerpt": "It achieves the leapfrog development from 4K to 8K for the first time and makes great breakthroughs in the core technology of AI image quality algorithm. The Hi-View HV8107 chip not only has the ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hisense-breakthrough-in-8k-ai-image-quality-chip-technology-empowers-the-global-display-industry-1031207935",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1749697/1.jpg",
-          "width": 303,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report.md",
-      "title": "Volkswagen in talks to buy Huawei’s autonomous driving unit: report",
-      "excerpt": "Last September, the duo unveiled the first product of their joint effort, a self-driving electric van. The reported acquisition comes at a delicate time for Huawei’s AV team. Su Jing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/",
-      "originalUrl": "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/arcfox-huawei.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/18/volkswagen-in-talks-to-buy-huaweis-autonomous-driving-unit-report/amp/",
-      "publishedDateTime": "2022-02-18T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

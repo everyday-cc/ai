@@ -65,6 +65,15 @@ related:
         width: 1000
         height: 607
         isCached: true
+  - title: "US and India launch talks about military AI"
+    excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
+    publishedDateTime: 2022-04-18T13:21:00Z
+    webUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
+    type: article
+    provider:
+      name: Navy Times
+      domain: navytimes.com
+    quality: 17
 
 secured: "YwUx54XezpRX+fSyi3z/MR05dl1uBqHKbWC3MkKNvSpaBFN28VNzMTizxEOy1iU7yXnc/v8hsa8HfMJM7LPTgGIQecgK2NmdooxahrpyEPChfYYM3sBR4gSr6i610gJaiV2ELDBFEDKQxd+yI92+GghHa7fIt3hcJkTH9W5JrzjNRCU2ncl5X5IopB60+H8iYLqN9EMyXmNyTF+PTSYUk42xguSjIwRmR5PrLrQULlehTK0ZvqnJYBsPIXQMoPpqjb5qvTlaWFYC7W9TpIhom1m9b+VKSPZE9ExflR7WqoSNfNrqk2QDzsidkcDjJF77fiTqvrhUZehNmPsOndKoDS+paYTt6r6UeF7jFKCsz18=;He9JbvTJlVbxklEAM4plqw=="
 ---

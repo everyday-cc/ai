@@ -52,6 +52,15 @@ related:
         width: 1154
         height: 649
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Opportunities, Deep Analysis With Present Data And Forecast 2022-2028"
+    excerpt: "Artificial Intelligence in Healthcare Analysis AI is used in healthcare for approximation of human cognition and analysis of complex medi"
+    publishedDateTime: 2022-04-18T19:25:00Z
+    webUrl: "https://menafn.com/1104042106/Artificial-Intelligence-in-Healthcare-Market-Opportunities-Deep-Analysis-With-Present-Data-And-Forecast-2022-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
   - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
     excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
     publishedDateTime: 2022-04-15T10:34:00Z

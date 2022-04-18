@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Versapay Acquires Leading Cash Application Fintech Company DadeSystems"
+    excerpt: "Expanding Versapay's AR automation capabilities for its 8,000+ clients TORONTO, April 18, 2022 /PRNewswire/ - Versapay, the leader in Collaborative Accounts Receivable, announced today it has completed its acquisition of U."
+    publishedDateTime: 2022-04-18T18:00:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220418TO27146/versapay-acquires-leading-cash-application-fintech-company-dadesystems/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 4
+
 secured: "++hMrRJ4eGDVATFm0aswfr744VCelsQAF09AyLCwHwpJFeCBGZxt9QVMliPM3oRwneJqoMRW7Sk2dOisa9SdxKFUdOCxYCpA6s0GQQ+QkWE0Wrec8wKLKx+quUJt96lJSlUSbf1/NAuBEM7hx7IYuj4WVJ8r9W+BOc66JQZS6su9LZj8eLkMll6vaRnPbgdAqwoP14skB6Ap2Risdx2yE8OD4nuAFkkdNnuc2diArBfSjo9rh74KB/hNx5NM9kQTihNqxgOQ1+EfK2oit3vSEqHhjBfcGaD28MGP1Srz+BjAE3uM+FJRsO9N0wp3tAoufRusR4GVzdFP/fKm+bsIeVJM/I7ryQNlO82jsUWJ3M8=;PfHXfqcgwQnoGjJ3Q7QKEw=="
 ---
 

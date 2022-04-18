@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
+      "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
+      "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
+      "originalUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
+      "title": "SmartHop raises $30M to boost trucking fintech products",
+      "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
+      "publishedDateTime": "2022-04-06T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-artificial-intelligence-is-already-upending-geopolitics.md",
+      "title": "Artificial intelligence is already upending geopolitics",
+      "excerpt": "Angela Kane Contributor Share on Twitter Angela Kane is vice president, International Institute for Peace, Vienna and the former under-secretary-general of the United Nations. Wendell Wallach Contributor Share on Twitter Wendell Wallach is a Carnegie-Uehiro Fellow at Carnegie Council for Ethics in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
+      "originalUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/AI_geopolitics.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
+      "publishedDateTime": "2022-04-06T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
       "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
       "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
@@ -983,154 +1139,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-real-time-data-analytics-firm-tinybird-nets-37m-in-series-a.md",
-      "title": "Real-time data analytics firm Tinybird nets $37m in Series A",
-      "excerpt": "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
-      "originalUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg",
-          "width": 648,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
-      "publishedDateTime": "2022-04-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022.md",
-      "title": "Registration opens with 2-4-1 passes to TC Sessions: Robotics 2022",
-      "excerpt": "Robotics returns this year as a live and in-person event! It’s been far too long, and we can’t wait to see you — and plenty of robots — on July 22 at the Hynes Convention Center in Boston, Massachusetts.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-microsoft-taps-ai-to-make-you-look-your-best-in-video-meetings.md",
-      "title": "Microsoft taps AI to make you look your best in video meetings",
-      "excerpt": "Microsoft is applying artificial intelligence to meetings, with a host of new AI-driven technologies from Eye Contact, automatic framing, plus improved background blur and echo cancellation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
-      "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/04/Intelligent-meeting-eye-contact-background-blur.png?w=1024",
-          "width": 1023,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
-      "publishedDateTime": "2022-04-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

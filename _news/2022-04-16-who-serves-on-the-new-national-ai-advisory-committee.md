@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Government Technology
@@ -28,32 +28,55 @@ images:
 
 related:
   - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
-    publishedDateTime: 2022-04-18T16:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
+    publishedDateTime: 2022-04-18T16:09:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
-        width: 320
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "AI encompasses many technologies, including machine learning, neural networks, computer vision and natural language ... \"The diverse leaders of our inaugural National Artificial Intelligence Advisory Committee represent the best and brightest of their ..."
-    publishedDateTime: 2022-04-18T17:19:00Z
-    webUrl: "https://www.wate.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
+    excerpt: "Created in response to the National AI Initiative Act of 2020, the NAIAC provides recommendations on the current state of US AI competitiveness, the state of science around AI and"
+    publishedDateTime: 2022-04-18T19:08:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
     type: article
     provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 56
+      name: KTLA
+      domain: ktla.com
+    quality: 38
+  - title: "National AI Advisory Committee"
+    excerpt: "Looking for the latest Government Contracting News? Check out more stories about National AI Advisory Committee."
+    publishedDateTime: 2022-04-18T20:48:00Z
+    webUrl: "https://executivegov.com/tag/national-ai-advisory-committee/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1250367/sas_midnight_blue_Logo.jpg?p=publish"
-        width: 600
-        height: 248
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/2e/32/5e/d4/18/d8/da/64/unnamed-file-27-480x384.jpeg"
+        width: 480
+        height: 384
+        isCached: true
+  - title: "Commerce Department Names National AI Advisory Panel Members; Don Graves Quoted"
+    excerpt: "Looking for the latest Government Contracting News? Read about Commerce Department Names National AI Advisory Panel Members; Don Graves Quoted."
+    publishedDateTime: 2022-04-18T20:44:00Z
+    webUrl: "https://executivegov.com/2022/04/inaugural-members-appointed-to-national-ai-advisory-committee/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 33
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/c8/64/6b/67/67/b8/29/04/unnamed-file-27.jpeg"
+        width: 272
+        height: 270
         isCached: true
   - title: "Commerce appoints 27 experts to National AI Advisory Committee"
     excerpt: "The committee, established in September, will make recommendations on U.S. global competitiveness and the National AI Initiative."

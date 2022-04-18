@@ -25,6 +25,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
+    excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic. The study is published in Gastroenterology."
+    publishedDateTime: 2022-04-18T18:13:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-ai-precancerous-polyps-colorectal-cancer.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 15
+
 secured: "7QSC52CTi0hKcUsew2uDMUH4HglV20CnNmmxI6ZvwfnUTg+I3BcammX3BpjWAvYGPzLnie3OxnGUCgfx2iqc32lea66qboXUQJv+KJWS4k3wfd7u7rJJKL8EgTv9h1hJnrpN+t0mWBz6Hi2jevWWQn+9QWh685vmqRiBXFVPeqJ4DTV9kVpq3Q5R/S29B3fkWipae6uYMpFwfVFER8OIVmd2H7/UBMroD01YRy9RLBUc24lC3w4TUmvMmeNhUADp4Ha1OXm8OAUXCdc/dfj7BZDJ8K9YPYmdGiW7+dsliae4RdEAZbHGlWTZoXAY9CdRVmeYVDjGKtfbtTeza8joNK82qF85EnhNDHhxOCPha3FPkOCRIGhdPvwjaugil4AgWJ9URJd0w1l0j++crCzR/yXqiyZBlUXGS6n2F/l60x6OHDS/0K7WwAKNfvVWUCgyWBwXs9zDT95so0+98kLBbcgzjZiFSLS18+a5TWsK4YCPvEAWL+2fyShZ4UDQpAfGnVaFmt0uKFZy6X/l56C1wg==;37zymX/V19OVfIcWikmDTw=="
 ---
 

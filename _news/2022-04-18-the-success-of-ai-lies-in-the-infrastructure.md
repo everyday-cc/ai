@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infras
 ampWebUrl: "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:

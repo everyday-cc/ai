@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T18:30:00Z
 originalUrl: "https://www.komu.com/news/midmissourinews/suspect-claims-self-defense-in-sunday-mornings-downtown-columbia-shooting/article_9b835fde-bf40-11ec-80eb-d7da4cb2e9f1.html"
 webUrl: "https://www.komu.com/news/midmissourinews/suspect-claims-self-defense-in-sunday-mornings-downtown-columbia-shooting/article_9b835fde-bf40-11ec-80eb-d7da4cb2e9f1.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: KOMU

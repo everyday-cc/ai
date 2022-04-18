@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-fo
 webUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence: filling the gaps"
-    excerpt: "Artificial intelligence (AI) is of strategic importance for the European Union: the European Commission frequently affirms that ‘artificial intelligence with a purpose can make Europe a world leader’."
-    publishedDateTime: 2022-04-14T03:00:00Z
-    webUrl: "https://socialeurope.eu/artificial-intelligence-filling-the-gaps"
-    type: article
-    provider:
-      name: Social Europe
-      domain: socialeurope.eu
-    quality: 39
-    images:
-      - url: "https://socialeurope.eu/wp-content/uploads/2022/04/shutterstock_1022667853.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "5G and AI: Ushering in New Tech Innovation"
     excerpt: "The combination of AI and 5G networks is poised to revolutionize how business gets done. Read on to learn how."
     publishedDateTime: 2022-04-14T19:00:00Z

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence: filling the gaps"
-    excerpt: "Artificial intelligence (AI) is of strategic importance for the European Union: the European Commission frequently affirms that ‘artificial intelligence with a purpose can make Europe a world leader’."
-    publishedDateTime: 2022-04-14T03:00:00Z
-    webUrl: "https://socialeurope.eu/artificial-intelligence-filling-the-gaps"
-    type: article
-    provider:
-      name: Social Europe
-      domain: socialeurope.eu
-    quality: 39
-    images:
-      - url: "https://socialeurope.eu/wp-content/uploads/2022/04/shutterstock_1022667853.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "C2FcTuL0mhH5xcETqfAFVKSFRlJ998S6foe2KgJnMaDAFGi9M+EZWnCQJLifNRSU4zK9KZ+PbHMtfbbXjVpE4Su0pRyh+67D+3z9RKPTaGcPVRSS8s+ncN7xgVKczSoiEjqUuLS7V9I+70uK3vFKud06I345q7MfxZ7IWmBaE3TaExJOirp+Cqu/vGgCBKm1kaqJ5WxEQ/dDse/ffMWmYFTC1AtYJ3JAXEZ/esR3+luCpX7D3tiis0c0gUsfPXE/2afBACRnI926A/EzHo4xKECJZUj0pCAYm1noPwSQ5XL9Us8mlBDSvE88BT4z/EUoqIDWds8W2FlaPBhHHNXzqu2gX6lITlig3ZGxTmyvzBDE4yQB+GO/sq2BhLtF1wS7GFNWKXWrCVOBSREyLzSFc/UwkGxG/ZvU0rpXoV0TZB+cYiUuCzOl10EjEFUhPGDJco0WrLvU37dAuoKWka9E+xkFdxzMKisACgfJ0BKjcLkrAq1if4YQrrvHqw7vE3vbXEPRaT3DHFhestNOqNqsKA==;fgxiHwtplo4DLSl3vNdvtw=="
 ---

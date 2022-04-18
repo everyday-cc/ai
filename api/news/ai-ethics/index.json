@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
-      "title": "SAS data ethics head named to National AI Advisory Committee",
-      "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg",
-          "width": 320,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
       "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
       "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
@@ -116,7 +64,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -212,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-16-who-serves-on-the-new-national-ai-advisory-committee.md",
+      "title": "Who Serves on the New National AI Advisory Committee?",
+      "excerpt": "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee",
+      "originalUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true",
+      "publishedDateTime": "2022-04-15T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-ai-can-be-creative-ethical-when-applied-humanly.md",
       "title": "AI can be creative, ethical when applied humanly",
       "excerpt": "Question of morality in AI use for crime Humans, too, cannot be removed from the equation where ethics are central to the AI discourse, such as in law enforcement. In making a decision, humans would consider the morals behind it, said David Hardoon ...",
@@ -242,6 +233,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study",
+      "excerpt": "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/",
+      "originalUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Responsibility-for-AI-Ethics-is-Shifting-from-Tech-Roles-to-the-Business-Executives_-says-IBM-Study-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/",
+      "publishedDateTime": "2022-04-14T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1434,50 +1468,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues.md",
-      "title": "AI Robots for the Elderly Mean Well, but Raise Ethical Issues",
-      "excerpt": "AI robots are increasingly being used to supplement care for the elderly, but experts warn they'll never replace human companionship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014",
-      "originalUrl": "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/LeZ01Xy-bzRPTt9AkrhXwZfMyqI=/724x483/filters:fill(auto,1)/GettyImages-1343473312-6a4ad78596574ff98bb5d00ee1481af4.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -67,6 +67,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Opportunities, Deep Analysis With Present Data And Forecast 2022-2028"
+    excerpt: "Artificial Intelligence in Healthcare Analysis AI is used in healthcare for approximation of human cognition and analysis of complex medi"
+    publishedDateTime: 2022-04-18T19:25:00Z
+    webUrl: "https://menafn.com/1104042106/Artificial-Intelligence-in-Healthcare-Market-Opportunities-Deep-Analysis-With-Present-Data-And-Forecast-2022-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
   - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
     excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
     publishedDateTime: 2022-04-14T06:14:00Z

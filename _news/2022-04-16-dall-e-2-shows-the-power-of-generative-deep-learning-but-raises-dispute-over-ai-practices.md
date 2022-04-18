@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-dee
 webUrl: "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

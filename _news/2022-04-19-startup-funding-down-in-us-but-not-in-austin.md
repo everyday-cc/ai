@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T18:14:00Z
 originalUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2022/04/18/startup-funding-wrap-april.html"
 webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2022/04/18/startup-funding-wrap-april.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Business Journals

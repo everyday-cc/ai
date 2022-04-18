@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "8pD3QrKrq8I1OYwqVtZgBV2PUEacE1LLYQoFAMF1Y8P54LbdgrkXzdvPVcqz+wn5UKGvRREdd/eYXRqsfvwRheD5L4FgjSEhziIAQ+vMjtunz+HFmRwS/wfrAV6dUrsNHKuqfPIBbMxlXKyJ1h+b99hzriTJCn10lRFeO4XI86+j6mdv4Ms3G0r4AEz3E3jDVbOsh7e8Ebi2r7gmePl1XQrbLfFgFEXSHhlT4CVNyTpFxSYoCZSIaCICvCiJdTARgBlFIRSG2y5rmn3JLH/UL3jBrVmuwqmFQ6mZRfE73hq60aIcJTxGgzA/tBgFHbdDm4OHS4lQo/M2FfhQ3UDXRbqwgUU8B6AAMpNOuPhlTD0=;muyzOZ9KZ15nT+F/S/2I5Q=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26805"
+    width: 383
+    height: 250
+    isCached: true
+
+secured: "VP0WL9DoQAEE1lK1gxoONWk+oqjcZT2Wj8KKaPeYUQYHm7T3Kae7epE9zaOZJThN5GRt/mZI2OEm5x+a1NF0/mncAoKyPrGvEIQBZHHTX9HI3nSPrBY0lFT5GRKF1w/2EAGSf9bRs5RNcJMOXZn7WC20gZIc2r+gZ6TX7hQ9Op7UwVxfIQQRYQ4LZi4lIr4RdzmIHojKMYVf5Gact0LeBAyC+NESkaGGNobd6c14Vd2dq9p2FsBpjFUn1ohESdR6//uMwvpC1NMZo0Cg+k10CVppELyfYNF/YG9v39JG0XFg7CaADc9aBHgbrlb8dS3C8scYcptDaiG1/a5AOUxqIhBvEth0+0sbxwlncysgv/k=;DSuen+4TxJuoXKjYjaBUEg=="
 ---
 

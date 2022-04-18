@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-18T17:40:00Z
 originalUrl: "https://siliconangle.com/2022/04/18/meta-using-ai-focus-sustainable-technology/"
 webUrl: "https://siliconangle.com/2022/04/18/meta-using-ai-focus-sustainable-technology/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
