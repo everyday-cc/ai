@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch this driverless car get pulled over, then bolt for it"
-    excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
-    publishedDateTime: 2022-04-13T16:52:00Z
-    webUrl: "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-    type: article
-    provider:
-      name: KARE 11
-      domain: kare11.com
-    quality: 59
-    images:
-      - url: "https://media.kare11.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Driverless car got pulled over by San Francisco police, then bolted. The company said it was by design."
     excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
     publishedDateTime: 2022-04-13T18:59:00Z
@@ -57,7 +41,21 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "The AI infusion: Join theCUBE at AWS Summit San Francisco"
+    excerpt: "An example can be found in how Ampersand Inc., a data-driven TV advertising sales and technology firm, uses AWS Batch to run 50,000 concurrent machine learning models in less than one day. A look at how AWS enables enterprises to put data to work with artificial intelligence and machine learning-powered low-code and automation initiatives will be the focus for theCUBE,"
+    publishedDateTime: 2022-04-14T20:49:00Z
+    webUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AWS-Summit-San-Francisco-Hero-Image-2022.png"
+        width: 1182
+        height: 662
+        isCached: true
 
-secured: "6OaPwskXNcv25vVW0Hum153dq7SWjBg2p0/vy1ry8cCIJHIdx3th1HqFNfYUS5CmkcOIec5Uc0LCtaeDnPP/OPp2sSCx4AycwS4wHEmLTvnqx8rv90jD58wuZH/5/h3nsnmyIbQGhmmv7InriATacakoprg7zWvmhMcjiMQWIU+hrRpv14dODHSvVxOlbLrVj/HpGqlWUCj+WzFPQnkKJRQsdYHUU3RVrgLcSenUB7qqN+KlaDlokuR+2lqpZQZVZ/eh7djvSHw1/5G1KuYsix4jDuTStC5Gx3FUZ0idSGa8tUjCiaCN5sX+cqNJjluXB38c7X69ORmJueHq+8tCw2/ANefxXAOLKE0AwelF6DA=;/xgr119Mu9Hla6quwDx9LQ=="
+secured: "BmW0KitUK3CLz8K67guZa/iK8ZpQRNRTRWpNirdn7r9e4bXW5X28MBhFXtn1PIO6p0E9VaUwSOKNduPxibA0/IKimdneyFTqUgb5LvmpdCRTHKvVXwA2r+W8mffmXIrgs82YAZyXreY1TLmKwvftBN4VKgnOIggoUYb2aIwSY1jIlYqcZBsXFb8Xobj8JYHv9/aHL4T3F9X+AziwbEURTvl5MZklT9/K9qzyj+I/LtG9Cg9ZqLsXrCAJergCpUxoky6RR9SU37rX53avuWOIOT+HU4W9SbnlZh5SSQSTxrQ5Tsef9QNS+OmmUCQLy3r8JgeB3dSEMFM2TJvcTtCiJ7E6WtbeWyjyUA0O7xWV1WM=;go2YDUfdzvtobRYIzqHaRA=="
 ---
 

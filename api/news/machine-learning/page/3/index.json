@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-31-global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights.md",
+      "title": "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights",
+      "excerpt": "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights-2022-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal.md",
       "title": "Get up to speed on deep learning with this certification bundle deal",
       "excerpt": "Deep learning drives a wide range of IT products, from consumer-facing recommendations to internal data analysis. The Ultimate Deep Learning & NLP Certification Bundle offers a detailed ...",
@@ -1368,50 +1420,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-reinventing-how-aiml-teams-gather-data-needed-for-computer-vision-network-training.md",
-      "title": "Reinventing how AI/ML teams gather data needed for computer vision network training",
-      "excerpt": "Datagen, the data-as-code leader for computer vision AI, today announced the closure of a $50 million Series B financing round led by new investor Scale Venture Partners. The round also included participation from existing investors TLV Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "originalUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2022/03/-----------------------------------------------.jpg",
-          "width": 2000,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/datagen-raises-50-million-series-b/amp/",
-      "publishedDateTime": "2022-03-23T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

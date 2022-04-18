@@ -69,21 +69,7 @@ related:
         width: 1280
         height: 848
         isCached: true
-  - title: "Self-driving vehicle tech company Argo AI investing $2.6m for Greenville testing facility"
-    excerpt: "This will be the Argo AI's third test track along with ones in western Pennsylvania and Munich, Germany. The company plans operation at SCTAC later this year."
-    publishedDateTime: 2022-04-13T15:51:00Z
-    webUrl: "https://www.postandcourier.com/greenville/self-driving-vehicle-tech-company-argo-ai-investing-2-6m-for-greenville-testing-facility/article_a567436a-bb41-11ec-adbb-07e66cc3519e.html"
-    type: article
-    provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/60/a601d3c6-bb46-11ec-8c64-a76c68d034de/6256fa45a68e5.image.png?crop=1003%2C527%2C0%2C19&resize=1003%2C527&order=crop%2Cresize"
-        width: 1003
-        height: 527
-        isCached: true
 
-secured: "+kJJV3YBTDMAZ8ghu8GL8Ej7HlMA1tGXFOY2O9OQM73Gy7p8jV7v3fpWU7c/YTKNK6jUuM/+gqtcRfRDcnTzn2Be/Hg3Wuibl/22uHWxF2PVB432A+FheLv6hXkoRSZT/+KR5cblmFXLh/jrXUXLfHQQInv818dxpz6EIpvk/TYxCYkP1JvWEzIIFXPpvlZ1eXkl+XFJhcN5qXueDEsByCa2M/wHKPWpnAk27qJ2nWv+oeom51XGBzEypKnK3a7MsVVpewKj+wTYWizGVvPKe/NUyJCvQ9f4FcWeM9GsogloV+Y5/QXryH30URffNGHvqQXCDac4W133YHAy5pQLADh5UOS56xxEueUYaHEgYkU=;DQS44Jx5SgHKNOlam3wjBQ=="
+secured: "JiwCK5CwjO8PbvhH9nxXQ/b0wmXi3jiWWnFZfC8cBMmwy914GC6I24/SVSYXw4y9w+BUA5bmxCwigLmNW9B6YGAwvGFcTH7B3TWTXjvNs95gmI1qCy8JSsM5ieXxaA0P+PLNWlUvGbm0lcFbjgfqs5fM4mjwnm6pVX3Ugi+18ZxYeT0Rmv285POCa2e/YpHMNw+LmvaPzdB7466EeS3PNZGYE0jDeVuN3WxDJe3xtqX32sGVaoeU4Mqg8FokNZA81xZwKdSFDLJMAzBYk1MpQ8XU1oLv7hLRoLtQ+iyAtSBgX78mF8Iv73QRBF/bUdyXCFrwXWsUsUGBuvs1HWeuKhXDSeZeUXP/2TRjbOuU+jA=;xiJwwyDvDB5I+1UVKw6uDg=="
 ---
 

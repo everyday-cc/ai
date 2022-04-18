@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-technology-predict-cardiac
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-technology-predict-cardiac-arrest"
 type: article
 quality: 52
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Interesting Engineering
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
-    excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
-    publishedDateTime: 2022-04-13T16:16:00Z
-    webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
   - title: "Using AI to predict future cardiac arrest"
     excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
     publishedDateTime: 2022-04-14T16:50:00Z

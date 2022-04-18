@@ -62,6 +62,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "LendIt Fintech hosts India – The World’s ‘Fintech Lab’ session"
+    excerpt: "India has been at the epicentre of a global ‘lab testing’ environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+    publishedDateTime: 2022-04-18T06:00:00Z
+    webUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 44
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/04/Capture2022041804434820220418053650.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Fintech start-ups frustrated by red-hot recruitment market"
     excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
     publishedDateTime: 2022-04-16T05:03:00Z
@@ -85,15 +101,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
-    publishedDateTime: 2022-04-18T06:22:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220418/3932453.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "ZWf+HzMWLJzrU2i1EXNe9oPoeAjZrwy9UOJd4XNgTvKtw9MaKH8jP94xmknZg+iPyBT3PAWh0DuLIShjLITB2/iCDEzzFyyPp4OmBJyrl0LWxrpRsrKSFSV+AQPH/FnMK3QeMg9eK0BPx6Vcyvn6K+RoAtM0m9qwWOk7+CATmNDVw11NbvvdgD2yl7w/k5TYQlo6FeAXwqNaBnYGMDEToWQOenMjEeCLUQePbbWb5mdEa53+GpUMAYHgBECLR6ENi+z/ncKC1GKidTZOt7s1T/k8CD4mRsuDSa5HJ+KEYHv8AQuUJA+fAz3KQRd8RXQUqPrwD+VQAwL0AA//GevGQbcenjX1fcPQmeHZLMKkBjo=;Ry8NB4xUR25vctDjo7oEUg=="
 ---

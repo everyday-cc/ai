@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Profectus Capital goes live with Scienaptic’s AI-powered credit decisioning platform"
-excerpt: "Scienaptic AI, a leading global AI-powered credit decision platform provider, recently announced that Profectus Capital is now live on its"
-publishedDateTime: 2022-04-18T06:18:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/profectus-capital-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
-webUrl: "https://ibsintelligence.com/ibsi-news/profectus-capital-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
+title: "Profectus Capital Goes Live With Scienaptic’s AI-Powered Credit Decisioning Platform"
+excerpt: "Successful deployment of decisioning platform with industry-tested scorecards based on alternative dataBANGALORE, India--(BUSINESS WIRE)--#AI--Scienaptic AI, a leading global AI-powered credit decision platform provider,"
+publishedDateTime: 2022-04-18T07:30:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=648183"
+webUrl: "https://us.acrofan.com/detail.php?number=648183"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
-    width: 450
-    height: 376
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
-secured: "bcV2ybDO+CKAMM6T9UfKcOIa1l32sh7FrDGlVUkQYp1WcNmKDCkW3etSowrcOUysBoik7eDFwubjo9ci4QSt4PX036cm+vvF8iGD9OfvWfKV7jU64mS+xrFeeKC69HEzzbVWD+gXspYOkFKt8moN9jFAO1nWziJLkLUc35Qubr/vl4GJXGUzpF5VydVoSb3CsJbiYTaUtrOxo0Hi9qpig8BC7hOLy5kcWIlgnS9dG+WgiMfksGHrajy6ud844s3zQZBoGr849Tbg81TUDVd3sSWC6cBcDf4P941zpmZeI8nvsNxfYdLJB5orBY/gWHpiPxzRxPcahXnbXVxoBYsL0yShUMZavDy3sahAhJmLazc=;YXTNu/KrieC7Cce2O105SQ=="
+secured: "SkpMxh13MH5E2HuKL5dlzJ/trbFsjLWqwF/VeDRXqnHWoQT/7YxpW9FXFBVqgno5dRKYFMYv6QUyp8RgTs0PkXCBIG4TAI/66fxxPlLpTE/Ke/IH9FvQsH3Z6XObX0dCjYJLNh0UfuLtZfzxaShWE0/R5YJO1uxuSnM4RDvlEsPZKA2NRkFx00iDC8wOe8sRBbLncUs/Abhm2EkLEDTuKNMgjlV65j/K0vltnd/yUGmT16qmAAkuHgUzfeprdn95ThZemynfzsuXOpa+H/zvM16pxcAeVSDa5ji+tehK1XPgQ51CsZjScJJ6aWemBws7F2w4CRZgCl5PEX9igt4MNJ6WLcpuvUOHt4ckSpcQBmQ=;AF1HCh8EXjWrhOy/BM+mZg=="
 ---
 

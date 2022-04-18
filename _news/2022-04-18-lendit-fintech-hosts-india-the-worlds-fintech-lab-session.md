@@ -1,22 +1,30 @@
 ---
 category: news
-title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
-publishedDateTime: 2022-04-18T06:22:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20220418/3932453.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20220418/3932453.html"
+title: "LendIt Fintech hosts India – The World’s ‘Fintech Lab’ session"
+excerpt: "India has been at the epicentre of a global ‘lab testing’ environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+publishedDateTime: 2022-04-18T06:00:00Z
+originalUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/"
+webUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/"
+ampWebUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2022/04/Capture2022041804434820220418053650.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "How Fintech Can Help You Manage Your Personal Finances"
@@ -94,6 +102,6 @@ related:
       domain: crowdfundinsider.com
     quality: 8
 
-secured: "tRa+f9e8Ukkg3khKCeQW5/zgeuS+SCN3d+VkMQciQ9qd8uOIOl/JD5ioMqzLBe8a0VzCJxJIqnQWLSXCh+1Cet/8+WEcUg6x2fAW7ehT5EA6bZpvzTqTYRSt1CSVJRym7xUNxkDUEdWsRvQiW7Z/cVoAyZP6hMtsA15kurmNI3Fc+brrf8Zrfemp1BdGp8T5hZoahqNMDbDyKycj/Xb7Xn+wqVnDI+BjwuczI/xPtnIfFM3JGSgzNN/9aQW/ptICsnwEAbKJyNaKcYtMR5aj5Q2y94qcUqKH13EzFQTLl9xMiKbHUHQ8WrmKN0x6SDL8rmHVowaWhcYATICqk1w/x5+3CHycW8pTGRxwZn33HZY=;jXOJISnvJohrQDUBmyuJKA=="
+secured: "jiwT8ox9YTvniSJ3IvtEuYPe+lzR2YzBc/gXqTqoj5XsSPfIBTlLgeoPMkh71GoIpm3CxSUQWdMfIyokJyk5BOJkgbvpyldDQWMvrnj/rKV9e6NkI+D8d3/voKIODb+YhoDCfx+xCiCg7A11l8hOZHIjfB+wW6NVzGljDunCXqDp2kr6aADk+RG8R8WIqI91JwOyCE6C/20n+HX3/GZkV2rA4iKcIDhQBLnmrWVgSZOYlHh4OrXZuZO18pd5hSZB3QRDTz9+FUa/reRJ80qNXOKEzb9hamhLT4m/195qiwNGU7AhWMLJLciicn0GCTcSbD/8FxuA+ns4MjOb0dn2Q6URIbDoIi4O4guRBe053nM=;j0SD9I3fxF68o4f1Q0NdlQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/guardforce-ai-regains-compliance
 webUrl: "https://www.digitaljournal.com/pr/guardforce-ai-regains-compliance-with-nasdaq-listing-requirements"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce Updates Service, Marketing Clouds With Conversational AI, CDP Enhancements"
-    excerpt: "Salesforce has made a number of enhancements to its Salesforce Service and Marketing Clouds, including AI-powered conversational intelligence, mobile offline in"
-    publishedDateTime: 2022-04-13T15:37:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements/amp/"
+  - title: "Guardforce AI regains compliance with Nasdaq minimum bid price requirements"
+    excerpt: "Guardforce AI (GFAI) has regained compliance with  the applicable Nasdaq minimum bid price continued listing requirement.The company was previously notified by Nasdaq on March 9,"
+    publishedDateTime: 2022-04-14T11:32:00Z
+    webUrl: "https://seekingalpha.com/news/3823365-guardforce-ai-regains-compliance-with-nasdaq-minimum-bid-price-requirements"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 67
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 35
     images:
-      - url: "https://www.cmswire.com/-/media/6c65911fcdee4dbba8155925f0b0bd64.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "BPS9XJTPTpLrkMG7ZThjpuE50cji1UPV1sEiDKXLvqWYg24+Aabpco0SJKJV85RkRFGTpXsmJwdYpL4ZdxThkdN+jhwPSM/ASP72Ruu07JYdS3ULJnSREbAI2HiCrl4xouCnN5zNPTnPPevEsvUHlFSJxg9XosBWrt3ahG/o6j/jef+MqPbgu4ouXUQdfq9zOOMmSx7obFSMGLrhTCadW4ED+XM9zAXAGjSx8iaxldgAqFyq3qosgdPU6wa2ifoGH6fbtkntfuPOLdKI51Ya2IfZ+iy5NOEN4DGBrzpcM9K7WRsfv5KbviKhPI3gCDgja5I/PbYqwttlAUhd7+egw9nsReCyC7EAuAF0XuSpg6s=;+XM3Cmpbm/ysEtCRDp3B6Q=="

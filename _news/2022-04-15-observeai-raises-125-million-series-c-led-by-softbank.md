@@ -18,22 +18,107 @@ topics:
   - AI
 
 related:
-  - title: "Zipy.ai, which accelerates software debugging for enterprises, raises $2.8M"
-    excerpt: "San Francisco-based Zipy.ai, which accelerates software debugging for enterprises, today raised $2.8 million in seed funding."
-    publishedDateTime: 2022-04-13T16:30:00Z
-    webUrl: "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/"
-    ampWebUrl: "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/"
+  - title: "Recruitment Platform Expertia AI Raises $1.2 Million In Seed Funding"
+    excerpt: "Virtual recruitment platform Expertia AI has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini. The funds will be used for assembling a team ..."
+    publishedDateTime: 2022-04-18T07:57:00Z
+    webUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919"
+    ampWebUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/VishaliniApril2022-e1649864412499.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://i.ndtvimg.com/i/2018-04/dollars-generic-pixabay_650x400_81523929965.jpg"
+        width: 650
+        height: 400
         isCached: true
+  - title: "HR tech SaaS platform Expertia AI raises $1.2 million"
+    excerpt: "Expertia AI, a deeptech virtual recruitment platform has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
+    publishedDateTime: 2022-04-18T08:10:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/hr-tech-saas-platformexpertia-ai-raises-12-million/article65331372.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/hr-tech-saas-platformexpertia-ai-raises-12-million/article65331372.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hr-tech-saas-platformexpertia-ai-raises-12-million/article65331372.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/ypwyj/article65331373.ece/alternates/LANDSCAPE_615/Expertia%20Logo%20New%20Black.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Expertia AI raises $1.2 million funding led by Chiratae Ventures, Endiya Partners"
+    excerpt: "The HRTech SaaS platform plans to use the funds for assembling a team of AI researchers and software engineers and creating brand, product awareness in the Indian market."
+    publishedDateTime: 2022-04-18T06:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/articleshow/90905770.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/amp_articleshow/90905770.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/amp_articleshow/90905770.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71380,msid-90905778/expertia-ai-cofounders-kanishk-shukla-and-akshay-gugnani.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "EXPERTIA AI raises USD 1.2 million funding led by Chiratae Ventures, Endiya Partners"
+    excerpt: "EXPERTIA AI, deeptech virtual recruitment platform, has raised USD 1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
+    publishedDateTime: 2022-04-18T08:51:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-expertia-ai-raises-usd-12-million-funding-led-by-chiratae-ventures-endiya-partners-182982"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-expertia-ai-raises-usd-12-million-funding-led-by-chiratae-ventures-endiya-partners-182982/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-expertia-ai-raises-usd-12-million-funding-led-by-chiratae-ventures-endiya-partners-182982/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 50
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Sydney startup Canopy Study raises $1.1 million for AI-driven education platform"
+    excerpt: "Canopy Study uses a data-driven platform and proprietary algorithms to convert coursework into learning resources."
+    publishedDateTime: 2022-04-15T23:01:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/sydney-startup-canopy-study-ai-education/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 49
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/04/SC_Canopy-Study-Team.jpg?fit=733%2C358"
+        width: 733
+        height: 358
+        isCached: true
+  - title: "Virtual recruitment platform EXPERTIA AI gets $1.2Mn in seed to grow business, hire tech talent"
+    excerpt: "With the COVID 19 pandemic pushing literally everything virtual, recruitments and HR industry in general, also sped up their transition to a virtual environment. The largest of companies have successfully onboarded candidates through completely virtual processes,"
+    publishedDateTime: 2022-04-18T05:58:00Z
+    webUrl: "https://thetechportal.com/2022/04/18/virtual-recruitment-platform-expertia-ai-gets-1-2mn-in-seed-to-grow-business-hire-tech-talent/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 25
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2022/04/virtual-teams-he-the-tech-portal.jpeg"
+        width: 960
+        height: 576
+        isCached: true
+  - title: "EXPERTIA AI raises $1.2M seed funding led by Chiratae Ventures and Endiya Partners"
+    excerpt: "EXPERTIA AI, deeptech virtual recruitment platform has raised $1.2m in seed funding led by marquee investors Chiratae Ventures and Endiya Partners."
+    publishedDateTime: 2022-04-18T06:47:00Z
+    webUrl: "https://www.ciol.com/expertia-ai-raises-1-2m-seed-funding-led-chiratae-ventures-endiya-partners/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 11
 
 secured: "2euV9j6Hk9+I0nzLukVN1w+coLZZC8fW32fBI/uo5OSBcScnwNZHta0B1cY9vioSgCTLs1dpZE9jaFehg1HIH/UB9AufYBpoeWEh9E/IIz0BrvgdDLa5PmHCofn1pUz+FoReVpImB3WJohhWZURnHhstxAPalTc4LnAAHRGM8TXb5WWFQnwdUiFwZJnOmlwC3cTWfGZxqCS+T53lIPZAYR68heuJcE8u4ihU2TLJL5/UNC0092LyFI5xGqqQfnwoYFbdRqt3cFWfPAw8sdpWTWDWXloMQxn1uWt2dfw+z5rWml2wsRCz00oc6KroRXGG3lYG9jMO9OPJnCV25zMEHJ5WkltRBP0Y6ydDqb9NLV9EM68tkKYnIRFfUpSkcvETErhRfmPAo5PimPuZ5Pgln943DfT4OURrLkJ7dBc1GL90AGm0JQsWeAy5eghqvbcNIHPAKIR2Gd3cvOh8bgmqoE+zbq35va+zRp9dq+zwaMtHANX7I4pY10APE0NbDoMvrQ4LFQJIbQcZTky6cXKj5g==;x6Cbjxrbpx7UgOSPwxudfA=="
 ---

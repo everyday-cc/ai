@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wbir.com/amp/article/news/nation-world/driverless-car-pu
 cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: 10 News
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Watch this driverless car get pulled over, then bolt for it"
-    excerpt: "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ..."
-    publishedDateTime: 2022-04-13T16:52:00Z
-    webUrl: "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
-    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc"
+  - title: "The AI infusion: Join theCUBE at AWS Summit San Francisco"
+    excerpt: "An example can be found in how Ampersand Inc., a data-driven TV advertising sales and technology firm, uses AWS Batch to run 50,000 concurrent machine learning models in less than one day. A look at how AWS enables enterprises to put data to work with artificial intelligence and machine learning-powered low-code and automation initiatives will be the focus for theCUBE,"
+    publishedDateTime: 2022-04-14T20:49:00Z
+    webUrl: "https://siliconangle.com/2022/04/14/ai-infusion-join-thecube-aws-summit-san-francisco-awssummit/"
     type: article
     provider:
-      name: KARE 11
-      domain: kare11.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://media.kare11.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AWS-Summit-San-Francisco-Hero-Image-2022.png"
+        width: 1182
+        height: 662
         isCached: true
   - title: "Driverless vehicles park themselves in rapidly expanding market"
     excerpt: "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ..."

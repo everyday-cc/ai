@@ -40,17 +40,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "New Artificial Intelligence System Can Help Predict Cardiac Arrests"
-    excerpt: "To enhance the accuracy of predicting cardiac arrest, researchers from Johns Hopkins University created an artificial intelligence (AI) system based on raw images of patient hearts and data on their demographics."
-    publishedDateTime: 2022-04-13T16:16:00Z
-    webUrl: "https://healthitanalytics.com/news/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/new-artificial-intelligence-system-can-help-predict-cardiac-arrests"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
 
 secured: "JKqTGrckGwMsd5tcoIHJ2X9YDnvNWbRwYWDS0nJ45e9SM6iNEDVfcVEN8HDIdKZ9u0X6axV2oIyoFMjnDizZgjPgdzt7HApmCDr0+EglOHyGZDgkb44dwCCekSQ0OLKUSEVMCnl3BaGaAvAgo0Svr6QtTEUy9F6CqSch4qny3CtJuMbr3kHI8iVssNiXuEJwDw3hHteAV9/9y3YTyZJ9VBalCAQGbvJKDZnc2ZlB1Ibp9YSTs94qUa7i3O46W0V2ZOeF0CWO1ND/oS6dSQNvDlrp3dFSOp1vPGglkr1A+c5feumLPi41D4wuI7QRzlfFefqMWKm0bQ06t9M3SxlzV1opLOv/DQ2dFHzPyoe8uRbVzhcCsHW8XY5ApJyoBQUoKzA09qLmZifdPgSxS+I0kCfhwjUpArgO00N7dBmGl8WQJbDEjobvZvRNgA/Mv8eCOEmalSAr54c0lCbMGtGfkmAxklXyCEZJ9puhnkcwVOiNk4dIePgefIcYIQUWLCSWvrrubR/WJu3i6JCsYcON/Q==;SKOjegT5yKY673xD9QGTTg=="
 ---

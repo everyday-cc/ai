@@ -19,22 +19,59 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "BlueOcean raises $30M for its AI-based brand intelligence platform"
-    excerpt: "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,"
-    publishedDateTime: 2022-04-13T15:59:00Z
-    webUrl: "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/"
+  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
+    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
+    publishedDateTime: 2022-04-14T11:38:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024"
-        width: 1024
-        height: 776
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 840
         isCached: true
+  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
+    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
+    publishedDateTime: 2022-04-14T19:32:00Z
+    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
+    excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
+    publishedDateTime: 2022-04-15T14:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kalyankar-analytics-launches-seqwa-an-affordable-ai-powered-search-solution-with-15-000-free-credits/article_ad73c360-739e-5faf-8c6d-deada0a20fa3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
+    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
+    publishedDateTime: 2022-04-14T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-trends-growth-opportunities-business-forecast-competition-and-demand"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "enam1JpDSZ14RaJzcour4fGFQz8bLE0wlAaJliqcZUAiJrMEbxGVCJdDKlbV2jPcZmBlpiEMntzfIyIXG4D1xOhf/g/OJ18HHuOqmR3aGoQDssWmnPJpE6p9iyBqGrtaw0gTCAPX/O19k+WKjdERb2vk2q649zPLEWOOvaiPFi8VbUVYrObEy4fPiHBI69M15BAlzYHcAy9l39yL4johLQjiib0gd0h4GsOViTu6LMuyBSEBuIwW3fQnxPDAlEcZ9oAJ27+IbrPsc44EaB9jwHowwjeRJA0BDNa8BnsydHa9GV/+Zwn69tk0DQRNoa9utqYyuP8iaFF5Wy2XsxrzT05mnNjxtSTieuQS8SnisQFvOOz1UovyywhCV2DAu82N9gataRZHI7hNbbuhDi6XZH094Y5z8X7kVn90aanUfMrZZEvcVEkVftJUSYwJGS0396RQ13MTWDzyrNXX4dfWu6FugbtncTNrIaTj5DCSappX1dbtDIppdR/NqF7Uj+/HQV6MdtgZFtkLm5oe59nyPg==;RN5H9Jt14WjtgM0+rajUtA=="
 ---

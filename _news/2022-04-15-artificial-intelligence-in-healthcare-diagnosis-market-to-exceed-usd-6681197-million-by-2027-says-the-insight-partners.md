@@ -24,22 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Railway Connector Market to hit $1,150.21 Million, Globally, by 2028 at 5.3% CAGR: The Insight Partners"
-    excerpt: "According to the new research report published by The Insight Partners, titled “Railway Connector Market Forecast to 2028 – COVID-19 Impact and"
-    publishedDateTime: 2022-04-13T15:13:00Z
-    webUrl: "https://www.digitaljournal.com/pr/railway-connector-market-to-hit-1150-21-million-globally-by-2028-at-5-3-cagr-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "uSF3Ksq8wjRqAHSk8yYJNomVEd915v41bGD1QCg+FWpJXs686ir5r4UjqtAko+eEiAy0BoHzLXcxjB3KZa8Ttw68w+DSktcg5UaCmKhhHCqqUTNsUI2FrK7MFQmeuzrJZOPK7siHng1jBBwC41GoyXKA8VjsThIGj0B/IBTiAlK/fue7rXlnNU/xHvUwDBxN39DWBTvct7IrbFIC+bXMTaaS/HjwnekG8QtPVLVZZZ1aZnBzRwgUBJjGdBJlga9jxdA+ITQfvi5dH3NXAUv8tFK4yG2jLsFSQdId7TCPWMqpa5cw/4Bxgca3gHJOxyo1djXJKgfastBKlV+7Jd3ski9HniT5AMBXD7qK1Hm/Yyw=;0ClLS8PfXUMEwiZkah7xfQ=="
 ---
 

@@ -52,6 +52,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "LendIt Fintech hosts India – The World’s ‘Fintech Lab’ session"
+    excerpt: "India has been at the epicentre of a global ‘lab testing’ environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+    publishedDateTime: 2022-04-18T06:00:00Z
+    webUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 44
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/04/Capture2022041804434820220418053650.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z
@@ -89,15 +105,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
-    publishedDateTime: 2022-04-18T06:22:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220418/3932453.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "+q94AU2pB7pOnTq6VyG7ZkDGv4aneqQ27JSfP9KhkRdnUz/lxRH7au32noLvDnEPzIPaGrGPtqaE19r+RCu8qURHYpBR8U3MFnrSCB4vVWmYiJ4qyLZri9/28mpF/g0dEXzjwT4u8iAlyu0/VClKJ7Xr69ycHXUVIzfUIJpCbHVgOzmAmOxmCUimIse8hIG/2XuhdrmO2CdsBDOutLtEcLK6DhOusTkjaU6KEDdBh0KllMsKJCPBSBMAWBmZzs0gzfNlo8wEWSlo+BNI/l+dsPq/t/G1Nz3aoVttxYEhDFKDpPnhbULzA4tPKQX9YwNAipr0z4bWZ6e2pW+UNk2HrucezR6z7BCHe0HkAiJo0IQmAoJEwopbQ0z+OiyTubo9KERlodg9UxroCTa/6b3MsaDQ9Fsq4FmoWkI/0SVL+JMpDn/cn47rIkmbnvtgwP5qZ4BQw9QS0jmMlGz1+LUElqvVTU1Zy5xLUtp/Y5TnkSNp7r0SAT5uvc0Jb0IsMs3MG15DKXJ3wAOVRYTMRxIWww==;xos0pWvWM89nq14NqFvjvA=="
 ---

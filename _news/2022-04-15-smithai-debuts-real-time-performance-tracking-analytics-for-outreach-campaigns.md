@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "BlueOcean nabs $30M for its AI-powered marketing analytics platform"
+    excerpt: "BlueOcean, a marketing technology startup that counts major tech firms such as Amazon.com Inc. among its customers, has raised $30 million in fresh funding. Insight Partners led the Series B funding round,"
+    publishedDateTime: 2022-04-13T19:22:00Z
+    webUrl: "https://siliconangle.com/2022/04/13/blueocean-nabs-30m-ai-powered-marketing-analytics-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
     excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
     publishedDateTime: 2022-04-15T14:30:00Z

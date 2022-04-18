@@ -54,6 +54,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-15-house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-idme.md",
+      "title": "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me",
+      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "publishedDateTime": "2022-04-14T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds.md",
       "title": "Let’s (not) get physical: How satellite AI can improve human work speeds",
       "excerpt": "Industries tend to rely on more traditional methods, but satellite AI can eliminate manual labor at a fraction of the cost.",
@@ -207,50 +260,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-house-panels-probe-government-use-of-facial-recognition-software-following-security-concerns.md",
-      "title": "House panels probe government use of facial recognition software following security concerns",
-      "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "originalUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "cdnAmpWebUrl": "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "publishedDateTime": "2022-04-14T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCCI Des Moines",
-        "domain": "kcci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     },
     {
@@ -598,7 +607,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -882,7 +891,7 @@
       "originalUrl": "https://www.theregister.com/2022/04/13/cerebras_wafersized_ai_chips_play/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -928,7 +937,7 @@
       "originalUrl": "https://www.detroitnews.com/story/business/autos/2022/04/13/self-driving-car-maker-argo-ai-plans-test-facility-south-carolina/7309486001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -949,6 +958,49 @@
       "provider": {
         "name": "Detroit News",
         "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-driverless-car-got-pulled-over-by-san-francisco-police-then-bolted-the-company-said-it-was-by-design.md",
+      "title": "Driverless car got pulled over by San Francisco police, then bolted. The company said it was by design.",
+      "excerpt": "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbir.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "originalUrl": "https://www.wbir.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wbir.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbir.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "cdnAmpWebUrl": "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "publishedDateTime": "2022-04-13T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "10 News",
+        "domain": "wbir.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1006,6 +1058,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis.md",
+      "title": "Razer-designed Linux laptop targets AI developers with deep learning emphasis",
+      "excerpt": "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
       "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
@@ -1058,21 +1163,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-13-watch-this-driverless-car-get-pulled-over-then-bolt-for-it.md",
-      "title": "Watch this driverless car get pulled over, then bolt for it",
-      "excerpt": "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ...",
+      "path": "_news/2022-04-13-the-perfect-blend-how-to-successfully-combine-ai-and-human-approaches-to-business.md",
+      "title": "The Perfect Blend: How to Successfully Combine AI and Human Approaches to Business",
+      "excerpt": "Then, when the robot is unable to fit a bowl of water through the bars ... to reimagine your processes and ways to replace them with AI. Then, start collecting data. AI needs a lot of data points, so the sooner you start collecting, the better.",
       "sourceUrl": null,
-      "webUrl": "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
-      "originalUrl": "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "webUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
+      "originalUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.kare11.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
+          "url": "https://s.hdnux.com/photos/01/25/13/72/22331011/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1080,13 +1185,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
-      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-13T09:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KARE 11",
-        "domain": "kare11.com",
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1096,110 +1201,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-zipyai-which-accelerates-software-debugging-for-enterprises-raises-28m.md",
-      "title": "Zipy.ai, which accelerates software debugging for enterprises, raises $2.8M",
-      "excerpt": "San Francisco-based Zipy.ai, which accelerates software debugging for enterprises, today raised $2.8 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/VishaliniApril2022-e1649864412499.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
-      "publishedDateTime": "2022-04-13T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-razer-and-lambda-made-a-linux-laptop-for-machine-learning.md",
-      "title": "Razer and Lambda made a Linux laptop for machine learning",
-      "excerpt": "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "originalUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg",
-          "width": 3612,
-          "height": 2295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "publishedDateTime": "2022-04-13T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     }

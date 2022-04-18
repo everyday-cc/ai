@@ -19,45 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Examining bias in AI"
-    excerpt: "Sarah Brown, an assistant professor of computer science, is examining how to prevent artificial intelligence from reinforcing biases."
-    publishedDateTime: 2022-04-13T15:55:00Z
-    webUrl: "https://www.uri.edu/features/examining-bias-in-ai/"
+  - title: "How AI can make weather forecasting better and cheaper"
+    excerpt: "Many nations facing the ravages of unpredictable weather patterns lack the most modern tools to plan for the changing climate. A US startup says artificial intelligence programs are the answer."
+    publishedDateTime: 2022-04-17T23:33:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/18/how-ai-can-make-weather-forecasting-better-and-cheaper"
     type: article
     provider:
-      name: uri
-      domain: uri.edu
+      name: The Star
+      domain: thestar.com.my
     quality: 37
     images:
-      - url: "https://www.uri.edu/wp-content/uploads/home/2022/04/SarahBrownSquare-NL-014.jpg"
-        width: 600
-        height: 600
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/11/1546813.jpg"
+        width: 1240
+        height: 826
         isCached: true
-  - title: "Edmonton becoming a leader in artificial intelligence"
-    excerpt: "An Edmonton company is leading the way in the artificial intelligence sector by providing funding for research and projects. Mikaela Henschel explains how AI is becoming a part of everyday life. <iframe src=\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\" title=\"Iframe contains video URL\"> ."
-    publishedDateTime: 2022-04-15T01:29:00Z
-    webUrl: "https://globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/"
-    ampWebUrl: "https://globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/amp/"
+  - title: "Scientists propose faster, more accurate method of forecasting precipitation over Himalayas"
+    excerpt: "Scientists have proposed a new method to forecast precipitation over the western Himalayas by using real time satellite images, which they claim is more accurate and takes less time to prepare, Trend reports citing The Tribune."
+    publishedDateTime: 2022-04-17T18:24:00Z
+    webUrl: "https://en.trend.az/world/3583296.html"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 37
-  - title: "Gaming the Known and Unknown via Puzzle Solving With an Artificial Intelligence Agent"
-    excerpt: "Researchers design multiple strategies for an artificial intelligent (AI) agent to solve a stochastic puzzle like Minesweeper. For decades, efforts in solving games had been exclusive to solving two-player games (i."
-    publishedDateTime: 2022-04-16T22:08:00Z
-    webUrl: "https://scitechdaily.com/gaming-the-known-and-unknown-via-puzzle-solving-with-an-artificial-intelligence-agent/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 30
-    images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: Trend News Agency
+      domain: trend.az
+    quality: 0
 
 secured: "AE7yA6UodDDFGLxmhla0gOYR0L89BsKxcWtXJ+U3TBego1SPXG0ZClCgo/7uQHOd8xDKpycQMB2ZBKAj23lSLkbIsBUDd96yeyjzJNVc8+TmRqlGYQBuCMgbTXmAHckdW7nQeQPZCwYyR1B7mXZ4N35s0RV7t2EpsjpUmtpkDUvd+h1jv73s0aasiC53fZGeKOLGWCKm6lpUgansL7JmrcYmO/lufzIO87bEEmYxJHdm3nvT0nwXhVn8Euj7LAoz5tI/d3zAtk55tpjgXGoGlpqD1eSHIh/8m2XEVErAOo9Wx0LJKMiasg6zD8Cc/iGlADHaPNPyCx5dkbA7He20njvqzyckfbO2MRSlIznJULs=;ZOYB37kpja/lmaCexw9GiQ=="
 ---
