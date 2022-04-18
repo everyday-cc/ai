@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/AI_infrastructure.jpg?fit=800%2C560&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 560
     isCached: true
 
-secured: "aowgDczkqLZtf3cDfrHwZ+tiPFIbF2WaQWlGgvKb8uKw7cM/ybGmoErhEP0wAqzENAq8mepkHK8tqFNfkYjjB8GlmrTUYMD4nSdXXTbxCUA9o2xWNAQD9dOvuGZm+bCGY8UrG63dt+2j+JmTeopmJegNfwSxHYhCIYF4A9hUyp9WNs4zVJ9elas5pN9KOXOWy22ig0aD/eGzUQguedffyZCKLYV/p8akY/jftFjjVKXnQBprZKJQh8PzdiDUXbRE4efQsteYj4HPndk4Derr4oGf5KGHDNI4fYaELBRbLRdvoBfzEM+2xPtCDStP6Rtlp4FoZIhnwp/RTXQ2APaHZPqdo/8Uq+gtTh6eq291LXQ=;dteobQFbPOLFgdBpga7s3g=="
+secured: "hfI9IfImoGkdXDHu+GCz3f9043pHmUquAqWW+hTZ/04vjm+zBcwiv1DHWzJKI8ctHrf9g8P9apHhb7Qg1qUIzdqXIXk3olCp42leeohCXKP1UR9aEwhetn62Ie+onIcZgEGw70bvgWiaI9VgQZe5aH8lM5pQLcvZ+zcNHYOUJXHC6LTx1hiPjLs8fHEd+tOzaWcqRdetxgdZOpCP5m5KkC3fxIXT4iX9Ib0Yc7vSuoOOPkCgXrFbtgRKpu9wL55Ok1R/ufLNEQLjGAei98zj3dZFJP2ZjgYS0KJnoBv32A/9oBzozMjHlbR6Qhaj2MzGsjvbBeroDuJZtuxcqLx3TT+kLdT4xu8IYfxxxPE18ogbTLluVW5Igxggtj94iQKzFNqm96gyBmj4i6FXH0dXSdX1xM57ldKKmCIKVkysk+rjRIEbgoPe9W3SkWVx+l5+vXKyl24svA09o0AQb5kc4BSSgQssOarLtmUALNYW/sxG8s0Pct+ebvUIXW4oSwfDGwJO06pgtDOthL/p/Nj9mw==;Xy7qAQxVmJLzaBtjQ4VnMA=="
 ---
 

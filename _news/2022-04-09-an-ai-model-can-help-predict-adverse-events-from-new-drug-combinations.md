@@ -2,27 +2,19 @@
 category: news
 title: "An AI model can help predict adverse events from new drug combinations"
 excerpt: "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,"
-publishedDateTime: 2022-04-08T19:45:00Z
-originalUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
-webUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-adverse-events-drug-combinations.amp"
+publishedDateTime: 2022-04-08T19:46:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/949288"
+webUrl: "https://www.eurekalert.org/news-releases/949288"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/drug-1.jpg"
-    width: 2880
-    height: 1923
-    isCached: true
-
-secured: "dCqpNdf1M18MXILc3KEDY7kNDYeHNTWYw3XFgbp0PEpvYRAp0MMNyrNEd1bnR2w94zuk2Yu6bm3hKd01dy1G/J/gE2RuVJ95ORzVye0gCq0Lnxe5xsMUPKA+WmLJrjaJHpgLCPmNQnVvVBi2zGfjOLqQqVPzHfcJ1A0e3kTeBwDwhFzsCq5Xtc5/ogWx3QdTdh+ojGMk+fTsajI/crDKytXHsQ+QhC7/LjVOYe68QhXPnusvGAbY8+E8rc53C7Q7NXy8If/B7Xb62tkbQ/w/OEtWd/UscMLA+e6E8NzV6rKz9FYYvqbGuk9sFsvTWNC4nFXc84SiwZExXL8/muohbh50GomF4kLFTcfpSILrAao=;B3p1Xs+HQ3wzmtHtgahvKA=="
+secured: "VjRxlSuXXvPyqeQG8Q+cCWbd1jrWdk7fYGdtQrwPWCdxlW2emKOdxBp1jz7LBoUTTadPyAcdA3pTT9waxGkv0Rb4zkGO2Ulxuz2IkUhuOjWXpzEkapEYFnMdzKJPHcQBASLXPKtvF3YGGQnaNdbucISGI1cKAWMMwu5EoLUZ1lDVTytr503OLDOsa+z37RFo1B6RXy+d5ZoSXA+xKKlNdeZSewWyQC4JYzHMIP8AAYM7sdFmZdvNek9nIrGMkCgy90Xcr+XSCBcnNbMeV+aJGnEG1aEAy/WQPr42LsVo3vf+MqhdgC8DVGqp2k8tqJgoG9s1sYMdtoB5Brbf2xUndOG0behz5jYHDQ2B5h8BtDQ=;uPIi8S5Rg/2gBrphhdepIA=="
 ---
 

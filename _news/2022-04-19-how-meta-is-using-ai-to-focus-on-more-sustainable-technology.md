@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/solar-panels-g2f914ec9c_1280.jpg"
@@ -24,6 +25,6 @@ images:
     height: 853
     isCached: true
 
-secured: "eMmQitUQyQWxeQ3Yzlk4tGSQh/3YbBXh/iAtAFY9KUNnC4mv9Dri0oGzVW9wEoVLvjxzJzhvapnKEHcMvvPkXPFv+UM83L453hxpLH1jTdcbAbQlyuPhLo97ZEaRXJ8YiBN9rN2B5nl2w5dlJgktWswUxrq6ORAowkGNnekS0tzpgyrBJ8Ij4WkchekeDhDucWeU3HAVYV1JY2NLyF+074uwrZcSlYIBd6zq7qyJGcVIvUClbDBfiulqY6Lu63w3xM/kpw/M3Lz/J1srPNzezKjp1JcVJZ0OwMmecaU5DqeCYpSQcX70ot12Ee20CZi2njwHqakvBPbSt/kIcwQYWyPw6uiDr0tdmAV5wAi5JCk=;H62/rWANi9uPHsHNR6VWtw=="
+secured: "+LjzB8uLCIUN+vPaglw1pFzlDyEf68WPIWKdM5r05uwD+68m1J08yGlOfbRtore90MtgEpzIj979UWkxH1S9+lLNS2K2mzlH3b+979hPeGe8itUQXvOnJSminaLxD4qtG+uC4BO4hbt2o6x0Y4UrisemzKhULkhDWZ1hPTXpMAOPJpFdkZDHjP+ic0ujG38VZYg7yr5SF/3ReNiNJwZOKb9N/5nShFxk9Oxmti1rLByh592QmGoY/mh9XzcpenyZeUWFWhIxnO/EOk2tda0D4ZoXhmQcK2Btki8mtYZQ3R9OCFoDgcAfqOqC3YNvDhQeTplFqYpzoPjF//z1Ur2peSVK9AlrNAOZKMd65IlSXZ9N5gYduSHLcw74roEMfbT47smcVLI2EcjnoI/LWEHGHB/x5Z0CLfkh/2FQKyvJZEuE8VOspgvq1MZyEbprqSN5Q9sr7RIVcXlmVIhw/vefwkDh6na36GklC7vojXOH6xi4DEL5qKV58FogvewOroV1C1QhlQJhcbVIUcibGBOSjw==;LY+NMWWLFZQjH3mEa3NQGA=="
 ---
 

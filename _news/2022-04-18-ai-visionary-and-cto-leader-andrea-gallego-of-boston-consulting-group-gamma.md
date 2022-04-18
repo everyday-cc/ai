@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Natural Language Processing
 
 secured: "3iYq+aLJ7U/OBprkjN7+Bq0rxFzu5nlAfTo8xV/GlPcp0Amw7kwOnVvLR0DZK2gKsuC6uMGN3jZQKZYqiEIYqjV/chGYQgbC6vbCW9FQL22pbcfy50x8C05Tlbwtrc8WPy+ayNkJL6Et09d4htfCL9pByglV8ECsbVsXjddBLmseGhgFvU82cJPC+oyZVZxJUjXLtNQZemsm/ZktiwhvmFVZygugqgrxLzTfWQYxRV6QzSunCvaO8R9mBlc9Z8wh7SwLB6ayO98KL3o0iscGxlH2zMYT4CFRssj/dRTdCmCc++sScgKwtkX39lrqVk8RdbsPBSkZRg3Ya1uviIa29bIQLd9S4mCOPBCyoapz0XIoBCn3Qnzy/lcbaGraaqrna+u6ox++0IGbZR7Kv8JcBLfyc9UkXIp+780K4KiLAQ81My/AkZkSpmYNdhWQtHbgyMKE59qngt7WWPvB90yXX+Oul2OZD7tTV7ApOY04MgFI1/KS55In1NMT5pLuEOUpHFwv/uT6fo5gfjj4dugpDA==;z1A4wYcWwNNeBtDvc5lGyQ=="
 ---
