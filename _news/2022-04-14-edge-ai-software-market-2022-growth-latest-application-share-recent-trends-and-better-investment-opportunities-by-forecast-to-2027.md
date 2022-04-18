@@ -94,20 +94,6 @@ related:
         width: 1008
         height: 504
         isCached: true
-  - title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028” report has been added to ResearchAndMarkets.com’s offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism."
-    publishedDateTime: 2022-04-13T11:52:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Speech Recognition Market Share, Growth Drivers, Analysis, Opportunities, Competitive Landscape, Strategies and Impact of COVID"
     excerpt: "Overview Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner"
     publishedDateTime: 2022-04-14T12:09:00Z

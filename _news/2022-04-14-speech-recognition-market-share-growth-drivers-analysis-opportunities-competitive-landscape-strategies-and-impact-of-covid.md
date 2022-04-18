@@ -103,20 +103,6 @@ related:
         width: 877
         height: 432
         isCached: true
-  - title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028” report has been added to ResearchAndMarkets.com’s offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism."
-    publishedDateTime: 2022-04-13T11:52:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "SGoq4GWP71c7T4n7U7ki0KPPwJ8qbC7RDHmE1e7GGxbg0/V+k2n0US+jy0NsRPaY/GvTZboaU35Tn1QqxGfjJKWKuDYYisYDid07ty2oAvLJWRL7BE4repWdgc7eigbZpwNKsMbACUXrIDK+FfENb42B9MD7piHuWstY8BjqysFBXDMNnmeQqbum2YQoxRz88qmUxWX+yh1gje2e1x2c6yVmu7DNeBUhyKlEYz3DUXzvQ+0rKOELpMNt40/E8RlpG/hekTRou9wG6wxhriYD4Ovvbl5QICNQzQBgXK3lHZ4QuM+W8K5nVY/YFTTJrwS/7WNeW8XZ3jOCjhWgbtOZbWIVrM1towlAUmWrGzZavKY=;Yvzpigd6UBbUBZ+hEBW/UQ=="
 ---

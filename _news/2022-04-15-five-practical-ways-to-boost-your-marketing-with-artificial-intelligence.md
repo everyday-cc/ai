@@ -39,15 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "WELL Health Makes Strategic Investment in Tali.ai to Develop an AI-Powered Voice Assistant for Practitioners"
-    excerpt: "WELL has entered into a strategic alliance agreement with Tali.ai which allows WELL to commercialize Tali's AI technology across WELL's EMR portfolio. Tali's technology allows doctors to have a 'conversation with their EMR' to support patients with greater efficiency and deliver improved patient outcomes."
-    publishedDateTime: 2022-04-13T11:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582081.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "QswiFHxOrd55TKZNNZKv1awpyclnCOIRZ0T3MUoBPaIO1IRhm9JObwc/Ek6MbBWqyAAwNHJLxqspop+kEhCQMgpIqYS2Iy6wCOGFmoZlAOOUEugSmvaxL8cj/Y0ZtCpU221uy0QYSk4zfRVv6DlzdGmTGpb8U5veV9BvquBwfphZUjnBGZQ10l6+Q4gsfgPpAr/obb5ASwBu37VDK/oqrrn4Zy4r9M35L2dnoEDyUP3KXxAoNzJk8WkMR91brMgcy1kA0Fdpksq+JU2W9/4F/VaRSidVsHkPHjDYbaornwXfeWGhNCwe8J9Py0EnWY2hD8oO5elJYH4BDBBZHEarWUSklKC61NQXm3xLsuS1AnV+tlqEIp2w3duRuVel8imf32U8okkFCfon8KYPUJqpbvJ/XrdQ63VhaDoN/B0oYFNQ28P5Ar4EHYuGP2LksBYrfqaRNZearvvcQb4kCryIJWOwSVxCuCpvvfUBfHvPN8CB6iS23ODwDYp3xxfBpuChPRyplPjwEjlgS6gLfN0gcw==;XGlJn4cx8CfXs14KCuaUpA=="
 ---

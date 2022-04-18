@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cor
 webUrl: "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/"
 type: article
 quality: 71
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom launches AI-powered features aimed at sales teams"
-    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
-    publishedDateTime: 2022-04-13T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
   - title: "AI and Robots Are Coming – To Drive Human Spirit"
     excerpt: "The accelerating power of artificial intelligence (AI) and robotics is daunting, and so are the mounting fears that these smart systems will take on a life of their own. It’s not just the storyline of science fiction that they could learn to evade human control and create disasters,"
     publishedDateTime: 2022-04-13T14:01:00Z
@@ -49,15 +40,6 @@ related:
         width: 750
         height: 617
         isCached: true
-  - title: "Advocat AI Has Created an AI-Driven Legal Contract Generator to Save Businesses, Their Corporate In-House Attorneys, and Customers Time and Money"
-    excerpt: "Advocat AI has created an AI-enabled platform to create legal documents to help in-house attorneys with legal intake, research, and drafting. This provides"
-    publishedDateTime: 2022-04-13T12:45:00Z
-    webUrl: "https://www.goskagit.com/townnews/commerce/advocat-ai-has-created-an-ai-driven-legal-contract-generator-to-save-businesses-their-corporate/article_845220be-bcc0-5a5f-b7a9-9d2f5ff29414.html"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 0
 
 secured: "zHBi6G73zU2znNZUffrUeWXHdQOn+wrCSgkY6aMwIO1QPcobEbY8zv9VM+fyUP1813epUuhYi8w9PMuO6Q4C7R8TZYH/T/6JUdTbWu+NgSD7JsGbFRmGdcutHMxdzLnMKHJcUuXIChSgiSdAc6/SFXzdEd2NbYXmb/54Y9QGHwp6UnSTtSBGiiE07FaA2Ylui5ENnkpZde6Ca8XMyGBR2f6eSHUx6QTIeLglWscb/dQE/Hkr53VQBpJqT8SHpm06JTyCHH3FghdE86qx/UvDldWxGVE/VJLBtsvf3zauJz4S65Wy1fYuV4RGru/qRJhBbQRt/fCC8efdd7KbdapLe3K2yJD069C5Wa3Ott6OcitYttMd18tSzRi9kQGz3wMrI5YF+cCggMQXze/ELLhOV8q0ehucSuDxQlvyfkOMAzDLpKyCDUAX1XwUSdmPjy7NIXFdj8hAJcGD/5kOJ1udA1uWEwi1svbs101vVF47cXSLO4LkhI8bhj4vMZo1jofCTrm4bnvaaInF+33dG7vWYw==;33XCLKB66FrxAU2oyWKIUQ=="
 ---

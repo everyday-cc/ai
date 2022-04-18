@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20220415000523"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220415000523"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Korea Herald
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
-    excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
-    publishedDateTime: 2022-04-13T11:47:00Z
-    webUrl: "https://www.khon2.com/business/press-releases/cision/20220413CN23943/new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content/"
-    type: article
-    provider:
-      name: KHON2
-      domain: khon2.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1796078/Simulating_removal_subtitles_NEW_ID_s_AIPP_Automation_platform_Film__Woman.jpg"
-        width: 400
-        height: 283
-        isCached: true
   - title: "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content"
     excerpt: "Under an exclusive partnership, NEW ID uses SK Telecom (SKT)'s AI technology to detect and remove subtitles, music, and other embedded graphics to meet the content distribution standards of global platforms."
     publishedDateTime: 2022-04-14T01:52:00Z

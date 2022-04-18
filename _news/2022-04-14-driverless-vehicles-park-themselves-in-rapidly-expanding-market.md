@@ -57,16 +57,7 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "In SF, We Find Out What Happens When Cops Pull Over A Cruise Self-Driving Car"
-    excerpt: "Last week in San Francisco, some officers from the SFPD decided to “pull over” a vacant self-driving car from the Cruise robotaxi pilot, which operates in some regions of SF at night."
-    publishedDateTime: 2022-04-13T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/04/13/in-sf-we-find-out-what-happens-when--cops-pull-over-a-cruise-self-driving-car/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 31
 
-secured: "xfR5u1Gkz8z7r7pL2Ar1eNckZMLmr6OSTNpc06MSqTlcrbmoAJHsobhokHh7lFqVRUQysuTxL8OFcdY/9j8dRL8rnL5eMyGKrn5X8TN2uRkJ6WlcTQWBT5Sw5RxdthFN0rp2nZsboQZZati4vZkKTxOrILCeENC3RJZIBPt670LqwAQFjVHyou2CndytNn+SzkUWikWkA0mA0xDdWcuFPWXpY6txm9loLrVjPZTlvKDTe9HrfUjS36n5E0m6ebBp0eNH96uwNITUy6Jumhf78T7Z+4Jv4G60hg6oZhz2T52qjYrgVvNkeRE0zhCnjVMnbcJXsLkupAVD/xcJVGmBPZVpWNeuuKA4bzJJoZwLtaI=;/k+h6DLC2+FLeVFE2VS7pg=="
+secured: "IHDaF4X3x+RqUrSNI5puvXKQry0Fguu5AHWCm2BKBOmXRedKxCf40deTG/IskMNKQl0fRLdCTUVQsFSog9wpbjoktgdZ0tG1ZBz1VMyTmHreRqpyUZ/qjjguKxgcWE+zI4nKX/hxRMf0dZ8kC8Hv+mBZ6e2dJHbPuFbZwL9LTCnOF1yIwPEXMA+peeij/rBE7K1HunOUee4RagsuuqEp33juZiADXkLO4Tad/uHRNf4Ou9usm2E9Yvh9Rl7xc8GRSEa+y1yAaexE14xVIArAMLUmw9mNbRLm0o22/UK1hc8qRwajBD3ki3YJDMznJsB5elG6S7sGuniTHNzbg0SP9UqDZLxhzCX4U/KKkw6/dcg=;lJMnE4Hvr46Tgp6z6xTweA=="
 ---
 

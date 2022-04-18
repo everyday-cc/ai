@@ -65,15 +65,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Lambda, Razer launch laptop for deep-learning app development"
-    excerpt: "The new Razer x Lambda Tensorbook provides developers with high-end computing performance for creating, training and testing deep-learning models locally."
-    publishedDateTime: 2022-04-13T12:43:00Z
-    webUrl: "https://venturebeat.com/2022/04/13/lambda-razer-launch-laptop-for-deep-learning-app-development/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "Lambda and Razer Launch Laptop for Developing Deep-Learning Applications"
     excerpt: "Lambda has launched the Razer x Lambda Tensorbook. The laptops include Nvidia GPUs, 64GB of RAM, Ubuntu Linux, Lambda's deep-learning"
     publishedDateTime: 2022-04-14T13:18:00Z

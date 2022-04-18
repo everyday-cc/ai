@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "MAN Energy Solutions and Amazon Web Services Set to Collaborate"
-    excerpt: "MAN Energy Solutions has selected Amazon Web Services (AWS) as its preferred cloud provider to provide advanced analytics, machine learning, and Internet of Things (IoT) capabilities for MAN’s CEON platform."
-    publishedDateTime: 2022-04-13T11:13:00Z
-    webUrl: "https://www.cruiseindustrynews.com/cruise-news/27221-man-energy-solutions-and-amazon-web-services-set-to-collaborate.html"
-    type: article
-    provider:
-      name: Cruise Industry News
-      domain: cruiseindustrynews.com
-    quality: 39
-    images:
-      - url: "https://www.cruiseindustrynews.com/images/stories/wire/banners/2022/greatlakes_2022.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "MAN partners with Amazon Web Services to drive digitalization in maritime"
     excerpt: "MAN Energy Solutions has selected Amazon Web Services (AWS) as its preferred cloud provider to provide advanced analytics, machine learning, and Internet of Things (IoT) capabilities for the CEON platform."
     publishedDateTime: 2022-04-13T14:08:00Z

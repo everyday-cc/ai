@@ -39,24 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Zoom launches AI-powered features aimed at sales teams"
-    excerpt: "Zoom, the videoconferencing giant, has launched a set of AI-powered features aimed at enterprise sales and marketing teams."
-    publishedDateTime: 2022-04-13T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/13/zoom-launches-ai-powered-features-aimed-at-sales-teams/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-  - title: "Advocat AI Has Created an AI-Driven Legal Contract Generator to Save Businesses, Their Corporate In-House Attorneys, and Customers Time and Money"
-    excerpt: "Advocat AI has created an AI-enabled platform to create legal documents to help in-house attorneys with legal intake, research, and drafting. This provides"
-    publishedDateTime: 2022-04-13T12:45:00Z
-    webUrl: "https://www.goskagit.com/townnews/commerce/advocat-ai-has-created-an-ai-driven-legal-contract-generator-to-save-businesses-their-corporate/article_845220be-bcc0-5a5f-b7a9-9d2f5ff29414.html"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 0
 
 secured: "0XxhTmZew24QKo3Rkpf7Kd5mnaIU6BfulNtJO3u9LlI4DJ70Zhm+tqiYPUPAZ2wgMp5qios/Mq/2DtI7DypKE+hEwvFJfJx6Q3RL5WjoOdWfCpHuInRu0FmwderVIIQnF9/A+tIFN+CAXpooanPCX1cMEHDjrDisZPlnMW+3rQA3IJRWioSyoA9NKSlykmGxQgG8U4Ao0Cg+B5ZlOVCauKC5+4X1YMBljrPL5bWnfldv5OJ0iWfUL+4WqE7BEl4qahE1eQomuwv9lINcy5W9zOSJqgG81/UdFfedQb6e7d9i/Jj8Rf4EgVb78z/7Z0eN0Npszi+/iZCjmWaDCfDVUegDOfuhfRLI8D+x8vCXGkKHe6Q2L+GMh7nQJLjhjd0fzkubIo0p+dFqPJaWGbCpuSq39YtOoNfLZRGoNGKdXbb2vF3qPxJmfbBmUnyLIiUQIllqTQUyoBk2F7RRdeEUua35z/ii9n9/iECkGUK4J670RQs+Y1uKDIWjmdPtOODS+0G3s1XINfM0+iPr/hArzw==;JqCs94cWsLEnkkUGBqnA2A=="
 ---
