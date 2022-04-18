@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "CaliberMind Launches AI-Based Revenue Analytics Platform"
-    excerpt: "Concept: American B2B customer data startup CaliberMind has launched a B2B revenue analytics platform for enterprises to analyze their revenue. The platform utilizes AI to help enterprises to connect, analyze, and activate data to attract new customers ..."
-    publishedDateTime: 2022-04-13T10:45:00Z
-    webUrl: "https://www.army-technology.com/research-reports/calibermind-launches-ai-based-revenue-analytics-platform/"
-    type: article
-    provider:
-      name: Army Technology
-      domain: army-technology.com
-    quality: 37
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/shutterstock_435613807.jpg"
-        width: 500
-        height: 355
-        isCached: true
   - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
     excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"
     publishedDateTime: 2022-04-13T14:44:00Z
@@ -67,20 +53,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/0c1ef4fca18fa65a1de56be4bc17c404.png"
         width: 600
         height: 337
-        isCached: true
-  - title: "Network Analytics Market to Witness Robust Expansion Throughout the Forecast Period"
-    excerpt: "Overview. The network analytics market is showing rapid growth in the near future. The demand for advanced analytical tools and analytics applications"
-    publishedDateTime: 2022-04-13T09:49:00Z
-    webUrl: "https://galleonnews.com/news/247825/network-analytics-market-to-witness-robust-expansion-throughout-the-forecast-period/"
-    type: article
-    provider:
-      name: Galleon News
-      domain: galleonnews.com
-    quality: 18
-    images:
-      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11.jpg"
-        width: 417
-        height: 455
         isCached: true
   - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
     excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"

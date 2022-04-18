@@ -85,20 +85,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "A|I: The AI Times – Meta’s AI exodus, OpenAi’s revolution"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2022-04-13T09:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-metas-ai-exodus-openais-revolution/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/helena-lopes-1329842-unsplash-e1629656969203.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "nr65lRM4ajWU/Hbnkif8lSjAoAp/18H+fAJdTO093cCz2efPXF7Bu7AfroVCaR17zQr3ahb+W7YdEs6Xq4JVtHI0hKXRsbIUbk2V6v0x1zikqn+OOq/eR/z+5DGURvEHPJPCqFEBy69p6l62CCyZiNqdWTl3y+1BsRD0RIoPUEB0jp8oBTceos85Ty6IjRPc+U4VbBZ20w+pb73S9MFHWR/qxjrwsgQeeu59Nv5yV5orCQOvCTKSYEOAedhnIzl58PPPqCDkzQpjq8oeollFk3v4ijrU6Nk6D6X3GdCz56hwfGDBMGnj4V+A7DBRk/t1xBulZMKi+XLj/Li9OyihC37+xNHJQK1iLi4nRCdDjHfRfPPTJajAlNW8urrUVk48d4ZbwWnA8ufI9Hh+EqgFWGXNzPE1z/H3FBLwbusL0UMWZiGdI8cbwQdzcHXGpeyL+9iNRfmqIBIq+aotlbkd5iZZPJ6Gn3ShuVh6y2Q5Rc2NqG7Fu8Tx+MpgXWjO6TMIkrgA7jDETXvZ3C9FFkWS4g==;0x7VH0JHWagecqSjHSvTfg=="
 ---

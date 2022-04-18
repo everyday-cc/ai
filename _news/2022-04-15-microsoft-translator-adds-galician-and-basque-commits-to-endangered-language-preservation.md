@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Bangalore International Airport announces winners of BIAL Genie Hackathon in collaboration with Microsoft"
+    excerpt: "Bangalore International Airport Limited (BIAL) — operator of Kempegowda International Airport, Bengaluru (BLR Airport) today announced the winners of the ‘BIAL Genie Hackathon’ in collaboration with Microsoft."
+    publishedDateTime: 2022-04-13T17:15:00Z
+    webUrl: "https://technosports.co.in/2022/04/13/winners-of-bial-genie-hackathon/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 17
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
     publishedDateTime: 2022-04-15T20:09:00Z

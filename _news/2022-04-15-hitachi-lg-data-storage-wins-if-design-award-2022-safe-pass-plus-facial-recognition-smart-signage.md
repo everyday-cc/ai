@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/hitachi-lg-data-st
 webUrl: "https://markets.businessinsider.com/news/stocks/hitachi-lg-data-storage-wins-if-design-award-2022-safe-pass-plus-facial-recognition-smart-signage-1031358186"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 300
     isCached: true
+
+related:
+  - title: "Hitachi LG Data Storage wins iF Design Award 2022 'Safe Pass Plus' facial recognition smart signage"
+    excerpt: "Hitachi LG Data Storage (HLDS) announced on April 15th that it received an iF Design Award 2022 (International Forum Design Award 2022) for 'Safe Pass Plus', its facial recognition smart signage system that ensures convenient customer management."
+    publishedDateTime: 2022-04-18T02:10:00Z
+    webUrl: "https://newswit.com/en/Lb2J"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 25
+    images:
+      - url: "https://newswit.com/img/f/20220418/920d04072372b4f8a5a7c0ff0abd2e0f-0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "/0cEqR/2ALeIHs9zIf5OoqvpTpnB9DOECfxXTi1pAHcThbdgWXVoZ/Fdg0u7uByCyCH6KjRZCP9xMOL8bCrcFT2060Z50LtMQIgS+OaUHrqrXeGRKv06oolfIh81YJ0pmnx/jAni+l7CkFvaiaXJeA754ohHAa/OLIKtgoQJo6hZmE9OVBNnmOIBEMyGcVHyXVARXo7KwttEtyYg25M7KlsKgMO3I497fxQ4Q6v+nQZ3H0B01f7Q6lN8jpaHCJ2qKchaIXvDntQUEclcSxT9sC0rI8esZdktK12xaxSApnhuef315dwLWU37AryPx+AfGU1VZBv2aBS1ky3OEqsSMBuAPcFSBgnzveu3LNT6eh7EkzklSpDbb/FbebFdhqGmRTIJxNBQZU62oVYzcFbyjc4zrN/mYNWSoW2rssT0FBGiYnyf26SwIpswwZhenQNJRupeE+9jObbXQlNu5Lp64a0535xt8Yj7EqNJTkMeKxEQdUYrxTgxESOX8VwHyF7dwKx9o5diYHH5n3rgeDnhVw==;MCSqxyOJsDwdCLlnCmr6OA=="
 ---

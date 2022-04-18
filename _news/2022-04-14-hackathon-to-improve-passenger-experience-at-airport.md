@@ -9,7 +9,7 @@ ampWebUrl: "https://bangaloremirror.indiatimes.com/bangalore/others/hackathon-to
 cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/bangalore/others/hackathon-to-improve-passenger-experience-at-airport/amp_articleshow/90829441.cms"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,31 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Bengaluru Airport announces winners of BIAL Genie Hackathon"
-    excerpt: "The winners of the 'BIAL Genie Hackathon,' which was hosted in conjunction with Microsoft, were announced today at Bengaluru Airport."
-    publishedDateTime: 2022-04-13T09:48:00Z
-    webUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735.html"
-    ampWebUrl: "https://www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/bengaluru-news/bengaluru-airport-announces-winners-of-bial-genie-hackathon-101649842038735-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/04/13/1600x900/fahim-muntashir-F1PCLT669UU-unsplash_1649842544676_1649842564578.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Bangalore International Airport announces winners of BIAL Genie Hackathon in collaboration with Microsoft"
-    excerpt: "Bangalore International Airport Limited (BIAL) — operator of Kempegowda International Airport, Bengaluru (BLR Airport) today announced the winners of the ‘BIAL Genie Hackathon’ in collaboration with Microsoft."
-    publishedDateTime: 2022-04-13T17:15:00Z
-    webUrl: "https://technosports.co.in/2022/04/13/winners-of-bial-genie-hackathon/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 17
   - title: "Reboot Rebels emerges winners of BIAL Genie Hackathon"
     excerpt: "Bengaluru: Bangalore International Airport Limited (BIAL) - operator of Kempegowda International Airport, Bengaluru (BLR Airport) on Wednesday announced winners of the 'BIAL Genie Hackathon' in collaboration with Microsoft."
     publishedDateTime: 2022-04-13T18:53:00Z

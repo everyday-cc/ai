@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-s
 ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
@@ -26,6 +27,6 @@ images:
     height: 213
     isCached: true
 
-secured: "AU+GCDmrF1t6Fs8mAIqllcLrQtrHWkcdesnDWrJQzOR1G8SaUp4NtMlXtoKSIWmGR8W7Ff96IO6n63NgETZKk4aRuh9DBZ618IPEJrqNDJ8PCShN9wwXsr2wMGOStJYg45YOWKJdudnQpsnkIeqyzUJEKPATMQn3+oJuSGXdwKbIiJFpT/4St03OOBN7FHd1KZ5TJqwM7DGsMnSgsVELT25/Q3DYzDSRxFl/4q1PW0k2930mnWFriUTjnbyba6F4VxLrHteakZIRm7FF37oK7l5NhFhgLi0huPFfLdQKbzQ2w6EJSeT+sKacSUFi5POWhzp1HzBbaijGDD/xwJq+SEXNSNeSge4J7N2GUOOgXt4=;ydz2niGUbqnnXOJw/Np6gA=="
+secured: "CQHm51ZIqXkFRKl54gwXX61KbVoLPbzHj3p7dd+rPm137oSQUnf9M6ZjiwquEBVSZWul/5vg+nT83bQ4kbSMOgvB3EkXJTtkVZ0ePeuKguYRXAuVNQOvKTrQrdfBPjJh+3CGapA6cESUUScfgPBXdOM5T23gNtGQrUhTOP08xKCKqqJoZYZFTgjwvgHIbFOHh8JKXsfTn36kp0DUN3ROl7KLMdj3X1RI/K+qxTV/+xWYlJFmFcAbU9SYSdVCc8Wb7XamyhDpnu6iv82/yMUMGD0mzeEtQ0AEQMQ0GAVhtw/Lta4B6G3k2kGUFI7XBj/T77WRlIYl0tEm89SYMZFXLOaQ7qHtP2PYml62D6RqLXdLGrTm90bj7ZpZWapehFADeIU/vwoeO2iMPU4ZIRMCYBFQdysDpW+W8XX7oAbeMYtS7nxwE7QEoIYWugDyPTAMZJDrQz/wsAulMriPJAXZPHzmOvpwMMQgHtXE8FzGUTqn9yR5qzMEjiI3xC+hTfG68wZ34iNj3BaZpJtBXWT1UA==;6V4pC/L+Ge2mGhATdd+4NQ=="
 ---
 

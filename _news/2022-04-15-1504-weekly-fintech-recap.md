@@ -85,15 +85,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
-  - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
-    excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
-    publishedDateTime: 2022-04-13T09:28:00Z
-    webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "ZWf+HzMWLJzrU2i1EXNe9oPoeAjZrwy9UOJd4XNgTvKtw9MaKH8jP94xmknZg+iPyBT3PAWh0DuLIShjLITB2/iCDEzzFyyPp4OmBJyrl0LWxrpRsrKSFSV+AQPH/FnMK3QeMg9eK0BPx6Vcyvn6K+RoAtM0m9qwWOk7+CATmNDVw11NbvvdgD2yl7w/k5TYQlo6FeAXwqNaBnYGMDEToWQOenMjEeCLUQePbbWb5mdEa53+GpUMAYHgBECLR6ENi+z/ncKC1GKidTZOt7s1T/k8CD4mRsuDSa5HJ+KEYHv8AQuUJA+fAz3KQRd8RXQUqPrwD+VQAwL0AA//GevGQbcenjX1fcPQmeHZLMKkBjo=;Ry8NB4xUR25vctDjo7oEUg=="
 ---
