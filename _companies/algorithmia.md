@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Algorithmia"
   url: "https://twitter.com/Algorithmia"
-  followers: 6441
+  followers: 6439
 
 size: 11-50 employees
 yearFounded: 2013
