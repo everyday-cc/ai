@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
+      "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
+      "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622bfb12203a72d0156f3303/0x0.jpg?format=jpg&crop=3097,1742,x476,y301,safe&fit=crop",
+          "width": 3097,
+          "height": 1742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/20/ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-trueface-clarifai-join-data-ethics-consortium-for-security.md",
       "title": "Trueface, Clarifai join Data Ethics Consortium for Security",
       "excerpt": "DECS is an organization focusing on aiding developers and policymakers to ensure artificial intelligence and machine learning tools are deployed safely.",
@@ -1350,59 +1403,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
-      "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
-      "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621bb520766538529bd5d84e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
-      "publishedDateTime": "2022-02-27T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

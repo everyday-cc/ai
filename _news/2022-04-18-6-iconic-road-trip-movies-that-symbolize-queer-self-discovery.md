@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:33:00Z
 originalUrl: "https://pridesource.com/article/6-iconic-road-trip-movies-that-symbolize-queer-self-discovery/"
 webUrl: "https://pridesource.com/article/6-iconic-road-trip-movies-that-symbolize-queer-self-discovery/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: PrideSource

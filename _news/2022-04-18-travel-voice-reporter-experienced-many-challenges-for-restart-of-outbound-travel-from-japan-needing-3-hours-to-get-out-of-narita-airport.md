@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:30:00Z
 originalUrl: "https://www.travelvoice.jp/english/travel-voice-reporter-experienced-many-challenges-for-restart-of-outbound-travel-from-japan-needing-3-hours-to-get-out-of-narita-airport"
 webUrl: "https://www.travelvoice.jp/english/travel-voice-reporter-experienced-many-challenges-for-restart-of-outbound-travel-from-japan-needing-3-hours-to-get-out-of-narita-airport"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Travel Voice

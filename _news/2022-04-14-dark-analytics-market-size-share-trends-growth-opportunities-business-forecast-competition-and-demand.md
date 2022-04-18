@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 840
         isCached: true
-  - title: "BlueOcean nabs $30M for its AI-powered marketing analytics platform"
-    excerpt: "BlueOcean, a marketing technology startup that counts major tech firms such as Amazon.com Inc. among its customers, has raised $30 million in fresh funding. Insight Partners led the Series B funding round,"
-    publishedDateTime: 2022-04-13T19:22:00Z
-    webUrl: "https://siliconangle.com/2022/04/13/blueocean-nabs-30m-ai-powered-marketing-analytics-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
     excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
     publishedDateTime: 2022-04-14T19:32:00Z

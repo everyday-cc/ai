@@ -2,6 +2,207 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-16-16-tips-to-help-small-businesses-start-leveraging-aiml.md",
+      "title": "16 Tips To Help Small Businesses Start Leveraging AI/ML",
+      "excerpt": "Even if a small business can’t make instantaneous, sweeping changes through AI/ML, it may still be the right time to take the first steps on the journey of building a strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625972dc185b566eb4455d01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 978,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
+      "publishedDateTime": "2022-04-15T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
+      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
+      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
+      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
+      "publishedDateTime": "2022-04-15T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-at-least-150-injured-in-clashes-at-jerusalem-holy-site.md",
+      "title": "At Least 150 Injured in Clashes at Jerusalem Holy Site",
+      "excerpt": "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
+      "originalUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-525573/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
+      "publishedDateTime": "2022-04-15T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-ai-is-mastering-language-should-we-trust-what-it-says.md",
+      "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
+      "excerpt": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/04/17/magazine/17mag-openai-promo/17mag-openai-promo-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
+      "publishedDateTime": "2022-04-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-ai-in-ctv-adtech-streamlining-the-ad-bidding-process.md",
       "title": "AI In CTV AdTech: Streamlining The Ad Bidding Process",
       "excerpt": "AI already plays an integral role in advertising technology, facilitating processes that human marketers are incapable of performing themselves at the scale modern marketing platforms require.",
@@ -510,7 +711,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -942,7 +1143,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1024,196 +1225,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
-      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
-      "excerpt": "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp",
-      "publishedDateTime": "2022-04-14T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
-      "title": "AI robots deployed to fill void in senior care. But can they?",
-      "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
-      "sourceUrl": null,
-      "webUrl": "https://koreaherald.com/view.php?ud=20220414000682",
-      "originalUrl": "https://koreaherald.com/view.php?ud=20220414000682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F14%2F20220414000800_0.jpg",
-          "width": 630,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220414000682",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220414000682",
-      "publishedDateTime": "2022-04-14T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
-      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
-          "width": 2700,
-          "height": 1845,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-dall-e-2-the-future-of-ai-research-and-openais-business-model.md",
-      "title": "DALL-E 2, the future of AI research, and OpenAI’s business model",
-      "excerpt": "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all",
-          "width": 799,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "publishedDateTime": "2022-04-13T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

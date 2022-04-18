@@ -9,8 +9,8 @@ ampWebUrl: "https://www.electronicsforu.com/news/whats-new/this-neuromorphic-dev
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/this-neuromorphic-device-allows-ai-to-work-without-the-internet/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Electronics For You
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ORBAI Announces NeuroCAD v5.0 for Spiking Neural Network AI Development"
-    excerpt: "Spiking Neural Networks are the Generation 3 of Artificial Intelligence that will leap over Generation 2 Deep Learning as the AI technology of choice this decade, enabled by the"
-    publishedDateTime: 2022-04-13T22:08:00Z
-    webUrl: "https://www.wicz.com/story/46287875/orbai-announces-neurocad-v50-for-spiking-neural-network-ai-development"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 54
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/22513378_G.jpg?lastEditedDate=1649873328000"
-        width: 900
-        height: 475
-        isCached: true
   - title: "Neuromorphic chip developer SynSense steps into the field of smart cockpits by initiating a technological exploration with BMW"
     excerpt: "The world’s leading neuromorphic intelligence and solutions provider, SynSense, announced that it will advance the integration of neuromorphic chips and smart cockpits and explore related fields with BMW."
     publishedDateTime: 2022-04-14T08:30:00Z

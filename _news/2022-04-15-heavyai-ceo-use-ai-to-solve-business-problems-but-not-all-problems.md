@@ -40,20 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Automate finance and accounting with AI bots for your business and CPA firms"
-    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
-    publishedDateTime: 2022-04-13T20:00:00Z
-    webUrl: "https://www.ksl.com/article/50386299/automate-finance-and-accounting-with-ai-bots-for-your-business-and-cpa-firms"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 53
-    images:
-      - url: "https://img.ksl.com/slc/2872/287227/28722782.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
 
 secured: "GBnH1BpVXqgVeAjPurQJHXQs5Znx2kWdnvO3OclDkMRbzpmj5w//C613GJSuP4Bqezl/LY2r7bN8KUBqnfMNJBMRMwQFHiQ5vIsbl1x0Mq3d9xkqUNdrNj7U7K9ByT9xavu4n0Gt6AnAt7Ao1mMBhnCtft4Y2c5C+i5MF/zjDJzKYavmuTcUwePPsMxUfsuVm42jGIuZ1g7t0sczn7RNvokoJxDnKB5/bh17n8Nd5u7GSamESqgwnnq1aYIuE56K9ssffXkrzknHO92n7YrRSJvsnbZsnUywBpj6lyUgqM/eLA6lMBGc2Rb1KVaNvakWZ8PQbhzboacq9MuZaFqd9H9fdDyVHVMzisApHrQveXI+E1nO+522Q13u+pKObhKlvAnJZ2rNJ4ux3ThgkyEDiGzLfG85VxEfPw3hhEXEVBdjeEhBcN/nKRIFivbyUeBh3wt+HBYPAeIJxZwCrahTu9UZOaPSxXBPwZ2ATrBWfMq0BDPt+mJHhsSO4wv+kEf3DETUNFVgpzhfBIsOLSGGXQ==;QmQYr0eBgIPXy3/ptDbNpg=="
 ---

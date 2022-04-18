@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-22-apple-looks-to-korean-company-for-chips-for-its-self-driving-car.md",
+      "title": "Apple looks to Korean company for chips for its self-driving car",
+      "excerpt": "Apple's much written about autonomous car project cannot seem to let go off its Korean connection. It was initially rumoured that the project was to be handled by Hyundai and Kia. But they pulled out eventually. Yet, Apple continued to be in talks with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car",
+      "originalUrl": "https://www.techradar.com/in/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zpTknw8wuFKPVDf9pdG3Re-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-driverless-cars-technology-brings-dream-a-step-closer.md",
       "title": "Driverless cars: Technology brings dream a step closer",
       "excerpt": "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ...",
@@ -1331,49 +1383,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report.md",
-      "title": "Intel's Mobileye aims for self-driving shuttles in the U.S. by 2024 -- report",
-      "excerpt": "Mobileye, the self-driving technology unit owned by Intel (NASDAQ:INTC), has set a goal of rolling out self-driving electric shuttle vehicles in the United States by 2024 as part of its efforts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "originalUrl": "https://seekingalpha.com/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951562278/image_951562278.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3799644-intels-mobileye-aims-for-self-driving-shuttles-in-the-us-by-2024-report",
-      "publishedDateTime": "2022-02-14T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

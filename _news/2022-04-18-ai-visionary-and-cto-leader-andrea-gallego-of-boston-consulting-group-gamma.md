@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T12:13:00Z
 originalUrl: "https://www.forbes.com/sites/markminevich/2022/04/18/ai-visionary-and-cto-leader-andrea-gallego-of-boston-consulting-group-gamma/"
 webUrl: "https://www.forbes.com/sites/markminevich/2022/04/18/ai-visionary-and-cto-leader-andrea-gallego-of-boston-consulting-group-gamma/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

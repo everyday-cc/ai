@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:27:00Z
 originalUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
 webUrl: "https://phys.org/news/2022-04-neural-network-site-specific-impacts-earthquakes.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

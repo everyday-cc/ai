@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-micros
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
-    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
-    publishedDateTime: 2022-04-14T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
 
 secured: "1Fqt8qKMMLwo/RXtnJhH9HcPcIWfpHqvUWoCAm7nR94+eVm+KobB1QROVbTkMrUj5w+B8wI+tjWv3w/f3W5ZSfz4DemzFGu4c1hsh58c1hPoih6yAmikhNgooNOJ3YBUEowZT4z2hLUHVXkN2ozVc0PLd9U7LZxOzzvCULmIpPjLxfRh9l7ebQVsq5iDmJgwRQEoy6i8cWhegzC+0zebmuRp3iw5Sk0LvKiAYMt4w68aIGY/bSRyrHYp3yE7QBd0ES4OlYpsc1+PC6KLX95EmwbBxZ3UGcoVbTDA0KPA1i0MoMysvh9Gj7Zs7Hv3wxX/65Nf46JtYuLW70s+x50rsiG1hbB3hOBGewED5JzeKjHRCVdJyT+dxnotFoQtubqVrZi4YJlikz2+28v4duTazcwBzbeVioPptRPC67yggrbD20eoT8vEQB5R1gLOPcRpgeQSELiFNhIuWROVjP3aBgQP2sQtUW2rqjteZfF4DxdRah/QZB3sSuFNd9mnVCmp0a3Xfu8ZlhW0tcqxtPQ+Gw==;axfX20xiznx7faklBduVew=="
 ---

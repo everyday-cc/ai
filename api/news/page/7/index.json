@@ -2,6 +2,290 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-09-an-ai-model-can-help-predict-adverse-events-from-new-drug-combinations.md",
+      "title": "An AI model can help predict adverse events from new drug combinations",
+      "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies, according to results presented at the AACR Annual Meeting 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/949288",
+      "originalUrl": "https://www.eurekalert.org/news-releases/949288",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave.md",
+      "title": "A newcomer to AI data labeling, Encord looks to ride a rising tidal wave",
+      "excerpt": "Aiming to generate labeled data sets for computer vision projects, Encord launched its own beta version of an AI-assisted labeling program called CordVision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Screenshot-2022-03-24-at-16.41.23-copy.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "publishedDateTime": "2022-04-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-apply-to-pitch-your-startup-at-tc-sessions-mobility.md",
+      "title": "Apply to pitch your startup at TC Sessions: Mobility",
+      "excerpt": "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-1.png?w=1024",
+          "width": 1024,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
+      "publishedDateTime": "2022-04-08T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend.md",
+      "title": "Build a custom entity recognizer for PDF documents using Amazon Comprehend",
+      "excerpt": "In many industries, it’s critical to extract custom entities from documents in a timely manner. This can be challenging. Insurance claims, for example, often contain dozens of important attributes (such as dates, names, locations, and reports) sprinkled across lengthy and dense documents. Manually scanning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/image-46.png",
+          "width": 730,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T10:32:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-mlops-the-key-to-pushing-ai-into-the-mainstream.md",
+      "title": "MLops: The Key to Pushing AI into the Mainstream",
+      "excerpt": "MLops is still an emerging field, so it may be tempting to write it off as just another techy buzzword, but its track-record proves that when designed the right way and targeted at the proper goal: to maximize model performance and improve ROI,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "originalUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "publishedDateTime": "2022-04-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds.md",
+      "title": "Artificial Intelligence Enhanced Heart Disease Diagnosis in Ultrasounds",
+      "excerpt": "Following the implementation of an artificial intelligence system into ultrasound procedures, researchers from the RIKEN Center for Advanced Intelligence Project (AIP) noticed a sharp increase in the accuracy of heart disease diagnoses.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds",
+      "publishedDateTime": "2022-04-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-getting-started-with-the-amazon-kendra-box-connector.md",
       "title": "Getting started with the Amazon Kendra Box connector",
       "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. For many organizations, Box Content Cloud is a core",
@@ -932,282 +1216,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
-      "title": "Ukraine uses facial recognition software to spot Russian spies",
-      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "publishedDateTime": "2022-04-07T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become.md",
-      "title": "IBM And MLCommons Show How Pervasive Machine Learning Has Become",
-      "excerpt": "IBM announced its latest Z-series mainframe and MLCommons released its latest benchmark series. The two announcements had something in common – Machine Learning – which is becoming pervasive everywhere from financial fraud detection in mainframes to detecting wake words in appliances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624f9430713ac031f54ebda5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "publishedDateTime": "2022-04-07T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-ml-ops-can-help-scale-your-ai-and-ml-models.md",
-      "title": "How ML Ops Can Help Scale Your AI and ML Models",
-      "excerpt": "Machine learning operations, or ML Ops, can help enterprises improve governance and regulatory compliance, automation, and production model quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
-      "originalUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024",
-          "width": 1024,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
-      "publishedDateTime": "2022-04-07T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-this-startup-raised-185-million-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions.md",
-      "title": "This Startup Raised $18.5 Million From Sequoia To Reinvent How To Use AI To Make Predictions",
-      "excerpt": "A new Stanford-bred startup says it has a solution using a new class of artificial intelligence ... termed “graph neural networks,” which approaches machine learning by treating the data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624eff12a2380fdf7002159a/0x0.jpg?format=jpg&crop=2048,1365,x0,y84,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2022/04/07/kumo-18-million-series-a-from-sequoia-to-reinvent-how-to-use-ai-to-make-predictions/amp/",
-      "publishedDateTime": "2022-04-07T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
-      "title": "How AI could help enterprises to reduce data storage costs",
-      "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
-      "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
-      "publishedDateTime": "2022-04-07T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-le-monde-launches-english-edition-with-ai-translation.md",
-      "title": "Le Monde Launches English Edition With AI Translation",
-      "excerpt": "One of France’s leading newspapers, Le Monde, launched its first English-language digital edition on Thursday with articles translated in part by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
-      "originalUrl": "https://www.barrons.com/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/le-monde-launches-english-edition-with-ai-translation-01649356507",
-      "publishedDateTime": "2022-04-07T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-18-how-speech-recognition-technology-can-help-providers-achieve-the-quadruple-aim.md",
+      "title": "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim",
+      "excerpt": "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
+      "originalUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
+      "publishedDateTime": "2022-04-18T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars.md",
+      "title": "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars",
+      "excerpt": "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-04-18T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-ai-startup-helps-tackle-logistics-nightmares.md",
+      "title": "AI startup helps tackle logistics nightmares",
+      "excerpt": "Optimal Dynamics, an AI-powered startup, is helping trucking companies solve their particular logistical nightmares by automating and optimizing their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/bigstock-Richmond-County-Ga-Usa-427143116.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
+      "publishedDateTime": "2022-04-18T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
+      "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
+      "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation.md",
       "title": "Fujitsu launches new centre in Bengaluru to accelerate AI and ML innovation",
       "excerpt": "Fujitsu announced its new research centre in India to strengthen its focus on research and development into AI, ML technologies and quantum software. Fujitsu India said that by 2024, they would have about 50 researchers to expand their research fields into security and other areas and conduct software R&D in collaboration with Fujitsu’s global network of research centres in Japan,",
@@ -105,7 +305,7 @@
       "originalUrl": "https://www.gizbot.com/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -288,7 +488,7 @@
       "originalUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -319,49 +519,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-this-neuromorphic-device-allows-ai-to-work-without-the-internet.md",
-      "title": "This Neuromorphic Device Allows AI To Work Without The Internet",
-      "excerpt": "A new research project from the University of Central Florida that aims to make artificial intelligence (AI) work without the use of the internet. The sophisticated neuromorphic or brain-like devices developed by the researchers are built on small,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/this-neuromorphic-device-allows-ai-to-work-without-the-internet",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/this-neuromorphic-device-allows-ai-to-work-without-the-internet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/04/UCF-e1650265998582.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/this-neuromorphic-device-allows-ai-to-work-without-the-internet/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/this-neuromorphic-device-allows-ai-to-work-without-the-internet/amp",
-      "publishedDateTime": "2022-04-18T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -416,7 +573,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/417465",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -595,6 +752,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-dall-e-2-shows-the-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices.md",
+      "title": "DALL-E 2 shows the power of generative deep learning, but raises dispute over AI practices",
+      "excerpt": "DALL-E 2, OpenAI's new text-to-image generator, is better than its predecessor, but comes with a debatable business model.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices",
+      "originalUrl": "https://thenextweb.com/news/dall-e-2-shows-power-of-generative-deep-learning-but-raises-dispute-over-ai-practices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-84-2.jpg&signature=3681cc767a6d909013fa0af8c6b3a6e3",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -977,207 +1186,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-16-tips-to-help-small-businesses-start-leveraging-aiml.md",
-      "title": "16 Tips To Help Small Businesses Start Leveraging AI/ML",
-      "excerpt": "Even if a small business can’t make instantaneous, sweeping changes through AI/ML, it may still be the right time to take the first steps on the journey of building a strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625972dc185b566eb4455d01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "publishedDateTime": "2022-04-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
-      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
-      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
-      "publishedDateTime": "2022-04-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-at-least-150-injured-in-clashes-at-jerusalem-holy-site.md",
-      "title": "At Least 150 Injured in Clashes at Jerusalem Holy Site",
-      "excerpt": "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "originalUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-525573/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "publishedDateTime": "2022-04-15T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-is-mastering-language-should-we-trust-what-it-says.md",
-      "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
-      "excerpt": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/04/17/magazine/17mag-openai-promo/17mag-openai-promo-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
-      "publishedDateTime": "2022-04-15T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

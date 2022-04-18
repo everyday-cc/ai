@@ -80,20 +80,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "India has been at the epicentre of a global lab testing environment which has ushered in a new wave of technological advancements leading to the creation of s"
-    publishedDateTime: 2022-04-18T06:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272490934/lendit-fintech-hosts-india---the-world-fintech-lab-session"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1650262494.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
     excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
     publishedDateTime: 2022-04-15T13:30:00Z
@@ -103,6 +89,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+    publishedDateTime: 2022-04-18T04:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lendit-fintech-hosts-india-worlds-fintech-lab-session-/2022/04/18/9583950.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "+q94AU2pB7pOnTq6VyG7ZkDGv4aneqQ27JSfP9KhkRdnUz/lxRH7au32noLvDnEPzIPaGrGPtqaE19r+RCu8qURHYpBR8U3MFnrSCB4vVWmYiJ4qyLZri9/28mpF/g0dEXzjwT4u8iAlyu0/VClKJ7Xr69ycHXUVIzfUIJpCbHVgOzmAmOxmCUimIse8hIG/2XuhdrmO2CdsBDOutLtEcLK6DhOusTkjaU6KEDdBh0KllMsKJCPBSBMAWBmZzs0gzfNlo8wEWSlo+BNI/l+dsPq/t/G1Nz3aoVttxYEhDFKDpPnhbULzA4tPKQX9YwNAipr0z4bWZ6e2pW+UNk2HrucezR6z7BCHe0HkAiJo0IQmAoJEwopbQ0z+OiyTubo9KERlodg9UxroCTa/6b3MsaDQ9Fsq4FmoWkI/0SVL+JMpDn/cn47rIkmbnvtgwP5qZ4BQw9QS0jmMlGz1+LUElqvVTU1Zy5xLUtp/Y5TnkSNp7r0SAT5uvc0Jb0IsMs3MG15DKXJ3wAOVRYTMRxIWww==;xos0pWvWM89nq14NqFvjvA=="
 ---

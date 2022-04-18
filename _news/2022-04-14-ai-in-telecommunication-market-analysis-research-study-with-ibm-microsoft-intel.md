@@ -19,51 +19,33 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
-    excerpt: "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture."
-    publishedDateTime: 2022-04-14T08:42:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
+  - title: "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu"
+    excerpt: "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added"
+    publishedDateTime: 2022-04-18T12:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg"
-        width: 770
-        height: 431
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
-    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry."
-    publishedDateTime: 2022-04-14T20:09:00Z
-    webUrl: "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+  - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
+    excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
+    publishedDateTime: 2022-04-14T08:29:00Z
+    webUrl: "https://menafn.com/1104019544/Machine-Learning-As-A-Services-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
-    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
-    publishedDateTime: 2022-04-18T00:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 50
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
-        width: 752
-        height: 408
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?679703"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "DJxGu9rrX6DruCcVUiqNWYzlL+RBtDN81nwQ+MeC1O92EkBBLFVIJM2qDqfPUULeYnSKEZ51JgN3gV67I77ROUoSlOa87S67HK5uL8DuV9vzdlmEi8OM41PX5NeDk06z4IAmcnBS10uQ6VerSoC3DCKrGH1LU/RxinMlDWrBcCzZ8pglYHrkVMZaDhgd+a0XJvdCXM65HqrhiFsBHlvPP2/etMZkxqbQBrLjmQskg400SVTplqMBe1mebm2dbSm36AgvBzcja4dej/HG7ZMz2ogB+Z17M8P1hkcmcEUDVUhOdAR4cL1gtDFnSqNVF6xe994PT5E0a0Sk/i0bJqpdQsW2JXe/qMm9a0Q1thReUMWVMYQCMp1dCJb+afGTTyDfIcxixvihUABWcIJnlb2qe1uaNcMMXNciOpiAlIcOgXkvPqdl7tSzA730BfsmwKFi6Xk69+AF1d1vrRYnS+2kZuPRQfnObckrs1d97MxO8x/+EAxmoYrQrzg/nT616vfN2sMxB3XfmeIIgTup3UahUA==;al8U1VWRuBgjHwzoXGPHDg=="

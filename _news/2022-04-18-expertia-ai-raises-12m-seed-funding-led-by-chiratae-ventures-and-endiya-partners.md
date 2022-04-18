@@ -96,6 +96,20 @@ related:
         width: 733
         height: 358
         isCached: true
+  - title: "Expertia AI Raises $1.2M in Seed Funding"
+    excerpt: "Expertia AI, a Bengaluru, India-based deeptech virtual recruitment platform, raised $1.2m in seed funding. The round was led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
+    publishedDateTime: 2022-04-18T08:50:00Z
+    webUrl: "https://www.finsmes.com/2022/04/expertia-ai-raises-1-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/Expertia-Logo-New-Black.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Virtual recruitment platform EXPERTIA AI gets $1.2Mn in seed to grow business, hire tech talent"
     excerpt: "With the COVID 19 pandemic pushing literally everything virtual, recruitments and HR industry in general, also sped up their transition to a virtual environment. The largest of companies have successfully onboarded candidates through completely virtual processes,"
     publishedDateTime: 2022-04-18T05:58:00Z
@@ -119,6 +133,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 17
+  - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
+    excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
+    publishedDateTime: 2022-04-18T11:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/blue-spark-technologies-raises-40-million-in-growth-funding-led-by-ghost-tree-partners-to-advance-ai-based-remote-patient-monitoring"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 0
 
 secured: "xWBWnWKeehz+mEbHkyH49aMSCAVkB47yp3FfNTzOxvmnVIIZstBIncllRyh1HU5qdyKIFFfMWy2vSTwlF2ToGLkcIe8UdkwoSzbR/NOHRJplIovRiktNMi+q5DJ/Yf6vnp+dHJhSOBoPXB9cPiMDegqeAU53wBZoLXuTxoogFUzea3LGlht5YEwHNFz8cLVh9PU5w8sQ4NgcLQ7zXPrzlvFNxNWa/TmX7hMRhsNw/9b6n8ApC8CnUPv4gjmiw0ZnhhcY3jGKmqHZINeoMzO0HoUMkMbRgv5nYyvrssm9JHDH3mQZJ5m9rAxcmKW2lsjg0PBcXw5PPYM7xQ8g7AkwX+mUC6pwTeEwbxO2KxG15uBDDVGHU3OOQTy4OKqztRCoTRNWvAN4+nvE5/M7nLOTXs1DazESX23cGFj1zeq9/ZxcFPDKGVC0oj8xvq0UEH9D7Y6IgN/jWvf8wGnfmhSicmarTr20Hwq+EcRTaWlrvQlSvtGfYT0YS/lthVN8r63KUPdqA5jycLUxnmOKudbnoQ==;Qa7zdPCEPsXMmn4G0uc0rg=="
 ---

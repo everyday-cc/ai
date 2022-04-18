@@ -7,7 +7,7 @@ originalUrl: "https://www.wpi.edu/news/announcements/ieee-robotics-automation-so
 webUrl: "https://www.wpi.edu/news/announcements/ieee-robotics-automation-society-honors-jing-xiao-leadership-award"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 400
     height: 266
     isCached: true
+
+related:
+  - title: "Cooper Joins Association for Advancing Automation (A3) and IEEE Robotics and Automation Society"
+    excerpt: "Cooper Business and Technology Marketing, a premier marketing organization focusing on business and technology, announces its membership in two international automation organizations: the Association"
+    publishedDateTime: 2022-04-18T12:31:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
 
 secured: "2PxhaC/gUBnHQDSWMDsylnq3TPwXBF34mS1HXOvdSFP5l6rl79ujppS5xm54sovDvGlGlE6jfJkgdKWqY1ITRwU1f4mYLTFA68VxGCUXcLTUwOkSZaYI461w5bAGILd1pN64BoXoeDH4QQQUnsgygX9gyDFAaklqvaXLYR1OHIa80FeIMPP1JBctu5bKe2KP2Bl8vH0fQHjH/6KX5iOmu0Vz+rnThw1pInRNVMCENmI0ksDmaM6xZQFND3NBzxkn5ovtgD2xh++caGneJhHqP+ttBtlXEHH+2CvhGzvfKDKLYYeAMK8ngH0GFWdIvLwBNdJwPs/VxA+tmpKs4lJdMcfZWWgXD+z8I9J+IjwCkQw=;dyRteeqnUrJD5ZYTbyQiKg=="
 ---

@@ -35,6 +35,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Ad Of The Week: Razer’s Deep Learning Laptop"
+    excerpt: "Razer’s first Linux laptop is here, and the Razer x Lambda Tensorbook is positioned as the world’s most powerful laptop for deep learning. Co-created with Lambda, this sleek laptop is powered by an 11th-gen Intel Core i7 CPU,"
+    publishedDateTime: 2022-04-18T12:15:00Z
+    webUrl: "https://t3me.com/en/news/ad-of-the-week-razers-deep-learning-laptop/"
+    type: article
+    provider:
+      name: t3me.com
+      domain: t3me.com
+    quality: 19
   - title: "Lambda and Razer Launch Laptop for Developing Deep-Learning Applications"
     excerpt: "Lambda has launched the Razer x Lambda Tensorbook. The laptops include Nvidia GPUs, 64GB of RAM, Ubuntu Linux, Lambda's deep-learning"
     publishedDateTime: 2022-04-14T13:18:00Z

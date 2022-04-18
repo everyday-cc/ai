@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/04/18/the-current-state-and-future-of-ai-for-customer-service/"
 webUrl: "https://insidebigdata.com/2022/04/18/the-current-state-and-future-of-ai-for-customer-service/"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: insidebigdata.com
@@ -13,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "What Stanford’s recent AI conference reveals about the state of AI accountability"
+    excerpt: "AI accountability is a concept not clearly defined by authoritative bodies. While many sets of suggested guidelines and tools exist, they are not cohesive and are very often vague and overly complex."
+    publishedDateTime: 2022-04-14T20:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/"
+    ampWebUrl: "https://venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/what-stanfords-recent-ai-conference-reveals-about-the-state-of-ai-accountability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1308080126.jpg?fit=800%2C534&strip=all"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "nRAXBO1uuPK7d+LjZhPFQ0InKQKkDcLhl5hMkGNVpQe+WNCh/Tsr7frprhesHeGMMZ3ZHGbaMa56PvHabgGkfxyVLE4b3AUi6PKBKx53jWuJRBrevZt+WUxqbb1NGWD0UMy3R3otes453jJvSM4jciGhGjk0NGGnYI/i+wlu8853SmvFBxm2bLOjnBO09WhKQy7wyiftOdRE8TuexUiRuvhsSMb82O3MSOvlJkrIBWrHd9pxRKt/NxMYg5ItjYboDk2Vmd65xaWo5ANwk6oYjGS9XDoqqBTDENP4r/bZjKk+GefQbfjRm42qoBC8L3c1cu6c+KQxAWrxfRKScklIuRwjhjMaHmaxic2k4KatGeX5+P0ucp4samYsgdLW1AEsJBeuFlqIgsvdNhyxoa6sbmcjh1ls59qncmhSY8WJuB3I/yotRhnyVX7JNuWAe8BIibqtmPhOWR0RTn7Gu8/qLhdNpQkYeNJyIGJrB2IxhjUM3zIvd0/69bfvdJO2iJyuj3LJv5tebAzAerLAsr9+OQ==;qa5WI6D6zjQrxzv4jg6KiQ=="
 ---

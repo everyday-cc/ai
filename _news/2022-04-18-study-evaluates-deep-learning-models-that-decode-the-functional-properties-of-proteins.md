@@ -5,7 +5,12 @@ excerpt: "Deep learning–based language models, such as BERT, T5, XLNet and GPT
 publishedDateTime: 2022-04-18T13:30:00Z
 originalUrl: "https://phys.org/news/2022-04-deep-decode-functional-properties-proteins.html"
 webUrl: "https://phys.org/news/2022-04-deep-decode-functional-properties-proteins.html"
+ampWebUrl: "https://phys.org/news/2022-04-deep-decode-functional-properties-proteins.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-deep-decode-functional-properties-proteins.amp"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Phys.org
@@ -15,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "TM5lkXyc1kWMKH7eieNNd+bP9J8DneBEAQTj/PreO5GryHIfUXd9Dw8SgKANNuASKdie9RvH5kW3ucpN6ctwn9NYIdB1httTwoFy0CYKYjsm0U+6lEruhOjzOOkL8kgClQX8valEVvxnHxG5eX6/ohG1unjcaGP05G/5MgtIUKhrbw452AFd115xdmrEPfusREJXDRoBo147rF9jt9UXGpDOZqUumgmpuIbogZVNs5HldEIZnH/+2ne3/hpIFwky8uoCW+3amn3EC0mMGOD8B9fhBgdu3W7e0yheoOSkEgZv14uFWLPR2PUSDjF4sopwyEwClOwhWbaP8ZZLhJfmLvVCc2ZRh9Ljn/yu5m/2ooQ=;WNi1OtiLBoFTk0KNgiSGSw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-evaluates-deep-l.jpg"
+    width: 2880
+    height: 1539
+    isCached: true
+
+secured: "yqiGsDSbuR7pBCnIcOTKZsyvJMVvrqIqzckWPw3m2G11mIeEFn6LepkhIw8NEoePB1u2vGPR1Xjqfy9vOEtJaTfneLs/O/lLMLE6aTIupGCmZLk0jcv8Mjj9nwIVzrLKrAMn7GqnucCbaTNZs/ceQHS7/swhDZ5PUqjU9B9Cme7ZumqUj49eTZodBAvxr1TG++eL3bgOPPKFHWnUgChZ3+Q6Or0C//4hynJ8QLyPxiH8q3hJqTXlGdv5LtfLPhJfddX7aMiqjxis9OO4ZGaUrC9HtM0zdk/5azg8VknsIWxQIuGCxlrCqyhcCHnLSRG5ya3b6Ys/PAcJMZRdo9zFcD/7ZmhGrcuvpgcbPUWVLXE=;DPMdQwnPCSt8iZSSxLnQLw=="
 ---
 

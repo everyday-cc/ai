@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/417465"
 webUrl: "https://www.entrepreneur.com/article/417465"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2022/04/Last_Mile_Tech_1-1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Automate finance and accounting with AI bots for your business and CPA firms"
-    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
-    publishedDateTime: 2022-04-13T20:00:00Z
-    webUrl: "https://www.ksl.com/article/50386299/automate-finance-and-accounting-with-ai-bots-for-your-business-and-cpa-firms"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 53
-    images:
-      - url: "https://img.ksl.com/slc/2872/287227/28722782.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
         isCached: true
 
 secured: "RqI3a4x09hrNSdOvBm0sGtZGf2IaOKZqrIVfST0RY7YIbGR8HiEdqv4fnVLk2J6Ontx0CMqr0AXpZNcvZhIkzZGcmJFnq/THiQB3D1hjKz5EYw1JJXHQGQIXKL6QbCnevcMyfbbEllJJsW8EgJQvba9Tl4ScxTAWHSQPPqsduRXkZ15LOa4h7wJiya+jeFgvMM6EaPd2vacAA/LMX1YvV5rf/mlVTXc9gf1/vKnurhNc2uyjDQalotOfPwI2gaQGWNXCLvQox9P2ombDF8MlBpfxfxiacEePyJCGNpZ1cFcRNIcZshUKstPZRfUs0bGPBO+7MaYsRW3yZuSnDnLkNYhPuwziIGvrVaQtYDNQiSe/T7W/HQE9mgIvnuf4OmWbEAOQUheXxioKKHDBWBHqaZq9O93RYt+R/gYKVzns/EMsaq9uzTWcaDK0BEKFrc00GDXReG09/rNoQwNga96bk4z/zAd91p3gx+6IC76Sq69nDmxip7JkK/dj4LCjFbTnowwM9tBm//S7jBnNwZm99Q==;6gaM/2XnwBpSv6a400U3ew=="

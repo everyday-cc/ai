@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/david-vs-goliath-does-chinchilla-fare-well-against-google-ais-palm/"
 webUrl: "https://analyticsindiamag.com/david-vs-goliath-does-chinchilla-fare-well-against-google-ais-palm/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

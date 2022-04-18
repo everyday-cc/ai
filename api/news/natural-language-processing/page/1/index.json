@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-18-how-speech-recognition-technology-can-help-providers-achieve-the-quadruple-aim.md",
+      "title": "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim",
+      "excerpt": "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
+      "originalUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp",
+      "publishedDateTime": "2022-04-18T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-fine-tune-and-deploy-a-wav2vec2-model-for-speech-recognition-with-hugging-face-and-amazon-sagemaker.md",
       "title": "Fine-tune and deploy a Wav2Vec2 model for speech recognition with Hugging Face and Amazon SageMaker",
       "excerpt": "Automatic speech recognition (ASR) is a commonly used machine learning (ML) technology in our daily lives and business scenarios. Applications such as voice-controlled assistants like Alexa and Siri, and voice-to-text applications like automatic subtitling for videos and transcribing meetings, are all",
@@ -1302,49 +1345,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-could-replace-human-military-commanders-in-making-life-or-death-decisions.md",
-      "title": "AI could replace human military commanders in making life or death decisions",
-      "excerpt": "Conventional AI uses input to 'teach' an algorithm about a particular subject by feeding it massive amounts of information. Practical applications include Google's language translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10669075/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10669075/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/03/30/16/56009563-0-image-a-13_1648654110811.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10669075/amp/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10669075/amp/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "publishedDateTime": "2022-03-30T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

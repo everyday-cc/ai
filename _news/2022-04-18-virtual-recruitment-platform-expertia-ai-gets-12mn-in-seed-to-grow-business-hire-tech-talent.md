@@ -102,6 +102,20 @@ related:
         width: 733
         height: 358
         isCached: true
+  - title: "Expertia AI Raises $1.2M in Seed Funding"
+    excerpt: "Expertia AI, a Bengaluru, India-based deeptech virtual recruitment platform, raised $1.2m in seed funding. The round was led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
+    publishedDateTime: 2022-04-18T08:50:00Z
+    webUrl: "https://www.finsmes.com/2022/04/expertia-ai-raises-1-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/Expertia-Logo-New-Black.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
     excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
     publishedDateTime: 2022-04-14T19:05:00Z
@@ -120,6 +134,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 11
+  - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
+    excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
+    publishedDateTime: 2022-04-18T11:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/blue-spark-technologies-raises-40-million-in-growth-funding-led-by-ghost-tree-partners-to-advance-ai-based-remote-patient-monitoring"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 0
 
 secured: "ohi1qfER9aSWiYmxBIhehH4cz5OjmFa9MKvgB5C/BuvLU57kh9pBCGnnYvgAIzYoO5HCknZ1wSkGBuNhoDjROVENf53nDmKPAHQi2LuUAsoHB32gmIXYU4hD5QGTEgW068K/j6GlFxKdtooZhbdM5mZJSSKJXicdY/bqYkvf/uq/FKexYKSP1hSZV1H7L7cGHvpH4gv055Zh2N8yt2eU17yd+JKo08rtnaZV/nBt22KHsfnn06/sPyaybwLCvTivHq4NYA8jYNxyhOGKYrU5Jedta2pBj6tsnB6oUjn3x3Phg/Nfo417xg1XqH1ukvmSQGBjxzy9e0krwsQiq7dvyphYR4VWI+N07a7K+VlAnRQ=;chUIbhPUmK0o27/ROnry+A=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "ORBAI Announces NeuroCAD v5.0 for Spiking Neural Network AI Development"
-    excerpt: "Spiking Neural Networks are the Generation 3 of Artificial Intelligence that will leap over Generation 2 Deep Learning as the AI technology of choice this decade, enabled by the"
-    publishedDateTime: 2022-04-13T22:08:00Z
-    webUrl: "https://www.wicz.com/story/46287875/orbai-announces-neurocad-v50-for-spiking-neural-network-ai-development"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 54
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/22513378_G.jpg?lastEditedDate=1649873328000"
-        width: 900
-        height: 475
-        isCached: true
 
 secured: "eiX/NM1Xrzo0ItyACOzDeUgIRwaF/hTlUtRRBtnkoMQo845tplbNK/VTXdLz44pcGoJXa7vCmmSdNUULt+bwaMrW/scHLuKBOjQKJLgBTkRhjjy8LN8TqKwe6zJg4gF/i8WgoEKgB5J7NwYHVxx6gwHxhuvCRJrXblg5i1LaH2reannhWDVP+5rbc2NMQSXesTOB4w0JcDeaF9BEECpl9c9rlOKo9oAY62koUfn05IHILW4VJQp9j3tM1kLjzaV5Oj91NkGzAMQz3wKVobG8qhtnr8pAHt+42vyfJfxdhL4LI2Cclp14UbbHre85VgP4TpCFM3sz68wkClX0ZPJHeMjlqiEvTgM9IPERYLvEtno=;3y3dAkzTNqoNJfxMje3MfA=="
 ---

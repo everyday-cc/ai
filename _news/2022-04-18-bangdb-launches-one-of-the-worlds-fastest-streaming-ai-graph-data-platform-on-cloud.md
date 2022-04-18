@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-one-of-the-world-s-fastest-streaming-ai-graph-data-platform-on-cloud-1031361190"
 webUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-one-of-the-world-s-fastest-streaming-ai-graph-data-platform-on-cloud-1031361190"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Business Insider

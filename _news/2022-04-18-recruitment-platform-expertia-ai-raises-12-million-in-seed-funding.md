@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raise
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
 type: article
 quality: 59
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
         width: 733
         height: 358
         isCached: true
+  - title: "Expertia AI Raises $1.2M in Seed Funding"
+    excerpt: "Expertia AI, a Bengaluru, India-based deeptech virtual recruitment platform, raised $1.2m in seed funding. The round was led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
+    publishedDateTime: 2022-04-18T08:50:00Z
+    webUrl: "https://www.finsmes.com/2022/04/expertia-ai-raises-1-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/Expertia-Logo-New-Black.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Virtual recruitment platform EXPERTIA AI gets $1.2Mn in seed to grow business, hire tech talent"
     excerpt: "With the COVID 19 pandemic pushing literally everything virtual, recruitments and HR industry in general, also sped up their transition to a virtual environment. The largest of companies have successfully onboarded candidates through completely virtual processes,"
     publishedDateTime: 2022-04-18T05:58:00Z
@@ -121,6 +135,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 11
+  - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
+    excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
+    publishedDateTime: 2022-04-18T11:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/blue-spark-technologies-raises-40-million-in-growth-funding-led-by-ghost-tree-partners-to-advance-ai-based-remote-patient-monitoring"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 0
 
 secured: "ZiwpN1NgjMw7Pkc3Ta2ZhNpmPHNvYmqi9C925QbBmLAv5cE4FeC+IdLLjzsFyerCnlz2BrUS3ppbNu8s3h1qMY/oy4TLVlwgETwKukPixPmX4N74EAn1iZ1AQPwgv+J0j5gbjgmqvbITPtUVzJ6VdGtoXp9XGtSKvHV64/ZIDXkDiRGF2Dr/OkhNl6ehKBRteKTk0Lp/um0m1CRgD28cgUN6n8XNmh+8Jg8kKNKSm1hshTgtXmV2zZcZ1fuuWGaPBxwrJ+HLoLL7W01KGBQueMdZMSlgjYkvvA8E7cTK02CshU0iDJxVcRXFb5TqfDkWZS9GtANU4u88RQJ31cgk/9DkrU6X0wlVgmz4j273cYw=;47snk1mpwM1oWMBgStakKg=="
 ---

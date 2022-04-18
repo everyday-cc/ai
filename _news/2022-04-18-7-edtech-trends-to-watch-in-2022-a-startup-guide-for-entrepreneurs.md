@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T12:47:00Z
 originalUrl: "https://www.edsurge.com/news/2022-04-18-7-edtech-trends-to-watch-in-2022-a-startup-guide-for-entrepreneurs"
 webUrl: "https://www.edsurge.com/news/2022-04-18-7-edtech-trends-to-watch-in-2022-a-startup-guide-for-entrepreneurs"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: EdSurge

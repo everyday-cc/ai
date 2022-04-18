@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T12:26:00Z
 originalUrl: "https://venturebeat.com/2022/04/18/edcast-launches-zoom-app-to-bring-ai-ml-based-contextual-content-inside-zoom-meetings-for-deeper-collaboration/"
 webUrl: "https://venturebeat.com/2022/04/18/edcast-launches-zoom-app-to-bring-ai-ml-based-contextual-content-inside-zoom-meetings-for-deeper-collaboration/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: VentureBeat

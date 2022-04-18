@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:48:00Z
 originalUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-shows-stadiums-arenas-reducing-co-1554360262-ga.1649908450.html"
 webUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-shows-stadiums-arenas-reducing-co-1554360262-ga.1649908450.html"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: SourceSecurity

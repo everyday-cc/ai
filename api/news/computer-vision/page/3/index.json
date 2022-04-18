@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-16-visionifyais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line.md",
+      "title": "Visionify.ai's Computer Vision Technology to Propel General Shale's Brick Inspection Process on Manufacturing Line",
+      "excerpt": "Visionify.ai, a computer vision technology company that provides turnkey solutions to its customers, today announced it is now a solutions provider for one of General Shale's brick plants. General Shale's family of brands manufacture and supplies high-quality thin bricks for residential and commercial construction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/visionify-ais-computer-vision-technology-to-propel-general-shales-brick-inspection-process-on-manufacturing-line/article_2ccc5b44-9144-527d-95f9-dd8f6189de16.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-solving-big-problems-with-computer-vision-deep-learning.md",
       "title": "Solving big problems with computer vision & deep learning",
       "excerpt": "And the winners were both startups from India. Deep learning solution for hearing impaired Jayasudan Munsamy Jayasudan Munsamy and Arul Praveen T’s DeepVisionTech won two of the three awards ...",
@@ -1295,49 +1329,6 @@
       "provider": {
         "name": "Future Market Insights",
         "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-state-unemployment-agency-will-stop-using-face-recognition-to-check-identities.md",
-      "title": "State unemployment agency will stop using face recognition to check identities",
-      "excerpt": "The Massachusetts Department of Unemployment Assistance says it will stop using facial-recognition technology as a way for people to prove their identity when signing up for benefits. The move comes three weeks after the US Internal Revenue Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/",
-      "originalUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/MGEoWw2TtaWnS4wd5Avgd_eOHj4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3CVOCIQ6SNBZHFBHDJK3DHAYV4.jpg",
-          "width": 506,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/?outputType=amp",
-      "publishedDateTime": "2022-02-28T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

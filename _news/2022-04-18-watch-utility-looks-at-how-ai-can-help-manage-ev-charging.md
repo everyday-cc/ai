@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T09:16:00Z
 originalUrl: "https://www.power-grid.com/der-grid-edge/watch-utility-looks-at-how-ai-can-help-manage-ev-charging/"
 webUrl: "https://www.power-grid.com/der-grid-edge/watch-utility-looks-at-how-ai-can-help-manage-ev-charging/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: power-grid
@@ -14,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "EQZE2joEBa3c15UVGz0ApE3B2Vlqex3ldcf9xuxHmmb3KoBtLoKyQEMTHIKrh7JSpvUuk+bCIGW5uSDZ+B9PLr8svqbJgGOpt6NrUXtE3LefTFByhuaOtj8mOm2RIIx7vkhe77QzfxRnai0kCEH5Epr0tL5YYaMTaqkn1J34hub2ZGCBjfX4/W08klvdus+C4e4tjqd6aJz4Qa92oNPQ9VXfpaTA2oZ9ot4DjMMxvAy7XiWhe2HMbRJ3Ut4qleblWcKbGicjCPgdX4TCy594nbniJiSEGnDU03rXp+87MMbxTMfNigSqvwZ54QOlhygdggdE8mYCjrDt6dDJsOLDd16GFs9KZAv6VfeQez7Q2KU=;r1mmlLUzOint4mpGbeEGlw=="
+secured: "Z0hTa3wYHhB2h0hIWC4WI/cWoMPI9Fu9X5BUjEuWs1/JwgATU63AkdKs49JWC6rUFOQxqZroSb8Bpv0Xy15sfEjXb6eZfhg8H5pzPWAEebtt1P5KtckNtHcs5XeFztQwN2S3/i8d6pvqLzp+x0X7D6xyXcFx6YSnZz0t8ZbzwJmLelmYi2XCMyk8+aVPASVqiMo70rz4T90U7pNb30G/6MwL62sxT6gxLmcIARhZDk4/74nIX3uTKYSyMDmTKdmLXECNBU1tFDfr8Sov1iVOOI7mm+sB+DSxRi60WdNwWq8P1U7ADxV1b1/xltOSgdGF+KiE+7OhuNRy9bXSY7eKVa4EoswUtdgWqC9ue0Q38BqeK+uDCYHtq3n0nehpVKqAJeMiDmQnE/cgbrWwsnlfhf6on7xb/CgN71yRb1k7ARSR6Z1tvKNvfJoyJOYbVSaoVzb4e+fEENNGuZhE0GMSXMycjKXkSDWgOnd+e1NwZzCQ7ScHrl30XCZgCjV9l+RJVu32btKRv9aIMB60CdUeBg==;zRKX3PxpCksN+2LldqS7Vw=="
 ---
 

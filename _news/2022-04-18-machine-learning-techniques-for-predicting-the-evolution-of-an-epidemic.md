@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-18T13:27:00Z
 originalUrl: "https://medicalxpress.com/news/2022-04-machine-learning-techniques-evolution-epidemic.html"
 webUrl: "https://medicalxpress.com/news/2022-04-machine-learning-techniques-evolution-epidemic.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Medical Xpress

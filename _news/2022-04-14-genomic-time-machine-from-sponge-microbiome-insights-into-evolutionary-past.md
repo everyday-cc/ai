@@ -36,20 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
-  - title: "UNH research finds a genomic time machine in sea sponges"
-    excerpt: "The researchers characterized almost 100 sponge species from across the Caribbean using a machine-learning method to model the identity and abundance of every member of the sponges’ unique microbiomes, the community of microbes and bacteria that live ..."
-    publishedDateTime: 2022-04-13T21:39:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949748"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a9732024-7a11-4183-a5fa-fd3a1b6b959c/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "x1lYoEjEYBLWHOaq0yW4a++hJRKylFSZ1MsafngVliXNJBQlysq7fdbHyThuLwMuF88ziIQVUpyhOBc6BXzN+o2IWP8TDbsTxsXsGzmNLmDIyxqvzAA3GdgA6hf/SwdU+t0kgMR0ihlOLJqp+qBY6hUzjz9joohI8fErjpi/78EJKMdGNjZSYeM0Z+MB5lDdsHLTdnpp3vP0gic3Lhhq6tDSeyZQbDximQpZPZ+2RngjF6r9kujrP0VPUnsaJHa43vaizSGzYBy6HmWDGGppByJZge0kW+m/7xGY5lF6D4u6UBj1zG19bszUdipCUZKI5Xfcjpl5+5hvTJUqJ0Ai29G9diu6F7HZexeedn/c45qG+zWZGZg3UODDVHpUuIrKBnC8zDyQUswVqXGBlGU98pVXlUP5m4xbp2V1SXUaw0rM7pU+cHunX2ISwGMeAbM7O3fXba9SVAxbL3nlYI/sBIKKEcpdxOSSbT7eay7fhRtLQ/dACSrXyOxnW1rEwtSr6+gPscEjZWfl80ytHfrtcg==;KxzM+ykdNr0Lb0FOKC5ZQQ=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "UNH research finds a genomic time machine in sea sponges"
-    excerpt: "The researchers characterized almost 100 sponge species from across the Caribbean using a machine-learning method to model the identity and abundance of every member of the sponges’ unique microbiomes, the community of microbes and bacteria that live ..."
-    publishedDateTime: 2022-04-13T21:39:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949748"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a9732024-7a11-4183-a5fa-fd3a1b6b959c/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "WQz1y/38WVBYeqZsaqs7gmQrF5zwKckzlhuf96zxLqD2aT0x7EfWFwxH29KjGE1BKrxij8XWzrABBa46lyRwlAOn2ZMcZ1z7EaTQ12mBcWIciGFJd4vBOQRo+gyaoyDKXlRUw6d38IvgsbN4UpcvFPRz2et8itzuZPypnVjarD3570wQx1Ql/DiE0wnqe5TxBdiXo7ExqfUXSGMsX3AspmuCzaZbSl+hcfcPzyj6rxfWimW7dbsQjQQTwhC6IwBlEgJNO6WZGfC00dQ2NRXoQAfcUmlNAMRzhxxQusJsQS70x8d9dU9jYAZwv+Vvl6qEf/y4aQDeMgazf+duiO9BeJUTz7vhO9vOSw6SxLAmNDA=;gbJdsKt6NUFrkxKb/xeN3Q=="
 ---

@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-14-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
+      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
+      "excerpt": "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp",
+      "publishedDateTime": "2022-04-14T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
+      "title": "AI robots deployed to fill void in senior care. But can they?",
+      "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
+      "sourceUrl": null,
+      "webUrl": "https://koreaherald.com/view.php?ud=20220414000682",
+      "originalUrl": "https://koreaherald.com/view.php?ud=20220414000682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F14%2F20220414000800_0.jpg",
+          "width": 630,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220414000682",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220414000682",
+      "publishedDateTime": "2022-04-14T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
+      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study-1031354982",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
+          "width": 2700,
+          "height": 1845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-dall-e-2-the-future-of-ai-research-and-openais-business-model.md",
+      "title": "DALL-E 2, the future of AI research, and OpenAI’s business model",
+      "excerpt": "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
+      "originalUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all",
+          "width": 799,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
+      "publishedDateTime": "2022-04-13T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-cerebras-wafer-size-ai-chips-play-nice-with-pytorch-tensorflow.md",
       "title": "Cerebras' wafer-size AI chips play nice with PyTorch, TensorFlow",
       "excerpt": "Cerebras Systems has expanded support for the popular open-source PyTorch and TensorFlow machine-learning frameworks on the Wafer-Scale Engine 2 processors that power its CS-2 system. The chip designer says the expanded support,",
@@ -174,6 +364,40 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-self-driving-car-company-establishing-test-facility-in-sc.md",
+      "title": "Self-driving car company establishing test facility in SC",
+      "excerpt": "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php",
+      "originalUrl": "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php",
+      "publishedDateTime": "2022-04-13T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -660,6 +884,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
+      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
+      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "originalUrl": "https://www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "publishedDateTime": "2022-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-zapped-the-grid-is-on-life-support-can-ai-fix-it.md",
       "title": "Zapped: The grid is on life support. Can AI fix it?",
       "excerpt": "Everything you wanted to know about our fragile, ageing, and increasingly unreliable grid (and how AI may be our only hope).",
@@ -880,291 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large increase in short interest in March. As of March 31st, there was short interest totalling 16,800 shares, an increase of 217.0% from the March 15th total of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/",
-      "originalUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks13.jpg",
-          "width": 1024,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/",
-      "publishedDateTime": "2022-04-12T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-prometheus-ai-removing-the-guessing-work-and-replacing-it-with-predictability.md",
-      "title": "Prometheus AI, Removing The Guessing Work And Replacing It With Predictability",
-      "excerpt": "Today, the cryptocurrency is worth more than $78 billion, with over 30 million traders worldwide in the market hoping to generate a profit. Yet, 90% are in a position of financial loss. It has led to many traders believing they need to upskill,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/",
-      "originalUrl": "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/04/Prometheus-AI.png",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/amp/",
-      "publishedDateTime": "2022-04-12T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm.md",
-      "title": "AI Weekly: Google sets the bar for AI language models with PaLM",
-      "excerpt": "PaLM (Pathways Language Model) is the first outcome of Pathways, Google’s new AI architecture, which aims to handle many tasks at once, learn new tasks quickly and reflect a better understanding of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/amp/",
-      "publishedDateTime": "2022-04-12T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-fiveai.md",
-      "title": "Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai",
-      "excerpt": "“I expect that to start happening as well in the next year.” (TechCrunch+ is our membership program, which helps founders and startup teams get ahead. You can sign up here.)",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024",
-          "width": 1024,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/",
-      "publishedDateTime": "2022-04-12T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe.md",
-      "title": "A future without fraud: The latest advances in fintech that keep your money safe",
-      "excerpt": "Technological security advances are being used to fight fraud in the financial industry including AI, biometrics, and virtual credit cards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "originalUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-why-regulating-ai-is-a-mistake.md",
-      "title": "Why Regulating AI Is A Mistake",
-      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
-      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Quantum Computing, Virtual Reality, Artificial Intelligence and 5G Growth Opportunities and Innovations 2022 - ResearchAndMarkets.com"
+    excerpt: "The “Growth Opportunities In Quantum Computing, Virtual Reality, Artificial Intelligence, and 5G” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the ICT-led innovations in quantum computing,"
+    publishedDateTime: 2022-04-18T12:24:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-919dd58b71e94e369313667aeb258cd1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
     excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
     publishedDateTime: 2022-04-15T11:33:00Z

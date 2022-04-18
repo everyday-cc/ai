@@ -76,20 +76,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "India has been at the epicentre of a global lab testing environment which has ushered in a new wave of technological advancements leading to the creation of s"
-    publishedDateTime: 2022-04-18T06:06:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272490934/lendit-fintech-hosts-india---the-world-fintech-lab-session"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1650262494.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
     excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
     publishedDateTime: 2022-04-15T13:30:00Z
@@ -99,6 +85,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+    publishedDateTime: 2022-04-18T04:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lendit-fintech-hosts-india-worlds-fintech-lab-session-/2022/04/18/9583950.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "ZWf+HzMWLJzrU2i1EXNe9oPoeAjZrwy9UOJd4XNgTvKtw9MaKH8jP94xmknZg+iPyBT3PAWh0DuLIShjLITB2/iCDEzzFyyPp4OmBJyrl0LWxrpRsrKSFSV+AQPH/FnMK3QeMg9eK0BPx6Vcyvn6K+RoAtM0m9qwWOk7+CATmNDVw11NbvvdgD2yl7w/k5TYQlo6FeAXwqNaBnYGMDEToWQOenMjEeCLUQePbbWb5mdEa53+GpUMAYHgBECLR6ENi+z/ncKC1GKidTZOt7s1T/k8CD4mRsuDSa5HJ+KEYHv8AQuUJA+fAz3KQRd8RXQUqPrwD+VQAwL0AA//GevGQbcenjX1fcPQmeHZLMKkBjo=;Ry8NB4xUR25vctDjo7oEUg=="
 ---
