@@ -2,7 +2,7 @@
 name: "Winterlight Labs"
 overview: "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050."
 type: "profile"
-heat: 50
+heat: 64
 
 website: https://winterlightlabs.com/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "87uEzo96WoHkaWWak5a8a1K15uqkBw6qBLSYbVYjcWgELUmHDny+oS4MO3AOZ8gG3GB1K5XoIiv8rGsYzn9PR2FEgUtzntU2e1kkxuvMhoNirjKGQ1fFBS/ncOZ8SHJ288YbcWu/WGqIgnh53squ9F0ctaHViHmvAi7vQh9yGC0NS9ayhwfp+YC46xpSB/0789NhP2UUYhp+eCrHjc3yk7BvLSjp0s/a/9k0P3kU0IvExlR07f9ZvDMqioi/QcCd5vuOVMDK/qXacOZswhm2iB2g1FfboQd18lqG2QyCpAhyYseMmftvt/KxWmjJOuBg+lou8wpacYgLh0hVROjzfqlYYqBNZttG11urnMMpB40FRQBlL8IYxonY5rnqob/2r4VBoq7Sokcxox6pUxxqaA==;rp3HajS21yyF7yRj+ZS0+Q=="
+secured: "8L+omu2mqjXj6W4Z5TFav2TN05EhT4BpGI8rkw1lPRQCJpktQ9NV6SZW0Oy2I44mBbZ6JnA67pXAO81C2VNNeCqXTvxvZ7SPfzPdEtgV2nCDBq8sm+z0Gslrva0caWR7otHUfE4AXR41/fMwIoW177Nks9DoV7MwUSIXdiomdu0eZi8ZUBCxPIjpfZi+Rcrh/FqAVZABkaNIIYqdMybbODvCeJFK/DbzvBEjcETjQ8k3d3hWiDha3OzqBgYiG9jydo9E4aV8FPkfaan0vy1vwH2WYmCPz4n/GdBJGM+z6heanQ9LyHa7chP15HX1PI7fs96G8WTLhLpu/ox+pYlAkkHB1vZjkBxeSOM8vgvpwgVcF65oZMZ5fclhu7yHlvmKAUhSw+L6GLu27gxpFpK8cQ==;Q4fn331VeH+nFUIDtdVvYA=="
 ---
 
