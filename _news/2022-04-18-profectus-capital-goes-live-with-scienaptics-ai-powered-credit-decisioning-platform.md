@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Profectus Capital Goes Live With Scienaptic’s AI-Powered Credit Decisioning Platform"
-excerpt: "Scienaptic AI, a leading global AI-powered credit decision platform provider, announced today that Profectus Capital is now live on its platform. As a part of Phase-I implementation, Scienaptic has deployed its credit decisioning engine and industry-tested scorecards for Bureau data and Financial Statements to enhance small and medium business (SMB) loan decisions."
-publishedDateTime: 2022-04-18T05:57:00Z
-originalUrl: "https://itnewsonline.com/BusinessWire/Profectus-Capital-Goes-Live-With-Scienaptics-AI-Powered-Credit-Decisioning-Platform/28331"
-webUrl: "https://itnewsonline.com/BusinessWire/Profectus-Capital-Goes-Live-With-Scienaptics-AI-Powered-Credit-Decisioning-Platform/28331"
+title: "Profectus Capital goes live with Scienaptic’s AI-powered credit decisioning platform"
+excerpt: "Scienaptic AI, a leading global AI-powered credit decision platform provider, recently announced that Profectus Capital is now live on its"
+publishedDateTime: 2022-04-18T06:18:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/profectus-capital-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
+webUrl: "https://ibsintelligence.com/ibsi-news/profectus-capital-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
 type: article
-quality: 10
-heat: 10
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: It News Online
-  domain: itnewsonline.com
+  name: IBS
+  domain: ibsintelligence.com
 
 topics:
   - AI
 
-secured: "ee93lB2iPNZ8kVPghWvUJ4yKI9NMu/JUsVFZAMXsLoIPMR6hePP6srFY6ioz51WdEjpzgNlrYrWObpBDy3S55GDwgto3Z6yneXgpIVU1f1suqRw+4FzNb3/qyUJAgcBq5jMj73G4yIJnNYH0vCRe+W5s6w1Ff8TVxcRY3xw/IuCxTUl0KoUNY+Ul7HWPwoo5SVZucDhX2KW7IZE/7Ro3R4gmi4RbkKLFTbbdaorPPnSMGKKnLOGjEn5kRH3zm4m5IZqbn95VuDd2/reewahyZmI/X8Be/wlqIGjBb27YW5EJqxU5yuOviNrs2D27p73iUKj7l8tkJ/jkf6DM0qECODRX2ij0RLX3QcHU2eugO64=;dHCdQPFnDuRb27DFyEFu4A=="
+images:
+  - url: "https://ibsintelligence.com/wp-content/uploads/2022/04/TM_Ad-1.jpg"
+    width: 450
+    height: 376
+    isCached: true
+
+secured: "bcV2ybDO+CKAMM6T9UfKcOIa1l32sh7FrDGlVUkQYp1WcNmKDCkW3etSowrcOUysBoik7eDFwubjo9ci4QSt4PX036cm+vvF8iGD9OfvWfKV7jU64mS+xrFeeKC69HEzzbVWD+gXspYOkFKt8moN9jFAO1nWziJLkLUc35Qubr/vl4GJXGUzpF5VydVoSb3CsJbiYTaUtrOxo0Hi9qpig8BC7hOLy5kcWIlgnS9dG+WgiMfksGHrajy6ud844s3zQZBoGr849Tbg81TUDVd3sSWC6cBcDf4P941zpmZeI8nvsNxfYdLJB5orBY/gWHpiPxzRxPcahXnbXVxoBYsL0yShUMZavDy3sahAhJmLazc=;YXTNu/KrieC7Cce2O105SQ=="
 ---
 

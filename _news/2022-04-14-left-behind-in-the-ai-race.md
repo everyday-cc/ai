@@ -25,47 +25,80 @@ images:
     isCached: true
 
 related:
-  - title: "AI And ML Think Green"
-    excerpt: "One powerful subset of AI is machine learning (ML), which involves not predefined instructions and fixed algorithms but learned patterns over artificial neural networks. Developers have used ML to ..."
-    publishedDateTime: 2022-04-13T13:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/13/ai-and-ml-think-green/amp/"
+  - title: "Developing countries are being left behind in the AI race - and that's a problem for all of us"
+    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
+    publishedDateTime: 2022-04-17T05:00:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/articleshow/90889503.cms"
+    ampWebUrl: "https://m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: India Times
+      domain: indiatimes.com
+    quality: 49
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&width=1200"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-90889503/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "View: Developing countries are being left behind in the AI race - and that's a problem for all of us"
+    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
+    publishedDateTime: 2022-04-17T05:13:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 46
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90889752,imgsize-68408,width-1200,height-628,overlay-ettelecom/view-developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us.jpg"
         width: 1200
-        height: 848
+        height: 628
         isCached: true
-  - title: "Deep Science: AI cuts, flows, and goes green"
-    excerpt: "TechCrunch's Deep Science column looks at the past week in scientific research. This edition touches on AI applied to recycling, among other topics."
-    publishedDateTime: 2022-04-16T14:00:00Z
-    webUrl: "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/"
-    ampWebUrl: "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/"
+  - title: "Developing countries being left behind in AI race"
+    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
+    publishedDateTime: 2022-04-14T08:39:00Z
+    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
+        width: 600
+        height: 480
         isCached: true
-  - title: "Unlocking the Business Value of AI and ML"
-    excerpt: "One of the most common mistakes companies make with AI/ML projects is starting with their data or accessible capabilities rather than a"
-    publishedDateTime: 2022-04-13T13:22:00Z
-    webUrl: "https://enterprisetalk.com/featured/unlocking-the-business-value-of-ai-and-ml/"
+  - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
+    excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
+    publishedDateTime: 2022-04-15T13:15:00Z
+    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/sitting-out-artificial-intelligence"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 34
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/20516463898_9f73728fad_k%20%281%29.jpg"
+        width: 1222
+        height: 687
+        isCached: true
+  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
+    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems which filter spam emails and identify toxic content on social media,"
+    publishedDateTime: 2022-04-17T19:29:00Z
+    webUrl: "https://www.dailyexcelsior.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 27
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/04/3-35.jpg"
+        width: 1200
+        height: 887
+        isCached: true
 
 secured: "dxZP0VH1CmkFr0a+CBXR2SXJtIRYFd9VaSSW3WZZBWGtrSfzZl3n5+qGImBvFfAShURxt213E7l8s137HSN/v9T30VTUU4iNxTrY2c4m0wCrNhq/fVnFVCrqpWxGfsX04mVsYtNsqlqi+FGrRagQbsSZAwuKeZ9+Ic+YLyLPR9aNubee648zFRO7wCSHFj2wX3BP18EXE1r70AoJEcg6jOMNzljKKItlRtzhnl5vUajoyzYEgJ00AQMemjVXcEuwdOOLO/e2zy+MiUfG2B8uu2vTceZ590L806moOMJ+8NKOCg1RgiU/PqfEgLV09Ir8o5ANmcmvUJ8huieNwv915HP70vg3AahUX6dfKDXCcwTVjXu7+09bKIMdakHBZcCtMqYZDONF/edZmSESTZY6/sLBfXGRrcYOZ/prFw86EF4tIl5W4xzAwrYJyraB3ply7WT5tEHjITW9F977MwmWv2p8DIvpXpW5WPtjgpRiBYXDdeXLofL2V6gM+mYHzt7w+MgkTkqQmH0DgrVOoCY1NQ==;ducASGyIr6mu1Uw6LZ8tUg=="
 ---

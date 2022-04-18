@@ -84,6 +84,15 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+    publishedDateTime: 2022-04-18T06:22:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220418/3932453.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "VGsbkF+Mm6OeLt687aXjc7cHlmAvFzwGJVzHPq6/2QBgauwk/YllenxqEIc8vef43RlYPn9Rk3ltQFr6dp1lZm/WnSPdsDYIBSJOEpPHA4gkwxDBcS/RIzec9WMAoa0jEJ2YIn+NzqA9zkXBse2R+34EZLQLHBf6f1Lz/9U+JJqa7g8odNJGQ1ipZMTD6aWQu/jd4yFrHzxaKbfbnPV7jKq29gFnxLY+dsIjt7ZFKCEUBU3y/3z8SU9BU1UvD10pUxXoBAxJCoSx6mXpnvd/4+u42UHfgkNGDxt1dpW3zU1LleXoW/f/uNo3d5K7CCJhH9HbLgx9lPhg8e8vSTbHMTMO8RGmkBZ7dPdt9jditxes5HNnuV1UmRgc+Zic6BCtxVWrGN7Pn1xCfjeMDzsnn5lS+3pNupIW9d76erwNUiW3Ah5hLDM1KZ5YaOUwrk0TaUg+e7xTtdFGbhI+c6VBpGYyVmUcyIlvi5A53jlCrw4Pvjg0fr7T0QRj5C36TGWuhlfGpbaq3ghXfeoixh/pLw==;W+Aqt6lhnzaNKgsWCo4WRA=="
 ---

@@ -85,6 +85,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
+    publishedDateTime: 2022-04-18T06:22:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220418/3932453.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "cjvzImQT1HyNb7wAIL4EbLYqzPvhNdecPd1zp+vi7skhPiEKpggjwQNi9wMpcaTktbdwYnwJm26VqI+0r3KRN8en5QT2pkJn5SAtRgka93XKKzCHo77J4MBs+PdROB/Qp8bZisA1OiGkLrEK7QLdyAoZeHob7l/l4gD18ZLINpH05feChYr9AHpeiT2p3EmwsQMEi7SRo/hM+qjPVb/U98wYNpAmTNreajv7wQmmido9GVzhCzLCZzIMa2osbVd6QoAbZNPaBtWdnKxjehqiWmD5GSqwJzMda6RY4M8qCP7GV6QN30ulcLmgg4el+7AYbHaYvoKcbulAfKRkioJouVgw2Sz/47fcAESef35AmeO5guf54nka4yF0NcqDAxlaPdpX/0SKWXpmJDKVRRMHdJWTcdF/kCZGo+47VUnSpof63sDlY3w7mChTxzWLfK5R03P4ISa2gN1Fe8LHolcCsNlaqVzNcQ/JawraFbXVh9FLWXspYY0c6PrGGMZQOMSVxAcxqZKnooIztU011FDAeg==;xEh4HBsoW4eC1Hhb1qfAxg=="
 ---

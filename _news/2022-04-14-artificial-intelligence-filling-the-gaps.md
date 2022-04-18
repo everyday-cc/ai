@@ -64,15 +64,6 @@ related:
       name: Entorno Inteligente
       domain: entornointeligente.com
     quality: 31
-  - title: "Robots are creating images and telling jokes: Five things to know about foundation models and the next generation of AI"
-    excerpt: "If you've seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
-    publishedDateTime: 2022-04-13T13:30:00Z
-    webUrl: "https://techxplore.com/news/2022-04-robots-images-foundation-ai.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 10
 
 secured: "CuGli0jVHApKq9/LNDGl64Te+IAUUoy/nsXJ/tBmNqD686WCnXKmai+A5zzmjCNw/PpvgX8c0qBjf9gS+90zaa4ISI/MxqpjBzi6q0oNjfp7r9X1NFgtUDTfSK8F4eoxOBcfoCQybJRdrKtmBMAaNYV17iiuI7yM/IOwFAQEmA5DP/PSYPBdDLBGrd415HBd6HVw4bp8RS+181XCHPTahJKr04GpwtmKoAdfRfFRfIxqx5/JhqEIUlKibpGemYmrZvbIFn4UeMW69dO4PFJWmrc7paecFJ+ZA2hV7kKBdtW7r8PTtCIvk5wcV6LpsjHnXZ4Mj1S5J0A/U+i+am/spRbH6NN0AHbrXTTq2NkWrr1rj2hkF2rv6pKn/LfCr3rmmOolACZnLeQKHXrEktUW+u8cnb1i4ic+Ze6ffdQo20ZvkFK0fRgJFkNiR/09tETSzGtdUY0tgpSvuV2YHVFhXEa0Vm25WbGs+Ez4X5NySZppLdvWVMgsT+H0kdXVnCSH8YVH7hxxoipu1gQvoec3GA==;OsAoCCmI0Ft72wpwGUNFlQ=="
 ---

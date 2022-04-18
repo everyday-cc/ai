@@ -71,6 +71,20 @@ related:
         width: 600
         height: 480
         isCached: true
+  - title: "Left behind in the AI race"
+    excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
+    publishedDateTime: 2022-04-13T18:00:00Z
+    webUrl: "https://kathmandupost.com/columns/2022/04/14/left-behind-in-the-ai-race"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 39
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/thumb5-1649949962.jpg"
+        width: 900
+        height: 550
+        isCached: true
   - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
     excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems which filter spam emails and identify toxic content on social media,"
     publishedDateTime: 2022-04-17T19:29:00Z

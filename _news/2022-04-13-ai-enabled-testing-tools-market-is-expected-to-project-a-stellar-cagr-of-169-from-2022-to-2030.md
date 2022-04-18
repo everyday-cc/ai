@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-
 webUrl: "https://www.digitaljournal.com/pr/ai-enabled-testing-tools-market-is-expected-to-project-a-stellar-cagr-of-16-9-from-2022-to-2030"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Size to hit 46.9% of CAGR by 2027"
-    excerpt: "AI in computer vision market is expected to grow from US$ 9,039.5 million in 2021 to US$ 95,080.5 million by 2027. The AI in computer vision market is"
-    publishedDateTime: 2022-04-13T14:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-size-to-hit-46-9-of-cagr-by-2027"
+  - title: "Text Data Collection and Labelling Market is Projected to Grow at a CAGR Value of 17% by 2031 End"
+    excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue"
+    publishedDateTime: 2022-04-15T05:27:00Z
+    webUrl: "https://www.digitaljournal.com/pr/text-data-collection-and-labelling-market-is-projected-to-grow-at-a-cagr-value-of-17-by-2031-end"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 54
+    quality: 11
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7b75892646023b189622c4144f3bf19df0c67ef0-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://i0.wp.com/linkewire.com/wp-content/uploads/2022/04/8-3.jpg?fit=595%2C495&#038;ssl=1"
+        width: 595
+        height: 495
         isCached: true
 
 secured: "WDZfz5HK0RW83Cavq2b0Q/1ewzXMN5FcXJJU2Pv5qjnJgyOzLbWknVnAJk1ZPHN2asPXdzO91ISb6XX/26P6V/Xa/N8bpTBAwcEefo8hPL13A9VFo7pdgj/vcx8uIzfVm5sVxWXe6+cb/jx63/nzpj89a/DVyxs0dz+9KaGva2drx48UhZOTuSFeXE4BnpLFJmHSiqXltd93FrZgCqnylWngD8ZPTrdMxVtfnK6YwQ/XwL2cRVjeZZ/rwtLY8lCfP06XRxNY6BnVEtr/6smcqUR7c9+YEstHVpm1xZX5PhyXJ5141YCTKWQyPalwh/jLvS9w4Q5IwMe2KobVELbuuRex/DZIazr1qJZptRP/gmY=;BMjHRYnJP91JNCfV11zMfw=="

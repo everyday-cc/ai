@@ -2,6 +2,144 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
+      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
+      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
+          "width": 3024,
+          "height": 3236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
+      "title": "Microsoft announces auto-generated captions for images in Edge",
+      "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "originalUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1607862765_edgenew_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
+      "publishedDateTime": "2022-03-17T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-how-ai-is-a-great-tool-to-improve-your-business-search-results.md",
+      "title": "How AI is a Great Tool to Improve Your Business Search Results",
+      "excerpt": "AI can also assist with search engine ranking page analysis, keyword research, and much more. According to statistics, 30 % of businesses that used AI in SEO reported a 6-10% revenue increase after implementing the technology. Notably, AI has significantly ...",
+      "sourceUrl": null,
+      "webUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
+      "originalUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gisuser.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-10.04.35-AM-1024x678.png",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
+      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
+      "publishedDateTime": "2022-03-17T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gisuser.com",
+        "domain": "gisuser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-microsoft-edge-can-now-generate-image-descriptions-for-screen-readers.md",
       "title": "Microsoft Edge Can Now Generate Image Descriptions for Screen Readers",
       "excerpt": "Microsoft Edge is now capable of generating automatic images descriptions for users browsing the web with screen readers. The accessibility feature uses Azure Cognitive Services intelligence to generate alt text for web images that do not include it.",
@@ -965,125 +1103,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence.md",
-      "title": "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence",
-      "excerpt": "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
-      "originalUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Week Europe",
-        "domain": "silicon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-the-most-valuable-use-cases-for-artificial-intelligence-in-web-applications.md",
-      "title": "The most valuable use cases for artificial intelligence in web applications",
-      "excerpt": "Capable of automating manual tasks, AI can lead to smarter decision ... a web application (such as Google Lens or Google Translate). At the moment the big breakthroughs are related to images and language, so web applications processing these are the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "originalUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/03/most-valuable-use-cases-for-artificial-intelligence-in-web-applications.jpeg.optimal.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-face-recognitions-staying-power.md",
-      "title": "Face recognition's staying power",
-      "excerpt": "Facial recognition's deployment in everyday consumer devices, like iPhone's Face ID, has accustomed much of the public to its use. A Pew survey from 2019 showed that a majority of U.S. respondents trusted law enforcement to use facial recognition responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
-      "originalUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/Fh1y13RZxNbIVY2Ec-cVVh3P8AM=/0x0:1920x1080/1366x768/2022/03/16/1647467072256.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

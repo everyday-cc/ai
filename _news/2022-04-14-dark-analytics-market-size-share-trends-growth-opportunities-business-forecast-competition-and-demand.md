@@ -49,20 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Interview With Andrew Root, CEO of Leading AI And Fintech Firm Galaxy Trading Analytics (GTA)"
-    excerpt: "As people look towards the future of digitalization, the world steadies itself for an exciting and fresh financial landscape. Today we feature Mr. Andrew"
-    publishedDateTime: 2022-04-13T14:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/interview-with-andrew-root-ceo-of-leading-ai-and-fintech-firm-galaxy-trading-analytics-gta"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.abnewswire.com/uploads/0c1ef4fca18fa65a1de56be4bc17c404.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
     excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
     publishedDateTime: 2022-04-15T14:30:00Z
@@ -77,15 +63,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Adaptive and Spark Compass Announces Alliance - Combining Data Governance, Analytics and AI"
-    excerpt: "Adaptive, Inc., a leading provider of data governance and analytics capabilities, and Total Communicator Solutions Inc (TCS), aka Spark Compass, a leading provider of Artificial Intelligent capabilities to identify and analyze patterns of enterprise data,"
-    publishedDateTime: 2022-04-13T13:02:00Z
-    webUrl: "https://apnews.com/press-release/Newswire/technology-business-01a097b6bcc366926ff617917cd4ec97"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
 
 secured: "CIoqrArJFU/BA5vdZQmqEs3/jLCdbdE1DnD9pFujmAijYOmKWjoY0jQ6BUeY5EsjcXrYUuazoBIFQDit7A5rH0vDGKmtONtUMixdyDbOI+mt3sls43ggkddi4Gu4J6PwiXvaFNM0879/cgT+GYuVeyjkjNFoX0gBHaKDr7V/dObGLTsPk4diXxnMPsOZmoDwvPYBqa7iPLjopYhAuxKQsA7O8oZe6YRutiAUxYMwE2nCvxKG/tvIKZzVeC/9zk4pqui3RazrJYthgnZaf0woMR+zIx6+YA2P2r0Mqn4DeN0Jx/kR17WA5RV20vhCFsq3WN2Q7B/xaEviXuo5n2htw1qn1bjKvMM9sRB2qxV03Eg=;Rvl6q1h53gY6Auhw/rUY8A=="
 ---

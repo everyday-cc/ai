@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-18-expertia-ai-raises-12-million-funding-led-by-chiratae-ventures-endiya-partners.md",
+      "title": "Expertia AI raises $1.2 million funding led by Chiratae Ventures, Endiya Partners",
+      "excerpt": "The HRTech SaaS platform plans to use the funds for assembling a team of AI researchers and software engineers and creating brand, product awareness in the Indian market.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/articleshow/90905770.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/articleshow/90905770.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71380,msid-90905778/expertia-ai-cofounders-kanishk-shukla-and-akshay-gugnani.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/amp_articleshow/90905770.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/amp_articleshow/90905770.cms",
+      "publishedDateTime": "2022-04-17T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-ai-supported-co-bots-the-next-transformational-wave-in-surgeries.md",
       "title": "AI supported Co-bots: The next transformational wave in surgeries",
       "excerpt": "While a lot may have happened, AI is still limited to automating the administrative tasks of the hospital, collecting the e-medical records, and runni..",
@@ -44,6 +86,57 @@
       ]
     },
     {
+      "path": "_news/2022-04-18-why-you-should-use-ai-to-write-your-businesss-press-material.md",
+      "title": "Why You Should Use AI to Write Your Business's Press Material",
+      "excerpt": "Press material is a form of marketing material that's specifically designed to be distributed to the press. Press material is not only used for marketing purposes, but also for public relations. It gives the press an overview of what your company does and who you are as a company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/417465",
+      "originalUrl": "https://www.entrepreneur.com/article/417465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1649708992-GettyImages-1225909157.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-17-a-novel-ai-technology-predicts-if-and-when-a-patient-could-die-of-cardiac-arrest.md",
       "title": "A novel AI technology predicts if and when a patient could die of cardiac arrest",
       "excerpt": "An AI has been trained on raw images of patients’ hearts as well as patient backgrounds to predict if and when a patient could die of cardiac arrest.",
@@ -52,7 +145,7 @@
       "originalUrl": "https://interestingengineering.com/ai-technology-predict-cardiac-arrest",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -94,7 +187,7 @@
       "originalUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -170,6 +263,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-deep-science-ai-cuts-flows-and-goes-green.md",
+      "title": "Deep Science: AI cuts, flows, and goes green",
+      "excerpt": "TechCrunch's Deep Science column looks at the past week in scientific research. This edition touches on AI applied to recycling, among other topics.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/",
+      "originalUrl": "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/",
+      "publishedDateTime": "2022-04-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -772,7 +917,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/424896",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1030,162 +1175,6 @@
       "ampWebUrl": "https://venturebeat.com/2022/04/14/dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/dont-be-fooled-by-ai-washing-3-questions-to-ask-before-you-invest/amp/",
       "publishedDateTime": "2022-04-14T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-roboticist-shares-why-she-loves-working-at-boston-dynamics.md",
-      "title": "Roboticist shares why she loves working at Boston Dynamics",
-      "excerpt": "someone asks if humans have total control over the talented quadruped. Reassuringly for those fearing the robot uprising, Moreira responds: “Yes, Spot does not have a mind of its own. You have a controller where you can directly command Spot, kind of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
-      "originalUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/roboticist-boston-dynamics-2.jpg",
-          "width": 904,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/roboticist-shares-why-she-loves-working-at-boston-dynamics/?amp",
-      "publishedDateTime": "2022-04-14T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-idme.md",
-      "title": "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me",
-      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "publishedDateTime": "2022-04-14T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds.md",
-      "title": "Let’s (not) get physical: How satellite AI can improve human work speeds",
-      "excerpt": "Industries tend to rely on more traditional methods, but satellite AI can eliminate manual labor at a fraction of the cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/",
-      "originalUrl": "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1328338202.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/14/lets-not-get-physical-how-satellite-ai-can-improve-human-work-speeds/amp/",
-      "publishedDateTime": "2022-04-14T14:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

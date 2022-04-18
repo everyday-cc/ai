@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Left behind in the AI race"
+    excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
+    publishedDateTime: 2022-04-13T18:00:00Z
+    webUrl: "https://kathmandupost.com/columns/2022/04/14/left-behind-in-the-ai-race"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 39
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/thumb5-1649949962.jpg"
+        width: 900
+        height: 550
+        isCached: true
   - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
     excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
     publishedDateTime: 2022-04-15T13:15:00Z

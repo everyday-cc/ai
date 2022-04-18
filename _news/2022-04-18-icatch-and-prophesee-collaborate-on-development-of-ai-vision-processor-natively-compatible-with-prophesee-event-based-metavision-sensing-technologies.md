@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-18T03:28:00Z
 originalUrl: "https://digitimes.com/news/a20220418PR200.html"
 webUrl: "https://digitimes.com/news/a20220418PR200.html"
 type: article
-quality: 0
-heat: 0
+quality: 2
+heat: 2
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://img.digitimes.com/newsshow/20220418pr200_files/2_b.jpg"
@@ -24,6 +25,6 @@ images:
     height: 426
     isCached: true
 
-secured: "88NfuN8H07yL6WMt4SBL6pWYeV0RjZmDjQWyedaf3WX1a63skRMu3jiDnO1Qou2cpsDpZG+ZIMHUrDp7ejJ+mrIijVdPZRl3tn6VZN0bd5cpOjLmEaIwg7WAw4LeDl/OSCrp9BMc60Hle9caGarcqyg38ur8K+mRwB8Tktsvl/fwmPHtDM9oTnBxqOu4ffT8++/iN3CtrnrxSXLgrUKNaSHZqtcaMjXMKQVm3SbVZMWz+YAL6iKDW0bNm3sxIpCTvZ3H5+hfza7HGlMfg0MH7AgSt3jMVHZAKkilX3MFBwS4XrP2QVkY/NVj7DgJLN0KZLr4KXJ89cZ3YoS7EItKVa/6IjrzEXCxPx4iywaToKE=;Q1tY3fMB/T4KjYkjtne5FA=="
+secured: "WjP2KT2FcpBACTNWm/GpKswer5pFTPo0Nt6g6//xW7XfeIsaYrZhKyoJewJ4fei9qeFTIxIear8Sa0qc42UjgLdTp04AkmIoeD8fkqrKHd6xCwevEdM0Ptn+6vBY/JylJ1SeWYAuPSDpACNEHyPZWO0YKY0N/Tnl0gawPXdaVEJrVJoo7sVa2FzJuRKYLcySrVL1D9lRAE9XOgzwwbEAtg1bqQEeO/A93cQqI6jh+co2s2XQQuXQggJkuRyAqjntcEwhJrKCcWIoo/k9jQSDbyx37uLUXbsxINtiRusw9TrhT6yRO3/80U/VLiP8eC0gh5J0d8nuCqWu6vqFKElcjxdt1v5XO9HboKJ1Eq8rtPKniG9NTMkL0bg4bA8JymlHf4EaDLDXaTukMCBrDWvsWz+6IW41sngWbsddShnfacOodvIBd8O70R60lXN/eAvUQWk95bK8Ihx1uo/F2Y9fuMMhJseC/DRZ+kKW9ZpgCidxU9q6LNzjj/Am8EMdYoSRevpRUlb+7HDuvDwaj1IOKQ==;4cEE52LIdw/scDL4hcCFXg=="
 ---
 

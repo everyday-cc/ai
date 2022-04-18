@@ -2,23 +2,27 @@
 category: news
 title: "Why You Should Use AI to Write Your Business's Press Material"
 excerpt: "Press material is a form of marketing material that's specifically designed to be distributed to the press. Press material is not only used for marketing purposes, but also for public relations. It gives the press an overview of what your company does and who you are as a company."
-publishedDateTime: 2022-04-18T00:01:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php"
+publishedDateTime: 2022-04-17T20:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/417465"
+webUrl: "https://www.entrepreneur.com/article/417465"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/25/17/26/22345107/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1649708992-GettyImages-1225909157.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -40,7 +44,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Automate finance and accounting with AI bots for your business and CPA firms"
+    excerpt: "Robotic accounting makes life easier for everyone. And if your business hasn't jumped on the Robotic accounting train yet, you will once you learn what a difference it makes."
+    publishedDateTime: 2022-04-13T20:00:00Z
+    webUrl: "https://www.ksl.com/article/50386299/automate-finance-and-accounting-with-ai-bots-for-your-business-and-cpa-firms"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 53
+    images:
+      - url: "https://img.ksl.com/slc/2872/287227/28722782.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
-secured: "oHaH3TmetTylY60/3rnp8COxdzNikfqff+rK4bhGoYD4EvbX6mpfT1uLryF6Eh/os51Pt5xoTcI+Jdx65oS9KaBokgRvgb3YezoBDnScz+8jggAcPjaORA/vyX6wAhEwSJUL7P3KSuIGTEUmFGuQUXab4fJoOR/vAL1JpUJl3F5duTLPe+LBUpAcPYcCgPtjOq1H55yD3HDELLd+7egIOlXikdh8CRrYtdJdjIGblqLyRJuSGQN2VkLqDIYweGliyEF17TRBPnSkk1Elbxz/atOhutRU01ScBf2jOTd2xWxJD1yjD+v//Eu3yTF8maf6Az/fcpzSl0xzTaBmtQ+smXxtw3cwT8LTcwQdrKnXfIo=;93t/V/p4BinxvWnY7WKv0Q=="
+secured: "ZyNfcibjow3lCU6cTSOqbWH1G6EuuSw2fO9RcBcuchWm0esjQtlZ7Zv8DBCVnuwfOrrz6JM7Zzy+jOO2O8uDSjNhn80xLyRizedR/OB7mdSdmK99WZ60A7bBIZWBr8ap0NzEckgZfaBBNRrsBeGBMXPtC9BKjaUUHfOfpuwzeqMxmF8jX+vtLJR5SpXtOzG2PQkpf9Kynh69BKHactZGc1JZyEmXlz7M3xiI/YxVNJWO60dmCQ7pz7pJ2nov6LpvMP+vGVsNNmaxvIEqMBCHBJErMPWpmrW4finrGyzUtb49BEmpwvY0UquAH8cS+8JkoSKME6hWEnXdWFE1rYvcCZz5yx7l9Rc07cjLTdLG+mc=;24DVPBtdT3TyuRCinvhXNA=="
 ---
 

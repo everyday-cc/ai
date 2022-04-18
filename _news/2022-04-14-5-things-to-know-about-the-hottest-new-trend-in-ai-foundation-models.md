@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-fo
 webUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: Entorno Inteligente
       domain: entornointeligente.com
     quality: 31
-  - title: "Robots are creating images and telling jokes: Five things to know about foundation models and the next generation of AI"
-    excerpt: "If you've seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
-    publishedDateTime: 2022-04-13T13:30:00Z
-    webUrl: "https://techxplore.com/news/2022-04-robots-images-foundation-ai.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 10
 
 secured: "q4WVsttOHuiFI86KVYdUibb6vTyUSKS3pF0fNECjBqC9Cknp+ndFGASFfL2jymPv+NT5/qMknD1ULCul9vpKaBd9ai9g0xQZjBMMYFYW+lD872Lz+Bg9SiAMd4WuSjvMTtkRdjBA9Uw1AghVL0lUXkNCuTo3793w2aF6XhgGIPLl8o8iIsW7f84El5dxXr7KcvXlXlmItIQ1uL4zTNTxrYlLl74PRI+YtkzN2trMEptWdkay/chRjIpEs0czm6cWWbICmhhzdtRsg/ah6coh967BX/YwzdceBReSQZFsqIRgJblmHQZjoBg2a2kgohfrnZ9esbAw0iwSnWGQ92U9Eh33h2AUDYLLx2zAoZApd/1SsPAzjbVH1UlDnN1t4i5hhQYk8T5Ge0O65GIuNtp8KWuepwXTOOoe+dcFQcU93Nm9TXmxgCDk/AT7f/xgkIOWiEAXJDXi1CbMLo7UYt/9r2mRjkNU6+amFDMdVBxq8nsTVvoUaOT/YBHx5q61KQ1mLLYLmv7W10mkIaeP/j5lLg==;niezVI1oDbvwRFwxxRJ+xA=="
 ---

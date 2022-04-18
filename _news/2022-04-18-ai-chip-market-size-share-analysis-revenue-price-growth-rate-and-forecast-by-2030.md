@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market Trends, Demand, Share, Size, Growth and Forecast 2021-2026"
-    excerpt: "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026″,"
-    publishedDateTime: 2022-04-13T14:55:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-market-trends-demand-share-size-growth-and-forecast-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjapvdg3yNZ2TA05teTspMmjl91YYu_hMGfl6RT_qMO1thsSarQ6eiAKe3VoINtAZE2yP49lk2dKPGkcPDhJ6QLch0o1uyQpom3eHbdUy9ApkwG2rktAkhs1_b3gU_L1GRV7l8DlsQLnlRuH14McrWOHyA2a59oxqNF9XeaTwZHmlEir0azHq7_ito/w640-h342/Computer%20Vision.jpg"
-        width: 640
-        height: 342
-        isCached: true
   - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
     excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
     publishedDateTime: 2022-04-14T08:29:00Z
