@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582557.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/04/13/9582557.htm"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -21,13 +21,18 @@ topics:
 related:
   - title: "Emza’s Ultra-Low-Power WiseEye™ Solution Powers Vision AI Features in Dell’s New Laptops"
     excerpt: "Emza’s unique and powerful computer vision and ML algorithms. A Tiny AI system on chip (SoC) that consumes an order of magnitude less power than its nearest competitor, designed by Himax."
-    publishedDateTime: 2022-04-14T09:00:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
+    publishedDateTime: 2022-04-14T10:59:00Z
+    webUrl: "https://wgntv.com/business/press-releases/globenewswire/8522481/emzas-ultra-low-power-wiseeye-solution-powers-vision-ai-features-in-dells-new-laptops/"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 10
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/snapshot-2022-04-17T174213.021.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Emza's Ultra-Low-Power WiseEye(TM) Solution Powers Vision AI Features in Dell's New Laptops"
     excerpt: "Key features enabled by WiseEye NB include: Emza&CloseCurlyQuote;s unique and powerful computer vision and ML algorithms. A Tiny AI system on chip (SoC) that consumes an order of magnitude less power than its nearest competitor, designed by Himax."
     publishedDateTime: 2022-04-14T09:03:00Z

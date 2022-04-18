@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "How Fintech Can Help You Manage Your Personal Finances"
+    excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
+    publishedDateTime: 2022-04-18T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
+        width: 1024
+        height: 658
+        isCached: true
   - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
     excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
     publishedDateTime: 2022-04-14T18:03:00Z
@@ -42,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "Google fund invests in Dutch fintech Payaut"
-    excerpt: "Google's AI-focus venture fund has led an €8 million seed round for Payaut, an automated payment provider for online platforms and marketplaces."
-    publishedDateTime: 2022-04-13T08:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40065/google-fund-invests-in-dutch-fintech-payaut"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/2861.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z

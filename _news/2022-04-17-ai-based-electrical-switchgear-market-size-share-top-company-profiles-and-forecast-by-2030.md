@@ -66,20 +66,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market Insights by Emerging Trends, Growth and Forecast till 2022-2031"
-    excerpt: "Comserve / -- Artificial Intelligence in Accounting Market Growing need to automate mundane accounting tasks and support data-based advisory and decision making is expected to drive the overall growth of AI in accounting market."
-    publishedDateTime: 2022-04-13T08:34:00Z
-    webUrl: "https://menafn.com/1104005070/Artificial-Intelligence-in-Accounting-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
-        width: 445
-        height: 250
-        isCached: true
   - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
     excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
     publishedDateTime: 2022-04-15T10:34:00Z

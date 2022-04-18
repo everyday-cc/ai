@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-y
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel: Full Transparency - Arc GPU Flop"
-    excerpt: "Intel will (finally) be reporting the results of its restructured businesses, giving full transparency: PC, data center, networking, graphics, foundry, and Mobileye."
-    publishedDateTime: 2022-04-13T07:24:00Z
-    webUrl: "https://seekingalpha.com/article/4501114-intel-full-transparency-arc-gpu-flop"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4501114-intel-full-transparency-arc-gpu-flop"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4501114-intel-full-transparency-arc-gpu-flop"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1002010996/image_1002010996.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Intel to boost performance per watt 5 times in next-gen CPU-GPU"
     excerpt: "Intel Corporation announced ambitious plans to achieve net-zero greenhouse gas emissions in its global operations by 2040, including achieving a 5-times increase in performance per watt for its next-generation CPU-GPU."
     publishedDateTime: 2022-04-15T06:07:00Z

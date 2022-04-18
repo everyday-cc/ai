@@ -18,42 +18,28 @@ topics:
   - AI
 
 related:
-  - title: "Neuromorphic Computing Industry - Next Generation of AI and Machine Learning"
-    excerpt: "Emergen Research Logo The growth of the market is attributed to the requirement of better performing ICs and increase in demand for AI an"
-    publishedDateTime: 2022-04-13T08:39:00Z
-    webUrl: "https://menafn.com/1104005619/Neuromorphic-Computing-Industry-Next-Generation-of-AI-and-Machine-Learning"
+  - title: "Artificial Limbs Market Trends 2022 Top Countries Data, Growth Drivers, Demand Status, Opportunity and Challenges, Forecast till 2027"
+    excerpt: "The “Artificial Limbs Market” provides an in-depth analysis industry size, share, growth revenue and upcoming innovations of industry. Artificial Limbs market includes key market patterns, regulatory measures,"
+    publishedDateTime: 2022-04-14T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-limbs-market-trends-2022-top-countries-data-growth-drivers-demand-status-opportunity-and-challenges-forecast-till-2027-2022-04-14"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 53
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
-        width: 445
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Neuromorphic chip developer SynSense steps into the field of smart cockpits by initiating a technological exploration with BMW"
-    excerpt: "The world’s leading neuromorphic intelligence and solutions provider, SynSense, announced that it will advance the integration of neuromorphic chips and smart cockpits and explore related fields with BMW."
-    publishedDateTime: 2022-04-14T08:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-china-zurich-switzerland-europe-7b88406408e80270e59fa1f139ae5eb9"
+  - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
+    excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
+    publishedDateTime: 2022-04-14T13:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computational-creativity-market-size-share-trends-growth-drivers-industry-demand-opportunities-key-players-and-impact-of-covid"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Singularity Systems brings cutting-edge AI research into the next generation of intelligent document processing"
-    excerpt: "Singularity Systems, a leader in intelligent document processing (IDP), announced today the general availability of new AI capabilities that break through the accuracy, efficiency, and speed barriers inherent in common AI-driven process automation software."
-    publishedDateTime: 2022-04-14T13:30:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY22220/singularity-systems-brings-cutting-edge-ai-research-into-the-next-generation-of-intelligent-document-processing/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 0
 
 secured: "g1i9ZFXQW04nCqz0QrI3l8WEFw5tsE1ah3HJaAwHzBiq5b15/qpA6sHaTumdifTimqs576h9CbYMf4QQuhhL2eiBx2rSOC5wxNVf3WctHWs6PCnh4GE+MXhcWaCy8L15SszBqsIz12e+N0JaNjf6KGZHvrGd8iby8hdGGAo2pBVgqFKTmvLSqUW26tE5IwIZMY51yPJnMrQXjPzBL+zRQS4Gl5gkV6G1AVDLc3LYU8PZ+58y+Mf+CFiEe6Q3OLdpewSNKSGqHzunKFTVOsOr55X1RK+Podlua40aLQu7gzobRzoupIvjRr6oj9CLf9Ram4x+35PC9vghdHGTyWGwtaGW5Mmw2YfwdWEWLKqw7h1k1bFge9mttSNQHfF5/sdUVtM+AEx7OskwE/PgswqZTR6DiArH9dQhzrrG60zu4JTt7jXIwUDXksGoqCurxukLmN10HzKFq5j5ZJT2bL1CtaVwc4G3kGiP3fAPWuDc4BUDEEKAK6cLN0tidBB84I6HXqxOPnawoOUyqTp0TlA07A==;x7pXb4mATV+zMSzy9BpPDw=="

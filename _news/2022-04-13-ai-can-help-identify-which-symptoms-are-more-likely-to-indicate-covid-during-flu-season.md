@@ -35,20 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Health systems are using machine learning to predict high-cost care. Will it help patients?"
-    excerpt: "Ideally, machine learning can help health systems, payers and social workers understand which patients have the highest need and bolster resources for those populations."
-    publishedDateTime: 2022-04-13T08:30:00Z
-    webUrl: "https://www.statnews.com/2022/04/13/high-cost-utilizers-health-patients/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 29
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/03/AdobeStock_334806317-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "//HxxvDUI/hEGPTNRfY6i8Iu7DpIdbPbJoFVw+A46KtG2v3x/lowXqigNOMzfDkVEGeft6J2PL77Iii0IsW4FUVNdJL8Hid0IUsJ9PFFYI9z5S7+2NbcalToby830Ep1Jb6CRI2SnYRjZQWME8jToJjAF7cHr55qCy8qS/qIXEcY+4rlCaBS44g781gX6owIJDOHQ4+ctYvO7nb/bkPnYI1HYzO7j+lx1klOab0qcR9/RvXmfbB/ABGG2TK06dzb0jx/p5YwRJFvr5iBLrfEe9TY2BL8c+1nABlnFLlOeYeXsZGegTMOZ78gcHiKcyvRGP6eS5GO0VxbByE9gm0gHHRaPS91hdpzulvJWtaeMo4=;0YToikAPDkQZNDL8l56+ig=="
 ---

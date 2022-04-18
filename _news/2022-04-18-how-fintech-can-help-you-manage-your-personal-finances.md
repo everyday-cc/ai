@@ -1,42 +1,38 @@
 ---
 category: news
-title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
-excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
-publishedDateTime: 2022-04-13T09:28:00Z
-originalUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
-webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
+title: "How Fintech Can Help You Manage Your Personal Finances"
+excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
+publishedDateTime: 2022-04-18T00:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/424896?bingParse"
+webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 type: article
-quality: 4
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
+    width: 1024
+    height: 658
+    isCached: true
 
 related:
   - title: "How Fintech Can Help You Manage Your Personal Finances"
     excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
     publishedDateTime: 2022-04-15T14:00:00Z
     webUrl: "https://www.entrepreneur.com/article/424896"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
-        width: 1024
-        height: 658
-        isCached: true
-  - title: "How Fintech Can Help You Manage Your Personal Finances"
-    excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
-    publishedDateTime: 2022-04-18T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
     type: article
     provider:
       name: Entrepreneur
@@ -93,7 +89,16 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 8
+  - title: "More Fintech Consolidation Is Expected As Tech Brands Gather"
+    excerpt: "A new wave of consolidation in the UK fintech industry is expected, according to Hogan Lovells, as huge internet firms attempt to expand into new fields of financial services. Hogan Lovells' financial services partner Jon Chertkow said that fintech financing rounds had \"enough money to invest\" as part of the firm's quarterly report on fintech and financial services."
+    publishedDateTime: 2022-04-13T09:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/22139/more-fintech-consolidation-is-expected-as-tech-brands-gather"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
-secured: "13KSAiHA6eZ1y1Lr5cx8rtFGWWtq8Koldrn5EYMYJ8pcoZDJ91MJpKXDe+G1HoVXY7bCHjARiRYhoElgBjno2+gi951ONapgqXBAbPGgds8hdTd50stsn4TgKB9/8KneD4G22c/OyYxP+QXjKrsKBmJo5RiMulZkayvmD8i6Lfe1Xn2tggrDFlUc0kJsaV9cX5OZF3CoMV5c5fw2R19xzxJEjkJiboIh/tLnh2uPU6C7LH8P9ktRHNyshZFySAujFfe4jqAMP0zKfQSwwcfaVJq0XufuhrTK6oUtrxui9InrNspHDbdutsn9v21peAbDyJgw70oe+65Eas16kKioUSCOihGybmETiEB0DS6ImpY=;/3PDjdNUqi14BUHiMXT1yg=="
+secured: "eL14PGO7s1UHN9ZzhDk0WsoPPDfYFpU0P3EBNcwJw3tEYvl1z9odHSnkCM7MgDIysQmurDRABQKbCzMY9pqEUHIt4km1IPpRIZLuGySFjPG9+SqcgbEvWc9tnqVBnOLjaJtKlMtW3PCv8aV3eAOg++AZdFsyK4OSCFsB2KDFONUpYTgs4qMH8kg5cJShjOi02R/n+iB3ImlrDhC5dJyx6Kw4e8i8emNXNBzwyvwdulD7dEZ7tqbAU4+C5lcs12DRxdTO5qk7scj+MrMwf3I/APPS0bh+T29QRXE/nQpNhEcrgtg2YydLE4BoFS5F7AdGAYzGWLsPipQ+wnOvSo/bxsYz+JVpaou7u3Rij6V8Ul8=;VbzYygXtq98VZ2ycfSkPJg=="
 ---
 

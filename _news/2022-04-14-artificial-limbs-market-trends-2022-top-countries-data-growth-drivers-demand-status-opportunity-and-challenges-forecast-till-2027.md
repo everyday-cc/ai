@@ -38,6 +38,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 0
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "pNzoWMvGWR2LKHddHCA+06uKAzcjAqkjUsM/+BkE20bqc4EY+xU4Fi8vYErddVcbfAwHGkpHYUOP05Vl7biQnEAU34+TeaCLtafKogWvE8wyamoVTHOSc0EVdGjewcKfCQRmE0l9NrF6K6lydfgTKQDYK9rREdK8cGwjkAmFY6uiKAz8e1rlbXrTs6RCU2CJZGyfDkCfdzJutyqnt7iHp64kKPfS3fFMRT4Haq8y43OlyGBGI0px726UgAv0C08dQcjmwr5T67bMYyh+/uWuX8cuJ2cRr3u9vn2f2SzNVmEmtqCLk78fd6hCtWM5BtdbmFhcOoHl2K9+GBpgovO1br39QRLOGtUjIY7uMHKqzyQ=;vfCbI+a6023nbmko1erGVA=="
 ---

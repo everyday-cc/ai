@@ -35,34 +35,6 @@ related:
         width: 1024
         height: 776
         isCached: true
-  - title: "Curie AI raises seed funding for its AI-based respiratory monitor"
-    excerpt: "Respiratory illnesses are more common than many people probably realize: around 25 million Americans have asthma, which is around 1 in 13 Americans, including 8% of adults and 7% of children. Meanwhile,"
-    publishedDateTime: 2022-04-13T07:23:00Z
-    webUrl: "https://vator.tv/news/2022-04-13-curie-ai-raises-seed-funding-for-its-ai-based-respiratory-monitor"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 37
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21532.jpg"
-        width: 320
-        height: 240
-        isCached: true
-  - title: "Intelligent workforce platform Observe.ai raises USD 125 Mn in Series C"
-    excerpt: "Observe.ai plans to scale the company’s go-to-market motion, drive continued geographical expansion into international markets, and accelerate its timeframe to IPO readiness."
-    publishedDateTime: 2022-04-13T07:21:00Z
-    webUrl: "https://analyticsindiamag.com/intelligent-workforce-platform-observe-ai-raises-usd-125-mn-in-series-c/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/observe.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "enam1JpDSZ14RaJzcour4fGFQz8bLE0wlAaJliqcZUAiJrMEbxGVCJdDKlbV2jPcZmBlpiEMntzfIyIXG4D1xOhf/g/OJ18HHuOqmR3aGoQDssWmnPJpE6p9iyBqGrtaw0gTCAPX/O19k+WKjdERb2vk2q649zPLEWOOvaiPFi8VbUVYrObEy4fPiHBI69M15BAlzYHcAy9l39yL4johLQjiib0gd0h4GsOViTu6LMuyBSEBuIwW3fQnxPDAlEcZ9oAJ27+IbrPsc44EaB9jwHowwjeRJA0BDNa8BnsydHa9GV/+Zwn69tk0DQRNoa9utqYyuP8iaFF5Wy2XsxrzT05mnNjxtSTieuQS8SnisQFvOOz1UovyywhCV2DAu82N9gataRZHI7hNbbuhDi6XZH094Y5z8X7kVn90aanUfMrZZEvcVEkVftJUSYwJGS0396RQ13MTWDzyrNXX4dfWu6FugbtncTNrIaTj5DCSappX1dbtDIppdR/NqF7Uj+/HQV6MdtgZFtkLm5oe59nyPg==;RN5H9Jt14WjtgM0+rajUtA=="
 ---

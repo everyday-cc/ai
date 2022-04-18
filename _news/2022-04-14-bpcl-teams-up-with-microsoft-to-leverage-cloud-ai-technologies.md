@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-micros
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
+    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
+    publishedDateTime: 2022-04-18T00:05:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 50
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
+        width: 752
+        height: 408
         isCached: true
   - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
     excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"

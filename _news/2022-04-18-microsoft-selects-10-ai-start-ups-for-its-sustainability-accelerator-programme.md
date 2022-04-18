@@ -1,22 +1,28 @@
 ---
 category: news
-title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
-excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
-publishedDateTime: 2022-04-14T13:32:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
-webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
+title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
+excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
+publishedDateTime: 2022-04-18T00:05:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
+webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
 type: article
-quality: 28
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
+    width: 752
+    height: 408
+    isCached: true
 
 related:
   - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
@@ -51,21 +57,16 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
-    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
-    publishedDateTime: 2022-04-18T00:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
+  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
+    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
+    publishedDateTime: 2022-04-14T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 50
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
-        width: 752
-        height: 408
-        isCached: true
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
 
-secured: "DJxGu9rrX6DruCcVUiqNWYzlL+RBtDN81nwQ+MeC1O92EkBBLFVIJM2qDqfPUULeYnSKEZ51JgN3gV67I77ROUoSlOa87S67HK5uL8DuV9vzdlmEi8OM41PX5NeDk06z4IAmcnBS10uQ6VerSoC3DCKrGH1LU/RxinMlDWrBcCzZ8pglYHrkVMZaDhgd+a0XJvdCXM65HqrhiFsBHlvPP2/etMZkxqbQBrLjmQskg400SVTplqMBe1mebm2dbSm36AgvBzcja4dej/HG7ZMz2ogB+Z17M8P1hkcmcEUDVUhOdAR4cL1gtDFnSqNVF6xe994PT5E0a0Sk/i0bJqpdQsW2JXe/qMm9a0Q1thReUMWVMYQCMp1dCJb+afGTTyDfIcxixvihUABWcIJnlb2qe1uaNcMMXNciOpiAlIcOgXkvPqdl7tSzA730BfsmwKFi6Xk69+AF1d1vrRYnS+2kZuPRQfnObckrs1d97MxO8x/+EAxmoYrQrzg/nT616vfN2sMxB3XfmeIIgTup3UahUA==;al8U1VWRuBgjHwzoXGPHDg=="
+secured: "cFAucp2GucJU1T+HqfZ1uIHV6WBS4xLUf7WwdKH8LzCacY8Bwm3SYHKTIQL8/O3BDB43FbqD8EqpA7oWW6md96IhbbC6GyNwmuwzmTMOLxhWipnZOgzI9sLnFWqJMse42vK2THNG6TJ3jmKxr7d6y0HyhxI9ZEMH3aVWP0qWC+PUd8ujzwPF9S2XfZBG26gtM1uBOnAWJOg5EK217L1Q0xs1q7PMW0YdyGIA0LEGol7VnmDn72b930cH/3NjvQPPTyUxvmGyeMeQ6xWEeNgD/vydJGbgTwQeyzJmwVIBlnq03LgR9YX8K+wczzKcZfPuJY/pRNeTNF5LsJg9/CSWKmfcbRDbZxtiBKwVf3hYAmc=;zb82P8DQvxY8XnMRp+AEHw=="
 ---
 

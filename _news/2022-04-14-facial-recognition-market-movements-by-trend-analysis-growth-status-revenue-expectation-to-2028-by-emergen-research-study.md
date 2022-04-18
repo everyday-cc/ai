@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market Sales Revenue, Emerging Technologies, and Industry Expansion Strategies 2022-2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Apr 13, 2022, 02:55 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 b"
-    publishedDateTime: 2022-04-13T08:36:00Z
-    webUrl: "https://menafn.com/1104005637/Facial-Recognition-Market-Sales-Revenue-Emerging-Technologies-and-Industry-Expansion-Strategies-2022-2031"
+  - title: "AI Smart Transportation Market to Reach $7,065.1 Million, Globally by 2028 and register a robust CAGR: Emergen Research"
+    excerpt: "Artificial Intelligence (AI) in transportation is used to gather traffic ... In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for deployment of autonomous SAE L4 technology. The partnership is intended to combine the ..."
+    publishedDateTime: 2022-04-15T09:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-smart-transportation-market-to-reach-7065-1-million-globally-by-2028-and-register-a-robust-cagr-emergen-research"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
-        width: 445
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4e73b4174c4a302cc87ea8aea53515c63421d5b1-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "hbaypDQ3iOWtJ9k3yQKbu41ZfHLMY9qpQT9fmSYawFApB5/HCJzdwjLWPFfULL5KaO/24fDIflv7fJjYpsxFKGnWcedo/lKAH7e5LnugpnpFkzEMctIe9slMCN0J4CZc/mjUsCpoVs58j92nsWxM7VT9GFn+upuJRheJuKWf0lfZlaY+WkTQRHEtdHzcy9ulmGWnujxdqrnPMJNB14v7Cel9D5EnK2oXjngvW9VOSSCG+th0h7y0LbSLNoKA65T7nC88MN5VU82XsRbuIzlRhAhsGEI4d0PRCla/iUCmbyHaFMAc6Cuj33co9kwaeYUwRG+YPBtRC3se+Q5hxoi0S43wujvqZB+B2nZhXyYpndk=;4mhCDEviflwUyH2Mtqhyxw=="

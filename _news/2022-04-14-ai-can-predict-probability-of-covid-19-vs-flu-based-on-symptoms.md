@@ -38,20 +38,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Health systems are using machine learning to predict high-cost care. Will it help patients?"
-    excerpt: "Ideally, machine learning can help health systems, payers and social workers understand which patients have the highest need and bolster resources for those populations."
-    publishedDateTime: 2022-04-13T08:30:00Z
-    webUrl: "https://www.statnews.com/2022/04/13/high-cost-utilizers-health-patients/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 29
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/03/AdobeStock_334806317-1024x576.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "fFWDSjlqBwZ+SNa0GDfn+vzuhC2DEF3r+6o0FhCiHGiNb22wAX4HGr7N5+ojsx8Ej3JPr64vg/f4W1je9NJ4Up8Zkz+ou6+lURVdvEFbnNAl4C9uAF14Nz1DbKMWpKRMAWXFEWSoQAG9+VVriyRhsGS2WX50anVEioshgCnUiGn67iPU4vgpO8T6+rHBqmJrvWKLYTFU81EwnPDQTpMoC/nGlXxJNPPSIAhF6ENS5ZQu4JbJyd87WewtkcY3YeOFxPcDl82aO+fk0yvHCVYCV3Ms3EUp7F1y4EIigKbM90Mw9KWc8FzcCmt/3V3uXKbXs6lEwv+auuRBQ2dKF3XaRpumltOxNuMal5RMFyeA+Xw=;8oRjTekRHEQUjSc03q3RnA=="
 ---
