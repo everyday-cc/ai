@@ -35,6 +35,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 37
+  - title: "Gaming the Known and Unknown via Puzzle Solving With an Artificial Intelligence Agent"
+    excerpt: "Researchers design multiple strategies for an artificial intelligent (AI) agent to solve a stochastic puzzle like Minesweeper. For decades, efforts in solving games had been exclusive to solving two-player games (i."
+    publishedDateTime: 2022-04-16T22:08:00Z
+    webUrl: "https://scitechdaily.com/gaming-the-known-and-unknown-via-puzzle-solving-with-an-artificial-intelligence-agent/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI can improve teacher training"
     excerpt: "In these written justifications composed by the pre-service teachers, the AI identified what the learners had done right and wrong and gave feedback accordingly. “Above all, using AI and providing individualized feedback improved the diagnostic reasoning of the trainee teachers,"
     publishedDateTime: 2022-04-14T14:25:00Z

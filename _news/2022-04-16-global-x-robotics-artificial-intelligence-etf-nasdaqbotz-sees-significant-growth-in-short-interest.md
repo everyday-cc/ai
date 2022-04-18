@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update"
-    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a large increase in short interest in March. As of March 31st, there was short interest totalling 16,800 shares, an increase of 217.0% from the March 15th total of ..."
-    publishedDateTime: 2022-04-13T06:50:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/13/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 77
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks13.jpg"
-        width: 1024
-        height: 663
-        isCached: true
   - title: "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU) Short Interest Update"
     excerpt: "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU – Get Rating) was the target of a large decrease in short interest in the month of March. As of March 31st, there was short interest totalling 2,800 shares,"
     publishedDateTime: 2022-04-16T16:02:00Z
@@ -69,6 +53,28 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX) Short Interest Update"
+    excerpt: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX – Get Rating) was the recipient of a large decrease in short interest during the month of March. As of March 31st, there was short interest totalling 300 shares,"
+    publishedDateTime: 2022-04-14T07:41:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 44
+  - title: "Short Interest in Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Increases By 224.2%"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) saw a significant increase in short interest in the month of March. As of March 31st, there was short interest totalling 10,700 shares, an increase of 224.2% ..."
+    publishedDateTime: 2022-04-15T15:31:00Z
+    webUrl: "https://www.etfdailynews.com/2022/04/15/short-interest-in-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-increases-by-224-2/"
+    ampWebUrl: "https://www.etfdailynews.com/2022/04/15/short-interest-in-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-increases-by-224-2/amp/"
+    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/15/short-interest-in-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-increases-by-224-2/amp/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 27
 
 secured: "lD0gP07tYg25LAU9zDaJdUNaMXFH4r/qjIFqpEdllIqXQHhWsWzGazNO6RIDLb6VBRocEMM59KARcxDGR1gfFFVMymqFINFIJcdZLGyPjBAt7zQ4xm6VP4Qa3J6pVSoqcStKvPeqd60wCiUTddSf1ew+2aMQYuExYwO9scPexqHM2U9LkEZIo7qlQqEpqWPmPWtJRRkP/RAUdLhbTpi7hScXY7yn3AM0XoumhgUgYumZ5W+VgTkmXdwGYxlIZUhoMHaRcBJCI4TYX8WYEFD0m7b15VPTeVH13JtFIg27LqDGRcor1Z6e2KXpfhJCaebo97Wu3l74hyPHzz+ybPP0YzXtAhLep5TlbcduGqxOsHM=;jLB8jpSnET8ljwkeKdUnhQ=="
 ---

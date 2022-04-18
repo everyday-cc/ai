@@ -24,38 +24,40 @@ images:
     isCached: true
 
 related:
-  - title: "Prometheus AI, Removing The Guessing Work And Replacing It With Predictability"
-    excerpt: "Today, the cryptocurrency is worth more than $78 billion, with over 30 million traders worldwide in the market hoping to generate a profit. Yet, 90% are in a position of financial loss. It has led to many traders believing they need to upskill,"
-    publishedDateTime: 2022-04-13T05:23:00Z
-    webUrl: "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/"
-    ampWebUrl: "https://techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/prometheus-ai-removing-the-guessing-work-replacing-it-with-predictability/amp/"
+  - title: "Examining bias in AI"
+    excerpt: "Sarah Brown, an assistant professor of computer science, is examining how to prevent artificial intelligence from reinforcing biases."
+    publishedDateTime: 2022-04-13T15:55:00Z
+    webUrl: "https://www.uri.edu/features/examining-bias-in-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
+      name: uri
+      domain: uri.edu
+    quality: 37
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/Prometheus-AI.png"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Developing countries are being left behind in the AI race - and that's a problem for all of us"
-    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
-    publishedDateTime: 2022-04-17T05:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/articleshow/90889503.cms"
-    ampWebUrl: "https://m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-90889503/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us.jpg"
+      - url: "https://www.uri.edu/wp-content/uploads/home/2022/04/SarahBrownSquare-NL-014.jpg"
         width: 600
-        height: 450
+        height: 600
         isCached: true
+  - title: "Edmonton becoming a leader in artificial intelligence"
+    excerpt: "An Edmonton company is leading the way in the artificial intelligence sector by providing funding for research and projects. Mikaela Henschel explains how AI is becoming a part of everyday life. <iframe src=\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\" title=\"Iframe contains video URL\"> ."
+    publishedDateTime: 2022-04-15T01:29:00Z
+    webUrl: "https://globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/"
+    ampWebUrl: "https://globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 37
+  - title: "AI can improve teacher training"
+    excerpt: "In these written justifications composed by the pre-service teachers, the AI identified what the learners had done right and wrong and gave feedback accordingly. “Above all, using AI and providing individualized feedback improved the diagnostic reasoning of the trainee teachers,"
+    publishedDateTime: 2022-04-14T14:25:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/949783"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "qvoT8FmZlhbRv1FcILZzDWaTgNK1fT250SL+H9ZNIRH9X5XUsgmubp6Y/Un9vQrjEHYDcG7OJMIRZgDBRSzIpVqtCCdF3RE/nu+4/UOZki1pvmsM/VrAKKRKIPOOdJkv6h+ps01CFTqurnq2kf8BoybiOx2LCmOyJrLlQ54/vN0pDPhvkvEWo0wQWsoegwkvnrsSLVY1i4mIPRfEcNqx/0ESDcSrcKAiNNcxyePfOghUAOr7CMGeW4KMJdgiTFptVk+wDWRzJvjkem0oJ5/CrnewzLigsGR06ET5Dsrduip2wOVgfvhZHtGVjU7MI6jv4uNTw9QeEimx71wiFubMOX93t4cdNxG/Tu7jFvprNIs=;3I02uuTjOeO/5b94SAS8+A=="
 ---

@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Sales Revenue, Emerging Technologies, and Industry Expansion Strategies 2022-2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Apr 13, 2022, 02:55 /Comserve / -- MarketsandMarkets forecasts the global facial recognition market size to grow from USD 3.2 b"
-    publishedDateTime: 2022-04-13T08:36:00Z
-    webUrl: "https://menafn.com/1104005637/Facial-Recognition-Market-Sales-Revenue-Emerging-Technologies-and-Industry-Expansion-Strategies-2022-2031"
+  - title: "AI Chip Market, Size, Share, Analysis, Revenue, Price, Growth Rate, And Forecast By 2030"
+    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
+    publishedDateTime: 2022-04-17T22:38:00Z
+    webUrl: "https://menafn.com/1104036736/AI-Chip-Market-Size-Share-Analysis-Revenue-Price-Growth-Rate-And-Forecast-By-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 38
+    quality: 45
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
-        width: 445
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363260"
+        width: 374
         height: 250
         isCached: true
   - title: "Computer Vision Market Trends, Demand, Share, Size, Growth and Forecast 2021-2026"
@@ -53,15 +53,76 @@ related:
         width: 640
         height: 342
         isCached: true
-  - title: "Facial Recognition Market Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 By Emergen Research Study"
-    excerpt: "USD 13.87 Billion at a steady CAGR of 15.7% in 2028, according to latest analysis by Emergen Research. This steady market revenue growth can be attributed to rising need for physical security, increasing deployment and use of biometric devices,"
-    publishedDateTime: 2022-04-14T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-by-emergen-research-study"
+  - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
+    excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
+    publishedDateTime: 2022-04-14T08:29:00Z
+    webUrl: "https://menafn.com/1104019544/Machine-Learning-As-A-Services-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?679703"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "AI-Based Electrical Switchgear Market, Size, Share, Top Company Profiles, And Forecast By 2030"
+    excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
+    publishedDateTime: 2022-04-17T10:43:00Z
+    webUrl: "https://menafn.com/1104035493/AI-Based-Electrical-Switchgear-Market-Size-Share-Top-Company-Profiles-And-Forecast-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?499119"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market Insights by Emerging Trends, Growth and Forecast till 2022-2031"
+    excerpt: "Comserve / -- Artificial Intelligence in Accounting Market Growing need to automate mundane accounting tasks and support data-based advisory and decision making is expected to drive the overall growth of AI in accounting market."
+    publishedDateTime: 2022-04-13T08:34:00Z
+    webUrl: "https://menafn.com/1104005070/Artificial-Intelligence-in-Accounting-Market-Insights-by-Emerging-Trends-Growth-and-Forecast-till-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166187"
+        width: 445
+        height: 250
+        isCached: true
+  - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
+    excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
+    publishedDateTime: 2022-04-14T06:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-2022-growth-latest-application-share-recent-trends-and-better-investment-opportunities-by-forecast-to-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 7
+    images:
+      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/image-5.png?w=877"
+        width: 877
+        height: 432
+        isCached: true
+  - title: "Global Artificial Intelligence in Digital Genome Market to 2028 - Size, Share, Outlook, and Opportunity Analysis - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Digital Genome Market - Size, Share, Outlook, and Opportunity Analysis, 2021 - 2028” report has been added to ResearchAndMarkets.com’s offering. Digital genome is a comprehensive digital set of genetic material that occurs in a cell or an organism."
+    publishedDateTime: 2022-04-13T11:52:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/science-technology-business-health-africa-f60ec354fed045e6b1c225179ad935a0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Speech Recognition Market Share, Growth Drivers, Analysis, Opportunities, Competitive Landscape, Strategies and Impact of COVID"
     excerpt: "Overview Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner"
     publishedDateTime: 2022-04-14T12:09:00Z

@@ -2,6 +2,92 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-03-14-democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences.md",
+      "title": "Democratizing AI: Bridging the Intelligence Divide in Commercial Life Sciences",
+      "excerpt": "Small and emerging biopharma have been historically reserved about artificial intelligence. But, writes Alan Kalton, AI solutions have matured, been proven, and are no longer a risky investment for small to mid-size companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmaceuticalcommerce.com/view/democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences",
+      "originalUrl": "https://www.pharmaceuticalcommerce.com/view/democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/b1e3463c3db169f108c6ae9543c7a4da01efa454-480x270.jpg?fit=crop&auto=format",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaceuticalcommerce",
+        "domain": "pharmaceuticalcommerce.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-karnataka.md",
+      "title": "Artificial Intelligence & Robotics Technology Park launched in Karnataka",
+      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched in the city on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "originalUrl": "https://www.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data1.ibtimes.co.in/en/full/770339/artificial-intelligence-photopixabay-com.jpg?w=570&h=312",
+          "width": 570,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/artificial-intelligence-robotics-technology-park-launched-karnataka-846569",
+      "publishedDateTime": "2022-03-14T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-kbc-launches-ai-fintech.md",
       "title": "KBC launches AI fintech",
       "excerpt": "Belgian bank KBC has launched its own fintech to sell the AI applications it has developed to third parties. Called Discai, the separate legal entity will focus on selling AI-based applications to business-to-business firms.",
@@ -992,92 +1078,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-healthcare-analytics-and-artificial-intelligence-msc.md",
-      "title": "Healthcare Analytics and Artificial Intelligence (MSc)",
-      "excerpt": "Healthcare Analytics and Artificial Intelligence (MSc) at Sheffield Hallam University, listed on FindAMasters.com - a comprehensive database of Masters, MSc, MA, MPhil & MRes courses in the UK & Irela",
-      "sourceUrl": null,
-      "webUrl": "https://www.findamasters.com/masters-degrees/course/healthcare-analytics-and-artificial-intelligence-msc/?i219d2021c68034",
-      "originalUrl": "https://www.findamasters.com/masters-degrees/course/healthcare-analytics-and-artificial-intelligence-msc/?i219d2021c68034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fau-res.cloudinary.com/image/upload/mas/search-suggestions.jpg",
-          "width": 766,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Masters",
-        "domain": "findamasters.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-artificial-intelligence-helps-treat-spinal-cord-injuries.md",
-      "title": "Artificial Intelligence Helps Treat Spinal Cord Injuries",
-      "excerpt": "By utilizing artificial intelligence (AI) and robotics, researchers have stabilized an enzyme that can degrade scar tissue resulting from spinal cord injuries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/spinal-cord-injuries.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-treat-spinal-cord-injuries-206068-1.htm",
-      "publishedDateTime": "2022-03-12T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

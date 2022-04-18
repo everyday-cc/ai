@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Developing countries are being left behind in the AI race - and that's a problem for all of us"
+    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
+    publishedDateTime: 2022-04-17T05:00:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/articleshow/90889503.cms"
+    ampWebUrl: "https://m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-90889503/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
     excerpt: "Many modern AI-driven applications, from the Google translate feature to robot-assisted surgical procedures, leverage deep neural networks. These are a special type of deep learning model loosely ..."
     publishedDateTime: 2022-04-13T11:48:00Z

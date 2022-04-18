@@ -44,6 +44,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 37
+  - title: "Gaming the Known and Unknown via Puzzle Solving With an Artificial Intelligence Agent"
+    excerpt: "Researchers design multiple strategies for an artificial intelligent (AI) agent to solve a stochastic puzzle like Minesweeper. For decades, efforts in solving games had been exclusive to solving two-player games (i."
+    publishedDateTime: 2022-04-16T22:08:00Z
+    webUrl: "https://scitechdaily.com/gaming-the-known-and-unknown-via-puzzle-solving-with-an-artificial-intelligence-agent/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "AE7yA6UodDDFGLxmhla0gOYR0L89BsKxcWtXJ+U3TBego1SPXG0ZClCgo/7uQHOd8xDKpycQMB2ZBKAj23lSLkbIsBUDd96yeyjzJNVc8+TmRqlGYQBuCMgbTXmAHckdW7nQeQPZCwYyR1B7mXZ4N35s0RV7t2EpsjpUmtpkDUvd+h1jv73s0aasiC53fZGeKOLGWCKm6lpUgansL7JmrcYmO/lufzIO87bEEmYxJHdm3nvT0nwXhVn8Euj7LAoz5tI/d3zAtk55tpjgXGoGlpqD1eSHIh/8m2XEVErAOo9Wx0LJKMiasg6zD8Cc/iGlADHaPNPyCx5dkbA7He20njvqzyckfbO2MRSlIznJULs=;ZOYB37kpja/lmaCexw9GiQ=="
 ---
