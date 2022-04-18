@@ -6,9 +6,6 @@ publishedDateTime: 2022-04-14T01:41:00Z
 originalUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
 webUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: China Daily
@@ -18,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
-    width: 718
-    height: 478
-    isCached: true
-
-secured: "qK1mq9zjsHPb/tXnd9U4rhZVSzNl+IhtfpAv7OrYj6GpwAmDq6VQ8VQBL24kG/ptY0BiHvHsCyjWpnngjBZJZeHIk3Z3Z7wx+U6Hktqc/laha7qv7D406EiutN/zzp9BwdxqbAzhoTpAz+8KuV9qQDoxIXjF/83gmAq3+jc2f7f2e2KshCHUbycOBto4CoSLACgBqIVBPO3kiYWmEXtYLBGFZYh5fEHIOl31UKlWALsv89aEQ65bNNrpaf8v7Zba9gkqsrosob4uOO6lpsh/ZzuDHM5G7DdbT8dlhcS3mUx7Rey7LRR4ZX6NsIo/LAIj28qVE7Ro8LDd2gZWFdnLjaSVutQNA18+MoAvZrSaXo4=;gPQody6Yv17P+b2bl3bWPg=="
+secured: "aj8Qg5kLF7aWuihEaIhJUyd7yaYKRpMX8z8X1rcKCQZ72+V4bZPAjp9Jrnyh+P+vGX9+FUrM3q33elluU+mXX/3ZY6Q6sMyVVqE0k8V52tFlBUBEJDlQsvA/uPt3UWv8WU4hxlNFCypsLM43MGh78k0cCbmjoaohVC0apF6eWxwJI/TMLwV5tcDf4PhIUQnK8QObJhQ3biaX563kKPmyc+Oel3ClclkWlIg2vXnKPaT7rptWUzhpK4OLmF6fD6wCJAWzccmKjYsOxVa3kMR7DV5x9AzBW3vHPRUjM+yG9FBZjZbXSssADx5U+Woex8biNOl27vVC45aygGT7aUL6nznFWvQ2KAlyqUsKdEYu2Rg=;CA32ouGaNEO455+5zqPOSQ=="
 ---
 
