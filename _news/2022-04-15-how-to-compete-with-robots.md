@@ -22,17 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "How to compete with robots"
-    excerpt: "Swiss roboticists and economists from EPFL and University of Lausanne developed a method for estimating the probability of jobs being automated by future intelligent robots and suggesting career transitions with lower risks and minimal retraining effort."
-    publishedDateTime: 2022-04-13T18:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949485"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-
 secured: "NPT+uQX+rmhIj1yAlo7LIuhbd2CMoLew/ZYgKmCPSfGefjaC1309p/T+O7m8A/RwRYbbRBl9bpzaS23g7Zf6/mrxkLkW7SLK6DFWAbGOV2xlIJRPXMCFxE2RyXq/OF5hdbyUU19wjJk/uCciOVFSUUDbbTnr7FAlbl0GAFo/o/sRvWumQ1i/IOTBexYv7Bo6E9sqbXaWeCxnu48tREJhU3jfzbiOFq6IMPgD2DuQwL0ptOO6qtqwS68nZF12LEa27YEyQMqlwFveTZFM/gxKpP5RmxxFlfZkTy8C7tWhcC3QZffd4Vjfy5lbnlr4iCCsWPCxHjUQnD56gLgL4J2SjrhxTqDWMJv9hsSVsLnaw0o=;K97TD7xvwb+uqzDX33pIXA=="
 ---
 

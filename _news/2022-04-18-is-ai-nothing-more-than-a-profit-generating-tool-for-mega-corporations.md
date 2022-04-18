@@ -1,0 +1,57 @@
+---
+category: news
+title: "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?"
+excerpt: "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?"
+publishedDateTime: 2022-04-18T11:08:00Z
+originalUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/"
+webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/"
+ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
+type: article
+quality: 89
+heat: 109
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 1200
+    isCached: true
+
+related:
+  - title: "From creating images to telling jokes – foundation models and next generation of AI"
+    excerpt: "Entornointeligente.com / If you’ve seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
+    publishedDateTime: 2022-04-17T07:46:00Z
+    webUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/"
+    ampWebUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
+    cdnAmpWebUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
+    type: article
+    provider:
+      name: Entorno Inteligente
+      domain: entornointeligente.com
+    quality: 31
+  - title: "Singularity Systems brings cutting-edge AI research into the next generation of intelligent document processing"
+    excerpt: "Singularity Systems, a leader in intelligent document processing (IDP), announced today the general availability of new AI capabilities that break through the accuracy, efficiency, and speed barriers inherent in common AI-driven process automation software."
+    publishedDateTime: 2022-04-14T13:30:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY22220/singularity-systems-brings-cutting-edge-ai-research-into-the-next-generation-of-intelligent-document-processing/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 0
+
+secured: "OlWRKakIOn76ShTG/qZnwGPsthFAygwgua9f8fGyl+3ItaAknYZ+AnpqInbW1k6pMw1GSD1gvKsy3h5yoMQu3EdRJgjgOat+71PPa//rkoC3zg3s4XXhuH1G7mZjUMhiXpQMc9gHe3VRsCiXO0EKca/F/dE6bCoQ3Ex2YxHlE/uTGKG9l/EVu9nmjzNgsJdLgwG+w6WQXkGLN0J+APelkX6oV8oilXgCqik+Bx4vES8gX2CV59EPryAjaiCPdP7uMyxj1bSmTgCkJlsu0cfH5CQjFbBDt0S5t0fLT7SjleO9KiWrgo8HmqYrtyTjRkAyCKEbMlh+gOiIF5G2i5oGZPVxw5z5/Ci+BuDKig4a7wg=;XBwXGEKMxItvfLbV1m98nA=="
+---
+

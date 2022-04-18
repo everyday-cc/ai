@@ -39,6 +39,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Europe Artificial Intelligence Market Size, Share, Trends, Growth and Forecast 2026"
+    excerpt: "Europe Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 18, 2022 /EINPresswire.com / -- The Europe Artificia"
+    publishedDateTime: 2022-04-18T10:50:00Z
+    webUrl: "https://menafn.com/1104039258/Europe-Artificial-Intelligence-Market-Size-Share-Trends-Growth-and-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/18/EP_b82c6image_story.jpeg"
+        width: 1154
+        height: 649
+        isCached: true
   - title: "AI-Based Electrical Switchgear Market, Size, Share, Top Company Profiles, And Forecast By 2030"
     excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
     publishedDateTime: 2022-04-17T10:43:00Z
@@ -89,6 +103,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
+    excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
+    publishedDateTime: 2022-04-18T11:20:00Z
+    webUrl: "https://www.medgadget.com/2022/04/ai-in-drug-discovery-market-trends-analysis-share-value-competitive-outlook-research-overview-and-dynamics-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
     quality: 0
 
 secured: "qzh1rR8MuC5ILHqm8eoE64DmJeu4p8Q1RmH3UxdKMfHySQENY8FM/fGhKC1CkV8rOCqqY12K9uf/16F2VpYH6OBGNqH4lO8G8h0X1TlAcfWlay/lLu7apIfbmhwhSa85DJA4GxCQD09iwav3mLH9kwGST+dFb0lerh0HOaFl6Vo60OC5dBdtkCD4VpPjrEmVR9E9WcH5uT1qOl5L/vIwkcPpq91naia6ScdsxIlhmhLGL8lRrbkj5OMVfPmp/GkcbJlfuJxbc8fz5nnLwy33Geqs77rV+yBO3o3fW3LSgcHUvi9CSh7Ke4fa+SI5Y4QjunR8/cR/u7p6oXUAia9ca26nfszyZsPeMj2YhrulhAo=;ESr0JolaCyR2MMCIPhhbQA=="

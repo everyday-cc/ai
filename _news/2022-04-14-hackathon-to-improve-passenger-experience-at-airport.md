@@ -20,17 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Reboot Rebels emerges winners of BIAL Genie Hackathon"
-    excerpt: "Bengaluru: Bangalore International Airport Limited (BIAL) - operator of Kempegowda International Airport, Bengaluru (BLR Airport) on Wednesday announced winners of the 'BIAL Genie Hackathon' in collaboration with Microsoft."
-    publishedDateTime: 2022-04-13T18:53:00Z
-    webUrl: "https://www.thehansindia.com/karnataka/reboot-rebels-emerges-winners-of-bial-genie-hackathon-737955"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 4
-
 secured: "S47bKCQC9WkfONKGvGRIpRBxXIe0fQ3vSfJqGZ+eumQ1CJWIxNm/LWNmWxJjVbxVvxIpcO2ZM+CAarWB3JfNsg+RU4BdRLJKWble1mOK3bFJHVEBJFUT+oW88lPxzd+oRh6ZEmuqPfEpFHAZnaYM0FcjPtLeiB5QhwFyOadS38x6I6+ANlxZo3a3q/ozh0NG/el2RkAH6JwEgzYftUPVybtXM2lLOtVqBxyOO2IFbfGmjF1UL0IJsBj2JlPQnHzq4cH2I8UaRrBgZKKE5cWUKhIf3SLN3RdtPBHv2l4RMH3ZEAFnroPXdWESo04Gy8S3wQU0PUkzQeCyLSwOYnsSzW2xb2Xw0kI1VrmSOM9dAuc=;vR7gz9tle2Pjo5Dqw0zkrA=="
 ---
 

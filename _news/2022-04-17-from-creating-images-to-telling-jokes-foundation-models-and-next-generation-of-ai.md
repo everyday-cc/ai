@@ -20,48 +20,31 @@ topics:
   - AI
 
 related:
-  - title: "5 things to know about the hottest new trend in AI: foundation models"
-    excerpt: "Machine learning systems like DALL-E impress with their ability to generate creative work. These systems are known as \"foundational models.\""
-    publishedDateTime: 2022-04-14T15:00:00Z
-    webUrl: "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models"
+  - title: "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?"
+    excerpt: "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?"
+    publishedDateTime: 2022-04-18T11:08:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fdalle.png&signature=5c81f4078ee4d3876527977e4ec061de"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Artificial intelligence: filling the gaps"
-    excerpt: "Artificial intelligence (AI) is of strategic importance for the European Union: the European Commission frequently affirms that ‘artificial intelligence with a purpose can make Europe a world leader’."
-    publishedDateTime: 2022-04-14T03:00:00Z
-    webUrl: "https://socialeurope.eu/artificial-intelligence-filling-the-gaps"
-    type: article
-    provider:
-      name: Social Europe
-      domain: socialeurope.eu
-    quality: 39
-    images:
-      - url: "https://socialeurope.eu/wp-content/uploads/2022/04/shutterstock_1022667853.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 627
+        height: 1200
         isCached: true
-  - title: "5G and AI: Ushering in New Tech Innovation"
-    excerpt: "The combination of AI and 5G networks is poised to revolutionize how business gets done. Read on to learn how."
-    publishedDateTime: 2022-04-14T19:00:00Z
-    webUrl: "https://www.itbusinessedge.com/it-management/5g-and-ai/"
+  - title: "Singularity Systems brings cutting-edge AI research into the next generation of intelligent document processing"
+    excerpt: "Singularity Systems, a leader in intelligent document processing (IDP), announced today the general availability of new AI capabilities that break through the accuracy, efficiency, and speed barriers inherent in common AI-driven process automation software."
+    publishedDateTime: 2022-04-14T13:30:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY22220/singularity-systems-brings-cutting-edge-ai-research-into-the-next-generation-of-intelligent-document-processing/"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 39
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/04/5G-and-AI-Ushering-in-New-Tech-Innovation.jpeg"
-        width: 1500
-        height: 985
-        isCached: true
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 0
 
 secured: "Jpf7Q9j/1eXo460J+Ovp7yaceas2RxQ7oL1LDMPaSJg0ErtdmFa5Udzx4WVq7HOchN0wxw4v1a0yCFxQpSauoIKfC5Ci77PaxqHCt/GLdlwk4/kzlEMq4JqqDLp41R7jzkD4bgX0dL1tZP5gsmTse1Q+uNQLrcv41ZWRdBr4CBHII9IJXnbobtQqP4glTBeAq7SKTYCq50Q/o3iG8Iok4Ej7t6OKnsSS9KjTl14FfPXQpmot8s0LvJQ5U//yM3Smj8xnboTUk+BP6lCurj5WhSThCUPCh5s8HuCgmgyoaJtlTzrvRhJSFNi38IXQ+m8rQQ64GEUjEqALgpvegYwSdhp/5kD9usGTmf2cNuMP0pg=;QUuJ48QVACxnI6z+Zw0D4Q=="
 ---

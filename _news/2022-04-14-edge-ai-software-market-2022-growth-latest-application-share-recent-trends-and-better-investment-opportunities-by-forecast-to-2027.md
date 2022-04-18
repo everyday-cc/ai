@@ -38,6 +38,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Europe Artificial Intelligence Market Size, Share, Trends, Growth and Forecast 2026"
+    excerpt: "Europe Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 18, 2022 /EINPresswire.com / -- The Europe Artificia"
+    publishedDateTime: 2022-04-18T10:50:00Z
+    webUrl: "https://menafn.com/1104039258/Europe-Artificial-Intelligence-Market-Size-Share-Trends-Growth-and-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/18/EP_b82c6image_story.jpeg"
+        width: 1154
+        height: 649
+        isCached: true
   - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
     excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
     publishedDateTime: 2022-04-14T08:29:00Z
@@ -88,6 +102,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
+    excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
+    publishedDateTime: 2022-04-18T11:20:00Z
+    webUrl: "https://www.medgadget.com/2022/04/ai-in-drug-discovery-market-trends-analysis-share-value-competitive-outlook-research-overview-and-dynamics-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
     quality: 0
 
 secured: "K4Ht3zCHbiBI9g/78CNNV/VImIVWVF8i6RkW+80Wxw0PjDNjh0Gtz6iJ9Th2LDraZKtSuF6/lMHJJnEjoc2Ug4tRWCegkQHhfupyueRx+qO+N58xEu1XhjPhVp5vGUTk93/Sm76empC+elrnT+my26kZ0J4dTo9s849DNyPavEgMW/QR96ttGqKu6blObU8VdHoWTX6rNw3ZIsaGLH/CpQRvm9SBC5LtFA+tx29J+Yn2DAqmfKO5fBeLGLjMfwFCE+TfR2lW+er2tLS4K1W9WfiBO8XplAV8zq8V/NIXE52LxYVDRv+mpYJjXlUl6GfbmmPgOsUrPr1AbkG4ow0qCn7F5KMLH3WUrR9AixnDAqU=;h1jTtNF/Tg6zifzED6S+1A=="

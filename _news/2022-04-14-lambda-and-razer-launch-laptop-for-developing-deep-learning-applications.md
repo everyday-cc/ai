@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Razer-designed Linux laptop targets AI developers with deep learning emphasis"
-    excerpt: "Made in collaboration with Lambda, the Linux-based clamshell focuses on deep learning development. Lambda, which has been around since 2012, is a deep learning infrastructure provider used by the US Department of Defense and \"97 percent of the top research universities in the US,"
-    publishedDateTime: 2022-04-13T17:40:00Z
-    webUrl: "https://arstechnica.com/gadgets/2022/04/razer-designed-linux-laptop-targets-ai-developers-with-deep-learning-emphasis/"
+  - title: "Razer x Lambda Tensorbook Goes Official As Most Powerful Deep Learning Laptop"
+    excerpt: "Razer is known for its gaming devices who has now launched a new laptop in collaboration with Lambda named the Razer x Lambda Tensorbook. It is the Razers first non-gaming laptop."
+    publishedDateTime: 2022-04-18T10:49:00Z
+    webUrl: "https://www.gizbot.com/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 56
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/04/razer-book-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://www.gizbot.com/img/2022/04/razer-x-lambda-tensorbook-1650278764.jpg"
+        width: 600
+        height: 337
         isCached: true
+  - title: "Razer & Lambda Tensorbook create laptop dedicated to machine learning"
+    excerpt: "The new Razer + Lambda Tensorbook has been specifically designed to be the most powerful laptop in the world for deep learning."
+    publishedDateTime: 2022-04-13T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85580/razer-lambda-tensorbook-create-laptop-dedicated-to-machine-learning/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "gzELO0n/3ny2ZoHRyB3GWWbnJyEn4wUF8E9djQ8h+1o04Y5AqU9ujRRvtpUXH5LxFaotKpLoQFESY/etJlYpN3GmFWOdB7PhP17g5pCUEc793HZEXKyJdS8gPL7X/B9c6i7mGS2IVPpC/gofMZktOEzZbbgAkc14hPuaEpGTRsPwOMwkNElcMvxQFj8Xbrj2qTK3z9JoV0rs3zxWoztMwFLJkDT7pyX0iKLnGG6D+SjotMvKO5aQdkhQ+7UOLP72uBeQn1RTg+9+07R6nGh5DDowOXBOwfr1AayT4RRhZk+zPb/TXwOJCduIOHzvHh8iFQa7FLQB03YR9HqpF2pK0yNh5I279tljXsOAoLP3c3U=;oJ+wgxPAmwcFqHfLbcfd7w=="
 ---

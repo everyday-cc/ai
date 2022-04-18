@@ -60,16 +60,21 @@ related:
         height: 714
         isCached: true
   - title: "Self-driving car company establishing test facility in SC"
-    excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
-    publishedDateTime: 2022-04-13T18:21:00Z
-    webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+    excerpt: "COLUMBIA, S.C. (AP) — Governor Henry McMaster’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in ..."
+    publishedDateTime: 2022-04-14T12:17:00Z
+    webUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
+    ampWebUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
+    cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
+      name: WCBD
+      domain: counton2.com
+    quality: 44
+    images:
+      - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/GettyImages-1285307584.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KZV7FAoctudkJV0SD/MuixyHjmSY/6LyI7rJSB4llFqPVbcdQTCWc3TgjGD4Yikzoi03A3pulSX94ePosdMOCeQTJqk1miJRmjhtCD6vF5mbTA1Sn5sivM3TvfmWq0OKGIOVXi2kcaTZamkXbmS0GD3tpNAWRwhBCGkD/8GMMMKoBVLba9MsmKykQJojpNGnyVBaLP8Piz7Pg3gfJszXLOYz/QdhrAidTgzk/NZTBUO+YrMTr6dPpJ7EzRMEW6Xin8fAitHCQqKCn5tTuGhzXdh36FAO9L7/5Hj6QtOFSIBDlsfa5A4+rbtfDrkzk1GoC7Mvu/F5yWizjnMSuO7ll7lrYLwhAxKGIOs/GbYb929MB24yIBgLPW0q4CkRh8ttdnmbju08hbd4BBIAh4HwIIanLqdYXuGmxJRIHeXcEpiHgsax0lgRx1McLtYfi13ZjklYqQYHxS3am9WXXELRlMdSSY5QilcuiHXKr71SYpib1aMc7UnZXt/IucNCFR+fMPTjWY8GT2ePggaxIbEA1w==;m7mbM4oJ/aeEbgvfnFJg/A=="
 ---

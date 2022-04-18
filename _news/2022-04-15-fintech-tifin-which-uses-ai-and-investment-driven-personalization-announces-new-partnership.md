@@ -56,22 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "LendIt Fintech hosts India – The World’s ‘Fintech Lab’ session"
-    excerpt: "India has been at the epicentre of a global ‘lab testing’ environment which has ushered in a new wave of technological advancements leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
-    publishedDateTime: 2022-04-18T06:00:00Z
-    webUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/lendit-fintech-hosts-india-the-worlds-fintech-lab-session/920478/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 44
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/04/Capture2022041804434820220418053650.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z
@@ -99,6 +83,20 @@ related:
       - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "India has been at the epicentre of a global lab testing environment which has ushered in a new wave of technological advancements leading to the creation of s"
+    publishedDateTime: 2022-04-18T06:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272490934/lendit-fintech-hosts-india---the-world-fintech-lab-session"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1650262494.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "VGsbkF+Mm6OeLt687aXjc7cHlmAvFzwGJVzHPq6/2QBgauwk/YllenxqEIc8vef43RlYPn9Rk3ltQFr6dp1lZm/WnSPdsDYIBSJOEpPHA4gkwxDBcS/RIzec9WMAoa0jEJ2YIn+NzqA9zkXBse2R+34EZLQLHBf6f1Lz/9U+JJqa7g8odNJGQ1ipZMTD6aWQu/jd4yFrHzxaKbfbnPV7jKq29gFnxLY+dsIjt7ZFKCEUBU3y/3z8SU9BU1UvD10pUxXoBAxJCoSx6mXpnvd/4+u42UHfgkNGDxt1dpW3zU1LleXoW/f/uNo3d5K7CCJhH9HbLgx9lPhg8e8vSTbHMTMO8RGmkBZ7dPdt9jditxes5HNnuV1UmRgc+Zic6BCtxVWrGN7Pn1xCfjeMDzsnn5lS+3pNupIW9d76erwNUiW3Ah5hLDM1KZ5YaOUwrk0TaUg+e7xTtdFGbhI+c6VBpGYyVmUcyIlvi5A53jlCrw4Pvjg0fr7T0QRj5C36TGWuhlfGpbaq3ghXfeoixh/pLw==;W+Aqt6lhnzaNKgsWCo4WRA=="

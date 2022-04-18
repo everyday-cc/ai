@@ -24,21 +24,18 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
-    excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
-    publishedDateTime: 2022-04-14T05:21:00Z
-    webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
+  - title: "Edmonton becoming a leader in artificial intelligence"
+    excerpt: "An Edmonton company is leading the way in the artificial intelligence sector by providing funding for research and projects. Mikaela Henschel explains how AI is becoming a part of everyday life. <iframe src=\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\" title=\"Iframe contains video URL\"> ."
+    publishedDateTime: 2022-04-15T01:29:00Z
+    webUrl: "https://globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/"
+    ampWebUrl: "https://globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/video/8762439/edmonton-becoming-a-leader-in-artificial-intelligence/amp/"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
+      name: Global News
+      domain: globalnews.ca
     quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/C2i%20Genomics.png"
-        width: 770
-        height: 400
-        isCached: true
 
-secured: "kC4aSUzUlnL0h2ifyW6SGgC8kLTwo3qGDtje8tra4/2fWthGYLNiz73hp8hpB6VXzl9JALKHCl46NidRcWIeb5YoWnrseb/YELfMcy1u54lFsTr4BifZy+d6TF//3GRO/7F2QHXobW2ss2QLLJekcpmN+lvacikuiPJRBKpWPgN9M3VCU34dLL4JQ1TzjHfUmBB6hEHucJmdaEdRG/KejCOCErlO4qjajvrMiVqfWdeNXJR/50FrIEbdrKWgdDmOTc0oFztgm8i+DHmtUZEiGgFtgbEkNF1dUCDswoabTZiwa/E7LbTsPz4SV+ru6hIYbVg4GOVwj9VprLvR0BprkGlYdMiIKYNggsWfgSnxyss=;2jz5Ni2D2mb+idoJA8qFgA=="
+secured: "ib65A3MJjLMOc9W6yTNVWA3bcZDrC3c37yZ+l4NcbuDywdFLKh3yzN66AqxHwcZ4gmM/bPtdxaRdmstLdpzkhkcMCzxyi+18xH0UuknVcVD5mFvfHbwa3NI/GvXDrs7LTpBxTtSJQv6NiauQK5jbDO8ocGpn6oUbu9PZK1+/TL7nmE10YaI49TkjPut5tUXcWIlrRXWVybcxXtxErsbvlF+J8ubtCslYYguYu+oumHRsuB5NMtoK8NoJAjXjk5XlTnbysl2kZiESBWmqg3fkOxbTI3At9c9XsWtuEodxl4H+jibqmsFT9kFUJFtSDDbYrZ18HoKtwqyVHhUGdRH9GdZfFAGpCEG3qSduxaYnt/WhwEjZDiXf3AwSU4AXe2tOUTv3Ug/JsPLjnSYH2mjJBRgkm0ZkxUqk2F+oGL4gCGz9/CpYSPfwQ2Eh6+LaB7a+ClfezSwoQOy3Ca9O2R7vXHhQf7W9hfw8SoY5jNT7WH7AQ4K8LtNp+T9TK92ehYtYnavA2wWmu3g06zEOe3hIFg==;oeCaBu/PadYDNzXfNEQuRA=="
 ---
 

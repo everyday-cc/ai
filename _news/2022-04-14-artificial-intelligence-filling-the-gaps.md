@@ -53,17 +53,6 @@ related:
         width: 1500
         height: 985
         isCached: true
-  - title: "From creating images to telling jokes – foundation models and next generation of AI"
-    excerpt: "Entornointeligente.com / If you’ve seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
-    publishedDateTime: 2022-04-17T07:46:00Z
-    webUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/"
-    ampWebUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
-    cdnAmpWebUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 31
 
 secured: "CuGli0jVHApKq9/LNDGl64Te+IAUUoy/nsXJ/tBmNqD686WCnXKmai+A5zzmjCNw/PpvgX8c0qBjf9gS+90zaa4ISI/MxqpjBzi6q0oNjfp7r9X1NFgtUDTfSK8F4eoxOBcfoCQybJRdrKtmBMAaNYV17iiuI7yM/IOwFAQEmA5DP/PSYPBdDLBGrd415HBd6HVw4bp8RS+181XCHPTahJKr04GpwtmKoAdfRfFRfIxqx5/JhqEIUlKibpGemYmrZvbIFn4UeMW69dO4PFJWmrc7paecFJ+ZA2hV7kKBdtW7r8PTtCIvk5wcV6LpsjHnXZ4Mj1S5J0A/U+i+am/spRbH6NN0AHbrXTTq2NkWrr1rj2hkF2rv6pKn/LfCr3rmmOolACZnLeQKHXrEktUW+u8cnb1i4ic+Ze6ffdQo20ZvkFK0fRgJFkNiR/09tETSzGtdUY0tgpSvuV2YHVFhXEa0Vm25WbGs+Ez4X5NySZppLdvWVMgsT+H0kdXVnCSH8YVH7hxxoipu1gQvoec3GA==;OsAoCCmI0Ft72wpwGUNFlQ=="
 ---

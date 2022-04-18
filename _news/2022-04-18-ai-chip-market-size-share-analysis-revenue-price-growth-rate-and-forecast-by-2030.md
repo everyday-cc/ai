@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Europe Artificial Intelligence Market Size, Share, Trends, Growth and Forecast 2026"
+    excerpt: "Europe Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 18, 2022 /EINPresswire.com / -- The Europe Artificia"
+    publishedDateTime: 2022-04-18T10:50:00Z
+    webUrl: "https://menafn.com/1104039258/Europe-Artificial-Intelligence-Market-Size-Share-Trends-Growth-and-Forecast-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/18/EP_b82c6image_story.jpeg"
+        width: 1154
+        height: 649
+        isCached: true
   - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
     excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
     publishedDateTime: 2022-04-14T08:29:00Z
@@ -89,6 +103,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
+    excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
+    publishedDateTime: 2022-04-18T11:20:00Z
+    webUrl: "https://www.medgadget.com/2022/04/ai-in-drug-discovery-market-trends-analysis-share-value-competitive-outlook-research-overview-and-dynamics-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
     quality: 0
 
 secured: "D4VgJMt5sbSxnoPvzKp4mhEaMB+17yO5S+NISfExTSiuj1I0sL5GSrmeaY9ia36JZ0/G9WBagRP23/Kgj+NV87wmDQnD+vappvNAxDC/figkY1gr3oUPfV5kfS3BG2nxZVLZuHeMqOzEz+8ZKTwg/XWrJmK0VUbhAJaGOhSln1waN1NRY1meF8wBKXtx6+JQFUb90ASsVVfgC3t1OgYb3lWF7mizKef1xuDeivy/IrN3y4KPuXefQcdbx7mTYfbO41gxy2eeCYzRrvpENzmAQz6t5Kuu+Ep0gli1xZysklmbPwiuHHXm7t9jJ6eEobrZkssdccxpGbCAuQPq0alc7YMlt8nPwpi4JcqFw95F4Pc=;/l0oCurmhjPAAC6sN56rpw=="

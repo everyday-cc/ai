@@ -1,0 +1,29 @@
+---
+category: news
+title: "Global Autonomous Mobile Robots Market Is Estimated To Maintain A Steady Growth Rate Over The Forecast Period 2022-2028"
+excerpt: "Transportation restrictions and stringent government policies are causing a downturn in the growth scale of the Autonomous Mobile Robots"
+publishedDateTime: 2022-04-18T11:12:00Z
+originalUrl: "https://www.digitaljournal.com/pr/global-autonomous-mobile-robots-market-is-estimated-to-maintain-a-steady-growth-rate-over-the-forecast-period-2022-2028"
+webUrl: "https://www.digitaljournal.com/pr/global-autonomous-mobile-robots-market-is-estimated-to-maintain-a-steady-growth-rate-over-the-forecast-period-2022-2028"
+type: article
+quality: 30
+heat: 30
+published: false
+
+provider:
+  name: Digital Journal
+  domain: digitaljournal.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4aafdccf3d572eaeca7d9c698f08bf2ee96c1613-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "RSA3427bTuRbJsK07xr/p28jcUn/hMrNR0oXtGKyYQKAZJw3+B5Rv1hiVSHgOFBR05Yzb3iHxvUqGdcZyL8hz+xfQCSJ2df3FiqIZrCQDzJMMZ01ZN6cxJzNTxHD5Zuo19W5XfEhxEqYHXqDeUjReXbdk93wJrRH24RhA+FJ0g1RV3WJ/eFwebmkE0XJyI+5Y5S+l2TaIuLjcawahDy4jbWMi14UbBosX5sWtN0b/cklX/cqkCj2ucJTLOX+vrrazv2x/sH9ksO1uaPFUAiwrocHKjkL1WFVUD050xQjZ8saQYI8oY8hZKh3zp5mUELM9f/GvwU/Dr8Cpnp/2E/orDNjQXKyBoEb/IcQ69Q0GIA=;K0dilPwcmrytDcbWTJzQfg=="
+---
+

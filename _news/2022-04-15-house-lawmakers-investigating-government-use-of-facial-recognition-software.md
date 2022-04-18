@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me"
-    excerpt: "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ..."
-    publishedDateTime: 2022-04-14T21:40:00Z
-    webUrl: "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 81
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "House panels probe government use of facial recognition software following security concerns"
     excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
     publishedDateTime: 2022-04-14T19:47:00Z
@@ -115,6 +99,49 @@ related:
         width: 1267
         height: 713
         isCached: true
+  - title: "House panels probe gov’t use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government’s use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-16T07:44:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/house-panels-probe-govt-use-of-facial-recognition-software/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "House lawmakers voice ‘serious concerns’ about facial recognition used by contractor ID.me"
+    excerpt: "By Rachel Metz, CNN Business Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the “efficacy,"
+    publishedDateTime: 2022-04-15T02:40:00Z
+    webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/04/14/house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-id-me/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 29
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/04/hypatia-h_2a3ec9434c3b380c858fa6a440e06b21-h_09485c2ad3dccc93574f93e401f21b2d-300.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "House panels probe gov’t use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently"
+    publishedDateTime: 2022-04-14T06:13:00Z
+    webUrl: "https://mynorthwest.com/3435837/house-panels-probe-govt-use-of-facial-recognition-software/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 21
+  - title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
+    excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
+    publishedDateTime: 2022-04-15T13:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 15
 
 secured: "UEll6GfiIBDtuZSroN3cxn+4mQ/mblE6neZI4QvRFzDiaxxAbXk4T0PPH2eVEmyOQ6+cMYil0fwcGwfkjuUqZ4VZN8BsRouzvS9bda7AW6AmpnOfOpdQ88WNDmjVjFaPpHHfhGu78FQ+w2Y5BWczAjll8msw7fO+V4S/Ql5p1O+vNJEhq1V57yL0SDZaqqXKWQl4bFfG9m1nWWg0NxPk4XzWFUstyUw2O1HU5s0zYmFTYsLZ1H9p6AzstM6BxJzYPaPXXL+1OBqcz3RhMhafRHn4A2axUBdKq6ZkRRiQYz1mPW4STMgD/IWAPLgCnrepgwjMfxIlyPQp+aiL/lmSu3MfOGiQaqXem93Y8Yijf3Dou/oLvvSAwKhzZHM2hSlvdFyAsRUuJ2mXlLbra97VrN8AcsKajZh5+ghbQfCpwxGWcWJj2z8a59olkXVGpkds4gz7MmLY/cO5EWeSOaT7qMi1ju604pMmEP1AScDTKe0g7GBGOBmIQUAG7Jje1TLnYsjkhVdP3Mh/SzD5roBDnA==;kYEOzGaqChYYZ8mewNm3XQ=="
 ---
