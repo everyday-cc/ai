@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
-publishedDateTime: 2022-04-13T18:21:00Z
-originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday."
+publishedDateTime: 2022-04-14T00:03:00Z
+originalUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
+webUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Post and Courier
+  domain: postandcourier.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "qRBzZQPMpHXSZ5e9PJLbJGegauJUbDTR3p9Mn8lb83qs+S6h6G1xpyvoN3cWbFYWntB3oE5uEpe4M2dHFqq+YQ3A5N+NK3TRB1aYOsSwMERfphBIoQiPY/gKq7L5R0RPqhsQ7m7K8r9shXAYAF6HndpLhzNCa2SmPNTvcuFEv1x07eJmXIFvTpubZ4mJa2qB3MqzSebQHjQh88GjuoPtr9tIcsnitmQb/Ko2DwubSnDM2Ve4l0HX5PdGgnBc3s7GGer7Z12Vg0dhSeQSgmomHgR53kT01DduiXG0eLxnh6+sV8s90toe8Z0TfCD1UKWyzolHcArLA+fBeQM9ilE8r/Iz3owIklOZk6qvGmo0Hjs=;LBT2YFMBXcCg+htnz+eSzA=="
+secured: "OQG+UYjYAdt/hhCH/e01/WGaJ4XlZYDpZfC5Zb0jsM0alAGL2Db2GrCiYAPODF1397tulSDpvcX9JtbcQLxbyCF+Jibfa6nXPoYKSysl5JzfKtUGrsktUbAnnQdCiUo3i2DNRLW2WmkNnUBFlL5F9FTtBobp37rjmWR9fv2cWwy1jWVIeXmqp2IgRlFvLLLz9+Bt6xZqoxbIaw8Ccc9pB2e10wOuEDZ/J863YS6qmuvNsp40UPBFreJ48fsXO4+oZz0oV0uv9zBknhm5ElIKPfgIto1zICeNHqrxenPrWZXZYtHMJ4QDu1ckb9tqwWrOzhc1VXagW+2hwXeJpDN9DKUhROM0gSEXNr/4Xpp/srR05K/E6LU/5qfsMMJftWeDyNhjjriSoJ3va8/npWwONwcgmjywQWmcMtfdBvlPmJGozVUrwvYtsK1eESOHVCvyXunZGAxNIOHRrMwK1bwpZXXyj0m7L7ixi1RKlKB+nm1QTOiBoNSPw6suiCcQsTaldUcBxdZoxK/F2ppBPHN2Og==;afnzE1LkVOgjAFpy51qrMg=="
 ---
 

@@ -5,8 +5,6 @@ excerpt: "Victory marks milestone for AI as bridge requires more human skills th
 publishedDateTime: 2022-03-29T05:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-ampWebUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-cdnAmpWebUrl: "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcde804560dc891607224871a6e80c44"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "L6oIFJaxCO0uR6uCjuXurTQv5UxkadsDN79ICdxGN03OuSEFC04kkX/s1rqKe1mkwoy2sUZzPdM6oIHK5Lh0DfTRHdRnPwcrofJwmqVlGMUld2zEJ7eJUyac/VhtpsAKCju7emGiXwjtAe3F4DQc2L9eGMXYhOaGFJ9mO8IMc9Bo+3iO9B93Q8vW2ChljDzk8eoPJhDV/j+GQIb1a37fxyLkCxpWx7nt++Jk+dIBmeI0Ny3LmDrypGtcI/EqGwH8amcA6jJivjTkFANpZR9+q/x4e0OANVPACGfreJXrigQHHDPh1iJ8qTKq2HL7x9dvK/60FMtiitzTDZZM9rewiQ9qQKPtH5wtC+TSSJKv/ME=;3gA3K5teuU8nweMQmwgWzw=="
+secured: "gGLQHcPe3Yk8B/niDoFqwBva/pC8yTKHmFzAP8FLNn1mEfX/TrVKP+TGTts5CsmIMaDu0ENKFxkTFGL48JKe6ECbAlctgePiRjLc6slKJ+3Sne3MuuDPxX+njGHgRtGsIbQvVGcw86OqOa2+hU14vVJA1fIp0hVbq0qrrnct40IZ8uANtruxpSR9AXGvPk7M8r+kgcUV7tTNZtrcGzjTwgYjlCftdtqMdoSvgRsQhUMcVn4rqm3CVnFL+QxCKXQ3PMjEY9h16XAg/q1JShEPZ9iFrLVumb5T9OS3MnbxEhRyh0rpwYZ5Oru7kNtVQNP8zeDfneGK3W+r0uuvGFE/iaqNil+vd3ehp8QPvrCpgg4=;uFkPTn/7qUhW+fbP2o4Fdg=="
 ---
 
