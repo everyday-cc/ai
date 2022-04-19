@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hollandsentinel.com/amp/7330202001"
 cdnAmpWebUrl: "https://amp-hollandsentinel-com.cdn.ampproject.org/c/s/amp.hollandsentinel.com/amp/7330202001"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Peace Coffee employees are seeking union recognition"
-    excerpt: "In a news release, UFCW Local 663 said Peace Coffee employees are seeking “increased wages, better working conditions and a collective voice at ... gaining voluntary recognition from their ..."
-    publishedDateTime: 2022-04-14T22:49:00Z
-    webUrl: "https://kstp.com/kstp-news/local-news/peace-coffee-employees-are-seeking-union-recognition/"
-    ampWebUrl: "https://kstp.com/kstp-news/local-news/peace-coffee-employees-are-seeking-union-recognition/?amp"
-    cdnAmpWebUrl: "https://kstp-com.cdn.ampproject.org/c/s/kstp.com/kstp-news/local-news/peace-coffee-employees-are-seeking-union-recognition/?amp"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 44
-    images:
-      - url: "https://kstp.com/wp-content/uploads/2022/04/peace-coffee-file.jpg"
-        width: 1876
-        height: 1055
-        isCached: true
 
 secured: "prz7fGqknZTK0ddT07MG0zciixDVaq26Vo6JGF7cE6BdeuSS0ByP9Ex5dyWGk3yvbAT2fw4JJe/W6MSABKTWVU5Gkqk7671pn7Rq2pZ8ld2cAOEnYxp+KnL+OlZ5lVDMGrFIlmwjOW9yh0ZyYK4NzKIUhAi6TnMkQol2X0p+rOmYGCf/ovyRLnrO9rOO1g2qVdvkU16lySBPhJz8dlNABy0OcIYkoJvt8drVo4a7HIQQHxfO3djkCOHO4TqpQ6Yzh6GpS+RdZc8Bci2/w3oK72FcqAMltb5OvdQW56avNzEIQApElfuF+to+3MLu4hwqIxKRnhWIATHbFTv4lwcnWfCY7TYVDuyYV5ZbMQ8VEnrZFCuCeh/h1gQwBJJoOa37+IhkCTWbOklH67as42dav/135wdY/k5IegKOVkUqTlywn0h7ZEhZPf4Uwi7lkMJQFV76shzSYER01QadCxtld+FrDMyMtKhS9g/zz75zc/8uXmRbVxrhNOLhTgi8vGrU4SdCgkK01FfmQmVmoOpLSQ==;j/iOqZNydfiG9xYHGqo22g=="
 ---

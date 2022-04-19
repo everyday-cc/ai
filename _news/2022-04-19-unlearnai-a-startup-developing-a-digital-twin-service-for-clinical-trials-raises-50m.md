@@ -31,14 +31,19 @@ images:
 
 related:
   - title: "Unlearn Closes $50 Million Series B Funding to Advance the Use of Its Machine Learning-Powered TwinRCTs™ in Clinical Trials"
-    excerpt: "Unlearn®, developer of the first machine-learning technology that creates digital twins of patients in clinical trials to enable smaller, faster studies, today announced that it has closed a $50 million Series B funding round."
-    publishedDateTime: 2022-04-19T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-unlearn-closes-50-million-series-b-funding-advance-/2022/04/19/9584765.htm"
+    excerpt: "Led by Insight Partners, financing builds on the company’s momentum in working with leading biopharmaceutical companies to improve clinical trial efficiency and increase confidence in resultsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Unlearn®,"
+    publishedDateTime: 2022-04-19T14:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=648854"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 13
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "Rotwbt4KdULPnd2emhMTjf8Lx+QG+QYl1FOm5brSTtw4gadskpQOOihY03o86kSWOZQ8mqSu9eo+nYQDxiYV5EOXZa126/74sYtoSgAMleQ6E9/HRN8A1WNr8i5EsDunS0L/8+NXQK3iPUHQcLMiMiifIPbe1i6zduxrFm4A24evPPSMgXLK78xeW4Dnf+Rvmv+ykRewr53L5A85vgVPYWW9cxUHXruSJdhnHCz2kGTp/lJCSaadFwSmMg3/I9ZOrMdnr3tWg3lmHHC78pwdcuHP35WIH+JcvmVRJV7YATbtu/9Z5LIch9JhNPYz/FoWvcvNif8VuNQOTm9IMw1o7rdOcr6/1wmmHUptRGwhHCO5m/VVULT0Pd3QaXYfulsFVFI7t7fcbKUZel42dtiM5IM0/FujpBZ0eWJQwavrJkNw3WxrISzLdiMPYA3zqSswBHGcqq2uAPYcvT+QIcChEDqLoLIvosHYUeUHBLkeblVU+wTkaXocWBBZNQ0V5+UcQSCGxtnjTogzyX4JO+vnkg==;aYv7nEwVrNMR1uKFefpQrA=="
 ---

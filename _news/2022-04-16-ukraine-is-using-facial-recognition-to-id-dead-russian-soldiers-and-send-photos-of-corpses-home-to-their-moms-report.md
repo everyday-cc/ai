@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ukraine Abuses US Facial Recognition Tech To Identify Dead Russians And Send The Images To The Families!"
+    excerpt: "Psychological warfare is a tactic in conflict, but the Ukrainians use the technology for different evil purposes with modern technology. The Liberal Washington Post reported that the Ukrainian government uses the US facial recognition technology to scan and identify the faces of dead Russian soldiers so they can send pictures to their families!"
+    publishedDateTime: 2022-04-19T12:33:00Z
+    webUrl: "https://ussanews.com/2022/04/19/ukraine-abuses-us-facial-recognition-tech-to-identify-dead-russians-and-send-the-images-to-the-families/"
+    type: article
+    provider:
+      name: ussanews
+      domain: ussanews.com
+    quality: 17
 
 secured: "eTAUu8CnaMtWlXkQoebMjDVwROoT5f0meBcoxaLtfliuURHAWmdYW+O7t94Kja17lDRWpQLOeyIFsjNjSbL/A1iDgIJT5ozEe7lGYeWww2Ow+/r0Wm1jxokyRAbmQSk2f3B0B314HA3zLuKAAhm+Jjah1pVcuQVB2fK2m1gEtZ++Tk7QHrku8UiXXT1aBtnsp4jcAiMi2fWVbGq8tCFMSYCRPqarWHaM4riK71pUIPhHQFwwttHmseu/m1Q2VElfbBTqjBHC2+MeUKcETvBgtfcFPDlT/uja4KxQ8G4Lo9tYEbV04OB7/qgl+Kas+1uE0ZRDRnxUpQlcN/anHwHys2JcVpCjZ5X0U1vcOW8CVLui1vsC5xQ9qtmZ9trjeFUpuDPb+Ja14mGX5djOlWZQIlbcBR0PwX/elq3ozje1HmXOpDRywcuGDWzz748/nS7A2KCxqMAp3H/B1uqmxL2C0fPEL5QXdZg6NcluHRgs1buw+4yVJj1t0JEjlZnq6HGSfvF+iGQDbyethWO44AsYlw==;zvNj8dF82i0YUBynBZbbgA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:49:00Z
 originalUrl: "https://www.upi.com/Top_News/World-News/2022/04/19/KT-AI-kiosks-South-Korea/4341650375808/"
 webUrl: "https://www.upi.com/Top_News/World-News/2022/04/19/KT-AI-kiosks-South-Korea/4341650375808/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: UPI.com

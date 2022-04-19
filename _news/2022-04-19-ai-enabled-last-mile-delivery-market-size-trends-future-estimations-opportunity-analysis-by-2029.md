@@ -23,17 +23,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Artificial Intelligence in Healthcare Market Opportunities, Deep Analysis With Present Data And Forecast 2022-2028"
-    excerpt: "Artificial Intelligence in Healthcare Analysis AI is used in healthcare for approximation of human cognition and analysis of complex medi"
-    publishedDateTime: 2022-04-18T19:25:00Z
-    webUrl: "https://menafn.com/1104042106/Artificial-Intelligence-in-Healthcare-Market-Opportunities-Deep-Analysis-With-Present-Data-And-Forecast-2022-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
-
 secured: "Dy3tdnZaWBHfWIv6xRkb4RWdsgybVm98Z8QQeik1iwO6yJbDqJ1eprT0HGozEd5pXvsceM9PgBOAEL8vEV+bJeTD3g+DrgXQaX5T0jbmkO1Ql9Mhz/QdE8tiidFW0/IePiY+WYV+hl1TIEBFEPnqOpDddZOeRWls8M5HulPjGv0OHUx28F3b9BCdlicSxKvBR+QGIRK8ooSaXM7rTxk+VlZkwDSEAO31HyIWiejkaGNRZ84yXR5d+bAtjsaWhuyUZPUVCnqSIQoLyiRst9lGPIhfJHEyozuMg/LKaaqE5Anyje31khez1Ii0rc7AcgN+Oz8tdVAKp4P7bRk5J5jL1WTIpewYjmWZZFTXsvD3lCE=;3qc3PyjG9uGz1M7BYGnG6A=="
 ---
 

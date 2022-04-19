@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:01:00Z
 originalUrl: "https://www.tcd.ie/news_events/articles/trinity-researchers-to-use-machine-learning-techniques-to-optimise-wind-farm-performance/"
 webUrl: "https://www.tcd.ie/news_events/articles/trinity-researchers-to-use-machine-learning-techniques-to-optimise-wind-farm-performance/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Trinity College, Dublin

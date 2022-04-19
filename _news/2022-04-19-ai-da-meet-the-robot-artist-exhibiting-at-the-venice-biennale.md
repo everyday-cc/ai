@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:30:00Z
 originalUrl: "https://www.bigissue.com/culture/art/ai-da-meet-the-robot-artist-exhibiting-at-the-venice-biennale/"
 webUrl: "https://www.bigissue.com/culture/art/ai-da-meet-the-robot-artist-exhibiting-at-the-venice-biennale/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Big Issue

@@ -52,20 +52,6 @@ related:
         width: 1170
         height: 731
         isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
-    publishedDateTime: 2022-04-14T21:50:00Z
-    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
-        width: 550
-        height: 330
-        isCached: true
   - title: "Fujitsu launches new research center in India, embarking"
     excerpt: "Fujitsu today announced a key development in its global innovation strategy with the establishment of a new research center, 'Fujitsu Research of India Private Limited' (hereinafter FRIPL), on April 1,"
     publishedDateTime: 2022-04-18T10:10:00Z

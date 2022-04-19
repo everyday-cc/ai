@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-19T10:11:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-aiaas-market-is-expected-to-boom-rapidly-in-coming-years-2"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-as-a-service-aiaas-market-is-expected-to-boom-rapidly-in-coming-years-2"
 type: article
-quality: 40
-heat: 40
+quality: 44
+heat: 44
 published: false
 
 provider:

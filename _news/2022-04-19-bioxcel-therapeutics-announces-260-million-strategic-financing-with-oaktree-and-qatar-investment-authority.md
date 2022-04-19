@@ -1,20 +1,23 @@
 ---
 category: news
 title: "BioXcel Therapeutics Announces $260 Million Strategic Financing with Oaktree and Qatar Investment Authority"
-excerpt: "NDAQ:BTAI) BioXcel Therapeutics Announces $260 Million Strategic Financing with Oaktree and Qatar Investment Authority"
-publishedDateTime: 2022-04-19T12:55:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/19/bioxcel-therapeutics-announces-260-million-strategic-financing-with-oaktree-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/19/bioxcel-therapeutics-announces-260-million-strategic-financing-with-oaktree-and"
+excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI) (the “Company” or “BioXcel Therapeutics”), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
+publishedDateTime: 2022-04-19T11:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584691.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584691.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JRVLwl7qfMHaS11w3ZrmuFxVnJt6Ldu6CT41Fve/04MIrbR0vXSFNwjqjhJh2c23flQjD3zrA296UNrz+MtbwumVBvg4AJVJXtn1snQsghiAeQwHBXn5/wqYQBwOWLOPsDNg4409Csg/3GaoUVaQdyp5NYMVFZlVR9f22m+TywmOEHFJorviHAQmcQQuClmbnjqrnLOCFC2FvhzHsPgabFz/MRP19Vxpw1SZMeZv0T+Lg03lJ0JAs86zjXv2KjUtkRctsZlNKBh4j+1b6cNusR3/s9obVYp52fRxXzLglpbf+b+tzFG8aeMarftBC6S6GEWAWVU8Uqq29Kql5k8zvqqTr4XAKE1uwKUf7exyf10=;6o7Rex/Aj9it/RdFDqf+0Q=="
+secured: "CKnITODETMknI/sDDjV7R2VTcslWcTCYkgP4IxTg/zSZ2PgqAWUuc4WWHI8WS3aczLTtIU618nGQlXB7on4XTC14eazK2C3w9SxDuq3tbh+xzbgt0dxNn5w1qARMmpISxl+MvP31F5dbwGtNQpWDF9XBjLMF09aHVkGyBx3neI2ASc1QrVxO0APbOlUXujvMDTQ3/IwOkg9eWrdgGBJ5f1bM23Btwc1qSQEhBZVeY7fUuutex0B5YDXcAqmxJd5bxDC3Fs5jbeg2RZzJ9Dx+K2jXcet9ypvrg1tmMyYAykdLBZOrwF0KM0wEewB/dDoyQ1SNhIFZ3TAkgnB8bCXpC8L+6CJzqr5c8Eq/uPFHK5w=;xlr5Tz/66O0aAzqZRvwheQ=="
 ---
 

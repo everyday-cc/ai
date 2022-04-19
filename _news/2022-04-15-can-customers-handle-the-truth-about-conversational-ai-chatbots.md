@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/can-customers-handle-the-truth-a
 webUrl: "https://www.digitaljournal.com/pr/can-customers-handle-the-truth-about-conversational-ai-chatbots"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI chatbot provides emotional bond for mental health app users"
-    excerpt: "Results from a new peer-reviewed study show people develop emotional bonds with artificial intelligence (AI) therapy chatbots in a similar way to in-person therapists. The study evaluated 1,205 people using a mental health app developed by Wysa Ltd."
-    publishedDateTime: 2022-04-14T21:54:00Z
-    webUrl: "https://www.bioworld.com/articles/517958-ai-chatbot-provides-emotional-bond-for-mental-health-app-users"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 39
-    images:
-      - url: "https://www.bioworld.com/ext/resources/BMT-source/2022/04-14-Wysa-AI-chatbot.png?height=635&t=1649968293&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "XCiPYRsjXG9cW1QX7V8LnAUArenhBlTWLz0R13rdHMKZjXIoUgyxG4PwrMnl/z6Skk2cxcw6lJ5E6849sdpizFXrm1TqdYzlNDNadAncvCj58U0uyketguSfu7+ozT6BPheLF4AMHqXFMyaQ3JxD1RNt9xRf8rSW3rFtsDUXcEYvvVyfJ1kxZdZerGboHtd2J4RNMZhFLQVSyRA56oK6xx8R1P8OQOnwKRE0NiZeMePBCPBPLjp/Urs8VAsa2pJaeUiyvvD5cPy9myys3a7Q/wwGtbee6jSq1kOco59E9M3nzK0LoLm8knfhG/1PfDKhp+tM9YgAfK7AoBnUPTKASOmRmOHovthFggTrZeEnSs8=;PURT9Fgp0w0UlkuPH2HqSA=="
 ---

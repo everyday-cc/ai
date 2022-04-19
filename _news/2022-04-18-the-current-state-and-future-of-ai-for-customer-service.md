@@ -34,34 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
-    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
-    publishedDateTime: 2022-04-14T19:32:00Z
-    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Instreamatic Launches Speaky, the Voice AI Platform for Instant Customer Communication and Real-Time Sentiment Analysis"
-    excerpt: "Instreamatic, providing an end-to-end Voice Marketing Platform for managing, measuring and monetizing conversations between brand and consumer, today launched Speaky. The new many-to-one communication solution enables customers to instantly and easily speak their minds to brands or content producers by leaving brief audio messages at any physical or digital brand touchpoint."
-    publishedDateTime: 2022-04-14T21:03:00Z
-    webUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522792/instreamatic-launches-speaky-the-voice-ai-platform-for-instant-customer-communication-and-real-time-sentiment-analysis/"
-    type: article
-    provider:
-      name: WFLA
-      domain: wfla.com
-    quality: 13
-    images:
-      - url: "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/Dog34.jpg?w=2000&#038;ssl=1"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nRAXBO1uuPK7d+LjZhPFQ0InKQKkDcLhl5hMkGNVpQe+WNCh/Tsr7frprhesHeGMMZ3ZHGbaMa56PvHabgGkfxyVLE4b3AUi6PKBKx53jWuJRBrevZt+WUxqbb1NGWD0UMy3R3otes453jJvSM4jciGhGjk0NGGnYI/i+wlu8853SmvFBxm2bLOjnBO09WhKQy7wyiftOdRE8TuexUiRuvhsSMb82O3MSOvlJkrIBWrHd9pxRKt/NxMYg5ItjYboDk2Vmd65xaWo5ANwk6oYjGS9XDoqqBTDENP4r/bZjKk+GefQbfjRm42qoBC8L3c1cu6c+KQxAWrxfRKScklIuRwjhjMaHmaxic2k4KatGeX5+P0ucp4samYsgdLW1AEsJBeuFlqIgsvdNhyxoa6sbmcjh1ls59qncmhSY8WJuB3I/yotRhnyVX7JNuWAe8BIibqtmPhOWR0RTn7Gu8/qLhdNpQkYeNJyIGJrB2IxhjUM3zIvd0/69bfvdJO2iJyuj3LJv5tebAzAerLAsr9+OQ==;qa5WI6D6zjQrxzv4jg6KiQ=="
 ---

@@ -130,15 +130,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
-    excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
-    publishedDateTime: 2022-04-14T19:05:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189811-189811/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 17
   - title: "EXPERTIA AI raises $1.2M seed funding led by Chiratae Ventures and Endiya Partners"
     excerpt: "EXPERTIA AI, deeptech virtual recruitment platform has raised $1.2m in seed funding led by marquee investors Chiratae Ventures and Endiya Partners."
     publishedDateTime: 2022-04-18T06:47:00Z

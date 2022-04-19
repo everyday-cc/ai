@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:55:00Z
 originalUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
 webUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CMS Wire

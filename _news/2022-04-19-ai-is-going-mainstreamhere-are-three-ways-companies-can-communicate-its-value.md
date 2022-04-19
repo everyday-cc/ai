@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/19/ai-is-going-mainstream-here-are-three-ways-companies-can-communicate-its-value/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/19/ai-is-going-mainstream-here-are-three-ways-companies-can-communicate-its-value/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

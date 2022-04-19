@@ -1,24 +1,56 @@
 ---
 category: news
 title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
-publishedDateTime: 2022-04-19T12:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. This summer, Imagine Language & Literacy program will include Fluent Reader+,"
+publishedDateTime: 2022-04-19T15:52:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220419LA28479/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220419LA28479/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills/"
 type: article
+quality: 11
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "J67Ih4eUH9mCh4BUmDS8xWPjX1L63uqcC/fF14gZJMh9nN/B1uAL5DD+CtoOxXVPxo0vU/jmBZG816UmxMjVv2bRtZXZwZb15I2mKau6grgOhcOPOzOzUVJ8AcDO8iJ5rO248YS1DAmoeAOu8yGHMUdUDcvqd0PZdp9N++9OXXe/MRL/fRaNd/hNKeZZtNVsh4pexptRyIIceDWLSiKU6hN1rrFBtzKjfNC4SuESApm/gPVTthxXBIhILA7nYD3Lu76F1a1c5EBVLgfGUvZUBGE3d+jLH4ihDxZr6ZX7HWasJsqFsPsPZAvhMmsjUYupiefIaUtGnsdTWJS87rIp3BbEUMATRtLOgdeepn/px5xxv+ECtbxbhuPFrWyDVmS1qx0hQb6nlKNxpCNorvzvopYHji6FAfGHgn9XknODdmCGLau3b7aWZHhCI/e5cEHRt4/T951CCIBGlbmdz454JrVb7psgAcFO1GgKikYcVbY5/jJhdIfdsqqNjbon6kWRHpvjLH06wCFVLdz5KyBdpQ==;IUHhNBcJBPZb72LsBu2bhA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1733201/Imagine_Learning_Logo.jpg?p=publish"
+    width: 800
+    height: 291
+    isCached: true
+
+related:
+  - title: "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim"
+    excerpt: "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences."
+    publishedDateTime: 2022-04-18T15:43:00Z
+    webUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim"
+    ampWebUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 70
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
+    excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
+    publishedDateTime: 2022-04-19T13:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
+
+secured: "fuFlt7IYwtGf0SDn6Oq/HsT8Tt5sqM370BWscayNIK+6aYlm6BAQOaJkWnpf/wwUb1iqLUXGdbu1tumpLw5npkRWUBlLWl9Y7fvHIRmsTyqpmrSFW1QrebNNPuJo7JfJT3vgdYwkSb5nIZmm8CPfaK2Ell7aoORo3rV0Tzumt/tEN6eVGKCbKHyWaOh+XjpnqdFPHjYPcxJpskOjwzziJPaHvSV3IT7WBEwJnCRntOWkC8Qwot0ZEUWOVwbt+sUAVRcrxbDVnb9UofjkBrxdhASUzbJ4hV42a0YkJq46A3wE7XmISGaLgFEDH5SMY8uVZl+TWFv2STNYq5F/DdWJ89r084/yX98mG8+pJ8QYgjk=;nSzViI2RC7JlGB1wLyhPuA=="
 ---
 

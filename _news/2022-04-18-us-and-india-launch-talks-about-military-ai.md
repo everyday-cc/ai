@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "StatScope – India’s first artificial intelligence based market analysis service launched"
-    excerpt: "StatScope has launched India’s first locally built artificial intelligence (AI) based market analysis services. Artificial intelligence can help"
-    publishedDateTime: 2022-04-14T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/statscope-indias-first-artificial-intelligence-based-market-analysis-service-launched"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.abnewswire.com/uploads/1649928037.jpeg"
-        width: 1000
-        height: 607
-        isCached: true
 
 secured: "jmi/grjidUswfzf1UEGGmfcb+WvQwQ4OoZ3wleWwwKNR+QDwfUXbC0wLkgE5Z1zFEvFJKydWBc0T4T6AirbjREyG7TtDRi2EeKdVxK7wh1dIezMKecxVjOm/fdlapJ/imA5gIOy7tTTkZ6zDD8kcWk8H9Guy5mfQP1yZpHJGZhLoFIcustnEzLhFa4eagTqjhQ6AS9z/8Ea0QPAArx/v9Uw0puMKTSvK6QhrK1WGefqM1d2GjKiKSGrbKnvz/sXGLke7Vdoh46urmaYjT14+jH+YQCk41X4+yLwjMmGvcewVR4tGGrgNTcCvc3Ba5nZDqWXIwF4xZmYBGDgSULZ2g2cB9VMrCdSc0vC4UF+CIx6Sl2qGn5uOULIy8gceIhTNSx5JoMvXnEneJOwJcx1MkVe8q9Io1KXr9YZhrAQLkMwLTKHJOG5clWk2jbCFg1H6/zOEbO6TMdZ56W/nN9cTmdKqVFxEvcHmO/YrUSMMqudQtmIvW5EZos36Hf0CpmrWSPGWH86DS6nWxEc2REqfQw==;sNQVlAORNTU53jw3oz9fbw=="
 ---

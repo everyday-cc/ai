@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/encore-s-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round-1031364223"
 webUrl: "https://markets.businessinsider.com/news/stocks/encore-s-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round-1031364223"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Business Insider

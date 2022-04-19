@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:05:00Z
 originalUrl: "https://myfox8.com/business/press-releases/cision/20220419SF26494/synopsys-introduces-industrys-highest-performance-neural-processor-ip/"
 webUrl: "https://myfox8.com/business/press-releases/cision/20220419SF26494/synopsys-introduces-industrys-highest-performance-neural-processor-ip/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WGHP

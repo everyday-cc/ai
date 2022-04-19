@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Finnair Chose Transperfect as Main Language Service Provider"
+    excerpt: "TransPerfect announced that it has been chosen by Finnair as its main supplier for translation services and globalization management"
+    publishedDateTime: 2022-04-19T12:08:00Z
+    webUrl: "https://enterprisetalk.com/news/finnair-chose-transperfect-as-main-language-service-provider/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 19
   - title: "TransPerfect Selected by Finnair as Main Language Services Provider'"
     excerpt: "Major Nordic Airline Chooses GlobalLink Technology to Manage Multilingual ContentNEW YORK and VANTAA, Finland, April 18, 2022 /PRNewswire/"
     publishedDateTime: 2022-04-18T19:57:00Z

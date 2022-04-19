@@ -26,6 +26,17 @@ images:
     height: 729
     isCached: true
 
+related:
+  - title: "From SPORT magazine - How Jackie Robinson found his voice, five years into a historic career"
+    excerpt: "Five years into Jackie Robinson's legendary career, writes Milton Gross in this 1951 excerpt from SPORT magazine, Brooklyn's second-base star is at last expressing his real personality."
+    publishedDateTime: 2022-04-19T06:33:00Z
+    webUrl: "https://abc30.com/sports/from-sport-magazine---how-jackie-robinson-found-his-voice-five-yea/11767470/"
+    type: article
+    provider:
+      name: ABC30 Action News
+      domain: abc30.com
+    quality: 0
+
 secured: "ENPbiMCozkJ25R2bXTSnyxR4RTP7Ycoowa6EWaNGdLD8sYdAGkXzOeu/v950S9MMS5Cw7WBJPfnp7vLyXctP7NKXJRo0EwDf7EUkp1yhyol/FbrjDGHlB3ZW5JVs1oa8iydeGChJOet6RBpQLrzFBwTVHffpk42Z9zzqg8pVd0ikaZS7kpYgZas9TfkAr3oPfHwhIwxPl/AcpsP5cDefmeLMHv9TwGNbv6+qiktdRTNXfg1TpeQEY/5JY/bKXkinBwJY0xkQGCIPNIz2WKkUQmzOCNTuuXnYivMaJD727e063GK46WzrT5eX2QOrKHZW6afRfoFO9Smuwbm0lsc4G0aevKzApZPv9pwtaC/NLjg=;fJ1Tm4DbjOdwl5yo8IzcGA=="
 ---
 

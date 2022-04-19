@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:42:00Z
 originalUrl: "https://www.investmentnews.com/ai-can-help-amid-industry-consolidation-staffing-shortages-220157"
 webUrl: "https://www.investmentnews.com/ai-can-help-amid-industry-consolidation-staffing-shortages-220157"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: InvestmentNews

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "House lawmakers investigating gov't use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-18T16:18:00Z
+    webUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    type: article
+    provider:
+      name: WQAD
+      domain: wqad.com
+    quality: 59
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Congress launches investigation of ID.me facial recognition technology"
     excerpt: "Concerns the I-Team first revealed more than a year ago about ID.me's facial recognition technology blocking legitimate applicants from accessing state unemployment benefits has gained national attention."
     publishedDateTime: 2022-04-18T19:10:00Z
@@ -57,6 +73,45 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House committees launch probe into feds’ use of facial recognition software"
+    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-15T08:50:00Z
+    webUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/"
+    ampWebUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/man-gc0619524e_1280-e1644924933516.jpg"
+        width: 1267
+        height: 713
+        isCached: true
+  - title: "House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider"
+    excerpt: "Looking for the latest Government Contracting News? Read about House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider."
+    publishedDateTime: 2022-04-18T20:41:00Z
+    webUrl: "https://executivegov.com/2022/04/house-lawmakers-kick-off-inquiry-into-facial-recognition-service-provider/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 38
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/20/ec/ee/33/c8/fd/47/94/00P4y000011p6OsEAI.png"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "House lawmakers investigating government use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-15T13:10:00Z
+    webUrl: "https://www.10tv.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    type: article
+    provider:
+      name: 10TV.com
+      domain: 10tv.com
+    quality: 17
 
 secured: "eNfXC2ShOYLaIZV7TdTvt9PMnAbbkiTsw+z3xbrD+4J9x5rgmfNVoYQJN725va9JNs1JtqyazAc/3SXnfkTFNT+xr6c6h1AA9FRPRnA9VhS2DT+Yh+5aGqJ3egMggecMrLybrXvK1YqZooUiwX3EskHlx6du8LS/GjbQH2vIkzq7yk6ZCKmFKQ7z5SXRpZdWiGGwm4xUXhUMMISJzqbgdiCfTuAKUR+ygMtkBvYCcxnXy3433MJT4Co2uHLQ2e3GfgcKH73OBBLw6/He7layoItSdHkqBkHkkJ6anUoCHJmvnN65Ya9JCnHu1tLhRqajWq3EmivUXilBnMQpudTxupR37VF3JPecb/J6ioTh+CGxClyTcRlqae/GAMqOt+KwOPMvjHyDaFOXRr1Tt9PhpGcFy5uGY+GC8stP1fyMpEGkdF9FBrlxZovs8I8BNdoYXMdrApumGoWqSLty7cdLyyv+HnkMTjueHfdh1iPofryhJ7FesrQWEicE9EktDEwvQT9ZBov40DPZ60lqfHa1ew==;fIQ5e3qdeXfGIkcZVce7tw=="
 ---

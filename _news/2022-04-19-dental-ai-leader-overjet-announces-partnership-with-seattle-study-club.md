@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Dental AI Leader Overjet Announces Partnership with Seattle Study Club"
-excerpt: "Overjet, a leader in dental artificial intelligence solutions for providers and payers, today announced a partnership with Seattle Study Club (SSC), a recognized leader in continuing dental education with the largest network of dental professionals."
-publishedDateTime: 2022-04-19T13:27:00Z
-originalUrl: "https://www.kxan.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
-webUrl: "https://www.kxan.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
+excerpt: "Innovations in advanced technologies such as AI are reshaping many aspects of dental practice, from clinical decision-making to doctor-patient communication. \"There are times in our practice life ..."
+publishedDateTime: 2022-04-19T13:28:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
+webUrl: "https://fox40.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: FOX40
+  domain: fox40.com
 
 topics:
   - AI
 
-secured: "i1SRD9vtkhbeO/5f4FbdYQim4bJRol2A0H74v6UnmirmUMZbNxpEasGGgWc7fUnjKA7Bz299MKa6s2wWWzcF4Bix8uZCUeM6/lLwyghFns6gNoMcdk7SJ4uyizqlQS95VAzyFRQ8zT4uv2iWN5eWTJv2UM79ZztH9bLmPWPNzgMiz9GFSdSU9W85St8RMy+7Z3eOKpZrjpKRKDR2LFE77QPCB2AjxjEWC11XwoEy6rtt6/Gn72Xbd16tmKI9nJDmB57S4VlGg84iJPVDdunLmwLXCb7p0aQW6Tc0hIedwKfo0NrB5zPpTLEr9w4D7L+BuAH1IUdZVHuDjj8UubtOy2ERu5LHcZxr5HjVsMhHknA=;ZFFrO0gBop/8wrAfjXOF6Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1514996/overjet_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "wjFRbciimFy40kVsadeSB6pryqWnBCvtR40D3zWwSa5uCFh276o/3kvqRDbsZIGQgT1bnICcH/6jWTF2yKpTdWDxp9J2B/QSS0t+lTmS0jFpcq8wQ/DltgMsxj1rTBmVIKGYAdgNrO6IoWoWrvXOwEOSRPdHyMo1a/OennHOZf7+BZxrLJtemgIGTpK+myWJuFT4L/a3JAxgnWgeu7wF//Ap18e+8Nvg2CHgRBJshwtXomv/AVd+zGvRMCdaqI0hxgq3O8Bi4TYuP66jL4IK5PDU55Dn2pM+d2CusxRi2FH5dtyApYXuCXrRrdCGijmntgTziVt3BrRNO43bwE7GIEGuKKjdXN2QHwY1QHj4Ox0=;cfiPebkuBVKMY5o+WjN+NA=="
 ---
 

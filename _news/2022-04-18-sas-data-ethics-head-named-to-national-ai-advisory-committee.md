@@ -1,31 +1,28 @@
 ---
 category: news
 title: "SAS data ethics head named to National AI Advisory Committee"
-excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
-publishedDateTime: 2022-04-18T16:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
-webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
+excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
+publishedDateTime: 2022-04-18T16:09:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
 type: article
-quality: 84
-heat: 154
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Ethics
+  - Machine Learning
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
-    width: 320
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -87,24 +84,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "Commerce appoints 27 experts to National AI Advisory Committee"
-    excerpt: "The committee, established in September, will make recommendations on U.S. global competitiveness and the National AI Initiative."
-    publishedDateTime: 2022-04-14T19:41:00Z
-    webUrl: "https://www.fedscoop.com/commerce-appoints-experts-ai-committee/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
-  - title: "27 Artificial Intelligence Experts First To Serve On Commerce Advisory Board"
-    excerpt: "After being established in 2021, the National Artificial Intelligence Advisory Committee elected its first members to advise the federal government on AI policy."
-    publishedDateTime: 2022-04-14T19:44:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/04/27-artificial-intelligence-experts-first-serve-commerce-advisory-board/365679/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 14
   - title: "U.S. Department of Commerce Appoints Markle Foundation CEO and President Zoë Baird to National AI Advisory Committee"
     excerpt: "Baird is one of 27 members who will serve on the committee. Effective AI policy can enable America to lead the world in economic growth that equitably rebuilds the middle class. \"AI presents far ..."
     publishedDateTime: 2022-04-15T01:35:00Z
@@ -120,6 +99,6 @@ related:
         height: 248
         isCached: true
 
-secured: "rv4Su20cDBxRewLqu9YyIQ/jhCHgle8t4fbPSxyx3ldamBpRL1v/z46NQczPI9sYoqAJxt9ARri2kygunn9oWz1gt/LaXWKWoo8uvy97PCEWPJbnXXSpfPKSD10tHczJ96K4NNkRBLEAipKtcjvzsK9EXbJdN8DvM4XDFeAZPo3KIQ2LhmInzArbRT2+7rF3L9N2hR4d+LJ08fQ0hCeN0w9q6quv/jFrxpJ6ftedy3bsNYTo0OfyJMq97yFeu2gIKonY4oAQbwxp6jX1wFw09O9g23PPR9YZ5j+WgaxJ5kqMMC6u+hEt2QI2BP17hheWNCZQtdl/2/EJFgZnDQBH+I3W1Iu0gRV4wVreWoURsCBYCvmGNmL+BxXScMfjtQ4OuFvXJHz0bFw3ww9zmXFaaWNiFMMFcKNILkJopgBfB5pRW9GvKcaTy1uqVH90V9kxFOM6B7vatesSUXbo3BRUK9EslaDU6d8aCImD6WwWUZkFXGbLW6RSIYyR3O9CdE0LKDtDgBUu7Okn1Zto4lcwfA==;YPktSegvU+R33ttJ2Y8vBg=="
+secured: "9aH+63OjC3gIUBwhTQUWurwK2AciL/SZAYWc6HvOQU4gJvD0eqK8pt26ElgrByom5HStDekP85Qv2WHHIfhUQGeNm2NzYoyJffXMOC6FIzNngz9JVRR7Fy60gEKmcqqqOEe7g6HK7rNfj7QsZgtqOQAyvArwjaxed+l7MRsK2sXPJtgC2dYVXmLytmL2qPZ44CBHydVdBGto3Wz6iXUQ4ZZAiU/7e9n6X/6ewqt96oWMznPDg7MQwVQwV+/rlZfHPRkHFmPCOjnK1pmuU6KC8lJII9u4zPzTrHoQzYQ7KOxKTq3Yw+Zv9qRyvOih7WYwt8xyWeaVztKBBGUBh8tPUx3ZJGjpfgZEB50j4FxBgOg=;4XzSM7Fp6XZmDhUssF8CTg=="
 ---
 

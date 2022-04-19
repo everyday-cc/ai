@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 978
     isCached: true
+
+related:
+  - title: "Fighting Harmful Bias in AI/ML with a Lifelong Approach to Ethics Training"
+    excerpt: "Today, artificial intelligence and machine learning technologies influence and even make some of our decisions, from which shows we stream to who is"
+    publishedDateTime: 2022-04-19T14:37:00Z
+    webUrl: "https://www.datanami.com/2022/04/19/fighting-harmful-bias-in-ai-ml-with-a-lifelong-approach-to-ethics-training/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 69
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/bias_shutterstock_Drozd-Irina.jpg"
+        width: 1000
+        height: 581
+        isCached: true
 
 secured: "uqg0vZZIeZ/lynIayNVIdCcZ5Co1tNcEEimS321KUn8CLiXQcpqlDdZtiRXOtwAjlnOosb0IZMpg0TPxgVTC649HDUOOi/f3bjFydwQ+TPzKkfrYDHwtfI1+uDf3ibq9aKQHiVgvhgtXhmzSJOk0RVLe1YzVUsZQTyv5HIL7unFmt9Fu/0wtg3gHyhjRnWcWmdOF2bcK/JjZ4W1AfR6Yw/mZ86zGw35C30+ZSIbETMjQlhzUKC1Kxwe6Bx/NmZZnxEWwRcvEOc0Liq3XoC1beGWMbP+N3k9PqKE4zzxS1EOmQxfOb0HgJVoMDPfBg8Sx9epdNGwlCCgUFMae3UvVCCF+yoPgG0kSvsRxGMn/kR9lfMLzHfwvHAtfwrtmmSFvjdVhWcM7vgXVA6LJYXUD/xR+JWVvF+55Wq2BCb1HdFP87CIhlBmNiQ3riUKE0EIAm8usW6d8GBBFa3b9gAaOBNQrJ4g4s8vfhuvGlo8eg52wTRTMGoBjz0eXFgwiwud3d2vdNfMY/cg2+snUPtmEqg==;WpDMxqm3tJNmXtFAE7mXRA=="
 ---

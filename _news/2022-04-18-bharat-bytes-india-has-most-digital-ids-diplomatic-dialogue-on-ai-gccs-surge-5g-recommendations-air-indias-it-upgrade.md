@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 690
         isCached: true
-  - title: "StatScope – India’s first artificial intelligence based market analysis service launched"
-    excerpt: "StatScope has launched India’s first locally built artificial intelligence (AI) based market analysis services. Artificial intelligence can help"
-    publishedDateTime: 2022-04-14T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/statscope-indias-first-artificial-intelligence-based-market-analysis-service-launched"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.abnewswire.com/uploads/1649928037.jpeg"
-        width: 1000
-        height: 607
-        isCached: true
   - title: "US and India launch talks about military AI"
     excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
     publishedDateTime: 2022-04-18T13:21:00Z

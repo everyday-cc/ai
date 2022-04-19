@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.stripes.com/incoming/z8v6jy-DARPA.jpg/alternates/LANDSCAPE_480/DARPA.jpg"

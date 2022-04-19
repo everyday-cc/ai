@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:08:00Z
 originalUrl: "https://enterprisetalk.com/news/finnair-chose-transperfect-as-main-language-service-provider/"
 webUrl: "https://enterprisetalk.com/news/finnair-chose-transperfect-as-main-language-service-provider/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: enterprisetalk
@@ -14,6 +17,31 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "TransPerfect Selected by Finnair as Main Language Services Provider"
+    excerpt: "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that it has been chosen by Finnair as its main supplier for translation services and globalization management technology."
+    publishedDateTime: 2022-04-18T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-transperfect-selected-finnair-as-ma-language-services-provider-/2022/04/18/9584285.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1797567/Finnair_A350_Plane.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "TransPerfect Selected by Finnair as Main Language Services Provider'"
+    excerpt: "Major Nordic Airline Chooses GlobalLink Technology to Manage Multilingual ContentNEW YORK and VANTAA, Finland, April 18, 2022 /PRNewswire/"
+    publishedDateTime: 2022-04-18T19:57:00Z
+    webUrl: "https://menafn.com/1104042159/TransPerfect-Selected-by-Finnair-as-Main-Language-Services-Provider"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
 
 secured: "kJzHjfuFNytkTuoCMWF3klYIkoIeifBlleS8grA41COdc6MxKxddWQwByyfUcdxf5EdhV02XJdsvGxFR3Yzv/nXb7+JygxGk+C8E+cYkgp2I0Wl91/8JmvUOOErmF9KU9JElKIboyddQF6M3w8chyNgkYywA/ULUYj6M3L/kRvoldLrEQM3bR9z/TkcK/5zjhrGtA6CyzZpDqEXWk9+BSNH12V1U8Az7Seb/gDEwwJQ0LoRMLN5ryojL26pQ07/zunObmY36opusN0op+cM2fl1D42GQmtBTIf7RUHqTi0bnMnWpfMfbyl3nlsg+MgOtQdBceqaVpO9zFfMDm0YT51Y/39NjM9vRN2a86sQ5POJciTcDHgGvhq7TPYsjdmgmr+IJlQbob6a0D0K4kAlV9Ef/RYmvkjd92GZXzRUGW8UXICXoyJLKcIjlCBi7dT/1mFJ92ItuD3J12R/YWnLfW5W0DSA6cYLfgj4LmRKwJwCJcDsL0sXN52ED1fW2AFZbPQ4MHbvjHypztZUA8X/MBA==;EvL4WrhZU3oeRHBggkRTqA=="
 ---

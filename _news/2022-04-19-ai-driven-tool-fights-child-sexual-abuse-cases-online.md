@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-driven-tool-fights-child-sexual-abuse-cases-online"
 webUrl: "https://www.digitaljournal.com/pr/ai-driven-tool-fights-child-sexual-abuse-cases-online"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Digital Journal

@@ -24,6 +24,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
+    excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
+    publishedDateTime: 2022-04-19T12:27:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-diagnostics-market-size-projected-to-reach-usd-58-36-billion-at-a-cagr-of-4-42-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+
 secured: "JLQQPwP+5pVtAQjtUCu86/Gf/PVCXwkJq2NSqTSrgKthl3s9FM7TVg6SMAW6B1n4bBCcyR+K/brLNIuZUbyhwmGns0Qim+ptKvYOXdg+zKeOyfWlMRT8m95W6NJSm4sLB4bhkQe2mJhWod19cy0XhavwazmkFdXFOpn1yI1JikicE9kcSP043N1aN9Cpwv8ZOFAzywznqydXpDCupdEfk7sCtX+VPvJZhyrRjshejFI+k4z9rylby2o7tFGC4WuhSkZpTn98Y3tGpIfRs70wtLo1jA79JcLhpBUJQowW0OTzo/LlXOaHrDyUp7Rd6rVTGvtF21utnWBelnAoThBFjqnarXwL7Mn5nTmxkvBJwfg=;B34dleDsUB/XDnP78n5ozQ=="
 ---
 

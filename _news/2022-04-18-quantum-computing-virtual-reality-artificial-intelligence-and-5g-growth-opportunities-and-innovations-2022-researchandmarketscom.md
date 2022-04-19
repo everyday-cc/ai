@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-919dd58b71e94e369313667aeb258cd1"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application"
-    publishedDateTime: 2022-04-19T11:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55807054-artificial-intelligence-in-manufacturing-market-worth-dollar-16-3-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "AI in Computer Vision Market Set For Next Leg Of Growth During 2021 – 2030 | Allied Market Research"
+    excerpt: "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover, the report provides a detailed measurements about the drivers,"
+    publishedDateTime: 2022-04-19T12:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-set-for-next-leg-of-growth-during-2021-2030-allied-market-research"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
 
 secured: "X4pSAAfS/G12DI34EB6aItsKtx3MVmOE7RppWjNojyC3XG0Pz6Hp5kyjRCb5VgPBb18nRF9zwo8QlugNYA8+YJU7irZ8N1zhRhDaM6gL9Y+dnEq9ECBud+AuAwC96p4fXO3qS67uB7pvOYrDOkjD3pymtBjK2xyPuIceRw7A541NIY3x3LbJR2a5cqf+PcpbLjm9lgFO9ku0o93cXOQc8VVKaCpUvmr+GIO8yaOESSBVi0RnapHyZL2WiZ7qmw3WWFOJeUpmatTsrIy6+3vTsY4aqLlN8p8qaPBt8lAQu5oj88mJFo1YMyQhGtEY0SqvLoIJUdoB/EvZ9sUDDybNVURDlY9zPg+/hKHw7n/xVVQ=;cKVIy1cSqTWIthzdv/39jQ=="
 ---

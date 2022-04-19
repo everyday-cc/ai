@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:44:00Z
 originalUrl: "https://stockhouse.com/news/press-releases/2022/04/19/authid-ai-appoints-joe-trelin-to-board-of-directors"
 webUrl: "https://stockhouse.com/news/press-releases/2022/04/19/authid-ai-appoints-joe-trelin-to-board-of-directors"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Stockhouse

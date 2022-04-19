@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:04:00Z
 originalUrl: "https://www.aol.com/news/robots-could-help-solve-us-100400471.html"
 webUrl: "https://www.aol.com/news/robots-could-help-solve-us-100400471.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AOL

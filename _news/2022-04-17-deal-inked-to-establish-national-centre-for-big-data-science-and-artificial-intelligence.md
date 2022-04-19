@@ -46,20 +46,6 @@ related:
         width: 1170
         height: 731
         isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
-    publishedDateTime: 2022-04-14T21:50:00Z
-    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
-        width: 550
-        height: 330
-        isCached: true
   - title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
     excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
     publishedDateTime: 2022-04-19T04:30:00Z

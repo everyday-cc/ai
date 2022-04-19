@@ -3,8 +3,8 @@ category: news
 title: "Bulgaria to develop AI research centre in partnership with Google, AWS"
 excerpt: "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership"
 publishedDateTime: 2022-04-11T21:40:00Z
-originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=cee-telecoms-media-it-newswatch"
-webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=cee-telecoms-media-it-newswatch"
+originalUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
+webUrl: "https://intellinews.com/index.php/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 510
     isCached: true
 
-secured: "PNUg5MsCpa1rXbnMlwUC+oBhKu6kW5dkYwPpRg9O/FtRlpSQJtUK/RqyJ+ETS8z7iaZxOtmt9EHUwkPBaCAVbKj7J7aBgz6HYBhzibl7FWl/MVv/Ueq9Dfpb74Oj4UrDWqQhkjfqiX141ctnaAxdsJTbL/h8wKCao+ARaH6j5o3CDtH5I/uSDHCJOMHrqjJ2bnbMbZyYk2AJ87tJrvtou9Ga6qTNQCmLekATdAshL8OokehFwyCSafITZt0EPhLeJLuzGCY0q4Urhf+kcpcocK+RfVKCI725j7m5Dz1l0CSgyrbQAlpvtw/rCIQ4Z56Ul9TixtYUzpDuVZPAF91/p/qpNflOBFMt5DYNu/03C75kvqGdbQvsetsMkNsCY9Am9bgrImfKnppeIXOn4vAw3FO2OTuKHVx/+GSyiyuBqCNf5+ajXcTxdp/O+fRZp8KUbWo8a0yW7HgTAW/MUBvX493ECB3xpt9mPH7M5u7OTKrHon8PY7Tt2S1DJz67avUcu9jXZ6viGFX8aO0/lt8zOg==;z3v2XOnp22Tm7jJgzRMkrA=="
+secured: "INaTMkzBL6RT8779O02rMGxJnroSdScZk7fi/RgAOKmuFyMgjRxolELT7IuC4R1YeEZIVfwCQEUtPCbwX231w95/cykVx33Z8hKRRMRMHMSrrTBNEQQ7VDl9gl85EzbH3NiiPQMqiVgRhxkIIcjhXRPv++BK+QEp/E9VmENjzPwY0fVFc4ChUkicohI1TQMnmYlxl06ye3yfhczRFcZg1Avi8cktdGfhjAlpQtnoWgXtPDXMCP5PymLgU5X2yJNLFhh9euLQDQdaSSm6I7iF7rhOTVYwHndgefXdfS3rDESLNJ+E1kX2WFt2dxeuf9aGsu3kHpXTiKHr6VmyfyHAnLrGei0et0yiE+7gMbqvj4w=;80HsQQiKJZdEI9V83Lj+1A=="
 ---
 

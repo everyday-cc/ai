@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:28:00Z
 originalUrl: "https://www.infoq.com/news/2022/04/google-docs-ai-summaries/"
 webUrl: "https://www.infoq.com/news/2022/04/google-docs-ai-summaries/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: InfoQ
@@ -14,6 +17,38 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars"
+    excerpt: "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-04-18T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 827
+        isCached: true
+  - title: "Is Artificial Intelligence the Future of Safe Driving?"
+    excerpt: "Not everyone is on board with depending on computer-assisted autonomous driving. Humans continue to outperform artificial intelligence in terms of performance and efficiency. Before self-driving cars become a reality, more straightforward approaches can ..."
+    publishedDateTime: 2022-04-19T13:58:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/is_artificial_intelligence_the_future_of_safe_driving/2022-04-19-09-59-21.html"
+    type: article
+    provider:
+      name: wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 39
+    images:
+      - url: "https://wallstreetrebel.com/wsr/images/theme/wsr_logo.png"
+        width: 286
+        height: 223
+        isCached: true
 
 secured: "PuBouQTaNBjUHMMzGf2nfxIKiq+Nmh38FW8RWA/ZqrTX1YIo8hYmFmfuy4vh0W0NSsF3L2JDXq9WFpg7/H+h8KE6tzye4MvGMA4Le+cXyojcTYjyPfbsPieplHr0YTrS88EctjZM3moXGzxtuz4ucPqMbEsxvuyvIxeApb3Yn/MngVcCTRY+ZpFLFJ+3+Eg+ht/U6iUthzNskim3f3dd4OUEQvFCA4MnssvZVG5Q84V6JS9g6VJRS7qLRIqTvVfzAnPUHoVmsSNQrPdUHBRfDgtO1XFsFSEOHIszQnve0qjmGZDpXfQ50R4iI4fP8GJ+dz/VOo2rIltiuVApDQbBUqOKjuR4ysH7M2wFbL2SOOI=;/62wKUJPXxBIOSowD9Pv6w=="
 ---

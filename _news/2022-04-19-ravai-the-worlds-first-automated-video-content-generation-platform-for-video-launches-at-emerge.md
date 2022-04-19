@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/rav-ai-the-worlds-first-automated-video-content-generation-platform-for-video-launches-at-emerge"
 webUrl: "https://www.digitaljournal.com/pr/rav-ai-the-worlds-first-automated-video-content-generation-platform-for-video-launches-at-emerge"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Digital Journal

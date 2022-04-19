@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Unlearn Closes $50 Million Series B Funding to Advance the Use of Its Machine Learning-Powered TwinRCTs™ in Clinical Trials"
-excerpt: "Unlearn®, developer of the first machine-learning technology that creates digital twins of patients in clinical trials to enable smaller, faster studies, today announced that it has closed a $50 million Series B funding round."
-publishedDateTime: 2022-04-19T11:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-unlearn-closes-50-million-series-b-funding-advance-/2022/04/19/9584765.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-unlearn-closes-50-million-series-b-funding-advance-/2022/04/19/9584765.htm"
+excerpt: "Led by Insight Partners, financing builds on the company’s momentum in working with leading biopharmaceutical companies to improve clinical trial efficiency and increase confidence in resultsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Unlearn®,"
+publishedDateTime: 2022-04-19T14:30:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=648854"
+webUrl: "https://us.acrofan.com/detail.php?number=648854"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
 
 related:
   - title: "Unlearn.AI, a startup developing a ‘digital twin’ service for clinical trials, raises $50M"
@@ -36,6 +42,6 @@ related:
         height: 682
         isCached: true
 
-secured: "+PHO6sFH3PY++Q5CcMV0htYh6yIUQcHKm7vxCy/hA5LdnVODvumR3n93mIYP6hV2tIHmS/TuMEDs4GEnFnxnHs5pSX6KaBPWyGZHAaHEk5WBBvUqHp0ooV8b6Tnz2fTvsiMmu+EfkMHHpqqZVCgK9he8CBWO7V+kCYyT2jwB1Sn3OsRyG3buVPlUDTnXdh8rMMadsoDDvFDyrAGy9Pl37nbrFWSm39nFn/2XUtI9RE+2jI2E7kAy35hJytBMmOChVdXFM9hKV4gWry6qPn5wImY4lCVVE+skWjaIdcW2rXN11fN05Qu91mPLT4gn+1QmPfnx1hNsQAuOpunVVTPxC1QzGk7fkizsuW+SS0WndQE=;LcbEz3W4HT4qLVPHhQpr0Q=="
+secured: "+vKkxFwsD8GqKSPJOhsf1RgDfk3tz1yHbIV+g2T4Xed72LphdkKaTFu7yrznMNBcL++niLYt/8jyPd6Jjdfg20pW4nhItArlvLnB1IfOdzpeDNFFegIArHcuquqnbP2/fAnGDQEENGUysCrRk8BF4SKx3zR8CPnB0EtS5ZEtKr+8+9bR/SMsFe5uNcUvkbiiPuEoOhB0jowRc9F1nuRtMEH19PzjkU3M00WCNvFKnDf2gmjX7vn8Dd+MDyZnH2LRZ5Nw6duDIJt9fE8vUbGa6QPUjDUGdCeaHNwh//MllkhPTJrIYRrz3/NGsOXQKnFWyNNQ9OG/CHYm4vs09tr3Hrk19THVprMbvmCUJVGauzI=;WKKJUcp7uToyZuUkt+E4pA=="
 ---
 

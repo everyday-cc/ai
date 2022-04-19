@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T10:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/developer-productivity-gets-a-boost-from-machine-learning/article_fb5dd96f-6b1f-5931-a9d7-3ca7d944e98e.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/developer-productivity-gets-a-boost-from-machine-learning/article_fb5dd96f-6b1f-5931-a9d7-3ca7d944e98e.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WFMZ-TV

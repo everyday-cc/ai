@@ -138,15 +138,6 @@ related:
         width: 960
         height: 576
         isCached: true
-  - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
-    excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
-    publishedDateTime: 2022-04-14T19:05:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189811-189811/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 17
   - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
     excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
     publishedDateTime: 2022-04-18T11:04:00Z

@@ -41,15 +41,20 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "Here's How AI Is Going to Reshape the Hospitality Industry"
-    excerpt: "Artificial Intelligence (AI) is the key to meeting your customers’ needs in the hospitality industry before they even know they have them. Anywhere. At any time. Integrate AI into your hospitality offering,"
-    publishedDateTime: 2022-04-14T19:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/422931"
+  - title: "How AI has impacted the gambling industry"
+    excerpt: "Learn about the impact of AI on the gambling industry & the specifics of how AI has changed the sectors of online gambling & sports betting."
+    publishedDateTime: 2022-04-19T15:07:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 47
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-apr/0390275816-AI3.jpg"
+        width: 436
+        height: 581
+        isCached: true
   - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
     publishedDateTime: 2022-04-18T19:18:00Z

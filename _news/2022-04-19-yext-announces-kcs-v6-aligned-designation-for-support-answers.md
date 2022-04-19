@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:35:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-announces-kcs-v6-aligned-designation-for-support-answers/article_f7ccb4f4-60cb-5020-992b-bd06704cb465.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-announces-kcs-v6-aligned-designation-for-support-answers/article_f7ccb4f4-60cb-5020-992b-bd06704cb465.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WFMZ-TV

@@ -5,6 +5,8 @@ excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is estab
 publishedDateTime: 2022-04-13T18:21:00Z
 originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
 webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "KDu1iGgPow5d+emjEiKNhV+S85sxzwJiQY/CerWPRSA/lU4kvjPgjtoOoZpVbQ760wKBNrXsZFUqkdE8liQgemkg2UoltXzeA1fnCOOYCmkGajSOn+RG7BpTDc99y37ywXmgopaG0f+7TiDsbBQGGO+uDUE8vMZDEVBExX2DXzSNC6KmopT5+CMo9Pab6eSLcBBYR9Zs5cHAD1fthAbz3jmrllDlEUt0EMURBOwRWQUhjsaczUa0vPZFSP2+7kvFVDHd5aglpBF/2XPBBzvW89SqwAKS5ajrJmXQJOjLbrBBMBgmVMJ56EwfHtM4ApIs/3kgxnlX/QF+WS/EmNuPsD6tbQGEL1mlHJvzTvOoGZY=;JgqnElzYCurdrl/4nGI54w=="
+secured: "b4C9w2+SHKquej/gJ11gtKjU4pRizmQskfQHlGvVsuSjWQAj1eKpJcoUJey1GwErsHbTNvi6/vzdQBnRdgNAVO0hpM49dBhs7xfw+3JAC91qALl4yTx0IGP2mfJqm/WeX31NZg0d1c0G/4bfkP3jlymgQZzIT9RRpg+xeJw1kIp4aQbL8vn5SJ5RIsZ2mJ7BTeX+GssuJ5gW98piNfxV4g4YzcPBQMoHLepx4rtw/O6WghOz76iOgSQn94lGn7Bwg0TbLvceX01zZxVD3iH7MkW5FNNVsMs7e5Hpd9cCRSjqdzPp6wD2Evm6oUpARN/5YRKK2Bw4F85iE5R8f4Xjzbfjun1WuTXZ8laMb9sxisQ=;FKOY4xhDtdH/r8OiUTfhvA=="
 ---
 
