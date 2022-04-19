@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Artificial intelligence beats eight world champions at bridge"
-excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games"
-publishedDateTime: 2022-03-29T04:00:00Z
+excerpt: "Victory marks milestone for AI as bridge requires more human skills than other strategy games An artificial intelligence ... as health and engineering. Self-driving cars negotiating a junction ..."
+publishedDateTime: 2022-03-29T05:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+ampWebUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+cdnAmpWebUrl: "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "fWrp9gaOHXC15VYG8+XTyXib44CkzaD0NI4MHYuzEEeQeJVYfuHpMCxpmhTVwODJB2Y05s8h1E5MWLaGlX5CRXGdqBbJODoEoVc6dlC6pPgMCn4dTYDEvXK9Lz20v0JxZZ10XmUHBDjkSgv3Iw3Utb6rbOAa3ZgKZHgIcWzQpO7dGU8BLDzHWYXhn/jZF7g6gEk1Lql+Jkd2RjDWXCd6o9XAVkirkeNja0/HhH5BXiSeTu9C1RyaVHMOvaKppzpT4F1tQ8Sa50HGGQEp5mdadyOBd8VRT0i2TAnT/+NL0hM9mA/ejxuuaq2Jz7gscd+nwWr7rgDv9fDLp5rMVWe6cuSSJKzATeTZ0P1IZsXKn5NZqDkVxlpQITZl4z50Mt2j1ggJ5HWWVNVY5uhGrhhk7lFqmTCVR5Qd7dK0EylBhaxcUU2T7tmeg9GmIjPM3yvTC/WwZJ/NhY88ntLRlx+0K8V9ELlS946dtcd7vpVSlbVtui8YtNhZ2gUwEZ3FZ/pkIEN7xWhYD+etxg++y6MSKg==;zVzVBcmdKmoNyzBC2QnuxA=="
+images:
+  - url: "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcde804560dc891607224871a6e80c44"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "L6oIFJaxCO0uR6uCjuXurTQv5UxkadsDN79ICdxGN03OuSEFC04kkX/s1rqKe1mkwoy2sUZzPdM6oIHK5Lh0DfTRHdRnPwcrofJwmqVlGMUld2zEJ7eJUyac/VhtpsAKCju7emGiXwjtAe3F4DQc2L9eGMXYhOaGFJ9mO8IMc9Bo+3iO9B93Q8vW2ChljDzk8eoPJhDV/j+GQIb1a37fxyLkCxpWx7nt++Jk+dIBmeI0Ny3LmDrypGtcI/EqGwH8amcA6jJivjTkFANpZR9+q/x4e0OANVPACGfreJXrigQHHDPh1iJ8qTKq2HL7x9dvK/60FMtiitzTDZZM9rewiQ9qQKPtH5wtC+TSSJKv/ME=;3gA3K5teuU8nweMQmwgWzw=="
 ---
 

@@ -36,19 +36,14 @@ related:
         height: 500
         isCached: true
   - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. This summer, Imagine Language & Literacy program will include Fluent Reader+,"
-    publishedDateTime: 2022-04-19T15:52:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220419LA28479/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills/"
+    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
+    publishedDateTime: 2022-04-19T12:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1733201/Imagine_Learning_Logo.jpg?p=publish"
-        width: 800
-        height: 291
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "ipQDDMoXQzffiNqixyrR6Ic1LZgr+w2s8yK85p945vonbSHdNC6Lx4y6wsAXEfMUfizh7mXMTH0eFuM1aDuyn9HF/Pi1bASmKyxrrwU4e5VCiTcNK3pop4L1sWUSg20YUbwxQM+eMxDf1CT68TTWITs7Y6Q1kYVE9S61fXCCtrfcdtVjpIcc8g4/PQG0YBrzrPZModPUhG0CsBjDasdIdxCYEhIJDRNJHUEXPR7QvYUEdcGnx93adLGgd/wiMMc1Hekko2NhLKBwIeYlB0SiLmkV79DTvd66fTlx/2DcKbUoOpydbEOkV9c/B+KffbP4UpWi0iqScBAUgYusD5e937d6B2gVCPGQpfhT9rIDufU=;QrydS+QWs9otbbDLe1v0vw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26649307"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26649307"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "DEADLINE ALERT for AFRM, ERIC, AI, RIVN: Law Offices of Howard G. Smith Reminds Investors of Class Actions on Behalf of Shareholders"
+    excerpt: "Law Offices of Howard G. Smith reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion."
+    publishedDateTime: 2022-04-19T17:58:00Z
+    webUrl: "https://fox5sandiego.com/business/press-releases/globenewswire/8524883/deadline-alert-for-afrm-eric-ai-rivn-law-offices-of-howard-g-smith-reminds-investors-of-class-actions-on-behalf-of-shareholders/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 6
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png"
+        width: 781
+        height: 326
+        isCached: true
 
 secured: "yxIPu+vAgcamHdgKtmhgyjzVCvP/Lkz5vwqRwcBIoAc4crugNdzx7b47iYdRClRu4PLML9j25WgfbFgvl74TS8kWZp/xbLpp2pjObPQB9wAGJj8dXmUM7h6VCbBYcQ5ddxdmlCub4Yt5AL0pBdTtTe0te1ak1tDDehzU+3gy5g6cgYvDHCYW95yFukAb/ckifRuhPErRoBK25BK246mvotBbJJNTvGqswFkp7GKH0SeaiwoVH+WnYBHHUoSthecSPVi2aEohCcPUPMpNicMB4RxBthWRHD4t63ApaE/m5nsb+yTYnjQn3IDk8guda2BzRQSJ54youDC3cGhy97iGa6SUf5PkVIzGrST4NExUsDnh8783iQy5QHrNnBIooKvsLOQgwDa5q1Z81p2UcOQgqtdghZJcrj/KMg9LdsRjyAfAtreG2uYP74hHHZHKH/tqvxIEEBqXR3YnRJN3AUiqhXwmDSFaP78/BhvyJCgZBUKGYfYREvQ0xF+py1pGvm3JFfewy1AoKC6zzcsXs6ErQw==;WbMjRmfO1W+ke0debAQRcQ=="
 ---

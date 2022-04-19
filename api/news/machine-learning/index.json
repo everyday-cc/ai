@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-19-google-cloud-launches-exclusive-ai-management-platform.md",
+      "title": "Google Cloud launches exclusive AI management platform",
+      "excerpt": "Google Cloud is offering users access to an AI platform that allows them to build, deploy, and manage AI projects in the cloud without needing extensive data science knowledge. Prevision.io has been built on Google Cloud itself and is now available in the Google Cloud Marketplace as the first pay-as-you-go AI management platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/19/google_dedicated_ai/",
+      "originalUrl": "https://www.theregister.com/2022/04/19/google_dedicated_ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/06/05/googlecloudlogo2.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/19/google_dedicated_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/google_dedicated_ai/",
+      "publishedDateTime": "2022-04-19T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation.md",
       "title": "Fujitsu launches new centre in Bengaluru to accelerate AI and ML innovation",
       "excerpt": "Fujitsu announced its new research centre in India to strengthen its focus on research and development into AI, ML technologies and quantum software. Fujitsu India said that by 2024, they would have about 50 researchers to expand their research fields into security and other areas and conduct software R&D in collaboration with Fujitsu’s global network of research centres in Japan,",
@@ -1419,49 +1462,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-how-ml-ops-can-help-scale-your-ai-and-ml-models.md",
-      "title": "How ML Ops Can Help Scale Your AI and ML Models",
-      "excerpt": "Machine learning operations, or ML Ops, can help enterprises improve governance and regulatory compliance, automation, and production model quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
-      "originalUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/04/blog-7.png?w=1024",
-          "width": 1024,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/308208/how-ml-ops-can-help-scale-your-ai-and-ml-models.html/amp",
-      "publishedDateTime": "2022-04-07T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://myfox8.com/business/press-releases/cision/20220419SF26494/
 webUrl: "https://myfox8.com/business/press-releases/cision/20220419SF26494/synopsys-introduces-industrys-highest-performance-neural-processor-ip/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "New Synopsys neural processor IP delivers 3,500 TOPs for AI SoCs"
+    excerpt: "The NPX6 NPU IP includes hardware and software support for multi-NPU clusters of up to eight NPUs to achieve 3500 TOPS with sparsity."
+    publishedDateTime: 2022-04-19T16:34:00Z
+    webUrl: "https://www.embedded.com/new-synopsys-neural-processor-ip-delivers-3500-tops-for-ai-socs/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 43
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2022/04/Synopsys-DesignWare-ARC-NPX6-NPU-featured.jpg"
+        width: 1951
+        height: 1013
+        isCached: true
 
 secured: "4rV1U03a4YQoov6iUu+5G298Bw/qpStjmv+hZ2T/qn8ScXIRPDFwamVHgnCoeBxsE/DL1VBxkvL5ebJwjrfENYTE5tY2c4Oy9pvaG4bH0kDMQ9A/6aFGunZEesiMXEARZzKto05o38t8vd0BMk5HwfoWnIQ1CBZ6DeFmdHaKqyESPqxcnFCBc+mXZvpd+JmDngyuQa4lTfESKa6AHeEranAXDhDlIimqFbH2ahgaejxytzgOJzfkEf4i42efb+xrB540uANW/XEN3bIHtd7mNZ0GTi9Xy475VKCeaoKLjnkuzSQb665nfnAUUxigzSmTFTegFtJKzviB95qbtl89P8PgbbGUCyi5JEck18mTlIU=;F903QY1A4YqNlGh2m3BNrw=="
 ---

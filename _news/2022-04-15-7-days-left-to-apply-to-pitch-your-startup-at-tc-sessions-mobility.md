@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 468
     isCached: true
+
+related:
+  - title: "Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston"
+    excerpt: "We’re still building out the event agenda, but you can bet the day’s programming will cover a wide range of crucial issues focused on robotics and the AI that ... Buy your Startup Demo Package ..."
+    publishedDateTime: 2022-04-19T14:59:00Z
+    webUrl: "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/"
+    ampWebUrl: "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/Dean_Kamen_1200x628.png?w=1024"
+        width: 1024
+        height: 535
+        isCached: true
 
 secured: "znG6XkjZncnR8L7a1Oj+xOv0I5Um/EsHIHsbb4uhlR5vWVPOZwBAfidCGEjt+YwwTeiYjkml8O+m6Nrk6zLFnM1o8OKGWaxK1U0908VA+KOLJKHMMnBIj13mAGT4Nol5qMTTYMd8Mwz8WVMP5LKaGE0FjAb3BbVWjfuWW7HCQLl/2TLcuFQ94jEcymVSh6vKgVzCu+/QmJ80cRjZZ9XalbFgPMEabKCCVwXufTguqc06ccaaFD1mi1hNDvzazoQdy1fsvrtmfRNuU4BPrQUmaeXGkiZhsvKIX9PtgzVROw5n5Bt6xEKah3fCc0ZebYO3ZyOFChJTFt0HnAVlsY1SRfP3yX+T9RtyMxRR1bChQ0rPYkXZ7e9NbShkVYc30duY1bgF/thnBCKXHgNcJbPeDNPxI5kKPCAGII8nbTwz9in8UJ7gzHuNd/qtG9KydkerxS4RAWBtAVcJQfkYKLlEFB87McU1gSsTCII5yVJgNwXepGsmsOgeaYYC/y2UcuXRwNSYoTXDaMFZ1kf97jn9uw==;VfIU42yDPzu56mTVdwLtoA=="
 ---

@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. This summer, Imagine Language & Literacy program will include Fluent Reader+,"
-    publishedDateTime: 2022-04-19T15:52:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220419LA28479/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills/"
+    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
+    publishedDateTime: 2022-04-19T12:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1733201/Imagine_Learning_Logo.jpg?p=publish"
-        width: 800
-        height: 291
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
     excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
     publishedDateTime: 2022-04-19T13:17:00Z

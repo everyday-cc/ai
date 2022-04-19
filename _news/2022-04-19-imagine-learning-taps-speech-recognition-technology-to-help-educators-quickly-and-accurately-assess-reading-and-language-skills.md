@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. This summer, Imagine Language & Literacy program will include Fluent Reader+,"
-publishedDateTime: 2022-04-19T15:52:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220419LA28479/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220419LA28479/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills/"
+excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
+publishedDateTime: 2022-04-19T12:55:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
 type: article
-quality: 11
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1733201/Imagine_Learning_Logo.jpg?p=publish"
-    width: 800
-    height: 291
-    isCached: true
 
 related:
   - title: "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim"
@@ -51,6 +49,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "fuFlt7IYwtGf0SDn6Oq/HsT8Tt5sqM370BWscayNIK+6aYlm6BAQOaJkWnpf/wwUb1iqLUXGdbu1tumpLw5npkRWUBlLWl9Y7fvHIRmsTyqpmrSFW1QrebNNPuJo7JfJT3vgdYwkSb5nIZmm8CPfaK2Ell7aoORo3rV0Tzumt/tEN6eVGKCbKHyWaOh+XjpnqdFPHjYPcxJpskOjwzziJPaHvSV3IT7WBEwJnCRntOWkC8Qwot0ZEUWOVwbt+sUAVRcrxbDVnb9UofjkBrxdhASUzbJ4hV42a0YkJq46A3wE7XmISGaLgFEDH5SMY8uVZl+TWFv2STNYq5F/DdWJ89r084/yX98mG8+pJ8QYgjk=;nSzViI2RC7JlGB1wLyhPuA=="
+secured: "E+LyTJXHMdCjmeDXlIsPBRdPTDCS6qNoajmewYZWDAJ48ZekxMgkMeg11dUIODkuR1VeLVpavQLomOvrA7vD6G7xro+QCgZyRJlIGklaFfY3XPx/kDUrMWAukPiJX5CtO9C5DkvRobNg5yrAcW9TK4ZNZG/01XAdSrOg07f7pOCDvRo9EWnoz30mZ5y0YztQb5CcJmcQYZPlfyyhuf+hslchHvOmnqFC6ylAEyS9C5zZByec1oQcNBqD6V7hAnAeHkrdxCW2b+AZIR1QSJStwax14JrekRirulocmt4XswJvsYQykj4eYwA8RZEVErPXKpma7JItUriS6cdHrGp/OVE3FK0xqH3eAeTKjY3QqX0gmpmRvGBurgY13ZL6pKqUGiMOcPG9G7Efbn5+itiRLEEgVOuthEJgR1Cl3moeHqtZ9zBB1uuQnxN84tnBm1r8TVToYnUpTAdn6glYOlF9XvNDJONuBBEC5R+Bn6nD2zoNcbc3jcQWpUxRg9bNsLpRZQDxBqGOfirZGITjib4yZg==;QY0A5Ocdms95EZCHTrpt1Q=="
 ---
 

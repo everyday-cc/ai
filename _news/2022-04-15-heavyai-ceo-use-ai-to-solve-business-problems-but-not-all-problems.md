@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-busine
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: freightwaves.com
@@ -37,6 +37,20 @@ related:
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/25/17/26/22345107/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "3 Ways to Solve Your AI FOMO Before it Hurts Your Business"
+    excerpt: "With artificial intelligence (AI) expected to grow by 21%, reaching $62 billion in 2022, it’s no wonder nearly half of CIOs said they’ve either already deployed AI or plan to add it to their tech stacks in the next year."
+    publishedDateTime: 2022-04-19T17:13:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/3-Ways-to-Solve-Your-AI-FOMO-Before-it-Hurts-Your-17090866.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/20/55/22350667/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true

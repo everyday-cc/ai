@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/4e78ea97-b6b3-48ef-8374-7fe38afea2e1/Rendition/thumbnail/Content/Public"

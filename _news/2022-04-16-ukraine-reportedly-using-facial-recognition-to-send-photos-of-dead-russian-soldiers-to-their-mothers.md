@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers, report says"
+    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
+    publishedDateTime: 2022-04-18T22:59:00Z
+    webUrl: "https://www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/"
+    ampWebUrl: "https://www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/amp/"
+    cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/amp/"
+    type: article
+    provider:
+      name: WBTW
+      domain: wbtw.com
+    quality: 61
+    images:
+      - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ukraine has used facial recognition tech to notify hundreds of Russian families of dead soldiers: report"
     excerpt: "Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the"
     publishedDateTime: 2022-04-15T18:56:00Z

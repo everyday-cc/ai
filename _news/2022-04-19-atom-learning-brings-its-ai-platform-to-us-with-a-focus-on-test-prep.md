@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-19T15:06:00Z
 originalUrl: "https://www.valdostadailytimes.com/news/business/atom-learning-brings-its-ai-platform-to-u-s-with-a-focus-on-test-prep/article_16edb03b-4402-5b94-a49a-21072c3c5660.html"
 webUrl: "https://www.valdostadailytimes.com/news/business/atom-learning-brings-its-ai-platform-to-u-s-with-a-focus-on-test-prep/article_16edb03b-4402-5b94-a49a-21072c3c5660.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
@@ -23,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "ggWiFHzeKriPIhEBMNcjhqIDPhXXbNGiRAz5ycP+qQbbbPZOEx2SomgEUQqU7oY7/wuvNnaASlBh+Tf5fHqm2ee8CqRIom+64Vl8EKkHlHgoZjxvTJRzlRw2mjPNIBx/wtvyiW5fl/SB5QffikM0SAPs2wFI0hLAmL1Olc6FeQr0QfQB60Nek8oAe6bxqRBL95va7ObFXzz36xhezFnAFi4Si4aMrnO1wheeQ9BiOEq+8GCdwsPuBXia6GVzq10w0eP0NaE/kHMX2heb5HVhLngwvzz8W+QeRX85OWVG848Av46J8Ua9KZ1dBKnRWiGFmjzZTWQz45LpSIBO9puQRGCnxg2aN0Qi45cHn08pLtE=;0r6WqKWmQYWnYhU7XZM39Q=="
+secured: "pLuhZgr1ZnPvNwa3z3j6589Uk+dlCkIAMn0PGk6fm2wH17vgm+2J2sZE1lma0dv3Y3Rw5GHBY6T0+g6FK/baHqhVF6/8mC3bh44ohNpddRRFMOZJSZGg9QwQvjsFUwFFwq6NiIfBJ+/zvT+unyaVq4WPWHen0iHbyn/CFwglmjPelCyMJuLv5SslbKG+xBrlW+KEeRnxrpaaSeeG6fF7kDaGZHNwveLve+JVBIsvD0hzRvKk2OuxXMb0XA4tx1Di47Ff6amQpKwW/538MoATS0/G62XykjnRvhms6zRVvb/n7m2YwSxvIHvq4LBwBG0ZFikJ6WuUTv23xOwIjPmOcImOEnSuINlYZd/+omG8NPaSNx0RWF8z4pnFI6vFfNEvo/JtcJWz5IkWpAp4S5pe95LlXRa5BZ4hlnFDS13Ew+WUzgQ7PKUNs994MZ9quu6/6iQ/2UiArEAzCpU+NT8OefyhbQJtGMikQPrv0jqL55hRXQTQnwJCguIxYYTc1FsFkn6p8F3MUjY9k88/MtKg1Q==;mAyQAv6qY8fjDboP9OY4KA=="
 ---
 

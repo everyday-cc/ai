@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 63
     images:
       - url: "https://www.wfla.com/wp-content/uploads/sites/71/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers, report says"
+    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
+    publishedDateTime: 2022-04-18T22:59:00Z
+    webUrl: "https://www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/"
+    ampWebUrl: "https://www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/amp/"
+    cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/amp/"
+    type: article
+    provider:
+      name: WBTW
+      domain: wbtw.com
+    quality: 61
+    images:
+      - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
         width: 1024
         height: 576
         isCached: true
