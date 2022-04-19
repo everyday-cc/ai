@@ -23,17 +23,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Computational Creativity Market Size, Share, Trends, Growth Drivers, Industry Demand, Opportunities, Key Players and Impact of COVID"
-    excerpt: "Overview The global computational creativity market is expected to reach USD 1.1497 billion by 2026, registering a CAGR of 25.42% during the forecast"
-    publishedDateTime: 2022-04-14T13:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computational-creativity-market-size-share-trends-growth-drivers-industry-demand-opportunities-key-players-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-
 secured: "Dy3tdnZaWBHfWIv6xRkb4RWdsgybVm98Z8QQeik1iwO6yJbDqJ1eprT0HGozEd5pXvsceM9PgBOAEL8vEV+bJeTD3g+DrgXQaX5T0jbmkO1Ql9Mhz/QdE8tiidFW0/IePiY+WYV+hl1TIEBFEPnqOpDddZOeRWls8M5HulPjGv0OHUx28F3b9BCdlicSxKvBR+QGIRK8ooSaXM7rTxk+VlZkwDSEAO31HyIWiejkaGNRZ84yXR5d+bAtjsaWhuyUZPUVCnqSIQoLyiRst9lGPIhfJHEyozuMg/LKaaqE5Anyje31khez1Ii0rc7AcgN+Oz8tdVAKp4P7bRk5J5jL1WTIpewYjmWZZFTXsvD3lCE=;3qc3PyjG9uGz1M7BYGnG6A=="
 ---
 

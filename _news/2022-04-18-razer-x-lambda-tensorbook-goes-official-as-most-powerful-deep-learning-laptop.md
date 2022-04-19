@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html"
 type: article
 quality: 56
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: GIZBOT
@@ -36,15 +36,6 @@ related:
       name: t3me.com
       domain: t3me.com
     quality: 19
-  - title: "Lambda and Razer Launch Laptop for Developing Deep-Learning Applications"
-    excerpt: "Lambda has launched the Razer x Lambda Tensorbook. The laptops include Nvidia GPUs, 64GB of RAM, Ubuntu Linux, Lambda's deep-learning"
-    publishedDateTime: 2022-04-14T13:18:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/lambda-and-razer-launch-laptop-for-developing-deep-learning-applications/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 3
 
 secured: "cDQSXSYtmdJp1QDStfj0JeCMu6j1rYVTcpSsf0XSHN0VzZCqU8etksJLIxz42goIMKaG94feETZ9fOZdB0QSRA2SO2H5ajiXWG+ZYSwKNHXJ66uUGLUrTVrE30+Ldq6zHHLPPak54avePzG7mCHQOpP040QwLfvTBnC/lmuBuYKey0YL7pdt9o9G6Zm1vrtPHjMK//9Oy8ysYBGHOvUH7ge/whXaEjjOmX0qKVGTRm+I9y1Oc4ZBvH/HwfLn4uywDmDmUbS9QmCeGVw3wMIbsrEQieSp3Q3HNpXFfffHreQczbJsVmfr4kUztCNo0oICQa8RkU3zvy0Jh0kutceuET4MTdxYFb/nt53T41/pqABlKmKAJvj975Z/RZB1xAHYn9YXVAdPriwAAjzijH0FMMGpQtqS5SLgj5n4rIv9TpUdjZUKhFqfM0H6cwVSoARO8a0ETVh7obDN18p2tWMNibN/rsDI7U26b6f8YbCOXr4+YP0oQ0L6G+lNfOQf2rHPKPnsKANN5pxkfdq0/GYKyw==;MI4bTdWJfdKHWAXjVVbylw=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mirae Asset partners with AI-based fintech Qraft Technologies"
-excerpt: "Park Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models"
-publishedDateTime: 2022-04-05T07:21:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html"
-webUrl: "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html"
+excerpt: "Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models and cooperation in bringing about ..."
+publishedDateTime: 2022-04-05T07:35:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl"
+webUrl: "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 558
     isCached: true
 
-secured: "zW9LB3xnEB8uMx78E5LNK4F5UHtY2R0KWjMZsjdRN0HgJd63KUzwIbHsZBiqlNfTShlskH1+k2DWJ4A02OHAVKOYlo5W+FngYztFHxa6QI5haKz5NCvrVehkNYkWo2GbfGu/tId7LrsCuGqn/1RB0xh6bYZnYp7DU2Cr3tPy2br01whqqsfKq7cli7abR2Hc54HkDXmBV+nbvDH7XWjlOYS8/JTaf8MedgLfTl7lUBwKjCjiVKFzVfFrWekCgz3kc6Rw6qT36jhI5mbO+5v3P1J/FdwiCa1sHK7xzuptboMSOJphiuVtYL7q7oviFcdFakQGYASHsSYXl308D3q0BG4KhDSjvA0tglH2Ta+KN3NT2JvXMqxNb795Od1JKAC1X7G/1MAnVhd13/kNIxEovUbJ0YJHwPNSE/ZZlHDW/SmHpj3DUrX2DWDPWGfbPpmLhrbKvtczuBYpJRQae1TP61DdMeO0MLciUc8LEcFlP6GaR5XVxC2j6x0GKII/beanHwa1yahkqZzOb7n+iOoTbA==;bc18AgbxMd6hYUw5nlZyQQ=="
+secured: "+C7XWnpQvf+CYrNkL1Gu3arU2yDtCXSBjBCd2QhouxmGTgekgvngcWM883Lk/0XrHvzoi0tDig1cQNDxwzB991qYG15APWIG/lg1mgegIZ3rNyH2TeOjPAN/SAbmCK1cCQLltBh7dYThk95cZrNBtvy8O7ghpNsAWQXgBjIeHnHDTR4rhAZDkmV93dN3PhoMV8MAsta21oIFIx7xDL+OqI3eP8I+ztmsSVE4FlYv7y9cOh/GSMXKkCXk6xkrwMdjiaqSB51792qxMC4rnVzeBV4alhbpIlz1hwnWbDofQfJXrEuvfPFeNvC119GtH8mBF0yJlrIUK60XT9Y/74IRTI3z12z8SDIU++nVrB4Wkjk=;iyzdI9Cahb1WL28E2Fsnsw=="
 ---
 

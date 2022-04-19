@@ -334,6 +334,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
+      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
+      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
+      "originalUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2022/04/932/470/GettyImages-1386927042.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
+      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.amp",
+      "publishedDateTime": "2022-04-14T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 5 NY",
+        "domain": "fox5ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
       "title": "AI robots deployed to fill void in senior care. But can they?",
       "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
@@ -363,40 +406,6 @@
       "provider": {
         "name": "The Korea Herald",
         "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation.md",
-      "title": "Panera tests automated coffee brewing with Miso Robotics: 'Tech innovation'",
-      "excerpt": "CookRight Coffee system monitors coffee brewing, so human kitchen workers can prioritize other tasks over manual checks",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "originalUrl": "https://www.fox13news.com/news/panera-tests-automated-coffee-brewing-with-miso-robotics-tech-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 13",
-        "domain": "fox13news.com",
         "images": null,
         "publishers": null,
         "authors": null

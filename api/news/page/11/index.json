@@ -822,10 +822,10 @@
     {
       "path": "_news/2022-04-05-mirae-asset-partners-with-ai-based-fintech-qraft-technologies.md",
       "title": "Mirae Asset partners with AI-based fintech Qraft Technologies",
-      "excerpt": "Park Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models",
+      "excerpt": "Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models and cooperation in bringing about ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html",
+      "webUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -844,7 +844,7 @@
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802",
-      "publishedDateTime": "2022-04-05T00:21:00-07:00",
+      "publishedDateTime": "2022-04-05T00:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "koreatimes.co.kr",
@@ -911,6 +911,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
+      "title": "Gupshup Acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
+      "excerpt": "the leading Conversational AI platform used by banks and Fintech firms. The acquisition strengthens Gupshup’s customer experience (CX) solutions for BFSI customers. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/article_cade008d-2256-506c-8d3e-ce957eb54f89.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/article_cade008d-2256-506c-8d3e-ce957eb54f89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1057,49 +1100,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-4-considerations-for-the-managing-aws-cloud-platform-in-higher-ed.md",
-      "title": "4 Considerations for the Managing AWS Cloud Platform in Higher Ed",
-      "excerpt": "AWS also works with universities on solutions that employ voice technology, artificial intelligence and machine learning to support innovative learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
-      "originalUrl": "https://edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/higher/k12/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1223790471.jpg?itok=tW41D7Ie",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
-      "publishedDateTime": "2022-04-04T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

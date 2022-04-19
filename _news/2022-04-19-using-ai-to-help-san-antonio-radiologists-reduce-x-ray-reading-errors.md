@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-19T04:01:00Z
 originalUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
 webUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg"
@@ -39,6 +40,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "ZbibZCPHPZCkdAQoEBqPdzym+Yx/v7K+oxzk1Ozdzqa7dRcBqKeyNr7cEk/4p38Y2hEghWz2QI3OkoOtsH+G/AxlEY+sEbkr+RnmZ99HJQyknBt7O6jZn8XlQIEFnHtlUd6lkUmIofCIkab27rakeOAhexV4TkxaJK6Lj3ptwe+4E+nVauukhr6yhKxQKsNT8ybSCm4YdVFlqw7PiND0XWSCoTQ+xbgqrHONlmvEbaXdmRzd8kYxNtTKpxpcdpMSWr4IKq8IvxXnP8OyGpnuz97svImkqhdgmEim62ixTmUGw5wzd0i6VjZxO2IREClbFA8/zy2iMPJMvQjRWTB8qqiOoQRfPOjNWHNyOizFQBk=;HN17sWWnRHiW1htotMGAHA=="
+secured: "7nfKt1PtSpFCDEvQ7cAG+Hyq8/aQ2Y/utjCiBzQmwY7YfSbqToPYBAbd2Kk0B40xAKy+Y1DQPfJUY3YX1UHu5f3mJg2SG1ZpharTqNpbrLhjirfkoT3NdgWe7leZRFBR1Fw266j6LH3U6dXD4wxfeMQ6zLVlHMAJvtUus/KJp6ty6lTtoKcMWA8y1RXIpI5/rnf3heaV+HW+5vfqCFXBG02k7SmqcOVBIwbetvY0YwjDNWKOcjYNB7EA5CZ2/5+o9POwD14DrmuZZAORpzDeJcxPJPHxGTXJdDAbWP1O/CnRj4+fckDUNINzH6xabdGXyrkVowlg9u6XQ3Qid+1c9/DdNRquvnCGW+Lc8dpAUuUAPsTl5FmHP8lLiIlUyJoQBrQgncIm+Fta3q0zj29xKqHW1Q3vx2O0QhXAo5zt9VvHrsf2XrG39D/G0cgrk45uIAVeNaWmdlEoLzdQ6/+5FBxPjRJTrlzuI36bSjUg1XQv9+bNZq86A72NHFkSttLLkpMCwKYuuK2oHA+7yJ4onw==;+17Fi7nDBPmGVNJEx9b8hg=="
 ---
 

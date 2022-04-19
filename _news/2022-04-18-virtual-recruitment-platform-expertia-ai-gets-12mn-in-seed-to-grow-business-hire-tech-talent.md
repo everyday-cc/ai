@@ -116,6 +116,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "News: Virtual recruitment platform Expertia AI raises $1.2 Mn seed funding"
+    excerpt: "UK-based talent investor Entrepreneur First has doubled down on their previous pre-seed funding into the start-up last March"
+    publishedDateTime: 2022-04-19T07:35:00Z
+    webUrl: "https://www.peoplematters.in/news/hr-technology/virtual-recruitment-platform-expertia-ai-raises-12-mn-seed-funding-33632"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 35
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
+        width: 990
+        height: 550
+        isCached: true
   - title: "Observe.AI Raises $125 Million Series C Led by SoftBank"
     excerpt: "Observe.ai has raised $125 million in a Series C funding round bringing total funding for the firm to $213 million. The round was led by SoftBank Vision Fund 2 with participation"
     publishedDateTime: 2022-04-14T19:05:00Z

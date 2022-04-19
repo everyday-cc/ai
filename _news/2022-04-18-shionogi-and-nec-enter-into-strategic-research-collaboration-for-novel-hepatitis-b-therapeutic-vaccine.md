@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/shionogi-and-nec-enter-strategic-
 webUrl: "https://www.asiaone.com/business/shionogi-and-nec-enter-strategic-research-collaboration-novel-hepatitis-b-therapeutic"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 316
     isCached: true
+
+related:
+  - title: "Shionogi and NEC enter into strategic research collaboration for novel hepatitis B therapeutic vaccine"
+    excerpt: "Shionogi and NEC announced the execution of a strategic research collaboration agreement for the development of a novel hepatitis B therapeutic vaccine. NEC OncoImmunity, an NEC subsidiary that specializes in artificial intelligence-driven biotechnology,"
+    publishedDateTime: 2022-04-19T07:36:00Z
+    webUrl: "https://www.poandpo.com/companies/shionogi-and-nec-enter-into-strategic-research-collaboration-for-novel-hepatitis-b-therapeutic-vaccine/"
+    ampWebUrl: "https://www.poandpo.com/companies/shionogi-and-nec-enter-into-strategic-research-collaboration-for-novel-hepatitis-b-therapeutic-vaccine.amp"
+    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/shionogi-and-nec-enter-into-strategic-research-collaboration-for-novel-hepatitis-b-therapeutic-vaccine.amp"
+    type: article
+    provider:
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0422/shionogi.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "96l7ReX8FC1TUS2qtUZUEZqGkAkzujplrRd0pCtmd8rJKFAYzepszvflrdZRKIjyZFzLriQkb6dnMqEWkdWgPNpXnD1L77yDbw3zZHRk3Tmvl3Y3Dwpv/P+5onGB//Uec6C+BprsCm5B8PcauM/1adE1/k6nC6MF85UYU7NE/0uukdfIX8mzYGQmsrwgk/hxZx/AzIXscf/BObIJ+CizfOsWSXzLLkOGdjbsUpzTlKFxvLbg/NalIpqyVNxcLErZMk5EZFQLRCmTsOk/uOyC8eNB4NY3mqmaGeqB2SBJNiyar/DzmSwq2ACRxPvU6vFxtGS3+4YJFkoJKeOgtk1S/wYUWcE0N49kekhEKwYeCSZIlBgZE9mll7YSDs8xH1qGZLg+SWnan90svJ6xpGxK/Yw4/nSSVwlHq0RXf88lr/nQok0Qa8xXEsXO5cGBPg691i9DkSAZFJugsdSFp38Y791uiSHlv8fK1wpeoHvQqxr2OkJBkXwS07p3ll2E+jj2FauPsok08qq/SZ/iOiGgJg==;DT55j1BYLMyuuyg3bTrqmA=="
 ---

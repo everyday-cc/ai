@@ -1,27 +1,31 @@
 ---
 category: news
 title: "SAS data ethics head named to National AI Advisory Committee"
-excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
-publishedDateTime: 2022-04-18T16:09:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
+excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
+publishedDateTime: 2022-04-18T16:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 154
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
+    width: 320
+    height: 400
     isCached: true
 
 related:
@@ -116,6 +120,6 @@ related:
         height: 248
         isCached: true
 
-secured: "2SYx1yqL2937zNKoMI13MKWBRtrO7d0H2DePVhspB2vBHOhi/UPO8wHos8LN3LDfyqc8bWMWG+o0WwmIrccb2cvbXl3PtSc/RVHYGzhj0XYqc6mHhZoZWxBryQG80C4ddYXpvc0wuvIshb2n0a7wJVwaCSb6i6V40pHSUP0flcg/Q9DDUTl2h0458nqmwV9Ga/64D8fRiNtVoHjaNqCZdzGF37IG2vhaUl15/ckfN2gHKcHBXhMsXHYFRGt9+I+Uzv1U+RDO0lrMH1Sbt54kUY0vMeXbuUFTEG+Nyf2JnMau4jd2A7sRG5b3PNmwu/RuREw+rsdhrfcIEiVjb7CSk/N6kk5WytV/Gdr4bAEa7kM=;LJnrl2UuGtPWeeFS7jUS0w=="
+secured: "sNOfYdv42KOhpfDOXwz2D76XRHTSah4mQqfRAUD9twAIj+xGFkz4ktKp9twCAeHWaBtnmQ6eP+zv9Pjo628Wvx3+RDblVortC9A+rI5LieMztAbfmHSJBUaIye/iMyeiqazW3jhuv0ue+81uv50hRVERV56/IDECu3PmgqsI39dqXN19/6YfV/8q6j1ELTZNGfoUopTgM7L/h521L5R/ichQNZQIKGUjoc54jfDRfoLfV16dPnf9sofLRQDys2jI/CjgDGwj2UjMCez/zj6pnMGZPJoa5DViNPq33BqkB6QbL7JvzDQV2vVeKvB5GqDVPXd4ptOYmWcWUmyxHfhPzkx9Oj5jGCmGg1+MwzFq3yk=;Y1GiM+EbrCi2OQUfUDp2PQ=="
 ---
 

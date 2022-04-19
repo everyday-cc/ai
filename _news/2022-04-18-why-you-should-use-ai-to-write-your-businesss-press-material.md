@@ -2,20 +2,30 @@
 category: news
 title: "Why You Should Use AI to Write Your Business's Press Material"
 excerpt: "Press material is a form of marketing material that's specifically designed to be distributed to the press. Press material is not only used for marketing purposes, but also for public relations. It gives the press an overview of what your company does and who you are as a company."
-publishedDateTime: 2022-04-18T00:01:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php"
+publishedDateTime: 2022-04-17T20:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/417465"
+webUrl: "https://www.entrepreneur.com/article/417465"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1649708992-GettyImages-1225909157.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "Heavy.AI CEO: Use AI to solve business problems, but not all problems"
@@ -35,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "U2XN743/msj7PWf498oUjcgZqj+84H3XCbeifiAM1ptm7yHP21QnPK6mBNIGUiB9mkiYLR6UAxQRP0pCtQJ07/bzdIRiTjyUtfHRybBG9y2s1F7FF9JHIwpSmK7oQTiVRnEJf8yS87IEU22f0gi88WRyrFYl1N4VwjbmDdTPDjIfBNOXp1wZMpZnSkimuJR/Yj5ubEppcWBL2JrlhwZJFnkotT3FqhrgXqO9saant12Ua/6NUcTMdTQzDgmHv3sVx+By2DvVa4ey+wzTYT1KQjCfF0HkQBz+L4LVe/uMMhEd2SnAAU1IjFZPF5jXSRI+yQ1UkY3FbEyuyunOH/3Lp7YkN+vqkFPnz/2uxDi2MjJqNsAazXIG78YcEaldqSikvMP7CkHzLxw4pc8GDwdhkjVAEmkQNl0hPXlHqogqfNNP0Tdq9KZ5479ZL4Sira8XQ46cMYQEW+2wIm27dWS65vdYrhFPhHasSQDg7cJ7GaXZ0hy947b45Bn/7k4bXmPNElLA7HQ408rpCZ12ReoipA==;+34Y9TfEU8X2fejGSLE1Ow=="
+secured: "k3BGMOFoDYoyTud+SeYI71jgFUCuteeARtGeXpc7ZR+eoqGvgVfuIoFuafsvYQopXERgGg5Rq+Ntq6Ag2NeRL+Bvc/O+qOl4ooVKlY4j2RShjY5OuVp6oN0+w4GVVN+cSorLdSjLKtmRXWlp+X7X4GMhEyQhhzIbuetdXmRF6wUmMdtdY0IY/st+dLXgyN0Zda02cNnvxfEyz5Egh+lbLoAAnnKd0SCW/qfNQqo431Yi1A1+jLGK2Y4Q4yGJp4iT3VWe68Z4PjDUHXS+AJyVNlGExUYpAkGtFjaJrEPKyJsYoF/xl8cSqXCorkczwH65oPvfNOf4JTsT2SreJRpovn0rE469iLcnM1oBw4EBBjI=;nzYPub7/scX2eVJR7eaDmw=="
 ---
 

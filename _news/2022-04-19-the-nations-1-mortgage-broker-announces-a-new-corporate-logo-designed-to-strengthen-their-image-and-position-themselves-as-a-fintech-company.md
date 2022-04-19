@@ -46,15 +46,6 @@ related:
       name: Entorno Inteligente
       domain: entornointeligente.com
     quality: 31
-  - title: "Singularity Systems brings cutting-edge AI research into the next generation of intelligent document processing"
-    excerpt: "Singularity Systems, a leader in intelligent document processing (IDP), announced today the general availability of new AI capabilities that break through the accuracy, efficiency, and speed barriers inherent in common AI-driven process automation software."
-    publishedDateTime: 2022-04-14T13:30:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220414NY22220/singularity-systems-brings-cutting-edge-ai-research-into-the-next-generation-of-intelligent-document-processing/"
-    type: article
-    provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 0
   - title: "The Nation’s #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
     excerpt: "Loan Factory, the nation’s #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
     publishedDateTime: 2022-04-18T16:08:00Z

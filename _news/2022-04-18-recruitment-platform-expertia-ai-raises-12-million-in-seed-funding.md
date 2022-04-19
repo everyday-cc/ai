@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raise
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2022/04/Expertia-Logo-New-Black.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "News: Virtual recruitment platform Expertia AI raises $1.2 Mn seed funding"
+    excerpt: "UK-based talent investor Entrepreneur First has doubled down on their previous pre-seed funding into the start-up last March"
+    publishedDateTime: 2022-04-19T07:35:00Z
+    webUrl: "https://www.peoplematters.in/news/hr-technology/virtual-recruitment-platform-expertia-ai-raises-12-mn-seed-funding-33632"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 35
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
+        width: 990
+        height: 550
         isCached: true
   - title: "Virtual recruitment platform EXPERTIA AI gets $1.2Mn in seed to grow business, hire tech talent"
     excerpt: "With the COVID 19 pandemic pushing literally everything virtual, recruitments and HR industry in general, also sped up their transition to a virtual environment. The largest of companies have successfully onboarded candidates through completely virtual processes,"

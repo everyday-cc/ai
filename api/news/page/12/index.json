@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-04-05-4-considerations-for-the-managing-aws-cloud-platform-in-higher-ed.md",
+      "title": "4 Considerations for the Managing AWS Cloud Platform in Higher Ed",
+      "excerpt": "AWS also works with universities on solutions that employ voice technology, artificial intelligence and machine learning to support innovative learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
+      "originalUrl": "https://edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/higher/higher/k12/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1223790471.jpg?itok=tW41D7Ie",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/k12/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
+      "publishedDateTime": "2022-04-04T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-3-reasons-why-you-should-buy-amazon-pre-split.md",
       "title": "3 Reasons Why You Should Buy Amazon Pre-Split",
       "excerpt": "Additionally, AWS has the deepest functionality within ... a device that uses artificial intelligence technology to monitor glass windows or doors, alerting customers whenever glass is broken.",
@@ -75,49 +118,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
-      "title": "Gupshup Acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
-      "excerpt": "the leading Conversational AI platform used by banks and Fintech firms. The acquisition strengthens Gupshup’s customer experience (CX) solutions for BFSI customers. Headquartered in Singapore, Active.Ai serves BFSI customers across 43 countries with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png",
-          "width": 596,
-          "height": 252,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },

@@ -32,7 +32,7 @@ related:
     provider:
       name: San Antonio Express-News
       domain: expressnews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg"
         width: 2048

@@ -30,15 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
-    excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
-    publishedDateTime: 2022-04-14T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-telecommunication-market-analysis-research-study-with-ibm-microsoft-intel"
+  - title: "Security Robots Market by Type, Industry Size, Top Companies Share, Growth Overview, Demands, Analysis Report 2022-2027"
+    excerpt: "According to the latest report by IMARC Group, titled “Security Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
+    publishedDateTime: 2022-04-19T07:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/security-robots-market-by-type-industry-size-top-companies-share-growth-overview-demands-analysis-report-2022-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "uaBj8jEHMSRli7kCaT/JJbTNdR0+en3JSClv4uhSKcDarWEwS11nQ2oYW/q/SKBN226HLQWKkl82e6fatRUl/qKr93Hjl6h76s12Hch/fBTij1MkfOkQlBUJf+CGdXjidE6qg5j8YWTQpPALqOlU5Dg3+ukkLhPpRUpOCLZbg5F5eN8g4mcWFhCDWQJeL8ADCTbW+CZ0eepTBGMsxniQXKetQblZENywtDi2ISZYYuVxE6av5fHvluWJU2Cco6TZSeu4sM5b/So9mfFhIKye0mIGgrMsPHvGnAPn/2x/VZOOQxqi8dL/ARk4E3JjBa8i+mEUkrv+vJ0BnXxmsw+SKCfs+w0KK95U6yO6QA1VfAU=;7UTFu2aoudweBsMp3NuR1A=="
 ---
