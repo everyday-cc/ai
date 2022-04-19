@@ -19,43 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Limbs Market Trends 2022 Top Countries Data, Growth Drivers, Demand Status, Opportunity and Challenges, Forecast till 2027"
-    excerpt: "The “Artificial Limbs Market” provides an in-depth analysis industry size, share, growth revenue and upcoming innovations of industry. Artificial Limbs market includes key market patterns, regulatory measures,"
-    publishedDateTime: 2022-04-14T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-limbs-market-trends-2022-top-countries-data-growth-drivers-demand-status-opportunity-and-challenges-forecast-till-2027-2022-04-14"
+  - title: "AI-Enabled Last Mile Delivery Market Size, Trends, Future Estimations & Opportunity Analysis By 2029"
+    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
+    publishedDateTime: 2022-04-18T22:43:00Z
+    webUrl: "https://menafn.com/1104040256/AI-Enabled-Last-Mile-Delivery-Market-Size-Trends-Future-Estimations-Opportunity-Analysis-By-2029"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743680"
+        width: 443
+        height: 250
         isCached: true
-  - title: "Quantum Computing, Virtual Reality, Artificial Intelligence and 5G Growth Opportunities and Innovations 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Growth Opportunities In Quantum Computing, Virtual Reality, Artificial Intelligence, and 5G” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the ICT-led innovations in quantum computing,"
-    publishedDateTime: 2022-04-18T12:24:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-919dd58b71e94e369313667aeb258cd1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
-    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-04-15T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "3Zvmqeet8XfC9xQkWzH0pkz1GBHKo730W50mMGqBzZ9RJIzzQBfspedM+s+m4ww0d6h6S268FVmnth/P0/D6X5ljOWpUpHVacafocaJxg/zm2nPip4SoWuUxzMvmCayZwjbGqkLshszNcbtMqsL5kQDR78HYlfFkAsKsXvQZ0U2O6hafzu18GFDUpXBu3nzv6Tt93k0PhtDOB/z9ex734ydN18s9QdQgYMuH81Ol5cYmFnFKcHoDWX8gSnxif4CwEgYvixnd6Q3L21xfpqxwYjTgdQA8OnydcIALkolQ9JcSe+2qiida72DeV68xQm6z2J9Rs+57jNuT3fw8LMOlnKsOjoMhdWKNlf3W8uTG6gY=;/RRJ47P9F0WnkDptvaZFiA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Cooper Joins Association for Advancing Automation (A3) and IEEE Robotics and Automation Society"
 excerpt: "Cooper Business and Technology Marketing, a premier marketing organization focusing on business and technology, announces its membership in two international automation organizations: the Association"
 publishedDateTime: 2022-04-18T12:31:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
 type: article
 quality: 42
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 266
         isCached: true
 
-secured: "HOCxFxMVqlnDC4I+F4j3dvpm53eT0OCaWj+6pNnD3g/UQytMji2xdzOyHYRQjf4MwwEicKCEUXXpewUPB2OrjOd1VyMo12Qa15w+jglOH2aVX5oA9QjVyGKXDuD1RBN3XfMLOPRPgkyM7rSuVxE++VZ9xAT7+ziIvE5gINlweAGt2IKsRBJzc5LbcDQyqRD9xVIThabl558V5pBDU5c5K2Qv5O9oSpJwy6ngAywO/jUoJR3/+8p1xjGrKIFITkqPEXSWHYyFs0AliSuqDtH/hcUbaVIJ+Mwe+8Yyj2btAli4KgkDW6aSU16OML6KyPvl1BAbmMkV5+jWXSfsUQ+NLOdk+NV1RzlMNq88GWguB44=;F9gqscY3M83kUhypDduDxQ=="
+secured: "gqsvvfwmrbIs8BoXqorb/dawicHmH4fWkK78Q1s0yPdMh3PpRYJWW9hEV3yT4RTtZ7wDoeKxEVa1PEwoqZ/l09Dfwmrljs11vyDE5x3otVw5/4h9gt6LnP00t4gQj3wATNCXJDisG9q/JCiVuwO53s3pGudSz5nwrgODCXUhU1APsGTCWPLUdsYHXOM+yj7rxN8lCTPqrqgyVArPnZVgWr81a0Bi2ZTsey9th/AJIg36noIv19Wtng6SUBalG9mnyFHBS+YhTIDrEIR4JeK04aUP+nwgGksRZ+zd3W7ZzuryIrggBslyWY8nmqo5jbYmqRpp6lEfX877d9tV9YRf+fC1TUGzvh37v3v1PcK6z8k=;nvIZQKI3BxifWFXgJ5p7KQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
 type: article
 quality: 59
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -28,28 +28,33 @@ images:
 
 related:
   - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
-    publishedDateTime: 2022-04-18T16:09:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
+    publishedDateTime: 2022-04-18T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
+        width: 320
+        height: 400
+        isCached: true
+  - title: "SAS data ethics head named to National AI Advisory Committee'"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ..."
+    publishedDateTime: 2022-04-18T22:38:00Z
+    webUrl: "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://menafn.com/updates/pr/2022-04/18/PN_75f4df88-3_Image_In_Body.jpg"
+        width: 320
+        height: 400
         isCached: true
-  - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Created in response to the National AI Initiative Act of 2020, the NAIAC provides recommendations on the current state of US AI competitiveness, the state of science around AI and"
-    publishedDateTime: 2022-04-18T19:08:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 38
   - title: "National AI Advisory Committee"
     excerpt: "Looking for the latest Government Contracting News? Check out more stories about National AI Advisory Committee."
     publishedDateTime: 2022-04-18T20:48:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1104037118/Advanced-Navigation-launches-AI-powe
 webUrl: "https://menafn.com/1104037118/Advanced-Navigation-launches-AI-powered-autonomous-undersea-robot"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Cancer Monitoring Test Launched Across Europe"
-    excerpt: "C2i Genomics launches minimal residual disease test across Europe after clearing regulatory hurdles in the EU, UK, and Switzerland."
-    publishedDateTime: 2022-04-14T05:21:00Z
-    webUrl: "https://www.mddionline.com/ivd/ai-powered-cancer-monitoring-test-launched-across-europe"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 37
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/C2i%20Genomics.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Youstore launches free AI-powered e-commerce website creation"
     excerpt: "Yourstore a leading SaaS platform that helps businesses create ecommerce websites today announced the launch of Yourstore Genie a free AI powered ecommerce p"
     publishedDateTime: 2022-04-18T11:34:00Z

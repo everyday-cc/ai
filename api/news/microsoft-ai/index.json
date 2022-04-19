@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-19-woolworths-completes-sap-cloud-migration-to-microsoft-azure.md",
+      "title": "Woolworths completes SAP cloud migration to Microsoft Azure",
+      "excerpt": "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/",
+      "originalUrl": "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/",
+      "publishedDateTime": "2022-04-18T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
       "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
       "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
@@ -105,92 +148,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
-      "title": "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
-      "excerpt": "CHICAGO, April 15, 2022 (GLOBE NEWSWIRE) -- Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization ... application development and data & AI. As a Gold Microsoft Partner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26651349/kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-speci",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26651349/kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-speci",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26651349",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26651349",
-      "publishedDateTime": "2022-04-15T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
-      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
-      "excerpt": "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp",
-      "publishedDateTime": "2022-04-14T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1453,6 +1410,40 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-folk-psychology-and-cognitive-architecture.md",
+      "title": "Folk Psychology and Cognitive Architecture",
+      "excerpt": "It has recently been argued that the success of the connectionist program in cognitive science would threaten folk psychology. I articulate and defend a “minimalist” construal of folk psychology that comports well with empirical evidence on the folk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/folk-psychology-and-cognitive-architecture/E0E31B4604053F47067DBB371BF59E1A",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/folk-psychology-and-cognitive-architecture/E0E31B4604053F47067DBB371BF59E1A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

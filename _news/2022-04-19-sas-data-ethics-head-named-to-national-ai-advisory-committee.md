@@ -1,26 +1,44 @@
 ---
 category: news
-title: "SAS data ethics head named to National AI Advisory Committee"
-excerpt: "Created in response to the National AI Initiative Act of 2020, the NAIAC provides recommendations on the current state of US AI competitiveness, the state of science around AI and"
-publishedDateTime: 2022-04-18T19:08:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
+title: "SAS data ethics head named to National AI Advisory Committee'"
+excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ..."
+publishedDateTime: 2022-04-18T22:38:00Z
+originalUrl: "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee"
+webUrl: "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee"
 type: article
-quality: 38
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Machine Learning
   - AI
   - AI Ethics
-  - Natural Language Processing
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-04/18/PN_75f4df88-3_Image_In_Body.jpg"
+    width: 320
+    height: 400
+    isCached: true
 
 related:
+  - title: "SAS data ethics head named to National AI Advisory Committee"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
+    publishedDateTime: 2022-04-18T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
+        width: 320
+        height: 400
+        isCached: true
   - title: "Who Serves on the New National AI Advisory Committee?"
     excerpt: "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair."
     publishedDateTime: 2022-04-15T23:03:00Z
@@ -36,20 +54,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
-    publishedDateTime: 2022-04-18T16:09:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "National AI Advisory Committee"
     excerpt: "Looking for the latest Government Contracting News? Check out more stories about National AI Advisory Committee."
@@ -112,6 +116,6 @@ related:
         height: 248
         isCached: true
 
-secured: "v61GCle+ly48StiZVzesKmV7XUESlERVrxul60y4/gaEYjq9NnbT96EyTF39fEmCAXSFwUdy3NXSp2X+EpoTCauDazuUCaTGEf9qJ+1IBboKBl69XJzyXLIla2S/CdbWyT2gzLGBm89DkO40L2pKHt+YMbmc5bSMWgbQbJMjVSjA8cW6/s+ROTip5ihH1UFic6Wo/PUWqBk0XURyhkwIx3hH6Yl0GY7RhCJVLrslhkTzuqJsCgLpB/li/l4s1hE6f+rxbGnlMNVhJeMf0RB5ad0IZbfhMgveA/JRQcpLWJxMhkoc4YYd0ORsiFdXp9mPSq8YnNZ5TMP4zcvUbcWSQ2ZqoZ1pPnMvPuZZm5/tvXM=;5r2O5c8jqkvHqwjV2wL7Bw=="
+secured: "7OukFdVIpAIRAY5AbxkIReNPshgFduu1ZeCZFlDvGy1MkhOAPT6m9Zibr8Mos0d5RJWJN0zef2WS/RaddkfggWl9PJmQITJ8J8asesjlyDwEQcQG3KiIGkN59KfRv3jGNUVoxeNS2Ld8BZ49U0F8h7JArtAAQP8qYWB87dpnYxA/am2REidrpP1cW8OGzQ7kHBHcnAPLch0JMVMk9LhbgNijZWXBlfHyQVNzm5JeYmhX7LITcd9dXVWq8yCmtDydMFCaiRuzyJlWfjipn1jR2gBAv4QNSDCzHuQtnRgwFgfVFlk/dDoQvDmUcoDEsS44EEEyIQYEU/rTq5k7OizeeS8GTdrqbu4xlz8hDn61Zv4=;OLVi0StadyLmZAl9ovAZpg=="
 ---
 

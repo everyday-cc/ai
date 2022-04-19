@@ -77,6 +77,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Severity to Sentiment: Ukraine using facial recognition technology to notify Russian families of dead soldiers"
+    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
+    publishedDateTime: 2022-04-18T23:26:00Z
+    webUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/"
+    ampWebUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
+    type: article
+    provider:
+      name: CBS17 Raleigh
+      domain: cbs17.com
+    quality: 54
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "KGUt8opFJF787+ujr3wNyFgeeXgYmVgjToRyMQBnTsirkno8i5lV14+bf/4XkGnpF8uwImOvA6JZk8fx0NXb5UIOrBNAImOvfg9i5CT5NBWfpaGFWBl0XS8SM31/2aS0eer7m8H1WbWVlcJfU8+wdlWBHcrrV1NRnyUo+Vy7KL2N0HisXW+KjotzMXdwhpUVn1yYayqRGa8JaOpVWmeZIe+wS08KqzDSCqbPqMKbKnbrXr6/e3+4/F6jMTcUrwhp+BYcLhn38i6SNxswwkkL8bqNoAOKTs/7s+eadxCcoPP3DWnnXdsyxuPz9qSEevVeJWQlnA6xwAkd0PZzrfoCJqIyHMCHAbTpANPUvwjuf9XuVlqrTi1SdqIZ296Bn/CJt8lh+gmC4tXrR5C/joJLhg11mRu0MXFhXX3MXdgOtwNBNqOR/WTuFbI+a1djHT/HKscpIkje4n1jlzXcy7l90Xfv91/2Ghjof04xTAw3m7f1ZMFOG1ei2PVS/3Y4dmQu9cS1Iu9/WIxffEnhmuxotA==;0v1HTHUIKhbdp15GdTnXaA=="
 ---

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "SAS data ethics head named to National AI Advisory Committee"
-excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
-publishedDateTime: 2022-04-18T16:09:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
+excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
+publishedDateTime: 2022-04-18T16:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 154
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
+    width: 320
+    height: 400
     isCached: true
 
 related:
@@ -41,15 +45,20 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Created in response to the National AI Initiative Act of 2020, the NAIAC provides recommendations on the current state of US AI competitiveness, the state of science around AI and"
-    publishedDateTime: 2022-04-18T19:08:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220418CL27727/sas-data-ethics-head-named-to-national-ai-advisory-committee/"
+  - title: "SAS data ethics head named to National AI Advisory Committee'"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ..."
+    publishedDateTime: 2022-04-18T22:38:00Z
+    webUrl: "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 38
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/18/PN_75f4df88-3_Image_In_Body.jpg"
+        width: 320
+        height: 400
+        isCached: true
   - title: "National AI Advisory Committee"
     excerpt: "Looking for the latest Government Contracting News? Check out more stories about National AI Advisory Committee."
     publishedDateTime: 2022-04-18T20:48:00Z
@@ -111,6 +120,6 @@ related:
         height: 248
         isCached: true
 
-secured: "BPr8ofyLSrQloAi23YFdsL5myofwY8U2G8USrGM68grX1Hl1lP0rTcUhdiCgvi9O8dTjP5RPVjEJsg61vKtdIvARtQX5VxqTiA1yMOnFSTVAi3n2gPt6wwKD+IM9SIRQg2Ur9ikw9vBGw6YJLRmRXk0dsiwulmhPKSF9uUFZEFdFspwqedWvYjH7NldRUr/+XXhw0qA9gmKq1LVGFmnn8F1OcUyyoW/hEJBitDN28niAhB3uCZtez+AGPi8iTBD8xkkt7Ghg16uAjbYX82owMUcG9454++vnd+a6SCjaO3hLqrBR/EKVgesB8Ynk83/uOoGg9pmIfRdo/cAPqdfPvrMvX/BP3b9Q0scB/QhxuG8=;e7kYY1SPYiVdgxNUzPFHzg=="
+secured: "uubTUdz7glvG4ZCEicXXLfsq7euK2SiBUqFvycI+TAVHlVhOrT6fHJ6rtogPjwi/8wK8DbVbjk/W11d/ZLqDS1H0w/bL8ThDkn7rWWFk3uaxAjtUnhJZ0w6q0qhZkmNmiCieiuUnc7ZRdFvmvRrGHmh5zVG2x+7wQf6QAOX/Cdx76gXEJNW5PDi8V2fmWfP18atLe+26qLRWaQREZ8r4SSfaKIsng1ULiNGWLwB+gK+4DHws8AzpLC1HyQ0PLjADS9X4bu3HHKLmdtaBBlXW5mmDoJUU/w0y69lbI/hv7FiSy6cqv3iRKbqhsRGeWe0Sx0OhplAXhA5MRj7lE3Yg+W/Lpd+EemWH67mQyVJ9cDY=;zcdSquSQrxHH0wfUlQ4UKQ=="
 ---
 

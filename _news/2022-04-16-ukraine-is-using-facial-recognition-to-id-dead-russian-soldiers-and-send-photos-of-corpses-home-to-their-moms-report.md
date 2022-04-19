@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://wp-assets.futurism.com/2022/04/ukraine-facial-recognition-russian-photos-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Severity to Sentiment: Ukraine using facial recognition technology to notify Russian families of dead soldiers"
+    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
+    publishedDateTime: 2022-04-18T23:26:00Z
+    webUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/"
+    ampWebUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
+    type: article
+    provider:
+      name: CBS17 Raleigh
+      domain: cbs17.com
+    quality: 54
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "eTAUu8CnaMtWlXkQoebMjDVwROoT5f0meBcoxaLtfliuURHAWmdYW+O7t94Kja17lDRWpQLOeyIFsjNjSbL/A1iDgIJT5ozEe7lGYeWww2Ow+/r0Wm1jxokyRAbmQSk2f3B0B314HA3zLuKAAhm+Jjah1pVcuQVB2fK2m1gEtZ++Tk7QHrku8UiXXT1aBtnsp4jcAiMi2fWVbGq8tCFMSYCRPqarWHaM4riK71pUIPhHQFwwttHmseu/m1Q2VElfbBTqjBHC2+MeUKcETvBgtfcFPDlT/uja4KxQ8G4Lo9tYEbV04OB7/qgl+Kas+1uE0ZRDRnxUpQlcN/anHwHys2JcVpCjZ5X0U1vcOW8CVLui1vsC5xQ9qtmZ9trjeFUpuDPb+Ja14mGX5djOlWZQIlbcBR0PwX/elq3ozje1HmXOpDRywcuGDWzz748/nS7A2KCxqMAp3H/B1uqmxL2C0fPEL5QXdZg6NcluHRgs1buw+4yVJj1t0JEjlZnq6HGSfvF+iGQDbyethWO44AsYlw==;zvNj8dF82i0YUBynBZbbgA=="

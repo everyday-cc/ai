@@ -1,0 +1,49 @@
+---
+category: news
+title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
+excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic. The study is published in Gastroenterology."
+publishedDateTime: 2022-04-18T16:58:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/950002"
+webUrl: "https://www.eurekalert.org/news-releases/950002"
+type: article
+quality: 15
+heat: -1
+published: false
+
+provider:
+  name: EurekAlert!
+  domain: eurekalert.org
+
+topics:
+  - AI
+
+related:
+  - title: "Miss rate of precancerous polyps in colorectal cancer screening reduced by artificial intelligence"
+    excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic."
+    publishedDateTime: 2022-04-18T17:29:00Z
+    webUrl: "https://www.news-medical.net/news/20220418/Miss-rate-of-precancerous-polyps-in-colorectal-cancer-screening-reduced-by-artificial-intelligence.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220418/Miss-rate-of-precancerous-polyps-in-colorectal-cancer-screening-reduced-by-artificial-intelligence.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220418/Miss-rate-of-precancerous-polyps-in-colorectal-cancer-screening-reduced-by-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 43
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
+    excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic. The study is published in Gastroenterology."
+    publishedDateTime: 2022-04-18T18:13:00Z
+    webUrl: "https://medicalxpress.com/news/2022-04-ai-precancerous-polyps-colorectal-cancer.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 15
+
+secured: "PvcJSS1Yj7tKrxZKHB7sPiecf8RkZ9hXRpV9iSWFq6l5A4R/hRRQ/OTt3tvhfKGxMIw6BC1njcMBOqXdqNfiTmydqW4WKKfSOL9O+uQQG4pchEPEn1ppRTGpCq6+xvODzcY9BAgkhzSfNq7YhEMHqLaxHq1SHOXMnaiZgyj8p6B9tloNtT2yqnnvKQGu7q6apCBvRX8OaKXykHRNk4sHVZkt13IRyCX2kG2q0YuT5yk6idpSDLb2tvm5Sjz0ns9pZYtZodOLpzv3OZcOnybJbheyeS0RbqNkkmyzyAXihBv5W9zJ3BNexZK4gdPtxpach4R8XMhwdDIaxV3yQrRBmm8sUKUG4HKePQiSCnQBaEs=;zv7TUIfx79NBqUr/763XPQ=="
+---
+

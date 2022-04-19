@@ -7,7 +7,7 @@ originalUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-
 webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amii announces AI Week programme, bringing together world AI community"
-    excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the programme for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-    publishedDateTime: 2022-04-15T03:37:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=2072355"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 37
-    images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
-        isCached: true
   - title: "AI Week brings together the world AI community"
     excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
     publishedDateTime: 2022-04-15T19:46:00Z

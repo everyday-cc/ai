@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/26651349"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26651349"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,19 +27,48 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Translator adds Galician and Basque, commits to endangered language preservation"
-    excerpt: "In case your language isn't already in Translator, know that it's only a matter of time. Now you can utilize Microsoft's tool for Galician and Basque."
-    publishedDateTime: 2022-04-14T19:44:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-translator-adds-galician-and-basque-commits-endangered-language-preservation"
+  - title: "Woolworths completes SAP cloud migration to Microsoft Azure"
+    excerpt: "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,"
+    publishedDateTime: 2022-04-18T22:20:00Z
+    webUrl: "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 29
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
+    excerpt: "According to a joint statement, the collaboration seeks to unlock the opportunities that Microsoft’s cloud provides to address the unique challenges of the oil and gas sector, enabling BPCL to accelerate the modernisation of its tech architecture."
+    publishedDateTime: 2022-04-14T08:42:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-8361391.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-chinese.jpg"
-        width: 800
-        height: 598
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/11/BPCL-770x431.jpg"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "BPCL teams up with Microsoft to leverage cloud, AI technologies"
+    excerpt: "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry."
+    publishedDateTime: 2022-04-14T20:09:00Z
+    webUrl: "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."

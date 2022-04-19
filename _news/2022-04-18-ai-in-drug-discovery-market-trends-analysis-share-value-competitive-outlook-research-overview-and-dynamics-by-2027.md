@@ -83,20 +83,6 @@ related:
         width: 1008
         height: 504
         isCached: true
-  - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
-    excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
-    publishedDateTime: 2022-04-14T06:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-2022-growth-latest-application-share-recent-trends-and-better-investment-opportunities-by-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/image-5.png?w=877"
-        width: 877
-        height: 432
-        isCached: true
   - title: "Speech Recognition Market Share, Growth Drivers, Analysis, Opportunities, Competitive Landscape, Strategies and Impact of COVID"
     excerpt: "Overview Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner"
     publishedDateTime: 2022-04-14T12:09:00Z

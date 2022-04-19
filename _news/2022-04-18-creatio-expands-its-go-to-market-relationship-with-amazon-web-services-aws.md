@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/creat
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/creatio-expands-its-go-to-market-relationship-with-amazon-web-services-aws/article_60f1c2b3-170b-5bbc-99f0-ea34e45c3ca5.html"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Creatio Expands Its Go-to-market Relationship with Amazon Web Services (AWS)'"
+    excerpt: "Sales Creatio is now available in the AWS Marketplace BOSTON, April 18, 2022 /PRNewswire/ -- Creatio, a global vendor of one platform to a"
+    publishedDateTime: 2022-04-18T22:41:00Z
+    webUrl: "https://menafn.com/1104040825/Creatio-Expands-Its-Go-to-market-Relationship-with-Amazon-Web-Services-AWS"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743680"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "jT53VqWmW/Ickxussz2B01IyYVXc1JKoa4KoqfnondqZ6Gqf6DYFNlL7Xc1+0ygzOTCTOBYaafUsvFxANnZu9T70rpF3B2srWzRLNEqcefb+/Unt4djD5PFN9ZwwSfgIsLyfNM7V7Q6Chham8+NbwaKt3FXMPiUvoEWQv1O5jp8dLv/fsDX9oiufInx0EaH16uHV2QdJ5tHhFnTk+DXFrd3DpPV96nbbgf+jF2K9yTExpjoFzk4tk5s9C70WUlWnPrxd2SCroRPUOpJb5Ye7k8NelOkq6H0x6c3pbYBF/dgSTaTD9c7q+2tCsNvo5Z+UErq0Kgef6JSzZ+p4e4MgTjJwrtgGCk7nw/zCVimlDgpqTZ+EfYUZDJSaLHAZ2LA8jo8bLLHFk/MrO2OkNN5yARawzGT8AEcC/rA9FWmX4CL8VhhVF2kHi8RdVE5JBwTshny6bFSSkc7cMMw7SJaircP1P0IWFVAAaHYJKzeYeRvuMPK5qsU8o+nKwnsGmZvD/SiuRFrLF1IJz3G5WAJRXg==;432AewEXxw5NpwXGCkXcQg=="
 ---

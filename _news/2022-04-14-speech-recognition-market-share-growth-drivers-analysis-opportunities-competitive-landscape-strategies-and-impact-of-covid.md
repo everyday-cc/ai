@@ -84,20 +84,6 @@ related:
         width: 1008
         height: 504
         isCached: true
-  - title: "Edge AI Software Market 2022 growth latest application share recent trends and better investment opportunities by forecast to 2027"
-    excerpt: "Edge AI Software Market Market Analysis Market Research Future (MRFR) projects the global edge AI software market size to reach USD 2271.73 million at a"
-    publishedDateTime: 2022-04-14T06:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-ai-software-market-2022-growth-latest-application-share-recent-trends-and-better-investment-opportunities-by-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/image-5.png?w=877"
-        width: 877
-        height: 432
-        isCached: true
   - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
     excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
     publishedDateTime: 2022-04-18T11:20:00Z

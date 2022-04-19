@@ -1,0 +1,59 @@
+---
+category: news
+title: "Instreamatic launches voice AI for real-time customer sentiment analysis"
+excerpt: "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally."
+publishedDateTime: 2022-04-18T22:50:00Z
+originalUrl: "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/"
+webUrl: "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/"
+ampWebUrl: "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/"
+type: article
+quality: 86
+heat: 106
+published: true
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "The Current State and Future of AI for Customer Service"
+    excerpt: "In this special guest feature, Muddu Sudhakar, Co-founder and CEO of Aisera, describes how AI provides firms with a way to manage customer service at scale, by providing better on-demand answers and actions."
+    publishedDateTime: 2022-04-18T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/18/the-current-state-and-future-of-ai-for-customer-service/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
+  - title: "Instreamatic Launches Speaky, the Voice AI Platform for Instant Customer Communication and Real-Time Sentiment Analysis"
+    excerpt: "Instreamatic, providing an end-to-end Voice Marketing Platform for managing, measuring and monetizing conversations between brand and consumer, today launched Speaky. The new many-to-one communication solution enables customers to instantly and easily speak their minds to brands or content producers by leaving brief audio messages at any physical or digital brand touchpoint."
+    publishedDateTime: 2022-04-14T21:03:00Z
+    webUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522792/instreamatic-launches-speaky-the-voice-ai-platform-for-instant-customer-communication-and-real-time-sentiment-analysis/"
+    type: article
+    provider:
+      name: WFLA
+      domain: wfla.com
+    quality: 13
+    images:
+      - url: "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/Dog34.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "K5mqRVJebUIIqxm+ijFLQj0dbR8HBHR2F0v1VNVxri46lhQticBIDHb0baaEBNxU9kl5fr8eOR7Ix9epm+7ibp4wr4nO6puU4MSdn1aIyPRRlYRTHZxRzqjsQ6WNn3JL9t9N/e81Xn+WEaEjHaBy8sQHOE7ii5grB9Tbo5Bd25bilaE4EVkUIaMCAFEE4IMSxgFSlVw3Wl4FvMSo8o5DCPR/wNQ1TyZ2aJA4EkPKol0qQU3e30tepA2N7LF7x57GlmWOGYKYp5vfSHDP1iWqAH+q+rXleGqCuz3Cr9bgm+yrDfpoe8jLXd/Nk/E8kFVPZPztfryCRJHZ9GXgNNQmPq6conVKxV0d07vNu2kpYAw=;52A0XFbUz2PhWwytB12WhQ=="
+---
+
