@@ -19,71 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Chip Market, Size, Share, Analysis, Revenue, Price, Growth Rate, And Forecast By 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
-    publishedDateTime: 2022-04-17T22:38:00Z
-    webUrl: "https://menafn.com/1104036736/AI-Chip-Market-Size-Share-Analysis-Revenue-Price-Growth-Rate-And-Forecast-By-2030"
+  - title: "AI-Enabled Last Mile Delivery Market Size, Trends, Future Estimations & Opportunity Analysis By 2029"
+    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
+    publishedDateTime: 2022-04-18T22:43:00Z
+    webUrl: "https://menafn.com/1104040256/AI-Enabled-Last-Mile-Delivery-Market-Size-Trends-Future-Estimations-Opportunity-Analysis-By-2029"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 45
+    quality: 22
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363260"
-        width: 374
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743680"
+        width: 443
         height: 250
         isCached: true
-  - title: "Europe Artificial Intelligence Market Size, Share, Trends, Growth and Forecast 2026"
-    excerpt: "Europe Artificial Intelligence Market Report SHERIDAN, WYOMING, UNITED STATES, April 18, 2022 /EINPresswire.com / -- The Europe Artificia"
-    publishedDateTime: 2022-04-18T10:50:00Z
-    webUrl: "https://menafn.com/1104039258/Europe-Artificial-Intelligence-Market-Size-Share-Trends-Growth-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/18/EP_b82c6image_story.jpeg"
-        width: 1154
-        height: 649
-        isCached: true
-  - title: "AI-Based Electrical Switchgear Market, Size, Share, Top Company Profiles, And Forecast By 2030"
-    excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
-    publishedDateTime: 2022-04-17T10:43:00Z
-    webUrl: "https://menafn.com/1104035493/AI-Based-Electrical-Switchgear-Market-Size-Share-Top-Company-Profiles-And-Forecast-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?499119"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "SOC-as-a-Service Market Industry Research, Segmentation, Key Players Analysis and Forecast to 2031"
-    excerpt: "In a recent market study by Future Market Insights (FMI), the global  SOC-as-a-Service market  is expected to reach $1.08 billion in 2021 . Favorable demand forecasts make the market poised to grow to a total of $9."
-    publishedDateTime: 2022-04-15T10:34:00Z
-    webUrl: "https://www.fmiblog.com/2022/04/15/soc-as-a-service-market-industry-research-segmentation-key-players-analysis-and-forecast-to-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 10
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/04/FMI-3.jpg"
-        width: 1008
-        height: 504
-        isCached: true
-  - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
-    excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
-    publishedDateTime: 2022-04-18T11:20:00Z
-    webUrl: "https://www.medgadget.com/2022/04/ai-in-drug-discovery-market-trends-analysis-share-value-competitive-outlook-research-overview-and-dynamics-by-2027.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "JMeC0IrK2Gjrli/ZnYzzx0KqslkHK7AwhiRlKMq7GIDeiqYbflPYekC29GAI48OX6SqsOr6+sD+/wiZ16Tjffx9Ue/R6EWeDUdwxrBP4eJ0idr+Ya8+OcYWjCGAvZx5SOvU4lqUBNDVRrwPhxe/61GYDv+5puq4MP/bQCicdXkGNTo9GjUpTeXXJ6Rl6xR0822yvrwbSk+HqzqzdOGCRXY7A0mps2S4OhcPA0Z6uWC/WxNs202yHeokoVj9glc3JFzYy1f5mh99PWLMT1Z8RW3i6s6Rdapc7P/RrWpDZYyBdyNR07PEUfMHfxRxrrcz2qHx1Bb1cDLfY1+I/ExjG9YF0AXp2+yMICp0EktLAW+fNB5E3XEcSyuSwlRAkX7enKrrx6aYtIEQR9peS2Trb0sxi5CzX9mTNh+MtqjVxrsqHLvxWmqqajUT2EHDzjt+W/839nd3gsSFm25Q4aE9kcbNBBPjNyZ/NNusC4482WfVIVi4+l9PlKfX/Kth4mNcD1907r6cLKq0DTi/Cy/9jbQ==;NgfACMARbh6YtRBWcJuEyw=="
 ---

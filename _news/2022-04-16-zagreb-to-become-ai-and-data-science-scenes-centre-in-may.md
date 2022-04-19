@@ -40,20 +40,6 @@ related:
         height: 336
         isCached: true
   - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "The Centre will support acceleration of AI industry research and development through support of SMEs and talent developmentDubai, United Arab"
-    publishedDateTime: 2022-04-14T16:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-ai-computing-centre"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://orders.newsfilecorp.com/files/8457/120422_cb9e993834ed1a08_001.jpg"
-        width: 550
-        height: 330
-        isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
     excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
     publishedDateTime: 2022-04-14T21:50:00Z
     webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"

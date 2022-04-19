@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-arti
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1600
     height: 1000
     isCached: true
+
+related:
+  - title: "AI Driven Israeli Company Embryonics Ties-up with Jaslok Hospital"
+    excerpt: "Embryonics Israel-based data-driven fertility company announced its first collaboration in India with Jaslok-FertilTree International Fertility Centre led by the internationally renowned Dr. Firuza Parikh."
+    publishedDateTime: 2022-04-19T09:45:00Z
+    webUrl: "https://www.businesswireindia.com/ai-driven-israeli-company-embryonics-ties-up-with-jaslok-hospital-78387.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 37
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Multimedialog_78387.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3GRYGM8asWWDBzrdV1kIdTzqbTMH0KX6KxXXuNVuVXmGD7fndNUtqx16HMJHpCdLR/MbHMIcIqdiR2dBWsd6g9e3/zT72aAF56EOKuijKZ5T+S6OQgVlUQ59xx+hZ3mDjWFatwOyT3LPA9YN3CDY19CP36neG55S0FgYB2xWwRM204UbRe09lmIUpP8XrCudlY1okOpemlanXzyoff/aUhnIaLfqzvDEamLxeTZRODLUcUxNKPeCaUjufI45hTgNrxYOFFbKTTxRXe68wsS68poPdCVZoHPzMonfwvosaCUx1TD5CUjAh6/b6iEnvIkam+5yh1Z1JFB9fti3HUKWa5VNvxrm027n1h183pbHBis=;N+058EC0Gn19jDQC/uBJUQ=="
 ---

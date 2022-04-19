@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Developing Countries Are Being Left Behind In The AI Race – And That’s A Problem For All Of Us"
+    excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
+    publishedDateTime: 2022-04-19T08:04:00Z
+    webUrl: "https://za.investing.com/news/developing-countries-are-being-left-behind-in-the-ai-race--and-thats-a-problem-for-all-of-us-2538795"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 27
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "The Nation’s #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
     excerpt: "Loan Factory, the nation’s #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
     publishedDateTime: 2022-04-18T16:08:00Z

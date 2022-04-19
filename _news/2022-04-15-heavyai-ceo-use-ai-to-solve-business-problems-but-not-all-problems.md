@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-busine
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems/amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
 related:
   - title: "Why You Should Use AI to Write Your Business's Press Material"
     excerpt: "Press material is a form of marketing material that's specifically designed to be distributed to the press. Press material is not only used for marketing purposes, but also for public relations. It gives the press an overview of what your company does and who you are as a company."
-    publishedDateTime: 2022-04-17T20:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/417465"
+    publishedDateTime: 2022-04-18T00:01:00Z
+    webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649708992-GettyImages-1225909157.jpg"
+      - url: "https://s.hdnux.com/photos/01/25/17/26/22345107/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cl
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/07/full/1646622884-9615.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
+    excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
+    publishedDateTime: 2022-04-19T08:50:00Z
+    webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 56
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
+        width: 960
+        height: 540
         isCached: true
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "CHICAGO, April 15, 2022 (GLOBE NEWSWIRE) -- Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization ... application development and data & AI. As a Gold Microsoft Partner ..."

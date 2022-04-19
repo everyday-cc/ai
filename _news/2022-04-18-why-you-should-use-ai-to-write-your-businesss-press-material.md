@@ -2,27 +2,23 @@
 category: news
 title: "Why You Should Use AI to Write Your Business's Press Material"
 excerpt: "Press material is a form of marketing material that's specifically designed to be distributed to the press. Press material is not only used for marketing purposes, but also for public relations. It gives the press an overview of what your company does and who you are as a company."
-publishedDateTime: 2022-04-17T20:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/417465"
-webUrl: "https://www.entrepreneur.com/article/417465"
+publishedDateTime: 2022-04-18T00:01:00Z
+originalUrl: "https://www.timesunion.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Use-AI-to-Write-Your-Business-s-17086840.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1649708992-GettyImages-1225909157.jpg"
+  - url: "https://s.hdnux.com/photos/01/25/17/26/22345107/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -45,6 +41,6 @@ related:
         height: 675
         isCached: true
 
-secured: "k3BGMOFoDYoyTud+SeYI71jgFUCuteeARtGeXpc7ZR+eoqGvgVfuIoFuafsvYQopXERgGg5Rq+Ntq6Ag2NeRL+Bvc/O+qOl4ooVKlY4j2RShjY5OuVp6oN0+w4GVVN+cSorLdSjLKtmRXWlp+X7X4GMhEyQhhzIbuetdXmRF6wUmMdtdY0IY/st+dLXgyN0Zda02cNnvxfEyz5Egh+lbLoAAnnKd0SCW/qfNQqo431Yi1A1+jLGK2Y4Q4yGJp4iT3VWe68Z4PjDUHXS+AJyVNlGExUYpAkGtFjaJrEPKyJsYoF/xl8cSqXCorkczwH65oPvfNOf4JTsT2SreJRpovn0rE469iLcnM1oBw4EBBjI=;nzYPub7/scX2eVJR7eaDmw=="
+secured: "BHCBNgEYVvmasT6k7dzFG/aIwB/dCzcFwPp+7byFp/btE9E25mulZuZaxXs+tcSSsPaI2CcqZgSb8eQUHxiQFBTSD4oAAWjWZ5BVpmpfLCeT59Fy71RtGdu+SyTObc5pbk3SjvnuyVYl3inUvf/C0Bu2kPXOI2L7BiOvUZfPwgNGjGBQ7b/dVbtqVK02tLjVESXlVHMR70VW4aKBUYJfCFA8rhMea7380LqR31zD3gz5DEqg+LICtuaoHJoIL7HFQ8l45w+9V3Pzht6cK4mLu9KeDH+Lvw3fQVoAFT3Xlaudg6wudr4kac/xcakPoMgN7dAihv8LCveBqBIVWaco3dsBR3d85vXRXMfJH7N4oZQ=;f4wue6WLcRe4kIBAnVDdjg=="
 ---
 

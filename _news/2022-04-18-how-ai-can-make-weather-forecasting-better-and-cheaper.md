@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Research using AI to better predict severe weather"
-    excerpt: "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately."
-    publishedDateTime: 2022-04-18T21:37:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather"
-    ampWebUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
-    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
+  - title: "How AI can help – and hinder – the supply chain crisis"
+    excerpt: "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and"
+    publishedDateTime: 2022-04-19T09:31:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis"
     type: article
     provider:
-      name: KJRH
-      domain: kjrh.com
-    quality: 57
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Using AI to predict future cardiac arrest"
-    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
-    publishedDateTime: 2022-04-14T16:50:00Z
-    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
-        width: 796
-        height: 569
+      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1650360316/itpro/2022/April/GettyImages-supply%20chain%20AI.jpg"
+        width: 375
+        height: 210
         isCached: true
 
 secured: "c0/wYvcOLR003xYHj3YXHUclZjxAhYhzu1iUgyJbknpW96fMq+toyyNBmIT/HczP9GPbBxPLJNG71p+vcUq6paDwZB8R6CN5Dy0n+WEwx1svgI7OwH0/hQzgUf59qAea7eGBtBJpJLP87/Ud7V8ndK96Bx1k0+r3utEINYZyyJORmEqRPw8OikYcrLY3ERn6jnMd2+ywQqW0DbBlyDTED1GVVM6OHp71SxbSfiOxP3og3tnO8qhL38cxfM+uKxFnSRgOMmG6MpixpotSoAH4cQdbqfRLrggKU2JopELWtvrB848mkA9uMowJannNbdTVwlEUnqyfrOSIDjtc1slIAyS5ZARrdTzUffoxBNfv7gI=;Kz4B1zdJRZhau9GSs2uJkQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-benga
 webUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.total-croatia-news.com/media/k2/items/cache/872414604f95ac4ff229b18a9d9e962a_XL.jpg"
         width: 1170
         height: 731
-        isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "The Centre will support acceleration of AI industry research and development through support of SMEs and talent developmentDubai, United Arab"
-    publishedDateTime: 2022-04-14T16:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-ai-computing-centre"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://orders.newsfilecorp.com/files/8457/120422_cb9e993834ed1a08_001.jpg"
-        width: 550
-        height: 330
         isCached: true
   - title: "Terminus Group Announces First AI Computing Centre"
     excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"

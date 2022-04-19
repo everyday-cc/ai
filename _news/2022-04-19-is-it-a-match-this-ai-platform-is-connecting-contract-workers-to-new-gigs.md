@@ -1,0 +1,46 @@
+---
+category: news
+title: "Is it a match? This AI platform is connecting contract workers to new gigs"
+excerpt: "As flexibility has become non-negotiable to a post-COVID workforce, some workers are ditching the 9-to-5 in favor of contract and freelance work, which can provide more freedom (and often more income)."
+publishedDateTime: 2022-04-19T09:30:00Z
+originalUrl: "https://www.benefitnews.com/news/peoplecaddie-using-ai-to-connect-contract-workers-to-new-gigs"
+webUrl: "https://www.benefitnews.com/news/peoplecaddie-using-ai-to-connect-contract-workers-to-new-gigs"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: Employee Benefit News
+  domain: benefitnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/4f4b068/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F29%2Feb%2F8362f8ec4325b18bc59c87f1f10c%2Fpexels-andrea-piacquadio-859265.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Is AI the ultimate matchmaker? This YA novel explores tech and dating"
+    excerpt: "British author Samantha Cheah narrates the bizarre dating experiences of a university student in London in the 2030s."
+    publishedDateTime: 2022-04-16T05:53:00Z
+    webUrl: "https://www.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
+    ampWebUrl: "https://amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 89
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2022/04/14/987b9308-cd4c-485e-a3a0-7ee43bf62c7a_3a0f635e.jpg?itok=3zLCrzp4&v=1649920075"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "9c8V++r7/fKu+GuXOxcUn7OzYGll62PD9jibS4mn+ScPVTlmTauvpUW2s700LlREcNF7ZZtz06phmJNmzF6rkUytmKRbGS3hDWvARi6PW7gpJv61C7egFuvHtNdJt381hrLxbkj9lxBJkp5IZpRt7T88opoVZUEPz8iXijYD49/uL3p9aZrkXcrt6faJg4JCNiaEQrO1Ku97UIg70YTgOGv+k0YiZ01sGa9byS38HKycnNQZHc9AWTba1ONwGUqqSDf4Y4nquO3TFjKN9utKqTwBGiefxl/v9xW33ldu3NV2M5Lyb+WD1PD1IecARYY6VG55dtI0vq64fGxj/07uUuvpklHGDfBxtBwqYedb+Xw=;ATO8G7uJWawCWhX/2MBqTg=="
+---
+

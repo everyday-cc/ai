@@ -52,20 +52,6 @@ related:
         width: 1170
         height: 731
         isCached: true
-  - title: "Terminus Group Announces First AI Computing Centre"
-    excerpt: "The Centre will support acceleration of AI industry research and development through support of SMEs and talent developmentDubai, United Arab"
-    publishedDateTime: 2022-04-14T16:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/terminus-group-announces-first-ai-computing-centre"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://orders.newsfilecorp.com/files/8457/120422_cb9e993834ed1a08_001.jpg"
-        width: 550
-        height: 330
-        isCached: true
   - title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
     excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
     publishedDateTime: 2022-04-19T04:30:00Z

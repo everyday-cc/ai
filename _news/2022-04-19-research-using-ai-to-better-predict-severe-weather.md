@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-pre
 cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: KJRH
@@ -24,36 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Using AI to predict future cardiac arrest"
-    excerpt: "A deep-learning model predicts the likelihood of, and time to, sudden cardiac death in patients with heart disease — providing an opportunity for clinical intervention."
-    publishedDateTime: 2022-04-14T16:50:00Z
-    webUrl: "https://www.nature.com/articles/d41591-022-00054-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41591-022-00054-8/d41591-022-00054-8_20312514.jpg"
-        width: 796
-        height: 569
-        isCached: true
-  - title: "How AI can make weather forecasting better and cheaper"
-    excerpt: "Many nations facing the ravages of unpredictable weather patterns lack the most modern tools to plan for the changing climate. A US startup says artificial intelligence programs are the answer."
-    publishedDateTime: 2022-04-17T23:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/18/how-ai-can-make-weather-forecasting-better-and-cheaper"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/11/1546813.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "goty63AEeMhGcm2A8YIvQM+K/EVfNn+Rnx9GMgTP7jwi+xZbJgt9FbAfretSc/mkWvUB2dq/7XlkgfP+SorhwGf3w0c65Te/sN+XsDxdxLmjnSjahZueGT2sE1uhsUUZ82/8D9UpkBgg7v7UkQT3IOPomzMuPRl4XpgMEU7l7fRLRZwA9QqRvUh8ypeGYVuRBo8EgXaJuPcF3Gx5/3StXA6JQDWAakkv5BbT+t4ugp/iCFB1IdeDLYGO0/52pzJ7HTT3XR6WLTAttbJNkbWhjvrXx7R3/TNewsb0J/RmJZlv/AbihziA/1YLmngMrv+741fSHXKEMNFsRKfZ4JuAOTpisdTSgNxxuRd7m9STxvMKzZVMSMxIa9a1yBCC5ISuLZTV7eX4pp3KBsXwc3shbz3QntoxMfTKeekLKY2h6SRonPy6f3K7ozm48DBi6zrzjMvuZYBdsTYScRyIacQZJHSYPjCLSxsXeddZPJAKDl4HCB7iJC1XbS8Mb9lM2AJOVTAFtHsuU8tnOnBprq1q4g==;aleFNst0s49fxWL8+YLZtg=="
 ---
