@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 related:
   - title: "Emza’s Ultra-Low-Power WiseEye™ Solution Powers Vision AI Features in Dell’s New Laptops"

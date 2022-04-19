@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-co
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
 type: article
 quality: 74
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -54,17 +54,6 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 53
-  - title: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX) Short Interest Update"
-    excerpt: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX – Get Rating) was the recipient of a large decrease in short interest during the month of March. As of March 31st, there was short interest totalling 300 shares,"
-    publishedDateTime: 2022-04-14T07:41:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-update/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 44
   - title: "Short Interest in Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Increases By 224.2%"
     excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) saw a significant increase in short interest in the month of March. As of March 31st, there was short interest totalling 10,700 shares, an increase of 224.2% ..."
     publishedDateTime: 2022-04-15T15:31:00Z

@@ -1,31 +1,22 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "COLUMBIA, S.C. (AP) — Governor Henry McMaster’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in ..."
-publishedDateTime: 2022-04-14T12:17:00Z
-originalUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
-webUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
-ampWebUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
-cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
+excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
+publishedDateTime: 2022-04-13T18:21:00Z
+originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: WCBD
-  domain: counton2.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/GettyImages-1285307584.jpg?w=1280"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "CmwGakdoRvmmo46e7CZsE2WXdXCiV5+gX0GYc4OjgreYhwWEFwP0Pcs1ZPww/3O1LbW6+s7kDuh2sw7ugQri12L86g2SSqUS7s+Qh1GlmbCULAv1kYMfu/hqTRWaauRrZ7Dq0u+03IqlZXC0GiVV3xSJNOygFcyBFMEL/F3cYvfrrWbrfpGecGi4z1lsnqch3SUNNv550kHElPrG4T2+zhVu+8DqFWtLV1m6FGqyfvSDLt3A9332hNsK+0meprFK/+CHTDN6eoDQJdijECLmA65imy4ubbPen09pF4U8XKz9SGj2IVnFi7HjX9VhP0c0Ot4hA9GKztZ1bjT/t4Y6YSrY+GbGDPnMYHDdCi97TyQ=;kBwuAvaZnIshq7Z/Od6eMA=="
+secured: "BLnlLUeCPY3FOa7PGl2/btoRH3c+J7w+jPKXN7egvbmRfqw6TUs6NW48MNwx/LHAvQ2ueqhMg2AjnjmGNpQaahCJjCTLzV7X1M+XnzknGNzW55p15uLLLB7PF8bfgqldB+SXjR3grQ4FEjYdcoA/UfKR7TrUdi+tHy9j9r9n0E18asGuJwJO8Adiq/xbXsh9M7ZpPwxMgFU3iHkcoo/DdQmDllo3uxP0q98LNGL3bjaxLEbG8zxoAykZm7ybTrpP0uFBI4rpEK1a7RxXgxuo1gkMKF4s2BegNeNSTeTdHxDeSA6W5GKtf6H3bg+ySM9MYli3HCc+nMNJzGY8lwkO5wIEF5h5SSMY/951dImUbBI=;odhszB6n6FCZ2WqNIPJaTg=="
 ---
 

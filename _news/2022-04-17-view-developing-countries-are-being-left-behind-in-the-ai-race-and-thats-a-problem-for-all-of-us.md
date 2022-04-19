@@ -44,20 +44,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Developing countries being left behind in AI race"
-    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems that filter spam ..."
-    publishedDateTime: 2022-04-14T08:39:00Z
-    webUrl: "https://menafn.com/1104019317/Developing-countries-being-left-behind-in-AI-race"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/AT_0c4b5image_story.jpg"
-        width: 600
-        height: 480
-        isCached: true
   - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
     excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
     publishedDateTime: 2022-04-15T13:15:00Z

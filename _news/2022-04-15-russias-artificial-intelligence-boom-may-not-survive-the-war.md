@@ -7,7 +7,7 @@ originalUrl: "https://www.cnas.org/publications/commentary/russias-artificial-in
 webUrl: "https://www.cnas.org/publications/commentary/russias-artificial-intelligence-boom-may-not-survive-the-war"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Russia’s AI setbacks will likely heighten its cyber aggression"
-    excerpt: "As sanctions hamper Russia's plans for AI dominance, it might turn up its cyber activities to hamper other countries' AI efforts."
-    publishedDateTime: 2022-04-14T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.html"
-    ampWebUrl: "https://www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3656957/russias-ai-setbacks-will-likely-heighten-its-cyber-aggression.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Revealing cyber threats with AI and Exabeam"
-    excerpt: "The Exabeam platform helps companies address specific problems, like \"help me stop phishing attacks.\" In conversation with two execs for insights."
-    publishedDateTime: 2022-04-14T15:40:00Z
-    webUrl: "https://techhq.com/podcast-series/exabeam-ml-ai-threat-detection-antimalware-cybersecurity-podcast-s03-e03/"
-    ampWebUrl: "https://techhq.com/amp/podcast-series/exabeam-ml-ai-threat-detection-antimalware-cybersecurity-podcast-s03-e03"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/podcast-series/exabeam-ml-ai-threat-detection-antimalware-cybersecurity-podcast-s03-e03"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 57
-    images:
-      - url: "https://techhq.com/white.png"
-        width: 614
-        height: 250
-        isCached: true
   - title: "Russia’s Artificial Intelligence Boom May Not Survive the War"
     excerpt: "Sanctions and brain drain have had a massive impact on the high-tech economy, and the effects may linger for years."
     publishedDateTime: 2022-04-15T18:46:00Z

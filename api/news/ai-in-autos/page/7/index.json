@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-15-automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031.md",
+      "title": "Automotive Artificial Intelligence Market Research In-Depth Analysis, Manufacturers, Forecasts To 2021-2031",
+      "excerpt": "the automotive artificial intelligence market can be split into autonomous vehicles, semi-autonomous vehicles, and electric vehicles. An autonomous vehicle is a self-driving vehicle that utilizes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-research-in-depth-analysis-manufacturers-forecasts-to-2021-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/BBB-10-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-15T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-tesla-may-be-losing-faith-in-how-soon-self-driving-will-arrive.md",
       "title": "Tesla May Be ‘Losing Faith’ in How Soon Self-Driving Will Arrive",
       "excerpt": "The carmaker said in a filing last week that it anticipates recognizing $962 million of deferred revenue this year, some of which is related to Full Self-Driving, a set of features Tesla sells that still require attentive human drivers. Alexander Potter ...",
@@ -1384,58 +1427,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-5-incredible-artificial-intelligence-achievements-you-should-know-about.md",
-      "title": "5 Incredible Artificial Intelligence Achievements You Should Know About",
-      "excerpt": "Scientists have made great progress in artificial intelligence in the last decade ... that will contribute to a better quality of life in the years to come. From self-driving cars to using AI to create art and music, it is becoming clear that AI is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/5-incredible-artificial-intelligence-achievements-you-juri-boro",
-      "originalUrl": "https://www.linkedin.com/pulse/5-incredible-artificial-intelligence-achievements-you-juri-boro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE_M17c5Q_8YQ/article-cover_image-shrink_720_1280/0/1643951127560?e=1649894400&v=beta&t=tbkfjaGjx_K3KNqxyJ90TrjEAjJ0VpAEVkhsLjeGUyo",
-          "width": 1032,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

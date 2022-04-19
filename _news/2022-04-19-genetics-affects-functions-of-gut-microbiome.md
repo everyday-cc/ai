@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/04/220418122937.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/04/220418122937.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Genomic time machine: From sponge microbiome, insights into evolutionary past"
-    excerpt: "Sponges in coral reefs, less flashy than their coral neighbors but important to the overall health of reefs, are among the earliest animals on the planet. New research from UNH peers into coral reef ecosystems with a novel approach to understanding the complex evolution of sponges and the microbes that live in symbiosis with them."
-    publishedDateTime: 2022-04-14T07:43:00Z
-    webUrl: "https://phys.org/news/2022-04-genomic-machine-sponge-microbiome-insights.html"
-    ampWebUrl: "https://phys.org/news/2022-04-genomic-machine-sponge-microbiome-insights.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-genomic-machine-sponge-microbiome-insights.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/unh-research-finds-a-g.jpg"
-        width: 752
-        height: 501
-        isCached: true
   - title: "Research shines light on the effects of genomic variation on gut microbiome function"
     excerpt: "New research from Cornell scientists is exploring how human genetics impacts functions of the gut microbiome, and is expanding awareness of the role human genetics plays in shaping the microbiome."
     publishedDateTime: 2022-04-18T18:19:00Z

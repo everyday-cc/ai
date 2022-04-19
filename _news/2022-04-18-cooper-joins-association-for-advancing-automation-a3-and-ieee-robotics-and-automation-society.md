@@ -3,8 +3,8 @@ category: news
 title: "Cooper Joins Association for Advancing Automation (A3) and IEEE Robotics and Automation Society"
 excerpt: "Cooper Business and Technology Marketing, a premier marketing organization focusing on business and technology, announces its membership in two international automation organizations: the Association"
 publishedDateTime: 2022-04-18T12:31:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cooper-joins-association-for-advancing-automation-a3-and-ieee-robotics-and-automation-society/article_94539e99-a1cc-577c-9897-b474c23429dc.html"
 type: article
 quality: 42
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 266
         isCached: true
 
-secured: "gqsvvfwmrbIs8BoXqorb/dawicHmH4fWkK78Q1s0yPdMh3PpRYJWW9hEV3yT4RTtZ7wDoeKxEVa1PEwoqZ/l09Dfwmrljs11vyDE5x3otVw5/4h9gt6LnP00t4gQj3wATNCXJDisG9q/JCiVuwO53s3pGudSz5nwrgODCXUhU1APsGTCWPLUdsYHXOM+yj7rxN8lCTPqrqgyVArPnZVgWr81a0Bi2ZTsey9th/AJIg36noIv19Wtng6SUBalG9mnyFHBS+YhTIDrEIR4JeK04aUP+nwgGksRZ+zd3W7ZzuryIrggBslyWY8nmqo5jbYmqRpp6lEfX877d9tV9YRf+fC1TUGzvh37v3v1PcK6z8k=;nvIZQKI3BxifWFXgJ5p7KQ=="
+secured: "H1wOf2yS9bgCHixBPRSX8me0KDQc/2H2PlyH7r5IPvImRgaF086F1QrpurqrUcfL62+liQkXmC//iy1GBgRXZzZTWozqKXc/lyJ7wWgh7/UbOWcDOJQGQehReqXf3yXUOFWecPgeDeDiAcxvaFo3aHY6YvmNErHd1tpetdBBF+D6gwOdVYFGKn5rV+AcmrMdd++IQqcTDboIPaewhjGREagE1C4lmZEV+l8/3/IoKkQtmFqSO+3k1A6z9+MxIfflmjVqHes/Y7NrRWpUuLaGRnEgNQ6miBMt+UHYXk5GOamIFnAz/N02tRCjPm7oxpyznRwLjJlaiRipw5bbUKQ4Z8OBWZMHCqKFqTCxBpy2c8o=;ZHtF71WCuElYgSBYxOd/ew=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-03-21-ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues.md",
-      "title": "AI Robots for the Elderly Mean Well, but Raise Ethical Issues",
-      "excerpt": "AI robots are increasingly being used to supplement care for the elderly, but experts warn they'll never replace human companionship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014",
-      "originalUrl": "https://www.lifewire.com/ai-robots-for-the-elderly-mean-well-but-raise-ethical-issues-5223014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifewire.com/thmb/LeZ01Xy-bzRPTt9AkrhXwZfMyqI=/724x483/filters:fill(auto,1)/GettyImages-1343473312-6a4ad78596574ff98bb5d00ee1481af4.jpg",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifewire",
-        "domain": "lifewire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-03-20-ethical-ai-ambitiously-hoping-to-have-ai-learn-ethical-behavior-by-itself-such-as-the-case-with-ai-in-autonomous-self-driving-cars.md",
       "title": "Ethical AI Ambitiously Hoping To Have AI Learn Ethical Behavior By Itself, Such As The Case With AI In Autonomous Self-Driving Cars",
       "excerpt": "Maybe AI can learn to be ethical, though this is harder than it seems, including considerations underlying AI-based self-driving cars.",
@@ -1404,6 +1360,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-how-to-build-ai-into-your-organisation.md",
+      "title": "How to build AI into your organisation",
+      "excerpt": "Artificial intelligence engineering brings together various disciplines to tame the AI hype, while providing a clearer path to realising value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
+      "originalUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/qXhtGqfRmvYJemNXeBA1UrYupb6q0DGm9VELa4ioE_d74vqV-zZ7Q3LsZMF56J9dCI16rcZK9SdVHmDrToHkwC8PWErMndcvJ0M=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
+      "publishedDateTime": "2022-02-28T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

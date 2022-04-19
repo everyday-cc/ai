@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-marke
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning As A Services Market Size, Share, Growth and Trends, Forecast to 2030"
-    excerpt: "Key Companies Covered in the Machine Learning As A Services Market Research are Microsoft (Washington,US), Amazon Web Services (Washington, US), Hewlett Packard Enterprises (California ..."
-    publishedDateTime: 2022-04-14T08:29:00Z
-    webUrl: "https://menafn.com/1104019544/Machine-Learning-As-A-Services-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?679703"
-        width: 333
-        height: 250
-        isCached: true
   - title: "AI in Telecommunication Market Analysis, Research Study With Ibm, Microsoft, Intel"
     excerpt: "New Jersey, N.J., April 14, 2022 AI in Telecommunication Market research is an intelligence report with meticulous efforts undertaken to study the right"
     publishedDateTime: 2022-04-14T13:32:00Z

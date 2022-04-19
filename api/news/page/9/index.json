@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-07-class-action-challenges-petsmarts-use-of-voice-recognition-tech.md",
+      "title": "Class action challenges PetSmart's use of voice recognition tech",
+      "excerpt": "Warehouse workers fulfilled orders by interacting with voice recognition software, but the employer failed to properly notify them, the complaint alleged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retaildive.com/news/class-action-challenges-petsmarts-use-of-voice-recognition-tech/621697/",
+      "originalUrl": "https://www.retaildive.com/news/class-action-challenges-petsmarts-use-of-voice-recognition-tech/621697/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retaildive.com/imgproxy/Vc0Lkwkf4-EcXIYD4qhkbP8pdhvfPbowsapCfGpxhvY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMTI4NDU0MjkuanBn.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail Dive",
+        "domain": "retaildive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-facial-recognition-goes-to-war.md",
       "title": "Facial Recognition Goes to War",
       "excerpt": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
@@ -424,33 +467,24 @@
     {
       "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
       "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics’ new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
+      "excerpt": "Grid Dynamics' new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
-      "originalUrl": "https://www.digitaljournal.com/pr/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-04/55715798-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai-200.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Donbas-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:23:00-07:00",
+      "publishedDateTime": "2022-04-06T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1128,50 +1162,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-acm-prize-in-computing-recognizes-pioneer-of-robot-learning.md",
-      "title": "ACM Prize in Computing recognizes pioneer of robot learning",
-      "excerpt": "ACM, the Association for Computing Machinery, today named Pieter Abbeel the recipient of the 2021 ACM Prize in Computing for contributions to robot learning, including learning from demonstrations and deep reinforcement learning for robotic control.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/948924",
-      "originalUrl": "https://www.eurekalert.org/news-releases/948924",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eb8a09a1-59ce-4c35-8b9f-95b9dc6917eb/Rendition/low-res/Content/Public",
-          "width": 467,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

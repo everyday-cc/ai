@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-19-chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay.md",
+      "title": "China’s work automation startup Laiye raises $160M, acquires France’s Mindsay",
+      "excerpt": "An ambitious Chinese startup wants a slice of the flourishing global work automation market. Laiye, a Beijing-based company that provides a one-stop platform for automating office tasks of varying degrees of complexity,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
+      "originalUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/laiye-2.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/chinas-work-automation-startup-laiye-raises-160m-acquires-frances-mindsay/amp/",
+      "publishedDateTime": "2022-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis.md",
       "title": "Instreamatic launches voice AI for real-time customer sentiment analysis",
       "excerpt": "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -451,7 +502,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -868,7 +919,7 @@
       "originalUrl": "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1142,58 +1193,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-congressional-candidate-greg-raths-website-copied-from-lindsey-grahams-campaign-site-nearly-word-for-word.md",
-      "title": "Congressional candidate Greg Raths' website copied from Lindsey Graham's campaign site nearly word-for-word",
-      "excerpt": "The website for California House GOP candidate Greg Raths copies excerpts from Sen. Lindsey Graham's 2020 campaign website nearly word-for-word in several places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
-      "originalUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f73c356a-4992-4416-938a-f0c29380a4ab/749b2469-cce3-4d1e-b045-4341fc5b1e4a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
-      "publishedDateTime": "2022-04-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

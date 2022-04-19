@@ -2,6 +2,92 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-03-15-cloud-based-management-system-helps-energy-companies-with-water-efficiency.md",
+      "title": "Cloud-Based Management System Helps Energy Companies with Water Efficiency",
+      "excerpt": "An intelligent water management system is designed to improve water efficiency and sustainability for energy companies with the possibility of expanding the information across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "originalUrl": "https://www.environmentalleader.com/2022/03/cloud-based-management-system-helps-energy-companies-with-water-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s30148.pcdn.co/wp-content/uploads/2022/03/water-gb9fcc0484_1920-1024x546.jpg",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Environmental Leader",
+        "domain": "environmentalleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-photo-or-the-real-thing-mice-can-inherently-recall-and-tell-them-apart.md",
+      "title": "Photo or the real thing? Mice can inherently recall and tell them apart",
+      "excerpt": "A picture is worth a thousand words, especially when it triggers memories of the pictured object like a vacation photo. 2D visual stimuli, such as pictures seen in print media, television or online, is often how humans acquire knowledge about real-world items.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/photo-or-the-real-thin.jpg",
+          "width": 1911,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.amp",
+      "publishedDateTime": "2022-03-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Purchased by Miracle Mile Advisors LLC",
       "excerpt": "Miracle Mile Advisors LLC raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 30.3% in the 4th quarter, Holdings Channel reports. The institutional investor owned 28,",
@@ -972,101 +1058,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-the-united-states-has-fallen-behind-china-on-artificial-intelligence.md",
-      "title": "The United States Has Fallen Behind China on Artificial Intelligence",
-      "excerpt": "American officials can’t talk seriously about national security and securing the future if they’re going to continue treating civilian and military applications of AI as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/chinaAI_0.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-deepminds-new-ai-helps-restore-damaged-ancient-texts.md",
-      "title": "DeepMind’s New AI Helps Restore Damaged Ancient Texts",
-      "excerpt": "Many inscriptions are so decrepit that large chunks are illegible. The company’s Ithaca tool assists historians in filling in the blanks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
-      "originalUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/622be42f808c6d921bbb64a1/191:100/w_1280,c_limit/Ancient-Greek-Inscription-AI-Business-178116372.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Policybazaar, IISc come together to develop automated speech recognition algorithms to effectively address consumer needs"
-excerpt: "Policybazaar, one of India's leading online market places for insurance, has collaborated with the Indian Institute of Science to work together on Automated Speech Recognition algorithms to enhance"
-publishedDateTime: 2022-04-07T13:00:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs-122040701058_1.html"
+excerpt: "As part of the project Policybazaar would work together with Dr AP Prathosh Assistant Professor at the Department of Electrical Communications Engineering II"
+publishedDateTime: 2022-04-07T13:13:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272459938/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs"
+webUrl: "https://www.bignewsnetwork.com/news/272459938/policybazaar-iisc-come-together-to-develop-automated-speech-recognition-algorithms-to-effectively-address-consumer-needs"
 type: article
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/07/full/20220407160955.jpg"
-    width: 600
-    height: 450
+  - url: "https://cdn.bignewsnetwork.com/ani1649334881.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "w/GT+l3nxx/f0/bLgfvx2zxMtrU91XkDNqMMYIkVrqFeKE/sBdqYEVjjvqS5adw39xKdHGDyYsItopLqkhxHNadPnJayZm9bOslzYMMgypA/PcBoCqIKdwmCAMqRKOEWB4DKiEU14b++eVxI0mKIMab24cpkP0FScj9AHaEH91yREkqXrJATb4ofdLOnwdToKUKlyLth32mhkC79bvNnPrTMVZUirhVNtbeEZXlmKhnimwEJXeenAwXBCK8hNXU2bTMSMMB2lohjiZLKLnxI5KWp282EZYUnc85nEWSlWEls5cjDNNzBfGvcLkZ3K7hcAS1xETU9DkX7dRaPV9Q+8Hs1FvNKB7hGmaJukc+wqKR9goy5weNjHB9QZCz+7OaOswnCD8Ov7YW6Mf804/rsHlOqE5LlQiMC/bz3BB3TxqzFuEbUKq5J4h+tdpPXjpQn5ZWCBeRiiGOoHwkFG4OQyIR6TiEQgk95lWCU2CazjBk1l5OaVGrlyUSlAjXNZUWBPJVo1W3YbH+UooIUWGbKNQ==;WoFUSrioj0UuRyi75+IONw=="
+secured: "XE5Zu7/5BdCnJqPdfkndQxhNkwsc8xBjCLd6JUcnAsLPioYOKMXiCx0AxRnLegoqt2JGTqaTTewqZm3uMOlds0uX1j90hrrh5iuxAPdxcS1zY1/VrCTtNQ/iQHMCqHnLX3p+16rPMVJTcvgcMfWBLX43Uj1964Prg/wDrTsnNGSAcTuRci+s+CIFKETfzZnr/7UNb5IGSJ2lnnPd5/3PgDi2woeriZdG6qbpXlVyzPQ8StkU8zrAQTOvf2INonPdMiPLTml/boVL3dFGlX0Ogdjvv0oVmmjpo6VfGSqGWwIuI/dJ9ZHSFdgNpmCMZzacF4dA9KfIYwQgv81xgNqec2TNceAHIpDmJgpllHSRiPE=;HnWrdIXy8/I/Isu+z3Yt6w=="
 ---
 
