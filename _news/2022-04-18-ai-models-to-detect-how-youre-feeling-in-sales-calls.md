@@ -3,8 +3,8 @@ category: news
 title: "AI models to detect how you're feeling in sales calls"
 excerpt: "In brief AI software is being offered to sales teams to analyze whether potential customers appear interested during virtual meetings. Sentiment analysis is often used in machine-learning research to detect emotions in underlying text or video,"
 publishedDateTime: 2022-04-18T09:52:00Z
-originalUrl: "https://www.theregister.com/2022/04/18/ai_in_brief/?td=keepreading-top"
-webUrl: "https://www.theregister.com/2022/04/18/ai_in_brief/?td=keepreading-top"
+originalUrl: "https://www.theregister.com/2022/04/18/ai_in_brief/"
+webUrl: "https://www.theregister.com/2022/04/18/ai_in_brief/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/18/ai_in_brief/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/18/ai_in_brief/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 348
     isCached: true
 
-secured: "+KzBriFmakb5Jd+2rZjxO8Rqh3VlxWrkXmZJBEkOZPPQ41O+n2UuwVauNOcKZz+6HJBL4V6U9bPZ8jH+NEeckcMI2PyfixYUcLinbHKZy48ZxmnsrRhx4OiImPOSfj2BxTrVhJS8HpsY/melkrqQKj0MI7rnmQJhqov85nyBVZppBibS7M5Do4t2177wGA8t8SbRtIYpKgd95wCEOzVU8UGO0Tn46VrG8h3OMJTIw1zNtTsdbGULV+TXQFH4tgLEO7qIVjAt2AupBVDRercNmOjHfrMKOFtCzRy1w8EhXV9ro/2K89AWS59ALinMgoNKLAciAw22FAQmj+ksZCGH1wIsvoSL03cQLfMjrhAn12bApFDyBq1+ImLoUSSU4hg78hoo9f35VJ9SA+GuGM/HRNCJpTJVII1c6Pi27dYkiMqrgr7SWDHYlUYUNHKDlSmcQWwxmWyMslXaBUi4UmlzlPOfVy/PxDgKtYRmvLldB5t4k0IcLGPWHBG73MxmS3uZHvvGNHPBMIZSQMxYueBb+g==;gnnmaLtfl1naLy5KSXrRoA=="
+secured: "hVcPkmY98NXqbNMRO+SpQUS81CmAsybLtqUt0rJaFOdsZsvHdF1u1S3CyKmw9JmbMrEBcApUS3Eg6H+RIyF8mayF5OXOrj/puTyUxhy6DVN4uOPaOyPvbiS/02EmNd+b86FMFXbz9T105pTR3xX67PfUmRgOskZPdIegIjGe6ZNCVXfF1BxADLMhy+3V2OF74ZYNHEBOobR/43DzGfEQ9X9xFnaiwqIcSpAx1Hw0YfeyH9pWDDAZFYOpucEguF0YtJQ7oEAE3PLQFOPeDhnfOETNh7+YCCJhtoDV9TRxNT+3PGX9a3gqkWk32tS/15cOPoM1qXIKy+MUZ8eLGymGD5wBnoi59kWxZgHRBc+dVbo=;iGhAjymX+oOXbnWdzS8CgQ=="
 ---
 

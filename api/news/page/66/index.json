@@ -2,58 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2022-02-17-deepminds-ai-helps-confine-plasma-for-nuclear-fusion-research.md",
-      "title": "DeepMind's AI helps confine plasma for nuclear fusion research",
-      "excerpt": "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
-      "originalUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2582d7a/2147483647/strip/true/crop/1160x773+108+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F21%2Ff1cfe2dc482c922f9c65d5688776%2F1376x774.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
-      "publishedDateTime": "2022-02-16T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-17-how-does-aiml-bias-come-into-play-in-hrms.md",
       "title": "How does AI/ML & bias come into play in HRMS?",
       "excerpt": "HRM solutions have become quite essential in the operations of an organization and with the solutions being integrated with AI/ML ... CHRO & Chief Ethics Officer, Pramerica Life Insurance said.",
@@ -1164,6 +1112,58 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-16-nanonets-lands-10-million-to-expedite-document-processing-with-ai.md",
+      "title": "Nanonets lands $10 million to expedite document processing with AI",
+      "excerpt": "Leveraging a blend of AI, including computer vision and natural language processing, intelligent document processing can help to automate tasks like invoice processing, insurance claims ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
+          "width": 999,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/amp/",
+      "publishedDateTime": "2022-02-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

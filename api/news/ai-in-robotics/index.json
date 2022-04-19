@@ -334,49 +334,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-14-technological-advancements-shape-the-top-robotics-market-growth-outlook.md",
-      "title": "Technological Advancements Shape The Top Robotics Market Growth Outlook",
-      "excerpt": "The Business Research Company’s Top Robotics Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook",
-      "originalUrl": "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/22519133_G.png?lastEditedDate=1649929076000",
-          "width": 900,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
       "title": "AI robots deployed to fill void in senior care. But can they?",
       "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
@@ -1382,6 +1339,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
+      "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
+      "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
+      "publishedDateTime": "2022-04-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

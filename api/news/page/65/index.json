@@ -2,57 +2,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_news/2022-02-18-volkswagen-in-talks-with-huawei-on-autonomous-driving-unit-manager-magazin.md",
-      "title": "Volkswagen in talks with Huawei on autonomous driving unit - Manager Magazin",
-      "excerpt": "Germany's Volkswagen is in talks with China's Huawei about acquiring an autonomous driving unit for billions of euros, Manager Magazin reported on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/wHE_A2ff3igWA_UNoKoWLqAchJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUDKQXVCFLFZFJNXZG37U2L6A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-18-amazon-hampton-university-establish-robotics-program.md",
       "title": "Amazon, Hampton University establish robotics program",
       "excerpt": "To expand the diversity of talent that will shape the future of robotics, Amazon invested in a new collaboration with Hampton University.",
@@ -1185,6 +1134,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-17-deepminds-ai-helps-confine-plasma-for-nuclear-fusion-research.md",
+      "title": "DeepMind's AI helps confine plasma for nuclear fusion research",
+      "excerpt": "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
+      "originalUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2582d7a/2147483647/strip/true/crop/1160x773+108+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F21%2Ff1cfe2dc482c922f9c65d5688776%2F1376x774.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
+      "publishedDateTime": "2022-02-16T22:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

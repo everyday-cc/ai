@@ -7,8 +7,8 @@ originalUrl: "https://www.wicz.com/story/46294605/technological-advancements-sha
 webUrl: "https://www.wicz.com/story/46294605/technological-advancements-shape-the-top-robotics-market-growth-outlook"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: FOX 40 WICZ TV
@@ -38,20 +38,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-04/14/EP_fb945image_story.png"
         width: 966
         height: 486
-        isCached: true
-  - title: "Global Field Programmable Gate Array Market To Be Driven By The Growth Of AI And Deep Learning Technologies In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report"
-    publishedDateTime: 2022-04-14T09:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/Mariupol-Ukraine-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "P+sIcq17kbyGc4h4ECPgJonz/tP3LyQnKzxH8ngDV7dzPL/xIY8AT3vNjHShADh2UrUmT/dCM8J26TewNDxNjjPTEKTsC3PPnIwkDO3g4jRv2M93OJCXAnFpE/UTJWxGRzla1N1ZVBVacYIK1U1qLqVPJ4vE//2Ld9SMn/wIpDSzQTBn24ypUfD9lMD5A1hNLtDwC9uUwz4uy762lHqSMVEcVRn/MrTjWjvYUbNNfMnzy7cHqJgd6g+PE1q+eqLQl5T7f+lINN2kPRzL4FgXcMd7OMzNERQRhUH01Iw0X81lhkKt5WpU0oCrElh1NxYQKY1IXRwOAtIZLttAeICpEP4qlIexRYV/I+S3Jj4ihGRNcCy2ciebrMqkKePXNz4smU5tb99mqCcSoNYBf7dbuaS73A/vYSURy5gyPq10nIWwMvgNNQGmuA49OHO2XgPoTNEDEUOffdrzRwLlFtidhz+9np7civxBU279WwGTJ6dSGesOfZZCOJHccWODYdD9FEbOGhERAsk5zHofapTLAA==;YZXFvLl5XjRy8yqGlfXtLw=="

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"

@@ -2,49 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2022-02-16-growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth.md",
-      "title": "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth",
-      "excerpt": "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25653255",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25653255",
-      "publishedDateTime": "2022-02-15T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-16-microsoft-extends-emissions-impact-dashboard-to-microsoft-365.md",
       "title": "Microsoft extends Emissions Impact Dashboard to Microsoft 365",
       "excerpt": "Off the back of making its Emissions Impact Dashboard (EID) tool widely available for Azure last October ... accurate data is needed to help assess the carbon emissions in machine learning and identify strategies to mitigate those emissions.",
@@ -1133,6 +1090,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-15-cow-bull-and-the-meaning-of-ai-essays.md",
+      "title": "Cow, Bull, and the Meaning of AI Essays",
+      "excerpt": "Could even the best AI simulate “inner experience” with any degree of verisimilitude? Might robots one day even have such a thing? Before I saw the gibberish it produced, I regarded The Good AI with straight fear. After all, hints from the world of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-language-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/620ae1e210a719b317e6acae/master/pass/Cow,%20Bull,%20and%20the%20Meaning%20of%20AI%20Essays%20(0;00;02;02).jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-language-education/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-language-education/amp",
+      "publishedDateTime": "2022-02-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
