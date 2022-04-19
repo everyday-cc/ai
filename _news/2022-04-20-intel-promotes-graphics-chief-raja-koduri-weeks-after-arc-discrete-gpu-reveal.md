@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T19:38:00Z
 originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
 webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: theregister

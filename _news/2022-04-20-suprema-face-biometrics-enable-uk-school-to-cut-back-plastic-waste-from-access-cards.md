@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T19:02:00Z
 originalUrl: "https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards"
 webUrl: "https://www.biometricupdate.com/202204/suprema-face-biometrics-enable-uk-school-to-cut-back-plastic-waste-from-access-cards"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Biometric Companies

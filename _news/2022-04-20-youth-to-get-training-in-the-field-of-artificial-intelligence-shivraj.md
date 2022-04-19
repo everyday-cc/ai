@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T18:34:00Z
 originalUrl: "https://www.dailypioneer.com/2022/state-editions/youth-to-get-training-in-the-field-of-artificial-intelligence--shivraj.html"
 webUrl: "https://www.dailypioneer.com/2022/state-editions/youth-to-get-training-in-the-field-of-artificial-intelligence--shivraj.html"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: The Pioneer

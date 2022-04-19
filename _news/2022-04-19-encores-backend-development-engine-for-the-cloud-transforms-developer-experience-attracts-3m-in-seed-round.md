@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Encore's Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round"
-excerpt: "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while"
-publishedDateTime: 2022-04-19T13:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/encore-s-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round-1031364223"
-webUrl: "https://markets.businessinsider.com/news/stocks/encore-s-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round-1031364223"
+title: "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round"
+excerpt: "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC"
+publishedDateTime: 2022-04-19T14:17:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/de7520f96eddc63566978cb566223c89"
+webUrl: "https://apnews.com/press-release/pr-newswire/de7520f96eddc63566978cb566223c89"
 type: article
-quality: 15
-heat: 15
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
-secured: "B4R4Fh2HDcIF7EAtyqvsukk+Rq7x2/lskD2X7yYkpcg7qs8jLOqaqZRqDv/Mpfg0aUNq33fFBQ3tYgZUelAvb/9kHh1zflxOHGCLy8MCVkOYO3WJ4b6un6/5Aghl3Cd204eIU4TUN6tYz46wssM2Uf/9iD9nD4GUyHkgmC/MHy5xYwizGqowl3GK621L0LY86bTQiPp2gHgdpyEYOdHoNnZF8OL3V9n/+31dProEEpJK3BpHDEdK115aPc2H6tDhyvvEBrfnTcM3ejuRjTbmvUFlfhnXwbLGi1Y4jTZgB3nLwYL4i83akvazAMAui6BSltfL/ln9CyZ1AQM7ZJ/2J2jSv6j2bC/XPqqPx4OZo1L4cxG6LqgIRruqQd5xHWI4MAIbdtFO/1j+Hbdw/tA8g83RbauedqPuEmge8VTm5+UPRUJ6n4NGmejvAHdhnGrXkJkvUmdr+sujqj+GBvUqijY9iAeJarH8Zj1/yToFLcotdQfWEvishWvRdnZHmD9m9gz0c6zhHZCs4yHWgemw2w==;Oh8i9/Cm2cPdH+4I46q2dw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "dApl/ppMCg6cUTzxo/C/Jm0Z/kqnJ9waXvE0l4VpqpZwUAea8ax4MXNUXkg2u+HZLPjCeZZnyDs2MudZGCYrjgi6AOrFYXP+lJk4j1Z7HmrDpCMYX1x4YAQeNHgJvvh12EX8yrYVSPE0LWuVUyEVZljvNX2Z3nMLOUo2y9LHJlKJ17Bw30Y1/5wW3BfoirE7mXqimdt7f9lJRixuchfCAeVl1giRx4eclGQWEfzXr+S7uZNi+mngYe2Ai40t1o153l7Lr3FMnN9wURF+GLrqwePJA3f6zrX8kseq17XQUNkyTt9fIfpXJYgPV9+cbPckwhmIthbFUGjd/dEj+5gyQAmTpr0QS/N/um/4cb0vrfs=;EF8H/kMAIY7iSNvDbVeEFQ=="
 ---
 

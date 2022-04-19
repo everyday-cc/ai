@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Three Potent Ways Artificial Intelligence Can Assist With Pricing"
+    excerpt: "Top three effective ways Artificial Intelligence can help enterprises with pricing. Click on the link to know more."
+    publishedDateTime: 2022-04-18T12:14:00Z
+    webUrl: "https://enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/"
+    ampWebUrl: "https://enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Three-Potent-Ways-Artificial-Intelligence-Can-Assist-With-Pricing.png"
+        width: 1945
+        height: 1112
+        isCached: true
   - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
     excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
     publishedDateTime: 2022-04-15T13:15:00Z
@@ -66,6 +82,15 @@ related:
     provider:
       name: SeafoodSource
       domain: seafoodsource.com
+    quality: 19
+  - title: "5 ways AI Will Change the World"
+    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
+    publishedDateTime: 2022-04-19T17:51:00Z
+    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
     quality: 19
   - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
     excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"

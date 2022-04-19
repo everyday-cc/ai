@@ -65,6 +65,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 12
+  - title: "DEADLINE ALERT for AFRM, ERIC, AI, RIVN: Law Offices of Howard G. Smith Reminds Investors of Class Actions on Behalf of Shareholders"
+    excerpt: "Law Offices of Howard G. Smith reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion."
+    publishedDateTime: 2022-04-19T19:34:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8524883/deadline-alert-for-afrm-eric-ai-rivn-law-offices-of-howard-g-smith-reminds-investors-of-class-actions-on-behalf-of-shareholders/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 0
+  - title: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI"
+    excerpt: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI GlobeNewswire April 19, 2022"
+    publishedDateTime: 2022-04-19T21:00:00Z
+    webUrl: "https://www.asiaone.com/business/rosen-global-investor-counsel-encourages-c3ai-inc-investors-secure-counsel-important-may-3"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_580.jpg?h=10d202d3&itok=r8oSrgeK"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "7fp37TGVYtlBS4CR66waS4H2BaGT7FltVm0TNrteE/KY5NLOFoqbqeRPfnxyAhlxzUOZ8ZUOTlgy8GRWbG7IsWr1sdD7jBi8ERV7f/KP6jGG4Vz+2RRiTjuctkOBpYcs6MpCMHia0wtqyPTnxkizHcLF8l53j7AFTotfvMtvGbzT/fpZ9WBaGZTa3MogFZ721A51njlcEQt2kzYdLKx5Dd2sQ1S9ldk1SX4PKr7oSTP+TL5dgBtiQv1Fq09POS4Cn4ci7evVJueHkFOfp9vHipBFq84vN2a+89i7gdE93gFbVEX4ycBv1uh2U2BnUNalGQyuSZ8Mcmt4BupFPnRzRPCZZN7rNtF4MMSy3FG4VjesGi3duGlgiEzOrudzsaBafaV/KeM4Rw0F5aQv0k2yBRKGtRYpzteAkDSURmJJXg4wnFlOFK6L7uy3CAWwRxeZ1xkO3Q3ZeZfHiuWXH1e5U0W3QlrI/Pq9Cac8WxH1O8e+v3Eubp1bqDiQE8cFOCy/LRiU+BKCCFNX1+h4botuLQ==;FRBjXWYQbWmpyxmId8mhFg=="
 ---

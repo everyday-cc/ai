@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/16/deep-science-ai-cuts-flows-and-goes-green/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "PGP in 'Artificial Intelligence & Data Science' launched"
+    excerpt: "AI and DS aims to instil theoretical capabilities and provide the know-how to create practical solutions for enterprises and society"
+    publishedDateTime: 2022-04-19T19:11:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/pgp-in-artificial-intelligence-data-science-launched-738867"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
 
 secured: "DbrXz9N/AQJ8U9kAonHlhkHsIMo02m/7Jan2EHzt+qY/WsIoiFudS2N8xz5we3x/hZrimSbfwvvrXVWPE1E8+nOiJ+2JeNcMm83bQgEtILWkgshf49yGJpPdRMDqhf2MD6byEOcbSzc4K82GKLTyuQoiSkt/kwHVnfKXTi5arG/QzACW5URg3gduOsVhdMXa8eNydrLmFeoEtgQTJUacDrl3yhsBte5Uych7Opg7mBGltFKxL3BNgQhnBNR9jXkakeV8e8tkc4pIwaBGxWuUFcFRXB4fidYtpdNkMasDY7gAKx6JIjoq59YEtp/RKxtzXDvGAE2BXC6VPeHPLpISqmXVEMIIjj8Whiss6b1JO7r858616ulS9D4xA+ZGX9pz+Zg0gQUltoMJ2z906vHa9XOOJt5DMsdVI4Yp9vs0HmLI45TMGAgV1b1PPRHdu/G2tjF9yp3k3CSTvvfNz2pZensvzDnQ3TuxLiM+AsbM+rCcRHxWe0fQ430DMjGLBuF9nxhcEO+3yugw9L/mqA9ofA==;S6Y8O6Xiymwi2vojw8T4Hw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shif
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: enterprisetalk
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 585
     isCached: true
+
+related:
+  - title: "Who should be responsible for AI ethics?"
+    excerpt: "There’s been a “radical shift” when it comes to the roles responsible for leading and upholding AI ethics at organizations, according to a recent survey. When asked which function is primarily accountable for AI ethics,"
+    publishedDateTime: 2022-04-19T19:19:00Z
+    webUrl: "https://www.hrreporter.com/focus-areas/automation-ai/who-should-be-responsible-for-ai-ethics/365887"
+    type: article
+    provider:
+      name: Canadian HR Reporter
+      domain: hrreporter.com
+    quality: 34
 
 secured: "/T7qFhfHNvFOFH1MKMYxYsq0Gplag/XxLk+0/Po+GJkIPsQJ/kbvD+PVIuVr+G7UUl0L8HDMJzw2QcUZxExkhOD01QpWxWHAghEdgSnCwWiACgarH512Mzen4UzEeOW0pIofqS8R0eIr+kuU3cVk7lUdDXea+p2aDyqfLS57SwuUdvSrmiAUMFa2Um/ZSnJa53LmpiIqVgWXPaGAPnNA6JUjEmD1BwotNukSQ+SFz/ORqvIo+Srx1LZLxFCxI8BsAiMg9HnvIz6xmyQJvSYUqcHCatTlVhrW+9YWcuW4JKbVahyxigSlpCpYAGlaFnAME4nBU22MM+BE6y1pG+HPvxPSQOBVOEWCvFLiA8QWGReAbz4Lxb4WkicWtflbQqgdmqi4+LHKhmMFIp/0EfW7bintCAlxN3u91pN1Btc+p3XuL7NjmQa18kQ9Ihyhyz30A2Vrxm7rmjknxX+wmthOLJ3aPTH9rY0ZtPzA1QmHNBZstVI9tTcpiihCC4iIGQblWR2Z8OrftyvDdRVhGjijbA==;QjG+6bUPJsF2wmqFU397yw=="
 ---

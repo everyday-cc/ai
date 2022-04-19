@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognitio
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
+  - title: "Speech recognition technology engine gathers more pace"
+    excerpt: "Speechmatics, a Cambridge-based speech recognition technology scale-up, has unveiled a globally transformative advance to the engine driving its solutions. It reveals a major step in delivering “truly comprehensive” speech recognition by adding Entity Formatting functionality to its Autonomous Speech Recognition (ASR) software."
+    publishedDateTime: 2022-04-19T18:46:00Z
+    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speech-recognition-technology-engine-gathers-more-pace"
+    type: article
+    provider:
+      name: Business Weekly
+      domain: businessweekly.co.uk
+    quality: 19
   - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
     excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
     publishedDateTime: 2022-04-19T13:17:00Z

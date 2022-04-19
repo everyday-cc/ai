@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Nebraska Softball Getting Much Deserved National Recognition"
+    excerpt: "It didn't happen all season for Nebraska women's basketball, but with just a few weeks to go in the regular-season Nebraska softball has entered the top-25 rankings. The Huskers are No. 21 in the D1Softball Top-25 and No."
+    publishedDateTime: 2022-04-19T20:34:00Z
+    webUrl: "https://www.si.com/college/nebraska/baseball/nebraska-softball-getting-much-deserved-national-recognition?fr=operanews"
+    ampWebUrl: "https://www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
+    cdnAmpWebUrl: "https://www-si-com.cdn.ampproject.org/c/s/www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
+    type: article
+    provider:
+      name: Sports Illustrated
+      domain: si.com
+    quality: 44
+    images:
+      - url: "https://www.si.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4ODk4MzQxNzcyMzM4NzIw/_big_softball_vs_minnesota_g3_dg031_copy.jpg"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "Pe4QRlHsx+/mhspC0xgI4hhbwtMlxnc9ccWf4jAj5is5QEAcvjKE8pd5RFurjhjAzqL/3GeaXqsCxOeNrwiCH0REaZIv7Bj3Ck19j5vJ9aDRXJdtU43PWeXmQzfXGax33ZdrWxSKv+6ExXQOiOHiGlgGfB/yQYY95dC9QWzm2PYwhT22DQAGlTEfsUu0NQVVTwsYun2BcyPsrOvUhWb+XUy+m2jQMcfWKRN2UeO7rOLO2HA6m61+7JV7iNBdEBSFUm+BnZkHDW4c6HucsoG1DDPtUo2iVXWTxlnLdIUEqX1x/To0DHL56Vq2CTeeY0LmIUKTn+Qpkd6QNcWavUDJEnj5w+kav6LHNKQFCsJrbejhDQiIEw+1rdbwPyvgAe4Pnl8KyDIa8Z1Q6Xbfr8qWtadHR75QBjPRKqLb4TitL7cA5dDVsPMXpRL1TKNW6PHhOu25QWBjIu+Pa8XupGXsbVEjPypXnXdKesgM0uKHOml2WtTG2pcTu1g4mUlsyISzgtMGOMUZ2OmRaFPEZrN8uw==;sjMCWYUabNSJYduUacsB3Q=="
 ---

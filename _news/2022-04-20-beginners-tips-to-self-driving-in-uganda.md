@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T18:11:00Z
 originalUrl: "https://www.independent.co.ug/beginners-tips-to-self-driving-in-uganda/"
 webUrl: "https://www.independent.co.ug/beginners-tips-to-self-driving-in-uganda/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: independent.co.ug

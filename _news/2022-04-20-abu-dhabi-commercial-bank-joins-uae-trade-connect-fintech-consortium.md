@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T19:55:00Z
 originalUrl: "https://menafn.com/1104053602/Abu-Dhabi-Commercial-Bank-joins-UAE-Trade-Connect-fintech-consortium&source=19"
 webUrl: "https://menafn.com/1104053602/Abu-Dhabi-Commercial-Bank-joins-UAE-Trade-Connect-fintech-consortium&source=19"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424896"
 webUrl: "https://www.entrepreneur.com/article/424896"
 type: article
 quality: 69
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,24 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 4
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
+    publishedDateTime: 2022-04-19T19:40:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247627&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
+  - title: "Stars align for fintech, but regulators are wary of dangerous risks"
+    excerpt: "Commercials featuring NBA legend LeBron James, comedy icon Larry David and movie star Matt Damon touting digital assets were prominent on this year's telecast of the Super Bowl played at California's SoFi Stadium,"
+    publishedDateTime: 2022-04-19T19:50:00Z
+    webUrl: "https://techxplore.com/news/2022-04-stars-align-fintech-wary-dangerous.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
     quality: 4
 
 secured: "+q94AU2pB7pOnTq6VyG7ZkDGv4aneqQ27JSfP9KhkRdnUz/lxRH7au32noLvDnEPzIPaGrGPtqaE19r+RCu8qURHYpBR8U3MFnrSCB4vVWmYiJ4qyLZri9/28mpF/g0dEXzjwT4u8iAlyu0/VClKJ7Xr69ycHXUVIzfUIJpCbHVgOzmAmOxmCUimIse8hIG/2XuhdrmO2CdsBDOutLtEcLK6DhOusTkjaU6KEDdBh0KllMsKJCPBSBMAWBmZzs0gzfNlo8wEWSlo+BNI/l+dsPq/t/G1Nz3aoVttxYEhDFKDpPnhbULzA4tPKQX9YwNAipr0z4bWZ6e2pW+UNk2HrucezR6z7BCHe0HkAiJo0IQmAoJEwopbQ0z+OiyTubo9KERlodg9UxroCTa/6b3MsaDQ9Fsq4FmoWkI/0SVL+JMpDn/cn47rIkmbnvtgwP5qZ4BQw9QS0jmMlGz1+LUElqvVTU1Zy5xLUtp/Y5TnkSNp7r0SAT5uvc0Jb0IsMs3MG15DKXJ3wAOVRYTMRxIWww==;xos0pWvWM89nq14NqFvjvA=="

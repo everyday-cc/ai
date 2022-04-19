@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T17:42:00Z
 originalUrl: "https://www.axios.com/anthony-levandowski-vc-funding-new-startup-pollen-9de752d3-011e-4105-8335-cf10f7323423.html"
 webUrl: "https://www.axios.com/anthony-levandowski-vc-funding-new-startup-pollen-9de752d3-011e-4105-8335-cf10f7323423.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Axios

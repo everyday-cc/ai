@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday."
-publishedDateTime: 2022-04-14T00:03:00Z
-originalUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
-webUrl: "https://www.postandcourier.com/aikenstandard/news/state/self-driving-car-company-establishing-test-facility-in-sc/article_acef5d9b-2622-5055-8be5-0c7a7a6bdfe6.html"
+excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
+publishedDateTime: 2022-04-13T18:21:00Z
+originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
+ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
 type: article
 
 provider:
-  name: Post and Courier
-  domain: postandcourier.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "OQG+UYjYAdt/hhCH/e01/WGaJ4XlZYDpZfC5Zb0jsM0alAGL2Db2GrCiYAPODF1397tulSDpvcX9JtbcQLxbyCF+Jibfa6nXPoYKSysl5JzfKtUGrsktUbAnnQdCiUo3i2DNRLW2WmkNnUBFlL5F9FTtBobp37rjmWR9fv2cWwy1jWVIeXmqp2IgRlFvLLLz9+Bt6xZqoxbIaw8Ccc9pB2e10wOuEDZ/J863YS6qmuvNsp40UPBFreJ48fsXO4+oZz0oV0uv9zBknhm5ElIKPfgIto1zICeNHqrxenPrWZXZYtHMJ4QDu1ckb9tqwWrOzhc1VXagW+2hwXeJpDN9DKUhROM0gSEXNr/4Xpp/srR05K/E6LU/5qfsMMJftWeDyNhjjriSoJ3va8/npWwONwcgmjywQWmcMtfdBvlPmJGozVUrwvYtsK1eESOHVCvyXunZGAxNIOHRrMwK1bwpZXXyj0m7L7ixi1RKlKB+nm1QTOiBoNSPw6suiCcQsTaldUcBxdZoxK/F2ppBPHN2Og==;afnzE1LkVOgjAFpy51qrMg=="
+secured: "FyerHoqtlM0sDgI0ndDteO07J0RHOvzobmob3WkMMnHCMU0mRmLELyVKX08vt4MSj1GqKejH/951+qzf0USlppQW5ym7Egd8/YKRh6/aVpGTcBUdJU8UKkYfseZrl3G3/KET2r1Z14EBKm6zhz0wRSffXxHyapOrNBXpNd0p+J0NtWcu+SlFJp02JmFl2qb3I37ml/efqejoinW7RVah1n0rZwTkUMhIVPKTvMPqkl6hxNp4k2e+LGw2/R0n5/y2LkZjkVA1SIMjQutlcuIIMA+H4VwYZnB2Wh35XYeQftQUMKpfDM94+7ESe9kEBk7F/jLq+3FBtHd1a/o+4SUBtksWxQToGRdHyyN+GOt0o+Q=;RZQy9TTuYv6EkihrcO1xsg=="
 ---
 

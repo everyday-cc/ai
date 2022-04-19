@@ -52,6 +52,15 @@ related:
       name: Entorno Inteligente
       domain: entornointeligente.com
     quality: 31
+  - title: "Next Generation Healthcare Claims Processing Significantly Accelerated With Hyperautomation"
+    excerpt: "PLEXIS Healthcare Systems, a leading healthcare payer technology company and innovator in next-generation digital core administrative processing solutions (CAPS), today announced the integration of SymKey® hyperautomation technology into their Quantum Choice™ core administrative claims management platform."
+    publishedDateTime: 2022-04-19T17:05:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-robotics-698a179b86f88c9e23ab4df8e4b7dec3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
   - title: "The Nation’s #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
     excerpt: "Loan Factory, the nation’s #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
     publishedDateTime: 2022-04-18T16:08:00Z

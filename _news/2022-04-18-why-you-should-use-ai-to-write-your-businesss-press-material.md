@@ -42,7 +42,7 @@ related:
         isCached: true
   - title: "3 Ways to Solve Your AI FOMO Before it Hurts Your Business"
     excerpt: "With artificial intelligence (AI) expected to grow by 21%, reaching $62 billion in 2022, it’s no wonder nearly half of CIOs said they’ve either already deployed AI or plan to add it to their tech stacks in the next year."
-    publishedDateTime: 2022-04-19T17:13:00Z
+    publishedDateTime: 2022-04-19T21:13:00Z
     webUrl: "https://www.stamfordadvocate.com/business/article/3-Ways-to-Solve-Your-AI-FOMO-Before-it-Hurts-Your-17090866.php"
     type: article
     provider:

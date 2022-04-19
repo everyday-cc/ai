@@ -1,20 +1,29 @@
 ---
 category: news
-title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022'"
-excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to"
-publishedDateTime: 2022-04-19T16:09:00Z
-originalUrl: "https://menafn.com/1104050476/Quantum-to-Showcase-Video-Enrichment-and-Analytics-Solution-Using-CatDV-Software-with-NVIDIA-AI-at-NAB-2022"
-webUrl: "https://menafn.com/1104050476/Quantum-to-Showcase-Video-Enrichment-and-Analytics-Solution-Using-CatDV-Software-with-NVIDIA-AI-at-NAB-2022"
+title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
+excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"
+publishedDateTime: 2022-04-19T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-secured: "Pm2w4Oz51GqRsZVuIeGsvfO4rda7kdAPU4VuAVGpuPpvU6Z1/fquDmuGRQO4guKlFyM6EqdTQMwN4GC6ctGO7raRgV1hImIKGcur/k8P9a2SPEEjWgtlSY5mUBqZJgiEWo5XGqVCiR2i4t6JAGM2VSsSXVi3Poi8W3jXefxtYGy7/gAWc2oDGHJ2MZfA8rpUQdgEi5i/SdVMRAD09ygjGbO3TfiYgaAsW2EaQit+r7ip+9VHh/cSceC5zAJF/eaYZ3hr7zSYhflFw23neal5IiscFyTsAvQub5eOgAUL+ci4hvGPZMqp6T+Uz10mEuiAganuoeA1zAlJQlgNbN2Q2C6uJO88ckUBgco9HHzQdlR8tW6FlMUAflRXeo7QgjXGZxbgJ1/JBrJzf0s9SG8S5yGndb8nGMoYauuiRwbQfIXAgIkkiKRCXpp5ELw9BnAoewxj9KWhMwtovTf3IXBrY+OT8BNEaL4DyiIMsj1jwVGtgCH4NGMdw/nqR0TxogL3wyq/U415ZcZqfDnmsM/VxQ==;/R/lPKMRH6iTAv/z7hwwHw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
+    width: 744
+    height: 500
+    isCached: true
+
+secured: "o6nOiJi1CdbGrqMp5ZFQhnoS+HI9SNS0EmJ5WQtpTkBRTP0uZlJicwlWxiz/o3hfA64DzdxhwzDSFfn4Xx/KymuqCmiT6a7zAqCdZoG+DyeD6V9zZUO59F6LDZxG5juoXAlar16jpGvbgcddB5SoOdAG9AfDvNc2o01fzfsfvJwwhLP2oJXUa/9oML79PprNMDOtqMBEsm1Rgk6/jsSbUtsjbsXRq7MuNTEJYa/RuFCLd6A26q1a87ZKcNYm3SwVPfr0aaAQd/OVTqzvVBecHkxS4uyOcf5ihOVneOqL7aXEkn770/wITQiEtFy0AszND50GWcGVBO/E6WKaLme4dAA2Wzdyw+IUxUGvbCeYNio=;hrdiG+PPzppMsH0+84+ORg=="
 ---
 

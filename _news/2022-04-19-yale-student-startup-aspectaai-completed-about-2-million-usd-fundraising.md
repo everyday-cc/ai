@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T13:34:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-yale-student-startup-aspectaai-completed-2-million-usd-/2022/04/19/9585211.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-yale-student-startup-aspectaai-completed-2-million-usd-/2022/04/19/9585211.htm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: TMCnet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T19:33:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2022/04/energy-aims-make-ai-human-driven-accessible-underserved-communities/365847/"
 webUrl: "https://www.nextgov.com/emerging-tech/2022/04/energy-aims-make-ai-human-driven-accessible-underserved-communities/365847/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Nextgov

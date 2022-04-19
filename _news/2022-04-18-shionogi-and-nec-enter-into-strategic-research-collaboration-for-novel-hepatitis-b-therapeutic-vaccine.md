@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Shionogi, NEC collaborate on research for novel hepatitis B therapeutic vaccine"
+    excerpt: "Shionogi & Co Ltd and NEC Corp have announced the execution of a strategic research collaboration agreement for the development of a novel hepatitis B therapeutic vaccine. NEC OncoImmunity, an NEC subsidiary that specializes in artificial intelligence-driven biotechnology,"
+    publishedDateTime: 2022-04-19T21:48:00Z
+    webUrl: "https://japantoday.com/category/tech/shionogi-nec-collaborate-on-research-for-novel-hepatitis-b-therapeutic-vaccine"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 0
 
 secured: "96l7ReX8FC1TUS2qtUZUEZqGkAkzujplrRd0pCtmd8rJKFAYzepszvflrdZRKIjyZFzLriQkb6dnMqEWkdWgPNpXnD1L77yDbw3zZHRk3Tmvl3Y3Dwpv/P+5onGB//Uec6C+BprsCm5B8PcauM/1adE1/k6nC6MF85UYU7NE/0uukdfIX8mzYGQmsrwgk/hxZx/AzIXscf/BObIJ+CizfOsWSXzLLkOGdjbsUpzTlKFxvLbg/NalIpqyVNxcLErZMk5EZFQLRCmTsOk/uOyC8eNB4NY3mqmaGeqB2SBJNiyar/DzmSwq2ACRxPvU6vFxtGS3+4YJFkoJKeOgtk1S/wYUWcE0N49kekhEKwYeCSZIlBgZE9mll7YSDs8xH1qGZLg+SWnan90svJ6xpGxK/Yw4/nSSVwlHq0RXf88lr/nQok0Qa8xXEsXO5cGBPg691i9DkSAZFJugsdSFp38Y791uiSHlv8fK1wpeoHvQqxr2OkJBkXwS07p3ll2E+jj2FauPsok08qq/SZ/iOiGgJg==;DT55j1BYLMyuuyg3bTrqmA=="
 ---

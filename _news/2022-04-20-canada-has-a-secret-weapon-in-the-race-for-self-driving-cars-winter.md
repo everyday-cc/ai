@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T18:29:00Z
 originalUrl: "https://www.thestar.com/sponsored_sections/2022/04/20/canada-has-a-secret-weapon-in-the-race-for-self-driving-cars--wi.html"
 webUrl: "https://www.thestar.com/sponsored_sections/2022/04/20/canada-has-a-secret-weapon-in-the-race-for-self-driving-cars--wi.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Star

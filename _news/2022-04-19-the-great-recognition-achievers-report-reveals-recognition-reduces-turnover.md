@@ -44,6 +44,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 21
+  - title: "Speech recognition technology engine gathers more pace"
+    excerpt: "Speechmatics, a Cambridge-based speech recognition technology scale-up, has unveiled a globally transformative advance to the engine driving its solutions. It reveals a major step in delivering “truly comprehensive” speech recognition by adding Entity Formatting functionality to its Autonomous Speech Recognition (ASR) software."
+    publishedDateTime: 2022-04-19T18:46:00Z
+    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speech-recognition-technology-engine-gathers-more-pace"
+    type: article
+    provider:
+      name: Business Weekly
+      domain: businessweekly.co.uk
+    quality: 19
 
 secured: "ipQDDMoXQzffiNqixyrR6Ic1LZgr+w2s8yK85p945vonbSHdNC6Lx4y6wsAXEfMUfizh7mXMTH0eFuM1aDuyn9HF/Pi1bASmKyxrrwU4e5VCiTcNK3pop4L1sWUSg20YUbwxQM+eMxDf1CT68TTWITs7Y6Q1kYVE9S61fXCCtrfcdtVjpIcc8g4/PQG0YBrzrPZModPUhG0CsBjDasdIdxCYEhIJDRNJHUEXPR7QvYUEdcGnx93adLGgd/wiMMc1Hekko2NhLKBwIeYlB0SiLmkV79DTvd66fTlx/2DcKbUoOpydbEOkV9c/B+KffbP4UpWi0iqScBAUgYusD5e937d6B2gVCPGQpfhT9rIDufU=;QrydS+QWs9otbbDLe1v0vw=="
 ---

@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "Three Potent Ways Artificial Intelligence Can Assist With Pricing"
+    excerpt: "Top three effective ways Artificial Intelligence can help enterprises with pricing. Click on the link to know more."
+    publishedDateTime: 2022-04-18T12:14:00Z
+    webUrl: "https://enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/"
+    ampWebUrl: "https://enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Three-Potent-Ways-Artificial-Intelligence-Can-Assist-With-Pricing.png"
+        width: 1945
+        height: 1112
+        isCached: true
   - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
     excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
     publishedDateTime: 2022-04-15T13:15:00Z
@@ -70,6 +86,15 @@ related:
     provider:
       name: SeafoodSource
       domain: seafoodsource.com
+    quality: 19
+  - title: "5 ways AI Will Change the World"
+    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
+    publishedDateTime: 2022-04-19T17:51:00Z
+    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
     quality: 19
 
 secured: "g1i9ZFXQW04nCqz0QrI3l8WEFw5tsE1ah3HJaAwHzBiq5b15/qpA6sHaTumdifTimqs576h9CbYMf4QQuhhL2eiBx2rSOC5wxNVf3WctHWs6PCnh4GE+MXhcWaCy8L15SszBqsIz12e+N0JaNjf6KGZHvrGd8iby8hdGGAo2pBVgqFKTmvLSqUW26tE5IwIZMY51yPJnMrQXjPzBL+zRQS4Gl5gkV6G1AVDLc3LYU8PZ+58y+Mf+CFiEe6Q3OLdpewSNKSGqHzunKFTVOsOr55X1RK+Podlua40aLQu7gzobRzoupIvjRr6oj9CLf9Ram4x+35PC9vghdHGTyWGwtaGW5Mmw2YfwdWEWLKqw7h1k1bFge9mttSNQHfF5/sdUVtM+AEx7OskwE/PgswqZTR6DiArH9dQhzrrG60zu4JTt7jXIwUDXksGoqCurxukLmN10HzKFq5j5ZJT2bL1CtaVwc4G3kGiP3fAPWuDc4BUDEEKAK6cLN0tidBB84I6HXqxOPnawoOUyqTp0TlA07A==;x7pXb4mATV+zMSzy9BpPDw=="

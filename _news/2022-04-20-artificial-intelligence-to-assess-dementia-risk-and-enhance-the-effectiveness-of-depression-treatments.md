@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T19:34:00Z
 originalUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-dementia-effectiveness-depression.html"
 webUrl: "https://medicalxpress.com/news/2022-04-artificial-intelligence-dementia-effectiveness-depression.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Medical Xpress

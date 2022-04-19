@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacu
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
