@@ -24,17 +24,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
-    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-04-15T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-
 secured: "CtGIjPhJF3Tt5EkalrMXzGX2L6N7Dm1eX5JLt7KIxYdvc4nIt3i4LoFtSBo56QnwU5j6cYnV55J5+Fb/n97HCIe+jNUSaMX74HNbXjyY7wjUeRtxoMC7H9SJvbnhjISmncHy9N7zJk5yeJsmw8MR3hycGANhIT35TbXaJG0TTcsVg30f/K64rYP24Yjal+E4LwIdX0NG9EuIpJ9uIKVc8gbU+JLNGxKixO906mDXy6rWYf3HyATzAKcw/RtyAON3V3BWh9FQ+zeyAqCIu7JX7i1Os1Zz7ufrCDo+Yw9rvquPKtNVuOnz/U7Bay0r2PMbjSJ8YXgH0klf2phNkbxBUzNHkVvYd/Ak6NeAuakWelqv8kYvn2XkFYoAH4ZToUnW0KDO3DOI7lBLW+E6cv4xfBAqrgWOOHJXSQbzqA9erau2ZRIFNUKhpSSUde5gKk2J2VoMK3eGfhwTL7uP/YGUQPtrnoFxKCrBGV35eQWJ9CpWMdDlJ1O7VMzBg4zPtQ4OogL2D8siJuUzS5OFS8pmWw==;oxeRGQi4h65P5h7qtzWpmA=="
 ---
 

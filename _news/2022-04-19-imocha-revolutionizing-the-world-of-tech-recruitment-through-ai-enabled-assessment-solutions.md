@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/imocha-revolutionizing-the-world-of-tech-recr
 webUrl: "https://techstory.in/imocha-revolutionizing-the-world-of-tech-recruitment-through-ai-enabled-assessment-solutions/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 512
     height: 512
     isCached: true
+
+related:
+  - title: "Council Post: Working with the government to implement AI solutions"
+    excerpt: "The building block for any AI-based platform or system is data, and the governments already have large amounts of it at their disposal."
+    publishedDateTime: 2022-04-19T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-working-with-the-government-to-implement-ai-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Ankush-Sabharwal-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "Vl7c7KM8k/zB5mIZs+P1GL/N2Aop1E8enL1DKKAuK6XG5dPRZO1gbrPXxo9okiZe55UlxVm9YHJuDcGOfzFF1LE+egBshU0OCMHUKQd0DG0APcG9sK6fYmxYM9W9WDjuUCCkIDphEWC+wF/WuuZxDZfeo7UDkJ9P4yKjjlqbGucBlbHfVcJ0NpD4OQQqGuD1v/FIxBr4H3S/F2ir/1Lla52AanNT6HAcasVOC11ZGhYtTfpudrI0jyJPY5gElwEpuKRENTTeCcytEBBi2MGhZcHZrq/HUv7yzUMOvpo/ZwmQyAG+vlFNvtRZqQFXUZo9Z8e5NWDlhGWKw7HR3eI9G85HptE5927rnXuzPFnZXuImQ0WMEYtnwuwQjnEczDpP48qSVcrGJPJ1HouuAwm8O/rjUAEx1BqnZRFx8U5t3Y+QrR6EVY495WPHwrE3B4Wf7dHm+lQRkabYhrOblY90wTpRg232X16/l1qLrnhJ709n52LnuQSYXbBD/YecXJNZ4WyNfbQ5HM8bGPdjr7JBnw==;rj3uBz+DLOM4MBGIStcI9g=="
 ---

@@ -1,49 +1,29 @@
 ---
 category: news
 title: "How AI can help – and hinder – the supply chain crisis"
-excerpt: "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and"
-publishedDateTime: 2022-04-19T09:31:00Z
-originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis"
-webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis"
+excerpt: "The industry may be emerging from the Covid-19 pandemic, with e-commerce still thriving on it, but the supply chain crisis isn’t going away. Infrastructure designed in a predictable pre-pandemic world isn’t enough to clear the backlogs,"
+publishedDateTime: 2022-04-19T11:27:00Z
+originalUrl: "https://www.techcentral.ie/how-ai-can-help-and-hinder-the-supply-chain-crisis/"
+webUrl: "https://www.techcentral.ie/how-ai-can-help-and-hinder-the-supply-chain-crisis/"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mozilla
+  domain: techcentral.ie
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1650360316/itpro/2022/April/GettyImages-supply%20chain%20AI.jpg"
-    width: 375
-    height: 210
+  - url: "https://www.techcentral.ie/wp-content/uploads/2022/04/Supply_Chain_22.jpg"
+    width: 620
+    height: 349
     isCached: true
 
-related:
-  - title: "How AI can make weather forecasting better and cheaper"
-    excerpt: "Many nations facing the ravages of unpredictable weather patterns lack the most modern tools to plan for the changing climate. A US startup says artificial intelligence programs are the answer."
-    publishedDateTime: 2022-04-17T23:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/18/how-ai-can-make-weather-forecasting-better-and-cheaper"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/11/1546813.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-
-secured: "QNC4tsda4T/dW6M5EIq34+9WLlY70ex9AhvUO7pWuHWnzBkJDkoxpeGocnFgVo8Cy3Jrqu2RolrZ1NlWDnVS96gpDXgwrJHEdKe+dFhUFJLxpCqD6kZCYJwP761X22N7Uf+97pDe4ZUe7vBxiRjY3CWjVclOdycgoNyBBoqk/LcSmpmbPVeJT1gTj46frfbwmAXAwH3qgVGgXpWwOEVzKhvjpzGa1U+wUDNLyt7TcGVE4i1F/OdJHVE/51Q9DCB05eozn+VbMUjSuMkR8TJyci/FFE/tVbPwLf6rAATqaJUOTaoZ/Bm+K2QKPksQGINLQXbbwHlO0Qt0CVh6CQzCOqjS2DBjkDBCYJflC6OR01Q=;G28xXr3bhoty5Kkzsa3PKA=="
+secured: "KCO1knpLfP1ojkDE0qq5PXnVY8mF0bf27T0KuUeuo1ahG1Hv65WFCkzuoIN7MBA3mpYPjX55mW8Rst1wh4hacGJmLIUaEubhqNosD9aUawxYJ5s7gdNJEVQZF3umgpuO+pVGII7R8j3n31hmScGlsnwu8Ay/GNE16fseAEBU4hpgA8g1lffMlYPKP2Z0RM+Y5Q5Qbh0W2mhMtEiDB9aJQM3t5TBUdhaBmQAh6LIpm1oAkCTR2McUeIlMn+TeavEqYLj2mnLhrxV2fjvP8YoMIMT3MC8WrfYe8fu1urtQhGD/ZtqZa++18ZYgewNojGoLh72uSF1pmB1+MszPYBZxpiZJyyWEqRZ3tzkBeYGOlMc=;0s8HniwCjgEGFAjsuKzv/Q=="
 ---
 

@@ -53,15 +53,6 @@ related:
         width: 1024
         height: 658
         isCached: true
-  - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
-    excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
-    publishedDateTime: 2022-04-14T18:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/upstart-stock-remains-one-of-the-better-fintech-opportunities-out-there"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Fintech start-ups frustrated by red-hot recruitment market"
     excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
     publishedDateTime: 2022-04-16T05:03:00Z

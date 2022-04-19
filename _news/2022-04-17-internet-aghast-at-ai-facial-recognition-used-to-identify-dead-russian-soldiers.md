@@ -62,18 +62,18 @@ related:
         height: 300
         isCached: true
   - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
-    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-    publishedDateTime: 2022-04-19T02:11:00Z
-    webUrl: "https://www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-    ampWebUrl: "https://www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+    excerpt: "(The Hill) – Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the war, according to The Washington Post."
+    publishedDateTime: 2022-04-19T10:46:00Z
+    webUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
+    ampWebUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
     type: article
     provider:
-      name: myhighplains
-      domain: myhighplains.com
+      name: WFLA
+      domain: wfla.com
     quality: 63
     images:
-      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
         width: 1024
         height: 576
         isCached: true

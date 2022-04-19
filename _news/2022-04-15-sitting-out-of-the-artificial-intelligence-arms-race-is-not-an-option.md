@@ -25,52 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Developing countries are being left behind in the AI race - and that's a problem for all of us"
-    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
-    publishedDateTime: 2022-04-17T05:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/articleshow/90889503.cms"
-    ampWebUrl: "https://m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
+  - title: "Three Ways AI Is Impacting The Automobile Industry"
+    excerpt: "As AI becomes increasingly accessible to car manufacturers, many vehicle companies have prioritized one central objective: safety."
+    publishedDateTime: 2022-04-19T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-90889503/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "View: Developing countries are being left behind in the AI race - and that's a problem for all of us"
-    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
-    publishedDateTime: 2022-04-17T05:13:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90889752,imgsize-68408,width-1200,height-628,overlay-ettelecom/view-developing-countries-are-being-left-behind-in-the-ai-race-and-that-s-a-problem-for-all-of-us.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 710
         isCached: true
-  - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
-    excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems which filter spam emails and identify toxic content on social media,"
-    publishedDateTime: 2022-04-17T19:29:00Z
-    webUrl: "https://www.dailyexcelsior.com/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/"
+  - title: "Here's How AI Is Going to Reshape the Hospitality Industry"
+    excerpt: "Artificial Intelligence (AI) is the key to meeting your customers’ needs in the hospitality industry before they even know they have them. Anywhere. At any time. Integrate AI into your hospitality offering,"
+    publishedDateTime: 2022-04-14T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/422931"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 27
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/04/3-35.jpg"
-        width: 1200
-        height: 887
-        isCached: true
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 47
+  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
+    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
+    publishedDateTime: 2022-04-18T19:18:00Z
+    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
+    type: article
+    provider:
+      name: SeafoodSource
+      domain: seafoodsource.com
+    quality: 19
+  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
+    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-04-15T11:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "uYSMdx68mpQo40khWee7q9gedk/Fj7/folQ0x5eP3alcJfmn+Aan5u6e8hYz8yaaHk9meoeGS9hICnSZymfpTqSGmMrd9hEJhoj22yFCv85bwveeHlLMKgvCeFEBFTeS/6iuSTzvyTwd2heTcgvZNwXSNt+3WuynZ+0I4R9KgGrMwwADqpjOxE8G4X1mQ21HLhkTqH+a5sHhoyovEXyMtfSMgnAVUSk9MeJxPlntR5VKR8CIIb6ab2fPS2ioLN8SUIQdDZcOyk16pNRUNP+t0DUGrVMe8vJaoBodWZgw8QH8tu55B9DiYXguP5vmBEyLWdbUA4QfyzIi4kksAnljFbOjAkBp8v5uD6NwLINA14iJmwXP6G6YpAo0q3q5vCe0Fih8QJd9Kf5VcYuwm5nPsrSjaSMVWsxR5LS0TIXfBxWoml18Lo0AZR4bBfVaw/DJ6yGBe6s8j5wz6dnV74n36326mwVITCKfsdmkHeFKv2GOh88sFMo3CkEnSKSKvg2Nj77ZnMApdWod3TXy77HXag==;zcwscXyK/DFsijiWzuBy3w=="
 ---

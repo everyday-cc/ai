@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
-    excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
-    publishedDateTime: 2022-04-15T13:15:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/sitting-out-artificial-intelligence"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/20516463898_9f73728fad_k%20%281%29.jpg"
-        width: 1222
-        height: 687
-        isCached: true
 
 secured: "KN8QUhPMlOSMjsqcDL+GJZ0CsOvIszOWMwDGwoaaw3yHFrdTwvh6vUBrBLUdHDZniSvZjeoxojTQhoyjKUdSg3BYFNMVMW1eS0ZtDGvC02k/ClqvazbQdhTWnHebnq8OCQHasVJ4YlEn8QioG/HpUj1vvCRQmru7pP77qN4AjnfiO5duhYF56MN58+is1VFiVjxddh/F1PUyvBUCxASV69lvYcbFLrbQLIxVUdssW4D2KGFfnNtl7q2l8psDDbiha1CJU2Ze/p9Gk7cZceEFLT+LPUdRxHlrB7mqB1cegPqNZWLBj01YgrHUVqAwCVxIRZD2yfqVjTE/yleLgY4OZpETYG8opV/3xTwXBVkE1x4=;ms99PF73meO4BZPmHhkw8g=="
 ---

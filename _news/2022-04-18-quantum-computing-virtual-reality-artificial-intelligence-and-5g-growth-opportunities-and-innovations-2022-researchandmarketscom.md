@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application"
+    publishedDateTime: 2022-04-19T11:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-04/55807054-artificial-intelligence-in-manufacturing-market-worth-dollar-16-3-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+
 secured: "X4pSAAfS/G12DI34EB6aItsKtx3MVmOE7RppWjNojyC3XG0Pz6Hp5kyjRCb5VgPBb18nRF9zwo8QlugNYA8+YJU7irZ8N1zhRhDaM6gL9Y+dnEq9ECBud+AuAwC96p4fXO3qS67uB7pvOYrDOkjD3pymtBjK2xyPuIceRw7A541NIY3x3LbJR2a5cqf+PcpbLjm9lgFO9ku0o93cXOQc8VVKaCpUvmr+GIO8yaOESSBVi0RnapHyZL2WiZ7qmw3WWFOJeUpmatTsrIy6+3vTsY4aqLlN8p8qaPBt8lAQu5oj88mJFo1YMyQhGtEY0SqvLoIJUdoB/EvZ9sUDDybNVURDlY9zPg+/hKHw7n/xVVQ=;cKVIy1cSqTWIthzdv/39jQ=="
 ---
 

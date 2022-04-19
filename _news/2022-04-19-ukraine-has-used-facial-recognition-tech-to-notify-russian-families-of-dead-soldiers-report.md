@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
-excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-publishedDateTime: 2022-04-19T02:11:00Z
-originalUrl: "https://www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-webUrl: "https://www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-ampWebUrl: "https://www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+excerpt: "(The Hill) – Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the war, according to The Washington Post."
+publishedDateTime: 2022-04-19T10:46:00Z
+originalUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
+webUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
+ampWebUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
 type: article
 quality: 63
 heat: -1
 published: false
 
 provider:
-  name: myhighplains
-  domain: myhighplains.com
+  name: WFLA
+  domain: wfla.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+  - url: "https://www.wfla.com/wp-content/uploads/sites/71/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
     width: 1024
     height: 576
     isCached: true
@@ -124,6 +124,6 @@ related:
         height: 576
         isCached: true
 
-secured: "rVaZYW0Kyt8F9VMG333Kfr9rHeU9E4I8eOHMXhdthoD+VP2+kJ+PdCphRyXtuOhdWSrAvT8DXN4yjZVApAVp0G/oTEGn2Qjq9wBwDeRs8ByHcgGEYrFaZVT+RjLypvlunhVjE2CvHm5xvojCVEe+D27pOdWHoGTcdR455nrlltRT3ShP92eZkFUjnbwKiTBsv+h8XYU6Kf1yHycZp66lzkVz8sAFPux3YbM2QnD21geghGUTEIHV3a+38HDa1x4bggvgy3S6RTTyLwO1LwhszTF89hBTQ90T4G9mRLYLKWSTML7BBrGcFqonQ37CnWPyTAJCfJXo1w66G6XPvr04meUW/xGOqv7teXwHOjVssis=;f3S3SnC6VWd0GCvdF7aTcQ=="
+secured: "8SF+QECYdjgp7niSXhbmO/sRXh0ClHt3hmFl9MZ1BYCtlXn73ck5fjzFamjZuo8O2QGhkoPdXsiw/b1jT4I2ANr6bXi8CMVytKdPf7T+IqG9B0+8t8dW55o5k6h9XAVc7bUf6/PqdEZ1h3+4tOuxpuaRnpReY3ftR65wIzg0LFXUfqQXzU2m7kXpeACnnecfX8o1JoApPKTmBOGWZ8/xnUEWFb7q9leJJuqfpFy6tRJ1Vau9rtuC7TrLMsJBz9ld6CyMZK2jgjgHNZ3NMcW6hso4uAWHQU4C9cact8fTFJnq8vWcG5RglglIw7F3a/4pOPkg6eJOduubVjZRtwJ9udk68p9QfhyH1HcHZaVlPiU=;xy2NlGQTNa6RIQP1dc9JQQ=="
 ---
 

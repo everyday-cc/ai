@@ -38,15 +38,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "Paladin Teams Up With Ukrainian AI Chatbot, Legal Organizations to Help Those in Crisis"
-    excerpt: "The new partnership seeks to connect attorneys around the world to Ukrainians scrambling for legal advice, and provide more streamlined access to legal services for those in need."
-    publishedDateTime: 2022-04-14T18:00:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/04/14/paladin-teams-up-with-ukrainian-ai-chatbot-legal-organizations-to-help-those-in-crisis/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 9
 
 secured: "XCiPYRsjXG9cW1QX7V8LnAUArenhBlTWLz0R13rdHMKZjXIoUgyxG4PwrMnl/z6Skk2cxcw6lJ5E6849sdpizFXrm1TqdYzlNDNadAncvCj58U0uyketguSfu7+ozT6BPheLF4AMHqXFMyaQ3JxD1RNt9xRf8rSW3rFtsDUXcEYvvVyfJ1kxZdZerGboHtd2J4RNMZhFLQVSyRA56oK6xx8R1P8OQOnwKRE0NiZeMePBCPBPLjp/Urs8VAsa2pJaeUiyvvD5cPy9myys3a7Q/wwGtbee6jSq1kOco59E9M3nzK0LoLm8knfhG/1PfDKhp+tM9YgAfK7AoBnUPTKASOmRmOHovthFggTrZeEnSs8=;PURT9Fgp0w0UlkuPH2HqSA=="
 ---

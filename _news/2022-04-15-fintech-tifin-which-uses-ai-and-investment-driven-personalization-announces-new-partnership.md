@@ -47,15 +47,6 @@ related:
         width: 1024
         height: 658
         isCached: true
-  - title: "Upstart Stock Remains One of the Better Fintech Opportunities Out There"
-    excerpt: "As uncertainties loom, Upstart Holdings , like other fintech firms, is struggling to bounce back. However, now may"
-    publishedDateTime: 2022-04-14T18:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/upstart-stock-remains-one-of-the-better-fintech-opportunities-out-there"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "15/04 – Weekly Fintech Recap"
     excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
     publishedDateTime: 2022-04-15T11:54:00Z

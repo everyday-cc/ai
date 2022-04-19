@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
 type: article
 quality: 81
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "House panels probe gov't use of facial recognition software"
-    excerpt: "Critics of the software said facial recognition databases could become a target for cyberthreats. They also expressed concerns about how the information could be used by other government agencies. In a letter Thursday to Blake Hall,"
-    publishedDateTime: 2022-04-14T18:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-panels-probe-govt-facial-recognition-software-84085906"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7b2713b6d05f446abe9cb8921063e4ea_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "ID.me and Facial Recognition Software Probed by Lawmakers"
     excerpt: "Lawmakers have launched an investigation into ID.me, the identity verification contractor, and its use of facial recognition."
