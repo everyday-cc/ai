@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Using AI to help San Antonio radiologists reduce X-ray reading errors"
-excerpt: "Suri, 54, a professor of radiology at UT Health San Antonio’s Long School of Medicine, is participating in a study launched this month to collect data from 60 radiologists as they read X-rays at University Hospital."
-publishedDateTime: 2022-04-19T00:45:00Z
-originalUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
-webUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
+excerpt: "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,"
+publishedDateTime: 2022-04-19T04:01:00Z
+originalUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
+webUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
 type: article
-quality: 19
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,8 +15,13 @@ provider:
   domain: expressnews.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
 
 related:
   - title: "Using AI to help San Antonio radiologists to reduce X-ray reading errors"
@@ -34,6 +39,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "Q5pGQDey7p92/5CUsP2zYJodyZnfhV8uHj+dKmpvbdDpM6FZQXRJSOKamSKaUxjez1+hRIS+Lrtl1hu2fQF9fwcxeMmVwE7gk8/adQ1M13GD51cW9WiyPdKDKC54DGrywTz35dE7cKGlDjWfuURgYyLNUWWn0D2fmdiZYgbiV0rVizgN7v0B4jRV8ky+tmjmPH0ecmZ2pwkFkHbYjYhTIOopGL6jzK9yqHLyenHyvh3yr+3Np1GPNNvGK1vsTDTotW9CYQh89sp5sRkEkp51YiEB8/+DUgNfAyj12ID23UXCp5qUysCGjCFVwsaQYTAnTkkrVuvfIsdlv8iCH2Liokz7E0mHqBnAvxZr5F2Wq5w=;6117w0DgPH2g+tZSNxzhLA=="
+secured: "ZbibZCPHPZCkdAQoEBqPdzym+Yx/v7K+oxzk1Ozdzqa7dRcBqKeyNr7cEk/4p38Y2hEghWz2QI3OkoOtsH+G/AxlEY+sEbkr+RnmZ99HJQyknBt7O6jZn8XlQIEFnHtlUd6lkUmIofCIkab27rakeOAhexV4TkxaJK6Lj3ptwe+4E+nVauukhr6yhKxQKsNT8ybSCm4YdVFlqw7PiND0XWSCoTQ+xbgqrHONlmvEbaXdmRzd8kYxNtTKpxpcdpMSWr4IKq8IvxXnP8OyGpnuz97svImkqhdgmEim62ixTmUGw5wzd0i6VjZxO2IREClbFA8/zy2iMPJMvQjRWTB8qqiOoQRfPOjNWHNyOizFQBk=;HN17sWWnRHiW1htotMGAHA=="
 ---
 

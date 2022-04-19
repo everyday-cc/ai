@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
-    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
-    publishedDateTime: 2022-04-14T11:38:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 840
-        isCached: true
   - title: "Noogata Raises $16M For Its No-Code AI Analytics Platform"
     excerpt: "Noogata’s AI-solution for enterprises provides data-based insights, predictions, and recommendations without the use of code."
     publishedDateTime: 2022-04-18T16:37:00Z
@@ -54,29 +38,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
-    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
-    publishedDateTime: 2022-04-14T19:32:00Z
-    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
-    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
-    publishedDateTime: 2022-04-14T12:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-trends-growth-opportunities-business-forecast-competition-and-demand"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "2a5VGMJrZeMSpZNWZC6OmecT7kvjPIX5XlsZSFy9l24B3TEfZkc5PXULAOXW0kaTs2b1zNBO4IVDLRTcDqrFI95fzG4fWLlj7rce7SAMEvHDkJ1SLc+eei5Uenreafpazs+BaFsGhQJutU2kQIopKIsXN+/3jvATyk8OCo0KgWjP3HY+/HLoylCgUsfMwo4gvQHTqjIxDfAgxC5lmzq8hF6zj5sRWQVjV1LiKtOE0UulVcjWbj6U+JbYkiji3Cg5bP1S0EHhM0ChrVrZe+HOVBRlUJetDF6g6ftn1iOlGWZB4s1ZA7O0BFaUqFCWG3uMgWi0QI5wpWpEMZCD75D7Fwn57HhPT7ho/ZXE4QT6YiBWsWu3IcDknnuu4yutxEB/JduNsAzeh2z3KAgN5kN2s9kTvi7vvfZTEUg0dn7I6zEyGjl8d5mW6rJwAm697lKWbFQ/KthoR1TQs0O/ZvJxUkS5zOtlmBwXyLaKcp5prYybDtPjQLRUGcNZhdUMkCJIarYbfjK1EFLY13ZLN+hquw==;xueq7ElUqma3DrewcbxDdQ=="
 ---

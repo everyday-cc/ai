@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "How this Haryana based logistics start-up uses AI"
+    excerpt: "After starting the data journey, you start to get a lot of feedback, starting your digital transformation journey.”"
+    publishedDateTime: 2022-04-19T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-haryana-based-logistics-start-up-uses-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Ecom-Express.png"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "GOfI9XUTkUvWL2WIIpxS4dVLLc/s/iTj0zxU9k6HPgD25Cjrp8jxcXRVVBfnXvu+TAKSHjV6cMeXz1cWmxlbLC7+8AaxlhiHr2d9ynfHLSXYUqAmGG7XWMCfR2lu2WQnSD4J7kvrcQCjwO+gU+S8T5cAuOiSp730CXnptmY6KIZh7KDPeTcspQtT7xD3cXKd6TtKHFAQID6CNlCGcUBE9yRWpEyjeVSy0bR3uzZRhTVsmZecdwn0AXABs5pWftH4TKqAqCXhLMauyVT2CSSoD0AMoZbFxVHgMpG6QaK5AS2kEzZdMSdNyOvFJ//qThfM8NbBakTISkS5GgauPBY/BYuJhGrq8Tp+rxGQmsvz4r/6aDVcvzrhpRnwy4oVVA+9BjPea1Q1jGdrsQyJgIAjaYDnmLa6Bq9RpIPg2FlM1/liqSE93gRhQA4U/VrivMSpGlE4pMiblotEa0Giu6uQDujlgyjWYjV3LwHrzptRB6IF7YqCbJYEn3+w11l6iEE3dX7yWH/6u9gy8TMXfFDS9w==;4Qp7/qIBSZwDPF6ctl4uDg=="
 ---

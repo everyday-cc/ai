@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
+    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
+    publishedDateTime: 2022-04-14T19:32:00Z
+    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Current State and Future of AI for Customer Service"
     excerpt: "In this special guest feature, Muddu Sudhakar, Co-founder and CEO of Aisera, describes how AI provides firms with a way to manage customer service at scale, by providing better on-demand answers and actions."
     publishedDateTime: 2022-04-18T13:00:00Z

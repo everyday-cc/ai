@@ -76,15 +76,6 @@ related:
         width: 1008
         height: 504
         isCached: true
-  - title: "Speech Recognition Market Share, Growth Drivers, Analysis, Opportunities, Competitive Landscape, Strategies and Impact of COVID"
-    excerpt: "Overview Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner"
-    publishedDateTime: 2022-04-14T12:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-share-growth-drivers-analysis-opportunities-competitive-landscape-strategies-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
   - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
     excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
     publishedDateTime: 2022-04-18T11:20:00Z

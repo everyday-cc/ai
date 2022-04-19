@@ -67,6 +67,20 @@ related:
         width: 550
         height: 330
         isCached: true
+  - title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
+    excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
+    publishedDateTime: 2022-04-19T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/meet-the-50-most-influential-ai-leaders-in-india-at-machinecon-2022-this-june-in-bengaluru/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Comp-13.gif"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Fujitsu launches new research center in India, embarking"
     excerpt: "Fujitsu today announced a key development in its global innovation strategy with the establishment of a new research center, 'Fujitsu Research of India Private Limited' (hereinafter FRIPL), on April 1,"
     publishedDateTime: 2022-04-18T10:10:00Z

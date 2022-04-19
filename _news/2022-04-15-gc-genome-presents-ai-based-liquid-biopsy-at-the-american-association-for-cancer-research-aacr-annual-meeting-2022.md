@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/science-technology-
 webUrl: "https://apnews.com/press-release/business-wire/science-technology-health-business-breast-cancer-cf3f7a9697a14f1ba8b91a00dfcc5115"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AdTheorent Uses Machine Learning-Powered Predictive Advertising to Boost Donations and Drive Awareness for American Cancer Society"
-    excerpt: "AdTheorent developed custom machine learning models fueled by non-individualized statistics to identify and reach consumers with the highest likelihood of completing the required campaign actions."
-    publishedDateTime: 2022-04-14T12:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/adtheorent-uses-machine-learning-powered-predictive-advertising-to-boost-donations-and-drive-awareness-for-american-cancer-society-1031356528"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
 
 secured: "qmsmUAFEkCwTCBOKRkZhjE5240VD8oEjDs7uRyuCwhGgahxRzkhPeHjbbESeECrUi/nLRftF2zmVuGGuxUNhC03p760j31t86RJty1cCnGKxoetsGZNMSQlgPRwHDZ0RlAv94WKuINkmYYx9+NWvMlxaYnl4XofIeCvRAhLDgCe/tfQJDCmeq3x7g/r57gvv81xjpOey06bOaVkTQvJ+uI348/6esOSm1gc1sboESHBLh7Nuzw3JrE8e2JhdRMJyN//QxbzVpsWtgIQlveFXa5k17oaw1jTeBLhBSqMsiL5rftcawp5rm/oruKLS2q0wNFl8nSbraOyOtUXTDjUCGCXl5lo7j2ZIZBiA290aKWw=;pJCjz1kV7ccjSTXMzZBhkg=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Driverless vehicles park themselves in rapidly expanding market"
-excerpt: "with up to 128 tera operations per second of artificial intelligence computing power. Chinese carmakers, including Great Wall Motors, SAIC Motor, Changan and Li Auto, have shown an interest in the ..."
+excerpt: "A driverless bus makes a trial run in Nanjing ... smart infrastructure, artificial intelligence, 5G and cloud computing. In addition to congestion, Li said smart transportation can reduce road ..."
 publishedDateTime: 2022-04-14T01:41:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
-webUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_4.html"
+originalUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
+webUrl: "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 478
     isCached: true
 
-secured: "FVqyhVf/Chhcmad3BgcTLGaRXH+0QHdc9/jwdVXKoH4EVG2i4+juGMC5x0zB+jpONWE3lhVLiAUf8VD2NrXpSkXMdn77XM9r+Kmu2HDwBbrrNTmCyJ2ebQoASfXwzjSXbHk9x1l+1Pwr5dZ7YnP6xyX74uOTTL5oI9NXViMA3WpdvQPKS42zRxLuc3NiQ3AgkJdqDoCPqnetKiHz/bzdDId/5o3ZAyUawfxisS0rEnsmYyH9Py8sGWAY7upa1F44kh2IFrbXKx6OxYe44+bQi64WKF/67i+YdFPnWLXCJD6l31XDg4meqduvGUTDjHl1pdZ5sYWuxdo3BtZt6PrOvVsRwPTvgCfD4XXdbgso3fI=;+cs88Sz5h/EuRtylzztQSg=="
+secured: "TvbFsRhmu/ZKyYbmsWBiRUGt8isBhlYjAY3XpLnCA1SZAegPAMr+VUPnVvPpEJ0C+5ysSrjijuzABr37qnGBfhu6+75O+gey/wq39GQ83jPLocEaA9QJrs8dDBLCFfKgFmEZfIghKWfdPc8bLaBMHy174krcbF23WtjeOwdqyriVn2Tct/zyBY/X6CSNFJSSVn9iI+BoHrjv+FAkDavDIgSPyUTmQr7qbIsxiCn4vneDmDMqJUkzlZU2u3sea5K/xjljIY1OQXGu19/4U1YU06tHY+DNfckO/17qfUn+kDuy8IiXQWukvA2PnBsnC2ibURDLQDnWvsBJS/VykvxZEJKRq/e2G4y+uR0SBhkmYUk=;ZLYD4HgDVJH2WNcxW5zfhA=="
 ---
 

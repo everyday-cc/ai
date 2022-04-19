@@ -68,15 +68,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
-    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
-    publishedDateTime: 2022-04-14T12:45:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220414NY24736/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 0
 
 secured: "wA2Lh8igT3bQGkI4tZhWQkU/BMSGep2bkUZKW3mxWRps899QbZZ3vEdDPvfyfudl1Zn8eAd12eyLpy+KCyJsqVJ03cI7/agZO8iRJESyYFPg1osPYbI596DoYrZJVZ8GxfWS04lmOWh4KR+f9rF1Awft0oAEK3uOYYQCXNlYWJKabap2wDn0BQVELfBHKdGBMDxzoLM7OOXckUokycg5ix5KL5EKvKrpl/7I9x4lGOUo+XREDTqMx9ZF68rQeagndxjLG3M9lM3an94yB9MnWsBUfkCdqkZ6K346k1hAdMlW88d4hAfCy/f9bUBWFISs6R+piIHfD8yJrkpe6vJg7NNWJltQp1MICAHRvxrtpzOKiO1zbGFekb5VJkKqnaP5uPiug8W8EkZt8/n23/p2TvZXiigcfCV6ZBvmdRFUoHW0pk5jy8+llHg5zD4e6QCb/h4wC0e7gk9x7Ib8+jEf7EwE9uNvnCLrrRfrM9nti6LIROuKafOd33tYQe62Z8jUxNTcsPWycljC60zqaEfLmw==;7VUfYp7a+XJgjk931gQcqw=="
 ---

@@ -81,6 +81,20 @@ related:
         width: 550
         height: 330
         isCached: true
+  - title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
+    excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
+    publishedDateTime: 2022-04-19T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/meet-the-50-most-influential-ai-leaders-in-india-at-machinecon-2022-this-june-in-bengaluru/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Comp-13.gif"
+        width: 700
+        height: 300
+        isCached: true
   - title: "Deal inked to establish National Centre for Big Data Science and Artificial Intelligence"
     excerpt: "AMMAN — The Hashemite University, Zain Jordan and the Big Data Solutions Corporation on Saturday signed a partnership agreement to establish a Jordanian National Centre for Big Data Science and Artificial Intelligence. According to a statement by Zain ..."
     publishedDateTime: 2022-04-16T19:55:00Z

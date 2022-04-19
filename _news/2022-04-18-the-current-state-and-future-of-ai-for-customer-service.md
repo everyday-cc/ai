@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
+    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
+    publishedDateTime: 2022-04-14T19:32:00Z
+    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Instreamatic Launches Speaky, the Voice AI Platform for Instant Customer Communication and Real-Time Sentiment Analysis"
     excerpt: "Instreamatic, providing an end-to-end Voice Marketing Platform for managing, measuring and monetizing conversations between brand and consumer, today launched Speaky. The new many-to-one communication solution enables customers to instantly and easily speak their minds to brands or content producers by leaving brief audio messages at any physical or digital brand touchpoint."
     publishedDateTime: 2022-04-14T21:03:00Z

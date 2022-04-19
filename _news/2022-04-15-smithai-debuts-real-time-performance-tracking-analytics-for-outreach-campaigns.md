@@ -24,59 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
-    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
-    publishedDateTime: 2022-04-14T11:38:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
+  - title: "Instreamatic launches voice AI for real-time customer sentiment analysis"
+    excerpt: "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally."
+    publishedDateTime: 2022-04-18T22:50:00Z
+    webUrl: "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/"
+    ampWebUrl: "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all"
         width: 1200
-        height: 840
+        height: 675
         isCached: true
-  - title: "Noogata Raises $16M For Its No-Code AI Analytics Platform"
-    excerpt: "Noogata’s AI-solution for enterprises provides data-based insights, predictions, and recommendations without the use of code."
-    publishedDateTime: 2022-04-18T16:37:00Z
-    webUrl: "https://nocamels.com/2022/04/noogata-ai-analytics-blocks/"
+  - title: "The Current State and Future of AI for Customer Service"
+    excerpt: "In this special guest feature, Muddu Sudhakar, Co-founder and CEO of Aisera, describes how AI provides firms with a way to manage customer service at scale, by providing better on-demand answers and actions."
+    publishedDateTime: 2022-04-18T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/04/18/the-current-state-and-future-of-ai-for-customer-service/"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
+  - title: "Instreamatic Launches Speaky, the Voice AI Platform for Instant Customer Communication and Real-Time Sentiment Analysis"
+    excerpt: "Instreamatic, providing an end-to-end Voice Marketing Platform for managing, measuring and monetizing conversations between brand and consumer, today launched Speaky. The new many-to-one communication solution enables customers to instantly and easily speak their minds to brands or content producers by leaving brief audio messages at any physical or digital brand touchpoint."
+    publishedDateTime: 2022-04-14T21:03:00Z
+    webUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522792/instreamatic-launches-speaky-the-voice-ai-platform-for-instant-customer-communication-and-real-time-sentiment-analysis/"
+    type: article
+    provider:
+      name: WFLA
+      domain: wfla.com
+    quality: 13
     images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/Dog34.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
-    excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
-    publishedDateTime: 2022-04-15T14:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kalyankar-analytics-launches-seqwa-an-affordable-ai-powered-search-solution-with-15-000-free-credits/article_ad73c360-739e-5faf-8c6d-deada0a20fa3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
-    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
-    publishedDateTime: 2022-04-14T12:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-trends-growth-opportunities-business-forecast-competition-and-demand"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "y39oaujv4PBQL0/LsHqNxLqhE9Z3J/2CUctUJJogxWxGVC4tBiWVWcFHrPHnIi3VKwO/ThN2kPbAwr7dk69uvxXVFwSqLZZAhFMBMUEh4eP5eIPkwhK0NmRqV6BARP9HK5I/BwjCdraeuEwe1eVedoHSnLd/DjMrTLn/c/QB8FNWLtOhil+JTYRCNlpmkqlf0pNw1KiO4eqh2iodIZPXmgtCbbnhbR1SSPo4LO4pwDyAVUdrOpY6U76y30bgqz2ZY/uDDgwK62eXW4VdhbOWlpUV6JrPC6mq74F/kB7XR9kIRmIAZEjazpeW0RGM1shXuNQ/Oibu2CWicv0e03Ry4UVJwdVKe9kpFSk9FmVUZHU=;VQmF4sCDU0Je8kfTF+kFnQ=="
 ---

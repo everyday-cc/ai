@@ -83,15 +83,6 @@ related:
         width: 1008
         height: 504
         isCached: true
-  - title: "Speech Recognition Market Share, Growth Drivers, Analysis, Opportunities, Competitive Landscape, Strategies and Impact of COVID"
-    excerpt: "Overview Market Research Future (MRFR) asserts that the global Speech Recognition Market is projected to garner"
-    publishedDateTime: 2022-04-14T12:09:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-share-growth-drivers-analysis-opportunities-competitive-landscape-strategies-and-impact-of-covid"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "v7Q8Pj+ld2kc2Nz3pa06Ytt+yM1zh/QbxUF9lSz+PpPAAAC2Vl5Hbu407K1nW1fl+rUWPnEqrzpmI6vxWjpt00NHod8LYcrrUnM8znqL1kSC77kkh6haL9on4P+/wSZr5HC82A9Ms0sJiK8Wuir1VpfNeq01jaiOMRxLZNQofS6gJ1KNW1zbl9G7+quB0+X+jR0Dmtd75oDw+5wKYXt3zUSlrLyAJ/PWCTfxxYv1ClTo9xQgXKyMsjrdvkdX5FSdLQpuw3F1oo6VJ682cXCg+oU+WagYTCgWTwfelxTSMLXVGAkiMS3XcSqXvV+Iavyj3bEc6DpUi8dm7U0RAy3dAodnD8HBz9qQFuOPyp/zsTG0qqB1e1gNqUGwHQA8fW9RqgkLqxZ2tcpjQvZ17YxgsiXzrS5yFxb3caTBDK/bqQ4gvQvJDanP6ZMwvGGJBxUw8T76cyfnLkQza3fU7rOT982JvvNTc20ANHlmKo4LAzRU0idPImAmg3xuihI4Nk0sfeaEcyNeGcJYK/WNnpJjeA==;82DwgBaCLydU7MU5FwLLvA=="
 ---

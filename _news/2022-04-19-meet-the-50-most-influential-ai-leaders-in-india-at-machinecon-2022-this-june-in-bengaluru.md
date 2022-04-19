@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Terminus Group Announces First AI Computing Centre"
-excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
-publishedDateTime: 2022-04-14T21:50:00Z
-originalUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
-webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
+title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
+excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
+publishedDateTime: 2022-04-19T04:30:00Z
+originalUrl: "https://analyticsindiamag.com/meet-the-50-most-influential-ai-leaders-in-india-at-machinecon-2022-this-june-in-bengaluru/"
+webUrl: "https://analyticsindiamag.com/meet-the-50-most-influential-ai-leaders-in-india-at-machinecon-2022-this-june-in-bengaluru/"
 type: article
-quality: 37
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
-    width: 550
-    height: 330
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Comp-13.gif"
+    width: 700
+    height: 300
     isCached: true
 
 related:
@@ -66,19 +66,19 @@ related:
         width: 550
         height: 330
         isCached: true
-  - title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
-    excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
-    publishedDateTime: 2022-04-19T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-the-50-most-influential-ai-leaders-in-india-at-machinecon-2022-this-june-in-bengaluru/"
+  - title: "Terminus Group Announces First AI Computing Centre"
+    excerpt: "Terminus Group Announces First AI Computing Centre The Centre will support acceleration of AI industry research and development through support of S"
+    publishedDateTime: 2022-04-14T21:50:00Z
+    webUrl: "https://menafn.com/1104027722/Terminus-Group-Announces-First-AI-Computing-Centre"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Comp-13.gif"
-        width: 700
-        height: 300
+      - url: "https://menafn.com/updates/pr/2022-04/14/NC_e81de607-6_Image_In_Body.jpg"
+        width: 550
+        height: 330
         isCached: true
   - title: "Fujitsu launches new research center in India, embarking"
     excerpt: "Fujitsu today announced a key development in its global innovation strategy with the establishment of a new research center, 'Fujitsu Research of India Private Limited' (hereinafter FRIPL), on April 1,"
@@ -104,6 +104,6 @@ related:
       domain: jordantimes.com
     quality: 8
 
-secured: "P8XNxoAA586pImSk1ufuMUIcDsB2oBiXeoo9J0tOaqVGNMcyk/TM25Qzj3XJarqEhydA/qvkdXf3JCmVrvhHu6Q2o3M76MmS/5LU6lLHnHNEIrn0HpZKnuvufMjfoM00UtB5Tl4NA/KvkGeTOwBfwfMcQr+H+fpoLjBHaXMSJ7xNbTx6Fwok4Ymx8+Ng48d1j3kIn4KpPZfOspzPv3+/EerkArbttmF5CYE+Rj5D9/Ln3tcJUba+pAsAxdurBbnmAx9laXXUPjD4+JAz6BkX1trKao50Qq85gfwoc0V2Ck6NGSEdW+L0XaVP0n3EEjOURMbueahh1zeVp1x06foX2bmhNIyjiKXNsXCQVttMHpo=;e6pozkBektFqgfc+G4p8Fw=="
+secured: "sBkj66/gC1F3MF3okTkOUsT3VGizb21DswA7TGrorYpEChFxFZ+H6c7GYdptD9giExUIaGpF+fLAnzaLbyOD9lIbmLPgW1ZNP7WXC9lWzusqmyTrD93zlvt1gypE5/RK6SxYOM4CR07L5Y+Mb6jQyjkb1L12hFUEHGtr4qpfxKX6/LX1IwPXOBPaHZXdg/bgoam8LSy9fcAFih3aKv8DAedEPZj2BzhF+N7Kbx8asGVJ1Wd8WVEOb4YBSJGfAxaQFS+hyVPQ9eLtH2ga8pcK0ff1sNnHB7rztV0+mIfvi48LUdrDNMuyjKqeWS1M1lIjxM2qKTpJFsBmdGoNdXJM3uKMbs1gKew6gRwupHSGnzk=;JRZOFQ4+KUbuxXcnqsXrNg=="
 ---
 

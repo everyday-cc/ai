@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2022/04/noogata-ai-analytics-blocks/"
 webUrl: "https://nocamels.com/2022/04/noogata-ai-analytics-blocks/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Acing CX With Smart Self-Service Through AI, Automation And Analytics"
-    excerpt: "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ..."
-    publishedDateTime: 2022-04-14T11:38:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/14/acing-cx-with-smart-self-service-through-ai-automation-and-analytics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 840
-        isCached: true
-  - title: "Smith.ai Debuts Real-Time Performance Tracking & Analytics for Outreach Campaigns"
-    excerpt: "Following its December 2021 announcement of the launch of Outreach Campaigns, Smith.ai, a leading virtual receptionist service, today, released real-time performance tracking, analytics and management tools for campaigns."
-    publishedDateTime: 2022-04-14T19:32:00Z
-    webUrl: "https://apnews.com/press-release/prcom/c560c816d4b4affdf29e8ed43c04165f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
     excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
     publishedDateTime: 2022-04-15T14:30:00Z
@@ -68,15 +38,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Dark Analytics Market Size, Share, Trends, Growth Opportunities, Business Forecast, Competition and Demand"
-    excerpt: "Market Analysis Market Research Future (MRFR) projects the global dark analytics market size to hit USD 880.50 Million at a compound annual growth rate"
-    publishedDateTime: 2022-04-14T12:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/dark-analytics-market-size-share-trends-growth-opportunities-business-forecast-competition-and-demand"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "21BpUhmCFSfg09Ze45TR/fLmYmENJBt7lal+mhxgRjYOcXKb72gOxULlAL0fGR/3KfopsD2ODNsuRvZ67ePMjzjLT1ufEgxPsuMLT40mQvihShEjURpQKZF2cVwShGnYhmL1n+duGyuj+Ba/zLijXfcS7zoPLbz6XN37RdwtiJIO+bZgXfIbhAjvx00LqZI0a62rh3l5QKkb30gie4lNEJpFicovew6r3NexMApVz5tzrG+LTCgWqdAwZZmu2xpllEAYazrMPudULdDauZ5W6XY/CPFXqF5w3jjve7zCxgUDluP6IUF9ioPRLux7KM8hXVUjjRLF+ZDbjr+SkhqmWD/Ammk4azU0ZtCDCZ64rGGj+wL5asYudYr2VKZqGA7FYA7CQCqYuA1RtJ7qdJsCxJZDWQQG55m0fGvripOHYZhAXi/P4z62jOhUb9qQT65mNeWSyk76cwv/PMNewNQk8uTniDDe2IObirJAIPd5pFRjuq9joo2FLr3IvFNKCas24eHdDDMyVy2CtB9R6ohdlA==;m2+zJGqrlXUJvHn+btbL9w=="
 ---

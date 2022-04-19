@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Bill Proposes Rules For Self-Driving Cars"
+    excerpt: "A Rochester Democrat is proposing a series of regulations to govern the use of self-driving cars in New York state. Sen. Jeremy Cooney, D-Rochester, has proposed S. 8468 to amend the state Vehicle and Traffic Law. It authorizes the operation of a fully ..."
+    publishedDateTime: 2022-04-19T04:10:00Z
+    webUrl: "https://www.post-journal.com/news/local-news/2022/04/bill-proposes-rules-for-self-driving-cars/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 24
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2022/04/18192046/Jeremy-Cooney-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
 secured: "8k0JuBtLsaLrZEYdRuvFTq69sfjPXbCeJtLf6hUouyF+YtpGGVzwkH58iAM7cXDa9k0j74GSLnlHVIaVHMXNI/esxbOQSce+rP95jIIDEoNCwKQ+KRqW6jqFDPqWV/X+9dWE5+5mA0RU0oJz5r2uCCyzJsaE6YfGKuUU1xJ6irXwH5Y0hFDuQA++n+N9b0zY72wHObj/esPP882lGqEOujwzWtOsZx/lUZc5wUlCxu9oa57hZMHlcoL0DJw8ii9nC5H9beatBnCgAR7502gApCoLypbMb0WK2RpPrTekEzG9bhnYx+96kP5fxRbzq/kTgnRfZX+AHSs4RN7twdwojIFDa/9p9Ho+fJlIqx16c6M=;x+9bgUHMC8AjX5V6MCPxOQ=="
 ---
 
