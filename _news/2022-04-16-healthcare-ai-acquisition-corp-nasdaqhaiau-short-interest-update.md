@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-co
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,17 +38,6 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 53
-  - title: "Short Interest in Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Increases By 224.2%"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) saw a significant increase in short interest in the month of March. As of March 31st, there was short interest totalling 10,700 shares, an increase of 224.2% ..."
-    publishedDateTime: 2022-04-15T15:31:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/15/short-interest-in-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-increases-by-224-2/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/15/short-interest-in-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-increases-by-224-2/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/15/short-interest-in-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-increases-by-224-2/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 27
 
 secured: "vkH0M0zADcOvhDpGWAH4IPhQFO5rB5iDCmNo2Lhb5O4adQFpWFjy92eRM+ofYE71sdypjdEjH4rDRCSjXR+6wDTmc6owVwpkEx92fPdvA1szDspQOUsGgPcvT/07LeEbCRfzR5I5g2WPP95g00sAMYmOdPQ1M6PFWMrcR7NIqq5nBb0+nHuLZn/araRWD06dZf2IfsutVLcPz/1yvmWpS1Z79RvVa0Bij57bk9Y+ZNXynOjStMFpaI//P6XzLx8TdHfLqHlW4B5fL3qVgiDT1xBNjEx4b7VF74HrfINJkZpq9utOnuBxnpXHJisEFEQlMJn/0TsUYDeYGbD2Abjm79E8UwtlP7pfQL3l8Es48lK0ctehu07rqB2GM8IrWdf1IaRJe3FQWyLUp3+JBSN7zsml4IvAr/Jmx4QskAqVetMkGlfHT1lfSCePxSdNINS2jhnWvZbjVnY/908F/NbyTsCCDVybQFxuwZQJ5BL0zKKVVynvybt5vRB8loJPi6KYmWQgcuRPW0xIYagApQ6DEQ==;D9GANpnCeKeNtyqp7nOm2g=="
 ---

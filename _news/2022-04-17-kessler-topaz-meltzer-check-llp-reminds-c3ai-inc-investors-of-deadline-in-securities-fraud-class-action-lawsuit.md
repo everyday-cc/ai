@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
-    excerpt: "Glancy Prongay & Murray LLP (\"GPM\") reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of"
-    publishedDateTime: 2022-04-15T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26653011/glancy-prongay-murray-llp-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-agains"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26653011"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26653011"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "ROSEN, A TOP RANKED FIRM, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action - AI"
     excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company's initial public offering conducted on or about December 9,"
     publishedDateTime: 2022-04-18T16:24:00Z

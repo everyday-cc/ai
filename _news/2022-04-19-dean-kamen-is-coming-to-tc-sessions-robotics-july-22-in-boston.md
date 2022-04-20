@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-session
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 535
     isCached: true
-
-related:
-  - title: "7 Days left to apply to pitch your startup at TC Sessions: Mobility"
-    excerpt: "Calling all mobility founders! The clock is ticking and we’re down to seven days left to apply to pitch TC Sessions: Mobility taking place on May 18-19 in San Mateo, CA with online analyst commentary on May 20th."
-    publishedDateTime: 2022-04-15T15:24:00Z
-    webUrl: "https://techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/"
-    ampWebUrl: "https://techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/15/7-days-left-to-apply-to-pitch-your-startup-at-tc-sessions-mobility/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-4.png?w=1024"
-        width: 1024
-        height: 468
-        isCached: true
 
 secured: "TyI0/i7oIABJZzc7NeacIyydHhhzH3nr1CdAQsuRbYbrngQxEGI00lXsNpms6Cf8+gOmpY9lGkztmoSXoQjT79PG2Angy/r6rjY6nNVEu+UF+QgYOoJdYauD39pTDMUdqhH0oV6l1/uBr9liTgYpDk1nHQHCJGC7zLtlWlQQved6JJrMeI+P13/Tqiol1a18DPl0TWtKjiBkGk7d6f9PquwgLgsMovzo6kkTc2CRGdCOJt9rpVBzWDidCRL0RH9VCCfmyhZIaDZb7/vLp7OEvD+qRe/Zhc29/o68DiBY2AFMnPtJKFLY1xq2SCQWkflDXZXCcera28rCPKaxlf5ULGU3O+XOy/R6/ZDmew1ZlpBtK17BvpVSEBga4WR64A6YaeYa31f6gVV7SrSYc47t/zikV3wC7fCykryBdhL3kgr2wANPNl1yxFTlC7A0F52pbR5KSxVaf8nrejwa3Z6oKybCFWiP9a2WRCRhSY0kxzhrTc7EhiqDq4T285SwOFjkBIjMVwkB7vl0mDrI73v5zg==;tgWCpO/cfgyus4OmYEfeGQ=="
 ---

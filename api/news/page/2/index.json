@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-19-research-using-ai-to-better-predict-severe-weather.md",
+      "title": "Research using AI to better predict severe weather",
+      "excerpt": "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
+      "originalUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
+      "cdnAmpWebUrl": "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
+      "publishedDateTime": "2022-04-18T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KJRH",
+        "domain": "kjrh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-gsa-looks-into-facial-recognition-bias-and-improving-accessibility-in-federal-web-services.md",
+      "title": "GSA looks into facial recognition bias and improving accessibility in federal web services",
+      "excerpt": "The U.S. General Services Administration, which procures and investigates tech for things like government websites and online services, is making a two-pronged push for accessibility in its recently released Equity Action Plan.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "originalUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-186872728.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/",
+      "publishedDateTime": "2022-04-18T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-the-success-of-ai-lies-in-the-infrastructure.md",
+      "title": "The success of AI lies in the infrastructure",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Artificial intelligence (AI) is bringing many changes to the enterprise, none of which is more vital to its success than infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/AI_infrastructure.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/",
+      "publishedDateTime": "2022-04-18T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
       "title": "SAS data ethics head named to National AI Advisory Committee",
       "excerpt": "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce",
@@ -62,7 +209,7 @@
       "originalUrl": "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -498,7 +645,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/424896?bingParse",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -538,6 +685,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-ibm-amd-embrace-israeli-artificial-intelligence-technology.md",
+      "title": "IBM, AMD embrace Israeli artificial intelligence technology",
+      "excerpt": "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "originalUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/04/NeuReality-IBM-TOI.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "publishedDateTime": "2022-04-17T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -594,7 +784,7 @@
       "originalUrl": "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -828,6 +1018,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-16-palestinians-clash-with-israeli-police-at-jerusalem-holy-site.md",
+      "title": "Palestinians clash with Israeli police at Jerusalem holy site",
+      "excerpt": "Israeli police confronted hundreds of Palestinians injuring many during the altercation outside one of the city’s holiest sites. The clashes erupting during the convergence of Ramadan, Easter and Passover are sparking fears the country will spiral into more violence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
+      "originalUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_04/1650076264289_now_topstory_ath_palestinian_clash_220415_1920x1080-s9zxot.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo137843781578",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo137843781578",
+      "publishedDateTime": "2022-04-15T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-willy-pell-from-blue-river-technology-brings-ai-to-the-farm.md",
       "title": "Willy Pell from Blue River Technology brings AI to the farm",
       "excerpt": "Learn how Blue River Technology brought autonomy to John Deere tractors and are using machine learning to continually improve the operations.",
@@ -964,259 +1197,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect.md",
-      "title": "Build a virtual credit approval agent with Amazon Lex, Amazon Textract, and Amazon Connect",
-      "excerpt": "Banking and financial institutions review thousands of credit applications per week. The credit approval process requires financial organizations to invest time and resources in reviewing documents like W2s, bank statements, and utility bills. The overall experience can be costly for the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-virtual-credit-approval-agent-with-amazon-lex-amazon-textract-and-amazon-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/15/ML-7548-image013.jpg",
-          "width": 1459,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T10:48:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-ukraine-is-using-facial-recognition-to-id-dead-russian-soldiers-and-send-photos-of-corpses-home-to-their-moms-report.md",
-      "title": "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report",
-      "excerpt": "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "originalUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "publishedDateTime": "2022-04-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-16-tips-to-help-small-businesses-start-leveraging-aiml.md",
-      "title": "16 Tips To Help Small Businesses Start Leveraging AI/ML",
-      "excerpt": "Even if a small business can’t make instantaneous, sweeping changes through AI/ML, it may still be the right time to take the first steps on the journey of building a strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625972dc185b566eb4455d01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "publishedDateTime": "2022-04-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
-      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
-      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
-      "publishedDateTime": "2022-04-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-at-least-150-injured-in-clashes-at-jerusalem-holy-site.md",
-      "title": "At Least 150 Injured in Clashes at Jerusalem Holy Site",
-      "excerpt": "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "originalUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-525573/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "publishedDateTime": "2022-04-15T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

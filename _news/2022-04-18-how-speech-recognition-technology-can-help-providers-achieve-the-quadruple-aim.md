@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognitio
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
       name: Business Weekly
       domain: businessweekly.co.uk
     quality: 19
+  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
+    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition"
+    publishedDateTime: 2022-04-20T09:38:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 11
   - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
     excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
     publishedDateTime: 2022-04-19T13:17:00Z

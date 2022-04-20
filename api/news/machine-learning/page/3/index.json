@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-02-machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Next Big Thing : Major Giants IBM, AWS, Microsoft, HPE",
+      "excerpt": "This press release was orginally distributed by SBWireNew Jersey, NJ -- (SBWIRE) -- 04/01/2022 -- The Latest research study released by HTF MI",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
+      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-next-big-thing-major-giants-ibm-aws-microsoft-hpe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/b6be821d016d05754280ca0ef93d4ae4874badff-e1648768638750-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-01T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning.md",
+      "title": "Oracle cranks up MySQL HeatWave’s thermostat for in-database machine learning",
+      "excerpt": "In making its move to becoming a serious competitor in the MySQL space, Oracle took the database in a unique direction with HeatWave: It optimized for analytics in addition to transaction processing by taking advantage of MySQL’s support for pluggable storage engines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/08/Oracle-e1617192273881.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/01/oracle-cranks-up-mysql-heatwaves-thermostat-for-in-database-machine-learning/amp/",
+      "publishedDateTime": "2022-04-01T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
       "title": "\"World's smartest traffic management system\" launches in Australia",
       "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
@@ -1321,94 +1420,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-inspur-information-and-feinberg-school-of-medicine-at-northwestern-university-improve-patient-outcomes-using-ai-and-machine-learning.md",
-      "title": "Inspur Information and Feinberg School of Medicine at Northwestern University Improve Patient Outcomes Using AI and Machine Learning",
-      "excerpt": "At NVIDIA GTC, Inspur Information announced the results of its partnership with the Feinberg School of Medicine at Northwestern University in leveraging artificial intelligence (AI) to advance medical research and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-northwestern-university-diagnostic-imaging-d7399cded95c41719cb6bd15c518a0a7",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-northwestern-university-diagnostic-imaging-d7399cded95c41719cb6bd15c518a0a7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones.md",
-      "title": "Google Health wants to speed up healthcare with machine learning and smartphones",
-      "excerpt": "Google Health is having a field day today — the company is dubbing it as \"The Check Up\" — and part of it means checking up on what artificial intelligence has enabled in and out of doctors' offices around the world: using ordinary equipment to quickly generate accurate results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones/",
-      "originalUrl": "https://www.androidpolice.com/google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/03/google-fit-bandage.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidpolice.com/google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones/amp/",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-health-wants-to-speed-up-healthcare-with-machine-learning-and-smartphones/amp/",
-      "publishedDateTime": "2022-03-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
         "images": null,
         "publishers": null,
         "authors": null

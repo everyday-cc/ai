@@ -7,7 +7,7 @@ originalUrl: "https://www.pv-magazine.com/2022/04/18/ai-method-learns-from-exper
 webUrl: "https://www.pv-magazine.com/2022/04/18/ai-method-learns-from-experienced-staff-on-perovskite-solar-production-lines/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 799
     height: 533
     isCached: true
-
-related:
-  - title: "Speeding perovskite solar cell development with machine learning"
-    excerpt: "MIT and Stanford researchers are employing artificial intelligence to test perovskites in pursuit of a commercially viable PV cell manufacturing process."
-    publishedDateTime: 2022-04-15T16:53:00Z
-    webUrl: "https://pv-magazine-usa.com/2022/04/15/speeding-perovskite-solar-cell-development-with-machine-learning/"
-    type: article
-    provider:
-      name: pv-magazine-usa
-      domain: pv-magazine-usa.com
-    quality: 39
-    images:
-      - url: "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2022/04/MIT-Perovskite-Manufacturing-01-press_0.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "mZttzVTPXQee9am5QYUONAZWsWaWYfunJsYk/Csow76arsQHfV0BFS3gFVh7Cw/y8lS5q02sEatSl31Jt0OeNzMwBaMz4/A5LUxo25n03x9oW9oC/SJYOgPLEfD1xnO5LU/De8m19GvjXARTHG4xPZZELSLLQdgIVNdtpvgm5jU9ieQ5x4c9HrjUqLYEKOzWC3YspeJ/y6w3oqxFvVZDXM8CgmJJlVSHb/Ic2mp0qsrmRSNf+19ZgJRT4CIKS9CWeQZLO4hArUj6Bc0/4wLC0/5JtmxOPkjNNtv9iFFegB1XWzG+FZHpftDQYJIFSnD30U8rYB5+QpBcqPN4MMTcvtpD1AqCvwCeUb4jIlZial9nwIkjQPh83zXgUXKJM4a8TfGCWazO8A4k080MEJ34uC0Yp96UZCHHfKnCYnoI+kpDCnEKmOXDY48qo3bZUaEnT+0S8gaeh24/4luOUrIQVWbohVpSi7vJ52qkjxUDkR2RYMNk3H4ThJLNjxqxkybJap8xRvVYq7HprnHnSog6Aw==;vt+K5OS96Ch2oBhsCPQ+8w=="
 ---

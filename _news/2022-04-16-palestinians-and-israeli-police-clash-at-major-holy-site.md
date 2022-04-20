@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "At Least 150 Injured in Clashes at Jerusalem Holy Site"
-    excerpt: "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque."
-    publishedDateTime: 2022-04-15T16:18:00Z
-    webUrl: "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054"
-    ampWebUrl: "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-525573/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Palestinians clash with Israeli police at Jerusalem holy site"
     excerpt: "Israeli police confronted hundreds of Palestinians injuring many during the altercation outside one of the city’s holiest sites. The clashes erupting during the convergence of Ramadan, Easter and Passover are sparking fears the country will spiral into more violence."
     publishedDateTime: 2022-04-16T02:32:00Z
@@ -66,6 +50,20 @@ related:
     quality: 32
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/15/754a39ac-68b6-4ed9-8f18-f7a2243128e7/thumbnail/1200x630/46d9d2c68ab36ccd37291a6f9e2716ee/2022-04-15t050819z-1142580603-rc2hnt9ypmou-rtrmadp-3-israel-palestinians-violence.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Palestinians clash with Israeli police at major holy site"
+    excerpt: "Palestinians clashed with Israeli police at the Al-Aqsa mosque in Jerusalem on Friday as thousands gathered for prayers during the holy month of Ramadan."
+    publishedDateTime: 2022-04-15T17:44:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-israel-palestinians-violence-20220415-n36p7g52uzdtbe7ezbgmsf66oi-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 24
+    images:
+      - url: "https://www.baltimoresun.com/resizer/TMq7PsBM60x23_2ejT1CM6sccng=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/J7E7SDM5ROWSYEWZK4LMRFTX7U.aspx"
         width: 1200
         height: 630
         isCached: true

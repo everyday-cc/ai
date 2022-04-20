@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
-    excerpt: "Glancy Prongay & Murray LLP (\"GPM\") reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of"
-    publishedDateTime: 2022-04-15T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26653011/glancy-prongay-murray-llp-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-agains"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26653011"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26653011"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Deadline in Securities Fraud Class Action Lawsuit"
     excerpt: "Vancouver Canada · V6E 4A6 // KISS PR Brand Story PressWire // The law firm of Kessler Topaz Meltzer & Check, LLP (  informs investors that a securities class action lawsuit has been filed against C3."
     publishedDateTime: 2022-04-17T00:19:00Z

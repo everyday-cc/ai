@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.toofab.com/2022/04/19/man-brings-imaginary-childhood-mic
 cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "This Guy Brought His Imaginary Friend To Life With AI And This Happened"
+    excerpt: "Lucas Rizzotto brought his imaginary friend to life using artificial intelligence, but this AI imaginary friend tried to kill him."
+    publishedDateTime: 2022-04-20T09:38:00Z
+    webUrl: "https://fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/"
+    ampWebUrl: "https://fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/ai-imaginary-friend-tries-to-kill-creator/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 57
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/04/AI-imaginary-friend-tries-to-kill-creator.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9DQ/3Ro+ffuDE+njFHK2aLlBsREMDscDl4uP9sxi9kbUD7EebxZJxxA6QtXqJLAhnMdPkBRZmDFNyxu6fGvpEyEwuHyHPuOx9ilelE9M/2tG2aClXIp6sdFQ5Vaqg1uzCu4C+McByv+GTgS0dZvv0h2+spvLSwUVkuuTQiSn+ud2P/P2MiDu3Bz+5EwKuA68G+7g2rlPIoro7nXd3115GZ7Cyu+AwNOsWnGJaB4TJOZDbvMdmBensM00SHO3XMHdcYrDgzqu5mFf9THY0e16AdUNuXsEfHIvmwgMZqJ6iWI1NdR1EtaalDkM0U0kwwlXyC53XAEy+6tsf9LRXE3oBMyylruoBfTUBiANNUVkUanUbR2xVIVRmX0aFUEBI6qshrptPvcCIPYeDn+Qa09qBPuDnnaZFOsj0c/+zefNjpf3eyNejfhOVMEp1xfAYyNvRDy6cFq1/LmVjG7cWrIm6LX5MaJQe2/dvNmBmntvMOUGk7IYtrvqeFrMKCm45VAP1s+TVf8+KEQD2xu9K97mqg==;0v6P0lXf4DjN9MFuqShxUA=="
 ---

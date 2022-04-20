@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Unlawful killings, arbitrary arrests, torture, and collective punishment are a lived reality of Israeli apartheid - AI"
+    excerpt: "Unlawful killings, arbitrary arrests, torture, and collective punishment are a lived reality of Israeli apartheid for Palestinians, according to Amnesty International (AI). “Apartheid is not just a relic of the past,"
+    publishedDateTime: 2022-04-20T09:55:00Z
+    webUrl: "https://english.wafa.ps/Pages/Details/128889"
+    type: article
+    provider:
+      name: Wafa
+      domain: wafa.ps
+    quality: 0
 
 secured: "wSkPMeblTcXXD0Um1Vf+VBNQns99UzBX9pCm2+25jSpvOHn2+IUP7y3n6qXTsLE703zgAdQwLd1PPFtR5kDiuOSgDJFuNwZNfLbVZF62VMCwUKzJRe2/QQ092X5an3uFOxJjfrkjoW3N+GoRzu9TJ9cujAQQxsYVnuKPxs4cHYxn72GX+pR8NSH/v9ykW8Yjyd9PmxwLFXOTD6XWv+P/V3E9JtQT1bzo0wOzOpDXyRRfrFnJrEOyln1J2ZT0WRoD+1y8wXbfEDyDbWht7vuNTWiSRPj92URFiYsHgsiGUk+5Kddb3YYa/8gbRyUqWuxrwuYMHu3pp0zfyhhk5TY6KiSYUQGA2mRmfO2uxd+q694=;jQwJv1NTIhDRbDiKugIpIw=="
 ---

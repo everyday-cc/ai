@@ -53,6 +53,17 @@ related:
       name: Business Weekly
       domain: businessweekly.co.uk
     quality: 19
+  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
+    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition"
+    publishedDateTime: 2022-04-20T09:38:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 11
 
 secured: "ipQDDMoXQzffiNqixyrR6Ic1LZgr+w2s8yK85p945vonbSHdNC6Lx4y6wsAXEfMUfizh7mXMTH0eFuM1aDuyn9HF/Pi1bASmKyxrrwU4e5VCiTcNK3pop4L1sWUSg20YUbwxQM+eMxDf1CT68TTWITs7Y6Q1kYVE9S61fXCCtrfcdtVjpIcc8g4/PQG0YBrzrPZModPUhG0CsBjDasdIdxCYEhIJDRNJHUEXPR7QvYUEdcGnx93adLGgd/wiMMc1Hekko2NhLKBwIeYlB0SiLmkV79DTvd66fTlx/2DcKbUoOpydbEOkV9c/B+KffbP4UpWi0iqScBAUgYusD5e937d6B2gVCPGQpfhT9rIDufU=;QrydS+QWs9otbbDLe1v0vw=="
 ---

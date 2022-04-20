@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "5 key tech priorities for fintech leaders in 2022"
+    excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
+    publishedDateTime: 2022-04-20T09:44:00Z
+    webUrl: "https://www.finextra.com/the-long-read/388/5-key-tech-priorities-for-fintech-leaders-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/388.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Fintech Liquidity Group gets $775m in capital commitments"
     excerpt: "Using AI that does due diligence within 72 hours vs. an industry norm of up to 12 weeks, Liquidity has provided more than $1b in capital to companies."

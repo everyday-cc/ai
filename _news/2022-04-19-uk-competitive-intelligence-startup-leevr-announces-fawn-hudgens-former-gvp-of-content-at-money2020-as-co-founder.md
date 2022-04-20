@@ -7,7 +7,7 @@ originalUrl: "https://www.wicz.com/story/46313797/uk-competitive-intelligence-st
 webUrl: "https://www.wicz.com/story/46313797/uk-competitive-intelligence-startup-leevr-announces-fawn-hudgens-former-gvp-of-content-at-money2020-as-co-founder"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 900
     height: 902
     isCached: true
-
-related:
-  - title: "Competitive Intelligence (CI) Startup Leevr enters NVIDIAs Inception Program to boost its AI capabilities"
-    excerpt: "Paul Sullivan founder of Leevr, an AI based competitive intelligence platform  Leevr, a UK based CI platform currently being developed by"
-    publishedDateTime: 2022-04-15T16:41:00Z
-    webUrl: "https://menafn.com/1104030115/Competitive-Intelligence-CI-Startup-Leevr-enters-NVIDIAs-Inception-Program-to-boost-its-AI-capabilities"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2022-04/15/EP_43de4image_story.jpeg"
-        width: 1005
-        height: 1007
-        isCached: true
 
 secured: "uHyXj1Fmv/yBmV8Vb4mTmwx9uKIqbJFlRExtUFQSuOYC2R3eVcXJmFodhq7CkwwhzreZIbWkGwkISsM324ynFiD3kd1NASxVUroNGcyXmW//+H/dB1tSw4X5DyqU305gH3ccohAINCGzFEtR1SggOZIvXRKQ+C5api0gqUmrZl08S+SwfORSRxFEF98pmmsWlbjE9xxapWT9J43FnInjHNDk+l/aF0lXN6u1YRLhXSz8bzxIhTj9xY0cHrmp8uInFwOIFV1w/tyef4UBF3Umc3blelWGWG3teWjfMWCOYH/luynO5OV+JWo4g+LeQ0mui6J4IKC6AamtL9vPVdWWKO56M0QiDGtGe+o78yoC6anSJqcCo3ZX7/rGywGVlvV/KMbthBk+m4XfsWUzgFDiyi0sZixLY1hCyvIbtq6I9ihZuPO47B5+UOLSb3/4pmge3BdgfioS6WZfYvjCqJEeAWYL9yp0f0YBfYGwjOdrsgkIzU7aMEpDDh91bwOyyncsgbbMiYkx12wz16bkozCwKA==;c5A5Au0uhMPRC2r1+xY1+Q=="
 ---

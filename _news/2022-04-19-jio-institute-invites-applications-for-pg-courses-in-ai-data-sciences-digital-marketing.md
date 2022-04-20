@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/education/news/jio-institute-calls-for-appl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/jio-institute-calls-for-applications-for-ai-data-sciences-pg-courses/amp-11650367077771.html"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Mint
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Jio Institute Launches Postgraduate Programmes In Artificial Intelligence And Data Science, Digital Media"
+    excerpt: "Jio Institute has invited applications for its one-year full-time postgraduate programmes (PGP) in artificial intelligence and data science, and digital media and marketing communications."
+    publishedDateTime: 2022-04-20T08:27:00Z
+    webUrl: "https://www.ndtv.com/education/jio-institute-launches-postgraduate-programmes-in-artificial-intelligence-and-data-science-digital-media"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 20
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/4/20/Jio_Institute_Ulwe_Navi_Mumbai_Campus_1.jpg"
+        width: 860
+        height: 430
+        isCached: true
 
 secured: "0S0E0TJNL/MCPzS3uvgAOCQncW4eXYUDCriC+hg/mK8fwm8dcg1p0IM0puX1hDjQ7j0+HeYUhuPfELvGstW8Q/aMnUBieiNdsre/bH9aU95vnS5Rg58qAUWzFu8E24qpkveck1CvyRQHtaXb2auvIS/vC+gvq16YxTlRz8524hE1LRhHY/dQikbdFm0JsiLOZ6rUDyqIPhLxTAVUbGW1TXRL0jF6QOOky6Akmwl4cJJY7oGHs1lHGgoo3Ut6bQwLHhfbQIfNATbErHpKhfCz1gF5NeHJu7TizJXy59Dhe0G2+dLuXyQNOTFt+lTYN/x6/1ZzQFg33o9QXzOTkjMeGj8SnQkGbn39+5V3nGqb8ok=;SCnCmL20wK/CQwDOStxadg=="
 ---

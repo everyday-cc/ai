@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo137843781578"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo137843781578"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: NBC News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "At Least 150 Injured in Clashes at Jerusalem Holy Site"
-    excerpt: "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque."
-    publishedDateTime: 2022-04-15T16:18:00Z
-    webUrl: "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054"
-    ampWebUrl: "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-525573/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Clashes at Jerusalem holy site leave more than 150 Palestinians injured, Palestinian medics say"
     excerpt: "Tensions were already heightened amid a recent wave of violence. The clashes came as Ramadan this year coincides with Passover and Christian holy week."
     publishedDateTime: 2022-04-15T23:11:00Z
@@ -70,6 +54,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 24
+  - title: "Palestinians clash with Israeli police at major holy site"
+    excerpt: "Palestinians clashed with Israeli police at the Al-Aqsa mosque in Jerusalem on Friday as thousands gathered for prayers during the holy month of Ramadan."
+    publishedDateTime: 2022-04-15T17:44:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-israel-palestinians-violence-20220415-n36p7g52uzdtbe7ezbgmsf66oi-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 24
+    images:
+      - url: "https://www.baltimoresun.com/resizer/TMq7PsBM60x23_2ejT1CM6sccng=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/J7E7SDM5ROWSYEWZK4LMRFTX7U.aspx"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SdMVkRj00BpEp+ZLp0jSVik3kwF4oxFYRwjqbZ5chDl3LV+xQP7NJy5is/XWR6uCgyyHvdOEV5v7QbZYVdBN7lcwOtyuwGPKUrDC+ynKqR7qO51+Rg2Kw9HyGJAPmKZXrQQ18/ByTH08sta3iQJY8disN2N6AF1XqNb1LPnTt3bNZpzAuqu95DxTw/Sj2EpCi0Qcb+7tgk/qeJeLRlPdA5uX9gEeAFSLGse/ppsxTf7LW1dtwfdO7xNmEG37eBW3FzVVft+y8LRmclR79DxQ8+hO8iSHio6oQsMdd60FvbJx7dn/LSCfIOblR4iRF8C7oarXeq2u3NjdNTC323NFY7Vp+k38dm2fraS3CFVnXRM=;Eox+ZISH5CduN9YQLVCA1g=="
 ---

@@ -2,6 +2,274 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-03-01-corticalio-adds-contract-intelligence-to-document-processing.md",
+      "title": "Cortical.io adds contract intelligence to document processing",
+      "excerpt": "This technology leverages such tools as computer vision, machine learning, natural language processing, and optical character recognition. But when it comes to delving deeper into more complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
+      "originalUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1354189829-1-e1646064906433.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/28/cortical-io-adds-contract-intelligence-to-document-processing/amp/",
+      "publishedDateTime": "2022-02-28T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-state-unemployment-agency-will-stop-using-face-recognition-to-check-identities.md",
+      "title": "State unemployment agency will stop using face recognition to check identities",
+      "excerpt": "The Massachusetts Department of Unemployment Assistance says it will stop using facial-recognition technology as a way for people to prove their identity when signing up for benefits. The move comes three weeks after the US Internal Revenue Service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/",
+      "originalUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/MGEoWw2TtaWnS4wd5Avgd_eOHj4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3CVOCIQ6SNBZHFBHDJK3DHAYV4.jpg",
+          "width": 506,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/28/business/state-unemployment-agency-will-stop-using-face-recognition-check-identities/?outputType=amp",
+      "publishedDateTime": "2022-02-28T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada.md",
+      "title": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada",
+      "excerpt": "Tesla begins rolling out Full Self-Driving FSD Beta in Canada. Only users who actively apply and pass their \"Security Test Score\" can try it",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
+      "originalUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/02/Tesla-Autopilot-a-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/28/tesla-begins-rolling-out-full-self-driving-fsd-beta-in-canada/amp/",
+      "publishedDateTime": "2022-02-28T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028.md",
+      "title": "Speech Recognition Market Growth Rate, Top Players Analysis, Statistics, Revenue and Forecast till 2028",
+      "excerpt": "Market Study Report Adds New Research On Speech Recognition Market, Which Is A Detailed Analysis Of This Business Space Inclusive Of The Trends, Competitive Landscape, And The Market Size. Encompassing One Or More Parameters Among Product Analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-top-players-analysis-statistics-revenue-and-forecast-till-2028-2022-02-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-28T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ukraine-conflict-forces-face-recognition-and-tracking-challenges.md",
+      "title": "Ukraine conflict: Forces face recognition and tracking challenges",
+      "excerpt": "(Sergei Malgavko/TASS) The Russian and Ukrainian militaries engaged in the conflict in Ukraine have several difficulties to overcome around force recognition and tracking, and the so-called ‘fog of war' may hang heavy. Unverified reports state that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.janes.com/defence-news/defence/latest/ukraine-conflict-forces-face-recognition-and-tracking-challenges",
+      "originalUrl": "https://www.janes.com/defence-news/defence/latest/ukraine-conflict-forces-face-recognition-and-tracking-challenges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.janes.com/images/default-source/news-images/bsp_14042-idr-16471.jpg?sfvrsn=8814913e_2",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.janes.com/amp/ukraine-conflict-forces-face-recognition-and-tracking-challenges/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/ukraine-conflict-forces-face-recognition-and-tracking-challenges/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
+      "publishedDateTime": "2022-02-28T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-driving-inclusive-prosperity-through-self-education-and-fiscal-action.md",
+      "title": "Driving Inclusive Prosperity through Self-Education and Fiscal Action",
+      "excerpt": "Growing Black Wealth Self-education was a prominent theme, particularly for young entrepreneurs looking to grow their wealth. Jacques, the youngest on the panel, who started his venture capitalist (VC) firm while still in Harvard Business School,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action",
+      "originalUrl": "https://www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/driving-inclusive-prosperity-through-self-education-and-fiscal-action?amp",
+      "publishedDateTime": "2022-02-28T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-how-levis-uses-ai-to-accelerate-its-design-process-and-digital-transformation.md",
       "title": "How Levi’s uses AI to accelerate its design process and digital transformation",
       "excerpt": "AI can unlock so much insight in so many different areas, like sustainability. If we know our fabrics really well, and we know what happens when we wash them, we can start thinking about how we ...",
@@ -911,273 +1179,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence.md",
-      "title": "Unfairness in Competitive Sports may be Overcome by Artificial Intelligence",
-      "excerpt": "Doping — the use of banned substances in competitive sports may be scrapped with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "originalUrl": "https://www.medindia.net/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/olympics-based-exercise.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unfairness-in-competitive-sports-may-be-overcome-by-artificial-intelligence-205865-1.htm",
-      "publishedDateTime": "2022-02-27T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-why-voice-assistants-could-be-the-future-of-user-experience.md",
-      "title": "Why voice assistants could be the future of user experience",
-      "excerpt": "The next generation of voice assistants will live inside apps and be deeply integrated with the app’s user interface and workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/",
-      "originalUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/headerimage1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/27/why-voice-assistants-could-be-the-future-of-user-experience/amp/",
-      "publishedDateTime": "2022-02-27T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
-      "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
-      "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621bb520766538529bd5d84e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/02/27/unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions/amp/",
-      "publishedDateTime": "2022-02-27T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge.md",
-      "title": "NASSCOM CoE- IOT & AI launches third edition of Healthcare Innovation Challenge",
-      "excerpt": "In this program, there is participation from hospitals, diagnostic chains, insurance players, pharma companies and government delegates, technology enterprises and deeptech start-ups",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "originalUrl": "https://www.expresshealthcare.in/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/27202523/98148b81-8f28-4b5c-a222-55b360195244.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/nasscom-coe-iot-ai-launches-third-edition-of-healthcare-innovation-challenge/433791/",
-      "publishedDateTime": "2022-02-27T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist.md",
-      "title": "Cheap Stocks To Buy Now? 5 Fintech Stocks For Your March Watchlist",
-      "excerpt": "Do You Have These 5 Fintech Stocks On Your List Going Into March 2022? Those who invested in fintech stocks have been on a roller coaster ride over the past few years. Many fintech companies skyrocketed during the pandemic due to the increasing adoption of their products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "originalUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cheap-stocks-to-buy-now-5-fintech-stocks-for-your-march-watchlist?amp",
-      "publishedDateTime": "2022-02-27T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-can-911-staff-shortages-be-alleviated-by-ai-technology.md",
-      "title": "Can 911 Staff Shortages Be Alleviated by AI Technology?",
-      "excerpt": "As government call centers grapple with the nationwide staffing shortage and an influx in demand, some are implementing artificial intelligence tools to improve wait times and accessibility for callers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology",
-      "originalUrl": "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/b50a7b2/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd3%2Fca%2Fbb56bffc29ca615bbb2330a88b5c%2Fshutterstock-call-center-header.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/work/can-911-staff-shortages-be-alleviated-by-ai-technology?_amp=true",
-      "publishedDateTime": "2022-02-26T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

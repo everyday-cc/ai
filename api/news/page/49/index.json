@@ -2,6 +2,295 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-03-05-brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway.md",
+      "title": "Brazilian civil rights organizations call for facial recognition ban in São Paulo subway",
+      "excerpt": "Entities unite in an attempt to prevent the use of the technology amid concerns over discrimination against black, non-binary and trans individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
+      "originalUrl": "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
+      "publishedDateTime": "2022-03-04T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-in-the-metaverse-responsible-ai-must-be-a-priority.md",
+      "title": "In the metaverse, responsible AI must be a priority",
+      "excerpt": "Language technology powered by AI can perpetuate bias if we are not careful. We need to be sure that language AI is trained to be ethical as well.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/",
+      "originalUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1351539611.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/amp/",
+      "publishedDateTime": "2022-03-04T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-telecoms-bet-5g-will-help-them-own-industry-40.md",
+      "title": "Telecoms bet 5G will help them own Industry 4.0",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. Telecoms bet 5G will help them own Industry 4.0  Solving the challenge of integrating 5G and Wi-Fi 6e into legacy tech stacks will quickly accelerate Industry 4.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/",
+      "originalUrl": "https://venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1290973875.jpg?fit=800%2C539&strip=all",
+          "width": 800,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/04/telecoms-bet-5g-will-help-them-own-industry-4-0/amp/",
+      "publishedDateTime": "2022-03-04T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise.md",
+      "title": "Artificial Intelligence in Healthcare Service Market Next Big Thing : Major Giants IBM, Microsoft, Atomwise",
+      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 03/04/2022 -- The Latest research study released by HTF MI",
+      "sourceUrl": null,
+      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-service-market-next-big-thing-major-giants-ibm-microsoft-atomwise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-05-microsoft-completes-197b-acquisition-of-nuances-ai-voice-tech.md",
+      "title": "Microsoft completes $19.7B acquisition of Nuance's AI voice tech",
+      "excerpt": "Microsoft's $19.7 billion deal for AI-based communications provider Nuance closed on Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/microsoft-completes-197-billion-acquisition-ai-giant-nuance",
+      "originalUrl": "https://www.protocol.com/bulletins/microsoft-completes-nuance-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2022/01/microsoft-logo-2022-2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-build-a-cold-start-time-series-forecasting-engine-using-autogluon.md",
+      "title": "Build a cold start time series forecasting engine using AutoGluon",
+      "excerpt": "Whether you’re allocating resources more efficiently for web traffic, forecasting patient demand for staffing needs, or anticipating sales of a company’s products, forecasting is an essential tool across many businesses. One particular use case, known as cold start forecasting, builds forecasts for a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cold-start-time-series-forecasting-engine-using-autogluon/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-cold-start-time-series-forecasting-engine-using-autogluon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7552-image009.png",
+          "width": 913,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-04T08:37:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-ai-weekly-the-russia-ukraine-conflict-is-a-test-case-for-ai-in-warfare.md",
       "title": "AI Weekly: The Russia-Ukraine conflict is a test case for AI in warfare",
       "excerpt": "The Russia-Ukraine conflict is a proving ground for AI technologies applied to warfare. Already, the impacts are coming into clear view.",
@@ -907,301 +1196,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-how-the-sp-500-will-react-to-three-russia-ukraine-scenarios-according-to-a-ubs-machine-learning-model.md",
-      "title": "How the S&P 500 will react to three Russia-Ukraine scenarios, according to a UBS machine-learning model",
-      "excerpt": "Retail investors just posted the longest streak of buying bank stocks since 2008, BofA says Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3-russia-ukraine-scenarios.html",
-      "originalUrl": "https://www.cnbc.com/2022/03/03/ubs-how-the-sp-500-will-react-to-3-russia-ukraine-scenarios.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107023227-16461722922022-03-01t215402z_706840525_rc2wts9a760d_rtrmadp_0_usa-stocks.jpeg?v=1646172330&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-4-ways-conversational-ai-can-benefit-your-business.md",
-      "title": "4 Ways Conversational AI Can Benefit Your Business",
-      "excerpt": "If you’ve reached out for customer service in the last few years, you’ve probably noticed some changes. The face and voice of many service departments are shifting away from human-to-human contact. While robots haven’t completely taken over yet,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/",
-      "originalUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/03/artificial-intelligence-2167835_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/",
-      "publishedDateTime": "2022-03-03T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-snowflake-simplifies-data-app-development-with-streamlit-acquisition.md",
-      "title": "Snowflake simplifies data app development with Streamlit acquisition",
-      "excerpt": "Snowflake has announced the acquisition of data app framework Streamlit as part of an effort to expand its data cloud ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/snowflake.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/snowflake-simplifies-data-app-development-with-streamlit-acquisition/amp/",
-      "publishedDateTime": "2022-03-03T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-prescription-for-advancing-healthcare-artificial-intelligence.md",
-      "title": "Prescription for Advancing Healthcare: Artificial Intelligence",
-      "excerpt": "From Drug Discovery to Triage, AI Deployed Against Top Challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
-      "originalUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/03/research_biology_microscope_healthcare_science_1200x800-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/305679/prescription-for-advancing-healthcare-artificial-intelligence.html/amp",
-      "publishedDateTime": "2022-03-03T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor.md",
-      "title": "Eufy Security Video Smart Lock Combines 2K Camera And Fingerprint Sensor",
-      "excerpt": "Anker's Eufy Security reveals a new video smart lock system that makes smart protection of one's own front door seem simple, handy, and enjoyable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/786826/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/",
-      "originalUrl": "https://www.slashgear.com/786826/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/eufy-security-video-smart-lock-combines-2k-camera-and-fingerprint-sensor/l-intro-1646329682.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-04-an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code.md",
-      "title": "An Artificial Intelligence Rant: Neural Networks Are Not Magic, They’re Code",
-      "excerpt": "Artificial Intelligence.. I was reading yet another document about artificial intelligence (AI). The introduction was covering the basics and the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&fit=crop",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/03/03/an-artificial-intelligence-rant-neural-networks-are-not-magic-theyre-code/amp/",
-      "publishedDateTime": "2022-03-03T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

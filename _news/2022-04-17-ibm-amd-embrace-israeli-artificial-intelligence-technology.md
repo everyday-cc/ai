@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-arti
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Times of Israel
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Unlawful killings, arbitrary arrests, torture, and collective punishment are a lived reality of Israeli apartheid - AI"
+    excerpt: "Unlawful killings, arbitrary arrests, torture, and collective punishment are a lived reality of Israeli apartheid for Palestinians, according to Amnesty International (AI). “Apartheid is not just a relic of the past,"
+    publishedDateTime: 2022-04-20T09:55:00Z
+    webUrl: "https://english.wafa.ps/Pages/Details/128889"
+    type: article
+    provider:
+      name: Wafa
+      domain: wafa.ps
+    quality: 0
 
 secured: "3GRYGM8asWWDBzrdV1kIdTzqbTMH0KX6KxXXuNVuVXmGD7fndNUtqx16HMJHpCdLR/MbHMIcIqdiR2dBWsd6g9e3/zT72aAF56EOKuijKZ5T+S6OQgVlUQ59xx+hZ3mDjWFatwOyT3LPA9YN3CDY19CP36neG55S0FgYB2xWwRM204UbRe09lmIUpP8XrCudlY1okOpemlanXzyoff/aUhnIaLfqzvDEamLxeTZRODLUcUxNKPeCaUjufI45hTgNrxYOFFbKTTxRXe68wsS68poPdCVZoHPzMonfwvosaCUx1TD5CUjAh6/b6iEnvIkam+5yh1Z1JFB9fti3HUKWa5VNvxrm027n1h183pbHBis=;N+058EC0Gn19jDQC/uBJUQ=="
 ---

@@ -53,6 +53,20 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "5 key tech priorities for fintech leaders in 2022"
+    excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
+    publishedDateTime: 2022-04-20T09:44:00Z
+    webUrl: "https://www.finextra.com/the-long-read/388/5-key-tech-priorities-for-fintech-leaders-in-2022"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/388.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
     publishedDateTime: 2022-04-18T04:34:00Z

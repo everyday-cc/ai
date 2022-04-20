@@ -99,22 +99,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Ukraine Reportedly Using Facial Recognition to Send Photos of Dead Russian Soldiers to Their Mothers"
-    excerpt: "Soldiers in Ukraine are using facial recognition software Clearview AI to identify dead Russian soldiers and send it to families in Russia."
-    publishedDateTime: 2022-04-15T17:04:00Z
-    webUrl: "https://futurism.com/ukraine-facial-recognition-russian-photos"
-    ampWebUrl: "https://futurism.com/ukraine-facial-recognition-russian-photos/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukraine-facial-recognition-russian-photos/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/04/ukraine-facial-recognition-russian-photos-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Ukraine has used facial recognition tech to notify hundreds of Russian families of dead soldiers: report"
     excerpt: "Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the"
     publishedDateTime: 2022-04-15T18:56:00Z
