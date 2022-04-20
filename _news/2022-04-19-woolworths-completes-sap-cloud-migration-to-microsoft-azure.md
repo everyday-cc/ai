@@ -41,21 +41,19 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "CHICAGO, April 15, 2022 (GLOBE NEWSWIRE) -- Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization ... application development and data & AI. As a Gold Microsoft Partner ..."
-    publishedDateTime: 2022-04-15T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26651349/kin-carta-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-speci"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26651349"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26651349"
+  - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
+    excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
+    publishedDateTime: 2022-04-20T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-6-alternatives-to-microsofts-deepspeed/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."

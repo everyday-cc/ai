@@ -2,22 +2,28 @@
 category: news
 title: "BioXcel Therapeutics Announces $260 Million Strategic Financing with Oaktree and Qatar Investment Authority"
 excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI) (the “Company” or “BioXcel Therapeutics”), a commercial-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
-publishedDateTime: 2022-04-19T11:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584691.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/04/19/9584691.htm"
+publishedDateTime: 2022-04-19T12:00:00Z
+originalUrl: "https://wreg.com/business/press-releases/globenewswire/8524372/bioxcel-therapeutics-announces-260-million-strategic-financing-with-oaktree-and-qatar-investment-authority/"
+webUrl: "https://wreg.com/business/press-releases/globenewswire/8524372/bioxcel-therapeutics-announces-260-million-strategic-financing-with-oaktree-and-qatar-investment-authority/"
 type: article
-quality: 0
-heat: 0
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WREG
+  domain: wreg.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "CKnITODETMknI/sDDjV7R2VTcslWcTCYkgP4IxTg/zSZ2PgqAWUuc4WWHI8WS3aczLTtIU618nGQlXB7on4XTC14eazK2C3w9SxDuq3tbh+xzbgt0dxNn5w1qARMmpISxl+MvP31F5dbwGtNQpWDF9XBjLMF09aHVkGyBx3neI2ASc1QrVxO0APbOlUXujvMDTQ3/IwOkg9eWrdgGBJ5f1bM23Btwc1qSQEhBZVeY7fUuutex0B5YDXcAqmxJd5bxDC3Fs5jbeg2RZzJ9Dx+K2jXcet9ypvrg1tmMyYAykdLBZOrwF0KM0wEewB/dDoyQ1SNhIFZ3TAkgnB8bCXpC8L+6CJzqr5c8Eq/uPFHK5w=;xlr5Tz/66O0aAzqZRvwheQ=="
+images:
+  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
+    width: 800
+    height: 268
+    isCached: true
+
+secured: "qfO3o3EoBaObT0lUUDB+/59YzWGsJu34EOyFr5v3JnIrExIWHZxnQN1PMlmbkO/g567ijt7p+1XG8ICkTMf+dAZtE7uI6YfRuv51gefU5jNzpnLda1vCSW7nH5pmBul+lPKC4uq3gDQ3AgMJM4GWXdoFlpYYYvGDjgJuEPpVB+tL7rIpB7OKIjpsppV+8+6o0ecpXp/tXGzPididIiKqjP0MxKLgHmPHzE139y1NTtFKF3XAVysQ+oeQGVEHd0dK9+UmROgna2Mhvurb9olp7agS9mpVmfIhSm6vkzatbkgO1ttomwUEc2WwsjX5a3tVwYtuhMyVgGzfvn1+TV/l442GXidGi83WqO814wddn/E=;Axq6iOwX7gA12NE6febUhQ=="
 ---
 

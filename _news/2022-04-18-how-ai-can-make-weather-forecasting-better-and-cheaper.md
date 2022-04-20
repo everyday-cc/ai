@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How WebAwards Is Using World’s First AI-Powered Jury To Better Judge Websites On The Internet"
+    excerpt: "There is something on the internet that people use daily, but do not appreciate enough. It forms the core of the user experience in cyberspace and has seen a myriad of changes since the very inception of the World Wide Web."
+    publishedDateTime: 2022-04-20T04:34:00Z
+    webUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/"
+    ampWebUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 46
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "c0/wYvcOLR003xYHj3YXHUclZjxAhYhzu1iUgyJbknpW96fMq+toyyNBmIT/HczP9GPbBxPLJNG71p+vcUq6paDwZB8R6CN5Dy0n+WEwx1svgI7OwH0/hQzgUf59qAea7eGBtBJpJLP87/Ud7V8ndK96Bx1k0+r3utEINYZyyJORmEqRPw8OikYcrLY3ERn6jnMd2+ywQqW0DbBlyDTED1GVVM6OHp71SxbSfiOxP3og3tnO8qhL38cxfM+uKxFnSRgOMmG6MpixpotSoAH4cQdbqfRLrggKU2JopELWtvrB848mkA9uMowJannNbdTVwlEUnqyfrOSIDjtc1slIAyS5ZARrdTzUffoxBNfv7gI=;Kz4B1zdJRZhau9GSs2uJkQ=="
 ---

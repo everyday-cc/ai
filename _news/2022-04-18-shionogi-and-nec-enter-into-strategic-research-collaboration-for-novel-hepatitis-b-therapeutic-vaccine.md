@@ -50,6 +50,17 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 0
+  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
+    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
+    publishedDateTime: 2022-04-20T05:16:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company-1031361404"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 0
 
 secured: "96l7ReX8FC1TUS2qtUZUEZqGkAkzujplrRd0pCtmd8rJKFAYzepszvflrdZRKIjyZFzLriQkb6dnMqEWkdWgPNpXnD1L77yDbw3zZHRk3Tmvl3Y3Dwpv/P+5onGB//Uec6C+BprsCm5B8PcauM/1adE1/k6nC6MF85UYU7NE/0uukdfIX8mzYGQmsrwgk/hxZx/AzIXscf/BObIJ+CizfOsWSXzLLkOGdjbsUpzTlKFxvLbg/NalIpqyVNxcLErZMk5EZFQLRCmTsOk/uOyC8eNB4NY3mqmaGeqB2SBJNiyar/DzmSwq2ACRxPvU6vFxtGS3+4YJFkoJKeOgtk1S/wYUWcE0N49kekhEKwYeCSZIlBgZE9mll7YSDs8xH1qGZLg+SWnan90svJ6xpGxK/Yw4/nSSVwlHq0RXf88lr/nQok0Qa8xXEsXO5cGBPg691i9DkSAZFJugsdSFp38Y791uiSHlv8fK1wpeoHvQqxr2OkJBkXwS07p3ll2E+jj2FauPsok08qq/SZ/iOiGgJg==;DT55j1BYLMyuuyg3bTrqmA=="
 ---

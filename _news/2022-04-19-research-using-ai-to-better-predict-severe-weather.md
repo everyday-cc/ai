@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-pre
 cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: KJRH
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How WebAwards Is Using World’s First AI-Powered Jury To Better Judge Websites On The Internet"
+    excerpt: "There is something on the internet that people use daily, but do not appreciate enough. It forms the core of the user experience in cyberspace and has seen a myriad of changes since the very inception of the World Wide Web."
+    publishedDateTime: 2022-04-20T04:34:00Z
+    webUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/"
+    ampWebUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 46
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "How AI can make weather forecasting better and cheaper"
     excerpt: "Many nations facing the ravages of unpredictable weather patterns lack the most modern tools to plan for the changing climate. A US startup says artificial intelligence programs are the answer."
     publishedDateTime: 2022-04-17T23:33:00Z

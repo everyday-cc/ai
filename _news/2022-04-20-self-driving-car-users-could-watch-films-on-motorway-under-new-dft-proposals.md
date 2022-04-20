@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Highway Code to see major change to accommodate self-driving cars"
+    excerpt: "Changes for who is responsible if a self-driving car is involved in an accident are to be included in the update."
+    publishedDateTime: 2022-04-20T05:52:00Z
+    webUrl: "https://www.countypress.co.uk/news/national/uk-today/20079461.highway-code-updated-self-driving-cars/"
+    type: article
+    provider:
+      name: countypress
+      domain: countypress.co.uk
+    quality: 24
+    images:
+      - url: "https://www.countypress.co.uk/resources/images/13694621/"
+        width: 1049
+        height: 584
+        isCached: true
   - title: "Self-driving cars: Motorists will not be liable for crashes and can watch TV behind the wheel, government says"
     excerpt: "Insurance companies rather than individuals will be liable for claims if vehicles are involved in collisions, the Department for Transport said."
     publishedDateTime: 2022-04-20T00:12:00Z

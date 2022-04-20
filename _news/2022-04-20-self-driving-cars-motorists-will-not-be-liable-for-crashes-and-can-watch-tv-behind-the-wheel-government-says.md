@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Highway Code to see major change to accommodate self-driving cars"
+    excerpt: "Changes for who is responsible if a self-driving car is involved in an accident are to be included in the update."
+    publishedDateTime: 2022-04-20T05:52:00Z
+    webUrl: "https://www.countypress.co.uk/news/national/uk-today/20079461.highway-code-updated-self-driving-cars/"
+    type: article
+    provider:
+      name: countypress
+      domain: countypress.co.uk
+    quality: 24
+    images:
+      - url: "https://www.countypress.co.uk/resources/images/13694621/"
+        width: 1049
+        height: 584
+        isCached: true
   - title: "Highway Code changes: Watch TV at the wheel in new rules for self-driving cars"
     excerpt: "Motorists using self-driving cars will be able to watch films and television at the wheel under planned changes to the Highway Code"
     publishedDateTime: 2022-04-19T23:01:00Z

@@ -5,8 +5,8 @@ excerpt: "Victory marks milestone for AI as bridge requires more human skills th
 publishedDateTime: 2022-03-29T05:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 webUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-ampWebUrl: "https://www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
-cdnAmpWebUrl: "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/mar/29/artificial-intelligence-beats-eight-world-champions-at-bridge"
 type: article
 
 provider:
@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcde804560dc891607224871a6e80c44"
-    width: 1200
-    height: 630
+  - url: "https://i.guim.co.uk/img/media/d8c69d04629d9134fa97a4e9bd21e535e527d028/0_38_2401_1441/master/2401.jpg?width=620&quality=85&auto=format&fit=max&s=96b559e5e97e6b4eb1d1e90d48241536"
+    width: 620
+    height: 372
     isCached: true
 
-secured: "l5iMq7ItFRIyAc/ujHXA9mmq1njg8Yg2XaRxa8d8vrf7oV7hyyl8jDWISbUf6zA9nr+6GVNXO33hTIMtsPlT7nYU81HRE7sl//005mDOdRapd+UfohMt+jgxz834cX7LvWeDO42zUd4E2wmYisCXyT5n7DrUHpa74GIb8Fzqjnu4JgRNBlMZ7Wa42oIWmDF+ixQbXb54zcAMUTh1IhTlN1hROZYTqX1tLoxKHKunkDDb2PV394I/2lOyEpyggC+EjoTc+0WUx1MBDb9u/0WtqWoUEd6XKNquO+tNLk8B2cy0t6PangrT5hYUsY4B1SbbqD+I0Qwf0tLKF6aDvF/c4g8j43toj8T01tgf4WOZCVs=;niB6Exa+RbmYS8bTqHLngA=="
+secured: "MJBk5Ca3ED1WO9mAgENG4AE6t35MasOB4v87A7C3noXF5NR8BZxOf/yViU4eMfCjraTp55kPiYWB0vKKcnFpd1C5tQ636tJA41bm0HGLAEISUy0eS9TWO/vd2QmKvT/L/w6EDAlY4nO0GS/mJT3A7b42g/KBbJ5INfw1UaehoUiqqAvcILz/fbUCmcUf5mS3geq3IMpV2+9M1cGAabUos4bzs5Ndac8SA2dC0JxatFPJbHUjllDh2jbSoW2NpNYQJdtmWkK1/sR/E0o1T4KLy6MDsN0JUIRs8SOcCPQRXgtS7VUZ6shi22ASBdH86xr+WfV1t9il7aFAy8QHOiaFjvrUlknsPjVVBnDmy/Aqo3c=;Iv5zQqaejzJTLtQieZLjgw=="
 ---
 

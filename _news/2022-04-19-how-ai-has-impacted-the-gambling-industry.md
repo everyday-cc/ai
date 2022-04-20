@@ -88,15 +88,6 @@ related:
       name: Play Station Universe
       domain: psu.com
     quality: 19
-  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
-    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-04-15T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "zNztfZ+sRfTsADER3GyQ40LtwpfhhPLF3EQOX+qDttp2qQamimyXJBxwso/TGaL23lDjxjfnnBUSHA8X2zc9MO9pJV4ZuSvyIKncDdmFXnPtPdjKPw+5N010MMN6OTYaQEGTZpVufCliWw6tCMFbIs3ExOeFyU0T0rvzcNTFwZErLJlb8x2yrpM/H/zqn+h6VtcHZ/qOig8Y0ivM4JKYFK1hKCiR0ShvnV/GetxISQD34TZrRC05MAIaku0rXgOXb0uUmzLlvxSW0VTMjZx7IEkWpAcnMX2rxxw4/hZ13r/BE+EI3zgYyj6G/8jcND+APmx4QOf2RctMmIIOW0QTo+zNwyP3Ln14m3IZFe1KwKnD1iWomxvNQlVXLZ4nHGJpXDRS5OJYAm6+I1/xi5ocCEfsL8OHpKjn8TPCxR/GIS/9ZtyWcvQkaP4asku5Jtfeqi4o6QLJaCAVgGurAMSWavfTiLYqh5Q7cJyu+0o6Mbux9AEcf7dX8W9BlJbSB/YNLh94rUiwT65Nuk2rDabjnQ==;/8K+BnoJGE/NVuO3A5PFqw=="
 ---

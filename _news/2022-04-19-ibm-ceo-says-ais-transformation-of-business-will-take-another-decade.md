@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibm-ceo-says-ais-transformation-of-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-ceo-says-ais-transformation-of-business-will-take-another-decade-11650360601"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

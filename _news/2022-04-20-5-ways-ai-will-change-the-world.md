@@ -88,15 +88,6 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
-  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
-    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-04-15T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "WF1DbeVR0tCauRMpFqxs3RiRb2HkQ+A3DDaAzKJwDSeSCKKEbkSX2UbQmNlWFjwEKEDyLpbi+PVtHxgvkGxT713g9V8YwJnMhB+oOnH7zAS190Ja8DmzBb68Z1rqaOcbSLDZdSs5fD7lTGhmCcl81YAukJbQiYWv3G9x5nDw7q66pVDrb4rTvKfj1e4vV00D7OfC43SEZzYJz7tzohNBPNY/nyoqvpmV5WiHANTzfvW8PFEVDi2dMt0RDoSAzzvazt0taoKkVO5Or/iyhUgtaK79IXL51JObtKXOHRRDR8muNaurYjoMUWDYQ9nc2Cc8C9C6McMI0qq6SO3RjzzHQz4wPaAsKBBm1nC4eYKPUX/ZTmFvpYsDiiNbguT/RRWGxL4vXADh4g5QHo9vag48cgqAiJ7bErIJXFTDiI+u3UU/NqmLd23QASHh0eHQu6Zhjk9FkhkIqEX+EvyrwxLDHKB3HmnRerVYb1URCU6Cn9l8XcIMnS5pgI5GJ5TdSxk1DDhlmMg2HPyURtYM3mRPvg==;fBg4zWtjwv07XEtDFL2wFg=="
 ---

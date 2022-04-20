@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
       name: Play Station Universe
       domain: psu.com
     quality: 19
-  - title: "Outlook on the AI in Medical Imaging Global Market to 2027 - Increasing Number of Cross-Industry Partnerships and Collaborations is Driving Growth"
-    excerpt: "The \"AI in Medical Imaging Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-04-15T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26650710/outlook-on-the-ai-in-medical-imaging-global-market-to-2027-increasing-number-of-cross-industry-par"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "5gnUuEvVhm7zSrBpD3QcXLhAq+3bUliCpLIjXmIqzu+HGpwNTxqfhXHO1juKzrYvrrXLEp+aQwIG/WyxZlz5h36/HVal4i6kUgfGUo8jvuydH+WSiJPyKP28Y0okmFQzdHMuMzp0DBCdLEdumPj35Yf66zrkz3bZR33Fa0KWXwT+zaDgfjYC6uJIFEAuJ5NYOGGmCOCpioXtfuMnBLuHB7rn7qbX0MJZwaGnYyt4dkprt0wBxrHEchuV4m7ksnEVzpfchfEzuI7b/VCqte5e7VdQ9tq4CBZex/orSxogfFF/7iLlZ1ULmJcCiVxGyZglSPKMDFILfFSrpvO1MNFt8E+tRDCMGt6KDxtWr2qgCzc=;4RfmLuFoJjk5aTQ3djsSbQ=="
 ---

@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 658
         isCached: true
-  - title: "15/04 – Weekly Fintech Recap"
-    excerpt: "Partnerships Bitfinex Collaborates with OpenPayd to enable SEPA Payments Bitfinex, a state-of-the-art digital token trading platform, in collaboration with fiat on-ramp services provider OpenPayd, is enabling real-time Single Euro Payments Area (SEPA) payments for euro-denominated deposits and withdrawals."
-    publishedDateTime: 2022-04-15T11:54:00Z
-    webUrl: "https://financialit.net/news/payments/1504-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_8.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Fintech start-ups frustrated by red-hot recruitment market"
     excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
     publishedDateTime: 2022-04-16T05:03:00Z
@@ -74,6 +60,20 @@ related:
       - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "Fintech Liquidity Group gets $775m in capital commitments"
+    excerpt: "Using AI that does due diligence within 72 hours vs. an industry norm of up to 12 weeks, Liquidity has provided more than $1b in capital to companies."
+    publishedDateTime: 2022-04-20T04:25:00Z
+    webUrl: "https://www.israel21c.org/fintech-liquidity-group-gets-775m-in-capital-commitments/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 24
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2022/04/liquidity-main.jpg"
+        width: 1600
+        height: 898
         isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
