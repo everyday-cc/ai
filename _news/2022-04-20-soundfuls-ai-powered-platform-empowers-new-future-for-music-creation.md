@@ -48,6 +48,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI music startup Soundful raises $3.8m seed funding round"
+    excerpt: "There’s another new artificial-intelligence music startup on the block: Los Angeles-based Soundful. It has just raised a $3.8m round of seed funding for its AI-powered music creation system, which it’s making available to human musicians and social media influencers alike."
+    publishedDateTime: 2022-04-20T10:49:00Z
+    webUrl: "https://musically.com/2022/04/20/ai-music-startup-soundful-raises-3-8m-seed-funding-round/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://musically.com/wp-content/uploads/2022/04/soundful.jpg"
+        width: 1500
+        height: 500
+        isCached: true
 
 secured: "pTKyhWS1Ri7t0QAgYLsoKcoYuz2U9mzFV7Cc9DwoJKSnV9rZeg1WIPq+NpWxeNqeqsPEjZDKlLiQevomqqzD55IVVY8/4ROsNhA3BI0oTRvRQLej3LrqMJ2KVNkl3A+545i11Nrn71UE6n8aMr0xWE9/wJ+dFpOuqAQ+L3l6KAy+PLlPYemZkzEK9hYN4RQIpv1ihBiwPvNwX0XHcThLudb/DOU+sUwKV9Dm2s41l1WCe7UUwRGlLUwLpZolWnj7dfhzDwEULPcaECNcjWowGWgDeboOT9cr0UQqTbFIpUrhs9RROf6DEbPcAXhqzvc9vWU/mSKZWSGP4EjtFmUSKHejZCbz8aOOF8bLygXWZoA=;JNjQQXh9N5P/BRZQWxxRSw=="
 ---

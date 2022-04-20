@@ -38,6 +38,38 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Microsoft announces two initiatives to support startups"
+    excerpt: "Microsoft AI Innovate's second season is inviting nominations from SaaS (Software as a Service) startups whose core applications or services are built using Artificial Intelligence (AI) technologies."
+    publishedDateTime: 2022-04-20T10:19:00Z
+    webUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/"
+    ampWebUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/04/microsoft.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Microsoft announces two new initiatives to support startups"
+    excerpt: "Microsoft AI Innovate will introduce its second cohort, while a hackathon for startups will provide developers with support and resources for creating digital solutions that will help empower social entrepreneurship,"
+    publishedDateTime: 2022-04-20T10:59:00Z
+    webUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 59
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/shutterstock_175315118-e1647517247822-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
     excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
     publishedDateTime: 2022-04-20T04:30:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Gupshup Acquires AskSid, the Leading Conversational AI Platform for Ecommerce and Retail Companies"
-excerpt: "Gupshup, a global leader in conversational engagement, announced today the acquisition of AskSid, a leading Conversational AI provider to top ecommerce and retail companies around the world. AskSid’s full-stack AI solution including the Retail AI brain,"
-publishedDateTime: 2022-04-20T05:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/gupshup-acquires-asksid-the-leading-conversational-ai-platform-for-ecommerce-and-retail-companies/article_217a76e6-00cc-5186-9ded-ee0129c84430.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/gupshup-acquires-asksid-the-leading-conversational-ai-platform-for-ecommerce-and-retail-companies/article_217a76e6-00cc-5186-9ded-ee0129c84430.html"
+excerpt: "Acquisition strengthens Gupshup’s AI-powered conversational solutions for Ecommerce, Retail and Consumer Goods industriesSAN FRANCISCO & MUMBAI, India--(BUSINESS WIRE)--#AIsolution--Gupshup, a global leader in conversational engagement,"
+publishedDateTime: 2022-04-20T08:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=649541"
+webUrl: "https://us.acrofan.com/detail.php?number=649541"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 628
         isCached: true
 
-secured: "rEMr8/s4zwmN+TM5vvcv44zjVcpedZXn5dvgKNiCpGpPztrFgaUUSCIPDU2fIX+9hYZJyp5sCIeyo2hpY3wtep1YFSXPxxYYixbe/jUI3Yf8/dBGeUiHuxgcRI2VJb5ba6kzLBqy+qOapnuiGEcdWeqihnLHD9jdJ5yY1MnnwI/bkYcS1xR480jSYR7fZ4+mawa0Vas/G4JHhzEeHwC720g1Afb6AlVGJzN14GTPv8XNfqSmLZgX+N3VNb5fjl0TXuBXprZSCqfrTbZgJf8NXp2W0YFZ6sqo2lnXEI16TGFMDk5IPoteb9xiezrGOY+nwXodQl4CVyAvawyEP88FevHSJOGpgAFA2t26DnY5v9qVPYv0z88ImKpv8ZD69Ht8ziMKvy/vR8djNkLGxMB9s245D4OWkJkjfl6I9i8RiCYU4nXrF25q2bOZK/LlrmTm5aZZFPB0/inIHGgI01RT8oxvG2xavrO4zhufz+uAhmDRuJVhXjUY7Ywl36oI0fiqEMzbtu7+y2eFi7/RQ/YQcg==;lHcnKEm0bZKci9HUaN8/jg=="
+secured: "iYLmkP3fuPnRwCE4HT6AclM0/jrkR46yU5a+AGtIap/xZqpB0GbZTL/olBpbUb+MM5PnXdxmqyj0WgT+6IJnIaO/JWrRwwE59TgXC8tuaEfYHSoojRYLU149/FOMb7WlFO/HqfG+QXYriQU2wSI+RFKCqvlz44JDlN0fh4n2DdlhT6mBxPujH0onZkiEzcPzJr2tWcJI09V4/DOnXDSM252we7kbXu6jtQ1Mg6hvt9k7gGcpzGW+Ux8AXraIzXAvS6KEPYUjLsaV0FBMxkQo8+kzVglNqY/Ch7DSRzUudt+XKuxQ1R8atRq7UhF99AXICvdlxDdM2pvJYRV79YZeVLDJ0CW19F65xTdg0SsS8tY=;KdXIV1sB/IwtkNJpxeBjQA=="
 ---
 

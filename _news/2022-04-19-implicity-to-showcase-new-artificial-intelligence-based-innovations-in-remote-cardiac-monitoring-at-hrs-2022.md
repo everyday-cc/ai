@@ -1,21 +1,20 @@
 ---
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
-excerpt: "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ..."
-publishedDateTime: 2022-04-19T13:30:00Z
-originalUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing IL"
+publishedDateTime: 2022-04-19T12:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-implicityreg-showcase-new-artificial-intelligence-based-innovations-remote-/2022/04/19/9584947.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-implicityreg-showcase-new-artificial-intelligence-based-innovations-remote-/2022/04/19/9584947.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: CBS 42
-  domain: cbs42.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -34,6 +33,6 @@ related:
         height: 290
         isCached: true
 
-secured: "IvPOHa9QsK4Vqbc2w7olS+JMg7B2fhGmRy8cqD6JVPtmhcfBZImwjkAu+q4E/AB9QoeC5fHuDeiuJj4mzKeLSPcNCC1+1vyAcubWkClmseJTEovFCXM9op3cV75MeglgSKqFcARYj+tvXWxgZu8/VQk05H/3gmTIqRLIEdBtn08p6rSrqaifww5VfE6ptm4DIKLZw21EAWy0aPFrqZ9sFlGU4YKjrd2QTix7smGFhUmC2Izt778cgFYSGVlPSj3vS9kXXEIUo7gqwaAg9+oHxAx3U53OuRM7hKGjkco/q0wYPXm110wKAhbGAl4FLCX383tjFcA6+/oE4L2npipB5wxRPstsPmniSPTL+DaxK1M=;a0zkSkAkiOHLsKuGfFN/9Q=="
+secured: "1uz5UM5w3aLrNE4MOBKu7reGDnZH8rdo7sL94HvdG5cUWrBt9gZFgUZv6gN4eWCtlWCf5dmC1ObqY0gT+KlxQdNEM9K0E1vRHL4OYf1fD8AUXc3xncsHymRZFuhx8tKffKD+U0qiexy6fBvFDLIMM83K9qNxwGfY3epHBHwQ2dsYPrBDEPURm6A1dNthMaZt+w7HlikSGS3b68cmeysTVLqGeyQbtanHGU8GoYZNAJ9LJS2dSzFzmEass9XgUjigw4AYNimi3LqBiPavqI8KYKvMucZO5YMTnE4d4/lrm8A5YT2/FyuQEFwZ8R0btO9wJOwOQxlr9CpDtLlL6OPDV50HV+zkaths4+aFkvBfSKM=;geMxRXOwTU2zPXWuGl/8NA=="
 ---
 

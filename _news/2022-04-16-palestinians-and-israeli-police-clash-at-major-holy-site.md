@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Palestinians clash with Israeli police at major holy site"
-    excerpt: "Palestinians clashed with Israeli police at the Al-Aqsa mosque in Jerusalem on Friday as thousands gathered for prayers during the holy month of Ramadan."
-    publishedDateTime: 2022-04-15T17:44:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-israel-palestinians-violence-20220415-n36p7g52uzdtbe7ezbgmsf66oi-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 24
-    images:
-      - url: "https://www.baltimoresun.com/resizer/TMq7PsBM60x23_2ejT1CM6sccng=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/J7E7SDM5ROWSYEWZK4LMRFTX7U.aspx"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "R4e4x2CmuI5b0VJqDzhjJYbN6PZ59b4o/yCWom4YwMRDB7FVU9GHlXnEx7tS3DtjX7pqOWLAwPNd8yqa1t0SPauuB5MhF3nml/3/8DRHhbsp9lXnK7e8AAGdtvsSiFkAg8DICScxe23XHakp6c6rpSZvyDsqXksXgvbnIRWauJbAKcD9gZDaazl+4NTPLY0LVUn4Y7ylaX+P2yJeqNgPBwzoJSMegIYDO+AMd7OVgBTbBFmJkeMosX/Huu/QpmfHkVAX/Id+5DDuwcAKppoACRwmdX5RvmcvUaXBCjwfwmMH99Dq7HKbvMdKQBI75gntcR+VxQrnglJWQZOMsmB1gWnt/tCIBr8wCPuhuiW5HDhCkzwWKr0PIn+OJyu8MjAym+EC4QQfk5KFAfAZ7EC9q6pu3kIqT72CPdBPCzFylIXIpmAJzc4lec5wMNV3VlclOfs62hDAUHv7JTT2s4hEGe6RCgPfrw5Lao9E/4YBlf92keHX57cRwdDFPEGUdmASosMSmUHR8Ybk9kb4ZRpSQw==;2wVkRLqTYUbexnAdlKzcZA=="
 ---

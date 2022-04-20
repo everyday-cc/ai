@@ -1,31 +1,31 @@
 ---
 category: news
 title: "How robots could help solve the US recycling problem"
-excerpt: "Recycling on a large scale has always proved to be a challenging endeavor, especially as the production of plastic surged exponentially after"
-publishedDateTime: 2022-04-19T11:36:00Z
-originalUrl: "https://www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem"
-webUrl: "https://www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem"
-ampWebUrl: "https://www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem/amp"
+excerpt: "Nearly 300 million tons of waste is produced in the U.S. every year, according to the Environmental Protection Agency. The need for automation in recycling centers is \"obvious,\" Matanya Horowitz, founder and CEO of AMP Robotics,"
+publishedDateTime: 2022-04-19T13:04:00Z
+originalUrl: "https://www.aol.com/news/robots-could-help-solve-us-100400471.html"
+webUrl: "https://www.aol.com/news/robots-could-help-solve-us-100400471.html"
+ampWebUrl: "https://www.aol.com/amphtml/robots-could-help-solve-us-100400471.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/robots-could-help-solve-us-100400471.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: WBAL
-  domain: wbal.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.s3-media.wbal.com/Media/2022/04/19/3141b7a5-6088-401f-8e73-4474fb1d8d50/original.jpg"
-    width: 630
-    height: 354
+  - url: "https://s.yimg.com/uu/api/res/1.2/4SoiXY9heyh11WEzoYNE9Q--~B/aD00MDU7dz02MDg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_good_morning_america_articles_441/6c85e0a9b1ed6384b6bd8cc6ddcf251b"
+    width: 608
+    height: 405
     isCached: true
 
-secured: "Q6Ry1PsGGNtSPUeud2P7Dh6dFrXZZGZLhKPm2T4IDtH5jELsOyy3DIk7C64qN4VRaYIaFOsPcgUe54KKSlQOyGHVZi66pqf5Abt0nAO51AEPpI2vqhAXpjifoARUjHB1MuRC0d3zs+Rz0KvREQ1k8oBCmXKMu0AFweSIO3F9/j4QGFsSCT7j7RXeDDFp4w6mW/vYOKdatQ4qAODFWf2L0bOVwCcdGUd+6eNAxBo6iUePWLmA2DiugtYmVd1McuXsgbbdrRThyw2T9OcxNShwCv+0q6k1/7LWyP82vp5efYlG5STDxGWTuc85tpJqs4pg/qcLVIK71ODdK5lME2YP5aLYs9p1PGQL080xd2Xr2QAzzTH7G2WIfaS+OQ9uxqbk72ZipvTZhqy6A4+/l10w5OGTyMG08RsG8LwmFMGQEuKebueQRPI3+IUGOAZ6JrbS8KBUjvvGT07zOx8OGeg9MdRtXZP+1T5StZ3YZNI6hm1y0AziHLjdBLSRqBhIfP5Y/bJEAdA8Jvg4wwUgh0hpAA==;Km7i08RgOSgyD+0UJEH+cw=="
+secured: "F9ctx3q/UgbPlNmMI6JMDMOfkS8y3rkBgvVQHViGPSGlfXMutfpbuLJrkB+y5AhuPtU+Sgm1LsK536eWWNKl340eLA0GDZlRin3WGdohR9z5IF/rIog+KvLoPRDSWTKcsEDqvuFazaY9KhqXcBnuStVn2JWClPe1M0Acl0oKCc5nijteQ2Jz+4OyKAgm8BcVwhEqPwEUJ0fDyM/T+J0lI6TVnlpxUcgN3oipz7EdHTTu1eG3yDay/bdWxpkBdXcGjq9H6QVtLqSFP0d/5yGMUaFUXTN9K7DBc9HOMtCFBBssM+er9UvlGGHDz/MbFDmHbNtvw+CexvT4GBROnhYP5soCQMLC//3iO/NjPDrtvM4=;7yiR3um/fNjp246zW8GL4A=="
 ---
 

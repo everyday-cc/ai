@@ -1,23 +1,29 @@
 ---
 category: news
-title: "SoftBank robotics invests in Hong Kong startup Avalon SteriTech"
-excerpt: "SoftBank Group's robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech, marking the company's first investment in Hong Kong. Read more at The Business Times."
-publishedDateTime: 2022-04-20T03:43:00Z
-originalUrl: "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech"
-webUrl: "https://www.businesstimes.com.sg/garage/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech"
+title: "SoftBank Robotics Invests in Hong Kong Startup Avalon SteriTech"
+excerpt: "SoftBank Group Corp.’s robotics arm has agreed to buy a minority stake in cleaning technology startup Avalon SteriTech Ltd., marking the company’s first investment in Hong Kong. SoftBank Robotics is buying a 5% stake in the Hong Kong-based company,"
+publishedDateTime: 2022-04-20T10:05:00Z
+originalUrl: "https://www.bloombergquint.com/business/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech"
+webUrl: "https://www.bloombergquint.com/business/softbank-robotics-invests-in-hong-kong-startup-avalon-steritech"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Business Times
-  domain: businesstimes.com.sg
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "8szIdeRfEJSnTwHVrE5NygUdhTFdrPHAZYomdMxf/U3f9K16b1wnunTMwPImUTpTeTxTcfCqqwDaP211lL9/tR9ecjoYWga44UCygCka/8j7fFVt28FIahky9TWT68gUN2wWzwOJ4JqgZNmzysK7WZtIntBKR5Ig9AxSgC1O0rvU7S3oZBRcT4s2Fj2n8jRMB0JidjdnPL5nngbu6Lt1XXx2yYsn6Up2D1/EoMhHbSGkGwJyKV0C05ovjwAMnKCvDGqK+nyms7dpqEPabxvU9YI4eJgdpLjWQn25VuI/S7Kmw7M4VNcyhA4uFXDrNeoDhV8ho2GLWJ50yBUC64Nu+hkWp0NMjVNjaPefvcrEB4I=;FZ8FggsF4RW0/svAIXx+Gw=="
+images:
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "f6zUmxdTYxU00ING367+odoHAX6wo+v0ja1JueyQ085C4nzRBnzZ4HCsl8NObnII8p3EdyZQiGqpQfUD2z9uAjo7ZjUEV5pp7JdPP465T9owW2CXKjDOZraNvqZMZZQbqjU/HzoTYBdZlgdiPpMW5A+GVe0zdsMbe3YRStnt/Om2xbUvX7UwHrKGCWosr/lu1P0cVw1wQo47lHr15zWozLBEtq6F0n0MPLwG3My7RR+WkK8X+d8z8SQzuVGmWLIvs54wOLhg8TzTV8GyOl3uJnt3SQSddBm12CxWxRUCz/vjTjgeP6bOTONvGNtN1umVnN4RDVTCGrI7oej5r7FvZDTGhhL47AlCD5gSekro580=;TBXiphu5luoNCSCTbzeasQ=="
 ---
 

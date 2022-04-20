@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -56,15 +56,6 @@ related:
         width: 1945
         height: 1112
         isCached: true
-  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
-    publishedDateTime: 2022-04-18T19:18:00Z
-    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
-    type: article
-    provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 19
   - title: "5 ways AI Will Change the World"
     excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
     publishedDateTime: 2022-04-19T17:51:00Z
@@ -73,6 +64,20 @@ related:
     provider:
       name: Play Station Universe
       domain: psu.com
+    quality: 41
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
+    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
+    publishedDateTime: 2022-04-18T19:18:00Z
+    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
+    type: article
+    provider:
+      name: SeafoodSource
+      domain: seafoodsource.com
     quality: 19
 
 secured: "zNztfZ+sRfTsADER3GyQ40LtwpfhhPLF3EQOX+qDttp2qQamimyXJBxwso/TGaL23lDjxjfnnBUSHA8X2zc9MO9pJV4ZuSvyIKncDdmFXnPtPdjKPw+5N010MMN6OTYaQEGTZpVufCliWw6tCMFbIs3ExOeFyU0T0rvzcNTFwZErLJlb8x2yrpM/H/zqn+h6VtcHZ/qOig8Y0ivM4JKYFK1hKCiR0ShvnV/GetxISQD34TZrRC05MAIaku0rXgOXb0uUmzLlvxSW0VTMjZx7IEkWpAcnMX2rxxw4/hZ13r/BE+EI3zgYyj6G/8jcND+APmx4QOf2RctMmIIOW0QTo+zNwyP3Ln14m3IZFe1KwKnD1iWomxvNQlVXLZ4nHGJpXDRS5OJYAm6+I1/xi5ocCEfsL8OHpKjn8TPCxR/GIS/9ZtyWcvQkaP4asku5Jtfeqi4o6QLJaCAVgGurAMSWavfTiLYqh5Q7cJyu+0o6Mbux9AEcf7dX8W9BlJbSB/YNLh94rUiwT65Nuk2rDabjnQ==;/8K+BnoJGE/NVuO3A5PFqw=="

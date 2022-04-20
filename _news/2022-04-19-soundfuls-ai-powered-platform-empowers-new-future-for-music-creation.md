@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Donbas-AFP-1K-02-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI music startup Soundful raises $3.8m seed funding round"
+    excerpt: "There’s another new artificial-intelligence music startup on the block: Los Angeles-based Soundful. It has just raised a $3.8m round of seed funding for its AI-powered music creation system, which it’s making available to human musicians and social media influencers alike."
+    publishedDateTime: 2022-04-20T10:49:00Z
+    webUrl: "https://musically.com/2022/04/20/ai-music-startup-soundful-raises-3-8m-seed-funding-round/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 37
+    images:
+      - url: "https://musically.com/wp-content/uploads/2022/04/soundful.jpg"
+        width: 1500
+        height: 500
         isCached: true
   - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
     excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"

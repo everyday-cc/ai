@@ -63,6 +63,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Watching TV at the wheel to be allowed in 'self-driving' cars"
+    excerpt: "Changes to the Highway Code are set to make watching television at the wheel permissible for motorists travelling in a “self-driving” car."
+    publishedDateTime: 2022-04-20T11:50:00Z
+    webUrl: "https://www.am-online.com/news/latest-news/2022/04/20/watching-tv-at-the-wheel-to-be-allowed-in-self-driving-cars"
+    ampWebUrl: "https://www.am-online.com/amp/news/latest-news/2022/04/20/watching-tv-at-the-wheel-to-be-allowed-in-self-driving-cars"
+    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/latest-news/2022/04/20/watching-tv-at-the-wheel-to-be-allowed-in-self-driving-cars"
+    type: article
+    provider:
+      name: AM-online
+      domain: am-online.com
+    quality: 44
+    images:
+      - url: "https://cdn.am-online.com/media/1/news-galleries/news/2014/1/8/what-does-the-driverless-car-mean-for-car-dealers-and-drivers-/34154/23957.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Motorists in self-driving cars can watch TV behind wheel in Highway Code change"
     excerpt: "People using self-driving cars will be allowed to watch television on built-in screens under proposed new rules. While it will still be illegal to use a mobile phone behind the wheel under the Highway Code, drivers will be allowed to watch TV and films if ..."
     publishedDateTime: 2022-04-20T07:25:00Z
@@ -92,6 +108,36 @@ related:
       - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/02/autonomouscars-1030x579-1-1024x576-1.jpg?fit=1024%2C576&#038;ssl=1"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
+    excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
+    publishedDateTime: 2022-04-20T10:25:00Z
+    webUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719"
+    ampWebUrl: "https://www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/everything-you-can-cant-self-26751719.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 38
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "UK insurance companies, not users, to be liable for claims in self-driving cars"
+    excerpt: "LONDON: Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances,"
+    publishedDateTime: 2022-04-20T11:10:00Z
+    webUrl: "https://www.carsifu.my/news/uk-insurance-companies-not-users-to-be-liable-for-claims-in-self-driving-cars"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 35
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/04/istock_692832546.7e476145701.original-1024x634.jpg"
+        width: 1024
+        height: 634
         isCached: true
   - title: "You'll be able to watch TV in self-driving cars in the UK - but still not touch your phone"
     excerpt: "The Department for Transport has outlined changes to The Highway Code that will allow drivers to watch content on screens in the car when a self-driving car has control. The same changes won't allow you use your mobile phone,"
@@ -164,6 +210,20 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 24
+  - title: "Drivers will be able to watch TV in self-driving cars"
+    excerpt: "Planned changes to the Highway Code will allow motorists to watch TV in a self-driving car; It will still be illegal to use mobile phones in self-driving cars; Full regulatory fra"
+    publishedDateTime: 2022-04-20T11:23:00Z
+    webUrl: "https://www.honestjohn.co.uk/news/driving-1/2022-04/drivers-will-be-able-to-watch-tv-in-self-driving-cars/"
+    type: article
+    provider:
+      name: HonestJohn.co.uk
+      domain: honestjohn.co.uk
+    quality: 24
+    images:
+      - url: "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17358898/driverless-car.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Highway Code to be updated for self-driving cars"
     excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."
     publishedDateTime: 2022-04-19T23:54:00Z
@@ -177,20 +237,6 @@ related:
       - url: "https://www.lancashiretelegraph.co.uk/resources/images/12550035/"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Highway Code to see major change to accommodate self-driving cars"
-    excerpt: "Changes for who is responsible if a self-driving car is involved in an accident are to be included in the update."
-    publishedDateTime: 2022-04-20T09:33:00Z
-    webUrl: "https://www.echo-news.co.uk/news/20079833.highway-code-see-major-change-accommodate-self-driving-cars/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 24
-    images:
-      - url: "https://www.echo-news.co.uk/resources/images/13694621/"
-        width: 1049
-        height: 584
         isCached: true
   - title: "Self-driving cars: Motorists will not be liable for crashes and can watch TV behind the wheel, government says"
     excerpt: "Insurance companies rather than individuals will be liable for claims if vehicles are involved in collisions, the Department for Transport said."
@@ -206,20 +252,6 @@ related:
     images:
       - url: "https://e3.365dm.com/22/01/1600x900/skynews-self-driving-care-car_5652425.png?20220125185007"
         width: 1600
-        height: 900
-        isCached: true
-  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
-    excerpt: "The Government will update the Highway Code to make clear clarify driversÃ¢ÂÂ responsibilities in self-driving vehicles."
-    publishedDateTime: 2022-04-20T07:43:00Z
-    webUrl: "https://www.expressandstar.com/news/uk-news/2022/04/20/highway-code-to-be-updated-for-self-driving-cars/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 24
-    images:
-      - url: "https://www.expressandstar.com/resizer/ZUiEFx7VJ7v7I_5IDEsoZ_jnpmA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/O2PTPBDDDZDRHDNJAHXUZBESV4.jpg"
-        width: 1200
         height: 900
         isCached: true
   - title: "When will self-driving cars arrive on our roads?"
@@ -280,6 +312,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Users of self-driving cars in the UK will not be held responsible for crashes"
+    excerpt: "UK authorities are making changes to the Highway Code to prepare for the arrival of the first self-driving cars on Britain's roads. Under the proposed changes, drivers will be allowed to watch television programmes and films on built-in screens while using driverless cars,"
+    publishedDateTime: 2022-04-20T10:44:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/04/uk-users-of-self-driving-cars-will-not-be-held-responsible-for-crashes/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 21
+    images:
+      - url: "https://eandt.theiet.org/media/14055/dreamstime_l_133926443.jpg?crop=0,0.38791666666666669,0,0.11989583333333327&cropmode=percentage&width=1200&height=450&rnd=132949259330000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Highway Code changes: Watch TV at the wheel in new rules for self-driving cars"
     excerpt: "Motorists using self-driving cars will be able to watch films and television at the wheel under planned changes to the Highway Code"
     publishedDateTime: 2022-04-19T23:01:00Z
@@ -293,6 +339,22 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4d10e6b8-c022-11ec-b4e3-203ad1be3cbc.jpg?crop=8640%2C4860%2C0%2C450&resize=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
+    excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why:"
+    publishedDateTime: 2022-04-20T11:18:00Z
+    webUrl: "https://www.kentonline.co.uk/kent/news/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-265845/"
+    ampWebUrl: "https://www.kentonline.co.uk/kent/news/amp/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-265845/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/kent/news/amp/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-265845/"
+    type: article
+    provider:
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 17
+    images:
+      - url: "https://www.kentonline.co.uk/_media/img/PV8SSODJ95PN8GMV3D94.jpg"
+        width: 1013
+        height: 696
         isCached: true
 
 secured: "ENS3q62zWAtLXTQDIrbyORohTaz/Rfv8iy489kG9cMod9E+SyHHLrbcjoibHONFw3EPVsEUxpjiOXQdUtH0e+fKH9RbQxHPGxpsiY4d3VpzrvsO8QMUoUymoR2f3RoXnakVhU6KNgPJEZg7lXXN6c1+FS//fwdOhvyFG7dRcr4R5ts7Zv7+TOq75R1WD75miMa2L9vavPlgk+cK0agGND1x+iKuNX0LRUV8a6CtiJ4GRUrC1ayzgiq3SWB9+w+4t4L1ANU0IbSK9vUyjLBx4B/FUZTDw5cRaiYhqtWnRW17fcu5T2+b4gqc7nojjL1qtgert1gaDhv8w07OgKExa1WA8FMT2OYkoIZrfCsHTc6M=;9BHXLf1rr15177z+y8ulag=="

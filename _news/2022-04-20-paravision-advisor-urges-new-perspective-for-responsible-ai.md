@@ -22,12 +22,12 @@ related:
   - title: "iCatch and Prophesee collaborate on development of AI vision processor natively compatible with Prophesee Event-based Metavision sensing technologies"
     excerpt: "Catch Technology (iCatch) has focused on image signal processing (ISP) technology and Camera SOC for over two decades and aggressively invested in research and development in more machine learning (ML) related technology and application."
     publishedDateTime: 2022-04-18T03:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20220418PR200.html?chid=9"
+    webUrl: "https://digitimes.com/news/a20220418PR200.html"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 2
+    quality: 0
     images:
       - url: "https://img.digitimes.com/newsshow/20220418pr200_files/4_r.jpg"
         width: 336

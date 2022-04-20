@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-way
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200"
@@ -46,6 +47,20 @@ related:
         width: 1945
         height: 1112
         isCached: true
+  - title: "5 ways AI Will Change the World"
+    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
+    publishedDateTime: 2022-04-19T17:51:00Z
+    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 41
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "How AI has impacted the gambling industry"
     excerpt: "Learn about the impact of AI on the gambling industry & the specifics of how AI has changed the sectors of online gambling & sports betting."
     publishedDateTime: 2022-04-19T15:07:00Z
@@ -69,16 +84,7 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
-  - title: "5 ways AI Will Change the World"
-    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
-    publishedDateTime: 2022-04-19T17:51:00Z
-    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 19
 
-secured: "5gnUuEvVhm7zSrBpD3QcXLhAq+3bUliCpLIjXmIqzu+HGpwNTxqfhXHO1juKzrYvrrXLEp+aQwIG/WyxZlz5h36/HVal4i6kUgfGUo8jvuydH+WSiJPyKP28Y0okmFQzdHMuMzp0DBCdLEdumPj35Yf66zrkz3bZR33Fa0KWXwT+zaDgfjYC6uJIFEAuJ5NYOGGmCOCpioXtfuMnBLuHB7rn7qbX0MJZwaGnYyt4dkprt0wBxrHEchuV4m7ksnEVzpfchfEzuI7b/VCqte5e7VdQ9tq4CBZex/orSxogfFF/7iLlZ1ULmJcCiVxGyZglSPKMDFILfFSrpvO1MNFt8E+tRDCMGt6KDxtWr2qgCzc=;4RfmLuFoJjk5aTQ3djsSbQ=="
+secured: "//GuFxa2FxZzSxm/SYHByNlHmyZ/DFBQCBFnwKXDIDI51Jq7eVNOY3uFxUO+eb07YsjmjHlp7gX8wCxTU00YWJhixxXI3sEQ3hP/4ais//amHoxgX3DOPl7cbGUICFNz0msZY7Q/B+L/1/TcVFCf2G64/Z6/pXa8pQyVIwqy5IEjLMu2cVNhve8Y8+hFMk1nK2S1smvo5E3Tlt22RQzWGKT4vN1KjlPq1DSUieVufupH8+c2govQah4oftd0/oreBcXdD5Er1ELETVYC9xoovexs47tsDsi80gN35a6AQ+oZJReJxRj0rMvsg3yUcCgZ8YKAEwdeDGA2yAtsmqkuXgJd9it08H6lJ8Mu1/fJLRE8SAgNbZyadrR9diZsl6yzNgtVUXI3WcVHlWAVXxMQ+dO5807BM0VMvUjDYuJ73o85h4EDBI1Le4U7rtBfqSGkGUwUV8G/EbpyIiJt8EJ/2ADGQDxs8Yq6SE2K7W9le73cTsw8DSacj6SQa5Thd+681Tc8Xw0fDheLFAmJxQ/C4A==;HTTySEi0QwBByj/YoldSdg=="
 ---
 

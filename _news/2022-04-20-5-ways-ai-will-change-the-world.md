@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-19T17:51:00Z
 originalUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
 webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Three Ways AI Is Impacting The Automobile Industry"
@@ -29,7 +36,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -75,6 +82,6 @@ related:
       domain: seafoodsource.com
     quality: 19
 
-secured: "WF1DbeVR0tCauRMpFqxs3RiRb2HkQ+A3DDaAzKJwDSeSCKKEbkSX2UbQmNlWFjwEKEDyLpbi+PVtHxgvkGxT713g9V8YwJnMhB+oOnH7zAS190Ja8DmzBb68Z1rqaOcbSLDZdSs5fD7lTGhmCcl81YAukJbQiYWv3G9x5nDw7q66pVDrb4rTvKfj1e4vV00D7OfC43SEZzYJz7tzohNBPNY/nyoqvpmV5WiHANTzfvW8PFEVDi2dMt0RDoSAzzvazt0taoKkVO5Or/iyhUgtaK79IXL51JObtKXOHRRDR8muNaurYjoMUWDYQ9nc2Cc8C9C6McMI0qq6SO3RjzzHQz4wPaAsKBBm1nC4eYKPUX/ZTmFvpYsDiiNbguT/RRWGxL4vXADh4g5QHo9vag48cgqAiJ7bErIJXFTDiI+u3UU/NqmLd23QASHh0eHQu6Zhjk9FkhkIqEX+EvyrwxLDHKB3HmnRerVYb1URCU6Cn9l8XcIMnS5pgI5GJ5TdSxk1DDhlmMg2HPyURtYM3mRPvg==;fBg4zWtjwv07XEtDFL2wFg=="
+secured: "Te68IxLnc5oof7EYakXa7QC5kRFpPjc5UXctvOXZYe267DR6Jazu9uIUsJKyJMRLRFhmMfS6szgSYcJ+jAx0O/oFD72Foldb3jrp9fFF06mgpqpLESHihRrQxeNPFZ+u2sG832hmbBHCvRxU5aN1WxAmXKNRWRWx/xuHNSRlp/iMJffd6Qb6q2xldKY/kmQD/6hHPZTEcVk9pUHNAv7BpdEklU1Q7UmE33JqLbl6O0UEO2hUujJybPZpLq9WnnjJ8Q+hb4dwrNH1P78Qax6WegASvhBwZP+uhPY5ACZGHVIdrX2/g7H/Mmm56103a2AVamy3jJ8CEPNtDlg/ogC0PMkT9ZX9vI7TTfrTTp/OLss=;hFymEoDDObXtNL4BJzFzXg=="
 ---
 

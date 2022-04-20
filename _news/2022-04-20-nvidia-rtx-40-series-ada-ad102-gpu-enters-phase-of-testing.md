@@ -22,7 +22,7 @@ related:
   - title: "Nvidia's fastest next-gen GPU reportedly enters testing phase"
     excerpt: "September will mark two years since the initial launch of Nvidia's RTX 30 series. Though it's been mere weeks since the launch of the most powerful and likely the last card in the range, the RTX 3090 Ti,"
     publishedDateTime: 2022-04-20T03:36:00Z
-    webUrl: "https://www.pcgamer.com/au/nvidias-fastest-next-gen-gpu-reportedly-enters-testing-phase/"
+    webUrl: "https://www.pcgamer.com/uk/nvidias-fastest-next-gen-gpu-reportedly-enters-testing-phase/"
     type: article
     provider:
       name: PC Gamer

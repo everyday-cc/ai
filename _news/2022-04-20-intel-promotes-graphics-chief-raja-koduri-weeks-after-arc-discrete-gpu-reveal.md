@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal"
-excerpt: "Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business. Chief exec Pat Gelsinger bumped Koduri,"
-publishedDateTime: 2022-04-19T18:39:00Z
-originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
-webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
+excerpt: "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business."
+publishedDateTime: 2022-04-19T19:38:00Z
+originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "ybPXoyva4iu4A4qOflamAya8FDCNGVY1ISIDlrmJFWrNAdRZSbAFIuKo2q1GwfMszmLXzeUdHTBzGdmTs0h6KxVYxLToYEi6z8qu/lSf9v3Nv5PDlmNcETiY1kCXKgn2ua7PQG9i+qvmdwl1c57yjvqXnOLSXDkhDVH3peiJs6wROr+tyq7wRslrV2zH3MUzeE27cdQP4Wn8CcTgel/o+Eh/DdE1rtWPFhqdRdBHZyHgiEG1L3wQPptZPjsyuUSKrnf3q5kTKqv6MLXG4W8az8lLpz4GOiNyhvl32/eS1r5cflyVCP0vYgsxmRtrebeQm6kv+ZH6nM+tSoPYvMIosWqRIvCuE3dYu+51i6PNEUM=;ekmOibmO9sxJtRuO+zSGIQ=="
+secured: "6NAOHNfpK5j8TOQ/bdHRgWgaMjmVqbqE3HIDcRs844qcodnGrB0JCFv3ZC8l3k8N9jfqja863vpDWGVMuAyWB7V8xfaPXZ6SLkdjWO7NVs9wgm6oKhcicoZEVdey+QIBankNU9s1Dx/PncAboRmCC7oZkAqKvn1jhnYi2L5OIMl1FwOuwIdkI2qsUJ3OrZbKM4ClubOYYZyu7NqEfBKicTI/NW6zgV+DFeAq+hy39a2qC1B2aVs4S79T4fVUzaXeKalJskMbT1HEfSBSfX61xuGuIoEuK3/j0K7DuauI0SS8YNecyJWKiEo7qK7rvL5hVNFm2/AOP5uJ/1PIxT0aE0/geOTp+0gUTTVY2eQjXUg=;uac5WliEF4xLLyKo9TSxrA=="
 ---
 

@@ -36,11 +36,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/625d376a441cd32845a2adc7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 710
+        isCached: true
+  - title: "5 ways AI Will Change the World"
+    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
+    publishedDateTime: 2022-04-19T17:51:00Z
+    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
+    type: article
+    provider:
+      name: Play Station Universe
+      domain: psu.com
+    quality: 41
+    images:
+      - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "How AI has impacted the gambling industry"
     excerpt: "Learn about the impact of AI on the gambling industry & the specifics of how AI has changed the sectors of online gambling & sports betting."
@@ -64,15 +78,6 @@ related:
     provider:
       name: SeafoodSource
       domain: seafoodsource.com
-    quality: 19
-  - title: "5 ways AI Will Change the World"
-    excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
-    publishedDateTime: 2022-04-19T17:51:00Z
-    webUrl: "https://www.psu.com/news/5-ways-ai-will-change-the-world/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
     quality: 19
 
 secured: "b46bji+nJ9OYzQGDfsDrqDYe3GI04AmEZKKYhSlUdSa/5WnKPf2ToaxV9wGp7+5FV6W2Q/u3LWjmYyRw0NJbW4QI/XUtK1sY7cTbPqECecjV/Tpwx/DddbCKvKgy8OPNwmfgFGJcT2SY4/kfXbKs73zv8J5eta9tyOxNMvjibueKoyCvHSCiAzlh2UZDw735bp1LqCFQQflC2yn2MF9cFM+yhfkT0dPQnRPQaIHNx7VHnZG8i6Dy1crcRn8Q+SVQ3dA50Ct7FfszDB4FW39Xgpb7SN2OAGixX8qbNcoZHdRUZLtcJbh+vd/WiF+l1ZnNtRPonktClcsvakqg5nCtS7k8u923jS9QBXvYegGpQy2q+p/wh0/s8K6qmw6tIjLuamLOg9pceSkHCLqkDJ6YETsMgkM3u3uqecQ+/6f20/Ohm5BQSCnVgF7Lt9ZkNqVm+b+zXGXCm/Vi+TB0kqY2r3WSgbJcjkhYu9Q9diYNFjVEAG+d8Dvaa36Pm/c1yIyZHMt3DaIhJKbtTvdzUkBstw==;T5vzcyf9CTYk1mGutXlrtA=="

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Synopsys Launches Industry’s Highest Performance Neural Processor IP"
+    excerpt: "Addressing increasing performance requirements for artificial intelligence (AI) systems on chip (SoCs), Synopsys, Inc. (Nasdaq: SNPS) today announced its new neural processing unit (NPU) IP and toolchain that delivers the industry’s highest performance and support for the latest,"
+    publishedDateTime: 2022-04-20T10:21:00Z
+    webUrl: "https://enterprisetalk.com/news/synopsys-launches-industrys-highest-performance-neural-processor-ip/"
+    ampWebUrl: "https://enterprisetalk.com/news/synopsys-launches-industrys-highest-performance-neural-processor-ip/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/synopsys-launches-industrys-highest-performance-neural-processor-ip/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Synopsys-Introduces-Industrys-Highest-Performance-Neural-Processor-IP-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "New Synopsys neural processor IP delivers 3,500 TOPs for AI SoCs"
     excerpt: "The NPX6 NPU IP includes hardware and software support for multi-NPU clusters of up to eight NPUs to achieve 3500 TOPS with sparsity."
     publishedDateTime: 2022-04-19T16:34:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report"
-    excerpt: "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war."
-    publishedDateTime: 2022-04-15T17:25:00Z
-    webUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4"
-    ampWebUrl: "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers"
     excerpt: "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind."
     publishedDateTime: 2022-04-16T21:48:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Ukraine has used facial recognition tech to notify hundreds of Russian families of dead soldiers: report"
-    excerpt: "Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the"
-    publishedDateTime: 2022-04-15T18:56:00Z
-    webUrl: "https://thehill.com/policy/international/3269911-ukraine-has-used-facial-recognition-tech-to-notify-hundreds-of-russian-families-of-dead-soldiers-report/"
-    ampWebUrl: "https://thehill.com/policy/international/3269911-ukraine-has-used-facial-recognition-tech-to-notify-hundreds-of-russian-families-of-dead-soldiers-report/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/3269911-ukraine-has-used-facial-recognition-tech-to-notify-hundreds-of-russian-families-of-dead-soldiers-report/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/04/mr_ukrainebombing_031422_ap-vadim-ghirda_ukraine-war.jpg?w=1280"
-        width: 980
-        height: 551
         isCached: true
   - title: "Severity to Sentiment: Ukraine using facial recognition technology to notify Russian families of dead soldiers"
     excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."

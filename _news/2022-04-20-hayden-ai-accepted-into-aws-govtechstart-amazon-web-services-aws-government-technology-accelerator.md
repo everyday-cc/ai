@@ -24,7 +24,7 @@ related:
   - title: "Hayden AI Accepted into AWS GovTechStart, Amazon Web Services (AWS) Government Technology Accelerator"
     excerpt: "Hayden AI, an emerging leader in smart enforcement technologies powered by artificial intelligence is excited to announce that it has been officially been accepted into AWS GovTechStart, the Amazon Web Services (AWS) government technology (GovTech) accelerator,"
     publishedDateTime: 2022-04-19T15:19:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-web-services-4c2415f4d7a8d30d6d564272090444dd"
     type: article
     provider:
       name: Associated Press
