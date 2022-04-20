@@ -38,22 +38,6 @@ related:
         width: 320
         height: 400
         isCached: true
-  - title: "Who Serves on the New National AI Advisory Committee?"
-    excerpt: "The newly appointed 27 members will advise the federal government on AI topics like competitiveness, equity and use by law enforcement. EqualAI’s Miriam Vogel will chair the group; Google’s James Manyika is vice chair."
-    publishedDateTime: 2022-04-15T23:03:00Z
-    webUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee"
-    ampWebUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "SAS data ethics head named to National AI Advisory Committee'"
     excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ..."
     publishedDateTime: 2022-04-18T22:38:00Z

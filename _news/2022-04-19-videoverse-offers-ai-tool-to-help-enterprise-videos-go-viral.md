@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 799
     height: 501
     isCached: true
+
+related:
+  - title: "Startup Street: Toch.AI rebrands to VideoVerse, raises $47 million in Series B funding"
+    excerpt: "Video-editing SaaS platform, Toch.AI has rebranded itself to VideoVerse as it secures USD 46.8 million in Series B funding. The round was led by A91 Partners, Alpha Wave Global and former Flipkart co-founder,"
+    publishedDateTime: 2022-04-20T15:14:00Z
+    webUrl: "https://www.cnbctv18.com/videos/startup/startup-street-tochai-rebrands-to-videoverse-raises-47-million-in-series-b-funding-13217282.htm"
+    ampWebUrl: "https://www.cnbctv18.com/videos/startup/startup-street-tochai-rebrands-to-videoverse-raises-47-million-in-series-b-funding-13217282.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/videos/startup/startup-street-tochai-rebrands-to-videoverse-raises-47-million-in-series-b-funding-13217282.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 49
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/Startup1-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
 
 secured: "/Huwl95bRxDzLEGV4qYa8Yd7Iq/gBG0cwYAc36nlqjWH79eEhAkyLWB+iw3nK8ulOXZVzQM/PZbm7NNRiu2dKacCELsrNGjdu8tUguLJ5GTGGJJOVVJEqbzrLZOo+t1mOKZoeJm793xFa0yofNzhdIDwMIOGYEGZUgL8i2Lx8huKL7j9CKH4BQA/MivYVe6PmyW4PE2qEWk0Y8+wYcYOzCJ28zElm5747/YGWuF32LmbA4zHSJd7h+7B7XU4fq8XuLv7FXqeESs4HKf8FWL9f681Zyy741oKAGZG/qllwcjFelKKTMNRNhGAD2V6/NRtpZpq1tKVRNTzoRaXVJXFraSXcc50FYO+/pJhDQH9Qw8=;9d9chA24MJvlBOEXqLU5+w=="
 ---

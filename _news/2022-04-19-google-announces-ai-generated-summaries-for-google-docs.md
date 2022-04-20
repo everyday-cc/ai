@@ -49,6 +49,20 @@ related:
         width: 286
         height: 223
         isCached: true
+  - title: "Ultrasound AI Aims to Save Infants with AI-powered Detection Software"
+    excerpt: "Ultrasound AI’s software, Preterm AI, can compare ultrasound images to find minute changes that could indicate an increased risk for preterm birth. The software platform is patented and is not, yet FDA cleared."
+    publishedDateTime: 2022-04-20T15:04:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/ultrasound-ai-aims-save-infants-ai-powered-detection-software"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/preterm%20labor.png"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "PuBouQTaNBjUHMMzGf2nfxIKiq+Nmh38FW8RWA/ZqrTX1YIo8hYmFmfuy4vh0W0NSsF3L2JDXq9WFpg7/H+h8KE6tzye4MvGMA4Le+cXyojcTYjyPfbsPieplHr0YTrS88EctjZM3moXGzxtuz4ucPqMbEsxvuyvIxeApb3Yn/MngVcCTRY+ZpFLFJ+3+Eg+ht/U6iUthzNskim3f3dd4OUEQvFCA4MnssvZVG5Q84V6JS9g6VJRS7qLRIqTvVfzAnPUHoVmsSNQrPdUHBRfDgtO1XFsFSEOHIszQnve0qjmGZDpXfQ50R4iI4fP8GJ+dz/VOo2rIltiuVApDQbBUqOKjuR4ysH7M2wFbL2SOOI=;/62wKUJPXxBIOSowD9Pv6w=="
 ---

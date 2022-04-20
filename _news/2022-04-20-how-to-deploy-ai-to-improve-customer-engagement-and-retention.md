@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-20T14:35:00Z
 originalUrl: "https://www.finextra.com/blogposting/22169/how-to-deploy-ai-to-improve-customer-engagement-and-retention"
 webUrl: "https://www.finextra.com/blogposting/22169/how-to-deploy-ai-to-improve-customer-engagement-and-retention"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "14 Ways To Leverage Artificial Intelligence To Improve An Agency’s Workflow"

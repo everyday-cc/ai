@@ -1,18 +1,18 @@
 ---
 category: news
 title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
-excerpt: "Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms NEW YORK, April 20, 2022 /PRNewswire/ -- PreciseDx,"
-publishedDateTime: 2022-04-20T13:07:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220420AQ29692/precisedxs-ai-enabled-digital-pathology-is-the-first-proven-to-detect-early-stage-parkinsons-disease/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220420AQ29692/precisedxs-ai-enabled-digital-pathology-is-the-first-proven-to-detect-early-stage-parkinsons-disease/"
+excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
+publishedDateTime: 2022-04-20T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/precisedxs-ai-enabled-digital-pathology-is-the-first-proven-to-detect-early-stage-parkinsons-disease/article_f3a87842-f2c4-5f57-bed7-20d97d8d1e15.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/precisedxs-ai-enabled-digital-pathology-is-the-first-proven-to-detect-early-stage-parkinsons-disease/article_f3a87842-f2c4-5f57-bed7-20d97d8d1e15.html"
 type: article
 quality: 1
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
@@ -30,6 +30,6 @@ related:
       domain: indiatimes.com
     quality: 60
 
-secured: "zbANfRgf2RT+2vRHibicQYsfW562TwhCmznMSjqf2vvqA9wlHItQ9Fzh0mDXCKkREJoGDZAF2Y4CmwMrVV2QU1rxqA1/Fo1W2RhnuAZqHz65Lo5BQ7XihNA4QqyO0lPdLCsgA/ZJFwrGXG7gmDjOBs43ydhHIgeEc7QkayDR5z5Bgt8Nzei0/J4BoI7VLkAefP0uCwQUblesDothbU/zH/BYSoQ9f/AAu4rAv3neRL5FbwPGRo9h5itmEYRMaNZy2K/zxBniAKEG38nMTB96Y66U9WLLJIviF2D7OZJeJFFxirHl7F9V7IsHfM8AmaQVwbEMwvNtLbqSU/WvYBhsF9nf9fZwIPHJrlCGXHFaGlk=;Xa34YwA0F6/vg1hv9oWf7w=="
+secured: "uqN1rn1yDDaDVVyU+af0m5u/wW28/86K7xlvelKemSWEDFeF83mKO7zbZZ7rL8m1sBdkcaXNQ2LHb8fj8fkPMXjVSseFqaVLDM/4uI02s2c2ZRBW1Ne+K5jJ3Ad//0CY7IAnIJGurG/5nUohzpVcTRCzUcPOaYypS9taLnXYTYpbAZoPtY9yHD7w9RH7ZQKS+u+2piBIHZWqXAgMZuoi6l+gB0t2gHkwgv2WHBKk0wTN0wStnUbFycn32qTU2oNKGExlsWgk+PZj5S4WLFFNlDohzC3KyJdaI4xftjHiyONzfn9zZB6I7VSy0pHQbcX9U2vzhiRUkHst3zYyDJlnrli6y7bm+vW7cCLb5EPZkbLiFnbH95KDgToeOuRNXxDQpSbd4vchaN+zKsBgBTWcR1Q4J8tSnwcyYLtitND3s4DfmWU52wGkiqAgXGSXFknUtAECkbTeAmPtGZTA5AdI141WP9145HJs97AAV+eFgXo40vZp2EovvctaM5GPS55HfJ9BLklUDbjyqlotJpXeag==;5Jla54yiqzIwna6ZR8BMAQ=="
 ---
 

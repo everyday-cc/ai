@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Government reveals changes to the Highway Code to accommodate self-driving vehicles"
+    excerpt: "The amendments aim to help ensure the first wave of self-driving vehicles are used safely on UK roads, but concerns remain."
+    publishedDateTime: 2022-04-20T15:57:00Z
+    webUrl: "https://www.insurancetimes.co.uk/news/government-reveals-changes-to-the-highway-code-to-accommodate-self-driving-vehicles/1440945.article"
+    type: article
+    provider:
+      name: Insurance Times
+      domain: insurancetimes.co.uk
+    quality: 18
+    images:
+      - url: "https://d17mj6xr9uykrr.cloudfront.net/Pictures/1024x536/0/2/4/90024_selfdrivingakls_227882.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Highway Code to see major change to accommodate self-driving cars"
     excerpt: "A proposed change to the Highway Code will see users of self-driving cars not being held responsible for crashes its vehicle might find itself in. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department ..."
     publishedDateTime: 2022-04-20T13:27:00Z

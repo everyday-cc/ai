@@ -1,45 +1,47 @@
 ---
 category: news
 title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
-excerpt: "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U."
-publishedDateTime: 2022-04-20T15:31:00Z
-originalUrl: "https://www.krqe.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/"
-webUrl: "https://www.krqe.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/"
+excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
+publishedDateTime: 2022-04-20T13:31:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/article_1533d00d-301c-59ce-af4c-5a51cf0b5315.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/article_1533d00d-301c-59ce-af4c-5a51cf0b5315.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KRQE
-  domain: krqe.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.krqe.com/wp-content/uploads/sites/12/2022/04/11c3938863bb4dc187004cdab8cb09d5.jpg?w=2000&#038;ssl=1"
-    width: 2000
-    height: 1369
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
-  - title: "GrayMatter Robotics Earns RBR50 Innovation Award"
-    excerpt: "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world."
-    publishedDateTime: 2022-04-20T15:19:00Z
-    webUrl: "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation"
+  - title: "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics"
+    excerpt: "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning."
+    publishedDateTime: 2022-04-19T21:19:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 119
     images:
-      - url: "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625efcae4bd40464b7f75a4b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
 
-secured: "0o7tVv+7Uej2pxF6Gl4YKFgUpVvKSbgOfAvTj6oGBkGCCNXR1SzU5pgAD8l+loLy9R5Wb3AZQ2JdmkXhsFebt54fEGxRlIBnNIKZNYv9SSHcrrW6ZZcwwoiDVaGOdsV4fy3T0fpMaAVog5w15RZro3WUyJ4SkAQ6jhXNIN9Flx/HinAlnXunQiwb0e2v2EAOMZ7pO5LJeRGogkr79IrTtwk/RE4JE+rCTroyIVbXPViZnspUk9ZODe850ZwNXKmXzkSUpoNCRRoBWJsIIcCQgQdE5WrWZVdVULeL3uha4QEmWiZD9oWfgSORIFmugdQDb1ykUJQ4KP0Rr45ZlSiNwyyVpFs/xtwDOF7PQmjudrQ=;papU9tyGoxwdZr9b8tzs5Q=="
+secured: "omIysOMQqsPudmN1DXwaEdc59KLt36xV4Inuz/owdb/8ouv1emTSwO5gT1EnqedoETFf/b5j/AzM0uXnnBLSiOl0VAJOf/WO8kNtu6Y5gI4/Y18bzsxsnkyq1ZJS/Y1+jgWxwYjlkMw7VhOC4ZZhVrEpbO3LVTaNjV/wVQ7ricQ7LAvHMlwQfz/FVfMEj3/ZGLvbIVCAItg6Kkam67AUZdc9tmpX0vfMdWAnFnWxJtQEBHPbqen5HWpDnBU05ayrF1930oVQVHCwNtn4l+hUm6jLNM5ZRyl+yO4S/NhoA/W4C2XfqeY1UssblvlO9uSujeqamZCkf2sIlBOZt+pPEu2D32z7APUH1iUj8vctWTk=;zfTuWltB0PQ36kZ1la1xug=="
 ---
 

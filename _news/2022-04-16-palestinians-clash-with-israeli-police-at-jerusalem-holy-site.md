@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo137843781578"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo137843781578"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clashes at Jerusalem holy site leave more than 150 Palestinians injured, Palestinian medics say"
-    excerpt: "Tensions were already heightened amid a recent wave of violence. The clashes came as Ramadan this year coincides with Passover and Christian holy week."
-    publishedDateTime: 2022-04-15T23:11:00Z
-    webUrl: "https://www.cbsnews.com/news/jerusalem-al-aqsa-mosque-palestinians-israel-police/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/jerusalem-al-aqsa-mosque-palestinians-israel-police/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jerusalem-al-aqsa-mosque-palestinians-israel-police/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 32
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/15/754a39ac-68b6-4ed9-8f18-f7a2243128e7/thumbnail/1200x630/46d9d2c68ab36ccd37291a6f9e2716ee/2022-04-15t050819z-1142580603-rc2hnt9ypmou-rtrmadp-3-israel-palestinians-violence.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Palestinians and Israeli police clash at major holy site"
     excerpt: "Palestinians and Israeli police clashed at the Al-Aqsa mosque in Jerusalem on Friday as thousands gathered for prayers during the Islamic holy month of Ramadan. Medics said more than 150 Palestinians were wounded — Palestinians threw rocks and Israeli police fired stun grenades in what was the most serious violence at the site in nearly a year."
     publishedDateTime: 2022-04-16T03:11:00Z
