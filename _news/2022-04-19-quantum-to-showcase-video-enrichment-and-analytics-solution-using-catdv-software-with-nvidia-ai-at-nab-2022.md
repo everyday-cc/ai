@@ -2,28 +2,19 @@
 category: news
 title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
 excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broa"
-publishedDateTime: 2022-04-19T12:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-quantum-showcase-video-enrichment-analytics-solution-using-catdv-/2022/04/19/9584825.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-quantum-showcase-video-enrichment-analytics-solution-using-catdv-/2022/04/19/9584825.htm"
+publishedDateTime: 2022-04-19T15:00:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220419SF28415/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220419SF28415/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1799283/NVIDIA_AI_Hero_Image.jpg"
-    width: 400
-    height: 269
-    isCached: true
-
-secured: "ACue8hbRcPa8q3YjnoiK63WGzBBBNVoldDGBZj6FGytIbzcprr/7dI9G2O9SEi0UQAHV/SFN00A0TYAo+3wvwELedT8BU8q9NLvsgOvkL9XF/7NC9E44/j2zF0mRx/6U6YiX5yCJzEPvRVnqXDU5OOiNvU/xzJrm0BSCkuXSdAhAt/kNqkgR8U0pG49oTAWcKzZgLedERZJZM6Ansgp5L0lrM22t/QbiCCv2Z2G0/kUn1pJT28nK+BcUNbm8zY02F/ulnz8pSRqhOWvmP0qkZ6OoOlaWHwkDT/qSZTG1rsQGKkofyz9gqb4LTX59CzTpj0k7SuF9oBfcZo3xRvQuomku+qtSdtPiV5PwroP0y/o=;zJGrlHNmIlyucgtScr2zFw=="
+secured: "Fejjy93sLedZn8Towy0xqhEq83QY74BJaqBjrJwoMZeYno0zDm8itDgmyj8Drq+Zkt6lv13yk09zHQTN4kgI9v8j7BuRvZ4tag1gwdPfn++dQ1OlcqwwvYGfEg2fOebCijmz7SzmGg8w8nDXfF6Vd6Qu87ZbK5RrNCf0iLfqWulubL2pw+oc8bcMK/HxVHH8SY9WGtpzZK2y1jgXpDUZcn5JCMoqJTv/eRkmQyo4Fm/0fMXQm21o/jjeypZ4oOs7DC1iSFmxyEIInhwJhWz0PjI1wBb/QvxAc83kJHXHXRVPdZUmEUS+P2hZuyfjzVPQAUpY9qJCRLkNEHel4msnZe9JOJg/koV+x20SVd3NkO4=;ls5rpI3IcVB3VwSm2+SHMA=="
 ---
 

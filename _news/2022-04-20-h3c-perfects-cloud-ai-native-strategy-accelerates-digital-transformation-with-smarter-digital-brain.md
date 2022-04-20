@@ -1,29 +1,20 @@
 ---
 category: news
 title: "H3C Perfects Cloud & AI Native Strategy, Accelerates Digital Transformation with Smarter \"Digital Brain\""
-excerpt: "On April 15, H3C held a tech strategy media & analysts briefing to share its 2022 technology strategy with media and analysts. At the event, H3C introduced the all-round innovation in its Cloud & AI Native strategy and technological upgrades of its \"Digital Brain\" in aspects including digital infrastructure,"
-publishedDateTime: 2022-04-20T10:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-h3c-perfects-cloud-ai-native-strategy-accelerates-digital-/2022/04/20/9585750.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-h3c-perfects-cloud-ai-native-strategy-accelerates-digital-/2022/04/20/9585750.htm"
+excerpt: "On April 15, H3C held a tech strategy media & analysts briefing to share its 2022 technology strategy with media and analysts. At the event, H3C introduced the"
+publishedDateTime: 2022-04-20T10:25:00Z
+originalUrl: "https://www.asiaone.com/business/h3c-perfects-cloud-ai-native-strategy-accelerates-digital-transformation-smarter-digital"
+webUrl: "https://www.asiaone.com/business/h3c-perfects-cloud-ai-native-strategy-accelerates-digital-transformation-smarter-digital"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1800612/01.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "X0zjwgmGBmmd209w6NX1lQ6D8lWj0AO4gj+m9tiSDFOfMr8VXRh5RuplVYxPeEc4oatSxEOsh0Gzr2uFAFi3LVRpZOJLFqlmspcPQqULPfWvl/0Y/ZVKD7XEG/nloD4BAEp3N+Iqw58kNjA5q3AHlBOHMPAcDBAlyPgo/3kaTfOl/0yj4wNhkkw1IrXtjMlMH7QYHOHnCjd7h2vcfhOkNdkD/FRfd0WQgvlO5N4nVHVYwUvGbeNdogVLrzsRtMfPPc5xDutPAtLOYD+Fzqg8fLfWTKJc2XbYsKdpgY2Bw3M4jVHk/SS6hktmAvm/QO8kyVhoeBacB1VIHLp5qhXg56p3R7+KPjydpO3UcqJjG0s=;IE/gq7XC2u1YZP8A4nlTgw=="
+secured: "36DxEtbWkRyEDQOoXIQtbOgEsM/9QnmPgV9tPcv12B9S/vJ0AlZJzO1s7Qs4++9waWuwR1JB51zqVXEsKKHT21cfZazBT3ksR7SbgUP+71eeaaYxgt03HQGpDmL4NxIe19ge/RVePP34u9PDTt0SS+cPJlZpB3RsH6nDKtrPfZmCIYKJJOeUwLLjtOh/Hj5ro5QVODcBZw6IZw1vQw1RLDGsg35Am43H1sxU23Q5pK0qypaZuxUHGuJWGA4SMt6le49KL3+eodArw9N4OtZd4XWarWcPaSS9JxQBaVAE4z5KTOYq1d5vdiwuZsvJ9dQna/3I1bMk7UFtJMWTppnkzK0YcCn9xDp/YmCr9ZEm/JWkPmEM8EOZ0MYVSotZAkxLSoPsVySrrl3S5GkgO3HKZUlOwXYHVn50VkLN+C4bZ3spQj6fpU6t7dsbBG7/k8L8T1mH64woViaL+89BHFpnzDkf4CAV4dEmqJXY4O8MYf0YG1oP6YVO9Cq2dWtgXhkdgqQrcOMkQssbU3znz+FIXg==;H/7b8Dqj0uBfVQJl4bgUzQ=="
 ---
 
