@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Motorola Solutions buys London-based video-AI start-up Calipsa"
-excerpt: "Motorola Solutions MSI.N has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video"
-publishedDateTime: 2022-04-19T17:31:00Z
-originalUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa"
-webUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa"
-ampWebUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa?amp"
+excerpt: "Motorola Solutions has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video security solution, helping its customers verify alarms and detect tampering in real time."
+publishedDateTime: 2022-04-20T06:00:00Z
+originalUrl: "https://www.channelnewsasia.com/business/motorola-solutions-buys-london-based-video-ai-start-calipsa-2634606"
+webUrl: "https://www.channelnewsasia.com/business/motorola-solutions-buys-london-based-video-ai-start-calipsa-2634606"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "Motorola Solutions unveil Artificial Intelligence Network Video Recorder (AI NVR) that combines AI capabilities with a NVR"
@@ -32,6 +36,6 @@ related:
       domain: sourcesecurity.com
     quality: 26
 
-secured: "6As2yJ2eq378reAQpm1/+r62QCV2hdpW/7R73rFAo4N8jcNxJkv7vWxM+gGgAiNb/qqrnEFvlzMKT1cTz6PaVlQV1hKuKCP4Kd5zrCOdc2hKohvYTukBAm9l/fDnG70psEskQXsg6IFyyFOY+T9D4U3fk8emPBaZF7ScL7VAQ0nqBoO0WvVX7quLnhreViMPgKORnl6AEfunf4ttS3X7j1yRGl2mlm1acue3OnNyvqgkhtUVQYvLNGxmWidOT1OE7OBOod2Ef1dIzTgA4tRvtHOBxy0QS/zr8QZxLgs3mbkhOQrHrrF8M12Ux+7NARgEnVVZmfjDXW9PNDhZA7hCGHriMkwTCXwqu+01ZiLxYUZQq3HCubONM6WoxNq0rwxrKInpK7GfMXRUtk2K0epl9Y8cNGtFBjPbhe9MefIIlqUmd6CRX3r0hBPFaoajaOsjbxqD9M4wg9wGpRtFfwo6zo2WLUCHAK5zO6aX2fc6uyTZLt4iwDN/XHilTvw0MC+6865SSvX/ti5dNmpLlOWoqw==;8JemnV5vnGcjU96CFiRmVQ=="
+secured: "BqCpbU5VRUeX2uVJrrry64a16PTkaSjK/1eYpgG7vpKaqDXjM22y3+87uDJ8++prS28VBCzXlE007hbk3nIAROJmEGmpG7REDax37XCUwIa/MAjVHzCtNcVo4l1V6mhjwfzefCqapqrJa3Y07HoF9G+XxaU+gd2S7Oev9hwZ/IDwRUDWoevjA+OGlQw9Ws7R7lLRv7fW24Znwzy8e+FeVLuyWRVbrrkPUbKXbxucpfd6Z4IQTAzpU0S9HmQtapS7zKS4MYmrCxSf/Rkod1F+iZ8O6k/DW7SXx83hSNwt+KMNKUXkgTm1LSAG0nNhzbeaSMw8aHveRWgr9IVvwQO0jAzNFdH+qYacpGdjxnCsR04=;lsCw7ECn+mPR7fNrIegQPQ=="
 ---
 

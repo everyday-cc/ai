@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-access
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
 type: article
 quality: 79
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 2048
         height: 992
         isCached: true
-  - title: "House lawmakers investigating government use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T13:10:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: 10TV.com
-      domain: 10tv.com
-    quality: 17
 
 secured: "HsQjX9srEabKAvloEebHQUebBAHvMS843RBI+gVMN0Z1PInLOx8fLxvbqoYCW1PkEFcFyNZCsyCs2vFYAqgpu+rK4MLbCMQRn6NxdoPHBHSPH31BKkGpWPGtONgL6s5l2v2IVXpAZM+Dx+Yf3VdlE8vy1ZufVfuDS3nROckxtGLNuQYVzjupmTnX42L4hDUQmWuiNxYSQZX+/9BCOJ/5OIL2jc3SP+hONWS9OYcZDJGEFmqgMjuOpAd8J/PDPWR+2VPB/qhALk1fYAbkY3eWdShk9n/k+U1EOaLxhSRQdw8hro9KOx1qb5IRM7xCh3K2JqzJQBGGnZ+WMdvveQIYo8l4xuQmeGtOTDkv1KBw0mE65NSizil5EhCwtUEetMCf+bqo6Q4zJo+o3KKPGQc1VZJ7uqnUBVp3zrM7sPN1QXGkxmHzlVF/vZgo96tW4q4Oj9zIr2tJ+5lis64mKZD4L4/pIFvBkxgLsV9Gtwfk80gICQuKf6e4K7WxxpVjselZVZNK8GnxalT/veNn6rV3WA==;NCTmVYA91fCmjZ7IcIRjVQ=="
 ---

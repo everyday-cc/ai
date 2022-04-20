@@ -27,20 +27,6 @@ images:
 related:
   - title: "How Fintech Can Help You Manage Your Personal Finances"
     excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
-    publishedDateTime: 2022-04-15T14:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/424896"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
-        width: 1024
-        height: 658
-        isCached: true
-  - title: "How Fintech Can Help You Manage Your Personal Finances"
-    excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
     publishedDateTime: 2022-04-18T00:00:00Z
     webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
     type: article
@@ -67,15 +53,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
-    excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
-    publishedDateTime: 2022-04-15T13:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189729-fintech-tifin-which-uses-ai-and-investment-driven-personalization-announces-new-partnership/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 8
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
     publishedDateTime: 2022-04-18T04:34:00Z
@@ -104,6 +81,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "Ncxt3R692YDNcH3c4dK4RnU4+FAhU6k6Li+Me4lJ7s59xVfx5GRwXgeXXnCQm55f30S2aXJ6nN1G7xKD+7EssYAgJRiUozAP+0Z15hOp+DzW2IrCvKw/g5FqlPl/zrYpT50Q0akx5uZ/Wn3+NsFGhk6QQmQztD+tG7GVC0kCdGdTb+vvrMr7jJJc6UUO5ATqHtp+yEbWWXNv6kvoBx4uZnQQ6JhEaGFyDG3isaN1NISOoKTNgHugDe+30cWan+GOopI2VG9X5Y44SRVuF+M9uYzr9J4AsyHq0ZMIkej8zs4z4boZqeXMdcdo5V843jd0SLU+B9jUf7XfsRAwGRdoX9evyMsiCfITuLv9XV6WXFg=;XAUBq8QAl8I0kaYKR4rh0g=="
+secured: "FJZMejIGdvYHYTZGGaz0/kal4AwYrPeX9rnDD0r0NHaP/o2MIwIPNEXuyvYcjdBW0kMJuvifYbI1fP0T9dA8m5xvx3hhWFT/bp5Pvl8YO22C6NJZVx7bN3zCZPNW2nS77F19YJiqN7MLUkrb9+Fn6pggTmSIPDhYUoJqDZbyVKUqKxlTI0JRHIu+8vY+O0SfGurUjcAccNj83uXFBc4lcrTw/4ZeeAUH8VGleYi1pnhwdYaDPIRxd+XXcixWwL7y0m2HGES11E65LvffS8w3VTfAAYz1KSWcRH/fXZMJ/7pxxZjTUlm5NT1eyjWTjbWm6AyKY6/Dv0D/H5KKoD957WOKM/i68hvquw0kXouK534aQaLmLE2gzIM1T4nGMcHBsDkVDMtPZotQ6O/RgEtzugUzakWV897PE/y6skVk0eD64P3WQby0i1vWNKjM4JxfD9CQDN6nm+TAE/GmFbd4Ykq28jm4ifrOYpX0AhFvYUVPtJEmL6xVuJPX4K86dacQESWNdmgxU8PEEnbGdd6tpQ==;XyY0i8y+Ry/42ts2GtPeUA=="
 ---
 

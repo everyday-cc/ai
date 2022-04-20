@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3657633/bharat-bytes-india-has
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3657633/bharat-bytes-india-has-most-digital-ids-diplomatic-dialogue-on-ai-gccs-surge-5g-recommendations-air.amp.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "US and India launch talks about military AI"
-    excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
-    publishedDateTime: 2022-04-15T14:27:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 37
-    images:
-      - url: "https://www.defensenews.com/resizer/yn6AlRGoKGRxZIAkJTzMElmVFoY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/2XCHIWVJWJBTPKHX3WZQTY747Y.jpg"
-        width: 1024
-        height: 690
-        isCached: true
   - title: "US and India launch talks about military AI"
     excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
     publishedDateTime: 2022-04-18T13:21:00Z

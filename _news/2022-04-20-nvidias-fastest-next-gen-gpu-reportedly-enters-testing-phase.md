@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
-secured: "YZi9C6fGe7HuDoMvsGATiPwrTJCpoAk91N6hWAI3HMubWOf9XDdvogTd5CsWsQRlOJ6BWMOSc5XLPCBL682XBbwPTh+yg9XUdUN7aq12QOIHIz9OTqY5GqB7U7iccjH/skIbnf3CpAcqeMQG7BOKXmn4r21SFrRjP1QBeuaaQM7N4bbJ2PNsVVh7p9zh8aJ7qjJGv+0gsqRpF+4SFehbY7UUwd8B4BubLm62hT35lNn4id7zPjBTbjWZQnndTo1yY0eXY+fgjckiof0ElYQYc5IF8irwgc2iq1zaysG+ltM6g+kb5AGBB8meCHXA61q3q6C85JolgrYmVMnNObrhDuJBak/SJzxoeYq5ShngveE=;UPgQVhBTx27DIGgEBdpbmw=="
+related:
+  - title: "NVIDIA RTX 40-Series 'Ada' AD102 GPU Enters Phase of Testing"
+    excerpt: "Nvidia's next-generation GPU family, codenamed Ada Lovelace, is anticipated to ship this autumn, and it's about time for the firm and its partners to begin testing the new graphics"
+    publishedDateTime: 2022-04-20T07:17:00Z
+    webUrl: "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
+
+secured: "+WOMJTOaNN49hbWVhk309VQZcavGynqrRlwvBp+Vdqmfx4GiritH31htoWVfPOS4ld6ejrVnhRRKBI5F2tS5EElac+EkseT8SdM81WlrKs9582v9TVGSCKb5riK2x6nq3TkVZLhCzytYL+NmshSj+Jwhy7x/iS+CNjjEj3ANVvnTaCZWxZmu0Gnss5wvTD6AGsfXPyhG0C4Sti9rahgzzU2eyyRP34cKQqNRv/E1o8lT8JgbfoPqOuotWJsd38+NWeDxsIWAadn62GM3zktZBHMqC8XWn8mmEiNOMrqOO4l+HLy46Eo73mSR68InBIv1atx4Te8ZobzI5nc8e8cq+8rVSC+abWytBUc14GzwjzubQoRALMnQHnPl8axbUkKr4Kdhtkn1tLgYLfS/zse5fqycdKPYr0pi7nlm2EpXg6E3Xfla3Ja3H2zfa0D/dVxJdY4Xb51gS1NYy2+PbWndupyxd9Nf90j4YZ1lYIwjy/K6jRfBVtXS9oPWiBmxDij1hBlZ84FdERThhxuYQxWAvQ==;8C9LIM+MUfaoqAGJe49LXA=="
 ---
 

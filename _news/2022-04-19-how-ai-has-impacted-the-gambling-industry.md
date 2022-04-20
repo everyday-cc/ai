@@ -56,20 +56,6 @@ related:
         width: 1945
         height: 1112
         isCached: true
-  - title: "Sitting Out of the Artificial Intelligence Arms Race Is Not an Option"
-    excerpt: "The race to build autonomous weapons will have as much impact on military affairs in the twenty-first century as aircraft did on land and naval warfare in the twentieth century."
-    publishedDateTime: 2022-04-15T13:15:00Z
-    webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/sitting-out-artificial-intelligence"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 39
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/20516463898_9f73728fad_k%20%281%29.jpg"
-        width: 1222
-        height: 687
-        isCached: true
   - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
     publishedDateTime: 2022-04-18T19:18:00Z

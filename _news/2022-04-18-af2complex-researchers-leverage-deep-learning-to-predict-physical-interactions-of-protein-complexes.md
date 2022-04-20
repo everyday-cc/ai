@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "New deep learning neural network model predicts physical interactions of protein complexes"
+    excerpt: "From the muscle fibers that move us to the enzymes that replicate our DNA, proteins are the molecular machinery that makes life possible."
+    publishedDateTime: 2022-04-20T06:16:00Z
+    webUrl: "https://www.news-medical.net/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 64
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Protein-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Researchers leverage deep learning to predict physical interactions of protein complexes"
     excerpt: "From the muscle fibers that move us to the enzymes that replicate our DNA, proteins are the molecular machinery that makes life possible."
     publishedDateTime: 2022-04-18T14:12:00Z
@@ -42,6 +58,6 @@ related:
         height: 1620
         isCached: true
 
-secured: "iC0Y3F5HlaiKmtwqnOn++KdMjHAys/fOqjz9x8wu920Vk0y+JflLZn1riEEkT3isYT9tgKU4KPJWaKv1pWMgLkkKQRgFosSqRD0P7F7W/70Z6cHJgFfWQod6244xSBRY9dcW5tOPAo8fhz6hOJRcCRTNELHkoGADUNzH+A0LLP6Ivj2+I9Ys1sQP9xoqqsxHBHJA6N7GkR+CPPs1sIR3+830OL1i4pqlmEqGPkgUtGnV5rjWUCjMKAtSINBxtQPVlJv5fNk/9oQeTfP2/mEeKOMl/o/ZspQuvZqVhOEaw/mIDR9exTg+gDDFK65vbcbGkhCX/0cvXG4xXhDoFcigDHEDRrEcYoTVfONrp9XK+Rw=;STe7XiRZoKLV6Z8b8Hp1pA=="
+secured: "1dPutJL39Z1HhDFwB7UbrgduQEQZEXrR5keGa9prD5OCdUhS7S3XWFu9Yh3FvzVBFhGAWjHYhOSSNisWFdBze3cB+j6rYGP92ulHCzuY9GfSenH4fStePV8q91JbwT4grhrDm+PYxrGP4jYawzRx8vtE23VS8WMfIU3bpvwDqJDrwTWaO2r7dX+bZzHacAW2vKNkHOmmo2++pU4wa+smyeXGVjOV+7AKME05i18dpSpJ7NVq2jUTBe5EjYBjwgl0ZGYiUW6tp3HKR6zCU+5Nn08S0JHMcTJ+ihdztqiLtzUbwQVP0NxK0crU39etD43eTVhNM/+0TJ4+7fXvDGEplZcdER3MdoOfN8e5bLQZgxo=;P6Fslwk8ChcbowCZCdU2bA=="
 ---
 

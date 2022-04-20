@@ -53,6 +53,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
+    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
+    publishedDateTime: 2022-04-20T07:12:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 32
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
     publishedDateTime: 2022-04-15T20:09:00Z
@@ -63,6 +72,6 @@ related:
       domain: menafn.com
     quality: 15
 
-secured: "+6XHIh5OTpJo9ckDXJnteIaL4h5UXZPJzUoT17wqWZBMJmqQIF8No1kwESw+J0Kom1rKXPGI5bot/CaRGPpjMfuugy9heH6Rv40MujhZuLAuQC2f7a9Fl2CH2I1r/j2+68vMNekkaWKbSKa0BRw2Gr9K1Yc69eWrjTDsfroP/ELFIwritNuCxIASQ7S/07isoj4eJn/fd+vR5vh+rIx9IWaZGIyALUSFq5h+8DEt+6f4Y2cKD4IscKjyewHUoyuIMrOaQAhG2aNfXPkIoyQ2sWx/dXzQkXX9oZEuOa/bhpcpq/vtHOJT0yYVQx7TSnm1wPEiT1gZ1x5AQfTv8Ckh+5o2ZvEPhMzFkj8XPE0VYlQ=;6sMMXYOJg8xaP5TcB+Zm2g=="
+secured: "Yddbh9KXYmq1203STOumFkim7ICwQGpycpRZ9YGkZ+4ZggGEs7bnL6Lh8xiyVrmCy6nyBwMjZf5FRutxVgL5SrPvEcrqEbEIf/HAuUWchIASaItWrXOP/ZH7LOHlayMvVCTjCMc354thv77Njb1Ytibo7BBDN8OTvI52Nwgg/POhVGTZYYj05O95gj54JEEefkoGNFgUQTsV1BIvKEDrtN+M92sJfB3NLzO5vYJOR7LHcsDcdl/EKNgo50PQooo7rz9uGph2Zp5LfLvqXOuqym8iWTktMIQu05WlGw4zoFq1UYbBjbWlRf2m2LexI7iQsOgbqdZ18PK1KFCGtnJm6FU24srkMQmdKisNusdZ7B+COASZ9FIrtpx0F6Ddr+kjAmzBH3fxpXgdyU8Rv37IYdlah6urPQqDDeWHCrJxc4nUB1XRwucj23eq2BcQnDcy/e+59+Qb1bLHze9b+i/D7Gc8T9mfsfl8+tV4Pm2Ci0dDqawASZ8gm72yTPkqLvD/q4I3NEHdp1Pb/pcogp9IuA==;7UP7ss6LFqml7zn5Gu8QiA=="
 ---
 

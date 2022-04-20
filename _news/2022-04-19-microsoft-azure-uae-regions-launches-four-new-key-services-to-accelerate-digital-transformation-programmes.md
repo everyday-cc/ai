@@ -52,6 +52,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
+    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
+    publishedDateTime: 2022-04-20T07:12:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 32
   - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
     publishedDateTime: 2022-04-15T20:09:00Z

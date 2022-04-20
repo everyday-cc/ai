@@ -21,20 +21,6 @@ topics:
 related:
   - title: "How Fintech Can Help You Manage Your Personal Finances"
     excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
-    publishedDateTime: 2022-04-15T14:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/424896"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/due/hero-image-due-424896.jpeg"
-        width: 1024
-        height: 658
-        isCached: true
-  - title: "How Fintech Can Help You Manage Your Personal Finances"
-    excerpt: "Per wIt seems like the second you enter adulthood, and often even before, personal finance management becomes top priority. The need for better money management soars as the world"
     publishedDateTime: 2022-04-18T00:00:00Z
     webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
     type: article
@@ -75,15 +61,6 @@ related:
         width: 1600
         height: 898
         isCached: true
-  - title: "Fintech TIFIN, which Uses AI and Investment-Driven Personalization, Announces New Partnership"
-    excerpt: "TIFIN is an AI-powered fintech, which leverages data science, investment intelligence, and technology “to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN “bridges the gap between ..."
-    publishedDateTime: 2022-04-15T13:30:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/04/189729-fintech-tifin-which-uses-ai-and-investment-driven-personalization-announces-new-partnership/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 8
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-19T19:40:00Z

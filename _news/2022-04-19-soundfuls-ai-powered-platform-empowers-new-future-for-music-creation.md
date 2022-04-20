@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
+    excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"
+    publishedDateTime: 2022-04-20T07:44:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/soundfuls-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 37
 
 secured: "svYy7fPz8js7sbpHZ8BTv3hex2a+vf4zmFw6j4B3fuFH1TkWVcAZ93DKjY7z6fhgYMT8bFgkDDb9rwPjSyTFU7WRo5x15SIDnGG0Em/qIWKM1XX9nfKfiKevEM5hkv0hQS2dMRHcGR1pbZLQhAqAYZUhx37zcxVkRt8M3O6wdYpf3E35pItKgXQSVmKz6X/xrB9N1qN5kEgvSlUmqLlf+vNWyVXoe3h/ZXH2v8QdFmdICtEg0bJy9HC7oczr34cG6+UOqZd9iUEROEZbf1pwWGW0A73IGR4b2bK1+EfN4HFwBGZZ7nANGVb0/iJDLTS25e8a/tRSekFaKuYTvHeQry0U9+lEw7KdgbQ+20OBYd8=;fjNKz8B/4hJlBpGbI5avOw=="
 ---

@@ -60,6 +60,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
+    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
+    publishedDateTime: 2022-04-20T07:12:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 32
 
 secured: "h4wMsJl1DCHYRHkchAc1DZ8jntuvQAgK3iQ62aU4l4rVl8Lf3J2qYgbboIkELGcjQSzlPpT19jo3TIDhSUvV6IMAe+pyZL3MyhLvUsjA6NctByS2k6e4bgzm8paacBXb8+yUnDMpGCyjx3YeFWRUbBLVrOqO5Kv1bKvVLPOhdok5YKLIgdx12q9InGlDwYf3E/oZvr0N6mABUs/mAYkT9bGMFB7ItFqyqgyERVD5OyNFIcfDnCXuPXLg5qaZ3yvfJrnM1Ej/tqMj8b25X4NghZg/pEFnc8GB1m9lvJUB2ZJfm8RmwaQq45lyKeJtm3/8Un8ndNAqCMtdv0UqWtPDjgFoiewIO415grEkKU0Y1HU=;0xnMxHdTlXcICYZ5x4SMJg=="
 ---

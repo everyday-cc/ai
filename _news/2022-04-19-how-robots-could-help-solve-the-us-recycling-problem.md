@@ -1,23 +1,31 @@
 ---
 category: news
 title: "How robots could help solve the US recycling problem"
-excerpt: "Nearly 300 million tons of waste is produced in the U.S. every year, according to the Environmental Protection Agency. The need for automation in recycling centers is \"obvious,\" Matanya Horowitz, founder and CEO of AMP Robotics,"
-publishedDateTime: 2022-04-19T13:04:00Z
-originalUrl: "https://www.aol.com/news/robots-could-help-solve-us-100400471.html"
-webUrl: "https://www.aol.com/news/robots-could-help-solve-us-100400471.html"
+excerpt: "Recycling on a large scale has always proved to be a challenging endeavor, especially as the production of plastic surged exponentially after"
+publishedDateTime: 2022-04-19T11:36:00Z
+originalUrl: "https://www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem"
+webUrl: "https://www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem"
+ampWebUrl: "https://www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem/amp"
+cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/562697/109/how-robots-could-help-solve-the-us-recycling-problem/amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: WBAL
+  domain: wbal.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "fL6AHZ06+1dlG4Srw+wdgzG9RpWvnFJTX/NOslCAZZ7sQDOXO7BVdWYW1dTTtLfSCKUXTq00lsqwYLwGU9Bo4cQVwd5I1ANGSmhY7xkY8Thn/QSSRmbKUChIZWVDYUKr0VkjoDkeAmokSr8hlhO6XyUCgjH4h5BZs+uAaLCIo6dxRqgivbrnddhaZjMC+xpr7o0Z5hFwpgzwgp5KAnmpXnV0fzvDSakCJ4C1UWU2ZU9VxfG/rwcVMZ5WcnTgpjsHzJx21kjd1DnAlY8e7bEFWFC0L6jKN2GSpzsleajioLe5k2wz8tY+Ux6qJxwUSBCiPmZA1nbzf9Z8g8GQU5JlLTfo/UxGDUA5bA6XvuyasUA=;rz/3FastU5UuvykZtyU+LQ=="
+images:
+  - url: "https://cdn.s3-media.wbal.com/Media/2022/04/19/3141b7a5-6088-401f-8e73-4474fb1d8d50/original.jpg"
+    width: 630
+    height: 354
+    isCached: true
+
+secured: "9p9iOsq2jCN3nGqHFtH1ntZYV9jeVO5W4cqdhpXEqwl6hrL3CxG0kbsozalCJ47u6DzClroA5xQSk/MMCPSTzbTKrRlghYH066gO2DUzrj6oBBUvW2GqjBWkW93cdsvC0nJDJGcrn1xdepJXc8PdjLIo7ENaDCDR9DV1tRmstCOP5yyYANwfeHCrCacicgBnB4ioZKWlrwD5/gjxcJd282bxVZ8dmL28cVl2S2msUXZNQSOUXZc4+zg0+CRmzyc79ndV4p4SBu5W0qaWXpXB6hN2qS/J6M0nytNlVCcMQ08QJvOSTNRjOUggWwC7blYG0LgtWYkiNvgheIFpRCsWbU76fiRJwJBLtj176MJLT7s=;R7TIXWiCSk1/8wUUfOKlFA=="
 ---
 

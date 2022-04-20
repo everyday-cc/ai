@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "US and India launch talks about military AI"
-    excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
-    publishedDateTime: 2022-04-15T14:27:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 37
-    images:
-      - url: "https://www.defensenews.com/resizer/yn6AlRGoKGRxZIAkJTzMElmVFoY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/2XCHIWVJWJBTPKHX3WZQTY747Y.jpg"
-        width: 1024
-        height: 690
-        isCached: true
   - title: "Bharat Bytes: India has most digital IDs; diplomatic dialogue on AI; GCCs surge; 5G recommendations; Air India’s IT upgrade"
     excerpt: "India is biggest digital ID provider. With 1.3 billion Aadhaar card users, India tops the list of countries with the most digital ID users. A digital ID is a digital copy of a phy"
     publishedDateTime: 2022-04-17T19:30:00Z

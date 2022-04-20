@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
-excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broa"
-publishedDateTime: 2022-04-19T12:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-quantum-showcase-video-enrichment-analytics-solution-using-catdv-/2022/04/19/9584825.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-quantum-showcase-video-enrichment-analytics-solution-using-catdv-/2022/04/19/9584825.htm"
+excerpt: "NDAQ:QMCO) Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
+publishedDateTime: 2022-04-19T12:45:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/04/19/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software"
+webUrl: "https://stockhouse.com/news/press-releases/2022/04/19/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI Hardware
@@ -24,6 +24,6 @@ images:
     height: 269
     isCached: true
 
-secured: "bNuFtQV3ZOVwErzPU/xyEbNY6RFWuZ6c+Pomw5vULdo+fM1uNMWqTni5jl81OZ6g9AO60FyOXJHtBK2+9CEtXQmkrIO5gmq1ExhA3c77HFbKpjkIXyZfLhPNcb1RIM679F8RjXF6yqpXXX1oLBdajVtLc9BR/MFRgfxU4xvsQh8wSG0I0RmzAszg41SszT6hBVCoqk6wJsklE4CmiWlj3n7omolyVcl2oshpCW8sHr8g/MBQnXGv4uq+nfyD6xfaA4gMm5bowjAMszPagJpI3spyrtSr8baeOyhMQPbRG9fOBFWb9pb86mhGD3drdlqYmi+FqhDVAKaoaHA+1U8BSpMq5qYpIQteX9EHnUMdsBU=;pHc0RXhWIgHXfbtooKI+AA=="
+secured: "RYvUQUR3pUSytvk+Xguj1AB8K631s2j3PNLnfiCjj47Eer+dR1vcAUzM2Fz392OwLpb8xzOuSB8UEgjMZUIsOOTCGsp5K2nr+rEajbC0rlleg5j3bcETpjkyNyb/c2so/9LTi+vZpkmmzg3ht8cLz/R4aBus77jNF5mzV0Xwqtj/hbcwJTDRwBjTJt4oCCNFqaeXdBAF9gOJ0RiUEkNjRoIJI4O5DfwXX1b4J1fFBpMEqh3APMrUCAmNAnMW7yBOs/TNXxAlaH4FoQiidvzFtZ1AEMTrEDLX31bVb9K3zSt7kEir7pInbUateoDtWF+/6yWHeepozU3u+WNd3sfwdezlqZAc412Q7cVhkhKJRh4=;njtHk2Fp7IeemZE/qa6iOA=="
 ---
 

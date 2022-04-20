@@ -7,7 +7,7 @@ originalUrl: "https://pulitzercenter.org/id/node/26547"
 webUrl: "https://pulitzercenter.org/id/node/26547"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 768
     height: 600
     isCached: true
+
+related:
+  - title: "Artificial intelligence is creating a new colonial world order"
+    excerpt: "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before."
+    publishedDateTime: 2022-04-19T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/"
+    ampWebUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "eOc1/TgpJZ22RKJt3KwBgOtn3/Lf5+nDTAp0+B7oMa/hiVcthfwZIFqZ+/0NxCcr6SDm4zgC8FvXlEv9EodnwMwl6+I3GE5eIHa97UstX97UxrPCby7qsoxWJ6MVXrwZ2cTwqe+J7IV434UP5YOdFEj+C4avJW4kqErDRiahv7F+zDkjj3lAygnAIhj5sDsW9D2S+R7afdR84aN48taeejUnoosLZTJklo4HxBi2qmTQarPiHUvUriCM88kPe5iBqqFeT2Chk5uhc+1efhg9OxHo9pDbUcWkMwodFFHzgNoWMbXdZ0+OzV1b6yqQMi5x7keL5jsE4qpQ+MaMMh7fNviaI2/RVKqFquvnVTPrYVk=;Jlx5SMS16+obx8E9UDrRcQ=="
 ---

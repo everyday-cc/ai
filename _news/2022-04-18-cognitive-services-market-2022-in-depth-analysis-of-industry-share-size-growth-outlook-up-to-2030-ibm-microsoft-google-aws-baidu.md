@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-marke
 webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure launches new services in UAE"
+    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
+    publishedDateTime: 2022-04-20T07:34:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Stripe hires Microsoft veteran to lead financial services"
     excerpt: "Stripe has hired Microsoft’s digital transformation chief James Phillips as president of financial services. <br /> Phillips, who led a team of 15,000 in his role as president of Microsoft’s digital transformation platform group will join the B2B payments and financial infrastructure giant as it continues its plans to expand the business."
     publishedDateTime: 2022-04-19T10:46:00Z

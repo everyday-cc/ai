@@ -87,15 +87,6 @@ related:
         width: 2048
         height: 992
         isCached: true
-  - title: "House lawmakers investigating government use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T13:10:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: 10TV.com
-      domain: 10tv.com
-    quality: 17
 
 secured: "3FtrPHp8vt0VMEKosJ7xDY6wU1xy+h3W71n2cKK0jCpW0MzUJcLxJ73xoDVSl4zPjzvCugIuIp/XRNro5h7xh+zeYL8hNmXBbaAD43/u1kF/umrCsMuV6cWjmbpTAGyOk58K3RtRS73KT8F9h7jvPcxq0SEp3LhFZbvP0y1df/bTltpa5AZ+h1whwE4h6KIS0PFWrv6P/5uaGVbah1dJpGQh359h1cf9DxV8jPXmuNYoKOf7nz8mvJS405PViYscC97Qb2Z7Ic0ZBNhTIXYrr3WGgOgjdc40/5e3kFJXtEbA2Ze8llVI8nHgO03dY6bf+yVuGZQHQCrd7Pg1q1qt0cSN4qA7+FXSE0/1lBFAdmiiYbI1WtLpqY+hi2CaNhAVY2kz9FKT7gxLnT/yRtVg2MWFQtGuK064ueuzysupV02RbR3aao6a6x9P4acj3uZE7uN7iqtSSEfOYj0KXHOZmEBvQsOTHxk3VfdqnLXnM/GBAbkRLc4NkcxQHvw/G0xHdm1wSPLb/fBVenIkgoqMqQ==;Lm8raNLr5dlGxxib1RCXlQ=="
 ---

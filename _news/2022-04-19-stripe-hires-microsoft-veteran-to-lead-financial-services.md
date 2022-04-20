@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Azure launches new services in UAE"
+    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
+    publishedDateTime: 2022-04-20T07:34:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Security Robots Market by Type, Industry Size, Top Companies Share, Growth Overview, Demands, Analysis Report 2022-2027"
     excerpt: "According to the latest report by IMARC Group, titled “Security Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-04-19T07:22:00Z
