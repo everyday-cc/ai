@@ -2,6 +2,186 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-03-23-snap-buys-brain-computer-interface-startup-for-future-ar-glasses.md",
+      "title": "Snap buys brain-computer interface startup for future AR glasses",
+      "excerpt": "Meta, Apple, and a slew of other tech companies are building augmented reality glasses with displays that place computing on the world around you. The idea is that this type of product will one day become useful in a similar way to how smartphones transformed what computers can do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/snap-buys-brain-computer-interface-startup-for-future-ar-glasses/ar-AAVpcdR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/UvP-RTF2oKzEcEarNqu4n7AWuNE=/0x120:6144x3337/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23337938/NextMind.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
+        "domain": "theverge.com/2022/3/23/22991667/snap-buys-nextmind-brain-computer-interface-spectacles-ar-glasses",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
+      "title": "São Paulo subway ordered to suspend use of facial recognition",
+      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "publishedDateTime": "2022-03-23T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc.md",
+      "title": "Computer Vision Software Market See Huge Growth for New Normal | Algolux, ViSenze, Deep Vision AI Inc.",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2022 (Heraldkeepers) -- The Computer Vision Software Market research report provides all the information related to the industry. It gives the outlook of the market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
       "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
       "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
@@ -967,205 +1147,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-openshift-410-red-hat-teams-with-nvidia-to-add-ai-and-machine-learning.md",
-      "title": "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning",
-      "excerpt": "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
-      "originalUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad6d8154638891877cfc5fbbd7c0e66596230e02/2022/03/22/bc702cea-0e8e-4b50-810b-a34d658b876a/gettyimages-924478844-redhat-sign.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
-      "publishedDateTime": "2022-03-22T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-could-artificial-intelligence-completely-replace-human-financial-traders.md",
-      "title": "Could Artificial Intelligence Completely Replace Human Financial Traders?",
-      "excerpt": "AI is reshaping the world as we know it. Virtually every business process in every Industry is being transformed by Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
-      "originalUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEET9K0Dn35yQ/article-cover_image-shrink_600_2000/0/1647973633511?e=1654732800&v=beta&t=VAptDRD8gMp9dd5XwwbnYst6Qm5wJ5cbZoGUOR2PxuU",
-          "width": 546,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models.md",
-      "title": "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models",
-      "excerpt": "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fe1a54347f60483b6b6f64a48f5e3be7dec3ffc9/2022/03/22/059e1b3e-e145-4884-85a7-1e4139be8bfe/microsoftaizcodetranslation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "publishedDateTime": "2022-03-22T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
-      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
-      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=635287",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=635287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

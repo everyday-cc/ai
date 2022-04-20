@@ -41,6 +41,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Self-driving cars: Motorists will not be liable for crashes and can watch TV behind the wheel, government says"
+    excerpt: "Insurance companies rather than individuals will be liable for claims if vehicles are involved in collisions, the Department for Transport said."
+    publishedDateTime: 2022-04-20T00:12:00Z
+    webUrl: "https://news.sky.com/story/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
+    ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 24
+    images:
+      - url: "https://e3.365dm.com/22/01/1600x900/skynews-self-driving-care-car_5652425.png?20220125185007"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Highway Code changes: Watch TV at the wheel in new rules for self-driving cars"
     excerpt: "Motorists using self-driving cars will be able to watch films and television at the wheel under planned changes to the Highway Code"
     publishedDateTime: 2022-04-19T23:01:00Z
@@ -56,6 +72,6 @@ related:
         height: 675
         isCached: true
 
-secured: "TZCLRWs+4I0gHlTPc8537fXfNFLUlKY6CjMzjElRi79PJmDqE9tOQqndZaDFCnuLOVgu8SRC1Yy00WLG6x0/FkKZtRbFBa+PNvP8MJD/xGYm7ZJVQHqTapYNy8Z9KvytuBc0p9cv30PA48M+R3wJ5++Si/hVRyBZSRRqEZi09Ke11phn8D7ET7Si4pMKBqr0x7vKd47NHI/1OT1gdRj5Ll+ngYsm6xym1QwoFdt3J1KD9/RDElGMLkop+/ABq6OUU8bPQJnnUf5D7P1PebSxbKUn8zI8PYHyu7/DmSPKtYWeBKeE8oLxPxL+TJgsdfu4BBH2qrI6CK/4vBkpRZQxHVPhebQAHG/q7kJBFNalrJ8=;UYLWOs5x8A3dTYXEWUzA1A=="
+secured: "CKjNBWbmOXunqlrULxpkxsUMi+j/lT4p9aMuxE0qLkPlffz5Rnl8/bhifn3Th3vE8SuIVgo4Wb3itSMYiXdQhey5Mu6YaWPYM62paF5CccuFCT4tGVLTIWAvQz11s4rFcPbRLErEpnk7/W/E4+JsH3UsEhIShuL+OzUYu/eMW9PVdjGOFcqMDoreHR7SPs/f22sIayW+dUIoS4yepLDIrRV4YfUGD+A9rvjDXVU83jFPCE+ZEw+qR87//8VsnU3AZ8DCQ+EjZrz3dX2TvlrigFcWsaf2yHheVeY9geNvZc5sf8tbubHC3YypBGGYkX2sVOBjNmcZ1lIBitwfWGM/ZKcJ1X9HQH7061yLoarVfXmz19tBAepn9I71+vTBUXgFh8e31HXHYZTK2RbtEgoqYw+brWuHbmGuxtR8SW0Yui4d0diJ+Y/CoXWzq9i/cUl8pbpA3CPw+T6TLf8IJGp5HTHi/F/HWYe9DAG7kp9xuw201ddNNn9JFgr/0H6dbLaFhAoF+yxhUtKjl3XU6LSP0Q==;lCDyBXqEe+7guxYUvEsucg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: List of Banks in Belarus
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can drive a quantum leap in cybersecurity automation"
-    excerpt: "The capabilities of automation tools have not gone unnoticed in the cybersecurity market. Here, Tim Wallen, LogPoint Regional Director, UK&I, discusses what is needed for AI, Machine Learning and RPA to transform cybersecurity."
-    publishedDateTime: 2022-04-15T07:16:00Z
-    webUrl: "https://www.intelligentcio.com/eu/2022/04/15/how-ai-can-drive-a-quantum-leap-in-cybersecurity-automation/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/www.intelligentcio.com/eu/wp-content/uploads/sites/20/2022/04/AdobeStock_320206922_1000px.jpg?fit=1000%2C450&#038;ssl=1"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "The Use of Artificial Intelligence in Cybersecurity"
     excerpt: "The digital age has created several opportunities for us, and at the same time, we’ve been exposed to a whole new level of cyberthreats. There’s no denying that cybersecurity is now an integral part of every business that wants to avoid being a victim of identity theft,"
     publishedDateTime: 2022-04-18T14:54:00Z

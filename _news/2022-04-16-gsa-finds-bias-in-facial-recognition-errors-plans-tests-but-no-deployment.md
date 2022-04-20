@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House committees launch probe into feds’ use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T08:50:00Z
-    webUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/"
-    ampWebUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/man-gc0619524e_1280-e1644924933516.jpg"
-        width: 1267
-        height: 713
-        isCached: true
   - title: "House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider"
     excerpt: "Looking for the latest Government Contracting News? Read about House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider."
     publishedDateTime: 2022-04-18T20:41:00Z

@@ -36,6 +36,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-09-cognos-vs-tableau-2022-software-comparison.md",
+      "title": "Cognos vs. Tableau: 2022 Software Comparison",
+      "excerpt": "Tableau and IBM Cognos are two well-respected business ... For other formats, ease of use can suffer. Similarly, the AI-powered and Watson-backed analytics of Cognos lower the barrier to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/woman-at-computer-analytics.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-ibm-z16-the-mainframe-is-dead-long-live-the-mainframe.md",
       "title": "IBM Z16 – The Mainframe Is Dead, Long Live The Mainframe",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Over the past several years, he has written several articles chronicling IBM's enhancements to the platform. In this latest article, I dig into the detail of IBM's latest offering – the IBM z16.",
@@ -1321,49 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-artificial-intelligence-used-to-detect-anomalies-in-power-grid-failures.md",
-      "title": "Artificial Intelligence Used to Detect Anomalies in Power Grid Failures",
-      "excerpt": "Finding a fault in the power grid of a country can be like attempting to locate a needle in a huge haystack. Hundreds of thousands of interconnected sensors spread throughout the United States capture data on electric current,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12780_16460639924659087.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12780",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12780",
-      "publishedDateTime": "2022-02-28T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

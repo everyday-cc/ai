@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-15-ai-helps-teachers-spot-students-with-learning-difficulties.md",
+      "title": "AI Helps Teachers Spot Students With Learning Difficulties",
+      "excerpt": "Artificial intelligence helps teachers identify which of their students have learning difficulties, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62587506d54fb4ce7f4f6c3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
+      "publishedDateTime": "2022-04-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-tetrate-announces-its-tools-will-now-run-natively-on-arm-chips.md",
+      "title": "Tetrate announces its tools will now run natively on Arm chips",
+      "excerpt": "Tetrate, which builds service mesh support software, announced that their products will now support Arm’s Neoverse platform. Both of its major tools, Envoy and Istio, now run natively on the Arm chips.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/",
+      "originalUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/08/arm-chip.jpg?w=1200&strip=all",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/amp/",
+      "publishedDateTime": "2022-04-15T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-ai-can-be-creative-ethical-when-applied-humanly.md",
       "title": "AI can be creative, ethical when applied humanly",
       "excerpt": "Question of morality in AI use for crime Humans, too, cannot be removed from the equation where ethics are central to the AI discourse, such as in law enforcement. In making a decision, humans would consider the morals behind it, said David Hardoon ...",
@@ -1039,7 +1142,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     },
     {
@@ -1092,101 +1197,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-driverless-vehicles-park-themselves-in-rapidly-expanding-market.md",
-      "title": "Driverless vehicles park themselves in rapidly expanding market",
-      "excerpt": "A driverless bus makes a trial run in Nanjing ... smart infrastructure, artificial intelligence, 5G and cloud computing. In addition to congestion, Li said smart transportation can reduce road ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg",
-          "width": 718,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-dall-e-2-the-future-of-ai-research-and-openais-business-model.md",
-      "title": "DALL-E 2, the future of AI research, and OpenAI’s business model",
-      "excerpt": "DALL-E 2 shows how far the AI research community has come toward harnessing the power of deep learning and addressing some of its limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?fit=800%2C499&strip=all",
-          "width": 799,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/dall-e-2-the-future-of-ai-research-and-openais-business-model/amp/",
-      "publishedDateTime": "2022-04-13T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

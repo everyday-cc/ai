@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-25-5-trends-to-watch-in-2022-robotics.md",
+      "title": "5 Trends to Watch in 2022 Robotics",
+      "excerpt": "Growing Investment in Robotics Companies – Investors continue funding the latest robotics innovations in various industries, including the medical, manufacturing, logistics, hospitali",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics",
+      "originalUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp",
+      "publishedDateTime": "2022-01-24T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-western-new-england-university-debuts-oscar-sort-intuitive-trash-robot.md",
       "title": "Western New England University Debuts Oscar Sort Intuitive Trash Robot",
       "excerpt": "Western New England University (WNE) is the first U.S. institution of higher education to feature Oscar Sort, an AI-driven, intuitive, trash-sorting robot. This intuitive robot educates the campus community at the point of recycling and disposal and helps them to better understand how waste is measured,",
@@ -1401,49 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-serve-robotics-achieves-autonomous-robo-delivery-milestone.md",
-      "title": "Serve Robotics achieves autonomous robo-delivery milestone",
-      "excerpt": "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
-      "originalUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
-      "publishedDateTime": "2022-01-14T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

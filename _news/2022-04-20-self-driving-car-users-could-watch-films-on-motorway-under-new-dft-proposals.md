@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Self-driving cars: Motorists will not be liable for crashes and can watch TV behind the wheel, government says"
+    excerpt: "Insurance companies rather than individuals will be liable for claims if vehicles are involved in collisions, the Department for Transport said."
+    publishedDateTime: 2022-04-20T00:12:00Z
+    webUrl: "https://news.sky.com/story/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
+    ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-motorists-will-not-be-liable-for-crashes-and-can-watch-tv-behind-the-wheel-government-says-12593826"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 24
+    images:
+      - url: "https://e3.365dm.com/22/01/1600x900/skynews-self-driving-care-car_5652425.png?20220125185007"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Highway Code changes: Watch TV at the wheel in new rules for self-driving cars"
     excerpt: "Motorists using self-driving cars will be able to watch films and television at the wheel under planned changes to the Highway Code"
     publishedDateTime: 2022-04-19T23:01:00Z

@@ -37,22 +37,6 @@ related:
         width: 1024
         height: 528
         isCached: true
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Down 46.1% in March"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) was the recipient of a large drop in short interest in the month of March. As of March 31st, there was short interest totalling 9,"
-    publishedDateTime: 2022-04-15T07:38:00Z
-    webUrl: "https://www.etfdailynews.com/2022/04/15/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-down-46-1-in-march/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/04/15/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-down-46-1-in-march/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/15/global-x-artificial-intelligence-technology-etf-nasdaqaiq-short-interest-down-46-1-in-march/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 59
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks10.jpg"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "Short Interest in Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Increases By 224.2%"
     excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) saw a significant increase in short interest in the month of March. As of March 31st, there was short interest totalling 10,700 shares, an increase of 224.2% ..."
     publishedDateTime: 2022-04-15T15:31:00Z

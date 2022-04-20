@@ -2,6 +2,196 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-07-facial-recognition-goes-to-war.md",
+      "title": "Facial Recognition Goes to War",
+      "excerpt": "Services that put a name to a face, including Clearview AI, are being used to identify Russian soldiers, living or dead, and to verify that travelers in Ukraine are who they claim.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
+      "originalUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/04/05/business/00facerec-01/00facerec-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/07/technology/facial-recognition-ukraine-clearview.amp.html",
+      "publishedDateTime": "2022-04-07T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-mint-group-only-african-microsoft-partner-at-prestigious-inner-circle-summit.md",
+      "title": "Mint Group only African Microsoft partner at prestigious Inner Circle Summit",
+      "excerpt": "In July 2021, leading Microsoft partner and global IT consultancy ... the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/RgeVDMPY6OAqKJN3",
+      "originalUrl": "https://www.itweb.co.za/content/RgeVDMPY6OAqKJN3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/3_F2tZkB5AjFFBy17RzzBua2pPh4xZLJafgaCHC2MPfUYxcZCPQii-JeFwQD-fstAFbWbN7ZMxZD2ow3j0Unm9nbNAzJF558U1ef=w816-h428",
+          "width": 602,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/RgeVDMPY6OAqKJN3",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/RgeVDMPY6OAqKJN3",
+      "publishedDateTime": "2022-04-07T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-bangalore-international-airport-aws-announce-joint-innovation-center.md",
+      "title": "Bangalore International Airport, AWS announce Joint Innovation Center",
+      "excerpt": "The JIC will focus on driving digital innovation for the airport, enhancing passenger experience, and creating positive impact for the community where the airport operates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "originalUrl": "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.media4growth.com/public/thumbs/news/2022/04/6135/BIAL_Thumnail_440_851.jpg",
+          "width": 715,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "cdnAmpWebUrl": "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "publishedDateTime": "2022-04-06T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "media4growth",
+        "domain": "media4growth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
+      "title": "Google Cloud releases BigLake to unify data platforms",
+      "excerpt": "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. New Looker features, Connected Sheets for Looker and the ability to access Looker data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "publishedDateTime": "2022-04-06T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-guardforce-ai-announces-pricing-of-10m-registered-direct-offering.md",
       "title": "Guardforce AI announces pricing of $10M registered direct offering",
       "excerpt": "Under the terms of the securities purchase agreement, the company has agreed to sell around 8.7 million shares of its ordinary shares at",
@@ -973,205 +1163,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments.md",
-      "title": "IBM Puts AI On A Chip To Improve Fraud Detection In Real-Time Payments",
-      "excerpt": "IBM has launched a new generation mainframe with artificial intelligence built into the chip to provide financial firms such as banks and credit card companies with the ability to conduct fraud analysis of 100% of their transaction in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
-      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624da32e94f20ddb39d7efd7/0x0.jpg?format=jpg&width=1200",
-          "width": 1159,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/04/06/ibm-puts-ai-on-a-chip-to-improve-fraud-detection-in-real-time-payments/amp/",
-      "publishedDateTime": "2022-04-06T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-lanner-electronics-and-movai-to-speed-amr-development-with-an-integrated-computing-and-software-platform.md",
-      "title": "Lanner Electronics and MOV.AI to speed AMR development with an integrated computing and software platform",
-      "excerpt": "Lanner Electronics and MOV.AI are collaborating to provide autonomous mobile robot (AMR) manufacturers with an integrated computing and software platform for optimized performance and faster AMR development and deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/17967/lanner-electronics-and-mov-ai-to-speed-amr-development-with-an-integrated-computing-and-software-platform",
-      "originalUrl": "https://electronics360.globalspec.com/article/17967/lanner-electronics-and-mov-ai-to-speed-amr-development-with-an-integrated-computing-and-software-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/967/17967/Lanner_Electronics_and_MOV_AI.jpg",
-          "width": 700,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
-      "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
-      "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "originalUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
-      "title": "SmartHop raises $30M to boost trucking fintech products",
-      "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
-      "publishedDateTime": "2022-04-06T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

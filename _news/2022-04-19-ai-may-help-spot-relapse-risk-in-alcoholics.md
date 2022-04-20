@@ -1,27 +1,48 @@
 ---
 category: news
-title: "AI May Help Spot Relapse Risk in Alcoholics"
-excerpt: "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say. Patients often return to heavy drinking during and after treatment, and may require multiple tries before they can achieve long-term abstinence from unhealthy alcohol use."
-publishedDateTime: 2022-04-19T12:15:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2022-04-19/ai-may-help-spot-relapse-risk-in-alcoholics"
-webUrl: "https://www.usnews.com/news/health-news/articles/2022-04-19/ai-may-help-spot-relapse-risk-in-alcoholics"
+title: "AI may help spot relapse risk in alcoholics"
+excerpt: "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say."
+publishedDateTime: 2022-04-19T14:46:00Z
+originalUrl: "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html"
+webUrl: "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
 
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-may-help-spot-relap.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
 related:
+  - title: "AI may help identify alcoholics at risk for relapse"
+    excerpt: "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say."
+    publishedDateTime: 2022-04-19T17:38:00Z
+    webUrl: "https://www.upi.com/Health_News/2022/04/19/AI-alcoholic-relapse/9431650380286/"
+    ampWebUrl: "https://www.upi.com/amp/Health_News/2022/04/19/AI-alcoholic-relapse/9431650380286/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/04/19/AI-alcoholic-relapse/9431650380286/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9431650380286/2022/1/550b460935437759f256b37839de4e56/v1.5/AI-may-help-identify-alcoholics-at-risk-for-relapse.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "AI May Help Spot Alcoholism Relapse Risk"
     excerpt: "Researchers say artificial intelligence (AI) may be able to identify risk of relapsing to alcohol after treatment."
     publishedDateTime: 2022-04-19T16:58:00Z
@@ -37,6 +58,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "Cco12KNeXg08zWJGq0YwsUGzOqObafIFwqouuQxbLxI02eGyGc+x7niEXf2MNUH9vvDMTg+Xp7wfmp/1lCDReWsa15eaUwx1qTnk+VaLdzmSqvg13rItc+gaL5OO7f0/kwpPtxbbDjlDT21i7Hrod0liXOz2eTgpVYXd0ku5MrlesqX/IJZfM+YMay1zAdmgadM8C5yv0pAcNf3reV6vrI3Jm8I1UCVJnHzyDMGywYj/hTD7MzVCrlBIRqeaAbIO0lHd5Jfpb/NkYyG124vl7WLVU504KrLrjFwe/cfzX1EnTOqOfCFRmKkyI3LstFAZ8fmJau8XPZB4g5bgS8HZnUPp0T5gS37L7peZOqP+9gHgFxSPbk4wtNbXZ4QeY0uSR2134M7sBSHUHH/dfMGw4JnDHHYWaujlThU9S5i2kYQCHI4Exz2/NQlHLdCFO2EsRMdtmKvk8gXVNTER32Y4AbSv75UkEJdkfAfBFaLccl0Joj26OC00gaRnPwsoUFdtpNjJHCTlmXJHwtiPvFsPeg==;PdGq/c5oIeBCvbG/IBHWSA=="
+secured: "D+Osh1ZV9CdkhQfRfqNKIQ8BT/P1GQbDTeis/LfWhm7DSMT6Mgh/zl8mtHB0tJCCQeyGLuhzb0AFZP6nvxRmX2FtlvfQrtmgZnDR5WOtGAHTkvP7jYFoL2LbyrWveWBA1VD3gtEeFthjlO6Nwm1+jI3Z3sZhs7AyzpYhYWbs4Lz/Q8Lw4O/0gNdCUboMZfPj87a9wk5hAQxdaL+wvcWBUL8j70XVn9pFkRja18OoIpws+eU7JVcltSeKsfUwtByzwsheH9icNEeFtmYnRAWXkWlxbLpp5WVIPWAVt3mfEL/65RdqFmPnk+HZsYN3L7Ydh+rpnr1r/iT5oIZic7x6V0edrF2ZQsJiK62vqy8poLw=;WBY3r7eh4ecuac/Cj0nFhg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-19T23:06:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-to-see-huge-growth-by-2027-jenzabar-cognii-osmo"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-education-market-to-see-huge-growth-by-2027-jenzabar-cognii-osmo"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AWS AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7e670cf41a3dcdeb7fb128aa76e658ce5490ad41-600x337.jpg"

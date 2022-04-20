@@ -1,18 +1,18 @@
 ---
 category: news
 title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
-publishedDateTime: 2022-04-19T14:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
+excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale. The Vian H+AI ..."
+publishedDateTime: 2022-04-19T14:42:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220419005708/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise"
+webUrl: "https://www.morningstar.com/news/business-wire/20220419005708/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 648
         isCached: true
 
-secured: "BtFV86w/xO9eZakDvgX6MaMYPJbONcBoxBqf+KIfDKVx4VgNE74oRCcOSToZrcbBJsyFc84ckEVz2Rr1yhstyzbF6GlW0c8snmOpyDVhX6jN1WDuJt4A31tjlXSdnE3dAT5ctRDiTMBN6rQslAFC+fXZLwkq5WIotwGds1AaP+qFodybLavkAtQ1QhKSmZa1fI6GlGgsBUTRmn1n0sZyFyCtwI/GcQNxmbxRk0gW2HDYRYUupZyF67WKu6oID5BA/iwSBS+lX00PBPT7ltd5GYToeRUqC3r2vhA4DJN2NapEphZthyVEMwoDwfHHuKOuTefXj2zqr3ZLWoKKlWqFcuzeUnWPiNzafqT0r+ZfJvE=;opN/aX3OxfOxARoLuPFIxg=="
+secured: "dNhDdd41N/lidrOjm32969SxRVquaZQRdihLG+fvQ64eDOC7W6nEeS3J+TtZO6P2WqjmDrxUgTYYwENXTKeeEV0PI+zeGIHTCtE04957jeNdrivZyXuBwxUyS1eKhp448WEojDtCEFiAT5tm29PkBf5l1XpwMvXSQhheRelu3RGYimEH6QSGvmAd0YMhagQz1DkNV5lFtuWJc638CZtkZFcUwEjzenck2v4+/g/lFnGYATptIOOfN+iGoNxw5Dgqka4yE5J1fAhjOuY65sD6w8Ih6xItqEB+DXD83QStSw06T+5cIvjUKKwbbZZ+mDk2WqTEu9aqgtJMCIXsYktEDwc6pxVwsNhelFppHL/NeS0=;8uL0Rf7iXoKlmUm4VVA1CA=="
 ---
 

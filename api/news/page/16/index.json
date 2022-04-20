@@ -2,6 +2,217 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-04-01-metas-ai-exodus-top-talent-quits-as-the-lab-tries-to-keep-pace-with-rivals.md",
+      "title": "Meta's A.I. exodus: Top talent quits as the lab tries to keep pace with rivals",
+      "excerpt": "Facebook parent Meta has lost some top artificial intelligence scientists in recent weeks as the company continues with its pivot toward the metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/04/01/metas-ai-lab-loses-some-key-people.html",
+      "originalUrl": "https://www.cnbc.com/2022/04/01/metas-ai-lab-loses-some-key-people.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106967423-16354576832021-10-28t214510z_116189434_rc29jq9owmq8_rtrmadp_0_facebook-connect.jpeg?v=1648799673",
+          "width": 1947,
+          "height": 1181,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/01/metas-ai-lab-loses-some-key-people.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/01/metas-ai-lab-loses-some-key-people.html",
+      "publishedDateTime": "2022-03-31T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-the-dangers-of-not-aligning-artificial-intelligence-with-human-values.md",
+      "title": "The Dangers Of Not Aligning Artificial Intelligence With Human Values",
+      "excerpt": "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
+      "publishedDateTime": "2022-03-31T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-former-deepmind-employee-accuses-company-of-mishandling-sexual-abuse-complaint.md",
+      "title": "Former DeepMind employee accuses company of mishandling sexual abuse complaint",
+      "excerpt": "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations. In a report published Wednesday, The Financial Times recounts the experience of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
+      "originalUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
+      "publishedDateTime": "2022-03-31T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business.md",
+      "title": "Emerging FoodTech: Robots And The Resilient Spirit Of “Techspitality” In The Food Business",
+      "excerpt": "The world of automation and robotics has jumped off engineering drawing boards and moved into restaurant dining rooms and kitchens. The time has come to add Food Technology to the growing list of priorities in your food company’s strategic plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/",
+      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6246743338131d1da3503f2b/0x0.jpg?format=jpg&crop=700,394,x0,y65,safe&width=1200",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philkafarakis/2022/03/31/emerging-foodtech-robots-and-the-resilient-spirit-of-techspitality-in-the-food-business/amp/",
+      "publishedDateTime": "2022-03-31T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-this-grad-student-used-a-neural-network-to-write-his-papers.md",
       "title": "This Grad Student Used a Neural Network to Write His Papers",
       "excerpt": "Back when artificial intelligence development company ... Of course, it eventually did did release a full version of the neural network. By and large, it turned out that people were more ...",
@@ -942,188 +1153,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
-      "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
-      "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
-      "sourceUrl": null,
-      "webUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
-      "originalUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jersey Evening Post",
-        "domain": "jerseyeveningpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
-      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
-      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-to-build-sustainable-products-start-in-the-data-center.md",
-      "title": "To build sustainable products, start in the data center",
-      "excerpt": "Building a sustainable model data storage that requires significantly lower power, lower cooling, and far less waste.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
-      "originalUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1301942140.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
-      "publishedDateTime": "2022-03-31T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
-      "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
-      "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
-      "originalUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
-      "publishedDateTime": "2022-03-31T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
