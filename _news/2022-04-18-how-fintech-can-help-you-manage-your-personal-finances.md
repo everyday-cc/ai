@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "James Phillips to Join Fintech Stripe as President of Financial Services"
+    excerpt: "machine learning, and the internet: companies are building stronger relationships with their consumers, expanding internationally, distributing financial services, and automating their supply chains. Stripe is ideally positioned to serve as the engine ..."
+    publishedDateTime: 2022-04-20T15:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/190047-james-phillips-to-join-fintech-stripe-as-president-of-financial-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190047-james-phillips-to-join-fintech-stripe-as-president-of-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190047-james-phillips-to-join-fintech-stripe-as-president-of-financial-services/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Money-Eyes-Benjamin-Look-See.jpg"
+        width: 350
+        height: 231
+        isCached: true
   - title: "Fintech start-ups frustrated by red-hot recruitment market"
     excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
     publishedDateTime: 2022-04-16T05:03:00Z

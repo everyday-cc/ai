@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/enterprisetech-unicorn-gupshup-continues-acqu
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/enterprisetech-unicorn-gupshup-continues-acquisition-spree-buys-ai-startup-asksid-to-strengthen-product-offerings/amp/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gupshup acquires conversational AI platform AskSid"
+    excerpt: "E-commerce conversational engagement platform Gupshup has acquired AskSid, an India-based AI company that automates support conversations."
+    publishedDateTime: 2022-04-20T15:45:00Z
+    webUrl: "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid"
+    ampWebUrl: "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/04/pexels-kindel-media-7007165.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Gupshup Acquires AskSid, the Leading Conversational AI Platform for Ecommerce and Retail Companies"
     excerpt: "Acquisition strengthens Gupshup’s AI-powered conversational solutions for Ecommerce, Retail and Consumer Goods industriesSAN FRANCISCO & MUMBAI, India--(BUSINESS WIRE)--#AIsolution--Gupshup, a global leader in conversational engagement,"
     publishedDateTime: 2022-04-20T08:00:00Z

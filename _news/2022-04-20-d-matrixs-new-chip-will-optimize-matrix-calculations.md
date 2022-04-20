@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:00:00Z
 originalUrl: "https://venturebeat.com/2022/04/20/d-matrixs-new-chip-will-optimize-matrix-calculations/"
 webUrl: "https://venturebeat.com/2022/04/20/d-matrixs-new-chip-will-optimize-matrix-calculations/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

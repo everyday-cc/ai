@@ -64,6 +64,15 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 37
+  - title: "First AI-Powered ALS Educational Platform Launches for the Public"
+    excerpt: "StoryFile, an AI startup redefining the media landscape through its proprietary storytelling technology, announced the launch of its first educational project dedicated to supporting people with ALS,"
+    publishedDateTime: 2022-04-20T15:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-first-ai-powered-als-educational-platform-launches-the-/2022/04/20/9586372.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "1kG6FxIfeHZA9yXQTLtrEzslE/bFg6wqTWgjR0nMtmXRntXNnKFw35nX2UF0XftNWISH+cEksQb3E3RznVuidbPJSNYqg2TGJ41vG4cF7V9rG8pTgmIxyd1uDAtRrdyP9lD9+X9wl5GmkoEI21PU7rTriZoVVVkizdmhr3nf44SERkW8LwOtYYv6wi0w5DlZNASvvv5LQotbB6wSBbg/HWd+5p8Lwd2cHnA/oKVSUbb1JaGX8/Yd7iDWySZ/b4Q966Py0TrKvbS5nzNFX98M/dnRPgQlHvjOrlAUCeAgEXaYV5no9LZ/TzWJo9sVFbDuAHzRcHC77GwZKDdhPvyt6Csx4ycSEpY+ELZqvPbG2Qk=;09YD+2PSyI7yDQsS7VfaDA=="
 ---

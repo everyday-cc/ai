@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -36,6 +36,15 @@ related:
       name: Security Boulevard
       domain: securityboulevard.com
     quality: 17
+  - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
+    excerpt: "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,"
+    publishedDateTime: 2022-04-20T12:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
 
 secured: "JgTC1/Max+yNjjVykUtAS6VsbbS3tzoXRAJq/ELSe6WMjlri0lT8UskaWOqy8iLR1j9aq+nDz1HUPvIPOXQqZbeJ4v7l2+3teoeis68jKGsU5N7P2eNwYChJvFz8fovgqeOKHEygHqgRt0o7tXovPIacjh7FmH67iDECZy733vPOk3Uem1EmjLQc2Fm6WOg8f/zLqPj9P+mAFzojMKx3in4OsGgMh1nCQmufITH9wHBhupimR1bfjGqRtYJFBTpYjr8JGFhz5UK22evkdrMevTpthEICbNXpPdRBZG2Ud+Xa/IzNBcuoPboz9pMnDet25pHprRDjR5Un60+rWIx+34vtP9dSrAXE+99ssjQ3mvs=;gL7U3SZH5B5pTWeWIsuMMA=="
 ---

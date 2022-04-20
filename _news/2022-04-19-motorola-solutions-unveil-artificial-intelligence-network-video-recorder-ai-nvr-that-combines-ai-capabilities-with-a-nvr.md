@@ -21,19 +21,14 @@ topics:
 
 related:
   - title: "Motorola Solutions buys London-based video-AI start-up Calipsa"
-    excerpt: "Motorola Solutions has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video security solution, helping its customers verify alarms and detect tampering in real time."
-    publishedDateTime: 2022-04-20T06:00:00Z
-    webUrl: "https://www.channelnewsasia.com/business/motorola-solutions-buys-london-based-video-ai-start-calipsa-2634606"
+    excerpt: "Motorola Solutions MSI.N has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video"
+    publishedDateTime: 2022-04-19T17:31:00Z
+    webUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "uqQ/o8l4Ov2WUunxT3QWvDfvQKBbWR4s4/fgp1J6CuHRvlQ1DnUxa8KCbiSMRUbtCbVe1V+n5J1EP1gERtRHGeMGgyNvLV1qXvCtWRQOF1gvRtmk3VqGLRkkjnE0PwHkj9D7Hb11Pmxhb80f3GArfRZAZ9GJMLUFJVQ1JIbBFiMuCDGCA3kmRRQACnIH/jxMhzDP+NEBkuBfkQ/j+oLboQba3OKAHFs+PsAbZJ2fdUV/OJLZl5XODr91o1hd4aibu8UguW3/bAjM8/iFvo0YduZOsUKIqGJNm6nPtHcnpQnmM7/gyw8tJECRerAYab9gqrwhtX39Fy4E5t2sLICa3rxKeTiT5G+NJop6hOcxSrA=;hOSGKZ2ji91B4rqWccn8JQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:27:00Z
 originalUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
 webUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: News Shopper
@@ -14,6 +17,47 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?"
+    excerpt: "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ..."
+    publishedDateTime: 2022-04-20T11:09:00Z
+    webUrl: "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/"
+    ampWebUrl: "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 65
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
+    excerpt: "The Government will update the Highway Code to make clear clarify driversÃ¢ÂÂ responsibilities in self-driving vehicles."
+    publishedDateTime: 2022-04-20T07:43:00Z
+    webUrl: "https://www.expressandstar.com/news/uk-news/2022/04/20/highway-code-to-be-updated-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 24
+    images:
+      - url: "https://www.expressandstar.com/resizer/ZUiEFx7VJ7v7I_5IDEsoZ_jnpmA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/O2PTPBDDDZDRHDNJAHXUZBESV4.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Self-driving cars on UK roads – key questions answered"
+    excerpt: "People travelling in self-driving cars will be allowed to watch television programmes and films behind the wheel under new changes to the Highway Code. The UK government is updating the rulebook in advance of the technology becoming legal across the four nations."
+    publishedDateTime: 2022-04-20T13:10:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/self-driving-cars-uk-roads-23734482"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 4
 
 secured: "74GQx254uMgr8POjQ6RTtGip6rG49gTRKgTtFxFIW7M/sD1ruMbg56Bb20iYvNHqqD6YzVoRsk/UWsCh9ie7wvNh2YHPPUqaT/7TePcfn+BxBY9lA4t4/YQPknJuvKLf8NOHn3GgGBapl6jRi91pSOdhnREsFGg60mKtgxVWGKzF2XBIn31K+1gQ96IsvV5kZxAHSxPVMyedgKPLHpmNjlTTidGCUP92BP1FJ4P+57UlRd9STS150gRqV+OT5qKyOTNqNd3MKDR2w6jVVAmCGjplT+Huee97pdTzpDEnV9zsdzE7BmyNDRWb9JnxPlF2PaQrG8IKLaRhh+0LjF8LcMw9U3UkZ/lFGh09zxFq7Jo=;4Q6j7N7C+50v5UZN1G42xg=="
 ---

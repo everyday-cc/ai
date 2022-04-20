@@ -41,6 +41,15 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "New Method Developed by Gwangju Institute of Science and Technology Researchers Allow Robot Vision to Identify Occluded Objects"
+    excerpt: "in Korea found themselves facing this problem when they were developing an artificial intelligence system to identify and sort objects in cluttered scenes.\" We expect a robot to recognize and manipulate objects they have not encountered before or been ..."
+    publishedDateTime: 2022-04-20T13:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-method-developed-by-gwangju-institute-of-science-and-technology-researchers-allow-robot-vision-to/article_6490b664-0232-525b-913b-e369124a9225.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "V4t1KuxCh8z8AG02A0hXKV8goSwt9AgdAZXG5GjlBlYDqEoCC/K9fWHeVxigVt1pEEuZXTy2bHlJX2gJLr9Vb7Ihgzrf5nIWfVb7z7qlp+bhPrP+HQ0D6h6CRv9IMWnvtukXtr8M0oM75AFVxR9h/GnaUzN4TrQiqGppsNtjm5snIpzuj73dGTxC4WKmj/T5U1fw4M92DL/1MkvmkW5Chq7jUfZFQi2S4CoEJtccvzJCBKJcVcqJi/Et7P+t4TIAZHtfSAFv1rBwNrt5ACCPN3HsJiPbQMISbLxi5I8rANog71B2R1rHENizBOgCyEgKGlG0p5AYS3SUAJufNqw6cMwjPnCZpnYvOPUPKauB24U=;QWIeSVhvbTKndq5DPRltQw=="
 ---

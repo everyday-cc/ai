@@ -42,19 +42,23 @@ related:
         height: 628
         isCached: true
   - title: "Highway Code to see major change to accommodate self-driving cars"
-    excerpt: "Changes for who is responsible if a self-driving car is involved in an accident are to be included in the update."
-    publishedDateTime: 2022-04-20T09:33:00Z
-    webUrl: "https://www.echo-news.co.uk/news/20079833.highway-code-see-major-change-accommodate-self-driving-cars/"
+    excerpt: "A proposed change to the Highway Code will see users of self-driving cars not being held responsible for crashes its vehicle might find itself in. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department ..."
+    publishedDateTime: 2022-04-20T13:27:00Z
+    webUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
     type: article
     provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 24
-    images:
-      - url: "https://www.echo-news.co.uk/resources/images/13694621/"
-        width: 1049
-        height: 584
-        isCached: true
+      name: News Shopper
+      domain: newsshopper.co.uk
+    quality: 4
+  - title: "Self-driving cars on UK roads – key questions answered"
+    excerpt: "People travelling in self-driving cars will be allowed to watch television programmes and films behind the wheel under new changes to the Highway Code. The UK government is updating the rulebook in advance of the technology becoming legal across the four nations."
+    publishedDateTime: 2022-04-20T13:10:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/self-driving-cars-uk-roads-23734482"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 4
 
 secured: "f17tW6aF30zUqdOqs7wkIUbonvAjT+Tt3iya9uAkhFV2O+LbL0JUF+/+6F8YyoM4K4rVFmAj/8/wprpuLztKs9H+0K4XJV4OthfidnS/FDnPXvpKhwmi5TWW1RYU4XsA563z+FLYH+MSgWtQuMgiIy2PeT7ajmTS4J2Srb5yf5NUKNfkZ82sh4ciw5w92NuVKUuiRVXDgUtbVOAreIwI6Fztk+VhGyhRS+6Pns6SFuF5jDE/voIok88JP9sQD+Lf9qMpWVQFZeJgZb96TwGSbXidIvXMahD0RSXnLVUsIpIHaSsuVrkriHDzCSOUPtjlgvPlujFaXYeYC0lCXikw080U1KQx+o+MA+ft41TRFg4=;IqQ9WOMmcsThZ17vote1Hw=="
 ---

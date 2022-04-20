@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T12:58:00Z
 originalUrl: "https://seekingalpha.com/news/3824713-aitxs-subsidiary-receives-multiple-rosa-order-from-a-east-coast-college"
 webUrl: "https://seekingalpha.com/news/3824713-aitxs-subsidiary-receives-multiple-rosa-order-from-a-east-coast-college"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Seeking Alpha

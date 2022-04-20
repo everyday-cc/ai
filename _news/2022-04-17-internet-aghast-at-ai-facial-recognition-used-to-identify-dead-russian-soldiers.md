@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/a
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine uses facial recognition software to identify dead Russian soldiers"
-    excerpt: "Ukrainian officials are using facial recognition software from the United States to identify captured or dead Russian soldiers since the Russian invasion began 50 days ago."
-    publishedDateTime: 2022-04-15T21:39:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ukraine-uses-facial-recognition-software-to-identify-dead-russian-soldiers?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 72
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/fce75ee/2147483647/strip/true/crop/3065x1735+86+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F60%2F3b%2F7679060f4b15876cb5378b1eee14%2Fbefunky-collage-95.jpg"
-        width: 530
-        height: 300
-        isCached: true
   - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
     excerpt: "(The Hill) – Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the war, according to The Washington Post."
     publishedDateTime: 2022-04-19T10:46:00Z

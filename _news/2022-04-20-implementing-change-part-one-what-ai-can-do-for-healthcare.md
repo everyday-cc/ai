@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/20/implementing-change-part-one-what-ai-can-do-for-healthcare/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/20/implementing-change-part-one-what-ai-can-do-for-healthcare/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

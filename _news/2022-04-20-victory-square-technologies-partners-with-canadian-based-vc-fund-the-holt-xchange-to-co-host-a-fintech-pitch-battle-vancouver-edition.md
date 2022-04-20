@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T12:32:00Z
 originalUrl: "https://www.digitaljournal.com/pr/victory-square-technologies-partners-with-canadian-based-vc-fund-the-holt-xchange-to-co-host-a-fintech-pitch-battle-vancouver-edition"
 webUrl: "https://www.digitaljournal.com/pr/victory-square-technologies-partners-with-canadian-based-vc-fund-the-holt-xchange-to-co-host-a-fintech-pitch-battle-vancouver-edition"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

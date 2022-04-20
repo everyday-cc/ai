@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 37
+  - title: "First AI-Powered ALS Educational Platform Launches for the Public"
+    excerpt: "StoryFile, an AI startup redefining the media landscape through its proprietary storytelling technology, announced the launch of its first educational project dedicated to supporting people with ALS,"
+    publishedDateTime: 2022-04-20T15:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-first-ai-powered-als-educational-platform-launches-the-/2022/04/20/9586372.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "svYy7fPz8js7sbpHZ8BTv3hex2a+vf4zmFw6j4B3fuFH1TkWVcAZ93DKjY7z6fhgYMT8bFgkDDb9rwPjSyTFU7WRo5x15SIDnGG0Em/qIWKM1XX9nfKfiKevEM5hkv0hQS2dMRHcGR1pbZLQhAqAYZUhx37zcxVkRt8M3O6wdYpf3E35pItKgXQSVmKz6X/xrB9N1qN5kEgvSlUmqLlf+vNWyVXoe3h/ZXH2v8QdFmdICtEg0bJy9HC7oczr34cG6+UOqZd9iUEROEZbf1pwWGW0A73IGR4b2bK1+EfN4HFwBGZZ7nANGVb0/iJDLTS25e8a/tRSekFaKuYTvHeQry0U9+lEw7KdgbQ+20OBYd8=;fjNKz8B/4hJlBpGbI5avOw=="
 ---

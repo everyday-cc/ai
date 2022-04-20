@@ -82,20 +82,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Sydney startup Canopy Study raises $1.1 million for AI-driven education platform"
-    excerpt: "Canopy Study uses a data-driven platform and proprietary algorithms to convert coursework into learning resources."
-    publishedDateTime: 2022-04-15T23:01:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/news/sydney-startup-canopy-study-ai-education/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 49
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/04/SC_Canopy-Study-Team.jpg?fit=733%2C358"
-        width: 733
-        height: 358
-        isCached: true
   - title: "Expertia AI Raises $1.2M in Seed Funding"
     excerpt: "Expertia AI, a Bengaluru, India-based deeptech virtual recruitment platform, raised $1.2m in seed funding. The round was led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
     publishedDateTime: 2022-04-18T08:50:00Z

@@ -53,6 +53,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Healthcare AI Market May Set a New Epic Growth Story | Apple, Medalogix, IBM Watson Health"
+    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and"
+    publishedDateTime: 2022-04-20T12:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-ai-market-may-set-a-new-epic-growth-story-apple-medalogix-ibm-watson-health"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
 
 secured: "3mzUVER+kiz6IdTt/rNiKiXmGAnIWlCLOBdR6feWL2F7hUTHtRBzzkOJ5zzuTWd6sAKylLle7jqmHHT6TirhsiGwz6tKnCW7Otd9zjNegj6BrLO2mMyzbW/7mgfwq+eCex9w+nBs9rA4bsSG0EkimNCVKI/U2K4euF8mBOzjjJNh8tDA7NO49fMTi8Pbfe2cmZylSOt6/fAD+vX93wWqNrX3ye3DNJHwnQ/N4uK4DL2JNlsKd7R+sdlyU7Lxnwu+AB4qPZAvgMWjQO9Whtx4vlvlZeXqgFhgySGL0L+LZ2G9TWc07iyOvS2353NP5o0gtABnr1De+nmCDYE7h5TblD37xflpJlmh+QUnAWY/HC4=;sf1Cd9HxuEqcVzz7Q7RSKQ=="
 ---

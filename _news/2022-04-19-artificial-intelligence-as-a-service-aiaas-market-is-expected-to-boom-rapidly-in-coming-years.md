@@ -26,17 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Evolution of artificial intelligence and machine learning will transform the Software-as-a-service (SaaS) market"
-    excerpt: "The acceleration of digital transformation is shaping the future of Software-as-a-Service (SaaS), making it a viable choice for organizations in search of functionality, accessibility, and flexibility."
-    publishedDateTime: 2022-04-19T09:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-intelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-intelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/evolution-of-artificial-intelligence-and-machine-learning-will-transform-the-software-as-a-service-saas-market/"
+  - title: "Automotive Artificial Intelligence (AI) Market Is Booming So Rapidly | Alphabet, TomTom, Bosch"
+    excerpt: "The Latest Released Automotive Artificial Intelligence (AI) market study has evaluated the future growth potential of Global Automotive Artificial"
+    publishedDateTime: 2022-04-20T12:29:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-ai-market-is-booming-so-rapidly-alphabet-tomtom-bosch"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
 
 secured: "Gc0TViG3COKpayW38Wd2bgl8Usa353zBIQoVrFDBCfT2nviVTSWov8YAEWSw9zo5n/gf6LtVFqt+aWD/2AXvxxh9RY8QJLrmP22Qti9F5q/x1IAAgRxa2EsvKFmTLKycS9n3mgHVCGcJ8mv2Q8Xw9i4XqnowKebwSV+rLQt/PXbVqWrER+9LP/t13H3Gkpu2ZxrhwtN7RqoopKAz73JGIWNnJ/w1nTYmHphsrOlDEY4I421wm1hsIgyrrD0eEzvXuLuBLAgYYFMQc4Rn0OG7xb0tNYyeXnc1eZremo7OJTy/InE8RQhtOjfiYpzZUes60xgd21tKlKYRJ/JHazkyjjNhMucab83nbuAE+j4xcHw=;bkj0A1YgETFccHhVkuNcug=="
 ---

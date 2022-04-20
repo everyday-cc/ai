@@ -93,15 +93,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 32
-  - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-    publishedDateTime: 2022-04-15T20:09:00Z
-    webUrl: "https://menafn.com/1104030615/Kin-Carta-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 15
 
 secured: "DEjwqicygDP8pklAKSxN4wK8aNwAp40ozylLBVlR1XqcRComDd+meZEqLjvnBycLtdkVkaR43Zpr5Gg09Bbw5NKd6d+5H9UzfY8pjeHpJ3GEOft05Di703QKWMYJ0guBZiGOE8gzIWKht/3EHZv8z6gtP8RlhgFEbhksz8cUwsls13fuS4Bl+qIZKscnoYK3goLaunqVwnJbax94ZQMYxrY2buDBfzjIRggOXs/CWDZ9BlzZjeeKHKP7+M5SYiOsi7CBTfl1H8BRyhpIZ6M7lgd9HmIcbvlOZtDfu6pu7m0x9qLtFR2KG4+0Gr3/XBsVyMTWNJRM/oU/q7QeQ2uHTu8e0oC9a0/dYEXTfRTfX6YD+D8G9j+4yoGU9uWM7ooET+O9K/GzLDOyvyUAUSUK713KnFYxQGtrs4N0rGLab7onwUvNfSwZpUPQ5Hvp5G3vapjoEwHtSyOjCiOBdywqFfVlBSRvw9TA0ZN0ql2UnkswxlcBBkzTWIFirPAz7ZH/kbeU1m2vuZqVH75YI0jKxQ==;M8IsluOPHUe6chsD1AfN+A=="
 ---

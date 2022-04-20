@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T12:31:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

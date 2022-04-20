@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Greycroft Leads $20M Funding For prezent.ai"
+    excerpt: "Los Angeles-based venture capital investor Greycroft Partners is the lead investor in a Silicon Valley startup's Series A funding. According to prezent.ai, it raised $20M in a Series A funding round,"
+    publishedDateTime: 2022-04-20T13:15:00Z
+    webUrl: "https://socaltech.com/greycroft_leads___m_funding_for_prezent_ai/s-0082409.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
   - title: "prezent.ai, the Presentation Productivity Platform for Enterprise Teams, Raises $20M in Series A Funding Led by Greycroft"
     excerpt: "The platform is a one-stop shop solution for business communications. prezent.ai provides data-based intelligence to mold hyper-personalized templates, storylines, and branded pre"
     publishedDateTime: 2022-04-20T11:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cl
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 32
-  - title: "Kin + Carta Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Kin + Carta announced today that it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-    publishedDateTime: 2022-04-15T20:09:00Z
-    webUrl: "https://menafn.com/1104030615/Kin-Carta-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 15
 
 secured: "2iG3qoBHT+6zMYYYpbEH0OgqDN9TJQIDfeHzb1mZUsPXIAFjaOCc8HCg7YeNzPmPB2CLK5MQtzb9vGnDcfgDvAwtxxrs9ISaqEf9tsHbcf/+l8Yiot+m0WNwoCucz7fI0xDpHPYIpgzoURwxujSpYgKIZPUqdJlNWINuiS3fgEUrMXjxSvCqPs3b94ddMPHCDTw23tPNer2zniJWXe9AZVwgC0VHf6kjQaemFzUTaWEPBEjvBdpPNA6vmOSRCeRnYoi1TWWmj+t29LljEebk42qyXq++BGLhodgu2RFt0DXmCopzeObgySU7XlCxsn20mw+S7JqSd+l8isMgOTqbIdTSuwvLOajMENTSVw28uhy8aWf0fGU7ufKDDKPFRLXu+il+zPvPabtJluSszjkblUs+ODzhq6HWJCcHK2PYbFkMvb+v38INxU+DjiUnNey9c69MneeERax453noji/zwCwu9d0XtVw0eYUIumNjUetPyAk0O3ku/MosUU+C03sLtuXMqiVSqe3+h5OSiWqNvg==;I/FDhuR8DFYK+Zth3VNtJg=="
 ---

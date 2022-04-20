@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T12:02:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Joplin Globe

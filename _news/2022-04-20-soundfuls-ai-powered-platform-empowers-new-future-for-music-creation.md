@@ -62,6 +62,15 @@ related:
         width: 1500
         height: 500
         isCached: true
+  - title: "First AI-Powered ALS Educational Platform Launches for the Public"
+    excerpt: "StoryFile, an AI startup redefining the media landscape through its proprietary storytelling technology, announced the launch of its first educational project dedicated to supporting people with ALS,"
+    publishedDateTime: 2022-04-20T15:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-first-ai-powered-als-educational-platform-launches-the-/2022/04/20/9586372.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "pTKyhWS1Ri7t0QAgYLsoKcoYuz2U9mzFV7Cc9DwoJKSnV9rZeg1WIPq+NpWxeNqeqsPEjZDKlLiQevomqqzD55IVVY8/4ROsNhA3BI0oTRvRQLej3LrqMJ2KVNkl3A+545i11Nrn71UE6n8aMr0xWE9/wJ+dFpOuqAQ+L3l6KAy+PLlPYemZkzEK9hYN4RQIpv1ihBiwPvNwX0XHcThLudb/DOU+sUwKV9Dm2s41l1WCe7UUwRGlLUwLpZolWnj7dfhzDwEULPcaECNcjWowGWgDeboOT9cr0UQqTbFIpUrhs9RROf6DEbPcAXhqzvc9vWU/mSKZWSGP4EjtFmUSKHejZCbz8aOOF8bLygXWZoA=;JNjQQXh9N5P/BRZQWxxRSw=="
 ---

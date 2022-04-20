@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Highway Code to see major change to accommodate self-driving cars"
-    excerpt: "Changes for who is responsible if a self-driving car is involved in an accident are to be included in the update."
-    publishedDateTime: 2022-04-20T09:33:00Z
-    webUrl: "https://www.echo-news.co.uk/news/20079833.highway-code-see-major-change-accommodate-self-driving-cars/"
-    type: article
-    provider:
-      name: Echo news
-      domain: echo-news.co.uk
-    quality: 24
-    images:
-      - url: "https://www.echo-news.co.uk/resources/images/13694621/"
-        width: 1049
-        height: 584
-        isCached: true
   - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
     excerpt: "The Government will update the Highway Code to make clear clarify driversÃ¢ÂÂ responsibilities in self-driving vehicles."
     publishedDateTime: 2022-04-20T07:43:00Z
@@ -59,6 +45,24 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Highway Code to see major change to accommodate self-driving cars"
+    excerpt: "A proposed change to the Highway Code will see users of self-driving cars not being held responsible for crashes its vehicle might find itself in. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department ..."
+    publishedDateTime: 2022-04-20T13:27:00Z
+    webUrl: "https://www.newsshopper.co.uk/news/20080833.highway-code-see-major-change-accommodate-self-driving-cars/"
+    type: article
+    provider:
+      name: News Shopper
+      domain: newsshopper.co.uk
+    quality: 4
+  - title: "Self-driving cars on UK roads – key questions answered"
+    excerpt: "People travelling in self-driving cars will be allowed to watch television programmes and films behind the wheel under new changes to the Highway Code. The UK government is updating the rulebook in advance of the technology becoming legal across the four nations."
+    publishedDateTime: 2022-04-20T13:10:00Z
+    webUrl: "https://www.coventrytelegraph.net/news/uk-world-news/self-driving-cars-uk-roads-23734482"
+    type: article
+    provider:
+      name: Coventry Telegraph
+      domain: coventrytelegraph.net
+    quality: 4
 
 secured: "FekomcjLEImE340gHqJsWHfZfa4HbiwoTfU+M9Jm10TxC+MaCJRMOZHXGtKv/W/RZXwjGgfJmz91DphbC6lAu893VXQ0rj9aslEEnweQqJTvAmyEJnx3ML9EoX2SKV9Ow5CmcHEQl9qdRiTVzaJ43P3ycnMD+5NV5j/cTsmZ0B+7y8EiNuT3GiwfkWmKim+Nd5YhktfpVVcVDHvTz7bkmbMgCNY+WWQ4K9+HogQbAscHVPB1h3UhBf3VwHYedXLkPzPYVw/aS0br6BZJ/k8HN24xPuBhC45HZ7X5/HzZrgPm5ypvltzwSFu5KpS7gCmIIjBotCoK4IUu6hkVdVbJ/irQ3w5P/QOA7TSZtFncXhx+qTO1KYv1E7b8RC+hcJjyCIP4jqWaXCwuCtchL50kLRewIDaPpzMey3M4uVxX3cxUY0n0y6aRrw+dS3gP9ZQqR9sp8PeGSxbQnp91QB/8UBRJlX4+H5IrOwv6Z13DTg8ml03S2R2KJn0jcLadeXHQRVESKvEOhOTiy/dv3LrU3w==;bxQCfX5V2/l0GFKpMSaFDQ=="
 ---

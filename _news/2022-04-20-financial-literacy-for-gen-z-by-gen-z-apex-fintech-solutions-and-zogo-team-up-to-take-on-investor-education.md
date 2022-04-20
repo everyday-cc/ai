@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T00:00:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=649904"
 webUrl: "https://us.acrofan.com/detail.php?number=649904"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: 아크로팬

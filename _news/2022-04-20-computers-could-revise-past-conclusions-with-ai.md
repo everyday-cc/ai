@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:31:00Z
 originalUrl: "https://techxplore.com/news/2022-04-conclusions-ai.html"
 webUrl: "https://techxplore.com/news/2022-04-conclusions-ai.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: techxplore

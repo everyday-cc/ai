@@ -1,20 +1,29 @@
 ---
 category: news
 title: "H3C Perfects Cloud & AI Native Strategy, Accelerates Digital Transformation with Smarter \"Digital Brain\""
-excerpt: "On April 15, H3C held a tech strategy media & analysts briefing to share its 2022 technology strategy with media and analysts. At the event, H3C introduced the"
-publishedDateTime: 2022-04-20T10:25:00Z
-originalUrl: "https://www.asiaone.com/business/h3c-perfects-cloud-ai-native-strategy-accelerates-digital-transformation-smarter-digital"
-webUrl: "https://www.asiaone.com/business/h3c-perfects-cloud-ai-native-strategy-accelerates-digital-transformation-smarter-digital"
+excerpt: "On April 15, H3C held a tech strategy media & analysts briefing to share its 2022 technology strategy with media and analysts. At the event, H3C introduced the all-round innovation in its Cloud & AI Native strategy and technological upgrades of its \"Digital Brain\" in aspects including digital infrastructure,"
+publishedDateTime: 2022-04-20T10:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-h3c-perfects-cloud-ai-native-strategy-accelerates-digital-/2022/04/20/9585750.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-h3c-perfects-cloud-ai-native-strategy-accelerates-digital-/2022/04/20/9585750.htm"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "36DxEtbWkRyEDQOoXIQtbOgEsM/9QnmPgV9tPcv12B9S/vJ0AlZJzO1s7Qs4++9waWuwR1JB51zqVXEsKKHT21cfZazBT3ksR7SbgUP+71eeaaYxgt03HQGpDmL4NxIe19ge/RVePP34u9PDTt0SS+cPJlZpB3RsH6nDKtrPfZmCIYKJJOeUwLLjtOh/Hj5ro5QVODcBZw6IZw1vQw1RLDGsg35Am43H1sxU23Q5pK0qypaZuxUHGuJWGA4SMt6le49KL3+eodArw9N4OtZd4XWarWcPaSS9JxQBaVAE4z5KTOYq1d5vdiwuZsvJ9dQna/3I1bMk7UFtJMWTppnkzK0YcCn9xDp/YmCr9ZEm/JWkPmEM8EOZ0MYVSotZAkxLSoPsVySrrl3S5GkgO3HKZUlOwXYHVn50VkLN+C4bZ3spQj6fpU6t7dsbBG7/k8L8T1mH64woViaL+89BHFpnzDkf4CAV4dEmqJXY4O8MYf0YG1oP6YVO9Cq2dWtgXhkdgqQrcOMkQssbU3znz+FIXg==;H/7b8Dqj0uBfVQJl4bgUzQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1800612/01.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "uU3a8XPeMpjKqavQ7P2hmsupltsKSiVBK0MyipVYHwZOoVT4aPh/L+JWMKJDF/MG7RFKwDlPmdW2vpp7zUdcbluIvAsHbwau29yXe1y5kWeU8QF/gU2HJHiPxJUa7EZFaNoyppvFp1xWcvHPvJEafmUChKZDaxQUx/wHLbYqI0uKs9qlAZ7i2cTYzc5J9su/U/6jBQ1mqQPk3BD1IF5UNT5eUzlhpPpQsiRW9LHBu2hR5bvmBh+d19WjCsSuk8M3OA4vKjqpykK0PGUYSjCvqB/ArS+bqaqvpZ7rpo1l5aUnkoN0IYksOIG7Q65cvozZVgR21ch/bVP1NwN70+EhSZIQL2e0fHK5X0dGsZD4Pf8=;sQ3h5IRF4+LuQ2BzfziZ7A=="
 ---
 

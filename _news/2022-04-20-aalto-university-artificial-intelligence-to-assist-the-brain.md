@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/aalto-university-artificial-intellige
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 853
     isCached: true
+
+related:
+  - title: "Northeastern University Launches The Institute For Experiential AI"
+    excerpt: "Human-Machine collaboration is the focus of the new Institute for Experiential AI. getty. At the launch event for the Institute for Experiential AI, David Roux, managing partner a"
+    publishedDateTime: 2022-04-20T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2022/04/20/northeastern-university-launches-the-institute-for-experiential-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "COOMsdEiDag1guJkVKNC8LRel6j1cYwBnUG/h1dYpA1NHbR86Tcee6Y8ZZ3dJQZYC0p71ZJWupy02ZbagNpY37mqAoRDuLn7fceKid0AL21N0Z3RZIVIZLs4rTBVY86hkraqryCpsw9B8/3aFGJ0Szhq1KCxMzbVxFR6lBfzVfHPeK4WO1+TNJX0NBHtxkqFDA62w+9Zn3TBZS9aPdakkmrNlbH6ISGhSBptqX00bena54ejeR5kKaXHP8XgU+q/gExNQVPJfJwE3RPJnNjYOHO9vzOeu/4wPlAUrI8grHx6GRHBDcjNqK0oFmmxpCqVF0L3qdSWrVvfj3nxtFQQc5GhbTJIca32mrN71JwR+RSIP86J+xlP9rmpkaZM2QztzoeCttpjYt3Pk3GcR4Oq5M6vWZK7n2ZS22lIFgWKe3pCIwTXMgDkiOEeCaOZmp9eCqkv9PHUaUv/vAEKp5rg8unRB8Ujmzh8YVk/i8zgLKX6sc/jkSfGau8Qnoxg8viuPXEflTWmc+DQ97ydjuDkMw==;wz8/GWVra9XneOLCOHDoFg=="
 ---

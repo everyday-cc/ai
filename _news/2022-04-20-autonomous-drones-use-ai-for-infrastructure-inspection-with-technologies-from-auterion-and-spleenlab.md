@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:51:00Z
 originalUrl: "https://www.suasnews.com/2022/04/autonomous-drones-use-ai-for-infrastructure-inspection-with-technologies-from-auterion-and-spleenlab/"
 webUrl: "https://www.suasnews.com/2022/04/autonomous-drones-use-ai-for-infrastructure-inspection-with-technologies-from-auterion-and-spleenlab/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: SUAS News

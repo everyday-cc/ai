@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:36:00Z
 originalUrl: "https://www.bobsguide.com/articles/looking-beyond-desktop-integration-low-code-no-code-and-continual-learning/"
 webUrl: "https://www.bobsguide.com/articles/looking-beyond-desktop-integration-low-code-no-code-and-continual-learning/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Bobs Guide

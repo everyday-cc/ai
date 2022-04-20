@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving car users could watch films on motorway under new DfT proposals"
-    excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
-    publishedDateTime: 2022-04-20T03:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals?ref=biztoc.com&curator=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_480_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=a4ec41422d81b1485f29e726e52da277"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Motorists in self-driving cars can watch TV behind wheel in Highway Code change"
     excerpt: "People using self-driving cars will be allowed to watch television on built-in screens under proposed new rules. While it will still be illegal to use a mobile phone behind the wheel under the Highway Code, drivers will be allowed to watch TV and films if ..."
     publishedDateTime: 2022-04-20T07:25:00Z
@@ -278,20 +262,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
-    excerpt: "Highway Code changes will set out when drivers can delegate control to ‘self-driving’ systems as well as who is responsible if they crash"
-    publishedDateTime: 2022-04-20T08:49:00Z
-    webUrl: "https://www.yorkshireeveningpost.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350"
-    type: article
-    provider:
-      name: Yorkshire Evening Post
-      domain: yorkshireeveningpost.co.uk
-    quality: 23
-    images:
-      - url: "https://www.yorkshireeveningpost.co.uk/jpim-static/image/2022/04/20/09/AdobeStock_289255656_edited.jpeg?width=2048&enable=upscale"
-        width: 2048
-        height: 1079
-        isCached: true
   - title: "Highway Code rule changes will let drivers watch TV at the wheel in self-driving cars - but not use their phones"
     excerpt: "People could be able to watch TV behind the wheel should self-driving cars debut in the UK later this year. Vehicles with automated lane-keeping system technology to monitor speed and distance from other motorists could soon be ready for use, according to ..."
     publishedDateTime: 2022-04-20T09:40:00Z
@@ -336,22 +306,51 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
-    excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why:"
-    publishedDateTime: 2022-04-20T11:18:00Z
-    webUrl: "https://www.kentonline.co.uk/kent/news/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-265845/"
-    ampWebUrl: "https://www.kentonline.co.uk/kent/news/amp/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-265845/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/kent/news/amp/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-265845/"
+  - title: "Britain moves closer to a self-driving revolution"
+    excerpt: "Drivers will be able to experience the full benefits of the first self-driving vehicles when they arrive, as government sets out how they should be driven"
+    publishedDateTime: 2022-04-20T12:21:00Z
+    webUrl: "https://westbridgfordwire.com/britain-moves-closer-to-a-self-driving-revolution/"
     type: article
     provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 17
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/PV8SSODJ95PN8GMV3D94.jpg"
-        width: 1013
-        height: 696
-        isCached: true
+      name: West Bridgford Wire
+      domain: westbridgfordwire.com
+    quality: 19
+  - title: "Watching TV while in driving seat moves closer in UK"
+    excerpt: "Changes to the UK Highway Code will help ensure the first wave of self-driving vehicles are used safely on local roads, the Department of Transport said. Changes clarify drivers r"
+    publishedDateTime: 2022-04-20T13:23:00Z
+    webUrl: "https://www.just-auto.com/news/watching-tv-while-in-driving-seat-moves-closer-in-uk/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 4
+  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
+    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
+    publishedDateTime: 2022-04-20T13:21:00Z
+    webUrl: "https://www.peterboroughtoday.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
+    type: article
+    provider:
+      name: Peterborough Evening Telegraph
+      domain: peterboroughtoday.co.uk
+    quality: 3
+  - title: "Self-driving car users could watch films on motorway under new DfT proposals"
+    excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
+    publishedDateTime: 2022-04-19T22:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 1
+  - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
+    excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why."
+    publishedDateTime: 2022-04-20T13:52:00Z
+    webUrl: "https://www.lynnnews.co.uk/news/the-new-highway-code-rule-that-lets-you-watch-tv-but-says-ph-9250431/"
+    type: article
+    provider:
+      name: Lynn News
+      domain: lynnnews.co.uk
+    quality: 0
 
 secured: "d8jWPRFV00D6KwLFykTV7Q7uI6X/VONciBVnhKsyj8WqFushNsJOjagj2f5shnR+JWLK7rfAl2AzzgqLdZkA3qlk8nBHi32SQCZkw5ul9xrpq//3fqIpkUsetQOa3EZHcdHPTx3VGwOHDAEVPjG7nnnARIgrnNdsO53L3QawyeAF926K6uGqblohO13r0POqTsfoepl0KdZQOUkuNHABNDj0A0diSSBDP/iPPOG4KlET27UfEWtctWQQI4Wt9CNze49xkzkksxMCc46Ev2rok9Yb6icNch8lZjKNYC4J0rHHuUjWJv7dffDcFMjWMpHxHH8KaB0qX3SPYdpraahliaC7P5qC/9aN5knMgzef6NU=;R8iSGvxq+lsr8zw1l/xiCg=="
 ---

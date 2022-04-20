@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T15:00:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220419SF28415/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220419SF28415/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: KTLA

@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisiti
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 750
     height: 422
     isCached: true
-
-related:
-  - title: "Fight for the Future urges Zoom to ditch controversial emotion AI"
-    excerpt: "The advocacy group wants Zoom to halt its consideration of controversial “emotion AI” technology in its services, which was first reported by Protocol."
-    publishedDateTime: 2022-04-15T21:34:00Z
-    webUrl: "https://www.protocol.com/bulletins/zoom-emotion-ai-fight-future"
-    ampWebUrl: "https://www.protocol.com/amp/zoom-emotion-ai-fight-future-2657163519"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/zoom-emotion-ai-fight-future-2657163519"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
-    images:
-      - url: "https://www.protocol.com/media-library/zoom-call-prompting-for-pronouns.png?id=28195604&width=1500&coordinates=344%2C0%2C345%2C0&height=2000"
-        width: 1500
-        height: 2000
-        isCached: true
 
 secured: "FNJg65GOlqA5ZqPtDlPuRRSSVq7T9C4mGeYF+VTWLit9fDBl7+an2u3x4eRzn1hyApG6oenHLjWM+5JBLrMX3dKLnVI16/2HyGyv24AW0LoNfKPaznJD06dWp/r8W+0zX4dodJUgEeZxJVwETiPKc1kxr5Hd95qQZuuK5he/MpyqtyK4JJttYW03ZuIyR78Y1W/vh6AwQNgQrQEKgVidlIlKPyzi+P9eKkMpquyqUCWiRJjkVp2Cqo3zAZI6CLkTfz6nfGVa08HHLAx0UcH1g+uNnb7VeUnMgt+mWrCFby6dC8RI2JbzXbC7/72tnIvl9l0E6pfGN3ZwRzUQY0uxgrFbKSMVzP85Zbb6kH4Dd5tNw/IJ3z9f/TNVmlahF2SF32y5KMLp9qg+xzkb1TFU6gMGSyiF4ae2jlHfx0UWnlvmoYeIvQoIwllMPluO7urCguBM7bdf51S5oUM0sWqdF+Q7+5GJKY/I/q20JeKYA+FeNgv7ONBixkUxrbXnk8cD6Y5JEl4xm9i9+akWouGeUw==;Y3ohgnKJjeX53dzTgcezdA=="
 ---

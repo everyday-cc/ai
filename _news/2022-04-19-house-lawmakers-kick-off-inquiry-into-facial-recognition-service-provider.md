@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GSA finds ‘bias’ in facial recognition errors, plans tests but no deployment"
-    excerpt: "Tests conducted by the GSA have shown higher false rejection rates in face biometric systems for African Americans accessing digital government services."
-    publishedDateTime: 2022-04-15T20:33:00Z
-    webUrl: "https://www.biometricupdate.com/202204/gsa-finds-bias-in-facial-recognition-errors-plans-tests-but-no-deployment"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/15163059/digital-government-services-scaled.jpg"
-        width: 2048
-        height: 992
-        isCached: true
 
 secured: "vcMQYdy6TKeyMaGCrX0OSb4KdAq3VEtQlr4xpvQJ/dAW7jPIomL2jV+oTm1y8Xtqgh650cX0Z4IX4/QeGFLl4IeAydK0YKG8TJXkvZ+eBRvPf0nOMzS9DQI4hZFtyJJFaeFJl8yuJPRQVkTHRIDKpI3oez+gn5pJB5MBREcBGolHxIB4eI+zEAkXSbkkVg1l4V/z6kCEfC/ks5LevCvZ3GLUHo5FAO9SZpA5a06fxirxJA03IhB8PVS1dFggMFuIGJ+npIupkZ8588ejvkI7nvRSu3h7LEKBDM/PF9XfXnKUEGXTI1gcN21ztSW9xL4cL0t/81gA7Z7NpqOqNOMefbTiypHL2uRJ0rsK01M4dmH6hIQZRazy36HPBEEFDCd/vRpgx053ObPpmhvpqrEtkbOpF9up33RwM5bcMzn/x/41bmGkfzu/yN0Q7/RwoOCSXjhd6qn5qw4AR346fnkGkUpr7vbaCpvT7v/73ZQv7o6y+gu26w1S5OSny36jWXoOImhqqKY04YvC1xoRqebhaQ==;6m9CXVtDtAQ+8w+AWZIqBQ=="
 ---

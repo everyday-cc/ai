@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal"
-excerpt: "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business."
-publishedDateTime: 2022-04-19T19:38:00Z
-originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
+excerpt: "Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business. Chief exec Pat Gelsinger bumped Koduri,"
+publishedDateTime: 2022-04-19T18:39:00Z
+originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
+webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "fYKokO8YejS9P4rWqnh7zrMNKVYkReS7eIGc5MBwG8lcWe1PPf4hPNNiuGEMB2cGjQnzAA803yALMXDgX4LESJqLIYvCCt5RJZfQszUy1OeihZGKuq5p5hSm370F0sD+GP3m/8tb9U13vd8SK6wnzRJXq1UyFFb8mACukT1LEwB6yIYL/E7wa4hI5QbIJ9m9VK/U3clL2RHNBZKQITFeoKgfxcBhjWqTj7Se3tnetLEf3oc8RylUeHpmal4GMi/9j2PG/npqYMCrfMjlHZde3DcGxgT+qEZZ6Y3f2Ldr2EVRi5XdjWrwM4twCOLmSi1SmVcgL5/dtTR3VTYb+w+Xd81305/fi9AEl9U13TRzPVm67dHBmAeaDUKJEo7/BFfca06boq/6ZvAwnDcF1O7smSnLRcpgiSrsjaFmdBPhCxIADPtnydQcOhcoTVKCTuOlP3PjJPUMx+SMZn8n8tG1fhA/DHOLYYRzrSg87uz5IIBVyha25fopjAJF556nyt4grhRoS7ShKGfUd43xzlWQ+Q==;3Q9HEPotNzRm1WdM/szoug=="
+secured: "++dLBohBvtWU9+pL9L+WZNB0qcu1cNW9VFYzEKPQy/+Uzh0coquNv9gqXBADufAdQOJN+KAAG9UjIcghoI0ahAGr+TAyxt7t7vAi1tEQaIyAFtk2YMo0Bd2X0qKvJ2pIcjtajqk9IATiOGRoYqVjdvaLZFYchKpX1OEmFz/d/24P7RtzqTSMiejSnz0FZBQRBxP/tQw8htH24sl0pbdy257ycMgVkqH/ZI4XdN+s062xKOdQCPSURBOu4YfP9gY8CuA0PMk15Ve/ogc6XQj/hBs0F0eB28kH+aBidtDmz3GQyXBYp07IutVGTG6LbNZ0+MW875xwt6ESW7jnVs7zNaWoA2F2j/9FQZA8Pz01ou4=;4r0yXdB/rRbO8HCM1HAIfA=="
 ---
 

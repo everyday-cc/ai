@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-04-method-robot-vision-occluded.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-method-robot-vision-occluded.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -41,6 +41,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "New Method Developed by Gwangju Institute of Science and Technology Researchers Allow Robot Vision to Identify Occluded Objects"
+    excerpt: "in Korea found themselves facing this problem when they were developing an artificial intelligence system to identify and sort objects in cluttered scenes.\" We expect a robot to recognize and manipulate objects they have not encountered before or been ..."
+    publishedDateTime: 2022-04-20T13:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-method-developed-by-gwangju-institute-of-science-and-technology-researchers-allow-robot-vision-to/article_6490b664-0232-525b-913b-e369124a9225.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "TAXc2KbY7gEXWTZS0d8dU3KLw6MWZM2u+xvgl2Xp3yTtsIecY9iQRML2iDD+Haxdc1kWugTQy4htwVp9203JYvT10PBE2s6z8IxB/eeZb/voSE4nhcy0vTqcGg5QqLM0uUQ9LuJeQvlgynZDYLsodkGTu9tUEzxd+ZNtp+Om+GbGO3kY793waHnexr7gac/FNgtd70bpTo5MMaBgeed9FErfxEvSWfnHfN8zm3Smsm129wvsGsj3cHiYyJ9A+6FBvx8RtjqNvc3LzESAOFH82908o05h2kz08ZbNSkOW3ELmTBEzZpC+/8rse9fyEkPns4XrFap+7zZxriKL7xxGsTqkYipIrFiUNGJ47iV1f3qYdMjvr+RCUx7ywguUeq8+YAr7/0NswaEO91n0XOijXfUjRzmtV4aMTyQhCYgzX317zdUoJkFfxv8oz9Zmhq9P32HQ1Svo+te/wt/AHpN/iEfJpoK+jssshyEN9jbMNWNYe3lpw7zadjX3V6rFj7henTnID5dcMd4gc6qOj7KHPA==;OwvKcOOq1TmT84xPEYG5Yg=="
 ---

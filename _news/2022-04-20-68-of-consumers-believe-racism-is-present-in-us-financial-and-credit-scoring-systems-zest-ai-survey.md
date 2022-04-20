@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:45:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/68-of-consumers-believe-racism-is-present-in-u-s-financial-and-credit-scoring-systems-zest-ai-survey-1031368308"
 webUrl: "https://markets.businessinsider.com/news/stocks/68-of-consumers-believe-racism-is-present-in-u-s-financial-and-credit-scoring-systems-zest-ai-survey-1031368308"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Business Insider

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chipsets
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chipsets-market-assessment-2021-2027-industry-size-share-and-top-key-players"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "D-Matrix lands $44M to build AI-specific chipsets"
+    excerpt: "The chiplet architecture employs multiple small chips to make up a larger integrated ... 3 is a language model created by the Open AI LLC lab that has applications in a variety of language ..."
+    publishedDateTime: 2022-04-20T15:18:00Z
+    webUrl: "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg"
+        width: 960
+        height: 629
+        isCached: true
 
 secured: "Z0tp6wSTxXd58DICJKY2plNtfi6BPuKp0HRPvzIosY61ZBp4H5/Q2hciJqsVYhx2M6dlU3q0GBOO3nQ+zSAYL1N0hddaW3nuVbAd9k7taBCNHnKQEhUgEPxsb8pM7epVxn0Xwwlitt/iFtT/n1SoXceG/MwNCvuz1sMWQN2VQr3Xg0c08TodpzodX/RKZJWa4kjo8B8tu9SdfikeUrI4LIe17xoVLjRUGcdwsATdGPTdsVRDJ9veXPNYtf3cH2qP88qC+xzyh0Z81hCiVyxMk3zvlfDdX8q081i2KZ32lMU6lsjyQuyc4XaOnJV0scYpwGxn9zqq1XK7XynY57h4s2iCCktvfegF3mKrIAmI1uA=;c2r4ft38qAEgZOlnqt8kMA=="
 ---

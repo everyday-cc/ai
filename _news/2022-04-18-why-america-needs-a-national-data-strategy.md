@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "AI Competition With China Should Be Done the American Way"
-    excerpt: "With much of the national security community’s attention now turned to long-term competition with China, the race to sustain the United States’"
-    publishedDateTime: 2022-04-15T19:44:00Z
-    webUrl: "https://www.hudson.org/research/17752-ai-competition-with-china-should-be-done-the-american-way"
-    type: article
-    provider:
-      name: Hudson Institute
-      domain: hudson.org
-    quality: 17
-
 secured: "Zn7jxvrZzwmNfYtzhdRYCUHli7+61QCvN43/GKRSod6zH4rq+rzr3ywL5GSinFYPYGn3g/9C1Vn6tjjq139AM3sNoAFM0xLiJkbLy/GqIyYNKrRAnZjBwdDo5Bg0XTYjZLRgUi5OcAUkEfEdsicsqyshS2kCSvplWQK/ytZPjbaG/GpT3CTjKsdHmORhAbfhjB1BfB/aQ9QvpBnXgMvIWPPZgcVaJHIsde8PaRVFlvfJws3XhxMX+y3tYBsWr1ziPus8Nobl2BMnupvYuD3K2x6Qr1YL3/+knawNI6xbPyyi3ra1yCqGVK5srguOrYzKlDtGKkIKPpFn5L7EwVl3idocTG1KL+a3zoUxHV+TxxU=;zJndqKl2ELVROm5WXx2Lbw=="
 ---
 

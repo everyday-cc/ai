@@ -34,6 +34,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
+    excerpt: "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,"
+    publishedDateTime: 2022-04-20T12:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 15
 
 secured: "MdQ4+/+mr0Xqkh7lJobLUf9La4OLOYu0QIeZCWxkgCXsRKs8alow64Q3dWAL8zZldEVqE6f4qbWU/n+BIjhkI+5bV2gX7xaAN1oT22S2sb/jsuay1ydUGOSHOzZuruZsxwxEqx0FIkmjhB50AkwzfJT/M2cCXvF1HPBPkoum97utDfG8dtHrON0JbkRzU+pn9nNXpbRgrjhZM03PVPcHV+eMRyT0+haq/0JcvOGKBKhIB81cUnZiaMwbQD+gMAxAClRRhCu+rnQMWuSYPqaLz4qjTnYc41Y1lS6rIFuDJbc19RzHz+nWXk485MmKgVrB9gJbn48oWh/luKTgl971j4GChNssd8MXx0adLjocerXgyxMNDqLdMNW3tku3Xd2HT33Wb29Xgcew1cy2Tyj5ao8wo3qQNlTOcJeiqfoEaiBt2xAernI9IPjf8p5WDCg/JGx4WxH6aQkY8Rc4V0Fbb8TtguRot+8o80ksWZv1gkCky3i+TfbufuNthg/dhG92jGU0o2cq8orHKKVhduT96g==;+thD9BFj8nCYWvn1+QEkBg=="
 ---

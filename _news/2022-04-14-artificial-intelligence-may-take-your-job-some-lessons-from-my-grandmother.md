@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence may take your job. Some lessons from my grandmother"
-excerpt: "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now."
-publishedDateTime: 2022-04-14T13:28:00Z
-originalUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
-webUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+excerpt: "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope."
+publishedDateTime: 2022-04-14T05:23:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+webUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
-secured: "Tg4AqJ2t3fUjFGg3QNnJ0mUJ3RwC8edGMis8vk8aY3w5oxYmCuYTYNZ/OsRpDqA8yY9gDPXeLE1zUAdjmgxVoFYkYZHKZGetrF2LfK7AcBXJC1O76iTtCxcxoMOcwUEGHMLhoVjDZGgUfbwPaAA0oWlq2Sl0607SuxTVY/NkBM8lhIUqGGZS33tIkSumgVasz02nlQ08IqntmVrVfwzsXRV9FkOVXzN8I29wLsbPML524qd9lVd4/0auHm/9je1Rlbx8KCLKoFThzqWZ4V/U3mYLPut3EJ9aChJ4pr9/CGLOGOEC5FZqfr3d1hlNTZI8J0emnQn7mQyVSplSskjMRpJODYUKr8gg899UQTHksIr5zHQ/Ej2n7SicBL6Mm2JmF6OWtoQhfCOBHFHbmfpneiUOO4Ix2aqC0PhTg8/ZdHjPIctE7UP0/l9XBQrjUwdky9KSq8LTddfP1e6JG995Jd2z0NUwTyS7pqyomSVLuDRb9eiHhW1TvRVRCSgPC+zBj0yzkdqNuSFHDynWI4sAiw==;w/i/jFsS6j8nqthe+mB7gA=="
+images:
+  - url: "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
+    isCached: true
+
+secured: "8Ms0Q36cJSrUbU8jYU8jE7CtFatwwrxfQC6mufFokgkuf1fweTam/zLGgKgUiQGkT/pFN7jcgP9etg1U+DUJevusDvlfEAGb2fHLrVVrhj0/w8SG2ivjLpGL+zAcAnbvN/HYBs5nQ2dIa7FXx2XPSuUlOx+JfUf2tTkQNmiVCDh+ya+yD9wnTe1GiVZ2T3dhSuwYUWmrjZfWo4jh/hve4eeI+vtDxa7Z/XcKiNpjlS3WuZ5m9OoGHrGJZiloxw315p+2DJhwhwQLmCY8v0EEnAEh36X6Ls9FdMCQ53VQJXu+TJzJijLtMhkQvOXjDis2lNZLMe4ER1rIbR3MrNyKVAy2iVcxHW1odPlaDyVsx38=;Keg4/rS5dkjDrRJ7QzfcAQ=="
 ---
 

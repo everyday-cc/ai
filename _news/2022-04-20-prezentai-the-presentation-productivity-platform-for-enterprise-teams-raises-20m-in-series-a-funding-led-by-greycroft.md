@@ -40,6 +40,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Greycroft Leads $20M Funding For prezent.ai"
+    excerpt: "Los Angeles-based venture capital investor Greycroft Partners is the lead investor in a Silicon Valley startup's Series A funding. According to prezent.ai, it raised $20M in a Series A funding round,"
+    publishedDateTime: 2022-04-20T13:15:00Z
+    webUrl: "https://socaltech.com/greycroft_leads___m_funding_for_prezent_ai/s-0082409.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 17
 
 secured: "5Ezbe2lkRaHNbxFx2WR7XEYTdFNxcgGM2vEJMKYR8dCUxHdDK/GDHq/cb4Uw/HBeTRsHWm0foG/ewMQ/MV9N8WnnCclzOQtQVWYO/zvmMiQ6Y996jW9w6WkXXH+3vV1egDxT85bjQWIV2DRHtDBT0YWhEkofZ+SUNTFBS70j3VUrDtKlYX5XyaV8O8ZTzHj04oX+vXf90rLmByt6KTK4u/sPgzpkyeG2RXIDSuFWWCC56r4sWm2a5tUkEvLh9IkP51kq1g8TF2lq/JD5mD8h58lEmcTiPPMVofq53m/DeDb/XV1UVTWBKiWLO09FwIDdDdNK+uTmEnsU5X+eiKwAKKMPAj8VFtBaB/iZ3YOegE4=;kLPQp4uFp8D8ZFZsFLQsXA=="
 ---

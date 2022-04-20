@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/willy-pell-from-blue-river-technolo
 webUrl: "https://www.therobotreport.com/willy-pell-from-blue-river-technology-brings-ai-to-the-farm/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Robot Report
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 665
     isCached: true
-
-related:
-  - title: "Legal Departments Face Increasing Technology Risks, From AI to Computer Code"
-    excerpt: "Even as general counsel are increasingly getting involved in tech adoption, new technology carries some risks."
-    publishedDateTime: 2022-04-15T22:33:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/04/15/legal-departments-face-increasing-technology-risks-from-ai-to-computer-code/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 36
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/428/2022/04/Software-developer-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "l0qyLiclw1gzMZ/3PcbPimIc3KKMX1s9Tex1RFZUUvEdQ4w0t7guAcT5ZD+7XQcr55qDX5wctpJXvex7WbL9VY1QYpJ2PUiHdkIArnSqvnYPMkvTafl6y/P+cXevlVPnFIGy+DFUyPrks1AMPxFG3BZAioxdBb0PoaaS+YIMJ7QgC90MBXt1dLB88+TJmF8nVZXzNL0LEEY9vToCumnoi9xVElhq2CJTg0mOskG+h1U/woS+9pPcxqhT3A9s5Tuzj4GwO4lAmoF6Pp2fSr+W7t4vWf6O13w5aBUcfXceTaFPbtOgd2PkLdYFFqm+wORd5w0U17RhZrLG/FupQCA0GRUXHeE0SX0PwcG6ryBzV6h526D/OO+Mb9zQ8dTWJrNTZ9xh4q8zxwiRlPxe71n+FB6rdYRE931NgHGN4G7vx2+qX1xDoMl0bh3vtvGLlyL96eWYLXfoINxYBv7uOIHYwQ47+12N70b9OOi0fXthY7N3ZFj9qidajsV4lL/QtN8AqEZ2sV/7mjAZdpB49/kVuQ==;2NawE7kc3nFY3upVRqb6PA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T12:14:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-kami-vision-promotes-ian-ranahan-chief-operating-officer-/2022/04/19/9584884.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-kami-vision-promotes-ian-ranahan-chief-operating-officer-/2022/04/19/9584884.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

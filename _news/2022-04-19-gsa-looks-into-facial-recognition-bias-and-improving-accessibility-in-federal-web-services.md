@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-access
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/20/ec/ee/33/c8/fd/47/94/00P4y000011p6OsEAI.png"
         width: 272
         height: 270
-        isCached: true
-  - title: "GSA finds ‘bias’ in facial recognition errors, plans tests but no deployment"
-    excerpt: "Tests conducted by the GSA have shown higher false rejection rates in face biometric systems for African Americans accessing digital government services."
-    publishedDateTime: 2022-04-15T20:33:00Z
-    webUrl: "https://www.biometricupdate.com/202204/gsa-finds-bias-in-facial-recognition-errors-plans-tests-but-no-deployment"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/15163059/digital-government-services-scaled.jpg"
-        width: 2048
-        height: 992
         isCached: true
 
 secured: "HsQjX9srEabKAvloEebHQUebBAHvMS843RBI+gVMN0Z1PInLOx8fLxvbqoYCW1PkEFcFyNZCsyCs2vFYAqgpu+rK4MLbCMQRn6NxdoPHBHSPH31BKkGpWPGtONgL6s5l2v2IVXpAZM+Dx+Yf3VdlE8vy1ZufVfuDS3nROckxtGLNuQYVzjupmTnX42L4hDUQmWuiNxYSQZX+/9BCOJ/5OIL2jc3SP+hONWS9OYcZDJGEFmqgMjuOpAd8J/PDPWR+2VPB/qhALk1fYAbkY3eWdShk9n/k+U1EOaLxhSRQdw8hro9KOx1qb5IRM7xCh3K2JqzJQBGGnZ+WMdvveQIYo8l4xuQmeGtOTDkv1KBw0mE65NSizil5EhCwtUEetMCf+bqo6Q4zJo+o3KKPGQc1VZJ7uqnUBVp3zrM7sPN1QXGkxmHzlVF/vZgo96tW4q4Oj9zIr2tJ+5lis64mKZD4L4/pIFvBkxgLsV9Gtwfk80gICQuKf6e4K7WxxpVjselZVZNK8GnxalT/veNn6rV3WA==;NCTmVYA91fCmjZ7IcIRjVQ=="

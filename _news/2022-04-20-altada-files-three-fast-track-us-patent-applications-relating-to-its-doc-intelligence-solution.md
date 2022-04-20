@@ -1,21 +1,30 @@
 ---
 category: news
 title: "Altada Files Three Fast Track U.S. Patent Applications Relating to its Doc Intelligence Solution"
-excerpt: "Altada is filing these fast-track patent applications to deliver patent-protected, next-generation digital transformation technology to its customers. The company's sophisticated"
-publishedDateTime: 2022-04-20T13:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-altada-files-three-fast-track-us-patent-applications-/2022/04/20/9586175.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-altada-files-three-fast-track-us-patent-applications-/2022/04/20/9586175.htm"
+excerpt: "Altada Technology Solutions, a global provider of artificial intelligence (AI) solutions that supercharge data-driven decision making in the financial services, travel/security and healthcare sectors,"
+publishedDateTime: 2022-04-20T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-ireland-intellectual-property-patents-44c1bf90fe9c4d52ae00f94caf9ec510"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-ireland-intellectual-property-patents-44c1bf90fe9c4d52ae00f94caf9ec510"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
   - Natural Language Processing
 
-secured: "ENvWCb7C05f01tULzLp4srNmwnQHnZCS/Yf5RqY0HaBGsvF+hCNbsJ1MgX/F20RtHMeZx/qEkEQQsLDY/axfx03i673n0o2iAD9sKik021e3NIgCD/uFRk6t8W0wLhODjJjM7PXsZqe0ACtKpYBr+iHdtm+s1toCdtXtMw3t/nICggZ6WTc9CNn8JEEM0FsnNZc7nz91WBDvYNPEgtYuKOkG4feXgGVuIdSx4SNt4L0hbZ3MBoXjM4f079kmc2u+dpQrBP7gROO3ReuxoD9gXL1KABRGiU43DcHsXO1Ngc/V12avB28ddw93mKnukQ2OtbknwFEPLUPShy0tTCJ4IEkRDXMyI03NWECbNnMyCho=;XDFEhy+FS/oDUWtQEJY3Gw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "eYcl4Kbha1loAI2yxG8pmFoH0z/2c1J92mX5hq6MXoPplsdtZEKEfBIvUeqbooewQwJBNRXn23dTeIMH+cZ2QQTOtwgVdEYArhqMYTZFKLyon/eITYz+hVYBCtzQRKXvG2DvbJYzgownkuSb10++aE4QhmMXidUhQT7d1c7d52CdLhKvK0waOLQ1yhJD0usy7BkHLJiY0zEEf9M4pJNjqm4JYjUqyhh+UTZ5EMYaXCle62yZK7TGSR4r2lkc17vr7RMUMmk6htDfQiApeZHSNPIREYaY5XjGJEEu4uqnH4nB4GJhZ0iUczizEoLFz6Qdfe9M2maedx/ouO8/HsrRaBxDRoYpPuHUA7d2ZfJMW6k=;K3PoK4kEV+I/2m7AjqLjHQ=="
 ---
 

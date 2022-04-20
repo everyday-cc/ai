@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gupshup acquires conversational AI platform AskSid"
+    excerpt: "E-commerce conversational engagement platform Gupshup has acquired AskSid, an India-based AI company that automates support conversations."
+    publishedDateTime: 2022-04-20T15:45:00Z
+    webUrl: "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid"
+    ampWebUrl: "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/04/pexels-kindel-media-7007165.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Enterprisetech Unicorn Gupshup Continues Acquisition Spree; Buys AI Startup AskSid To Strengthen Product Offerings"
     excerpt: "The acquisition comes after the cloud-based telephony startup, Knowlarity got acquired ... The deal helped Gupshup to assimilate Knowlarity’s AI-powered tools into their business suite."
     publishedDateTime: 2022-04-20T07:49:00Z

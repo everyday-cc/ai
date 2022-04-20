@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:00:00Z
 originalUrl: "https://siliconangle.com/2022/04/20/draft-spanish-startup-nuclia-gets-5-4m-advance-unstructured-data-search/"
 webUrl: "https://siliconangle.com/2022/04/20/draft-spanish-startup-nuclia-gets-5-4m-advance-unstructured-data-search/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: SiliconANGLE
