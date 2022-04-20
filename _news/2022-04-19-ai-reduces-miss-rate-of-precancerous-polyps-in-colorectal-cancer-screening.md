@@ -34,6 +34,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI-Assisted Colonoscopy Missed Fewer Pre-Cancerous Polyps"
+    excerpt: "Incorporating artificial intelligence (AI) into colonoscopy led to a twofold reduction in the miss rate of pre-cancerous polyps, a randomized trial found. Adenoma miss rate (AMR) was significantly lower in those who first received a computer-aided colonoscopy compared to those who first received a standard colonoscopy (16% vs 32%;"
+    publishedDateTime: 2022-04-20T18:04:00Z
+    webUrl: "https://www.medpagetoday.com/gastroenterology/coloncancer/98308"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 17
   - title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
     excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic. The study is published in Gastroenterology."
     publishedDateTime: 2022-04-18T16:58:00Z

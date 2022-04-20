@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 658
         isCached: true
-  - title: "Fintech start-ups frustrated by red-hot recruitment market"
-    excerpt: "An aggressive recruitment market could hamper start-ups in Scotland’s booming financial technology sector, according to senior fintech experts."
-    publishedDateTime: 2022-04-16T05:03:00Z
-    webUrl: "https://www.thehrdirector.com/business-news/financial/fintech-start-ups-frustrated-red-hot-recruitment-market/"
-    type: article
-    provider:
-      name: theHRDIRECTOR
-      domain: thehrdirector.com
-    quality: 24
-    images:
-      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/04/Technology5-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "5 key tech priorities for fintech leaders in 2022"
     excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
     publishedDateTime: 2022-04-20T09:44:00Z
@@ -109,6 +95,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 4
+  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
+    excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
+    publishedDateTime: 2022-04-20T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247847&cat=PRN"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 4
 
 secured: "UfXkcS8rSlTmAeb7Jo+ajcSUQKphzEsaBCw/TBfWnns9BxqwBIQAQ/n83IcaTVc3aK6Qh7G5cejXMokOgKfZFuPG1/ahVzu5zMB/6G8hEbTXpryAQmIRgnreG2Tw8Il7x/vV7a1/k337Ob6VoRslpjlU6tjBU2tn20Qbhmvqz5ZKOvpw5rxl+Y/Lf1PVLit9dnsHHvF9t1pzfUgtapEP19V2CRHR/KTPNjumAr3/gCK97TTQyEJ4izTKM9pDdkar1ugKUspjczcPEN8XPmDLI/4jllkHoVbqe87hL63ozAGwB9+G6hjEiNuB6BTnL+ih49rJ0yTM4WNHqGKYiGPIDIpn5nuAeAgmyL2m3U6F+J0IzuMOvYPjKuygHpqIavCx5V9/R0ecENu9GKCS+twXDfQDIDWmAuYb2TQzychTFhsDHA1qAdCAbviWnHGw4GbcZ/beukWRQVWD7ZhZZyNU3u7FXIcf1wR8ri8xbdnFcX70Qh+8uRN8t9CjilOiZmL/v6wsjwe9KaRtcigG8s3krQ==;uwIU5yCuCtyAxGnDDXWjgQ=="

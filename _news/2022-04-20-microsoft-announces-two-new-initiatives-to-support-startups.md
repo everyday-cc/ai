@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft unifies large-scale data management under Purview framework"
+    excerpt: "The new “Microsoft Purview” brings company’s large organization-focused data management tools under one roof, and includes a host of new features."
+    publishedDateTime: 2022-04-20T19:59:00Z
+    webUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html"
+    ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/05/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Woolworths completes SAP cloud migration to Microsoft Azure"
     excerpt: "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,"
     publishedDateTime: 2022-04-18T22:20:00Z
@@ -54,21 +70,33 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
-    excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
-    publishedDateTime: 2022-04-19T08:50:00Z
-    webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+  - title: "Microsoft Azure launches new services in UAE"
+    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
+    publishedDateTime: 2022-04-20T07:34:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 56
+      name: Zawya
+      domain: zawya.com
+    quality: 54
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
-        width: 960
-        height: 540
+      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Stripe hires Microsoft veteran to lead financial services"
+    excerpt: "Stripe has hired Microsoft’s digital transformation chief James Phillips as president of financial services. <br /> Phillips, who led a team of 15,000 in his role as president of Microsoft’s digital transformation platform group will join the B2B payments and financial infrastructure giant as it continues its plans to expand the business."
+    publishedDateTime: 2022-04-19T10:46:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Stripe_Hires_Microsoft_Veteran_To_Lead_Financial_Services.php"
+    type: article
+    provider:
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 41
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/Huawei-December2021-640x380.jpg"
+        width: 640
+        height: 380
         isCached: true
   - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
     excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
@@ -83,6 +111,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Stripe appoints Microsoft’s James Phillips as president of financial services"
+    excerpt: "Stripe said Philips experience building companies will be instrumental as the company works to expand its portfolio."
+    publishedDateTime: 2022-04-19T14:37:00Z
+    webUrl: "https://www.siliconrepublic.com/business/stripe-james-philips-president-financial-services-microsoft"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 38
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/04/33e7cac2475516a17f2414afe7a9e64312ceda757081c3517f82a84f8d27f1c6.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
     excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."

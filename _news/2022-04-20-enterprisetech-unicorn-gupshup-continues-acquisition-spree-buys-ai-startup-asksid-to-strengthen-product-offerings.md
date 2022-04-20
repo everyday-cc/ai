@@ -42,6 +42,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Gupshup’s conversational AI buying spree continues"
+    excerpt: "AskSid and its Retail AI Brain hold deep-domain knowledge sets that Gupshup says will position it to provide comprehensive conversational retail and commerce solutions throughout the entire customer lifecycle."
+    publishedDateTime: 2022-04-20T19:14:00Z
+    webUrl: "https://venturebeat.com/2022/04/20/gupshups-conversational-ai-buying-spree-continues/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Gupshup Acquires AskSid, the Leading Conversational AI Platform for Ecommerce and Retail Companies"
     excerpt: "Acquisition strengthens Gupshup’s AI-powered conversational solutions for Ecommerce, Retail and Consumer Goods industriesSAN FRANCISCO & MUMBAI, India--(BUSINESS WIRE)--#AIsolution--Gupshup, a global leader in conversational engagement,"
     publishedDateTime: 2022-04-20T08:00:00Z

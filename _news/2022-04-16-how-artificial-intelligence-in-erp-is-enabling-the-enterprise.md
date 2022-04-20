@@ -41,6 +41,20 @@ related:
         width: 1945
         height: 1112
         isCached: true
+  - title: "5 Artificial Intelligence Use Cases for Retail"
+    excerpt: "Artificial intelligence is poised to transform industries far and wide. This post outlines 5 use cases for AI in the retail industry and what this means for both merchants and consumers alike. It used to be the case that the retail industry used traditional analytics models to understand consumer behaviors,"
+    publishedDateTime: 2022-04-20T20:34:00Z
+    webUrl: "https://www3.technologyevaluation.com/publications/5-artificial-intelligence-retail-uses-58767"
+    type: article
+    provider:
+      name: TEC
+      domain: technologyevaluation.com
+    quality: 52
+    images:
+      - url: "https://technologyevaluation.azureedge.net/getattachment/bbd268c8-a22b-5ff7-91f8-1dd841d0f296/AI-in-retail-thumb.png?source=tw2&ext=.png"
+        width: 270
+        height: 349
+        isCached: true
   - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
     excerpt: "Vianai Systems (“Vian”), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
     publishedDateTime: 2022-04-19T14:02:00Z

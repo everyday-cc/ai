@@ -54,6 +54,22 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Nvidia: Growth Beyond Moore's Law"
+    excerpt: "NVIDIA's dominance in GPU and Data Center segments will continue, causing their revenue growth to accelerate. Learn more about NVDA stock here."
+    publishedDateTime: 2022-04-20T20:46:00Z
+    webUrl: "https://seekingalpha.com/article/4502479-nvidia-growth-beyond-moores-law"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 44
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037038/image_957037038.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Healthcare AI Market May Set a New Epic Growth Story | Apple, Medalogix, IBM Watson Health"
     excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and"
     publishedDateTime: 2022-04-20T12:29:00Z

@@ -34,6 +34,15 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 4
+  - title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version"
+    excerpt: "On April 20th, Chinese Language Day is celebrated. Chinese is nowadays more important than ever. With a total of 1.3 billion native speak"
+    publishedDateTime: 2022-04-20T19:15:00Z
+    webUrl: "https://www.khon2.com/business/press-releases/cision/20220420CN28701/a-magic-scanning-pen-that-is-revolutionizing-language-learning-youdao-dictionary-pen-3-global-version/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 0
 
 secured: "Ea1BPsCPVd7dPg7Yz71hRxfI0AdvF5Nqf0N3vrGeLCQP4Q/6A0OYP9+mr6uctELQPVBsz7tnLkqFDySH2+cP6JPg9V00DE+9r8yRr9SPjyqw9T2GS2IHemy9a14Kdfi6h44p6B/rXQmIuRFkiQaTQfEJeq8Tt7e88B1k3g4hL1VIpZ7SWPWpBgqwiQJQ7enNiTTC2BxK9rhNmO69k5edhAU99Ynxlqh/uMDHKrjw4ETDR8SF7gYyWm7A9Y6W5qdNljXguf5jcVs9ikjIerHobYy2DcTjY1kuaL4X7K2jlg0ZmM8wb1k3/m1t1n/XO05yXdY6272s4vYz3Jq+GvJXP6yh/qwhg8WPhaMigqxcTQiqw/47KZ/f0NFyAwMN0n6y+Gj+oVV5cnb16JVpCFy3G0ddfblTZLiVhA+eVaMS5kcaHpanydEt2rXy7Ei3qgdwmvmCz+3kDTxdQyYVsCyUfgl4MWYWjI5tN3VCIU0Ir+KGfA4/1QWgeRrUfntOhbzGv6FugdtWf0NeGmqzma3t9A==;Ekyqk1CpHmrtkE01KhTSwg=="
 ---

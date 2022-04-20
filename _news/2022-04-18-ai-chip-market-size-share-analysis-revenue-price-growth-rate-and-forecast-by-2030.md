@@ -39,6 +39,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Nvidia: Growth Beyond Moore's Law"
+    excerpt: "NVIDIA's dominance in GPU and Data Center segments will continue, causing their revenue growth to accelerate. Learn more about NVDA stock here."
+    publishedDateTime: 2022-04-20T20:46:00Z
+    webUrl: "https://seekingalpha.com/article/4502479-nvidia-growth-beyond-moores-law"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 44
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037038/image_957037038.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence (AI) in Cyber Security Market Projected To Gain a Revolutionary Growth | BAE Systems, Cisco, Fortinet, etc."
     excerpt: "Global Artificial Intelligence (AI) in Cyber Security is the product of rigorous evaluation and analysis of real-world data gathered from the Artificial"
     publishedDateTime: 2022-04-19T08:19:00Z

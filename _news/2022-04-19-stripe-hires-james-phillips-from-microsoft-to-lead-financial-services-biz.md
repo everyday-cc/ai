@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Stripe Names James Phillips as President of Financial Services"
-    excerpt: "Stripe, an online payment processing platform, recently confirmed that James Phillips has joined the company as President of Financial Services."
-    publishedDateTime: 2022-04-16T06:03:00Z
-    webUrl: "https://www.financemagnates.com/executives/moves/stripe-names-james-phillips-as-president-of-financial-services/"
-    ampWebUrl: "https://www.financemagnates.com/executives/moves/stripe-names-james-phillips-as-president-of-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/executives/moves/stripe-names-james-phillips-as-president-of-financial-services/amp/"
+  - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
+    excerpt: "Microsoft today announced the availability of a new wave of digitally transformative services on its Azure UAE Regions. These latest services mean that"
+    publishedDateTime: 2022-04-19T08:50:00Z
+    webUrl: "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 56
     images:
-      - url: "https://images.financemagnates.com/images/Phillips_id_26552723-10fb-4935-83d0-88e648e141d2_size900.jpg"
-        width: 900
-        height: 499
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-04/Microsoft%20Portraits%20Jan%202018%20-%20PR%20Size%20-%2066.jpg?itok=RhaGUWpG"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Stripe appoints Microsoft’s James Phillips as president of financial services"
-    excerpt: "Stripe said Philips experience building companies will be instrumental as the company works to expand its portfolio."
-    publishedDateTime: 2022-04-19T14:37:00Z
-    webUrl: "https://www.siliconrepublic.com/business/stripe-james-philips-president-financial-services-microsoft"
+  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
+    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
+    publishedDateTime: 2022-04-18T00:05:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 38
+      name: Deep
+      domain: thefastmode.com
+    quality: 50
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/04/33e7cac2475516a17f2414afe7a9e64312ceda757081c3517f82a84f8d27f1c6.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "7TsMZMU6eRjdhOFuserOsooi2nfQIeh/l77/iducUnTwJLfue/Pvg7vNSf6cKOBOl4ihldEvB1QXAzl7e51gXCSIwnhHlLEhQdUnVoOxBbhRgoYAePbQBGXYYM5Ojxgf6HGX5Cu1lJXKKJgy7r/rZ7ttAl1NqFEHDpxPp6ARGq2RfJE4eXhg8OXEmwp+Ev8wL26CZ+dtat8xxYGvkWP0qot+8m+PlbfM95YHHcnR7xqA/KRtMHdjKxXr9C1O6RLzt+c5ZGqTOFaWNkrRLrye3W0zDFG+igjfpbp72a9mhmGOT1C92XE7lF1YdbilfWKUwDlxnMW+YYpXmuLx9rLBGl0FjJJC7OgWJl6RNY0gWWomI7DONyV35wcyfzRtfgv3ugqvKw+sm/sJseUPAs01jmJNsI1DFM02jPXuSg+vAFMCEPH7lotwYQOXUroOG9pfWrbQ9dL6SOb0m+OcY21yT+UnMSPfYbqjxAEGQluMW4xEp9N4znw1Q6RZitxgQQ/0Nd3HqX0bAlmW4QvbFayrig==;u5cypGgfJDk8NFMVHO7kbg=="

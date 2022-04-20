@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T19:47:00Z
 originalUrl: "https://celebrityaccess.com/2022/04/20/asm-global-launches-facial-recognition-ticketing-and-point-of-sale-tech-at-pechanga-arena/"
 webUrl: "https://celebrityaccess.com/2022/04/20/asm-global-launches-facial-recognition-ticketing-and-point-of-sale-tech-at-pechanga-arena/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: CelebrityAccess

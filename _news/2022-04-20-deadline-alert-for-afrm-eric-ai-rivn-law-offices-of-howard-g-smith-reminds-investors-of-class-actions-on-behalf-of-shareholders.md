@@ -57,6 +57,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 12
+  - title: "DEADLINE ALERT for AFRM, ERIC, AI, and RIVN: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders"
+    excerpt: "The Law Offices of Frank R. Cruz reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion."
+    publishedDateTime: 2022-04-20T17:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-middle-east-lawsuits-los-angeles-a9dbe1f7ecde9b4b61f258bd1e5a0ad2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI"
     excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company’s initial public offering conducted on or about December 9,"
     publishedDateTime: 2022-04-19T23:15:00Z

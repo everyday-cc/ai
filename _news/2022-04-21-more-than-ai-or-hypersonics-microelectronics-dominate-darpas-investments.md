@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T18:58:00Z
 originalUrl: "https://breakingdefense.com/2022/04/more-than-ai-or-hypersonics-microelectronics-dominate-darpas-investments/"
 webUrl: "https://breakingdefense.com/2022/04/more-than-ai-or-hypersonics-microelectronics-dominate-darpas-investments/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Breaking Defense

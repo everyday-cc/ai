@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/esperanto-technologies-massively-parallel-risc-
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "ATTO Technology Joins axle ai in Introducing Cutting Edge Media Management Solutions at NAB 2022"
-    excerpt: "ATTO Technology, Inc., the world’s premier provider of storage and network connectivity solutions, joins cloud software vendor axle ai in announcing for NAB Show 2022 the availability of high-performance media management solution bundles for 4K and 8K workflows."
-    publishedDateTime: 2022-04-20T15:37:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8525696/atto-technology-joins-axle-ai-in-introducing-cutting-edge-media-management-solutions-at-nab-2022/"
+  - title: "RISC-V Startup Esperanto Technologies Samples First AI Silicon"
+    excerpt: "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ..."
+    publishedDateTime: 2022-04-20T21:29:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 24
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 67
 
 secured: "314mB5b9/2Q4w8/YzSrI9dk3Ulc6JAq6DMvccS0jOev3Q/xilt/hItu0L1SbWbfcCwWaJCn6QUcvgPer1EpctzLa1PKdjx2jS5kNVk93pldhl/kiJNPG+eK3U6t3LaTPjAJPcRiHmXdswp9DqTo6LlihSB36wLmr2EK+1+pAvlHIiupxwynXggmxkYMKlwTR4ZYW+/gQBEPG7DHDlwypncqjsHw+P2BDQzBU5Rz8z0ToroYuA+ZAEgFAmJvOqld6YY7JxuriJXhwoLtaq32TLlz04aArKm3R86Xo7oaBomIomqLrdt6KGpjDR/weGYPCtdDY7vHnNy0/1ZMoS5PK9frHYU6+gWBiu52hunjo/LjUbHiuMgemlczXNThe7LPTGK+kVH7CiCcTjyZu5RQV2EB+I9YuTlWv4e+yvxwKUzGzhTncc1y/qrgXrCsvSpi7VCrizhRJvIsgKnqcxRxe/HeMlFvsUwDhDJmDjiJlX3iMp/vjZ/22fxecEoi72KJBItXkNskkz0ug87yYwiJycQ==;aJ2vsXIG2/NMqke41AWfhA=="
 ---

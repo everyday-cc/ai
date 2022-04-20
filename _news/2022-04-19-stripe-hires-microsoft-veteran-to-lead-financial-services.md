@@ -26,19 +26,64 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu"
-    excerpt: "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added"
-    publishedDateTime: 2022-04-18T12:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18"
+  - title: "Microsoft unifies large-scale data management under Purview framework"
+    excerpt: "The new “Microsoft Purview” brings company’s large organization-focused data management tools under one roof, and includes a host of new features."
+    publishedDateTime: 2022-04-20T19:59:00Z
+    webUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html"
+    ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://images.idgesg.net/images/article/2021/05/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Woolworths completes SAP cloud migration to Microsoft Azure"
+    excerpt: "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,"
+    publishedDateTime: 2022-04-18T22:20:00Z
+    webUrl: "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Microsoft announces two initiatives to support startups"
+    excerpt: "Microsoft AI Innovate's second season is inviting nominations from SaaS (Software as a Service) startups whose core applications or services are built using Artificial Intelligence (AI) technologies."
+    publishedDateTime: 2022-04-20T10:19:00Z
+    webUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/"
+    ampWebUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/04/microsoft.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Microsoft announces two new initiatives to support startups"
+    excerpt: "Microsoft AI Innovate will introduce its second cohort, while a hackathon for startups will provide developers with support and resources for creating digital solutions that will help empower social entrepreneurship,"
+    publishedDateTime: 2022-04-20T10:59:00Z
+    webUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 59
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/shutterstock_175315118-e1647517247822-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "Microsoft Azure launches new services in UAE"
     excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
@@ -54,20 +99,43 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Security Robots Market by Type, Industry Size, Top Companies Share, Growth Overview, Demands, Analysis Report 2022-2027"
-    excerpt: "According to the latest report by IMARC Group, titled “Security Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
-    publishedDateTime: 2022-04-19T07:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/security-robots-market-by-type-industry-size-top-companies-share-growth-overview-demands-analysis-report-2022-2027"
+  - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
+    excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
+    publishedDateTime: 2022-04-20T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-6-alternatives-to-microsofts-deepspeed/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Stripe appoints Microsoft’s James Phillips as president of financial services"
+    excerpt: "Stripe said Philips experience building companies will be instrumental as the company works to expand its portfolio."
+    publishedDateTime: 2022-04-19T14:37:00Z
+    webUrl: "https://www.siliconrepublic.com/business/stripe-james-philips-president-financial-services-microsoft"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 38
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/04/33e7cac2475516a17f2414afe7a9e64312ceda757081c3517f82a84f8d27f1c6.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
+    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
+    publishedDateTime: 2022-04-20T07:12:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 32
 
 secured: "R9e6VAvfGWzDG+lihzEBb1DbPGc/YfQtVhBCRZNCvpfzYVBi/GYXZIIjEPu3EC+pgNtdyyQH4pCw4bkrWuXXHw/fr5YJf4oWR2W9fQIe8jXC/jTwIyTRiRgHdDFmLRND3wtSSqGww8NMVuN/WId1bSnrtMhdJ3GXZaA/UV7twCcdW9j+Jir2daGhD42Pl8C4vHqmXX9Knb7SeKzQfPiixL6bsXH0+amSPVny8GO0qDMzQSeO2ZhYiv9q33TnivhEKSi/BQGZELV43DMuXEkFQFiZGzbI8edU9UdV/JsQLg+ZRqmBe49mmps6LrqUeOrflEfhs020etkw+dwzYfOxO9OfLiBxFtV+49sEkmuoq/A=;Amvia7eQv87D0It934nRiA=="
 ---

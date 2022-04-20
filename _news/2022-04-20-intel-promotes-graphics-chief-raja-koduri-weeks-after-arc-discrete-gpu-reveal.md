@@ -1,11 +1,16 @@
 ---
 category: news
 title: "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal"
-excerpt: "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business."
-publishedDateTime: 2022-04-19T19:38:00Z
-originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
+excerpt: "Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business. Chief exec Pat Gelsinger bumped Koduri,"
+publishedDateTime: 2022-04-19T18:39:00Z
+originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
+webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
+ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: theregister
@@ -15,6 +20,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "WH0tZ6IIUMCqY11CTuBAgOqQIQd9LvMgr6QgJztwAOox6ObLQ7gpsyboTtLrqiSRQbPGP1S5dKpIngLvZJ6I1r6K6qwNIfqEOrcnjHV4hiNqMZRw0Qe0UOY4NcBf8woYy59QAOx9ruoS1GzpiHGu39j21SXWbspOWLtd3uMMdBOw0sP9KWmk1I6hWw6U7E4Fg5xpTrvVIOB9KrIvL/1rDVrbkI8SfxvCsc7XKDDGpl8dKjWzV0A50UwT4KkCMEdSGvJm20RHGyDeX6sgA4Z5kj+vjAz53nUTb0z9aZcG4d8+ClJ8HAI7JpjwA7atVMTH3i/kn0zAasI46+0QcZsu+HPf4/IMM9L7KrLAKKmylpisX4FmH1SacPg1LZWUj1MtdR9cxDnoojOoTv8Wj7MejbrKovLjCfhLg2DdRNaxBkXBp9f7I1VQiWes7qHN+EynlzxGZ49khgZPgbgPvBsOgBXsLnEn/DgGxEKSc3MQP7X9TrU3fgYvx7YNaxwPWC4YePDm39oyj8ccXIbqpvV3Ww==;7c/TVZNtmX/nXHA+jGxCsg=="
+images:
+  - url: "https://regmedia.co.uk/2020/08/13/koduri.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "pSomrnbamCoFtnJWhMSXrkJ/NNtKvrD4DbZ4Xzhhh/xsaJzAtTHNA0SuQV2vT4I5rgSra+R30e6izgilLE8nAh/RKhCyM4yZ5WHJJfyjXQ6DKrwA5OOzWcfnDVlhHFLCW3YJinXNVdkDJRl4dIlrMUFz6alCOSLzE42vFLaOU7y9OBMK5rUZ+lSVRSmvHBDAVSsXltcGDvT9bGkYd4hV8wjOT8GAGLpqN1U+EXx5oKQDiGRJkWVsLCuzBfNpF9lpSngcmju6iBdpIfwluZqDbsb+gvXKM1C1hTfZHIMvAwZ6MXg16NWkZralcis3ViS85a2ONi8iJN2z1a/jwuquskeBJyPIqyjCnAaEeTrjuno=;8KYfVXCnu2j08FYgBlEwUg=="
 ---
 

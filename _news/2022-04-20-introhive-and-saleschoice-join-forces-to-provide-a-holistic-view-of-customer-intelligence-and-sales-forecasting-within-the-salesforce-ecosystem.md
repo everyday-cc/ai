@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T16:28:00Z
 originalUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220420LA30622/introhive-and-saleschoice-join-forces-to-provide-a-holistic-view-of-customer-intelligence-and-sales-forecasting-within-the-salesforce-ecosystem/"
 webUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220420LA30622/introhive-and-saleschoice-join-forces-to-provide-a-holistic-view-of-customer-intelligence-and-sales-forecasting-within-the-salesforce-ecosystem/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KNWA News

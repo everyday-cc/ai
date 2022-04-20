@@ -222,20 +222,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bill Proposes Rules For Self-Driving Cars"
-    excerpt: "A Rochester Democrat is proposing a series of regulations to govern the use of self-driving cars in New York state. Sen. Jeremy Cooney, D-Rochester, has proposed S. 8468 to amend the state Vehicle and Traffic Law. It authorizes the operation of a fully ..."
-    publishedDateTime: 2022-04-19T04:10:00Z
-    webUrl: "https://www.post-journal.com/news/local-news/2022/04/bill-proposes-rules-for-self-driving-cars/"
-    type: article
-    provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 24
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2022/04/18192046/Jeremy-Cooney-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Drivers allowed to watch TV in self-driving cars"
     excerpt: "The Government has set out changes to The Highway Code before the first self-driving vehicles are introduced on to UK roads. The plans, in response to a public consultation, will allow drivers to watch television while the vehicle is in self-driving mode."
     publishedDateTime: 2022-04-20T09:03:00Z
@@ -390,15 +376,6 @@ related:
       name: AOL.co.uk
       domain: aol.co.uk
     quality: 4
-  - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
-    excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
-    publishedDateTime: 2022-04-20T13:21:00Z
-    webUrl: "https://www.peterboroughtoday.co.uk/lifestyle/cars/highway-code-changes-to-allow-watching-tv-at-wheel-of-self-driving-cars-3660350?itm_source=parsely-api"
-    type: article
-    provider:
-      name: Peterborough Evening Telegraph
-      domain: peterboroughtoday.co.uk
-    quality: 3
   - title: "Self-driving car users could watch films on motorway under new DfT proposals"
     excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
     publishedDateTime: 2022-04-19T22:01:00Z
@@ -416,6 +393,15 @@ related:
     provider:
       name: Lynn News
       domain: lynnnews.co.uk
+    quality: 0
+  - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
+    excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads"
+    publishedDateTime: 2022-04-20T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars?via=indexdotco"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 0
 
 secured: "Q8Aqu6l/x1dURDmM2r5/vD9L9oEtl1saAq3+K9EMsLZ314NAe79PVipQqbEmd4thYGQnO05Ui/1QDeJ0mr1OpoN8Fw0tV/LuzGTxjjMx5nssU49AsTdvmxCKfIWLONDShrV2T4E4GUywRWuTycOVOXCAbG6jGZW9HZHDPqHkdAJNRIita8LuMqPIHfzxZO1Zd1To8afkjGFqBsxTiqhvqf3CC/xMPYZ9LQIkxDYvnhBxiahOL1AAvNK+nNH/DclGxGiDOkebmcJS6G+hi+IJ11wmKtZ39ufqtlISc+pkFa/dRS7kPJUB3J0fpqUCIDxL32++wA/+5H/Bu0Se5kvHd/oyMrw3sZmHMvJNtIhj0NjP/LcIJfDddjfwYvLTn+ClHNM9PT1Hmb3M5HFuQ/6Q1n6V+CKikFL6xon+TKy7U0t6aNZM1L+ik66/StsnXExqf7+pOg0kbOL9AtHeXjQMXVnUefcF7PcSxmXe3Wh3AcGqhDIo988F8hBEeWN3qpWZ1c0yyh/Iy+OkukAcJANsjg==;MR3ma89rCvaUFxELJ6gxmw=="

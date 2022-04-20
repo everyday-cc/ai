@@ -26,36 +26,116 @@ images:
     isCached: true
 
 related:
-  - title: "Stripe Names James Phillips as President of Financial Services"
-    excerpt: "Stripe, an online payment processing platform, recently confirmed that James Phillips has joined the company as President of Financial Services."
-    publishedDateTime: 2022-04-16T06:03:00Z
-    webUrl: "https://www.financemagnates.com/executives/moves/stripe-names-james-phillips-as-president-of-financial-services/"
-    ampWebUrl: "https://www.financemagnates.com/executives/moves/stripe-names-james-phillips-as-president-of-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/executives/moves/stripe-names-james-phillips-as-president-of-financial-services/amp/"
+  - title: "Microsoft unifies large-scale data management under Purview framework"
+    excerpt: "The new “Microsoft Purview” brings company’s large organization-focused data management tools under one roof, and includes a host of new features."
+    publishedDateTime: 2022-04-20T19:59:00Z
+    webUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html"
+    ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 44
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://images.financemagnates.com/images/Phillips_id_26552723-10fb-4935-83d0-88e648e141d2_size900.jpg"
-        width: 900
-        height: 499
+      - url: "https://images.idgesg.net/images/article/2021/05/software_development_lifecycle_developers_programmers_coding_code_by_roman_samborskyi_shutterstock_1536573386_royalty-free_digital-only_2400x1600-100890352-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Stripe hires James Phillips from Microsoft to lead financial services biz"
-    excerpt: "Phillips joins Stripe after a decade at Microsoft where he helped scale the Digital Transformation Platform Group. The business intelligence product team employed over 15,000 staf"
-    publishedDateTime: 2022-04-19T09:39:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phillips-from-microsoft-to-lead-financial-services-biz"
+  - title: "Woolworths completes SAP cloud migration to Microsoft Azure"
+    excerpt: "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,"
+    publishedDateTime: 2022-04-18T22:20:00Z
+    webUrl: "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 40
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Microsoft announces two initiatives to support startups"
+    excerpt: "Microsoft AI Innovate's second season is inviting nominations from SaaS (Software as a Service) startups whose core applications or services are built using Artificial Intelligence (AI) technologies."
+    publishedDateTime: 2022-04-20T10:19:00Z
+    webUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/"
+    ampWebUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stripe-phillips.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/04/microsoft.jpg"
+        width: 1200
+        height: 667
         isCached: true
+  - title: "Microsoft announces two new initiatives to support startups"
+    excerpt: "Microsoft AI Innovate will introduce its second cohort, while a hackathon for startups will provide developers with support and resources for creating digital solutions that will help empower social entrepreneurship,"
+    publishedDateTime: 2022-04-20T10:59:00Z
+    webUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 59
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/shutterstock_175315118-e1647517247822-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
+  - title: "Microsoft Azure launches new services in UAE"
+    excerpt: "and Azure Machine Learning, according to a press release on Tuesday. Necip Ozyucel, Director of Azure business group, Microsoft UAE, said: “When we launched Microsoft Cloud Regions in 2019, we saw an immediate acceleration in digital transformation ..."
+    publishedDateTime: 2022-04-20T07:34:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/microsoft-azure-launches-new-services-in-uae-vjm61h79"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
+    images:
+      - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Stripe hires Microsoft veteran to lead financial services"
+    excerpt: "Stripe has hired Microsoft’s digital transformation chief James Phillips as president of financial services. <br /> Phillips, who led a team of 15,000 in his role as president of Microsoft’s digital transformation platform group will join the B2B payments and financial infrastructure giant as it continues its plans to expand the business."
+    publishedDateTime: 2022-04-19T10:46:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Stripe_Hires_Microsoft_Veteran_To_Lead_Financial_Services.php"
+    type: article
+    provider:
+      name: fstech.co.uk
+      domain: fstech.co.uk
+    quality: 41
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/Huawei-December2021-640x380.jpg"
+        width: 640
+        height: 380
+        isCached: true
+  - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
+    excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
+    publishedDateTime: 2022-04-20T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-6-alternatives-to-microsofts-deepspeed/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
+    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
+    publishedDateTime: 2022-04-20T07:12:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 32
 
 secured: "IJf/KHuRvSsJIJn6HJQT+c61nvofudJ5/CZIGh6DBdCJSV93gyoLm/RB7A/8blWOOopzuK1MCfPNcazTkVbZb4KAqdER8QqVCJGY4kuFWn7cxQc0uxts8co0OhTYx7MJfaSJk/b8XksaKYe/HH8VAiT4lHnxpP9GBQTLSdCwdlYEmxDK/K+uXgeEtzLuK+wqHt+pvtD2LAiJbNTlqO+JdJcYkL24o7vIcZaZeR8LpUATsMmuh5ziRviYkBbD0leQeHjXD1TcnJ6M2rWbtWI8ay+BNCJ9UgJw5gQMEkEKk3puNGiei3J3LfZu0Ad9HGPcfkaG89wLO6qL6j8AI79udaxrvr69N94uKESrZKRub6Y=;SUsNWd/WC0AIA4txe3lPYg=="
 ---

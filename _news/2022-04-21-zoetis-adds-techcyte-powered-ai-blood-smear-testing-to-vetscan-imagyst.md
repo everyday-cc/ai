@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T18:40:00Z
 originalUrl: "https://www.wicz.com/story/46332540/zoetis-adds-techcyte-powered-ai-blood-smear-testing-to-vetscan-imagyst"
 webUrl: "https://www.wicz.com/story/46332540/zoetis-adds-techcyte-powered-ai-blood-smear-testing-to-vetscan-imagyst"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FOX 40 WICZ TV

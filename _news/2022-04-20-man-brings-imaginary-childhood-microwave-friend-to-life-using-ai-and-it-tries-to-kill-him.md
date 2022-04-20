@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "An inventor resurrected his imaginary friend with AI — then it tried to murder him"
+    excerpt: "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences."
+    publishedDateTime: 2022-04-20T20:24:00Z
+    webUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 63
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FUntitled-design-7.jpg&signature=8dc3c8edb07603857914fc06fe201aaf"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "This Guy Brought His Imaginary Friend To Life With AI And This Happened"
     excerpt: "Lucas Rizzotto brought his imaginary friend to life using artificial intelligence, but this AI imaginary friend tried to kill him."
     publishedDateTime: 2022-04-20T09:38:00Z

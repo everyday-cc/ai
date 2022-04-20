@@ -1,0 +1,46 @@
+---
+category: news
+title: "RISC-V Startup Esperanto Technologies Samples First AI Silicon"
+excerpt: "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ..."
+publishedDateTime: 2022-04-20T21:29:00Z
+originalUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/"
+webUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/"
+ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
+type: article
+quality: 67
+heat: 77
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
+    excerpt: "Delivering Industry-Leading Energy Efficiency, Esperanto’s ML Inference Accelerator Is Designed to Be the Highest Performance Commercial RISC-V AI Chip"
+    publishedDateTime: 2022-04-20T15:14:00Z
+    webUrl: "https://www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/"
+    ampWebUrl: "https://www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 44
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+
+secured: "i1H9C0xMsoL4u3gjEuDr5E+9B8+oHf1cxpUpwLp00xLdwwUzu7E93u3lNoZkeweMYL0aqo38ikqjveKUcX5Qokpb1Zv9Mw3dG0nbBfCimcXRm5SXKvuHNHN3pihXhk6phMxrdJHE7vwkBO8o21C7iCwfN6VMni1YqgXQlxY/ac7g1It8mHyERT6kxB4+8pIlEvA4yQrYIYjwT4yapu8tlQVIVCyJNNiRylH7TS55xzgON23kw7GDyZ3ByyFDInfE2O/QsBgPWFQIH4AKfwZ/VULpGeznfaM0v3LbiFs6QFdXspAGQ+M9eJ+UMviR4WTI5bYI5Aou59sljtgi216NsCRKALw03aq/6KlmZa8AUeSXO/154mnUhxB/dRKiz0AuxvQs2SW3sCvUuzP+DZvtvsU+abJcikvf3BzVozPQLCsb+hU6X9bTTJM9GUlBE2p5Amek+TFq+suZgTBMk5cFHfSfw/rIOmnMwj+wJBOFDhm1uiuobl+LLiKHg9niTUb4eJy1xGFm7aSz07/+d7vDtA==;gzaCii/0jwwJZmmffiXnTA=="
+---
+

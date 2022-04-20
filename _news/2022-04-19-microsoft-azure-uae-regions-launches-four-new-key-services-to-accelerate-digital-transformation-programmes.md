@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Al Bawaba News
@@ -27,72 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Woolworths completes SAP cloud migration to Microsoft Azure"
-    excerpt: "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,"
-    publishedDateTime: 2022-04-18T22:20:00Z
-    webUrl: "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
+  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
+    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
+    publishedDateTime: 2022-04-18T00:05:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-  - title: "Microsoft announces two initiatives to support startups"
-    excerpt: "Microsoft AI Innovate's second season is inviting nominations from SaaS (Software as a Service) startups whose core applications or services are built using Artificial Intelligence (AI) technologies."
-    publishedDateTime: 2022-04-20T10:19:00Z
-    webUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/"
-    ampWebUrl: "https://www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/microsoft-announces-two-initiatives-to-support-startups/2497926/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Deep
+      domain: thefastmode.com
+    quality: 50
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/04/microsoft.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Microsoft announces two new initiatives to support startups"
-    excerpt: "Microsoft AI Innovate will introduce its second cohort, while a hackathon for startups will provide developers with support and resources for creating digital solutions that will help empower social entrepreneurship,"
-    publishedDateTime: 2022-04-20T10:59:00Z
-    webUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm"
-    ampWebUrl: "https://www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/microsoft-announces-two-new-initiatives-to-support-startups-13213182.htm/amp"
+  - title: "Stripe hires James Phillips from Microsoft to lead financial services biz"
+    excerpt: "Phillips joins Stripe after a decade at Microsoft where he helped scale the Digital Transformation Platform Group. The business intelligence product team employed over 15,000 staf"
+    publishedDateTime: 2022-04-19T09:39:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40085/stripe-hires-james-phillips-from-microsoft-to-lead-financial-services-biz"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 59
+      name: Finextra
+      domain: finextra.com
+    quality: 40
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/08/shutterstock_175315118-e1647517247822-1019x573.jpg"
-        width: 1019
-        height: 573
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/stripe-phillips.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
-    excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
-    publishedDateTime: 2022-04-20T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-6-alternatives-to-microsofts-deepspeed/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
-    excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
-    publishedDateTime: 2022-04-20T07:12:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/microsoft-uae-rolls-out-new-azure-services-to-accelerate-digital-ambitions"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 32
 
 secured: "DEjwqicygDP8pklAKSxN4wK8aNwAp40ozylLBVlR1XqcRComDd+meZEqLjvnBycLtdkVkaR43Zpr5Gg09Bbw5NKd6d+5H9UzfY8pjeHpJ3GEOft05Di703QKWMYJ0guBZiGOE8gzIWKht/3EHZv8z6gtP8RlhgFEbhksz8cUwsls13fuS4Bl+qIZKscnoYK3goLaunqVwnJbax94ZQMYxrY2buDBfzjIRggOXs/CWDZ9BlzZjeeKHKP7+M5SYiOsi7CBTfl1H8BRyhpIZ6M7lgd9HmIcbvlOZtDfu6pu7m0x9qLtFR2KG4+0Gr3/XBsVyMTWNJRM/oU/q7QeQ2uHTu8e0oC9a0/dYEXTfRTfX6YD+D8G9j+4yoGU9uWM7ooET+O9K/GzLDOyvyUAUSUK713KnFYxQGtrs4N0rGLab7onwUvNfSwZpUPQ5Hvp5G3vapjoEwHtSyOjCiOBdywqFfVlBSRvw9TA0ZN0ql2UnkswxlcBBkzTWIFirPAz7ZH/kbeU1m2vuZqVH75YI0jKxQ==;M8IsluOPHUe6chsD1AfN+A=="
 ---

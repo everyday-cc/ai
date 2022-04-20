@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T19:06:00Z
 originalUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-next-big-thing-major-giants-google-neurala-ibm"
 webUrl: "https://www.digitaljournal.com/pr/neural-network-software-market-next-big-thing-major-giants-google-neurala-ibm"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Digital Journal

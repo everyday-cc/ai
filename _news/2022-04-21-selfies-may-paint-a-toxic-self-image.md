@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T18:48:00Z
 originalUrl: "https://www.newsday.com/business/selfies-plastic-surgery-doordash-scorecard-i2wl2e42"
 webUrl: "https://www.newsday.com/business/selfies-plastic-surgery-doordash-scorecard-i2wl2e42"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Newsday

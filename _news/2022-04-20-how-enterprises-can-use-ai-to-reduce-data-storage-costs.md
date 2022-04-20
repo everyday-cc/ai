@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-re
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 Artificial Intelligence Use Cases for Retail"
+    excerpt: "Artificial intelligence is poised to transform industries far and wide. This post outlines 5 use cases for AI in the retail industry and what this means for both merchants and consumers alike. It used to be the case that the retail industry used traditional analytics models to understand consumer behaviors,"
+    publishedDateTime: 2022-04-20T20:34:00Z
+    webUrl: "https://www3.technologyevaluation.com/publications/5-artificial-intelligence-retail-uses-58767"
+    type: article
+    provider:
+      name: TEC
+      domain: technologyevaluation.com
+    quality: 52
+    images:
+      - url: "https://technologyevaluation.azureedge.net/getattachment/bbd268c8-a22b-5ff7-91f8-1dd841d0f296/AI-in-retail-thumb.png?source=tw2&ext=.png"
+        width: 270
+        height: 349
+        isCached: true
   - title: "How Artificial intelligence in ERP is enabling the enterprise"
     excerpt: "In many cases, organizations are leveraging the power of artificial intelligence (AI ... logging into various app-based platforms for education, entertainment, and healthcare needs. In an app-heavy environment, where consumers are accessing all digital ..."
     publishedDateTime: 2022-04-16T09:19:00Z

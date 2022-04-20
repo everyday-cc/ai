@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Gupshup’s conversational AI buying spree continues"
+    excerpt: "AskSid and its Retail AI Brain hold deep-domain knowledge sets that Gupshup says will position it to provide comprehensive conversational retail and commerce solutions throughout the entire customer lifecycle."
+    publishedDateTime: 2022-04-20T19:14:00Z
+    webUrl: "https://venturebeat.com/2022/04/20/gupshups-conversational-ai-buying-spree-continues/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Enterprisetech Unicorn Gupshup Continues Acquisition Spree; Buys AI Startup AskSid To Strengthen Product Offerings"
     excerpt: "The acquisition comes after the cloud-based telephony startup, Knowlarity got acquired ... The deal helped Gupshup to assimilate Knowlarity’s AI-powered tools into their business suite."
     publishedDateTime: 2022-04-20T07:49:00Z

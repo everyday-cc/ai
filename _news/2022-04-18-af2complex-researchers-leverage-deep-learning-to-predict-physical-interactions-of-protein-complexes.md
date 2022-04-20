@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AF2Complex: Researchers leverage deep learning to predict physical interactions of protein complexes"
-excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study details a computational tool able to predict the structure protein complexes -- and lends new insights into the biomolecular mechanisms of their function."
-publishedDateTime: 2022-04-18T16:06:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/04/220418093952.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/04/220418093952.htm"
+excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study by Georgia Tech and Oak Ridge National Laboratory details a computational tool able to predict the structure protein complexes – and lends new insights into the biomolecular mechanisms of their function."
+publishedDateTime: 2022-04-18T13:16:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/949934"
+webUrl: "https://www.eurekalert.org/news-releases/949934"
 type: article
-quality: 34
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e8e90acf-d6a8-4d2a-8be0-69496a151056/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 225
+    isCached: true
 
 related:
   - title: "New deep learning neural network model predicts physical interactions of protein complexes"
@@ -56,6 +58,6 @@ related:
         height: 1620
         isCached: true
 
-secured: "gf7KXKEIl7Un1oX60yzwqcUE1+rUYxMGIf3XxVs3Xdj9zeYqPk8zvPHHCB1SryPMWCT3lF7AJGg7DVrm2bwR817UoK2xIJ2CKQT8uOhmIMDfjkYpw0+5DVy1Ud7OayD0xH9/DjcVkfIkSpVz6381TnDd1ztE7vQqCqO6uMAzKhfXFuoGZUEWB8QZN1Lw0MwM7u72YX1KCKJwB6rg4zjNscAi6MyPbsQ1pr3fTyKGkNxiWc7aPL1GgsvDVkTwtjcd/2CkGK9VoZxeF3UW0guTgG8MucFVEsUPz0M0agQbWC8N0sPiQs2hhRSc5khWzOZzexi+P+vZOyZyU3X5vTKyQ2viK53Lnd2FqiIgGElHphQ=;cPjgBO5GnJ3NPQFGceP7LA=="
+secured: "5nAoZCYTR85Vv9ZHGsFYfcMUYN14ERxOBuhUxjbreA9rfHjG67zGsk2bQE8uwAi9+Bib0qta5VlvVrhfTUJ30HPsU7Phy/68+N1jSbQJZtNI4gTeMPoUeRCIDXNR44PMQqFW4VfgJoyZv9icpTcYSSucblD465GQbahTzxYVrpBqfVPXe6R92ZSP01o5o+iYRCexZxYF713gZksYGF8Dj/SYsxNytEhTyxPE3aL9hfHFcfIpDZ+yAQvQ+Bs7N6v29PfohpVf6hepjIDwyNQEG19fJ3+Q/Ojrw9kXvWaRZ0ZqcaC0zk4ibBMpCWhL7DYypUKEvMOmVNBr4egH39T+ZoEOKNufAhIlbEa2CJChjTk=;9mbMwChF5HmTyXndVsWE+Q=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T19:13:00Z
 originalUrl: "https://phys.org/news/2022-04-ai-imperiled-marine-species-survive.html"
 webUrl: "https://phys.org/news/2022-04-ai-imperiled-marine-species-survive.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Phys.org

@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2022/04/190061-ai-startup-futr-raises-
 ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190061-ai-startup-futr-raises-2-1-million/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190061-ai-startup-futr-raises-2-1-million/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

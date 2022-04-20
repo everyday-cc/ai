@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence may take your job. Some lessons from my grandmother"
-excerpt: "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope."
-publishedDateTime: 2022-04-14T05:23:00Z
-originalUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
-webUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+excerpt: "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now."
+publishedDateTime: 2022-04-14T13:28:00Z
+originalUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+webUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
+ampWebUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "tF76Plidt3uc9TAdAtNxKJZMeVtcry47gqdS+i1Kc/FaGsnLiPxBqvFlUbpF3OPG64gnfq0OwD2A+YZJkp0cPpLoEmkWWDhFwVJVIQXHEqMGJlRuTuv+hqYwy+2yMvcG5L5IQhFe/z3r3N+y/BYfoltZu3zrrrK8KK73KUiNkV0B4t7/bvccx11PziR4AxLpDcUmU7nQv9Ug20Pmxgl7j/Cl+I2q1fDsA/ACgF8e8qZFFJKKXLgtZoVfWoVJrbrFp/X8r4ioihxpJFNOtm7fsaoTDXAqsMZiupfhryz63DPz8qqNjrK4OlmeJQRQcJ421HBPPVdR2/4RIUqU+1R9QLZFxlISnuWybVMfABWdV2kbM+VohZKOSFToGmdqsS3rZjDALx6ad90e/bEohQLtmQ+uCO1UjoIWnspYRmUbHurhERkk5mqQY5C2IToYnUQPL8HXi4ABANTSmbvMjfp3jM+HyvilGkkHg4nMyrKq26e9Vx0jB7vLnheCviQMAMtQDwTicsopwmoorxP0o5E8xA==;HL1IlJqtI9l0M/4D2L27Cg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg"
+    width: 1356
+    height: 668
+    isCached: true
+
+secured: "83tbyp+JvqsD4+eZ2laCoUx8Nc4gtmBIfPk7S7Q4DE0tPg1KV30NFP7HLvvlvo/8R8Gjo8bgSOWJb1rp3rA/sizi2a6m5bzMFrU1JtYJWI8STROs93mT1pm/vQrG/JMiUMKu04rm7J+UE5LLwKpPkeCyb5Ge0abYwpYZj9CToTCLOlVCVzaNXfEpeO+/jVnefvaCF4YVFq1PWVxe5b4Gro4u200664lecy0aIlavKFCgpOcSFVxbFREGGt0uhPwRJw+u8Cu6mSBlW0+AQbH+COTOskCgCoUe9AXLS5GC1cXvi2j9jsYJuTVzqVE8CSzWz4ku6MXt83wAoJOU7zdluxxZT8D8V3F4NacaAWpOpxY=;ztKhMLGFyAsd9ESPgdPB5Q=="
 ---
 

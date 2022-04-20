@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T18:16:00Z
 originalUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2022/04/20/construction-startup-togal-ai-wins-emerge-pitch.html"
 webUrl: "https://www.bizjournals.com/southflorida/inno/stories/news/2022/04/20/construction-startup-togal-ai-wins-emerge-pitch.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals
