@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Upstart"
   url: "https://twitter.com/Upstart"
-  followers: 16548
+  followers: 16547
 
 size: 201-500 employees
 yearFounded: 2012
