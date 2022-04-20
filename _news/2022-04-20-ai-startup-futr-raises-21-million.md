@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/AI-Chatbot-Futr-Raises-Investment-From-Blackfinch-Ventures.jpeg"

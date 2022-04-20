@@ -1,24 +1,21 @@
 ---
 category: news
 title: "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station"
-excerpt: "(5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial re"
+excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security. FaceMe Security now integrates with AXIS Communications’ AXIS Camera Station VMS (video management software),"
 publishedDateTime: 2022-04-15T13:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station/article_9b65b4b8-f8f4-5fd1-a7ee-d1c46bb93fd3.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Security
 
-secured: "VTX25DitHjVknk4k7VIT9VOgesm7bd7vxIWHnjKlRLUhILRytq+DGbe7SDFRj+8wR7a55yQ63W6Z4O/rCgDM7ZDX2WTi9P6f33KwOxGgL3SirFOIxnNl+4Heck4Gvun4Mzn4oOp9jrqERABBC99iv/tJvkXKyVSk9Cd8u5vW5QUJFwiOfsD3E1GnU5XzBDK+QCdL99VOWDLmzrKDFdxeFkaSOq9ceOE0UsdtZWuoiT7TJzUutEieIsidMqOByZqH9SUfWPW5vnXeEEMyANnL26HkDKyN3p/gs27+/nF+fJ5XodrD5c/iNkvVomHDRkFMcPWqyJJVJyWz5J7/+e6IFMBATgw5uWCbfferuW3G+2SeeBKFjhlg/A7cpqpFOYDbsNEZSa93TH4Bvkog6RVY7Y3dHhY43RGPuB/6lN7vKbdPCvqz9afYOoBzNO27guxt/8xDeGyrhFbpgEl3DLYIiv6vaiSSMmuBQLVRPPQgMCYyPbAXd7nvBj03gHC7CNVo3tJP63kT7V9eaZ5QlbQWpw==;RRIfOjT/BtserMp7ZES7Lw=="
+secured: "DNXe0wp45LBWm2uBtW+cwcg9HRE6UeJ+GzDhPDksVu7qq17JhNCcz2dEYNirvKfiVCjO84YEiqlegAb8t0lsVnu/IuIEaxPk0fdGLfev3ugcWvDgMQEmbRm79e9bZi/iKZvs2oJLSKvhxPSExh8Z3GHTXQcd2dXBSOLAXW1sQOkgbNhDpf+DAk2rLC5MqWiJ31ROKj/bGns4Aa03WLuvbCqU8qSCJZ2djCQaxjpqLsl4UPpS7kVGa5tKAshSDwOqqyCb0wziuBJl+6vkuHtYLNJF4LFNppOc9vmrQG+TfBwnEX9CLA+dNgBMV6Y1jPemZsbFqD8ll0OKAT5u5+2XF+lD2l/EEOL0s2JsQ7zvcqY=;yYt6rYZoCrza9PrW0UvBOg=="
 ---
 
