@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Matterport"
   url: "https://twitter.com/Matterport"
-  followers: 16918
+  followers: 16919
 
 size: 201-500 employees
 yearFounded: 2011
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "WJ6Nke6/rv+uYWKvT5KSG5FKLrk+pwD4dyHUoaV2mnEHnW1htjmW5ega/v3AJE8LrhIU3jBbuVGW77hhxiQ9WF7sra0UubagyWCX3SWEW4i2eIZeuLKEkWS7lGvto/PEwM4mGVXJXwuszlYzsust+Yxvy8djQhhhAv7M+7pv/L3p9/k3wEqETMQpDKout2SyLO85KpG1JYYmPEQjg1Zwp9f6YEdSHusSaqRnMdqwEPV9WEK7xYtCwTD5ssiiaugkCFIO4Scultj+EtI8fHC2eLs+4AuOhkG2LaLX5GuCfcZ+bh2bOYHF+xuw0PBT1CWJxjP/aU8T9V7G9PK6kJzfyyzxnxUExvoLX7PFyStfFv8dle64KCo0bixUvJRFWQyRsZ7Qom7FPAHa6Du2wYn40vnh7Lyd1fAL+a6F2C1bV3s=;Ee4yn4CJWEYTgdEex2gzgQ=="
+secured: "kLv6EGINNQlp+lwzll3hDc234gcJNmZxa4SmKgRf0f3rsq4nA49dtwOEA15AW6WOPpR/LAid9lTDeaJAZFPGQe6vCjb7uINE/PaDP2nHASyMk387SmE2aah70Y/l/a89WVZuu8cBsjVGO59z6MMRpbAMvuPEed1WQoWLWr8WSzBY2OwmK5M1sEgIa/h+9/HEQXz1pW34InBoH7Cn9vP60MZ/LuYDKYqHp0EcDwQHq95pengaB4j8W4frW+OW87ImXetS7eodL3Nh8RmlPfEbPelKhomXWTO/k5s2bRp5924MH8T/HM5tRluSeV5Yw10dBKjXPJR17vo7IgRcwhUTL2NiIyBy6g4fl4v1Tp/sv2MznkMfelhvZdtJpYXDywOnskknCYf97HMwoaprATWprrCIVrvqcR1lroWGrX7eUz0=;1oLU9EAN5WcOlV6DiZm2wA=="
 ---
 

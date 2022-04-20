@@ -2,7 +2,7 @@
 name: "CognitiveScale"
 overview: "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://cognitivescale.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "CognitiveScale"
   url: "https://twitter.com/CognitiveScale"
-  followers: 4242
+  followers: 4243
 
 size: 51-200 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "pd1CmzQJv+zbduhAQ1vbxtP4lehbzx220pkJuB1M2cLpalHYgaaHJ5EVDjup+lAdKwxm56y4/t3DgIVFqQYRdPnk0vA/d5TmQFSH9LS9601sgTjwVHq2IVy3dU9CwmDExfgzVRYl+j1y5zkkxJmzt0Ig0JbBu5Jnx+en6Q0+d6FtNQmaqWMiqwQUgW40yO74B3yY6Vjl5NLCKeJealaItuNg6ut2FO5YiKUJZD2K7r2W9f4k1qeNFX0RTHVJA6+CihqBC9c4vshu8+EkbjDoPTZvN9XUdC+JndN+B1IqHRx8hAcZZVdJOL6iwzl8vpETBcs71VjXDs3A0HA9tjs4YuNgCnOXQiEgE/Y9N0cv0OmWbErmjmhnrHlQVWkmtLCP0J7YpSugBvNkdLJmizWFUg==;UQBS8Tr5mvrhaeWhZGTN2A=="
+secured: "SMO/xqt4cTd85X9LK2kUiiW3GiEtuyc1mpUqbkGfckIZoQhM+JHJDvV8gpf6fnH2JxUxAmeYzunpDa1CqgTe+5tf782ApAmNrlYzW7LpFb7NDfDtweR/TchV0c2Z8QqPxpjlW9FLpPyDsEWGEEnJGNcioiAabaFgtBLERgdohlQMH0aS6D2YJOdtL7ELYlaNrCEWCgpWYlEKDQjSUxjDute87pW7jFhPvBbZHYVSqsk5BcOYtDaZ5HL5aqq5mPPUOFRVQJOAfKWcySYDyBZ1vLpLPlBMc7sQ9DJb9lDg1MwBnNOtfznLQki8K3XbxNI9JV6mOYPurG6Vofdn5Bx1Tu33BKyxbK4BNI1j1tvbLrF7YfWWf+lpefLzdUwOzGukGC7aNB6YyiCBS4D331GAYWXFeBMgg3vooDyJzjNpwX4=;5wihJ9mQ3wczzttxoJk3+w=="
 ---
 

@@ -2,7 +2,7 @@
 name: "DeepL"
 overview: "DeepL develops AI products to expand human possibility and bring cultures closer together. "
 type: "profile"
-heat: 122
+heat: 108
 
 website: http://www.deepl.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "deeplcom"
   url: "https://twitter.com/deeplcom"
-  followers: 12608
+  followers: 12613
 
 locations:
   - Cologne, Germany
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-zBT7vwa3PA"
 
-secured: "xfpSPfb19BJeFGhuK8q8HYYBpfah4QZ4PXKTOQbm7L3lqUn/18gqfWgDeQbdf1ZQfRs3sWM6bNmLDy2Q6zu8Mjm23ByM4RAQehtqzgN9dRGN+gHNb9h9rws+tZm0Tl5dOFgQqD2O4InhL+6D9HbIQhAuQl/xsZ/Vo9PW7W7APguENncdww5r+LmHU4edTSnh0WAy3O+btzS0lCggumHS5NuhDKuTEq87wTLT4EkvFkrX4e2YlVvQSIKo94PyIjXRf00cbpfCO0omOJYaD3E0MYaWhaQ76L+BiKdf6U1NfpD9wfW5kxAEuRSXt5v4x0E5hJvMhJvZ9VyGJoMZI4oc6S8LMC2rqBelzr7BbBpB/zmal7E2KkLgBoB72lQm+I2bV3f3mI5BWSbC07FoPz4EU3vfr9F+1TvR5PgkujSelJU=;EI9StA5USKhcnRRGJUUDCQ=="
+secured: "5O/mFF3PlLWzG92V1sP8ijVrmoKnTvSrpCtY8OqR1+MtQsa2dOisQWKUCRU1Zfg9qBq/kTEavsZrvLKqwjUOuW+wSHw3NO9Yi48y41Js1zutSE91TWkczfe2zCJuXWjgYBGnY5ubXdhNbGHH0s1YrUw1c46QNU81AD/gi6rhQYo7fKeh0Zy4pS8PowMrJVf+WbtkRhN/XCaZzp+T0iTHhaE/Uv/Vk2A9t2o5uPjUCBM0kBvxhQKc8Re4kE+vXuS98GGng9NRQybM/4fqjhX0//dPzMzxHOJ6OGV+dxX/MpjEaMW4xU93VjLVkKNHiAwg0FuUljYgv0vqWwmqyjKHzm3A9QrEjJguTmqCOZwzYu3+7GZB8zBjM//+mfXirl6FOUTg42O/wSWQO5RPWEv+P8Tw3WxF4Ju5EIUUxc5Ybeo=;JRhXd5MIVEx588W/X0CC0w=="
 ---
 

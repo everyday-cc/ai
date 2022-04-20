@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 14146945
+        "followers": 14148583
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 649,
+      "heat": 632,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 10548401
+        "followers": 10548800
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -96,7 +96,7 @@
         "AI",
         "Microsoft AI"
       ],
-      "heat": 515,
+      "heat": 522,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1454912483248930822/_hO4WPRC_400x400.png",
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 4270638
+        "followers": 4270868
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -139,7 +139,7 @@
         "AI",
         "AWS AI"
       ],
-      "heat": 470,
+      "heat": 474,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -187,7 +187,7 @@
             "AI Hardware",
             "Computer Vision"
           ],
-          "heat": 247,
+          "heat": 265,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -217,7 +217,7 @@
             "AI",
             "Google AI"
           ],
-          "heat": 375,
+          "heat": 392,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -239,7 +239,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 235,
+          "heat": 229,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
@@ -262,7 +262,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 470,
+          "heat": 474,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -282,7 +282,7 @@
         }
       ],
       "size": 10,
-      "heat": 450,
+      "heat": 470,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 697296
+        "followers": 697415
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -328,7 +328,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 425,
+      "heat": 443,
       "tags": [
         "Non-profit"
       ],
@@ -338,6 +338,52 @@
           "width": 400,
           "height": 400,
           "title": "OpenAI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/google.md",
+      "title": "Google",
+      "excerpt": "Our mission: Organize the world’s information and make it universally accessible and useful.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/google/index.json",
+      "webUrl": "https://everyday.cc/ai/company/google/",
+      "type": "profile",
+      "name": "Google",
+      "overview": "Our mission: Organize the world’s information and make it universally accessible and useful.",
+      "website": "https://www.google.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/google/",
+        "followers": 15292872
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/google"
+      },
+      "twitter": {
+        "username": "GoogleAI",
+        "url": "https://twitter.com/GoogleAI",
+        "followers": 1704498
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1998,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "funding": {
+        "status": "IPO"
+      },
+      "topics": [
+        "AI",
+        "Google AI"
+      ],
+      "heat": 392,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Google",
           "isCached": true
         }
       ],
@@ -401,7 +447,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 335,
+          "heat": 366,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
@@ -461,7 +507,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 57,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
@@ -542,47 +588,58 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/google.md",
-      "title": "Google",
-      "excerpt": "Our mission: Organize the world’s information and make it universally accessible and useful.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/google/index.json",
-      "webUrl": "https://everyday.cc/ai/company/google/",
+      "path": "_companies/capital.md",
+      "title": "Capital.Com",
+      "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/capital/index.json",
+      "webUrl": "https://everyday.cc/ai/company/capital/",
       "type": "profile",
-      "name": "Google",
-      "overview": "Our mission: Organize the world’s information and make it universally accessible and useful.",
-      "website": "https://www.google.com",
+      "name": "Capital.Com",
+      "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+      "website": "https://capital.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/google/",
-        "followers": 15292872
+        "url": "https://www.linkedin.com/company/capital.com/",
+        "followers": 1024
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/google"
+        "url": "https://www.crunchbase.com/organization/capital-com"
       },
       "twitter": {
-        "username": "GoogleAI",
-        "url": "https://twitter.com/GoogleAI",
-        "followers": 1704417
+        "username": "capitalcom",
+        "url": "https://twitter.com/capitalcom",
+        "followers": 163371
       },
-      "size": "10,001+ employees",
-      "yearFounded": 1998,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Mountain View, CA"
+        "London, UK",
+        "London, London"
       ],
       "funding": {
-        "status": "IPO"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Google AI"
+        "AI in Finance"
       ],
-      "heat": 375,
+      "heat": 366,
+      "tags": [
+        "FinTech"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Google",
+          "title": "Capital.Com",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -608,7 +665,7 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 337,
+      "heat": 338,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -621,58 +678,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/capital.md",
-      "title": "Capital.Com",
-      "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/capital/index.json",
-      "webUrl": "https://everyday.cc/ai/company/capital/",
+      "path": "_companies/huggingface.co.md",
+      "title": "Hugging Face",
+      "excerpt": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/huggingface.co/index.json",
+      "webUrl": "https://everyday.cc/ai/company/huggingface.co/",
       "type": "profile",
-      "name": "Capital.Com",
-      "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-      "website": "https://capital.com/",
+      "name": "Hugging Face",
+      "overview": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
+      "website": "https://huggingface.co/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/capital.com/",
-        "followers": 1024
+        "url": "https://www.linkedin.com/company/huggingface/",
+        "followers": 2887
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/capital-com"
+        "url": "https://www.crunchbase.com/organization/hugging-face"
       },
       "twitter": {
-        "username": "capitalcom",
-        "url": "https://twitter.com/capitalcom",
-        "followers": 163315
+        "username": "huggingface",
+        "url": "https://twitter.com/huggingface",
+        "followers": 83113
       },
-      "size": "51-200 employees",
+      "size": "11-50 employees",
       "yearFounded": 2016,
       "locations": [
-        "London, UK",
-        "London, London"
+        "Hong Kong"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
-        "AI in Finance"
+        "Natural Language Processing"
       ],
-      "heat": 335,
-      "tags": [
-        "FinTech"
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
+        }
       ],
+      "heat": 328,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Capital.Com",
+          "title": "Hugging Face",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -780,6 +831,52 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/cisco.md",
+      "title": "Cisco",
+      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cisco/",
+      "type": "profile",
+      "name": "Cisco",
+      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "website": "https://www.cisco.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cisco/",
+        "followers": 2993527
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cisco"
+      },
+      "twitter": {
+        "username": "cisco",
+        "url": "https://twitter.com/cisco",
+        "followers": 732685
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1984,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "funding": {
+        "status": "IPO"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "heat": 273,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1504842899631968257/cae-WIrl_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cisco",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/uber.md",
       "title": "Uber",
       "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
@@ -795,7 +892,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1079786
+        "followers": 1079796
       },
       "yearFounded": 0,
       "locations": [
@@ -805,7 +902,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 262,
+      "heat": 268,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
@@ -837,7 +934,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 87692
+        "followers": 87701
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -854,7 +951,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 247,
+      "heat": 265,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -878,61 +975,49 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/chumenwenwen.md",
-      "title": "Mobvoi",
-      "excerpt": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/chumenwenwen/index.json",
-      "webUrl": "https://everyday.cc/ai/company/chumenwenwen/",
+      "path": "_companies/grammarly.md",
+      "title": "Grammarly",
+      "excerpt": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/grammarly/index.json",
+      "webUrl": "https://everyday.cc/ai/company/grammarly/",
       "type": "profile",
-      "name": "Mobvoi",
-      "otherNames": [
-        "出门问问",
-        "Chumenwenwen",
-        "北京羽扇智信息科技有限公司",
-        "Beijing Yushanzhi Xinxi keji youxian Gongsi",
-        "chumenwenwen.com"
-      ],
-      "overview": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
-      "website": "http://www.chumenwenwen.com",
+      "name": "Grammarly",
+      "overview": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
+      "website": "http://grammarly.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/3773376",
-        "followers": 2571
+        "url": "https://www.linkedin.com/company/grammarly",
+        "followers": 23828
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/mobvoi"
+        "url": "https://www.crunchbase.com/organization/grammarly"
       },
       "twitter": {
-        "username": "Mobvoi_Official",
-        "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 52493
+        "username": "grammarly",
+        "url": "https://twitter.com/grammarly",
+        "followers": 214882
       },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
+      "size": "201-500 employees",
+      "yearFounded": 2009,
       "locations": [
-        "Beijing, 北京"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
       "topics": [
         "AI",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=z-H_xsUFD68"
+          "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 235,
-      "tags": [
-        "Speech Recognition"
-      ],
+      "heat": 248,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1050206936006709250/K-KzEDii_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1498490075444760576/Myon7HID_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Mobvoi",
+          "title": "Grammarly",
           "isCached": true
         }
       ],
@@ -958,7 +1043,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 569516
+        "followers": 569527
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -968,159 +1053,13 @@
       "topics": [
         "AI"
       ],
-      "heat": 235,
+      "heat": 229,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Salesforce",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cisco.md",
-      "title": "Cisco",
-      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cisco/",
-      "type": "profile",
-      "name": "Cisco",
-      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "website": "https://www.cisco.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cisco/",
-        "followers": 2993527
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cisco"
-      },
-      "twitter": {
-        "username": "cisco",
-        "url": "https://twitter.com/cisco",
-        "followers": 732675
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1984,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "funding": {
-        "status": "IPO"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "heat": 231,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1504842899631968257/cae-WIrl_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cisco",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/huggingface.co.md",
-      "title": "Hugging Face",
-      "excerpt": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/huggingface.co/index.json",
-      "webUrl": "https://everyday.cc/ai/company/huggingface.co/",
-      "type": "profile",
-      "name": "Hugging Face",
-      "overview": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
-      "website": "https://huggingface.co/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/huggingface/",
-        "followers": 2887
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hugging-face"
-      },
-      "twitter": {
-        "username": "huggingface",
-        "url": "https://twitter.com/huggingface",
-        "followers": 83094
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Hong Kong"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
-        }
-      ],
-      "heat": 226,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Hugging Face",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/grammarly.md",
-      "title": "Grammarly",
-      "excerpt": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/grammarly/index.json",
-      "webUrl": "https://everyday.cc/ai/company/grammarly/",
-      "type": "profile",
-      "name": "Grammarly",
-      "overview": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
-      "website": "http://grammarly.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/grammarly",
-        "followers": 23828
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/grammarly"
-      },
-      "twitter": {
-        "username": "grammarly",
-        "url": "https://twitter.com/grammarly",
-        "followers": 214872
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
-        }
-      ],
-      "heat": 198,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1498490075444760576/Myon7HID_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Grammarly",
           "isCached": true
         }
       ],
@@ -1146,7 +1085,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 72583
+        "followers": 72594
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1161,7 +1100,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 192,
+      "heat": 202,
       "tags": [
         "Open Source"
       ],
@@ -1175,59 +1114,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/anduril.md",
-      "title": "Anduril Industries",
-      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anduril/index.json",
-      "webUrl": "https://everyday.cc/ai/company/anduril/",
-      "type": "profile",
-      "name": "Anduril Industries",
-      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-      "website": "https://www.anduril.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/18293159/",
-        "followers": 3835
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/anduril-industries"
-      },
-      "twitter": {
-        "username": "anduriltech",
-        "url": "https://twitter.com/anduriltech",
-        "followers": 11923
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Orange County, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 178,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Anduril Industries",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1256,7 +1142,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 30662
+        "followers": 30666
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1277,7 +1163,7 @@
           "url": "https://www.youtube.com/watch?v=4lYNckVMys4"
         }
       ],
-      "heat": 164,
+      "heat": 182,
       "tags": [
         "Autonomous Vehicles"
       ],
@@ -1295,53 +1181,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/irobot.md",
-      "title": "iRobot",
-      "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/irobot/index.json",
-      "webUrl": "https://everyday.cc/ai/company/irobot/",
-      "type": "profile",
-      "name": "iRobot",
-      "overview": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
-      "website": "https://www.irobot.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/irobot/",
-        "followers": 44414
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/irobot"
-      },
-      "twitter": {
-        "username": "iRobot",
-        "url": "https://twitter.com/iRobot",
-        "followers": 42987
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 1990,
-      "locations": [
-        "Bedford, MA",
-        "Bedford, Massachusetts"
-      ],
-      "funding": {
-        "status": "IPO"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 164,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1435917599179685892/SJ95JStx_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "iRobot",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1370,7 +1209,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 73438
+        "followers": 73439
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1384,7 +1223,7 @@
         "AI in Autos",
         "Google AI"
       ],
-      "heat": 164,
+      "heat": 179,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
@@ -1395,120 +1234,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ubtrobot.md",
-      "title": "UBTech Robotics",
-      "excerpt": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ubtrobot/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ubtrobot/",
-      "type": "profile",
-      "name": "UBTech Robotics",
-      "overview": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
-      "website": "https://ubtrobot.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ubtech-robotics/",
-        "followers": 16275
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ubtech"
-      },
-      "twitter": {
-        "username": "ubtechrobotics",
-        "url": "https://twitter.com/ubtechrobotics",
-        "followers": 86128
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Shenzhen, Guangdong"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=gOpQlk8afzs"
-        }
-      ],
-      "heat": 159,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "UBTech Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_200_200/0?e=1594857600&v=beta&t=tSlz81LKeil-9jIvrcwGOWw_jZaH_bap7tZRkqHrI4E",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/starship.xyz.md",
-      "title": "Starship Technologies",
-      "excerpt": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/starship.xyz/index.json",
-      "webUrl": "https://everyday.cc/ai/company/starship.xyz/",
-      "type": "profile",
-      "name": "Starship Technologies",
-      "overview": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
-      "website": "https://www.starship.xyz/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/starshiptechnologies/",
-        "followers": 7181
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/starship-technologies"
-      },
-      "twitter": {
-        "username": "StarshipRobots",
-        "url": "https://twitter.com/StarshipRobots",
-        "followers": 11925
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ],
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1486731900655849476/xkDeH-iH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Starship Technologies",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1594857600&v=beta&t=7BXWvzxajwGYusLrhXJnBwisK8JNKlwAsnakP8ngDr0",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1543,7 +1268,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 50,
+          "heat": 32,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
@@ -1573,7 +1298,7 @@
             "AI",
             "Natural Language Processing"
           ],
-          "heat": 115,
+          "heat": 145,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1478064424216940548/dNsm1ejF_400x400.png",
@@ -1626,7 +1351,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 337,
+          "heat": 338,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -1639,13 +1364,222 @@
         }
       ],
       "size": 41,
-      "heat": 138,
+      "heat": 174,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Affirm",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/upstart.md",
+      "title": "Upstart",
+      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
+      "webUrl": "https://everyday.cc/ai/company/upstart/",
+      "type": "profile",
+      "name": "Upstart",
+      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "website": "https://www.upstart.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/upstart-network",
+        "followers": 13116
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/upstart"
+      },
+      "twitter": {
+        "username": "Upstart",
+        "url": "https://twitter.com/Upstart",
+        "followers": 16562
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 160,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Upstart",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zoox.md",
+      "title": "Zoox",
+      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zoox/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zoox/",
+      "type": "profile",
+      "name": "Zoox",
+      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
+      "website": "https://zoox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zoox-inc/",
+        "followers": 34477
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zoox"
+      },
+      "twitter": {
+        "username": "zoox",
+        "url": "https://twitter.com/zoox",
+        "followers": 19938
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Foster City, CA",
+        "Foster City, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ],
+      "heat": 149,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1440739774491344901/WYP3m0A2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zoox",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tencent.md",
+      "title": "Tencent",
+      "excerpt": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tencent/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tencent/",
+      "type": "profile",
+      "name": "Tencent",
+      "overview": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
+      "website": "https://www.tencent.com/en-us/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tencent/",
+        "followers": 592602
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tencent"
+      },
+      "twitter": {
+        "username": "tencentglobal",
+        "url": "https://twitter.com/tencentglobal",
+        "followers": 37078
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1998,
+      "locations": [
+        "Shenzhen, Guangdong"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 147,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1397133852246646784/Z4XI4oyC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tencent",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/algolia/index.json",
+      "webUrl": "https://everyday.cc/ai/company/algolia/",
+      "type": "profile",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/algolia"
+      },
+      "twitter": {
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 24639
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
+        }
+      ],
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1478064424216940548/dNsm1ejF_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Algolia",
           "isCached": true
         }
       ],
@@ -1671,7 +1605,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 16602
+        "followers": 16604
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1685,7 +1619,7 @@
       "topics": [
         "AI"
       ],
-      "heat": 135,
+      "heat": 145,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
@@ -1705,95 +1639,154 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sophiagenetics.md",
-      "title": "Sophia Genetics",
-      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
+      "path": "_companies/irobot.md",
+      "title": "iRobot",
+      "excerpt": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/irobot/index.json",
+      "webUrl": "https://everyday.cc/ai/company/irobot/",
       "type": "profile",
-      "name": "Sophia Genetics",
-      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "website": "https://www.sophiagenetics.com",
+      "name": "iRobot",
+      "overview": "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT.",
+      "website": "https://www.irobot.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/sophiagenetics/",
-        "followers": 25618
+        "url": "https://www.linkedin.com/company/irobot/",
+        "followers": 44414
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sophia-genetics"
+        "url": "https://www.crunchbase.com/organization/irobot"
       },
       "twitter": {
-        "username": "sophiagenetics",
-        "url": "https://twitter.com/sophiagenetics",
-        "followers": 21814
+        "username": "iRobot",
+        "url": "https://twitter.com/iRobot",
+        "followers": 42987
       },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
+      "size": "501-1,000 employees",
+      "yearFounded": 1990,
       "locations": [
-        "Switzerland",
-        "Saint Sulpice"
+        "Bedford, MA",
+        "Bedford, Massachusetts"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "IPO"
       },
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Robotics"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
-        }
-      ],
-      "heat": 133,
+      "heat": 135,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1400903436854571012/wx96H1fl_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1435917599179685892/SJ95JStx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Sophia Genetics",
+          "title": "iRobot",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/tencent.md",
-      "title": "Tencent",
-      "excerpt": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tencent/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tencent/",
+      "path": "_companies/baidu.md",
+      "title": "Baidu",
+      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
+      "webUrl": "https://everyday.cc/ai/company/baidu/",
       "type": "profile",
-      "name": "Tencent",
-      "overview": "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange.",
-      "website": "https://www.tencent.com/en-us/",
+      "name": "Baidu",
+      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "website": "http://ai.baidu.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/tencent/",
-        "followers": 592602
+        "url": "https://www.linkedin.com/company/baidu-inc/",
+        "followers": 209798
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tencent"
+        "url": "https://www.crunchbase.com/organization/baidu"
       },
       "twitter": {
-        "username": "tencentglobal",
-        "url": "https://twitter.com/tencentglobal",
-        "followers": 37077
+        "username": "BaiduResearch",
+        "url": "https://twitter.com/BaiduResearch",
+        "followers": 58152
       },
       "size": "10,001+ employees",
-      "yearFounded": 1998,
+      "yearFounded": 2000,
       "locations": [
-        "Shenzhen, Guangdong"
+        "Beijing"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Computer Vision"
       ],
-      "heat": 130,
+      "heat": 133,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1397133852246646784/Z4XI4oyC_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Tencent",
+          "title": "Baidu",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/anduril.md",
+      "title": "Anduril Industries",
+      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anduril/index.json",
+      "webUrl": "https://everyday.cc/ai/company/anduril/",
+      "type": "profile",
+      "name": "Anduril Industries",
+      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "website": "https://www.anduril.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/18293159/",
+        "followers": 3835
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/anduril-industries"
+      },
+      "twitter": {
+        "username": "anduriltech",
+        "url": "https://twitter.com/anduriltech",
+        "followers": 11925
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Orange County, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 125,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Anduril Industries",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
