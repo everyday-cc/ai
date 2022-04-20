@@ -2,21 +2,27 @@
 category: news
 title: "Yale Student Startup, Aspecta.ai, Completed about 2 Million USD Fundraising"
 excerpt: "Aspecta.ai, a Yale Student founded startup with an ambition to build the next-generation talent engine, incubated at Tsai CITY (Tsai Center for Innovative Thinking at Yale), has raised about 2 million USD in its latest fundraising round."
-publishedDateTime: 2022-04-19T13:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-yale-student-startup-aspectaai-completed-2-million-usd-/2022/04/19/9585211.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-yale-student-startup-aspectaai-completed-2-million-usd-/2022/04/19/9585211.htm"
+publishedDateTime: 2022-04-19T13:32:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-f72bcb24a68142aeadfaa2a478423762"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-f72bcb24a68142aeadfaa2a478423762"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "wjzLYcV1yyhgnqtKD19Uom7iHJPiYi1N12pRPEAI+Rd8zWmLg8ItomTY8lS23o+Cfder8KIaPdpUGATyoMOJyNYqIOkJwOBYdBIsSRH1YKY4fFdfX2Oj2y1awDS4LDj7tFIZXpY/babOS8/Sl2gOypYHHC3VVolK5f0Xm5xmTnGtxPeeb+vWAt2mvnEsul5dxR+CPOwWSfcHRSIiqzlfeN9cBKt3yoWuqwbcl5gQoiPmOYnMDIRBWbkwzM5Z2uNKdQKgXFF6sryfy2qdiJqBLhLT4IXM2yIfyEk4ARq0J3ub1eEBaKJkiWg7hy53M8ZhdbxURu4A8/c0umoKKZVUklA3TCp2HDeFoGcIssfHjEQ=;99fHSS/u3Zu4z6s0zTXVjQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "DJ/uSbBT83hGrxMZ5grz0j7F1BACnrchAZhP+1wXYQWN9K0x3GHQLP3as2FWLnpdcZ3Bnf3xiX04Yhh+ydOUqK7u7tbIgrgtbD7xjD+prsTCeZ2421zWGVWqvfWNm4lvw3ORot1RiKGWRc+gwTBlVLgzOxEtmvvfWep79O3uzj4RgyfvdEGJO+9NJq+Bb/l/aPntLNoVQYnmc1vXTH/4a2XVdpjACom0py0xjiacFKg2PRJUZLvDT//qiSLKQlyYLjcHTrClFxbff6mxlRjJd7Jcv0mpT6cm7ki8YUeMYPqaNGCOToS1VUh3owsufcVfJFyQP75WJhsLplna4wdUKsDUwJnH33fcPtYCgyYCKCo=;aYPrhyeOieFaczcN1LMgIQ=="
 ---
 

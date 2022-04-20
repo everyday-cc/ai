@@ -25,14 +25,14 @@ images:
 
 related:
   - title: "Using AI to help San Antonio radiologists reduce X-ray reading errors"
-    excerpt: "Suri, 54, a professor of radiology at UT Health San Antonio’s Long School of Medicine, is participating in a study launched this month to collect data from 60 radiologists as they read X-rays at University Hospital."
-    publishedDateTime: 2022-04-19T05:45:00Z
-    webUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
+    excerpt: "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,"
+    publishedDateTime: 2022-04-19T09:01:00Z
+    webUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
     type: article
     provider:
       name: San Antonio Express-News
       domain: expressnews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s.hdnux.com/photos/01/25/20/21/22348879/3/rawImage.jpg"
         width: 2048

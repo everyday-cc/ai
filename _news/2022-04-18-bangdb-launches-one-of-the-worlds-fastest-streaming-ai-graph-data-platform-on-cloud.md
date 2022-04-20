@@ -39,14 +39,19 @@ related:
         height: 1200
         isCached: true
   - title: "Rav.ai, the World’s First Automated Video Content Generation Platform for Video, Launches at eMerge"
-    excerpt: "Founded in Miami, Rav.ai is a technology startup that aims to automate social media video editing. After being featured at last year’s eMerge Americas conference as an MIT Technology Review 35under35 Entrepreneur in Artificial Intelligence,"
-    publishedDateTime: 2022-04-19T13:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/rav-ai-the-worlds-first-automated-video-content-generation-platform-for-video-launches-at-emerge"
+    excerpt: "Founded in Miami, Rav.ai is a technology startup that aims to automate social media video editing. After being featured at last year’s eMerge Americas conference as an MIT Technology Review 35under35 Entrepreneur in Artificial Intelligence,"
+    publishedDateTime: 2022-04-19T13:02:00Z
+    webUrl: "https://apnews.com/press-release/Newswire/technology-business-social-media-artificial-intelligence-careers-519bf62d7f7ee0f4c4d0d2a9bab0b541"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "V/Lex6wdDjawB5VC+x4f462a9NNOZ72Np25jcWcmBZ5KKVk+dWLPMe9Jumb84eZv21KZ5iLhboTRYbQnbAh7E3zjDjqeSSI2i3vdwzSAhWApv531feHUiSiX0DpQFG6goWiBxDZYaN0pK7xJhOmZYuUIqe3hkuujXLVL4X1eZlqVBxHA/EKqZj8HfaPe5amxuqG09s5+We3Gm0w4k3WR/LCLWcfRsOx2Za5GJPMMWPCQq3s4bQT1/4I7lOmiJjTLwG7w9UO0ETCVJKiUyPBa6T4Wd4TiBcEIp17pIlCgxMAzentYl+a2go3PI8A5/AUycn5i1qALqC08KUaUBZoP2TyyAEdliiUmO4AoxmCFculeWPs6tyHeTrJkc6qF8YejzS0AA6vsPImjqr1WaaE+HE9IvsROfrWbrJ9GOVfUfM49Db8A5UhfSUUlIPn1HwRh1VgRtWpIsZFNHtMST8icPVB2rRRHA7jzwDlMXssBECtapo2WkhXaLt5zuzqEnZozzIOTKm2N5pBVa+YYjoYF1A==;zmtLRdmotE7EIzbhnjs+sQ=="
 ---

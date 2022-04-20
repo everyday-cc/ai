@@ -1,28 +1,28 @@
 ---
 category: news
 title: "‘Data-Centric AI’ to Be Defined by the Community Itself"
-excerpt: "Data-Centric AI Community' launched a contest to find the best definition for 'Data-Centric AI'. Winner takes $500 home. DCAI contest"
-publishedDateTime: 2022-04-19T14:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/data-centric-ai-to-be-defined-by-the-community-itself"
-webUrl: "https://www.digitaljournal.com/pr/data-centric-ai-to-be-defined-by-the-community-itself"
+excerpt: "Nearly a year later, after Andrew Ng spoke about the concept of data-centric AI, with competitions and workshops conducted globally, a peer-learning community with expert guidance was the need of the data-centric movement."
+publishedDateTime: 2022-04-19T14:23:00Z
+originalUrl: "https://apnews.com/press-release/Newswire/technology-science-57604032923f2170d7607804468d9286"
+webUrl: "https://apnews.com/press-release/Newswire/technology-science-57604032923f2170d7607804468d9286"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.newswire.com/files/x/33/3b/34a1a2854460d51ce13e6c6f2131.jpg"
-    width: 512
-    height: 288
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "R3RdY9S5lnwoZYkE0svWhQsnPg+RzEIVKVJ0kQ0TffobbhrxxEsGfrpaAgtcjSfEZJ2nb9JW3KCyOC5kdTra7mxcy61sj9Ijlonkb6mx4etQOtPg7EeKXgFO+EDul9ziIomwZa4GjfWu1fwdq3LPE3UbDe4J15rzTpJAOcfFF3X797gjHOyhIpaQ0MMeuwgEWiDtAwIr0RK7igBnFnSVsgxQZmkFem+8mG2Cj4uv5yETr33RPnurJZ3n61hdZ7bViUMH0eswVmU/O1l1YWvgbE6MpY0me70xLA1QmgmWlfuAbeS4631395gZZ93BkaQtU4d9HmnVutIzlvvgTG+c/v504nlH1A19zRUIy/r1Eh9A2MRT1J5wzWMjW+CKarysus+x59vKBXijfynOTOXXSQl0aURjvS5apWZkdyglogYJbCY7t+Jot18fVCyF7G0MKfvhCzUgERDUycR78hHGzBOlnpUVa52YYNM4c4RjQ3yvdUjhbIomdufNq7THfFYFPnyHM2s/UbGLGIBPyl6dNQ==;9DcF3EGK6AxeFjKUBj2u5w=="
+secured: "7gBNy9Ode6Vg169QDdSHzvKcrIt2iiO9u8XKqiJHiR/eklPawf5U2C0Y+P7xiaSldb9pbxUpqcb/1NSZ69sZCm8X9+SHNdOGlJqSnoBIUCqE50Ul5Nj5E8tC0Tc9/ldWnflfv48E5gNtJt8bzmrcCXBoe5sW3t3x41NoYqmx2kth5g3pMm2/30tLSejqH9EMwMLrAhuZtaLBwEi1IeZkvXBiWJHAO0ScuYC/dKu+ei1vzoRpPeZjFy8IpwWKVBsngt0hWvAQkZvwRsEmPnrhoAP99jicT3rd/hcuKYf4XESUNe35ZnV6l5JxQfiJigyu843Dzv8PLPFhsvRII5oh1CR7rRSoFbuPG87x90hW9s0=;4cv3XKPrim6dhOYcwsD7Mw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Kemtai Partners with RecoveryOne to Offer Sensor-Free Virtual Physical Therapy Solution"
 excerpt: "Powered by Kemtai’s proprietary computer vision technology, RecoveryOne’s new Motion Trainer feature provides physical therapy patients with real-time feedback and guidance during at-home sessions without sensors or other hardware NEW YORK,"
 publishedDateTime: 2022-04-19T14:44:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
 type: article
 quality: 46
 heat: 46
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "jo5ypt3Ds6ATRfO8mhS/+bbpiFf9KnHfwr5x6gQUnzh0dQ5i28X90TBeBG2WEQOHfDpcJKKGvBHFxiUU8iTVfvxQqEZKlh1aMt2iISbR6sCKgbuEMIPdWYvBYrGGEjn1xHMTFcU0C9VCIB4gX3vEv/iAgXX8MgfXu4jnaCQ8H/sUT9wJeU/oBLv+bm9bkKSbTKDQu7uckkXIZCYr0Y1I0xWP3pkWpy+xXqiT1Y/dvuhw1034D5Z3VUfVHuJAVzBptTYoAzVQo1Nix4NjpHfN0Dy8QfGBZwYVjsmd/59N6km49UH/0fWCIxdzkL+DiCOEXpL6FQechteTZsVpn0BhirTq8g8Y2VuDObamDsGCkqI=;0/v8ULbRk55WcjqXxqKf1A=="
+secured: "85APmyYyoxDwf42Rv/rJWg6m+YqGOYiFdNhDCJOjGEAdl/k9xz8sbpkUTvn3/zMxOfzbFNWM7el5xcVDgO2+sBIcGC1+DqtK1s1wf0xmDOp+n2ZLEcLy0QiygXu5vqb14X6lOEhGy0Nm39JwdRVrE3cATxBxkAv2NFXSSk85xVwpPdw+nGt/HbNIbX12OWUCG8vYZpOBrr4cbmKi+oL+4L+GBCc7rNIJGs98OXCV6GgAgQYDdG0Mr4CIizhJTWphMs+u2+xI58Fmn5BfZh9PrNiiZ6kRXHBN2KZOsq0ISDEWETwdXPjjcjpWwddC8No+oJRUSe7PuQUK9Bbeqp6x+38WgLMtwG7fdm7yhWtImN8=;vF+2v/3iLWvCmm2NYrnOIA=="
 ---
 

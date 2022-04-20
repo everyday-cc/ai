@@ -21,16 +21,21 @@ topics:
 
 related:
   - title: "Motorola Solutions buys London-based video-AI start-up Calipsa"
-    excerpt: "Motorola Solutions MSI.N has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video"
-    publishedDateTime: 2022-04-19T17:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa"
-    ampWebUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa?amp"
+    excerpt: "LONDON - Motorola Solutions has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video security solution, helping its customers verify alarms and detecting tampering in real time."
+    publishedDateTime: 2022-04-20T02:32:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-90948218,imgsize-36344,width-1200,height-628,overlay-etcio/motorola-solutions-buys-london-based-video-ai-start-up-calipsa.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "uqQ/o8l4Ov2WUunxT3QWvDfvQKBbWR4s4/fgp1J6CuHRvlQ1DnUxa8KCbiSMRUbtCbVe1V+n5J1EP1gERtRHGeMGgyNvLV1qXvCtWRQOF1gvRtmk3VqGLRkkjnE0PwHkj9D7Hb11Pmxhb80f3GArfRZAZ9GJMLUFJVQ1JIbBFiMuCDGCA3kmRRQACnIH/jxMhzDP+NEBkuBfkQ/j+oLboQba3OKAHFs+PsAbZJ2fdUV/OJLZl5XODr91o1hd4aibu8UguW3/bAjM8/iFvo0YduZOsUKIqGJNm6nPtHcnpQnmM7/gyw8tJECRerAYab9gqrwhtX39Fy4E5t2sLICa3rxKeTiT5G+NJop6hOcxSrA=;hOSGKZ2ji91B4rqWccn8JQ=="
 ---

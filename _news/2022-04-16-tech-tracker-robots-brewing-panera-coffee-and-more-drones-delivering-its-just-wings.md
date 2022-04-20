@@ -24,6 +24,17 @@ images:
     height: 4000
     isCached: true
 
+related:
+  - title: "Panera Brews Up an Artificial Intelligence System to Automate Coffee-Making"
+    excerpt: "Restaurant technology innovation and process automation is happening on multiple fronts, now even in the realm of coffee-making. Case in point: National fast-casual restaurant Panera Bread, which operates 2,"
+    publishedDateTime: 2022-04-20T03:05:00Z
+    webUrl: "https://restauranttechnologynews.com/2022/04/panera-brews-up-an-artificial-intelligence-system-to-automate-coffee-making/"
+    type: article
+    provider:
+      name: restauranttechnologynews
+      domain: restauranttechnologynews.com
+    quality: 17
+
 secured: "lvm+G8HHkD8NR+lRcifVHMFjSPgB5M3sHzW9hZJIaUWwla1ablpxF2rviHgxmkXRj4qcD5KeFNYNyoH3uBXD47bm/oeZAeJjv5hUyyxo3L/A2xVyCvDxyQevpFFjfOOkFnwbBXU5ftUn3URwF9aZImzXqBCAWOO2TxYytKJfTs1YPeFvX/ceCiXfyVMtJLGWm54fkorWKoNpgRr5OYAVRvERhYTwyCiZzqDG5ESDud9FTsN7l1ZB8dxdZCCQ+rReMmLAhed/ROuvnjnq7XdtYw5rdwvTdEhrshzqx7YceOIrHzuahlEBtLX9W5VNhVeN3929Rx0XW75MqKwPhMnlnYiuDC62aPj86YUmtffSfNY=;wwQ+IRl4KHTHwXYEdyK3oA=="
 ---
 

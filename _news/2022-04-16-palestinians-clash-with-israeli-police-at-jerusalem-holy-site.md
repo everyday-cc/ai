@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Clashes erupt at Jerusalem holy site, 152 Palestinians hurt: report"
-    excerpt: "Palestinians clashed with Israeli police at the Al-Aqsa mosque compound in Jerusalem before dawn on Friday as thousands gathered for prayers during the holy month of Ramadan. Medics said that at least 152 Palestinians were wounded."
-    publishedDateTime: 2022-04-15T09:13:00Z
-    webUrl: "https://www.foxnews.com/world/clashes-erupt-at-jerusalem-holy-site-152-palestinians-hurt-report"
-    ampWebUrl: "https://www.foxnews.com/world/clashes-erupt-at-jerusalem-holy-site-152-palestinians-hurt-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/clashes-erupt-at-jerusalem-holy-site-152-palestinians-hurt-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adde457c-6aa5-4b5c-9603-f9f0bf3a220a/660b3aa6-cd65-49cb-bb7d-2827530385cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Clashes at Jerusalem holy site leave more than 150 Palestinians injured, Palestinian medics say"
     excerpt: "Tensions were already heightened amid a recent wave of violence. The clashes came as Ramadan this year coincides with Passover and Christian holy week."
     publishedDateTime: 2022-04-15T23:11:00Z

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Motorola Solutions buys London-based video-AI start-up Calipsa"
-excerpt: "Motorola Solutions MSI.N has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video"
-publishedDateTime: 2022-04-19T17:31:00Z
-originalUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa"
-webUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa"
-ampWebUrl: "https://www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/motorola-solutions-buys-london-based-video-ai-start-up-calipsa?amp"
+excerpt: "LONDON - Motorola Solutions has acquired London-based start-up Calipsa to boost its ability to use AI-powered analytics across any video security solution, helping its customers verify alarms and detecting tampering in real time."
+publishedDateTime: 2022-04-20T02:32:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/motorola-solutions-buys-london-based-video-ai-start-up-calipsa/90948218"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 57
+heat: 67
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-90948218,imgsize-36344,width-1200,height-628,overlay-etcio/motorola-solutions-buys-london-based-video-ai-start-up-calipsa.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Motorola Solutions unveil Artificial Intelligence Network Video Recorder (AI NVR) that combines AI capabilities with a NVR"
@@ -32,6 +38,6 @@ related:
       domain: sourcesecurity.com
     quality: 26
 
-secured: "xRAj1KoYkBqXoEbiWfLZeB4lQpG2Zj06o9b7fbRCpWLhIB3tlsC6yXrM2ebrDOCwWQduWzHmfgAfq+9xvY5wcnMfepIvkN+bw9ybrZ8ovMhReddeJLIhTf7lvF3dP+ZeHebxo3exbQMhfL/P8QgMln0bvcsANoE1qiSJMUtk66G6FKab7xY3RYFG5NhKjKKapRViInLszYSSKS2nPkaUpQJSJNpmUGSLwp6cHPbpr2IIaUPLOkjH49ZCzK7CV0SI8gscn3zGBf93W24SLfjPhnIeN2IGMHhhdjiNOUWV9TtD6//JgKUE6s9M1bBFJMyrsp6O7TH6z+Y8QghUqirmnsdI3Q5wP+0deBv0jddcgYS70n/e+kK1zxnn4J9hPJI9qagnyU9w7/7Rdo3qfAuHguvn2zKd9HzcSnbKcBxq0DB+40Mt0e7wET5nKfK9ZHxt1Yv6VJ+w9L3xA83Fhh4p3PDN9Ht7HA6EPoEeaABc2H+vUPFo83kF49oNcqsVoMwYvceUjB6auAYx1PZlHoq1Kw==;t/jW+p1NsUbfDvxdSchNgg=="
+secured: "2CNLzfqx8O0v8NtyX10R9XX9usbX7vmBfydDiElxsO7ClIu1NcOzHs/BZad7HAVQ3fc+xZ/yVnsi2NqfTpqvR7o9qaFLca4ph/uxbdWMuytI34gNlH+uRStNCGf3Z11ckKujVRcDDh/2JtUZTCttyx4EbRJp9jhEAFdo1ttRpFECAUjbaz6UBN1LJfksKFPCbUZDO626DgDUs5bIgTq1rkcv5pGUnPbQifwS+bIoGYABWyS+NXEIjwM4AsP5enrUFJa2Inlg9BXDMKMOEyl9Eu+epLdI7rEYhFICfJviZWqUlkPC5sXhaUkE8gEZQbv3hbTmGmFG//FGjrmO0uQMibTEFa8RGd66HeGTZfpySLM=;R1I5GQn2Nee6iV4UMu+R9A=="
 ---
 

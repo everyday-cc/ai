@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Rav.ai, the World’s First Automated Video Content Generation Platform for Video, Launches at eMerge"
-excerpt: "Founded in Miami, Rav.ai is a technology startup that aims to automate social media video editing. After being featured at last year’s eMerge Americas conference as an MIT Technology Review 35under35 Entrepreneur in Artificial Intelligence,"
-publishedDateTime: 2022-04-19T13:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/rav-ai-the-worlds-first-automated-video-content-generation-platform-for-video-launches-at-emerge"
-webUrl: "https://www.digitaljournal.com/pr/rav-ai-the-worlds-first-automated-video-content-generation-platform-for-video-launches-at-emerge"
+excerpt: "Founded in Miami, Rav.ai is a technology startup that aims to automate social media video editing. After being featured at last year’s eMerge Americas conference as an MIT Technology Review 35under35 Entrepreneur in Artificial Intelligence,"
+publishedDateTime: 2022-04-19T13:02:00Z
+originalUrl: "https://apnews.com/press-release/Newswire/technology-business-social-media-artificial-intelligence-careers-519bf62d7f7ee0f4c4d0d2a9bab0b541"
+webUrl: "https://apnews.com/press-release/Newswire/technology-business-social-media-artificial-intelligence-careers-519bf62d7f7ee0f4c4d0d2a9bab0b541"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Google Cloud launches exclusive AI management platform"
@@ -44,6 +50,6 @@ related:
       domain: businessinsider.com
     quality: 39
 
-secured: "N+YzLb3oOHmnlLyNLJnESKtaDnSQDT5yENAxjB84pwPXXngadgIpVwC1d2AlNQUuBLUdV7u9v/kct9iMatCTXyu3IQ+ERcs7DKDYBuw2QCEwTRE330QGg0JeMXv4dlkb1ZhXPlvC0oOpPqqAGxD8R6Bz/KTEBRt+qF0mG/Mm1OqZsd2YEPEl9oknlk4gAnn+LznUcJHYyM9MMeDzqXlb3U8dSJcDAyhT4GRQCsPxHm6YWJCFA1uU3Y0FuEFhYplojmba3JoQjkkuL522MFoB3cxXq4pojEfrwvxULGIuDSPxwczGopQJblxi465tK+AqTJ3HGQFY2PDRdCpLEJax4OpkKvK5Wm8cg2RVcBLl4TA=;OottBYVxB8ENwbd40/6C0A=="
+secured: "BMTFuVqlHSWk92UXdQLkGa2z4BZAFe4+riOVlpnQ4i90fpAZvAkEymEPie7xt+oOTVvrF8/HxiAWMUkxrXq1QYxocbHM5xQkM+9bm4byAyGGgb3ODFluo7tIPFNVfoWMBn4Ux5wEfN1Olmt+DhL/GGOg1pDJ1tijPrUnRhwym8Mg/k+kcwdMqmAGIn2HqJHISb/E2KtkAtZuogd+SnNkujeKcjdpTe/9qyDlOr7R/2csenHhtG3jjV8I6czfdiU+3bwIje2Zi/D8YsRe/t3WNQdbBFOfmnQCWsOmgr57PrYZohRX7rZ5da9AhbymXgK7HWdG9Rzv5kxr/RDPRY3OWI79yYRaEa/+RTY+4nebENM=;V0jauNc9FVvCj4dk75s30Q=="
 ---
 

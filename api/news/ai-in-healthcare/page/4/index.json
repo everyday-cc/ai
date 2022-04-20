@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-24-new-artificial-intelligence-tool-detects-often-overlooked-heart-diseases.md",
-      "title": "New artificial intelligence tool detects often overlooked heart diseases",
-      "excerpt": "Physician-scientists in the Smidt Heart Institute at Cedars-Sinai have created an artificial intelligence (AI) tool that can effectively identify and distinguish between two life-threatening heart conditions that are often easy to miss: hypertrophic cardiomyopathy and cardiac amyloidosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944472",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944472",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-23-american-oncology-network-aon-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-precision-oncology-and-personalized-cancer.md",
       "title": "American Oncology Network (AON) and VieCure Announce Strategic Collaboration to Accelerate Adoption of Precision Oncology and Personalized Cancer Care",
       "excerpt": "American Oncology Network, LLC (AON) , a high-growth medical oncology provider with a focus on supporting the long-term viability of oncology treatment in community-based settings, announced today a strategic collaboration with VieCure,",
@@ -1317,6 +1283,49 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-how-artificial-intelligence-and-big-data-can-help-preserve-wildlife.md",
+      "title": "How artificial intelligence and big data can help preserve wildlife",
+      "excerpt": "The field of animal ecology has entered the era of big data and the Internet of Things. Unprecedented amounts of data are now being collected on wildlife populations, thanks to sophisticated ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.html",
+      "originalUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/animalkingdom.jpg",
+          "width": 1920,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-artificial-intelligence-big-wildlife.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-artificial-intelligence-big-wildlife.amp",
+      "publishedDateTime": "2022-02-08T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

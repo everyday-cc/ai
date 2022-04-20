@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Using AI to help San Antonio radiologists reduce X-ray reading errors"
-excerpt: "Suri, 54, a professor of radiology at UT Health San Antonio’s Long School of Medicine, is participating in a study launched this month to collect data from 60 radiologists as they read X-rays at University Hospital."
-publishedDateTime: 2022-04-19T05:45:00Z
-originalUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
-webUrl: "https://www.expressnews.com/business/article/Artificial-intelligence-radiologists-Xray-17089163.php"
+excerpt: "Dr. Rajeev Suri, seated in front of a desktop computer, searched for signs of lung cancer on a digital X-ray emblazoned with red, orange and yellow clusters. The colors weren’t highlighting cancerous masses,"
+publishedDateTime: 2022-04-19T09:01:00Z
+originalUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
+webUrl: "https://www.expressnews.com/business/article/AI-Artificial-intelligence-radiologists-Xray-17089163.php"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: expressnews.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "DRYAm0ihRS6WXN2VWp3Yq+tqFlP2GaueL0zV6SMjLmg5v31+FslxLbTjn5p8OLv1k3zgvtWURsE8538QEIpwxljrRVhCzXOO2fzpMwbDPycunG94fRUv7FasbWJgl/l7OdX2xkwwVXp8ZOHx/stjCAc4eIR1y1kI47fC7IHK4qtgyF8dqolHGCSHRpUygi8TjxTmh1e56QehrRneVt0mkCcAkdhkyMxntvMKIlBfqNIfFrQiYmy47zoU+i+z6SbUG564H9iTkq5HXVg5snqk58Ka+fxtlidcg5MakrUNefW0QOg/lLPgaHBwzAGB0y6UHOAmHZ8z8bfIeTRqPTufoRckWa67NFj6w9toV/nPf/Y=;9Wj2I3VnQ7nYJPA51zTHgA=="
+secured: "mFPTEBcu4QImrXO5TxGJG+sYci6F0cPadICmjqjTXy89zKwQ6rQSj/C2/laR7BBGW3Crrnr6Bxjt3cziozZsn7SbLBg4AkT/O0EDQesxH2DI7QBfK1WJDRMu78r+BLHnGYeHDs6cbLr78hDxI6mg0CESPZXvc9M9b2z4usw7ISncZIE24TgwwteHEZNZJOoNyZ8O6Icd+hNUACZxEoeHcTuPzp5ZxUSs2AhqszaNJe8/HdmkTpPncLAswgexj/7jSHE9ZuKtfbVIzLibEHuq3UQocLQbUEYkR0oWAdPtE5+ZMfbht/vGxMMyemqKd3svwsMEKprj7ARjjijiY99aARdrmHhUWiBZM4RL8BWOcKc=;pKwfTLxhkeT553APMHh+NQ=="
 ---
 
