@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/laptop/news/razer-x-lambda-tensorbook-goes-official-as-most-powerful-deep-learning-laptop-080218.html"
 type: article
 quality: 56
-heat: 67
+heat: 66
 published: false
 
 provider:

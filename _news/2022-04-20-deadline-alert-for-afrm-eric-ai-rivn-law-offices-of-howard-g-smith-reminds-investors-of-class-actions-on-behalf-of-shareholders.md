@@ -74,18 +74,18 @@ related:
       domain: businessinsider.com
     quality: 12
   - title: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI"
-    excerpt: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI GlobeNewswire April 19, 2022"
-    publishedDateTime: 2022-04-19T21:00:00Z
-    webUrl: "https://www.asiaone.com/business/rosen-global-investor-counsel-encourages-c3ai-inc-investors-secure-counsel-important-may-3"
+    excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company’s initial public offering conducted on or about December 9,"
+    publishedDateTime: 2022-04-19T23:15:00Z
+    webUrl: "https://fox5sandiego.com/business/press-releases/globenewswire/8524870/rosen-global-investor-counsel-encourages-c3-ai-inc-investors-to-secure-counsel-before-important-may-3-deadline-in-securities-class-action-ai/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
     quality: 0
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_580.jpg?h=10d202d3&itok=r8oSrgeK"
-        width: 600
-        height: 316
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png"
+        width: 781
+        height: 326
         isCached: true
 
 secured: "DhbTCMEOE+T6tu9xv0Hxw3spAqjt8aoHQppmxk6sJ8UNg2ua6DKmMwhVvM7syucoylwQK/mMPI9gj6LpydfA6jcFWFcTVy2zXxby+k11pSNqjLfZO3J1kN7AZZgjpLGCQ7k7MOwF0z+x1V6mDkysDMEqSSr5++hASUVXfqWYs1gZcbjroJLil6+sHdukaJtYvS500YqfIBDltx8eo9sbZNG1NtvvEPgDUIRp7srRsmmjlNlol8fGPqUylj1HC9y3G9dLHi19fFGRJy63xHS/u95MH4sETZTeRNsnf2Za/HByL/mLlgLFynafRFKWHRK79Mjmn1cQg4fd5AgW4SAdKcuPDT47upNqPyZcTd8oXWc=;wf7itx5CBtOJ6dbGxJyoXg=="

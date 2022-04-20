@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-technology-predict-cardiac
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-technology-predict-cardiac-arrest"
 type: article
 quality: 52
-heat: 65
+heat: 62
 published: false
 
 provider:

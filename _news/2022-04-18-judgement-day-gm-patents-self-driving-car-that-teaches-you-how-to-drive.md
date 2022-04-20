@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Highway Code to be updated for self-driving cars"
+    excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."
+    publishedDateTime: 2022-04-19T23:54:00Z
+    webUrl: "https://www.lancashiretelegraph.co.uk/news/20079187.highway-code-updated-self-driving-cars/"
+    type: article
+    provider:
+      name: Lancashire Telegraph
+      domain: lancashiretelegraph.co.uk
+    quality: 24
+    images:
+      - url: "https://www.lancashiretelegraph.co.uk/resources/images/12550035/"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "8k0JuBtLsaLrZEYdRuvFTq69sfjPXbCeJtLf6hUouyF+YtpGGVzwkH58iAM7cXDa9k0j74GSLnlHVIaVHMXNI/esxbOQSce+rP95jIIDEoNCwKQ+KRqW6jqFDPqWV/X+9dWE5+5mA0RU0oJz5r2uCCyzJsaE6YfGKuUU1xJ6irXwH5Y0hFDuQA++n+N9b0zY72wHObj/esPP882lGqEOujwzWtOsZx/lUZc5wUlCxu9oa57hZMHlcoL0DJw8ii9nC5H9beatBnCgAR7502gApCoLypbMb0WK2RpPrTekEzG9bhnYx+96kP5fxRbzq/kTgnRfZX+AHSs4RN7twdwojIFDa/9p9Ho+fJlIqx16c6M=;x+9bgUHMC8AjX5V6MCPxOQ=="
 ---

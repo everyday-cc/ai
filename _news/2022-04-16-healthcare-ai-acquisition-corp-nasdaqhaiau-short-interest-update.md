@@ -9,7 +9,7 @@ ampWebUrl: "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-co
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:

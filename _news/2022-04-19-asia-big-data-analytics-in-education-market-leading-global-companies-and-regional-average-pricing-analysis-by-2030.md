@@ -40,6 +40,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "BrainChip and NVISO Partner on Human Behavioral Analytics in Automotive and Edge AI Devices"
+    excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world’s first commercial producer of neuromorphic AI IP and chips, and nViso SA (NVISO), the leading human behavioral analytics AI company,"
+    publishedDateTime: 2022-04-19T22:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-switzerland-65b7475a2d5748beba011b4eb118d706"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Kalyankar Analytics Launches Seqwa, An Affordable, AI-Powered Search Solution With $15,000 Free Credits for Startups"
     excerpt: "Kalyankar Analytics announced the launch of Seqwa, an AI-powered search solution. Seqwa offers a more cost-effective solution for companies looking to integrate full-text search, semantic search, and"
     publishedDateTime: 2022-04-15T14:30:00Z

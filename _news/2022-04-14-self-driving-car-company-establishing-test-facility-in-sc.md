@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Self-driving car company establishing test facility in SC"
-excerpt: "COLUMBIA, S.C. (AP) — A global self-driving vehicle company is establishing a new test facility in South Carolina, the governor’s office announced Wednesday. Argo AI’s $2.6 million ..."
-publishedDateTime: 2022-04-13T18:21:00Z
-originalUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-webUrl: "https://www.chron.com/news/article/Self-driving-car-company-establishing-test-17078513.php"
-ampWebUrl: "https://www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Self-driving-car-company-establishing-test-17078513.php"
+excerpt: "COLUMBIA, S.C. (AP) — Governor Henry McMaster’s office says a global self-driving vehicle company is establishing a new test facility in the state. Argo AI’s $2.6 million investment in ..."
+publishedDateTime: 2022-04-14T12:17:00Z
+originalUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
+webUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/"
+ampWebUrl: "https://www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
+cdnAmpWebUrl: "https://www-counton2-com.cdn.ampproject.org/c/s/www.counton2.com/news/south-carolina-news/self-driving-car-company-establishing-test-facility-in-sc/amp/"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: WCBD
+  domain: counton2.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "FyerHoqtlM0sDgI0ndDteO07J0RHOvzobmob3WkMMnHCMU0mRmLELyVKX08vt4MSj1GqKejH/951+qzf0USlppQW5ym7Egd8/YKRh6/aVpGTcBUdJU8UKkYfseZrl3G3/KET2r1Z14EBKm6zhz0wRSffXxHyapOrNBXpNd0p+J0NtWcu+SlFJp02JmFl2qb3I37ml/efqejoinW7RVah1n0rZwTkUMhIVPKTvMPqkl6hxNp4k2e+LGw2/R0n5/y2LkZjkVA1SIMjQutlcuIIMA+H4VwYZnB2Wh35XYeQftQUMKpfDM94+7ESe9kEBk7F/jLq+3FBtHd1a/o+4SUBtksWxQToGRdHyyN+GOt0o+Q=;RZQy9TTuYv6EkihrcO1xsg=="
+images:
+  - url: "https://www.counton2.com/wp-content/uploads/sites/7/2022/03/GettyImages-1285307584.jpg?w=1280"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "cZvFMDnCbPWgOQyEtJrTgO3B1ZDcT1ymzlzZGM3G3KdVxZu29tyQEkr1DoFdhggk0EVldX4RZPHMypS9BUZWU8koFwqhj+kwvq4NLNdTrBZist55O3g2KlfeBnIoyU2LgQ3yLX5oBQwkO+TYgqQ1d5ufSDxBCki23ZGlOGG7KqLRasR03heKCayv4qUdOONxEdRMyiuPDraC99r+qW9b7ZzplrfG0OgCgxWMcRAArFlYiotS+pJnP5bu8bVlNcvWIRhzvLwndYqLkDMmXeWlN5A//iDI8wARx9FDe4JBcTRN/Zkwz3hzGfW0JCK6DhJEuhe8So7dLiy+aa2V2qFzU/1gOApKHnZOcJaP+RpyqeY=;ORrNEP12vLO635W4xf/wBA=="
 ---
 

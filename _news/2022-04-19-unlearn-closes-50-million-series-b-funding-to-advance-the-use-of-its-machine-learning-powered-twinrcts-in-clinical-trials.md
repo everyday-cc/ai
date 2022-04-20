@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "AI startup Unlearn adds $50M for better, faster, smaller & cheaper clinical trials"
+    excerpt: "Unlearn.AI’s Series B round follows a positive European Medicines Agency draft opinion finding that the company’s artificial intelligence technology can be used in Phase 2 and Phase 3 clinical trials."
+    publishedDateTime: 2022-04-19T22:08:00Z
+    webUrl: "https://medcitynews.com/2022/04/ai-startup-unlearn-adds-50m-for-better-faster-smaller-cheaper-clinical-trials/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 33
+    images:
+      - url: "https://medcitynews.com/uploads/2022/04/22214541381_958906f32c_c.jpg"
+        width: 799
+        height: 534
+        isCached: true
 
 secured: "RIWx9+IyhfDQQcGISdo7SX54St60InB/WrFHPJ1eFiyXlWccq7jeM2VV4WhN7CtVtUOKDJuY47ApCwfWqaFbJ4nGrgSfiZaNW548tp3+q9ukRzFDQ21YQs3VNq95pjItsJoHjY5bqWLodxMCE/JgMk6qCjN+04v2o27jrbcmx07eFlZnB0yXD+3YFG6c1Zh+sqkbRTYjvZ/ZKawhi8tomuUJEbcpUClk5YUCsBvWZchTHPP6N7uC53mZJKEtDLE1QNX+DSpWrQR+fAgV52+06nRVbd8BLpd0plp4c00ME6jiKYqDX4MxaTnIaU5fvlaZ3wXc/4PutuVYT3vUvDRqW9VfmkYCG/qgzcoLMM7OsF7Ytxtg3oM4WSVwXk0uDFocNATmFVmbrs5cDGji9Ye0wMP/Q16s7CUN+JyIDKULihcSEfsjxU8Mp5TLJngc+lM5ShmgWL6fgDwLhNfPc2fRax2mxuQHGl1BuKgjOVh00fSWEtEWm3fjKnMw/4ZhUsZwYBgVh6iE1QiY2AbZq4Rqog==;te3beTZK92mWO78J3MvuFg=="
 ---

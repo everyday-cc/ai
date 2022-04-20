@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI"
-excerpt: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI GlobeNewswire April 19, 2022"
-publishedDateTime: 2022-04-19T21:00:00Z
-originalUrl: "https://www.asiaone.com/business/rosen-global-investor-counsel-encourages-c3ai-inc-investors-secure-counsel-important-may-3"
-webUrl: "https://www.asiaone.com/business/rosen-global-investor-counsel-encourages-c3ai-inc-investors-secure-counsel-important-may-3"
+excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company’s initial public offering conducted on or about December 9,"
+publishedDateTime: 2022-04-19T23:15:00Z
+originalUrl: "https://fox5sandiego.com/business/press-releases/globenewswire/8524870/rosen-global-investor-counsel-encourages-c3-ai-inc-investors-to-secure-counsel-before-important-may-3-deadline-in-securities-class-action-ai/"
+webUrl: "https://fox5sandiego.com/business/press-releases/globenewswire/8524870/rosen-global-investor-counsel-encourages-c3-ai-inc-investors-to-secure-counsel-before-important-may-3-deadline-in-securities-class-action-ai/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Fox 5 San Diego
+  domain: fox5sandiego.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/Notified-GlobeNewswire-Color-Large_580.jpg?h=10d202d3&itok=r8oSrgeK"
-    width: 600
-    height: 316
+  - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png"
+    width: 781
+    height: 326
     isCached: true
 
 related:
@@ -89,6 +89,6 @@ related:
       domain: koin.com
     quality: 0
 
-secured: "cBu213f8Ca9AvS78jxVIcY/iYS3LG/s+vUwZJHqLy5K4OlfmC/PRBhGg97mW4n6CAdYSd2LsCtm8s9wh7h/+IqpHKr4XeZsLeAdUQ1x93NjUWgXqSWIaGTO11pVCijeyMLkEj/djVxXGRfGckjik8vVdsD9Vq8t3sPMrnFR/tdXuqicg7uGrdZWK8ERbhLs/XiME4dFgz4wMS53z/8g/ckKSZ/nUUtIyYzPmecgzJesUBvtzgZEgWCz+eHc7Qr5wzAFnIinF2YOwJuonMA7yiUb7mfI1lcEanAIx7O5MxVofrwPnnSDZc2lBRNwE1fu9+aO6KjRp0RhUF4ROuyzEHXNqmnvB1ra/5RV6k/rULFY=;BYSsWUttKH7tWVhIMXjj1A=="
+secured: "lev6CddmwEWPpCMyv23OUUVt1l0CIRiyJHj4yI8EX0coo6d+bWgvBWLsdxyppNql8UDAtCxOJfEkIZcFHwXW461I07Ij6tJJIgN2uHGigl2gPXUMo10SQEvT9PaT19geobw7gYYTKjbI1vBQq1x8Jcb3qVf6lJqkAt4hKYvtUR7LPPXCeEN1HuqfmJFWD+gxwCuZipm7G3Sa6aguSfR6jWW0lkUt6JV+4hMrjvpuOT/FVw9hlrjZ/r5Hm7ha25aoyh2KbO3L2oN+P4Vz/4fIWPX8hkIr5oeaiW3wGudf8ryOskqTMjE73JZPIkgxwVZxk9wxAkyIrUhcSwzs7bvpMidNlT8KyKLrIKCpSURF2RM=;8E1No35BcdU2BuB/pu8Jbw=="
 ---
 

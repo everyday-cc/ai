@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/unlearn-ai-a-startup-developing-a-digital-twin-service-for-clinical-trials-raises-50m/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Unlearn adds $50M for better, faster, smaller & cheaper clinical trials"
+    excerpt: "Unlearn.AI’s Series B round follows a positive European Medicines Agency draft opinion finding that the company’s artificial intelligence technology can be used in Phase 2 and Phase 3 clinical trials."
+    publishedDateTime: 2022-04-19T22:08:00Z
+    webUrl: "https://medcitynews.com/2022/04/ai-startup-unlearn-adds-50m-for-better-faster-smaller-cheaper-clinical-trials/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 33
+    images:
+      - url: "https://medcitynews.com/uploads/2022/04/22214541381_958906f32c_c.jpg"
+        width: 799
+        height: 534
+        isCached: true
   - title: "Unlearn Closes $50 Million Series B Funding to Advance the Use of Its Machine Learning-Powered TwinRCTs™ in Clinical Trials"
     excerpt: "Led by Insight Partners, financing builds on the company’s momentum in working with leading biopharmaceutical companies to improve clinical trial efficiency and increase confidence in resultsSAN FRANCISCO--(BUSINESS WIRE)--#AI--Unlearn®,"
     publishedDateTime: 2022-04-19T14:30:00Z

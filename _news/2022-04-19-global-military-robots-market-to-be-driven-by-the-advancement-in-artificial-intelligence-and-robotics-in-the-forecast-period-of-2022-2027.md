@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Technological Advancements Shape The Top Robotics Market Growth Outlook"
-    excerpt: "Market Size, Trends, And Global Forecast 2022-2026. The Business Research Company's Top Robotics Global Market Report 2"
-    publishedDateTime: 2022-04-15T05:37:00Z
-    webUrl: "https://menafn.com/1104021474/Technological-Advancements-Shape-The-Top-Robotics-Market-Growth-Outlook&source=24"
+  - title: "Global Autonomous Mobile Robots Market Is Estimated To Maintain A Steady Growth Rate Over The Forecast Period 2022-2028"
+    excerpt: "Transportation restrictions and stringent government policies are causing a downturn in the growth scale of the Autonomous Mobile Robots"
+    publishedDateTime: 2022-04-18T11:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-autonomous-mobile-robots-market-is-estimated-to-maintain-a-steady-growth-rate-over-the-forecast-period-2022-2028"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
     images:
-      - url: "https://menafn.com/updates/pr/2022-04/14/EP_fb945image_story.png"
-        width: 966
-        height: 486
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/4aafdccf3d572eaeca7d9c698f08bf2ee96c1613-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "l/mGIcyYXfv7j3Ha0tn1flK9O60mKBzDcJwGpOE3S3Z8v4hfNu9dsY29U4krlMmySrlDntCt5syI385hPgSZVx/jrNyiEtfcv4jbLA3akITR2VFTEOjF/VjtD6JaiOLoE8WoD0RQOMx/WA3GiaXo1CBJoHOF39QlXfn+gM/Li35F3SfvK/cHTXltCLDUvka7NpKsqjGMCZlahuwnSyhsoVQL4ii9yPcWkiLPcrUthXbsb9IgeeJen41UVEueOCLwRti8q0bUuffHypPJdCOWMfxg7iqUmDkBTD01KV/OsVBVbt5pLPpTzy6/9kzzZYy7YJq2e8vwU8CgPmQeEUgsaFw45OvulAUvfXhDUKH8fPirn0CtRy0UAbcBbcLmiaQa+r9iVcixqLUblZeJFZilm1WtMBEpCQ9ZqoLbJ3b5sYUJLASq4cy3NrA+hMx8B4m8ZmZuSFnCLrP4aTA0ievpnGW54TgPDk8qcO7VtG/9YuJ14AZhLyOy6iA2CEMlxqQ7gfCJOVjYWIV8JD9sBYrf3g==;8YNoa9wGX0tfKg2LoQfmbQ=="

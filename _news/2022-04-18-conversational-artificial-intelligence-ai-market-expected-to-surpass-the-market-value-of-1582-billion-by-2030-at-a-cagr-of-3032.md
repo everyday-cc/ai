@@ -24,22 +24,6 @@ images:
     height: 677
     isCached: true
 
-related:
-  - title: "Text Data Collection and Labelling Market is Projected to Grow at a CAGR Value of 17% by 2031 End"
-    excerpt: "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue"
-    publishedDateTime: 2022-04-15T05:27:00Z
-    webUrl: "https://www.digitaljournal.com/pr/text-data-collection-and-labelling-market-is-projected-to-grow-at-a-cagr-value-of-17-by-2031-end"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 11
-    images:
-      - url: "https://i0.wp.com/linkewire.com/wp-content/uploads/2022/04/8-3.jpg?fit=595%2C495&#038;ssl=1"
-        width: 595
-        height: 495
-        isCached: true
-
 secured: "Rn+zYXdyCLdYSdCOasd3b9WLUJwjIZytTtDNVIcpgTRo1F0vlExJadpiHa/cNHTciJznAHgF45Y/Zpmcpd+9vNz87LZWLIFksl0kk3HXm6QorruesrNtQGwoFZIVLNIa/9AeBAmmxx6kdcWXauTg318mZputgygVWmBzU6HchEcKXwcCoO2x/aDqOtIIhG2Mip63ef7ribzD0lr2VO+//ylN7+2xLS8Ri5zPC66kcERzsahrYk53JCpGdHSCZ9D3I14AGuQ2Ip0s2BU2Zt0AnN9Ko6Tot3aJX5CkOD1emyDPpAc+sy8agVVROQuzuBq3wRh8SkP5vfL2Dc3XtjaVxTMY8IkCSk89UWvTKeTBm6DD5tkKX4ZwIRfJOIeTurhqujjhOk4AwUyoY1I5Blhqbvfde1ewjBzMJbw9iEm689PeHe+idhK0vdlSZVM5SLTYfreWg1HSV9exHW1eDxXehNrAA2sHKAYjdYXkh+i4aFdclQhl97GXtzv25PRUgJQFVVDXXRPMJ/SVkX4sN4mC9w==;3/+LfzscYM1Lyspaz5EJVw=="
 ---
 

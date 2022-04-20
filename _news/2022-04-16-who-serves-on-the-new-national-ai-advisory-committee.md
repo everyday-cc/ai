@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/who-serves-on-the-new-national-ai-a
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/who-serves-on-the-new-national-ai-advisory-committee?_amp=true"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence (AI) software company SAS,"
-    publishedDateTime: 2022-04-18T16:09:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-a1ae4c5e15435d0fa4ad0baceadc95d6"
+    excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
+    publishedDateTime: 2022-04-18T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
+        width: 320
+        height: 400
         isCached: true
   - title: "SAS data ethics head named to National AI Advisory Committee'"
     excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ..."

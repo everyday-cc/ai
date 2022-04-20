@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-19T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "o6nOiJi1CdbGrqMp5ZFQhnoS+HI9SNS0EmJ5WQtpTkBRTP0uZlJicwlWxiz/o3hfA64DzdxhwzDSFfn4Xx/KymuqCmiT6a7zAqCdZoG+DyeD6V9zZUO59F6LDZxG5juoXAlar16jpGvbgcddB5SoOdAG9AfDvNc2o01fzfsfvJwwhLP2oJXUa/9oML79PprNMDOtqMBEsm1Rgk6/jsSbUtsjbsXRq7MuNTEJYa/RuFCLd6A26q1a87ZKcNYm3SwVPfr0aaAQd/OVTqzvVBecHkxS4uyOcf5ihOVneOqL7aXEkn770/wITQiEtFy0AszND50GWcGVBO/E6WKaLme4dAA2Wzdyw+IUxUGvbCeYNio=;hrdiG+PPzppMsH0+84+ORg=="
+secured: "IRswvx5NZzbw4Ogku9jFYSFcseaSNQzovK8py8QSqr/TKA163R28P7yZCmbsrM3ZmZret2JxXxTJ+8lNVkkbmLsnEUv8NjhftUZG4coMUIDRD9sEZp+c7WhwMOeCWO0twNl1vkkFjSl7yxg7RYiKtINKhGOEYgxHSx+y8ZD60kks7he4L2SCWczx0IJUSu3ZBs4xEfIIcmmRUCk2JyPboAsdUlS0x8OmpFZB7e3nRgWuJZZNUBBLYf+1ndteBB7N9sNulPVUyKzIoMxF1SNI2sa/aOaSHIrTLXlAUpnvaj5f9gWYh3TcQb767W2Qw2eUgQeyv6q5pFCTUArH6zIMlL5GO/bFHqjXutFLpVS6MTrXdC6WaQlNSH/mVzBh4gLHJJTQ5z7SxE9oGgs+ZFfg1Xjguukm+NkHQZ41+/3viGy3Z/0SuN9Uwv3SNgSl3toDdy6/3lmxVAn4l7Xv9phzemDkWCbaFK91bm8AZA/B+o13359Fvp7BO/h3LwCm8MwXaEGlVFYsUstkq1oP2V8/DA==;JkqXgq2fuLViPmGhdxu79w=="
 ---
 
