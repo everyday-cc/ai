@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-inf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Clearing up biases in artificial intelligence"
+    excerpt: "Scientists have noticed grave disparities in artificial intelligence, noting that the methods are not objective, especially when it comes to geodiversity. AI tools, whether forecasting hail, wind or tornadoes,"
+    publishedDateTime: 2022-04-21T01:46:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220420133607.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Seeing the forest and the trees – how AI is changing the future of forests"
     excerpt: "While there is still much work to be done, we are excited by recent results in which specialized computing infrastructure in Azure produced a map of the entire US in less than 10 minutes for under $50. AI can be a game-changer because taking actions are ..."
     publishedDateTime: 2022-04-20T17:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3674
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.crn.com/resources/0274-14f2deafe34a-8f7cb0c7e3e3-1000/machine_consciousness_abstraction.jpeg"
         width: 3599
         height: 2700
+        isCached: true
+  - title: "IBM expands Watson orchestrate automation tool access"
+    excerpt: "IBM will expand access to its upcoming artificial intelligence-powered automation offering, Watson Orchestrate, beyond preview on June 30 with some partners already exploring the possibilities of incorporating the digital assistant technology in their ..."
+    publishedDateTime: 2022-04-20T23:37:00Z
+    webUrl: "https://www.crn.com.au/news/ibm-expands-watson-orchestrate-automation-tool-access-579006"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/watson20121227071906.png"
+        width: 525
+        height: 352
         isCached: true
 
 secured: "9+/V6uYhrnhZvJZzKJmvDppPHZTQ1qmB1P1IIARrm9/QT3tTGpx9oq4al7IRCPxhih5B40HroOSz6yTBhzKcGqqeM1ae/Yttm9EV/Vnbf1K2hmdDYra/bB1f2Na3XfjJisiGqByR3e5CKRK3iY5d0LlLYjE+FbzbVoahFFTfCuvkyHeltASuqjOY108+P2MCrCCE2W5a/tUdvlYKClOYF+3SZs2OS8lZgIBlWbvwssFfMNmtIkOAaHlvmakgQr16BrCvz7MUOi3hnfkJotUZWgtaVUoWbBiap6ohuKVpktfcdH8WFip1VRAOcBXkbeLZl1HpTGSMW2aoYAvkFqypxmCym/g16vcB3tD/A31dVxlQbkghRYOQgCuA6uiAUDjcumfbBffVBwooM41Z5GjD9XPahKIwAxxiX+fzCDoTk+osFTGikHlKCxac8J5g2dMa53QikN/qwIv4t9WVElHlkvC6O1j/M9d2WtL0FfFSsd7qHipo0BoUBhLYsZ13YiqlOwDrpKiSz7C0/Qlp7PO82w==;Kxws54CarGx/gzdtOMtIoQ=="

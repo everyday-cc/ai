@@ -39,6 +39,15 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Clearing up biases in artificial intelligence"
+    excerpt: "Scientists have noticed grave disparities in artificial intelligence, noting that the methods are not objective, especially when it comes to geodiversity. AI tools, whether forecasting hail, wind or tornadoes,"
+    publishedDateTime: 2022-04-21T01:46:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220420133607.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Harnessing the Power of Artificial Intelligence for Women Around the World"
     excerpt: "Today, digital technologies such as artificial intelligence (AI) are transforming labor markets around the world and creating both challenges and opportunities for the working lives of women. Following the workforce lifecycle from recruitment to reskilling,"
     publishedDateTime: 2022-04-20T15:08:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/20/amd-targets-high-end-signal-processing-with-new-versal-premium-with-ai-engines/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62607d24b1c8ce336e10875f/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 688
     isCached: true
 
-secured: "3PlmUOYlKZaiXX77xAgzA2Gj5efzj0zGg0trjpjuGD2qvUC3BgvW4NWuAuytTHD2uLworp8iclhv2wC1NA2j7BnZGkPlzJspnqXtDf3rv+X76mF2c/5GzwAOn9qrwNAJ8rL9Xj0oLX9jG58JqNcwAR+9LooyBoEtxHivNjipXFXtEnbdxC56wKX15yTUIyVANR21mYEGu98kHd1byNdszoiFh+FTwbryJnAsvfQTbCfdVPKhSGhPyjOztW4dqVb52ZB9uH4DgExmldMYigK+RhHIADbVu1/jD2HKve8kjudwk9KfnYHhsiYR+FP5oYZQjf2jDXj6R6G5RrBSB7J0VGRAgQbs20y1lYI/rCDolto=;sX6uWEuSs9gSmG9CTydyag=="
+secured: "XXAEXnC/40VHDm+UNu3gpjRBZiOGCsYdjVXAPGuOfL8r5kAKefMLPtxUYGt9sKx5pGpWceXgJ3Vap7q+91AO4qmWipzU9sObcQcGmKB9LVqzmhK1VUlzWCXKhZbt1iM/G4N22v4g8/E9GbKZEX3cW1pkMrmP/DWti9GcR9DRdJbCzH1zScUmYmwvW21c1VgIdDKSf9LiCkj9lifk9vEiBrxljib2aPMN34mL55GBpXGmVexaoZTdlmIPMNKab1d2otbJEGpTw62nWJdkTmn63V0LF3KnzOeb3zf1XVMn3H6c06vz2U+5hO9Xk64yLfYEFqQ+kB5L5exB2uY138C8azKmV5rJZcbSYf48NWyFHpGLYHqTecpEjGpzv4+QcsfuLNOf9Te+ZR+wWL3l/JmewyJwM+X2xNSEiu8aPcVW/SNRV/jEcOfLK6t4YAY3uRsw19KfCcgfXYJA7+OkLHVG00F/F4oX0/NkhB6L46Q+MuY2xl8tQ3c33uRARth8svbnoqgmOfGZcnnzVyObatWBAg==;MBPLvRTWRuZ+iBMOjUjhFw=="
 ---
 

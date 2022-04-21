@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Britain gears up to watch TV in self-driving cars"
+    excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed yesterday. The Department for Transport set out changes to The Highway Code to “help ensure the first"
+    publishedDateTime: 2022-04-20T23:57:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/20220421_Self_Driving_Vehicles_Generic_ETX-seo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "People will be allowed to watch TV and check emails in self-driving cars"
     excerpt: "But under proposed updates to the Highway Code, people will be able to catch up on their favourite shows or check their emails while using self-driving cars. This will only apply when drivers hand ..."
     publishedDateTime: 2022-04-20T07:39:00Z
@@ -66,22 +82,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594"
         width: 590
         height: 350
-        isCached: true
-  - title: "GM Just Patented a Self-Driving Car That Teaches People to Drive"
-    excerpt: "For more than a decade, people have been trying to teach cars how to drive. In the not-too-distant future, this effort may come full circle, with cars teaching people how to drive; last week, General Motors applied for a patent on an autonomous vehicle equipped to “train drivers."
-    publishedDateTime: 2022-04-20T16:58:00Z
-    webUrl: "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/"
-    ampWebUrl: "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 44
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/04/GM-Cruise-self-driving-car-2.jpg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Watching TV at the wheel to be allowed in 'self-driving' cars"
     excerpt: "Changes to the Highway Code are set to make watching television at the wheel permissible for motorists travelling in a “self-driving” car."
@@ -145,17 +145,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Britain gears up to watch TV in self-driving cars"
-    excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
-    publishedDateTime: 2022-04-20T17:39:00Z
-    webUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
   - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
     excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
     publishedDateTime: 2022-04-20T10:25:00Z
@@ -217,20 +206,6 @@ related:
       - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3c9dbc4ef65faae8/625fb6d246e74d0eb5f0d044/self-drive-car-tv.jpeg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "WATCH: Video of cop stopping self-driving car is ridiculously funny"
-    excerpt: "A video of a police officer from San Francisco stopping a self-driving taxi has been doing the rounds on social media. WATCH: Man shows genius way to drink wine In the video, you see the cop pull the vehicle over because its headlights were not on,"
-    publishedDateTime: 2022-04-19T07:55:00Z
-    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/watch-video-cop-stopping-self-driving-car-ridiculously-funny/"
-    type: article
-    provider:
-      name: Jacaranda FM
-      domain: jacarandafm.com
-    quality: 24
-    images:
-      - url: "https://turntable.kagiso.io/images/cops_stop_a_self_driving_car.width-800.png"
-        width: 800
-        height: 376
         isCached: true
   - title: "Drivers will be able to watch TV in self-driving cars"
     excerpt: "Planned changes to the Highway Code will allow motorists to watch TV in a self-driving car; It will still be illegal to use mobile phones in self-driving cars; Full regulatory fra"
@@ -375,15 +350,6 @@ related:
       name: AOL.co.uk
       domain: aol.co.uk
     quality: 4
-  - title: "Self-driving car users could watch films on motorway under new DfT proposals"
-    excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
-    publishedDateTime: 2022-04-19T22:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 1
   - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
     excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why."
     publishedDateTime: 2022-04-20T13:52:00Z
@@ -392,15 +358,6 @@ related:
     provider:
       name: Lynn News
       domain: lynnnews.co.uk
-    quality: 0
-  - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
-    excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads"
-    publishedDateTime: 2022-04-20T16:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars?via=indexdotco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 0
 
 secured: "R6es/LVErowUZ0jP6xuMOYiOuY90URAqcsQCyTli3eMI5OIjc+yCkAxJmxDPL7NgtzFPE/KjXykd1daV+nt6SVYDVyaOiSR9vEkxRYQidCuOw+AJhqmgCt89Kf8RtSQ6N/FAl++7WwBHI2I2L8hLFG7ggxScw4hXCiAlxg7XJ5sBL4ex6A/zubMC5JZftl2NBqXMbWivDp5uFQd/rGxApoDViKb1uyHDm4XC1k+5LDLQ9LjKL1V+GZ/obuBXJ1i3TbtKEmaJtEhBJV2f/O+HAUQP/5IOSI0exLqPJf1lqeDbTq1HWn7Q2BE+/35LYEcFYkdBMke2Lz3MHtAvf1WStvRfxYZUYMAJo9szs0OQna7hs1s/lebj6JXJ8bwHV8SkC37c8S0z27LgY7G+YWsGbRYmBXcxQatVXPNH24Dz0ytXUzCWStXegxlefBoaRNfEG44py2EAjqHX+wrK8IA8DpB7y/z45Ke56y31vSbg+R0Yn4YSjrS+XLiMqwCn5HlLx4f2P8rhJRJggjatsbwrEw==;YEkK+NjK4qKpiW38v7bbdg=="

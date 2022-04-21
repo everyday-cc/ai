@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-03-22-how-ai-is-changing-the-world-of-finance.md",
+      "title": "How AI is changing the world of finance",
+      "excerpt": "The financial sector is well-known for seeking every possible edge to maximize its profits — thus, using machine learning and artificial ... financial services has slowly transformed into ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
+      "publishedDateTime": "2022-03-22T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
       "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
       "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
@@ -1106,40 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures.md",
-      "title": "Supermicro Breakthrough Universal GPU System - Supports All Major CPU, GPU, and Fabric Architectures",
-      "excerpt": "(SMCI), a global leader in enterprise computing, storage, networking solutions, and green computing technology, has announced a revolutionary technology that simplifies large scale GPU deployments and is a future proof design that supports yet to be announced technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.myhighplains.com/business/press-releases/cision/20220321SF97343/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures/",
-      "originalUrl": "https://www.myhighplains.com/business/press-releases/cision/20220321SF97343/supermicro-breakthrough-universal-gpu-system-supports-all-major-cpu-gpu-and-fabric-architectures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "myhighplains.com",
-        "domain": "myhighplains.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

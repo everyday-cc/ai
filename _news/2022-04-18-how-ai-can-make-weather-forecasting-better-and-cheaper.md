@@ -56,6 +56,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
+    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
+    publishedDateTime: 2022-04-21T01:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=650365"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "c0/wYvcOLR003xYHj3YXHUclZjxAhYhzu1iUgyJbknpW96fMq+toyyNBmIT/HczP9GPbBxPLJNG71p+vcUq6paDwZB8R6CN5Dy0n+WEwx1svgI7OwH0/hQzgUf59qAea7eGBtBJpJLP87/Ud7V8ndK96Bx1k0+r3utEINYZyyJORmEqRPw8OikYcrLY3ERn6jnMd2+ywQqW0DbBlyDTED1GVVM6OHp71SxbSfiOxP3og3tnO8qhL38cxfM+uKxFnSRgOMmG6MpixpotSoAH4cQdbqfRLrggKU2JopELWtvrB848mkA9uMowJannNbdTVwlEUnqyfrOSIDjtc1slIAyS5ZARrdTzUffoxBNfv7gI=;Kz4B1zdJRZhau9GSs2uJkQ=="
 ---

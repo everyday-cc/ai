@@ -23,6 +23,19 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "68% of Consumers Believe Racism is Present in U.S. Financial and Credit Scoring Systems: Zest AI Survey"
+    excerpt: "Findings suggest credit-reporting firms' grip on the industry is wavering as consumers demand more accuracy, transparency, and optionsLOS"
+    publishedDateTime: 2022-04-21T01:47:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/68percent-of-consumers-believe-racism-is-present-in-u-s-financial-and-credit-scoring-systems-zest-ai-survey-1031368308"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/68percent-of-consumers-believe-racism-is-present-in-u-s-financial-and-credit-scoring-systems-zest-ai-survey-1031368308"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/68percent-of-consumers-believe-racism-is-present-in-u-s-financial-and-credit-scoring-systems-zest-ai-survey-1031368308"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 21
+
 secured: "YyfjEKTPppfA0tPzwD9Rmhl6F+04jCWXKW4396xWvoOBEx7b/GNHC3YGYGMcQU88pHb4aeHti6pa/q9bNB/i7oBmG+5spdburGziXo+JxVYu1PxQY8bpoU3XzzXpn+oYhvIhYkPB5Pbge0Vp51+HiIeng2BktGHvSsSj6pk2z2NemJACh9NT2+RaCHiuCfJoj0Me1KgS4o7YS/zJG66VscbTegOTMUMTxmjBze01O2PxAy1lOhAhYeXEuNl7wOHfv7z5auZ5+TQqr37GEDMmQa4f2Sbzs0UT7mHzN2vU0qg9P+OiPB5jx9bgwQtS0PP58Mjf1FV0zrOLb1m7kiiNR+k7eWGrnhGfikNCVChGHhw=;pojWR2RRB9UaLPLGK2oJBw=="
 ---
 

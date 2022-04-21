@@ -40,6 +40,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Maxar invests in analytics provider, Blackshark.ai"
+    excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
+    publishedDateTime: 2022-04-21T00:46:00Z
+    webUrl: "https://www.spatialsource.com.au/maxar-invests-in-analytics-provider-blackshark-ai/"
+    type: article
+    provider:
+      name: Spatial Source
+      domain: spatialsource.com.au
+    quality: 37
+    images:
+      - url: "http://www.spatialsource.com.au/wp-content/uploads/2022/04/PR-Maxar-blackshark_web.jpg"
+        width: 619
+        height: 428
+        isCached: true
   - title: "BrainChip and NVISO Partner on Human Behavioral Analytics in Automotive and Edge AI Devices"
     excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world’s first commercial producer of neuromorphic AI IP and chips, and nViso SA (NVISO), the leading human behavioral analytics AI company,"
     publishedDateTime: 2022-04-19T22:01:00Z

@@ -63,8 +63,8 @@ related:
         isCached: true
   - title: "How AI has impacted the gambling industry"
     excerpt: "Learn about the impact of AI on the gambling industry & the specifics of how AI has changed the sectors of online gambling & sports betting."
-    publishedDateTime: 2022-04-19T15:07:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
+    publishedDateTime: 2022-04-19T14:35:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
     type: article
     provider:
       name: TMCnet

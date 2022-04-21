@@ -1,21 +1,27 @@
 ---
 category: news
 title: "ATTO Joins axle ai in Introducing Cutting Edge Media Management Solutions at NAB 2022"
-excerpt: "ATTO Technology, the world’s premier provider of storage and network connectivity solutions, join cloud software vendor axle ai in announcin"
-publishedDateTime: 2022-04-20T22:50:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-atto-joins-axle-ai-in-introducing-cutting-edge-media-management-solutions-at-nab-2022"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-atto-joins-axle-ai-in-introducing-cutting-edge-media-management-solutions-at-nab-2022"
+excerpt: "\"We’re excited to be partnering with ATTO, a foundational leader in high-performance storage connectivity, and Apple to deliver the fastest possible"
+publishedDateTime: 2022-04-20T21:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/atto-joins-axle-ai-in-introducing-cutting-edge-media-management-solutions-at-nab-2022"
+webUrl: "https://www.digitaljournal.com/pr/atto-joins-axle-ai-in-introducing-cutting-edge-media-management-solutions-at-nab-2022"
 type: article
-quality: 10
-heat: -1
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.abnewswire.com/uploads/1650471129.jpeg"
+    width: 908
+    height: 673
+    isCached: true
 
 related:
   - title: "ATTO Technology Joins axle ai in Introducing Cutting Edge Media Management Solutions at NAB 2022"
@@ -33,6 +39,6 @@ related:
         height: 340
         isCached: true
 
-secured: "bVPDf3pQCm2ySpMEp3N/fpr3t77kBj4lAkfgy6VMM6TR/WXyhH7EoKu8XLXz5Umwsh4h5i4OQ0n5XTmRGCLMRvQTMtaWGV6JDB+W06gcMeuHIWen+op1mPf7Orgi1muD1ux9SMTqZXjoCeZJ6IwLLL+4dHnY+OYaOtJe/mneu4LQg4/asAGIJpEcIF7PhoLJhmvBZFJaNji36wjepWWgg+PDHMnJMsgncyC5KkLpsgS/w/KK/Jxbf/qaooPJBH6RZNSbKdYmH+t1zsq5aRSvpu5fK034iZJie+pqMMoksIc718N0CVsZVcYu0D/n1BZ+RLMdVi0gfCfmEhLxlmxupa5Ejm9qB0eZDJIxhxyL9SC1t3xieS4rUwbllThyIO+lkkvAi+4rlOXGoBxXjmj3DyG+I1ai7HbBpd18NV6oXLguU+HWF6JMClOmhP2/JJzJjyo3u8h+qzsXuyVxurpvQdpqEvadySUaRmwR8IuS3NSXtQ1P5OshY68o2+9dVNILwyzocQRG2911JzFitGO9BQ==;ZnkEAXMdZpjrKKUU1+b1rQ=="
+secured: "xxr1JwxNx+gyOo/JDDW4c97hIHvKdbyo6pTunjKrnp2bU8NJysmRGz6Y5PNoRd9MsWsfxVT8/lUvwAIfaVng+xWhRCzLWwkbRH7GsDRujUHMu/kkcpgvmaniu6shfmQconj6gOXqiS+LrTaGbS4v0j3dcwaRIZh7+j3f8smIeeLDEyYZ+I+s1EOKoYMci0PEnh2ZrUlFv7aJ952OoHKQwSJb0WKqLYfWD8NgdaO4urOf4KrRMfL0UBywEwX7n3r/jHrbeB09IbaE8OVfNWZ9aq3SaIdgA5WtR3aRvpgm7wEees5rIeI35dtGStZ/IUx7h7p3TlTGSrKw7KADFbHoiHBYxzFEpwBsCxCMfywlx1Q=;iLIET2tAOhUeIGVXU77BzA=="
 ---
 

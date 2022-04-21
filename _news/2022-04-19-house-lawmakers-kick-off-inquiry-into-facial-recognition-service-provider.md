@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facial recognition facility yet to become functional in Karnal"
+    excerpt: "Four months after its inauguration, the facial recognition facility is yet to become functional at the Integrated Command and Control Centre (ICCC), an ambitious project of the Smart City Mission. The command centre was inaugurated by Chief Minister Manohar Lal Khattar on December 5,"
+    publishedDateTime: 2022-04-21T00:59:00Z
+    webUrl: "https://www.tribuneindia.com/news/haryana/facial-recognition-facility-yet-to-become-functional-in-karnal-388052"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_1658541527.jpg"
+        width: 3849
+        height: 2256
+        isCached: true
 
 secured: "vcMQYdy6TKeyMaGCrX0OSb4KdAq3VEtQlr4xpvQJ/dAW7jPIomL2jV+oTm1y8Xtqgh650cX0Z4IX4/QeGFLl4IeAydK0YKG8TJXkvZ+eBRvPf0nOMzS9DQI4hZFtyJJFaeFJl8yuJPRQVkTHRIDKpI3oez+gn5pJB5MBREcBGolHxIB4eI+zEAkXSbkkVg1l4V/z6kCEfC/ks5LevCvZ3GLUHo5FAO9SZpA5a06fxirxJA03IhB8PVS1dFggMFuIGJ+npIupkZ8588ejvkI7nvRSu3h7LEKBDM/PF9XfXnKUEGXTI1gcN21ztSW9xL4cL0t/81gA7Z7NpqOqNOMefbTiypHL2uRJ0rsK01M4dmH6hIQZRazy36HPBEEFDCd/vRpgx053ObPpmhvpqrEtkbOpF9up33RwM5bcMzn/x/41bmGkfzu/yN0Q7/RwoOCSXjhd6qn5qw4AR346fnkGkUpr7vbaCpvT7v/73ZQv7o6y+gu26w1S5OSny36jWXoOImhqqKY04YvC1xoRqebhaQ==;6m9CXVtDtAQ+8w+AWZIqBQ=="
 ---

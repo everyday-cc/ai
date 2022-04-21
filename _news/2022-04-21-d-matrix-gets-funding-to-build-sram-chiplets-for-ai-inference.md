@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-20T21:54:00Z
 originalUrl: "https://www.datanami.com/2022/04/20/d-matrix-gets-funding-to-build-sram-chiplets-for-ai-inference/"
 webUrl: "https://www.datanami.com/2022/04/20/d-matrix-gets-funding-to-build-sram-chiplets-for-ai-inference/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/chip_shutterstock_emp-64GTX.jpg"
@@ -54,6 +55,6 @@ related:
         height: 337
         isCached: true
 
-secured: "YdsuasIafiaNrLRTQmz678gaJbmPZKgkbwl56DLJJ65aawglYksdXSED52SLCfV1ecTKNp8t/JO4Q38Xeq4Vn5gtvnYbdys7A9GHyXktscbpDOowRQZA2qsfiTCjOb0+Jfq7YHwcr1GgBwp8ZeIvSXOxsAmKdnTzZ9svtH1RIAYlqF2w1afhgkkZigzUsenRru8py1BlgM1zd0FY6/HmivC7cxrse0bSPs3zIrd4vxcEiWg5Tjab6cXF7IHGaArrrjJjp+XS0PPgnmVxuVK/YpJOpBBKJZqeF/NEPwo18tYIppLj+OiRP91yHBt8OR0soYVSQnvUjaUdNS0f06IeMlgp7x00vUQLDSktkQRYwqc=;vcy6BatxEuoWwk+g5oudUQ=="
+secured: "nxtD7/q5sZwaY5d1mOqHqHP1884WbneMq4yudhI2jqDZhaZmOqrDeuqJfN+Yp5dG1fDJ/zI9Lvp33GJxe9sbyeaxnxNBkgdk/0ynKGCZ/7V6JKvvx8b/iojpXk2w0nhQwnv2twOqOwgnelVN49rQJ+J48MpTDKnui27yhGe2qwbRGFcMadExnJ5UUpHwu+eji6Wd1lmdqGTp9IY+ov/X2z4UO54c9o9iumq3TubBJnGn6ijIEVzS26vf8eWHl+m/AjMXdY5/at1MoUBfLp1QwNJ+ahwGucuZIfHbUaMULgB7iwgEVrUkI96zeu0nmYtymobs23B1iI+hKf4DG244QaIBJ23ouHa41NmRGrlffXVZGjsOkJ6hAe8ad8xiWNLsBXaiir3zqRbbktBEHjzAIPgp3TArM1j+fLRLYrlhF0r2gY7bRwLysKcNwkxINZt3+egqLrw1ewVuwcN5OsI4C+iu2gZxAcIzETJefcJko/CEAlgTD7hImKocYZxjlxjleyljBxSThtorP9kTlJvkuA==;vLsOY0FimnhJ8SyHtOuSxw=="
 ---
 

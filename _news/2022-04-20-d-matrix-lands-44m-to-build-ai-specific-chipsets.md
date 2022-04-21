@@ -34,7 +34,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/chip_shutterstock_emp-64GTX.jpg"
         width: 1000

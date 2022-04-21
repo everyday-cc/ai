@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
+    excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
+    publishedDateTime: 2022-04-21T01:48:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 39
 
 secured: "AS5nKjNyPOBPpesC9TLey08Zadbttv2YHvyryYXOxETC7ZMlI4ynBzgQKsjPdckCDH1xXxI9eMcnDFwg47NhJKV2BSiYFfn3812DJ3Gf/I9a1E3sBgSsaDqZcpQ0wOLQgvcGTbLJSTGG5EEVu/OenqXVj/wxI4liL3Rpr1g02QKVYKB5pIvG0fVn8bFyKi43pyw539Gj2IK0EtmmDrRnwUrW0Civ2DWUHyRFtyUxgCCoBhWjNrsTlzm33EBicjjiUNoFo/uTa96YtYrRfBt/2ZST1zlp2uzSy4H1nhWpFhhkncBft86kyGXagBk01ruxaUw1fEudL6tzb7Kr9vPdUINov0eMXOwFVs06k/KEyda9EuV2LZURU/ObWBvlWjEZXiAqVW3yr21+QHKwJxPSj+bP+VI1RfPkJNvzj42ijEW4yFF048OF7/1PHfOKOnzSmzrziRVZiMjx48OceJaIG0HSYMps/w6yvg1AxWg1aQr80O4Xb/XDQEv65xy97WHuX9PPSX/VnKY6ZM4Q55N2AQ==;donOV8Urlntg1SUyZ0yjMQ=="
 ---

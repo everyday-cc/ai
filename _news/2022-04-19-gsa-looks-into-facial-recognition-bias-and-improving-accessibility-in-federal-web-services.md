@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-access
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/4b5/45bf940c346f431c9be273b8942ab6eb/4b55b391730547e6a1e92c667efa0c79/poster_3af5f009d26f46e7b7d14cac09d22b85.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facial recognition facility yet to become functional in Karnal"
+    excerpt: "Four months after its inauguration, the facial recognition facility is yet to become functional at the Integrated Command and Control Centre (ICCC), an ambitious project of the Smart City Mission. The command centre was inaugurated by Chief Minister Manohar Lal Khattar on December 5,"
+    publishedDateTime: 2022-04-21T00:59:00Z
+    webUrl: "https://www.tribuneindia.com/news/haryana/facial-recognition-facility-yet-to-become-functional-in-karnal-388052"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$largeimg_1658541527.jpg"
+        width: 3849
+        height: 2256
         isCached: true
   - title: "House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider"
     excerpt: "Looking for the latest Government Contracting News? Read about House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider."

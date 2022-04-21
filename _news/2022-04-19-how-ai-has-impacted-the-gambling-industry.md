@@ -2,9 +2,9 @@
 category: news
 title: "How AI has impacted the gambling industry"
 excerpt: "Learn about the impact of AI on the gambling industry & the specifics of how AI has changed the sectors of online gambling & sports betting."
-publishedDateTime: 2022-04-19T15:07:00Z
-originalUrl: "https://news.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
-webUrl: "https://news.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
+publishedDateTime: 2022-04-19T14:35:00Z
+originalUrl: "https://www.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
+webUrl: "https://www.tmcnet.com/topics/articles/2022/04/19/452118-how-ai-has-impacted-gambling-industry.htm"
 type: article
 quality: 37
 heat: -1
@@ -80,6 +80,6 @@ related:
       domain: seafoodsource.com
     quality: 19
 
-secured: "zNztfZ+sRfTsADER3GyQ40LtwpfhhPLF3EQOX+qDttp2qQamimyXJBxwso/TGaL23lDjxjfnnBUSHA8X2zc9MO9pJV4ZuSvyIKncDdmFXnPtPdjKPw+5N010MMN6OTYaQEGTZpVufCliWw6tCMFbIs3ExOeFyU0T0rvzcNTFwZErLJlb8x2yrpM/H/zqn+h6VtcHZ/qOig8Y0ivM4JKYFK1hKCiR0ShvnV/GetxISQD34TZrRC05MAIaku0rXgOXb0uUmzLlvxSW0VTMjZx7IEkWpAcnMX2rxxw4/hZ13r/BE+EI3zgYyj6G/8jcND+APmx4QOf2RctMmIIOW0QTo+zNwyP3Ln14m3IZFe1KwKnD1iWomxvNQlVXLZ4nHGJpXDRS5OJYAm6+I1/xi5ocCEfsL8OHpKjn8TPCxR/GIS/9ZtyWcvQkaP4asku5Jtfeqi4o6QLJaCAVgGurAMSWavfTiLYqh5Q7cJyu+0o6Mbux9AEcf7dX8W9BlJbSB/YNLh94rUiwT65Nuk2rDabjnQ==;/8K+BnoJGE/NVuO3A5PFqw=="
+secured: "IHJfYnBeJk5+C0zSOQrmaUhWX3Qgq5vkVE0oH3qEWZ82sCMV/tPcq6TyPk6MLUgZJTZptJQOv95o7rTwb26+4EQFFN2fdlxkXVSs4X2Cs5hZfxOTJ0DaFuqQiEwWCF8gauEyADY67VpfDLag1A+HCyYtwvHgd0/unyxT+slen0sFNlubzV6qTLUiBISH1w6HZZrAcVgbm/QsD7Pq/499Y5ZXvDjkJnlnTkgFeTr9hfZzNWOSbTqCmjuYc4mtmkvEX5aOu0nVrqZ1k0UVJ1TEiNn6Zpx26euLZhS9DgX5uW7ec53P4LtcBSGMwxVk/vWRclJBv3yGdZhLA7Z5cXVRWcEnDI0q1gYoOoM1lcXh/GI=;6k754BbGGgkcxfBTR9D6IQ=="
 ---
 

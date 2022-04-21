@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
+    excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
+    publishedDateTime: 2022-04-21T01:48:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 39
 
 secured: "YzG0nKpYg63JoQBJXLDDAQXx2A+3o4pJMYr0RZa25BhVhETztMx0wPf5sHqtUuQcSuMGm+DZnP+E2MiwPFOQxkwm5ENPcKw4Ywa0rmPEfYQ8aHS9eeUWxXrb5lYSD92x/K/fP3gDDx4MTVCla1JbdvTRTb7q1oVRYIcC+3vVwmGjzWflYGLzcsu9XYoFq4vxzQGHnv8/J6QuobhzRbfxICtZsLFW3b7IwZUZABz7jd10Ab10TudDwdh7w2wMbl6IGLnUhtQFjy7zyuZ1TrhuCHN262jBIJyMQmfuX7w/UZnKiEkGXtB/CEHYyuHEE9DqH3vW3rztiB0kGG02VOg7wihxq+BmwrLo5EPJw7Y4H6I3W4mayfIKkbzCsJvt2efd72uun6wAxX4Tpj9pNw79GGIcU5ZH1tAC9qlTnFOArpxo1iytNw7wI49rtJO9hr9gTX2XIrYL8hoXHKeMbBjF8gVS3AUBIC3+SnNjtAFHCOaX6Gux5KpGgxzdp6siqQF4qc9E5K7gpM+RTlUmD56q2Q==;al+vTv1mV8LupxN/rlDn3w=="
 ---

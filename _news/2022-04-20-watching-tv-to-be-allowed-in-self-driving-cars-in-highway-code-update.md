@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Watching TV to be allowed in self-driving cars in Highway Code update"
-excerpt: "The Government will update the Highway Code to make clear clarify driversÃ¢ÂÂ responsibilities in self-driving vehicles."
-publishedDateTime: 2022-04-20T07:43:00Z
-originalUrl: "https://www.expressandstar.com/news/uk-news/2022/04/20/highway-code-to-be-updated-for-self-driving-cars/"
-webUrl: "https://www.expressandstar.com/news/uk-news/2022/04/20/highway-code-to-be-updated-for-self-driving-cars/"
+excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."
+publishedDateTime: 2022-04-20T07:36:00Z
+originalUrl: "https://www.stirlingnews.co.uk/news/national/20079187.watching-tv-allowed-self-driving-cars-highway-code-update/"
+webUrl: "https://www.stirlingnews.co.uk/news/national/20079187.watching-tv-allowed-self-driving-cars-highway-code-update/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Express & Star
-  domain: expressandstar.com
+  name: Stirling News
+  domain: stirlingnews.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.expressandstar.com/resizer/ZUiEFx7VJ7v7I_5IDEsoZ_jnpmA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/O2PTPBDDDZDRHDNJAHXUZBESV4.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.stirlingnews.co.uk/resources/images/12550035/"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
       domain: coventrytelegraph.net
     quality: 4
 
-secured: "f17tW6aF30zUqdOqs7wkIUbonvAjT+Tt3iya9uAkhFV2O+LbL0JUF+/+6F8YyoM4K4rVFmAj/8/wprpuLztKs9H+0K4XJV4OthfidnS/FDnPXvpKhwmi5TWW1RYU4XsA563z+FLYH+MSgWtQuMgiIy2PeT7ajmTS4J2Srb5yf5NUKNfkZ82sh4ciw5w92NuVKUuiRVXDgUtbVOAreIwI6Fztk+VhGyhRS+6Pns6SFuF5jDE/voIok88JP9sQD+Lf9qMpWVQFZeJgZb96TwGSbXidIvXMahD0RSXnLVUsIpIHaSsuVrkriHDzCSOUPtjlgvPlujFaXYeYC0lCXikw080U1KQx+o+MA+ft41TRFg4=;IqQ9WOMmcsThZ17vote1Hw=="
+secured: "u8mKK2Unz3EaFmWIaepW2FjUx3FPLr3zg+sWs+QrIWK7SZ5fP3QE7E3DOexpZHqXEI6EEHk5lKXSlDCSwwok59acOGr2HoyqZzkT+uBBlGBZIs/0d5wc3TaFt3tItPKtNzLqfsvTA39SG4i5UBJ29oisyiIV4DQGvtiY2JizmkyKxY1q9kLJJkqfe6u5HSi6SJyXK4HmgBI+PTbTLSdVBDhms0xm0mxM5WDS8Jl9s8RGlo/b/A2NjU0r0uHHfLWJPeuG6uvbcH46yDjEe46FostTVxdpr8JcGyHYfzCOc5ruAqEphRr5Tqgk96RlcFWX8FVIKDvpJylb/xPjhRsvxn2n0KVA34v3tDv6XUgMpww=;LGhd/GJwB9gK9g6d2LA49w=="
 ---
 
