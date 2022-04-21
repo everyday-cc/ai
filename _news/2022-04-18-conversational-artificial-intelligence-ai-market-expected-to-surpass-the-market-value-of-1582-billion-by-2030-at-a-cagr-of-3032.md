@@ -25,28 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
-    excerpt: "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ..."
-    publishedDateTime: 2022-04-21T02:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
+  - title: "Conversational AI Market is Predicted to Reach US$ 40.5 billion by 2032"
+    excerpt: "According to a recent FMI report, the conversational AI market is predicted to reach US$ 40.5 billion by 2032, up from US$ 8.3 billion in 2022, with a CAGR of 17.2%. According to the research, significant factors such as the increase in demand for AI-based Gartner chatbots solutions are projected to boost market growth throughout"
+    publishedDateTime: 2022-04-21T05:44:00Z
+    webUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/"
+    ampWebUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 57
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/Conversational-AI-Market.jpeg"
+        width: 1125
+        height: 750
+        isCached: true
+  - title: "Blockchain AI Market 2022 Expectations & Growth Trends Highlighted Until 2032"
+    excerpt: "During the projected period, the worldwide blockchain AI market is estimated to reach US$ 2.8 billion, growing at a CAGR of 22.9 percent. In 2021, the market is expected to be worth USD 285.7 million,"
+    publishedDateTime: 2022-04-18T15:02:00Z
+    webUrl: "https://techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032/"
+    ampWebUrl: "https://techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/Blockchain-AI.jpg"
+        width: 2500
+        height: 1697
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market is Anticipated to Reach USD 44.96 Billion By 2028"
+    excerpt: "Increasing demand for NLP among various industry verticals is one of the significant factors influencing market growth.Natural Language Processing (NLP)"
+    publishedDateTime: 2022-04-17T05:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-is-anticipated-to-reach-usd-44-96-billion-by-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 30
+    quality: 44
     images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
-        width: 635
-        height: 347
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/097f64eb89291e8a2f361ffd58d7c60d0d8ae09c-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, April 19, 2022 /PRNewswire/ -- According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language ..."
-    publishedDateTime: 2022-04-19T12:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027---exclusive-report/article_50935701-f9df-5620-8922-338df80e812c.html"
+  - title: "Always-on applications are expected to drive ultra-low power AI chip market to $3.3 billion by 2027"
+    excerpt: "Ultra-low power AI chip shipments have already reached 10s of millions. Several AI chip start-ups have delivered on their promise in this market segment and are ramping up"
+    publishedDateTime: 2022-04-18T23:09:00Z
+    webUrl: "https://www.wicz.com/story/46312428/always-on-applications-are-expected-to-drive-ultra-low-power-ai-chip-market-to-33-billion-by-2027"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 20
+  - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
+    excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
+    publishedDateTime: 2022-04-19T12:27:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-diagnostics-market-size-projected-to-reach-usd-58-36-billion-at-a-cagr-of-4-42-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 0
 
 secured: "Rn+zYXdyCLdYSdCOasd3b9WLUJwjIZytTtDNVIcpgTRo1F0vlExJadpiHa/cNHTciJznAHgF45Y/Zpmcpd+9vNz87LZWLIFksl0kk3HXm6QorruesrNtQGwoFZIVLNIa/9AeBAmmxx6kdcWXauTg318mZputgygVWmBzU6HchEcKXwcCoO2x/aDqOtIIhG2Mip63ef7ribzD0lr2VO+//ylN7+2xLS8Ri5zPC66kcERzsahrYk53JCpGdHSCZ9D3I14AGuQ2Ip0s2BU2Zt0AnN9Ko6Tot3aJX5CkOD1emyDPpAc+sy8agVVROQuzuBq3wRh8SkP5vfL2Dc3XtjaVxTMY8IkCSk89UWvTKeTBm6DD5tkKX4ZwIRfJOIeTurhqujjhOk4AwUyoY1I5Blhqbvfde1ewjBzMJbw9iEm689PeHe+idhK0vdlSZVM5SLTYfreWg1HSV9exHW1eDxXehNrAA2sHKAYjdYXkh+i4aFdclQhl97GXtzv25PRUgJQFVVDXXRPMJ/SVkX4sN4mC9w==;3/+LfzscYM1Lyspaz5EJVw=="

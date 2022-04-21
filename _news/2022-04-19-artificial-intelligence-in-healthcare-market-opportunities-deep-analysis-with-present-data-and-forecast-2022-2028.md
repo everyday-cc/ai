@@ -84,6 +84,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 16
+  - title: "Healthcare Artificial Intelligence Market Trends, Growth Outlook, Size Estimation, Key Players and Industry Insights by 2027"
+    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD reaching USD 12.22 Billion at 51.9% CAGR during the f"
+    publishedDateTime: 2022-04-21T01:56:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-healthcare-artificial-intelligence-market-trends-growth-outlook-size-estimation-key-players-and-industry-insights-by-2027"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 11
   - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
     excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
     publishedDateTime: 2022-04-18T11:20:00Z

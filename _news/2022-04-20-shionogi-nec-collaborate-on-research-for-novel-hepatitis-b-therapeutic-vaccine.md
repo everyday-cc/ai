@@ -36,19 +36,14 @@ related:
         height: 675
         isCached: true
   - title: "Shionogi and NEC Enter into Strategic Research Collaboration for Novel Hepatitis B Therapeutic Vaccine"
-    excerpt: "Shionogi & Co., Ltd. and NEC Corporation, today announced the execution of a strategic research collaboration agreement for the development of a novel hepatitis B"
-    publishedDateTime: 2022-04-18T07:03:00Z
-    webUrl: "https://www.asiaone.com/business/shionogi-and-nec-enter-strategic-research-collaboration-novel-hepatitis-b-therapeutic"
+    excerpt: "Shionogi& Co., Ltd. and NEC Corporation, today announced the execution of a strategic research collaboration agreement for the development of a novel hepatitis B therapeutic vaccine. NEC OncoImmunity,"
+    publishedDateTime: 2022-04-18T06:03:00Z
+    webUrl: "https://www.nasdaq.com/press-release/shionogi-and-nec-enter-into-strategic-research-collaboration-for-novel-hepatitis-b"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 8
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/asiaone_default.jpg?h=ec041e41&itok=CTqGNnDp"
-        width: 600
-        height: 316
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 18
   - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
     excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
     publishedDateTime: 2022-04-20T05:16:00Z

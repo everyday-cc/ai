@@ -24,6 +24,33 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "Fintech Kinara Capital Secures USD $50 Million in Equity, Led by Nuveen"
+    excerpt: "Kinara Capital, India’s fast-growing MSME fintech, closed a fresh equity round of USD $50 million led by Nuveen, a leading global investment manager with over $1.3 trillion of assets under management,"
+    publishedDateTime: 2022-04-19T10:06:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen/article_6281bbf7-dce3-5c3b-8091-a7ee55450044.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/65/e650a1c1-78e1-52aa-bc20-c41573dec475/625e8f8b229be.image.jpg?crop=1987%2C1043%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech Kinara Capital secures INR 380 cr in equity, led by Nuveen"
+    excerpt: "Kinara Capital has closed a fresh equity round of INR 380 crores led by Nuveen, a leading global investment manager with over $1.3 trillion of assets."
+    publishedDateTime: 2022-04-21T05:47:00Z
+    webUrl: "https://www.ciol.com/fintech-kinara-capital-secures-inr-380-cr-in-equity-led-by-nuveen/"
+    ampWebUrl: "https://www.ciol.com/fintech-kinara-capital-secures-inr-380-cr-in-equity-led-by-nuveen/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fintech-kinara-capital-secures-inr-380-cr-in-equity-led-by-nuveen/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 24
+
 secured: "v+LQwYoUQftrq5pmNo9qKnYcwHQsYe+CyOcvAM3SY3PUoSGtcWUyndYANs9SJX4RJrKWi4emEYrsnszjfV8mtqsWRQtcIRhhJi3V+ME7peePEF2kIL9TEiX5JJZ4HqiTuRt7s1z3w9Px7qF5XTHsU949GbJCj6OvoW5BlbAXN/575QJtz9aIzNbJN2Yq/COy69Y9Z4MfLiRAY9yu4BzFcvHm6vF/v2LFuQvSsS6ob+Qouq8fJopEdtQjkQcjYM5D7P8E97CTKd+Fw2GG6SJdVudCC3qtvscN4J/2HKrfyygWyPJ7VMG4cHU9xxHjBZPxot5leAqlxU+KX3XW2PE0ie7YGchMd8xRbSqkEUK5r7E=;oKjb24fj7aiTDi2nlpZjNA=="
 ---
 

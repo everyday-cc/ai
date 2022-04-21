@@ -3,16 +3,18 @@ category: news
 title: "alphaMountain.ai Raises $2.7M Seed Round for Threat Intelligence for Cyber Protection and Investigation Platforms"
 excerpt: "Co-Founders John Ahlander and Matthew Wood Draw Upon Decades of Artificial Intelligence, Security Experience to Raise Seed Fund Led By Mercato Partners' Prelude Fund"
 publishedDateTime: 2022-04-20T12:31:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
+originalUrl: "https://www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.html"
+webUrl: "https://www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.html"
+ampWebUrl: "https://www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.amp.html"
+cdnAmpWebUrl: "https://www-hjnews-com.cdn.ampproject.org/c/s/www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.amp.html"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Herald Journal
+  domain: hjnews.com
 
 topics:
   - AI
@@ -35,6 +37,6 @@ related:
         height: 422
         isCached: true
 
-secured: "LykGv1nvM4CxZ0R/p9WY2oeJPmGGAiTiw/XdG7Ng9DsCsZu+FHOqJp5aGNZxTKfusD1tAxaQqQU3ReE4lSbUNdde77dSQ9LqkJ0nOjeNDPjCflCHuEY0BcGntv97eTfsNnItYArLSLr169CqiEKkIeamb9hfwLKXXzQ+iH81zkjq7Om1DfXkjhs0niIitQ6rnKQR7lnDt1MFxLjn7zjUYDcNV+9FYlGkL6iY8i7NyjcPKh8W42SmnvDzKnZE15N5Y2FlRZCtnh9pGzcRgIV9n2UdCC3D8Bsmc/6R1txGRJnmO8+7+ktII9THTbTxvSwOfZ3TtdYe0soDGBafjnwwlN3VzB9sRHcn4BoNm59WaJJ6gGaURNS15vd0iGYbJx0+YZa8hiIgAxGDlyB77BT/2BoTrsIc3poUvwDvqW/gjWiwbZwNmyhnhUDPhV+uVP/GrdIa3RboMTAntihXpOM7SYRuBjPsOAGjoOhtj7Vk/v+0kELnwNGRBVH0RJ+9Xm/cicT2ikuC7c+ySV4z89y/SA==;+vI4d2b1rKw40c0C2RxXsQ=="
+secured: "tHApN4qXFPDeSPzYdHbYPL/5idrcWf/mN8o5FRghCvdjdSWVvwhXKH+XZB3TmAQxjUAStLJVYfiwwsiktg81PrQ2+0PPKTobisfLy7Dnry1wNXdqoW4/lcWOHPQTmeHItk8gBb+TGtNyz+16cUX2QbC7SS7+hJtFZI5ROGI5e7nhqRMqGQBGBEiQbxzREZ6z6raOSrxf3IBcBw51d9z1oDYL5EOLen+UPD8jXqqWehoMBcj4Y1A5UyZeB1Fa09xqvwLpKAnq9/C6+vCjtBwJo5qOO3Gj5nYcTd7AA6RGiUDockKBekWIIOIuZA89Lzcx4AS0APGKpzLga4cVKg8IG1BU7bF8Y6G/QfLcgZRR/J3/U9zORsgcoZnLcVn9HoZ1hqPcexgcVJp7xSrVV6GfXIAEAVt6ajH5vhAIGb3lQMaOhfk/bwTkJXiByzBAJBOZ1xocD9JjtNNZCP5VgtyqWAKrSv9Q2vmHqMLYRjjWwUvsY8IdVPm6glPPrbcc42Di1Zvr5uXWVCnYztsrsV3HIA==;xDgsYOOV6nF0O/ijG2cZTw=="
 ---
 

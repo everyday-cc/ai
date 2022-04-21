@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FILING DEADLINE--Kuznicki Law PLLC Announces Class Action on Behalf of Shareholders of C3.ai, Inc. - AI"
+    excerpt: "The securities litigation law firm of Kuznicki Law PLLC issues this alert to shareholders of C3.ai, Inc. (\"C3\" or the \"Company\") (NYSE:AI), if they purchased the Company's securities between December 9,"
+    publishedDateTime: 2022-04-21T05:54:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1679216/Kuznicki_Law_Logo.jpg?p=publish"
+        width: 789
+        height: 434
+        isCached: true
   - title: "Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Deadline in Securities Fraud Class Action Lawsuit"
     excerpt: "Vancouver Canada · V6E 4A6 // KISS PR Brand Story PressWire // The law firm of Kessler Topaz Meltzer & Check, LLP (  informs investors that a securities class action lawsuit has been filed against C3."
     publishedDateTime: 2022-04-17T00:19:00Z

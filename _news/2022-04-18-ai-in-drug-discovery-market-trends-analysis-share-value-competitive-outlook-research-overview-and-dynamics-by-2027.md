@@ -92,6 +92,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 12
+  - title: "Healthcare Artificial Intelligence Market Trends, Growth Outlook, Size Estimation, Key Players and Industry Insights by 2027"
+    excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD reaching USD 12.22 Billion at 51.9% CAGR during the f"
+    publishedDateTime: 2022-04-21T01:56:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-healthcare-artificial-intelligence-market-trends-growth-outlook-size-estimation-key-players-and-industry-insights-by-2027"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 11
 
 secured: "v7Q8Pj+ld2kc2Nz3pa06Ytt+yM1zh/QbxUF9lSz+PpPAAAC2Vl5Hbu407K1nW1fl+rUWPnEqrzpmI6vxWjpt00NHod8LYcrrUnM8znqL1kSC77kkh6haL9on4P+/wSZr5HC82A9Ms0sJiK8Wuir1VpfNeq01jaiOMRxLZNQofS6gJ1KNW1zbl9G7+quB0+X+jR0Dmtd75oDw+5wKYXt3zUSlrLyAJ/PWCTfxxYv1ClTo9xQgXKyMsjrdvkdX5FSdLQpuw3F1oo6VJ682cXCg+oU+WagYTCgWTwfelxTSMLXVGAkiMS3XcSqXvV+Iavyj3bEc6DpUi8dm7U0RAy3dAodnD8HBz9qQFuOPyp/zsTG0qqB1e1gNqUGwHQA8fW9RqgkLqxZ2tcpjQvZ17YxgsiXzrS5yFxb3caTBDK/bqQ4gvQvJDanP6ZMwvGGJBxUw8T76cyfnLkQza3fU7rOT982JvvNTc20ANHlmKo4LAzRU0idPImAmg3xuihI4Nk0sfeaEcyNeGcJYK/WNnpJjeA==;82DwgBaCLydU7MU5FwLLvA=="
 ---

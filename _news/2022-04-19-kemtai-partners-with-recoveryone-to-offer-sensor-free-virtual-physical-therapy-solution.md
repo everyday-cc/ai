@@ -3,11 +3,11 @@ category: news
 title: "Kemtai Partners with RecoveryOne to Offer Sensor-Free Virtual Physical Therapy Solution"
 excerpt: "Powered by Kemtai’s proprietary computer vision technology, RecoveryOne’s new Motion Trainer feature provides physical therapy patients with real-time feedback and guidance during at-home sessions without sensors or other hardware NEW YORK,"
 publishedDateTime: 2022-04-19T14:44:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
 type: article
-quality: 26
-heat: 26
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "8m5hV6E65aLOwqTy9nremEV7qoSTnRTJCKZ/mep9N7FY58FBCL3PjRaKK7dOlYNDrzXCHUomHksA3066AgcNtf2i7yHLD+SQLateWcJi59EgeC3m4qnlLqDB0IruQXfNM3Pmoa+YCGbhVENT1resoLHPo9iMNnEixjclrQigqW/Hllv6sqpyG+YLv4g9Yzsqi4dbMivxQpjtOfaygC/ZpO+f9KUsHBNMPAEcbzin6AS4ryZf4XW8XQ5g6H06o6tn6tcAqw2IugdKx3p8+RYoN+IBnty0SRMX9tBkSV0nGJrB6hZL5jQ2oEEEUhDHRvFvcpCqmN/3Nyv72CSL86V5sWxUjsDpovbD3mIp7o97GIE=;0cxphmixTfCMUbZhQmFccg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "yveQ/zy2iXDBei1jyg3l6U/SSjrnegEDqam2lp8MzLYLOw8e2JWs1hNs7jB+Jn0WWz1JmZZ1MoyYjYTwTQKfuKMrI5RsxORTZeNL/Clcbf4X1g1Lsm6TDLi+O8kaO1Bi8qOsZnn4T//t1yxn7GXtbQxH3/uFAEHBt3YQme1sUwJzy+NwiCt7ooNlyg4bn/+fAada5xtaAufSvjJyzvwJoNO8ohzktTKMSbGEn2cVUjmsrL3Bq16ONHQ3EhQ+R9CQlOclZtQmP4bFAtg+8GjUbE8c5tvsUw0BundxCLrRtEpJZ4leY7WLHL+QxSfdYtTPY7DcRTROdEDF7wGZ0So99opmjcRMtz7/eKpumYTE5OI=;7KOJrynVWGrKx+Fl2hCrag=="
 ---
 
