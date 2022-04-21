@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-to-see-h
 webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-to-see-huge-growth-by-2030-nvidia-google-ibm-and-more"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,59 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Market, Size, Share, Analysis, Revenue, Price, Growth Rate, And Forecast By 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
-    publishedDateTime: 2022-04-17T22:38:00Z
-    webUrl: "https://menafn.com/1104036736/AI-Chip-Market-Size-Share-Analysis-Revenue-Price-Growth-Rate-And-Forecast-By-2030"
+  - title: "Nvidia wants to use GPUs and AI to accelerate and improve future chip design"
+    excerpt: "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using"
+    publishedDateTime: 2022-04-20T22:37:00Z
+    webUrl: "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
+      name: TechSpot
+      domain: techspot.com
+    quality: 116
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363260"
-        width: 374
-        height: 250
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg"
+        width: 800
+        height: 560
         isCached: true
-  - title: "Nvidia: Growth Beyond Moore's Law"
-    excerpt: "NVIDIA's dominance in GPU and Data Center segments will continue, causing their revenue growth to accelerate. Learn more about NVDA stock here."
-    publishedDateTime: 2022-04-20T20:46:00Z
-    webUrl: "https://seekingalpha.com/article/4502479-nvidia-growth-beyond-moores-law"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
+  - title: "Nvidia's GPU-powered AI is creating chips with 'better than human design'"
+    excerpt: "However, it has also found many uses for AI in its silicon development process and, as Nvidia's chief scientist Bill Dally said in a GTC conference, even designing new hardware. Dally outlines a few use cases for AI in its own development process of the latest and greatest graphic cards (among other things),"
+    publishedDateTime: 2022-04-20T16:36:00Z
+    webUrl: "https://www.pcgamer.com/au/nvidias-gpu-powered-ai-is-creating-chips-with-better-than-human-design/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 44
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 68
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037038/image_957037038.jpg?io=getty-c-w750"
-        width: 750
+      - url: "https://cdn.mos.cms.futurecdn.net/bBRYUinrgcCUgH3RN4UXaR-1200-80.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
+    excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"
+    publishedDateTime: 2022-04-19T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
+        width: 744
         height: 500
         isCached: true
-  - title: "Artificial Intelligence (AI) in Cyber Security Market Projected To Gain a Revolutionary Growth | BAE Systems, Cisco, Fortinet, etc."
-    excerpt: "Global Artificial Intelligence (AI) in Cyber Security is the product of rigorous evaluation and analysis of real-world data gathered from the Artificial"
-    publishedDateTime: 2022-04-19T08:19:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-cyber-security-market-projected-to-gain-a-revolutionary-growth-bae-systems-cisco-fortinet-etc"
+  - title: "AI Chipset Market is Likely to Experience a Tremendous Growth in Near Future | Nvidia, Intel, Xilinx and more"
+    excerpt: "The AI Chipset Market has witnessed continuous growth in the past few years and is projected to grow at a good pace during the forecast period of"
+    publishedDateTime: 2022-04-18T12:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-is-likely-to-experience-a-tremendous-growth-in-near-future-nvidia-intel-xilinx-and-more"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Healthcare AI Market May Set a New Epic Growth Story | Apple, Medalogix, IBM Watson Health"
-    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and"
-    publishedDateTime: 2022-04-20T12:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-ai-market-may-set-a-new-epic-growth-story-apple-medalogix-ibm-watson-health"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
+    quality: 0
 
 secured: "3mzUVER+kiz6IdTt/rNiKiXmGAnIWlCLOBdR6feWL2F7hUTHtRBzzkOJ5zzuTWd6sAKylLle7jqmHHT6TirhsiGwz6tKnCW7Otd9zjNegj6BrLO2mMyzbW/7mgfwq+eCex9w+nBs9rA4bsSG0EkimNCVKI/U2K4euF8mBOzjjJNh8tDA7NO49fMTi8Pbfe2cmZylSOt6/fAD+vX93wWqNrX3ye3DNJHwnQ/N4uK4DL2JNlsKd7R+sdlyU7Lxnwu+AB4qPZAvgMWjQO9Whtx4vlvlZeXqgFhgySGL0L+LZ2G9TWc07iyOvS2353NP5o0gtABnr1De+nmCDYE7h5TblD37xflpJlmh+QUnAWY/HC4=;sf1Cd9HxuEqcVzz7Q7RSKQ=="
 ---

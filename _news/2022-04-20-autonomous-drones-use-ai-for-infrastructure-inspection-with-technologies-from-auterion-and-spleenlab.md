@@ -7,7 +7,7 @@ originalUrl: "https://www.suasnews.com/2022/04/autonomous-drones-use-ai-for-infr
 webUrl: "https://www.suasnews.com/2022/04/autonomous-drones-use-ai-for-infrastructure-inspection-with-technologies-from-auterion-and-spleenlab/"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "DeepRoute.ai Unveils the Most Advanced Robotaxi Fleet Ready for Series Production at an Affordable Cost"
+    excerpt: "A Preview of Future Mobility FREMONT, Calif., April 20, 2022 (GLOBE NEWSWIRE) -- DeepRoute.ai , an international autonomous driving techno"
+    publishedDateTime: 2022-04-20T22:56:00Z
+    webUrl: "https://menafn.com/1104058342/DeepRouteai-Unveils-the-Most-Advanced-Robotaxi-Fleet-Ready-for-Series-Production-at-an-Affordable-Cost"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?742141"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "BFTUyH3XqhubCFiBy+VixuVFgaXJ5EaTHnGnVuw5sN1bxEkmeUOyB5i9QTbkXijA68tBbd0vOCU/uwXbc4gSG9K4k0l4eoVaQm2NezvSK7T+5AnJLr3vCZhjZAPf+U3MCcDqmwe+aXyvSlC2krp5CibRoxJ5+HgYPYR9sA2BTAJYESWmmFQZvLQRtoxgaB2EJ/TKm01TeiaE6xwKp6fikNb9Vc59aw1zDfEX2vuTYY9LQA4gBQVwsv559WhS7xxx4eW7AdlPf6Ho4QVAZBz+Y6TdBS+1+5047tI5fa09NfzDlh+Uiap4mYwKs9Gsw+vquQqBLLtAarBuMtPCILH1bhhNAcjARUEr+0TvOIgMDQhohom+opebJZvnQAmEmu0D0T/P4zrMkEJ2gK7BSmLymiEDkMg4pT3fzXlsu8I+Eum17RKztXo0Vm22QXLa8iwqPKGsnqb1KNpL4nUo9iXYBa2dQHff0hJGxJfg6rdGoBtdtI5fImhXTBA7yIetJWCc4dY01YrJrTU08SGqpt7iiA==;Zgp+VEKC0wM7krVbNdg7Jg=="
 ---

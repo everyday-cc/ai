@@ -77,6 +77,20 @@ related:
         width: 1600
         height: 898
         isCached: true
+  - title: "Biggest FinTech Trends of 2022"
+    excerpt: "Biggest FinTech Trends of 2022 . April 20, 2022 by David Edwards Leave a Comment . The pandemic and fast technology development made their imp"
+    publishedDateTime: 2022-04-20T23:10:00Z
+    webUrl: "https://menafn.com/1104061000/Biggest-FinTech-Trends-of-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/20/R&AN_736ceimage_story.jpeg"
+        width: 800
+        height: 350
+        isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-19T19:40:00Z

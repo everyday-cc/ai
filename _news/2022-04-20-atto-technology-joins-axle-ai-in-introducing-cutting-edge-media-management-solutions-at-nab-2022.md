@@ -23,6 +23,17 @@ images:
     height: 340
     isCached: true
 
+related:
+  - title: "ATTO Joins axle ai in Introducing Cutting Edge Media Management Solutions at NAB 2022"
+    excerpt: "ATTO Technology, the world’s premier provider of storage and network connectivity solutions, join cloud software vendor axle ai in announcin"
+    publishedDateTime: 2022-04-20T22:50:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-20-atto-joins-axle-ai-in-introducing-cutting-edge-media-management-solutions-at-nab-2022"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
+
 secured: "3rZWTQ0maYvgioA5rxPrycbe5+PC9o9cuFKAjvPnQPAwMid6y5peM+Lm1kcLSWxT5Ii1b0lgx+DTysLd6EuPUTbaHB+cOUwu6iY3/LziUwv1P7H2jK0b627qA5jwYJulkVZ9Elhe3IsCcMjPMhgADtRNmkpQJ1fWMF028wVM0f0Bka3msIzXnhUXKnBPMrry8w017jWeHdr40G3Oh4EuBaOnFdZ0UhZ3Ym3fUKUug3Y30xlWazKMIaN1wxcrNjAdvq7GmQzaJd2nAY5YuRws//TE9uIhI/jlRLxZeCr1GEesnF32CMBWCIRChMZ/mj361FgtwkGUHgNddcL3GrbBVPNRUOSwz1wh2COS5VA4Q+w=;q7mUeCnvt5+cwNg+H8610g=="
 ---
 

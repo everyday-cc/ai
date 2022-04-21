@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-buil
 webUrl: "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: SiliconANGLE
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "d-Matrix Gets Funding to Build SRAM ‘Chiplets’ for AI Inference"
+    excerpt: "Hardware startup d-Matrix says the $44 million it raised in a Series A round today will help it continue development of a novel “chiplet” architecture that uses 6 nanometer chip embedded in SRAM memory modules for accelerating AI workloads. The goal is ..."
+    publishedDateTime: 2022-04-20T21:54:00Z
+    webUrl: "https://www.datanami.com/2022/04/20/d-matrix-gets-funding-to-build-sram-chiplets-for-ai-inference/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/chip_shutterstock_emp-64GTX.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Assessment 2021-2027: Industry Size, Share and Top Key Players"
     excerpt: "The market study on the global Artificial Intelligence Chipsets market will encompass the entire ecosystem of the industry, covering major regions namely"
     publishedDateTime: 2022-04-20T09:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-benga
 webUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zagreb to Become AI and Data Science Scene's Centre in May"
-    excerpt: "The City of Zagreb is set to become the centre of data science and artificial intelligence (AI) this May, with six keynote speakers and many lectures on offer."
-    publishedDateTime: 2022-04-16T05:18:00Z
-    webUrl: "https://www.total-croatia-news.com/travel/62075-zagreb"
-    type: article
-    provider:
-      name: Total Croatia News
-      domain: total-croatia-news.com
-    quality: 39
-    images:
-      - url: "https://www.total-croatia-news.com/media/k2/items/cache/872414604f95ac4ff229b18a9d9e962a_XL.jpg"
-        width: 1170
-        height: 731
-        isCached: true
   - title: "Meet the 50 most influential AI leaders in India at MachineCon 2022 this June in Bengaluru"
     excerpt: "Expediting the machine learning biosphere, Analytics India Magazine brings to you the fourth edition of the Machine Conference, or The MachineCon 2022, a gathering of 50 most influential AI leaders in India."
     publishedDateTime: 2022-04-19T04:30:00Z

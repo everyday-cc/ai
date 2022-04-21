@@ -1,48 +1,54 @@
 ---
 category: news
-title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version"
-excerpt: "On April 20th, Chinese Language Day is celebrated. Chinese is nowadays more important than ever. With a total of 1.3 billion native speak"
-publishedDateTime: 2022-04-20T19:15:00Z
-originalUrl: "https://www.khon2.com/business/press-releases/cision/20220420CN28701/a-magic-scanning-pen-that-is-revolutionizing-language-learning-youdao-dictionary-pen-3-global-version/"
-webUrl: "https://www.khon2.com/business/press-releases/cision/20220420CN28701/a-magic-scanning-pen-that-is-revolutionizing-language-learning-youdao-dictionary-pen-3-global-version/"
+title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version'"
+excerpt: "Youdao dictionary pen is the go-to tool for language learners. Just scan and translate! Get definitions ... China's leading AI-learning company, has recently launched Youdao Dictionary Pen ..."
+publishedDateTime: 2022-04-20T22:54:00Z
+originalUrl: "https://menafn.com/1104059318/A-Magic-Scanning-Pen-That-is-Revolutionizing-Language-Learning-Youdao-Dictionary-Pen-3-Global-Version"
+webUrl: "https://menafn.com/1104059318/A-Magic-Scanning-Pen-That-is-Revolutionizing-Language-Learning-Youdao-Dictionary-Pen-3-Global-Version"
 type: article
-quality: 0
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: KHON2
-  domain: khon2.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version"
-    excerpt: "On April 20th, Chinese Language Day is celebrated. Chinese is nowadays more important than ever. With a total of 1.3 billion native speak"
-    publishedDateTime: 2022-04-20T15:29:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220420CN28701/a-magic-scanning-pen-that-is-revolutionizing-language-learning-youdao-dictionary-pen-3-global-version/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/1799495/Youdao_dictionary_pen_go_to_tool_language_learners_Just_scan_translate.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Machine-learning techniques for predicting the evolution of an epidemic"
-    excerpt: "Machine learning techniques can provide an assumption-free analysis of epidemic case data with surprisingly good prediction accuracy and the ability to dynamically incorporate the latest data, a new KAUST study has shown."
-    publishedDateTime: 2022-04-18T13:27:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-machine-learning-techniques-evolution-epidemic.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 4
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?958100"
+    width: 300
+    height: 250
+    isCached: true
 
-secured: "qBs65kZgj54jtXA7YyNxYR5mCtRj6tSzQMU8TYgjNlwAzgPv0t41lPAuPOLcXiMmufbgH4gTFq1oYXaa/ePtMmQduH6kCe18Mn7vl/Hf8z737iu4/0OUWIBnxsJj31ed2XdKkiYNKVhng36DzJ9t38h8natdPR4dvEHVOwonqUlOnKtS/P3Bwh/bw1lEATNUhOWod+0fqVRMazKxWkrxuev4Muuvr8I7d51CTINqBD8Q0gSRyviXRrB++mEne7W8jlk/nIIKbv3Qxe14rV7HMBPou5/kCRnGXGcLGn14sRL7nEut9+EfIy4ywymEgVhlVbhxSQXtQN6yHwDsIgabtubVYammW++Ejgb6bsT+fihVqV8e/lDMWAH03olfgml6hq21kPsECOr5SwHPv2a+eUmm2VHQ1vZqjq2rJogbPKgwvywUEwA7VJ6TKaHsdtv1daNb3azr9ZH3f6elVF4ggS0rZ2qhqAxf+kdoB6XaLVHA/zWg86Wlnuncu37XMQ5wrgJhgATtJfmV8kNzcnv6KQ==;GAX8Gk4UGQP9RAO0OHpIrQ=="
+related:
+  - title: "Machine learning hiring levels in the power industry rose in March 2022"
+    excerpt: "The proportion of power industry operations and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 33% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-20T14:19:00Z
+    webUrl: "https://www.power-technology.com/analysis/machine-learning-hiring-levels-in-the-power-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 39
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/04/kocje-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Machine learning hiring levels in the mining industry rose to a year-high in March 2022"
+    excerpt: "The proportion of mining industry operations and technologies companies hiring for machine learning related positions rose in March 2022 compared with the equivalent month last year, with 25.8% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-20T13:47:00Z
+    webUrl: "https://www.mining-technology.com/analysis/machine-learning-hiring-levels-in-the-mining-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 11
+
+secured: "s1fHOTlXp1qd9OHvqQQpEIKaXEcnTNpS0fYb9r057L/DtxaH35LSNDGHBmoRObRXXMGV5RC9J+ACd7ea62WKhT5HQ4YTEp3w4qW114jUl4KTGjAh20g6L7LEmdMf0I/SDH2m+/JmQ146llAwRPwsC6WkcliY7b8htfhjqMFFmefQtvY3Dxcah9mq2okX9Qp8ewhV0ZAQ46MqVHuIFUE7SwXN00fEJq/60Clhg9fecDc+tDYy4LM82nAhIW5URR/vIevey4VRuihAewvwnMjzZefkaNe5EWaBSiqOa5dxXWzbwfFJ8S94netSao+1ZbQNCDUPNJHPrWwIvA2k193iCPbImMjLfWIp+YUrATLTx4c=;vKpf6xVA4dO5VBP8ATN4/w=="
 ---
 

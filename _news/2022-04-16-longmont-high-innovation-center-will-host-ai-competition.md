@@ -3,29 +3,26 @@ category: news
 title: "Longmont High, Innovation Center will host AI competition"
 excerpt: "Grayson Hubbell was on the initial team three years ago that developed a three-year plan for St. Vrain Valley to start an artificial intelligence and cybersecurity program at the district’s"
 publishedDateTime: 2022-04-15T23:13:00Z
-originalUrl: "https://www.dailycamera.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/"
-webUrl: "https://www.dailycamera.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/"
-ampWebUrl: "https://www.dailycamera.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/"
-cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/"
+originalUrl: "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition"
+webUrl: "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition"
+ampWebUrl: "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/"
+cdnAmpWebUrl: "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Daily Camera
-  domain: dailycamera.com
+  name: Longmont Times-Call
+  domain: timescall.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.dailycamera.com/wp-content/uploads/2022/04/DCC-L-AI_MJ27797.jpg?w=1024&h=672"
+  - url: "https://www.timescall.com/wp-content/uploads/2022/04/DCC-L-AI_MJ27797.jpg?w=1024&h=672"
     width: 1024
     height: 672
     isCached: true
 
-secured: "le6wJNjeadaKBL30B4c6xDTENEZBZ0UG+0wayphrX/K5WnH1GFhDw2kp5lkfh45T+TfblHopCRQ9lx5crJ6zApXZIVG7ZcvLZmDzQ+17u5wMCOC7Pk5g9a6Ai9REop7kTY6CeG7t95UtGGoLzj+LPgZfVt3fnuUKUndT+mH3nf5L/2KQ9jMg4I8xSZhvZL4PD7YQhWQs2tszGxu3jKLwqLGlyIgUhgFB14a0Zjj3xRH4qDG7hsNc0PyOoAY7BWpVgLxe7LZ/8mQMjIb43UfPrZh7p5zec6iaHJqShhbCg2AEJ6wo44KG0+3LNPMck2cBC8OFM4aghy6Z1Op89GHBu1BvmVV5bZNYQ+acAUT3Etb3yZrof5Dsza3SbFRUjMBzxW7+ISMiJyxm5/s/1fuoi541VraIZUptwQw/Xbnm32EZqzPIHeVE1f6Lfso8eCYCHXvHMnihu0GfaG3BmmvvnXHDk3K4kSpOSQWqOXxBRAkWQdUkBfxt6mo+yZ/g8DN+EBPIWvofVQuXLKSBWodvoQ==;drUBYZ7iIiiQxgRKdI0aHg=="
+secured: "vVKpbY4X5UACWTzovrSeZ69QcejWS4n5TiHNS9/kobEpRzzMIy0slpxADLm2za5ApD/bnq3NG6Zjc9/MtpvWf2sXc/9O/ZHeU8vLa1hLwkccqQNybEcksMIdnDtmZike6OMHUrzibpJi3DnIJXCBchDSahLGE6EyoiwrRUpOHdHQ8tr9TY16eJssTtcVM+00+r8XvnR9KFrx/FJYlNwQ01I4R7JM5NVCpJLI84SRW63h/D2Qg7GCELvor/P3v06/LW0mnv4wxUYIzr5XOGBbOKd1ol27K5emVUNPE3M3evJHYQQg0JmcHGs7+WtuxWo1GFFDehCZEN0ZxYbYFSD18M09SRdJ0/0xUGOo4KxOmXo=;2h60HLYvN8OrI5sCaGpHJg=="
 ---
 

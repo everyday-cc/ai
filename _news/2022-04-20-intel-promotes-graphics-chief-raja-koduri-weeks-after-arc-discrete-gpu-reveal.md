@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal"
-excerpt: "Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business. Chief exec Pat Gelsinger bumped Koduri,"
-publishedDateTime: 2022-04-19T18:39:00Z
-originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
-webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=keepreading-btm"
+excerpt: "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business."
+publishedDateTime: 2022-04-19T19:38:00Z
+originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "pSomrnbamCoFtnJWhMSXrkJ/NNtKvrD4DbZ4Xzhhh/xsaJzAtTHNA0SuQV2vT4I5rgSra+R30e6izgilLE8nAh/RKhCyM4yZ5WHJJfyjXQ6DKrwA5OOzWcfnDVlhHFLCW3YJinXNVdkDJRl4dIlrMUFz6alCOSLzE42vFLaOU7y9OBMK5rUZ+lSVRSmvHBDAVSsXltcGDvT9bGkYd4hV8wjOT8GAGLpqN1U+EXx5oKQDiGRJkWVsLCuzBfNpF9lpSngcmju6iBdpIfwluZqDbsb+gvXKM1C1hTfZHIMvAwZ6MXg16NWkZralcis3ViS85a2ONi8iJN2z1a/jwuquskeBJyPIqyjCnAaEeTrjuno=;8KYfVXCnu2j08FYgBlEwUg=="
+secured: "R2Jqkhlco5HuCkgXmHyiGq2nzj6LfpEFgFft5ej5mvx1gpL7XjGBYlZHZTDP5/Djvg0p6T7xFG0Ga5nQiatOBPVxW+UpmSc4JFFSDeNU5j0VhTP3TsM//xRElIiAnVa2LVM6FdAZPjf1/VIMWh9En+EhLJNOWw6x+uK/1K+HbhTSVj9l6fBNWPHojS/C7XlK/pcyGDX6KVaSTX88FcyR6Jit1GfE4Lc4xMKEAdcZKOVUs16wIWIsIm+6mbwO63TWLot+VxwBzSf6FdOEkIz9BynUgWhUmEAkj7/5K60EQCqTUxmga0+T9LgDeuXundR1wqSiMT6cHyPJI8NGqDe6TMfmlDNy7CDuIvzjTd7ap/w=;gG2A5USKX6anKazYhfe7dA=="
 ---
 

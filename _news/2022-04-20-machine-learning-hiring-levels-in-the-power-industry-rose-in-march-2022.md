@@ -34,6 +34,20 @@ related:
       name: Mining Technology
       domain: mining-technology.com
     quality: 11
+  - title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version'"
+    excerpt: "Youdao dictionary pen is the go-to tool for language learners. Just scan and translate! Get definitions ... China's leading AI-learning company, has recently launched Youdao Dictionary Pen ..."
+    publishedDateTime: 2022-04-20T22:54:00Z
+    webUrl: "https://menafn.com/1104059318/A-Magic-Scanning-Pen-That-is-Revolutionizing-Language-Learning-Youdao-Dictionary-Pen-3-Global-Version"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?958100"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "6ZADEQbXNAsQ9j0oQ0CEWfKd9SmLpoY25BCRqAJ7WBK3t0LG7fB3GQwEAVLiGpfKs+r/SGACSW7HgcDdxteB/pPw/4sz7Et8WIZl7hje+PBaxn8rjbEhJ8GsO4LAxnt3wYQbtcbODEfC0ksHPmSPXJ6N6udj+A/xTNkZLVb4V9cx89Kn+QK/KgvfcDpTurAQ/GAqlsW02N1CdYYhTGDNMCukNtwmsYzbvDzhNFIAXbQB8zxsRdvv7Gf8MN+VtI6+FlkSKEKcu+4oa2E9csj05Id8XC0PkpDq9sMp2LqjY7lS4qEhcTAXOJmMKf2ciBGZJTtLtP9MpWgtqEi7tnQljbKwJI/8fCMcrXCCr4CdKSBP8Xk9mH+xSpsTP75I8MdquYgxdNr0C4VV/H8pFOsbV342Nzbm/52JUYhz3bPLFNBasko4Vhv1VqsL4XN4/pR4EHS/aaUsHBlxh3WOtC+igJDjv299Eh1gPkyg8LAHa2PQv2qMzawh2dqC0O25qmqJQX55ZEw7oMEBRtLdgVkIfQ==;B8GxphJYrlhJT1tCTIcSWw=="
 ---

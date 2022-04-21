@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esper
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"

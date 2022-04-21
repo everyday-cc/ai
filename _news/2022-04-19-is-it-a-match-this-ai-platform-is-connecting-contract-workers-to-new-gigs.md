@@ -7,7 +7,7 @@ originalUrl: "https://www.benefitnews.com/news/peoplecaddie-using-ai-to-connect-
 webUrl: "https://www.benefitnews.com/news/peoplecaddie-using-ai-to-connect-contract-workers-to-new-gigs"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Is AI the ultimate matchmaker? This YA novel explores tech and dating"
-    excerpt: "British author Samantha Cheah narrates the bizarre dating experiences of a university student in London in the 2030s."
-    publishedDateTime: 2022-04-16T05:53:00Z
-    webUrl: "https://www.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
-    ampWebUrl: "https://amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/entertainment/books/article/3174233/ai-ultimate-matchmaker-young-adult-sci-fi-book-its"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 89
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2022/04/14/987b9308-cd4c-485e-a3a0-7ee43bf62c7a_3a0f635e.jpg?itok=3zLCrzp4&v=1649920075"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EX7aY0d/gD7bs0pYDv3/I44FkfTqNDzYuzqz5xcWspGSpsUVEqp9B1UlAnS/shaEhMdNHDBleDOFDY3Ep7zbvjChL0MfYCtcyV2dPSsYSJaFH7rIXFZboQ0WcLtfDDrbOrl2gozdqspTP3rbwIxhQGIU+mlODTJGip+cfuwTT1FaqwNtdQdLu12RSb+u2u6LhNvlFrVah6JUM2ff8AE+69YXpTH9Da4QJH4qlNU1caW19zdzDLnFnc4aA79kGVFv4D8G57zrYeYaaGocwubTBdufn0Aqt4DU0SAj/YPFgwrOFbRYzrK/5ww9r2rb7B1wQfH9FkzQnKa5dXn9ZDSwMJBUHyTOVXQ7RGu1zcA9cZBr1RTdED7R+v040k/uGXRG6bdBgHSseqfoAz8V9zVXaUQfLpayGnWH5vHovt1+FU6/95LRykJhvHiMMHOm3UXjpqmlxpoqWQZ2q6SXnX8CYvMTvwTM5xli0w6HUtr9FuKEWuxUUPvnO+1yZsRNrU36nJkD9vmdZABwDkBiP43CYA==;ZwrU4YFbgY5oqadcjzcqIQ=="
 ---

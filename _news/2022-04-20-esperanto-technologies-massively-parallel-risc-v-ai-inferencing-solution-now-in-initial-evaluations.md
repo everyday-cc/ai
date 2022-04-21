@@ -37,7 +37,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 69
 
 secured: "314mB5b9/2Q4w8/YzSrI9dk3Ulc6JAq6DMvccS0jOev3Q/xilt/hItu0L1SbWbfcCwWaJCn6QUcvgPer1EpctzLa1PKdjx2jS5kNVk93pldhl/kiJNPG+eK3U6t3LaTPjAJPcRiHmXdswp9DqTo6LlihSB36wLmr2EK+1+pAvlHIiupxwynXggmxkYMKlwTR4ZYW+/gQBEPG7DHDlwypncqjsHw+P2BDQzBU5Rz8z0ToroYuA+ZAEgFAmJvOqld6YY7JxuriJXhwoLtaq32TLlz04aArKm3R86Xo7oaBomIomqLrdt6KGpjDR/weGYPCtdDY7vHnNy0/1ZMoS5PK9frHYU6+gWBiu52hunjo/LjUbHiuMgemlczXNThe7LPTGK+kVH7CiCcTjyZu5RQV2EB+I9YuTlWv4e+yvxwKUzGzhTncc1y/qrgXrCsvSpi7VCrizhRJvIsgKnqcxRxe/HeMlFvsUwDhDJmDjiJlX3iMp/vjZ/22fxecEoi72KJBItXkNskkz0ug87yYwiJycQ==;aJ2vsXIG2/NMqke41AWfhA=="
 ---

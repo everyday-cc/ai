@@ -38,20 +38,6 @@ related:
         width: 640
         height: 336
         isCached: true
-  - title: "Zagreb to Become AI and Data Science Scene's Centre in May"
-    excerpt: "The City of Zagreb is set to become the centre of data science and artificial intelligence (AI) this May, with six keynote speakers and many lectures on offer."
-    publishedDateTime: 2022-04-16T05:18:00Z
-    webUrl: "https://www.total-croatia-news.com/travel/62075-zagreb"
-    type: article
-    provider:
-      name: Total Croatia News
-      domain: total-croatia-news.com
-    quality: 39
-    images:
-      - url: "https://www.total-croatia-news.com/media/k2/items/cache/872414604f95ac4ff229b18a9d9e962a_XL.jpg"
-        width: 1170
-        height: 731
-        isCached: true
   - title: "Fujitsu launches new research center in India, embarking"
     excerpt: "Fujitsu today announced a key development in its global innovation strategy with the establishment of a new research center, 'Fujitsu Research of India Private Limited' (hereinafter FRIPL), on April 1,"
     publishedDateTime: 2022-04-18T10:10:00Z

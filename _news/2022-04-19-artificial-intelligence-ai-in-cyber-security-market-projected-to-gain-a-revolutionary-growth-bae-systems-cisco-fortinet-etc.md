@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-cy
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-cyber-security-market-projected-to-gain-a-revolutionary-growth-bae-systems-cisco-fortinet-etc"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,61 +24,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AI in Healthcare Market to See Huge Growth by 2030 | NVIDIA, Google, IBM and more"
-    excerpt: "Global AI in Healthcare is the product of rigorous evaluation and analysis of real-world data gathered from the AI in Healthcare market. This new report"
-    publishedDateTime: 2022-04-19T09:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-to-see-huge-growth-by-2030-nvidia-google-ibm-and-more"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 49
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI Chip Market, Size, Share, Analysis, Revenue, Price, Growth Rate, And Forecast By 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
-    publishedDateTime: 2022-04-17T22:38:00Z
-    webUrl: "https://menafn.com/1104036736/AI-Chip-Market-Size-Share-Analysis-Revenue-Price-Growth-Rate-And-Forecast-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363260"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Nvidia: Growth Beyond Moore's Law"
-    excerpt: "NVIDIA's dominance in GPU and Data Center segments will continue, causing their revenue growth to accelerate. Learn more about NVDA stock here."
-    publishedDateTime: 2022-04-20T20:46:00Z
-    webUrl: "https://seekingalpha.com/article/4502479-nvidia-growth-beyond-moores-law"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502479-nvidia-growth-beyond-moores-law"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 44
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037038/image_957037038.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Healthcare AI Market May Set a New Epic Growth Story | Apple, Medalogix, IBM Watson Health"
-    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and"
-    publishedDateTime: 2022-04-20T12:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-ai-market-may-set-a-new-epic-growth-story-apple-medalogix-ibm-watson-health"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
 
 secured: "wBSJ6tjcSiQjZfF1mw8pT9eGpwMo3nmvi126bnnPG4HFYKEQ/iR669/GAAzm9YyO3WCmQNkIfDjXICRUqqriKtMenZ3EI7vsADxDU9hwd0zVeXs3TeHS8VWYuX4DDmfq/xFP2rTfo9ioQtipY80bgF+aCzjnz773ZnvNRBTrtd7wR9J/0P7O+VRZq39IoNTrLYkw76PYvH6QmfKILRnZ6ZBHim1djM1hgbA8CCVPHVNYES6MpvUNcKqbUHTP6yut5DMgvRDvRAw467v9hjlt5VS2Ubh78NUhwzzOkTzVNXVVE1N1EcVvNCOrcVoLrbXMo29+3/E32FsOXgcJyfQOZxxUuUonRKWI7ooQYCGv1q8HxF8ORsVqgd+cCUfADHZO3w0qa0Ek8lbOCuiui1kJiCld2zzMyuAYZpEDJtn5hzJbyi5229l+wGeKut43elSaoG1erHmPXl3Em8sk+j/Mb8KlOhXZ+j80kXWOW9Qe5gsqXrjvWRgxiwaeaUDnVyaPr3c3L8u+cCrWF92pkLCQfw==;LjbgC5xAIzWbORYiXge3qw=="
 ---

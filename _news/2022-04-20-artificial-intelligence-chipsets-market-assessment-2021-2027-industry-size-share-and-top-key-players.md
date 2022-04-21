@@ -38,6 +38,20 @@ related:
         width: 960
         height: 629
         isCached: true
+  - title: "d-Matrix Gets Funding to Build SRAM ‘Chiplets’ for AI Inference"
+    excerpt: "Hardware startup d-Matrix says the $44 million it raised in a Series A round today will help it continue development of a novel “chiplet” architecture that uses 6 nanometer chip embedded in SRAM memory modules for accelerating AI workloads. The goal is ..."
+    publishedDateTime: 2022-04-20T21:54:00Z
+    webUrl: "https://www.datanami.com/2022/04/20/d-matrix-gets-funding-to-build-sram-chiplets-for-ai-inference/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/chip_shutterstock_emp-64GTX.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "Z0tp6wSTxXd58DICJKY2plNtfi6BPuKp0HRPvzIosY61ZBp4H5/Q2hciJqsVYhx2M6dlU3q0GBOO3nQ+zSAYL1N0hddaW3nuVbAd9k7taBCNHnKQEhUgEPxsb8pM7epVxn0Xwwlitt/iFtT/n1SoXceG/MwNCvuz1sMWQN2VQr3Xg0c08TodpzodX/RKZJWa4kjo8B8tu9SdfikeUrI4LIe17xoVLjRUGcdwsATdGPTdsVRDJ9veXPNYtf3cH2qP88qC+xzyh0Z81hCiVyxMk3zvlfDdX8q081i2KZ32lMU6lsjyQuyc4XaOnJV0scYpwGxn9zqq1XK7XynY57h4s2iCCktvfegF3mKrIAmI1uA=;c2r4ft38qAEgZOlnqt8kMA=="
 ---
