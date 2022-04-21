@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:09:00Z
 originalUrl: "https://www.medindia.net/health-press-release/The-FSHD-Society-is-deploying-powerful-AI-technology-to-improve-clinical-trial-design-for-facioscapulohumeral-muscular-dystrophy-579436-1.htm"
 webUrl: "https://www.medindia.net/health-press-release/The-FSHD-Society-is-deploying-powerful-AI-technology-to-improve-clinical-trial-design-for-facioscapulohumeral-muscular-dystrophy-579436-1.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medindia

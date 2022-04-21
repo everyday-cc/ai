@@ -79,6 +79,20 @@ related:
         width: 436
         height: 581
         isCached: true
+  - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
+    excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
+    publishedDateTime: 2022-04-21T12:59:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/media-alert-business-insurance-to-host-webinar-how-artificial-intelligence-is-transforming-the-insurance-industry"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 14
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t2YvdWAEaCjrYKuIer9uoc01GNQjavXdALjy2tAJ6y6EoD8YWima9Q+p3eXeGZeb9ovL/j3N/aSt2IUAiVo18g9J3zWVsP2Hi8Z+xB5KFMKlPOtAEXCwG6pcFVJZz2zDY1S2biv0dsKKeUf3fxLUStomNx4uQEO9+LWkiS9oblO1ZJcdDUYNcJk4NhnS/DB5wQX9TbCTzDBPvp4/oouwyHUT8wJRYrT84m99h4Ao5mEJoyFuNtkjJ19TGVzXM0rdW1Rv4HtkszzBMbv4hqfo8vXDbwqIqkf4N/VcfONKk2qu8NnopM1aG8Fx9OxG7kPFwLhDEyeSM4wMpDr7xActOwE8widhkVgU23PxOTjKDZ0=;V/ek7ZdZlNuvJsuoQkEJ3g=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Soft Robotics Forms Startegic Alliances with Quest and Ossid"
+    excerpt: "Soft Robotics Inc. announced it has teamed with Quest and Ossid to offer a robotic handling and packaging solution to the food industry"
+    publishedDateTime: 2022-04-21T13:07:00Z
+    webUrl: "https://enterprisetalk.com/news/soft-robotics-forms-startegic-alliances-with-quest-and-ossid/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
+
 secured: "J6qXe2Nd+wdgVyEUUFn2Irw+vnjUZmjD749XMu2gN4Q2U0xNjQcq/hDOyPrN+rB55INH5nfNLaQQs6/cNO/PBnumBUo6LQomKUEhiX4TdH+xMT3g9mNVlcKDimQ5xVaJEazn8QBgwmDdKkSyIokyxJNl89oBuZzYDkpBl1c83/Mx5C65Ck1bTT4EFmHx2K+vuCJ+7Oe1lTNwPEf+dM6iA++pKFSjlCqHeiR32A7NzEErKbzq3y5NDljQldrNchCuOBbGRARW1S6bPG3ChsyrzoPqDSqoD1nlxiMVGN13LoYysrNnSM5rtecBneF9uZ7a9DXPjXLQ0+pEyoqRNYuRcbgeIDlCjN0CrZbQEHUdaSc=;l13upqve48072uLIk2g26w=="
 ---
 

@@ -439,6 +439,15 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 4
+  - title: "Green Light for Self-Driving Cars"
+    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
+    publishedDateTime: 2022-04-21T12:01:00Z
+    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Evans Halshaw
+      domain: evanshalshaw.com
+    quality: 4
   - title: "Changes to The Highway Code will allow drivers to watch TV on in-built screens but not use mobile phones in self-driving cars"
     excerpt: "Just months after some of the biggest changes in its history, The Highway Code is changing again and here's why."
     publishedDateTime: 2022-04-20T13:52:00Z

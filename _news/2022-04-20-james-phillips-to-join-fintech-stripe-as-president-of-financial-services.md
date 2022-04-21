@@ -97,20 +97,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding"
-    excerpt: "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,"
-    publishedDateTime: 2022-04-21T11:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-canadian-fintech-start-up-savvii-group-inc-offering-/2022/04/21/9586796.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/1800983/Savvii_Group_Inc__Canadian_Fintech_Start_Up_SAVVII_Group_Inc____.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
     publishedDateTime: 2022-04-18T04:34:00Z
@@ -138,6 +124,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 4
+  - title: "Adyen: A FinTech Stalwart Priced To Perfection"
+    excerpt: "Adyen is a leading payment platform. Click here to read about the core business, growth prospects and PT for ADYEY stock."
+    publishedDateTime: 2022-04-21T13:30:00Z
+    webUrl: "https://seekingalpha.com/article/4501844-adyen-fintech-stalwart-priced-to-perfection"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-20T18:37:00Z
@@ -147,6 +142,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding"
+    excerpt: "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,"
+    publishedDateTime: 2022-04-21T11:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9586796.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "UfXkcS8rSlTmAeb7Jo+ajcSUQKphzEsaBCw/TBfWnns9BxqwBIQAQ/n83IcaTVc3aK6Qh7G5cejXMokOgKfZFuPG1/ahVzu5zMB/6G8hEbTXpryAQmIRgnreG2Tw8Il7x/vV7a1/k337Ob6VoRslpjlU6tjBU2tn20Qbhmvqz5ZKOvpw5rxl+Y/Lf1PVLit9dnsHHvF9t1pzfUgtapEP19V2CRHR/KTPNjumAr3/gCK97TTQyEJ4izTKM9pDdkar1ugKUspjczcPEN8XPmDLI/4jllkHoVbqe87hL63ozAGwB9+G6hjEiNuB6BTnL+ih49rJ0yTM4WNHqGKYiGPIDIpn5nuAeAgmyL2m3U6F+J0IzuMOvYPjKuygHpqIavCx5V9/R0ecENu9GKCS+twXDfQDIDWmAuYb2TQzychTFhsDHA1qAdCAbviWnHGw4GbcZ/beukWRQVWD7ZhZZyNU3u7FXIcf1wR8ri8xbdnFcX70Qh+8uRN8t9CjilOiZmL/v6wsjwe9KaRtcigG8s3krQ==;uwIU5yCuCtyAxGnDDXWjgQ=="
 ---

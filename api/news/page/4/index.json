@@ -2,6 +2,216 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-17-ibm-amd-embrace-israeli-artificial-intelligence-technology.md",
+      "title": "IBM, AMD embrace Israeli artificial intelligence technology",
+      "excerpt": "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "originalUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/04/NeuReality-IBM-TOI.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "publishedDateTime": "2022-04-17T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond.md",
+      "title": "Innovations in management of Parkinson’s Disease: Robotics, artificial intelligence & beyond…",
+      "excerpt": "April is the Parkinson’s Disease (PD) awareness month, commemorating the prevalence of this extremely tenacious, incapacitating and difficult-to-treat chronic degenerative neurological disease. What is Parkinson’s Disease?",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
+      "publishedDateTime": "2022-04-17T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-team-uses-ai-and-robotics-to-treat-spinal-cord-injuries.md",
+      "title": "Team Uses AI and Robotics to Treat Spinal Cord Injuries",
+      "excerpt": "A team of researchers at Rutgers University has employed artificial intelligence (AI) and robotics to formulate therapeutic proteins. The team was able to successfully stabilize an enzyme that can degrade scar tissues resulting from spinal cord injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
+      "originalUrl": "https://www.unite.ai/team-uses-ai-and-robotics-to-treat-spinal-cord-injuries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/04/human-skeleton-163715_1280.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-internet-aghast-at-ai-facial-recognition-used-to-identify-dead-russian-soldiers.md",
+      "title": "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers",
+      "excerpt": "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions",
+      "originalUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp",
+      "publishedDateTime": "2022-04-16T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update.md",
+      "title": "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU) Short Interest Update",
+      "excerpt": "Healthcare AI Acquisition Corp. (NASDAQ:HAIAU – Get Rating) was the target of a large decrease in short interest in the month of March. As of March 31st, there was short interest totalling 2,800 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks14.jpg",
+          "width": 1024,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/16/healthcare-ai-acquisition-corp-nasdaqhaiau-short-interest-update/amp/",
+      "publishedDateTime": "2022-04-16T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-deep-science-ai-cuts-flows-and-goes-green.md",
       "title": "Deep Science: AI cuts, flows, and goes green",
       "excerpt": "TechCrunch's Deep Science column looks at the past week in scientific research. This edition touches on AI applied to recycling, among other topics.",
@@ -935,238 +1145,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-helps-teachers-spot-students-with-learning-difficulties.md",
-      "title": "AI Helps Teachers Spot Students With Learning Difficulties",
-      "excerpt": "Artificial intelligence helps teachers identify which of their students have learning difficulties, according to a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
-      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62587506d54fb4ce7f4f6c3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/04/15/ai-helps-teachers-spot-students-with-learning-difficulties/amp/",
-      "publishedDateTime": "2022-04-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-tetrate-announces-its-tools-will-now-run-natively-on-arm-chips.md",
-      "title": "Tetrate announces its tools will now run natively on Arm chips",
-      "excerpt": "Tetrate, which builds service mesh support software, announced that their products will now support Arm’s Neoverse platform. Both of its major tools, Envoy and Istio, now run natively on the Arm chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/",
-      "originalUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2013/08/arm-chip.jpg?w=1200&strip=all",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/15/tetrate-announces-its-tools-will-now-run-natively-on-arm-chips/amp/",
-      "publishedDateTime": "2022-04-15T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-can-be-creative-ethical-when-applied-humanly.md",
-      "title": "AI can be creative, ethical when applied humanly",
-      "excerpt": "Question of morality in AI use for crime Humans, too, cannot be removed from the equation where ethics are central to the AI discourse, such as in law enforcement. In making a decision, humans would consider the morals behind it, said David Hardoon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-can-be-creative-ethical-when-applied-humanly/",
-      "originalUrl": "https://www.zdnet.com/article/ai-can-be-creative-ethical-when-applied-humanly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-be-creative-ethical-when-applied-humanly/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-be-creative-ethical-when-applied-humanly/",
-      "publishedDateTime": "2022-04-15T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study",
-      "excerpt": "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/",
-      "originalUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Responsibility-for-AI-Ethics-is-Shifting-from-Tech-Roles-to-the-Business-Executives_-says-IBM-Study-1024x585.png",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/",
-      "publishedDateTime": "2022-04-14T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
-      "title": "BPCL Teams Up With Microsoft To Leverage Cloud, AI Technologies",
-      "excerpt": "Bharat Petroleum Corporation (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessworld.in/article/BPCL-Teams-Up-With-Microsoft-To-Leverage-Cloud-AI-Technologies-/15-04-2022-425517/",
-      "originalUrl": "https://www.businessworld.in/article/BPCL-Teams-Up-With-Microsoft-To-Leverage-Cloud-AI-Technologies-/15-04-2022-425517/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessworld.in/article/article_extra_large_image/1500981658_FkEhsb_founding-team.jpg",
-          "width": 870,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Businessworld",
-        "domain": "businessworld.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

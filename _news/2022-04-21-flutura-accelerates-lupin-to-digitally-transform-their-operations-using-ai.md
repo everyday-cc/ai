@@ -62,6 +62,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
+    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date PITTSBURGH and CHICAGO and REDMOND,"
+    publishedDateTime: 2022-04-21T13:48:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220421SF31693/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 11
 
 secured: "wkIrrLTFR7FGHYqNZ83aW83BNY+5X4LaT36G6vYghZwm41fLy2RYnypB+b7Nj0GtE+A5I7zk5yyC7g9VmzhQds7HJqlcwmN3k7dPqXXfn/gZioFhxlqt7Y54B+8fltDHlp0CaK0t//tE5jiXyBdSH5yYrZFDEkLCVDXiURuBJKzkZXurJP57ti0GHaaUnjady6oegO3qfG3AWOvlFyPric+0jXGH8GEuNcRHhBJxtPBFddQ7DBAk2LPI+/JVUAxYixCjowaKLp5iNzuHiWnSQHjX7lr5bpLTLxokdexde4tnBhAkOrQCSmrqWYBXAKkIPB3rgqVJ9+iHt0ImxF809/7OijciU2GBWTr+D+3s85M=;NEgFoVR+95/DEyqXHVYkrQ=="
 ---

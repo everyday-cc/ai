@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3825191-guardforce-ai-skyrockets-35-
 webUrl: "https://seekingalpha.com/news/3825191-guardforce-ai-skyrockets-35-in-early-trade-on-initial-us-robotics-solutions-rollout"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Is Guardforce AI (GFAI) Stock Up Today?"
+    excerpt: "Guardforce AI (GFAI) stock is rising higher on Thursday as retail traders react to recent news from the robotics company today!"
+    publishedDateTime: 2022-04-21T15:47:00Z
+    webUrl: "https://investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/"
+    ampWebUrl: "https://investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/04/why-is-guardforce-ai-gfai-stock-up-today-april-21/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
     publishedDateTime: 2022-04-21T11:35:00Z

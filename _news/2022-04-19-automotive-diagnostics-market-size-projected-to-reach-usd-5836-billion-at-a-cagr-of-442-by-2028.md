@@ -88,6 +88,15 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
+  - title: "Computer Vision Market Size Is Projected To Reach USD 13380 Million By 2028 At A CAGR of 6.2% - Valuates Reports"
+    excerpt: "Computer Vision market is segment by Type - PC Based, Smart Camera Based, Segment by Application, Quality Control and Inspection,"
+    publishedDateTime: 2022-04-21T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-is-projected-to-reach-usd-13380-million-by-2028-at-a-cagr-of-6-2-valuates-reports-832179358.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
 
 secured: "9QeoW04J1JTt1ql2zPbVvid0awpJRIuf16j/N1n0pemusT9GeaXGSFOuq6NxTK4CdTxaWL3X+Pg283E+POp9HPmfwBo/cxwDhiy6e9T7R8WXvOWWhImITnHgjNPVC2IQfqB/zgaat5A0pD7j8TRhfOCe5MZDP/TcCc86j4a0RCS9/XVQ8TEkHxDQl0FADCcOmyh97oz1yuxg43qNCjZa89MaUymXSKBN5tkfzqmkI7ltED7hyWkbD3tvcpd4e6rgArxwi9fI15wbZlBnL5aQNaRtzTp1Y7gUJV2t1qAHaeDMZb3m2n2HHYz1JbB0vQEiB347FhbHBKjCGXF6bLRkA4ITCGN4rN36PTocaiSGKaI=;mw4dNnRwM41JGWpmX6XdhQ=="
 ---

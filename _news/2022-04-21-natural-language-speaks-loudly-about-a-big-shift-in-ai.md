@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:00:00Z
 originalUrl: "https://www.technewsworld.com/story/natural-language-speaks-loudly-about-a-big-shift-in-ai-176676.html"
 webUrl: "https://www.technewsworld.com/story/natural-language-speaks-loudly-about-a-big-shift-in-ai-176676.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TechNewsWorld

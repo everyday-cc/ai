@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T13:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

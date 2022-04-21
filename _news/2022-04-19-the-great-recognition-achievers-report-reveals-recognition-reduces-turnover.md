@@ -35,15 +35,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
-    publishedDateTime: 2022-04-19T12:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
   - title: "Speech recognition technology engine gathers more pace"
     excerpt: "Speechmatics, a Cambridge-based speech recognition technology scale-up, has unveiled a globally transformative advance to the engine driving its solutions. It reveals a major step in delivering “truly comprehensive” speech recognition by adding Entity Formatting functionality to its Autonomous Speech Recognition (ASR) software."
     publishedDateTime: 2022-04-19T18:46:00Z
@@ -64,6 +55,15 @@ related:
       name: finanzen
       domain: finanzen.at
     quality: 11
+  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
+    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,"
+    publishedDateTime: 2022-04-19T12:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ipQDDMoXQzffiNqixyrR6Ic1LZgr+w2s8yK85p945vonbSHdNC6Lx4y6wsAXEfMUfizh7mXMTH0eFuM1aDuyn9HF/Pi1bASmKyxrrwU4e5VCiTcNK3pop4L1sWUSg20YUbwxQM+eMxDf1CT68TTWITs7Y6Q1kYVE9S61fXCCtrfcdtVjpIcc8g4/PQG0YBrzrPZModPUhG0CsBjDasdIdxCYEhIJDRNJHUEXPR7QvYUEdcGnx93adLGgd/wiMMc1Hekko2NhLKBwIeYlB0SiLmkV79DTvd66fTlx/2DcKbUoOpydbEOkV9c/B+KffbP4UpWi0iqScBAUgYusD5e937d6B2gVCPGQpfhT9rIDufU=;QrydS+QWs9otbbDLe1v0vw=="
 ---

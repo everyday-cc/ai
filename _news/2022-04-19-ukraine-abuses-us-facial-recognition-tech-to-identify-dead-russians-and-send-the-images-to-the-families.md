@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers"
-    excerpt: "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind."
-    publishedDateTime: 2022-04-16T21:48:00Z
-    webUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions"
-    ampWebUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
     excerpt: "(The Hill) – Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the war, according to The Washington Post."
     publishedDateTime: 2022-04-19T10:46:00Z

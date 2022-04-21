@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:00:00Z
 originalUrl: "https://www.axios.com/pro/health-tech-deals/2022/04/21/exclusive-clinical-ai-startup-mendel-rakes-in-40m"
 webUrl: "https://www.axios.com/pro/health-tech-deals/2022/04/21/exclusive-clinical-ai-startup-mendel-rakes-in-40m"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Axios

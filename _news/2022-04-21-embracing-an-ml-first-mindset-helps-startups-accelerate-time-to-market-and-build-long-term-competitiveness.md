@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T13:07:00Z
 originalUrl: "https://venturebeat.com/2022/04/21/embracing-an-ml-first-mindset-helps-startups-accelerate-time-to-market-and-build-long-term-competitiveness/"
 webUrl: "https://venturebeat.com/2022/04/21/embracing-an-ml-first-mindset-helps-startups-accelerate-time-to-market-and-build-long-term-competitiveness/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: VentureBeat

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-all
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/"
 type: article
 quality: 58
-heat: 358
+heat: 368
 published: true
 
 provider:
@@ -430,6 +430,15 @@ related:
     provider:
       name: Just Auto
       domain: just-auto.com
+    quality: 4
+  - title: "Green Light for Self-Driving Cars"
+    excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
+    publishedDateTime: 2022-04-21T12:01:00Z
+    webUrl: "https://www.evanshalshaw.com/news/green-light-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Evans Halshaw
+      domain: evanshalshaw.com
     quality: 4
   - title: "When will self-driving cars arrive on our roads?"
     excerpt: "The Highway Code is being updated ahead of the first self-driving cars being allowed on Britain’s roads. Here the PA news agency answers eight key questions about the technology: – Can I already use a self-driving car in Britain? Not yet. Existing ..."

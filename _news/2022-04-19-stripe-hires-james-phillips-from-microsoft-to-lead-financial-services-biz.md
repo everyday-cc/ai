@@ -65,6 +65,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 15
+  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
+    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date PITTSBURGH and CHICAGO and REDMOND,"
+    publishedDateTime: 2022-04-21T13:48:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220421SF31693/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 11
 
 secured: "7TsMZMU6eRjdhOFuserOsooi2nfQIeh/l77/iducUnTwJLfue/Pvg7vNSf6cKOBOl4ihldEvB1QXAzl7e51gXCSIwnhHlLEhQdUnVoOxBbhRgoYAePbQBGXYYM5Ojxgf6HGX5Cu1lJXKKJgy7r/rZ7ttAl1NqFEHDpxPp6ARGq2RfJE4eXhg8OXEmwp+Ev8wL26CZ+dtat8xxYGvkWP0qot+8m+PlbfM95YHHcnR7xqA/KRtMHdjKxXr9C1O6RLzt+c5ZGqTOFaWNkrRLrye3W0zDFG+igjfpbp72a9mhmGOT1C92XE7lF1YdbilfWKUwDlxnMW+YYpXmuLx9rLBGl0FjJJC7OgWJl6RNY0gWWomI7DONyV35wcyfzRtfgv3ugqvKw+sm/sJseUPAs01jmJNsI1DFM02jPXuSg+vAFMCEPH7lotwYQOXUroOG9pfWrbQ9dL6SOb0m+OcY21yT+UnMSPfYbqjxAEGQluMW4xEp9N4znw1Q6RZitxgQQ/0Nd3HqX0bAlmW4QvbFayrig==;u5cypGgfJDk8NFMVHO7kbg=="
 ---

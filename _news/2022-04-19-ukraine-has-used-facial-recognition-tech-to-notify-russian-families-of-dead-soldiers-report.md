@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-reco
 cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: WFLA
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Internet Aghast at AI Facial Recognition Used to Identify Dead Russian Soldiers"
-    excerpt: "Reporters and readers reacted to the news that Ukraine is using facial recognition AI software to identify dead soldiers Russia left behind."
-    publishedDateTime: 2022-04-16T21:48:00Z
-    webUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions"
-    ampWebUrl: "https://futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ukrainian-ai-software-dead-soldiers-reactions/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 74
-    images:
-      - url: "https://wp-assets.futurism.com/2022/04/ukrainian-ai-software-dead-soldiers-reactions-600x315.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers, report says"
     excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
     publishedDateTime: 2022-04-18T22:59:00Z

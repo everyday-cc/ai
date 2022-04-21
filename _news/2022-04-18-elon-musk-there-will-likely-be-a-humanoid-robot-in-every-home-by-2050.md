@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/robots-musk-in-homes"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Interesting Engineering
@@ -26,6 +26,17 @@ images:
     width: 744
     height: 419
     isCached: true
+
+related:
+  - title: "Elon Musk says his new Optimus robot coming in 2023 ‘will be worth MORE than Tesla’ – and it will do all your chores"
+    excerpt: "ELON Musk has revealed that his upcoming Optimus robot will eventually be worth more than the Tesla car business. The sci-fi droid was announced last year – and will look like a human. It’s"
+    publishedDateTime: 2022-04-21T13:44:00Z
+    webUrl: "https://www.thesun.co.uk/tech/18328031/elon-musk-optimus-robot-tesla/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 13
 
 secured: "A0QkCZvHP3brm72munQbmLeqYDBPRR5bXRchDe/I3sh2sn2t275IvNYpL6mxgCA0As6PquObkJ7FcNAd3xG89BbXE4Xuh5fzvrTdSPwCdNTHkEl9EibeIOBrQsu14Bbh/vLF12S1b7/Y8qqAXBC1TabfIUt6oBM8+soAydXLHer+6wO+f114PD0q4T4yHlnYW2BFSMkzZSl6Gz81OY9CKXVmpI4uAKQT9LW13qYExv38Z4zGxk/erbpZYVZhbZsDh3PQTlxkJgCRYzA3LozUrHeqhUddKAfUedEW8N4KbXlodGEbbUbZSHK1XhITj8IWnntwXTxR/NOlymVow/Zhh8hXPl87DlVruLItR679eVzzGBd3C8xKqRpFd+zAQZYlDr5VcmLHwr3HIQzZ3PL76emPnBVJV+kWHrragwsFPgMUKwBL6bWGHpAl8HiDssOzc1vItoqcRuQEHREi3+WzYlAf15vZqiQ6XXDSG3QhjVMa2D9bgVx22WGIIAQvk06bIF1k6pV9SxcX/j9O0NZpeA==;iZT24ZAE4mD8Q5cS8E2eXw=="
 ---

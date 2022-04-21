@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T13:44:00Z
 originalUrl: "https://www.thesun.co.uk/tech/18328031/elon-musk-optimus-robot-tesla/"
 webUrl: "https://www.thesun.co.uk/tech/18328031/elon-musk-optimus-robot-tesla/"
 type: article
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: The Sun
@@ -15,6 +18,24 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+
+related:
+  - title: "Elon Musk: There will likely be a humanoid robot in every home by 2050"
+    excerpt: "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years."
+    publishedDateTime: 2022-04-18T15:57:00Z
+    webUrl: "https://interestingengineering.com/robots-musk-in-homes"
+    ampWebUrl: "https://amp.interestingengineering.com/robots-musk-in-homes"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 61
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lJ5z0OD/sizes/tesla-bot_resize_md.jpeg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "4S8t7TVYkv4GGfRikn04v94B/cwoOFTSTG6dbraoDeI09SzUZxJXQdODx3yKRpVu9fcQwuPPQlrFM3rmmyjWVa5krH9QaYsJIrHEhaIiKowOKmC0hESK+DYYFBZBhbS1qxTl8KyNp8di7/u1AY5KhiXMa+7nZrdib+l9S6KXBvFOI2/QvInKOJT1c0N5TFragE63sIK/G4hL7iaC3inJe8Iemn/MbBNzVSqWhulr5hER2vOrhjoDL0mvoH8Ad927YNun0Xtlvm9Z2iUZ0oTNxBD1FQly0yeJOdul7VhowaM6xLRpmDKbDFVYKjvyBKipm+P7cNn4/kak6XOr9UB2mHxXLfxeoXzme+/6PTloWlg=;hxZ1y89OkaPYm+fnuI4aUg=="
 ---

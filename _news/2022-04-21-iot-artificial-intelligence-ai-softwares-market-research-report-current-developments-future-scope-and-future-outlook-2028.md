@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T06:50:00Z
 originalUrl: "https://www.marketwatch.com/press-release/iot-artificial-intelligence-ai-softwares-market-research-report-current-developments-future-scope-and-future-outlook-2028-2022-04-21"
 webUrl: "https://www.marketwatch.com/press-release/iot-artificial-intelligence-ai-softwares-market-research-report-current-developments-future-scope-and-future-outlook-2028-2022-04-21"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: MarketWatch

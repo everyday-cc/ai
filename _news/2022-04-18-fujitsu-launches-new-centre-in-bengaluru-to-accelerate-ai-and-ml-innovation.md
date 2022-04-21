@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-benga
 webUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 400
         height: 244
         isCached: true
-  - title: "Deal inked to establish National Centre for Big Data Science and Artificial Intelligence"
-    excerpt: "AMMAN — The Hashemite University, Zain Jordan and the Big Data Solutions Corporation on Saturday signed a partnership agreement to establish a Jordanian National Centre for Big Data Science and Artificial Intelligence. According to a statement by Zain ..."
-    publishedDateTime: 2022-04-16T19:55:00Z
-    webUrl: "https://www.jordantimes.com/news/local/deal-inked-establish-national-centre-big-data-science-and-artificial-intelligence"
-    type: article
-    provider:
-      name: The Jordan Times
-      domain: jordantimes.com
-    quality: 8
 
 secured: "ZUNLRSCY1fhN4r7tltYcEGBt+5uXuyG9UleTbVhIUdHhOIonKI4hOY72tLbGzYpv7OHBFOIWPOxwJRMDbyb3oZw/KJ3cMjccYiAWky/fHRsX1YFj49aYmFg18JRCMSh0AYRjUlfPOFmLlTRc+5594y/ZyCZRO9e6Nv/5gtnDkEExGxugFKiwUVZS4Bi4AN4FYgGkEJkFgYethEEwZRYdOE5uxft2vOcBY0nvbxX1F3uswo1EHLYZyxb4ql0tXx1LCo7BLnCzvVwuEibc3y7KgAwx8PuDN9jabDsu2+xVZ7jqi/qrHsrzg8vnhM6BKOJ2kY1cyq7Nvf+MhSsDrfJj8u84uW3Kmie+KhbIPQQ0gjQ=;S9IrTu6SxovlO3aL8B3qqA=="
 ---

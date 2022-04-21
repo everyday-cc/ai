@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
+    excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qure.ai gets financial support to develop AI-based lung screening software"
     excerpt: "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said."
     publishedDateTime: 2022-04-21T09:38:00Z
@@ -79,6 +95,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 19
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
 
 secured: "CcH9QsQfENqTzqwUPRCCmkHQ6IparLmc4e3U1MF4J6IWbV55XDZa89K/QVkn40xLciEXkefTkEpMKakFptNvNuEVev2pgQdhuGA/24p+1iNcBMTDm3t0JkFGpEifqeSBtGRFjloai7nH/buXFzmcDN5YMjJzCjue1q62ufdn+1CZUxAdaGfUosgGDwJIVcsgznScYOFPznROK6PoZJF7lqbtIGFP7HYR/GHJe4tXpJ7WidlaVA/rPzau/xZCkThA+ZwntZZnLgUmgQNjgAXyp6jMeOfpKU86Kl+upT70afuqxbgw/q+Et0sI0Zt/7kTljAsVFbkj4e6PHezO2UpF1lR4iYL7PFlTjdwSiARcuUQ=;ewPnjWf05y612JfXswWHpQ=="
 ---

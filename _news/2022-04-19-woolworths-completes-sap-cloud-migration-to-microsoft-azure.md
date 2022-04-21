@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Braincube Now Available in the Microsoft Azure Marketplace"
+    excerpt: "With the move to Azure Cloud, the infrastructure is easy to maintain and we can roll out new plants rapidly. Braincube is driving innovation in the data analytics and AI space and we are delighted ..."
+    publishedDateTime: 2022-04-21T15:46:00Z
+    webUrl: "https://menafn.com/1104069967/Braincube-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?922726"
+        width: 427
+        height: 250
+        isCached: true
   - title: "Microsoft announces two initiatives to support startups"
     excerpt: "Microsoft AI Innovate's second season is inviting nominations from SaaS (Software as a Service) startups whose core applications or services are built using Artificial Intelligence (AI) technologies."
     publishedDateTime: 2022-04-20T10:19:00Z
@@ -87,6 +101,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
+    excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
+    publishedDateTime: 2022-04-21T13:34:00Z
+    webUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
   - title: "Stripe hires Microsoft veteran to lead financial services"
     excerpt: "Stripe has hired Microsoft’s digital transformation chief James Phillips as president of financial services. <br /> Phillips, who led a team of 15,000 in his role as president of Microsoft’s digital transformation platform group will join the B2B payments and financial infrastructure giant as it continues its plans to expand the business."
     publishedDateTime: 2022-04-19T10:46:00Z

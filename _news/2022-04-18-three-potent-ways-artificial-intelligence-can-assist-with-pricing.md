@@ -79,6 +79,20 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
+  - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
+    excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
+    publishedDateTime: 2022-04-21T12:59:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/media-alert-business-insurance-to-host-webinar-how-artificial-intelligence-is-transforming-the-insurance-industry"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 14
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "b46bji+nJ9OYzQGDfsDrqDYe3GI04AmEZKKYhSlUdSa/5WnKPf2ToaxV9wGp7+5FV6W2Q/u3LWjmYyRw0NJbW4QI/XUtK1sY7cTbPqECecjV/Tpwx/DddbCKvKgy8OPNwmfgFGJcT2SY4/kfXbKs73zv8J5eta9tyOxNMvjibueKoyCvHSCiAzlh2UZDw735bp1LqCFQQflC2yn2MF9cFM+yhfkT0dPQnRPQaIHNx7VHnZG8i6Dy1crcRn8Q+SVQ3dA50Ct7FfszDB4FW39Xgpb7SN2OAGixX8qbNcoZHdRUZLtcJbh+vd/WiF+l1ZnNtRPonktClcsvakqg5nCtS7k8u923jS9QBXvYegGpQy2q+p/wh0/s8K6qmw6tIjLuamLOg9pceSkHCLqkDJ6YETsMgkM3u3uqecQ+/6f20/Ohm5BQSCnVgF7Lt9ZkNqVm+b+zXGXCm/Vi+TB0kqY2r3WSgbJcjkhYu9Q9diYNFjVEAG+d8Dvaa36Pm/c1yIyZHMt3DaIhJKbtTvdzUkBstw==;T5vzcyf9CTYk1mGutXlrtA=="
 ---

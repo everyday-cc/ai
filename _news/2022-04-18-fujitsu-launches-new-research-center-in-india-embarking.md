@@ -53,15 +53,6 @@ related:
         width: 700
         height: 300
         isCached: true
-  - title: "Deal inked to establish National Centre for Big Data Science and Artificial Intelligence"
-    excerpt: "AMMAN — The Hashemite University, Zain Jordan and the Big Data Solutions Corporation on Saturday signed a partnership agreement to establish a Jordanian National Centre for Big Data Science and Artificial Intelligence. According to a statement by Zain ..."
-    publishedDateTime: 2022-04-16T19:55:00Z
-    webUrl: "https://www.jordantimes.com/news/local/deal-inked-establish-national-centre-big-data-science-and-artificial-intelligence"
-    type: article
-    provider:
-      name: The Jordan Times
-      domain: jordantimes.com
-    quality: 8
 
 secured: "4YFzaPTwpSXw//Z8t7vxrwZLfCdIA5HntaiX5cwOEJxWEojd9tW9wAKJMO9MZUiG3PAibIungvp+E6kal+eVeuPVsMLaa7/eoVSOdh3nJ5iPoRkK0pMu6Wnh4MP5/c8Z0A1stIUKBHhMbCA8L7l5bcQ3mjbmoaPM2YKCbxw1JFZu6tCuagG+Ma4SRYMmegrZ+erhJ/fChEDfrLcUZ0ykCLssgC35enXE3nXNqmxn1NzyhLSJWk3GHbqRNbkLZm3AKR8/+V1T4wevBgOLuUD7pmO4xENU2pCxgpEHEy1dMSXPR5oQmLfBTfb30l5ZrQRTT7lNxClwE2gnv3k61k/mbq56YScDW0MUuunnn0xByJILgkalb8adW2T3emDoYyO5ZazbkJzSHzGfSk0avipp79wNrwD7y9jHnq/Ueyar6AIIzY0sBbd6E0b0Yx7txHU56fY5qsyPt2Uhm102QHj0v93tVL1aunDrXO5bBbYxb5vwlPyZ9kXT9lSn5TSf+lUlpxO2m79NjWqrKuEE+aaz8w==;oqeAdigD3FnaMn9Zfx4shQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:12:00Z
 originalUrl: "https://www.digitaljournal.com/pr/face-recognition-systems-trends-technology-innovation-analysis-application-demand-forecast-2028-reports-and-data"
 webUrl: "https://www.digitaljournal.com/pr/face-recognition-systems-trends-technology-innovation-analysis-application-demand-forecast-2028-reports-and-data"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

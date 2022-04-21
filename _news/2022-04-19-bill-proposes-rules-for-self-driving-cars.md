@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "California tech CEO running for U.S. Senate wants to ban Tesla's Full-Self Driving"
+    excerpt: "Dan O'Dowd, CEO of Green Hills Software, said he's campaigning to \"make computers safe for humanity\" and ban Tesla's FSD, referring to the beta software as \"the most unreliable safety-critical computer system."
+    publishedDateTime: 2022-04-21T10:43:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/dan-odowd-california-tech-ceo-running-us-senate-wants-ban-teslas-full-self"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 28
   - title: "Virginia doesn’t specifically regulate ‘self-driving’ cars. Should we?"
     excerpt: "Just as flying cars consumed the fantasies of many mid-century Americans, today plenty of people put their faith in another utopian technology replete with endlessly elusive promises of improved safety and unbridled freedom: autonomous vehicles."
     publishedDateTime: 2022-04-19T04:04:00Z

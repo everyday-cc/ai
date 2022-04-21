@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-21-developing-ethical-responsible-and-trustworthy-ai-approaches-for-environmental-science.md",
+      "title": "Developing ethical, responsible and trustworthy AI approaches for environmental science",
+      "excerpt": "There's no doubt that artificial intelligence is embedded in our everyday lives. From smartphones to ridesharing apps to mobile check deposits, AI is so pervasive that we rarely think about how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/developing-ethical-res.jpg",
+          "width": 1691,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
+      "publishedDateTime": "2022-04-21T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
       "title": "AI’s future is packed with promise and potential pitfalls",
       "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -494,31 +537,22 @@
       "title": "AI Week brings together the world AI community",
       "excerpt": "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
-      "originalUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/5-dead-in-Minnesota-home-after-report-of-mental-crisis-police-say.jpg?w=2000&#038;ssl=1",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T13:00:00-07:00",
+      "publishedDateTime": "2022-04-14T12:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
+        "name": "WHNT",
+        "domain": "whnt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1398,50 +1432,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics.md",
-      "title": "How To Eliminate Ethical Bias From Machine Learning And Data Analytics",
-      "excerpt": "Julien Alteirac, Regional Vice President of UK&I at Snowflake explores... Over the next few years the increasing availability of tools such as AutoML will help democratise machine learning (ML) and em",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "originalUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2022/03/possessed-photography-jIBMSMs4_kA-unsplash.jpg",
-          "width": 2400,
-          "height": 1727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/how-to-eliminate-ethical-bias-from-machine-learning-and-data-analytics/amp/",
-      "publishedDateTime": "2022-03-24T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
         "AI Ethics"
       ]
     }

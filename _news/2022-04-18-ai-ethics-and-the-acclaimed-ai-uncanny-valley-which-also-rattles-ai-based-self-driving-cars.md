@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
 type: article
 quality: 97
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
+    excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qure.ai gets financial support to develop AI-based lung screening software"
     excerpt: "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said."
     publishedDateTime: 2022-04-21T09:38:00Z
@@ -86,6 +102,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 19
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
 
 secured: "hzHnPJhc2crnqq7NZfOHJcYRpIRh6Ga7tNuuyEgeMfOBbHGrYF/wYu48HQEHW15Be5/Y8TnZ/dSzEX+MRpDU8BbsgxdEvUgAfA0j5M7aksjdzk4UQr61sU8rl0sf/YEpHpwUdJXar+pWryQOny+kfFyvcqVpbh9+1NDIdNhmtVsQhk0KTxrqQBtj806LNqHYC6Kb8dq+eewadqbODXgApf1TSW4kE3Nk5jXiaRTLAOQ5hrl2cVN0dIIOZAiG9e3RTGks1+Ruex/rdkIqjBovbzGvO1MmFm1VjpgZ134qQuUxbGDg6zuSx9lUjqWU5xZUKoPDP4CtVriZhFluGzICahJ1cS6irtvJG+ZnOChi/GH695cyP9sPnEkYjZCNnf+ngbVbFXabE3TZpnZJo4BHtKN02V4hf6jCq6HgZQxx5V1cpet2JkhDN59BIVXvnqVsgUwXc2sR0a2tfhvnw0sUA5pJ2pmpRs8IWGb0+cp9Ed8FTng72aqWbpBk5d1P9SOWTOnG1OKhSz52tOGghLnM4A==;DHDYLsvtvBgLqBUUPsTL0w=="
 ---

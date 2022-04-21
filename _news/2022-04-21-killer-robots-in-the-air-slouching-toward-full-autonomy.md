@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:09:00Z
 originalUrl: "https://www.govinfosecurity.com/killer-robots-in-air-slouching-toward-full-autonomy-a-18929"
 webUrl: "https://www.govinfosecurity.com/killer-robots-in-air-slouching-toward-full-autonomy-a-18929"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: HHS

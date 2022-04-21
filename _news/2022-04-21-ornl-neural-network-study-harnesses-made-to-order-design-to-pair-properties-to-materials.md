@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:00:00Z
 originalUrl: "https://www.ornl.gov/news/ornl-neural-network-study-harnesses-made-order-design-pair-properties-materials"
 webUrl: "https://www.ornl.gov/news/ornl-neural-network-study-harnesses-made-order-design-pair-properties-materials"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Oak Ridge National Lab

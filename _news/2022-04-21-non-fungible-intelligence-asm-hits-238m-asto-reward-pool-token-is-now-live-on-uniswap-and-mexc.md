@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:38:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-non-fungible-intelligence-asm-hits-238m-asto-reward-/2022/04/21/9587087.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-non-fungible-intelligence-asm-hits-238m-asto-reward-/2022/04/21/9587087.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

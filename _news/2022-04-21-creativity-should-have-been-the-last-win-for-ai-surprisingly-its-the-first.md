@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T12:53:00Z
 originalUrl: "https://analyticsindiamag.com/creativity-should-have-been-the-last-win-for-ai-surprisingly-its-the-first/"
 webUrl: "https://analyticsindiamag.com/creativity-should-have-been-the-last-win-for-ai-surprisingly-its-the-first/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Analytics India Magazine

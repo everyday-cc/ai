@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A man resurrected his childhood imaginary friend using AI. It went badly"
+    excerpt: "A YouTuber had an imaginary friend: a talking microwave called Magnetron. He resurrected it with AI, and then it tried to murder him."
+    publishedDateTime: 2022-04-21T15:29:00Z
+    webUrl: "https://interestingengineering.com/video/resurrected-childhood-imaginary-friend-ai"
+    ampWebUrl: "https://amp.interestingengineering.com/video/resurrected-childhood-imaginary-friend-ai"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/video/resurrected-childhood-imaginary-friend-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
 
 secured: "9DQ/3Ro+ffuDE+njFHK2aLlBsREMDscDl4uP9sxi9kbUD7EebxZJxxA6QtXqJLAhnMdPkBRZmDFNyxu6fGvpEyEwuHyHPuOx9ilelE9M/2tG2aClXIp6sdFQ5Vaqg1uzCu4C+McByv+GTgS0dZvv0h2+spvLSwUVkuuTQiSn+ud2P/P2MiDu3Bz+5EwKuA68G+7g2rlPIoro7nXd3115GZ7Cyu+AwNOsWnGJaB4TJOZDbvMdmBensM00SHO3XMHdcYrDgzqu5mFf9THY0e16AdUNuXsEfHIvmwgMZqJ6iWI1NdR1EtaalDkM0U0kwwlXyC53XAEy+6tsf9LRXE3oBMyylruoBfTUBiANNUVkUanUbR2xVIVRmX0aFUEBI6qshrptPvcCIPYeDn+Qa09qBPuDnnaZFOsj0c/+zefNjpf3eyNejfhOVMEp1xfAYyNvRDy6cFq1/LmVjG7cWrIm6LX5MaJQe2/dvNmBmntvMOUGk7IYtrvqeFrMKCm45VAP1s+TVf8+KEQD2xu9K97mqg==;0v6P0lXf4DjN9MFuqShxUA=="
 ---

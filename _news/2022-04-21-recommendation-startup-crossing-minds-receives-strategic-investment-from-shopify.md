@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T13:10:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-recommendation-startup-crossing-minds-receives-strategic-investment-from-/2022/04/21/9587139.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-recommendation-startup-crossing-minds-receives-strategic-investment-from-/2022/04/21/9587139.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Shopify makes strategic investment in US AI recommendation startup Crossing Minds"
+    excerpt: "Ottawa-based e-commerce giant Shopify has invested an undisclosed amount in American artificial intelligence company Crossing Minds."
+    publishedDateTime: 2022-04-21T12:59:00Z
+    webUrl: "https://betakit.com/shopify-makes-strategic-investment-in-us-ai-recommendation-startup-crossing-minds/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 12
 
 secured: "33O5jGyPXGSixs3PZrPN1AiYNc+VQjHJvFLKNc4Cb6meDuHMRcS4GoPCi+B/If8jQR58o8KtdqHxQb/ZB+wT31Vx657BAndKjaeLEEp7qpkvlT4XPP0Q3Yy/2DxXwbcDitssJj9lzWcmKH4zm4gw0wQa7UoY2c2xMgdV8xeiSD7yRmRGQFBoacRGyhNgm2VUjXspv6OHga5Mct8p9w0WD08SlxGgLmTO3pp7ajtHRU3+AgHgF9blxA6REnM27vegQIJjPJjX46Uj6luqAKp21lDWMQBeWFzfcldjZDPtBKP0zbuP6Zrw7LfDRPJj7dTZHwOOtEknWriQyIy/JCqej3iA1stt2B/kM2guiXDQcrA=;qTzzcGXNA/LB0qA/FU1cJA=="
 ---

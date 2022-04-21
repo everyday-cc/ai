@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-mons
 webUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave"
 type: article
 quality: 63
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A man resurrected his childhood imaginary friend using AI. It went badly"
+    excerpt: "A YouTuber had an imaginary friend: a talking microwave called Magnetron. He resurrected it with AI, and then it tried to murder him."
+    publishedDateTime: 2022-04-21T15:29:00Z
+    webUrl: "https://interestingengineering.com/video/resurrected-childhood-imaginary-friend-ai"
+    ampWebUrl: "https://amp.interestingengineering.com/video/resurrected-childhood-imaginary-friend-ai"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/video/resurrected-childhood-imaginary-friend-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
   - title: "Man Brings Imaginary Childhood Microwave Friend to Life Using A.I. — And It Tries to Kill Him"
     excerpt: "A man who used A.I. to bring his imaginary childhood friend — who is a microwave — to life is warning of the dangers of artificial intelligence... after it tried to murder him. Self-described mad scientist Lucas Rizzotto told his insane story in a Twitter thread on Monday,"
     publishedDateTime: 2022-04-19T18:18:00Z

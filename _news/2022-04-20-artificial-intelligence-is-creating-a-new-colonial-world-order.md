@@ -40,6 +40,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "AI Is Creating a New Colonial World Order"
+    excerpt: "Artificial intelligence is enriching a powerful few by dispossessing communities that have been dispossessed before."
+    publishedDateTime: 2022-04-21T15:55:00Z
+    webUrl: "https://cacm.acm.org/opinion/articles/260261-ai-is-creating-a-new-colonial-world-order/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "eOc1/TgpJZ22RKJt3KwBgOtn3/Lf5+nDTAp0+B7oMa/hiVcthfwZIFqZ+/0NxCcr6SDm4zgC8FvXlEv9EodnwMwl6+I3GE5eIHa97UstX97UxrPCby7qsoxWJ6MVXrwZ2cTwqe+J7IV434UP5YOdFEj+C4avJW4kqErDRiahv7F+zDkjj3lAygnAIhj5sDsW9D2S+R7afdR84aN48taeejUnoosLZTJklo4HxBi2qmTQarPiHUvUriCM88kPe5iBqqFeT2Chk5uhc+1efhg9OxHo9pDbUcWkMwodFFHzgNoWMbXdZ0+OzV1b6yqQMi5x7keL5jsE4qpQ+MaMMh7fNviaI2/RVKqFquvnVTPrYVk=;Jlx5SMS16+obx8E9UDrRcQ=="
 ---

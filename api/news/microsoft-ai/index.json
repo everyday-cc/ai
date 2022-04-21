@@ -10,7 +10,7 @@
       "originalUrl": "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.albawaba.com/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -204,34 +204,25 @@
     },
     {
       "path": "_news/2022-04-15-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
-      "title": "BPCL Teams Up With Microsoft To Leverage Cloud, AI Technologies",
-      "excerpt": "Bharat Petroleum Corporation (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry.",
+      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
+      "excerpt": "Bharat Petroleum Corporation Ltd (BPCL) and Microsoft have entered a strategic cloud partnership aimed at accelerating the firm's digital transformation and driving innovation in the oil and gas industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessworld.in/article/BPCL-Teams-Up-With-Microsoft-To-Leverage-Cloud-AI-Technologies-/15-04-2022-425517/",
-      "originalUrl": "https://www.businessworld.in/article/BPCL-Teams-Up-With-Microsoft-To-Leverage-Cloud-AI-Technologies-/15-04-2022-425517/",
+      "webUrl": "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies-122041400474_1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessworld.in/article/article_extra_large_image/1500981658_FkEhsb_founding-team.jpg",
-          "width": 870,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T21:00:00-07:00",
+      "publishedDateTime": "2022-04-14T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Businessworld",
-        "domain": "businessworld.in",
+        "name": "Business Standard",
+        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null

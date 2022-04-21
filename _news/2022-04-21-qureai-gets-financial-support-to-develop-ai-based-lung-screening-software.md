@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
+    excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Artificial Intelligence the Future of Safe Driving?"
     excerpt: "Not everyone is on board with depending on computer-assisted autonomous driving. Humans continue to outperform artificial intelligence in terms of performance and efficiency. Before self-driving cars become a reality, more straightforward approaches can ..."
     publishedDateTime: 2022-04-19T13:58:00Z
@@ -79,6 +95,15 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 19
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
 
 secured: "wAFkZheopHy97tS/eQ+007CKPk5lQ4un49R2mCeyGhA+519uzCIQJiExSkgy0IhOq3MADvxKifCL1fwqz6u5+vEvr4WI/ZYWCin/aMLhxx3Vzkla6jITa/etWm99w6+A7JReS3fHZeWYi0Gk6i88f1iYdIkXCiBasAy6vMOjFCXsCnfp8k36CUui0/FgngZdhhh0Mr5tjCqOnJ3XtfVbfvuC1cNmklNAz776Roo+Or6hZS1A+3hlpgcP2vxITW1E0v5YRbTKbg/kgMfw8OqdzeK1JDuhA0HKqCb4pjebV9uzo1R78MAnxFPxul7itWSvDxCgFWXLEgTLOCYNituxbZqvukvrDKAOseHrc3AAPZI=;kx+Qi7qdmfXwkm6gv1Jxnw=="
 ---

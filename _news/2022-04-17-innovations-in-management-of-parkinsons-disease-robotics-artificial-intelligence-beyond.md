@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-mana
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Novel deep learning method provides early and accurate differential diagnosis for Parkinsonian diseases"
+    excerpt: "Using a 3D deep convolutional neural network to extract deep metabolic imaging indices ... “This work confirms that the emerging artificial intelligence can extract in-depth information from molecular imaging to enhance the differentiation of complex ..."
+    publishedDateTime: 2022-04-21T13:54:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/950362"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 23
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/24401f5e-a9db-4889-92f0-67b89d51d704/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 257
+        isCached: true
   - title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
     excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
     publishedDateTime: 2022-04-20T12:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T16:08:00Z
 originalUrl: "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/"
 webUrl: "https://fox8.com/business/press-releases/globenewswire/8525727/koios-intelligence-and-applied-to-further-digitize-sales-and-service-workflows/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FOX8 Cleveland

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-foc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "California tech CEO running for U.S. Senate wants to ban Tesla's Full-Self Driving"
+    excerpt: "Dan O'Dowd, CEO of Green Hills Software, said he's campaigning to \"make computers safe for humanity\" and ban Tesla's FSD, referring to the beta software as \"the most unreliable safety-critical computer system."
+    publishedDateTime: 2022-04-21T10:43:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/dan-odowd-california-tech-ceo-running-us-senate-wants-ban-teslas-full-self"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 28
   - title: "Bill Proposes Rules For Self-Driving Cars"
     excerpt: "A Rochester Democrat is proposing a series of regulations to govern the use of self-driving cars in New York state. Sen. Jeremy Cooney, D-Rochester, has proposed S. 8468 to amend the state Vehicle and Traffic Law. It authorizes the operation of a fully ..."
     publishedDateTime: 2022-04-19T04:10:00Z

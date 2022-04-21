@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T13:34:00Z
 originalUrl: "https://www.rijksoverheid.nl/documenten/toespraken/2022/04/21/toespraak-rutte-bij-international-four-freedoms-award"
 webUrl: "https://www.rijksoverheid.nl/documenten/toespraken/2022/04/21/toespraak-rutte-bij-international-four-freedoms-award"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Rijksoverheid

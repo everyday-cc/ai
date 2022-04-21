@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/conversational-ai-market-is-predicted-to-rea
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Computer Vision Market Size Is Projected To Reach USD 13380 Million By 2028 At A CAGR of 6.2% - Valuates Reports"
+    excerpt: "Computer Vision market is segment by Type - PC Based, Smart Camera Based, Segment by Application, Quality Control and Inspection,"
+    publishedDateTime: 2022-04-21T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-size-is-projected-to-reach-usd-13380-million-by-2028-at-a-cagr-of-6-2-valuates-reports-832179358.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
     quality: 0
 
 secured: "+G/7HPdwTOzvgH7kEq3HJrFm1QFm6M68aRRFfT8rNG58Uj9OT3IWNONGiRYC++8TLn4m5+pmghXPQMVMgXUbfJFq8qoRm0i61U3gX9OpVobyBT9GKHxVddikDD6ZJAnw15FTorcD4VeDnuUXOg3E8k3IRLTpyPfdNl411Jz/EipZ5Ha1uszc/kPxeRG8qUq+WbCQuDaVYcTDGSKn23ZW0lRB6C0esxb2HXwqPj1eLguJmcKeqPw3mhTJQ/mtEpY3B7eHYI399OSdvpI87m6PRfk9dSx1Y/BWpxjt3MocKWEMcHbr93nI6dncx30BBIVXqqb8sd1+NZnKoHcEHKw4WNxnuJQVG130WJoN5OccjUQ=;xat4jDW8fe1eYInSiwcVfQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T13:18:00Z
 originalUrl: "https://diginomica.com/uk-ai-strategy-half-term-report"
 webUrl: "https://diginomica.com/uk-ai-strategy-half-term-report"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Diginomica

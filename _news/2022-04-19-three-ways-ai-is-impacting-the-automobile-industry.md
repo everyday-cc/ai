@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
+  - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
+    excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
+    publishedDateTime: 2022-04-21T12:59:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/media-alert-business-insurance-to-host-webinar-how-artificial-intelligence-is-transforming-the-insurance-industry"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 14
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "//GuFxa2FxZzSxm/SYHByNlHmyZ/DFBQCBFnwKXDIDI51Jq7eVNOY3uFxUO+eb07YsjmjHlp7gX8wCxTU00YWJhixxXI3sEQ3hP/4ais//amHoxgX3DOPl7cbGUICFNz0msZY7Q/B+L/1/TcVFCf2G64/Z6/pXa8pQyVIwqy5IEjLMu2cVNhve8Y8+hFMk1nK2S1smvo5E3Tlt22RQzWGKT4vN1KjlPq1DSUieVufupH8+c2govQah4oftd0/oreBcXdD5Er1ELETVYC9xoovexs47tsDsi80gN35a6AQ+oZJReJxRj0rMvsg3yUcCgZ8YKAEwdeDGA2yAtsmqkuXgJd9it08H6lJ8Mu1/fJLRE8SAgNbZyadrR9diZsl6yzNgtVUXI3WcVHlWAVXxMQ+dO5807BM0VMvUjDYuJ73o85h4EDBI1Le4U7rtBfqSGkGUwUV8G/EbpyIiJt8EJ/2ADGQDxs8Yq6SE2K7W9le73cTsw8DSacj6SQa5Thd+681Tc8Xw0fDheLFAmJxQ/C4A==;HTTySEi0QwBByj/YoldSdg=="
 ---
