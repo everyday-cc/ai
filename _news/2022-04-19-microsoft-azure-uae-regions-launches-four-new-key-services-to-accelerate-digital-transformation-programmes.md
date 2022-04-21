@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-azure-uae-regions-launches-four-new-key-services-accelerate-digital"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Flutura Accelerates Lupin to Digitally Transform their Operations using AI"
+    excerpt: "Lupin and Flutura will collaborate to create a massive pharmaceutical data lake as the foundation for configuring digital twins of mission critical pharmaceutical processes as wel"
+    publishedDateTime: 2022-04-21T03:40:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247946&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "DEjwqicygDP8pklAKSxN4wK8aNwAp40ozylLBVlR1XqcRComDd+meZEqLjvnBycLtdkVkaR43Zpr5Gg09Bbw5NKd6d+5H9UzfY8pjeHpJ3GEOft05Di703QKWMYJ0guBZiGOE8gzIWKht/3EHZv8z6gtP8RlhgFEbhksz8cUwsls13fuS4Bl+qIZKscnoYK3goLaunqVwnJbax94ZQMYxrY2buDBfzjIRggOXs/CWDZ9BlzZjeeKHKP7+M5SYiOsi7CBTfl1H8BRyhpIZ6M7lgd9HmIcbvlOZtDfu6pu7m0x9qLtFR2KG4+0Gr3/XBsVyMTWNJRM/oU/q7QeQ2uHTu8e0oC9a0/dYEXTfRTfX6YD+D8G9j+4yoGU9uWM7ooET+O9K/GzLDOyvyUAUSUK713KnFYxQGtrs4N0rGLab7onwUvNfSwZpUPQ5Hvp5G3vapjoEwHtSyOjCiOBdywqFfVlBSRvw9TA0ZN0ql2UnkswxlcBBkzTWIFirPAz7ZH/kbeU1m2vuZqVH75YI0jKxQ==;M8IsluOPHUe6chsD1AfN+A=="
 ---

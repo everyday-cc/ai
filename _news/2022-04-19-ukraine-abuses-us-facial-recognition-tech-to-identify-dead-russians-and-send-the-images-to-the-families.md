@@ -83,6 +83,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ukraine uses US facial recognition technology to terrorize families of dead Russian soldiers"
+    excerpt: "The practice, which is a clear violation of international conventions on the treatment of dead soldiers, was reported on by the Washington Post as if it is a legitimate, if potentially problematic, military tactic."
+    publishedDateTime: 2022-04-21T02:02:00Z
+    webUrl: "https://www.wsws.org/en/articles/2022/04/21/wpvy-a21.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 43
+    images:
+      - url: "https://www.wsws.org/asset/f74d0ce1-7e47-4ef6-aad6-1bcc582f94d8?rendition=image1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3vmD9pgNyB1lcqsXhrlF0YEIxpeh2MFc81SjoJjJYZKeMdRAIY+GxMZ46HafBqu2XEdtgKolc3HLaB1Y7BFD+8eUjJYcRyBv+m/N0AmUImAjc6+yW4veqSUcSQcYit3fB5b6UOoFNtjMjBE/l/fLJ0Qc1wlzkwJJBhnx5/wYOl/8zl6uDua+uNjgYB+dQM4HZSULpKVTPW/ulMyXWwSwMEr+hyhWWPIKIWlVKYUN8XFK2HzQcnofWyCW5hLXFh32YqsHXGaOxT6lLL+Ffx0alz6s3fDhSjiJwwmGUOdri9DIou2VtWLjAWQuvtq1phqTtsHXP/YN7HnnZ1xM5F3IPzz+v8vZM9k0anuIPM3SgOc=;s8QF8TNRjevLhBcvbPeAjA=="
 ---

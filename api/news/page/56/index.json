@@ -2,6 +2,126 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-03-01-rogue-space-systems-receives-foundational-investment-from-seldor-capital.md",
+      "title": "Rogue Space Systems Receives Foundational Investment from Seldor Capital",
+      "excerpt": "LACONIA, NH, March 01, 2022 /24-7PressRelease/ — Rogue Space Systems, a startup developing robot spacecraft to deliver in-space services, is pleased to announce Seldor Capital, an early stage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/rogue-space-systems-receives-foundational-investment-from-seldor-capital",
+      "originalUrl": "https://www.digitaljournal.com/pr/rogue-space-systems-receives-foundational-investment-from-seldor-capital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Kharkiv-Ukraine-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-baidu-beats-quarterly-revenue-estimates.md",
+      "title": "Baidu beats quarterly revenue estimates",
+      "excerpt": "Chinese search engine giant Baidu Inc BIDU.O reported quarterly revenue above Wall Street estimates on Tuesday, powered by high demand for its cloud and self-d",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-beats-quarterly-revenue-estimates?amp",
+      "publishedDateTime": "2022-02-28T23:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-how-to-build-ai-into-your-organisation.md",
+      "title": "How to build AI into your organisation",
+      "excerpt": "Artificial intelligence engineering brings together various disciplines to tame the AI hype, while providing a clearer path to realising value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
+      "originalUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/qXhtGqfRmvYJemNXeBA1UrYupb6q0DGm9VELa4ioE_d74vqV-zZ7Q3LsZMF56J9dCI16rcZK9SdVHmDrToHkwC8PWErMndcvJ0M=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
+      "publishedDateTime": "2022-02-28T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
       "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
       "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
@@ -1005,143 +1125,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-mathematics-helps-ai-in-biomedicine.md",
-      "title": "Mathematics helps AI in biomedicine",
-      "excerpt": "\"Data is the new oil,\" it has often been said. Indeed, in the digital age data is the fuel that runs the engines of digital media, advanced informatics (AI, machine learning etc.) and, not least, scientific research.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/mathematics-helps-ai-i.jpg",
-          "width": 1280,
-          "height": 1020,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-mathematics-ai-biomedicine.amp",
-      "publishedDateTime": "2022-02-28T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-africas-first-ai-research-center-inaugurated-in-congo.md",
-      "title": "Africa’s first AI research center inaugurated in Congo",
-      "excerpt": "The Republic of the Congo’s Prime Minister H.E. Anatole Collinet Makosso has inaugurated the African Center for Research in Artificial Intelligence (CARIA) in the nation’s capital of Brazzaville – the first of its kind on the continent.",
-      "sourceUrl": null,
-      "webUrl": "https://africa.cgtn.com/2022/02/24/first-ai-research-center-inaugurated-in-republic-of-congo/",
-      "originalUrl": "https://africabusinesscommunities.com/sustainable-energy/news/africa’s-first-ai-research-center-inaugurated-in-congo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://africa.cgtn.com/wp-content/photo-gallery/2022/02/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
-          "width": 848,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "africabusinesscommunities.com",
-        "domain": "africabusinesscommunities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-28-microsoft-expands-azure-for-operators-with-hybrid-cloud-platform.md",
-      "title": "Microsoft expands Azure for Operators with hybrid cloud platform",
-      "excerpt": "Microsoft’s push into the telecoms sector has been strengthened at Mobile Worlrd Congress 2022 (MWC) with the launch of several new services that expand its ‘Azure for Operators’ cloud proposition The most revolutionary of 5G applications – such as Industry 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform",
-      "originalUrl": "https://www.techradar.com/news/microsoft-expands-azure-for-operators-with-hybrid-cloud-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

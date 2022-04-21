@@ -56,6 +56,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Flutura Accelerates Lupin to Digitally Transform their Operations using AI"
+    excerpt: "Lupin and Flutura will collaborate to create a massive pharmaceutical data lake as the foundation for configuring digital twins of mission critical pharmaceutical processes as wel"
+    publishedDateTime: 2022-04-21T03:40:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247946&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "7TsMZMU6eRjdhOFuserOsooi2nfQIeh/l77/iducUnTwJLfue/Pvg7vNSf6cKOBOl4ihldEvB1QXAzl7e51gXCSIwnhHlLEhQdUnVoOxBbhRgoYAePbQBGXYYM5Ojxgf6HGX5Cu1lJXKKJgy7r/rZ7ttAl1NqFEHDpxPp6ARGq2RfJE4eXhg8OXEmwp+Ev8wL26CZ+dtat8xxYGvkWP0qot+8m+PlbfM95YHHcnR7xqA/KRtMHdjKxXr9C1O6RLzt+c5ZGqTOFaWNkrRLrye3W0zDFG+igjfpbp72a9mhmGOT1C92XE7lF1YdbilfWKUwDlxnMW+YYpXmuLx9rLBGl0FjJJC7OgWJl6RNY0gWWomI7DONyV35wcyfzRtfgv3ugqvKw+sm/sJseUPAs01jmJNsI1DFM02jPXuSg+vAFMCEPH7lotwYQOXUroOG9pfWrbQ9dL6SOb0m+OcY21yT+UnMSPfYbqjxAEGQluMW4xEp9N4znw1Q6RZitxgQQ/0Nd3HqX0bAlmW4QvbFayrig==;u5cypGgfJDk8NFMVHO7kbg=="
 ---

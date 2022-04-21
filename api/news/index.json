@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-21-britain-gears-up-to-watch-tv-in-self-driving-cars.md",
-      "title": "Britain gears up to watch TV in self-driving cars",
-      "excerpt": "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed yesterday. The Department for Transport set out changes to The Highway Code to “help ensure the first",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741",
-      "originalUrl": "https://www.malaymail.com/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/20220421_Self_Driving_Vehicles_Generic_ETX-seo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741",
-      "publishedDateTime": "2022-04-20T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
       "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
       "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
@@ -891,7 +848,7 @@
       "originalUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1025,6 +982,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-people-will-be-allowed-to-watch-tv-and-check-emails-in-self-driving-cars.md",
+      "title": "People will be allowed to watch TV and check emails in self-driving cars",
+      "excerpt": "But under proposed updates to the Highway Code, people will be able to catch up on their favourite shows or check their emails while using self-driving cars. This will only apply when drivers hand ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
+      "originalUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 338,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_99710045.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/",
+      "publishedDateTime": "2022-04-20T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

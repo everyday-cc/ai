@@ -3,15 +3,15 @@ category: news
 title: "House panels probe government use of facial recognition software following security concerns"
 excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
 publishedDateTime: 2022-04-14T19:47:00Z
-originalUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+originalUrl: "https://www.wvtm13.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.wvtm13.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.wvtm13.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-wvtm13-com.cdn.ampproject.org/c/s/www.wvtm13.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WVTM 13
+  domain: wvtm13.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 677
     isCached: true
 
-secured: "ft0/2ikg1AkTmGH7Km6IpH6/ZPoX1RsAphF7mw+HodjFZkPc3lzckNTTlazN3a2bDgR+fhc0Cqb64Phw8eYWgWVtRw7Go2zfBaD7qvyjDI05ovSgCjY3Wkp9kGgaFQnLeKs4RKy3AZ2tS5Zv1Pm5BfsN4Z0ZsotUO4z9MlCSF5mA49GA2V2QveJE/Kpm0TbrjVfAUIhYuQpJwYZ8zqz3ajqpCB24ZXcE/vOl5plZ1Whzl0fUs/kPhJWGxePDgvPU12wMjYxQ1cVgGYcen2zgGo9rG0SK/bX//IMQ7h+sgvIULaAW/tNsN47fIScK5b/IPmytDY99uDX7ErCGaEeznHTVvuUL7ewNjtEwSVJki5r0qk46nTiNczUyehAqNrPkauIIUJcG9RKBxu0AT5FONYCzx4DAITpQkDTHl0RhOeE5NLV8SOx4u9JTPYofnqJLg8nuOz1InzKwHX9BM2cIYSJMn/qQLIgU88pkAiY7TlOeEhexHM149ZHpQi7LyA+61mZ6B/YDGre3iFAYYyE3pQ==;9ImUdqrJ2vgbBU9Q1n/i4A=="
+secured: "lmU/UPx2O+wr1l65RVJ5Eod6zOWJjlBigB67CWckVXzk8OgMsxPUQ4CuGLXzNparrBnriWgc9I6Cx7yX0XljHQVSwA+Dr7QtanQZaR91KjdrP6Df6YqHBSk+Dib0SAuG/Yfl9ia7syQJAU3DXJE3zLFesF/aWsujFGDMaMp0X5zYJUaUZ1mObMRJVWqrUEMYNpFawSag1o1NCgBLPWnCjBqz3c6oeuPBjaHtEouLVPm1m+dVOXir3WymeGFp1XC2gMaVB0xOkytFZMfrVBloOleRdehwK+ZYA0dLi0x1Xjbj/iDVvAgNHGQmnk+NblsFlrJ84oF4b5BDa2QZSSSl5+JoxXVr7mbK4ErCfxEr43A=;blr+K+fXkYE20VlzrMf/+A=="
 ---
 

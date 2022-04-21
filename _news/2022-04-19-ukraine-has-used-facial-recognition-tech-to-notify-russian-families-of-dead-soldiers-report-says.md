@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ukraine uses US facial recognition technology to terrorize families of dead Russian soldiers"
+    excerpt: "The practice, which is a clear violation of international conventions on the treatment of dead soldiers, was reported on by the Washington Post as if it is a legitimate, if potentially problematic, military tactic."
+    publishedDateTime: 2022-04-21T02:02:00Z
+    webUrl: "https://www.wsws.org/en/articles/2022/04/21/wpvy-a21.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 43
+    images:
+      - url: "https://www.wsws.org/asset/f74d0ce1-7e47-4ef6-aad6-1bcc582f94d8?rendition=image1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ukraine Abuses US Facial Recognition Tech To Identify Dead Russians And Send The Images To The Families!"
     excerpt: "Psychological warfare is a tactic in conflict, but the Ukrainians use the technology for different evil purposes with modern technology. The Liberal Washington Post reported that the Ukrainian government uses the US facial recognition technology to scan and identify the faces of dead Russian soldiers so they can send pictures to their families!"
     publishedDateTime: 2022-04-19T12:33:00Z

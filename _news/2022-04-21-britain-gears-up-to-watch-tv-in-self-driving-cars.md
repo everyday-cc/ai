@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Britain gears up to watch TV in self-driving cars"
-excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed yesterday. The Department for Transport set out changes to The Highway Code to “help ensure the first"
-publishedDateTime: 2022-04-20T23:57:00Z
-originalUrl: "https://www.malaymail.com/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
-webUrl: "https://www.malaymail.com/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
-ampWebUrl: "https://www.malaymail.com/amp/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2022/04/21/britain-gears-up-to-watch-tv-in-self-driving-cars/2054741"
+excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
+publishedDateTime: 2022-04-20T17:39:00Z
+originalUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
+webUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
+ampWebUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
 type: article
-quality: 59
-heat: 299
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/20220421_Self_Driving_Vehicles_Generic_ETX-seo.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "People will be allowed to watch TV and check emails in self-driving cars"
@@ -73,6 +67,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "GM Just Patented a Self-Driving Car That Teaches People to Drive"
+    excerpt: "For more than a decade, people have been trying to teach cars how to drive. In the not-too-distant future, this effort may come full circle, with cars teaching people how to drive; last week, General Motors applied for a patent on an autonomous vehicle equipped to “train drivers."
+    publishedDateTime: 2022-04-20T16:58:00Z
+    webUrl: "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/"
+    ampWebUrl: "https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 44
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/04/GM-Cruise-self-driving-car-2.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Watching TV at the wheel to be allowed in 'self-driving' cars"
     excerpt: "Changes to the Highway Code are set to make watching television at the wheel permissible for motorists travelling in a “self-driving” car."
     publishedDateTime: 2022-04-20T11:50:00Z
@@ -88,6 +98,38 @@ related:
       - url: "https://cdn.am-online.com/media/1/news-galleries/news/2014/1/8/what-does-the-driverless-car-mean-for-car-dealers-and-drivers-/34154/23957.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-driving car users could watch films on motorway under new DfT proposals"
+    excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
+    publishedDateTime: 2022-04-20T03:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals?ref=biztoc.com&curator=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_480_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=a4ec41422d81b1485f29e726e52da277"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
+    excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads"
+    publishedDateTime: 2022-04-20T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars?fr=operanews"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/20/driven-to-distraction-how-close-are-we-to-watching-films-in-self-driving-cars"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 40
+    images:
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
+        width: 620
+        height: 372
         isCached: true
   - title: "Motorists in self-driving cars can watch TV behind wheel in Highway Code change"
     excerpt: "People using self-driving cars will be allowed to watch television on built-in screens under proposed new rules. While it will still be illegal to use a mobile phone behind the wheel under the Highway Code, drivers will be allowed to watch TV and films if ..."
@@ -196,6 +238,20 @@ related:
       - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3c9dbc4ef65faae8/625fb6d246e74d0eb5f0d044/self-drive-car-tv.jpeg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "WATCH: Video of cop stopping self-driving car is ridiculously funny"
+    excerpt: "A video of a police officer from San Francisco stopping a self-driving taxi has been doing the rounds on social media. WATCH: Man shows genius way to drink wine In the video, you see the cop pull the vehicle over because its headlights were not on,"
+    publishedDateTime: 2022-04-19T07:55:00Z
+    webUrl: "https://www.jacarandafm.com/shows/mornings-with-mack/watch-video-cop-stopping-self-driving-car-ridiculously-funny/"
+    type: article
+    provider:
+      name: Jacaranda FM
+      domain: jacarandafm.com
+    quality: 24
+    images:
+      - url: "https://turntable.kagiso.io/images/cops_stop_a_self_driving_car.width-800.png"
+        width: 800
+        height: 376
         isCached: true
   - title: "Drivers allowed to watch TV in self-driving cars"
     excerpt: "The Government has set out changes to The Highway Code before the first self-driving vehicles are introduced on to UK roads. The plans, in response to a public consultation, will allow drivers to watch television while the vehicle is in self-driving mode."
@@ -361,6 +417,6 @@ related:
       domain: lynnnews.co.uk
     quality: 0
 
-secured: "baz/7GshrrePsIwnHbhdisdNwcl97EblbB00IP2hNJcgtt6diTO9E43FViAD/kPJek93exJE9wkKqJWwiYhFN/Z/oxknLlNGfJqrTba7SB50ywTR5+cwYvh6rH4E3l2tCETR4JNCRCVRewlHmw94SCq8QBEli8qZGL0GEzrdjqH3Wnh6v5XVXu9dsoYF35POS7OCAPem+obhsr5YJnvSHY/zvdznTVJqa46JlTDG9PCEba7SlUgcfH/X9nO7ZFPhCRLejYXKWLO6ZelCxjlv99lLO0wP7hp3nrc6fLLpFxEyAemdTWSYo/d5f8vg8WlMgjx6VPpAiIi9rRjP7VwTuyjQSLCpeVr57cM+zrjznvo=;MkOV1k6Hl3XI2fNrIibdMg=="
+secured: "EDxHYUibwR8RJGVCOTfXraC/CLwqBx81udka3gwOnFW7RWunuvzdwn2P29Z4NCrK7qLeFZBm/S7Oh3jtOu7a5471KeEeW3s2biPrYJj5JSuut2cRC/WhNut9/daWirUszLAleu5QTZYMn9PXuFp8KBheuliADad4D+EO5VOdDV/uNLt8naJtJk+CQBYeR2cjty+mSz2VGKzx076z5aQtJLlDC+yYRPPPG0iEhIFsuDxjyVTrfmJj+s7qAab5Oss6qSb4ejLbVz6Tjp5yS8cbltILivuO/pUkPQjH1kqNpSDnknroKc6+aO48fxQePkcO7a2nobf8A3SdjEV11tbisN43e+o1tygoLDKKXu6Grp0=;LtdI+16r10iCbfYhANbdaQ=="
 ---
 
