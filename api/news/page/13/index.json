@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-04-07-monitaur-launches-governml-to-manage-ai-data-lifecycle.md",
+      "title": "Monitaur launches GovernML to manage AI data lifecycle",
+      "excerpt": "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "originalUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "publishedDateTime": "2022-04-06T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-the-advantages-and-disadvantages-of-ai-in-law-firms.md",
       "title": "The advantages and disadvantages of AI in law firms",
       "excerpt": "Get to know the advantages and disadvantages of deploying AI and machine learning in law firms and what the future holds.",
@@ -1130,40 +1182,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
-      "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
-      "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "originalUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T3",
-        "domain": "traveltrendstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T15:31:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220421SF31836/arize-ai-announces-soc-2-type-ii-certification/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220421SF31836/arize-ai-announces-soc-2-type-ii-certification/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: KTLA

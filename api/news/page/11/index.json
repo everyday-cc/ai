@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-09-cognos-vs-tableau-2022-software-comparison.md",
+      "title": "Cognos vs. Tableau: 2022 Software Comparison",
+      "excerpt": "Tableau and IBM Cognos are two well-respected business ... For other formats, ease of use can suffer. Similarly, the AI-powered and Watson-backed analytics of Cognos lower the barrier to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/woman-at-computer-analytics.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-apply-to-pitch-your-startup-at-tc-sessions-mobility.md",
       "title": "Apply to pitch your startup at TC Sessions: Mobility",
       "excerpt": "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here.",
@@ -1156,58 +1208,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become.md",
-      "title": "IBM And MLCommons Show How Pervasive Machine Learning Has Become",
-      "excerpt": "IBM announced its latest Z-series mainframe and MLCommons released its latest benchmark series. The two announcements had something in common – Machine Learning – which is becoming pervasive everywhere from financial fraud detection in mainframes to detecting wake words in appliances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624f9430713ac031f54ebda5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "publishedDateTime": "2022-04-07T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

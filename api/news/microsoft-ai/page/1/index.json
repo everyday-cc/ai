@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-22-sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads.md",
+      "title": "SageMaker Serverless Inference illustrates Amazon’s philosophy for ML workloads",
+      "excerpt": "Amazon SageMaker Serverless Inference's goal is to serve use cases with infrequent traffic patterns, lowering TCO and improving ease of use.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
+      "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1256860094-e1650552562873.png?fit=800%2C551&strip=all",
+          "width": 800,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/",
+      "publishedDateTime": "2022-04-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-microsoft-unifies-large-scale-data-management-under-purview-framework.md",
       "title": "Microsoft unifies large-scale data management under Purview framework",
       "excerpt": "The new “Microsoft Purview” brings company’s large organization-focused data management tools under one roof, and includes a host of new features.",
@@ -1378,59 +1432,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-03-azure-percept-a-machine-learning-quick-starter.md",
-      "title": "Azure Percept: A machine learning quick starter",
-      "excerpt": "Microsoft’s commitment to low-code and no-code application development goes a lot further than its Power Platform. The same connector and pipeline model powers its Azure Logic Apps platform and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html",
-      "originalUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3655100/azure-percept-a-machine-learning-quick-starter.amp.html",
-      "publishedDateTime": "2022-04-02T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

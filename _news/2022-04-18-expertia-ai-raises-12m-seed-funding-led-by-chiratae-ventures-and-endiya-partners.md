@@ -124,6 +124,15 @@ related:
         width: 960
         height: 576
         isCached: true
+  - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
+    excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
+    publishedDateTime: 2022-04-21T16:23:00Z
+    webUrl: "https://www.techzine.eu/news/data-management/77518/nuclia-raises-5-4-million-to-advance-ai-data-search-capabilities/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
   - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
     excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
     publishedDateTime: 2022-04-18T11:04:00Z

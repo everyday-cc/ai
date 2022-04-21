@@ -26,18 +26,13 @@ images:
 related:
   - title: "DataShapes Welcomes Chester Aldridge as Chief Evangelist for its \"Human-in-the-AI-Loop\" SaaS Solutions and Vector Learning™ Technology"
     excerpt: "AI-Loop\" solutions company, announced today that Chester Aldridge will be taking on the role of Chief Evangelist to identify new partners for DataShapes' patented Vector Learning™ technology that offers \"AI for the rest of us."
-    publishedDateTime: 2022-04-21T17:36:00Z
-    webUrl: "https://fox2now.com/business/press-releases/cision/20220421LA31552/datashapes-welcomes-chester-aldridge-as-chief-evangelist-for-its-human-in-the-ai-loop-saas-solutions-and-vector-learning-technology/"
+    publishedDateTime: 2022-04-21T19:36:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220421LA31552/datashapes-welcomes-chester-aldridge-as-chief-evangelist-for-its-human-in-the-ai-loop-saas-solutions-and-vector-learning-technology/"
     type: article
     provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 5
-    images:
-      - url: "https://i0.wp.com/fox2now.com/wp-content/uploads/sites/14/2022/04/400x225-Senior-Salute-1.jpg?w=2000&#038;ssl=1"
-        width: 400
-        height: 225
-        isCached: true
+      name: KTLA
+      domain: ktla.com
+    quality: 0
 
 secured: "JKEJ/o0ewlBfY5Bilpy/xM02vWMMtB7FQ8uPYXLq4nZtbmftpqPSZV+2VIEhp9yTpbdGunCpzs6bp+XlRn6gctFBBkNe1/L6V6g9G9ofijCSkNXsSdCSiq+1FDLH1Wedl4HCO0Ok8ykv1sqmCxpwyLNZG26geak26BWFpVEYVmDwLBHXVjOUvBev0x/yeg4CO4yCTR0vYcsePGfyknCrgFGxi0tuUdeLsHgIaIcYt3a6R3cm0yRXN7eo6Ch6rn3Paytf8TXHrpfCrVsfjdg1Fy5JlfA4ngaXJ6QQNUoekIFYHG1ApFEsX6cdkcL7Q4QPx/vX9g1faUF28OYNyIiTSSfsPxKXe3R7lXOQmkCQFmo=;jI3zBj8REwjoqIZYakVY6Q=="
 ---

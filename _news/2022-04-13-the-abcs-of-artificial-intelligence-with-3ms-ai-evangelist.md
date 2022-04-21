@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T09:30:00Z
 originalUrl: "https://news.microsoft.com/en-cee/2022/04/21/rimac-technology-gains-scale-and-speed-with-azure-hpc-and-amd/"
 webUrl: "https://news.microsoft.com/en-cee/2022/04/21/rimac-technology-gains-scale-and-speed-with-azure-hpc-and-amd/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Microsoft

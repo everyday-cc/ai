@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T21:11:00Z
 originalUrl: "https://siliconangle.com/2022/04/20/closing-technology-architectural-gaps-data-mesh/"
 webUrl: "https://siliconangle.com/2022/04/20/closing-technology-architectural-gaps-data-mesh/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SiliconANGLE

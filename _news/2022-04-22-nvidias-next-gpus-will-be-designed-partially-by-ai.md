@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T19:16:00Z
 originalUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
 webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
 type: article
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -18,6 +21,103 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia wants to use GPUs and AI to accelerate and improve future chip design"
+    excerpt: "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using"
+    publishedDateTime: 2022-04-20T22:37:00Z
+    webUrl: "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 116
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg"
+        width: 800
+        height: 560
+        isCached: true
+  - title: "How to Improve Corporate Culture with Artificial Intelligence"
+    excerpt: "Entrepreneurs should treat AI tools as colleagues. This article highlights how they can use AI tools to navigate rapid changes, build a solid workplace culture in a hybrid work environment, and manage internal communications."
+    publishedDateTime: 2022-04-21T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/422890"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649877972-GettyImages-1198333917.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Nvidia's GPU-powered AI is creating chips with 'better than human design'"
+    excerpt: "However, it has also found many uses for AI in its silicon development process and, as Nvidia's chief scientist Bill Dally said in a GTC conference, even designing new hardware. Dally outlines a few use cases for AI in its own development process of the latest and greatest graphic cards (among other things),"
+    publishedDateTime: 2022-04-20T16:36:00Z
+    webUrl: "https://www.pcgamer.com/au/nvidias-gpu-powered-ai-is-creating-chips-with-better-than-human-design/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bBRYUinrgcCUgH3RN4UXaR-1200-80.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Healthcare Market to See Huge Growth by 2030 | NVIDIA, Google, IBM and more"
+    excerpt: "Global AI in Healthcare is the product of rigorous evaluation and analysis of real-world data gathered from the AI in Healthcare market. This new report"
+    publishedDateTime: 2022-04-19T09:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-to-see-huge-growth-by-2030-nvidia-google-ibm-and-more"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 49
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Nvidia turns to AI for design process improvements"
+    excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
+    publishedDateTime: 2022-04-21T10:43:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54732-nvidia-turns-to-ai-for-design-process-improvements"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
+        width: 620
+        height: 388
+        isCached: true
+  - title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
+    excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"
+    publishedDateTime: 2022-04-19T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at/article_fbaae364-b92a-5e7d-9716-a185c5048f89.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/cc/dcc3f818-5f9a-5151-b9d3-8c4b422ce53f/625ea4cfb483f.image.jpg?resize=744%2C500"
+        width: 744
+        height: 500
+        isCached: true
+  - title: "AI Chipset Market is Likely to Experience a Tremendous Growth in Near Future | Nvidia, Intel, Xilinx and more"
+    excerpt: "The AI Chipset Market has witnessed continuous growth in the past few years and is projected to grow at a good pace during the forecast period of"
+    publishedDateTime: 2022-04-18T12:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-is-likely-to-experience-a-tremendous-growth-in-near-future-nvidia-intel-xilinx-and-more"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "GQylSYgRsL9IaEV6HHUtj1CbMs4qwIe+v4MTJnwGWluBW3KlfoaTjH4hlEt3pCjhwrP2/HV6Rve5EJBp7rDbbStBlRlrhHC9vy/TqCRCSY7tVXp2qMt66zjF4zwt/4DiaECi52cowYBpK5F/4euqx+XlNAdvYSQy5PWc6ImTewle7gQudRbc6INFCxRdSyC4IQ7J1EFMKONHd722VkrXWWFh5tYY/TT/KBwUYWO3P2HoslEFrqN9NBDCbkNlaH9LiLmXVEQtg2KQvG5jehZJtszflnCcyRCU0EnWgHbkOyY8kesxfGdwSG85M/HNusF/p8eQ3uDj2i0P9vNEN24nEkgi/Y07N+SPTjZANe2HQeZNb64bPVw6EnrnU2SF/Vx3ACQMcj7CX4UfgauZfhDUJmeQBGm/C5wWlsbAg01dlOW6kmn1eJWwPKHOg74Vr/JVXNxsqYT4oLL1Vzjrk7GZlReN+3AireBJPSzne/rZ8rJRNvok7yZwdnEFLL2V7I+3MZPs7IGK1L6W41/qMJRcIQ==;PuLcNkUy2fFHuwF+zVYEXw=="
 ---

@@ -14,9 +14,8 @@ provider:
   domain: theconversation.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
@@ -24,6 +23,6 @@ images:
     height: 213
     isCached: true
 
-secured: "TAoIhv7rl8jOrbMzAr2nd0PriWVs8j2yJibe1kNRbShNk3gse2PsBzxXrAjWE0m4ox+A1uVejLorXZpbulzphzK1t7K+AdRaSjjxCI0vugvptVk44tTr8VUEarvgY9XSq7yQsH94TLzcwptxHDChQ3LObn5MRfVHoJ65eUD8sHMjok7j8SDePIUvTUFHXHbuyjJnecW+pODP3OiiDV2FGCle2dbacvSN5BGu6SehwgtgoBC9jrHk5lzz4vDbBATdcc/ldD1VjEyqDybZO7MebBdqQioc4RS5Be00mloSSBDSoMTgG0FZzPOmwZVIEvEjq+35b7C3jo7hpRdsdc/WbYJdHuPxOPP5EqPjFNlAfh1XVL5g+Yf4XF5smKZ9jXBM4++gv4Ch6uUOU1ddQY1b7dlRpiG/E5sWiBTuyLxbZ3rqT1otFKwwmSQGSHFElHp+78p62DLu8Sna06UHUnuVwLKJlGnwMOR/voGRdSOdDIL7uU4mOCxc0UNzfn/Q0MgFQUrz5x+7AbUSzLwY2xC7zg==;R3gFCdKJWNAgrOMF5pRnDA=="
+secured: "K1jKzi0leTkA0xpnu5mnLoOpc4cU9qQVU5d7qFH7eRtXWfqetddcbsEMm64EnkuD0pyfYxnq2qDNSQ3Cz5u4AHaHsYOr8XkqjGayTKJO+AegW55a6aqNyFUJim02B5HDWFJ5eQol16f7N07Q2B58gaFAd/shNoctEF75IFNOXIvmdVB3UUTiU4pThxxiBhggA76n/EaW/e2CM8Z6ybtuxYr7vvKkiEammBsCpyVbWpUDuww7p8VGwcbUAqD/YKFl60967sQOtjkVSAgqW2j1PbYQ6nwRK2U5SZW9e2KfB6rII0scibIHOf1yCixHZZFV0y4YfYscIsK4KkGsueGjbhimyyLKtmJuaf9ZsP0T0Yo=;gsE39emwMELxZcMpJG9tQQ=="
 ---
 

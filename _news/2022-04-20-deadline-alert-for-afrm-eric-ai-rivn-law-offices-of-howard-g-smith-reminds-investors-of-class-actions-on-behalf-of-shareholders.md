@@ -32,20 +32,6 @@ related:
         width: 789
         height: 434
         isCached: true
-  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
-    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
-    publishedDateTime: 2022-04-21T10:45:00Z
-    webUrl: "https://www.myhighplains.com/business/press-releases/cision/20220421NY31244/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
-    type: article
-    provider:
-      name: myhighplains
-      domain: myhighplains.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
     excerpt: "Glancy Prongay & Murray LLP (“GPM”) reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of investors of C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) who purchased or otherwise acquired: (a) Class A common stock pursuant and/or traceable to the December 2020 initial public offering (“IPO”);"
     publishedDateTime: 2022-04-21T16:04:00Z
@@ -97,6 +83,15 @@ related:
         width: 781
         height: 326
         isCached: true
+  - title: "SHAREHOLDER ALERT: ERIC AI ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
+    publishedDateTime: 2022-04-21T19:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/ac26748967/shareholder-alert-eric-ai-abbv-the-law-offices-of-vincent-wong-reminds-investors-of-important-cla"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "DhbTCMEOE+T6tu9xv0Hxw3spAqjt8aoHQppmxk6sJ8UNg2ua6DKmMwhVvM7syucoylwQK/mMPI9gj6LpydfA6jcFWFcTVy2zXxby+k11pSNqjLfZO3J1kN7AZZgjpLGCQ7k7MOwF0z+x1V6mDkysDMEqSSr5++hASUVXfqWYs1gZcbjroJLil6+sHdukaJtYvS500YqfIBDltx8eo9sbZNG1NtvvEPgDUIRp7srRsmmjlNlol8fGPqUylj1HC9y3G9dLHi19fFGRJy63xHS/u95MH4sETZTeRNsnf2Za/HByL/mLlgLFynafRFKWHRK79Mjmn1cQg4fd5AgW4SAdKcuPDT47upNqPyZcTd8oXWc=;wf7itx5CBtOJ6dbGxJyoXg=="
 ---

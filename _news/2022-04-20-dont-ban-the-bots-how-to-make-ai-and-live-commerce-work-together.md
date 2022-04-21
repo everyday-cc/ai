@@ -7,7 +7,7 @@ originalUrl: "https://www.mytotalretail.com/article/dont-ban-the-bots-how-to-mak
 webUrl: "https://www.mytotalretail.com/article/dont-ban-the-bots-how-to-make-ai-and-live-commerce-work-together/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 750
     height: 340
     isCached: true
+
+related:
+  - title: "Beyond chatbots: How conversational AI makes customer service smarter"
+    excerpt: "Join AI and data leaders for insightful talks ... “These offer core services, perhaps translation, or natural language understanding, or speech-to-text, but don’t necessarily have that set ..."
+    publishedDateTime: 2022-04-21T19:51:00Z
+    webUrl: "https://venturebeat.com/2022/04/21/beyond-chatbots-how-conversational-ai-makes-customer-service-smarter/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "TJh3Cb60tNqpYzwy3sRgRQ23/h/My3kpti9Fm/vch2kbL4JNrTVGzXYrEgNT590s68vwflGPMqfL1xYUQcETeyapLdXdxki1X+ENRARg7okwwzonIuh2W0rVL8ZXMxfhmfLPOHF0cp1hdV63HUiMPiXpNmFsNI7czzalF8METC61Ej9WHBZUsyekOsFLl4SBc+T1R8FX0uMcleMpDylriIr8mcUIQbTRqXSo29vEilNfpTxbSzDuJKUu9Je4Q5B1Z3hUVDc07S0rGQWQZBEzVzLg+lUDg6acmOtEp+KU47+Tztvb9s60UJulQPOImZ8Jk6iOMIVWvm3ouo1mytWXE7NGxiiI8KO1O2ayL6ZX1Bk=;S6YkCliYKmRTvmwYIbzIOg=="
 ---

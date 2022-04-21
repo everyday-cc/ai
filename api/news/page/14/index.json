@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
+      "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
+      "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
+      "originalUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T3",
+        "domain": "traveltrendstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-natural-language-processing-market-to-reach-3415-bn-globally-by-2030-at-409-cagr-allied-market-research.md",
       "title": "Natural Language Processing Market to Reach $341.5 Bn, Globally, by 2030 at 40.9% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research recently published a report, titled, \"Natural Language Processing (NLP) Market by Component (Solution, Services),",
@@ -1068,49 +1102,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-teaching-robots-to-make-pizza-could-advance-ai-and-out-pizza-the-hut.md",
-      "title": "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut",
-      "excerpt": "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "originalUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "publishedDateTime": "2022-04-05T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

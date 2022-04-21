@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T17:32:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-san-francisco-amazoncom-inc-web-services-428dacf25bca4426b23d367690833739"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-san-francisco-amazoncom-inc-web-services-428dacf25bca4426b23d367690833739"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,17 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "AWS Announces General Availability of AWS Amplify Studio"
+    excerpt: "New visual development environment for creating rich user interfaces extends AWS Amplify to make it easier for developers to create fully customizable web applications with minima"
+    publishedDateTime: 2022-04-21T17:56:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/21/aws-announces-general-availability-of-aws-amplify-studio"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 34
 
 secured: "svfRYtXDq6ca/JwvlQdrs4S1O0moDPOz9sD0zNggsaF0DKqGOJDDtfU8ROr7fGCmGU1BupKssL3peTfGhmOXwFfq2VIpqTltHxjVbaZNPnXD3b5PvN5biy6pknNSV32J0VmdeYQS+gnqT3OHldHwQeuDgXR9m8IMjrzoZroNut+Pjt50TC9F9soGwm2KqvlAsYqYvmWJaROk+fii80vr6YsOTM2Xp72hvuKSy1C5vuioL52mY3Ff2J5jwKKpqq6d4KenU720i0ZnMSZGL20/A6OMn2v/zoThEqrB7+MDJPD/zGsrcSsns26Sa7CBvNiWqkuKKc9rzUNymb/9CijW3se2xy/+VVHlpEhgIOnVFQ4=;k6sYGtdWYz7ZYxtfsGh19A=="
 ---

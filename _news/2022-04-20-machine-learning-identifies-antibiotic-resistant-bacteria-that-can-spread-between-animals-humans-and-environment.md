@@ -28,6 +28,15 @@ images:
 
 related:
   - title: "Scientists use machine learning to identify antibiotic resistant bacteria that can spread between animals, humans and the environment"
+    excerpt: "Experts have developed a ground-breaking software, which combines DNA sequencing and machine learning to help them find where, and to what extent, antibiotic resistant bacteria is being transmitted between humans,"
+    publishedDateTime: 2022-04-21T18:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220421094046.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 18
+  - title: "Scientists use machine learning to identify antibiotic resistant bacteria that can spread between animals, humans and the environment"
     excerpt: "Experts from the University of Nottingham have developed a ground-breaking software, which combines DNA sequencing and machine learning to help them find where, and to what extent, antibiotic resistant bacteria is being transmitted between humans,"
     publishedDateTime: 2022-04-21T13:29:00Z
     webUrl: "https://www.eurekalert.org/news-releases/950342"

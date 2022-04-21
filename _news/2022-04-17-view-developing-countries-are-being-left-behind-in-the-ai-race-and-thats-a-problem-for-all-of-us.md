@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/view-developin
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/view-developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/90889752"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Developing countries are being left behind in the AI race - and that's a problem for all of us"
-    excerpt: "Emerging economies like China and India are leading the way in building national AI plans within the developing world."
-    publishedDateTime: 2022-04-17T05:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/articleshow/90889503.cms"
-    ampWebUrl: "https://m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/science/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/amp_articleshow/90889503.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-90889503/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Developing countries are being left behind in the AI race – and that’s a problem for all of us"
     excerpt: "Artificial Intelligence (AI) is much more than just a buzzword nowadays. It powers facial recognition in smartphones and computers, translation between foreign languages, systems which filter spam emails and identify toxic content on social media,"
     publishedDateTime: 2022-04-17T19:29:00Z

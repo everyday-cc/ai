@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T19:14:00Z
 originalUrl: "https://rainnews.com/magellan-march-2022/"
 webUrl: "https://rainnews.com/magellan-march-2022/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Radio & Internet News

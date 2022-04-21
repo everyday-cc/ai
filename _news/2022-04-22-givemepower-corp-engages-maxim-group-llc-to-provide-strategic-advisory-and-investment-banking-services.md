@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T18:12:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-united-states-real-estate-financial-services-83d6545017beff3f2b8cbd9653b9058a"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-united-states-real-estate-financial-services-83d6545017beff3f2b8cbd9653b9058a"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Associated Press

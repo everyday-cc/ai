@@ -119,6 +119,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Banks globally need to compete with fintech players to keep pace: Report"
+    excerpt: "Nearly half of respondents said their current banking relationships were neither rewarding (49 per cent) nor emotionally connected (48 per cent), while 52 per cent said banking was not 'fun'"
+    publishedDateTime: 2022-04-21T18:24:00Z
+    webUrl: "https://www.business-standard.com/article/finance/banks-globally-need-to-compete-with-fintech-players-to-keep-pace-report-122042101278_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 18
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-19T19:40:00Z

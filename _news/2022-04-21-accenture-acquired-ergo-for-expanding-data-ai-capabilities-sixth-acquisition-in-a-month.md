@@ -27,13 +27,13 @@ images:
 
 related:
   - title: "Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
-    excerpt: "NYSE:ACN) Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
-    publishedDateTime: 2022-04-21T13:56:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/21/accenture-acquires-ergo-to-expand-data-ai-capabilities-and-accelerate-data-led"
+    excerpt: "The acquisition expands Accenture's Cloud First capabilities to drive data-led transformations for clients in the Hispanic South American market, spanning Argentina, Chile, and Co"
+    publishedDateTime: 2022-04-21T15:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9587329.htm"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "kkiGv1i6XipEhjeFkVJO8omKS+h3QElWUrwy3ZqeNydjIn3w2ViAoFKx3fIPG6muYjysCbiihi1vDoonYTGZjPkOXqa6IexrRrs6ol/I693IJ4iFZwf6s7QSri6qk/wWXQPcNbuuygY37Pe/DmovxpNNq7Fb/pQsisy/yRixsWAX/bQbTQ7lfRLwQlkGub4fDGxOYlLGuqb5K/MskLYtAEgghjzB4bU15z43gAsF2RrOIoqNrUy4AUKl7Mziekaral5k4W8cP5wh/XATqN8lRBDPdV2/e8OYrkRdgrBv7Tc5LuRNYDcS/vKwbf72vSasV+xxWlhV8qs3JbJF0IOSLiHEKLwC9VwvEtwfNcPHkUg=;5M+Ov7s0YSTXczdxm61z6Q=="

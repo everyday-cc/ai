@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "\"Using this data, we have optimized our AI to achieve 82% NLU intent classification accuracy in enterprise sales conversations. That's higher than IBM Watson, Dialogflow, and the average human.\" Businesses utilize Aktify's AI-powered virtual agents to hold ..."
-publishedDateTime: 2022-04-13T14:37:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
+excerpt: "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ..."
+publishedDateTime: 2022-04-13T13:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - IBM AI
+  - AI in Autos
   - AI
 
-secured: "eo/7LjqB2ZW42OFsy8zSUqle1dlK3232VLq/9J2NMcWI8lqWi2NBrCSHqSMZ4cApSZKZCS6kKmjctJ13M09Qxv7eU1H/9UxP+VqxYIuJJnym09HClZEFKSmSH8f87kKK4HONjQNkTExdouWR5KIG6nrYv/JKNhXBpUpEdiBloAiRcVr6jLk79NPUR7sGDoY97Ph3GSrSJvpR9ZTmhpo6EIJG2zDqbOkAuuCAVkVArtOvoLnzmHML+dHN5VHxDybOOFEWir4FEP/iStFdS/ldCvLMgRvYBl/l+6I1Kij4Yf8DEY8rwKV2XMz8Hz6woJFVkvPZkXVkMJ2J9oVsOTBNihfvJmE5Hu9AVfgFxkMU/eEvnl4lkx6XwklY9nmEs3qcH2FZQW8q7lhqU1atT/xkT9F1IN1GgoJeAA6HLN19XZxN/mYmHdGSeDNcwHKfDgCd3NyN92qwVk/po+OgfujQmj16dm0lZuIakxyn+1DrITQLpEC+iySlk3CwqGccJhJvGgL5QFRDb8OWOMI2QhVrLQ==;r60IRsU6G9Ms5X6m5vpeHQ=="
+secured: "/k9Mddy0LlneMTxa0GB8xW1m/AWOjZf1ZM1kUVFTW1Aszk/OUDzxaxqWFJhOpWj/crG2/lKz5FPxenbVNmCGmpuQbGow091ogpPdJz5iqMjUYw14vfPL+OH9UyOwnsOa9UGb1GcubCBBDfX9/0OoPVv08ufXo7GIuMAikfFoXIXsqTa5zYW7JUIxGW5O1LU0FQDSExl2aTsrFbPfc30XTTRq3RW/rNZSVjFLE/yRzusu2KByl/YTcKPsffDdBdRRBQ5uhd+Lqh1S2z+f2prIePFSnYjWFnzUNERP5HnweRwOAoohsK9hqcmtEsV2CxMrHEbzzYH8lYyDRsKQ8g3hq3r07c2tsvxhHswd1rfdp+U=;dJZBnoNIL8gLeBkMw0fmlQ=="
 ---
 

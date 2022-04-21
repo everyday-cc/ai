@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
+      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
+      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "publishedDateTime": "2022-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
       "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
       "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
@@ -1067,58 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cops-confused-as-they-pull-over-an-empty-self-driving-car.md",
-      "title": "Cops confused as they pull over an empty self-driving car",
-      "excerpt": "In what appears to be the first incident of its kind, cops recently pulled over a self-driving car with no one inside it. A video shows what happened next",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cruise-automation.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "publishedDateTime": "2022-04-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

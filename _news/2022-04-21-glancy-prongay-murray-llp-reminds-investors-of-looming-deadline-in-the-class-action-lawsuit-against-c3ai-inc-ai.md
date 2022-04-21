@@ -38,20 +38,6 @@ related:
         width: 789
         height: 434
         isCached: true
-  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
-    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
-    publishedDateTime: 2022-04-21T10:45:00Z
-    webUrl: "https://www.myhighplains.com/business/press-releases/cision/20220421NY31244/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
-    type: article
-    provider:
-      name: myhighplains
-      domain: myhighplains.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "ROSEN, A TOP RANKED FIRM, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action - AI"
     excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company's initial public offering conducted on or about December 9,"
     publishedDateTime: 2022-04-18T16:24:00Z
@@ -98,6 +84,15 @@ related:
         width: 781
         height: 326
         isCached: true
+  - title: "SHAREHOLDER ALERT: ERIC AI ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
+    publishedDateTime: 2022-04-21T19:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/ac26748967/shareholder-alert-eric-ai-abbv-the-law-offices-of-vincent-wong-reminds-investors-of-important-cla"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "kI88/+CB72YQoNhJPlZNAwHHa8CGLNRFxkQCbLiNGH7SNPMMnD6rGv92ourX3IZ1Srz2hOjNMJe1PlRfdfN5E731N7rGHE4kDmWN7IWdtSodIMyxG4MgDjJOy/lx76YhW4GewJIy+kS1rP45EbRT+T5P0LKCCb61qxrg3HozElQ2MDnP/UVcbybm/dOSedFxrb3s1LkuwQzhc9GCayFiCQumZesAFEBu76UmEypHztnyzvbm3/48IOleyC02OTdBta5qgOoXtEPiUujLVNiu9aav1RP33EGPFM/XMUCf3CMqP9JJRoQwnBwha75Ze6EJcJ4AZTXRtL4MuSxm/RTzY2R1cJztQupajLKPJT/me98=;R+khUd5JKr5ZDgdVaoziiA=="
 ---

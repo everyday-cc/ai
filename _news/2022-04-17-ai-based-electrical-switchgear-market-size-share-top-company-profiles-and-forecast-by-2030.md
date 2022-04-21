@@ -52,6 +52,15 @@ related:
         width: 1154
         height: 649
         isCached: true
+  - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
+    excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
+    publishedDateTime: 2022-04-21T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chipset-market-2022-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2028-2022-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
     excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
     publishedDateTime: 2022-04-21T09:33:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T18:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/south-koreas-k-startup-grand-challenge-2022-is-accepting-applications-from-startups"
 webUrl: "https://www.digitaljournal.com/pr/south-koreas-k-startup-grand-challenge-2022-is-accepting-applications-from-startups"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

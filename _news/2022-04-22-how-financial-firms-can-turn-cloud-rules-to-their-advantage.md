@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T19:43:00Z
 originalUrl: "https://www.paconsulting.com/newsroom/expert-opinion/ft-global-risk-regulator-how-financial-firms-can-turn-cloud-rules-to-their-advantage-20-april-2022/"
 webUrl: "https://www.paconsulting.com/newsroom/expert-opinion/ft-global-risk-regulator-how-financial-firms-can-turn-cloud-rules-to-their-advantage-20-april-2022/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: PA Consulting Group

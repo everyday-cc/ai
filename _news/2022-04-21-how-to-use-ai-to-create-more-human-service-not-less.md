@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Faces created by AI are more trustworthy than real ones"
-    excerpt: "The similarity between the mocked-up images and reality is such that it has been flagged up by research published in Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
-    publishedDateTime: 2022-04-17T03:40:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
-    type: article
-    provider:
-      name: EL PAÍS
-      domain: elpais.com
-    quality: 59
-    images:
-      - url: "https://images.english.elpais.com/resizer/t9tif2fQuc5tbN7TWvX0pRFQ5J0=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7YXFHMKPOFAC7OGRXTB3IWVCPA.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "bCMel637JkMRsZdldkKY3DA/44ncc3QBgE/c5SGrcOdU/X5BITLE4nIMqiUTDb5/CeSIbhDyan88F1N0TcjGEcPfGs4VMrhi3+78+fNtJGx6L00LnIIwkefKJlUvwqYVoUe2EF19Y3TkSEjk4Ee0p0hCIgVfBL3cNh0pQmvDBWEyASRLVZtMgzUymda/Fje0P8W31lySFgyamOEU2gMGUrj+ej1t6/W0UYpnevwHksQGDGF8iWlMi9vQ7e8AoSm0nXF6UUG1SdJ1BkjwIyaNnAtK+PNIJ0JtSC2ZmA1N1GNxMyy/w8OFJv6H/W4D95nErEOo+1IaygqB1+kSxmII1ihSKs4t8bCLpflriYnDeo75YMfPvPBIiv4DSwDUEHhjnzU2Lx93KG5I8ssxLO2xcSdPH/oWnEbgxOZke4ex5D7uwZSmz4mz0juT9hOtQR3nmK9dW4bMwKAzKx4tJ/IjpUW26VRW+nA3R3tb/dFvmqR3eG3myjISKpojolA+ebqwKGcIJliyPx/h8Ax/GtQUkQ==;f/rAvY1SsR6qjrHL+3Vvaw=="
 ---

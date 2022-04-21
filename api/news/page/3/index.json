@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-19-videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral.md",
+      "title": "Videoverse offers AI tool to help enterprise videos go viral",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/",
+      "originalUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1366362133-e1650324823661.jpg?fit=800%2C501&strip=all",
+          "width": 799,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/",
+      "publishedDateTime": "2022-04-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
       "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
       "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
@@ -1156,59 +1207,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.md",
-      "title": "9 low-rent cloud providers to challenge AWS, Azure, and GCP",
-      "excerpt": "Major cloud providers do it all, and usually for a sizable price. If the high cost of cloud computing has you down, one of these smaller cloud services could be a way out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
-      "originalUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/clouds_binoculars_network-monitoring_future-it_looking_horizon_vision-100797672-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
-      "publishedDateTime": "2022-04-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

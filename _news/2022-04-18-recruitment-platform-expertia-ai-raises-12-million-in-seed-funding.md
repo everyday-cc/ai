@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raise
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
         width: 960
         height: 576
         isCached: true
+  - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
+    excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
+    publishedDateTime: 2022-04-21T16:23:00Z
+    webUrl: "https://www.techzine.eu/news/data-management/77518/nuclia-raises-5-4-million-to-advance-ai-data-search-capabilities/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
   - title: "EXPERTIA AI raises $1.2M seed funding led by Chiratae Ventures and Endiya Partners"
     excerpt: "EXPERTIA AI, deeptech virtual recruitment platform has raised $1.2m in seed funding led by marquee investors Chiratae Ventures and Endiya Partners."
     publishedDateTime: 2022-04-18T06:47:00Z

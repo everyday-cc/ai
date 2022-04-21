@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-22-ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum.md",
+      "title": "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM",
+      "excerpt": "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1802125/EAIGG_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-developing-ethical-responsible-and-trustworthy-ai-approaches-for-environmental-science.md",
       "title": "Developing ethical, responsible and trustworthy AI approaches for environmental science",
       "excerpt": "There's no doubt that artificial intelligence is embedded in our everyday lives. From smartphones to ridesharing apps to mobile check deposits, AI is so pervasive that we rarely think about how it works.",
@@ -1380,60 +1432,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell.md",
-      "title": "AI Weekly: Nvidia’s commitment to voice AI — and a farewell",
-      "excerpt": "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
-      "originalUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/",
-      "publishedDateTime": "2022-03-25T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

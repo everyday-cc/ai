@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-22-ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum.md",
+      "title": "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM",
+      "excerpt": "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1802125/EAIGG_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-specify-and-extract-information-from-documents-using-the-new-queries-feature-in-amazon-textract.md",
       "title": "Specify and extract information from documents using the new Queries feature in Amazon Textract",
       "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. Amazon Textract now offers the flexibility to specify the data you need to extract from documents using the new Queries feature within the Analyze Document API. You don’t",
@@ -63,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -104,7 +156,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -254,7 +307,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/how-to-use-ai-to-create-more-human-service-not-less/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -578,7 +631,7 @@
       "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1154,50 +1207,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-d-matrix-lands-44m-to-build-ai-specific-chipsets.md",
-      "title": "D-Matrix lands $44M to build AI-specific chipsets",
-      "excerpt": "The chiplet architecture employs multiple small chips to make up a larger integrated ... 3 is a language model created by the Open AI LLC lab that has applications in a variety of language ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
-      "originalUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg",
-          "width": 960,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

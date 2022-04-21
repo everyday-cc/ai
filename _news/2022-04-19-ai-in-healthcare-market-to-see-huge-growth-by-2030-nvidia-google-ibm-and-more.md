@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia’s next GPUs will be designed partially by AI"
+    excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
+    publishedDateTime: 2022-04-21T19:16:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
   - title: "Nvidia turns to AI for design process improvements"
     excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
     publishedDateTime: 2022-04-21T10:43:00Z

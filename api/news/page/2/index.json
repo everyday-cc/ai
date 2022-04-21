@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-20-d-matrix-lands-44m-to-build-ai-specific-chipsets.md",
+      "title": "D-Matrix lands $44M to build AI-specific chipsets",
+      "excerpt": "The chiplet architecture employs multiple small chips to make up a larger integrated ... 3 is a language model created by the Open AI LLC lab that has applications in a variety of language ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
+      "originalUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg",
+          "width": 960,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m.md",
       "title": "Mutiny, which personalizes website copy and headlines using AI, raises $50M",
       "excerpt": "Mutiny, which leverages an AI platform and OpenAI's GPT-3 to personalize website content, has raised $50 million at a $600 million valuation.",
@@ -1136,57 +1180,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral.md",
-      "title": "Videoverse offers AI tool to help enterprise videos go viral",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/",
-      "originalUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1366362133-e1650324823661.jpg?fit=800%2C501&strip=all",
-          "width": 799,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/",
-      "publishedDateTime": "2022-04-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

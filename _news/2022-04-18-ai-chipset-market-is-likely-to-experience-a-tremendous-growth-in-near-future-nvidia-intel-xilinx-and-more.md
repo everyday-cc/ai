@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia’s next GPUs will be designed partially by AI"
+    excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
+    publishedDateTime: 2022-04-21T19:16:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nvidia-lovelace-gpus-are-designed-partially-by-ai/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 64
   - title: "AI in Healthcare Market to See Huge Growth by 2030 | NVIDIA, Google, IBM and more"
     excerpt: "Global AI in Healthcare is the product of rigorous evaluation and analysis of real-world data gathered from the AI in Healthcare market. This new report"
     publishedDateTime: 2022-04-19T09:24:00Z
