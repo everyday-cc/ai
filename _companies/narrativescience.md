@@ -36,7 +36,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1517252474884657152/PqFklJXL_400x400.png"
     width: 400
     height: 400
     isCached: true
