@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version"
+    excerpt: "On April 20th, Chinese Language Day is celebrated. Chinese is nowadays more important than ever. With a total of 1.3 billion native speakers in the world and a booming economy, it is the language with the most native speakers and one of the most important languages of tomorrow."
+    publishedDateTime: 2022-04-20T13:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/a-magic-scanning-pen-that-is-revolutionizing-language-learning-youdao-dictionary-pen-3-global-version-1031368253"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1799495/Youdao_dictionary_pen_go_to_tool_language_learners_Just_scan_translate.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
 secured: "1wnYX9iFtLx7lt1RHSa45WMplvnQxuBmZO8ElMQbps6pxAYgvYemZNGhC8wkyOSEGxlUaB8ITa2NM5IXjA8yMNW/aRerft0n0UeEQbXjIzl3NlDylui1G1lmc+xBWnOh2f7O24pYb08g9ek/beWjKzR3D2xeUSbtO5lXBd1LaYlNvjppqkHqtdfeGQpDI7VpRSPqcMJCfUKHGYFZ5Ko+MQyMULBOvtidFUarIZH2JRTm+mg6p3Sv6hmjcXJ9Yv4OHvZO7WFGBSTsmFLmo1lKE7tSwDayuAP2+xWTxoXl3RXmVHBvzDHY/X0RZpQ+XzU3I0CWzI7yFanlXUqWu6+Viy0KFzReYe1CD6i0PFSqGzE=;Tp/M9yxKab7/7o4BObddwg=="
 ---
 

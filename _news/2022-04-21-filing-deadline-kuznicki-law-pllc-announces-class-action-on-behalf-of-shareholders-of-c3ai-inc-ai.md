@@ -2,17 +2,17 @@
 category: news
 title: "FILING DEADLINE--Kuznicki Law PLLC Announces Class Action on Behalf of Shareholders of C3.ai, Inc. - AI"
 excerpt: "The securities litigation law firm of Kuznicki Law PLLC issues this alert to shareholders of C3.ai, Inc. (\"C3\" or the \"Company\") (NYSE:AI), if they purchased the Company's securities between December 9,"
-publishedDateTime: 2022-04-21T05:54:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
+publishedDateTime: 2022-04-21T06:54:00Z
+originalUrl: "https://fox40.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
+webUrl: "https://fox40.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: FOX40
+  domain: fox40.com
 
 topics:
   - AI
@@ -101,6 +101,6 @@ related:
         height: 326
         isCached: true
 
-secured: "NzfxBIdlkF6W1SuGIF4mY2XwpRs6Gv6GQ6jDih0mjY6gOpEmu31TfGtzdANfNgflT5kz8aSclGopkAkV8ZBzDOY7vQh/vaA+Nkdy6TFDSDcmR/5t7UufnwuaqymwcWDLediUsELef4TlOhMoQFoZ2FM0GKHUSptXzRb5SOQxPZn26booDmxzdbFmNRlvzxmr6B2rZWTwVbNSGOXhPteU9vFHpD+tgq40osmSIdaFTKvTSVjTp5d3+XaHOFJqQzi1Yq/UtP5Gpni5f0jHusL9Q718fiOd1pKdFnAaA7WV5mvwDlIdq3fRQRbNgvwH7kZhPsczhTzqPY6qdYC8DZLGM28Fv6bOOz2xGqf+lLVZzf4=;2sPPBY1EWYC3RTnCfp6DFA=="
+secured: "8de68WVv9JZCaHID/EHutTAQOVrldjBlcAHWOoolT0MFWf0bRirwzUlRtg8a1jSy9HLM7JNktkBhhOY6HxEcQZB7bhPee3QzYnHrySa3LkV3ptyqAcmRBLuU4pgB6XyLC2RTWjd3bCWtsJF+zfeGco/ecjdVE3hXaGVsQ+LkZhszKy2cbZLIsTgOL2j/jT0YDYDDchTkIr7oNc1tWQ1OwSHpGNkaK8pJtK3r3xro92xoLhjxiq/GWN9ej5rCBb26hwnD2nyIGz4NZITAcyhVAqdgp1zeIgMIZ0hVMAQfsboENu5VCeOBJTRzVmyLM/JivrDmOE4FYmgjlfqDcYT0duMLbj7u2qUfi5QV1NbKeFY=;JNO9jwWJ7qczg4H7EeY5FA=="
 ---
 

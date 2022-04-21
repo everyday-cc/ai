@@ -20,6 +20,22 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Showa Denko Introduces Machine Learning Operations into AI-based Prediction Systems for Accelerating Materials Development"
+    excerpt: "Showa Denko K.K. (SDK; TSE:4004) has introduced MLOps* (Machine Learning Operations) for efficient management of machine learning models deployed into Artificial Intelligence (AI) systems for materials"
+    publishedDateTime: 2022-04-21T03:30:00Z
+    webUrl: "https://www.asiaone.com/business/showa-denko-introduces-machine-learning-operations-ai-based-prediction-systems"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 28
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/asiaone_default.jpg?h=ec041e41&itok=CTqGNnDp"
+        width: 600
+        height: 316
+        isCached: true
+
 secured: "UYos/m/6FzqunQ/g5UwQVNA1a+GQDvFk7H0o3YuPhieFvCl/wZyX0oHEHIWKFE4OHKsBqKcbD/9OOUSUOdLK9xh8aiL9a9+WSCmHw6qyh282ilsbQut+dD9uAZLJr6Ba25WTpXisU4BhoUhjymdmdOnRqGWN7x0QddfaiB3aHYZsBw3wxcgORJhFRGuiBMj1So5IorfuziFm8YX5RVAtzWniqOZmgSBM6LRPqf5m8kmMWi1YgFPcyzucEEyHHlh0wETt3qntLs/5A3QHqyrPHs9R/GLTQeE/XeD3lXK8uiLfCOkkDIJEmSTNO306E1lcgNTTZRbrxNH9hiOhcbI9Rs+nVq0jXfvV0DbGJoVKwoY=;fypjDo/KwyYWCD0M1wZlUg=="
 ---
 
