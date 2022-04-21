@@ -1,0 +1,19 @@
+---
+category: news
+title: "Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
+excerpt: "NYSE:ACN) Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
+publishedDateTime: 2022-04-21T13:56:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/04/21/accenture-acquires-ergo-to-expand-data-ai-capabilities-and-accelerate-data-led"
+webUrl: "https://stockhouse.com/news/press-releases/2022/04/21/accenture-acquires-ergo-to-expand-data-ai-capabilities-and-accelerate-data-led"
+type: article
+
+provider:
+  name: Stockhouse
+  domain: stockhouse.com
+
+topics:
+  - AI
+
+secured: "6pdVOXV+ferU8gONlBKV3mPQepHXRmlVowytd2ALvGMuA86AH8ZhCk7VgaGYs/OQVcR/P/dg6FPjCTb39+YI1wZnVdUp2j+C70CjkQTaz0uLaTUlQ1rnejhoGnsZJTwYu43JEd07iOwT1lAaoLhFrfnNTcTEjLqDi+R5Rtw+t9r2ZL/WTDGYDMK70iR408rJPXr72+EfR8wnk2Jkg0sW5iaFt9hpn7cMtYUQFZNv8WL3CzHWiy/HaPNDaHWbE4vxdYZwvIlC/xjpHyksnXEMR8NkMq9fRAbwRITvLtjIPj8CKnAqS6Kd2bBo0uUPzDvzTces3xct2BZ+6A3DwawPYbCM0K/OxoLwN73JwcS+EeELLHpl3TZOFZs9no7YYcg7Y62tDPFCgP/aHbvLWn4zGy7gCCuRD55STemdOTukd+Qizn84jp32WXkd4GaezHYaxtRaOc++xOtKo6vTXg8wobIv6/OUqWU1hQEQDpZDEtbY41zm64GepVVbTEeG1LwcGvsfrRbrhFphDTvP6mEtBw==;WA0WS7dmQV0ympoOyVGO/Q=="
+---
+

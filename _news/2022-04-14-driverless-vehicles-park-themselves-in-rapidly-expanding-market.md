@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
-    width: 718
-    height: 478
-    isCached: true
-
-secured: "laJXakdoaeRu/dfGQ1juyRdYGGzEKCfveNkOtmBKaVwjqYqkYdzPX2EvorLHBK/ukdAWVghlhQPXGKxZsmAL7Nia9glJjWulTI7yQhWa+nNrBZcIBWYcXN/n1AGJaI/Ua6O43tJgfKTorGG4Fuf7wAfEeikcogGFYAg6vz315+ypd0cBNentPJvo5N3BYH8JTeVI9Cerp4Q6tiVZ8RNZNb01D1WgqTkoyZPrQgh9d9+2VpvLTx0/BaTWwTHiWVrmsip6CBqTY2PCoW0bwUmkT6a85wLLQNie2w/wKve4kS2PeRJvLUW/pR5OrNUNno8x44AJl9OeFmd4Jqk1uJBSgH6lUSIFnwOcPYldAkdesgY=;+DNH9ViUDGGHHiqHKKmOOg=="
+secured: "vJPZXCPW6RcasmxXkf61HOPIAgVNBQJhdZ8RXuM3txGJRVxR9JXmN7laap1LG7Y5ER+MDP5jDihw5m58SsqA7KT7pElMd1vlmVJj7FXiHoNhP1cLNE2uHzD1wky9+lOIYqo1dFxy7uEbbz5ROU69toii8JKW9KwV5/cC50gItOCMZXSQ6esi795KR+SDxDkGIAy+MajI141nwPPapVIM1yZs+qrYU8DOd+uUsysPQqcnjAZXiL2DA3b8k2kgSgRmCB+b/Mnjvo/YQD71xKthtGgiE+WFUmBrFwSfxJrSykQNyiA9BOFjUvXZfUp17wNvxbMbXq49wdKBQQG8uWCRfR+sKWIZa4Vfi0v54V7+C2s=;dorzTB/q5C83LT4UPAfY6g=="
 ---
 
