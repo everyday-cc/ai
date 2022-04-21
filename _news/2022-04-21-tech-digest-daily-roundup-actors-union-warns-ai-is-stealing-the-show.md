@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tech Digest daily roundup: Actors’ union warns AI is ‘stealing the show’"
-excerpt: "Actors' livelihoods are at risk from artificial intelligence (AI) unless the law changes, a union warns. Equity, the performing arts workers union, has launched a new campaign, \"Stop AI Stealing the Show\"."
-publishedDateTime: 2022-04-21T09:48:00Z
-originalUrl: "https://www.techdigest.tv/tag/equity"
-webUrl: "https://www.techdigest.tv/tag/equity"
+excerpt: "Actors' livelihoods are at risk from artificial intelligence (AI) unless the law changes, actors' union Equity warns."
+publishedDateTime: 2022-04-21T09:36:00Z
+originalUrl: "https://www.techdigest.tv/2022/04/tech-digest-daily-roundup-actors-union-warns-ai-is-stealing-the-show.html"
+webUrl: "https://www.techdigest.tv/2022/04/tech-digest-daily-roundup-actors-union-warns-ai-is-stealing-the-show.html"
 type: article
 quality: 36
 heat: -1
@@ -18,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2022/04/zipline.jpeg?resize=410%2C260&ssl=1"
-    width: 410
-    height: 260
+  - url: "https://www.techdigest.tv/wp-content/uploads/2022/04/zipline.jpeg"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 563
         isCached: true
 
-secured: "ZOUnACvumTr5ghAXqyl5NxpLRV3DF+CtVALkoBn9qm6qPVpMKz64x/1eg15C2OJ6GuGTeAVpc7iJ90nBXHX3sx7oNRzeg7dRi/2kWKIh7cJ1SvShnfXx48+zcChLbjWm0q6Uz8kSjPGmpUNUZNiq3CspfxnICs7PzqsfzTXRtw+0tKkhyj+sbF6z70mZl3umHbnsdffuIcRlRDCs30VBseTDeklC+nk0cdk8VYbDeZVdTQ+8V/CQqBnCR+9dFfUXH6NBy4PCZz31nap0IGR/mMt4av7KB7tmv3x9lrmqwWqDOyvsSWOaOYO/BjWf8LA8869jYegfsXOYLZs+TIN+vedvl8vkDxfgcwf7wsZga/Y=;8pBiM7gPUUKOz0ATBRHYTA=="
+secured: "i0P2/iQMAcgwRMcFoP5mg9VjhHulTt9Ob9n1Lem0+X7qqCxQHkK/Oz5JAI5tRS6uLsodyGD0MI9yttDsHBYUz1wFvHOEWlK32sOM7f/u5h0TbodDjHPy/4vJUMdslv1rU05GVKKXK+PzqY12ZoqVc0LSG+GcUdAuctc1tTIblP4im1LG/ep6XrLlfddSOrRqmRlfAMbyTdySvLjw/fltnfN3d3R5rGbwA51mSOtJy6IvLmFN85/qEf1qi083CQUn06Np/mrYucRLl5aPstP7lqasAt7KaGcahqDNw9f7BzRmcR4jus5XdxufvcI3PNXnknoAHXHVvKhDUla6e1Ki4mrQm65pnzv9DXHbNaUxQd4=;tnOJi/MnM9CpL51XFGwP9Q=="
 ---
 

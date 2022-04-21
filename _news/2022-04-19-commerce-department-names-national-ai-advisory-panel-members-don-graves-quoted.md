@@ -52,6 +52,22 @@ related:
         width: 320
         height: 400
         isCached: true
+  - title: "SAS executive to serve as artificial intelligence advisor to Biden Administration"
+    excerpt: "The US Department of Commerce has named Reggie Townsend, Director of the Data Ethics Practice at analytics and artificial intelligence at SAS, to the National Artificial Intelligence Advisory Committee."
+    publishedDateTime: 2022-04-21T10:05:00Z
+    webUrl: "https://wraltechwire.com/2022/04/21/sas-executive-to-serve-as-artificial-intelligence-advisor-to-biden-administration/"
+    ampWebUrl: "https://wraltechwire.com/2022/04/21/sas-executive-to-serve-as-artificial-intelligence-advisor-to-biden-administration/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/04/21/sas-executive-to-serve-as-artificial-intelligence-advisor-to-biden-administration/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 54
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/reggie-townsend-e1650525216349.jpg"
+        width: 1196
+        height: 671
+        isCached: true
   - title: "National AI Advisory Committee"
     excerpt: "Looking for the latest Government Contracting News? Check out more stories about National AI Advisory Committee."
     publishedDateTime: 2022-04-18T20:48:00Z

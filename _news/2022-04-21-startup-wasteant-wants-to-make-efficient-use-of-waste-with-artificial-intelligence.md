@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Startup \"WasteAnt\" Wants to Make Efficient Use of Waste with Artificial Intelligence"
-excerpt: "\"There are many similarities between underwater robotics and the requirements of waste management,\" says Dr. Szymon Krupinski. No longer dedicated to deep-sea exploration, Krupinski, Arturo Gomez Chavez and Dr."
-publishedDateTime: 2022-04-21T09:00:00Z
-originalUrl: "https://idw-online.de/en/news792186"
-webUrl: "https://idw-online.de/en/news792186"
+excerpt: "This is made possible by a sophisticated system of sensors, cameras and artificial intelligence, or self-learning software. Müller explained, \"we see a plant like a robot: the sensors are the ..."
+publishedDateTime: 2022-04-21T09:01:00Z
+originalUrl: "https://idw-online.de/de/news792186"
+webUrl: "https://idw-online.de/de/news792186"
 type: article
 quality: 30
 heat: 30
@@ -23,6 +23,6 @@ images:
     height: 284
     isCached: true
 
-secured: "bC710L0zBreNB4ZeJ2pE89bkE2na+HiYkdRHXw05J/WcInqzDhtwXunQ5L959RzrsNAfyPQozIFw39onlq792PmxPVp45NkitldpsKM/PTjjUD1R6x6dxNT87eCAjpUA1V3SGQs8k/OVCyE0IRvVpjTbZMHKmU02enJkAcCIrm6b/zzoGzmhBOfOBBDnFR6NoEgpF+qUK+q7klsu5uvTjtX3Fjues/Cx7G4e4qIzGMvmDHi9dUA9VmWXdr2S7rwb35ihkdKxn5POmyciaCof6GaujiwH9Vlej0bPEn+ALJs3DrGPdI3puEXi318mLAZqhhbLHc2uWkLY/+WD1/jcJ1UIIe549oPUiuEIc3NZmhc=;uS4pFJC7I/OGBO8TYKYTOA=="
+secured: "P3kt/1+sfcN7W0eAk6z1tkbUXRltRsUp4D8OXEwphB6/x43c7f31KqpPBkVc6yWKt3L/z5bJEU6JpBnVpncDPu9/fajdiVToS/t/Iy3IVhStSxw5mNOliOLpoxlIuYSZWaRdDgqV6wOzWnnf6zIIgU0awqlj0yj6ikElK/Z1GHsi5MS8cA3kymVHZMEciCs5NBw8/P0usqycUp1SnVfHScMB6ubCGG9pgLUSEqPBYk5Ow3rztj5zkNemGb+mL4FelMLixdiDuHywrV0QReMO+mnB/dnbKq9/1lTAlsnmsJbJJeU/TSho7oDuUtJfmSA+odmfs7JPqHvxZOiyaPXIBLiXrhXneIXfmUJBSGnWymw=;u+fxaEpCdPYHixGS82Tmrw=="
 ---
 

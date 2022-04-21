@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/improvisational_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/improvisational_ai/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "GAO says US military playing too loose with AI development management"
-    excerpt: "In the U.S. government, it is the job of the Government Accountability Office to poke holes in bureaucrats’ spending plans, and GAO analysts have some strategy-level thoughts on military development of AI. It sounds like top defense officials would do ..."
-    publishedDateTime: 2022-04-20T19:37:00Z
-    webUrl: "https://www.biometricupdate.com/202204/gao-says-us-military-playing-too-loose-with-ai-development-management"
+  - title: "How To Improve Contact Center Training With AI Simulation"
+    excerpt: "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag"
+    publishedDateTime: 2022-04-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "How to deploy AI to improve customer engagement and retention"
+    excerpt: "Initially many people expected AI to be a job-killing technology, however, that hasn’t happened. Instead, it has become a vital component for employees across the workforce, enabling them to do more qualitative tasks and remove the remedial,"
+    publishedDateTime: 2022-04-20T14:35:00Z
+    webUrl: "https://www.finextra.com/blogposting/22169/how-to-deploy-ai-to-improve-customer-engagement-and-retention"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "0O7d/Bt21u8Y+YE/TlCl2X4JlE6fcbes6JYXXqgBVrdcy1C9gGAUCbUps3clW5314/Tc7PlTEKxf3Td+R8Igg7Jbe8ZJDihMBRhdtweb3Vp1AhqwJwE6vNr883pQZC6euMAM8lAuMFAjKupyYtMUgWD29xuenk1e8uhI9wTO2nkUjJjbAFsRAF9P0rowROyf7wQ4M7hqj63mc1jEGJhQbiA0iaai5d+uIi4R8YJVkK95r5tAt62uJkIU3tZHtL954sMtM2r5PnmW4JeACD4PROZQ3lTO5GCiGnt53Y6Eg/iLymZZPvlg+noMe5wKx8wfHOGJQfVzrWxhoFpP2h7ADrXPaCcxjNnkgF+2Koo8Avw=;Jnrb115IeUpCzfhM2LBsIg=="
 ---

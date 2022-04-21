@@ -105,6 +105,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding"
+    excerpt: "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,"
+    publishedDateTime: 2022-04-21T11:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-canadian-fintech-start-up-savvii-group-inc-offering-/2022/04/21/9586796.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/1800983/Savvii_Group_Inc__Canadian_Fintech_Start_Up_SAVVII_Group_Inc____.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
     publishedDateTime: 2022-04-18T04:34:00Z

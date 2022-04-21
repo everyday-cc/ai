@@ -3,23 +3,23 @@ category: news
 title: "Fintech Kinara Capital Secures USD $50 Million in Equity, Led by Nuveen"
 excerpt: "Kinara Capital, India’s fast-growing MSME fintech, closed a fresh equity round of USD $50 million led by Nuveen, a leading global investment manager with over $1.3 trillion of assets under management,"
 publishedDateTime: 2022-04-19T10:06:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen/article_6281bbf7-dce3-5c3b-8091-a7ee55450044.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen/article_6281bbf7-dce3-5c3b-8091-a7ee55450044.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen/article_f5a060f0-b3e0-50ff-9600-76d5a58444af.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen/article_f5a060f0-b3e0-50ff-9600-76d5a58444af.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/65/e650a1c1-78e1-52aa-bc20-c41573dec475/625e8f8b229be.image.jpg?crop=1987%2C1043%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/bc/fbc7e0a7-2c75-56e9-b01f-05dd1ba0dac2/625e8c71f3cc1.image.jpg?crop=1987%2C1043%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: ciol.com
     quality: 24
 
-secured: "138Ir5qi7vn6V5enrX3k0Me0c8Bx/utCsCWYjx2rOLC2eMikburX5RkhmmTUAq9kUclF1YwU22R3naT3/Mfww4GJ4Ucb6uQH/bsE5VWygTjbA7vKFJMViXnTn9EZg1kTw4t6gvGLXhfqzyf7lodbDvwmSBpmZUInaUh6i23j3LoJYH04U1S5BaFhZ6LeMchZ8+GLTk7FThMFFBJGgdQhOdSUGt66V/hzi7hTcHoWjR+LNNkHMtihqk0jmywigtZExYuofYRl8KgxxdpOP4h0koMfsYeRRB37/c2S8U5nb/y7d6sXOehtbDV+6q7BUQN9aBp0TVLuUL6/4qrRiyyF4vh72v9FwsOfQwxSVvxKNafGC+I1KlSNipgBFoWmB1yzN3Ddgf9ExJjsFovk/ROuQC0I1b6RjV+ea/zffMYx6P4dNZEOyEuDbCINcIiZqfIB2Z5kmrBJEHJk054A9HhUWYYM1324eUP1+PrqtpSCBmsJY92+hnfX6bLYG5Aq+T/XIGHLlaIeiI7nMSVuPH5YAw==;em830DBXQ+SEFwDBVZGXDw=="
+secured: "X5gmUI2CWS5iEP6AsT25hnYp+UU+WcZ5B9MgilDpJAkJ7W0y4R/OJlARZ6mcdX0yEDCSKxf2XF3D8JfG6JFc2U4QSxEsKvY+i3b7yPnY6OmL970tZEgRNqpzoAHCR//faP4kUGkC/UeMOAHxs67Bgyixc4abrQlvsG58jyZsXEq7FlSGTID3QRBRdOXZxa9ynPbPhZeI3/UbSuCLXgh3EUAf/3lsfmwAXXk+bT0iglg7/FMVxnQ29Xip6Feka5mOIaItzfHfPX/dgVrEGtmrZGQB3SL+/NKcHXEFrvwMJZ/LPK2O28us3jtP5jTSBKDc0B6c3J6XUJcFxe7f5YaW8zO5qKfj57urmPuNAHPVxds=;R/kRiZGt0y9UEHnjEJ4kUA=="
 ---
 

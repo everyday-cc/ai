@@ -2,33 +2,25 @@
 category: news
 title: "AI Week brings together the world AI community"
 excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-publishedDateTime: 2022-04-14T19:56:00Z
-originalUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
-webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+publishedDateTime: 2022-04-14T20:00:00Z
+originalUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+webUrl: "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: WHNT
-  domain: whnt.com
+  name: WFLA
+  domain: wfla.com
 
 topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "AI Week brings together the world AI community"
-    excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-    publishedDateTime: 2022-04-15T19:46:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=647969"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 19
+images:
+  - url: "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/5-dead-in-Minnesota-home-after-report-of-mental-crisis-police-say.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
+    isCached: true
 
-secured: "YcICRolwk0AMVPFwDjhOW1TC3kjvYKXnJmPO5kvmiDd0OE6hZPEKhh1rYEU7teEksZw9S3fNa1vpWWe7wuSAGqIUxmy6P4zFbzyU1/9W1Y8rFBejL1xWvwiKf+d01OcQCtEDBivjMCFTG7uhhxDZyBdudKXLAUz+j6hfP5SqLQmxUVC+plJkECYONDw2SRw8o8DkAHTVBsjXRZhAArae8DwNFRmNiXzuFPQEaZ0rXjFFFC5kXUNdKzdDNYvzXz7OEGwmN9i8G04z9NltHGQfV/IlbdBzE7bJQ7HYgnH/poZXOEsTtigSlBd9B4zrKaKRtLNf8MnUPGvRUqdfExNNrLu56MtZrng9loRYqEdL/ls=;wpae6+ChpAd+fs5SZyXR2A=="
+secured: "VgxdMOiYmAsyfyT9c1ZD23H6iSJdFFLtlb+htTGYMSYAsZddiKgZKOzaYVW8sV21QI89e1lPDiXokiuk5i03OJ75ElAILfIiQ89Ba2trcsszZmC2JK/fHBBLv6o2WE+Zick7WBrGIxvMMFfFMoY2FTYLT0+DqP+vWghbiFX3UeqW/maRcf4Ded1WR+NqzzehOLMYiACsjjlYpcF+lkICgz9b44OkY9Y2aVBeQnsexy6+wWpK/wtTlrKHWkei2g/Wa0G8tz9gA3T+uZoG4p2GZrqlseGukNJomGtB4KtIGNnvGVhxgzmokDOXxeEXMlVAMcpbmowfYE4cRh5opOR1q6erLb8Bpjn75fK7YurJ1ZI=;MEplt5NHWOk1NClGWQYc/A=="
 ---
 

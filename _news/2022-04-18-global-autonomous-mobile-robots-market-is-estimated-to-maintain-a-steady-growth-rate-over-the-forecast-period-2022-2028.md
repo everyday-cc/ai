@@ -24,22 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Optical Character Recognition Market is expected to advance at a striking CAGR of 15.0% during the forecast period 2020-2030"
-    excerpt: "The global optical character recognition market was valued at US$ 15.1 Bn in 2019 and is expected to expand at a CAGR"
-    publishedDateTime: 2022-04-20T05:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/optical-character-recognition-market-is-expected-to-advance-at-a-striking-cagr-of-15-0-during-the-forecast-period-2020-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/UN-Security-Council-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "RSA3427bTuRbJsK07xr/p28jcUn/hMrNR0oXtGKyYQKAZJw3+B5Rv1hiVSHgOFBR05Yzb3iHxvUqGdcZyL8hz+xfQCSJ2df3FiqIZrCQDzJMMZ01ZN6cxJzNTxHD5Zuo19W5XfEhxEqYHXqDeUjReXbdk93wJrRH24RhA+FJ0g1RV3WJ/eFwebmkE0XJyI+5Y5S+l2TaIuLjcawahDy4jbWMi14UbBosX5sWtN0b/cklX/cqkCj2ucJTLOX+vrrazv2x/sH9ksO1uaPFUAiwrocHKjkL1WFVUD050xQjZ8saQYI8oY8hZKh3zp5mUELM9f/GvwU/Dr8Cpnp/2E/orDNjQXKyBoEb/IcQ69Q0GIA=;K0dilPwcmrytDcbWTJzQfg=="
 ---
 

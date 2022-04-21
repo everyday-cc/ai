@@ -69,6 +69,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Nvidia turns to AI for design process improvements"
+    excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
+    publishedDateTime: 2022-04-21T10:43:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54732-nvidia-turns-to-ai-for-design-process-improvements"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
+        width: 620
+        height: 388
+        isCached: true
   - title: "AI Chipset Market is Likely to Experience a Tremendous Growth in Near Future | Nvidia, Intel, Xilinx and more"
     excerpt: "The AI Chipset Market has witnessed continuous growth in the past few years and is projected to grow at a good pace during the forecast period of"
     publishedDateTime: 2022-04-18T12:49:00Z
