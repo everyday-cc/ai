@@ -35,22 +35,6 @@ related:
         width: 1691
         height: 919
         isCached: true
-  - title: "Faces created by AI are more trustworthy than real ones"
-    excerpt: "The similarity between the mocked-up images and reality is such that it has been flagged up by research published in Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
-    publishedDateTime: 2022-04-17T03:40:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
-    type: article
-    provider:
-      name: EL PAÍS
-      domain: elpais.com
-    quality: 59
-    images:
-      - url: "https://images.english.elpais.com/resizer/t9tif2fQuc5tbN7TWvX0pRFQ5J0=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7YXFHMKPOFAC7OGRXTB3IWVCPA.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "BnW2uvvxjsXiPEkqLToaAj1FEG6pNJdos+PE/WgjAbDq0/wSxWT5w/LfPrlEb4gNP0WLqiyRjhlw9AIjJ8jIFHuDHERpw8f5gOixSG89j8Vgzu2gacUgHoTCE98mDy7BU4dsdPSM5F6IOnCZhtOp53zkC0fgTEl/z2Xs3IujmnMp3rLp7AZ3kx8L0JkkSpwazZJ0BrHUSZDRp1p4JModkRAMDGt/UZkAwaoLDOBjuoMSqgcQ9EUdUFDgckDYwMg/cqmPbqHWBfdenxMKhXFzbZ8eP6FuBcHEZmjGN90l0chirJcWqCLxdJ6zS+99xuRfDvqVOWjtzo/FToTEms7+qiHwN4j2yZPBhmr+qGNQowj/+huZh8X2PkC0vzbWPpmpw3NPkxDUnJ1Bz1KdnFu+H2AMsaQmQHnsbCtXJGD0YVS5af7Lj0JdE/ymNQNUNnEKGS+wSQrkIvD2FqB5opzX9p7EkO6N4mFKT7u1os1o4X33i3s9eAYcm4LGn1blaatfdrZG8ZtMlQbrmYgNJ5rrvw==;NY8jeBEzyhk4N9tFqtA5yw=="
 ---

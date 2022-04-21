@@ -97,6 +97,20 @@ related:
         width: 800
         height: 350
         isCached: true
+  - title: "Credit unions eagerly pursuing fintech partnerships"
+    excerpt: "To appeal to a younger audience, credit unions are teaming up with third parties that can help them offer Bitcoin accounts, real-time payments and other cutting-edge services."
+    publishedDateTime: 2022-04-21T16:10:00Z
+    webUrl: "https://www.americanbanker.com/news/credit-unions-eagerly-pursuing-fintech-partnerships"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/31786ca/2147483647/strip/true/crop/1400x735+0+33/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2F63%2F6249e5f84534a5833230a503ee0c%2Fashley-novak-willden.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
     publishedDateTime: 2022-04-18T04:34:00Z

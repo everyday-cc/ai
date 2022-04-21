@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/04/13/Martin_Klein_C3_AI/860x394.jpg?1649870841"

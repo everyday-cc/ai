@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Faces created by AI are more trustworthy than real ones"
-    excerpt: "The similarity between the mocked-up images and reality is such that it has been flagged up by research published in Proceedings of the National Academy of Sciences of the United States of America (PNAS),"
-    publishedDateTime: 2022-04-17T03:40:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-04-17/faces-created-by-ai-are-more-trustworthy-than-real-ones.html?outputType=amp"
-    type: article
-    provider:
-      name: EL PAÍS
-      domain: elpais.com
-    quality: 59
-    images:
-      - url: "https://images.english.elpais.com/resizer/t9tif2fQuc5tbN7TWvX0pRFQ5J0=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7YXFHMKPOFAC7OGRXTB3IWVCPA.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Who should be responsible for AI ethics?"
     excerpt: "There’s been a “radical shift” when it comes to the roles responsible for leading and upholding AI ethics at organizations, according to a recent survey. When asked which function is primarily accountable for AI ethics,"
     publishedDateTime: 2022-04-19T19:19:00Z

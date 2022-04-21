@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Marketing
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://www.cmswire.com/-/media/014241e84a4e44bd907eb47e9b299287.ashx?mw=1024"

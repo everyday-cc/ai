@@ -385,6 +385,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
+    excerpt: "Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances, the Department for Transport said (DfT). The update to ..."
+    publishedDateTime: 2022-04-21T17:13:00Z
+    webUrl: "https://www.worcesternews.co.uk/news/national/uk-today/20079575.watching-tv-allowed-self-driving-cars-highway-code-update/"
+    type: article
+    provider:
+      name: Worcester News
+      domain: worcesternews.co.uk
+    quality: 24
+    images:
+      - url: "https://www.worcesternews.co.uk/resources/images/13694720/"
+        width: 2400
+        height: 1691
+        isCached: true
   - title: "Users of self-driving cars in the UK will not be held responsible for crashes"
     excerpt: "UK authorities are making changes to the Highway Code to prepare for the arrival of the first self-driving cars on Britain's roads. Under the proposed changes, drivers will be allowed to watch television programmes and films on built-in screens while using driverless cars,"
     publishedDateTime: 2022-04-20T10:44:00Z

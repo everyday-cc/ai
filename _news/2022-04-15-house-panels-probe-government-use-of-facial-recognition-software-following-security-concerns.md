@@ -3,15 +3,15 @@ category: news
 title: "House panels probe government use of facial recognition software following security concerns"
 excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
 publishedDateTime: 2022-04-14T19:47:00Z
-originalUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+originalUrl: "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.ketv.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: KETV Omaha
+  domain: ketv.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 677
     isCached: true
 
-secured: "oPBnipk4YQA8urHMNgNAhSvyZ2aiTPy7uRUPvUnTIJehHZAoqm01ih+HWw4bwT+LpzTXl2gUcsmbTUVRAeHItlewGbR+13qKt6dJlcIs6GP4yBwcC7HFwAUmC4Xxmy0yyG3HHHWGfBOfqYJZ71Q3UC8opsPIELQQhtrpT+iPqmIbgV7/fXjS6e8lktsmzcU5r3FfDJ2U3DgjwDam3EH/fMQ57l00Ve0cO3wqFRFpqU9CGkUmnd+NZBfnwD4hKl21opIbKpZHA8w64rMh9N5oaqlkH7RM+MtOaO6+jQxnsa/Xzyo3lJZoi/n46LDWNfFcHQhlbHZYYEHOx9nzNE0n8TMtoJTk/F7aN5vM05e1tek=;BtAariiOnfPIc7eHr2x6mQ=="
+secured: "xDLO2CCeeDzixMZqI0X4jiyhhSECKQwtp9LpQdCfwEDTSM5a9Q6s+6K6UGvnzi05l9zGCTonKU9MVJCDF8OEGcYoqZbnknrqp6Q/qtFODwQbp1i/WsqSOO9Z8U8Cz16CZauSd8SqUVBgcouQtTEI7SiMvpfYdtVxOOEdY6WGKfDTk1BzS2ZmwS0Jz8U9PEvF6xUrhfSQZsU9SkpRGViM6pgyoMH7s1yIEyrkVe6NFQWkT3RNku7fFMUZRkShtXLOtLt7PztXMRi86+LAir4YurTTXAPDsf+Jk8ynwc294BgqYyyFOL7lVtQ0DIAaQsjZCWWS85sl6Rw9xrESBVTid+gDqCR+6HdJJVqjcFCieBc=;AHCrSFacb2JJSUQkaSIWmQ=="
 ---
 

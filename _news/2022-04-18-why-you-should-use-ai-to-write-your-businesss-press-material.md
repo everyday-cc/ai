@@ -38,6 +38,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Deploying AI in Your Business? Don't Forget This Department"
+    excerpt: "AI can supercharge the compliance process. Many companies believe more is better when it comes to due diligence. But trying to track every news article, social media post or regulatory update concerning every customer or partner leaves many compliance professionals drowning in data,"
+    publishedDateTime: 2022-04-21T17:33:00Z
+    webUrl: "https://www.timesunion.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/32/57/22391767/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "BHCBNgEYVvmasT6k7dzFG/aIwB/dCzcFwPp+7byFp/btE9E25mulZuZaxXs+tcSSsPaI2CcqZgSb8eQUHxiQFBTSD4oAAWjWZ5BVpmpfLCeT59Fy71RtGdu+SyTObc5pbk3SjvnuyVYl3inUvf/C0Bu2kPXOI2L7BiOvUZfPwgNGjGBQ7b/dVbtqVK02tLjVESXlVHMR70VW4aKBUYJfCFA8rhMea7380LqR31zD3gz5DEqg+LICtuaoHJoIL7HFQ8l45w+9V3Pzht6cK4mLu9KeDH+Lvw3fQVoAFT3Xlaudg6wudr4kac/xcakPoMgN7dAihv8LCveBqBIVWaco3dsBR3d85vXRXMfJH7N4oZQ=;f4wue6WLcRe4kIBAnVDdjg=="
 ---

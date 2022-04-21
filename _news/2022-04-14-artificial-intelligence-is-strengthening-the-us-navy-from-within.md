@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/34285147056_1f5f6089ce_h%20%281%29_0.jpg"

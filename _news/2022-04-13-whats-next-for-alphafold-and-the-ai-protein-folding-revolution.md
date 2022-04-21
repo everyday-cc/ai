@@ -3,8 +3,8 @@ category: news
 title: "What's next for AlphaFold and the AI protein-folding revolution"
 excerpt: "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,"
 publishedDateTime: 2022-04-13T09:26:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-00997-5"
-webUrl: "https://www.nature.com/articles/d41586-022-00997-5"
+originalUrl: "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd"
+webUrl: "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "uEPIPOVm9XpqFj5IHpcOzQQc0CUK8twsKKkYjghGdKFkWxxwngRdx/uPUkYXAIg3e49ETPI/tbl5sevpHqcd0Rlh8Pu2l7eDh1Afkr0evON1nq0PpC20LMYZYawllrLIw28yLXDJAFmrSdv71nv6Ar/h4xBRjtzpJIB3KUW+i72nbEz4/htnRbGc5SXhr3ICvXKxSIC1WSFyDkmmYOUtnpPP4DG2RGIG1SbIwY4U2f0bBf/aoT3eNcPCb+PgqwE2cTALKhXCfaRkCwlP9VLBkVKTGIYz+Go9duHCxbBqjtqsz2gBgrJxkkNG18ylEyWDOutIGWxWrgtHd5H+E98bpiHZbQ2lvqifTgfG7kSP3iI=;cXuma8jYv9imHwsyCTRr/Q=="
+secured: "c/e9WF9JJdERd+U+mwEaSINhhsPS7XmCAhwxQg0vQdC1V0qg1WrMR2pb0bG5TwuvxMVQeX0gkmZE6y/3Rd8er344dTaIftvtc5ljwfJML7hrHKiLMjTMck6PNgSOyje90+afAIiZeMO1RdecbkTHKUkGj6HK6xJD5fWq6CUW6qiSrhvnCXGdDeQwO6K4foTsi/1ITCYMj0JwcbPPWAiucB38tmCv50RIG6Utd92hNlewc72hnhNMDwak6Nwb5PUlKpDlXKrArKFEcHqtLJg45pw0ZhjZ4NJWPwzOWzvtUJet2MZKKAZyq05uHp74+48PJenXQnI8oFANb7q8dMZ27dX6Lm2OGF6n2Ia380wxuss=;T5JkJT+Hwn8gI4weFTGdzA=="
 ---
 

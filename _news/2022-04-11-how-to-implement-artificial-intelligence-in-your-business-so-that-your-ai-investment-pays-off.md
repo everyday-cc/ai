@@ -20,6 +20,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"

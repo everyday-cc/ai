@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Shanghai-Lockdown-Covid-China-AFP-1K-600x337.jpg"

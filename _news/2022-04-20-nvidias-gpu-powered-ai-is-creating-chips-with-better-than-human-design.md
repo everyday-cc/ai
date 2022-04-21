@@ -41,6 +41,20 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "How to Improve Corporate Culture with Artificial Intelligence"
+    excerpt: "Entrepreneurs should treat AI tools as colleagues. This article highlights how they can use AI tools to navigate rapid changes, build a solid workplace culture in a hybrid work environment, and manage internal communications."
+    publishedDateTime: 2022-04-21T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/422890"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649877972-GettyImages-1198333917.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "AI in Healthcare Market to See Huge Growth by 2030 | NVIDIA, Google, IBM and more"
     excerpt: "Global AI in Healthcare is the product of rigorous evaluation and analysis of real-world data gathered from the AI in Healthcare market. This new report"
     publishedDateTime: 2022-04-19T09:24:00Z

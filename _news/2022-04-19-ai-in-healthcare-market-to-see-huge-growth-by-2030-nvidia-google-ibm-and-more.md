@@ -41,6 +41,20 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "How to Improve Corporate Culture with Artificial Intelligence"
+    excerpt: "Entrepreneurs should treat AI tools as colleagues. This article highlights how they can use AI tools to navigate rapid changes, build a solid workplace culture in a hybrid work environment, and manage internal communications."
+    publishedDateTime: 2022-04-21T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/422890"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649877972-GettyImages-1198333917.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Nvidia's GPU-powered AI is creating chips with 'better than human design'"
     excerpt: "However, it has also found many uses for AI in its silicon development process and, as Nvidia's chief scientist Bill Dally said in a GTC conference, even designing new hardware. Dally outlines a few use cases for AI in its own development process of the latest and greatest graphic cards (among other things),"
     publishedDateTime: 2022-04-20T16:36:00Z

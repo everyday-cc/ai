@@ -7,7 +7,7 @@ originalUrl: "https://fox40.com/business/press-releases/cision/20220420DA31666/f
 webUrl: "https://fox40.com/business/press-releases/cision/20220420DA31666/filing-deadline-kuznicki-law-pllc-announces-class-action-on-behalf-of-shareholders-of-c3-ai-inc-ai/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "UPCOMING AI DEADLINE: C3.ai, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit"
-    excerpt: "Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of C3.ai, Inc. (NYSE: AI): (a) Class A common stock pursuant and/or traceable to the offering documents issued in connection with C3."
-    publishedDateTime: 2022-04-17T00:12:00Z
-    webUrl: "https://www.barrons.com/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
-    ampWebUrl: "https://www.barrons.com/amp/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/upcoming-ai-deadline-c3-ai-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-01650140250"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 36
-    images:
-      - url: "https://www.barrons.com/asset/barrons/images/social_highres.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
     excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
     publishedDateTime: 2022-04-21T10:45:00Z
@@ -54,19 +38,19 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Kessler Topaz Meltzer & Check, LLP Reminds C3.ai, Inc. Investors of Deadline in Securities Fraud Class Action Lawsuit"
-    excerpt: "Vancouver Canada · V6E 4A6 // KISS PR Brand Story PressWire // The law firm of Kessler Topaz Meltzer & Check, LLP (  informs investors that a securities class action lawsuit has been filed against C3."
-    publishedDateTime: 2022-04-17T00:19:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-business-lawsuits-class-action-securities-fraud-cc5abdde83a1bf45739da7f2edc304cf"
+  - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
+    excerpt: "Glancy Prongay & Murray LLP (“GPM”) reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of investors of C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) who purchased or otherwise acquired: (a) Class A common stock pursuant and/or traceable to the December 2020 initial public offering (“IPO”);"
+    publishedDateTime: 2022-04-21T16:04:00Z
+    webUrl: "https://wgntv.com/business/press-releases/globenewswire/8526153/glancy-prongay-murray-llp-reminds-investors-of-looming-deadline-in-the-class-action-lawsuit-against-c3-ai-inc-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 13
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://i0.wp.com/wgntv.com/wp-content/uploads/sites/5/2022/04/gettyimages-1392629684-594x594-1.jpg?w=2000&#038;ssl=1"
+        width: 594
+        height: 396
         isCached: true
   - title: "ROSEN, A TOP RANKED FIRM, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action - AI"
     excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company's initial public offering conducted on or about December 9,"
