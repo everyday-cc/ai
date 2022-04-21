@@ -66,6 +66,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
+    excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
+    publishedDateTime: 2022-04-21T09:33:00Z
+    webUrl: "https://galleonnews.com/news/251019/iris-recognition-market-growth-opportunities-key-players-and-threads-analysis/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 20
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11-5.jpg"
+        width: 417
+        height: 455
+        isCached: true
   - title: "Global Military Robots Market To Be Driven By The Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
     excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives"
     publishedDateTime: 2022-04-19T12:57:00Z

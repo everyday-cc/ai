@@ -59,6 +59,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "For the 6th year in a row Glenwood City’s Music Education has received national recognition"
+    excerpt: "Glenwood City has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. This is the 6th year in a row the district has received this recognition."
+    publishedDateTime: 2022-04-19T20:57:00Z
+    webUrl: "https://www.dewittmedia.com/2022/04/19/for-the-6th-year-in-a-row-glenwood-citys-music-education-has-received-national-recognition/"
+    type: article
+    provider:
+      name: DeWitt Media
+      domain: dewittmedia.com
+    quality: 31
+    images:
+      - url: "https://www.dewittmedia.com/wp-content/uploads/2020/07/newgoodrich.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Global Emotion Detection and Recognition Market (2022 to 2027) - Growing Partnerships and Widening Ecosystems Presents Opportunities - ResearchAndMark"
     excerpt: "The \"Global Emotion Detection and Recognition Market with COVID-19 Analysis, by Component (Software [Facial Expression Recognition, Speech & Voice Recognition], Services), Application Area, End-user,"
     publishedDateTime: 2022-04-19T23:05:00Z

@@ -25,6 +25,22 @@ images:
     height: 563
     isCached: true
 
+related:
+  - title: "Tech Digest daily roundup: Actors’ union warns AI is ‘stealing the show’"
+    excerpt: "Actors' livelihoods are at risk from artificial intelligence (AI) unless the law changes, a union warns. Equity, the performing arts workers union, has launched a new campaign, \"Stop AI Stealing the Show\"."
+    publishedDateTime: 2022-04-21T09:48:00Z
+    webUrl: "https://www.techdigest.tv/tag/equity"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2022/04/zipline.jpeg?resize=410%2C260&ssl=1"
+        width: 410
+        height: 260
+        isCached: true
+
 secured: "+1HYK+90RPgMi56hWXGnl712sOfYPQ7lHDkbSywRQfLLWZWyGtuavIXMzmZ8cEqLfitvoIIs163N5zyUjelarCDzRJHhNc4uz1mOjFZUL8L03ROOA6vv4DJaoHcHj3+r/qXXmHbcRh1Y9vNQN+asiAleq5+J3JBEowJubP29hYvrJbhASwnNO4LtEboC6eI2qXDunD6DUjgCo8KrXubEaYl8GWBnH3+0gtEFgZA6nqRiDnO99AUi4+Afi/ELiJbE/QghuF2d6RONM7jvrCZcC26WASef2mOt4wzmnsGi6NxEOz3Fvmtiv3jdtWcazT5vs09A3XcIuqnu8Mn7yoesVJvY/rDsR14vBxu8Z1AQo9kAPxPcIeei7GAXAEQfg5xWSBbaX50qDjrRhjXoBFI593nZF3hjzKYHmmxxY69sNV2ZZOxNrSfAHp4hqxPbVvH6f2XlM0X/bWoBQ6f0w4Rjgn1qFgYv/uTndu3tjM53FMM3EHKbHkgFKsGnzC9jZJriOo0VaHas4ZYs/s9ZBQWBjQ==;MRucxTZkQINzK0c/ssKS2g=="
 ---
 

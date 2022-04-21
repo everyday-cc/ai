@@ -56,10 +56,10 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Flutura Accelerates Lupin to Digitally Transform their Operations using AI"
-    excerpt: "Lupin and Flutura will collaborate to create a massive pharmaceutical data lake as the foundation for configuring digital twins of mission critical pharmaceutical processes as wel"
-    publishedDateTime: 2022-04-21T03:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247946&cat=PR News Wire"
+  - title: "Flutura accelerates Lupin to digitally transform their operations using AI"
+    excerpt: "Flutura Business Solutions LLC, an Industrial IoT Intelligence provider, is collaborating with global pharma major Lupin Limited (Lupin) to accelerate its digital transformation and automation journey."
+    publishedDateTime: 2022-04-21T08:54:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220421/3933653.html"
     type: article
     provider:
       name: Webindia 123

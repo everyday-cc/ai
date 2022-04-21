@@ -63,6 +63,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
+    excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
+    publishedDateTime: 2022-04-21T09:33:00Z
+    webUrl: "https://galleonnews.com/news/251019/iris-recognition-market-growth-opportunities-key-players-and-threads-analysis/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 20
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11-5.jpg"
+        width: 417
+        height: 455
+        isCached: true
   - title: "AI in Drug Discovery Market Global Demand, Opportunities, Trend, Growth, Segmentation and Forecast to 2027"
     excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a"
     publishedDateTime: 2022-04-20T04:24:00Z

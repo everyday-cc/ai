@@ -74,6 +74,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "For the 6th year in a row Glenwood City’s Music Education has received national recognition"
+    excerpt: "Glenwood City has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. This is the 6th year in a row the district has received this recognition."
+    publishedDateTime: 2022-04-19T20:57:00Z
+    webUrl: "https://www.dewittmedia.com/2022/04/19/for-the-6th-year-in-a-row-glenwood-citys-music-education-has-received-national-recognition/"
+    type: article
+    provider:
+      name: DeWitt Media
+      domain: dewittmedia.com
+    quality: 31
+    images:
+      - url: "https://www.dewittmedia.com/wp-content/uploads/2020/07/newgoodrich.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "5T0yKUIn++lmHXRDPk1/lJo/ZJSgcEPKlMStSscWYsWxWx57vlpMr7mudqmkQkn1V6POZoSPulZcpguXDRLRBm+8CpmKpM0tZZbyCWEE9JAMPWcPd9TZQx+ysCDJKhT+cvpY5XRsBhcuSVuFUHOuMjIrm+UP9AbO7mva0/YHhPMyer8s7WrqG0wEPlvOjgrjVZKryNiIb82YEn2TV0RVuRclxU3CvTrXaiQIJEdfI6MM1wvitpMrG9BuGOGpKs8aroQooUDH1BgLYoY7aE3B8i5Exqi5rkLXTYz6+Jm/v3z0I3syxiwQ1UjuyqoXOyEcutybbCJpb6WvUjtlyZmsqnjrG8A5oir4Sd/d7LZ/iHU=;Ak9DnPLWDoVnzIixVb20xQ=="
 ---

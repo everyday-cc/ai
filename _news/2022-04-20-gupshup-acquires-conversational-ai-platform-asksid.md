@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid/amp"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

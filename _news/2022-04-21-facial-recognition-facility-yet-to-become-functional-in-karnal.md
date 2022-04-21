@@ -87,6 +87,20 @@ related:
         width: 272
         height: 270
         isCached: true
+  - title: "Global Facial Recognition Market to Generate $16.74 Billion by 2030, States the Report by Allied Market Research"
+    excerpt: "Rise in demand for face detection systems to improve the essential safety & security in enterprises and advent of intelligent signage solutions boost"
+    publishedDateTime: 2022-04-21T08:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-generate-16-74-billion-by-2030-states-the-report-by-allied-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/49e19acb9b839c9b1eb0879c7b52bd76f2e02676-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "717oP2y+4C38+9+H18h+lhRX11itxnaNklwUhZIrEtBLGpWeslk3lO/zxVdLzfwertNsntpmiBV5oPXGxOGOjgA2KeeBmc/ffDb0K2K+fSGxYFwR4KmNveUA2p2H5GUGNBL4wjWrn0igXlWjK7IwUgasWGtK8Kf39ej9hySZ84jJAP5wi5WETKyFm4XhndMywQrpaKGE3KIpFMvP81R9ypCA31Y/q4s5VTo/utUD9BvbBmIjK5yOF5bgz2DmKany7wRu59ABJ39QY4Dx1hy7M0DEEbiYiFNLuHTEF0AaQZ+IV1l/HuCFN+MTtzyveavu+gX2HU8Tq1vXVpIPijhgmzE1niBhCInq0YYAbbZvLFQ=;ayxlFjOiQYI2Yc+lpwAwOA=="
 ---

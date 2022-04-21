@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
+    excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."
+    publishedDateTime: 2022-04-21T09:10:00Z
+    webUrl: "https://www.govconwire.com/2022/04/maxar-invests-in-geospatial-analytics-services-provider-blackshark-ai/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 29
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/04/unnamed-file-97.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Maxar makes a strategic investment in Blackshark.ai to extend 3D Geospatial Capabilities"
     excerpt: "Maxar’s strategic investment layers its best-in-class satellite imagery with. Blackshark.ai’s semantic 3D geospatial platform . Westminster, Colo. – April 20, 2022 – Maxar"
     publishedDateTime: 2022-04-20T11:56:00Z

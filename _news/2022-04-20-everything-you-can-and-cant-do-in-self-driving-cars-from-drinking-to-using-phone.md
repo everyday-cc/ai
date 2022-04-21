@@ -194,6 +194,22 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 39
+  - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
+    excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"
+    publishedDateTime: 2022-04-21T08:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/21/uk_self_driving_highway_code/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/uk_self_driving_highway_code/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 39
+    images:
+      - url: "https://regmedia.co.uk/2020/10/28/autonomous_car.jpg"
+        width: 1000
+        height: 585
+        isCached: true
   - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
     excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."
     publishedDateTime: 2022-04-21T04:00:00Z

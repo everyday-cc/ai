@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-access
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/20/ec/ee/33/c8/fd/47/94/00P4y000011p6OsEAI.png"
         width: 272
         height: 270
+        isCached: true
+  - title: "Global Facial Recognition Market to Generate $16.74 Billion by 2030, States the Report by Allied Market Research"
+    excerpt: "Rise in demand for face detection systems to improve the essential safety & security in enterprises and advent of intelligent signage solutions boost"
+    publishedDateTime: 2022-04-21T08:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-generate-16-74-billion-by-2030-states-the-report-by-allied-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/49e19acb9b839c9b1eb0879c7b52bd76f2e02676-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "HsQjX9srEabKAvloEebHQUebBAHvMS843RBI+gVMN0Z1PInLOx8fLxvbqoYCW1PkEFcFyNZCsyCs2vFYAqgpu+rK4MLbCMQRn6NxdoPHBHSPH31BKkGpWPGtONgL6s5l2v2IVXpAZM+Dx+Yf3VdlE8vy1ZufVfuDS3nROckxtGLNuQYVzjupmTnX42L4hDUQmWuiNxYSQZX+/9BCOJ/5OIL2jc3SP+hONWS9OYcZDJGEFmqgMjuOpAd8J/PDPWR+2VPB/qhALk1fYAbkY3eWdShk9n/k+U1EOaLxhSRQdw8hro9KOx1qb5IRM7xCh3K2JqzJQBGGnZ+WMdvveQIYo8l4xuQmeGtOTDkv1KBw0mE65NSizil5EhCwtUEetMCf+bqo6Q4zJo+o3KKPGQc1VZJ7uqnUBVp3zrM7sPN1QXGkxmHzlVF/vZgo96tW4q4Oj9zIr2tJ+5lis64mKZD4L4/pIFvBkxgLsV9Gtwfk80gICQuKf6e4K7WxxpVjselZVZNK8GnxalT/veNn6rV3WA==;NCTmVYA91fCmjZ7IcIRjVQ=="

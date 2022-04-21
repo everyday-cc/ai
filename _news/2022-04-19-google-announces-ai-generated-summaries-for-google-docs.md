@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "Qure.ai gets financial support to develop AI-based lung screening software"
+    excerpt: "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said."
+    publishedDateTime: 2022-04-21T09:38:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/qsjtz4/article65341311.ece/alternates/LANDSCAPE_615/Health.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Is Artificial Intelligence the Future of Safe Driving?"
     excerpt: "Not everyone is on board with depending on computer-assisted autonomous driving. Humans continue to outperform artificial intelligence in terms of performance and efficiency. Before self-driving cars become a reality, more straightforward approaches can ..."
     publishedDateTime: 2022-04-19T13:58:00Z

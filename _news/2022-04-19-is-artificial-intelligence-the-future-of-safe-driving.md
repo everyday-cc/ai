@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 827
         isCached: true
+  - title: "Qure.ai gets financial support to develop AI-based lung screening software"
+    excerpt: "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said."
+    publishedDateTime: 2022-04-21T09:38:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/qsjtz4/article65341311.ece/alternates/LANDSCAPE_615/Health.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Ultrasound AI Aims to Save Infants with AI-powered Detection Software"
     excerpt: "Ultrasound AI’s software, Preterm AI, can compare ultrasound images to find minute changes that could indicate an increased risk for preterm birth. The software platform is patented and is not, yet FDA cleared."
     publishedDateTime: 2022-04-20T15:04:00Z

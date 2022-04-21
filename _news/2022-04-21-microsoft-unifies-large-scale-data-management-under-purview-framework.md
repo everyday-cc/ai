@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-sc
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Microsoft to Initiate Two Schemes to Promote Start-ups"
+    excerpt: "Microsoft announces two initiatives to help grow start-ups and foster entrepreneurship in the country. Read all about it here!"
+    publishedDateTime: 2022-04-21T08:40:00Z
+    webUrl: "https://techstory.in/microsoft-to-initiate-two-schemes-to-promote-start-ups/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/04/Microsoft-Logo-2012-present-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Stripe appoints Microsoft’s James Phillips as president of financial services"
     excerpt: "Stripe said Philips experience building companies will be instrumental as the company works to expand its portfolio."

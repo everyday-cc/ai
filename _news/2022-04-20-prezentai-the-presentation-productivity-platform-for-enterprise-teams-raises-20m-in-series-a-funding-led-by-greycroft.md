@@ -49,6 +49,17 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 17
+  - title: "prezent.ai, the Presentation Productivity Platform for Enterprise Teams, Raises $20M in Series A Funding Led by Greycroft"
+    excerpt: "The funds will enable prezent.ai to increase investment in the core artificial intelligence that drives the platform and add new features to"
+    publishedDateTime: 2022-04-21T08:18:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 12
 
 secured: "5Ezbe2lkRaHNbxFx2WR7XEYTdFNxcgGM2vEJMKYR8dCUxHdDK/GDHq/cb4Uw/HBeTRsHWm0foG/ewMQ/MV9N8WnnCclzOQtQVWYO/zvmMiQ6Y996jW9w6WkXXH+3vV1egDxT85bjQWIV2DRHtDBT0YWhEkofZ+SUNTFBS70j3VUrDtKlYX5XyaV8O8ZTzHj04oX+vXf90rLmByt6KTK4u/sPgzpkyeG2RXIDSuFWWCC56r4sWm2a5tUkEvLh9IkP51kq1g8TF2lq/JD5mD8h58lEmcTiPPMVofq53m/DeDb/XV1UVTWBKiWLO09FwIDdDdNK+uTmEnsU5X+eiKwAKKMPAj8VFtBaB/iZ3YOegE4=;kLPQp4uFp8D8ZFZsFLQsXA=="
 ---

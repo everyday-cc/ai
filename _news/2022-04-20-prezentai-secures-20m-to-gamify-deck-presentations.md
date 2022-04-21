@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/prezent-ai-secures-20m-to-gamify-deck-presentations/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,17 @@ related:
         width: 800
         height: 328
         isCached: true
+  - title: "prezent.ai, the Presentation Productivity Platform for Enterprise Teams, Raises $20M in Series A Funding Led by Greycroft"
+    excerpt: "The funds will enable prezent.ai to increase investment in the core artificial intelligence that drives the platform and add new features to"
+    publishedDateTime: 2022-04-21T08:18:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/prezent-ai-the-presentation-productivity-platform-for-enterprise-teams-raises-$20m-in-series-a-funding-led-by-greycroft-1031367518"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 12
 
 secured: "dnMpWdJuUh5bY4uiXHxN3fwniccZJDqUMza7SmrSi1u4KiTMziyg56+uIpTv8ZAzJDnxwCt2kxHrTMP58zBO0QhvzAnOhmwKBsgpmqx+Vzt4m2za73adTSQ4LHYiNW5YCgyLsPg9dFCmrrrhoNoXCWnUywAcG+z9MSfc/nF4zudFj76ptT8Or5pfHKL9EhjkWiwJLcreM15kUE5ZFy3IHlZZ7oqrU7/HTNTS/OdTNqocH2FTRLsaFLuyBBtIS6QRcsIxrxn1qCL7/rpXEF4Nzoeah6hYcDUFtT+zXW4bmcmQncw7z6kjRGu6qHY7bxiVSmrhb2fR9TJkAA0p0x1dYI5UecY8SsK1No2Qyf5CvHk=;/PPjToG3bT0LLDO9x8uvZg=="
 ---

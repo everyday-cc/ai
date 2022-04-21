@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-es
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Esperanto Technologies' Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
+    excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
+    publishedDateTime: 2022-04-21T09:35:00Z
+    webUrl: "https://www.design-reuse.com/news/51794/esperanto-massively-parallel-risc-v-ai-inferencing-chip.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 24
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51794/Esperantob.jpg"
+        width: 1264
+        height: 554
         isCached: true
 
 secured: "i1H9C0xMsoL4u3gjEuDr5E+9B8+oHf1cxpUpwLp00xLdwwUzu7E93u3lNoZkeweMYL0aqo38ikqjveKUcX5Qokpb1Zv9Mw3dG0nbBfCimcXRm5SXKvuHNHN3pihXhk6phMxrdJHE7vwkBO8o21C7iCwfN6VMni1YqgXQlxY/ac7g1It8mHyERT6kxB4+8pIlEvA4yQrYIYjwT4yapu8tlQVIVCyJNNiRylH7TS55xzgON23kw7GDyZ3ByyFDInfE2O/QsBgPWFQIH4AKfwZ/VULpGeznfaM0v3LbiFs6QFdXspAGQ+M9eJ+UMviR4WTI5bYI5Aou59sljtgi216NsCRKALw03aq/6KlmZa8AUeSXO/154mnUhxB/dRKiz0AuxvQs2SW3sCvUuzP+DZvtvsU+abJcikvf3BzVozPQLCsb+hU6X9bTTJM9GUlBE2p5Amek+TFq+suZgTBMk5cFHfSfw/rIOmnMwj+wJBOFDhm1uiuobl+LLiKHg9niTUb4eJy1xGFm7aSz07/+d7vDtA==;gzaCii/0jwwJZmmffiXnTA=="
