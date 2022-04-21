@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1256860094-e1650552562873.png?fit=800%2C551&strip=all"
@@ -58,6 +59,6 @@ related:
       domain: stockhouse.com
     quality: 34
 
-secured: "CMP2n59ouZS+DS0+aCzVfJAemwMkClXQO++/qAqfhdBC34vzeWR18INXw+s1AXpYW/fGlj0hBhOdryjSEolDqWNV234HlvWx+xbaovs9+RiiwHYI4y6gJILrnZOAyiIl2GrgLU/6Qj86Ely7N0GzFtPbjJRkpMPRvBjvV4NNSzsfTmV49ppEoEAiskRhVpOXWgBjwQq/fmzocKkNGn/3AOZMSxqB4WWOlEEcRmba70tZcrwu+OQxaWxA9KisYlJCETKKuJbgA4E8bJb8b0MRJ6JfnCwyXBzul2q3RAiQGEFp2TbozZHv3zRdFrGg9+BDRsd/616HnDNla7B0gk1/u9ibsi+JhzC26D2GczUxwvw=;fqISBfaA7Ux5xqfggJBPQw=="
+secured: "MHLEQTXDsM7HxBgPXNWSWIZ5FNHbyb34uNnEcKhVrFTXk8T7xOAZTdGXhcF+65yFs02XJ273zl/8Qfcft4+CZ+fBfB3CoFFILQbZWUUkN50+oWwR4qO5xKvhxpuszlxs27c9gtIzoW4kWD71LqPUUpeCXumrvxLLg+zyQegHZ3qXu3Tv8qMsVEORlDDnXewil9Eo0MJS2lOPTHFV/4ymt2yPQieaDFxnS2YZEA+CIrWreQ297ESOB/jGRe3ixKE9ShC5moqDi/3Mp0IpIrut46iHwH3+3SfRNej6Ew+zXeivz/5RUaH7IP0yR7blYLTSDS+ZBHbFBo64ksXp2vSrUPimfBcSpiaVXGB2Iedqwuboqj003y+kwQhbjKx4cWBNqZBXnrqW4bJgKp4Smlqc8D9HViRA4pLI6sTujLckRdd7neNcMGNzdqRMndTJW1JiQKas/B9P0PDqba9oDljjSR3RxXpUgm0DZuHposHUK/Dw1oQsMH3v73lArUscCtJveEtV/QX8taOlkBN6qYVKHw==;kUGRg1r7SoBdiTLpg3s0/w=="
 ---
 
