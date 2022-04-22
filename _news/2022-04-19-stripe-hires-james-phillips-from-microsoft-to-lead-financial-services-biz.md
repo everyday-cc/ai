@@ -42,20 +42,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
-    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
-    publishedDateTime: 2022-04-18T00:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 50
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Kraft Heinz, Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
     excerpt: "The Kraft Heinz Company and Microsoft Corp. are joining forces to develop solutions designed to accelerate the consumer goods giant’s transformation and enable a more resilient supply chain."
     publishedDateTime: 2022-04-21T16:21:00Z

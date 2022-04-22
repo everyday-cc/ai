@@ -41,20 +41,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft Selects 10 AI Start-ups for its Sustainability Accelerator Programme"
-    excerpt: "Ten companies focused on reducing carbon emissions and waste, preserving water and protecting ecosystems have been selected to take part in Microsoft’s AI for Environmental Sustainability Accelerator programme."
-    publishedDateTime: 2022-04-18T00:05:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/24322-microsoft-selects-10-ai-start-ups-for-its-accelerator-programme"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 50
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/36677e779e3c6754299f5193f78fcade.jpg?t=20220418_000219"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Stripe hires James Phillips from Microsoft to lead financial services biz"
     excerpt: "Phillips joins Stripe after a decade at Microsoft where he helped scale the Digital Transformation Platform Group. The business intelligence product team employed over 15,000 staf"
     publishedDateTime: 2022-04-19T09:39:00Z

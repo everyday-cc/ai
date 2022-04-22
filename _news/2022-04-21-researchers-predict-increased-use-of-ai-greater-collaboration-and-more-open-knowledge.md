@@ -56,20 +56,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "How AI can make weather forecasting better and cheaper"
-    excerpt: "Many nations facing the ravages of unpredictable weather patterns lack the most modern tools to plan for the changing climate. A US startup says artificial intelligence programs are the answer."
-    publishedDateTime: 2022-04-17T23:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/18/how-ai-can-make-weather-forecasting-better-and-cheaper"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/11/1546813.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "OU Professor, Researcher Create New Technology That Aims To Improve Weather Predictions Using AI"
     excerpt: "\"I think AI is going to really revolutionize our ability to predict a lot of these things, and we're not going to be able to stop the tornados and the hail, but we're going to really be able to improve the predictions overtime,\" McGovern said. \"I think ..."
     publishedDateTime: 2022-04-21T14:29:00Z

@@ -40,6 +40,20 @@ related:
         width: 520
         height: 520
         isCached: true
+  - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
+    excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"
+    publishedDateTime: 2022-04-22T17:35:00Z
+    webUrl: "https://who13.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
+    type: article
+    provider:
+      name: who13
+      domain: who13.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "UuVrVrNdgTF0MDSA2ENCyKtAYznmjc/ftmbnbN0nSl9+hnX9HyzsihWZcfB9OFOm8z/oNGae6MPp9crOEtWbRa0JSoBg2ywOouLCsA6wiOlD9nXVWGE735YQ350WFQOjreeKb6AeCA1ZaqZFOia9RD7fNTAFO0YcYy9cncbGvUkGaJBhaMnpO3TqYQVeguI2NTxMwPkslZKA6/kFBvsU7jQGSvierb4tnrFxRjzHNELSGDd/p0WYoJIYnMnh85hSw27U9yoFKj/ftkMovfQY9Iu+J2A3SHf1LOSWdKtHKO7CAelcbz1VF424rV8sJZEzzfV6OmkZW29GOitjMQwzxyY53OEWf6CG3FWrZq+h5X8=;gBgfytQyczQhBsnalySMgw=="
 ---

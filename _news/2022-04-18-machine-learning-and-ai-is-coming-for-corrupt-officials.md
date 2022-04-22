@@ -31,12 +31,12 @@ related:
   - title: "Why You Should Personalize Corporate Learning With AI"
     excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
     publishedDateTime: 2022-04-22T14:49:00Z
-    webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
+    webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/25/33/42/22395058/3/rawImage.jpg"
         width: 2000

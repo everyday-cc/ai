@@ -35,6 +35,17 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
+    excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."
+    publishedDateTime: 2022-04-22T16:28:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 35
   - title: "Artificial intelligence to assess dementia risk and enhance the effectiveness of depression treatments"
     excerpt: "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses."
     publishedDateTime: 2022-04-19T19:34:00Z

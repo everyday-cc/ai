@@ -41,6 +41,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "U.S. Senate campaign ad takes aim at Tesla's self-driving technology"
+    excerpt: "There's a new political ad taking aim at Tesla's self-driving technology.The ad is from Dan O'Dowd -- the billionaire founder of a Santa Barbara tech company who is running against U.S. Sen. Alex Padilla."
+    publishedDateTime: 2022-04-22T16:54:00Z
+    webUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology"
+    ampWebUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 54
   - title: "California tech CEO running for U.S. Senate wants to ban Tesla's Full-Self Driving"
     excerpt: "Dan O'Dowd, CEO of Green Hills Software, said he's campaigning to \"make computers safe for humanity\" and ban Tesla's FSD, referring to the beta software as \"the most unreliable safety-critical computer system."
     publishedDateTime: 2022-04-21T10:43:00Z

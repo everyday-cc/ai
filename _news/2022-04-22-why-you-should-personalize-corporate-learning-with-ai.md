@@ -3,20 +3,19 @@ category: news
 title: "Why You Should Personalize Corporate Learning With AI"
 excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
 publishedDateTime: 2022-04-22T14:49:00Z
-originalUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
-webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
+originalUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
-  - Machine Learning
 
 images:
   - url: "https://s.hdnux.com/photos/01/25/33/42/22395058/3/rawImage.jpg"
@@ -42,6 +41,6 @@ related:
         height: 1709
         isCached: true
 
-secured: "dDQDFHlh3OzHlwK/rn9bUo66ms74xifzDvKftXljJL0jxm3jbm1JVC3GaTT9VQcBsaf30mQeW9kbTsp4sBIV2YTx6s/4evTKuXKZglu3novoX0U6D9J3JKttnzhlNwjJtww67U0xHKSWWnjXbStxTWyyua2whS/WrwaDl10pIA9SKZ/IXieBt9B9wo+2tqlOOuyvfbLA2ytrtUpcJSUzYnecY7kI+w0Vo04hY+D4RuN+jvtAOvrdo55vXUhTP135qowNRgfc9x6zbIP9U4AnDwC6FtdgxEyUEI6nzcPRD8iYQ0MHbcN1z8b+Abuqx0zTlmUtbl6ZGmP6JoFkjqJ8v+FHa3WpvujrgyPEyLuUoMM=;UWXm5WkrMFxJOCLWfnFLjw=="
+secured: "Iz6NtZ2gKhXbqXN4B7qE1FdAL7L0HiQ916b2clRdSvrp4UbJVmvUAdOuQZBG9G3rKaXACCxB8w94DKInqI211XmXNcnG060d0Bg8+Iai3A7mHA28tf+oXemFLThzm1q10H3KmF1toAM0TpNRjMPy0vvxLpKZY1oq1tGZvkot/4x2A1+4lenaz6XOciWVlbitf0NRfTs1/H/QWTONt+4KQzTnbvV7lt4r5XZgl8C0mlmOsX6iS7Wy5x7riT52ZkP2y0Y3n1MH/Ku+etuE8s2lLGXPJSVqiEJuOTqRFJNpJuPZadjZp1ZtPZKdfvZynRpTsCIIeJkgyBEHZ1po6fmiyjYTQKfFV0IslyOL42PkROw=;8Rfzkl5vaOAL07/UwL6SAw=="
 ---
 

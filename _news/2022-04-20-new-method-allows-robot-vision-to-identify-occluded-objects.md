@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-04-method-robot-vision-occluded.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-method-robot-vision-occluded.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "GIST researchers teach robots to identify partially hidden objects"
+    excerpt: "Typically, when AI is presented with a scene of cluttered objects, the system will try to identify each item based only on its visible parts."
+    publishedDateTime: 2022-04-22T17:46:00Z
+    webUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-GIST-research.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "New method developed by GIST researchers allow robot vision to identify occluded objects"
     excerpt: "When artificial intelligence systems encounter scenes where objects are not fully visible, it has to make estimations based only on the visible parts of the objects. This partial information leads to detection errors,"
     publishedDateTime: 2022-04-19T15:43:00Z

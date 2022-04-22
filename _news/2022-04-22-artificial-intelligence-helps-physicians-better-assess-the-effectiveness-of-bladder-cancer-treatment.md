@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
+    excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."
+    publishedDateTime: 2022-04-22T16:28:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 35
   - title: "AI can predict adverse impact of cancer treatment on patient"
     excerpt: "With some substantial development in research related to the area of cancer, the world has been observing certain changes associated with the treatment process, therapy and also drug combinations."
     publishedDateTime: 2022-04-19T18:55:00Z
@@ -54,6 +65,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "CWPBz6/r0fEkcN5+2jOD6EAHQAJaMZ9b+ENjPvPYhyDQhmMFAqpYy0OFmnrhgYDrc+NDr8KQX+impnRqfWG8KJjEQNqXZMYjiBf+vEvPVW+haXypqAHZIw6Wic+21+RhCet9QI9YWD1XJJsLOTlFSAq3SLFs3jqBGSMoaQ8fxvec78i+8lYpAOdy25aTZFToV1b7fukjvQLx2yolonVyTbPCrid4xtobIw47rlkYgSqRCc1Cx790GOXGNsUNBbuM8qHt+KLoGEtTujBNTYE/buaIiXcpi0G0RSEEhcs3ekjZ7WHvZk502ZF/ObPX8bjfKdWZQKEwa8ufNeq40eYmMoCp4HEgJ5A5dn34QWXn7+M=;mIt307d6grNylruBwvuB+A=="
+secured: "dPRZvrlorIDnD6uydQfPHrk8GmMTLOyUN7oKJAo9R09FEU4ik8+MsBRg9OnHcHcxnn/6BCCwlxorTO1a1EsPtgN7CohUQb5VkqKtSzGaTwxqpKa28YZn5KViyshg/hfRMpIrcqYgsX41Sw0BabitvU0socVt9oDWVVeKMusIj495fumjOpSdOmL1+yluVb4yYO4joTWWiuyG57F5CGFMWQnqUrcoRUrLdMbdxQOvFLbO3cOvZ3EY5PeC3uC/p7dOUMG6/dwEYNhq+Itg73eURzMFLGYlXsvXnLFOlR4KzB+D2WtX7HfXdhkns14lym+ZmYm+jComRVnAmPHUTS7/Tpin2HDO7BES2G/ThKmgmAhvACzX2w/AD4eqwy4xx1hD2yAaEzBa93E+XpdhCx2R3R5rbZujl6947WxW8+6gIjLbhIkFA4e9FFG7/RbX2RJoNxxJ1a4T8RKDuKImPAfZxhs4FmUJyyYPw1jbzCRuiQ1Vlj36/rXUj3xrlkyQOAUNNH/GDbk6XGEWpkbwgVCtrA==;eecUwOIEw77FwGOlv4Kdxg=="
 ---
 

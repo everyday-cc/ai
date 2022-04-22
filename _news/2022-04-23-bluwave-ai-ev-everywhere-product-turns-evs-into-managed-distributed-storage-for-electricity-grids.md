@@ -1,0 +1,44 @@
+---
+category: news
+title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids'"
+excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation OTTAWA, ON, April 22, 2022 /PRNewswire/ - BluWave ..."
+publishedDateTime: 2022-04-22T17:39:00Z
+originalUrl: "https://menafn.com/1104075465/BluWave-ai-EV-Everywhere-Product-Turns-EVs-into-Managed-Distributed-Storage-for-Electricity-Grids"
+webUrl: "https://menafn.com/1104075465/BluWave-ai-EV-Everywhere-Product-Turns-EVs-into-Managed-Distributed-Storage-for-Electricity-Grids"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-04/22/PN_5206b6e4-b_Image_In_Body.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+related:
+  - title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids"
+    excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation"
+    publishedDateTime: 2022-04-22T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids/article_9da05324-c792-5a88-bfe7-0961e410b91e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/50/d506506e-b6a6-532f-9ac9-59c38c5e25a3/6262a7e901b38.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "rYLYgmgFR+xg0KsVB/1TKQOh4SYargLQ7+6a4nEWYE/YPKxXit3EJPsB2SGZNNn0Pb3p+hPI9vek4wl/2/7jNnaDpSOOWZs1vbGA8cXSBx53ijCQmWIVsrDMZrrllUmlkL7C3/TcudhR9l5Ers2TVo4lOA16nUWLeDLN7DWXkWLpxncQe4BFb7gQLsWjrY90q+wXx1TbLYYDvywsLFa/7h8YAvR3igcMiLw70Smg4J0ig/TT08sHb5+crz6RlM67jCup+LjyDg60zY6vDLWSBAeKR5n/UdSzYPDqY6/X/0aBBfuL9CbAaVPxaQKGNNFSCri0TXoyNPXp8tQdZHLfqU6zphDVqDuwbmPU7tDyQZM=;mzsE5DMLnI5WYdgY04Fjqg=="
+---
+

@@ -56,20 +56,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "How AI can make weather forecasting better and cheaper"
-    excerpt: "Many nations facing the ravages of unpredictable weather patterns lack the most modern tools to plan for the changing climate. A US startup says artificial intelligence programs are the answer."
-    publishedDateTime: 2022-04-17T23:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/04/18/how-ai-can-make-weather-forecasting-better-and-cheaper"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/04/11/1546813.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
     excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
     publishedDateTime: 2022-04-21T01:30:00Z

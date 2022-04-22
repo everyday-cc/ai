@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Agility Robotics Raises $150M Series B Led by DCVC and Playground Global to Accelerate Blended Human-Robot Workplaces"
-excerpt: "Agility Robotics, a creator and manufacturer of robots designed to work alongside people in logistics and warehouse environments, today announced that it has raised $150 million led by DCVC and Playground Global."
-publishedDateTime: 2022-04-22T14:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended/article_64ca8cd6-b078-5e7f-928c-abbd24cc0e8f.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended/article_64ca8cd6-b078-5e7f-928c-abbd24cc0e8f.html"
+excerpt: "Company Prepares To Introduce Flagship Robot To Logistics and Warehouse Environments Agility Robotics, a creator and manufacturer of robots designed to work alongside people in logistics and warehouse environments,"
+publishedDateTime: 2022-04-22T14:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26761357/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended-huma"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/b26761357/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended-huma"
+ampWebUrl: "https://www.benzinga.com/amp/content/26761357"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26761357"
 type: article
-quality: 46
-heat: 46
+quality: 66
+heat: 66
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "6/fqxbcUZZjp4L5CEsqI5fF60h8lARDAztwnJivX9Sk3yM5i1XLaGYfiq1q03P68nuA6Jlj7kQRyR15aUzrl9lr6ewbAI8pc1wprYwn86jv5rQKrKnAblRjEXdjFZfzHUpDT0Hz06/L/9UD2gFRGJttGb80ugQYur2BmFOBLdK7LqGDItunH0QRNxlGIUdSGSkLSje5YLwr6DmqW4YNGrJQxY70YP8llzFe4AQVnaHuVu7B1rMaN1WZ/kko5K8iDVUrvkIoovR0GA8v3bennxTdGa1saZF1Z1aIQ2m2zSh2ni55P5lcNHMMEthAak9rjCVFgTvl6bd28HeNTrWXsuM/3Uxjh80I7CF3EwVpPJGg=;t5O/r6+0fsH/x+ZUP1WseA=="
+secured: "FQTOaRiZ8fjZXjuZ3GYSagwQyP4945G4/ZZKa89bA+r7FcpS2eiL8/yz41/ChD/uLxHYP5XAs3Nv4/XlZaOi9BMTzrH4PmalppwZSAHCBtMIDno6zBWkQI2tWDUpfGlr6xH1nuNWINxcwcXA54W5nxJjr5j4Iy5v1v/V8Ct+irEMyMqvLITudxe4P5JEm2QUacmaYCwHD6cj1n2T8ZI3MW4feD7CxIvOci+xG/u/GE2dw3IZ9QzUBtomGmHtODbsuNzWq506xRM0DYUe5VqXd4P27n32rnHFFZDyDfSoLZPPJD8iQwtcVeUAHbGbwWerLHGPtS+DroAX5npluXJEhgD8ffWdCpORWSpfsMi09/A=;IET4KWMfEeT7VqLKThh50g=="
 ---
 

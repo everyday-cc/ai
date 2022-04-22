@@ -35,6 +35,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "U.S. Senate campaign ad takes aim at Tesla's self-driving technology"
+    excerpt: "There's a new political ad taking aim at Tesla's self-driving technology.The ad is from Dan O'Dowd -- the billionaire founder of a Santa Barbara tech company who is running against U.S. Sen. Alex Padilla."
+    publishedDateTime: 2022-04-22T16:54:00Z
+    webUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology"
+    ampWebUrl: "https://www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/california-senate-ad-takes-aim-at-teslas-self-driving-technology.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 54
   - title: "Bill Proposes Rules For Self-Driving Cars"
     excerpt: "A Rochester Democrat is proposing a series of regulations to govern the use of self-driving cars in New York state. Sen. Jeremy Cooney, D-Rochester, has proposed S. 8468 to amend the state Vehicle and Traffic Law. It authorizes the operation of a fully ..."
     publishedDateTime: 2022-04-19T04:10:00Z

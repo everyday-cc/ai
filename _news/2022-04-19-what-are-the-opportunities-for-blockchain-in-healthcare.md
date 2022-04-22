@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "How will computational biomedicine transform healthcare?"
+    excerpt: "Sinai’s newest department, Computational Biomedicine, discusses the history of this relatively new field, how to mine big data and the future of artificial intelligence in healthcare."
+    publishedDateTime: 2022-04-22T17:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/950579"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+
 secured: "Yx1BkU4jiAkp2fCjY0A08X9G6+ZVrvUWYKFAzPSjW+jkLlbHZvzmrIl40VBtDGfc60siq9BEaGtjNo2eobN/m1lAfKdaL6o1H4HHVyew0V1V7KoRLcHZUZMNCkGG6XASy9eBdA1gblpVfUFp/xxwOz1p2utT7ZhxNTgMWOKMZ+tc8HJ6vCFtF5Su07ZB81dXDlKqq+l7i6xihj/eZGzoLGh26owbqpLIMJR3OMMsPBnWI0hurY9Lq1zPXXlEJX6sd3tfVZSRljG1am47LkND5+SRBIyiY1Eg3BCaguevJWv4IXETwZSIsW+N3ehlfb5ILk2zx+npSAKcOcboHabsdsloMANkZ0ErKEmiyVFhxGP617YgN/X2ATbKFU9fObN9ux/NCxljD4heiL99LoHfxoOYjMBD/qmGsKG6TIySU5EQOfcrLNZRIus1P4vqlPXWBuz7DprhnPGdYq6/5OmcFcqJdD7driU99cWSAw1IYO78lNaVZOs+xP2cPmbT+LjbN0sqbxUN7Ag9iexe4FvzOw==;Un7n92bybF/5OFIBhob/KA=="
 ---
 

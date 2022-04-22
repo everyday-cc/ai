@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Rebelstork, The AI-Powered Resale Baby Gear Marketplace Designed for Parents Launches in the U.S.'"
+    excerpt: "The Innovative Company Expands its FamTech to the U.S., Powered By First-of-its-kind Proprietary Pricing Technology for Consumers, Retailers + Br"
+    publishedDateTime: 2022-04-22T17:38:00Z
+    webUrl: "https://menafn.com/1104075457/Rebelstork-The-AI-Powered-Resale-Baby-Gear-Marketplace-Designed-for-Parents-Launches-in-the-US"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/22/PN_2c6a7b86-f_Image_In_Body.jpg"
+        width: 400
+        height: 267
+        isCached: true
+
 secured: "ffapKC9QMK4XaUfaIGkOH/R2JhzFZJkhXWWp2fxYaj7xGc8OaiJfk9l4jpXm9gfKCA5GQhcGpKIKs0VMDqYXGuxDSLZt7j4VMfJzVWXWTz32YpvXQAb8p7LrEZSoQZh8zk3QuI6jRUUytA5yzMY0Dl4m4O1MuMoLETxcfopE5GaZSjS/kAMga5tnxdm1GR32eUxCLkRgGDyMDuE/lITyzL5sCQy2H40K9oCd0/v2Vyo5QNTWnC124UrgCvebxSopccNCmO5yNyLyoDKfSZGu+wupYVWaJSa3ljrQ7HRL573zBMNCck30PrpGNTdsjW7PDEEcwMcMg4yLMu8DWGyHO1obHNRzJHLAj91c+ZYuzd8=;kIRiM4KJgCj8uz27DNOFSQ=="
 ---
 

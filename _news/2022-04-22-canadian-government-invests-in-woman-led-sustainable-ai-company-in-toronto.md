@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: IT World Canada
@@ -39,6 +39,20 @@ related:
       - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/07/Depositphotos_168275348_xl-2015-scaled.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
+    excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"
+    publishedDateTime: 2022-04-22T17:35:00Z
+    webUrl: "https://who13.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
+    type: article
+    provider:
+      name: who13
+      domain: who13.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "U3YY3poh8Aq66vkoXuyMBn55e4AVNjjtI1PO9gv28ZB3ZYS9+sapwvUopkFgl82hHUoRaIwW/re2r5v5pUpb5z1aAEf6toi/+dphSkc9rkG92GSYLFVE0WlM1A3//eq20JXxOzLgEGH9o5ySNUGmlX9XXFoevQvlkxoFqy8UzzX75Q7DqUduuVxSM5JDdUCxZjBmmdmRnWaXulrWub6oOH/ah9G1WhaSIColDnOvYQXhey5rBL7QIZ3fwhoodUV7uR5/NbgYElYZLFxLYpq7ai2Q344O1hJxw9UIqYe7hfzyKrNu9jXLyFg2Lsn4EbABsAa6vGDd8Zq1EW3o9F+uMItRLbPZfcZ1phMYzDpTbII=;L7wRGbpA/CKW4UYL/2iq9w=="

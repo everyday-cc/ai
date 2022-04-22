@@ -47,6 +47,22 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Philippines Data Center Market Investment Report 2022-2027: Cloud Adoption Driving Demand, Increased Investments, Increased Adoption of AI"
+    excerpt: "The \"Philippines Data Center Market - Investment Analysis & Growth Opportunities 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2022-04-22T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26767382/philippines-data-center-market-investment-report-2022-2027-cloud-adoption-driving-demand-increased"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26767382"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26767382"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AI-Enabled Last Mile Delivery Market Size, Trends, Future Estimations & Opportunity Analysis By 2029"
     excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
     publishedDateTime: 2022-04-18T22:43:00Z

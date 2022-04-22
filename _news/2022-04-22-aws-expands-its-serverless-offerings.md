@@ -47,6 +47,20 @@ related:
         width: 800
         height: 551
         isCached: true
+  - title: "Secure AWS CodeArtifact access for isolated Amazon SageMaker notebook instances"
+    excerpt: "AWS CodeArtifact allows developers to connect internal code repositories to upstream code repositories like Pypi, Maven, or NPM. AWS CodeArtifact is a powerful addition to CI/CD workflows on AWS, but it is similarly effective for code-bases hosted on a Jupyter notebook. This is a common development paradigm"
+    publishedDateTime: 2022-04-22T16:56:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-aws-codeartifact-access-for-isolated-amazon-sagemaker-notebook-instances/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/19/ML-4423-image001-whitebackground.png"
+        width: 655
+        height: 461
+        isCached: true
   - title: "AWS Summit San Francisco: SageMaker Serverless Inference Access Expanded"
     excerpt: "Amazon Web Services has made serverless inference for its SageMaker machine learning tool generally available with the goal of simplifying model deployment without configuring or"
     publishedDateTime: 2022-04-21T23:08:00Z
