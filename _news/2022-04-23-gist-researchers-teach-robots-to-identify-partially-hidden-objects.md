@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-GIST-research.jpg"
@@ -65,6 +66,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "+IhEMFFtksfuu3FP+APp+XIdhjZguXY1QUWjZiVN5gM9KZd+Trz7WOso6VCnIXaxXaZ6h9ye+1H/letj2Qoj24AlTCBJlawgfcUn+OnGHBV1bAfqgZdwqOno9cWZKj1/4rFm4hjiCGTdWnDHJiLI9GD5JbcMKF9jHzcL7CwutobtIVbDj5Mq22GxeKM+JMSx183QRviyFWvVan05FGe6YJ10hdUmqfNHfaZi664cdB1yDd33qoxcLOt7GuO940Q1lMTf+gZUlA9/uTQn2N/Vt4UKbjsxLNr+myT95X9/qwGDgHbE3BsnI6lr3ObCjvJDIT8Pt0jIKERaT7YqdZRASf0Z2U1lTH/r+J2gIjRw6uA=;0J33Utts5QQnu1ANXHvr0w=="
+secured: "aro4U8Qeh8E+g0W8SQ0RwOALkCbRl6ITiit0L1XwRSpGWXyUHPcsT21Sgm0/ycBOfXxXSxavEY4Uo3EUsQpjIG7yRy9gXPjhkGr/s7ZMcQMvIbIh60FETeUaZR50SMuSoQIcqxrs5WfCXEYhKIEy/Es3EQ5cOTmKCbtYxg9o0RJyEbhkWhT8G/yT3+mTpnJP2cCGgWSrvZhd1xJ6dkLi7LH0/vb+obFufknvL9oihHdvy0Xeu+GJSYDeP99JhySNqnoww/1coscFkSLeqL2Uezb/jrYcscL/CBbZlPfnOudOjHF3PkgCUR/7QZP63Sb7H/WTqYIVe5aR0iDNRkGeDLfg+uHWqKdnVxLUHyOngrjkQwwM95LB76reoQOCeJ8xqAz0oM6TmcglLodw5rIfC3Zpd3QTz2Zqf3lLGUJa8nYEX0BxEPzAUeMU+KjNWAu4B/beLl8HzapEJFn9AGpotOOSyCy0kNl8z9V5oZg1OhthrwoNuqaatu3/AE+9nfYyg+ok1xAWpNR4TuuKMsEFtg==;pSAOVMftplrCMvQArjHHow=="
 ---
 

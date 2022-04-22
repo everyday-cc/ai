@@ -2,28 +2,19 @@
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
 excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
-publishedDateTime: 2022-04-22T11:15:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=651113"
-webUrl: "https://us.acrofan.com/detail.php?number=651113"
+publishedDateTime: 2022-04-21T20:19:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-artificial-intelligence-1d167f0bb5e20be68a86e61fafbc5eeb"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-artificial-intelligence-1d167f0bb5e20be68a86e61fafbc5eeb"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
-images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
-    isCached: true
-
-secured: "0giB48SgMo85gzzGR3w1GWnkhwbS0hcdnysBqWneeagJQJVyXat8NU4av/CC0cbQeka6m/KK/n+XKNTq9k8zMNEOAurPNRi+8p9OTDtkHZvzBn74YC9cCiXMQu9zaPhv6PI/kXF1AAtNNW8QaUIsGuv3CVxrBb6+8Xx/lT45wgsx7yC34jXUrmEycXl4b0sA6iYeoRLOeQl5HqRcTjxUnA7pfOR0+5Y7wktslbRNf0917pzStd+M68xqnCI8MmFvQS9gs6BV/AnwkO43juesEmjBt1oKLyy4A9kwYX/itOz01WFMca8EV8+hPVWRUehrIKKF04DKuwHBbAcnVa9+AvRO8kJ5hoLRai2v6ExnK+M=;kpxtzB4+P/F8Le6Opr01zQ=="
+secured: "zTL7/AR6V9cZl/WX1qRKiccRosGR3zP7or9MutY2Nh30z79fWGIckLaFRD4rGMohp82nsfcB9gYVWmdOGSHUcSEh5SxZ3Z0tD9LyjuRjn0MoQnT20IJlcl7bTJbPVB6cntaOAdY8bCEsSnDTo2Uh3goE+Ys1dCdnwAXtkY8FXDYE6Y07j6fP14Q7mKRAxCobfDORBCsixFvGl7kv79SJOQkAY/8hVUGqSUms+I61WpEwdQmJ5dP6tLEEO7hvjbxojpkauWMrGhwDP1yL6Gxv9AzxgfdaI9PS9paqVTC2VU3l15WKHqYQkoAu8wEoBEHexUEjYFuTIyMl5AarC3Ovoaa8buVEZ/ZUOh1cKI1pkLA=;xpUyubQqCdHRy2D/DhHiWg=="
 ---
 
