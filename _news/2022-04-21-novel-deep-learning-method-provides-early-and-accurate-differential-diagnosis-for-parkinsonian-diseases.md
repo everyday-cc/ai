@@ -41,17 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Innovations in management of Parkinson’s Disease: Robotics, artificial intelligence & beyond…"
-    excerpt: "April is the Parkinson’s Disease (PD) awareness month, commemorating the prevalence of this extremely tenacious, incapacitating and difficult-to-treat chronic degenerative neurological disease. What is Parkinson’s Disease?"
-    publishedDateTime: 2022-04-17T10:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 60
   - title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
     excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
     publishedDateTime: 2022-04-20T12:00:00Z

@@ -34,17 +34,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Innovations in management of Parkinson’s Disease: Robotics, artificial intelligence & beyond…"
-    excerpt: "April is the Parkinson’s Disease (PD) awareness month, commemorating the prevalence of this extremely tenacious, incapacitating and difficult-to-treat chronic degenerative neurological disease. What is Parkinson’s Disease?"
-    publishedDateTime: 2022-04-17T10:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 60
   - title: "Novel deep learning method provides early and accurate differential diagnosis for Parkinsonian diseases"
     excerpt: "Using a 3D deep convolutional neural network to extract deep metabolic imaging indices ... “This work confirms that the emerging artificial intelligence can extract in-depth information from molecular imaging to enhance the differentiation of complex ..."
     publishedDateTime: 2022-04-21T13:54:00Z

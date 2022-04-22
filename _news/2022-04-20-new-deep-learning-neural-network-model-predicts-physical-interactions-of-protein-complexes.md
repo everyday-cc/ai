@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220420/New-deep-learning-neu
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e8e90acf-d6a8-4d2a-8be0-69496a151056/Rendition/thumbnail/Content/Public"
         width: 300
         height: 225
+        isCached: true
+  - title: "The neural coding framework for learning generative models"
+    excerpt: "Brain-inspired neural generative models can be designed to learn complex probability distributions from data. Here the authors propose a neural generative computational framework, inspired by the theory of predictive processing in the brain,"
+    publishedDateTime: 2022-04-19T09:48:00Z
+    webUrl: "https://www.nature.com/articles/s41467-022-29632-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-29632-7/MediaObjects/41467_2022_29632_Fig2_HTML.png"
+        width: 685
+        height: 272
         isCached: true
 
 secured: "Gp4Mgf8tZdTVU1m4YTF0/Popqdm35eN9Jsku8tRNGXcitTv/GdrHJ03u7/u7BbEWb4emrH6s+c7K8iL9C0Cdd7G/nC9mJHEnX2aoI8McsaTi6WUsLZFcU8t3qqX3tUSNUrjPlKGp6+EHNqOR9bxw40R9EmZEFcmBIAMvqYRnCS91MllpwfQdvotx1c8jwCM6k6g4FNqiFFfS6UcONutNqLmPqjwX9k8DmMBlyK4LWKSg12AgNpt2zmPYn+x3KW4p71EBTxh803VGKYTPtCefRA0g6uE2RF4r/gWiq5rYnXAlVzKdOqCcoRaRebWNe2rXmR+dmfuQ6Sy1Ln0Yup2R5sBkwed5kgDoCByqP/OctrU=;gMFxkLhAKnvU8i6WpfMfrA=="

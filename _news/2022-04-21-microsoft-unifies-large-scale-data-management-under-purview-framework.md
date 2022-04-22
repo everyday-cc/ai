@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3658208/microsoft-unifies-large-sc
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.amp.html"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
+    excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
+    publishedDateTime: 2022-04-22T02:10:00Z
+    webUrl: "https://siliconangle.com/2022/04/21/kraft-heinz-work-microsoft-digital-twins-supply-chain-efficiencies/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/48876996006_853180752b_k.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
     excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."

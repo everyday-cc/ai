@@ -70,6 +70,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "OU Professor, Researcher Create New Technology That Aims To Improve Weather Predictions Using AI"
+    excerpt: "\"I think AI is going to really revolutionize our ability to predict a lot of these things, and we're not going to be able to stop the tornados and the hail, but we're going to really be able to improve the predictions overtime,\" McGovern said. \"I think ..."
+    publishedDateTime: 2022-04-21T14:29:00Z
+    webUrl: "https://www.news9.com/story/626144383d9b33071659e83a/ou-professor-researcher-create-new-technology-that-aims-to-improve-weather-predictions-using-ai"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 24
+    images:
+      - url: "https://cdn.field59.com/KOTV/59dc37859a47e363107db7bebdfdb168c15976ea_SITM_Aircheck__Part_1_frame_128271_custom.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "InwJGKOKdSUCOenSqAR+OG3W+D+NRrRvVKfgk2hAOb8QkE3TaiuXmfjEpTMOhpLg0KObwVLbquNSC+tVxNEzlSUI2l1OUvTG/U51KAN3idq3LQjevJJVh3x9iwJBE5yj7nPnb4OycdpvgxfdQUM7aJIbYVtiJGVa7ZcDezVIfT9IFmLQZbE918++Bo6EsJPGo+ERJzHX0rNsBcU2cN7fzPldA/5onkn4YEhIbaqRyuonefOHksJVZxCiUrlm06TqZXgInkZWNpYRdt5NEzystXd5Fza1ibet6KIoUd4iuEkY+smk9bi1GUK199g7jAaOzSKyqD/Sqisbr+kdza2aYUV9fqNcpHi5dHx+zy1kriw=;wZFrJZ09Fng5ZBI+InHbUg=="
 ---

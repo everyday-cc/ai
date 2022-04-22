@@ -57,6 +57,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "The neural coding framework for learning generative models"
+    excerpt: "Brain-inspired neural generative models can be designed to learn complex probability distributions from data. Here the authors propose a neural generative computational framework, inspired by the theory of predictive processing in the brain,"
+    publishedDateTime: 2022-04-19T09:48:00Z
+    webUrl: "https://www.nature.com/articles/s41467-022-29632-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-29632-7/MediaObjects/41467_2022_29632_Fig2_HTML.png"
+        width: 685
+        height: 272
+        isCached: true
 
 secured: "DCB6OoV+KtcPk4mGSPJARkovuwrkX9Urm01mG4pUp5TdR0+zqb77jCd7CjJ9ZC2NHkzB/B9GnqzytrhDkWP2c9h4blENbE5DhLe7EtfoABsO946pMeblGotrzAhBAfwk8+QV/yEKmzrdvlpsH5oCx5b7uw3WOnYJfMDvIMWVOuH4JbZ03OA+zon1r6Nqs8YBZyIs0V5M6oKP9AsbaZDf67RB31QPIkGN71rpq/8C2J5fd2U3QIjsUoxtAz14/lllg9UUwM03oN5xRl60icX41/1jhkStNFsa9SHAexJZdyDm5PTN/azboQJqJNx4CtZGa5d1Ln9o6GQHaGJt1lE/SkbFPJQks/CmEqDljG48silixCCWEfZTur1ifjYuGPqhG+2vNtkoqQqSQBDXZEbckjWI5p5gN42iBdzmRsl10eBu80OfgZY+5Wspar0FlrNDLYO82r1mKv9dq6RZ7IYyM27LMO/QUy2KM2NDT8NmnFPamK4VBgd0UTdPF3pxNDcf7DEFTaynj1U0pix1ucT83Q==;zR/QclkwjyAqlTOsjhAlZQ=="
 ---

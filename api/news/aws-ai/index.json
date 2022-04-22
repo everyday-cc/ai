@@ -452,19 +452,19 @@
     {
       "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
       "title": "Six Nines Announces Support for AWS for Games",
-      "excerpt": "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through their Studio in the Cloud offering running exclusively on AWS.",
+      "excerpt": "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-745de21365a6b76f7fdc588e7df21ee2",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/87/2870dd26-607e-54a3-8cc4-c474e45ba8f4/625709700b403.image.jpg?crop=762%2C400%2C329%2C0&resize=762%2C400&order=crop%2Cresize",
+          "width": 762,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -474,11 +474,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T10:34:00-07:00",
+      "publishedDateTime": "2022-04-13T10:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

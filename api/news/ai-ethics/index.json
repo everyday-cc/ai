@@ -537,22 +537,31 @@
       "title": "AI Week brings together the world AI community",
       "excerpt": "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S.",
       "sourceUrl": null,
-      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
-      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "webUrl": "https://wreg.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "originalUrl": "https://wreg.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png",
+          "width": 800,
+          "height": 268,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T12:56:00-07:00",
+      "publishedDateTime": "2022-04-14T12:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
+        "name": "WREG",
+        "domain": "wreg.com",
         "images": null,
         "publishers": null,
         "authors": null

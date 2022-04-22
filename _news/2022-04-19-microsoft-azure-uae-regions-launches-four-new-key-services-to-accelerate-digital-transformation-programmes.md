@@ -69,6 +69,20 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
+    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date"
+    publishedDateTime: 2022-04-21T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader/article_ae96bef3-472e-55be-b401-9f2d7740dfd5.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27da7c2d-dbb9-5236-bcc9-a55fc34f7427/626156208540d.image.jpg?resize=1072%2C1072"
+        width: 1072
+        height: 1072
+        isCached: true
   - title: "Flutura accelerates Lupin to digitally transform their operations using AI"
     excerpt: "Flutura Business Solutions LLC, an Industrial IoT Intelligence provider, is collaborating with global pharma major Lupin Limited (Lupin) to accelerate its digital transformation and automation journey."
     publishedDateTime: 2022-04-21T08:54:00Z
@@ -78,15 +92,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 15
-  - title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-    excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date PITTSBURGH and CHICAGO and REDMOND,"
-    publishedDateTime: 2022-04-21T13:48:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220421SF31693/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 11
 
 secured: "DEjwqicygDP8pklAKSxN4wK8aNwAp40ozylLBVlR1XqcRComDd+meZEqLjvnBycLtdkVkaR43Zpr5Gg09Bbw5NKd6d+5H9UzfY8pjeHpJ3GEOft05Di703QKWMYJ0guBZiGOE8gzIWKht/3EHZv8z6gtP8RlhgFEbhksz8cUwsls13fuS4Bl+qIZKscnoYK3goLaunqVwnJbax94ZQMYxrY2buDBfzjIRggOXs/CWDZ9BlzZjeeKHKP7+M5SYiOsi7CBTfl1H8BRyhpIZ6M7lgd9HmIcbvlOZtDfu6pu7m0x9qLtFR2KG4+0Gr3/XBsVyMTWNJRM/oU/q7QeQ2uHTu8e0oC9a0/dYEXTfRTfX6YD+D8G9j+4yoGU9uWM7ooET+O9K/GzLDOyvyUAUSUK713KnFYxQGtrs4N0rGLab7onwUvNfSwZpUPQ5Hvp5G3vapjoEwHtSyOjCiOBdywqFfVlBSRvw9TA0ZN0ql2UnkswxlcBBkzTWIFirPAz7ZH/kbeU1m2vuZqVH75YI0jKxQ==;M8IsluOPHUe6chsD1AfN+A=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Kraft Heinz and Microsoft join forces to accelerate supply chain innovation as part of broader digital transformation"
-excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date PITTSBURGH and CHICAGO and REDMOND,"
-publishedDateTime: 2022-04-21T13:48:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220421SF31693/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220421SF31693/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation/"
+excerpt: "Multiyear cloud and AI agreement will focus on joint innovations across Kraft Heinz operations and product portfolio, representing one of the company's largest technology investments to date"
+publishedDateTime: 2022-04-21T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader/article_ae96bef3-472e-55be-b401-9f2d7740dfd5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader/article_ae96bef3-472e-55be-b401-9f2d7740dfd5.html"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27da7c2d-dbb9-5236-bcc9-a55fc34f7427/626156208540d.image.jpg?resize=1072%2C1072"
+    width: 1072
+    height: 1072
+    isCached: true
 
 related:
   - title: "Microsoft Azure UAE Regions Launches Four New Key Services To Accelerate Digital Transformation Programmes"
@@ -87,6 +93,6 @@ related:
       domain: webindia123.com
     quality: 15
 
-secured: "dw+Rn9XLgQ0ao9MuwXGXd93efD1T4Kw11TBG4WLt1GSejQJljZhqvxIjtig3RBY2lp0UO71h+Ua1DWq9brHLeCfdc9WNyxxEzCbI0LifdZ7eqRRh0XxIFJqvxZNvpp1BpzroMG+A5nVqZGh1086cI234hIlOQAD8wEZkOJ5gal73/IeZe4dJGe18la0MHDlwc2P/JFqKuWuA7uQNMkofiVJxSZkcb7PMdOdy/jSZl0xghvHBEWlIPtw9A3N2riEsrgIPYNPbEoegjvjM8VsQ/gwdRZChzWKkWrm6zLGcppIERlZ5nWTWzHGx7Hl6bYgNW/crCIKQG23FsdwurdYXXYhY8m3iMTv4B2Ghzci70E8=;UilWucgbFytQtTVcFAFjAA=="
+secured: "40LY+dOV1ztSOlvPelyY6EJ6QjlLEO3TzOY/sd79qDeky3mHgEK2wm8sbH7DijKXAVvMuB0zG4n2W0WqmJHT6dueE9+lACVJ3L6fuFJjGkcImkbFBly3pdZHn/dH7mY2YSYPVh/PqodKzcsG97b2xSfkic53RMN+S0EmL68I6gV9AxRslsJiL9aImlBZ5uq/12ba2yXZu5dGBK+6zx21bp1bzcPtJjwCYMHS2hSA+ei0NrV7y8f3uteuWlkwkoxWgU7k1ty9H6+afnmvYimSTjG/j7lDYb8zf3XMXNIoZgRbY88ZqiyzVw4x0rP38wROebHAkX6QCUofNzZ7SkyT0mSB1CuHR+BfIzu/amUxXq8=;GgQuFmCurdeCTfV+92HY8Q=="
 ---
 

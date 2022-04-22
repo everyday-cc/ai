@@ -2,17 +2,17 @@
 category: news
 title: "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM"
 excerpt: "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,"
-publishedDateTime: 2022-04-21T21:05:00Z
-originalUrl: "https://www.fourstateshomepage.com/business/press-releases/cision/20220421SF32605/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum/"
-webUrl: "https://www.fourstateshomepage.com/business/press-releases/cision/20220421SF32605/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum/"
+publishedDateTime: 2022-04-21T23:05:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220421SF32605/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220421SF32605/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum/"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: Four States Homepage
-  domain: fourstateshomepage.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
@@ -24,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "iQOd1kXq96Ybaq0yFoOiLYBcJRoKnLP/KEjbKJGUcQutYFm4BwkwfCzADUhe30vFPmUP7+f9AeP8WU1vkTItE3VnqC0xKmhS3aXF7s/UzbM3LTj6VYSW/MmgOYz9BN9yxRq5fNmJYG1WCfdPOyuelMuKaUT2F216b7Gw+GHKFhoY1EOkdOc/kBGBbq2ReNvTV1QGEZOa59R8O5OSI/HaRs/Yw4xP05NH8g3gSUfaTxQ+/b/PCxvQXnYZntCSMeZGKJIrk+uxTrW21O6mJlw/7O7v6IIazwgS8T6AxBP0iHPgCZhMIYIjd0ozWZctX+AfX68XAgbQs0dcBxhZjJ2Diznrh1fKduh1MxIytisGK4E=;C8B/TNykXxUkr58heDl3Qw=="
+secured: "XzLdv7pGwJqJQuzeSWGywmmjqBkb98vcyPlh/5W15nlLRLP6BbKMp1ATU2/JY4U8rMTQqHN26/vqThn1jz+HHRGoHtw0U8PQMWWsYMl02HfHAA+P9LOAlUP3mJP76FHyqwLChU/buG/mYHyFMBiKcBlffeNhsIAJbyOCPqTmzc6moGZ95o5SyxOZxDJrGb6cTMIt6TaVVj1FG+tc5WqR6w3Pc9divx95b00+KRX6YKyDbIqos4p9KFNRk30YTKFFJeo+veIt1n5Ux5wFtUo+0P27LVeuZV/lD7fMepwdZsmmpkzQDRM6fi3S8SwwPzh5687fWcd7GwmiSWH6dPi0MujpC2n6CZWr93B1KvQBKCw=;4FyZyg9WQFnABdkotudKpQ=="
 ---
 

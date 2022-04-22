@@ -61,20 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-  - title: "AI-Based Electrical Switchgear Market, Size, Share, Top Company Profiles, And Forecast By 2030"
-    excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
-    publishedDateTime: 2022-04-17T10:43:00Z
-    webUrl: "https://menafn.com/1104035493/AI-Based-Electrical-Switchgear-Market-Size-Share-Top-Company-Profiles-And-Forecast-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?499119"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
     excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
     publishedDateTime: 2022-04-21T09:33:00Z
