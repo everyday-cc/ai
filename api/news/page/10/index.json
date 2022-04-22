@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-04-11-artificial-intelligence-algorithm-aims-to-rapidly-diagnose-cardiac-problems.md",
+      "title": "Artificial intelligence algorithm aims to rapidly diagnose cardiac problems",
+      "excerpt": "Medical AI Inc.’s technology will provide fast, accurate diagnosis of cardiac problems, kidney failure, sepsis and anemia using hospital or home electrocardiogram devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d43747-022-00111-8",
+      "originalUrl": "https://www.nature.com/articles/d43747-022-00111-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "T he artificial intelligence (AI) market has grown like a weed in recent years as organizations gather and process more data to make smarter decisions. However, it can be difficul",
@@ -1113,49 +1147,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands.md",
-      "title": "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands",
-      "excerpt": "ToroAlerts, LLC, a Portland, Oregon-based innovative FinTech company has launched a mobile app on iOS and Android that helps traders to take the emotion out of crypto trading. The app is integrated into an Artificial Intelligence (AI) Tool that uses Machine Learning (ML) and trading technical analysis to identify and alert the user with buying and selling points.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635",
-      "originalUrl": "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-10T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -24,22 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning and AI is coming for corrupt officials"
-    excerpt: "Mark Heywood correctly asserted in the Daily Maverick that unless we introduce the certainty of punishment for corrupt public officials, we will lose the fight against corruption .  The July looting and riots taught us that these events affect our daily lives."
-    publishedDateTime: 2022-04-18T05:00:00Z
-    webUrl: "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/"
-    ampWebUrl: "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp"
+  - title: "Atom Learning Brings Its AI Platform to U.S. with a Focus on Test Prep"
+    excerpt: "Atom Learning, a fast-growing edtech company based in London, has launched its adaptive learning platform in the U.S. The company aims to improve learning outcomes for elementary-age children, beginning with test prep. Starting today, any student who plans ..."
+    publishedDateTime: 2022-04-19T15:06:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/atom-learning-brings-its-ai-platform-to-u-s-with-a-focus-on-test-prep/article_16edb03b-4402-5b94-a49a-21072c3c5660.html"
     type: article
     provider:
-      name: mg.co.za
-      domain: mg.co.za
-    quality: 76
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
     images:
-      - url: "https://media.mg.co.za/wp-media/2022/04/bd15270f-gettyimages-1283484229-scaled.jpg"
-        width: 2560
-        height: 1709
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
+  - title: "Why You Should Personalize Corporate Learning With AI"
+    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
+    publishedDateTime: 2022-04-22T18:49:00Z
+    webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "lWkV+987+/jWtGLEfujLNTEoUL0W/IHr16eICWExIvwpKWvDYddUJo8vTXj+9E9IOQ2NWOo1DfqHBllW61de0+/3bQk9vWOutOlbNpMde1wkLcuwJKw6YsE1b9w+XwgcFu6ohLO6Vj8wGKdb1xjAYySS6ZXhdR5LsIEBdiY3TQ3TQkLOtisf5+5n0r3+AqCGQJywpJLCx9qv1CWcFf8EQktDp9UCcJnVK0NhTeWKffstVrg7fxYVgQrGKqpYcpplHMC99Pnv60OOHneT/M5ecfCh1Q8k50eccYppDc01YrvsHS47Xh2heEUHBac5JCRd2xjCpcUfr7o2ahzoBtxxWUGWsE/Ci8pArmYtvjkYh1nDd4ekwFPGR1kRPwpvBM2FWPCu7hGmY9p1PVLXqTWx+sCHDrty8RqeOgQpPArZO1d9c7F2j68QSgA4RTSf1N3IbqCbuFr7kIwfXcHUyYOpRucQsoqy31B1eAWpg5BHgrOkBShTUMYZPI7Ml6yEyORAgc/QOPL8k9+3ADqYRNPuGg==;jPo8HzwxZxXJuL5uUiaL7A=="
 ---

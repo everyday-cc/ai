@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T19:29:00Z
 originalUrl: "https://www.thehansindia.com/featured/womenia/hyderabad-women-get-recognition-for-service-739379"
 webUrl: "https://www.thehansindia.com/featured/womenia/hyderabad-women-get-recognition-for-service-739379"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Hans India

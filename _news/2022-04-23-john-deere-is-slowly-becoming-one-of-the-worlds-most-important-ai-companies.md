@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T18:33:00Z
 originalUrl: "https://thenextweb.com/news/john-deere-slowly-becoming-one-worlds-most-important-ai-companies"
 webUrl: "https://thenextweb.com/news/john-deere-slowly-becoming-one-worlds-most-important-ai-companies"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: The Next Web
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "vxNCEuOO+IAcT3LKqGMe1YMVZLfmjNWaPTC3rDh2xdsS2XGTYmj1endwv4eCq8SMX3Co9q7VKL1yGgJgBLkmDdWCihjvvnHnd//zHBGweRNp5pxb4AvqbW5N/P+gNNcMsi9jm7xKWC0w37rAPTe5JWK8M5fiDUGz0m5o57C4wKvJXJ8brMPJXAduBeaiGjHwIOort0Ow5u2DR1tQ88CqAkMTcv7zmxIzSbdsMxRjHVBIum9QOi3VUGNMrTGUzECruGxeaFbffEpgTTC1mqY447iiBMDQhwSEIH2l2tW5GFNg1a4R1RX8X81oi/IpudyV0plv2aCoTv7VvmZaZZjqzW/KrIz8ouL51EXcc086VY9uJTsUXzu7dIbeiHtlEDAHKM7fg+8uEHQr0iai7tcB0yICEWTVOi/rh+ohZpk0vHwK7O8afahg5AIPvbdYJXuAUBSFlLuRfsuDVLqwW4cH1lx1gieQYJmx8+KjFfBwPvTjrZ0Kn3kIga/1oO70fDJ8zTUIfFKiEDhx3omGRwqoig==;JJJSDjFgI9W7bWApw7LHcg=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fdeere8r.jpg&signature=9259e61643a99a30470f2aee75f1a5c4"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "lhx53sxdgTenba0eMCeKOl6adCJKzSmZBj+dXJYmY8MMXUvAxfssSDMS+U/38i+OuTeaZ0ISzHKzRN1VeLXt3nuHvcwYZPQ6IFCpuoA6lWr5Cha406T41oW4Sy5G03+icNXV2PULNb1EdyRVYZgkKJM+0r6iVx93MtTw967J0Y5WQKtenjME5mV4yQHd6F3FwRMZ0X8zY4PaJE6ob71728825e+lA9hoPXU6J+gQj6Nrglyv19TzAxPvL+ntmB2pYDz4rCwZVUFvdD07IOb2OjgmrUzkpxqay4/dLpmmVBRVRwaMBwobWwDaC47A5U8CNyecDEPX2IalqfnjaRDumgs9b+7RZXEmLP9QJeKy12M=;prr6/21VWuvQGpUEmQExZg=="
 ---
 

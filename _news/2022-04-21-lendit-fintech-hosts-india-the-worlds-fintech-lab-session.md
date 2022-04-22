@@ -90,15 +90,6 @@ related:
         height: 250
         isCached: true
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
-    publishedDateTime: 2022-04-18T04:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lendit-fintech-hosts-india-worlds-fintech-lab-session-/2022/04/18/9583950.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-19T19:40:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247627&cat=PR News Wire"

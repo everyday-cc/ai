@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational AI tools should unify calling, messaging, analytics and more"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,"
+    publishedDateTime: 2022-04-22T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/"
+    ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/chatbots_phone.jpg?w=1200&strip=all"
+        width: 1200
+        height: 761
+        isCached: true
   - title: "Noogata Raises $16M For Its No-Code AI Analytics Platform"
     excerpt: "Noogata’s AI-solution for enterprises provides data-based insights, predictions, and recommendations without the use of code."
     publishedDateTime: 2022-04-18T16:37:00Z
@@ -52,6 +68,43 @@ related:
         width: 619
         height: 428
         isCached: true
+  - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
+    excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."
+    publishedDateTime: 2022-04-21T09:10:00Z
+    webUrl: "https://www.govconwire.com/2022/04/maxar-invests-in-geospatial-analytics-services-provider-blackshark-ai/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 29
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/04/unnamed-file-97.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Asia Big Data Analytics in Education Market Leading Global Companies and Regional Average Pricing Analysis by 2030"
+    excerpt: "According to the report published by Allied Market Research, the Asia big data analytics in education market was estimated at $2.89 billion in"
+    publishedDateTime: 2022-04-19T16:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/asia-big-data-analytics-in-education-market-leading-global-companies-and-regional-average-pricing-analysis-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7e670cf41a3dcdeb7fb128aa76e658ce5490ad41-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "BrainChip and NVISO partner on human behavioural analytics in AI devices"
+    excerpt: "BrainChip and nViso, a specialist in human behavioural analytics, have announced a collaboration targeting battery-powered applications in robotics and mobility/automotive to address the need for high levels of AI performance with ultra-low power technologies."
+    publishedDateTime: 2022-04-22T08:37:00Z
+    webUrl: "https://www.newelectronics.co.uk/umbraco/surface/redirect/article?slug=brainchip-and-nviso-partner-on-human-behavioural-analytics-in-ai-devices"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 16
 
 secured: "H1IGKjrX/1nySPRUnXBeSySFNfxkHXt6xoOvzYqzDE2jR6ccNVhebeejW5bjFnasZ7k6b1RAYpxuxtBzk2h4ngMAr6hNB6R8OVlvrhZ79aj96ozBMKApp3U9SnbOD/YnJdE3DnQmSTO+dEEDYiqe2KFW/sdrJJHe6zFX6lDe/vUY1tjLcArwBbPt+QKsPFcISn1VHVqpq/mDxWZ6MQwh1VuHGJx93DR6xo5/r4rFb9Wj8/ys/fbgmHN+Nl8Zr5VPlw6eQ5ahbzwhutfG3HVriy58NIKNHsY7We+XxYtRWrD+lIGf3UcnwJc2WJImtWalITb8BE0axFjhe6Ph8b+4C3oLi/RFGmju4hYpdkOShRI=;0W8lHJqiTeZCrVjR0RSOzA=="
 ---

@@ -74,7 +74,7 @@ related:
     provider:
       name: Clinical Trials Arena
       domain: clinicaltrialsarena.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/04/ASahv.png"
         width: 1600

@@ -45,15 +45,15 @@
       ]
     },
     {
-      "path": "_news/2022-04-20-why-this-facial-recognition-firm-is-controversial.md",
-      "title": "Why this facial recognition firm is controversial",
+      "path": "_news/2022-04-20-why-this-face-recognition-firm-is-so-controversial.md",
+      "title": "Why this face recognition firm is so controversial",
       "excerpt": "Clearview AI is arguably the best known and most controversial facial recognition company in the world. It's been at the centre of battles over privacy, personal data and freedom. BBC North America tech reporter James Clayton spoke to Hoan Ton-That,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-61123510",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-61123510",
+      "webUrl": "https://www.bbc.com/news/av/world-us-canada-61123510",
+      "originalUrl": "https://www.bbc.com/news/av/world-us-canada-61123510",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -69,7 +69,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T16:58:00-07:00",
+      "publishedDateTime": "2022-04-20T01:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -148,7 +148,7 @@
       "originalUrl": "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -412,29 +412,20 @@
     {
       "path": "_news/2022-04-15-house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-idme.md",
       "title": "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me",
-      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy, privacy and security\" of its services and products. The move ...",
+      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "originalUrl": "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "webUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "publishedDateTime": "2022-04-14T15:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T14:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -467,31 +458,22 @@
       "title": "House panels probe government use of facial recognition software following security concerns",
       "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "originalUrl": "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "webUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "originalUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-14T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
+        "name": "KCCI Des Moines",
+        "domain": "kcci.com",
         "images": null,
         "publishers": null,
         "authors": null

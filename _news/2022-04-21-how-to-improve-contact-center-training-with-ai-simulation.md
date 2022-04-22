@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://regmedia.co.uk/2020/11/20/ai.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
+    excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
+    publishedDateTime: 2022-04-22T20:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-s-new-division-is-trailblazing-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "How to deploy AI to improve customer engagement and retention"
     excerpt: "Initially many people expected AI to be a job-killing technology, however, that hasn’t happened. Instead, it has become a vital component for employees across the workforce, enabling them to do more qualitative tasks and remove the remedial,"

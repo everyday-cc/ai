@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-21-conversational-ai-market-is-predicted-to-reach-us-405-billion-by-2032.md",
+      "title": "Conversational AI Market is Predicted to Reach US$ 40.5 billion by 2032",
+      "excerpt": "According to a recent FMI report, the conversational AI market is predicted to reach US$ 40.5 billion by 2032, up from US$ 8.3 billion in 2022, with a CAGR of 17.2%. According to the research, significant factors such as the increase in demand for AI-based Gartner chatbots solutions are projected to boost market growth throughout",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/",
+      "originalUrl": "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/04/Conversational-AI-Market.jpeg",
+          "width": 1125,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/amp/",
+      "publishedDateTime": "2022-04-20T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
+      "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
+      "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "publishedDateTime": "2022-04-20T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
       "title": "AI’s future is packed with promise and potential pitfalls",
       "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
@@ -106,49 +200,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-21-risc-v-startup-esperanto-technologies-samples-first-ai-silicon.md",
-      "title": "RISC-V Startup Esperanto Technologies Samples First AI Silicon",
-      "excerpt": "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/",
-      "publishedDateTime": "2022-04-20T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
       "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
       "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
@@ -157,7 +208,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -460,7 +511,7 @@
       "originalUrl": "https://www.freightwaves.com/news/gupshup-acquires-conversational-ai-platform-asksid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1028,6 +1079,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-20-why-this-face-recognition-firm-is-so-controversial.md",
+      "title": "Why this face recognition firm is so controversial",
+      "excerpt": "Clearview AI is arguably the best known and most controversial facial recognition company in the world. It's been at the centre of battles over privacy, personal data and freedom. BBC North America tech reporter James Clayton spoke to Hoan Ton-That,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/world-us-canada-61123510",
+      "originalUrl": "https://www.bbc.com/news/av/world-us-canada-61123510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/21DF/production/_124217680_p0c22nlp.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-people-will-be-allowed-to-watch-tv-and-check-emails-in-self-driving-cars.md",
       "title": "People will be allowed to watch TV and check emails in self-driving cars",
       "excerpt": "But under proposed updates to the Highway Code, people will be able to catch up on their favourite shows or check their emails while using self-driving cars. This will only apply when drivers hand ...",
@@ -1036,7 +1139,7 @@
       "originalUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 418,
+      "heat": 428,
       "tags": null,
       "images": [
         {
@@ -1110,92 +1213,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
-      "title": "Aalto University: Artificial intelligence to assist the brain",
-      "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "originalUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University-1024x853.png",
-          "width": 1024,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
-      "publishedDateTime": "2022-04-19T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-futuretech-ii-acquisition-looks-for-ai-or-robotics-target.md",
-      "title": "FutureTech II Acquisition Looks For AI Or Robotics Target",
-      "excerpt": "FutureTech II intends to pursue a merger with a co. in the sectors of disruptive technologies. Check out why I'm on HOLD for FTII.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "originalUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295900106/image_1295900106.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
-      "publishedDateTime": "2022-04-19T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

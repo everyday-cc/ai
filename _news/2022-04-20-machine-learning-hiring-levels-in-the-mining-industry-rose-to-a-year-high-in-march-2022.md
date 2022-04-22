@@ -61,6 +61,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in March 2022"
+    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.9% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Clinical Trials Arena
+      domain: clinicaltrialsarena.com
+    quality: 25
+    images:
+      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/04/ASahv.png"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Artificial intelligence hiring levels in the military industry rose to a year-high in March 2022"
     excerpt: "The proportion of military equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 70."
     publishedDateTime: 2022-04-22T09:37:00Z
@@ -72,20 +86,6 @@ related:
     quality: 24
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/04/bRr9w.png"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "Artificial intelligence hiring levels in the clinical trial operations industry rose in March 2022"
-    excerpt: "The proportion of clinical trial operations companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.9% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-04-22T09:36:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-march-2022/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 23
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/04/ASahv.png"
         width: 1600
         height: 1200
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-es
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -25,6 +25,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip"
+    excerpt: "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon."
+    publishedDateTime: 2022-04-22T20:23:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2022/04/22/esperanto_et_soc_1.jpg"
+        width: 1032
+        height: 703
+        isCached: true
   - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
     excerpt: "Delivering Industry-Leading Energy Efficiency, Esperanto’s ML Inference Accelerator Is Designed to Be the Highest Performance Commercial RISC-V AI Chip"
     publishedDateTime: 2022-04-20T15:14:00Z

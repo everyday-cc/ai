@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-all
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/"
 type: article
 quality: 58
-heat: 418
+heat: 428
 published: true
 
 provider:
@@ -529,6 +529,15 @@ related:
     provider:
       name: Lynn News
       domain: lynnnews.co.uk
+    quality: 0
+  - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
+    excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
+    publishedDateTime: 2022-04-22T16:48:00Z
+    webUrl: "https://hothardware.com/news/uk-law-will-allow-watching-tv-behind-wheel-of-self-driving-car"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
     quality: 0
 
 secured: "K6STQj761uQtW/kuCEvd/sGP9IheCGAYknidNLas9rlfjyeueohKUXh449UShPBm2R9YvEilborcmc4Nv0KXpmlytviF7GTTQUGifCS4DjNd0UmbH0wmFIJ9lfCTP5nr0pu4zVO1qd83V/4kZb3UpV0zdgLlGuUhp0S+0TcAJIlFkOlcKWYH1o0RZc3B2u3EqHT8o/L9cUEU/fVQB4tFLMCklgtF8dzw3xBO8+NkLouIodbwXqbF6/AotqYzIi0HPBo8B2N25XKBT0gFOt1YzqUu3KdNGXuDeAE8IFz8pQftWT84Zr/ciYuN36gy0mftWFU9m949NxvQGxWoCxz3HnrHYNmwqXvvfe7an4Yeo94=;ze8/1XhQoqbPhJv/GPUn3g=="

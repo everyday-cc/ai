@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-19-research-using-ai-to-better-predict-severe-weather.md",
+      "title": "Research using AI to better predict severe weather",
+      "excerpt": "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
+      "originalUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
+      "cdnAmpWebUrl": "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
+      "publishedDateTime": "2022-04-18T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KJRH",
+        "domain": "kjrh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-gsa-looks-into-facial-recognition-bias-and-improving-accessibility-in-federal-web-services.md",
       "title": "GSA looks into facial recognition bias and improving accessibility in federal web services",
       "excerpt": "The U.S. General Services Administration, which procures and investigates tech for things like government websites and online services, is making a two-pronged push for accessibility in its recently released Equity Action Plan.",
@@ -1148,49 +1190,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-longmont-high-innovation-center-will-host-ai-competition.md",
-      "title": "Longmont High, Innovation Center will host AI competition",
-      "excerpt": "Grayson Hubbell was on the initial team three years ago that developed a three-year plan for St. Vrain Valley to start an artificial intelligence and cybersecurity program at the district’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition",
-      "originalUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timescall.com/wp-content/uploads/2022/04/DCC-L-AI_MJ27797.jpg?w=1024&h=672",
-          "width": 1024,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/",
-      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/",
-      "publishedDateTime": "2022-04-15T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Times-Call",
-        "domain": "timescall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

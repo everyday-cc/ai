@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI supported Co-bots: The next transformational wave in surgeries"
-    excerpt: "While a lot may have happened, AI is still limited to automating the administrative tasks of the hospital, collecting the e-medical records, and runni.."
-    publishedDateTime: 2022-04-18T03:31:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-supported-co-bots-the-next-transformational-wave-in-surgeries/90903011"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-supported-co-bots-the-next-transformational-wave-in-surgeries/90903011"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-supported-co-bots-the-next-transformational-wave-in-surgeries/90903011"
+  - title: "Amazon invests in robotics solutions company BionicHIVE"
+    excerpt: "Robotics solutions are becoming increasingly in demand as organizations look to automate a task and avoid disruptions that can be caused by manual labor."
+    publishedDateTime: 2022-04-22T07:00:00Z
+    webUrl: "https://techhq.com/2022/04/amazon-robotics-solutions-bionichive/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-90903011,imgsize-72322,width-1200,height-628,overlay-etcio/ai-supported-co-bots-the-next-transformational-wave-in-surgeries.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2022/04/squid.jpg"
+        width: 1280
+        height: 473
         isCached: true
 
 secured: "oB2F/cB2UtT5bhWszcqpvyxYUp8uwOr9pKHxZLVcUXnCfu2J2aUrkTFKMkg9+4KZ1ri6Cmiz2cEdvL0NHVqmAB1PIjEwaf8IskUJAX/Zvoi9eOV4nlSzji2fXfX8IrNG5n7VlcTKqqBk5NmTrXSURnfA73beX+SmOqU+1v5nIznn/YG3sNcSxDQtYYR6wDMSr8LiEeXOVTkmpAmT7SOob5NAsPmA7/Pfjsdv889Z1miszQCrVqk1vRW3KXOLoenuFmWIjdn13wItUrTNy1P8fOMqItoL6Nf+3ICGxipVo7mJBK+VHbWxD1OjzkFUAPmoldjloQVXivkPzgWUwAAfjC6Y7I7dfhDx9lXxHZmAE/I=;RMbGzGtUkEqbtlSRKbPlqA=="

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-10-new-fintech-app-aims-to-have-crypto-trading-intelligence-in-the-palm-of-your-hands.md",
+      "title": "New FinTech App Aims to Have Crypto Trading Intelligence in the Palm of Your Hands",
+      "excerpt": "ToroAlerts, LLC, a Portland, Oregon-based innovative FinTech company has launched a mobile app on iOS and Android that helps traders to take the emotion out of crypto trading. The app is integrated into an Artificial Intelligence (AI) Tool that uses Machine Learning (ML) and trading technical analysis to identify and alert the user with buying and selling points.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635",
+      "originalUrl": "https://apnews.com/press-release/prcom/technology-business-portland-oregon-artificial-intelligence-deaf2893d990a09e3cead6da0c963635",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-10-learning-grammars-of-molecules-to-build-them-in-the-lab.md",
       "title": "Learning grammars of molecules to build them in the lab",
       "excerpt": "Artificial intelligence (AI ... These methods require tens of thousands of samples to train the neural networks. Also, the designed molecules may not be physically synthesisable.",
@@ -1149,49 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-insights-on-the-gaming-gpu-global-market-to-2027-featuring-intel-advanced-micro-devices-and-nvidia-among-others-researchandmarketscom.md",
-      "title": "Insights on the Gaming GPU Global Market to 2027 - Featuring Intel, Advanced Micro Devices and Nvidia Among Others - ResearchAndMarkets.com",
-      "excerpt": "The \"Gaming GPU Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The gaming GPU market is expected to grow at 14.1% CAGR during the forecast period of 2021-2026.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=644530",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=644530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

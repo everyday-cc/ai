@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Klein Law Firm Reminds Investors of Class Actions on Behalf of Shareholders of AI, LCID and IBM"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 22, 2022 / The Klein Law Firm announces that class action complaints have been filed on behalf of shareholders of the following companies. There is no cost to participate in the suit."
+    publishedDateTime: 2022-04-22T18:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/ac26769827/the-klein-law-firm-reminds-investors-of-class-actions-on-behalf-of-shareholders-of-ai-lcid-and-ib"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26769827"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26769827"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "FILING DEADLINE--Kuznicki Law PLLC Announces Class Action on Behalf of Shareholders of C3.ai, Inc. - AI"
     excerpt: "The securities litigation law firm of Kuznicki Law PLLC issues this alert to shareholders of C3.ai, Inc. (\"C3\" or the \"Company\") (NYSE:AI), if they purchased the Company's securities between December 9,"
     publishedDateTime: 2022-04-21T06:54:00Z
@@ -38,29 +54,6 @@ related:
         width: 789
         height: 434
         isCached: true
-  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
-    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
-    publishedDateTime: 2022-04-21T10:45:00Z
-    webUrl: "https://www.myhighplains.com/business/press-releases/cision/20220421NY31244/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
-    type: article
-    provider:
-      name: myhighplains
-      domain: myhighplains.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "ROSEN, A TOP RANKED FIRM, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action - AI"
-    excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company's initial public offering conducted on or about December 9,"
-    publishedDateTime: 2022-04-18T16:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rosen-a-top-ranked-firm-encourages-c3-ai-inc-investors-to-secure-counsel-before-important-may-3-deadline-in-securities-class-action-ai-1031361415"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
   - title: "DEADLINE ALERT for AFRM, ERIC, AI, and RIVN: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders"
     excerpt: "The Law Offices of Frank R. Cruz reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion."
     publishedDateTime: 2022-04-20T17:17:00Z
@@ -84,20 +77,15 @@ related:
       name: KOIN 6
       domain: koin.com
     quality: 0
-  - title: "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action – AI"
-    excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company’s initial public offering conducted on or about December 9,"
-    publishedDateTime: 2022-04-19T23:15:00Z
-    webUrl: "https://fox5sandiego.com/business/press-releases/globenewswire/8524870/rosen-global-investor-counsel-encourages-c3-ai-inc-investors-to-secure-counsel-before-important-may-3-deadline-in-securities-class-action-ai/"
+  - title: "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Reminds Investors of Securities Class Action Against C3.ai, Inc. (AI) and May 3 Deadline"
+    excerpt: "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international shareholder and consumer rights litigation firm, reminds investors that a securities class action lawsuit has been filed against C3.ai,"
+    publishedDateTime: 2022-04-21T18:37:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-lawsuits-class-action-bd402a662a159a217122ef1cee80e53e"
     type: article
     provider:
-      name: Fox 5 San Diego
-      domain: fox5sandiego.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
-    images:
-      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/01/cropped-logo-3.png"
-        width: 781
-        height: 326
-        isCached: true
   - title: "SHAREHOLDER ALERT: ERIC AI ABBV: The Law Offices of Vincent Wong Reminds Investors of Important Class Action Deadlines"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The Law Offices of Vincent Wong announce that class actions have commenced on behalf of certain shareholders in the following companies. If you suffered a"
     publishedDateTime: 2022-04-21T19:15:00Z

@@ -51,6 +51,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
+    excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
+    publishedDateTime: 2022-04-22T20:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-s-new-division-is-trailblazing-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
     excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
     publishedDateTime: 2022-04-22T13:29:00Z

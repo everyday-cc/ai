@@ -529,6 +529,15 @@ related:
       name: Lynn News
       domain: lynnnews.co.uk
     quality: 0
+  - title: "Controversial UK Law Will Allow Watching TV Behind The Wheel Of A Self-Driving Car"
+    excerpt: "New proposed updates to the Highway Code concerning self-driving cars in the UK will allow a human driver to watch television or other video media on a built-in screen while the car is in charge ..."
+    publishedDateTime: 2022-04-22T16:48:00Z
+    webUrl: "https://hothardware.com/news/uk-law-will-allow-watching-tv-behind-wheel-of-self-driving-car"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 0
 
 secured: "EDxHYUibwR8RJGVCOTfXraC/CLwqBx81udka3gwOnFW7RWunuvzdwn2P29Z4NCrK7qLeFZBm/S7Oh3jtOu7a5471KeEeW3s2biPrYJj5JSuut2cRC/WhNut9/daWirUszLAleu5QTZYMn9PXuFp8KBheuliADad4D+EO5VOdDV/uNLt8naJtJk+CQBYeR2cjty+mSz2VGKzx076z5aQtJLlDC+yYRPPPG0iEhIFsuDxjyVTrfmJj+s7qAab5Oss6qSb4ejLbVz6Tjp5yS8cbltILivuO/pUkPQjH1kqNpSDnknroKc6+aO48fxQePkcO7a2nobf8A3SdjEV11tbisN43e+o1tygoLDKKXu6Grp0=;LtdI+16r10iCbfYhANbdaQ=="
 ---

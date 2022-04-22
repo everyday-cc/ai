@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-04-20-why-this-facial-recognition-firm-is-controversial.md",
-      "title": "Why this facial recognition firm is controversial",
-      "excerpt": "Clearview AI is arguably the best known and most controversial facial recognition company in the world. It's been at the centre of battles over privacy, personal data and freedom. BBC North America tech reporter James Clayton spoke to Hoan Ton-That,",
+      "path": "_news/2022-04-20-aalto-university-artificial-intelligence-to-assist-the-brain.md",
+      "title": "Aalto University: Artificial intelligence to assist the brain",
+      "excerpt": "The human brain consists of some 86 billion neurons, nerve cells that process and convey information through electrical nerve impulses. That’s why measuring neural electrical activity is often the best way to study the brain,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-61123510",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-61123510",
+      "webUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "originalUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/21DF/production/_124217680_p0c22nlp.jpg",
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University-1024x853.png",
           "width": 1024,
-          "height": 576,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T16:58:00-07:00",
+      "ampWebUrl": "https://indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aalto-university-artificial-intelligence-to-assist-the-brain/",
+      "publishedDateTime": "2022-04-19T19:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,7 +40,50 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-futuretech-ii-acquisition-looks-for-ai-or-robotics-target.md",
+      "title": "FutureTech II Acquisition Looks For AI Or Robotics Target",
+      "excerpt": "FutureTech II intends to pursue a merger with a co. in the sectors of disruptive technologies. Check out why I'm on HOLD for FTII.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "originalUrl": "https://seekingalpha.com/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295900106/image_1295900106.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502266-futuretech-ii-acquisition-looks-ai-robotics-target",
+      "publishedDateTime": "2022-04-19T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -888,7 +922,7 @@
       "originalUrl": "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1150,48 +1184,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-research-using-ai-to-better-predict-severe-weather.md",
-      "title": "Research using AI to better predict severe weather",
-      "excerpt": "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
-      "originalUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
-      "cdnAmpWebUrl": "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true",
-      "publishedDateTime": "2022-04-18T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KJRH",
-        "domain": "kjrh.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

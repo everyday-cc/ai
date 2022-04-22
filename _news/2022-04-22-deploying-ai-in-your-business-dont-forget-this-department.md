@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways to Solve Your AI FOMO Before it Hurts Your Business"
-    excerpt: "With artificial intelligence (AI) expected to grow by 21%, reaching $62 billion in 2022, it’s no wonder nearly half of CIOs said they’ve either already deployed AI or plan to add it to their tech stacks in the next year."
-    publishedDateTime: 2022-04-19T21:13:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/3-Ways-to-Solve-Your-AI-FOMO-Before-it-Hurts-Your-17090866.php"
+  - title: "How Your Business Can Use Machine Learning"
+    excerpt: "Simply put, machine learning (ML) puts the“intelligence” in artificial intelligence (AI). And two-thirds of respondents in a Deloitte survey say"
+    publishedDateTime: 2022-04-22T20:07:00Z
+    webUrl: "https://menafn.com/1104076406/How-Your-Business-Can-Use-Machine-Learning&source=28"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://s.hdnux.com/photos/01/25/20/55/22350667/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://menafn.com/updates/pr/2022-04/22/V_904f6image_story.jpg"
+        width: 640
+        height: 389
         isCached: true
 
 secured: "MH3c7EhZ/fUTubQf3MKi7LDch+xMXjdm7v8ytjr8ploKIEhvHo5XHn1g5EMMNlwLLslTXZtvK1WtipjisovyHcM1L7lBwt1SOVDKK8TeLybLT5IRW9zmHBjJBTP6ou3S9+67X4roQHcfzalOgDbzjJRUgNtI0JC4syJYH3Duff9DlOQqbTQdc1fRi3qmj41Tvb5R8h6Y8pdWiA0t+RIS3PUWuSo3D9wWBgAC0txWDNRvOw8jtv/iNOXdmWRgiB4ytBKhCeRq8TAi0FaegPU5PTM6jDc2dyqDFArDViqJpwMj1ABVjZbH7AcOu//ucN3pAvCD2gp8TobmPie3fTyefzLysRsz4FQK/LEEhyAqx9U=;xuOflieUYdZOkpC1p0Mrig=="

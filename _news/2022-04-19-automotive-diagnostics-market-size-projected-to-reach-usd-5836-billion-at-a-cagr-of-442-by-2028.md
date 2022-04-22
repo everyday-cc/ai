@@ -101,6 +101,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 0
+  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027- An exclusive market research report by Lucintel"
+    excerpt: "Lucintel's latest market report analyzed that artificial intelligence provides attractive opportunities in the healthcare, security, retail, automotive, manufacturing, and financial technology (fintech) sectors."
+    publishedDateTime: 2022-04-22T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-expected-reach-115-billion-2027-/2022/04/22/9588119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "9QeoW04J1JTt1ql2zPbVvid0awpJRIuf16j/N1n0pemusT9GeaXGSFOuq6NxTK4CdTxaWL3X+Pg283E+POp9HPmfwBo/cxwDhiy6e9T7R8WXvOWWhImITnHgjNPVC2IQfqB/zgaat5A0pD7j8TRhfOCe5MZDP/TcCc86j4a0RCS9/XVQ8TEkHxDQl0FADCcOmyh97oz1yuxg43qNCjZa89MaUymXSKBN5tkfzqmkI7ltED7hyWkbD3tvcpd4e6rgArxwi9fI15wbZlBnL5aQNaRtzTp1Y7gUJV2t1qAHaeDMZb3m2n2HHYz1JbB0vQEiB347FhbHBKjCGXF6bLRkA4ITCGN4rN36PTocaiSGKaI=;mw4dNnRwM41JGWpmX6XdhQ=="
 ---

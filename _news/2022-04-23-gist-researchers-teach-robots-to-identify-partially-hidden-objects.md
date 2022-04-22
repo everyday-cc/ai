@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-22T17:46:00Z
 originalUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/"
 webUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 102
 published: true
 
 provider:

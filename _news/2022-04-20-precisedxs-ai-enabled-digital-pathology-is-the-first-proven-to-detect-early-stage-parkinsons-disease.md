@@ -48,6 +48,15 @@ related:
         width: 300
         height: 257
         isCached: true
+  - title: "Precise-Dx Employs AI to Detect Early-Stage Parkinson’s Disease"
+    excerpt: "Dx’s technology can accurately diagnose Parkinson’s disease in living patients prior to the severe onset of symptoms."
+    publishedDateTime: 2022-04-22T19:13:00Z
+    webUrl: "https://www.mddionline.com/digital-health/precise-dx-employs-ai-detect-early-stage-parkinsons-disease"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 17
 
 secured: "uqN1rn1yDDaDVVyU+af0m5u/wW28/86K7xlvelKemSWEDFeF83mKO7zbZZ7rL8m1sBdkcaXNQ2LHb8fj8fkPMXjVSseFqaVLDM/4uI02s2c2ZRBW1Ne+K5jJ3Ad//0CY7IAnIJGurG/5nUohzpVcTRCzUcPOaYypS9taLnXYTYpbAZoPtY9yHD7w9RH7ZQKS+u+2piBIHZWqXAgMZuoi6l+gB0t2gHkwgv2WHBKk0wTN0wStnUbFycn32qTU2oNKGExlsWgk+PZj5S4WLFFNlDohzC3KyJdaI4xftjHiyONzfn9zZB6I7VSy0pHQbcX9U2vzhiRUkHst3zYyDJlnrli6y7bm+vW7cCLb5EPZkbLiFnbH95KDgToeOuRNXxDQpSbd4vchaN+zKsBgBTWcR1Q4J8tSnwcyYLtitND3s4DfmWU52wGkiqAgXGSXFknUtAECkbTeAmPtGZTA5AdI141WP9145HJs97AAV+eFgXo40vZp2EovvctaM5GPS55HfJ9BLklUDbjyqlotJpXeag==;5Jla54yiqzIwna6ZR8BMAQ=="
 ---

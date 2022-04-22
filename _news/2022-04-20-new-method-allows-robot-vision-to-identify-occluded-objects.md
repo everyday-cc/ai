@@ -35,7 +35,7 @@ related:
     provider:
       name: The Robot Report
       domain: therobotreport.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/04/featured-web-GIST-research.jpg"
         width: 770

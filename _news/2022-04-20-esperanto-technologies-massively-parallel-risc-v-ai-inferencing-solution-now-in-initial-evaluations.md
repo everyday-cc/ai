@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip"
+    excerpt: "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon."
+    publishedDateTime: 2022-04-22T20:23:00Z
+    webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 74
+    images:
+      - url: "https://regmedia.co.uk/2022/04/22/esperanto_et_soc_1.jpg"
+        width: 1032
+        height: 703
+        isCached: true
   - title: "RISC-V Startup Esperanto Technologies Samples First AI Silicon"
     excerpt: "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ..."
     publishedDateTime: 2022-04-20T21:29:00Z

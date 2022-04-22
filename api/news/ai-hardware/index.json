@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-23-samsung-others-test-drive-esperantos-1000-core-risc-v-ai-chip.md",
+      "title": "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip",
+      "excerpt": "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon.",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/22/samsung_esperanto_riscv/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/22/samsung_esperanto_riscv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/22/esperanto_et_soc_1.jpg",
+          "width": 1032,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/",
+      "publishedDateTime": "2022-04-22T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-biotech-firm-graphcore-ipus-faster-for-ai-based-drug-discovery-than-gpus.md",
       "title": "Biotech firm: Graphcore IPUs faster for AI-based drug discovery than GPUs",
       "excerpt": "In the race to provide the best machine-learning accelerators, one of Nvidia's top challengers has claimed a victory in the biotech space, London firm LabGenius, which said Graphcore's intelligence processing units (IPUs) provide significantly faster performance for AI-based drug discovery than some unidentified traditional GPUs.",
@@ -149,49 +192,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-21-risc-v-startup-esperanto-technologies-samples-first-ai-silicon.md",
-      "title": "RISC-V Startup Esperanto Technologies Samples First AI Silicon",
-      "excerpt": "Esperanto has been talking about their edge AI chips for several years, and now the company can demonstrate working AI acceleration for image, language, and recommendation processing. I had the chance to watch a demo of the platform and came away quite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/20/risc-v-startup-esperanto-technologies-samples-first-ai-silicon/amp/",
-      "publishedDateTime": "2022-04-20T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-an-inventor-resurrected-his-imaginary-friend-with-ai-then-it-tried-to-murder-him.md",
       "title": "An inventor resurrected his imaginary friend with AI — then it tried to murder him",
       "excerpt": "As a kid, Lucas Rizzotto had an imaginary friend: a talking microwave. As an adult, Rizzotto resurrected his pal — with tragic consequences.",
@@ -200,7 +200,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 93,
       "tags": null,
       "images": [
         {

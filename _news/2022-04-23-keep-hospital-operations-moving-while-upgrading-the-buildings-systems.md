@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T17:35:00Z
 originalUrl: "https://medcitynews.com/2022/04/keep-hospital-operations-moving-while-upgrading-the-buildings-systems/"
 webUrl: "https://medcitynews.com/2022/04/keep-hospital-operations-moving-while-upgrading-the-buildings-systems/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MedCity News

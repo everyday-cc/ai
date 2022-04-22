@@ -1,19 +1,28 @@
 ---
 category: news
 title: "How to Find Your Startup's Niche"
-excerpt: "When you’re a young startup with promising technology, capturing the interest of a"
-publishedDateTime: 2022-04-22T17:53:00Z
-originalUrl: "https://www.chron.com/business/article/How-to-Find-Your-Startup-s-Niche-17120017.php"
-webUrl: "https://www.chron.com/business/article/How-to-Find-Your-Startup-s-Niche-17120017.php"
+excerpt: "Related: How to Find the Perfect Niche   One of the biggest mistakes is going for what’s sexy now, because at that point, you’re already too late to enter the market. Hype is not a useful metric, and you can’t stick with something just because it’s cool."
+publishedDateTime: 2022-04-22T21:53:00Z
+originalUrl: "https://www.timesunion.com/business/article/How-to-Find-Your-Startup-s-Niche-17120017.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/How-to-Find-Your-Startup-s-Niche-17120017.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
 
-secured: "6nA13bcTnyISXmjCqFUE8XuhSUc/RKJS4AeTjRHonTZ2atdPJ03bjE/LMAXEj19mEgl/3TZP/4GkINzgIaZKyLc8W09tkTgDKRrxO3w2CeDW1YL81MOSqH0bw02k341/GKRktCGzS9SX7/SkWavl9I6xXyLdwYxTLiqGUGQjM5Qgl9Upwbb9jL1yUn3fxmi1VSJJFTu8iLeRFSdZZhRY7jr3g9tIvws6aTuF1rZJa3D9/TFUFBDsr0+qomuNWZF18B77Can/ap28SygqafhrjuIrfC5x8iV0VaP0N0vEVSz8+d+75pbEBoSIXu/dnHGGjpCP8DIeFUPiGRnj7zre8WWYF5K0zEk98dshg1TD9ZcJlYK42qgYdrazoJqFf8w0M18c2reCA73zhJe2TquFcBfhDIFoSVIfL7nKKVRkn1ZmDEe8M3/4NyV9+V4DZIKYT2enupsAP6+gsu0WP//E29PJt9bqW0yBSS2GfJeuq08pnYpEPw8O7yGeUGFQvj1oFb9kgH8AhMjHBv6X3mlfJg==;MtG4qOAhq6+9PkZhbuUchQ=="
+images:
+  - url: "https://s.hdnux.com/photos/01/25/33/61/22395986/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "xu0dUnkRtMJAGqnfyoNc1Z/AydwtVgPf+eY+O4lvMlPNEz4u+Vij7Z/v3gZsYNE+LvrufsgKgqRNU2hAjh1Gqw/17FGMhUEjiojM9cD4Enzhxw3VpbnkehdrSYpi8utUzaz5wP9qu5hXXjaJmjkBWXkXZQzBxyregz+5nBX2ODYJKjKuHfUkonlEVIuJhC/kg3Mg6wckPJr2bLAZxHkgIqDcvjEyMoyG3YdmU7OrTx4/d8GQPyk2O994UU3YS9OOC62sCkokVr7XBJYwk9zbQ0HDUti9HkM1mZYOqu9sus3lyZCkZZQeOOHYIxw4habk6n6jvxkIsyL0der+EBBSsIFt6yBtb9xRrtGXWMsAqKA=;1POVU7wD2OfgufylgH1FLw=="
 ---
 

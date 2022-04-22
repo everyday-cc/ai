@@ -7,7 +7,7 @@ originalUrl: "https://www.wealthmanagement.com/technology/you-may-not-be-using-a
 webUrl: "https://www.wealthmanagement.com/technology/you-may-not-be-using-ai-its-full-potential"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1540
     height: 800
     isCached: true
+
+related:
+  - title: "Top 10 Companies Using AI to Look Out for in 2022"
+    excerpt: "At the close of 2021, McKinsey & Company published its ‘State of AI’ report. This report detailed many findings, but one that stood out was that of the respondents, 27% of them report, “at least 5% of EBIT attributable to AI."
+    publishedDateTime: 2022-04-22T20:06:00Z
+    webUrl: "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/"
+    ampWebUrl: "https://techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-10-companies-using-ai-to-look-out-for-in-2022/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/04/Brain-Computer-Interface.jpg"
+        width: 620
+        height: 342
+        isCached: true
 
 secured: "aAH55y4uoCDGM0h7hg4fx/840JQdjwqYPyf9Cu6DzmxfkAUeUJXJzQibMerg3K9Rv98uH+f7qAM8qPS0eNUXCz/5AxkBEz7Tepl9Mgyg71L5zrdAqvbRwltbTTTT29Tv2R/3UPY26J2Y5IpB49PLf/8YOY/lwQtdqdsUQJtC8aothKeI8Yf05B5h09FieElouI4th5GoPJrPQNQJdOpuJjE/Yzqemg/2jDWEft3Pn2UtGFbojb9oLiG7OvMXf2+BxaIpMecbyl6XsR7Mq/BSGueGZeac4WgzaG0AWFoUTvHiSzSaCbEDe4dpdkUjylt+smc2zJzlXrqJ+XPEZEUOrPBBaBDZXj/jjWwr5yzkRtzIqMbEk/hMWO/2XorFfO+yKPA3kxAIxA3M99X0hWSMwExAIQV0eB/aFsnU5+XOrSqPhw89WITVS5/8VypJYsmgkDSl3fZqoI+jVFm/6gmI30/Czx78pm48wGfXeoNNP8zDdLrLOTWmTHEEU91tusgKEN6KSOehrX7optadRDcTQQ==;6M27B+Lqm5hCQ72Wu4EEQw=="
 ---

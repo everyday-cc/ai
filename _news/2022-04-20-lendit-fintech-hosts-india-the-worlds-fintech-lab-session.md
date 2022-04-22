@@ -89,15 +89,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "India has been at the epicentre of a global 'lab testing' environment which has ushered in a new wave of technological advancement leading to the creation of several innovative business models, products and other opportunities in the Fintech space."
-    publishedDateTime: 2022-04-18T04:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lendit-fintech-hosts-india-worlds-fintech-lab-session-/2022/04/18/9583950.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Stars align for fintech, but regulators are wary of dangerous risks"
     excerpt: "Commercials featuring NBA legend LeBron James, comedy icon Larry David and movie star Matt Damon touting digital assets were prominent on this year's telecast of the Super Bowl played at California's SoFi Stadium,"
     publishedDateTime: 2022-04-19T19:50:00Z

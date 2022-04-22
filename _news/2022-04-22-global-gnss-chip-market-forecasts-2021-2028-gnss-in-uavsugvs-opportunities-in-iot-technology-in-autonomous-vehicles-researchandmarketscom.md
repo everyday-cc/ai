@@ -108,20 +108,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "Asia Big Data Analytics in Education Market Leading Global Companies and Regional Average Pricing Analysis by 2030"
-    excerpt: "According to the report published by Allied Market Research, the Asia big data analytics in education market was estimated at $2.89 billion in"
-    publishedDateTime: 2022-04-19T16:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asia-big-data-analytics-in-education-market-leading-global-companies-and-regional-average-pricing-analysis-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7e670cf41a3dcdeb7fb128aa76e658ce5490ad41-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI in Drug Discovery Market Global Demand, Opportunities, Trend, Growth, Segmentation and Forecast to 2027"
     excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a"
     publishedDateTime: 2022-04-20T04:24:00Z

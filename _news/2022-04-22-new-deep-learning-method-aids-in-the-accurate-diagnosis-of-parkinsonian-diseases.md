@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220421/New-deep-learning-met
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 300
         height: 257
         isCached: true
+  - title: "Precise-Dx Employs AI to Detect Early-Stage Parkinson’s Disease"
+    excerpt: "Dx’s technology can accurately diagnose Parkinson’s disease in living patients prior to the severe onset of symptoms."
+    publishedDateTime: 2022-04-22T19:13:00Z
+    webUrl: "https://www.mddionline.com/digital-health/precise-dx-employs-ai-detect-early-stage-parkinsons-disease"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 17
   - title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
     excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
     publishedDateTime: 2022-04-20T12:00:00Z

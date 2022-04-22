@@ -1,23 +1,44 @@
 ---
 category: news
 title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids"
-excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV"
-publishedDateTime: 2022-04-22T13:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids-1031375221"
-webUrl: "https://markets.businessinsider.com/news/stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids-1031375221"
+excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation"
+publishedDateTime: 2022-04-22T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids/article_9da05324-c792-5a88-bfe7-0961e410b91e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids/article_9da05324-c792-5a88-bfe7-0961e410b91e.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-secured: "akyv4l6bvlICFkTqRctegIViBq8Ib+7DUTxPupzhrB2vTgto5ZRLBHa2YQYdVcrwOMLHL0Dq2c+GHp0pVZQDwswwUweMOc0kJ3PU3ZhEKyQ7ztyVzsooMQG57RZWhu0dwF8RCmWcNeF8QETuI7QA4MqfXMAfYVZexW7ixKEoNMzlKZdDj/8L+MWzbu9qW+yyUvEolgBS15UuZSJO5Nk9Q8Opo4FIVx3QtcwkJCLKf3GJdZCIjgP83hQ3gaTjt/cRyHWcxlSB1uYy60emdYjF7mju5ifG8FUMvxa2VMQL9XPOWnRc7fG72aUhKIfCnoQeDAyJBeutMe/xWb8deruU9EnUjRvs78TJ0ZUxWnACSoHl7J2rznbHEa/aVlt1UsLnHb32nY/m7QBLnJD1PNG7qV7gZnKOWB5eDjPDJI5mvwNrU5MInNZu0Zr2J5CsFPCU85PgQ+uG5FbxDW5FVAPvahqzqu/8NVDKVd8wGQviGFk4nsU9gIdasUBHG5j7/SCNAjaHUaxQwhQch08TCUOkKA==;N9VENXsalJio6JdDlShQRg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/50/d506506e-b6a6-532f-9ac9-59c38c5e25a3/6262a7e901b38.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids'"
+    excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation OTTAWA, ON, April 22, 2022 /PRNewswire/ - BluWave ..."
+    publishedDateTime: 2022-04-22T17:39:00Z
+    webUrl: "https://menafn.com/1104075465/BluWave-ai-EV-Everywhere-Product-Turns-EVs-into-Managed-Distributed-Storage-for-Electricity-Grids"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-04/22/PN_5206b6e4-b_Image_In_Body.jpg"
+        width: 400
+        height: 225
+        isCached: true
+
+secured: "tgbi0C06xLSBUImoq/NHLK07jDaojECBTGKhmtcc3qDMDvccL5xmrPncSJ7pkob/9HlqnG6xns9bwhdQFstnBSKsBsTLwWl9kfPYnG527khX5f/pSM1iMZiFhFT8Q3rdVYzay/jEJGF6Wr7ewhlIU0iZBklzdXm7/5o23AUTAWDXZJpoBawcPs9SGYWdYYa1M16N7TpaDI5/sxdim+DGH84YdwVvb54lUq89grW7YOtgxHBgqcLiwmUjttnD+/Z/CLP8NJzv0jK01/n6eWwrn5bcmjRPJMWpWTdCYwJTuxvpe9dwGPjlyxsNOI1IaMgoA8h+tZLg4DdgZMVtlT/jM/yzI9FwRQdyfHD5d456HjA=;TYfwiDmXCx1zdMkCTQJexA=="
 ---
 

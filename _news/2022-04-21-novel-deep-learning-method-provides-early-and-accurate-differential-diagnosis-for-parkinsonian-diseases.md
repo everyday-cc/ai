@@ -41,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Precise-Dx Employs AI to Detect Early-Stage Parkinson’s Disease"
+    excerpt: "Dx’s technology can accurately diagnose Parkinson’s disease in living patients prior to the severe onset of symptoms."
+    publishedDateTime: 2022-04-22T19:13:00Z
+    webUrl: "https://www.mddionline.com/digital-health/precise-dx-employs-ai-detect-early-stage-parkinsons-disease"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 17
   - title: "PreciseDx's AI-Enabled Digital Pathology Is the First Proven to Detect Early-Stage Parkinson's Disease"
     excerpt: "In a collaboration with The Michael J. Fox Foundation, de novo study finds PreciseDx's technology can accurately diagnose Parkinson's disease in living patients prior to severe onset of symptoms"
     publishedDateTime: 2022-04-20T12:00:00Z

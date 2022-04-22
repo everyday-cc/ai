@@ -10,7 +10,7 @@
       "originalUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -893,7 +894,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Healthcare"
       ]
     },
     {

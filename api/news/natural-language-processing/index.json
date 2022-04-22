@@ -382,29 +382,20 @@
     {
       "path": "_news/2022-04-15-house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-idme.md",
       "title": "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me",
-      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy, privacy and security\" of its services and products. The move ...",
+      "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "originalUrl": "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "webUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210706084302-01-idme-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html",
-      "publishedDateTime": "2022-04-14T15:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T14:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

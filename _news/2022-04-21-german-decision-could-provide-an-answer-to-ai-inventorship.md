@@ -42,18 +42,22 @@ related:
         isCached: true
   - title: "ServiceTitan Launches Titan Intelligence, Bringing AI To The Trades"
     excerpt: "The Next Generation of ServiceTitan's Operating System for the Trades Helps Contractors Harness the Power of their Data to Predict Outcomes, Automate Tasks, and Embrace Digital Transformation The trades industry is at an inflection point as trends in data analytics,"
-    publishedDateTime: 2022-04-22T17:35:00Z
-    webUrl: "https://who13.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
+    publishedDateTime: 2022-04-22T17:30:00Z
+    webUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220422LA32804/servicetitan-launches-titan-intelligence-bringing-ai-to-the-trades/"
     type: article
     provider:
-      name: who13
-      domain: who13.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2022/04/WALKER-WHALEN.jpg?w=2000&#038;ssl=1"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: KNWA News
+      domain: nwahomepage.com
+    quality: 17
+  - title: "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto"
+    excerpt: "The war is also driving up the prices of energy and other commodities, further disrupting global supply chains, with freighters full of commercial goods stuck at overwhelmed ports. Canada’s top artificial intelligence companies believe they can develop strategies and programs to get products to market faster and that makes the timing ripe for a new Canadian A."
+    publishedDateTime: 2022-04-22T18:21:00Z
+    webUrl: "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 17
 
 secured: "UuVrVrNdgTF0MDSA2ENCyKtAYznmjc/ftmbnbN0nSl9+hnX9HyzsihWZcfB9OFOm8z/oNGae6MPp9crOEtWbRa0JSoBg2ywOouLCsA6wiOlD9nXVWGE735YQ350WFQOjreeKb6AeCA1ZaqZFOia9RD7fNTAFO0YcYy9cncbGvUkGaJBhaMnpO3TqYQVeguI2NTxMwPkslZKA6/kFBvsU7jQGSvierb4tnrFxRjzHNELSGDd/p0WYoJIYnMnh85hSw27U9yoFKj/ftkMovfQY9Iu+J2A3SHf1LOSWdKtHKO7CAelcbz1VF424rV8sJZEzzfV6OmkZW29GOitjMQwzxyY53OEWf6CG3FWrZq+h5X8=;gBgfytQyczQhBsnalySMgw=="
 ---

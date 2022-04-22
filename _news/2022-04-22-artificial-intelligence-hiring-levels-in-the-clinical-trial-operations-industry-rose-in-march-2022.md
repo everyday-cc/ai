@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-22T09:36:00Z
 originalUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-march-2022/"
 webUrl: "https://www.clinicaltrialsarena.com/analysis/artificial-intelligence-hiring-levels-in-the-clinical-trial-operations-industry-rose-in-march-2022/"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 

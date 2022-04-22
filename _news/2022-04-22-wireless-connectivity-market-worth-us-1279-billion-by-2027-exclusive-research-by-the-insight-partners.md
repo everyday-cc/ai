@@ -101,6 +101,15 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 0
+  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027- An exclusive market research report by Lucintel"
+    excerpt: "Lucintel's latest market report analyzed that artificial intelligence provides attractive opportunities in the healthcare, security, retail, automotive, manufacturing, and financial technology (fintech) sectors."
+    publishedDateTime: 2022-04-22T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-expected-reach-115-billion-2027-/2022/04/22/9588119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "iBTIsjR2turt02IjeTJWvXVEwvGVbJwMyEYj7g3Os16xjIzFq/LL5lhiRNcm6XJnYo1sTTnuWzIU//TGBB9R4H7NjfY5tt3n97NOuObnod4v34UASPTR+bisqDA2ti5gB3utjn3aJgxBMFNxYBekjo1krQQ3H28th0WPBUFS6TEzsxneosvB3S6ORUVlFmDeHWbnOeNDyKUpuUSz460RLJvQNRtBC8b047ZEu16eqTWQkbYnzr6AwlMHJIm8Y8dvu8kBe+sUj2jjZA8UR9MoF1k523ko3Xbkf8rPCIfdMTmbHG9/GIFN20WpBGFpRMslx6WN90FOmCML8E7j8O/cabFgHAxm2QBcFuroDSziOCQ=;mlzWI72TZNhUJvZMEdR8kQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-mons
 webUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave"
 type: article
 quality: 63
-heat: 94
+heat: 93
 published: true
 
 provider:
