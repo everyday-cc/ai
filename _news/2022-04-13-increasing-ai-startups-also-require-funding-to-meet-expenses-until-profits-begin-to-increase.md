@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://www.techthirsty.com/wp-content/uploads/2022/04/AI-Startups.png"

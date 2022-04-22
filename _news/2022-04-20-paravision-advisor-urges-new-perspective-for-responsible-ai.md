@@ -6,8 +6,8 @@ publishedDateTime: 2022-04-19T18:38:00Z
 originalUrl: "https://www.biometricupdate.com/202204/paravision-advisor-urges-new-perspective-for-responsible-ai"
 webUrl: "https://www.biometricupdate.com/202204/paravision-advisor-urges-new-perspective-for-responsible-ai"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AWS AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+    width: 2048
+    height: 1280
+    isCached: true
 
 related:
   - title: "iCatch and Prophesee collaborate on development of AI vision processor natively compatible with Prophesee Event-based Metavision sensing technologies"
@@ -29,6 +36,6 @@ related:
       domain: digitimes.com
     quality: 0
 
-secured: "4+HYm/fJ8cil9PAwQi7AjtFjvfsff+xNvMkykSomynquu+J2Pdsq/fNk4pYAtmlatrIN8VvJymWrDBP4kQQHgWMnyayUou+g6xeVLpWYzu3zWK+t8NPima1p6NFQv2pSALM5JU4ZMh0g5kGh16dlwF7N3NlqurVa5SWkKTGhKFyfvlN7QwVjiNt067SqHNdCAyY9BUHAZI8thtHtIx1WQLCg1cmAysz+dNOQN88rgRt7dQROTFwIHruftByQkLB8QnmL9cjU/qxXUQVWFhKqI9PvOVxZl9b8H4YGpUMuqQlIXbw8Y2/kQypB0x8v8WJ4Js39i4hAYbxP+HwjoJ3GnxlS9NIkZkmYOXRRXIrrwersluE8BTLeqoCztYOVgMyGhtfZ695QbkApAJDnkTcXidZGsKuVJvsuxGUCRItNJFxcEOPfJ7qk52/BsgAnbrrACpTGPvr+kbqR6/Z1Z/n+UorsPFFFQtKumwkxkYtScywAuX72DVOuvDlbNRj0cpCPjaKr+hKbFMnflNG6iUnrdw==;oxddkO2e6fu+1LnVZ0WwIw=="
+secured: "L+8tb1YyAdmUQ+JX3FInooCsefKc7EGnPua6R6aNkbKpBP5gT1OAffFBOjKALExJoJ64DmSRb5nH7WA7Y8JMblywG8HN5QI+eTCLMB8uf9QUoTQ6jCJ51uqs+DTpcaDiRSYP/YqhP4ifffuABe1uaumMpQyRC9uZ9OaUEv2h7n3u4GP3zSq03om6JFULFjkUtZv6VklyI0uqkVMSdvmQUnmqaTZA0TD8SIgGCWk6V8g6CHp6apVD2/aF9K5MUHQWlB3GpYgDHdpT5T+1Po00Egk9dF2Lt7YeLTeeA4HaO1MLWa/pK0XCrffUKHmmR/mB4snevljJ0H+PHMmReg+0uRFMHeTNwTzHQEcHo38gPvE=;pI/p1W9WiZQY62IzBU8iFQ=="
 ---
 

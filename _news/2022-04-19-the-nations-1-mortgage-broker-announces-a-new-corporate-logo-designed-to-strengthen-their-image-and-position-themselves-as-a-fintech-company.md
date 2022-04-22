@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "From creating images to telling jokes – foundation models and next generation of AI"
-    excerpt: "Entornointeligente.com / If you’ve seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
-    publishedDateTime: 2022-04-17T07:46:00Z
-    webUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/"
-    ampWebUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
-    cdnAmpWebUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 31
   - title: "Developing Countries Are Being Left Behind In The AI Race – And That’s A Problem For All Of Us"
     excerpt: "As of October 2021, 44 countries were reported to have their own national AI strategic plans, showing their willingness to forge ahead in the global AI race. These include emerging economies like China and India,"
     publishedDateTime: 2022-04-19T08:04:00Z

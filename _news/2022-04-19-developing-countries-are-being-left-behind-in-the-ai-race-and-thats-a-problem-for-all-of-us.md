@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "From creating images to telling jokes – foundation models and next generation of AI"
-    excerpt: "Entornointeligente.com / If you’ve seen photos of a teapot shaped like an avocado or read a well-written article that veers off on slightly weird tangents, you may have been exposed to a new trend in artificial intelligence (AI)."
-    publishedDateTime: 2022-04-17T07:46:00Z
-    webUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/"
-    ampWebUrl: "https://www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
-    cdnAmpWebUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/from-creating-images-to-telling-jokes-foundation-models-and-next-generation-of-ai-2/amp/"
-    type: article
-    provider:
-      name: Entorno Inteligente
-      domain: entornointeligente.com
-    quality: 31
   - title: "Next Generation Healthcare Claims Processing Significantly Accelerated With Hyperautomation"
     excerpt: "PLEXIS Healthcare Systems, a leading healthcare payer technology company and innovator in next-generation digital core administrative processing solutions (CAPS), today announced the integration of SymKey® hyperautomation technology into their Quantum Choice™ core administrative claims management platform."
     publishedDateTime: 2022-04-19T17:05:00Z

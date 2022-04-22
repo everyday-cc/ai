@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-19-soundfuls-ai-powered-platform-empowers-new-future-for-music-creation.md",
+      "title": "Soundful's AI-Powered Platform Empowers New Future For Music Creation",
+      "excerpt": "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral.md",
       "title": "Videoverse offers AI tool to help enterprise videos go viral",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1155,58 +1206,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations.md",
-      "title": "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?",
-      "excerpt": "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
-      "publishedDateTime": "2022-04-18T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

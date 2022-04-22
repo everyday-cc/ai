@@ -2,6 +2,92 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-03-25-south-africa-to-add-robotics-coding-to-school-curriculum.md",
+      "title": "South Africa to Add Robotics & Coding to School Curriculum",
+      "excerpt": "The Department of Basic Education (DBE) announced that it will be adding robotics and coding to the South African curriculum. According to the annual performance plan 2022/2023 which was released by the department recently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/",
+      "originalUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2022/03/Coding-Kids-1.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/south-africa-to-add-robotics-coding-to-school-curriculum/?amp",
+      "publishedDateTime": "2022-03-25T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-baidu-to-launch-self-driving-taxi-service-in-zhejiang.md",
+      "title": "Baidu to launch self-driving taxi service in Zhejiang",
+      "excerpt": "Chinese tech giant Baidu Inc said it will offer self-driving taxi service in Wuzhen, Zhejiang province, on Saturday, as part of the company's broader drive to accelerate the large-scale commercialization of autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202203/25/623d6a6ca310fd2bec7e59fd.jpeg",
+          "width": 714,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-ai-image-recognition-market-key-vendors-trends-analysis-segmentation-forecast-2022-2031.md",
       "title": "AI Image Recognition Market : Key Vendors, Trends, Analysis, Segmentation, Forecast 2022-2031",
       "excerpt": "March 2019 - Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ...",
@@ -1064,101 +1150,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-ukraine-is-using-facial-recognition-tech-to-identify-dead-russian-soldiers-and-inform-their-families.md",
-      "title": "Ukraine is using facial recognition tech to identify dead Russian soldiers and inform their families",
-      "excerpt": "The Ukrainian government is using facial recognition software from the controversial startup Clearview AI to identify dead Russian soldiers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/623c81dda2e45b00195027e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-using-facial-recognition-tech-to-id-dead-russian-soldiers-2022-3?amp",
-      "publishedDateTime": "2022-03-24T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-brex-helps-zestyai-scale-with-10-million-in-venture-debt.md",
-      "title": "Brex Helps Zesty.ai Scale With $10 Million in Venture Debt",
-      "excerpt": "U.S. fintech company Brex, the company reimagining finance for growing businesses, has provided $10 million in growth capital via venture debt to Zesty.ai, a leading provider of predictive data analytics in the climate risk space.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-4315776ed596b0f7bf4505296c3c5cb6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

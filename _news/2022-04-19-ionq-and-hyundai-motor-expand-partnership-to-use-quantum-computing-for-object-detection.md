@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 646
         isCached: true
+  - title: "Hyundai Takes Step to Autonomy with IonQ Partnership"
+    excerpt: "The companies will explore 3D object detection, expanding their current work on recognizing road signs to include other objects like pedestrians or cyclists."
+    publishedDateTime: 2022-04-19T00:00:00Z
+    webUrl: "https://www.automotive-fleet.com/10168113/hyundai-partners-with-ionq-to-use-quantum-computing-for-object-detection"
+    type: article
+    provider:
+      name: Automotive Fleet
+      domain: automotive-fleet.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/fleet-forward/content/news/2022-04/ionqandhyundaiweb-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "RdkDJj6OHlz2LogYY0VBaScfWQDMcsYra8aANdLVZXleNS61QZ2EoulxWs13SnRkQmkRbdCmM+BKP1OMv1jeC3zEHnyLG6Ugthz5BRCKHfSKTB9E9uPHLIFSgaDySSgAc4V+dIMgS1vktvBvx2Z7kbgBmp1aXFCDUdagtsbR3hX3bHOgmMNcmWekTEflEz4db90XAW4q5k814mKoDakE2AP+UqkVvyZCzG1gvcy4wu2sngooMO0pR3nHeMcAZSFBEUF2xBQWRBvY3x7EkpopdDjsFOozB+zfZJ+GtNsxgrxpvqgB4+RP078EsXeZYMGsQujghVHi2OD1rIzNYlXWiEBgMgVMHoCn2aWcvnRGtb8izj89RnIs6jZrPlyfFZ7IyEOzqKnqvRqskHWmhJard6n8vyagkyjIkaJkb9oN/qK3RtN5YSlXjFHI9RW+40w108YGhRLnMZuoW9ty5GUlOTImWqS7ULo7tq5NrmVNSyo5ukHZvsoE+jEQ1/OSvP2auMUTZAtPgSnmo0u7p4cY3g==;9uLsxaIwkmvc5sirVNfzAQ=="
 ---

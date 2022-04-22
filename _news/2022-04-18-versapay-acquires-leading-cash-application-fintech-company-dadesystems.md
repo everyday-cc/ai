@@ -3,8 +3,8 @@ category: news
 title: "Versapay Acquires Leading Cash Application Fintech Company DadeSystems"
 excerpt: "Expanding Versapay’s AR automation capabilities for its 8,000+ clients TORONTO, April 18, 2022 /PRNewswire/ - Versapay, the leader in Collaborative Accounts Receivable, announced today it has completed its acquisition of U."
 publishedDateTime: 2022-04-18T12:14:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-toronto-3b35095173620da8509886993df4723c"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-toronto-3b35095173620da8509886993df4723c"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-toronto-3b35095173620da8509886993df4723c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-toronto-3b35095173620da8509886993df4723c"
 type: article
 quality: 24
 heat: 24
@@ -35,6 +35,6 @@ related:
       domain: khon2.com
     quality: 4
 
-secured: "p2bVZYe7y1+PqlSdiUKezAGojR/Fry1oFYcvYa+TKeBnwTCfnKaRYKtJEx3a0qKpVgH3GMTLi+IDuD2U0vOCnfbmyglfpbkkzSiTuLTURtnbmWkMoBDKfNrNVTkOjmqoGPuuBGycrohc42jnLZq9MQlXm+qj+BsLnbPmEsRzHQ7aEvBYqWleGzUUqG0D885/bIiLq2mHPfjHoqssxfC9SFjlhIuaKAAPWF3PJMv5XB1WP2shEQTE1peH8ETpkT7PebDksPtn4Xj6vQwMFxEyKbo/tTUOVS6xL/C0zpilb1gdWAQfPFpi31/3relS533r8//JMe1kE4xQIYhiPj0fH5rT4rVrcvrFl+ApEdKYkP0=;+pkwMvU5hjAVKDUXSVJaAA=="
+secured: "vt9VxUFxs69OIOSMzTZDoMKG3tqygfPhUfG7LaNl7CCICs9Q9q3quuAWQ+xBO9VQ4CqAY1NptKvIbR96C/kXowZ2AmhOdWADCwPrtJxp5XglukrOoGuAC79lAnhNZZH1LcZXDjxuusHx1Mj7CgD+Sx2r67ZqtlBw9IUMjdpNkDbK3fQzPLcX2CisuQKtt2IvMwcenZWFrdTj4jOawvnT2nJHfUAgcpR1zdHoY1LHR0LQIXFPFvomI4ygE8SncMFPe4g/z3b8oTMTEl/0f/Ku0YqAkNH3rI1JBszWqMIUwASuIiH4ix/G/aL01FVx8PC5hsWdPaWRz01w6LAmqBTejbLF5c6/5j+0sycNCNkLdmg=;gEnTcsczwo4W2vAZG3sQfQ=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "Fintech the focus for PolyU doctorate"
+    excerpt: "For that reason, The Hong Kong Polytechnic University (PolyU) introduced a pioneering Doctor of FinTech (DFinTech) programme in 2019, combining taught courses and a research thesis, to ensure students can keep pace with all the latest developments and apply key lessons to improve the operational efficiency and competitiveness of their respective organisations."
+    publishedDateTime: 2022-04-22T00:00:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 54
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2022/04/19/hero_image_1200x800.jpg?itok=ZHNgcK8k"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "5 key tech priorities for fintech leaders in 2022"
     excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
     publishedDateTime: 2022-04-20T09:44:00Z

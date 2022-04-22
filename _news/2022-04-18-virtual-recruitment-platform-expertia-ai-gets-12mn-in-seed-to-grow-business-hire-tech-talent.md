@@ -116,6 +116,20 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
+    excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220421NY31437/mendel-raises-40-million-series-b-round-to-expand-its-team-and-grow-product-offering/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 32
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
   - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
     excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
     publishedDateTime: 2022-04-21T16:23:00Z

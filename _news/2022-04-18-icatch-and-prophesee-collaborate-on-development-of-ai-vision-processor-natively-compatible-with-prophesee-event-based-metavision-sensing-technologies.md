@@ -28,7 +28,12 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
+        width: 2048
+        height: 1280
+        isCached: true
 
 secured: "wfmcCMywcIXKFZOqVnuw00On/bvEBIVqbP6hAAR92FVmDcj3i3743QVhUZToyrMg49GsBFAuGs2x7AyCd9MEh5QqozOcNjVB5fXmnXTO6hgLk6oghrzLu/zanIvlvoxGcaBQWBjmSBGaKaw+SN2KdQIhTuDBhpGEBPfrh7Z1AlStiNAdTRgFthZWoNNBQlzGn9/a4lC7rWtB2unv1Z/xesC75n9zratYrtY6tFfUGv39NSBMNb8pYyBRRpqu6Pom1NkBhgq6PpmpbWvs+SPQxSRdiZ08uAhJdtvk4yLTl/oBqMQAcHEV9NGY+vJt6G6LocJSIrXj6BsiKzloDq88e6xgjTv2rj0PBnv51ADgQAqC+8ZaN1ot3VehQAUlxut2CTjpdXEOUnE+S5/5nyuTtSIun3WMhaMCRJDgvAvGheB4nz8tF8YNkZHYH5uj6JMXxVVqTPD4bTsBMEQcL9+yE/a49zdYUjHUfQoPRmit86FnPhcaRxPNJKpzjtjp7oOcknk4RMp0ORC8xSrFOJFZcQ==;5az+h1wjjrQFWP+J1Veibg=="
 ---

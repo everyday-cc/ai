@@ -1,23 +1,23 @@
 ---
 category: news
 title: "MegaChips Focuses on Edge AI with Custom ASIC Solutions"
-excerpt: "MegaChips, the leading custom ASIC company in Japan, today announced the launch of its AI Partner Program, which allows companies to integrate powerful AI capabilities without requiring in-house AI experts,"
-publishedDateTime: 2022-04-21T23:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-megachips-focuses-edge-ai-with-custom-asic-solutions-/2022/04/21/9587706.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-megachips-focuses-edge-ai-with-custom-asic-solutions-/2022/04/21/9587706.htm"
+excerpt: "Japan's Largest ASIC Company Expands to U.S. Market For systems companies, some benefits of the MegaChips AI Partner Program include a dedicated team of engineers that work collaboratively with customers to identify the best ways to implement desired AI functionalities,"
+publishedDateTime: 2022-04-22T01:48:00Z
+originalUrl: "https://www.abc4.com/business/press-releases/cision/20220421SF32931/megachips-focuses-on-edge-ai-with-custom-asic-solutions/"
+webUrl: "https://www.abc4.com/business/press-releases/cision/20220421SF32931/megachips-focuses-on-edge-ai-with-custom-asic-solutions/"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: abc4.com
+  domain: abc4.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "b8jCpi28/NrwczVRlikCMWJzCqvQFEW71MEKi39ZGzqkBr6/arQQbQALzGZP8QM7TwJPyG2eENxALm1p5qWIxI23YtlaJxhoyt+mHDXe8mp6ycO3aMzPwsbBphqypTRVCG3Nf98YsasH45v1i54ka1KVK+vhrbutxxsUn0mku5dLLON+Rib0mhhmIg+QwPWAeEz2vqA+Hus6fsTBteOaARpy6c4bIWjpf+SziHd787s4FiCnfqpPQcVcWvXh8q8mEBH1WOWYQPBkz0LYaAGrE/l/JrZAWvkmW4TgDM7FGVHZ/VDdYkBCRfSWKIoV4bP+5SRK80dPwdbQFgw3l8/gqfyBtZL9Us5CFw2zbl0BOUg=;rby6/yWVjUd7drHnOnRuTg=="
+secured: "MyaHKhtWENyJxL3YHxwkICOfc1Nn2Bx7AlB45UvGe3ieAGXvsBP1AFQx2hF7sWQ+csY78matOepeAPKZxJqajjnJbDrwTm7YzXEt1JflC8ZYX9QyB3XYGWg334dsWq5Zjrvi0gVEG8RyxzkC0ttd3RGox+tzqkpXqOHJVYvoIR+VF4EZDE5ydk+/MPnKtkCuML+7jR0JrI2QZBWRRXiTbpJdg23i/DRcYwYa9UBOgWQRTSX7uLk37edSyEI35uQjjs0MO977gBrdquY5Y5JGWR9uC6ytKXq0FQIiybROhqxS0ANrojvM0BfEdG5q3etOPujWqv85DfysCsiIkUkQRitUiUjvf2YWYCjTy8hzqSM=;/mf61NJkulcvWXmu2Y4VjQ=="
 ---
 

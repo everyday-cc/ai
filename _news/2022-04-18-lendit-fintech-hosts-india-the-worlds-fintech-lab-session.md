@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 658
         isCached: true
+  - title: "Fintech the focus for PolyU doctorate"
+    excerpt: "For that reason, The Hong Kong Polytechnic University (PolyU) introduced a pioneering Doctor of FinTech (DFinTech) programme in 2019, combining taught courses and a research thesis, to ensure students can keep pace with all the latest developments and apply key lessons to improve the operational efficiency and competitiveness of their respective organisations."
+    publishedDateTime: 2022-04-22T00:00:00Z
+    webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 54
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2022/04/19/hero_image_1200x800.jpg?itok=ZHNgcK8k"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "James Phillips to Join Fintech Stripe as President of Financial Services"
     excerpt: "machine learning, and the internet: companies are building stronger relationships with their consumers, expanding internationally, distributing financial services, and automating their supply chains. Stripe is ideally positioned to serve as the engine ..."
     publishedDateTime: 2022-04-20T15:30:00Z

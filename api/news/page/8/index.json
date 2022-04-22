@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-13-adding-multimedia-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
+      "title": "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
+      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_75a2aba0-b7ed-5ac5-8cc2-0c4e33affce3.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_75a2aba0-b7ed-5ac5-8cc2-0c4e33affce3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/6f/e6f44cc7-26b6-5c6c-b9da-32e5ee52d2aa/6255d44c9aa8d.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-neptuneai-raises-8m-to-streamline-ml-model-development.md",
+      "title": "Neptune.ai raises $8M to streamline ML model development",
+      "excerpt": "Register today! Neptune.ai, a Polish startup that helps enterprises manage model metadata, today announced it has raised $8 million in series A funding. Whenever an organization experiments with ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
+      "originalUrl": "https://venturebeat.com/2022/04/12/neptune-ai-raises-8m-to-streamline-ml-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-ai-hardware-pc-gaming-rig-maker-partner-on-powerful-aiml-laptop.md",
       "title": "AI hardware, PC gaming rig maker partner on powerful AI/ML laptop",
       "excerpt": "AI hardware company Lambda and PC gaming rig maker Razer are hoping to steal some thunder from Apple's M1 Max-powered MacBook Pro with a new laptop designed explicitly for machine learning engineers.",
@@ -1068,92 +1154,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-machine-learning-models-leak-personal-info-if-training-data-is-compromised.md",
-      "title": "Machine learning models leak personal info if training data is compromised",
-      "excerpt": "Machine learning models can be forced into leaking private data if miscreants sneak poisoned samples into training datasets, according to new research. A team from Google, the National University of Singapore, Yale-NUS College, and Oregon State University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/04/12/machine_learning_poisoning/?td=keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/12/shutterstock_personal_information.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/machine_learning_poisoning/",
-      "publishedDateTime": "2022-04-11T19:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-aint-nobody-in-it-watch-san-francisco-police-stop-of-self-driving-car.md",
-      "title": "‘Ain't Nobody in It:' Watch San Francisco Police Stop of Self-Driving Car",
-      "excerpt": "A video on social media appeared to show an ordinary traffic stop by police — until the officer realized no one was inside the self-driving car. See the video here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2022/04/cruise-car.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/driverless-car-traffic-stop-san-francisco/3641284/?amp",
-      "publishedDateTime": "2022-04-11T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
