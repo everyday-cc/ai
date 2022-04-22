@@ -55,6 +55,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Guardforce AI rolls out robotic services in the US starting with New Jersey"
+    excerpt: "The robots are deployed in office buildings, where they are tasked with disinfection duties on a trial basis to provide the company"
+    publishedDateTime: 2022-04-22T05:48:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/980228/guardforce-ai-rolls-out-robotic-services-in-the-us-starting-with-new-jersey-980228.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/980228"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980228"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 55
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA4LTA4LTU1LTE5LThlZWYzYTJhM2U3ZmY0YzQzZjQ3ZDkzYmI5YjE2ODhhXzYyNjE0NWJhMmM4ODguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19"
+        width: 1200
+        height: 740
+        isCached: true
   - title: "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of TASK, AI and VRT"
     excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The securities litigation law firm of The Gross Law Firm issues the following notice on behalf of shareholders in the following publicly traded companies."
     publishedDateTime: 2022-04-21T22:50:00Z

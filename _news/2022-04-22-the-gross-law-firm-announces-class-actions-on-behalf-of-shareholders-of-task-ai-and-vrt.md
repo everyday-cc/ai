@@ -70,6 +70,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Guardforce AI rolls out robotic services in the US starting with New Jersey"
+    excerpt: "The robots are deployed in office buildings, where they are tasked with disinfection duties on a trial basis to provide the company"
+    publishedDateTime: 2022-04-22T05:48:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/980228/guardforce-ai-rolls-out-robotic-services-in-the-us-starting-with-new-jersey-980228.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/980228"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980228"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 55
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA4LTA4LTU1LTE5LThlZWYzYTJhM2U3ZmY0YzQzZjQ3ZDkzYmI5YjE2ODhhXzYyNjE0NWJhMmM4ODguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19"
+        width: 1200
+        height: 740
+        isCached: true
 
 secured: "0B/MK2DtNdA29q5WRbb15vWL6WB6bCLo7RZ3qZagt9ToXM/Dplhpzfj6dnkF1OtjCilKUjxhtXjuJ5OZLWTRU2oNvWKQOLTxI4JBHcOgpXOv/+MFf5hBU8sfj2Me+Y03PWfWY6fNejlokQcAuHD0RQxMeeCCRC0/1tUyp/Owp+8mVsjGmfzLSKZiP8yD40aqMcmEno48ysQS8sByCkpw7JUbH9rAOVaPkBcXAVxUgjL2I/D3qXNbK3d/G82uWGJbdyK1OmXDVjMSztAfHAXj7/RSFDv3cvjLC1vsk1cCxQi/CdaFzDRaNYL+tXaYS+p5/u+BlLWO5RpdpQNjCp0RBUtMZOAw5zMXDxyo41RacbO2anv6rhKhS0WV6cYUWGvuAfGxGCtn6Hk7sncvCflfT99RgEJsTSwKodCE7MfOAvkXUZfrKXH1cEaJf6xPzMMIeceTJioI5i3LmciWJNEPrmxFN8FtLG8929E8RUkyy1ExsqzhPygcLPFqnrRAL/xZrZtktaANMYalTZ5k0BVHdQ==;TjT2cllNfRAq2NlEXqKlvw=="
 ---

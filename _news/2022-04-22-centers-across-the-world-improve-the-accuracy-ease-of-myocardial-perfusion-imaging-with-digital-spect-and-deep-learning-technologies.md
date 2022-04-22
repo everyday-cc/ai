@@ -1,40 +1,31 @@
 ---
 category: news
 title: "Centers across the world improve the accuracy, ease of myocardial perfusion imaging with digital SPECT and Deep Learning technologies"
-excerpt: "TruCorr performs attenuation correction using a Deep Learning approach with data from the patient's SPECT scan. The application eliminates the need to scan the patient in two different positions ..."
-publishedDateTime: 2022-04-22T01:49:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220421FL32985/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-spect-and-deep-learning-technologies/"
+excerpt: "Spectrum Dynamics installs the cutting-edge methodology for attenuation correction for its D-SPECT® Series digital camera that eliminates need for CT transmission scan and multiple-positions scans. SARASOTA,"
+publishedDateTime: 2022-04-22T00:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26754709/centers-across-the-world-improve-the-accuracy-ease-of-myocardial-perfusion-imaging-with-digital-sp"
+ampWebUrl: "https://www.benzinga.com/amp/content/26754709"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26754709"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-related:
-  - title: "Closing the technology and architectural gaps of data mesh"
-    excerpt: "The introduction and socialization of data mesh has caused practitioners, business technology executives and technologists to pause and ask some probing questions about the organization of their data teams,"
-    publishedDateTime: 2022-04-20T21:11:00Z
-    webUrl: "https://siliconangle.com/2022/04/20/closing-technology-architectural-gaps-data-mesh/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
-
-secured: "wcJQa5eZQzM5o+wYgqE5Gqo/bqijZC/ewzrMngwOBNxerS+h19gkT8fBSP8s4omV6AgFkHh6572zBqVk2GciYcZ6HzC0HYB0FE3/scKIFNd3N2xnXzE0v2c/lACchv8apaYPuJbVput6pdwjuVAHbGK33NUP9QnQNgSaT3wkiPhiPk6HfwNq7vFQA7DKNlmHD9MKZ/9bI4cTbE60NZeNbps+zord3jV/WRqmmQ+dClf7nLdpPxAOivGIOBl0h7XcKiLYD6HkHXNgpAO8dsMhDEVd54QhKgfrAqDyMCeppsw69hvsbA8zrnQuqmckwuapAxosZnDJ4VyCVQR40F08loF5opzmF0/w5aTZQ+IxsrA=;zlxDeiCXSZPjrCgRt3fdtQ=="
+secured: "SDNMoPHHt7u++JrGttv+dNryS49/5j9MdxLIYGF/PHkvGeR+guqoF5b2JCB5GZbNPaVfXk8PsN1KrbbqKURjcTablis5zff4N91qP1KQH17+EmsQDHLZ8yxQAmjZtnwn6GERkEKluVM/6e6mjfeiJQRI9qqoL2x0bCaTVfdXdnoXef8Hc0SUhTp+GlmOp1ba8QMPX4wn7vPR+RPMxDeRldVJEXEyionr2XAOZvWMDCPIOLzouaWk4vtSgU6YJ1B/PmPlo8ySCIolO3jKNOHJZKnCgyxDkUa4JIik+gvjkMHwNyRTV4csquWLPcwKnw2s6QlUE5VXDp0yqcKfjy2KO7xO8nZ6462NehnNu6oO31Q=;YFc+bpGkjCv+OjBowHdlHQ=="
 ---
 

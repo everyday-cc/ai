@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Deep Learning to 'Blow Up' Famed Fluid Equations"
-excerpt: "For more than 250 years, mathematicians have been trying to “blow up” some of the most important equations in physics: those that describe how fluids flow. If they succeed, then they will"
-publishedDateTime: 2022-04-13T05:00:00Z
-originalUrl: "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html"
-webUrl: "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html"
+excerpt: "For more than 250 years, mathematicians have been trying to “blow up” some of the most important equations in physics: those that describe how fluids flow. If they succeed, then they will have discovered a scenario in which those equations break down ..."
+publishedDateTime: 2022-04-13T05:20:00Z
+originalUrl: "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html#!"
+webUrl: "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html#!"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: RealClearScience
@@ -18,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "T/juTPJFFl/0GrrHGwXyCgOJw/WYo518/67M8YrGoKHOy71SdrIX4af66AEpWzMjYVAvcdN9SGeLcj/4uyRmaMnGpUXe/VVa1Xx5plAhd8CzcH6bfvKFWtpeXzQ/wwpIRO1ieENHmyQ3bMqNwVgf9DTgH0+3f2p9ryTIYIB/6/HiQBzkQ+u6PP+cPxuInX2vx1+SF2Xghk2RuzO0MjOSruDiY+0jL0/GjHQE7ScRuSBACminlWlGFsXjj4bvvKlel6J5eeuXB24a6+vvlA9832HJPlngVG2dms/+tpeZZvMB6Merw34e1Lsn4PsqdFH/XEy7ANCu7fygoaOWRrkUpMZxV7QdzAevX+elq8T9o/IEpZVeCco5HERk6zGj11DSf+83rY2+13NVUlvgWyHKtG/oD4QRRQBWKl+QBWhYp5FoFXPf4cH73BK81yb1j81DerY1cgnH/RVD2INCjXpe2Eq5vb0iKfXSMZ73afIjIa5LJ9OP/nKjs3KWJmk9cqpHh8vkPQu05bFruylHOnxHhQ==;djv+u79dzkEfVOEYf2BS5w=="
+secured: "FES2qSaCijltta8mqzYgE50YtWsRROX/8hRWuWpLJQ5OmMy4+Qo5hz/FWFvjFst1V3x5xDj4bfI1v6yt+eP35yiTFcdHILhSqZiWt2ON09RDEGsptNT06TcuJze1QtT8OLSoX8x8v/M+IVRfasb/6ZT9PluuRbIPOT+BnOqAaT3NNcDyIU17tzC+0MZ8Ij+OjDoDBOXH9CzxdQTwF26vxjMawhJqew2rinOMWg4OeV6yNFGl27Eg1NH9/O9ksEnAZAPq3l+kuGP900yvvL0KW4sn4pJ6ybP0jKmPR40HiZqbVknA4bYLQ0PrQTnRit8NvOPry+KWrAN4LPAuhPmobW20N7CeSAmtSiRC7eLGCRA=;6x4o62qwrJ4U1KKzjVLq0g=="
 ---
 

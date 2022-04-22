@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kitv.com/news/local/state-plans-to-use-facial-recognitio
 cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-plans-to-use-facial-recognition-at-honolulus-airport-to-speed-up-travel-time-for/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 576
     isCached: true
 
-secured: "2GcoBjKwMYnuX9OgnFS79L003Ga6fdFMug+39JelfWxY6CiW6drJqg7t1keFrz9blqtjN5BFMCvQgZDrYFXAzDXYPcwhZQzTxbt9i5//gdfbm7N044bYHd4zZfDR96ZmIbduOesj6L/fvUPj3VbaGlx854Ks7Y3Hvx0AMu2L07OTM19HHgQoqJV6YndWjXDzUWCk/FWZ2p/ImiOjdyURUrMVOw/+UrFw1KcNIJCzEJX2Bs3UIKm9C2ZDEXTFcSt3QPLMfNpyqlxnh8/m7PQBlL3n8q4W9E/apdqRyBZZUNAVa8hGK7SneeIS3a5sZZVlb+Cfh0Y7FKydRk4ZNsoesMgvy8qL2p4jXEvrP96PVSs=;gBt2UsY3jiaMOPqIY/X2oQ=="
+related:
+  - title: "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors"
+    excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
+    publishedDateTime: 2022-04-22T04:30:00Z
+    webUrl: "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html"
+    ampWebUrl: "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
+    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 58
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg"
+        width: 640
+        height: 360
+        isCached: true
+
+secured: "V4XJdnYWHU7cD5EbF7BIEbE2p2C+XTkGUAkrStVx1RIzqammNhTokjiUEryU1DdOEaHt17LUsB0mKodpTJWXYrWtUXZ1tU4SBJ4Wq5bxrQErbPGU5lkqKVLPkMkhu9oc9CNGeGN3F7mdu/bW5IH3PdmwZPrkCOtVKaUVta9rfDfsnSjbqXHTq75rD+NElY4BkDOZJUW6vOv8z3KxO1YyfRYwAhcNpp90YO1Y2ZihKsuB9DPguuu94F9LptuDgACLt0y3QlMON5uB4M7PFjt3NuhDF0ErEDXhXhQijDqY8yvY11gY3M6hOl0ariQHa0d0VJrV1NDunjSTN685Gg3NnU670txzCQ0CYd9qXvnROt0VuW/JU3fyblM/uEc6ahdwRMO9jPy1u7SqXaI8yegoWfZh23d6Hi7lpVvQ7oYUvo8Ui6V2TKMfMQ1pVA9EhyyFiwVJzAJUcH/ZPttE3/iylWzvHI5e3O9HejcGEcA3rPyRPQ4WD2eLdUpxjdL0C0dwGJcgTTNyBzeLJTzfgCkqsg==;2mcnXGfA9i9111lRbSZ8Cw=="
 ---
 

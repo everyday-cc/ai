@@ -88,15 +88,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
-    excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
-    publishedDateTime: 2022-04-21T13:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mendel-raises-40-million-series-b-round-to-expand-its-team-and-grow-product-offering-1031371722"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "News: Virtual recruitment platform Expertia AI raises $1.2 Mn seed funding"
     excerpt: "UK-based talent investor Entrepreneur First has doubled down on their previous pre-seed funding into the start-up last March"
     publishedDateTime: 2022-04-19T07:35:00Z
@@ -110,6 +101,20 @@ related:
       - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
         width: 990
         height: 550
+        isCached: true
+  - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
+    excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220421NY31437/mendel-raises-40-million-series-b-round-to-expand-its-team-and-grow-product-offering/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 32
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
         isCached: true
   - title: "Virtual recruitment platform EXPERTIA AI gets $1.2Mn in seed to grow business, hire tech talent"
     excerpt: "With the COVID 19 pandemic pushing literally everything virtual, recruitments and HR industry in general, also sped up their transition to a virtual environment. The largest of companies have successfully onboarded candidates through completely virtual processes,"
