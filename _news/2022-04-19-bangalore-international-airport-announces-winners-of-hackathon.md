@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "IIM Bangalore to launch AI for managers programme in collaboration with SAP Labs"
+    excerpt: "The AI for Managers Programme aims to equip managers who aspire to become competent decision-makers with the knowledge of AI and its components."
+    publishedDateTime: 2022-04-22T09:11:00Z
+    webUrl: "https://analyticsindiamag.com/iim-bangalore-to-launch-ai-for-managers-programme-in-collaboration-with-sap-labs/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 32
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/11/chip-t-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "ebJPuI5TjP9FBiilqKBvTi3hA4iM8LDmFKmCk3IHGATbn3W58rrmrXDX+EkLOgwDB+5RpbrMl4l0dx6BgJggRsE5LcGYzK7Y8FO4xuirh7RKqonqD5iesWAaNb5LWf5ThLjJanGSVeHDBoaSOXATAc8PPvAF26w3wVGKF/C6KexzCmxzv9fo38g2W6iYn3u2J4YF3o1Rti0kYrD/7+u+MDi0jHk4FlKc2jvMbUCEfp5kUahN3bHnlBaz1NIIAQ8aWa+r+H9LwwbURy4QWkJf0fO4Xjtm33RE8b5F/XdBlxiu49a3OarLkECkWDh1BjLm5VV8isrg4zCeej4z8qO74vEoHJWUNtFWwN87xEGN72PfDUedx6mjS7Ovjg1c6h2uArY5LS+x2/PAlYeqMbV05gBb/R2GJQyJpqlgELtgRL/ZNr+dUX4xNg3uChwNsXStbAuSaPjfxtKGwnzDgDfMjJO7OhxzlL89MF0jiSdEd2mh/cnElYk1P7tPklSynK/COMoerRI2GFw3R5zhdld70A==;RDmY6kcg28njjr7QcCU+DQ=="
 ---
 

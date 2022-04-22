@@ -56,6 +56,20 @@ related:
         width: 1945
         height: 1112
         isCached: true
+  - title: "Artificial intelligence hiring levels in the retail industry rose in March 2022"
+    excerpt: "The proportion of retail companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 46.5% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/artificial-intelligence-hiring-levels-in-the-retail-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 48
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/04/UK7It-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "5 ways AI Will Change the World"
     excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
     publishedDateTime: 2022-04-19T17:51:00Z
@@ -69,6 +83,34 @@ related:
       - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the power industry rose in March 2022"
+    excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year,"
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.power-technology.com/uncategorised/artificial-intelligence-hiring-levels-in-the-power-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 33
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/04/hfbXH-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the apparel industry rose in March 2022"
+    excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 68.8% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-style.com/features/artificial-intelligence-hiring-levels-in-the-apparel-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 32
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/04/c2Bx1.png"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
     excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"

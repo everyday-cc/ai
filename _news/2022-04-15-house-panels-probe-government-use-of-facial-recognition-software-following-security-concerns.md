@@ -3,15 +3,15 @@ category: news
 title: "House panels probe government use of facial recognition software following security concerns"
 excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
 publishedDateTime: 2022-04-14T19:47:00Z
-originalUrl: "https://www.wgal.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.wgal.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.wgal.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+originalUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 
 provider:
-  name: WGAL
-  domain: wgal.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 677
     isCached: true
 
-secured: "8dFAJuf3Z8sWWoMIGmNZJGPLybepm8Pb37/YUNuRjIsFUeUETz7CoIF/YifGs91XVsFuv1thDJwe/gEokKJiWPI6Q5i/0tuZvTXrZfny0N+WLWN02yygPwTF2FxmrJNKI0eqTNGc3tafXQ5/sN1cebti0NJlemACQvGqf4i4irtFFsRV1W8ynbcrKNS5y9gmgHVLDlRfvQ62Qp8puym5HR99VSps+vbHIXsRWvErgSc8FQUcGQAZK6gb2wMIEBGUgwRyjD+HOaVIvT0LCg2/D4yLwguPg+GzYs4wA7MHL98yL4B+akVmIk6p3cfZ13Zwr394gilReWlUqNUyi7SGJ7SZ5ww97NddBWvZR5Ue3Gc=;vHbjKqdlOl8l7YLj0TozfQ=="
+secured: "AocuLMo1T/XxXsqiy0UkggD3Sfl3stfl+zztnMyw8YWeyJKGzmE5TsvhYGxx/ZXZRk0Zp83hxq1ZMJfpV2aKWYyYT56ejRS2F0VWKgEivCNdAGcdQA6cbnmjmSf7bj6SgjVsecTZx3Y6DN9k7JJhmxfaJvlGD3fL5xHwLSobZnjlVXj/g5bOzD/4QuT9mKEo1LuQ2CHL+gpoFppu43j4BqZjstDgW8UYKnpDBVZZp9CCsC5nPkSDYMli6n6QbBcl5yD1OjAL34HjL23/4QA6QW0Bn4MnjcdNrTDPETL/7MCTtoV5fJkhQ7cjyfH8CQMbGoH2VJXJUXrnFDraTTZNYx2zgdCqVcG9spKBLFXNAhc=;MPOmI5SbiBY3M1C/GziFag=="
 ---
 

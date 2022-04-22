@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Detox Treatment Cleans Up AI Chatbots' Language"
+    excerpt: "Chatbots using toxic language is an ongoing issue. But perhaps the most famous example is Tay, a Twitter chatbot unveiled by Microsoft in March 2016. In less than 24 hours, Tay, which was learning from conversations happening on Twitter,"
+    publishedDateTime: 2022-04-22T09:05:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/detox-treatment-cleans-up-ai-chatbots-language-360855"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/360855/detox-treatment-cleans-up-ai-chatbots-language-360855-640x360.jpg?cb=20220422"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Don’t Ban the Bots: How to Make AI and Live Commerce Work Together"
     excerpt: "AI vs. live commerce is also not an either-or proposition. Rather, they can and should be complementary. Every interaction can be converted into text and image data that can aid in understanding the most common queries and sticking points for customers."
     publishedDateTime: 2022-04-20T15:38:00Z

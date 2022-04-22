@@ -9,7 +9,7 @@ ampWebUrl: "https://www.si.com/college/nebraska/.amp/baseball/nebraska-softball-
 cdnAmpWebUrl: "https://www-si-com.cdn.ampproject.org/c/s/www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 area students earn national art recognition"
-    excerpt: "A pair of local students were among those honored with national gold medals in the Scholastic Art and Writing competition."
-    publishedDateTime: 2022-04-17T16:00:00Z
-    webUrl: "https://www.hollandsentinel.com/story/news/education/2022/04/17/students-holland-sauguatck-earn-national-art-awards/7330202001/"
-    ampWebUrl: "https://amp.hollandsentinel.com/amp/7330202001"
-    cdnAmpWebUrl: "https://amp-hollandsentinel-com.cdn.ampproject.org/c/s/amp.hollandsentinel.com/amp/7330202001"
-    type: article
-    provider:
-      name: Holland Sentinel
-      domain: hollandsentinel.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/15/NHOS/6e40be47-1e00-4288-a40e-32fd8d2fcea6-tori_lynch_hps1.jpg?auto=webp&crop=1364,768,x0,y210&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Nebraska Softball Getting Much Deserved National Recognition"
     excerpt: "It didn't happen all season for Nebraska women's basketball, but with just a few weeks to go in the regular-season Nebraska softball has entered the top-25 rankings. The Huskers are No. 21 in the D1Softball Top-25 and No."
     publishedDateTime: 2022-04-19T20:34:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.dewittmedia.com/wp-content/uploads/2020/07/newgoodrich.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Global Emotion Detection and Recognition Market (2022 to 2027) - Growing Partnerships and Widening Ecosystems Presents Opportunities - ResearchAndMark"
-    excerpt: "The \"Global Emotion Detection and Recognition Market with COVID-19 Analysis, by Component (Software [Facial Expression Recognition, Speech & Voice Recognition], Services), Application Area, End-user,"
-    publishedDateTime: 2022-04-19T23:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=649817"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "Pe4QRlHsx+/mhspC0xgI4hhbwtMlxnc9ccWf4jAj5is5QEAcvjKE8pd5RFurjhjAzqL/3GeaXqsCxOeNrwiCH0REaZIv7Bj3Ck19j5vJ9aDRXJdtU43PWeXmQzfXGax33ZdrWxSKv+6ExXQOiOHiGlgGfB/yQYY95dC9QWzm2PYwhT22DQAGlTEfsUu0NQVVTwsYun2BcyPsrOvUhWb+XUy+m2jQMcfWKRN2UeO7rOLO2HA6m61+7JV7iNBdEBSFUm+BnZkHDW4c6HucsoG1DDPtUo2iVXWTxlnLdIUEqX1x/To0DHL56Vq2CTeeY0LmIUKTn+Qpkd6QNcWavUDJEnj5w+kav6LHNKQFCsJrbejhDQiIEw+1rdbwPyvgAe4Pnl8KyDIa8Z1Q6Xbfr8qWtadHR75QBjPRKqLb4TitL7cA5dDVsPMXpRL1TKNW6PHhOu25QWBjIu+Pa8XupGXsbVEjPypXnXdKesgM0uKHOml2WtTG2pcTu1g4mUlsyISzgtMGOMUZ2OmRaFPEZrN8uw==;sjMCWYUabNSJYduUacsB3Q=="

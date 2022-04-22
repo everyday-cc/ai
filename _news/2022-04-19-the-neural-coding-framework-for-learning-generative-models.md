@@ -58,19 +58,14 @@ related:
         height: 1620
         isCached: true
   - title: "AF2Complex: Researchers leverage deep learning to predict physical interactions of protein complexes"
-    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study by Georgia Tech and Oak Ridge National Laboratory details a computational tool able to predict the structure protein complexes – and lends new insights into the biomolecular mechanisms of their function."
-    publishedDateTime: 2022-04-18T13:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949934"
+    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study details a computational tool able to predict the structure protein complexes -- and lends new insights into the biomolecular mechanisms of their function."
+    publishedDateTime: 2022-04-18T16:06:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220418093952.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e8e90acf-d6a8-4d2a-8be0-69496a151056/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "uVuN9eSNx6csh2z5laoXruy19vO1S59FS4m7z0y+jAaqhE4SZ5IJVXr06xIUUzUO2fBodaFGi5SPQ5o2Y2fA2csKEY2+leQ2iNmsPP6l2j0lTUanHPsV7zss/k+epWbDAPPuoyG+7P9xdjN6esPWRd1iRQovUbOppvLy468wqshOwE3rpGAILhYdAlR8cVRpBblYa6g5sn7lM5wcTHaHv4Bt+ohWGqGAxUFd/PF2nVmlWfOgLBNjzSY4Ea6CvM0mUbb9D58UobtIhcAPG2+1h6S5fnrgBNrgChi4N/AXTy257AquYa0lBxRFwKppqyTN2AJip3WsCfTZx77Z9THUEaMdVnDwGYOHgGiwE3NfMqQ=;dfUeq9l3pmS2boaxMOqLmg=="
 ---

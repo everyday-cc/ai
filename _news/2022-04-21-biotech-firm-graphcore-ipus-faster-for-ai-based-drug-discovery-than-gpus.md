@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/21/biotech_fgraphcore_ipus/"
 type: article
 quality: 73
-heat: 74
+heat: 75
 published: true
 
 provider:

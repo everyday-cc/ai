@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/04/19/ibm-buoys-investors-strong-res
 webUrl: "https://siliconangle.com/2022/04/19/ibm-buoys-investors-strong-results-bright-forecast/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Software and consulting boost IBM results to start the year"
-    excerpt: "The tech giant saw revenue rise 8% for the first quarter of the year, as demand for its hybrid cloud software and consulting services spiked."
-    publishedDateTime: 2022-04-20T12:22:00Z
-    webUrl: "https://www.cio.com/article/308787/software-and-consulting-boost-ibm-results-to-start-the-year.html"
+  - title: "IBM buoys investors with great results and an optimistic focus"
+    excerpt: "IBM's growth narrative gained steam today as the computer giant reported first-quarter earnings that were somewhat better than expected and an encouraging"
+    publishedDateTime: 2022-04-20T13:37:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/77398/ibm-buoys-investors-with-great-results-and-an-optimistic-focus/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 4
+      name: techzine
+      domain: techzine.eu
+    quality: 24
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/IMG_20190227_164007-2.jpg"
+        width: 3413
+        height: 2560
+        isCached: true
 
 secured: "mq90YbEhMI3hfAxExksvBXnsCVsJqR3E9M80viMYPt7VphcqYMtzEUzj1jkJJp75T9UoouMyfVWGPtuMj0rg7mHJ65Ia+fxMjhzWK1J/OOFdKt856YT9Oj+TluzNTVYilxCxJ5zjQm/PTwtvHoBls8ULKxTZ+a8t4X/ykosdY8HCFVpaRDiKPP5hA13R8Mh0uakkRJ6qjwWzRupCmvc1NibTZanIcV4d6AyUs3dCAv6/c6dbV4pL7T4Yzm8ObfyMAiu4yboCxUJmVRAnwZybpAucKiyFCPXyygTPOrEa7PUhbDIOmpVM9Spia8YMID7V184Xh8iHq6W5MIZ5cAYwWWeD2iPkkSzQPexvMcnSHRnf4g7afbcL+WUKszW4UJUKu7qdOuHtO/7HxsCiT4Yr063O+eoOC/pzo9haoM6WxmEGM8DVjhtcxWv6utoGBJuh0UN+XPsic/6FJwFrTLzs85XuOankAnPzo48FARQiCqO9rl/zAxiqdHRn2SbWO0bxN6llEKCE2LdruUwUKLTxYA==;19pFZl+bivwi7SBSzWdgWw=="
 ---

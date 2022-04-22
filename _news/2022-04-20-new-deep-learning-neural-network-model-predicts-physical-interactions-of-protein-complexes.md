@@ -44,19 +44,14 @@ related:
         height: 1620
         isCached: true
   - title: "AF2Complex: Researchers leverage deep learning to predict physical interactions of protein complexes"
-    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study by Georgia Tech and Oak Ridge National Laboratory details a computational tool able to predict the structure protein complexes – and lends new insights into the biomolecular mechanisms of their function."
-    publishedDateTime: 2022-04-18T13:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/949934"
+    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study details a computational tool able to predict the structure protein complexes -- and lends new insights into the biomolecular mechanisms of their function."
+    publishedDateTime: 2022-04-18T16:06:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220418093952.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e8e90acf-d6a8-4d2a-8be0-69496a151056/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "The neural coding framework for learning generative models"
     excerpt: "Brain-inspired neural generative models can be designed to learn complex probability distributions from data. Here the authors propose a neural generative computational framework, inspired by the theory of predictive processing in the brain,"
     publishedDateTime: 2022-04-19T09:48:00Z

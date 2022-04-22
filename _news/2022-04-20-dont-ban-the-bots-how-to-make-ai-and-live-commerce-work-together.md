@@ -33,6 +33,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Detox Treatment Cleans Up AI Chatbots' Language"
+    excerpt: "Chatbots using toxic language is an ongoing issue. But perhaps the most famous example is Tay, a Twitter chatbot unveiled by Microsoft in March 2016. In less than 24 hours, Tay, which was learning from conversations happening on Twitter,"
+    publishedDateTime: 2022-04-22T09:05:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/detox-treatment-cleans-up-ai-chatbots-language-360855"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/360855/detox-treatment-cleans-up-ai-chatbots-language-360855-640x360.jpg?cb=20220422"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "TJh3Cb60tNqpYzwy3sRgRQ23/h/My3kpti9Fm/vch2kbL4JNrTVGzXYrEgNT590s68vwflGPMqfL1xYUQcETeyapLdXdxki1X+ENRARg7okwwzonIuh2W0rVL8ZXMxfhmfLPOHF0cp1hdV63HUiMPiXpNmFsNI7czzalF8METC61Ej9WHBZUsyekOsFLl4SBc+T1R8FX0uMcleMpDylriIr8mcUIQbTRqXSo29vEilNfpTxbSzDuJKUu9Je4Q5B1Z3hUVDc07S0rGQWQZBEzVzLg+lUDg6acmOtEp+KU47+Tztvb9s60UJulQPOImZ8Jk6iOMIVWvm3ouo1mytWXE7NGxiiI8KO1O2ayL6ZX1Bk=;S6YkCliYKmRTvmwYIbzIOg=="
 ---

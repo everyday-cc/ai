@@ -52,20 +52,6 @@ related:
         width: 619
         height: 428
         isCached: true
-  - title: "Asia Big Data Analytics in Education Market Leading Global Companies and Regional Average Pricing Analysis by 2030"
-    excerpt: "According to the report published by Allied Market Research, the Asia big data analytics in education market was estimated at $2.89 billion in"
-    publishedDateTime: 2022-04-19T16:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/asia-big-data-analytics-in-education-market-leading-global-companies-and-regional-average-pricing-analysis-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7e670cf41a3dcdeb7fb128aa76e658ce5490ad41-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "H1IGKjrX/1nySPRUnXBeSySFNfxkHXt6xoOvzYqzDE2jR6ccNVhebeejW5bjFnasZ7k6b1RAYpxuxtBzk2h4ngMAr6hNB6R8OVlvrhZ79aj96ozBMKApp3U9SnbOD/YnJdE3DnQmSTO+dEEDYiqe2KFW/sdrJJHe6zFX6lDe/vUY1tjLcArwBbPt+QKsPFcISn1VHVqpq/mDxWZ6MQwh1VuHGJx93DR6xo5/r4rFb9Wj8/ys/fbgmHN+Nl8Zr5VPlw6eQ5ahbzwhutfG3HVriy58NIKNHsY7We+XxYtRWrD+lIGf3UcnwJc2WJImtWalITb8BE0axFjhe6Ph8b+4C3oLi/RFGmju4hYpdkOShRI=;0W8lHJqiTeZCrVjR0RSOzA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-il
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 156
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Aurora Serverless V2, SageMaker Serverless Inference, AWS IoT TwinMaker & AWS Amplify Studio are now generally available"
+    excerpt: "Amazon Textract is an ML service that automatically extracts text, handwriting, and data from scanned documents"
+    publishedDateTime: 2022-04-22T09:21:00Z
+    webUrl: "https://analyticsindiamag.com/aurora-serverless-v2-sagemaker-serverless-inference-aws-iot-twinmaker-aws-amplify-studio-are-now-generally-available/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 44
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/AWS-canva.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "Data services and serverless dominate latest announcements at AWS Summit"
     excerpt: "As Amazon Web Services Inc. moves further into 2022, the cloud giant is showing a clear focus on data services and serverless computing. The company’s groundwork in both areas was unveiled in late November when it made a series of announcements during the annual re:Invent conference in Las Vegas."
