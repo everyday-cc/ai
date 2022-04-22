@@ -2,6 +2,187 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
+      "title": "Six Nines Announces Support for AWS for Games",
+      "excerpt": "Six Nines announced support for the AWS for Games initiative from Amazon Web Services (AWS) to accelerate cloud-native game development and design through",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/six-nines-announces-support-for-aws-for-games/article_34b2398f-8ab2-51cf-be72-e7571422220e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/87/2870dd26-607e-54a3-8cc4-c474e45ba8f4/625709700b403.image.jpg?crop=762%2C400%2C329%2C0&resize=762%2C400&order=crop%2Cresize",
+          "width": 762,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
+      "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
+      "publishedDateTime": "2022-04-13T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-the-perfect-blend-how-to-successfully-combine-ai-and-human-approaches-to-business.md",
+      "title": "The Perfect Blend: How to Successfully Combine AI and Human Approaches to Business",
+      "excerpt": "Then, when the robot is unable to fit a bowl of water through the bars ... to reimagine your processes and ways to replace them with AI. Then, start collecting data. AI needs a lot of data points, so the sooner you start collecting, the better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
+      "originalUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/25/13/72/22331011/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-watch-this-driverless-car-get-pulled-over-then-bolt-for-it.md",
+      "title": "Watch this driverless car get pulled over, then bolt for it",
+      "excerpt": "SAN FRANCISCO — Self-driving cars are becoming more of a common sight for people across some U.S. cities. What isn't as common is seeing one get pulled over by the police, and then bolting off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "originalUrl": "https://www.kare11.com/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kare11.com/assets/CCT/images/2e14170f-90b2-4d33-9a7c-7f6f43294afc/2e14170f-90b2-4d33-9a7c-7f6f43294afc_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/driverless-car-pulled-over/507-3bde6611-8f9f-4285-bc8f-382f66d1a6cc",
+      "publishedDateTime": "2022-04-13T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KARE 11",
+        "domain": "kare11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-zipyai-which-accelerates-software-debugging-for-enterprises-raises-28m.md",
       "title": "Zipy.ai, which accelerates software debugging for enterprises, raises $2.8M",
       "excerpt": "San Francisco-based Zipy.ai, which accelerates software debugging for enterprises, today raised $2.8 million in seed funding.",
@@ -683,8 +864,8 @@
       "title": "What's next for AlphaFold and the AI protein-folding revolution",
       "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
+      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -942,188 +1123,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-deep-learning-to-blow-up-famed-fluid-equations.md",
-      "title": "Deep Learning to 'Blow Up' Famed Fluid Equations",
-      "excerpt": "For more than 250 years, mathematicians have been trying to “blow up” some of the most important equations in physics: those that describe how fluids flow. If they succeed, then they will have discovered a scenario in which those equations break down ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html",
-      "originalUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm.md",
-      "title": "AI Weekly: Google sets the bar for AI language models with PaLM",
-      "excerpt": "PaLM (Pathways Language Model) is the first outcome of Pathways, Google’s new AI architecture, which aims to handle many tasks at once, learn new tasks quickly and reflect a better understanding of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-solution-hero.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/ai-weekly-google-sets-the-bar-for-ai-language-models-with-palm/amp/",
-      "publishedDateTime": "2022-04-12T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-fiveai.md",
-      "title": "Daily Crunch: Beating ‘other takeover bidders,’ Bosch acquires autonomous driving startup Five.ai",
-      "excerpt": "“I expect that to start happening as well in the next year.” (TechCrunch+ is our membership program, which helps founders and startup teams get ahead. You can sign up here.)",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/five-ai.jpg?w=1024",
-          "width": 1024,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/daily-crunch-beating-other-takeover-bidders-bosch-acquires-autonomous-driving-startup-five-ai/amp/",
-      "publishedDateTime": "2022-04-12T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe.md",
-      "title": "A future without fraud: The latest advances in fintech that keep your money safe",
-      "excerpt": "Technological security advances are being used to fight fraud in the financial industry including AI, biometrics, and virtual credit cards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "originalUrl": "https://venturebeat.com/2022/04/17/a-future-without-fraud-the-latest-advances-in-fintech-that-keep-your-money-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

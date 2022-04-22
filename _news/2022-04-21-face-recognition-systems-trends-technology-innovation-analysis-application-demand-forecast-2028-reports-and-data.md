@@ -61,6 +61,22 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Global GNSS Chip Market Forecasts, 2021-2028: GNSS in UAVs/UGVs & Opportunities in IoT Technology in Autonomous Vehicles - ResearchAndMarkets.com"
+    excerpt: "The \"GNSS Chip Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Device; Application; Vertical\" report has been added to ResearchAndMarkets.com's offering. The GNSS Chip market is proje"
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/b26756282/global-gnss-chip-market-forecasts-2021-2028-gnss-in-uavsugvs-opportunities-in-iot-technology-in-au"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26756282"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26756282"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Asia Big Data Analytics in Education Market Leading Global Companies and Regional Average Pricing Analysis by 2030"
     excerpt: "According to the report published by Allied Market Research, the Asia big data analytics in education market was estimated at $2.89 billion in"
     publishedDateTime: 2022-04-19T16:46:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/7e670cf41a3dcdeb7fb128aa76e658ce5490ad41-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
+    excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-04-21T20:59:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=651300"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
     excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
@@ -140,15 +170,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global GNSS Chip Market Forecasts, 2021-2028: GNSS in UAVs/UGVs & Opportunities in IoT Technology in Autonomous Vehicles - ResearchAndMarkets.com"
-    excerpt: "The \"GNSS Chip Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Device; Application; Vertical\" report has been added to ResearchAndMarkets.com's offering. The GNSS Chip market is projected to reach US$ 8,"
-    publishedDateTime: 2022-04-22T09:36:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-22-global-gnss-chip-market-forecasts-2021-2028-gnss-in-uavsugvs-and-opportunities-in-iot-technology-in-autonomous-vehicles-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "MHMOZR4fYrbYFd8Y33IYS9UHgdGG5Z4CZ5vbSOn23fDfqG8zTfzJaIUVR92CKUDrNO2vyeeIxOqIaPFGHpDn2U2ZVez27fxjYJj+p8ZIVreS15T2LWg69GMirD2XWzsv8vdesthPUP1UaO3cFkGeRfHMEWbksx+9DFmIdUR4sgHU2SqfhwfywFronGcokyeWBUiKhJrYOrTzZ/v+dQPh3SpfO0Xq29g6xHFt1YoskPMkU8JWptQXoQuD2YuZT90q5UvsaL0U1+l9VrfNHPe5TeYwF2tywuj95JsWGFAxMbDzL0t0syQw1t8Qxs8EJue4P+XH3NzNtGw2oA5/7qYAsHZ2D16QLv+O2Fu2zWwdh3Y=;D2MavR/bgUuAxXKJGpFvYg=="
 ---

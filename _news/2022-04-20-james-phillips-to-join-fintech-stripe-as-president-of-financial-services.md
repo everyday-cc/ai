@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Versapay Acquires Cash Application Fintech Firm DadeSystems"
+    excerpt: "Versapay, the \"leader\" in Collaborative Accounts Receivable, recently announced that it has completed its acquisition of DadeSystems."
+    publishedDateTime: 2022-04-22T11:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/190025-versapay-acquires-cash-application-fintech-firm-dadesystems/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190025-versapay-acquires-cash-application-fintech-firm-dadesystems/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190025-versapay-acquires-cash-application-fintech-firm-dadesystems/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
+        width: 1198
+        height: 1280
+        isCached: true
   - title: "5 key tech priorities for fintech leaders in 2022"
     excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
     publishedDateTime: 2022-04-20T09:44:00Z

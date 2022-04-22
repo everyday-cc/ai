@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
+    excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
+    publishedDateTime: 2022-04-22T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rKxYgxMGzjggXY5iLhWFoLXLceuFX+e0WJ6fC/cHUYNm4lz5jm14bxiTluD1vSt/OuFxmkftpiiJPVhtqmAK/yc++6LjQ6Nvu1qn+WSMHnHUSH3AkoecDN0v3xQutDvkmo2Wf76QJTSyZr0DZyQPNVUniv+0OfXlCB5ftkFVlfhCDkeXBaOVlh0yLOBHgulfE4nC/GQN2deo7nVd7Z0J748IJxXw0rxy1hsB0tQVISrBDOATlgkNvttTlV0/O2gtmvMMMFcM+F9Te725PJy/PgGtqThp/pbKMRaljKEK1R2xyR3SNH5R2lPX/b5umR/IAUS+3lj24MdtEe90h36dBp/WtTVWhmwohUIMYqVQEOg=;6RxSbdh7Obvp61Q3CO3msA=="
 ---

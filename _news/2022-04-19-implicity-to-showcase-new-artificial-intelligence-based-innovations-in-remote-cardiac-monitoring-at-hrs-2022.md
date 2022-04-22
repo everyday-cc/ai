@@ -1,22 +1,28 @@
 ---
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
-excerpt: "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ..."
-publishedDateTime: 2022-04-19T13:30:00Z
-originalUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research."
+publishedDateTime: 2022-04-19T12:30:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: CBS 42
-  domain: cbs42.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
+    isCached: true
 
 related:
   - title: "New AI Innovations in Remote Cardiac Monitoring"
@@ -34,6 +40,6 @@ related:
         height: 290
         isCached: true
 
-secured: "lhfGPOPKB2dF+XCO6wYzcoAkbRMG/XNCggn0tKVymIGJvmnGnVjWVTXw2cXFK4p8kwfsvkkBlaRTR2ORnVrXMMcUt2XMW7WBz10mvqchUmIsNc57IKjx1EpB7EpNMnjufx6U+5Gk2+l3r4JgVfwZxN2FPAoCBQ3zzqa1dG5L2jcN/C5/hiAN3FjvSeyTEOOZLVMNhiAnT5C49NVMJ59RvKVrvzgm9v4ZPcu/w9ZHadDzVFXVp3AB+XIB4cWMRUGN0CPcLA/e7eGK3DQfEMcoJJmH1+jwYm3vZ5KD+b4nOWRCyCTluq61OAnurUdMbbnnMG2X7ePzpeHPnX6UirraOu4QFqBvb4cq8zQ5P8SlgWA=;yiT2dF7LAJ1HVZYXU0idpg=="
+secured: "z5hrWL3AU1WtwMhETONpq3v+QxkOvusGhNyxLWk2ooOcVcOqDmK9ugQ3WTp6dExddvECwqbNJwRh92O0ZqUk0uSo/KQdBMYDjO+vh6OZrHZXbp+oiZ4LNAg5Fcrc6oeehddzsEHELBDEhNcZzn2deiI2HrSUImHVVOCpl9TiEC2Ra1RD/mZwB00MapvxoU+flKVKXB8zIQdazojbGR9bhOSZ3tvngs7R62g7c/jxNmdg3oUxB2I/vBASBnvPl8p6rplv3uekXKD1XyLr2xhxRjYNbmdguv1Rtt7T15p28l6BT5iXn0X9FA4iSiZ1JLbYMrXPZgOQDA7bSOhRh2udr4msv4+J2N312tJ8Zf4H9WU=;x7mk+RaQXxlis0D3/Nfv9g=="
 ---
 

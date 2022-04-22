@@ -70,6 +70,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial intelligence hiring levels in the railway industry rose in March 2022"
+    excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 37."
+    publishedDateTime: 2022-04-22T09:38:00Z
+    webUrl: "https://www.railway-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-railway-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 47
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/04/DUWCn.png"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "5 ways AI Will Change the World"
     excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
     publishedDateTime: 2022-04-19T17:51:00Z
@@ -97,6 +111,20 @@ related:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-apr/0390275816-AI3.jpg"
         width: 436
         height: 581
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the drinks industry dropped in March 2022"
+    excerpt: "The proportion of drinks manufacturing and supply companies hiring for artificial intelligence related positions dropped in March 2022 compared with the equivalent month last year, with 42.4% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:34:00Z
+    webUrl: "https://www.just-drinks.com/features/artificial-intelligence-hiring-levels-in-the-drinks-industry-dropped-in-march-2022/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 33
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/04/1reoQ.png"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "Artificial intelligence hiring levels in the apparel industry rose in March 2022"
     excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 68.8% of the companies included in our analysis recruiting for at least one such position."
@@ -136,6 +164,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LqgLrdCbDkKFtZZ90+cNerfye7O1nDutmknl01mRqdxievq+htyPSwoCYsUQByEvvmoRkk0Z7xV80NSGTBwEYqLDdTClUdLA7ZoGeZk1GEgjAG4/siwkrFHD9zIqAaXl2S3DuinA6+B2RlHp6NrLkLjAmCis6e3qnkvpOY5slzonOWxY2yFz1kaoBkX5cRvP87V4LSrzuxebtYsCVu+j4Qk5Vo5jAB5SbwdxXBUPCEleSva6Rfx51y3frRATYYy6fzolvVDUWiZqOydselpjoz2fuCijA7cAqPdKTNagApWOROt8a7/9xnqsnvJjs+gGrfYVbnSGMO3Dq8ZIMpCRMRyyhIAKtbA+lIxD9OvBPGY=;9UXK6btx5mkV9+VcMMTXaw=="
+secured: "V8jyzVuQih0FnAruuizkMigN0AJcVV2JfvuF0RATPPxG7zr5LmwgQy6uhvqmVP0JnesrEWM/OzyWqk8HTOe3YSOhVbeWzU04o1EOXLusoPSVW6AEtG9Gw+AcwXFyAopkkw5lp5Q+EURfawORgAJIrBFA7TXCMAahd4nYJdk1BqonY7SgIRQsHW7lSaPwK8iNcUDtprlyP3fLu0ggSojLEQhh9l8DuvHivueEDDMFKmI1KU6+4r2QyzVXhhdTnDmphOPJmvAOACL9xP2IUm5yqhPlE6VR2+Ml8+sNYtz3xl5FHHj2A4heaOQzlFJpNaiQLc0so7TVKI+TS3hk2kBAt8DimHmqBmzNjKWSB2Ju8cTQqQJKk7kl1HmS1VX+5LoNf+zh41n1e3m+TPUYjHj0ERBHv+ae5eWMhhA/d8gebGfWRVuS79Z7g4uq9+KYizQ7oAJTSC8yZqvKUWTGY4cbp5wDpqBwDicMLYKDGu9OEFzg1C7CzofS+V9TgIn4iShQHR4WWSe3R5J+gQcqUVrPCA==;EIBiXdjSdrps+jcCAehn7w=="
 ---
 

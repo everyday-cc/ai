@@ -70,6 +70,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial intelligence hiring levels in the railway industry rose in March 2022"
+    excerpt: "The proportion of railway equipment supply, product and services companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 37."
+    publishedDateTime: 2022-04-22T09:38:00Z
+    webUrl: "https://www.railway-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-railway-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 47
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/04/DUWCn.png"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "5 ways AI Will Change the World"
     excerpt: "Artificial intelligence has a virtual impact on industrial departments and individuals. It is the world’s primary driver of change and"
     publishedDateTime: 2022-04-19T17:51:00Z
@@ -83,6 +97,20 @@ related:
       - url: "https://www.psu.com/wp/wp-content/uploads/2022/04/robot-g2ba72723c_640.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Artificial intelligence hiring levels in the drinks industry dropped in March 2022"
+    excerpt: "The proportion of drinks manufacturing and supply companies hiring for artificial intelligence related positions dropped in March 2022 compared with the equivalent month last year, with 42.4% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:34:00Z
+    webUrl: "https://www.just-drinks.com/features/artificial-intelligence-hiring-levels-in-the-drinks-industry-dropped-in-march-2022/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 33
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2022/04/1reoQ.png"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "Artificial intelligence hiring levels in the power industry rose in March 2022"
     excerpt: "The proportion of power industry operations and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year,"

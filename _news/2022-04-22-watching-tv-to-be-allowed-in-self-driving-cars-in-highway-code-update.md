@@ -399,6 +399,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GM patents self-driving car that replaces human driving instructors"
+    excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
+    publishedDateTime: 2022-04-22T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1135620_gm-patents-self-driving-car-that-replaces-human-driving-instructors"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100773492_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Highway Code rule changes will let drivers watch TV at the wheel in self-driving cars - but not use their phones"
     excerpt: "People could be able to watch TV behind the wheel should self-driving cars debut in the UK later this year. Vehicles with automated lane-keeping system technology to monitor speed and distance from other motorists could soon be ready for use, according to ..."
     publishedDateTime: 2022-04-20T09:40:00Z

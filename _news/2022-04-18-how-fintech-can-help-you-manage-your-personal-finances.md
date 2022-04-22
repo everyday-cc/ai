@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 webUrl: "https://www.entrepreneur.com/article/424896?bingParse"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2022/04/19/hero_image_1200x800.jpg?itok=ZHNgcK8k"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Versapay Acquires Cash Application Fintech Firm DadeSystems"
+    excerpt: "Versapay, the \"leader\" in Collaborative Accounts Receivable, recently announced that it has completed its acquisition of DadeSystems."
+    publishedDateTime: 2022-04-22T11:05:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/190025-versapay-acquires-cash-application-fintech-firm-dadesystems/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190025-versapay-acquires-cash-application-fintech-firm-dadesystems/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190025-versapay-acquires-cash-application-fintech-firm-dadesystems/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
+        width: 1198
+        height: 1280
         isCached: true
   - title: "James Phillips to Join Fintech Stripe as President of Financial Services"
     excerpt: "machine learning, and the internet: companies are building stronger relationships with their consumers, expanding internationally, distributing financial services, and automating their supply chains. Stripe is ideally positioned to serve as the engine ..."

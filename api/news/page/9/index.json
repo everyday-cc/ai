@@ -2,6 +2,196 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-04-12-eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-a-fortune-100-retailer.md",
+      "title": "Eckoh’s New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer",
+      "excerpt": "Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh’s strategy is its commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=645669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know.md",
+      "title": "Overcoming Supply Chain Challenges With AI: What Large Manufacturers Need To Know",
+      "excerpt": "The supply chain has always been extremely complex and hard to manage; everything has become incomparably harder as the Covid-19 pandemic brought about a whole chain of unprecedented challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61a8c4981493e6d6ce4b83af/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/12/overcoming-supply-chain-challenges-with-ai-what-large-manufacturers-need-to-know/amp/",
+      "publishedDateTime": "2022-04-12T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel.md",
+      "title": "Computer vision startup Spyne raises $7 million in funding round led by Accel",
+      "excerpt": "The company will invest the fresh capital in acquiring the right talent, bolstering global expansion, including the United States market, and setting up a state-of-the-art Computer Vision lab for deeper R&D in the space, it said. The brand also intends to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/incoming/32t9i4/article65313925.ece/alternates/LANDSCAPE_615/Spyne%20Black%20png.png",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/computer-vision-startup-spyne-raises-7-million-in-funding-round-led-by-accel/article65313926.ece/amp/",
+      "publishedDateTime": "2022-04-12T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-feathr-linkedins-feature-store-is-now-available-on-azure.md",
+      "title": "Feathr: LinkedIn’s feature store is now available on Azure",
+      "excerpt": "With the advance of AI and machine learning, companies start to use complex machine learning pipelines in various applications, such as recommendation systems, fraud detection, and more. These complex systems usually require hundreds to thousands of features to support time-sensitive business applications,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/feathr-linkedin-s-feature-store-is-now-available-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3a5d4b16-1ae4-45a1-8384-1e8850b083a5.png",
+          "width": 1024,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T02:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-artificial-intelligence-may-improve-diabetes-diagnosis-study.md",
       "title": "Artificial intelligence may improve diabetes diagnosis: Study",
       "excerpt": "According to a new study, researchers using a fully-automated artificial intelligence (AI) deep learning model were",
@@ -856,13 +1046,22 @@
       "title": "LivePerson Upgrades Conversation Assist",
       "excerpt": "LivePerson, a provider of conversational artificial intelligence technology ... and bots from third-party platforms like Google DialogFlow and IBM Watson. An intuitive interface presenting multiple recommendations inline in the conversation, allowing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx",
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=152356",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=152356",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/144758-0422_DigitalTrans_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -934,185 +1133,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027.md",
-      "title": "Cognitive Computing Market Trends 2021 | Industry Growth, Size, Share, Demand and Forecast to 2027",
-      "excerpt": "Some of the leading players profiled in the report include Google LLC, HP, IBM, Microsoft Corporation, Nuance Communications, Inc., Oracle Corporation, SAP SE, among others. The cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-money-matters-learning-about-financial-literacy.md",
-      "title": "Money Matters: Learning about financial literacy",
-      "excerpt": "April is Financial Literacy Month. Barry Bigelow from Great Waters Financial answered a few questions about how we can improve financial literacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdio.com/news/money-matters-financial-literacy/6443336/",
-      "originalUrl": "https://www.wdio.com/news/money-matters-financial-literacy/6443336/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdio.com/wdioimages/repository/2022-04/mm-guys.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDIO",
-        "domain": "wdio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope.md",
-      "title": "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope",
-      "excerpt": "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
-      "originalUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wbtw.com/wp-content/uploads/sites/22/2022/04/police-lights-generic_30929150_ver1.0-7-1-1.jpg?w=2000&#038;ssl=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBTW",
-        "domain": "wbtw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
-      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
-      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "publishedDateTime": "2022-04-11T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
