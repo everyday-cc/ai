@@ -52,6 +52,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
+  - title: "Pixis fans across MENA in addition to the US, Europe & APAC markets as it steadily grows its codeless AI infrastructure"
+    excerpt: "Pixis, a leading provider of contextual codeless AI infrastructure for demand generation and marketing optimization, today announced its ingress into the MENA markets, in addition to its strong presence in APAC and rising presence in the US and Europe regions."
+    publishedDateTime: 2022-04-22T07:47:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/pixis-fans-across-mena-in-addition-to-the-us-europe-and-apac-markets-as-it-steadily-grows-its-codeless-ai-infrastructure-sn5qyzb0"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 13
+    images:
+      - url: "https://static.zawya.com/version/c:NTFiZDAyODItNDFkYi00:ZmIyMzY5/shubhammishra-jpg.jpg"
+        width: 900
+        height: 785
+        isCached: true
 
 secured: "M5DIk3V7iY+5Ndktetfup9lnF2Yf6O51GUBNb61Nd9LqvKrwA4SdP+sExmJRSyuBwZ+F5kdhgJf9ht54Bm32F9WZH0TxxzEn8o/791AXKf9mfS+W+TUwc3rS94fdVskXaaIEeGFFTyX2lXuFAxld+AQsCMiYMXMJXUUM6F3ngr45XfkcnVsmZNOhyl5ZBzeY90XhBCRMqQ1/KF46uqClgFi7tvr6ch7EudA6hm0obY1lOamG1eJMKQfJVO1kKBQYbKH9ZLVGg4VoMbRQfThlh2t+P86TO2RMrtm44DkUQRCxpLFS8Vru60CD7h4nf7eEe5pbC5itEYKmc280fMTpsgSX376EiCmM9ESrNrQO2f0=;KUVnZPFsSsj7H/kJuGDrbQ=="
 ---

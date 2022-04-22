@@ -43,6 +43,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Facial recognition cameras to be installed at Hawaii airport to speed up travel at international gates"
+    excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
+    publishedDateTime: 2022-04-22T06:32:00Z
+    webUrl: "https://www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.html"
+    ampWebUrl: "https://www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.amp.html"
+    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.amp.html"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 38
 
 secured: "V4XJdnYWHU7cD5EbF7BIEbE2p2C+XTkGUAkrStVx1RIzqammNhTokjiUEryU1DdOEaHt17LUsB0mKodpTJWXYrWtUXZ1tU4SBJ4Wq5bxrQErbPGU5lkqKVLPkMkhu9oc9CNGeGN3F7mdu/bW5IH3PdmwZPrkCOtVKaUVta9rfDfsnSjbqXHTq75rD+NElY4BkDOZJUW6vOv8z3KxO1YyfRYwAhcNpp90YO1Y2ZihKsuB9DPguuu94F9LptuDgACLt0y3QlMON5uB4M7PFjt3NuhDF0ErEDXhXhQijDqY8yvY11gY3M6hOl0ariQHa0d0VJrV1NDunjSTN685Gg3NnU670txzCQ0CYd9qXvnROt0VuW/JU3fyblM/uEc6ahdwRMO9jPy1u7SqXaI8yegoWfZh23d6Hi7lpVvQ7oYUvo8Ui6V2TKMfMQ1pVA9EhyyFiwVJzAJUcH/ZPttE3/iylWzvHI5e3O9HejcGEcA3rPyRPQ4WD2eLdUpxjdL0C0dwGJcgTTNyBzeLJTzfgCkqsg==;2mcnXGfA9i9111lRbSZ8Cw=="
 ---

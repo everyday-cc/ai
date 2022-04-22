@@ -57,6 +57,20 @@ related:
       name: UNESCO
       domain: unesco.org
     quality: 15
+  - title: "Pixis fans across MENA in addition to the US, Europe & APAC markets as it steadily grows its codeless AI infrastructure"
+    excerpt: "Pixis, a leading provider of contextual codeless AI infrastructure for demand generation and marketing optimization, today announced its ingress into the MENA markets, in addition to its strong presence in APAC and rising presence in the US and Europe regions."
+    publishedDateTime: 2022-04-22T07:47:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/pixis-fans-across-mena-in-addition-to-the-us-europe-and-apac-markets-as-it-steadily-grows-its-codeless-ai-infrastructure-sn5qyzb0"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 13
+    images:
+      - url: "https://static.zawya.com/version/c:NTFiZDAyODItNDFkYi00:ZmIyMzY5/shubhammishra-jpg.jpg"
+        width: 900
+        height: 785
+        isCached: true
 
 secured: "wkrH5kps9+YMeJZ6i87A+6ro2VfppQCqnGmICh5P+vjUvobnoZheu7Ep9v5TsegbN22eupXUd6234/M/rIdWCll6AWeCu7GCF//Cpisz07KK9aMP3WUYxcF77CVElHUOMptCf8Cs2MzDS3dtq0PR+Ept+aMtmZOy1+pDKDNte6n3bbOeVPr1tLKOnD4dbBg6dxU3akg8sO16eumxmlJGbu4433OGEykxGGFUJImauW0lujh5TbRCOzYneAbnSAuFU0Ke6AiPh8w5YDId41Nx4jx7zW9hBrOXqYDwR+7vkxb2rAi2/zxRtkjrciTVbQ6EAq0Nt5sIwV3LgaGqGoVTEyJy/FX8bD8766vfkIbuaAM=;ND9hz6pmykQ6OqeKD+jrBg=="
 ---

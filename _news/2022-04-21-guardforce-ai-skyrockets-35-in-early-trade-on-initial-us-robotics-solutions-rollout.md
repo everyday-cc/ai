@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited ('Guardforce AI' or the 'Company') (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
+    publishedDateTime: 2022-04-22T06:58:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 69
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1650525227063.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Why Is Guardforce AI (GFAI) Stock Up Today?"
     excerpt: "Guardforce AI (GFAI) stock is rising higher on Thursday as retail traders react to recent news from the robotics company today!"
     publishedDateTime: 2022-04-21T15:47:00Z

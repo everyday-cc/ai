@@ -2,6 +2,137 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-04-01-why-and-where-should-healthcare-companies-increase-ai-investments.md",
+      "title": "Why and Where Should Healthcare Companies Increase AI Investments",
+      "excerpt": "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "originalUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "publishedDateTime": "2022-03-31T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
+      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
+      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "publishedDateTime": "2022-03-31T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
+      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
+      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "publishedDateTime": "2022-03-31T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian.md",
       "title": "Saphyre Nominated for “Fintech of the Year” Award by Global Custodian",
       "excerpt": "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual “Fintech of the Year” award. Global Custodian’s Leaders in Custody awards is holding their ceremony in-person at The Savoy in London on May 4th 2022,",
@@ -1027,117 +1158,6 @@
         "AI Ethics",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-expanding-self-driving-car-operations-to-downtown-phoenix.md",
-      "title": "Waymo expanding self-driving car operations to Downtown Phoenix",
-      "excerpt": "On March 30, officials with Waymo announce they are expanding their self-driving car operations in Phoenix, years after they began self-driving car operations in a part of the East Valley. FOX 10's Linda Williams reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/video/1052039",
-      "originalUrl": "https://www.fox10phoenix.com/video/1052039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/video/1052039.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/1052039.amp",
-      "publishedDateTime": "2022-03-30T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
-      "title": "China's Baidu exploring options after U.S. delisting risk",
-      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "originalUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "publishedDateTime": "2022-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
-      "title": "NSW government AI projects face ethics assessment under new assurance framework",
-      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-19-dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston.md",
+      "title": "Dean Kamen is coming to TC Sessions: Robotics July 22 in Boston",
+      "excerpt": "We’re still building out the event agenda, but you can bet the day’s programming will cover a wide range of crucial issues focused on robotics and the AI that ... Buy your Startup Demo Package ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
+      "originalUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Dean_Kamen_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/19/dean-kamen-is-coming-to-tc-sessions-robotics-july-22-in-boston/amp/",
+      "publishedDateTime": "2022-04-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-ai-may-help-spot-relapse-risk-in-alcoholics.md",
+      "title": "AI may help spot relapse risk in alcoholics",
+      "excerpt": "Artificial intelligence (AI) may be able to identify alcoholics at risk of relapsing after treatment, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/ai-may-help-spot-relap.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-relapse-alcoholics.amp",
+      "publishedDateTime": "2022-04-19T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-soundfuls-ai-powered-platform-empowers-new-future-for-music-creation.md",
+      "title": "Soundful's AI-Powered Platform Empowers New Future For Music Creation",
+      "excerpt": "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1799706/Soundful_black__2_Logo.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral.md",
       "title": "Videoverse offers AI tool to help enterprise videos go viral",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -773,7 +919,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1058,154 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
-      "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
-      "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation.md",
-      "title": "Fujitsu launches new centre in Bengaluru to accelerate AI and ML innovation",
-      "excerpt": "Fujitsu announced its new research centre in India to strengthen its focus on research and development into AI, ML technologies and quantum software. Fujitsu India said that by 2024, they would have about 50 researchers to expand their research fields into security and other areas and conduct software R&D in collaboration with Fujitsu’s global network of research centres in Japan,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/",
-      "originalUrl": "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Fijitsu-India.jpeg",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations.md",
-      "title": "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?",
-      "excerpt": "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
-      "publishedDateTime": "2022-04-18T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

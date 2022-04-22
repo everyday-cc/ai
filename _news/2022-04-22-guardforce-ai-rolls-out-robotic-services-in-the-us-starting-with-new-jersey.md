@@ -40,6 +40,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited ('Guardforce AI' or the 'Company') (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
+    publishedDateTime: 2022-04-22T06:58:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 69
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1650525227063.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Guardforce AI skyrockets 35% in early trade on initial U.S. robotics solutions rollout"
     excerpt: "Guardforce AI (GFAI) rallied 34.7% higher premarket after it announced the rollout of its robotics services in New Jersey, U.S. where the company's U.S. offices are based.The"
     publishedDateTime: 2022-04-21T11:30:00Z
@@ -87,6 +101,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "XNmadcXQ+fF07GvlyHJiJWKi9774TR7ocEZX255nVJ+8tqbIeHq8R5ANtq+OrmyVDEllmcJisX8k8zTsYLHG5w3M4WTJ+dwezqtaTQmqhSuvYtOjCmBvJJUScOC6tAtiKXkbyl2rBEkCTXFwvfEB6MgbT8Gfq7kT/pyJZ5Jq6AyXmYTYaMO2pcJsk4QQUcI3+xxfN34LX6OkngzFgJbraoCEr8QQ51Ej60sAkkaIxU9PmQLFnRG3GsvQbCOHzF4w+iCepICcKJmIVVup3hvD+U32b++mhr0M6rKlAxwyLS7lxoTb/TKg8ZU2UHiEsadXM6gdym5rcFJrKIUfi3j7V0wsyFVqxSA5aL5vuMHdvo0=;xNGVleRZAmvZ/Zc8bAWyPg=="
+secured: "xHib2LkCnRJ9zbuhGIVIEWcKaL+liRYDcDEfUYpgEq18GjRBQdIRnypw+1kn1b0B7VR6uAAFU5uhChFlZPKpww9tMgBCH3c6Xw0+J8gcjRdgXgNBVtVx2bPBfjS1oFz6nVF0GnD+HitU9IpejoG10El6TXwHGG8SgEwgy7qKDyx2+Vf9L4MBzkfd3eQ0KgDuLiHFHY9Zlb9duTPoMLDxOLzfb7LFyQiWysWaD9otVMOGYwo5wO2QMxI0Mx1RK4CHE2JAT2ofqAzKlqfqd56kpDVL/yeM91c0vQf9HVihVL+npADlrEQ2OeRPtw4p4PRV+BPm3E4fr0mQ/zYey+4foMgle9IzwVNurkvFuXvtQsbm1cph6er0XP63uDrCmU6WNXLfnRiFV7RvD/7tbTmWNSIZUxDsYY1l9SzVh7zKy5ah+cyR9VvQR0Wj9RzGl4OjS0Jme/xoUS3hiplbtYJ99bJVHW48D/7KhESvWMQyFnnt72Pju2TXFDEwiifDHp3Z0//x237Xv0Mewu2y7atxag==;A8kSssskSfVCPs0TyRTchA=="
 ---
 

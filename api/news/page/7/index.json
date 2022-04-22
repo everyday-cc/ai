@@ -2,6 +2,160 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-13-zipyai-which-accelerates-software-debugging-for-enterprises-raises-28m.md",
+      "title": "Zipy.ai, which accelerates software debugging for enterprises, raises $2.8M",
+      "excerpt": "San Francisco-based Zipy.ai, which accelerates software debugging for enterprises, today raised $2.8 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
+      "originalUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/VishaliniApril2022-e1649864412499.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
+      "publishedDateTime": "2022-04-13T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-razer-and-lambda-made-a-linux-laptop-for-machine-learning.md",
+      "title": "Razer and Lambda made a Linux laptop for machine learning",
+      "excerpt": "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
+      "originalUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg",
+          "width": 3612,
+          "height": 2295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
+      "publishedDateTime": "2022-04-13T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform.md",
+      "title": "BlueOcean raises $30M for its AI-based brand intelligence platform",
+      "excerpt": "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
+      "originalUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024",
+          "width": 1024,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
+      "publishedDateTime": "2022-04-13T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements.md",
       "title": "Salesforce Updates Service, Marketing Clouds With Conversational AI, CDP Enhancements",
       "excerpt": "Salesforce has made a number of enhancements to its Salesforce Service and Marketing Clouds, including AI-powered conversational intelligence, mobile offline in",
@@ -796,8 +950,8 @@
       "title": "Deep Learning to 'Blow Up' Famed Fluid Equations",
       "excerpt": "For more than 250 years, mathematicians have been trying to “blow up” some of the most important equations in physics: those that describe how fluids flow. If they succeed, then they will have discovered a scenario in which those equations break down ...",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html#!",
-      "originalUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html#!",
+      "webUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html",
+      "originalUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -970,151 +1124,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-why-regulating-ai-is-a-mistake.md",
-      "title": "Why Regulating AI Is A Mistake",
-      "excerpt": "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
-      "originalUrl": "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-observeai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m.md",
-      "title": "Observe.AI bolsters its business intelligence for contact centers with new $125M",
-      "excerpt": "Observe.AI’s solution uses AI to process customer interactions with contact center agents to generate business intelligence and develop more sophisticated insights into how to improve customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/CallCenter-e1615218915414.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/observe-ai-bolsters-its-business-intelligence-for-contact-centers-with-new-125m/amp/",
-      "publishedDateTime": "2022-04-12T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-can-predict-probability-of-covid-19-vs-flu-based-on-symptoms.md",
-      "title": "AI can predict probability of COVID-19 vs. flu based on symptoms",
-      "excerpt": "The next step is to create an AI, web-based calculator that can be used in the field. This would allow clinicians to arrive at a presumed diagnosis prior to the visit,\" said Alemi. From there ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/26-covid.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp",
-      "publishedDateTime": "2022-04-12T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

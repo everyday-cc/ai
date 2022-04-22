@@ -2,25 +2,19 @@
 category: news
 title: "AI Week brings together the world AI community"
 excerpt: "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S."
-publishedDateTime: 2022-04-14T19:01:00Z
-originalUrl: "https://wreg.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
-webUrl: "https://wreg.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+publishedDateTime: 2022-04-14T19:56:00Z
+originalUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
+webUrl: "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/"
 type: article
 
 provider:
-  name: WREG
-  domain: wreg.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://wreg.com/wp-content/uploads/sites/18/2020/02/WREG-web-logo-1.png"
-    width: 800
-    height: 268
-    isCached: true
-
-secured: "Qzkjmx/5sDYx4EcGdzHdcESPPuZ6mbe86bekOlcbyLgvdmGeg1fg5/OlKfBAuS1rtyZerMCCA9B/+dvT/98kM8SdMXyD6uHgn/QbxIOygDlld7PAeb/7bTraALxohn2ANlgbsodYfTFQ+HVXftQnlUdbvZrDBXAyXaR190G9s9cTfFG4mUOKP8fsnMqpIIZ+l6ZX5T2c69+rgqOIaMXnhP9CfB7ji5qcCV1kagTzfBd0j5nFk3/Ui/P/3wlvvUHumW9H6Qribm2GCw+SrfEyJ76lWAii5nX3uJa2kRMwyh64TpG478J33uq1k3Et/MLbe1qBsa2qmoRKRpAKBrk/CPbrNvx1WzTBHUnVYzKzZ4A=;Y3t5bq4s9L4RsHUuqVTPMA=="
+secured: "X61t7zM7OdSxk0ZgOBT5LK2IxOSkgLQm2ncbDsYjQQEFdivfHZ1U6NiFfbSW3aOb1qPaM6aclSeSooh5ge8mBSSlr4PsgL3lPsf9hCTjtRXFXNigPPmVPwiVBr5NHcGE4cCnsXbJ+odCh6EjSraQU4kzn3EWFqHA5j9RzSQBs/kXqYHJBHvaFuNO8uCUH7KxWG1TbDnv41xxlI7JX9Ms37e46fi3523JAVGLDI2DBN77ee7iW+eT5D/Oxxis4LMOHiXQJs9BoLThhD0ikcvkdYmGz/YZa/PIEL7Bj0csZEr1/GNLpQ2CziHF2fqiGiio3Gt3UnZOkE/vlX1U9+HOFkfHzpQNnxE1U79McdiBSjQ=;MmMmOqZFY5HbTidS61u6kg=="
 ---
 

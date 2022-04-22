@@ -2,6 +2,144 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-02-18-ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale.md",
+      "title": "Ethics waiver for Biden digital officer scrutinized after stock sale",
+      "excerpt": "The Project on Government Oversight is calling on the Biden administration to rescind ethics waivers after ... she sold her interest in an artificial intelligence defense contractor called ...",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/news/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale/article_3897312f-377a-5f19-bf7f-8a9d747d3785.html",
+      "originalUrl": "https://gazette.com/news/ethics-waiver-for-biden-digital-officer-scrutinized-after-stock-sale/article_3897312f-377a-5f19-bf7f-8a9d747d3785.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.prcdn.co/img?cid=9YMC&page=1&width=300",
+          "width": 293,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-how-to-become-an-ai-engineer.md",
+      "title": "How to become an AI engineer",
+      "excerpt": "They typically use the Python programming language. AI engineers also use platforms ... you may look at projects that specialize in analysis, translation, detection, restoration, and creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/computers-tech/how-to-become-an-ai-engineer/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/how-to-become-an-ai-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/be89aae78e1f5f260376d58b9aff0f75aa3f4839/2021/10/29/de4a749d-01fa-4e80-a090-1cd9bc43d406/brian-nichols.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-become-an-ai-engineer/",
+      "publishedDateTime": "2022-02-17T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-intel-falcon-shores-puts-an-x86-cpu-and-xe-gpu-in-a-single-xeon-socket-for-supercomputers.md",
+      "title": "Intel Falcon Shores Puts An x86 CPU And Xe GPU In A Single Xeon Socket For Supercomputers",
+      "excerpt": "Falcon Shores will bring x86 and Xe GPU acceleration together into a Xeon ... systems computing large data sets and training gigantic AI models,\" said Raja Koduri, head of Intel's Accelerated ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
+      "originalUrl": "https://hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57729/content/small_intel_falcon_shores_raja_koduri.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-falcon-shores-x86-cpu-xe-gpu-single-xeon-socket",
+      "publishedDateTime": "2022-02-17T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-facial-recognition-firm-aims-to-collect-100-billion-photos-by-2023.md",
       "title": "Facial recognition firm aims to collect 100 billion photos by 2023",
       "excerpt": "Clearview AI told investors it would have 100 billion facial photos in its databases by the end of the year. The company claims its \"index of faces\" has grown from 3 billion to 10 billion since 2020.",
@@ -1032,151 +1170,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-artificial-intelligence-in-weather-makes-the-case-for-human-input.md",
-      "title": "Artificial Intelligence In Weather Makes The Case For Human Input",
-      "excerpt": "Due to the multivariate and chaotic nature of weather, for more than half of a century meteorologists have dealt with terabytes of data and modeling variables to produce an accurate forecast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
-      "originalUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d7828b92a80b219dcafb3/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/02/17/artificial-intelligence-in-weather-makes-the-case-for-human-input/amp/",
-      "publishedDateTime": "2022-02-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-south-korean-semiconductor-maker-sk-hynix-develops-new-ai-chip.md",
-      "title": "South Korean semiconductor maker SK hynix develops new AI chip",
-      "excerpt": "South Korean semiconductor maker SK hynix said it has developed a smart memory chip with computing capabilities, dubbed processing in memory, or PIM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/1501645105508/2022/1/16451056965772/v1.5/South-Korean-semiconductor-maker-SK-hynix-develops-new-AI-chip.jpg",
-          "width": 706,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/02/17/sk-hynix-PIM-AI-semiconductor-chip/1501645105508/",
-      "publishedDateTime": "2022-02-17T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m.md",
-      "title": "Exodigo, which maps subterranean spaces with sensors and AI, lands $29M",
-      "excerpt": "Exodigo, a startup developing a platform that leverages AI and sensors to map subsurface areas, has raised $29 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
-      "originalUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cvpd-drone.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/exodigo-which-maps-subterranean-spaces-with-sensors-and-ai-lands-29m/amp/",
-      "publishedDateTime": "2022-02-17T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

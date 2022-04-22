@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-inf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/the-success-of-ai-lies-in-the-infrastructure/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       name: UNESCO
       domain: unesco.org
     quality: 15
+  - title: "Pixis fans across MENA in addition to the US, Europe & APAC markets as it steadily grows its codeless AI infrastructure"
+    excerpt: "Pixis, a leading provider of contextual codeless AI infrastructure for demand generation and marketing optimization, today announced its ingress into the MENA markets, in addition to its strong presence in APAC and rising presence in the US and Europe regions."
+    publishedDateTime: 2022-04-22T07:47:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/pixis-fans-across-mena-in-addition-to-the-us-europe-and-apac-markets-as-it-steadily-grows-its-codeless-ai-infrastructure-sn5qyzb0"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 13
+    images:
+      - url: "https://static.zawya.com/version/c:NTFiZDAyODItNDFkYi00:ZmIyMzY5/shubhammishra-jpg.jpg"
+        width: 900
+        height: 785
+        isCached: true
 
 secured: "hfI9IfImoGkdXDHu+GCz3f9043pHmUquAqWW+hTZ/04vjm+zBcwiv1DHWzJKI8ctHrf9g8P9apHhb7Qg1qUIzdqXIXk3olCp42leeohCXKP1UR9aEwhetn62Ie+onIcZgEGw70bvgWiaI9VgQZe5aH8lM5pQLcvZ+zcNHYOUJXHC6LTx1hiPjLs8fHEd+tOzaWcqRdetxgdZOpCP5m5KkC3fxIXT4iX9Ib0Yc7vSuoOOPkCgXrFbtgRKpu9wL55Ok1R/ufLNEQLjGAei98zj3dZFJP2ZjgYS0KJnoBv32A/9oBzozMjHlbR6Qhaj2MzGsjvbBeroDuJZtuxcqLx3TT+kLdT4xu8IYfxxxPE18ogbTLluVW5Igxggtj94iQKzFNqm96gyBmj4i6FXH0dXSdX1xM57ldKKmCIKVkysk+rjRIEbgoPe9W3SkWVx+l5+vXKyl24svA09o0AQb5kc4BSSgQssOarLtmUALNYW/sxG8s0Pct+ebvUIXW4oSwfDGwJO06pgtDOthL/p/Nj9mw==;Xy7qAQxVmJLzaBtjQ4VnMA=="
 ---

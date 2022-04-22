@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
+      "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
+      "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
+      "sourceUrl": null,
+      "webUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
+      "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
+      "cdnAmpWebUrl": "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
+      "publishedDateTime": "2022-04-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KITV",
+        "domain": "kitv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-why-this-facial-recognition-firm-is-controversial.md",
       "title": "Why this facial recognition firm is controversial",
       "excerpt": "Clearview AI is arguably the best known and most controversial facial recognition company in the world. It's been at the centre of battles over privacy, personal data and freedom. BBC North America tech reporter James Clayton spoke to Hoan Ton-That,",
@@ -424,8 +467,8 @@
       "title": "House panels probe government use of facial recognition software following security concerns",
       "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "originalUrl": "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "webUrl": "https://www.wgal.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "originalUrl": "https://www.wgal.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -442,13 +485,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
-      "cdnAmpWebUrl": "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "ampWebUrl": "https://www.wgal.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "cdnAmpWebUrl": "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
       "publishedDateTime": "2022-04-14T12:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KCCI Des Moines",
-        "domain": "kcci.com",
+        "name": "WGAL",
+        "domain": "wgal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1309,49 +1352,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-spirit-uses-facial-recognition-at-atlanta-ga-airport.md",
-      "title": "Spirit Uses Facial Recognition at Atlanta, Ga., Airport",
-      "excerpt": "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
-      "originalUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
-      "publishedDateTime": "2022-03-30T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

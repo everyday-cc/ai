@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, April 19, 2022 /PRNewswire/ -- According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language ..."
-    publishedDateTime: 2022-04-19T12:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027---exclusive-report/article_50935701-f9df-5620-8922-338df80e812c.html"
+    excerpt: "According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language Processing,"
+    publishedDateTime: 2022-04-19T11:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-manufacturing-market-worth-163-billion-2027-/2022/04/19/9584759.htm"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "X4pSAAfS/G12DI34EB6aItsKtx3MVmOE7RppWjNojyC3XG0Pz6Hp5kyjRCb5VgPBb18nRF9zwo8QlugNYA8+YJU7irZ8N1zhRhDaM6gL9Y+dnEq9ECBud+AuAwC96p4fXO3qS67uB7pvOYrDOkjD3pymtBjK2xyPuIceRw7A541NIY3x3LbJR2a5cqf+PcpbLjm9lgFO9ku0o93cXOQc8VVKaCpUvmr+GIO8yaOESSBVi0RnapHyZL2WiZ7qmw3WWFOJeUpmatTsrIy6+3vTsY4aqLlN8p8qaPBt8lAQu5oj88mJFo1YMyQhGtEY0SqvLoIJUdoB/EvZ9sUDDybNVURDlY9zPg+/hKHw7n/xVVQ=;cKVIy1cSqTWIthzdv/39jQ=="

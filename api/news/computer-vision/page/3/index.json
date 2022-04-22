@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
+      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
+      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
+          "width": 3421,
+          "height": 1924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "publishedDateTime": "2022-03-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-generate-positivity-with-machine-learning.md",
       "title": "Generate Positivity With Machine Learning",
       "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
@@ -1315,59 +1368,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-the-hidden-role-of-facial-recognition-tech-in-many-arrests.md",
-      "title": "The Hidden Role of Facial Recognition Tech in Many Arrests",
-      "excerpt": "The technology is spreading fast among police, and often wrong. But people charged with crimes are rarely told they were fingered by an algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/hidden-role-facial-recognition-tech-arrests/",
-      "originalUrl": "https://www.wired.com/story/hidden-role-facial-recognition-tech-arrests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61789281300796688742b837/191:100/w_1280,c_limit/Business-Police-Face-Recognition-1128869156.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

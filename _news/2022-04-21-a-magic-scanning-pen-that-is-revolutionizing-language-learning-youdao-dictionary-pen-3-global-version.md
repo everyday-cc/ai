@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Machine-learning techniques for predicting the evolution of an epidemic"
-    excerpt: "Machine learning techniques can provide an assumption-free analysis of epidemic case data with surprisingly good prediction accuracy and the ability to dynamically incorporate the latest data, a new KAUST study has shown."
-    publishedDateTime: 2022-04-18T13:27:00Z
-    webUrl: "https://medicalxpress.com/news/2022-04-machine-learning-techniques-evolution-epidemic.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 4
-
 secured: "Q4gHRiVe8okveOVDVNA/xJohyN+2baIozmvRoIj0RyReidVuUlNKW5T/cWCNA1UWBuMt6GbZ09+cWODY8DPMALviXxo5Y80voO9QlpnFVEmGdqK1zf1tmLetmIkt9VkbIM/cYdOAgOBkUTybW4Hcc5gAnXDPC47zmWUbiq9h6BVuf6RImYYGZcH7uml96gaIBXgsIi2jDeB5+qDWDLbJWRi8p4DkDaXbAHdjQ2KYGSUql/Aj2KIQCLLc4AohE5uekcyI5c7wsq7bVFD4wJGnYWDTkbkpZICi/Vo61wH2wizT2x4cmkYWNpA8t0meMiDlsfqZ2NWvzQRdH8RIxYU3D5arWHgs62Z47JDSjSA7hgxF9SBF233VUUmzP7OMDf6sUDVDBpVrIB9sI2S3IXwtctdMrbxn8OPwZL4meEq9DC3gVD48R0Q0SyvXBg2APxeb7KF1JURlFWKrFFArQ2X/JGw/eIOAApSC73xa8eO30mewyzsUee2xXp/ryzh2m/vIdBUexxXWhtKolcqYzIS2AA==;IEUIGrHLNFR2KtZ0W8NLAg=="
 ---
 

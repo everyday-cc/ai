@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
+      "publishedDateTime": "2022-02-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
       "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
       "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ...",
@@ -1347,49 +1390,6 @@
       "provider": {
         "name": "Greenwich Time",
         "domain": "greenwichtime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal.md",
-      "title": "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal",
-      "excerpt": "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
-      "originalUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg",
-          "width": 918,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
-      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
-      "publishedDateTime": "2022-02-01T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WION",
-        "domain": "wionews.com",
         "images": null,
         "publishers": null,
         "authors": null

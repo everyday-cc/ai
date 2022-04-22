@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-h
 cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: KITV
@@ -43,7 +43,18 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facial recognition cameras to be installed at Hawaii airport to speed up travel at international gates"
+    excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
+    publishedDateTime: 2022-04-22T06:32:00Z
+    webUrl: "https://www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.html"
+    ampWebUrl: "https://www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.amp.html"
+    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.amp.html"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 38
 
-secured: "RcHDIzmVmLFaVLlyAybcH0O6qJl+p7moME/IolSGNLMcNkwW4RI7wO7QLaJ5MPpNOk7j26kLZEHglsGgn/gkQGKyZeVL14z4Pb11J5+YHVu65vaMp0Aj0FwKdmYr55o9yPkToWqrkS3pCYVXK6Ty93yAoQbRXnNvArDBf8rXGt55itergZqFdKtwZgmgzs6C8WhZvbl0lDB7zc1op13s7SP1Bskn3H0+exYbRPSJ2lnrqhPPb2JVRVKsKGW6QpyUQUcJjuyBdBE+fLyuX/LjX1HBszpYUuunjqZuXvoS1otI7eum7rOTEY07utbZRdaWn0by+W8lG5Khmv1f+vOhsZ/jypqVN9J5DfoOLapnh/c=;Zil0Ucp6wWcQqM1HNXXlAg=="
+secured: "i3EhRyW7/iCvMpgmBcu8joZ7XDPqZ17+u9linj02LJEgWjTe9XjBGs8I9T/JOVuKPg0gndBnqxkwb+pOGlWxXqZQE/1xFEFGSPunezwQth9kwa/TRkrqrew5bjdF+QbAhSL+0+klozyVL3M56ABNvJjnW/d6+1v4olg6yPsrZKzwcDeB9+rkSddDM+TKRqLVMxcGyxycB3MSsAUbmR+Bvpex3U7sJuT9TrXCt4QrNtX+jpcf2DylQmx6SMA2bat7vnCLBHOrDwhq/C7FVW30sJCk10aGfK+B18nYWdOrzHGNVRwkEN+zRVw7YbW0DxbsY/7yz4fcFXpt8y0EZWw6QajrPkDONYBqK/IdqVr7xnqIRY8wLbku3kz2F0+Pk7I1iSlYVyrn2tbp402gjEL6U4UhCZB0PCEJLIg34CD+scBA2KDQwOdyACYQXJb19LQsX+Fp6CSNok1qD60Y4Tap1HElmHACGUDhh/kskmvqU85Ywn2I7/1sLLpuirBug+68Hl7+lhmNh7HOYIA+ZKnZcg==;rVYf9IpCY9oTYELnAQ0Y2w=="
 ---
 

@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-14-show-us-your-robots-at-tc-sessions-robotics-2022.md",
+      "title": "Show us your robots at TC Sessions: Robotics 2022",
+      "excerpt": "It’s time to gather your robots and get ready for a high-tech show-and-tell at TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston, Massachusetts. Join more than 2,000 other brilliant,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
+      "originalUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1.png?w=1024",
+          "width": 1022,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/14/show-us-your-robots-at-tc-sessions-robotics-2022/amp/",
+      "publishedDateTime": "2022-04-14T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people.md",
+      "title": "If You Want to Succeed With Artificial Intelligence in Marketing, Invest in People",
+      "excerpt": "While AI offers benefits, optimizing automation is only half the job. Marketing won’t deliver on AI’s promise unless the human side of the equation is given equal attention. Because business value increasingly depends on human factors including agility,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/014241e84a4e44bd907eb47e9b299287.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/if-you-want-to-succeed-with-artificial-intelligence-in-marketing-invest-in-people/amp/",
+      "publishedDateTime": "2022-04-14T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-top-100-fastest-growing-ai-teams-key-players-exclusive-insights.md",
+      "title": "Top 100 Fastest-Growing AI Teams: Key Players, Exclusive Insights",
+      "excerpt": "Who are the key players in AI? What are their backgrounds and industries? And what can companies do to join the ranks of Microsoft and Google? This article provides exclusive insights into the top 100 fastest-growing AI teams in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6258162e5d6f160107015a7f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/14/top-100-fastest-growing-ai-teams-key-players-exclusive-insights/amp/",
+      "publishedDateTime": "2022-04-14T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-5-things-to-know-about-the-hottest-new-trend-in-ai-foundation-models.md",
       "title": "5 things to know about the hottest new trend in AI: foundation models",
       "excerpt": "Machine learning systems like DALL-E impress with their ability to generate creative work. These systems are known as \"foundational models.\"",
@@ -101,48 +249,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
-      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
-      "excerpt": "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "originalUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "publishedDateTime": "2022-04-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -370,6 +476,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
+      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
+          "width": 2700,
+          "height": 1845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
       "title": "Neural Network Market Growth (2022-2028), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions",
       "excerpt": "Global “Neural Network Market” (2022-2028) research report gives an outline of the business with orders, applications",
@@ -422,21 +571,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
-      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
+      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
+      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
+      "excerpt": "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope.",
       "sourceUrl": null,
-      "webUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "originalUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "webUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
-          "width": 2700,
-          "height": 1845,
+          "url": "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -444,13 +593,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T21:01:00-07:00",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "publishedDateTime": "2022-04-13T22:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MyTwinTiers.com",
-        "domain": "mytwintiers.com",
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -460,24 +609,24 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
       "path": "_news/2022-04-14-driverless-vehicles-park-themselves-in-rapidly-expanding-market.md",
       "title": "Driverless vehicles park themselves in rapidly expanding market",
-      "excerpt": "IHS Markit said the value of the autonomous car service market will exceed 1.3 trillion yuan by 2030, accounting for 60 percent of the nation's ride-hailing market that year. Li, the Baidu CEO, said China leads the world in self-driving technologies,",
+      "excerpt": "A driverless bus makes a trial run in Nanjing ... smart infrastructure, artificial intelligence, 5G and cloud computing. In addition to congestion, Li said smart transportation can reduce road ...",
       "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
+      "webUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202204/14/WS62577052a310fd2b29e56da0_3.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg",
+          "url": "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg",
           "width": 718,
           "height": 478,
           "title": null,
@@ -489,7 +638,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T19:40:00-07:00",
+      "publishedDateTime": "2022-04-13T18:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "China Daily",
@@ -1008,160 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-zipyai-which-accelerates-software-debugging-for-enterprises-raises-28m.md",
-      "title": "Zipy.ai, which accelerates software debugging for enterprises, raises $2.8M",
-      "excerpt": "San Francisco-based Zipy.ai, which accelerates software debugging for enterprises, today raised $2.8 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
-      "originalUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/VishaliniApril2022-e1649864412499.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/13/zipy-ai-which-accelerates-software-debugging-for-enterprises-raises-2-8m/amp/",
-      "publishedDateTime": "2022-04-13T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-razer-and-lambda-made-a-linux-laptop-for-machine-learning.md",
-      "title": "Razer and Lambda made a Linux laptop for machine learning",
-      "excerpt": "When it isn't busy making sleek laptops for gamers, Razer can come up with a laptop fine-tuned for enterprises that develop deep-learning applications for various fields",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "originalUrl": "https://www.techspot.com/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-13-image-34.jpg",
-          "width": 3612,
-          "height": 2295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94181-razer-lambda-made-linux-laptop-machine-learning.html",
-      "publishedDateTime": "2022-04-13T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform.md",
-      "title": "BlueOcean raises $30M for its AI-based brand intelligence platform",
-      "excerpt": "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "originalUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024",
-          "width": 1024,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
-      "publishedDateTime": "2022-04-13T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
