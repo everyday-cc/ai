@@ -573,6 +573,50 @@
       ]
     },
     {
+      "path": "_news/2022-04-12-prognostics-of-unsupported-railway-sleepers-and-their-severity-diagnostics-using-machine-learning.md",
+      "title": "Prognostics of unsupported railway sleepers and their severity diagnostics using machine learning",
+      "excerpt": "Railway sleepers are safety–critical components of a railway structure. They support ballasted track superstructure and are a critical factor in track geometry and track components’ deterioration. Unsupported sleepers are a common issue incurred after tracks have been utilized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-022-10062-w",
+      "originalUrl": "https://www.nature.com/articles/s41598-022-10062-w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-10062-w/MediaObjects/41598_2022_10062_Fig1_HTML.png",
+          "width": 685,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
       "title": "How are Indian banks adopting digitisation and AI?",
       "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
@@ -1282,49 +1326,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow.md",
-      "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
-      "excerpt": "March 29, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

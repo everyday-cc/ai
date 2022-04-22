@@ -2,6 +2,58 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-02-17-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
+      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
+      "excerpt": "DETROIT, Feb 16 (Reuters) - Luxury automaker Jaguar Land Rover (TAMOJL.UL) and Silicon Valley artificial intelligence company ... with Alphabet Inc's (GOOGL.O) Waymo unit to deploy autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-nvidia-ally-vehicle-software-arms-race-2022-02-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/lDKr2wQMMv6csePVXeGKl7gImc4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4I3LW5Z4NK5XD3QVCGL5T6TCU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-16T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor.md",
       "title": "DeepMind’s AI can control superheated plasma inside a fusion reactor",
       "excerpt": "The prospect of unlimited clean energy is still a long way off, but this is another example of DeepMind tackling hard real-world problems DeepMind’s streak of applying its world-class AI to hard science problems continues. In collaboration with the Swiss ...",
@@ -1166,58 +1218,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
-      "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
-      "excerpt": "A combination of GDDR6-AiM with CPU or GPU instead of a typical DRAM makes ... It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg",
-          "width": 400,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T20:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

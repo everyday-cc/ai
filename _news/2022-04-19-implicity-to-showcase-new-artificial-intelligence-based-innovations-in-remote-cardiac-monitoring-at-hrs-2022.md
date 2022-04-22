@@ -2,25 +2,24 @@
 category: news
 title: "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022"
 excerpt: "A key highlight will include a Rhythm Theater presentation focused on the constraints and challenges of remote cardiac monitoring (RCM), as well as the impact of AI in managing ILR dataflows and transforming RCM into an opportunity for clinical research."
-publishedDateTime: 2022-04-19T12:30:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+publishedDateTime: 2022-04-19T13:30:00Z
+originalUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
+webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/"
 type: article
-quality: 20
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: We Are Green Bay
+  domain: wearegreenbay.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
+  - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
+    width: 1018
     height: 340
     isCached: true
 
@@ -40,6 +39,6 @@ related:
         height: 290
         isCached: true
 
-secured: "Q2FOtlm2bOmpV7UoVVCBwQrlZBv+Gxte6R+LKzERdgijV1Y1IEkI2zL06yzmHHkz31AMSuk1apHscI4UuNtWEjoRTstAQT6AxOVnWohYpMB/r0CfIk5W/L9FSnMwzgcC8I+PE/TZgOg8ckNpGbreLbyL8HBNHVMQtkOUt7lLCaPFwpMO0Hnwymy4i9sDzHdDAAJHfVSWrLYDxLJq0tUKHulhGMXbucOf3NCI/0JbAEwy+IMd4ZXAgXH7Q4jXrCj5vngObQ/dSfhuYhktdD3RIGI2cpAy9gOTQ6LewSxPFP20kOWBJ6B71XbK6uqfVBYtvyrwA7lphYunb7BdKF19zPc/BMNXSrGFyyb77l0pNz4=;zq2SHBj8LIsIc0XiUK6gVA=="
+secured: "DsSoQHp/StH50v5wkLk7vaY3PVberd25TcBnuJHhIF3HG5YX4FE5tj4xIAtLNNvdFMxCGemQj9kJLnxcy9AZ2v+Qgbz9qlkqMdPKgcIlrzBQ7Rjh9suC8Uwizc8CBrQsq23xCGraSJ+dXPz0ytFRmt0ncCk9//kzh1wbMvBhnSn0YB8nGdSwcApawB5WGU3Bk3etNfOnIrXCOyqtyxaAjsKQTQSHnStPgQGJ3d8C+0TLsE+quryNzlGUNzbYyd2VcusJxcqjhxYQSUJlGK2qlMEyboEpA+hmFg/2cBEuuyJ8TpoAYXMSiTZUjvF5RSdf6dlZDQScqtdoTWx6cqtVgLCFk7RjYOkwobD7Sou2RHk=;or3r67CnK6LWQs+Gz3wvGw=="
 ---
 

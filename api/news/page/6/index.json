@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-04-14-5-things-to-know-about-the-hottest-new-trend-in-ai-foundation-models.md",
-      "title": "5 things to know about the hottest new trend in AI: foundation models",
-      "excerpt": "Machine learning systems like DALL-E impress with their ability to generate creative work. These systems are known as \"foundational models.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models",
-      "originalUrl": "https://thenextweb.com/news/5-things-about-hottest-new-trend-ai-foundation-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fdalle.png&signature=5c81f4078ee4d3876527977e4ec061de",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-machine-learning-for-biology-is-starting-to-move-towards-retail.md",
       "title": "Machine Learning For Biology Is Starting To Move Towards Retail",
       "excerpt": "It is clear that the growth of the skincare segment provides yet another opportunity for machine learning to be used as part of a market solution.",
@@ -462,7 +411,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1164,6 +1114,49 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs.md",
+      "title": "Intel agencies advance artificial intelligence in patches, struggle with big breakthroughs",
+      "excerpt": "Officials say a more “integrated” approach is needed to truly transform tradecraft using artificial intelligence technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
+      "originalUrl": "https://federalnewsnetwork.com/intelligence-community/2022/04/intel-agencies-advance-artificial-intelligence-in-patches-struggle-with-big-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2021/06/GettyImages-1168105746.jpg",
+          "width": 2246,
+          "height": 1335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

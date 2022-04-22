@@ -81,6 +81,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI Is Already Learning from Russia’s War in Ukraine, DOD Says"
+    excerpt: "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,"
+    publishedDateTime: 2022-04-21T22:27:00Z
+    webUrl: "https://www.defenseone.com/technology/2022/04/ai-already-learning-russias-war-ukraine-dod-says/365978/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/04/21/An_unusable_Ru_2500/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "3vmD9pgNyB1lcqsXhrlF0YEIxpeh2MFc81SjoJjJYZKeMdRAIY+GxMZ46HafBqu2XEdtgKolc3HLaB1Y7BFD+8eUjJYcRyBv+m/N0AmUImAjc6+yW4veqSUcSQcYit3fB5b6UOoFNtjMjBE/l/fLJ0Qc1wlzkwJJBhnx5/wYOl/8zl6uDua+uNjgYB+dQM4HZSULpKVTPW/ulMyXWwSwMEr+hyhWWPIKIWlVKYUN8XFK2HzQcnofWyCW5hLXFh32YqsHXGaOxT6lLL+Ffx0alz6s3fDhSjiJwwmGUOdri9DIou2VtWLjAWQuvtq1phqTtsHXP/YN7HnnZ1xM5F3IPzz+v8vZM9k0anuIPM3SgOc=;s8QF8TNRjevLhBcvbPeAjA=="
 ---

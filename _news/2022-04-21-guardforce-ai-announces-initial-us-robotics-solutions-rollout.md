@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout"
-excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (\"Guardforce AI\" or the \"Company\") (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
-publishedDateTime: 2022-04-21T11:35:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/04/21/guardforce-ai-announces-initial-u-s-robotics-solutions-rollout"
-webUrl: "https://stockhouse.com/news/press-releases/2022/04/21/guardforce-ai-announces-initial-u-s-robotics-solutions-rollout"
+excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U."
+publishedDateTime: 2022-04-21T11:06:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 99
+published: true
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Guardforce AI skyrockets 35% in early trade on initial U.S. robotics solutions rollout"
@@ -49,7 +55,23 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The Gross Law Firm Announces Class Actions on Behalf of Shareholders of TASK, AI and VRT"
+    excerpt: "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / The securities litigation law firm of The Gross Law Firm issues the following notice on behalf of shareholders in the following publicly traded companies."
+    publishedDateTime: 2022-04-21T22:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/ac26753270/the-gross-law-firm-announces-class-actions-on-behalf-of-shareholders-of-task-ai-and-vrt"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26753270"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26753270"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
-secured: "kEo9mPNL8H9muZa2JSRiqZNVZrJJWDMp7QgW7KKAdgN2lmomvTKLEoW8Pr4auVSmu2t8xp2vD4HjWjjEy5cz4L5KDsrzwP7Jg1ljcSrS3BVKhyRGbVQatn6boXIp9LYddXod3XKkIJMklUZ+yANb22fdp3hT33aDF7JhByJYNZTKu7SW15ZBE4e0RmQrD8tj5a5ww/Q2fY25KcfNu+brZe0VofTQPO1UF3Dx6YStAgs/CcQrzpqvc4lKj7KnKujlhP4BpqURNDvUkKPbTgbuZtiY4UWwnXPOmPHmMKKuEorwF+fT4sFL2l9kB9ZCYQgWUo0/JbZrS6DCCq0BuvIwgViuImBM/DS1E5wBFBPaZusEb3ZmugSwYnw0dwTuttgegVwWGG0WhndNpd2QXkXkzFCaLXGa3XoIJZ3W8uqcxi6K4CTDqdr8o8jao80//FzckB3SpzgVcVrcoevCiQP54NgGuHvqeEQ9mHXMNWOPFLdjiZgzmt7BEWf6R5u7UwmiZaFnn7SzD7Ou4Pz5EjlXGA==;8zWApaioze1KIr2ZB9p3Pg=="
+secured: "suWNJrtOE9/rZjPip5iJlbRQoeIIcx6Ubs9uywwQ9BhHGn6HWY9PWoMEHltSaFpF3t0Lw+PshDQvuSRX6CYAy9nhzh1+dC5or+6AXAtr8VoaHzgtJwuheeGL2+mB82rmwMmUrymMRR8/iHf45h1LXvlfFdMvfqBqSb6W2AHfoTPSWzJr2Z16qTQKfxOWb+RNS5KSCw5+cSs0MMm5jg4Z7pjnCT8y9x45StpZ79v0uLUYe+DNgxEERy9K288UepyQNG/shYfX/ob6l/QPfYZov8eelntntjKqJeEwMviRSDfEJ3QWMJxnwQlR9feR+Tnz2x9H4hHxWTH47FA5VPNyxif+Pkm7kawsMDgeLoYF0PY=;WxoYbk7yWIk6D9DlovW/vA=="
 ---
 

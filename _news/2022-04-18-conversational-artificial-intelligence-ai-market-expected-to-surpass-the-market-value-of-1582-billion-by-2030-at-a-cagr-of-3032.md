@@ -57,20 +57,6 @@ related:
         width: 2500
         height: 1697
         isCached: true
-  - title: "Natural Language Processing (NLP) Market is Anticipated to Reach USD 44.96 Billion By 2028"
-    excerpt: "Increasing demand for NLP among various industry verticals is one of the significant factors influencing market growth.Natural Language Processing (NLP)"
-    publishedDateTime: 2022-04-17T05:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-is-anticipated-to-reach-usd-44-96-billion-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 44
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/097f64eb89291e8a2f361ffd58d7c60d0d8ae09c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Always-on applications are expected to drive ultra-low power AI chip market to $3.3 billion by 2027"
     excerpt: "Ultra-low power AI chip shipments have already reached 10s of millions. Several AI chip start-ups have delivered on their promise in this market segment and are ramping up"
     publishedDateTime: 2022-04-18T23:09:00Z

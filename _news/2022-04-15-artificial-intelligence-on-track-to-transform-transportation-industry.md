@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://knowtechie.com/wp-content/uploads/2018/10/email-marketing-400x240.jpg"

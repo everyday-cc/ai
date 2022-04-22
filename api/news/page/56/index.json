@@ -2,6 +2,50 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-03-01-baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown.md",
+      "title": "Baidu Revenue Beats After Cloud Sales Offset Ad Slowdown",
+      "excerpt": "Baidu Inc.’s revenue beat estimates after efforts to monetize artificial intelligence technology helped offset losses in ad sales triggered by China’s economic slowdown. Revenue for the December quarter came in at 33.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown",
+      "originalUrl": "https://www.bloombergquint.com/global-economics/baidu-revenue-beats-after-cloud-sales-offset-ad-slowdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-ai-deciding-how-to-distribute-harm-breeds-dicey-ai-ethics-dilemma-markedly-so-for-nascent-ai-based-self-driving-cars.md",
       "title": "AI Deciding How To Distribute Harm Breeds Dicey AI Ethics Dilemma, Markedly So For Nascent AI-Based Self-Driving Cars",
       "excerpt": "AI systems are having to ascertain how to distribute harm, a decidedly Ethical AI issue, including for the case of AI self-driving cars.",
@@ -1127,49 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-how-to-build-ai-into-your-organisation.md",
-      "title": "How to build AI into your organisation",
-      "excerpt": "Artificial intelligence engineering brings together various disciplines to tame the AI hype, while providing a clearer path to realising value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
-      "originalUrl": "https://www.itweb.co.za/content/5yONPvEgj6OMXWrb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/qXhtGqfRmvYJemNXeBA1UrYupb6q0DGm9VELa4ioE_d74vqV-zZ7Q3LsZMF56J9dCI16rcZK9SdVHmDrToHkwC8PWErMndcvJ0M=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONPvEgj6OMXWrb",
-      "publishedDateTime": "2022-02-28T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-04-09-a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave.md",
+      "title": "A newcomer to AI data labeling, Encord looks to ride a rising tidal wave",
+      "excerpt": "Aiming to generate labeled data sets for computer vision projects, Encord launched its own beta version of an AI-assisted labeling program called CordVision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Screenshot-2022-03-24-at-16.41.23-copy.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "publishedDateTime": "2022-04-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-cognos-vs-tableau-2022-software-comparison.md",
       "title": "Cognos vs. Tableau: 2022 Software Comparison",
       "excerpt": "Tableau and IBM Cognos are two well-respected business ... For other formats, ease of use can suffer. Similarly, the AI-powered and Watson-backed analytics of Cognos lower the barrier to the ...",
@@ -1165,49 +1216,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
-      "title": "Ukraine uses facial recognition software to spot Russian spies",
-      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "publishedDateTime": "2022-04-07T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

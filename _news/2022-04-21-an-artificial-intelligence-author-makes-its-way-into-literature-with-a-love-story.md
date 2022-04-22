@@ -1,28 +1,28 @@
 ---
 category: news
 title: "An Artificial Intelligence Author Makes Its Way into Literature with a Love Story"
-excerpt: "Is it possible to learn how to feel? A research study to validate artificial creativity will discover it.  With more than 30 year"
-publishedDateTime: 2022-04-21T11:08:00Z
-originalUrl: "https://menafn.com/1104063334/An-Artificial-Intelligence-Author-Makes-Its-Way-into-Literature-with-a-Love-Story"
-webUrl: "https://menafn.com/1104063334/An-Artificial-Intelligence-Author-Makes-Its-Way-into-Literature-with-a-Love-Story"
+excerpt: "A research study to validate artificial creativity will discover it. With more than 30 years of research in AI, I thought that nothing could surprise me until I found a machine that knows what love is about” — Angel García-Crespo OVIEDO,"
+publishedDateTime: 2022-04-21T05:10:00Z
+originalUrl: "https://www.wicz.com/story/46334679/an-artificial-intelligence-author-makes-its-way-into-literature-with-a-love-story"
+webUrl: "https://www.wicz.com/story/46334679/an-artificial-intelligence-author-makes-its-way-into-literature-with-a-love-story"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-04/21/EP_fd8c7image_story.png"
-    width: 960
-    height: 540
+  - url: "https://EINPRESSWIRE.images.worldnow.com/images/22552551_G.png?lastEditedDate=1650503433000"
+    width: 900
+    height: 506
     isCached: true
 
-secured: "AWLTxWUftut/dOo1qCdq2fbub+/a1o9z+gHcWmzT7FdelceEZyrdhn2g0VuGuYi8EuvVL+7YM+tb3Kb0u64IYqAYiUVPW+WtTYLWYbrETFOm+c/olqftK/ADKjSgP0m9Gvi/FthNP5IBu9gEk9o//hNFb3ALoIV230Zh3OJiyeImcn1DEZfYWqZuuh2aQDDacvJFWgJwjcVJslTE6fku+97uEqwWs2GfapgXa8/MjK2mI8IP7q9WwSQ+ogVXlFo0bdxVwOcMAKX8xF8O99t/jptRlb2su4P42S45ukefRjIMLWP0MZshBITGyP73xJwcumnKW6kcIxBzD8HyboIeD0258Dsky6mMh7ywUSOUoWo=;mkAv4DDYG8rLgipHOBQGVA=="
+secured: "FNO0tJlGO7HMzmUMLNLEJpNrDQDmUvwaQJIb2tlOo4TYKSOHc/cD7eES5uaI4wntxwq8Nyx0YnzgZ/bJkfMlfwn+PFDnipX2LxT13y53aGWTxMTsEdw4Nnk4u4sYzsGXSVv1E4+sIC1M2I9Q/6Vh6w/bsmRiKdt5d2gZnGIuHOsSG2WMLD5I1hElo3Wou5q8eSuJ49+BzeK7y4dhfK2M5Yvb0Z8NXKmbY2qn+gBJCJIPCjEn+j9GTzZXoNLlqDG0zEoCxFeVQ5SvmuVnnYJrA5us9g+ZSJB+Lg/30kmvUX9frsfxD0ksHEzm21vBbfQCqiNH7nyA0q4CEX+q22UV5iPggw9jUmufdWApIMh6E1s=;TCQyAq170o02n2ylXlpdDA=="
 ---
 

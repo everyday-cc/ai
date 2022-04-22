@@ -51,6 +51,34 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "AWS Summit San Francisco: SageMaker Serverless Inference Access Expanded"
+    excerpt: "Amazon Web Services has made serverless inference for its SageMaker machine learning tool generally available with the goal of simplifying model deployment without configuring or"
+    publishedDateTime: 2022-04-21T23:08:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-summit-san-francisco-sagemaker-serverless-inference-access-expanded"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Data services and serverless dominate latest announcements at AWS Summit"
+    excerpt: "As Amazon Web Services Inc. moves further into 2022, the cloud giant is showing a clear focus on data services and serverless computing. The company’s groundwork in both areas was unveiled in late November when it made a series of announcements during the annual re:Invent conference in Las Vegas."
+    publishedDateTime: 2022-04-21T21:55:00Z
+    webUrl: "https://siliconangle.com/2022/04/21/data-services-serverless-dominate-latest-announcements-aws-summit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/swamis2022.jpg"
+        width: 4892
+        height: 3273
+        isCached: true
 
 secured: "ib1tJHzzbyIPSHKhpzZEIL81LxD59xn4geCb0Pdm5N8jnq8Q9vKVhOmOxtSyN/P2QybmVqTta8mjwZausv2TdZS7BxAP2qKlbHh89LB3ATkT0Rb8+Myo/USSpwI5bgsMhzFHECvgDaippp1mkzzJNiApaMT5iVPQBtsYH3KiVge+d2znKiErSwhOQsFlrRRGJOSUx4CdUfkgLkHJhYhC4ePjIKjp5enDZTTTZ3hKWzMfIpqyHQTS4FyjR7fQiQXPROK35qliem6p7WjWPhEsYhgTHCz3yaLbjtgKdtm6e7m/IIm/mWV+bn/D+MxvHQXkImE34SJqy/UyIrI4HW1Qqz5fSKoFt7Zx9l4zhqDJe3EtzFGdbM0idTvp/QqJNKIM+67UaY6xcveTbBOAVvwRXpKjAyrSlOPx335sZW5MbcE2QXlS6xtj9T2x/mt97RGbI7sNSX3/U7LC9kMAvmTLzDYCiMokFNgj6IyNVTJwSkJl0MlbkLSqzYYPLiw97lFf/GSFHyEfDWSrsY4jSg512g==;1Vxtxu9Bdrp+C6uw/mxG6w=="
 ---

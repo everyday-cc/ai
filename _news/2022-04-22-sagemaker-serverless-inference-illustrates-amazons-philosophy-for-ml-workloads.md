@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/21/sagemaker-serverless-inference-il
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/21/sagemaker-serverless-inference-illustrates-amazons-philosophy-for-ml-workloads/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -48,6 +48,34 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1174668591.jpg?w=1024"
         width: 1024
         height: 681
+        isCached: true
+  - title: "AWS Summit San Francisco: SageMaker Serverless Inference Access Expanded"
+    excerpt: "Amazon Web Services has made serverless inference for its SageMaker machine learning tool generally available with the goal of simplifying model deployment without configuring or"
+    publishedDateTime: 2022-04-21T23:08:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-summit-san-francisco-sagemaker-serverless-inference-access-expanded"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Data services and serverless dominate latest announcements at AWS Summit"
+    excerpt: "As Amazon Web Services Inc. moves further into 2022, the cloud giant is showing a clear focus on data services and serverless computing. The company’s groundwork in both areas was unveiled in late November when it made a series of announcements during the annual re:Invent conference in Las Vegas."
+    publishedDateTime: 2022-04-21T21:55:00Z
+    webUrl: "https://siliconangle.com/2022/04/21/data-services-serverless-dominate-latest-announcements-aws-summit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/swamis2022.jpg"
+        width: 4892
+        height: 3273
         isCached: true
   - title: "AWS Announces General Availability of Amazon Aurora Serverless v2"
     excerpt: "New version of Amazon Aurora Serverless scales to hundreds of thousands of transactions in a fraction of a second, delivering up to 90% cost savings compared to provisioning for p"

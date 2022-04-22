@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards"
-excerpt: "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ..."
-publishedDateTime: 2022-04-13T13:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm"
+excerpt: "\"Using this data, we have optimized our AI to achieve 82% NLU intent classification accuracy in enterprise sales conversations. That's higher than IBM Watson, Dialogflow, and the average human.\" Businesses utilize Aktify's AI-powered virtual agents to hold ..."
+publishedDateTime: 2022-04-13T14:37:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aktify-named-winner-in-2022-artificial-intelligence-excellence-awards/article_0ea20623-dad8-5bb7-bfd3-c6b1be419ae5.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
+  - IBM AI
   - AI
 
-secured: "/k9Mddy0LlneMTxa0GB8xW1m/AWOjZf1ZM1kUVFTW1Aszk/OUDzxaxqWFJhOpWj/crG2/lKz5FPxenbVNmCGmpuQbGow091ogpPdJz5iqMjUYw14vfPL+OH9UyOwnsOa9UGb1GcubCBBDfX9/0OoPVv08ufXo7GIuMAikfFoXIXsqTa5zYW7JUIxGW5O1LU0FQDSExl2aTsrFbPfc30XTTRq3RW/rNZSVjFLE/yRzusu2KByl/YTcKPsffDdBdRRBQ5uhd+Lqh1S2z+f2prIePFSnYjWFnzUNERP5HnweRwOAoohsK9hqcmtEsV2CxMrHEbzzYH8lYyDRsKQ8g3hq3r07c2tsvxhHswd1rfdp+U=;dJZBnoNIL8gLeBkMw0fmlQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "aodh9b2Gh3xYm0Ca8hwT4Oqj4KgV9kW0cyVeF8mDazBeHSHiGmvaWJ+kst6ErFFVUQubQCN4lpz288tZbZypz3iXd9fyLWO6F0cuiyJEI2I8jH5SIQJ+Bc9B1+IsAkGWsyQCHq5M2nLUipPzpBJapwofUbZolBq0STKf0EAooR6ez7HU3Uyc3+0ABksik9aIO1YgU/DtphgoiNTk7bVS5AKH/YFwBwuhD9EAgyPWKwK5Z+sJKw2zGmrsuZadQXt2gSBRI3HaRxjdxlf7mKKsAz/wcgMZF1wfiPPRuk3Jq5pUszSYM6WebSAnzisTf0VURpI1QMXpa9CRD/ZXT1AUyRjSvG2to43xx0DlLCeS0Eg=;qjXKdcp+lYuCEHnjhE8g7g=="
 ---
 

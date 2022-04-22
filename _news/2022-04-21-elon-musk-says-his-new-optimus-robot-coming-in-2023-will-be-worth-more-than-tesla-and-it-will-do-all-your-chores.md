@@ -36,6 +36,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Elon Musk: Tesla's robotaxis will be driving you around in 2024"
+    excerpt: "Tesla CEO Elon Musk says that it plans dedicated robotaxis without steering wheels, or pedals, to hit the market by 2024."
+    publishedDateTime: 2022-04-21T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85731/elon-musk-teslas-robotaxis-will-be-driving-you-around-in-2024/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "4S8t7TVYkv4GGfRikn04v94B/cwoOFTSTG6dbraoDeI09SzUZxJXQdODx3yKRpVu9fcQwuPPQlrFM3rmmyjWVa5krH9QaYsJIrHEhaIiKowOKmC0hESK+DYYFBZBhbS1qxTl8KyNp8di7/u1AY5KhiXMa+7nZrdib+l9S6KXBvFOI2/QvInKOJT1c0N5TFragE63sIK/G4hL7iaC3inJe8Iemn/MbBNzVSqWhulr5hER2vOrhjoDL0mvoH8Ad927YNun0Xtlvm9Z2iUZ0oTNxBD1FQly0yeJOdul7VhowaM6xLRpmDKbDFVYKjvyBKipm+P7cNn4/kak6XOr9UB2mHxXLfxeoXzme+/6PTloWlg=;hxZ1y89OkaPYm+fnuI4aUg=="
 ---

@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI Is Already Learning from Russia’s War in Ukraine, DOD Says"
+    excerpt: "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,"
+    publishedDateTime: 2022-04-21T22:27:00Z
+    webUrl: "https://www.defenseone.com/technology/2022/04/ai-already-learning-russias-war-ukraine-dod-says/365978/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2022/04/21/An_unusable_Ru_2500/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Ukraine Abuses US Facial Recognition Tech To Identify Dead Russians And Send The Images To The Families!"
     excerpt: "Psychological warfare is a tactic in conflict, but the Ukrainians use the technology for different evil purposes with modern technology. The Liberal Washington Post reported that the Ukrainian government uses the US facial recognition technology to scan and identify the faces of dead Russian soldiers so they can send pictures to their families!"
     publishedDateTime: 2022-04-19T12:33:00Z

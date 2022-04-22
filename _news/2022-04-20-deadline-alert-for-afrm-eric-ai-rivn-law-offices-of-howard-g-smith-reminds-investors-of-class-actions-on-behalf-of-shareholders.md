@@ -32,6 +32,20 @@ related:
         width: 789
         height: 434
         isCached: true
+  - title: "AI LAWSUIT ALERT: Levi & Korsinsky Notifies C3.ai, Inc. Investors of a Class Action Lawsuit and Upcoming Deadline"
+    excerpt: "The lawsuit seeks to recover losses on behalf of C3.ai, Inc. investors who were adversely affected by alleged securities fraud. This lawsuit is on behalf of a cl"
+    publishedDateTime: 2022-04-21T10:45:00Z
+    webUrl: "https://www.myhighplains.com/business/press-releases/cision/20220421NY31244/ai-lawsuit-alert-levi-korsinsky-notifies-c3-ai-inc-investors-of-a-class-action-lawsuit-and-upcoming-deadline/"
+    type: article
+    provider:
+      name: myhighplains
+      domain: myhighplains.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1687309/LK_1920x1080_Logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against C3.ai, Inc. (AI)"
     excerpt: "Glancy Prongay & Murray LLP (“GPM”) reminds investors of the upcoming May 3, 2022 deadline to file a lead plaintiff motion in the class action filed on behalf of investors of C3.ai, Inc. (“C3.ai” or the “Company”) (NYSE: AI) who purchased or otherwise acquired: (a) Class A common stock pursuant and/or traceable to the December 2020 initial public offering (“IPO”);"
     publishedDateTime: 2022-04-21T16:04:00Z

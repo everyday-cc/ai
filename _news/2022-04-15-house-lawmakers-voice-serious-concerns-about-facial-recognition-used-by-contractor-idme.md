@@ -1,16 +1,13 @@
 ---
 category: news
 title: "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me"
-excerpt: "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy ..."
-publishedDateTime: 2022-04-14T21:40:00Z
-originalUrl: "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
-webUrl: "https://edition.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
+excerpt: "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy, privacy and security\" of its services and products. The move ..."
+publishedDateTime: 2022-04-14T22:06:00Z
+originalUrl: "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
+webUrl: "https://www.cnn.com/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/14/tech/idme-facial-recognition-house-lawmakers/index.html"
 type: article
-quality: 81
-heat: 151
-published: true
 
 provider:
   name: CNN
@@ -31,111 +28,6 @@ images:
     height: 619
     isCached: true
 
-related:
-  - title: "House panels probe government use of facial recognition software following security concerns"
-    excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
-    publishedDateTime: 2022-04-14T19:47:00Z
-    webUrl: "https://www.kcci.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    ampWebUrl: "https://www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-    type: article
-    provider:
-      name: KCCI Des Moines
-      domain: kcci.com
-    quality: 65
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T01:17:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "ID.me and Facial Recognition Software Probed by Lawmakers"
-    excerpt: "Lawmakers have launched an investigation into ID.me, the identity verification contractor, and its use of facial recognition."
-    publishedDateTime: 2022-04-15T10:25:00Z
-    webUrl: "https://www.maketecheasier.com/id-me-facial-recognition-lawmakers/"
-    ampWebUrl: "https://www.maketecheasier.com/id-me-facial-recognition-lawmakers/?amp"
-    cdnAmpWebUrl: "https://www-maketecheasier-com.cdn.ampproject.org/c/s/www.maketecheasier.com/id-me-facial-recognition-lawmakers/?amp"
-    type: article
-    provider:
-      name: maketecheasier.com
-      domain: maketecheasier.com
-    quality: 59
-    images:
-      - url: "https://www.maketecheasier.com/assets/uploads/2022/04/Lawmakers-ID-me-Facial-Recognition-Featured.jpg"
-        width: 1350
-        height: 675
-        isCached: true
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-18T16:18:00Z
-    webUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: WQAD
-      domain: wqad.com
-    quality: 59
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "House committees launch probe into feds’ use of facial recognition software"
-    excerpt: "Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T08:50:00Z
-    webUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/"
-    ampWebUrl: "https://wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/04/15/house-committees-launch-probe-into-feds-use-of-facial-recognition-software/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/man-gc0619524e_1280-e1644924933516.jpg"
-        width: 1267
-        height: 713
-        isCached: true
-  - title: "House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider"
-    excerpt: "Looking for the latest Government Contracting News? Read about House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider."
-    publishedDateTime: 2022-04-18T20:41:00Z
-    webUrl: "https://executivegov.com/2022/04/house-lawmakers-kick-off-inquiry-into-facial-recognition-service-provider/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 38
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/20/ec/ee/33/c8/fd/47/94/00P4y000011p6OsEAI.png"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "House lawmakers investigating government use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-15T13:10:00Z
-    webUrl: "https://www.10tv.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: 10TV.com
-      domain: 10tv.com
-    quality: 17
-
-secured: "EMsSI4uxSYUM4Gw+MLUQQk8kGXhUDZaqVbAID22z3IDF2TiMPGf9PuuUeLI7vEN+y4awgSuCawNBMVFxrofrHEzkUHbD5Nv7PLAZ6OoOA7j89huWmZrvdMu6kWAmCquG3tmWZdIB7ctW0xuUGJLMAALbEPyeJ6LYc4lGpasopKSBNfb7d7V4ET9tNrlwlUnMoWgue8aOL//OM4F1McL4zZFLc8zAu0YOXIvmyL7AvDKn6bZ2nMPygfDN2t9MzJbmheBwNIOqQXOOKs+cnV1D8B2WecikZ/kGNQoZiXAAHUhnJ9K0aKFSYj3YqpWMwszIQb7eOvQLGm+n7o3Yn5yjFVQJeN8wDOpbN5MIaJR+C2N6N0Vt9bQ6ArfeMF75iKzcJ2By+OZ1RBEC+Wqdpc1HtBU9ZBxA6/BYMdBQr9GPTjtl50UbQfmr/1FFhs65T9sPY7eKZJNdib23DMOruYs9LykzQg5zncigbx5PBS2FIfNIm5XxWd1dAWtTzdrOK3R1kct+l/k2RaGuR5XRtLp6Nw==;4903YGs25IxREIeFHg9Qtg=="
+secured: "KdtQXRTt1/E0vy98dyPalrnJ38chtor9UqEMYM3V7xDKdVF3ml9CSxHLcrnVILtMWf+yHGg5JlXB+lYZbMgcLXDDKfiZQrtVcUuyisZ+kav2REbKp6BS1BQxbcXNJFz8yR9B+GkudevBX5KNNhqtrGDGBwzfT10oHZa92CSao8ZaR7mgrGCQHwUfl7C8XnQTAVzqYDTjGPoG8iRUE74ZdJBNwrFEfZySMOximP3ixdEW/uRa2PaZbyu0AKk86n/n1Y6NG3tNdwfpAKIV31NMahacgD+vd63Cda6zOB+zYnZaVUaWv+al9V3x5v7QZYkhU7sqTlQYVdDq+1EOQ32hb8vHl4b5Ukg2KrXd5l7qTm8=;HFwndsWPc0OdtykD0ldoaQ=="
 ---
 

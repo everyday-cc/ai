@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/robots-musk-in-homes"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/robots-musk-in-homes"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk: Tesla's robotaxis will be driving you around in 2024"
+    excerpt: "Tesla CEO Elon Musk says that it plans dedicated robotaxis without steering wheels, or pedals, to hit the market by 2024."
+    publishedDateTime: 2022-04-21T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85731/elon-musk-teslas-robotaxis-will-be-driving-you-around-in-2024/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
   - title: "Elon Musk says his new Optimus robot coming in 2023 ‘will be worth MORE than Tesla’ – and it will do all your chores"
     excerpt: "ELON Musk has revealed that his upcoming Optimus robot will eventually be worth more than the Tesla car business. The sci-fi droid was announced last year – and will look like a human. It’s"
     publishedDateTime: 2022-04-21T13:44:00Z

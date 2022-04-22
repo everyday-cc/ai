@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "New deep learning method aids in the accurate diagnosis of parkinsonian diseases"
+    excerpt: "A new deep learning method has been created to aid in the diagnosis of parkinsonian diseases, according to research published ahead of print by The Journal of Nuclear Medicine."
+    publishedDateTime: 2022-04-21T23:35:00Z
+    webUrl: "https://www.news-medical.net/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 69
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Innovations in management of Parkinson’s Disease: Robotics, artificial intelligence & beyond…"
     excerpt: "April is the Parkinson’s Disease (PD) awareness month, commemorating the prevalence of this extremely tenacious, incapacitating and difficult-to-treat chronic degenerative neurological disease. What is Parkinson’s Disease?"
     publishedDateTime: 2022-04-17T10:30:00Z

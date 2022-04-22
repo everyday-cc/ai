@@ -2,6 +2,61 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-02-08-spell-graphcore-partner-to-build-next-gen-ai-infrastructure.md",
+      "title": "Spell, Graphcore partner to build next-gen AI infrastructure",
+      "excerpt": "“We had the opportunity to highlight Spell.ml’s capabilities in a recent Cool Vendor research note, “Cool Vendors in Enterprise AI Operationalization and Engineering,” Dekate said.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/",
+      "publishedDateTime": "2022-02-08T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-apple-buys-artificial-intelligence-music-startup-for-undisclosed-sum-report.md",
       "title": "Apple buys artificial intelligence music startup for undisclosed sum: report",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired a London-based startup known as AI Music to help generate customized music, Bloomberg reports. According to the news outlet, Apple could use the technology to help ...",
@@ -1083,58 +1138,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-drops-facial-recognition-verification-after-privacy-concerns.md",
-      "title": "IRS drops facial recognition verification after privacy concerns",
-      "excerpt": "The IRS said Monday it will not use facial recognition to verify the identities of users of its site. Instead, it will implement other means to validate taxpayers' information, and says this change will not impact the current tax season. It follows the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "originalUrl": "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 589,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/fqBMSABQmuJ8J_k4DBf7z7He9lU=/0x278:4000x2525/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/",
-      "publishedDateTime": "2022-02-07T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

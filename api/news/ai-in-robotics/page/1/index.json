@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-04-21-guardforce-ai-skyrockets-35-in-early-trade-on-initial-us-robotics-solutions-rollout.md",
-      "title": "Guardforce AI skyrockets 35% in early trade on initial U.S. robotics solutions rollout",
-      "excerpt": "Guardforce AI (GFAI) rallied 34.7% higher premarket after it announced the rollout of its robotics services in New Jersey, U.S. where the company's U.S. offices are based.The",
+      "path": "_news/2022-04-21-guardforce-ai-announces-initial-us-robotics-solutions-rollout.md",
+      "title": "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U.",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3825191-guardforce-ai-skyrockets-35-in-early-trade-on-initial-us-robotics-solutions-rollout",
-      "originalUrl": "https://seekingalpha.com/news/3825191-guardforce-ai-skyrockets-35-in-early-trade-on-initial-us-robotics-solutions-rollout",
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T04:30:00-07:00",
+      "publishedDateTime": "2022-04-21T04:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -391,7 +391,7 @@
       "originalUrl": "https://interestingengineering.com/robots-musk-in-homes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -478,41 +478,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-17-innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond.md",
-      "title": "Innovations in management of Parkinson’s Disease: Robotics, artificial intelligence & beyond…",
-      "excerpt": "April is the Parkinson’s Disease (PD) awareness month, commemorating the prevalence of this extremely tenacious, incapacitating and difficult-to-treat chronic degenerative neurological disease. What is Parkinson’s Disease?",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/innovations-in-management-of-parkinsons-disease-robotics-artificial-intelligence-beyond/",
-      "publishedDateTime": "2022-04-17T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -834,6 +799,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
+      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
+      "excerpt": "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "publishedDateTime": "2022-04-13T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
