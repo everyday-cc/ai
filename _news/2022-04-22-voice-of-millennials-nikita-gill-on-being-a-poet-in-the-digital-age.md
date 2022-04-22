@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:12:00Z
 originalUrl: "https://www.khaleejtimes.com/arts-and-culture/voice-of-millennials-nikita-gill-on-being-a-poet-in-the-digital-age"
 webUrl: "https://www.khaleejtimes.com/arts-and-culture/voice-of-millennials-nikita-gill-on-being-a-poet-in-the-digital-age"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Khaleej Times

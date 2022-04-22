@@ -1,24 +1,28 @@
 ---
 category: news
 title: "How to Improve Corporate Culture with Artificial Intelligence"
-excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
-publishedDateTime: 2022-04-21T21:00:00Z
-originalUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
-webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
+excerpt: "Entrepreneurs should treat AI tools as colleagues. This article highlights how they can use AI tools to navigate rapid changes, build a solid workplace culture in a hybrid work environment, and manage internal communications."
+publishedDateTime: 2022-04-21T17:00:00Z
+originalUrl: "https://www.entrepreneur.com/article/422890"
+webUrl: "https://www.entrepreneur.com/article/422890"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1649877972-GettyImages-1198333917.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -115,6 +119,6 @@ related:
       domain: digitaljournal.com
     quality: 0
 
-secured: "WEkFliW5wnl2hqV0GxM3SpvDWyGd8oi/aEdJ93gRW7vcNRL0F8iXMEzGKsEWxb/JPXlo9ebZc2gyV4Zf13+und6QGdN+wLYbTdhkOhFaUYw5ftP5FnBwoz9LLe1U1FU50RzJuYgg3vIMtBjtLjt6WDDryBN6fytpvdiwVZhovAeRzygEF8fUgGDi7yAN+RHl6yEu5oPFkwDLE/hH+xd9o8x42pBM6GIEqpiNQI8UaTnxsHCi7MiXjhlY0VfLx7+NvW6A6twjFR+6KECBu52ye2OnK0QBljJ6aZFBGj2CSEXUO68YgVwrX0VT55w4Htc2At9v5ZSJyQ+69lPQmyEBcLeFZCpbflPU24wyCq92VIM=;VjLOSyTFwqRjvwdpPNciBw=="
+secured: "jlsTFANMfgQfTbfUMh1UFzJ8bOApm0K/0SVeHuERI3Ga3dxeVvCz1DmLiFJypDs4w6sb/w333ASofyn49LS1/zdgUDF90Y4zZ8xoRPVzN0mAcyGZlvkBLeJf+HRcbHUnk38JbXMzX2/F3/rsR19dmgPOpJ2L12kzaxv2yeffpSxH5u5wKZnrANBSmEZMxW9FCLcyxBhp6YrLzrAdFiZy3LOBj7YxnMNiO8rNFX6Itnrqv1ING2jOgA8pP2PIl8riULmzHY8cQ3EwgX7oK365kMpGTTzUNNRQY6bH1+nj2Bt8boO3LEaCbrbGknC9B0DGM0yNA5YqEO3QhjGVCtNslR5Mn53EVn6s1bg8JrneMcw=;WbutrHF5A/gdvmquYCDh1A=="
 ---
 

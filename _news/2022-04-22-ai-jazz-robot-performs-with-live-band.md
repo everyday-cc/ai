@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T12:06:00Z
 originalUrl: "https://www.reuters.com/video/watch/idOV710924032022RP1"
 webUrl: "https://www.reuters.com/video/watch/idOV710924032022RP1"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Reuters

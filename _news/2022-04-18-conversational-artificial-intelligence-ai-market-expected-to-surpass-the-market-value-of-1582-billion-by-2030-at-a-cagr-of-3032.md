@@ -66,6 +66,15 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
+    excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
+    publishedDateTime: 2022-04-20T17:56:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 6
   - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
     excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
     publishedDateTime: 2022-04-19T12:27:00Z
@@ -83,6 +92,15 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.co.uk
+    quality: 0
+  - title: "Wireless Connectivity Market worth US$ 127.9 billion by 2027 – Exclusive Research by The Insight Partners"
+    excerpt: "The applications of artificial intelligence in the automotive and transportation industry is driving the evolution of the next generation of intelligent automotive systems. With the current advancements in Google’s Driverless cars and Tesla’s Autopilot ..."
+    publishedDateTime: 2022-04-22T12:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/wireless-connectivity-market-worth-us-127-9-billion-by-2027-exclusive-research-by-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 0
 
 secured: "Rn+zYXdyCLdYSdCOasd3b9WLUJwjIZytTtDNVIcpgTRo1F0vlExJadpiHa/cNHTciJznAHgF45Y/Zpmcpd+9vNz87LZWLIFksl0kk3HXm6QorruesrNtQGwoFZIVLNIa/9AeBAmmxx6kdcWXauTg318mZputgygVWmBzU6HchEcKXwcCoO2x/aDqOtIIhG2Mip63ef7ribzD0lr2VO+//ylN7+2xLS8Ri5zPC66kcERzsahrYk53JCpGdHSCZ9D3I14AGuQ2Ip0s2BU2Zt0AnN9Ko6Tot3aJX5CkOD1emyDPpAc+sy8agVVROQuzuBq3wRh8SkP5vfL2Dc3XtjaVxTMY8IkCSk89UWvTKeTBm6DD5tkKX4ZwIRfJOIeTurhqujjhOk4AwUyoY1I5Blhqbvfde1ewjBzMJbw9iEm689PeHe+idhK0vdlSZVM5SLTYfreWg1HSV9exHW1eDxXehNrAA2sHKAYjdYXkh+i4aFdclQhl97GXtzv25PRUgJQFVVDXXRPMJ/SVkX4sN4mC9w==;3/+LfzscYM1Lyspaz5EJVw=="

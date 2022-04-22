@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Improve Corporate Culture with Artificial Intelligence"
+    excerpt: "Entrepreneurs should treat AI tools as colleagues. This article highlights how they can use AI tools to navigate rapid changes, build a solid workplace culture in a hybrid work environment, and manage internal communications."
+    publishedDateTime: 2022-04-21T17:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/422890"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1649877972-GettyImages-1198333917.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Nvidia’s next GPUs will be designed partially by AI"
     excerpt: "Nvidia has talked about the use of machine learning and AI in upcoming graphics cards. It plans to use AI to increase the efficiency of next-gen GPUs."
     publishedDateTime: 2022-04-21T19:16:00Z
@@ -84,20 +98,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/05ffc05d3104a90a87bfa4f3347badda_L.jpg"
         width: 620
         height: 388
-        isCached: true
-  - title: "How to Improve Corporate Culture with Artificial Intelligence"
-    excerpt: "Contrary to press-propagated blames on rapid industry changes, unforeseen circumstances and uncontrollable crises, most business failures boil down to poor corporate culture. Interestingly, how corporate culture is perceived has changed just as rapidly as industries have evolved in recent times."
-    publishedDateTime: 2022-04-21T21:00:00Z
-    webUrl: "https://www.chron.com/business/article/How-to-Improve-Corporate-Culture-with-Artificial-17117085.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/32/53/22391490/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022"
     excerpt: "The new solution provides customizable AI using Quantum CatDV software, which leverages NVIDIA DeepStream, NVIDIA Riva, and NVIDIA Maxine SDKs to enrich video content used in broadcast, post-production,"

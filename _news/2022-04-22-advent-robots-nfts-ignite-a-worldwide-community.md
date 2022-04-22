@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:25:00Z
 originalUrl: "https://www.digitaljournal.com/pr/advent-robots-nfts-ignite-a-worldwide-community"
 webUrl: "https://www.digitaljournal.com/pr/advent-robots-nfts-ignite-a-worldwide-community"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Digital Journal

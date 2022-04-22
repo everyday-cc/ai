@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T11:16:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-947dbea9bc5440f6934e73b3e8de9ef0"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-947dbea9bc5440f6934e73b3e8de9ef0"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Associated Press

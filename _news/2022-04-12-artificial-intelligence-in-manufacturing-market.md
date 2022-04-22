@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.marketdataforecast.com/images/download.png"

@@ -35,6 +35,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "All You Need to Know about the Growing Role of Machine Learning in Cybersecurity"
+    excerpt: "ML can help security teams perform better, smarter, and faster by providing advanced analytics to solve real-world problems, such as using ML UEBA to"
+    publishedDateTime: 2022-04-22T15:39:00Z
+    webUrl: "https://www.cioapplications.com/news/all-you-need-to-know-about-the-growing-role-of-machine-learning-in-cybersecurity-nid-9731.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 34
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/py5et450308cioapp.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "The Use of Artificial Intelligence in Cybersecurity"
     excerpt: "The digital age has created several opportunities for us, and at the same time, we’ve been exposed to a whole new level of cyberthreats. There’s no denying that cybersecurity is now an integral part of every business that wants to avoid being a victim of identity theft,"
     publishedDateTime: 2022-04-18T14:54:00Z

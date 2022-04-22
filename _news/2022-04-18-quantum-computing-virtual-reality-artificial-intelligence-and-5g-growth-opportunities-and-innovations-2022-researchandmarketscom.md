@@ -39,6 +39,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
+    excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
+    publishedDateTime: 2022-04-21T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chipset-market-2022-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2028-2022-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
     excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
     publishedDateTime: 2022-04-21T11:11:00Z
@@ -83,6 +92,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
+    excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
+    publishedDateTime: 2022-04-21T09:33:00Z
+    webUrl: "https://galleonnews.com/news/251019/iris-recognition-market-growth-opportunities-key-players-and-threads-analysis/"
+    type: article
+    provider:
+      name: Galleon News
+      domain: galleonnews.com
+    quality: 20
+    images:
+      - url: "https://galleonnews.com/wp-content/uploads/2022/04/mrfr-11-5.jpg"
+        width: 417
+        height: 455
+        isCached: true
   - title: "Asia Big Data Analytics in Education Market Leading Global Companies and Regional Average Pricing Analysis by 2030"
     excerpt: "According to the report published by Allied Market Research, the Asia big data analytics in education market was estimated at $2.89 billion in"
     publishedDateTime: 2022-04-19T16:46:00Z
@@ -97,6 +120,29 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Trend, Growth, Segmentation and Forecast to 2027"
+    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a"
+    publishedDateTime: 2022-04-20T04:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-trend-growth-segmentation-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/mrfr-logo-2-4.jpg?w=1024"
+        width: 1024
+        height: 359
+        isCached: true
+  - title: "Global Military Robots Market To Be Driven By The Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives"
+    publishedDateTime: 2022-04-19T12:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-the-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
   - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
     excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-04-21T20:59:00Z
@@ -111,6 +157,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Opportunities, Deep Analysis With Present Data And Forecast 2022-2028"
+    excerpt: "Artificial Intelligence in Healthcare Analysis AI is used in healthcare for approximation of human cognition and analysis of complex medi"
+    publishedDateTime: 2022-04-18T19:25:00Z
+    webUrl: "https://menafn.com/1104042106/Artificial-Intelligence-in-Healthcare-Market-Opportunities-Deep-Analysis-With-Present-Data-And-Forecast-2022-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
   - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
     excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
     publishedDateTime: 2022-04-21T15:24:00Z

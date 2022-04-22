@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:44:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-rit-digital-imaging-remote-sensing-lab-teams-with-/2022/04/22/9587983.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-rit-digital-imaging-remote-sensing-lab-teams-with-/2022/04/22/9587983.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

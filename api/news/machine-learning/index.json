@@ -558,7 +558,7 @@
       "originalUrl": "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1387,33 +1387,24 @@
     {
       "path": "_news/2022-04-13-adding-multimedia-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
       "title": "ADDING MULTIMEDIA Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
-      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
+      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world's most powerful laptop designed for deep learning, available with Linux and ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-a4ee65d221eb47f9863f86857db20005",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-a4ee65d221eb47f9863f86857db20005",
+      "webUrl": "https://www.eagletribune.com/region/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_3dea9bcd-e932-59f9-bf61-89cd4f97d239.html",
+      "originalUrl": "https://www.eagletribune.com/region/adding-multimedia-lambda-teams-up-with-razer-to-launch-the-world-s-most-powerful-laptop/article_3dea9bcd-e932-59f9-bf61-89cd4f97d239.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T12:18:00-07:00",
+      "publishedDateTime": "2022-04-12T12:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -51,6 +51,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
+    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
+    publishedDateTime: 2022-04-22T13:29:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "S0W5QEFeOecHgk8lKugYDKudvbEeRvtcFdgMKIZoj6K1+FZpQNtC76AFn2SC5mF1wTcLmPD7oRqmVd+llOQjdRvwiInkIXTmuePMWdyeX5Powx/qbupafNel4Ce32eKMW0sOtHwFTdHsX/hYoLUuOCUQhBGjGLkJTkMBCJoHK0XR4r62nSeq+XSyZ2HhFuXXmUpvA2kEMmWP2RbPY9z5Y9FGl503cAdf3lqTkj7ovo5GKdIqsTACZ+TVjXipUnFEGr3yiOBY5/1+U15+w0onjPi/+VA9cTPL/GvqZrlcHxktOGqT0e2s0QFUuOuTajM7+94Jg+QIbwX01nlSWUKDRnea3HbXjk3kv+wMh2nKyo0xkpACHv5XIMhJXFKZWEtZjkWx/8AoK/DAIAPTfPtTBBtwNCA74oVWwmsLRBnxnp71pUOdrD77Mkd/TSyj727V8/WiZL+9gtBZlinNpIrccwGBNmtZDG4q38aoN6BZO+sg1L2gxybFKna1/X6h9seXOOmftRUKc1MEcpqKh6FNdg==;/AjIYshHIqREQfIP8pE+3w=="
 ---

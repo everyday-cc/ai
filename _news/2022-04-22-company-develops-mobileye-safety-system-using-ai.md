@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T12:43:00Z
 originalUrl: "https://constructionequipment.com/company-develops-mobileye-safety-system-using-ai"
 webUrl: "https://constructionequipment.com/company-develops-mobileye-safety-system-using-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Construction Equipment

@@ -149,6 +149,15 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
     excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
     publishedDateTime: 2022-04-21T12:59:00Z
@@ -163,6 +172,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
+    excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/artificial-intelligence-hiring-levels-in-the-pharmaceutical-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 9
 
 secured: "9drJ0TeYrWY+H9gDm87p2/7QBPjzFdIL+tUF6yJRq2247Qp3TZV7ylQ7j+NqidJWhp6KAH7tdFFrkc2syB8yIcG6nDSE45IOGnShiCDzEUtijm4LkvsCVUmkoAnj2X6ZltFEHlsWnguRE720yShiilm10LxAP7CFKR3e6h9UBBStuMxd3BldLrlGQRZvbg3AauFyCEtaHUSvWcIKp3xi/wEgTnxaTGYnDwmYPpeyiLnWWOo6E1M0p8ogwm0taJdU3/csQCMZJ/EV+U0CVscPjSlw1ZAU0YjMdry7NZJh2bvXeY+zeeWEu5sT8Bz7QeXwm6miXv1816NI4H2ijemOAALsV6EDUIOj5i9C1yciXuE=;TmZx/JOBS+1JjJSB8zc/2w=="
 ---

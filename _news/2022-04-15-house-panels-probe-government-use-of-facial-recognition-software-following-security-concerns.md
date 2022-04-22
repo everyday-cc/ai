@@ -3,15 +3,15 @@ category: news
 title: "House panels probe government use of facial recognition software following security concerns"
 excerpt: "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns."
 publishedDateTime: 2022-04-14T19:47:00Z
-originalUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-webUrl: "https://www.kcra.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-ampWebUrl: "https://www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+originalUrl: "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+webUrl: "https://www.wcvb.com/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+ampWebUrl: "https://www.wcvb.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621"
 type: article
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 677
     isCached: true
 
-secured: "+S9zzhjcbcWq6u71oXmPmZexxD6RYwmIFtLS/4hSa5NEkMLLV1a7YPrPQSumNWphrnkJqcjk5Ti/qX1C0U/Mf6aiHpqPlfQpow4z7vTkl2kJztHBr6lilFQ9B7j4+PeHXGP0ZrgbqRizDs45zcdM/6hjsE+NnFoQuog+z8f1PU5xZ2Nwjrd3cmrELv9hqmRoyTa6wCXp+s2rwrNKGX0lEXhiYoRloTsHx6Uf292URzyl2qShcyoVn3PDNH96ih5SHzcfmpCL29c95SCnxfiSbSC0jnYotd2MeKA8AoQDzASZcai7arMh8+4slmOzbGebPQ/Ux0g8f7F/cFMywJlD3/4n0iFVOFCS+EXfoFywY1aJl61/6yjyq8V254eXF3UZLUyS3y8mvMwwYIqM27Z3DzJH0UGmJ3ZKkycr1/rduJOxuRL+vxbLDLgaL5njJvCsjmzmCHbqNZkg5CM3kbDcBlCVRBa3r1nkcAy0TwWy4B4Ag5NOGuPi04Ppp91rVEnlCMEzpVhfhgopEvWVh4C7Fg==;f3pMEA6Am1aDRCet6rm2cQ=="
+secured: "HD0qF562pDVMHEuZMwLXJwHYOsIYgZS0yBXsL3CXl1FUQ1XPUOeX1Q08JQBewkXpji0oCzvP7GAWW1Fy6idyw04nq7PcsVo+qzEeHTgrWo4s2kW28VL/f6PqyXMcABn07XHcUv/0kPe65U+xrKQ075Y8Ef0yIVngQ8oyXTtRR4Dl7mX10oYWx/85MXRR/66znETDhtc4JHqNkSmNy5MRvUGJ90aJeftqglUccB2YbGW1P1IZaBwXCr3mcKU6uj3XOq+UFC3FZ2zfj6f13vxNGRtcQ8bLFCjrugLJEHfdEfbE1KZ99PA5fRY7gZo4YEJpRcBzUSMm9QWCULjHVXJtmGnCrZUhxmVUvUYVLcgcspI=;MRbmN+oazUGjqjhZOnz+yw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:27:00Z
 originalUrl: "https://www.digitaltrends.com/mobile/google-health-ai/"
 webUrl: "https://www.digitaltrends.com/mobile/google-health-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Digital Trends

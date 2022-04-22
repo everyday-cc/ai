@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
+    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
+    publishedDateTime: 2022-04-22T13:29:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "cY7UOOBtTZAnVKkgESIdS8ynSwAXY8kfREoRosfCM/vtjdkycw3lA7e8TJMw7UzzExkBIU9fZ777lfEVbA2+6hCENsOc7bMiEC7JNvuJS9lulh9G7/SgpZEbIlMfJsgk7law85LMORU7CAtmyqt7CSMWWOdI1GeN0kYpKwEPkkpVdS2iMYl5OO3uuvUlHbVf+kk63EE3XsF5jhn+zQr5qGdg7GdjgoHEWbJs2DOB/f396qTkHvfUaEeJx02Q55iGXtZGUQsHZK2OdfwAeWexP0fINyl7LnxRTsV6O9S+miQ8jtoBuTJ3ECBwoPLy5CUm29Ouy7zdzD9XZmCtLryZy3+n8KN2zcftyMp2XcRKWwg=;guzYo4eqDiyVNXPSqnuGcA=="
 ---

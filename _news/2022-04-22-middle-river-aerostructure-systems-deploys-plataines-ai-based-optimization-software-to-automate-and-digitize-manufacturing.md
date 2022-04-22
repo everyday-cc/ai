@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:19:00Z
 originalUrl: "https://www.jeccomposites.com/news/middle-river-aerostructure-systems-deploys-plataines-ai-based-optimization-software-to-automate-and-digitize-manufacturing/"
 webUrl: "https://www.jeccomposites.com/news/middle-river-aerostructure-systems-deploys-plataines-ai-based-optimization-software-to-automate-and-digitize-manufacturing/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: JEC Composites

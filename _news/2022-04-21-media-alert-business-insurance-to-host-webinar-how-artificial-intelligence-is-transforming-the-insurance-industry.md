@@ -163,6 +163,24 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
+  - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
+    excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/artificial-intelligence-hiring-levels-in-the-pharmaceutical-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 9
 
 secured: "fGdTTXdyWkMNFVF5kl3KmdqVzQuKxa02EIH8uuaM/NPtgimrOplueLTlM+uFjcjD44EJ71njjz1BkevBP4zm68wjOGpMSaFAf5siDwKzGRxV93X+Kl0o7bpzBv5HpRm9eC2PkT9YLOD0gqXKZXX5c4YojRxCFJKvuX0MiSAouRoTuWPuDXdjRt6PUfyI61TISyccju3egD7pe47JC2t64aA2+HSEGDZEc6sQeQjE5huBk7Rc8EHaN1+mz8Gt21LPqEfSn41xBd4A9CQy+l6bxUmdlMIXp1H5/XB2ioyBMRIbmP5hQwqer0GtDkACYup7wpIrxmvx6mtWnCQPB6bgjMQoI6O/8jSIAgDXJPwvWxs7k8YEBcLZ2TyZ7JTWoBTu+q80/Dow9BALESem5pf9+GgC9GgNpOK3vd7SWVeYQVS5bUrV8sN8g8U/KdDxsUhb0dIMMDGJcIRUnt6y9Frd6VQfsWiEpo+7JOICOmx8+SBkVGnMjM1JjHvtupRyBb1kPs46LRd+Lu/M+n7lf4slvg==;JRid/65ogBDeyB2YlwlpBw=="
 ---

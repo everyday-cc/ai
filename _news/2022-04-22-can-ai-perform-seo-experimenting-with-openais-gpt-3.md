@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:45:00Z
 originalUrl: "https://www.searchenginejournal.com/seo-experiment-gpt-3/444988/"
 webUrl: "https://www.searchenginejournal.com/seo-experiment-gpt-3/444988/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Search Engine Journal

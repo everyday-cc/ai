@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-19T14:44:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-physical-therapy-101b9f2bb1f71bb5713669c1e95c6556"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Associated Press

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T12:44:00Z
 originalUrl: "https://analyticsindiamag.com/an-argument-against-using-jupyter-notebook-for-machine-learning/"
 webUrl: "https://analyticsindiamag.com/an-argument-against-using-jupyter-notebook-for-machine-learning/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Analytics India Magazine

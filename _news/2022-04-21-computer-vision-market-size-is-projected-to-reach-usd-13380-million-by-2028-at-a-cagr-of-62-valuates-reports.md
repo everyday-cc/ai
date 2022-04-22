@@ -74,10 +74,28 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
+    excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
+    publishedDateTime: 2022-04-20T17:56:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 6
   - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
     excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
     publishedDateTime: 2022-04-19T12:27:00Z
     webUrl: "https://www.digitaljournal.com/pr/automotive-diagnostics-market-size-projected-to-reach-usd-58-36-billion-at-a-cagr-of-4-42-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+  - title: "Wireless Connectivity Market worth US$ 127.9 billion by 2027 – Exclusive Research by The Insight Partners"
+    excerpt: "The applications of artificial intelligence in the automotive and transportation industry is driving the evolution of the next generation of intelligent automotive systems. With the current advancements in Google’s Driverless cars and Tesla’s Autopilot ..."
+    publishedDateTime: 2022-04-22T12:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/wireless-connectivity-market-worth-us-127-9-billion-by-2027-exclusive-research-by-the-insight-partners"
     type: article
     provider:
       name: Digital Journal

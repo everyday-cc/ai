@@ -52,6 +52,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
+    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
+    publishedDateTime: 2022-04-22T13:29:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "0O7d/Bt21u8Y+YE/TlCl2X4JlE6fcbes6JYXXqgBVrdcy1C9gGAUCbUps3clW5314/Tc7PlTEKxf3Td+R8Igg7Jbe8ZJDihMBRhdtweb3Vp1AhqwJwE6vNr883pQZC6euMAM8lAuMFAjKupyYtMUgWD29xuenk1e8uhI9wTO2nkUjJjbAFsRAF9P0rowROyf7wQ4M7hqj63mc1jEGJhQbiA0iaai5d+uIi4R8YJVkK95r5tAt62uJkIU3tZHtL954sMtM2r5PnmW4JeACD4PROZQ3lTO5GCiGnt53Y6Eg/iLymZZPvlg+noMe5wKx8wfHOGJQfVzrWxhoFpP2h7ADrXPaCcxjNnkgF+2Koo8Avw=;Jnrb115IeUpCzfhM2LBsIg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -154,6 +154,15 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
     excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
     publishedDateTime: 2022-04-21T12:59:00Z
@@ -168,6 +177,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
+    excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/artificial-intelligence-hiring-levels-in-the-pharmaceutical-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 9
 
 secured: "//GuFxa2FxZzSxm/SYHByNlHmyZ/DFBQCBFnwKXDIDI51Jq7eVNOY3uFxUO+eb07YsjmjHlp7gX8wCxTU00YWJhixxXI3sEQ3hP/4ais//amHoxgX3DOPl7cbGUICFNz0msZY7Q/B+L/1/TcVFCf2G64/Z6/pXa8pQyVIwqy5IEjLMu2cVNhve8Y8+hFMk1nK2S1smvo5E3Tlt22RQzWGKT4vN1KjlPq1DSUieVufupH8+c2govQah4oftd0/oreBcXdD5Er1ELETVYC9xoovexs47tsDsi80gN35a6AQ+oZJReJxRj0rMvsg3yUcCgZ8YKAEwdeDGA2yAtsmqkuXgJd9it08H6lJ8Mu1/fJLRE8SAgNbZyadrR9diZsl6yzNgtVUXI3WcVHlWAVXxMQ+dO5807BM0VMvUjDYuJ73o85h4EDBI1Le4U7rtBfqSGkGUwUV8G/EbpyIiJt8EJ/2ADGQDxs8Yq6SE2K7W9le73cTsw8DSacj6SQa5Thd+681Tc8Xw0fDheLFAmJxQ/C4A==;HTTySEi0QwBByj/YoldSdg=="
 ---

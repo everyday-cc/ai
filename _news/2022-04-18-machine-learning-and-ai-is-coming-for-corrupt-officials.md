@@ -9,7 +9,7 @@ ampWebUrl: "https://mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-comi
 cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/sci-tech/2022-04-18-machine-learning-and-ai-is-coming-for-corrupt-officials/?amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 2560
     height: 1709
     isCached: true
+
+related:
+  - title: "Why You Should Personalize Corporate Learning With AI"
+    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
+    publishedDateTime: 2022-04-22T14:49:00Z
+    webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/33/42/22395058/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "Jy4wEa/uSIOfTTkvQRSRWXwJIq6A3wws+L3s9XzrXrlWGHUpt7JXURe2mOe8jZAPkQZlUPTJh/0oB0WYAUwhBO0bBqn2h/jM+iTHg8iJ7EMk3WjShpf/U9E78mtz0Drt7b0hgQsCnjtrny5y+ZoI8+69PgKbwmGgvciD8ZLWprMk4fwv7BS8D4XnyXtVFTeQOmMnITpR3ahPsO64d0NB/DbgfKAhU8eu5ZA+bos6MSorSLP/1SdOD72M/G4vDJCAdbu0sUFlyFrZXqflA1wA9jlPPSft0ka+8KHtcFgZMJgw1VLfu3ZKYDuLyfyjryHVAT3wm7NPw+aOiwRLe9xlFqf6HK3py2D39Zg5T995GybIIkSsIBXUUqTCcyVlnMNfb/OljBMzwkx6LAL80vT53AU52fCTNjrY+QO3Oub9EnAdeNmUrgk0YNgSeLtUU8PTz2qohH4/uhGJrOBJejoRIZtH2xslhxnT36Pkv42zNzBaXJ+0lA7gCREZ3UzvbYHzwze0Wd8P/78uH2CUv7Vblw==;NBwdqqo4MfXs9WHJjz4wQQ=="
 ---

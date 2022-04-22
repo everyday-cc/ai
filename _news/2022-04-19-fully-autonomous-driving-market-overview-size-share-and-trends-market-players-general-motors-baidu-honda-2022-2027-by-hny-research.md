@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "AI in Drug Discovery Market Trends Analysis, Share Value, Competitive Outlook, Research Overview and Dynamics by 2027"
+    excerpt: "AI in Drug Discovery Market Overview. AI in Drug Discovery Market is likely to grow at a potential scale with the projected to reach USD 2,015 at CAGR of 40.8% during the forecast"
+    publishedDateTime: 2022-04-18T11:20:00Z
+    webUrl: "https://www.medgadget.com/2022/04/ai-in-drug-discovery-market-trends-analysis-share-value-competitive-outlook-research-overview-and-dynamics-by-2027.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
+
 secured: "ykTCEkSnC8y2uddZkMrFk5warfvkgoxsGbmWs1IjhrWzw0IYC4vCub1gIsDdXrYXZRTJ63/qXJgWJmCzpLBKsTovgZsX/izJsX/rSNGfIov5wnxjw327DBjg/PNHbbu12wrtZKykBTVtgHwzHB73P/aCoOY60INsB8xqDUGSAO4Qqpp0oLHrcjJHNrF09Mc+yY3Lluudnx6gqP3r+53hMsqeBI8dN8nIcYSVNF85JYPDGzKk0kDUXtgwPBlQdrRpUDjLbKmrDPU+TvBo0WZmHph9bPraFGVxC66X6/KbzcKwAK/fWn8eEPAb8BAC5k8qRmvyIlI1md8dWQxlfkoURFSNq2o9JmfkZXtZ1wsbfPs=;8xWQbFG0SPrwSov5WlG8fQ=="
 ---
 

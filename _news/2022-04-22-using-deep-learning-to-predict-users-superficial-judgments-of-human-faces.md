@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:30:00Z
 originalUrl: "https://techxplore.com/news/2022-04-deep-users-superficial-judgments-human.html"
 webUrl: "https://techxplore.com/news/2022-04-deep-users-superficial-judgments-human.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: techxplore

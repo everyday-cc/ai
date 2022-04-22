@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:37:00Z
 originalUrl: "https://www.valdosta.edu/about/news/releases/2022/04/vsu-highlights-future-of-earthquake-forecasting-with-geodynamic-ai-expert.php"
 webUrl: "https://www.valdosta.edu/about/news/releases/2022/04/vsu-highlights-future-of-earthquake-forecasting-with-geodynamic-ai-expert.php"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Valdosta State University

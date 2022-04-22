@@ -149,6 +149,15 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
     excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
     publishedDateTime: 2022-04-21T12:59:00Z
@@ -163,6 +172,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
+    excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/artificial-intelligence-hiring-levels-in-the-pharmaceutical-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 9
 
 secured: "t2YvdWAEaCjrYKuIer9uoc01GNQjavXdALjy2tAJ6y6EoD8YWima9Q+p3eXeGZeb9ovL/j3N/aSt2IUAiVo18g9J3zWVsP2Hi8Z+xB5KFMKlPOtAEXCwG6pcFVJZz2zDY1S2biv0dsKKeUf3fxLUStomNx4uQEO9+LWkiS9oblO1ZJcdDUYNcJk4NhnS/DB5wQX9TbCTzDBPvp4/oouwyHUT8wJRYrT84m99h4Ao5mEJoyFuNtkjJ19TGVzXM0rdW1Rv4HtkszzBMbv4hqfo8vXDbwqIqkf4N/VcfONKk2qu8NnopM1aG8Fx9OxG7kPFwLhDEyeSM4wMpDr7xActOwE8widhkVgU23PxOTjKDZ0=;V/ek7ZdZlNuvJsuoQkEJ3g=="
 ---

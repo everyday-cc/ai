@@ -34,6 +34,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "All You Need to Know about the Growing Role of Machine Learning in Cybersecurity"
+    excerpt: "ML can help security teams perform better, smarter, and faster by providing advanced analytics to solve real-world problems, such as using ML UEBA to"
+    publishedDateTime: 2022-04-22T15:39:00Z
+    webUrl: "https://www.cioapplications.com/news/all-you-need-to-know-about-the-growing-role-of-machine-learning-in-cybersecurity-nid-9731.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 34
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/py5et450308cioapp.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
     excerpt: "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,"
     publishedDateTime: 2022-04-20T12:03:00Z

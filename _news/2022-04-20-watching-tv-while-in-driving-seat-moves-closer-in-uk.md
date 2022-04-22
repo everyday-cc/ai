@@ -474,6 +474,20 @@ related:
       name: West Bridgford Wire
       domain: westbridgfordwire.com
     quality: 19
+  - title: "UK Law Could Make It Legal For Drivers to Watch TV From Behind the Wheel of a Self-Driving Car"
+    excerpt: "Drivers in the UK could be allowed to watch TV from behind the wheel of a self-driving car if proposed updates to the law go through."
+    publishedDateTime: 2022-04-22T12:57:00Z
+    webUrl: "https://www.ign.com/articles/uk-law-drivers-watch-tv-self-driving-car"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 12
+    images:
+      - url: "https://assets-prd.ignimgs.com/2022/04/22/untitled-1-1650639414826.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Green Light for Self-Driving Cars"
     excerpt: "Self-driving technology has been given the green light by the Government after it approved changes to the Highway Code."
     publishedDateTime: 2022-04-21T12:01:00Z

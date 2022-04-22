@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Jarvis ML Raises $16M to Democratize Enterprise-Grade Machine Learning"
-excerpt: "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220421005037/en/ Jarvis ML Raises $16M to Democratize Enterprise-Grade Machine Learning (Graphic: Business Wire) Jarvis ML was founded in 2021 to ..."
-publishedDateTime: 2022-04-21T13:32:00Z
-originalUrl: "https://www.register-herald.com/region/jarvis-ml-raises-16m-to-democratize-enterprise-grade-machine-learning/article_e4c9e77d-4f25-5f40-b2fd-9f289671eae0.html"
-webUrl: "https://www.register-herald.com/region/jarvis-ml-raises-16m-to-democratize-enterprise-grade-machine-learning/article_e4c9e77d-4f25-5f40-b2fd-9f289671eae0.html"
+excerpt: "Jarvis ML was founded in 2021 to make the promise of machine learning accessible to any business, regardless of their current technical investment. And by reducing the time to dep"
+publishedDateTime: 2022-04-21T13:05:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-21-jarvis-ml-raises-16m-to-democratize-enterprise-grade-machine-learning"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-4-21-jarvis-ml-raises-16m-to-democratize-enterprise-grade-machine-learning"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/5a/c5ac9089-f9f0-59eb-950c-61330047d54e/626159797299c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "IXMzJ9TgEWFcXRaDvYc9YqAziL6EJ1oVYJb+KMhfKggDQY0CJKl4I/JzebYoxwtq1dMMMJG/GF72LoxRJAaYwiVLUxcESoPkNreZok9wJtvvosLjA83YLuIjR94j47le4TJz9J3QJgMA8Q9jqX60QMTmzurkAEVKuA2+S0dAfokl5s3Rp95YadojGRGYBLdqQLaTJ9eE4QXgc6niu+malG+oHPeu0lzxfeDuJmR1bLk57FOxgsUJMaT5mfgcycsljVjUJniFe46Syowq/ITwz7G34n70DkjqmuAAUpG1UcIVIHDSK0G6SIWtUxUfb+X3Mb9MsAX7m6S3SwsAtAhSufCs/rfPuT/e+eoC9/quGL3HKiDTF/twkc9vwKwpg9nrCngUNpasfagjtmWnTofW5BrXjJFtPH2RFcGzJ87mi9z6TMoFkdnZISENc+LZFZkWFi5PkgyvavmAW+EFi3pgBEfCLCRMno2Yct+VqhePTbaoU42PMjsfbEwefYpk4YSyv2HiCExI2BnkRVFhSg1uwA==;N9JzTqcnFBOv+VIYdIwolA=="
+secured: "QuQGJOrblmECcw2HBmznz6OAimpC6Z7Ky9Gr8yqNAPZBgVzGbyD5Ys5W1P1M4VEQny1luZ04fP/xtDKxCwI3hz5Gk/5+p3WGgK7OBzhepwPiBPIzO44Sa6GHHfOBMDoSwwKxhcMGDtxj62Y6TMgg/fiim8Wz5rJBZ8OMi61qx4RkIe4w3Rjs5AsefeZzKU7Jyv9bD78vSWqWkouZGfHL/pi0TuTNxGGwzfOcdw2UMs9w4yTl6U0HA3HbRf898t8h638oiRqRcEepxCE9W95Pab6ZhC7FKW1kinPW9Z+i2lzF01o3RkFa1qyE1onCPs4s+qvqPMq/oi0QAcu3xGEOsqlnaNi6GYHk8OolFpfbNMA=;4KkDpkaaJgnhwEg36+VPUQ=="
 ---
 

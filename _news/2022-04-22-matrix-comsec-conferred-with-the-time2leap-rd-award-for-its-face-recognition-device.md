@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T12:51:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-matrix-comsec-conferred-with-time2leap-rd-award-its-/2022/04/22/9587764.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-matrix-comsec-conferred-with-time2leap-rd-award-its-/2022/04/22/9587764.htm"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: TMCnet

@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/pa
 webUrl: "https://www.itpro.co.uk/data-insights/big-data-analytics/367470/palantirs-poaching-of-former-nhsx-ai-chief-branded-scandalous"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -149,6 +149,15 @@ related:
       name: SeafoodSource
       domain: seafoodsource.com
     quality: 19
+  - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
+    excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
+    publishedDateTime: 2022-04-22T09:37:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-hiring-levels-in-the-air-force-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 19
   - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
     excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
     publishedDateTime: 2022-04-21T12:59:00Z
@@ -163,6 +172,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
+    excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:36:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/features/artificial-intelligence-hiring-levels-in-the-pharmaceutical-industry-rose-in-march-2022/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 9
 
 secured: "b46bji+nJ9OYzQGDfsDrqDYe3GI04AmEZKKYhSlUdSa/5WnKPf2ToaxV9wGp7+5FV6W2Q/u3LWjmYyRw0NJbW4QI/XUtK1sY7cTbPqECecjV/Tpwx/DddbCKvKgy8OPNwmfgFGJcT2SY4/kfXbKs73zv8J5eta9tyOxNMvjibueKoyCvHSCiAzlh2UZDw735bp1LqCFQQflC2yn2MF9cFM+yhfkT0dPQnRPQaIHNx7VHnZG8i6Dy1crcRn8Q+SVQ3dA50Ct7FfszDB4FW39Xgpb7SN2OAGixX8qbNcoZHdRUZLtcJbh+vd/WiF+l1ZnNtRPonktClcsvakqg5nCtS7k8u923jS9QBXvYegGpQy2q+p/wh0/s8K6qmw6tIjLuamLOg9pceSkHCLqkDJ6YETsMgkM3u3uqecQ+/6f20/Ohm5BQSCnVgF7Lt9ZkNqVm+b+zXGXCm/Vi+TB0kqY2r3WSgbJcjkhYu9Q9diYNFjVEAG+d8Dvaa36Pm/c1yIyZHMt3DaIhJKbtTvdzUkBstw==;T5vzcyf9CTYk1mGutXlrtA=="
 ---

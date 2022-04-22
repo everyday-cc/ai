@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/22/mathematical-optimization-whats-in-a-name/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/22/mathematical-optimization-whats-in-a-name/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

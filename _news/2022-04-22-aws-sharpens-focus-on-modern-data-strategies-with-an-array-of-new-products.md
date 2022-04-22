@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T13:08:00Z
 originalUrl: "https://venturebeat.com/2022/04/22/aws-sharpens-focus-on-modern-data-strategies-with-an-array-of-new-products/"
 webUrl: "https://venturebeat.com/2022/04/22/aws-sharpens-focus-on-modern-data-strategies-with-an-array-of-new-products/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -1,0 +1,46 @@
+---
+category: news
+title: "Canadian government invests in woman-led, sustainable AI company in Toronto"
+excerpt: "The Federal Economic Development Agency for Southern Ontario (FedDev Ontario) today announced an investment of over C$5.7 million in Canvass Analytics Inc. (Canvass AI) a woman-led artificial intelligence (AI) company whose mission is to make AI easy-to-use so that the industrial sector can accelerate its transformation into a profitable and environmentally sustainable industry."
+publishedDateTime: 2022-04-22T15:20:00Z
+originalUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691"
+webUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691"
+ampWebUrl: "https://www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/canadian-government-invests-in-woman-led-sustainable-ai-company-in-toronto/480691?amp=1"
+type: article
+quality: 55
+heat: 65
+published: false
+
+provider:
+  name: IT World Canada
+  domain: itworldcanada.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2022/04/canvass_logo_square.png"
+    width: 520
+    height: 520
+    isCached: true
+
+related:
+  - title: "German Decision Could Provide an Answer to AI Inventorship"
+    excerpt: "Germany’s Federal Patent Court has set aside a decision by the country’s Patent and Trademark Office (DPMA) that refused a patent application naming an artificial intelligence (AI) as the inventor."
+    publishedDateTime: 2022-04-20T17:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/04/20/german-decision-provide-answer-ai-inventorship/id=148555/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 37
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/07/Depositphotos_168275348_xl-2015-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+
+secured: "U3YY3poh8Aq66vkoXuyMBn55e4AVNjjtI1PO9gv28ZB3ZYS9+sapwvUopkFgl82hHUoRaIwW/re2r5v5pUpb5z1aAEf6toi/+dphSkc9rkG92GSYLFVE0WlM1A3//eq20JXxOzLgEGH9o5ySNUGmlX9XXFoevQvlkxoFqy8UzzX75Q7DqUduuVxSM5JDdUCxZjBmmdmRnWaXulrWub6oOH/ah9G1WhaSIColDnOvYQXhey5rBL7QIZ3fwhoodUV7uR5/NbgYElYZLFxLYpq7ai2Q344O1hJxw9UIqYe7hfzyKrNu9jXLyFg2Lsn4EbABsAa6vGDd8Zq1EW3o9F+uMItRLbPZfcZ1phMYzDpTbII=;L7wRGbpA/CKW4UYL/2iq9w=="
+---
+
