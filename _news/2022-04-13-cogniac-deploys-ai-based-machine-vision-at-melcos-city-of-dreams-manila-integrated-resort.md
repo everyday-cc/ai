@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Cogniac Deploys AI-Based Machine Vision At Melco’s City of Dreams Manila Integrated Resort"
+title: "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort"
 excerpt: "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),"
-publishedDateTime: 2022-04-13T12:02:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-travel-artificial-intelligence-manila-9ca951f4429ab3395b2237175f2ee875"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-travel-artificial-intelligence-manila-9ca951f4429ab3395b2237175f2ee875"
+publishedDateTime: 2022-04-13T12:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cogniac-deploys-ai-based-machine-vision-melcos-city-/2022/04/13/9582145.htm"
 type: article
-quality: 29
-heat: 29
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "+vDBemL5jGmEaqWrX7KNDIYXisY0Dj4shWV7yh585JcborchdHzcsB3sgLcXVXbxDb4Ayqrm7wVVjduOyra+JxPRE7qaQRuaP1/05UX+fJtbO08EW7HanKCjkQpxwg4Gl4UtbXfqM4ICsQrGGv28/zOwVF8tgPMjfhlzA4ckYk7EUfkwH86sIYMShDJGcgltV6qvl0zIzL369hKAJ5Sich8CQ8dcVOzHxXTYmpeDwP1Iyh8DkSViOHEf1c21tEb3f9T6DAspjA9gd7Wd9OsIcDmM9NPpkocBxjy2qjvhW+ghwQSUh8glcWrafhpdY3wKiYHLiaxAj4XK/mDgqOzvRqTFr/5M7KJn6Dh62/b2Qmk=;6AzEq/LjcNc1OHctcf3BFA=="
+secured: "ek9E3MC7vi+jKYBlraipJQzUeG6pwQ9R0yrkN69d/UajEYM3J8rmHfkLQGI7jFJ7tTk+x2x2ZXLBv0zGCWvBuvy57lA9jlB5gCXJYFjRwu0f78UyNmQqzdzZ5nuGvk6i+r5ca1l2DkADaXF9oT/oC1JK6f19Umwmuatjr8ljtA6WnaiVt1bjaiX83PB5FhcryvICNabUD0vxIhgCVa1dl2tmjSSJMrzwYaVv3zZlwmIuJHXuafj0fdXTB3SRZwRKsOznUlUSXr/pTJhBB36p9wq96pSzvSFaqhuT9scQ2UKuhHKLz+4OFgsl/2rkbE8RPZmpBCOCsVa71AW6Cq05lL+QjCYHdni52OFr17nIQdE=;UDJ3BPfaol6yxUzbYmoUbA=="
 ---
 

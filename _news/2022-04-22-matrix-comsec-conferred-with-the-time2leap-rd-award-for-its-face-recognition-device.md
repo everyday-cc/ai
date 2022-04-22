@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Matrix Comsec Conferred with the Time2Leap R&D Award for Its Face Recognition Device"
-excerpt: "Matrix has bagged the Time2Leap Awards for Research & Development for designing and manufacturing its Face Recognition device at the MSME Investor, Export & Innovation Summit, organized by ..."
-publishedDateTime: 2022-04-22T10:54:00Z
-originalUrl: "https://menafn.com/1104074471/Matrix-Comsec-Conferred-with-the-Time2Leap-RD-Award-for-Its-Face-Recognition-Device"
-webUrl: "https://menafn.com/1104074471/Matrix-Comsec-Conferred-with-the-Time2Leap-RD-Award-for-Its-Face-Recognition-Device"
+excerpt: "Matrix has bagged the Time2Leap Awards for Research & Development for designing and manufacturing its Face Recognition device at the MSME Investor, Export & Innovation Summit, organized by Summentor Pro Sales & Marketing Consultants,"
+publishedDateTime: 2022-04-22T12:51:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-matrix-comsec-conferred-with-time2leap-rd-award-its-/2022/04/22/9587764.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-matrix-comsec-conferred-with-time2leap-rd-award-its-/2022/04/22/9587764.htm"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?625344"
-    width: 374
-    height: 249
-    isCached: true
-
-secured: "NsTCWGdyET67MDbUCKCyWSfz81nC4iAz2uVvcNQY692KNN4TaBSgH2vFuckCvmT/Uj1AGHvhvLkAKMaoSGA1LXMqgf/h0gsatCtxZyxHObdtrZZnXaKOnBnjvwCk8nc+AwnnpeBuktPeOCn78rHhqJYoLzsjb+lw7dXze1NdujmricsCHuGDJBOAPlFK2aAgo2lp5lemzKakH5IRlcfFbV/7uYHSdQ7kKPKl5ENTNrToqgPzgEtAWa79Y9lYNmyiAXX7hGivYJa9Hieo+KF6XGZzD+hhr0aOrxufcD8lCkW6SL3PVjFzD0JK6vmFft6rs3bQkcVhNI1I7ThJRKOOMcyWY5ynLmjftY7dNp9iUeo=;6gSKkUifsSsZMTtjupZpEQ=="
+secured: "+8o3MSiMts14WujR7udrRtyNhJwiA+mylrU4HLpXalQ1jHxxcu4C+P8jjeFjmMlyJrO8WNgExeGHCAtiaSODFKrDdbYgDwoLpL8QsRM1yC8wRdmPt9z3s+yW0+2XOOdN/NXH9SVTf8Cyst479E2eartJXiBj3G9cD/uG+h3DfK56zUl9GxiIkEnsTalfrsmEzwadBQzA1x+OVmpUTubI3tng44/P3FAom9A3O8eTc9hjrlrGMwzoPLKJd2EQWuW22x/fb/I7G7YCkxS73KDRIOIwKV+PT8j1GbrV+9co55Ncp9vKyztRsnj5Ty/NQfggA/5eplHElb4wxV9952kIu+6WRQ4OI4wLCnZXVz5wENE=;9zE5Yum0+ACbGds8eYEENw=="
 ---
 
