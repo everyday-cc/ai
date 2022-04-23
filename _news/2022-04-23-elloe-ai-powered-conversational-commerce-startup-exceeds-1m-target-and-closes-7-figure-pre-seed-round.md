@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of"
-publishedDateTime: 2022-04-22T22:35:00Z
-originalUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
-webUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led"
+publishedDateTime: 2022-04-22T22:51:00Z
+originalUrl: "https://www.wicz.com/story/46351549/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+webUrl: "https://www.wicz.com/story/46351549/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1650621633.png"
-    width: 725
-    height: 664
-    isCached: true
-
-secured: "bSHDbkRfW2KowhvfTzmP3VWZU8JSQz2YdaCM/Rigf3mbUbCg2/ghFmT66h59q+VsyVW6zos7FrKCraUqNMZ1hJnr9IeyEv5gZPh+B3Ufwkq7M0BcBAfl87Z3yNlXK+Q8kxJIJkP/QS8Db9ZFuxSYCdWwwk3zGq8o8Gh2gEpkLqC+AsG7j3rVhUnvbgVktqkEL5gxUALsXWbm+7orrXK7SONO/jfxcU7zptSyryCPFJun4/jCTE0mYykSWpoWYsO5nnBbEwqLg22MpRa4/hCM98k/nHblvVDRJh31hxv4/e5IMqaLAn/SqMaX9pX+FktwkYu7uWEj0tElpEdCr5vg6qgPQOO9BEkzGO+ena+bd7A=;DmbxuVIwMWKJZtr/1dE3Ow=="
+secured: "A/OMfs4TkhsUlVWD4TfmGLDY952o0nr0sqUElHLkgVT1dEjSMcsDsEci3fi46GLCf/5lcnlWRoQutPZ2KcAVJezduLDdE5VBhNSotqxjjHpv7AtiquFzl0pGJVpAsVByyBOr80q21iONr1445NYfCw87GWWT+LbPSA9lVGiGMJSAWgC3WRMko/fi6D9qWuv6EINp/yf+af1KCYjFrMkRIrGlb0q9oLonrHXF/qM+FadbbUEI5D/AZvERQuzP1bIozbUaJMovXEl+VwTE0j0yHnrv8cLDEGg0oDZoPmdHDBqmifS0gh4TCxbZVr6F+WtGhvkOMR9HDvinvVS7h74zeT/vSOfGco1n0qRjS7alPug=;9yMfDlhRS0fbpX9MkcqWig=="
 ---
 
