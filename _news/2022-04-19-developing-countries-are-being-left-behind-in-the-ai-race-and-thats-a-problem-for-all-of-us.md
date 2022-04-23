@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/developing-countries-are-being-left-
 webUrl: "https://za.investing.com/news/developing-countries-are-being-left-behind-in-the-ai-race--and-thats-a-problem-for-all-of-us-2538795"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,51 +23,6 @@ images:
     width: 251
     height: 282
     isCached: true
-
-related:
-  - title: "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?"
-    excerpt: "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?"
-    publishedDateTime: 2022-04-18T11:08:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Next Generation Healthcare Claims Processing Significantly Accelerated With Hyperautomation"
-    excerpt: "PLEXIS Healthcare Systems, a leading healthcare payer technology company and innovator in next-generation digital core administrative processing solutions (CAPS), today announced the integration of SymKey® hyperautomation technology into their Quantum Choice™ core administrative claims management platform."
-    publishedDateTime: 2022-04-19T17:05:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-robotics-698a179b86f88c9e23ab4df8e4b7dec3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-  - title: "The Nation’s #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
-    excerpt: "Loan Factory, the nation’s #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
-    publishedDateTime: 2022-04-18T16:08:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-lifestyle-corporate-logos-e7827aa71c3a5a140abdf7682e190e34"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
-    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
-    publishedDateTime: 2022-04-18T17:50:00Z
-    webUrl: "https://www.cbs42.com/business/press-releases/cision/20220418SF26284/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company/"
-    type: article
-    provider:
-      name: CBS 42
-      domain: cbs42.com
-    quality: 0
 
 secured: "UTjxPjVDkpH05fFA2j5zEZV16qQ+N1IVTpSDbsXfezg4qDTE04gPfElZBiWr2k01G6pKA+yKXiNrDPMp+DvJRqkUryVEcKA1I2K3vbAgqu4AaHqzfNBojx6a47OkSMxCToVmLJ5W8mdgrqKWDL3KF3BcliMxI6x+0llPNSRt3JaqIuobiolNdtVzMdtFRdeJ3H8bvr+J5Q0I4keSptS6HrClaCI98O3AAREl8t+pCjLLbwyQfQYwKMIwnTaQoC2y+nBn339yH/nw0nVZuUqV8bTtFtX7ahIh1gxm6UymzT37kHDhHJ2sZAbdCb0Y+JkkbznwycZGF/xP9vnDBKSaVGFNmEZ0Dv+/KvZll41+ON95j178cvyvz/iIibPQRVg5ZWoTXkV5wNuSLhRWy0++ZOfOX+TQqPDC5aS+flEYyNrfoS1FreKjtbXr9LtTXqdewfKZ7++SF/UPcrv8MIy69XqaBleXD2nBk+yOQ5LRlYT4/UKclO/5rR0KIshSGUYX4oDuch2sqfZiIXJzQQNOgA==;9OsAhJr8Lih86dpdUE6mYQ=="
 ---

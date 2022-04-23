@@ -36,15 +36,6 @@ related:
         height: 500
         isCached: true
   - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE ..."
-    publishedDateTime: 2022-04-19T12:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
     excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition"
     publishedDateTime: 2022-04-20T09:38:00Z
     webUrl: "https://www.finanzen.at/nachrichten/aktien/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
@@ -64,6 +55,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
+    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,"
+    publishedDateTime: 2022-04-19T12:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "nTs2ydFupzf+29JIEzqiAfUWOqb019IkEb75IO6fj/Zuy7TiHXyuX9SgbcGmZisRVSn13ISDAxUSia769CHEDjjgj3ehXsIfZ9w5GQW+rSmcFMuEGbJRdMREz2Qet6v7vikQ9qsazZIdr8TLmF+2FMEQkQtjGGOooq13b76d+4yU+mvfug+O9HYGQxvUlFj31PkZ/J3V98T/UTrrxEzGUVfgqr6Jqr9IK2jm01AzwoCIw9OMs7gL/Y4dJBt+V1JW95TUa7G8WSVuUZ+Qz7cjKKJgfI+LxaldgzYFXaOWNQh6qwEP77V2bMlpLPnAmmhNWrXtvykUg8iZCodlTLiW4Gwh0j9gaGcwgKPLZNMRwjU=;8Bo72VLCi9wcv7ZK9r4CnQ=="
 ---

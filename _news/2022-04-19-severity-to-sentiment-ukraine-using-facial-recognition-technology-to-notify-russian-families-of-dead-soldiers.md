@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Ukraine is Using Facial Recognition to Contact Kin of Dead Russian Soldiers"
-    excerpt: "Ukraine is using facial recognition to identify dead Russian soldiers and inform their families. It's an unsettling use of technology."
-    publishedDateTime: 2022-04-18T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/334186-ukraine-is-using-facial-recognition-to-contact-kin-of-dead-russian-soldiers"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 52
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/04/Gerhard-Reus-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Ukraine uses US facial recognition technology to terrorize families of dead Russian soldiers"
     excerpt: "The practice, which is a clear violation of international conventions on the treatment of dead soldiers, was reported on by the Washington Post as if it is a legitimate, if potentially problematic, military tactic."
     publishedDateTime: 2022-04-21T02:02:00Z

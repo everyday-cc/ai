@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Ukraine is Using Facial Recognition to Contact Kin of Dead Russian Soldiers"
-    excerpt: "Ukraine is using facial recognition to identify dead Russian soldiers and inform their families. It's an unsettling use of technology."
-    publishedDateTime: 2022-04-18T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/334186-ukraine-is-using-facial-recognition-to-contact-kin-of-dead-russian-soldiers"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 52
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/04/Gerhard-Reus-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "AI Is Already Learning from Russia’s War in Ukraine, DOD Says"
     excerpt: "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,"
     publishedDateTime: 2022-04-21T22:27:00Z

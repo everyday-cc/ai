@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 710
         isCached: true
-  - title: "Three Potent Ways Artificial Intelligence Can Assist With Pricing"
-    excerpt: "Top three effective ways Artificial Intelligence can help enterprises with pricing. Click on the link to know more."
-    publishedDateTime: 2022-04-18T12:14:00Z
-    webUrl: "https://enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/"
-    ampWebUrl: "https://enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/three-potent-ways-artificial-intelligence-can-assist-with-pricing/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/04/Three-Potent-Ways-Artificial-Intelligence-Can-Assist-With-Pricing.png"
-        width: 1945
-        height: 1112
-        isCached: true
   - title: "Artificial intelligence hiring levels in the retail industry rose in March 2022"
     excerpt: "The proportion of retail companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 46.5% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-22T09:35:00Z

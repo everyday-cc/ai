@@ -27,9 +27,9 @@ related:
   - title: "Artificial Intelligence is Infringing on Actors’ Image, Likeness Says U.K. Performers’ Union Equity"
     excerpt: "Performing arts union Equity is launching a campaign around performers’ rights over artificial intelligence (AI). They hope to persuade the U.K. government to introduce laws that will"
     publishedDateTime: 2022-04-20T23:01:00Z
-    webUrl: "https://variety.com/2022/biz/global/artificial-intelligence-actors-rights-equity-1235236945/"
-    ampWebUrl: "https://variety.com/2022/biz/global/artificial-intelligence-actors-rights-equity-1235236945/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/biz/global/artificial-intelligence-actors-rights-equity-1235236945/amp/"
+    webUrl: "https://variety.com/2022/biz/news/artificial-intelligence-actors-rights-equity-1235236945/"
+    ampWebUrl: "https://variety.com/2022/biz/news/artificial-intelligence-actors-rights-equity-1235236945/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/biz/news/artificial-intelligence-actors-rights-equity-1235236945/amp/"
     type: article
     provider:
       name: Variety

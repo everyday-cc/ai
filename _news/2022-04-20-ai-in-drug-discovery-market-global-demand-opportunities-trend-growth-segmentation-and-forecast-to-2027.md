@@ -47,6 +47,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Security Robots Market by Type, Industry Size, Top Companies Share, Growth Overview, Demands, Analysis Report 2022-2027"
+    excerpt: "According to the latest report by IMARC Group, titled “Security Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
+    publishedDateTime: 2022-04-19T07:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/security-robots-market-by-type-industry-size-top-companies-share-growth-overview-demands-analysis-report-2022-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI in Manufacturing Market Expected to Grow at a CAGR of ~25% throughout 2022 2030"
     excerpt: "Research Nester published a report titled “ AI in Manufacturing Market : Global Demand Analysis & Opportunity Outlook 2030 ” which delivers detailed overview of theglobalAI in manufacturing market in terms of market segmentation by component,"
     publishedDateTime: 2022-04-21T11:11:00Z
@@ -135,6 +149,20 @@ related:
         width: 417
         height: 455
         isCached: true
+  - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
+    excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
+    publishedDateTime: 2022-04-22T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Military Robots Market To Be Driven By The Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027"
     excerpt: "The new report by Expert Market Research titled, ‘Global Military Robots Market Size, Share, Price, Trends, Growth, Report and Forecast 2022-2027’, gives"
     publishedDateTime: 2022-04-19T12:57:00Z
@@ -180,20 +208,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "Quantum Computing, Virtual Reality, Artificial Intelligence and 5G Growth Opportunities and Innovations 2022 - ResearchAndMarkets.com"
-    excerpt: "The “Growth Opportunities In Quantum Computing, Virtual Reality, Artificial Intelligence, and 5G” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the ICT-led innovations in quantum computing,"
-    publishedDateTime: 2022-04-18T12:24:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-919dd58b71e94e369313667aeb258cd1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language Processing,"

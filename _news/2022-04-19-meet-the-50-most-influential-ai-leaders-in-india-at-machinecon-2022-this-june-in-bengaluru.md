@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Fujitsu launches new centre in Bengaluru to accelerate AI and ML innovation"
-    excerpt: "Fujitsu announced its new research centre in India to strengthen its focus on research and development into AI, ML technologies and quantum software. Fujitsu India said that by 2024, they would have about 50 researchers to expand their research fields into security and other areas and conduct software R&D in collaboration with Fujitsu’s global network of research centres in Japan,"
-    publishedDateTime: 2022-04-18T11:21:00Z
-    webUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/"
+  - title: "SparkCognition Hosts World Leaders to Show the Future of AI in Business at Time Machine Interactive Event"
+    excerpt: "Leading AI company hosts 400+ global energy, manufacturing, and government leaders at HyperWerx, its 50-acre proving ground, which brings the"
+    publishedDateTime: 2022-04-21T12:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-hosts-world-leaders-to-show-the-future-of-ai-in-business-at-time-machine-interactive-event-1031371542"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 52
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Fijitsu-India.jpeg"
-        width: 640
-        height: 336
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "sBkj66/gC1F3MF3okTkOUsT3VGizb21DswA7TGrorYpEChFxFZ+H6c7GYdptD9giExUIaGpF+fLAnzaLbyOD9lIbmLPgW1ZNP7WXC9lWzusqmyTrD93zlvt1gypE5/RK6SxYOM4CR07L5Y+Mb6jQyjkb1L12hFUEHGtr4qpfxKX6/LX1IwPXOBPaHZXdg/bgoam8LSy9fcAFih3aKv8DAedEPZj2BzhF+N7Kbx8asGVJ1Wd8WVEOb4YBSJGfAxaQFS+hyVPQ9eLtH2ga8pcK0ff1sNnHB7rztV0+mIfvi48LUdrDNMuyjKqeWS1M1lIjxM2qKTpJFsBmdGoNdXJM3uKMbs1gKew6gRwupHSGnzk=;JRZOFQ4+KUbuxXcnqsXrNg=="
 ---

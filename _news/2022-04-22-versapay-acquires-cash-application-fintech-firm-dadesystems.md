@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Versapay Acquires Leading Cash Application Fintech Company DadeSystems"
-    excerpt: "Expanding Versapay’s AR automation capabilities for its 8,000+ clients TORONTO, April 18, 2022 /PRNewswire/ - Versapay, the leader in Collaborative Accounts Receivable, announced today it has completed its acquisition of U."
-    publishedDateTime: 2022-04-18T12:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-toronto-3b35095173620da8509886993df4723c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Versapay Acquires Leading Cash Application Fintech Company DadeSystems"
     excerpt: "Expanding Versapay's AR automation capabilities for its 8,000+ clients TORONTO, April 18, 2022 /PRNewswire/ - Versapay, the leader in Collaborative Accounts Receivable, announced today it has completed its acquisition of U."
     publishedDateTime: 2022-04-18T18:00:00Z
     webUrl: "https://www.khon2.com/business/press-releases/cision/20220418TO27146/versapay-acquires-leading-cash-application-fintech-company-dadesystems/"

@@ -118,6 +118,24 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "The Nation’s #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
+    excerpt: "Loan Factory, the nation’s #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
+    publishedDateTime: 2022-04-18T16:08:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-lifestyle-corporate-logos-e7827aa71c3a5a140abdf7682e190e34"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+  - title: "The Nation's #1 Mortgage Broker announces a new corporate logo designed to strengthen their image and position themselves as a FinTech company"
+    excerpt: "Loan Factory, the nation's #1 mortgage broker is proud to announce a new logo that reflects their ongoing efforts to make the loan process faster, simpler, and more customer-friendly. This includes the development of an AI-powered loan processing system that will definitely reshape the US home mortgage industry."
+    publishedDateTime: 2022-04-18T17:50:00Z
+    webUrl: "https://www.cbs42.com/business/press-releases/cision/20220418SF26284/the-nations-1-mortgage-broker-announces-a-new-corporate-logo-designed-to-strengthen-their-image-and-position-themselves-as-a-fintech-company/"
+    type: article
+    provider:
+      name: CBS 42
+      domain: cbs42.com
+    quality: 0
 
 secured: "oXFpzTt7AdQuROycjP33P5RWkEJJNiXIbG8zJmh9d+W6IMnKvlUJQWFrD802/tlFZEn+WJsG+mbesO/S1IS2Ff03fcPNg8dscHOB1kXwolerjVEl6bk9ULY1wfzpwimqjcWP6CvsDgcSLl+1Gn9cAkAM0c2+wu0vHyG1TeAvdpKj7m5tuYFyKtossJo47q+IYrz5s3S4TurkaCLtI/pxtehc7sYcnpMFlJKcN7Dftw40C7RsXPOnADkCSlpDa0CASmPi7hgvB76EzwDlMZ5MlxO+WZc9lqb58oM/fq1J2iKFEi3pFZVFxX8wghnulj1WniOmt/CvLrC/Kai8yRtgjXtf54mV2ZhRRf6AyN1KMoM=;/K/0BdjpW8IaXJ1wttKD4Q=="
 ---

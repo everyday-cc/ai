@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-acc
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
 type: article
 quality: 116
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
         width: 744
         height: 500
         isCached: true
-  - title: "AI Chipset Market is Likely to Experience a Tremendous Growth in Near Future | Nvidia, Intel, Xilinx and more"
-    excerpt: "The AI Chipset Market has witnessed continuous growth in the past few years and is projected to grow at a good pace during the forecast period of"
-    publishedDateTime: 2022-04-18T12:49:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-chipset-market-is-likely-to-experience-a-tremendous-growth-in-near-future-nvidia-intel-xilinx-and-more"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "bJQhpkEqWzVvj01B8VmgqdVc6wVlToaKCcjel3yvy0BU4pozV1Fw5I0LLeU7KpqdIffO9ocXWPumSS4weHOJqY5hF/j5WcOLeZWUOmZ4kZR3OHdt1xC99v8qPtE7jsrnONENUhu/S3jfTwpjP09Xl5zByuyCqGQLeRBAKPN7JaBJXRI/rfgll4DfPLdpmtAjrODPsUQal2gOSQ9tYKkTQgnu6lBvwn/vhfAU8GI50Wmg2q5eZLT4vHrN/PHo00WVQMGsayyruQOLaKqqWt/gWwOf2JZtrMGl1m52S0a+8MMFdhxqFuvCSjDc5BkwkrpouBClr3Fzu1Qypk50hKVmoEqmVtT/mnawBJIXtE6W+HwcCyJqtMJn1xWJ6RstbE0WGYcWhQ7vSwE+jJs1uX1IH/WrZSBfQy9k6zJ0AISICc0CKiEnCyRE9uIBM3fCewYFFIukSb8jNW1/CoEiJ2bHCDqygO4cpKqqwS/LeYJZKzSEFfJgXFM8bM75Yk6NGzIJ+PbQX6SSkQTOVnOACUGDnQ==;o8cyBIpgf0DrivmOiMN+lA=="
 ---

@@ -51,20 +51,6 @@ related:
         width: 2500
         height: 1697
         isCached: true
-  - title: "Conversational Artificial Intelligence (AI) Market Expected to Surpass the Market Value of 15.82 Billion by 2030, at a CAGR of 30.32%"
-    excerpt: "Market Overview The worldwide Conversational Artificial Intelligence (AI) market size is registered to acquire a CAGR of 30.32% by the end of the year"
-    publishedDateTime: 2022-04-18T11:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/conversational-artificial-intelligence-ai-market-expected-to-surpass-the-market-value-of-15-82-billion-by-2030-at-a-cagr-of-30-32"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/60322-1plgr22hjp9jomw9i_ct9ig.jpeg"
-        width: 1280
-        height: 677
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
     excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
     publishedDateTime: 2022-04-20T17:56:00Z

@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Next Generation Healthcare Claims Processing Significantly Accelerated With Hyperautomation"
+    excerpt: "PLEXIS Healthcare Systems, a leading healthcare payer technology company and innovator in next-generation digital core administrative processing solutions (CAPS), today announced the integration of SymKey® hyperautomation technology into their Quantum Choice™ core administrative claims management platform."
+    publishedDateTime: 2022-04-19T17:05:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-robotics-698a179b86f88c9e23ab4df8e4b7dec3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
   - title: "Shionogi, NEC collaborate on research for novel hepatitis B therapeutic vaccine"
     excerpt: "Shionogi & Co Ltd and NEC Corp have announced the execution of a strategic research collaboration agreement for the development of a novel hepatitis B therapeutic vaccine. NEC OncoImmunity, an NEC subsidiary that specializes in artificial intelligence-driven biotechnology,"
     publishedDateTime: 2022-04-19T21:48:00Z
