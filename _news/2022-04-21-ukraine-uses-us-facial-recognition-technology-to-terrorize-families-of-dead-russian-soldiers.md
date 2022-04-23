@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
-    excerpt: "(The Hill) – Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the war, according to The Washington Post."
-    publishedDateTime: 2022-04-19T10:46:00Z
-    webUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-    ampWebUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
+    publishedDateTime: 2022-04-19T02:00:00Z
+    webUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
+    ampWebUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
     type: article
     provider:
-      name: WFLA
-      domain: wfla.com
+      name: WSAV-TV
+      domain: wsav.com
     quality: 63
     images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
         width: 1024
         height: 576
         isCached: true

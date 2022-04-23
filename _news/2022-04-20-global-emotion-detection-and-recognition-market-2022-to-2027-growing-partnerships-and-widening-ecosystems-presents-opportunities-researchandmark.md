@@ -234,6 +234,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, April 19, 2022 /PRNewswire/ -- According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language ..."
+    publishedDateTime: 2022-04-19T20:21:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027---exclusive-report/article_50935701-f9df-5620-8922-338df80e812c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
   - title: "Optical Character Recognition Market is expected to advance at a striking CAGR of 15.0% during the forecast period 2020-2030"
     excerpt: "The global optical character recognition market was valued at US$ 15.1 Bn in 2019 and is expected to expand at a CAGR"
     publishedDateTime: 2022-04-20T05:29:00Z

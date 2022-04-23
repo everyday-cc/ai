@@ -256,6 +256,22 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
+    excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
+    publishedDateTime: 2022-04-23T06:00:00Z
+    webUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945"
+    ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
   - title: "You'll be able to watch TV in self-driving cars in the UK - but still not touch your phone"
     excerpt: "The Department for Transport has outlined changes to The Highway Code that will allow drivers to watch content on screens in the car when a self-driving car has control. The same changes won't allow you use your mobile phone,"
     publishedDateTime: 2022-04-20T09:00:00Z

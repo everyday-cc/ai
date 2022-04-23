@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI-based system improves bladder cancer treatment response assessment"
+    excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
+    publishedDateTime: 2022-04-23T06:23:00Z
+    webUrl: "https://www.news-medical.net/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence – A Pioneer in Bladder Cancer Treatment Prediction"
     excerpt: "Artificial intelligence learning tools can be useful as a second opinion to assist physicians in decision making of bladder cancer treatment but they can also make mistakes."
     publishedDateTime: 2022-04-22T16:28:00Z
@@ -39,20 +55,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 32
-  - title: "Stop Calling It Cancer; AI Gets a Win in Bladder Cancer; Lack of Price Transparency"
-    excerpt: "A group of prostate cancer specialists, joined by MedPage Today contributor and prostate cancer patient Howard Wolinsky, made a case to stop referring to low-grade prostate cancer (Gleason ≤6) as cancer."
-    publishedDateTime: 2022-04-22T20:37:00Z
-    webUrl: "https://www.medpagetoday.com/hematologyoncology/prostatecancer/98370"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 31
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/98xxx/98370.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "QkcQ6Xm73KGYyDyyZhlFgCSHmAr884LAlWN4XOAv/VQbY2C/80X721x3htLg/Swr/YD33Nbeuw9cLmB84NGSZWt17qzshgqv88X1bQNmUa3cXexPCYyjHEuFRbuBAgpyl9Z1oQ2ZEKV8Iiauj0SEYkHSVXjfiHP0BL9HMpoCmocJZgefdm5qI6NCv002MLlNQZsFV4HhoIQXFsD+0Dhs2jImipVIjd/DZKsKaP4TerN4TGoEC/w10W7X/VzA2xGQ+dlECe5wFEt1PsMZQVrTGR3FLL6x9UNH6jlXPxYF2CDC9/E2aL13lOdqTxWqCCY/SqBkuR88qAajD4EPM4JQey3h8HRYvKTjblv9FAHHhO6zE8vLPQxMkeT5dyql7FJougJs9eO0f+B+54pm2GJice9QJt25l1d+KHDoRDVLYvOit00X7KQuKewPDiJePswoUmwn2eIOvyLVsZd5ppbtoZbQiZff+LDgLhaJ/Yd4oj4ARfHA/41aHqzfkR2y0jcW2Xjj+o+DgyFvC706bukVbQ==;MdqQt2KgMqNSPXJO+Xm5OA=="
 ---

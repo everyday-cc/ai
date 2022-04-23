@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/google_dedicated_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/google_dedicated_ai/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: theregister
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "BangDB launches one of the world's fastest streaming AI & Graph Data Platform on Cloud"
-    excerpt: "Big data firm BangDB has launched first-of-its-kind, a converged database platform (Ampere) on cloud. BangDB is one of the worlds' highest performance databases which makes it highly suitable for modern applications that requires predictive real-time analysis for fast moving data from devices,"
-    publishedDateTime: 2022-04-18T13:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-one-of-the-world-s-fastest-streaming-ai-graph-data-platform-on-cloud-1031361190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Rav.ai, the World’s First Automated Video Content Generation Platform for Video, Launches at eMerge"
     excerpt: "Founded in Miami, Rav.ai is a technology startup that aims to automate social media video editing. After being featured at last year’s eMerge Americas conference as an MIT Technology Review 35under35 Entrepreneur in Artificial Intelligence,"
     publishedDateTime: 2022-04-19T13:02:00Z

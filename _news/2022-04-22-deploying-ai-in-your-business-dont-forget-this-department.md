@@ -2,17 +2,17 @@
 category: news
 title: "Deploying AI in Your Business? Don't Forget This Department"
 excerpt: "AI can supercharge the compliance process. Many companies believe more is better when it comes to due diligence. But trying to track every news article, social media post or regulatory update concerning every customer or partner leaves many compliance professionals drowning in data,"
-publishedDateTime: 2022-04-21T17:33:00Z
-originalUrl: "https://www.timesunion.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php?IPID=Times-Union-jobs-entrepreneurship-river"
+publishedDateTime: 2022-04-21T21:33:00Z
+originalUrl: "https://www.chron.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php"
+webUrl: "https://www.chron.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -39,6 +39,6 @@ related:
         height: 389
         isCached: true
 
-secured: "MH3c7EhZ/fUTubQf3MKi7LDch+xMXjdm7v8ytjr8ploKIEhvHo5XHn1g5EMMNlwLLslTXZtvK1WtipjisovyHcM1L7lBwt1SOVDKK8TeLybLT5IRW9zmHBjJBTP6ou3S9+67X4roQHcfzalOgDbzjJRUgNtI0JC4syJYH3Duff9DlOQqbTQdc1fRi3qmj41Tvb5R8h6Y8pdWiA0t+RIS3PUWuSo3D9wWBgAC0txWDNRvOw8jtv/iNOXdmWRgiB4ytBKhCeRq8TAi0FaegPU5PTM6jDc2dyqDFArDViqJpwMj1ABVjZbH7AcOu//ucN3pAvCD2gp8TobmPie3fTyefzLysRsz4FQK/LEEhyAqx9U=;xuOflieUYdZOkpC1p0Mrig=="
+secured: "5N9zVaTSmMaEcbPvbA5W9k1sRFOA6aZ9EvDVr49GPESc+u7GSUxSf6bRi35P/zIg1/uVoi25Q2V7gvVXM1vmPlWa5vl6eyRK4toRB0RblVO785qazaUopD2IkQq6oC/q5S22HG+pWgRLYGv0ufCKmz4CdrU4JWbpAakqVlu/KBPcBEn9pny+CJ9D9pNiU3AjYJ9ssf8c4wywPUiUdYY1zh2gH7+5BM4dDFm97oTyCr6nGi/4DWOejiYPZEJ2HkNnYp785XJrCF9/r6wYsnaK4uYuBDHPDXZFC9BbuEFNMaotvJO7fuSuj1AVtHd62pLSr9UoHL0XMEMNeDUjVFZYtqBaybisFmcckbzwsoWpM4U=;hdL7gYPqJ4QNwBNmS8Aa6w=="
 ---
 

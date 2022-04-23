@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.at/nachrichten/amp/rit-digital-imaging-and-remo
 cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/rit-digital-imaging-and-remote-sensing-lab-teams-with-rendered-ai-to-power-synthetic-data-with-high-accuracy-sensor-simulation-1031375393"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -21,14 +21,14 @@ topics:
 
 related:
   - title: "RIT Digital Imaging and Remote Sensing Lab teams with Rendered.ai to power synthetic data with high accuracy sensor simulation"
-    excerpt: "The effort will enable US customers to use the DIRSIG™ model with Rendered.ai's cloud capabilities to generate Earth Observation datasets for AI training BELLEVUE, Wash. and ROCHESTER ..."
-    publishedDateTime: 2022-04-22T13:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rit-digital-imaging-and-remote-sensing-lab-teams-with-rendered-ai-to-power-synthetic-data-with-high-accuracy-sensor-simulation-1031375393"
+    excerpt: "The effort will enable US customers to use the DIRSIG™ model with Rendered.ai's cloud capabilities to generate Earth Observation datasets for AI training BELLEVUE, Wash. and ROCHESTER, N.Y., April 22, 2022 /PRNewswire/ -- Rendered.ai, the leading ..."
+    publishedDateTime: 2022-04-22T13:50:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220422cl33356/rit-digital-imaging-and-remote-sensing-lab-teams-with-renderedai-to-power-synthetic-data-with-high-accuracy-sensor-simulation"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "wYTjGGyNx549L2HlYVMyY6O7h/bvseHlcnV6TRVDzUF1LfyqLRovNiayhAcye9dshvY984L9Mcfg8FMbpDLOCNR5KiQSMNDZG46u9mnK5Ek3wXD7/uPWqD5oXvNx6wT2s2b4NDw/GWPFcLbNo9s8kWOb7qnoDbGB+LsJ9zLj56pfkpG+SbPkdocpZCXYMpK6cWrJiwiUr09Chz/9VQdltM31gCUgmPREbKYMeE9fbfRxgQMMYENygL+ZL5D322v3zaKNGzccOZD6HKpX50/28AWWUUsnJFLi72jstVE+wKctukoJedh6bwWLTmyldBBpNu21j93C1vzon1Xpx2DQpvdVXWBkJzls72t3BXSdHuI=;CuSkORP2Gp6R3zQoRxx2pA=="
 ---

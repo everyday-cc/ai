@@ -28,12 +28,12 @@ images:
 related:
   - title: "Deploying AI in Your Business? Don't Forget This Department"
     excerpt: "AI can supercharge the compliance process. Many companies believe more is better when it comes to due diligence. But trying to track every news article, social media post or regulatory update concerning every customer or partner leaves many compliance professionals drowning in data,"
-    publishedDateTime: 2022-04-21T17:33:00Z
-    webUrl: "https://www.timesunion.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    publishedDateTime: 2022-04-21T21:33:00Z
+    webUrl: "https://www.chron.com/business/article/Deploying-AI-in-Your-Business-Don-t-Forget-This-17117186.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/25/32/57/22391767/3/rawImage.jpg"

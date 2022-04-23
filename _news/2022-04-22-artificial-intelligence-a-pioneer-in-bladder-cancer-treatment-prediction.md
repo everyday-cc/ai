@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-a-pioneer-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-a-pioneer-in-bladder-cancer-treatment-prediction-206728-1.htm"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "AI-based system improves bladder cancer treatment response assessment"
+    excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
+    publishedDateTime: 2022-04-23T06:23:00Z
+    webUrl: "https://www.news-medical.net/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Artificial intelligence helps physicians better assess the effectiveness of bladder cancer treatment"
     excerpt: "In a small but multi-institutional study, an artificial intelligence-based system improved providers' assessments of whether patients with bladder cancer had complete response to chemotherapy before a radical cystectomy (bladder removal surgery)."
     publishedDateTime: 2022-04-22T14:40:00Z
@@ -29,20 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 32
-  - title: "Stop Calling It Cancer; AI Gets a Win in Bladder Cancer; Lack of Price Transparency"
-    excerpt: "A group of prostate cancer specialists, joined by MedPage Today contributor and prostate cancer patient Howard Wolinsky, made a case to stop referring to low-grade prostate cancer (Gleason ≤6) as cancer."
-    publishedDateTime: 2022-04-22T20:37:00Z
-    webUrl: "https://www.medpagetoday.com/hematologyoncology/prostatecancer/98370"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 31
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/98xxx/98370.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI can predict adverse impact of cancer treatment on patient"
     excerpt: "With some substantial development in research related to the area of cancer, the world has been observing certain changes associated with the treatment process, therapy and also drug combinations."
     publishedDateTime: 2022-04-19T18:55:00Z

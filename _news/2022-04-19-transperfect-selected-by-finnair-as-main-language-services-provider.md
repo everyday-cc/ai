@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "TransPerfect Selected by Finnair as Main Language Services Provider"
-    excerpt: "TransPerfect, the world's largest provider of language and technology solutions for global business, today announced that it has been chosen by Finnair as its main supplier for translation services and globalization management technology."
-    publishedDateTime: 2022-04-18T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-transperfect-selected-finnair-as-ma-language-services-provider-/2022/04/18/9584285.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1797567/Finnair_A350_Plane.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Finnair Chose Transperfect as Main Language Service Provider"
     excerpt: "TransPerfect announced that it has been chosen by Finnair as its main supplier for translation services and globalization management"
     publishedDateTime: 2022-04-19T12:08:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
-excerpt: "(The Hill) – Ukraine is using facial recognition technology from U.S. company Clearview AI to identify dead Russian soldiers and send the images to their families in an effort to turn sentiment against the war, according to The Washington Post."
-publishedDateTime: 2022-04-19T10:46:00Z
-originalUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-webUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-ampWebUrl: "https://www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/international/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
+publishedDateTime: 2022-04-19T02:00:00Z
+originalUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
+webUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
+ampWebUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
+cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
 type: article
 quality: 63
 heat: 113
 published: true
 
 provider:
-  name: WFLA
-  domain: wfla.com
+  name: WSAV-TV
+  domain: wsav.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.wfla.com/wp-content/uploads/sites/71/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
+  - url: "https://www.wsav.com/wp-content/uploads/sites/75/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
     width: 1024
     height: 576
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: ussanews.com
     quality: 17
 
-secured: "SiEjUd2ROAZrajc29mDQr7WmH895SC6AMLXFmUsCUrEqw2FMPNTHU/PCYdTdiH+LAwssky4r+Wsf1qfoVdH7WxNUi1IQEWGsytGBaJ3oJJuh5KZFzdofO83m1a8gcQMWMxFpkDJByIbxFR6F4zcNRZE/dRImjjeqo/K3GJ1EglGbclm2PGQaETAnqKwMbpcYYz15W8corb1AWcVu3clSMcFnhXQV/sxSUTEKaj+wuKHRnrjfh9RAugUn4FQZ/Elz6YXQNlD5pLcvcHIOIJPBdEiW8wyNn2RvoGFSmE7zP9rg8dauPbmXerlXLI8CVydI0r0Aje5Ito3yuAhNL5o8CHcysfWgl7Binzt++94DzixalYVTDsJEnV0eSeVHUp16cs6bIDMCnchFD8ldaO30YlrB6kYPcbInaUZXQqSCrhORYK8N4ti3VhUnm8APpzLC+Zd/49vuQIVhCmyofN+xwrQOFmiNsfEnBZPPqMRr67BlEURWae+JY/C24eq1MNnH9s+YO3Bo0U4DFtDccl3dBQ==;b5ch/htdwGqDS7fAZMfJbA=="
+secured: "XlGxE9Qwu1tuPaOaKdeyAarofvPUceqHSySSx+EPezD65iPYcpugmst9IflDxyMx2atatkmULvzO19/OiUHxvrEthSC76qguGWMiT4NVuCE90PdPhXZBzwMhJH9hxMJTBwJCt85gyKg0InopiV8XQbPTCpjo7TEKXjoWZM51pguPpYGWf6u0n8VGMhtHcZPa8P6tWBGQYBKH6y3XRCsuelzQ7ClJlfFy3pcz5mypup9hLJNqsbEpGC50eOdhchzHQ3lRxSx7Hgp6vRhjb2eWISwSpAXNRTynZ/xkdBjrxy2LI75YWIYRDBees0Esm1n4Vabg5KAmypgfgmGAO1flTUnIpwIgtvv3tYI+8YnU7Lg=;dPqhpQAAQkMUCFooZiUZnw=="
 ---
 

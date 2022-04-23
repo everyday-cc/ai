@@ -39,22 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers leverage deep learning to predict physical interactions of protein complexes"
-    excerpt: "From the muscle fibers that move us to the enzymes that replicate our DNA, proteins are the molecular machinery that makes life possible."
-    publishedDateTime: 2022-04-18T14:12:00Z
-    webUrl: "https://phys.org/news/2022-04-leverage-deep-physical-interactions-protein.html"
-    ampWebUrl: "https://phys.org/news/2022-04-leverage-deep-physical-interactions-protein.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-leverage-deep-physical-interactions-protein.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/af2complex-researchers.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "The neural coding framework for learning generative models"
     excerpt: "Brain-inspired neural generative models can be designed to learn complex probability distributions from data. Here the authors propose a neural generative computational framework, inspired by the theory of predictive processing in the brain,"
     publishedDateTime: 2022-04-19T09:48:00Z

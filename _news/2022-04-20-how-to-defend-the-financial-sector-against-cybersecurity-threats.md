@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "The Use of Artificial Intelligence in Cybersecurity"
-    excerpt: "The digital age has created several opportunities for us, and at the same time, we’ve been exposed to a whole new level of cyberthreats. There’s no denying that cybersecurity is now an integral part of every business that wants to avoid being a victim of identity theft,"
-    publishedDateTime: 2022-04-18T14:54:00Z
-    webUrl: "https://securityboulevard.com/2022/04/the-use-of-artificial-intelligence-in-cybersecurity/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 17
   - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
     excerpt: "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,"
     publishedDateTime: 2022-04-20T12:03:00Z

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet"
+    excerpt: "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place."
+    publishedDateTime: 2022-04-23T07:22:00Z
+    webUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/"
+    ampWebUrl: "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 74
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Senate campaign ad takes aim at Tesla's self-driving technology"
     excerpt: "There's a new political ad taking aim at Tesla's self-driving technology.The ad is from Dan O'Dowd -- the billionaire founder of a Santa Barbara tech company who is running against U.S. Sen. Alex Padilla."
     publishedDateTime: 2022-04-22T16:54:00Z

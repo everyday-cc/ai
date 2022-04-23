@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "BangDB launches one of the world's fastest streaming AI & Graph Data Platform on Cloud"
-    excerpt: "Big data firm BangDB has launched first-of-its-kind, a converged database platform (Ampere) on cloud. BangDB is one of the worlds' highest performance databases which makes it highly suitable for modern applications that requires predictive real-time analysis for fast moving data from devices,"
-    publishedDateTime: 2022-04-18T13:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bangdb-launches-one-of-the-world-s-fastest-streaming-ai-graph-data-platform-on-cloud-1031361190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
 
 secured: "BMTFuVqlHSWk92UXdQLkGa2z4BZAFe4+riOVlpnQ4i90fpAZvAkEymEPie7xt+oOTVvrF8/HxiAWMUkxrXq1QYxocbHM5xQkM+9bm4byAyGGgb3ODFluo7tIPFNVfoWMBn4Ux5wEfN1Olmt+DhL/GGOg1pDJ1tijPrUnRhwym8Mg/k+kcwdMqmAGIn2HqJHISb/E2KtkAtZuogd+SnNkujeKcjdpTe/9qyDlOr7R/2csenHhtG3jjV8I6czfdiU+3bwIje2Zi/D8YsRe/t3WNQdbBFOfmnQCWsOmgr57PrYZohRX7rZ5da9AhbymXgK7HWdG9Rzv5kxr/RDPRY3OWI79yYRaEa/+RTY+4nebENM=;V0jauNc9FVvCj4dk75s30Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-all
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/"
 type: article
 quality: 58
-heat: 438
+heat: 448
 published: true
 
 provider:
@@ -239,6 +239,22 @@ related:
     quality: 38
     images:
       - url: "https://i2-prod.birminghammail.co.uk/incoming/article23728182.ece/ALTERNATES/s615/0_Driverless-cars.jpg"
+        width: 615
+        height: 409
+        isCached: true
+  - title: "Highway Code's bizarre rules for self-driving cars - can I watch TV behind the wheel?"
+    excerpt: "New Highway Code rules proposed by the government's Department for Transport are likely to be in place later this year. They include allowing people to watch TV in self-driving cars"
+    publishedDateTime: 2022-04-23T06:00:00Z
+    webUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945"
+    ampWebUrl: "https://www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/motoring/self-driving-cars-set-highway-26754945.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
         width: 615
         height: 409
         isCached: true

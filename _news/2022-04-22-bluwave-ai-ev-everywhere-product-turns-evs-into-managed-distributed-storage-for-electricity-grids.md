@@ -1,26 +1,30 @@
 ---
 category: news
 title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids"
-excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation. OTTAWA, ON, April 22, 2022 /PRNew"
-publishedDateTime: 2022-04-22T13:16:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-ontario-ottawa-331d57e8c0d755dfb3a3d61483f27a14"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-ontario-ottawa-331d57e8c0d755dfb3a3d61483f27a14"
+excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV"
+publishedDateTime: 2022-04-22T13:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids-1031375221"
+webUrl: "https://markets.businessinsider.com/news/stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids-1031375221"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1802168/EV_Everywhere_PR_Image_2_02.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -39,6 +43,6 @@ related:
         height: 225
         isCached: true
 
-secured: "Ans7YK9DT6NcZQvfjaHwKJw7pk5Lj0h6VeImoPFIT3xSjyszyx5+UBgX0U8DEExl4S1FGjm3yG1lA34rhxK6BTcpzk7psSBszcFuIFdpp8JcANfwF6gcyiTHZ03oo2dUQaFjspkfAE9vF0sMUk0odexaE/roGdHBcQQ3HxEyzEUfj4uHRYHJsnp7EC/cFFHPJR6XzU3fzfE/amnOnKqh8rlnOBJLxF1sNiPTJZAUj0bQaILULPHDRrMJwZ61xILVAJxUTTZRkSRLtYiFDUyiRxL7Z5Twil/SlQfZ+vNEvB3016XmufjsiCHivMIgAc6kG08r76z/rFcdpLOspvtyjLQ86JU17zABRbqLrH0Dm0A=;QpT1R+A3p71EcXHi8v6vXQ=="
+secured: "WqcJLxqdgN1GpXcupd8zMrx7qmbzjQuiUkh34LWOB0MUJAanME3ifHxic1ygWzZ5Tns0KNZtGHFiPGmgODYSflTl5bdyvDSSXqopZnnHBFOqQ9B4yKd0AnLUl5ndBsHcUoPa/Pp3FKGoasX8nGa1cVRjFpWiXaigT3VGP+bRSQQYXSW2CIn3Npi4AxQKknn4Om59b4ei7ZhxNiTpiv8R7m2VNrp03CHZtLEZVSmYLCRRdHPf03zrw+XoFU0MpU4gR8s+j/N4t8XLacnjQoU4UBDUqKLs6C5DSc35TD/kEjpkOsSF0swvCeezyT5j/kjlE3nxLGiNkZS3ciqTBv+ik++55BTE7Xed0nvEZaFW0cA=;5RrGdZW4G2hBhOaA6XNYfQ=="
 ---
 
