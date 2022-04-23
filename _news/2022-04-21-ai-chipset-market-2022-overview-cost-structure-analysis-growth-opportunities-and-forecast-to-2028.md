@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
+    excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
+    publishedDateTime: 2022-04-23T10:59:00Z
+    webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
+        height: 250
+        isCached: true
   - title: "Security Robots Market by Type, Industry Size, Top Companies Share, Growth Overview, Demands, Analysis Report 2022-2027"
     excerpt: "According to the latest report by IMARC Group, titled “Security Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and"
     publishedDateTime: 2022-04-19T07:22:00Z

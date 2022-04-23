@@ -3,8 +3,8 @@ category: news
 title: "Cumberland Mall's Apple store is first nationwide to seek union recognition"
 excerpt: "Workers at Cumberland Mall’s Apple store filed for union recognition this week, becoming the first Apple retail workers in America to do so."
 publishedDateTime: 2022-04-22T20:30:00Z
-originalUrl: "https://www.mdjonline.com/cobb_business_journal/news/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
-webUrl: "https://www.mdjonline.com/cobb_business_journal/news/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
+originalUrl: "https://www.mdjonline.com/news/local/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
+webUrl: "https://www.mdjonline.com/news/local/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "TIUlZFBqFWzom5lbjLTRR0HG/S+2X2P6vCtuWf0pHmkXfgMWcyn0ZPTYuLNJFitTJ9Y2t44ZhxZCR5izyjL+y7VboQg6IoLpnxO132lJZcS6/SBe5uYnIuSrKowaFAWvFlXLw8mnYNBmbI/tmZmj4lziMtjCoFmRDyqwmg8Ru/wYrhhs4nCd81bbUWyyXAexLj7QgL4ttWHL1jMPKRE0PRbwQ+w8QsclMP0BYXTxHUq1YbynOfuG0vercxONmpukcwmvk8BP6sE/QLpGldW+7u8/IzR+Zsp62Zml48NouvQ/f3PD/oeHkmfVdwoMdtpLHB/zplJcibwcTtrI27XExq70Al4n1vkPk4C6IUjeZrqM4x9EezvTzRdYdEwhq7cNw5Z7iDxTm8j1tUfrkAC9P66EZxHzfsSJBU+yp32beGLOr8sipk+IFrD88l1yUaD0xjvrITco5qJ3v0aBxMB5llrWh+fdBR9spIxuMLqI9MnFPf6LHniSOTaXFA8y2ZSu2bV35PlQcewy0hgcfgwu6w==;u+oG01gp6KI79isq0iu1zw=="
+secured: "NbapIZ6oQs0EHIlQlaY6i71TkUMHfw9rldIircyjndzXCu9u5hb3vkgl5YKQnch4wWIRvwaXUEdmEThNNmamaG3eMl3tcwsPT0SZ8/THvdhWICCwMpIgNz/4vEsGJvkhUeS00Rol31ydDtvLj/yyNOdpi5ZGY/R003Xc3PabVmecTrS8jxdtojU0K9N6iMAvgN0Rqo+MHvhZzWFiafftxOOk2vwIcDgAqdQqZcXd2m5a57kuuELlpEfZLViCg4APRGVI8MCpmT5shATuQGN+bEapyyGXjjwEgHtj8IljRZ9PYp2ya2Tr2O3C1HHEMK8NCeuF/BsYXNmzVlVdMvxq/rMtaBLbWt+QEhCzgRFrKPw=;PrglzfSpp27SUQklG1wi5w=="
 ---
 

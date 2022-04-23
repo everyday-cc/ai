@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -225,20 +225,6 @@ related:
       - url: "https://www.newstalkzb.co.nz/media/5693/people-take-photos-of-an-apple-store-with-their-iphones-logo-generic-getty-imagesjpg.jpg?mode=crop&width=635&height=395&rnd=132951850615530000"
         width: 635
         height: 395
-        isCached: true
-  - title: "Ex-Intel Lawyer Joins Self-Driving Tech Startup Cepton as First-Ever General Counsel"
-    excerpt: "Cepton launched in 2016 and makes light detecting and ranging, or lidar, sensors used in automated safety and self-driving systems for vehicles."
-    publishedDateTime: 2022-04-18T17:33:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/04/18/ex-intel-lawyer-joins-self-driving-tech-startup-cepton-as-first-ever-general-counsel/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2022/04/Self-drive-vehicle-with-lidar-technology-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
 
 secured: "Uzt8cyBC4yCJmvm4Qi87dw8+es2anjpetAFyWGgrVvstzIuivncXsqEf3SWwYqJn3Mjgn3yxMRlKiKcNmXwCfbb2n09lTxFx86THmU4ERe+LBCZZ2FMJEIf5l5yCqoIEifAAYEgmiaiKG5jPcu1VRFEJKibMhRNU/mcjFB3silaIXuLxlPWbNB/7hysDYf4c5U7eT6dV4zGoQpriHUvxKI11zjQY2hb/WfGa2FCSd3Jid3+qBELeXp3R/bqgB+v2xxbYiU1EJQCG7PatYXyJ+2m0045J0fbCBqkJi0TiZ4Q/PK3sSDKqlF8kDsXfnotPMhO04v0+SHLAPW3oonfmPRDX0FN2LCxGsJ5HyB6r02ZKGt/UKyrAiapPI9E32xHHXbPaAmBes9JslJhNNwMF5oGkRtLmnW7bg33ZDq3+y5w8Xyrr0t+oE5tM1fJmrcq0HUlzLfH0acpeL9mp5tcIABMOzyzG/detSClmD7wROLaKVkXUdgST0ZC8VfVyZcuKP2g8ftMfNuf+BkHuL9I2dw==;gBXrcs89q+5R/lIIYUb/GQ=="

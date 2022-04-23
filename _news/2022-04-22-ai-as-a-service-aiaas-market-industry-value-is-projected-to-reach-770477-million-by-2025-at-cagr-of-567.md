@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence Market is expected to reach $115 billion by 2027- An exclusive market research report by Lucintel"
-excerpt: "Lucintel's latest market report analyzed that artificial intelligence provides attractive opportunities in the healthcare, security, retail, automotive, manufacturing, and financial technology (fintech) sectors."
-publishedDateTime: 2022-04-22T20:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-expected-reach-115-billion-2027-/2022/04/22/9588119.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-expected-reach-115-billion-2027-/2022/04/22/9588119.htm"
+title: "AI as a Service (AIaaS) Market: Industry Value is Projected to Reach $77,047.7 Million by 2025, at CAGR of 56.7%"
+excerpt: "Increased application areas and growth in demand for IoT are likely to provide lucrative opportunities for the artificial intelligence as a service"
+publishedDateTime: 2022-04-22T12:46:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-as-a-service-aiaas-market-industry-value-is-projected-to-reach-77047-7-million-by-2025-at-cagr-of-56-7"
+webUrl: "https://www.digitaljournal.com/pr/ai-as-a-service-aiaas-market-industry-value-is-projected-to-reach-77047-7-million-by-2025-at-cagr-of-56-7"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/80ea0c53d5505ec13d0c75e443989bec01f2efa7-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Conversational AI Market is Predicted to Reach US$ 40.5 billion by 2032"
@@ -58,20 +63,6 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
-  - title: "AI as a Service (AIaaS) Market: Industry Value is Projected to Reach $77,047.7 Million by 2025, at CAGR of 56.7%"
-    excerpt: "Increased application areas and growth in demand for IoT are likely to provide lucrative opportunities for the artificial intelligence as a service"
-    publishedDateTime: 2022-04-22T12:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-as-a-service-aiaas-market-industry-value-is-projected-to-reach-77047-7-million-by-2025-at-cagr-of-56-7"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/80ea0c53d5505ec13d0c75e443989bec01f2efa7-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
     excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
     publishedDateTime: 2022-04-19T12:27:00Z
@@ -99,7 +90,16 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 0
+  - title: "Artificial Intelligence Market is expected to reach $115 billion by 2027- An exclusive market research report by Lucintel"
+    excerpt: "Lucintel's latest market report analyzed that artificial intelligence provides attractive opportunities in the healthcare, security, retail, automotive, manufacturing, and financial technology (fintech) sectors."
+    publishedDateTime: 2022-04-22T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-expected-reach-115-billion-2027-/2022/04/22/9588119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "R0pCatzwjTdLKLvjcMu+QlAxODQmXHJxwxXa8Kvok8ZdscX7ybqNDn3Ho7kBlBaYSe2yK6jUhXk4hNlibLuXCk9ruT3C9nPsb5cIvq7HwCDuwtgq9n2DueUs3Ju7fK3NeOjNb8hgSDS4mPboKs3Y2Q/Av+y6CyNoAc2u8wM5eb9Dm2XicNlUamtzda2mquqWoguoXbFDiBD/tBU3rx25xOiP9VVw9kBEWEKzPmuA8Dhqejs96ckUyOdEDp6hfQkwsRiaeanGbgTTCFsjIhARXg9tAVb7NuLvCTd+YgHTFRvMwQhCH9OFKzB1lEr43nHgoWxrlNOus+aKnzecJLtxM3EQMsUJvnJYr9d0W7/nI74=;BLvDA8kvPAylDE6GLK46VA=="
+secured: "Wb2hwnZOTNzLeVUMUwGRNeXHLAnt3RV7wXX1TtUODKrBoFSvxbTovFMaTFVxox9us2XIFvzgOlicIamefNGuPWWdxJW8BQt39nhQde8Xh+/OJJAQvOBDBcjhkmFeYdiiSsEdH0DIBe3Gs6Er7JutoEflJAo94FoRfUqXtzE8buew3v4OxUn6QFoY4sjLhct5rrg5lSrs+L9qVdMM8FErpuePXzEwjVWKD0vxT8myFE3uhx/8S1X4ZAu02pFWo+i44Snax1rpRoKhYnqAEZGVuJ6R5agfJOsW9AYboCCd4y0No8sFvgn9c/sUVuUCwa1Kvu7Ow6I9EW/KEJ9R8LTz8duklGtgNZoYg8D0vWkS5wU=;TM+y6Z++iivbik5BA3ZNHg=="
 ---
 

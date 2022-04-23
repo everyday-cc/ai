@@ -1,29 +1,31 @@
 ---
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
-publishedDateTime: 2022-04-22T11:15:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=651113"
-webUrl: "https://us.acrofan.com/detail.php?number=651113"
+excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge"
+publishedDateTime: 2022-04-21T20:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
+ampWebUrl: "https://www.benzinga.com/amp/content/26750850"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26750850"
 type: article
-quality: 22
-heat: 22
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "QhycBo/icj912/GmjGAj+deZTjgXVNRfYkPNK07s1FsX2HHoAdTZEf+BbLp5KyUhzrWhAsiqbpKVhlmo0L35VfPvNgIBLZC5mBdkVuKtmKmYFE+gH+Xx/wbHb+tNICvyZe5bM7o8XvpJHg1JR5joOP3SBMtuToY4Kr/n8ubTJmuCe11ksA5BbzkIfBCsJ0Jh/qMtZA+/OrMrE1rlE6kxabLYKv6j5hpFBZXUxLjxGqZLzsauHNx1Yt+9nByNdWLtrgXZ7dRi69DmFmZTy5tYNMRRqx9A3JavRNQ2Ej1DwzO+h6HBbQuEvlX7OJGI2dEq/UwBWv1o421YyQ13vhTgnecjEtAXLyy7q61aixQv0Ys=;geN/1MIcQBYqtNC4Whbagw=="
+secured: "fpsg3oPlBxL5/2MrSSxaMZ11oLS/+Pn+Xeg12QPtvwM4rIdEkmGi0j4qX8saa6WvhYgNXegpA0bquDte/JSlVN0/Rmg2TGhY8I7DQ/+dtaJlMwuOE+eY60EGUz46TpoxDQkRfLVOoORobysKfrUmV00xSgQtdbKvIKEFo7/slPFyReWzUEueNmOd3JqYaAvuVuiWOsItxrfZO61jzvBzZnuFRMpfhZ/svNH/M+Xo1xqbC78gzW5HxHRRkPNKkIk3gOUwW2vkdlnmcQte/1MIfy0kf6eNyqrhy8poa3kPllNG4fEVDPsskfNxXRPCG2hKCqnX44DGswWGvceKtUejDPr/XZ4WW6ghRAPCqI44SyY=;/ClYJnSALByJL/emaiX/VQ=="
 ---
 

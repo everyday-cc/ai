@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
+    excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
+    publishedDateTime: 2022-04-23T10:59:00Z
+    webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+        width: 268
+        height: 250
+        isCached: true
   - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
     excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
     publishedDateTime: 2022-04-21T10:34:00Z

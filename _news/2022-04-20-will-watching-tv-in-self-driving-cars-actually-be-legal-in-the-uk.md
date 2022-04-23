@@ -225,20 +225,6 @@ related:
         width: 635
         height: 395
         isCached: true
-  - title: "Ex-Intel Lawyer Joins Self-Driving Tech Startup Cepton as First-Ever General Counsel"
-    excerpt: "Cepton launched in 2016 and makes light detecting and ranging, or lidar, sensors used in automated safety and self-driving systems for vehicles."
-    publishedDateTime: 2022-04-18T17:33:00Z
-    webUrl: "https://www.law.com/corpcounsel/2022/04/18/ex-intel-lawyer-joins-self-driving-tech-startup-cepton-as-first-ever-general-counsel/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2022/04/Self-drive-vehicle-with-lidar-technology-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "h5dTLb1LP0Hr/53Bm6TEqnA+bNyAc1Mg8NrOPiYnlcxSVyX0NOtAb3qVjmUF7uwx5AKRwBBUOuHjPHHsW0S8CWgnZ1GCNxnini+IE/BMvTuvyNuaxJ+QgVfgBa1iCYa90/gTH9qkUdXt28eOgAnRFsseJOutgsJxc14z6hrzCBwXSE0flUxf/54JRzin4gXgUNrHrq+yCdqvPlzJgTdtdUZlLgxUW0vBX/o9jQlf0XZ1UwQMjXfusVvv1GvpSLoNpiAQNHf3rzfBZPGnVylXPRqy+fPgmYd99bBbiipTdqxCE9ehF2lflXUAfY1vUt5ZH2UjCyPQp5X0xtAFuC6X8vvV0dKYK1+LoBJ9CnjXx0d3duaD6Jywm9tRjjTbKX6hyrmNESguJHP4OseNApmBS4AqfYttCCuHQOtRmlfjpQbZa92BQKNbntlOx9+8vRESCEzOL+Afx+vf6lBkD1q2SWHMP+M+dH+5cwjUk11/bvVLFP1Q2M89KtsV6BJ2xcfqzF104H04vVizmMTi8OMA3Q==;bqxfVJNBKH/X6axh1M/heQ=="
 ---

@@ -42,22 +42,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "When AI companions for lonely people seem a bit too human"
-    excerpt: "Imagine a future in which lonely people can interact with social bots, based on artificial intelligence (AI), to get the conversations and connection they crave."
-    publishedDateTime: 2022-04-18T18:11:00Z
-    webUrl: "https://techxplore.com/news/2022-04-ai-companions-lonely-people-bit.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-ai-companions-lonely-people-bit.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ai-companions-lonely-people-bit.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-ai.jpg"
-        width: 1920
-        height: 1638
-        isCached: true
   - title: "A New Vision of Artificial Intelligence for the People"
     excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
     publishedDateTime: 2022-04-22T23:27:00Z

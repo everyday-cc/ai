@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "USAA completes first overhaul of mobile app in 10 years"
-    excerpt: "A new search tool uses natural language processing so customers can type or speak their search terms using casual phrasing and be understood. USAA is a rarity among financial institutions in that it serves a niche audience, the military, and rolls banking ..."
-    publishedDateTime: 2022-04-18T18:53:00Z
-    webUrl: "https://www.americanbanker.com/news/usaa-completes-first-overhaul-of-mobile-app-in-10-years"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 4
-
 secured: "moS/k1KGaKRzEK+my9KV98Rw9VQMwRzlpU6OxSCyEdjMtytuDKAzAUcp1lUGqFF4R2v+ltJiH4YtvuAIEpBaHNc0J+GAugdYfTpBorvFr4+f0gnYeIIsHTd9kjqXZGWTCNzkVkczSKen31pseez+dtfgRwS14IbQnr8/WPhTkIN5BpkGi6MzCgvo1Z+KiWezIKei/B2wHIKOsTLGcc/Fzvqehg5u2W3YhWN5nclzlO0s0Sykpj9tSZh8vZ2XvNl5NZytQ/eut37jAWDX7EENZWS7nfaJDlkzVoKboE6krWWgLNYUfIlabpZfBZWVcUFkdDxc6MaFPBupK1ubfsOoJTpuOEHqwOQx9GsOivS6Zeddy4FCehnX7VUnWB5BHRcf8thFv3mEORbn1JMgfmrpEPFO9B+zjQr6sfVpEp6z9lEjxskGO+Z3QQLEFUZk0g9OOXMXpSt8mxl3b683/eub0jn0KaDgB7d0CEE5H/DXXbcS2tUw9g9t5nuBGgEsW8SwCjcDTcFdX4w4FpKvvCx+aQ==;9u1r6+qYib0DhtjQzzJVWw=="
 ---
 

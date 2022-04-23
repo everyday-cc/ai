@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
-excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
-publishedDateTime: 2022-04-20T17:56:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
+excerpt: "[270 Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report “Artificial Intelligence in ..."
+publishedDateTime: 2022-04-21T02:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
+    width: 635
+    height: 347
+    isCached: true
 
 related:
   - title: "Conversational AI Market is Predicted to Reach US$ 40.5 billion by 2032"
@@ -43,6 +49,20 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
+  - title: "AI as a Service (AIaaS) Market: Industry Value is Projected to Reach $77,047.7 Million by 2025, at CAGR of 56.7%"
+    excerpt: "Increased application areas and growth in demand for IoT are likely to provide lucrative opportunities for the artificial intelligence as a service"
+    publishedDateTime: 2022-04-22T12:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-as-a-service-aiaas-market-industry-value-is-projected-to-reach-77047-7-million-by-2025-at-cagr-of-56-7"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/80ea0c53d5505ec13d0c75e443989bec01f2efa7-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
     excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
     publishedDateTime: 2022-04-19T12:27:00Z
@@ -80,6 +100,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "JMHZQMu3/GmR0pNCZg334LeEkUsc68ZsLxdJ75q3NwXXtfZSzZIsy+7pFd65Q6Jinw/j14kNv2x5jxzN5b0fulFOX1OpjoLKFsOVSz8gpDp2FN4QvgoWeCdKKsv2pHSE+8HRzWfJInKfsEP3Lz6nnPGxf8IRvhcW223sSwWzVnlezHyxhs29t00O1MApuxpcuGn/2jshRzzu9G4quPOCJeI7eM6N4WHUDMCPOPpRgmzlSjoEOjHmPLJ8QVWokj9+dZRngkIUe8IKa0scvVzpf2tjA8y7+KbQcFFdCsRmqCgvFrlM/9bdjQlwkakYoYJTJi997a8M04otS/x5ABNsg4OY6rqym2H4saeEngTo/Xv3mAdzANqReWNTgjyIZytSOtX1RSI30C4Qpfe4R1I0Ra9B5i/2Tof1lkTIly1qqeCvi0ULyCe0epx4ID+wticFqn3E1MMxDKzLRVL5dSpmgE6tLJu1VelchW8gi0NAWTKYvjTpPpMX+86xzHyzjErULpt9TbpVDkshy+/CYdTfQg==;dYh6PvrMoYYE5EhBhTdVZA=="
+secured: "Y3jdwgeJewxMbg409Vb1dUCge3MRKWzM6TZDRVnfoMUswG0y0W8uSex4GeHhETCT2/HVK4SCmRZ67gMPFP41qRKtpQsUVCIOyZo+t/51VR/AaD5aeM/HQJJUN4BDbbvA/iv5sL3k5f48/0BWX+XjR20U9apEfy1gXEYgiCgYKT5ShPa5fIbD+i6NXXepuGZbQ7g9UVr2DOgzTt2slVfrgBAWGBp+IF2fh87ipx8tyH+0D9bYX2+tsUv3N8eDNuJh1l3VTXsucnNtAyBeELj8y8wgJfhuet4VuxqmACWqPiIXNxMZy3X+RPQAuCE4Aflux0wJrS54YwaG02BigMhOXB03nK1PJk16DNJLhe4Ok7U=;Cns6KkekFshZHXXHSvuEjw=="
 ---
 

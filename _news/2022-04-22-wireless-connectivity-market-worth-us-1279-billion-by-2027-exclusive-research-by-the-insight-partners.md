@@ -35,6 +35,20 @@ related:
         width: 1125
         height: 750
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
+    excerpt: "[270 Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report “Artificial Intelligence in ..."
+    publishedDateTime: 2022-04-21T02:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 26
+    images:
+      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
+        width: 635
+        height: 347
+        isCached: true
   - title: "Always-on applications are expected to drive ultra-low power AI chip market to $3.3 billion by 2027"
     excerpt: "Ultra-low power AI chip shipments have already reached 10s of millions. Several AI chip start-ups have delivered on their promise in this market segment and are ramping up"
     publishedDateTime: 2022-04-18T23:09:00Z
@@ -44,15 +58,20 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
-    excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
-    publishedDateTime: 2022-04-20T17:56:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479"
+  - title: "AI as a Service (AIaaS) Market: Industry Value is Projected to Reach $77,047.7 Million by 2025, at CAGR of 56.7%"
+    excerpt: "Increased application areas and growth in demand for IoT are likely to provide lucrative opportunities for the artificial intelligence as a service"
+    publishedDateTime: 2022-04-22T12:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-as-a-service-aiaas-market-industry-value-is-projected-to-reach-77047-7-million-by-2025-at-cagr-of-56-7"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 6
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/80ea0c53d5505ec13d0c75e443989bec01f2efa7-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
     excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
     publishedDateTime: 2022-04-19T12:27:00Z

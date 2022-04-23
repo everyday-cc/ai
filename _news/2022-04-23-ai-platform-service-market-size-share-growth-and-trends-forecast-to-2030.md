@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
-excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
-publishedDateTime: 2022-04-22T08:08:00Z
-originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
-webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
+title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
+excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
+publishedDateTime: 2022-04-23T10:59:00Z
+originalUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
+webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
 type: article
-quality: 18
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
+    width: 268
+    height: 250
     isCached: true
 
 related:
@@ -42,20 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ai Platform Service Market Size, Share, Growth and Trends, Forecast to 2030"
-    excerpt: "Key Companies Covered in the Ai Platform Service Market Research are  Microsoft (US), Google (US), Salesforce (US), IBM (US), Intel (US),"
-    publishedDateTime: 2022-04-23T10:59:00Z
-    webUrl: "https://menafn.com/1104079272/Ai-Platform-Service-Market-Size-Share-Growth-and-Trends-Forecast-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?722848"
-        width: 268
-        height: 250
         isCached: true
   - title: "AI Chipset Market 2022 Overview, Cost Structure Analysis, Growth Opportunities and Forecast to 2028"
     excerpt: "AI Chipset Market” report delivers a complete overview of the industry with both qualitative and quantitative data."
@@ -108,6 +89,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
+    excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
+    publishedDateTime: 2022-04-22T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-for-smartphones-market-size-growth-share-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2026-2022-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market Trends, Growth Outlook, Size Estimation, Key Players and Industry Insights by 2027"
     excerpt: "Healthcare Artificial Intelligence Market Overview. The healthcare artificial intelligence market is anticipated to reach USD reaching USD 12.22 Billion at 51.9% CAGR during the f"
     publishedDateTime: 2022-04-21T01:56:00Z
@@ -118,6 +113,6 @@ related:
       domain: dailyherald.com
     quality: 11
 
-secured: "uapMO9Z4JxOvw+1N7wD6kFGGoR9bfPiqbPEG2fwcOeHfd0mSiVmEdy2+tEifAJOD+oeNCZSbMmX5XI3nhwR8FnaFR7wQYeC5DqsOZqbLyYfOQ0+bozztHhwdJdsao2e+YeFzRLMeRl0Ula15FgInhLVBIhLG+CSzT1CF+cMhjATC4r1CIFPEuJIgPHIWmmbrX+7GrcClq/WzZVNqfyjVK0sMwmArOglf7fC0HWpoP3os5Vx6E5OKlay9PXqUqYSI4SLqJgAjIOMyzElERgk3ftL92L6AOmT0wwRDg0WkTzaB5oyosFgHb5DJFJBMwg/mRXP5zvChGPFCL8Ggv/rYGM8Hm1IVPg/5PYT/Z/mt2lg=;+KtC1tNhWoP0G3kYtIijGg=="
+secured: "stdwPTzgo6ZtbMz0MWf1dE10sygFYRJqhcNqHvVF9vtfzYFdFCbO5fB7eYMQkJcOvV8hn375ugq7CbqVvBTTYDL5VDjUWZXTqpJOkgPqRAsIeTfZlC4NBqXInC8/3rX3MkPCkHlQMFQ4Nhdzz648rVp98pFIbXHDJFt4Bmonj1VtBQnHq8GuObF7S7ywX3PK4ualqHkzQVYj/S4l8LkSQMjPjhNO3VK4xFYHBWhcjsa7m5aPvqeumRVPMNEEStFqPe3+1WjdkegXX6OWNASClXuFDPq+HC9nRH3NHqAwNmbPFB1OOTM6oVftcZANe43OkT96Ly51ugCHyYeFFAMlT2ML7VPS0mgyiYkg3XCZ3LQ=;/nOIPr42YzqVVtyuEaGgfg=="
 ---
 

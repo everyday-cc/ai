@@ -1,30 +1,39 @@
 ---
 category: news
 title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led by Philippines Mad Ventures,"
-publishedDateTime: 2022-04-22T22:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/ab26773948/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-r"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26773948/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-r"
-ampWebUrl: "https://www.benzinga.com/amp/content/26773948"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26773948"
+excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led"
+publishedDateTime: 2022-04-22T22:51:00Z
+originalUrl: "https://www.wicz.com/story/46351549/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+webUrl: "https://www.wicz.com/story/46351549/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
 type: article
-quality: 40
-heat: 40
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "3A/aPt6/Qzrpff3/KLBSxuCHCC4JGhVA9B/DG0hvfuejTJn/ftcKu81UqAq6D7S7w7Q5LSwO34yYiIg5uRsr9CROSXloQ7WQwEkZhMk9aqstaNtcu6CIjLbw5IE9J3mtYQGSYOiRxB3GRPKKgz1rFgONChC6Wz7kqh8DUyqW5Z+Te+6iN+QKr+eoGgnlLNapd52qjSvUSeevcJAr15dEDM8Op5eiFLaW5Mw6x8HF64LXbYXT49r5e9HKQEIKHyDFkKgEiuItOFb79q6puGUtoomWT5U2kSexwaQa61PBO1pNwUH5k+qU6aytJMelQOB6Lpo/0BraKoLaFI5ynr+Trk8Ai0NuAuMnyCti/cQx3wU=;E14URDHAc5ggwyblpIeCxQ=="
+related:
+  - title: "AI-Assisted Colonoscopy Missed Fewer Pre-Cancerous Polyps"
+    excerpt: "Incorporating artificial intelligence (AI) into colonoscopy led to a twofold reduction in the miss rate of pre-cancerous polyps, a randomized trial found. Adenoma miss rate (AMR) was significantly lower in those who first received a computer-aided colonoscopy compared to those who first received a standard colonoscopy (16% vs 32%;"
+    publishedDateTime: 2022-04-20T18:04:00Z
+    webUrl: "https://www.medpagetoday.com/gastroenterology/coloncancer/98308"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 17
+
+secured: "FFKts+bZ7BqH3LUEGIqyuCubPa4o084NhBFBSVTzRWQhwfQKHxg1Xjm9wDXTtFITWenV84w7nkB1HsthIEhP0P72b8WhtoVPLSI8GMyFW3iaT/1kphG7OkB2lSUh9+X5jwTaI+I4zbBRswN0KPNUp7w9cNpbKwEN8iwCKAxTOQ9JfajJ7GAaY/1llxECOsUMLxb6hFOW8dikggoWuRCS0UER10oFEldNh7dhy0t8lVgmLz0sW12iQRFdegoYFVAm7+qTtc7c4dho+TQNcQLU1uzmzoXHhZ1v61hQMDts8B8Dy+RoxdSa9+0RnB2GrIgNLprF7//LHNTw/i87ewwotDY9Q/EoMAN0DM8W88Oqpps=;VzqKvhUz0fkCHpqzXA+X8w=="
 ---
 
