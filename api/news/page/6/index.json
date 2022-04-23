@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-15-ai-can-be-creative-ethical-when-applied-humanly.md",
+      "title": "AI can be creative, ethical when applied humanly",
+      "excerpt": "Question of morality in AI use for crime Humans, too, cannot be removed from the equation where ethics are central to the AI discourse, such as in law enforcement. In making a decision, humans would consider the morals behind it, said David Hardoon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-can-be-creative-ethical-when-applied-humanly/",
+      "originalUrl": "https://www.zdnet.com/article/ai-can-be-creative-ethical-when-applied-humanly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-be-creative-ethical-when-applied-humanly/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-be-creative-ethical-when-applied-humanly/",
+      "publishedDateTime": "2022-04-15T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-global-gpu-database-market-report-by-types-applications-players-and-regions-2022.md",
+      "title": "Global GPU Database Market Report By Types, Applications, Players And Regions 2022",
+      "excerpt": "ZION Research delivers well-researched industry-wide information on the GPU Database Market. It provides information on the market's essential aspects such as top participants, factors driving GPU Database market growth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-database-market-report-by-types-applications-players-and-regions-2022-2022-04-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-database-market-report-by-types-applications-players-and-regions-2022-2022-04-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics is Shifting from Tech Roles to the Business Executives, says IBM Study",
+      "excerpt": "A new IBM (IBV) study has revealed a fundamental global shift in the roles responsible for managing and maintaining AI ethics",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/",
+      "originalUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/Responsibility-for-AI-Ethics-is-Shifting-from-Tech-Roles-to-the-Business-Executives_-says-IBM-Study-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/responsibility-for-ai-ethics-is-shifting-from-tech-roles-to-the-business-executives-says-ibm-study/amp/",
+      "publishedDateTime": "2022-04-14T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-global-wearable-artificial-intelligence-market-analysis-future-estimations-by-2028-company-profiles.md",
       "title": "Global Wearable Artificial Intelligence Market Analysis, Future Estimations by 2028 Company Profiles",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 15, 2022 (Market Insight Reports) -- The global Wearable Artificial Intelligence market research report is an output of a thorough analysis of the earlier, present ...",
@@ -531,31 +669,22 @@
       "title": "AI Week brings together the world AI community",
       "excerpt": "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
-      "originalUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/pitcher-tackles-opponent.jpg?w=2000&#038;ssl=1",
-          "width": 800,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T13:00:00-07:00",
+      "publishedDateTime": "2022-04-14T12:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
+        "name": "WHNT",
+        "domain": "whnt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -908,48 +1037,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
-      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
-      "excerpt": "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "originalUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp",
-      "publishedDateTime": "2022-04-14T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-14-acing-cx-with-smart-self-service-through-ai-automation-and-analytics.md",
       "title": "Acing CX With Smart Self-Service Through AI, Automation And Analytics",
       "excerpt": "Self-service tools powered by AI and natural language processing offer more options ... Our research shows that about half of consumers who start a journey with a self-service will end up speaking with an agent eventually, so businesses must be able ...",
@@ -1083,92 +1170,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
-      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
-      "excerpt": "Through a seven-year collaboration, Microsoft will provide infrastructure as a service (IAAS), platform as a service (PAAS), network and security services on the cloud, including Azure native services on Azure Datafactory,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/articleshow/90843192.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/articleshow/90843192.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-271322,msid-90843226/bpcl.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/amp_articleshow/90843192.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/amp_articleshow/90843192.cms",
-      "publishedDateTime": "2022-04-14T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
-      "title": "AI robots deployed to fill void in senior care. But can they?",
-      "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
-      "sourceUrl": null,
-      "webUrl": "https://koreaherald.com/view.php?ud=20220414000682",
-      "originalUrl": "https://koreaherald.com/view.php?ud=20220414000682",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F14%2F20220414000800_0.jpg",
-          "width": 630,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220414000682",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220414000682",
-      "publishedDateTime": "2022-04-14T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

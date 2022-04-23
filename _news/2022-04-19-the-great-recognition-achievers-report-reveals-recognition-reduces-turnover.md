@@ -19,51 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim"
-    excerpt: "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences."
-    publishedDateTime: 2022-04-18T15:43:00Z
-    webUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim"
-    ampWebUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
+  - title: "Why this face recognition firm is so controversial"
+    excerpt: "Clearview AI is arguably the best known and most controversial facial recognition company in the world. It's been at the centre of battles over privacy, personal data and freedom. BBC North America tech reporter James Clayton spoke to Hoan Ton-That,"
+    publishedDateTime: 2022-04-20T08:29:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-61123510"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 70
+      name: BBC
+      domain: bbc.com
+    quality: 69
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG"
-        width: 1440
-        height: 500
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/21DF/production/_124217680_p0c22nlp.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Speech recognition technology engine gathers more pace"
-    excerpt: "Speechmatics, a Cambridge-based speech recognition technology scale-up, has unveiled a globally transformative advance to the engine driving its solutions. It reveals a major step in delivering “truly comprehensive” speech recognition by adding Entity Formatting functionality to its Autonomous Speech Recognition (ASR) software."
-    publishedDateTime: 2022-04-19T18:46:00Z
-    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speech-recognition-technology-engine-gathers-more-pace"
+  - title: "Why this facial recognition firm is controversial"
+    excerpt: "Clearview AI is arguably the best known and most controversial facial recognition company in the world. It's been at the centre of battles over privacy, personal data and freedom. BBC North America tech reporter James Clayton spoke to Hoan Ton-That,"
+    publishedDateTime: 2022-04-19T23:58:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-61123510"
     type: article
     provider:
-      name: Business Weekly
-      domain: businessweekly.co.uk
-    quality: 19
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition"
-    publishedDateTime: 2022-04-20T09:38:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    type: article
-    provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 11
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,"
-    publishedDateTime: 2022-04-19T12:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: BBC
+      domain: bbc.com
+    quality: 69
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/21DF/production/_124217680_p0c22nlp.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "ipQDDMoXQzffiNqixyrR6Ic1LZgr+w2s8yK85p945vonbSHdNC6Lx4y6wsAXEfMUfizh7mXMTH0eFuM1aDuyn9HF/Pi1bASmKyxrrwU4e5VCiTcNK3pop4L1sWUSg20YUbwxQM+eMxDf1CT68TTWITs7Y6Q1kYVE9S61fXCCtrfcdtVjpIcc8g4/PQG0YBrzrPZModPUhG0CsBjDasdIdxCYEhIJDRNJHUEXPR7QvYUEdcGnx93adLGgd/wiMMc1Hekko2NhLKBwIeYlB0SiLmkV79DTvd66fTlx/2DcKbUoOpydbEOkV9c/B+KffbP4UpWi0iqScBAUgYusD5e937d6B2gVCPGQpfhT9rIDufU=;QrydS+QWs9otbbDLe1v0vw=="
 ---

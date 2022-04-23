@@ -38,15 +38,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "ROSEN, A TOP RANKED FIRM, Encourages C3.ai, Inc. Investors to Secure Counsel Before Important May 3 Deadline in Securities Class Action - AI"
-    excerpt: "Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of C3.ai, Inc. (NYSE: AI): (i) pursuant and/or traceable to the Offering Documents issued in connection with the Company's initial public offering conducted on or about December 9,"
-    publishedDateTime: 2022-04-18T16:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rosen-a-top-ranked-firm-encourages-c3-ai-inc-investors-to-secure-counsel-before-important-may-3-deadline-in-securities-class-action-ai-1031361415"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
 
 secured: "lev6CddmwEWPpCMyv23OUUVt1l0CIRiyJHj4yI8EX0coo6d+bWgvBWLsdxyppNql8UDAtCxOJfEkIZcFHwXW461I07Ij6tJJIgN2uHGigl2gPXUMo10SQEvT9PaT19geobw7gYYTKjbI1vBQq1x8Jcb3qVf6lJqkAt4hKYvtUR7LPPXCeEN1HuqfmJFWD+gxwCuZipm7G3Sa6aguSfR6jWW0lkUt6JV+4hMrjvpuOT/FVw9hlrjZ/r5Hm7ha25aoyh2KbO3L2oN+P4Vz/4fIWPX8hkIr5oeaiW3wGudf8ryOskqTMjE73JZPIkgxwVZxk9wxAkyIrUhcSwzs7bvpMidNlT8KyKLrIKCpSURF2RM=;8E1No35BcdU2BuB/pu8Jbw=="
 ---

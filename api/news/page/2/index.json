@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-21-guardforce-ai-announces-initial-us-robotics-solutions-rollout.md",
+      "title": "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-how-to-improve-contact-center-training-with-ai-simulation.md",
       "title": "How To Improve Contact Center Training With AI Simulation",
       "excerpt": "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -100,6 +143,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022",
+      "excerpt": "Apr 21, 2022 (The Expresswire) -- “artificial intelligence (AI) chips market and it is poised to grow by USD 73.49 billion during 2021-2025, progressing at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -198,7 +293,7 @@
       "originalUrl": "https://techbullion.com/conversational-ai-market-is-predicted-to-reach-us-40-5-billion-by-2032/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -229,6 +324,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript.md",
+      "title": "Tesla, Inc. (TSLA) CEO Elon Musk on Q1 2022 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2022 Results Conference Call April 20, 2022 05:30 PM ET Company Participants Martin Viecha - VP, IR Elon Musk - CEO Zachary Kirkhorn - CFO Andrew",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "publishedDateTime": "2022-04-20T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -500,7 +639,7 @@
       "originalUrl": "https://venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-launch-ai-driven-threat-intelligence-feeds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -773,50 +912,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-d-matrix-lands-44m-to-build-ai-specific-chipsets.md",
-      "title": "D-Matrix lands $44M to build AI-specific chipsets",
-      "excerpt": "The chiplet architecture employs multiple small chips to make up a larger integrated ... 3 is a language model created by the Open AI LLC lab that has applications in a variety of language ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
-      "originalUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg",
-          "width": 960,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1108,101 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
-      "title": "IBM to make Watson Orchestrate generally available",
-      "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-how-enterprises-can-use-ai-to-reduce-data-storage-costs.md",
-      "title": "How Enterprises Can Use AI to Reduce Data Storage Costs",
-      "excerpt": "The volume of data maintained by the world's enterprises continues to expand. The increasing cost of storage has compelled",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
-      "originalUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/How-Enterprises-Can-Use-AI-to-Reduce-Data-Storage-Costs.png",
-          "width": 1945,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
-      "publishedDateTime": "2022-04-20T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

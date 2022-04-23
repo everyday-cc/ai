@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/afraid-of-public-speaking-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Is Artificial Intelligence the Future of Safe Driving?"
+    excerpt: "Not everyone is on board with depending on computer-assisted autonomous driving. Humans continue to outperform artificial intelligence in terms of performance and efficiency. Before self-driving cars become a reality, more straightforward approaches can ..."
+    publishedDateTime: 2022-04-19T13:58:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/is_artificial_intelligence_the_future_of_safe_driving/2022-04-19-09-59-21.html"
+    type: article
+    provider:
+      name: wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 39
+    images:
+      - url: "https://wallstreetrebel.com/wsr/images/theme/wsr_logo.png"
+        width: 286
+        height: 223
+        isCached: true
 
 secured: "/x0oQjsxOMNE+CQ8ntz5DJZj3K55lvXYOtK3iH20cMQFL+6zFyvZ+6Ff2b55fdVzhg53WSIr2on0fC7j+0HEHDtsp784Jns0y2dWWvfjKV62R8buetH3T/luPWBD87h00ZeNckb2DW4HDCVtreB7SRPVjkz3OFvP8qWpSDQFxiufGf6wrDWVanLbQ5EU1ahg2lbXD4RpDBOepdLRgWBzBCMZ7+LM7qgHQkTrJG8TGd+PTGGBS9/Q70eY7Qkc8uYhKVu9N2UXU3XADqqnTl4Yn7dYLcQI3aDYSvfc9UUVnAqLrhsrp2fVLK6Shyh/hz1vers1M6SQQv1CrRBoAc2OBmJJ2Xyr+M+dmhX3vOUZWvJnEb94JhU6+ATsNPg6nVPXT6tJBmAaMcO3b77KNe/ZYGWbVvSOKJYwTnr07qSvlSbVP0MbwOfYW9gK4+Et1AkPt6K8r42AH3gd5O453eF6KfPsUl43tPHWB9rEFL1IsNG6t+y68I5V0vGa1EBGs2yad+oBsLTSsoFxT1Y078jgjg==;ym8Jjpmb8/wDEZ6wtGLUqg=="
 ---

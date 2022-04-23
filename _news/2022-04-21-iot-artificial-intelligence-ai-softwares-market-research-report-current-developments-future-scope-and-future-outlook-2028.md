@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/iot-artificial-intellige
 webUrl: "https://www.marketwatch.com/press-release/iot-artificial-intelligence-ai-softwares-market-research-report-current-developments-future-scope-and-future-outlook-2028-2022-04-21"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Qure.ai gets financial support to develop AI-based lung screening software"
+    excerpt: "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said."
+    publishedDateTime: 2022-04-21T09:38:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/incoming/qsjtz4/article65341311.ece/alternates/LANDSCAPE_615/Health.jpg"
+        width: 615
+        height: 383
+        isCached: true
 
 secured: "Pk0JaagV0W/tocdOe5y+n5UpTV5Tn18qe6pbdoMQcPOrT65noVb6IAdboc7yg7twDCIqF4QmST+NRX3rlbSCGdMnhZPOtbU7svuFNrW5XVEClt+yT6NzudsZqP8tUzGkxtigmoV7oymXmTupcIq3RaUMNEkMEaCmjUMVqj/rbgMw7vrCniXKIE5waZHWZu7rZhrRy/RP/qntJz2Q6wT2BEg9s3230XemoH8Kyv635jqBlupzykombfsXpu+rlBjXzfGlqj6AB+aZA52XsGTWJnBiFnw/53oGK9weemSFKfLoLRinzZ8OA9f0LktXNhGHJoF5wUi8jvqQAfL2SHV//weXCh4FrM3adx9eaTNFENs=;Lg9haP3Yct2OpbE7t9Qi0g=="
 ---

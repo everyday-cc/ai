@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The rise of TikTok: why Facebook is worried about the booming social app"
-excerpt: "Chinese-owned video platform is set to overtake the advertising scale of Twitter and Snapchat combined"
-publishedDateTime: 2022-04-09T08:08:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app?via=indexdotco"
+excerpt: "Last year the typical TikTok user spent 19.6 hours on average per month on the app, according to data.ai – equalling Facebook ... Last year, research found that almost a third of all Britons ..."
+publishedDateTime: 2022-04-09T09:00:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
+webUrl: "https://www.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/09/rise-of-tiktok-why-facebook-is-worried-booming-social-app"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "U2m1yPmZmaLV2KZWq+/nOSt317BoWx8PaWNw1EknWOmvkQFura9X/AiCQ/0mSNPRQQcfaxwuEvTWG6+KmavXdZYBE8sf+McCHy344jY5DfCT3cCyKQ3QX5LOCp7xUcCOx6Ck8/V5vRfDKUq3yPyzBBgZQelWL2nriViQF9Szth7fA6/kgAidetL6du9rAQH99ipzoQEgXcL9kUcQNeIZ1iyNV5JlcbEwqFD2f6YanjjO94mBakEpQ80y/HjTofZSb8KxEP0zrRqYglWGY5yl/e6pDdWHa86D26TEP7sWR1L9szfLspoJ50ti8TbDiphwu7b8amekXzRjzri9EBRDPraNwmXa4w28CfpNSWizdrw=;GzgbLLW+feiZg5lt/8GBXg=="
+secured: "P5SHfAXtZSJeOkRB9uJALxZdf0PwT2gILsr8oM7Oe0rQp8oKU185f+X748/a6HS020B3mZGTNAjGVNw1WeJ1Ch6pD5HiiWeSmfJ2d87iMdHW80LDd3um6dLHLxQi39RhfLFB8X7+j++UxQX7r7WAL4pUNQHgPjYysOHdTp4hkpcjxWJCBbVvcROCVdepAjV84hwRLEcHFMLJGul1eKCUgdohoyUvNnWEnCEYs6yC1JmiIM6qqIDek482i2aGZcIm1u+BQTKST4q0+lG8yJz9XyC5VQeEBEVs2EE3AUAaqSHEQycYlU9zLtQH2bBevSBe7MUa0r4UVpxdZOfrd2w4D6bisX1l00QIUm0+9/r1osU=;gxkkmR41TFAQuSuo1xP1tA=="
 ---
 

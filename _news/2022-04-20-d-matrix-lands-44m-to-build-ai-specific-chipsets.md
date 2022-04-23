@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-buil
 webUrl: "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: SiliconANGLE
@@ -39,20 +39,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/chip_shutterstock_emp-64GTX.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Assessment 2021-2027: Industry Size, Share and Top Key Players"
-    excerpt: "The market study on the global Artificial Intelligence Chipsets market will encompass the entire ecosystem of the industry, covering major regions namely"
-    publishedDateTime: 2022-04-20T09:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chipsets-market-assessment-2021-2027-industry-size-share-and-top-key-players"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/a5d668e8601b59d3152546afd627047994b585c0-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "p0gFKJxEOjB4qGG9asODLyjARUIhSNGzVLyi5dLH/2/QCVJd/RROtuzflEnd5Yz9miizCrvsR3vgWXX11pX7YyUVwq6bf79OkaulL4WbL+dWlpZEWSkNGUBn7fVCsbPst/OdzJI8M2moYghAOqrdXzbHY7ViJ7rZgJ1OkDsadtlrsx2pleTEPBrSFHeLD3egOsiPH5jjjLS2RAyicRNOquiaY/Y9bYrHSTnZbS2E/6Fc+E/kCsdlArIZbR7GkTRpaHbReILaSTZcyK5ygyhlg8trueKNHvY9+3xQzYlGTFQ7K8cAZcrcV/4pq1tw7G6QASwxnm/P0l4PKdV2fC/hFNqbeN5abMOPlIBjS/PLo4PGR2MHKsYI9t1LM+aIyNDwKflpNAQqZC+NXFNcJreJVbAOsSLOtMKMG3Ky9NYRw43oMgrs0FBlc5rRcuR+1DdL1alYa+0OWrRH4YBswRqnYv4NT4EPkMrcj58KNldg+zcFsM7Ud7i0YEf57u/b8dVwyrnBWraqIgI1OH3ed8zWBA==;wjmnegGq9hCEOc2A/TvQvQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
       name: Airforce Technology
       domain: airforce-technology.com
     quality: 19
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
   - title: "MEDIA ALERT: Business Insurance to Host Webinar “How Artificial Intelligence is Transforming the Insurance Industry”"
     excerpt: "WHAT: Business Insurance is hosting a webinar“ How Artificial Intelligence is Transforming the Insurance Industry.” Sponsored by Gradient AI, a leading provider of proven artificial intelligence solutions for the insurance industry,"
     publishedDateTime: 2022-04-21T12:59:00Z

@@ -37,15 +37,6 @@ related:
     quality: 17
   - title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
     excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic. The study is published in Gastroenterology."
-    publishedDateTime: 2022-04-18T16:58:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950002"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-  - title: "AI reduces miss rate of precancerous polyps in colorectal cancer screening"
-    excerpt: "Artificial intelligence reduced by twofold the rate at which precancerous polyps were missed in colorectal cancer screening, reported a team of international researchers led by Mayo Clinic. The study is published in Gastroenterology."
     publishedDateTime: 2022-04-18T18:13:00Z
     webUrl: "https://medicalxpress.com/news/2022-04-ai-precancerous-polyps-colorectal-cancer.html"
     type: article

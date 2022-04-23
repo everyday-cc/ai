@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
-    excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."
-    publishedDateTime: 2022-04-20T07:36:00Z
-    webUrl: "https://www.stirlingnews.co.uk/news/national/20079187.watching-tv-allowed-self-driving-cars-highway-code-update/"
-    type: article
-    provider:
-      name: Stirling News
-      domain: stirlingnews.co.uk
-    quality: 24
-    images:
-      - url: "https://www.stirlingnews.co.uk/resources/images/12550035/"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Government reveals changes to the Highway Code to accommodate self-driving vehicles"
     excerpt: "The amendments aim to help ensure the first wave of self-driving vehicles are used safely on UK roads, but concerns remain."
     publishedDateTime: 2022-04-20T15:57:00Z

@@ -35,22 +35,6 @@ related:
         width: 1125
         height: 750
         isCached: true
-  - title: "Blockchain AI Market 2022 Expectations & Growth Trends Highlighted Until 2032"
-    excerpt: "During the projected period, the worldwide blockchain AI market is estimated to reach US$ 2.8 billion, growing at a CAGR of 22.9 percent. In 2021, the market is expected to be worth USD 285.7 million,"
-    publishedDateTime: 2022-04-18T15:02:00Z
-    webUrl: "https://techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032/"
-    ampWebUrl: "https://techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/blockchain-ai-market-2022-expectations-growth-trends-highlighted-until-2032/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/Blockchain-AI.jpg"
-        width: 2500
-        height: 1697
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%"
     excerpt: "Pages Report] Artificial Intelligence in Manufacturing Market size is expected to reach USD 16.3 billion by 2027 from USD 2.3 billion in 2022, at a CAGR of 47.9% from 2022 to 2027. According to a research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware,"
     publishedDateTime: 2022-04-20T17:56:00Z

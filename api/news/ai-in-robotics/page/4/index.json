@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-24-skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york.md",
+      "title": "Skyline Robotics To Deploy The Ozmo Window-Cleaning Robot In New York",
+      "excerpt": "Deep tech robotics and automation company, Skyline Robotics, completes its $6.5M pre-Series A funding round ahead of the planned deployment of the first Ozmo Window-Cleaning Robot in New York City Skyline Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
+      "originalUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/03/ozmo.jpg",
+          "width": 1041,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/skyline-robotics-to-deploy-the-ozmo-window-cleaning-robot-in-new-york/amp/",
+      "publishedDateTime": "2022-03-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-robotic-abela-enjoys-upper-hand-as-grech-adopts-combative-mode-in-first-tv-debate.md",
       "title": "Robotic Abela enjoys upper hand as Grech adopts combative mode in first TV debate",
       "excerpt": "Robert Abela enjoyed the upper hand in his first televised debate with Bernard Grech, although this is unlikely to be an election game changer. The Labour leader arrived late for the debate that was recorded at TVM on Wednesday morning,",
@@ -1228,49 +1271,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-aim-medical-robotics-raises-34m.md",
-      "title": "AiM Medical Robotics raises $3.4M",
-      "excerpt": "MRI-compatible intraoperative robotics developer AiM Medical Robotics announced today that it raised $3.4 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/aim-medical-robotics-raises-3-4m/",
-      "originalUrl": "https://www.massdevice.com/aim-medical-robotics-raises-3-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2022/03/AiM_Medical_Robotics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
         "images": null,
         "publishers": null,
         "authors": null

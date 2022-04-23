@@ -2,14 +2,14 @@
 category: news
 title: "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study"
 excerpt: "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,"
-publishedDateTime: 2022-04-14T07:01:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+publishedDateTime: 2022-04-14T04:01:00Z
+originalUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
+webUrl: "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/"
 type: article
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: MyTwinTiers.com
+  domain: mytwintiers.com
 
 topics:
   - AI Ethics
@@ -21,6 +21,6 @@ images:
     height: 1845
     isCached: true
 
-secured: "15w2DRgNT/ppJJXbVaK9mJ7eMyJqZ9hbRY8kPbacc6o+AJ8bwYrhQ/wPAvrWEfmFRSMdX0XXsUhJNA64p708SZXPSYbH7c2jMgAMBQ9pEkoVTDb0UvF+npnC1ExmAeUFoS2Cjl6q3MMC2nDFVVmNG8yC6T5ClNz3uGYFgBrjs6wIRK1pM7cAdl1nzvfv4m5c0h6pbNetF2JEG8YplxzUmtWFGfM0PcBtcJuKxmHKTW6BKxG+mVhW/L10DAc/u9fluzHeN/GbliGYEVXsvJzePUgtuk9Whs7I72PiTheVdivXz5v1bK1YJjET8/CXiLO8pGn47CXqYC0AVn/RxgGfn0dL9stVRZg1HSUCLlf9r7lyMfzoA+fxSPcIRTkWDCOCM3w5epqg72HDx72O+biS6jlmD11RwcNgK5jNhVw/iIj1tJMOANoHoPuztpjPq7oZqTzetKBUgdqJoIrPBuc44xu3fSY16oLZzb6C+0+Z+Gkb2LF3j2MVVX6HSrvFv25s0Wjj7VCeup0gYgYUqbyY7g==;XQjP+9dADMdyZGIJ8LDaTw=="
+secured: "8Pi+mPhDKG29Mk+cYZMmZGnY2NUiVHeE/Now8VV44NoPW4NR/dCO6LXJpL7UBnWbxCy/wW60nCp6hmigLbXiTZmv5rvjTgT7425Mx3S5Tp9JuRprHTCI8Iqjz2POxDeTxJpt6qpSsIpwXzOFFRj2lofPHMqOo2OnzQ+SuhkbwqKFRoZ9NE3bsjlmE5lXqDCXSzk1A4n56ZaX7sK2et2Exau+VrdjJY1yyXZuSHlGLDByGJkxX/kFvupW71lTF9fNP2czfsUzA8gQRYXDsViwfzn3zymApN05E7zI6rqDZuvif59P/wk2qT3guLlSkGJJbuJIP1bgv10f3gp1axUtwNS5Zg4mAgELs1611AWupJ8=;jsgk/C4AT7H8yGxsTs71oQ=="
 ---
 

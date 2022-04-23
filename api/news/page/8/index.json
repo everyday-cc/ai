@@ -2,6 +2,126 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
+      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
+      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
+      "publishedDateTime": "2022-04-13T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-self-driving-car-pulled-over-in-san-francisco-confounding-police-aint-nobody-in-it.md",
+      "title": "Self-driving car pulled over in San Francisco, confounding police. 'Ain't nobody in it.'",
+      "excerpt": "License and registration? The first words police officers use weren't applicable when San Francisco police pulled over a car without a person inside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
+      "originalUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2017/10/12/USATODAY/usatsports/bolt-cruise-3rd-gen-design-dome-sept-2017_large.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/7302081001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7302081001",
+      "publishedDateTime": "2022-04-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
+      "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
+      "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=646511",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=646511",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
       "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
       "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
@@ -970,162 +1090,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-unionai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration.md",
-      "title": "Union.ai raises $10M to simplify AI and ML workflow orchestration",
-      "excerpt": "Union.ai, a startup emerging from stealth with a commercial version of the open source AI orchestration platform Flyte, today announced that it raised $10 million in a round contributed by NEA and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1254825733-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
-      "publishedDateTime": "2022-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations.md",
-      "title": "Data quality can make or break efforts to bring artificial intelligence to IT operations",
-      "excerpt": "Artificial intelligence for IT operations, or AIOps, could help IT run in a more unattended fashion. But the necessary data may not be ready to sustain it. 'Data is either going to be an obstacle or a",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "originalUrl": "https://www.zdnet.com/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6b9a2c88fd064a6003ab680c9c75eb23c06ec47e/2022/04/12/33673e3f-0e23-46f9-a7ff-c4960c95ca55/img-9670.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-quality-can-make-or-break-efforts-to-bring-artificial-intelligence-to-it-operations/",
-      "publishedDateTime": "2022-04-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-graph-data-science-what-you-need-to-know.md",
-      "title": "Graph data science: What you need to know",
-      "excerpt": "GDS 2.0 also brings more machine learning and AutoML capabilities. The ability to create ML pipelines for tasks like link predictions is introduced. This means being able to fill in missing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/",
-      "originalUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1267467975.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/",
-      "publishedDateTime": "2022-04-12T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

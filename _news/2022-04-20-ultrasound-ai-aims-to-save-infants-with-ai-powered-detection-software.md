@@ -24,86 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics And The Acclaimed AI Uncanny Valley, Which Also Rattles AI-Based Self-Driving Cars"
-    excerpt: "AI ethics has a love-hate relationship with the famous or infamous uncanny valley, which can be particularly explored via the advent of AI-based self-driving cars."
-    publishedDateTime: 2022-04-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/18/ai-ethics-and-the-acclaimed-ai-uncanny-valley-which-also-rattles-ai-based-self-driving-cars/amp/"
+  - title: "How To Improve Contact Center Training With AI Simulation"
+    excerpt: "Salesforce \"State of Service\" report shows that almost 80% of contact center agents say their company views them as customer advocates or brand ambassadors, and 77% of ag"
+    publishedDateTime: 2022-04-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/04/21/how-to-improve-contact-center-training-with-ai-simulation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 97
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621d3f718d137bada9d5d84a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625eebe47a9fb17059edc980/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 827
+        height: 801
         isCached: true
-  - title: "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too"
-    excerpt: "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm."
-    publishedDateTime: 2022-04-21T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
+  - title: "AI with an improvisational streak is under development"
+    excerpt: "A German doctoral student's research is moving us ever closer to an AI skill that, as of yet, has been unrealized: improvisation. According to Sweden's Chalmers University of Technology, robots don't work the same way."
+    publishedDateTime: 2022-04-19T14:30:00Z
+    webUrl: "https://www.theregister.com/2022/04/19/improvisational_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/improvisational_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/improvisational_ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: theregister
+      domain: theregister.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://regmedia.co.uk/2020/11/20/ai.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Qure.ai gets financial support to develop AI-based lung screening software"
-    excerpt: "Artificial intelligence player, Qure.ai is set to scale Artificial Intelligence (AI)-enabled chest X-ray screening software, qXR, at 50 locations across more than 15 states in India, an official statement said."
-    publishedDateTime: 2022-04-21T09:38:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/qureai-gets-financial-support-to-develop-ai-based-lung-screening-software/article65341282.ece/amp/"
+  - title: "Cedars-Sinai's new division is trailblazing AI to improve patient care"
+    excerpt: "The Department of Medicine at Cedars-Sinai created a division to explore AI's applications in healthcare. The division, called Artificial Intelligence in Medicine, was launched March 1 and is led by Sumeet Chugh,"
+    publishedDateTime: 2022-04-22T20:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/cedars-sinai-s-new-division-is-trailblazing-ai-to-improve-patient-care.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 55
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
     images:
-      - url: "https://www.thehindubusinessline.com/incoming/qsjtz4/article65341311.ece/alternates/LANDSCAPE_615/Health.jpg"
-        width: 615
-        height: 383
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Is Artificial Intelligence the Future of Safe Driving?"
-    excerpt: "Not everyone is on board with depending on computer-assisted autonomous driving. Humans continue to outperform artificial intelligence in terms of performance and efficiency. Before self-driving cars become a reality, more straightforward approaches can ..."
-    publishedDateTime: 2022-04-19T13:58:00Z
-    webUrl: "https://wallstreetrebel.com/wsr/articles/is_artificial_intelligence_the_future_of_safe_driving/2022-04-19-09-59-21.html"
+  - title: "How to deploy AI to improve customer engagement and retention"
+    excerpt: "Initially many people expected AI to be a job-killing technology, however, that hasn’t happened. Instead, it has become a vital component for employees across the workforce, enabling them to do more qualitative tasks and remove the remedial,"
+    publishedDateTime: 2022-04-20T14:35:00Z
+    webUrl: "https://www.finextra.com/blogposting/22169/how-to-deploy-ai-to-improve-customer-engagement-and-retention"
     type: article
     provider:
-      name: wallstreetrebel.com
-      domain: wallstreetrebel.com
-    quality: 39
-    images:
-      - url: "https://wallstreetrebel.com/wsr/images/theme/wsr_logo.png"
-        width: 286
-        height: 223
-        isCached: true
-  - title: "Google Announces AI-Generated Summaries for Google Docs"
-    excerpt: "Google has announced a new feature for their Docs app that will automatically generate a summary of the document content. The summarization is powered by a natural language processing (NLP) AI model based on the Transformer architecture."
-    publishedDateTime: 2022-04-19T13:28:00Z
-    webUrl: "https://www.infoq.com/news/2022/04/google-docs-ai-summaries/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
+      name: Finextra
+      domain: finextra.com
     quality: 19
-  - title: "Accessing the AI Revolution"
-    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
-    publishedDateTime: 2022-04-21T13:41:00Z
-    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+  - title: "Observe.AI Raises $125M for AI-Assisted Contact Center Product Development"
+    excerpt: "Observe.AI has secured $125 million in a Series C investment led by SoftBank Vision Fund 2 with participation from Zoom Video Communications, Inc. Observe.AI now has $213 million in investment under its belt."
+    publishedDateTime: 2022-04-22T13:29:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/observeai-raises-125m-for-ai-assisted-contact-center-product-development/"
     type: article
     provider:
-      name: pharmaceuticalcommerce
-      domain: pharmaceuticalcommerce.com
-    quality: 17
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "CcH9QsQfENqTzqwUPRCCmkHQ6IparLmc4e3U1MF4J6IWbV55XDZa89K/QVkn40xLciEXkefTkEpMKakFptNvNuEVev2pgQdhuGA/24p+1iNcBMTDm3t0JkFGpEifqeSBtGRFjloai7nH/buXFzmcDN5YMjJzCjue1q62ufdn+1CZUxAdaGfUosgGDwJIVcsgznScYOFPznROK6PoZJF7lqbtIGFP7HYR/GHJe4tXpJ7WidlaVA/rPzau/xZCkThA+ZwntZZnLgUmgQNjgAXyp6jMeOfpKU86Kl+upT70afuqxbgw/q+Et0sI0Zt/7kTljAsVFbkj4e6PHezO2UpF1lR4iYL7PFlTjdwSiARcuUQ=;ewPnjWf05y612JfXswWHpQ=="
 ---

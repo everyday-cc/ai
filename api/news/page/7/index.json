@@ -2,21 +2,21 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
-      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
-      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
+      "path": "_news/2022-04-14-bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies.md",
+      "title": "BPCL teams up with Microsoft to leverage cloud, AI technologies",
+      "excerpt": "Through a seven-year collaboration, Microsoft will provide infrastructure as a service (IAAS), platform as a service (PAAS), network and security services on the cloud, including Azure native services on Azure Datafactory,",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "webUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/articleshow/90843192.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/articleshow/90843192.cms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
-          "width": 2700,
-          "height": 1845,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-271322,msid-90843226/bpcl.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T00:01:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/amp_articleshow/90843192.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/energy/oil-gas/bpcl-teams-up-with-microsoft-to-leverage-cloud-ai-technologies/amp_articleshow/90843192.cms",
+      "publishedDateTime": "2022-04-14T01:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,50 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-ai-robots-deployed-to-fill-void-in-senior-care-but-can-they.md",
+      "title": "AI robots deployed to fill void in senior care. But can they?",
+      "excerpt": "To fill this void in senior care, authorities and institutions have deployed companion robots. These care machines with artificial intelligence have been billed as an example of the pandemic ...",
+      "sourceUrl": null,
+      "webUrl": "https://koreaherald.com/view.php?ud=20220414000682",
+      "originalUrl": "https://koreaherald.com/view.php?ud=20220414000682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F04%2F14%2F20220414000800_0.jpg",
+          "width": 630,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220414000682",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220414000682",
+      "publishedDateTime": "2022-04-14T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -93,6 +136,92 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother.md",
+      "title": "Artificial intelligence may take your job. Some lessons from my grandmother",
+      "excerpt": "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/457825/original/file-20220413-17-8go2vm.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169",
+      "publishedDateTime": "2022-04-13T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study.md",
+      "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
+      "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "originalUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
+          "width": 2700,
+          "height": 1845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyTwinTiers.com",
+        "domain": "mytwintiers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1019,126 +1148,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
-      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
-      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
-      "publishedDateTime": "2022-04-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-self-driving-car-pulled-over-in-san-francisco-confounding-police-aint-nobody-in-it.md",
-      "title": "Self-driving car pulled over in San Francisco, confounding police. 'Ain't nobody in it.'",
-      "excerpt": "License and registration? The first words police officers use weren't applicable when San Francisco police pulled over a car without a person inside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
-      "originalUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2017/10/12/USATODAY/usatsports/bolt-cruise-3rd-gen-design-dome-sept-2017_large.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/7302081001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7302081001",
-      "publishedDateTime": "2022-04-13T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-alpha-fintech-by-ppro-announces-launch-of-fi911s-intelligent-saas-dispute-processing-for-financial-institutions-in-asia-pacific.md",
-      "title": "Alpha Fintech by PPRO Announces Launch of Fi911’s Intelligent SaaS Dispute Processing for Financial Institutions in Asia Pacific",
-      "excerpt": "Fi911, the leading dispute specialists and sister brand of Chargebacks911, today announces its partnership with Alpha Fintech ( a fintech pioneer aiming to evolve and simplify payments. APAC regional acquirers and PSPs will be able to leverage the unrivaled Fi911 SaaS dispute management p.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=646511",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=646511",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

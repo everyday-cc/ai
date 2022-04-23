@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
+    excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
+    publishedDateTime: 2022-04-19T13:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "JL3qm/RVAV2XmybndQ9YDjIeWIpRoHXgt1ppgIBeQeKXEY11Ta7jNLWeMLVg+kWteM3JN1oiTrqzD8TA2fyq1Brsjq6rYQ4M+oLYgnh5+2A67xwUeTCWkGBHun14rV/wHC6MrCWxVLRLXwANK80h7l0Gyfd7NT30J9sWmbp/HSFsosJQwc/LqlayDP8bPh6Rmxzf8heApjGw1WWNeiMLJOnAP9DlaEuKikVK5Qo2ChpM2M7Ln77w82zG0SIaOXYQAeW059MiS/PS479Awsbb9Bw+k+lTXSi/FrKWwx1hi5INaCaGnpUtOHSxnYE0zSQWDSNgkwQNaqSKK9KmMF9wI/oyqA8LR1vDmHZM/RHQPZ75Z7xFHzbgbq4ZCR8lGVIXk9aviv0L0hYITiFDCxBb4AXV4iIReB0UvFeb3+XxVPdRaFMd22uvwNQlhp2X7VB+A+8f9df6DBrFgtGzneYK8hwAOMtc3wk+x6PB+fkAYdLvtwE49joXrvpCKReBPvfvOTYh2wj0ab5ClnITDiq//w==;dC1/s2FMdbhgmfwUwEJZMA=="
 ---

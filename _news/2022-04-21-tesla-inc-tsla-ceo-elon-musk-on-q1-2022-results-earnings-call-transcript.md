@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Seeking Alpha
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Elon Musk: Tesla's robotaxis will be driving you around in 2024"
+    excerpt: "Tesla CEO Elon Musk says that it plans dedicated robotaxis without steering wheels, or pedals, to hit the market by 2024."
+    publishedDateTime: 2022-04-21T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/85731/elon-musk-teslas-robotaxis-will-be-driving-you-around-in-2024/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "Hx8gr4eHMPNEf/oo0i+3v2XLIglyWyDGZrk7bJhDDlbTVX7MO970mkbhWUA9Vb+DH2X4nlDV9b4B6a18pSEeLfZhIVzBZktVgfwIAdZyGCAfw/bTuPEKdZ9ERVsVzdX5dcPk2WIaNFDhn/SC8hchZdIU0ZL4MUhWz6/tPeD32VD1A3Iz3MYgdkLO/xxdUCvMbWGkNDvkknue5E7iaGHqdp+3Tg+GoGecF2d/7lh4VTmJ7tKkNh4YeIOUujCdW8gTZSMEHp/QUn2P+6hR7zxwE59DH+C8ZOc375jIGDgaPzXUg4HcAFdbf/TVEFabu6hurRFk3lV1QPx3bEWMq7L+oBL3pyPFvfB8VbubB91LTSk=;i7ES75NimXZaDx6QzPRhYA=="
 ---

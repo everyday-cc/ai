@@ -54,6 +54,59 @@
       ]
     },
     {
+      "path": "_news/2022-04-21-ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too.md",
+      "title": "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too",
+      "excerpt": "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
+      "publishedDateTime": "2022-04-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-developing-ethical-responsible-and-trustworthy-ai-approaches-for-environmental-science.md",
       "title": "Developing ethical, responsible and trustworthy AI approaches for environmental science",
       "excerpt": "There's no doubt that artificial intelligence is embedded in our everyday lives. From smartphones to ridesharing apps to mobile check deposits, AI is so pervasive that we rarely think about how it works.",
@@ -221,6 +274,49 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-sas-data-ethics-head-named-to-national-ai-advisory-committee.md",
+      "title": "SAS data ethics head named to National AI Advisory Committee'",
+      "excerpt": "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee",
+      "originalUrl": "https://menafn.com/1104043527/SAS-data-ethics-head-named-to-National-AI-Advisory-Committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/18/PN_75f4df88-3_Image_In_Body.jpg",
+          "width": 320,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -632,31 +728,22 @@
       "title": "AI Week brings together the world AI community",
       "excerpt": "Amii (the Alberta Machine Intelligence Institute) has announced the program for AI Week, May 24-27 in Edmonton, Canada. With more than 20 events taking place across four days throughout the city, the celebration of Alberta’s AI excellence will feature an academic keynote from Richard S.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
-      "originalUrl": "https://www.wfla.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
+      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8522787/ai-week-brings-together-the-world-ai-community/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wfla.com/wp-content/uploads/sites/71/2022/04/pitcher-tackles-opponent.jpg?w=2000&#038;ssl=1",
-          "width": 800,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T13:00:00-07:00",
+      "publishedDateTime": "2022-04-14T12:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFLA",
-        "domain": "wfla.com",
+        "name": "WHNT",
+        "domain": "whnt.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -720,8 +807,8 @@
       "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
       "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "webUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "originalUrl": "https://www.mytwintiers.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -740,11 +827,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T00:01:00-07:00",
+      "publishedDateTime": "2022-04-13T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
+        "name": "MyTwinTiers.com",
+        "domain": "mytwintiers.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1342,95 +1429,6 @@
         "AI Ethics",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
-      "title": "NSW government AI projects face ethics assessment under new assurance framework",
-      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
-      "title": "Artificial Intelligence (AI) in construction",
-      "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
-      "sourceUrl": null,
-      "webUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "originalUrl": "https://aecmag.com/ai/artificial-intelligence-ai-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aecmag.com/wp-content/uploads/2022/03/Untitled-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AEC Magazine",
-        "domain": "aecmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics",
-        "AI in Finance",
-        "AI in Robotics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-61123510"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-61123510"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
+    excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
+    publishedDateTime: 2022-04-19T13:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "QayxP7NDDF/ObU5KGWTEofT33V4eve5/LuOw5+yNZrenquy/puU8TszOq7M7vBsiRIgzo44f1yv+gq5r1IymiTtO8QYgVnniDsTI3D7f9Ajwriu4qkgQEP2+GES98mefsuZcQZ/wuSSMoQk2uQcLfO34RaMaLMpsvzSICYxNskPGYO0/we65UWx3ZjIJlJ4mWwveZKVTzstrkE9hVdeGUF4aRi3RhwbJ6KtJ6Er41/CZ24Ldsc8WLYff4DckO6O/x3u7VhSB1CfdCYIg2TD/TUlyCthM/b2TFRN7wG1TqpvOgATo2bq5srmBsN4bJSQPeazG+2jRnFOzlPRNVE535wsVxjxG1bropLYWCYVP7fy8olyruGNslNCmqGSn4y+jCwFQQC79KhpJkNHFQoi+KC0T/yxHsAsik1q//9ON9hOazBV4VX4Gub72vLDf8UU5gvnr+i/lhpVRPfE2c70Yt70oACD/ecR7xBxd/iENuWtrE6Aa169usrlynBSmBPTt3bjC5QnB1FMrtEipt8Nr5Q==;FV9aLulm6yUUCvhhts84mw=="
 ---

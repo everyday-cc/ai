@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-l
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/20/alphamountain-ai-raises-2-7m-to-launch-ai-driven-threat-intelligence-feeds/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Clearing up biases in artificial intelligence"
+    excerpt: "Scientists have noticed grave disparities in artificial intelligence, noting that the methods are not objective, especially when it comes to geodiversity. AI tools, whether forecasting hail, wind or tornadoes,"
+    publishedDateTime: 2022-04-21T01:46:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/04/220420133607.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "alphaMountain.ai Raises $2.7M Seed Round for Threat Intelligence for Cyber Protection and Investigation Platforms"
     excerpt: "Co-Founders John Ahlander and Matthew Wood Draw Upon Decades of Artificial Intelligence, Security Experience to Raise Seed Fund Led By Mercato Partners' Prelude Fund"
     publishedDateTime: 2022-04-20T12:31:00Z

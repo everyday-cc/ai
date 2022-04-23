@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-maryland-researchers-wo
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-maryland-researchers-work-to-make-artificial-intelligence-genuinely-fair/"
 type: article
 quality: 64
-heat: 74
+heat: 75
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-un
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
 type: article
 quality: 85
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Noogata Raises $16M For Its No-Code AI Analytics Platform"
-    excerpt: "Noogata’s AI-solution for enterprises provides data-based insights, predictions, and recommendations without the use of code."
-    publishedDateTime: 2022-04-18T16:37:00Z
-    webUrl: "https://nocamels.com/2022/04/noogata-ai-analytics-blocks/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Maxar invests in analytics provider, Blackshark.ai"
     excerpt: "M axar Technologies has announced a strategic investment in Blackshark.ai, a provider of AI-powered geospatial analytics services. The investment will enable Maxar to bring additi"
     publishedDateTime: 2022-04-21T00:46:00Z

@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-21-ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too.md",
+      "title": "AI Startups Finally Getting Onboard With AI Ethics And Loving It, Including Those Newbie Autonomous Self-Driving Car Tech Firms Too",
+      "excerpt": "AI startups are increasingly adopting AI ethics precepts, though this is not as simple as it seems. Examples include the varying Ethical AI efforts of AI startups in the self-driving cars realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625f1714de8e38a94c971d92/0x0.jpg?format=jpg&crop=1394,784,x0,y33,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/",
+      "publishedDateTime": "2022-04-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript.md",
+      "title": "Tesla, Inc. (TSLA) CEO Elon Musk on Q1 2022 Results - Earnings Call Transcript",
+      "excerpt": "Q1 2022 Results Conference Call April 20, 2022 05:30 PM ET Company Participants Martin Viecha - VP, IR Elon Musk - CEO Zachary Kirkhorn - CFO Andrew",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
+      "publishedDateTime": "2022-04-20T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
       "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
       "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
@@ -114,7 +211,7 @@
       "originalUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -158,21 +255,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-20-people-will-be-allowed-to-watch-tv-and-check-emails-in-self-driving-cars.md",
-      "title": "People will be allowed to watch TV and check emails in self-driving cars",
-      "excerpt": "But under proposed updates to the Highway Code, people will be able to catch up on their favourite shows or check their emails while using self-driving cars. This will only apply when drivers hand ...",
+      "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
+      "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
+      "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
-      "originalUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
+      "webUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 330,
       "tags": null,
       "images": [
         {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_99710045.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594",
+          "width": 590,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -180,13 +277,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/",
-      "publishedDateTime": "2022-04-20T00:39:00-07:00",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
+      "publishedDateTime": "2022-04-20T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
+        "name": "Daily Express",
+        "domain": "express.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -209,7 +306,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1302,101 +1399,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-google-adds-self-repair-options-for-pixel-phones.md",
-      "title": "Google adds self-repair options for Pixel phones",
-      "excerpt": "More positive news for phone owners looking to take matters into their own hands. Google this morning announced that it’s teaming with iFixit to offer a suite of tools for fixing Pixel handsets. At launch (later this year),",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/",
-      "originalUrl": "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/CMC_0447.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/google-adds-self-repair-options-for-pixel-phones/amp/",
-      "publishedDateTime": "2022-04-08T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-teslas-full-self-driving-is-getting-better-why-thats-good-for-the-stock.md",
-      "title": "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock.",
-      "excerpt": "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
-      "originalUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-511644/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
-      "publishedDateTime": "2022-04-08T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

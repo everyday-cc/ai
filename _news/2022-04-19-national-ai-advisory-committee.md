@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS data ethics head named to National AI Advisory Committee"
-    excerpt: "Reggie Townsend among those who will advise the president on AI issuesCARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce"
-    publishedDateTime: 2022-04-18T16:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sas-data-ethics-head-named-to-national-ai-advisory-committee-1031361405"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/1798704/townsend_reggie_wire.jpg"
-        width: 320
-        height: 400
-        isCached: true
   - title: "SAS data ethics head named to National AI Advisory Committee'"
     excerpt: "Reggie Townsend among those who will advise the president on AI issues CARY, N.C., April 18, 2022 /PRNewswire/ -- The US Department of Commerce has named Reggie Townsend, Director of the Data ..."
     publishedDateTime: 2022-04-18T22:38:00Z

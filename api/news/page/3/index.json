@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
+      "title": "IBM to make Watson Orchestrate generally available",
+      "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-how-enterprises-can-use-ai-to-reduce-data-storage-costs.md",
+      "title": "How Enterprises Can Use AI to Reduce Data Storage Costs",
+      "excerpt": "The volume of data maintained by the world's enterprises continues to expand. The increasing cost of storage has compelled",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
+      "originalUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/04/How-Enterprises-Can-Use-AI-to-Reduce-Data-Storage-Costs.png",
+          "width": 1945,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-enterprises-can-use-ai-to-reduce-data-storage-costs/amp/",
+      "publishedDateTime": "2022-04-20T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-tesla-has-now-over-100000-people-in-its-full-self-driving-beta-program-is-an-accelerated-rate-of-improvement-coming.md",
       "title": "Tesla has now over 100,000 people in its Full Self-Driving Beta program – is an accelerated rate of improvement coming?",
       "excerpt": "Tesla CEO Elon Musk revealed that the automaker has now over 100,000 people in its Full Self-Driving (FSD) Beta program. Does it mean that we are going to start seeing an accelerated rate of ...",
@@ -10,7 +105,7 @@
       "originalUrl": "https://electrek.co/2022/04/20/tesla-number-people-full-self-driving-beta-program-an-accelerated-rate-improvement-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -113,7 +208,7 @@
       "originalUrl": "https://www.bbc.com/news/av/world-us-canada-61123510",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -157,21 +252,21 @@
       ]
     },
     {
-      "path": "_news/2022-04-20-people-will-be-allowed-to-watch-tv-and-check-emails-in-self-driving-cars.md",
-      "title": "People will be allowed to watch TV and check emails in self-driving cars",
-      "excerpt": "But under proposed updates to the Highway Code, people will be able to catch up on their favourite shows or check their emails while using self-driving cars. This will only apply when drivers hand ...",
+      "path": "_news/2022-04-20-people-will-be-able-to-watch-tv-and-check-emails-in-self-driving-cars-in-highway-code-law.md",
+      "title": "People will be able to watch TV and check emails in self-driving cars in Highway Code law",
+      "excerpt": "MOTORISTS will be allowed to watch television or check their emails on built-in screens under proposed updates to the Highway Code when in self-driving cars.",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
-      "originalUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/",
+      "webUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
+      "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 448,
+      "heat": 330,
       "tags": null,
       "images": [
         {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_99710045.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft-1598298.jpg?r=1650441690594",
+          "width": 590,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -179,13 +274,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/20/people-in-self-driving-cars-to-be-allowed-to-watch-tv-and-check-emails-16498312/amp/",
-      "publishedDateTime": "2022-04-20T00:39:00-07:00",
+      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft/amp",
+      "publishedDateTime": "2022-04-20T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
+        "name": "Daily Express",
+        "domain": "express.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -208,7 +303,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -869,7 +964,7 @@
       "originalUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1058,7 +1153,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/04/19/three-ways-ai-is-impacting-the-automobile-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1089,101 +1184,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hospital-robots-are-helping-combat-a-wave-of-nurse-burnout.md",
-      "title": "Hospital Robots Are Helping Combat a Wave of Nurse Burnout",
-      "excerpt": "Moxi and other delivery-focused assistants have become even more critical as the Covid-19 pandemic has pushed health care workers to their limits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
-      "originalUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6259fcdbe445956782d8b731/master/pass/Diligent-Moxi-Robot-Nurse-Burnout-Business.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxi-hospital-robot-nurse-burnout-health-care/amp",
-      "publishedDateTime": "2022-04-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
-      "title": "Artificial intelligence is creating a new colonial world order",
-      "excerpt": "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
-      "originalUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/",
-      "publishedDateTime": "2022-04-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220420/New-deep-learning-neu
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AF2Complex: Researchers leverage deep learning to predict physical interactions of protein complexes"
-    excerpt: "Proteins are the molecular machinery that makes life possible, and researchers have long been interested in a key trait of protein function: their three-dimensional structure. A new study details a computational tool able to predict the structure protein complexes -- and lends new insights into the biomolecular mechanisms of their function."
-    publishedDateTime: 2022-04-18T16:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/04/220418093952.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "The neural coding framework for learning generative models"
     excerpt: "Brain-inspired neural generative models can be designed to learn complex probability distributions from data. Here the authors propose a neural generative computational framework, inspired by the theory of predictive processing in the brain,"
     publishedDateTime: 2022-04-19T09:48:00Z

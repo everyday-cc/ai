@@ -34,6 +34,15 @@ related:
       name: Cambridge Network
       domain: cambridgenetwork.co.uk
     quality: 21
+  - title: "Speech recognition technology engine gathers more pace"
+    excerpt: "Speechmatics, a Cambridge-based speech recognition technology scale-up, has unveiled a globally transformative advance to the engine driving its solutions. It reveals a major step in delivering “truly comprehensive” speech recognition by adding Entity Formatting functionality to its Autonomous Speech Recognition (ASR) software."
+    publishedDateTime: 2022-04-19T18:46:00Z
+    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speech-recognition-technology-engine-gathers-more-pace"
+    type: article
+    provider:
+      name: Business Weekly
+      domain: businessweekly.co.uk
+    quality: 19
 
 secured: "gzHf7VFIs2u4rtVCgaVbRtbeql5yaCsC8CnrhFQwYBNACC4F+qAys/GUAswyYJJ9Qy13yNfBb1gRN4mfrEboeso+zA+WRx0Mdr+GUBzvaqomcO8EQ3vhW74HUh4yBHWAe3ZaM4+ATFpEr+8AI/xcvN1gCTDnuVmTcxxG5hquDc9oMTYFE0uBai4l2mcsr/WPyQdZvaQZXQX1TafcqptNyb4tLcGaT0vBLjLVJ58VBYcWmAeKbUM8T8993lQIagJo9uiUPnc23ujpQ1AQJUSI48cFaSMTvr05jgc8cCjm8MXoB2qlQyelpiUV4WY+btABKaQ2K/yH6wrKL/07ALLgKw1FvMJQdEX6zU7pE9H48PE=;r1D0+JS+tElQXMMFeiQizg=="
 ---

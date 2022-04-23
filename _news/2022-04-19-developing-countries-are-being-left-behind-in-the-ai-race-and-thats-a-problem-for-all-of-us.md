@@ -24,6 +24,17 @@ images:
     height: 282
     isCached: true
 
+related:
+  - title: "Harnessing the Power of Artificial Intelligence for Women Around the World"
+    excerpt: "Today, digital technologies such as artificial intelligence (AI) are transforming labor markets around the world and creating both challenges and opportunities for the working lives of women. Following the workforce lifecycle from recruitment to reskilling,"
+    publishedDateTime: 2022-04-20T15:08:00Z
+    webUrl: "https://www.unesco.org/en/articles/harnessing-power-artificial-intelligence-women-around-world"
+    type: article
+    provider:
+      name: UNESCO
+      domain: unesco.org
+    quality: 15
+
 secured: "UTjxPjVDkpH05fFA2j5zEZV16qQ+N1IVTpSDbsXfezg4qDTE04gPfElZBiWr2k01G6pKA+yKXiNrDPMp+DvJRqkUryVEcKA1I2K3vbAgqu4AaHqzfNBojx6a47OkSMxCToVmLJ5W8mdgrqKWDL3KF3BcliMxI6x+0llPNSRt3JaqIuobiolNdtVzMdtFRdeJ3H8bvr+J5Q0I4keSptS6HrClaCI98O3AAREl8t+pCjLLbwyQfQYwKMIwnTaQoC2y+nBn339yH/nw0nVZuUqV8bTtFtX7ahIh1gxm6UymzT37kHDhHJ2sZAbdCb0Y+JkkbznwycZGF/xP9vnDBKSaVGFNmEZ0Dv+/KvZll41+ON95j178cvyvz/iIibPQRVg5ZWoTXkV5wNuSLhRWy0++ZOfOX+TQqPDC5aS+flEYyNrfoS1FreKjtbXr9LtTXqdewfKZ7++SF/UPcrv8MIy69XqaBleXD2nBk+yOQ5LRlYT4/UKclO/5rR0KIshSGUYX4oDuch2sqfZiIXJzQQNOgA==;9OsAhJr8Lih86dpdUE6mYQ=="
 ---
 

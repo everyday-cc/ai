@@ -19,51 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "How Speech Recognition Technology Can Help Providers Achieve the Quadruple Aim"
-    excerpt: "As healthcare organizations seek to achieve the Quadruple Aim framework, they can rely on speech recognition tools to improve clinicians’ experiences."
-    publishedDateTime: 2022-04-18T15:43:00Z
-    webUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim"
-    ampWebUrl: "https://healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/04/how-speech-recognition-technology-can-help-providers-achieve-quadruple-aim?amp"
+  - title: "Speechmatics adds entity formatting to improve its speech recognition software"
+    excerpt: "U.K.-based startup Speechmatics said today it’s taking a big step in advancing speech recognition with the addition of “entity formatting” to its Autonomous Speech Recogniti"
+    publishedDateTime: 2022-04-21T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/04/21/speechmatics-adds-entity-formatting-numbers-dates-currencies-addresses-speech-recognition-software/"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 70
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/nurse%20with%20patient.jpg?itok=zutJSDjG"
-        width: 1440
-        height: 500
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/246375107_3093859757512336_8245589608267677587_n.png"
+        width: 851
+        height: 315
         isCached: true
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition"
-    publishedDateTime: 2022-04-20T09:38:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/imagine-learning-taps-speech-recognition-technology-to-help-educators-quickly-and-accurately-assess-reading-and-language-skills-1031363994"
+  - title: "Speechmatics tackles one of machine learning’s biggest challenges"
+    excerpt: "Speechmatics tackles one of machine learning’s biggest challenges, adding formatting of numbers, dates, addresses and more to its Autonomous Speech Recognition.  Speechmatics, the leading speech recognition technology scaleup,"
+    publishedDateTime: 2022-04-22T13:16:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-tackles-one-machine-learning’s-biggest-challenges"
     type: article
     provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 11
-  - title: "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover"
-    excerpt: "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,"
-    publishedDateTime: 2022-04-19T13:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-great-recognition-achievers-report-reveals-recognition-reduces-turnover-/2022/04/19/9585084.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
-  - title: "Imagine Learning Taps Speech Recognition Technology to Help Educators Quickly and Accurately Assess Reading and Language Skills"
-    excerpt: "On the heels of a successful pilot across the country, Imagine Learning partners with SoapBox Labs, the leading developer of speech recognition technology designed just for kids. SCOTTSDALE, Ariz., April 19,"
-    publishedDateTime: 2022-04-19T12:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-imagine-learning-taps-speech-recognition-technology-help-educators-/2022/04/19/9585025.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 21
 
 secured: "nTs2ydFupzf+29JIEzqiAfUWOqb019IkEb75IO6fj/Zuy7TiHXyuX9SgbcGmZisRVSn13ISDAxUSia769CHEDjjgj3ehXsIfZ9w5GQW+rSmcFMuEGbJRdMREz2Qet6v7vikQ9qsazZIdr8TLmF+2FMEQkQtjGGOooq13b76d+4yU+mvfug+O9HYGQxvUlFj31PkZ/J3V98T/UTrrxEzGUVfgqr6Jqr9IK2jm01AzwoCIw9OMs7gL/Y4dJBt+V1JW95TUa7G8WSVuUZ+Qz7cjKKJgfI+LxaldgzYFXaOWNQh6qwEP77V2bMlpLPnAmmhNWrXtvykUg8iZCodlTLiW4Gwh0j9gaGcwgKPLZNMRwjU=;8Bo72VLCi9wcv7ZK9r4CnQ=="
 ---

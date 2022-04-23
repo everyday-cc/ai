@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-access
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
 type: article
 quality: 79
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-18T16:18:00Z
-    webUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: WQAD
-      domain: wqad.com
-    quality: 59
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Congress launches investigation of ID.me facial recognition technology"
     excerpt: "Concerns the I-Team first revealed more than a year ago about ID.me's facial recognition technology blocking legitimate applicants from accessing state unemployment benefits has gained national attention."
     publishedDateTime: 2022-04-18T19:10:00Z

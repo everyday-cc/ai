@@ -156,6 +156,15 @@ related:
       name: Airforce Technology
       domain: airforce-technology.com
     quality: 19
+  - title: "Accessing the AI Revolution"
+    excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
+    publishedDateTime: 2022-04-21T13:41:00Z
+    webUrl: "https://www.pharmaceuticalcommerce.com/view/accessing-the-ai-revolution"
+    type: article
+    provider:
+      name: pharmaceuticalcommerce
+      domain: pharmaceuticalcommerce.com
+    quality: 17
   - title: "Artificial intelligence hiring levels in the pharmaceutical industry rose in March 2022"
     excerpt: "The proportion of pharmaceutical companies hiring for artificial intelligence related positions rose in March 2022 compared with the equivalent month last year, with 42.6% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-04-22T09:36:00Z

@@ -334,50 +334,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-20-d-matrix-lands-44m-to-build-ai-specific-chipsets.md",
-      "title": "D-Matrix lands $44M to build AI-specific chipsets",
-      "excerpt": "The chiplet architecture employs multiple small chips to make up a larger integrated ... 3 is a language model created by the Open AI LLC lab that has applications in a variety of language ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
-      "originalUrl": "https://siliconangle.com/2022/04/20/d-matrix-lands-44-million-build-ai-specific-chipsets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/chip-6517875_960_720.jpg",
-          "width": 960,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-04-20-automation-is-here-ways-ai-and-ml-are-transforming-digital-publishing.md",
       "title": "Automation Is Here: Ways AI And ML Are Transforming Digital Publishing",
       "excerpt": "With deep learning and natural language processing abilities, AI and ML can indeed transform digital publishing processes significantly. Here are some of the primary ways in which this is happening.",
@@ -430,7 +386,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220420/New-deep-learning-neural-network-model-predicts-physical-interactions-of-protein-complexes.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1415,6 +1371,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-ai-hardware-pc-gaming-rig-maker-partner-on-powerful-aiml-laptop.md",
+      "title": "AI hardware, PC gaming rig maker partner on powerful AI/ML laptop",
+      "excerpt": "AI hardware company Lambda and PC gaming rig maker Razer are hoping to steal some thunder from Apple's M1 Max-powered MacBook Pro with a new laptop designed explicitly for machine learning engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
+      "originalUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/04/12/lambda.jpg",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
+      "publishedDateTime": "2022-04-12T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI",
         "Machine Learning"
       ]
