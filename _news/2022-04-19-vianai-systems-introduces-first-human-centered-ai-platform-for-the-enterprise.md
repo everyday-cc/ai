@@ -48,15 +48,6 @@ related:
         width: 270
         height: 349
         isCached: true
-  - title: "How SASE uses AI"
-    excerpt: "SASE vendors are applying AI and machine learning to the network- and security-related data they collect to sharpen analytics, tighten security and boost performance."
-    publishedDateTime: 2022-04-18T10:00:00Z
-    webUrl: "https://www.networkworld.com/article/3657610/how-sase-uses-ai.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 17
 
 secured: "hVNQK72aRqnQzOcAaXc5NGqkzbg8v2xglDawN09EW5i1TfSmuNAOx2G260PJ8kjQZPPFf0YtgdD6g+HFI0olRqKSSRPmAlvkD2bqhxM0yVbxWWCVxEMehCVW7Lr1smbqkdNobIsV4OFsOao+8/k2cVX6gV+Dcf+J2bouPkny3FD1tEW5QAxrke8BtLS2tLXRDXbMGkYbR2KwvtT1GqSUphHS67TNdwx2fhz4Z+6qbdKZRet0FvLwORHhCJsxYnrYdRl0xf0o2PWUo1rRgKkOX6iunrT/5T+b51aboHGU3vK1JjnFY7hChoBG14yovfFRhwRKnJWWocBDzfAT5HgXTG1QRpO4zI9WRb88tR+OHZU=;TmX6C40vB68AjVsPABvUAA=="
 ---

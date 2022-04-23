@@ -65,7 +65,7 @@ related:
     provider:
       name: Pulitzer Center
       domain: pulitzercenter.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
         width: 768

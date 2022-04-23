@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Conversational AI tools should unify calling, messaging, analytics and more"
-excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,"
-publishedDateTime: 2022-04-22T21:20:00Z
-originalUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/"
-webUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/"
-ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
+title: "MoD to fund startups for Artificial Intelligence, big data analytics"
+excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
+publishedDateTime: 2022-04-23T00:32:00Z
+originalUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
+webUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
 type: article
-quality: 85
-heat: 155
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2022/04/chatbots_phone.jpg?w=1200&strip=all"
-    width: 1200
-    height: 761
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
+    width: 415
+    height: 253
     isCached: true
 
 related:
+  - title: "Conversational AI tools should unify calling, messaging, analytics and more"
+    excerpt: "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! LivePerson,"
+    publishedDateTime: 2022-04-22T21:20:00Z
+    webUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/"
+    ampWebUrl: "https://venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/conversational-ai-tools-should-unify-calling-messaging-analytics-and-more/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/chatbots_phone.jpg?w=1200&strip=all"
+        width: 1200
+        height: 761
+        isCached: true
   - title: "Noogata Raises $16M For Its No-Code AI Analytics Platform"
     excerpt: "Noogata’s AI-solution for enterprises provides data-based insights, predictions, and recommendations without the use of code."
     publishedDateTime: 2022-04-18T16:37:00Z
@@ -57,20 +67,6 @@ related:
       - url: "http://www.spatialsource.com.au/wp-content/uploads/2022/04/PR-Maxar-blackshark_web.jpg"
         width: 619
         height: 428
-        isCached: true
-  - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
-    excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
-    publishedDateTime: 2022-04-23T00:32:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
-        width: 415
-        height: 253
         isCached: true
   - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
     excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."
@@ -124,6 +120,6 @@ related:
       domain: newelectronics.co.uk
     quality: 16
 
-secured: "buoKFwP/oKYjU1uOETRKEAX+VdfT3TuqcXxU5f0ts6y1eoxyw5vf8N7dFVjwvHiPA84Lu0XvfXZzzDYHG/0taDWtDplpRVf0N7ZmDiiV3R+X4GRNpqgVukSU3Fn9VX4Svw8FUq0No7Vg8/mfAtkD/R7UMBYSc296YE5W/EheSyDtP0dW4qJbzE0GvkxVYsKacNvK8JkqBJyABJ7rgmGS8ztEId5WWSLdrYLXxQQuRlaDpqR5REg0I0uFQwPwCMM2j9eKHlP70qz05SMbW7TwZOROrsdGrKS2b35S4ANkMrDcTpV0GughYSDcBZtp/gmvfLZdjUUHK4k4q9oY9oLxYk7BWtYn3kal86tjitvvOHQ=;4Z/Wwst/AEqsHtBzMGLuqA=="
+secured: "u1zEgpGWPXDwWO6zvklHuB+hUeJ2+bgAtxRUs79ZH8up80KeQiUTIhP4e4inteHVvNHJ3Ki6t5j7LMR8reiWYxnrzaqiBq7N1ACeYVkHANS8I9LYyUYySVxRvOy/LjGsZBA+kP2G0hLXB+x6XSbtKbyrTlVl/ZcI2kkYyFjyaTgJrgWkKp2qEc7B7g7poRJV5gAWaL2nrZaIk1QaHxysQ0S1nLon0a6pnkt4+D3E3ZXwyieKnaa3KmWsxG+nTBJjwLxgHbIy2WtaQGh5jzyLUjqHt5otfTwN+zPJKeXVu9nbLA+BJylF+O56vAAvZxjGxXdW/b5pddNC3aaxPJ+ZXATQ+XED98qpU8PiSB2bwsI=;d+sqTKBU60SpAjNXONLJZQ=="
 ---
 

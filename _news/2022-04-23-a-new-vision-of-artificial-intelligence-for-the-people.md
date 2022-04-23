@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-22T23:27:00Z
 originalUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
 webUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"

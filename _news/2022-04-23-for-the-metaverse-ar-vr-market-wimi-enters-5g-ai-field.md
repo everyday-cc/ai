@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Role of AI in the Metaverse: Everything You Need to Know"
+    excerpt: "AI can assist in breaking down natural languages such as English, converting it to a machine-readable format, performing analysis, arriving at a"
+    publishedDateTime: 2022-04-22T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/role-of-ai-in-the-metaverse-everything-you-need-to-know-nid-9730.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/eh0d450308appcio.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "lJu39pAxQc07Cxq1IpGK8AYkUPf8XBbrr189Uok1MsGTaLsYzyF+5hvyF4QxI6q6qCC0qXry9YLf9BuMpeAci48IpG7Ojrnxb+mhlfSkYlPiqQuAojnl9q0iQT9n7vxtlPSqyYTwxe1HZTtMW2etQz/7gItgiATvQtUsNJMpH+RS2NHRjyM5S1aRqZkva0qbfNUvq6udA+fw6EtxGvow6jef9xhqz8cRMTbiCPCTm/BWuvPy7gjm1Y3EffHsDyNa2oyOsymwuHFAQlfauFfMr7s73VFpJ6VBvgWzzJrEX/JIJILzcqRWCKHDcWg3A58qiw9KbLMlEjQXoHP649z3RFPW3e8dZiEbCUJqhBLf3BeZKQsmB/Rt2apVK7Ij3o3ByWdgUZIsQ3NgCYhYGMOX+JLGMNOqj0uoJSLi5oeubQ5KQ6xKuTr7s2IWTnSGPqKfWNCsE0OIKdBtFdbN6IdRd3VWwrz6kQAoULnZbFsLxvC6hbDBt8MqXI6Nr94qa/CLLfKEF0yMfndnv7rNgTCiRA==;3R1ZN++pSkMhY8g1hQwT6A=="
 ---

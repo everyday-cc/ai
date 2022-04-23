@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-benga
 webUrl: "https://analyticsindiamag.com/fujitsu-launches-new-centre-in-bengaluru-to-accelerate-ai-and-ml-innovation/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -38,20 +38,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Comp-13.gif"
         width: 700
         height: 300
-        isCached: true
-  - title: "Fujitsu launches new research center in India, embarking"
-    excerpt: "Fujitsu today announced a key development in its global innovation strategy with the establishment of a new research center, 'Fujitsu Research of India Private Limited' (hereinafter FRIPL), on April 1,"
-    publishedDateTime: 2022-04-18T10:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-launches-new-research-center-india-embarking-joint-/2022/04/18/9583969.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1798525/Fujitsu.jpg"
-        width: 400
-        height: 244
         isCached: true
 
 secured: "ZUNLRSCY1fhN4r7tltYcEGBt+5uXuyG9UleTbVhIUdHhOIonKI4hOY72tLbGzYpv7OHBFOIWPOxwJRMDbyb3oZw/KJ3cMjccYiAWky/fHRsX1YFj49aYmFg18JRCMSh0AYRjUlfPOFmLlTRc+5594y/ZyCZRO9e6Nv/5gtnDkEExGxugFKiwUVZS4Bi4AN4FYgGkEJkFgYethEEwZRYdOE5uxft2vOcBY0nvbxX1F3uswo1EHLYZyxb4ql0tXx1LCo7BLnCzvVwuEibc3y7KgAwx8PuDN9jabDsu2+xVZ7jqi/qrHsrzg8vnhM6BKOJ2kY1cyq7Nvf+MhSsDrfJj8u84uW3Kmie+KhbIPQQ0gjQ=;S9IrTu6SxovlO3aL8B3qqA=="

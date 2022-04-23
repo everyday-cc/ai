@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "It will get weirder with the rise of large language models"
-    excerpt: "\"Many compute poor companies will become existentially dependent on the ML models of the compute rich companies, who will be the new platform gatekeepers of the coming decade,\" tweets Russel Kaplan."
-    publishedDateTime: 2022-04-18T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/it-will-get-weirder-with-the-rise-of-large-language-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Russel-Kaplan.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "AI21 Labs unveils new system that will change the way AI understands human language"
     excerpt: "The framework, called MRKL, will revolutionize the way that artificial intelligence processes the way humans speak."
     publishedDateTime: 2022-04-20T17:41:00Z

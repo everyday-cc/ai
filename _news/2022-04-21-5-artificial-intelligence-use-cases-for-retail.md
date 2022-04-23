@@ -40,15 +40,6 @@ related:
         width: 1945
         height: 1112
         isCached: true
-  - title: "How SASE uses AI"
-    excerpt: "SASE vendors are applying AI and machine learning to the network- and security-related data they collect to sharpen analytics, tighten security and boost performance."
-    publishedDateTime: 2022-04-18T10:00:00Z
-    webUrl: "https://www.networkworld.com/article/3657610/how-sase-uses-ai.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 17
   - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
     excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
     publishedDateTime: 2022-04-19T14:11:00Z

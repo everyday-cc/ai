@@ -54,6 +54,20 @@ related:
         width: 619
         height: 428
         isCached: true
+  - title: "MoD to fund startups for Artificial Intelligence, big data analytics"
+    excerpt: "The Defence Ministry will fund startups that can provide solutions to needs of Artificial Intelligence (AI), advanced imaging, sensor systems, big data analytics, autonomous unmanned systems and secured communication systems,"
+    publishedDateTime: 2022-04-23T00:32:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/mod-to-fund-startups-for-artificial-intelligence-big-data-analytics-388605"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/4/2022_4$thumbimg_2144424520.jpg"
+        width: 415
+        height: 253
+        isCached: true
   - title: "Maxar Invests in Geospatial Analytics Services Provider Blackshark.ai; Dan Nord Quoted"
     excerpt: "Maxar Technologies (NYSE: MAXR) has made a strategic investment in Blackshark.ai, a provider of geospatial analytics services powered by artificial intelligence, as part of efforts to bring additional 3D geospatial products to more markets and customers."
     publishedDateTime: 2022-04-21T09:10:00Z

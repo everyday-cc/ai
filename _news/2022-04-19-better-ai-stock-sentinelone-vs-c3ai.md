@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Better AI Stock: SentinelOne vs. C3.ai"
-excerpt: "SentinelOne and C3.ai were both crushed this year. Investors are concerned about their slowing growth and widening losses. One of these companies is also struggling with severe customer concentration issues. The artificial intelligence (AI) market is often ..."
-publishedDateTime: 2022-04-19T11:50:00Z
-originalUrl: "https://www.fool.com/investing/2022/04/19/better-ai-stock-sentinelone-vs-c3ai/"
-webUrl: "https://www.fool.com/investing/2022/04/19/better-ai-stock-sentinelone-vs-c3ai/"
+excerpt: "SentinelOne went public last June at $35 per share and its stock hit an all-time high of $78.53 five months later, but subsequently plunged back to the high $30s. C3.ai went public at $42 per share in December 2020 and hit its all-time high of $177."
+publishedDateTime: 2022-04-19T11:40:00Z
+originalUrl: "https://www.nasdaq.com/articles/better-ai-stock%3A-sentinelone-vs.-c3.ai?time=1650367802"
+webUrl: "https://www.nasdaq.com/articles/better-ai-stock%3A-sentinelone-vs.-c3.ai?time=1650367802"
+ampWebUrl: "https://www.nasdaq.com/articles/better-ai-stock%3A-sentinelone-vs.-c3.ai?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/better-ai-stock%3A-sentinelone-vs.-c3.ai?amp"
 type: article
 quality: 67
 heat: 67
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/674901/gettyimages-943557584.jpg"
-    width: 2121
-    height: 1414
-    isCached: true
-
-secured: "Kqbt5O865yqGUxLNUhauMU5bD7tmRWiR1+2p5PMRMFZlFc3usBu1IKZQxoA0PqzvDxbA7ntTWPT9ZvEnttXTq0YYsqvWcdXFT8rdtFhp6V28WxUERqzn5qVFoT4VNaFd0Y0MDPMDsR/H9DmxdnTgYLiTVJgvQ2+uOyekCTcC8milNxBwCfC4BFKQ1kvhUGLEUCfabzDhWceeeq6rfVMIScw/PmIgi3c3RcbeMg7EYa7bfetFnQ4dnt0HtMIe+F1fZ3DUayJXgSq5oFUimyC9zF4kbdPFNTdS9Ln/wrP0RomMk1AG76SF71KVss2yOV+Ipuo27QvzkDj8RKG0A80zJdxZbXp6vIu++ikawdFdGRX+zhlTA6/vAFrNnTOfwkQHf9qYz+zn/1JzBAStPAYOLYmkNS+6UlXAz0M/WZNCGp0yJ1t86JpE2YbqfnRYJB037L9JLJ9kKJXbhNYwtSyPNgESAoWHGL6yQSlxB8R2ucJOwoPjh+1X16d4FFguQn/biiGEZUYnQxwtEqhHHd2IhA==;75kA4QI0WeutBHe+F5XsUA=="
+secured: "XGREoQxghi81VRGlsno5XBscSF3LPWd0m9fQauupnom8CaDjWTRYcaWXGLujlT1+Er3dXQFhSk3PHYdut67lV/83Sge2HW+4QpqTf7gP26cnCmzwWw9rQngj/1WJGwZTqciJ9uWlzWBI7iG7E1DUESwoP8RBNreQeipJ6w2LDPyhHBOebtRlCB8bP9nD59XDEOcmaWpL/+rtRDjf1L21YW3lAXCOwYLRtCE53ahN5K8ycDoXOsZ+lnpsGaTmPfGuGxK4G1okggTAySmLa25jl7FaCFehccU3gS2wb82g6S9+n/mcgX+WnXaPpXbp7aaww3Ubs3NBQzNf+/EIRA+Xc0fpbfzDMQ+acJqBkBDbXq4=;jQqWJqt1a3OMSLgb2ED7/w=="
 ---
 

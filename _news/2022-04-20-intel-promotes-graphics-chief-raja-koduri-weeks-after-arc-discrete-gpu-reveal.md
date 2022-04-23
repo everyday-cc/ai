@@ -3,8 +3,8 @@ category: news
 title: "Intel promotes graphics chief Raja Koduri weeks after Arc discrete GPU reveal"
 excerpt: "Exclusive Intel has promoted its top graphics executive, ex-AMD veteran Raja Koduri, signaling the chipmaker's satisfaction so far with its fledgling – yet strategically important – discrete GPU business."
 publishedDateTime: 2022-04-19T19:38:00Z
-originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/"
-webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/"
+originalUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=rt-4a"
+webUrl: "https://www.theregister.com/2022/04/19/intel_koduri_gpu/?td=rt-4a"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/19/intel_koduri_gpu/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "ihL6Lv9lAD8SbY7L5tLrvRHgnHvovxhRTZN/W3KZ16S8Pigw0Fa+e2o7Wy47TFDO1sWYBxLR6/PFBPx1mKAnQGkfJSWoesjNZCO6sx7Neev80kQXksjKnoJSjxvtebmXjrx6aeb18dbYFvK8403CchG3AtJFcctBuYu+TswPTyVWrMI48sROAL3KuFMSA2XjqbEYtJo5Jh+xB+qMNDTEDUEBD3/zdpPGla3dGtJHsHPmmDygvaX5xEJTSgV5+8BK5heQ6kc8oea+1gbtQuKKZIekuxYJy38eQrd42//nZh3RtEjJ8xs14ce1o3tvCTXWwQdza+fb/7RH8T/5IalY3zWpZPEykLjW03RaPDDmwDyJ5JlRIuBDlvxDCZGlE31IDaz2a2HBZaiPRTl261kfc1iGmmavCwn5KlJBfiyUXM1tkRUB8XpYfsn7Dfo9YXXArRh7eO7HImTi+5c1TtxgA9TFoQWK8POGuVNxcQSSBS8kD3DXU173XaxQLfC6biYJMwFQJePoXKEsBVyabAgGvw==;a9IhNfFmUV5R578k7D1cgA=="
+secured: "RAvXvT1n/uCKOjfvWIOffHjp6A+A6nvWXIQtXezHlXJmwgyKwJ4zIpS+vfTCBRPLat5af4nMd8L2MnnG3Wfp2sUWLnJU8qpaQszAVvelJEnN4jELbsKkDzzlwWDCUifN2aOOrRUB3Rs/pOIl/buVAx/IEVoq7rhV7WP5juW6zOebqA6aX392qvWxrkCVPxwC2q4c97zyqh3T5IqKuFrmxgoVn/4isK5KzhWsuKy/x6Qd3qeAoGYFGKN1bA8Q6qUUHgxov8ppzXKSO2eFwN2NaULZ0Evy7Bh90idHC/36ZKKsUTxRAIRgSCphHF/LVM1nQy+9g3B7JgzVnhe2mR/ibXA0TivyEjJsBO012bZ1ojI=;1LQUrcmT68NdWNcdzAG2NQ=="
 ---
 

@@ -38,20 +38,6 @@ related:
         width: 640
         height: 336
         isCached: true
-  - title: "Fujitsu launches new research center in India, embarking"
-    excerpt: "Fujitsu today announced a key development in its global innovation strategy with the establishment of a new research center, 'Fujitsu Research of India Private Limited' (hereinafter FRIPL), on April 1,"
-    publishedDateTime: 2022-04-18T10:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-launches-new-research-center-india-embarking-joint-/2022/04/18/9583969.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1798525/Fujitsu.jpg"
-        width: 400
-        height: 244
-        isCached: true
 
 secured: "sBkj66/gC1F3MF3okTkOUsT3VGizb21DswA7TGrorYpEChFxFZ+H6c7GYdptD9giExUIaGpF+fLAnzaLbyOD9lIbmLPgW1ZNP7WXC9lWzusqmyTrD93zlvt1gypE5/RK6SxYOM4CR07L5Y+Mb6jQyjkb1L12hFUEHGtr4qpfxKX6/LX1IwPXOBPaHZXdg/bgoam8LSy9fcAFih3aKv8DAedEPZj2BzhF+N7Kbx8asGVJ1Wd8WVEOb4YBSJGfAxaQFS+hyVPQ9eLtH2ga8pcK0ff1sNnHB7rztV0+mIfvi48LUdrDNMuyjKqeWS1M1lIjxM2qKTpJFsBmdGoNdXJM3uKMbs1gKew6gRwupHSGnzk=;JRZOFQ4+KUbuxXcnqsXrNg=="
 ---

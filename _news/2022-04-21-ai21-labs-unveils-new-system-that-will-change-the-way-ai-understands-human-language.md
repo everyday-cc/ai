@@ -33,20 +33,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "It will get weirder with the rise of large language models"
-    excerpt: "\"Many compute poor companies will become existentially dependent on the ML models of the compute rich companies, who will be the new platform gatekeepers of the coming decade,\" tweets Russel Kaplan."
-    publishedDateTime: 2022-04-18T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/it-will-get-weirder-with-the-rise-of-large-language-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Russel-Kaplan.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "goktJOt3enZ4OaWy/52S/6FyL4h6tgxzYdeygRFr8PPj1VSkj8kEC+CS1PGgwYi4TUiaeJDUBWjTUfrY9AqGSftDoIrxvClImMWMX+fPF3AR3KyDBB1Y7z0TUZGtLy2qaXX19OILl8XCTvzMvSzwI/A4+DJEWoBMlPzx7FSXygnCf5NA0zeDI/wydOXNK8ZGNVHqR+FQNp4b1/UiDlubKX29HBYmQvMjD+/plsjveJHj2NNY+JhUDWONPbJWuLwn3eD/Ati4l5I/wHgyPN6M5RbJXFT+Q8Lv8OR5V+z8ZitJwb/EM78/Ax9C5m6MqkOrvbA5vXnY9q758y7ge66o1Jp1CUVXoZpDGKZVMvybyrduMWGx27FkyNSAKKobE9Ju4oDY3KDm8SFHzb+lDkCmHA+89yT32Wl2uEpL+aJ1n/vm+VOiRdhh18gYy8wHTBfM0+wOXtcw4Iyd5D42WuvvDZBOugNZEQi4s1Is15/09KN1WaQGOEfmi05qeRPonOYflSZ9Qjc5D3y8VRtJgllfTA==;RY20kQi7s5B0doLV7lOslQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metave
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/21/the-metaverse-needs-conversational-ai-but-its-no-easy-ride/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Role of AI in the Metaverse: Everything You Need to Know"
+    excerpt: "AI can assist in breaking down natural languages such as English, converting it to a machine-readable format, performing analysis, arriving at a"
+    publishedDateTime: 2022-04-22T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/role-of-ai-in-the-metaverse-everything-you-need-to-know-nid-9730.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/eh0d450308appcio.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "For the metaverse AR/ VR market, WIMI enters 5G + AI field"
     excerpt: "Yahoo recently launched its own virtual exhibition space in Decentraland as part of the first “Metaverse Fashion Week” (MVFW). This experience brings T station shows and showcases, pop-up stores, post-meeting parties,"
     publishedDateTime: 2022-04-22T19:19:00Z
