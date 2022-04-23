@@ -55,15 +55,6 @@ related:
         width: 635
         height: 347
         isCached: true
-  - title: "Always-on applications are expected to drive ultra-low power AI chip market to $3.3 billion by 2027"
-    excerpt: "Ultra-low power AI chip shipments have already reached 10s of millions. Several AI chip start-ups have delivered on their promise in this market segment and are ramping up"
-    publishedDateTime: 2022-04-18T23:09:00Z
-    webUrl: "https://www.wicz.com/story/46312428/always-on-applications-are-expected-to-drive-ultra-low-power-ai-chip-market-to-33-billion-by-2027"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 20
   - title: "AI as a Service (AIaaS) Market: Industry Value is Projected to Reach $77,047.7 Million by 2025, at CAGR of 56.7%"
     excerpt: "Increased application areas and growth in demand for IoT are likely to provide lucrative opportunities for the artificial intelligence as a service"
     publishedDateTime: 2022-04-22T12:46:00Z

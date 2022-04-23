@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-t
 webUrl: "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/04/ionq-1024x646.jpg"
         width: 1024
         height: 646
-        isCached: true
-  - title: "Hyundai Takes Step to Autonomy with IonQ Partnership"
-    excerpt: "The companies will explore 3D object detection, expanding their current work on recognizing road signs to include other objects like pedestrians or cyclists."
-    publishedDateTime: 2022-04-19T00:00:00Z
-    webUrl: "https://www.automotive-fleet.com/10168113/hyundai-partners-with-ionq-to-use-quantum-computing-for-object-detection"
-    type: article
-    provider:
-      name: Automotive Fleet
-      domain: automotive-fleet.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/fleet-forward/content/news/2022-04/ionqandhyundaiweb-__-1200x630-s.jpg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "IonQ and Hyundai Motor Expand Partnership to Use Quantum Computing for Object Detection"
     excerpt: "Project will leverage quantum machine learning to improve the computation process for tasks like road sign image classification and simulation in a real-world test environment, with the goal of expanding to 3D object detection."

@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Severity to Sentiment: Ukraine using facial recognition technology to notify Russian families of dead soldiers"
-    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-    publishedDateTime: 2022-04-18T23:26:00Z
-    webUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/"
-    ampWebUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 54
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI Is Already Learning from Russia’s War in Ukraine, DOD Says"
     excerpt: "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,"
     publishedDateTime: 2022-04-21T22:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Severity to Sentiment: Ukraine using facial recognition technology to notify Russian families of dead soldiers"
-    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-    publishedDateTime: 2022-04-18T23:26:00Z
-    webUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/"
-    ampWebUrl: "https://www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/russia-ukraine-conflict/severity-to-sentiment-ukraine-using-facial-recognition-technology-to-notify-russian-families-of-dead-soldiers/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 54
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Ukraine uses US facial recognition technology to terrorize families of dead Russian soldiers"
     excerpt: "The practice, which is a clear violation of international conventions on the treatment of dead soldiers, was reported on by the Washington Post as if it is a legitimate, if potentially problematic, military tactic."
     publishedDateTime: 2022-04-21T02:02:00Z

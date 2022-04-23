@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led by Philippines Mad Ventures,"
-publishedDateTime: 2022-04-22T22:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/ab26773948/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-r"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/ab26773948/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-r"
-ampWebUrl: "https://www.benzinga.com/amp/content/26773948"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26773948"
+excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of"
+publishedDateTime: 2022-04-22T22:35:00Z
+originalUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+webUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
 type: article
-quality: 40
-heat: 40
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://www.abnewswire.com/uploads/1650621633.png"
+    width: 725
+    height: 664
     isCached: true
 
-secured: "hE3EeMlWC56bOsq2AbpUtw3TUWKyE7ByboN6N7pp+/O/J0PxKNiMLYHjCxSUwqNJ8OH7iZNy2A0J/HfJJL1GTgwAgwfPgzl7LkDNfiRYKbfB+fCwxbeXy6EeSMIoldFZOL07XK+0RpWPKUGplK4xtX+T5iO5w05Z6HRXZsb6Ym2G4C9FNlTv0zywcm5/3eGV41UEcl2UtTemVJEjZTColTgYCin1Q5Rd7kwygsgoiSxoOMrOE3FeEbsdaS6zrKLXwZjgJ7ic7M5WmGaselTHxX9ZpQLdSSVwNjGTVSzTNh1Kud49kUVrTFOO3qVtzy4L/yXnOefMOquyvLaUn+0c7MpbxqB4EQFq/64ZlCXv6jI=;eucKpVHTCKJUHKxpKu58Sw=="
+secured: "bSHDbkRfW2KowhvfTzmP3VWZU8JSQz2YdaCM/Rigf3mbUbCg2/ghFmT66h59q+VsyVW6zos7FrKCraUqNMZ1hJnr9IeyEv5gZPh+B3Ufwkq7M0BcBAfl87Z3yNlXK+Q8kxJIJkP/QS8Db9ZFuxSYCdWwwk3zGq8o8Gh2gEpkLqC+AsG7j3rVhUnvbgVktqkEL5gxUALsXWbm+7orrXK7SONO/jfxcU7zptSyryCPFJun4/jCTE0mYykSWpoWYsO5nnBbEwqLg22MpRa4/hCM98k/nHblvVDRJh31hxv4/e5IMqaLAn/SqMaX9pX+FktwkYu7uWEj0tElpEdCr5vg6qgPQOO9BEkzGO+ena+bd7A=;DmbxuVIwMWKJZtr/1dE3Ow=="
 ---
 
