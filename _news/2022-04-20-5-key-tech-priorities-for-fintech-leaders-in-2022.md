@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 Fintech Stocks That Could Help Make You a Fortune"
+    excerpt: "The fintech industry continues to bring change to an industry ripe ... In contrast, Lemonade has developed a model to evaluate prospective customers using AI and behavioral economics. When it collects revenue, the company takes a fee and allocates the ..."
+    publishedDateTime: 2022-04-23T12:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Biggest FinTech Trends of 2022"
     excerpt: "Biggest FinTech Trends of 2022 . April 20, 2022 by David Edwards Leave a Comment . The pandemic and fast technology development made their imp"
     publishedDateTime: 2022-04-20T23:10:00Z

@@ -25,82 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "GSA looks into facial recognition bias and improving accessibility in federal web services"
-    excerpt: "The U.S. General Services Administration, which procures and investigates tech for things like government websites and online services, is making a two-pronged push for accessibility in its recently released Equity Action Plan."
-    publishedDateTime: 2022-04-18T21:23:00Z
-    webUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/"
-    ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
+  - title: "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors"
+    excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
+    publishedDateTime: 2022-04-22T04:30:00Z
+    webUrl: "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html"
+    ampWebUrl: "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
+    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: KITV
+      domain: kitv.com
+    quality: 58
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-186872728.jpg?w=1024"
+      - url: "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "State plans to use facial recognition at Honolulu's airport to speed up travel time for international visitors"
+    excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
+    publishedDateTime: 2022-04-22T03:46:00Z
+    webUrl: "https://www.kitv.com/news/local/state-plans-to-use-facial-recognition-at-honolulus-airport-to-speed-up-travel-time-for/article_176dbd70-c1de-11ec-bc45-83287326a416.html"
+    ampWebUrl: "https://www.kitv.com/news/local/state-plans-to-use-facial-recognition-at-honolulus-airport-to-speed-up-travel-time-for/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
+    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-plans-to-use-facial-recognition-at-honolulus-airport-to-speed-up-travel-time-for/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html"
+    type: article
+    provider:
+      name: KITV
+      domain: kitv.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/0/e7/0e7a33a6-c1ed-11ec-88ba-331bc3705778/62622239e77f4.image.jpg?resize=1024%2C576"
         width: 1024
-        height: 682
+        height: 576
         isCached: true
-  - title: "Congress launches investigation of ID.me facial recognition technology"
-    excerpt: "Concerns the I-Team first revealed more than a year ago about ID.me's facial recognition technology blocking legitimate applicants from accessing state unemployment benefits has gained national attention."
-    publishedDateTime: 2022-04-18T19:10:00Z
-    webUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/congress-members-launch-investigation-into-use-of-id-me-facial-recognition-technology"
-    ampWebUrl: "https://www.abcactionnews.com/news/local-news/i-team-investigates/congress-members-launch-investigation-into-use-of-id-me-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/local-news/i-team-investigates/congress-members-launch-investigation-into-use-of-id-me-facial-recognition-technology?_amp=true"
+  - title: "Facial recognition cameras to be installed at Hawaii airport to speed up travel at international gates"
+    excerpt: "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening"
+    publishedDateTime: 2022-04-22T06:32:00Z
+    webUrl: "https://www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.html"
+    ampWebUrl: "https://www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.amp.html"
+    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/video/news/facial-recognition-cameras-to-be-installed-at-hawaii-airport-to-speed-up-travel-at-international/video_06aded03-6236-56a6-8c4f-84cba40b0c3b.amp.html"
     type: article
     provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 59
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/4b5/45bf940c346f431c9be273b8942ab6eb/4b55b391730547e6a1e92c667efa0c79/poster_3af5f009d26f46e7b7d14cac09d22b85.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-23T01:10:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider"
-    excerpt: "Looking for the latest Government Contracting News? Read about House Lawmakers Kick Off Inquiry Into Facial Recognition Service Provider."
-    publishedDateTime: 2022-04-18T20:41:00Z
-    webUrl: "https://executivegov.com/2022/04/house-lawmakers-kick-off-inquiry-into-facial-recognition-service-provider/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
+      name: KITV
+      domain: kitv.com
     quality: 38
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/04/18/20/ec/ee/33/c8/fd/47/94/00P4y000011p6OsEAI.png"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "Global Facial Recognition Market to Generate $16.74 Billion by 2030, States the Report by Allied Market Research"
-    excerpt: "Rise in demand for face detection systems to improve the essential safety & security in enterprises and advent of intelligent signage solutions boost"
-    publishedDateTime: 2022-04-21T08:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-generate-16-74-billion-by-2030-states-the-report-by-allied-market-research"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 18
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/49e19acb9b839c9b1eb0879c7b52bd76f2e02676-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "717oP2y+4C38+9+H18h+lhRX11itxnaNklwUhZIrEtBLGpWeslk3lO/zxVdLzfwertNsntpmiBV5oPXGxOGOjgA2KeeBmc/ffDb0K2K+fSGxYFwR4KmNveUA2p2H5GUGNBL4wjWrn0igXlWjK7IwUgasWGtK8Kf39ej9hySZ84jJAP5wi5WETKyFm4XhndMywQrpaKGE3KIpFMvP81R9ypCA31Y/q4s5VTo/utUD9BvbBmIjK5yOF5bgz2DmKany7wRu59ABJ39QY4Dx1hy7M0DEEbiYiFNLuHTEF0AaQZ+IV1l/HuCFN+MTtzyveavu+gX2HU8Tq1vXVpIPijhgmzE1niBhCInq0YYAbbZvLFQ=;ayxlFjOiQYI2Yc+lpwAwOA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/products/maxton-n-c-pursues-funding-for-faci
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/maxton-n-c-pursues-funding-for-facial-recognition-tech?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NY State audit finds bidding for school facial recognition system was improper"
-    excerpt: "The report continues an ongoing debate over the inclusion of a $3.8 million security system in Lockport City’s schools that would have biometric identification."
-    publishedDateTime: 2022-04-18T21:04:00Z
-    webUrl: "https://www.biometricupdate.com/202204/ny-state-audit-finds-bidding-for-school-facial-recognition-system-was-improper"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Apple sued for patent infringement on facial expression recognition"
     excerpt: "Apple was served a lawsuit from FaceToFace Biometrics for allegedly infringing on a facial expression recognition patent for messaging systems."
     publishedDateTime: 2022-04-21T22:57:00Z

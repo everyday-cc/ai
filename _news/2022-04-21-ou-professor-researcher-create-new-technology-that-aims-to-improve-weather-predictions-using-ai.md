@@ -24,67 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Research using AI to better predict severe weather"
-    excerpt: "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately."
-    publishedDateTime: 2022-04-18T21:37:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather"
-    ampWebUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
-    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
+  - title: "Prometheus AI Is Providing A Brand New Insight Into Automated Trading Technology This 2022"
+    excerpt: "Prometheus AI is an education program that shows everyday traders how to leverage the power of artificial intelligence to increase"
+    publishedDateTime: 2022-04-21T16:15:00Z
+    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8526540/prometheus-ai-is-providing-a-brand-new-insight-into-automated-trading-technology-this-2022/"
     type: article
     provider:
-      name: KJRH
-      domain: kjrh.com
-    quality: 57
+      name: KOIN 6
+      domain: koin.com
+    quality: 27
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Spam, scams, and Search: How Google's using AI to keep you safe from malicious content"
-    excerpt: "According to Google, its most effective tool against spam and scams is an AI-based prevention system known as SpamBrain. The service, which launched in 2018, can identify spam-filled sites up to six times as fast as it could in 2021, reducing hacked spam ..."
-    publishedDateTime: 2022-04-21T16:00:00Z
-    webUrl: "https://www.androidpolice.com/google-search-webspam-report-spambrain-scams/"
-    ampWebUrl: "https://www.androidpolice.com/google-search-webspam-report-spambrain-scams/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-search-webspam-report-spambrain-scams/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 49
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2018/10/Google-Logo-G-inside-of-hardware-store.jpg"
-        width: 2738
-        height: 1825
-        isCached: true
-  - title: "How WebAwards Is Using World’s First AI-Powered Jury To Better Judge Websites On The Internet"
-    excerpt: "There is something on the internet that people use daily, but do not appreciate enough. It forms the core of the user experience in cyberspace and has seen a myriad of changes since the very inception of the World Wide Web."
-    publishedDateTime: 2022-04-20T04:34:00Z
-    webUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/"
-    ampWebUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 46
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
-    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
-    publishedDateTime: 2022-04-21T01:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=650365"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
         isCached: true
 
 secured: "jdzIjqKF1ji/GKg0gBCYx/JKMTy0zespFpMpZJfDfVIivvEzApAEDT39VjdgYOz+EokJVbsjt6lNJWQPHa4OqiosTJC4XX6RV0xLfO/cjj2nAJ7kVuLZeKD0fBYk35Yytxk2b03AjFzzkVktYFghlCc3E1cexMQdwgz7gpIW9XIKDzB4CKVVDON0pVwPTd+lwlwcyYFrzEaqk/kE76pSOmRTFMm3tDVVjIZAv1MkypkomOHVdMb8g1gi6hu2w8gHKJeJ9F4TO8Jemxu7jgHeZoYRJ08Px4GdvrSqSXBSpQBFC/MfT9DVcJibbrHRhqb0FXP5JZZml/nTtrHQgLsyeqyH2CmEqfsVeR2nJQLsOus=;JFk6BF4i9QleqeiB+skB2A=="

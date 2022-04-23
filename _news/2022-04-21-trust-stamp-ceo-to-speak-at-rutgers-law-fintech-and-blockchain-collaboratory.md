@@ -55,6 +55,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Trust Stamp CEO to Speak at Rutgers Law Fintech and Blockchain Collaboratory"
+    excerpt: "ATLANTA, April 20, 2022 (GLOBE NEWSWIRE) -- Trust Stamp (Nasdaq: IDAI, Euronext Growth: AIID ID), the Privacy-First Identity CompanyTM providing AI-powered trust and identity ... hosted by the Rutgers Law School FinTech and Blockchain Collaboratory ..."
+    publishedDateTime: 2022-04-23T11:59:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/20/trust-stamp-ceo-to-speak-at-rutgers-law-fintech-and-blockchain-collaboratory"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 16
 
 secured: "dhQVZ0MyCVvhKGGGghFE58A9+3lzOiggdnK8aqy/Bbw/Bu2gJsv+0rdUOfRwRYRgxLSMRJKUpzsmcQ3H/XlEzYS8QVcFb6IxjT5ffIMeQVE12dR2oC9oZkqA4tn1o0SMyk+f2vImN4UPkLfOUAIWjq5blSEV9tD8PEqMwHde2D+dem+QpwTmkkB3+Rv5qt9yiPNrsQcg62lhf98rqdE6B05qaeyxz+M/buAmVbexlIO93DIr/wfgvNUobpQgFJEvY+AdaOehQ6mDmxDpt1plSolYV3lWlZXt/TaG+ZvO38MPWRQL2BEb8iDsyuz/PHRNzP24T4HRVUTv0IrIBads/4HlkRpcOZkUybk8cYSTXRA=;c8iUtFi6xXGyXF/7str2Mg=="
 ---

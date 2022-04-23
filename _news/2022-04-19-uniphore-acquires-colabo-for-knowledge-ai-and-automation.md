@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
+    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
+    publishedDateTime: 2022-04-21T01:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=650365"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Communication-efficient federated learning via knowledge distillation"
     excerpt: "This work presents a communication-efficient federated learning method that saves a major fraction of communication cost. It reveals the advantage of reciprocal learning in machine knowledge transfer and the evolutional low-rank properties of deep model updates."
     publishedDateTime: 2022-04-19T10:25:00Z

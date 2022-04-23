@@ -75,20 +75,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI-Enabled Last Mile Delivery Market Size, Trends, Future Estimations & Opportunity Analysis By 2029"
-    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
-    publishedDateTime: 2022-04-18T22:43:00Z
-    webUrl: "https://menafn.com/1104040256/AI-Enabled-Last-Mile-Delivery-Market-Size-Trends-Future-Estimations-Opportunity-Analysis-By-2029"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743680"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Voice Recognition for Smartphones Market Size, Growth, Share – Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2026"
     excerpt: "Global Voice Recognition for Smartphones Market(2022-2026) Research report provides an in-depth market evaluation"
     publishedDateTime: 2022-04-22T08:08:00Z

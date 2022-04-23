@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-23T11:53:00Z
 originalUrl: "https://www.hstoday.us/industry/industry-news/major-general-martin-f-klein-to-lead-defense-and-intelligence-operations-for-c3-ai/"
 webUrl: "https://www.hstoday.us/industry/industry-news/major-general-martin-f-klein-to-lead-defense-and-intelligence-operations-for-c3-ai/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Homeland Security Today

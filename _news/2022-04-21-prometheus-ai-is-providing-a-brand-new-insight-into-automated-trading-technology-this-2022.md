@@ -1,39 +1,44 @@
 ---
 category: news
 title: "Prometheus AI Is Providing A Brand New Insight Into Automated Trading Technology This 2022"
-excerpt: "New York, NY, April 21, 2022 (GLOBE NEWSWIRE) -- Prometheus AI is an education program that shows everyday traders how to leverage the power of ar"
-publishedDateTime: 2022-04-21T15:50:00Z
-originalUrl: "https://menafn.com/1104069934/Prometheus-AI-Is-Providing-A-Brand-New-Insight-Into-Automated-Trading-Technology-This-2022"
-webUrl: "https://menafn.com/1104069934/Prometheus-AI-Is-Providing-A-Brand-New-Insight-Into-Automated-Trading-Technology-This-2022"
+excerpt: "Prometheus AI is an education program that shows everyday traders how to leverage the power of artificial intelligence to increase"
+publishedDateTime: 2022-04-21T16:15:00Z
+originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8526540/prometheus-ai-is-providing-a-brand-new-insight-into-automated-trading-technology-this-2022/"
+webUrl: "https://www.koin.com/business/press-releases/globenewswire/8526540/prometheus-ai-is-providing-a-brand-new-insight-into-automated-trading-technology-this-2022/"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: KOIN 6
+  domain: koin.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?922726"
-    width: 427
-    height: 250
+  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+    width: 800
+    height: 340
     isCached: true
 
 related:
-  - title: "Proactive news headlines including Fobi AI, Altaley Mining, Wellbeing Digital Sciences, Pathway Health, and SWMBRD"
-    excerpt: "New York, April 21, 2022 (GLOBE NEWSWIRE) -- Proactive, provider of real-time news and video interviews on growth companies listed in the US and Canada, has covered the following companies: Proactive is a unique tech-enabled platform providing companies ..."
-    publishedDateTime: 2022-04-21T19:11:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/1000618240/proactive-news-headlines-including-fobi-ai-altaley-mining-wellbeing-digital-sciences-pathway-health-and-swmbrd"
+  - title: "OU Professor, Researcher Create New Technology That Aims To Improve Weather Predictions Using AI"
+    excerpt: "\"I think AI is going to really revolutionize our ability to predict a lot of these things, and we're not going to be able to stop the tornados and the hail, but we're going to really be able to improve the predictions overtime,\" McGovern said. \"I think ..."
+    publishedDateTime: 2022-04-21T14:29:00Z
+    webUrl: "https://www.news9.com/story/626144383d9b33071659e83a/ou-professor-researcher-create-new-technology-that-aims-to-improve-weather-predictions-using-ai"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: News9
+      domain: news9.com
+    quality: 24
+    images:
+      - url: "https://cdn.field59.com/KOTV/59dc37859a47e363107db7bebdfdb168c15976ea_SITM_Aircheck__Part_1_frame_128271_custom.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "MVrKhKDXcEiKBJoTGw7mFja/87jwAZtu+F6MOTPQYFlrPo2hRXMTfadeaqPQifwFPqWUxBuW2hLAjvwspqLNE2c+1XaKr0IdbRiG1p2kI/xXjJfMq5/EQvKPcxA6+7oe2u+pXnRORs52NE5ZzcPWw2nlVEGmQWlpliFxxyu8fLg2rWOfJxqnRoixB5qgn7KCCwNf0JnSK8XN2uOpQwyf+8TjOSpgYTtOnB0VbyuofZKPSSiBi/o1iZ0wf7YleBzcNV6qSQqy6PGKC+bJs1TT3vblOZ2TZtANvxTtIySuzpGkf9ObgpH8ATKgGiACsXcmjQpfeCJNM6wOZTmg5UW50MGogiULoN+xrAegU0Sa2Tc=;/5eeukmn37Lt2Uh4yfWdGA=="
+secured: "YfpE29E8eMVG/pYPqMvB4HIDIVgtgIjrqf2zsu/SkcpeO2ThSj65VdeBKZMs6k2fEHbR+2XIg2oat/1anxkXQW5ZjlIWdCcK/1n3kW9uplV8FCBsERZIoIsTboGRlfKQ3mJRLwBA+HrDUsx2WyE+ZxIE2kZYtqR/BGF+qBPM8odLaLbfmn+6qJtSqHGyesx0aNf6hOmkx7PULs3PBmXNpdQcDVfWYcgz9dRQtUWoGZsYT1cDlLPmsrkMmV/Nc4RBQqM6b+l/1EjRiiyB2IJSO3v5R1xci19funip35NMYD5eBHu7vBV22qWWNsvzO46pIImWMbZy1VHinhUJnpn1t1cPXVqAjtC/1qzS7C51Rvk=;i1UFq9JqvaDtztnHhS2QcQ=="
 ---
 

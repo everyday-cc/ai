@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Agility Robotics Raises $150M Series B Led by DCVC and Playground Global to Accelerate Blended Human-Robot Workplaces"
+    excerpt: "Agility Robotics, a creator and manufacturer of robots designed to work alongside people in logistics and warehouse environments, today announced that it has raised $150 million led by DCVC and Playground Global."
+    publishedDateTime: 2022-04-22T14:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended/article_64ca8cd6-b078-5e7f-928c-abbd24cc0e8f.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 26
   - title: "Exclusive: Clinical AI startup Mendel rakes in $40M"
     excerpt: "Clinical AI startup Mendel collected $40 million in an Oak HC/FT-led Series B round, the company tells Axios exclusively. Why it matters: Abstracting useful insights from unstructured medical data is challenging and time-consuming."
     publishedDateTime: 2022-04-21T12:00:00Z

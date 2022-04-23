@@ -42,6 +42,15 @@ related:
       name: Cambridge Network
       domain: cambridgenetwork.co.uk
     quality: 21
+  - title: "EU law targets Big Tech over hate speech, disinformation"
+    excerpt: "The European Union has reached a landmark deal to take aim at hate speech, disinformation and other harmful content online. The new law would force big tech companies to police"
+    publishedDateTime: 2022-04-23T08:28:00Z
+    webUrl: "https://tdn.com/lifestyles/technology/eu-law-targets-big-tech-over-hate-speech-disinformation/article_19335c4d-e371-547c-bee6-386631269ea0.html"
+    type: article
+    provider:
+      name: The Daily News
+      domain: tdn.com
+    quality: 4
 
 secured: "nTs2ydFupzf+29JIEzqiAfUWOqb019IkEb75IO6fj/Zuy7TiHXyuX9SgbcGmZisRVSn13ISDAxUSia769CHEDjjgj3ehXsIfZ9w5GQW+rSmcFMuEGbJRdMREz2Qet6v7vikQ9qsazZIdr8TLmF+2FMEQkQtjGGOooq13b76d+4yU+mvfug+O9HYGQxvUlFj31PkZ/J3V98T/UTrrxEzGUVfgqr6Jqr9IK2jm01AzwoCIw9OMs7gL/Y4dJBt+V1JW95TUa7G8WSVuUZ+Qz7cjKKJgfI+LxaldgzYFXaOWNQh6qwEP77V2bMlpLPnAmmhNWrXtvykUg8iZCodlTLiW4Gwh0j9gaGcwgKPLZNMRwjU=;8Bo72VLCi9wcv7ZK9r4CnQ=="
 ---

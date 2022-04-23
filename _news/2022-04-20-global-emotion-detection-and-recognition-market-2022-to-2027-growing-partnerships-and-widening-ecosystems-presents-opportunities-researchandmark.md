@@ -151,15 +151,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Opportunities, Deep Analysis With Present Data And Forecast 2022-2028"
-    excerpt: "Artificial Intelligence in Healthcare Analysis AI is used in healthcare for approximation of human cognition and analysis of complex medi"
-    publishedDateTime: 2022-04-18T19:25:00Z
-    webUrl: "https://menafn.com/1104042106/Artificial-Intelligence-in-Healthcare-Market-Opportunities-Deep-Analysis-With-Present-Data-And-Forecast-2022-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
   - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
     excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
     publishedDateTime: 2022-04-21T15:24:00Z

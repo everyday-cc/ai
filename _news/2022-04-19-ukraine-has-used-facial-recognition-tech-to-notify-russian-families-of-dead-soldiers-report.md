@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers, report says"
-    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-    publishedDateTime: 2022-04-18T22:59:00Z
-    webUrl: "https://www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/"
-    ampWebUrl: "https://www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/amp/"
-    cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/ukraine-russia-conflict/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report-says/amp/"
-    type: article
-    provider:
-      name: WBTW
-      domain: wbtw.com
-    quality: 61
-    images:
-      - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Severity to Sentiment: Ukraine using facial recognition technology to notify Russian families of dead soldiers"
     excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
     publishedDateTime: 2022-04-18T23:26:00Z

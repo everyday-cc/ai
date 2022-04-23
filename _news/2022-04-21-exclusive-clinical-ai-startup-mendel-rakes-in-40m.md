@@ -32,6 +32,15 @@ related:
         width: 600
         height: 207
         isCached: true
+  - title: "Agility Robotics Raises $150M Series B Led by DCVC and Playground Global to Accelerate Blended Human-Robot Workplaces"
+    excerpt: "Agility Robotics, a creator and manufacturer of robots designed to work alongside people in logistics and warehouse environments, today announced that it has raised $150 million led by DCVC and Playground Global."
+    publishedDateTime: 2022-04-22T14:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended/article_64ca8cd6-b078-5e7f-928c-abbd24cc0e8f.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 26
 
 secured: "wNjjwPy0+QOKTtuXSEk8cJwJ6GIM0w01ObWFc2vdUtFXdiWm1h2CzvfgNxBxGh3HiazjJuSz5xFTTVA6nsUdp6fxPhua/VEaH/NazP8nRzHzmWKBerb5lBbmg6nxpyrKmSEhTM/IhLFol0iLaRN2+IMd00jJzYygbu3Jo3gxY3zGYMy6J/y3bmI7qgz6td2SsdOG57v37vRjqy3YDSoooYx0GYppKZr9U5oJo0eXi0Lyws5/eGWtIIBdPPIR6O29+w0uEhrvc3gypSqhYHC7DaC/ek0D8kJRs4b/rb2DcaT+rn6PNzUDfbX5Rq5xqYIJ7fQpD2j67dZioMdVw3soYldntBFX7lTRr/hdltF+HU21fXEwSTN7eGbRS/OFN9XyAtkAiM7yIIdkKx9B2NMZ73zJMSaXSN7UBqXpXgims6QrJ8cIckSaZusTUgw6iwISHqRuKoYbDobT5TpEfrU2pGbiSiGCMcxmwxsTa2wBfydrEAkiCAi4mus7uvKOMT+rNCpTb9bpWmorKJ874OD13Q==;keDSRnS4MT3PElrEpQF8eg=="
 ---

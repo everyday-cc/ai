@@ -43,6 +43,15 @@ related:
       name: Business Weekly
       domain: businessweekly.co.uk
     quality: 19
+  - title: "EU law targets Big Tech over hate speech, disinformation"
+    excerpt: "The European Union has reached a landmark deal to take aim at hate speech, disinformation and other harmful content online. The new law would force big tech companies to police"
+    publishedDateTime: 2022-04-23T08:28:00Z
+    webUrl: "https://tdn.com/lifestyles/technology/eu-law-targets-big-tech-over-hate-speech-disinformation/article_19335c4d-e371-547c-bee6-386631269ea0.html"
+    type: article
+    provider:
+      name: The Daily News
+      domain: tdn.com
+    quality: 4
 
 secured: "gzHf7VFIs2u4rtVCgaVbRtbeql5yaCsC8CnrhFQwYBNACC4F+qAys/GUAswyYJJ9Qy13yNfBb1gRN4mfrEboeso+zA+WRx0Mdr+GUBzvaqomcO8EQ3vhW74HUh4yBHWAe3ZaM4+ATFpEr+8AI/xcvN1gCTDnuVmTcxxG5hquDc9oMTYFE0uBai4l2mcsr/WPyQdZvaQZXQX1TafcqptNyb4tLcGaT0vBLjLVJ58VBYcWmAeKbUM8T8993lQIagJo9uiUPnc23ujpQ1AQJUSI48cFaSMTvr05jgc8cCjm8MXoB2qlQyelpiUV4WY+btABKaQ2K/yH6wrKL/07ALLgKw1FvMJQdEX6zU7pE9H48PE=;r1D0+JS+tElQXMMFeiQizg=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
+    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
+    publishedDateTime: 2022-04-21T01:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=650365"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
     excerpt: "The acquisition expands Accenture's Cloud First capabilities to drive data-led transformations for clients in the Hispanic South American market, spanning Argentina, Chile, and Co"
     publishedDateTime: 2022-04-21T15:10:00Z

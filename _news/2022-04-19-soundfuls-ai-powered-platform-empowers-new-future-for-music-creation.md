@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/soundful-s-ai-powered-platform-empowers-new-future-for-music-creation-1031364490"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aicoco Unveils New AI-Powered Stream Camera For Content Creators"
-    excerpt: "The amazing Aicoco Smart Live Streamcam comes dressed in impressive features that include face recognition and gesture controlAicoco is delighted to"
-    publishedDateTime: 2022-04-18T22:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aicoco-unveils-new-ai-powered-stream-camera-for-content-creators"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Donbas-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI music startup Soundful raises $3.8m seed funding round"
     excerpt: "There’s another new artificial-intelligence music startup on the block: Los Angeles-based Soundful. It has just raised a $3.8m round of seed funding for its AI-powered music creation system, which it’s making available to human musicians and social media influencers alike."
     publishedDateTime: 2022-04-20T10:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-04-21"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "AI-Enabled Last Mile Delivery Market Size, Trends, Future Estimations & Opportunity Analysis By 2029"
-    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
-    publishedDateTime: 2022-04-18T22:43:00Z
-    webUrl: "https://menafn.com/1104040256/AI-Enabled-Last-Mile-Delivery-Market-Size-Trends-Future-Estimations-Opportunity-Analysis-By-2029"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743680"
-        width: 443
-        height: 250
         isCached: true
   - title: "Artificial Intelligence Chipsets Market Assessment 2021-2027: Industry Size, Share and Top Key Players"
     excerpt: "The market study on the global Artificial Intelligence Chipsets market will encompass the entire ecosystem of the industry, covering major regions namely"

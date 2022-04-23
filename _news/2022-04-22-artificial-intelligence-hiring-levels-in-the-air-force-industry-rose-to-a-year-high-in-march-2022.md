@@ -132,15 +132,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
-    publishedDateTime: 2022-04-18T19:18:00Z
-    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
-    type: article
-    provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 19
   - title: "Accessing the AI Revolution"
     excerpt: "Kalypso’s Rodney Holmes discusses the ongoing advance of artificial intelligence throughout the pharma industry and looks at how companies not yet invested in it can get started with AI."
     publishedDateTime: 2022-04-21T13:41:00Z
@@ -173,6 +164,15 @@ related:
       name: Pharmaceutical Technology
       domain: pharmaceutical-technology.com
     quality: 9
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "f+222MnoXed83jB6rQo3YnhaomxWql7nkeaasOVypLfEZ706KtbcDznyUu/Xr/XWD/6tbLrN65MxmWtD7Hf9TZMCg8poqqj8W+4LwXg1DKjErlxkoJygbt4E2t2vnW3FhtPRRylN24dphy8tr7H2HmBRLm0YSWUq9XX25AR+4LxOz6tMZdMJnj7UDymqYCSgIxZgVaNQrMxeG9fTx3Z9zhmIilJlN4mH1KR3RnB2vijgecy/KwxiAtHyr1VQ8oD1yBO+D6FCcFSZAKva5hTq1xze5HCyBK+ZHEXgX7ZA8tfSurvYYWVECQpUBoCLCyqGVo7AzFEY4xW5jyDoEh4TabA/SOqcGfzsWk1jNKIaFZk=;3yHTHxb0I2dOtw/HhXEJuA=="
 ---

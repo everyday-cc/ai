@@ -1,45 +1,58 @@
 ---
 category: news
 title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
-excerpt: "\"We are excited to have GrayMatter's Smart Robotic Sanding solution selected for the RBR50 award\" said Ariyan Kabir, CEO. \"With a global shortage in surface finishing labor, manufacturing reshoring in the U."
+excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
 publishedDateTime: 2022-04-20T13:31:00Z
-originalUrl: "https://fox8.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/"
-webUrl: "https://fox8.com/business/press-releases/cision/20220420LA30271/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/article_1533d00d-301c-59ce-af4c-5a51cf0b5315.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation/article_1533d00d-301c-59ce-af4c-5a51cf0b5315.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
 related:
-  - title: "GrayMatter Robotics Earns RBR50 Innovation Award"
-    excerpt: "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world."
-    publishedDateTime: 2022-04-20T15:19:00Z
-    webUrl: "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation"
+  - title: "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics"
+    excerpt: "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning."
+    publishedDateTime: 2022-04-19T21:19:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 119
     images:
-      - url: "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://imageio.forbes.com/specials-images/imageserve/625efcae4bd40464b7f75a4b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
+  - title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
+    excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"
+    publishedDateTime: 2022-04-21T01:48:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/graymatter-robotics-awarded-rbr50-innovation-award-for-one-of-the-worlds-top-50-robotics-innovation-1031368311"
+    type: article
+    provider:
+      name: finanzen
+      domain: finanzen.at
+    quality: 39
 
-secured: "FEj1YogJPIdiPOgJ25gsL8ePBCxugSroNAzJIT0868WeY1cgY0mSv1g+J9G1gDpzJd4FcmbsshiQeb3kFP7+Co9wDyddyPhFPceMm4aJ6G18Xcc4+W0s8sbrAZY0tktY+8D11M7j03RJp2zWJSgpk5J5KYKy6rnF3F++d5ZP++SgXRShISYEFfQQJiwWdOcoSURTW0QVFbi1L9B8dHVWAUMfp7tY3HtrrEMsWr8VNlfcljMKJLA3blaRim6EiqSfB5XjjwZX9XBTrqunZvPQOEZ40Kv9OE4okmx2aHVG7Tk4xhVMkawfIWi0LwB7TqXtJcKUmKdcrsQMQ9QbKiHjVc5GCIP5YwQkkkpaszkanAM=;8js6ZYty1WoG4iVm7bfxOA=="
+secured: "XYj4C8Tf/VSnPQZhbBnUZxhZETKkDLtbPA7BO0Kq8QFUO1F3D/veELuZiBj865cnjGifpYe5rFeEJZL2MFTe6bPXDoZebh9HTZKl6K6jtK/nSbLeQzxReKn/0kUWjHEc5FRDmSJGOo0YyGNI2rPK0G+6E81YuDmV67cmA/jyrP6IeAZWGXoxhlh97/T18177RC2AcZItNlHuWNfwO5L1ZX4/aGBw8yo5q8ahU5VEMBd7g73nK71BYpKhXx12cIYKLptdWqYzopZroKkIAr6P/+lcg7fhgoZc8DGsjSEpRmMq2qCQk1Cmkjmz3Wvn9FkK4ecZviqWbbitH0KCiUXGwYOyYbVIHYCo83aO3t4Csms=;+ar1U/yJYRy2kt7aOhsewg=="
 ---
 

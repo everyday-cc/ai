@@ -124,15 +124,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
-    publishedDateTime: 2022-04-18T19:18:00Z
-    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
-    type: article
-    provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 19
   - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
     excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
     publishedDateTime: 2022-04-22T09:37:00Z
@@ -174,6 +165,15 @@ related:
       name: Pharmaceutical Technology
       domain: pharmaceutical-technology.com
     quality: 9
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "9171yvZ+QihszHJskUw094ERF+yu10oLhsPDJQKHkmaSUWyWESG6VwUd9fYcKflY5RdUEk8C/KniryoO9RRNNoBjk0SeT9CET5UmcRBhGta5mouk0PwTQxQg9HkJNt4OORIRnZRfkwTBFGSPSz5T8JNyjTdJKZ1Skdpuqtu2KXgwf9SjOmPqKNwR3LW9NdNQ/28Iss4ZpEI/QI7wBNHhbrDVOZayiABUBG9UAYb+8F0Xqb9i6c/06R2qGkkSi5ShYuTwA96N86c0WlrbhyLVu07zaILv8p5xZolVHHGkK2axniNdTZPaiUVx3p+/vEIijmUfeUXWOLhz1Ve0l0XcE1tSaYNo9OcYvn+3paE6gCiVH0v0w2GkD6Buwjw+5m/aUt7Q3yPHNEY8P5UK5OqJGeIH8yTixbVBJ/pBXroYdb5stsI0gVLtiAJmoz7jCVU2vquxL4w9yGczjhcZhxVYYgjZqKqHc6ZyQmwA1AENZgZGpPSuFnK2vWnasldRRz4cbxtfRBnj0O4RlkUbCtEyVQ==;Rx6DRGc6HGFx5N58IaEizA=="
 ---

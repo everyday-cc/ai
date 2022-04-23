@@ -132,15 +132,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
-    publishedDateTime: 2022-04-18T19:18:00Z
-    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
-    type: article
-    provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 19
   - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
     excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
     publishedDateTime: 2022-04-22T09:37:00Z
@@ -173,6 +164,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "ujsdDUzCH8abgcGKGzGOdlHTXpUskLRBejeihDweVbxjDZhgFN9twdq0prZ10+fZbyziGpr6lYHNqiIyLPvoYxorLunyPrOuQYTwEG6T7FrTf2sE3W7MdssuURhopoHSdgFUZ7u5n7TAQw/T9bbSOjraf5Nx58aQNi0GVkJSQjTd0KEEiFfEjF/aESYHGWsYDf5ASrxh/R8u6iDMM9sQT6sW2u1EEDopraHDqAKa36NSQYLyflWHDIm7vzGT2vuk2Zpu3/mRKnXBKVvnr0oh3CSazfoFCl1V01apsfEhVSPN0+KxQrXrV1Av6RDZn04+LmAz7pbfS4LKiy4zWkAN39uTSD20UhE0SYnjnh1Clyg=;zd7Dl+u8VwP1gqO71MgqzQ=="
 ---

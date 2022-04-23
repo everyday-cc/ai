@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/980121"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/980121"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 646
         height: 250
         isCached: true
+  - title: "Trust Stamp CEO to Speak at Rutgers Law Fintech and Blockchain Collaboratory"
+    excerpt: "ATLANTA, April 20, 2022 (GLOBE NEWSWIRE) -- Trust Stamp (Nasdaq: IDAI, Euronext Growth: AIID ID), the Privacy-First Identity CompanyTM providing AI-powered trust and identity ... hosted by the Rutgers Law School FinTech and Blockchain Collaboratory ..."
+    publishedDateTime: 2022-04-23T11:59:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/04/20/trust-stamp-ceo-to-speak-at-rutgers-law-fintech-and-blockchain-collaboratory"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 16
 
 secured: "r+m8ELTNiEkHE5j17OXJGorxhHibb2sCNpTi7EtPI3woguqUjy1M6trvAaNj9eZ4qrihGpfLZufSeVm0pqE/OEn3vVglEj9t/qgHPGtEPgqeEnNtwLp5hyAHMgPwXns7G5UqYPnYN0Ziu22/UKJksEOayepd8rMai6a8NvMF+I8OO1oHmWk6SbkPRi2Cbq5XOu6W2Qf0055ZIxvCJRkte4ecF3Uq+/AkCUeNXQKsiOv4aZaPPYBG6MZpcmLSkryb3CULEGXAbJYkzrNEhO32ZOkCdSR06z1U5KX85mLKUadbyBydH95gUmEXZDMEU9Kql69pMhgNuVMCR0fLyUXto5rj2VtgAmGra6S82Ft2aXA=;AnNTLQoPSl2wIA32Id6R+g=="
 ---

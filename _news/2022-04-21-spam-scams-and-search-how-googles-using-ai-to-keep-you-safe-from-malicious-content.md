@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidpolice.com/google-search-webspam-report-spambrain
 cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-search-webspam-report-spambrain-scams/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,65 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Research using AI to better predict severe weather"
-    excerpt: "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately."
-    publishedDateTime: 2022-04-18T21:37:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather"
-    ampWebUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
-    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
+  - title: "Google SpamBrain: AI-based spam prevention system launched in 2018"
+    excerpt: "SpamBrain, that is the name of Google’s AI-based spam prevention system that the search company launched in 2018, yes over a few years ago. SpamBrain is credited by Google for c"
+    publishedDateTime: 2022-04-21T15:56:00Z
+    webUrl: "https://searchengineland.com/google-spambrain-ai-based-spam-prevention-system-launched-in-2018-383710"
     type: article
     provider:
-      name: KJRH
-      domain: kjrh.com
-    quality: 57
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/010/7fed36643eb2467f9bc52626aec24432/010967a4141a4b1880e8e6a6959c23e6/poster_390848a290ff4c9b8ddee470a61ee48c.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How WebAwards Is Using World’s First AI-Powered Jury To Better Judge Websites On The Internet"
-    excerpt: "There is something on the internet that people use daily, but do not appreciate enough. It forms the core of the user experience in cyberspace and has seen a myriad of changes since the very inception of the World Wide Web."
-    publishedDateTime: 2022-04-20T04:34:00Z
-    webUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/"
-    ampWebUrl: "https://techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 46
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/04/how-webawards-is-using-worlds-first-ai-powered-jury-to-better-judge-websites-on-the-internet.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Researchers predict increased use of AI, greater collaboration and more open knowledge"
-    excerpt: "Research launched today by Elsevier, a global leader in research publishing and information analytics, reveals the challenges and opportunities facing researchers in a post-COVID-19 world. The findings are published in Elsevier’s Research Futures 2."
-    publishedDateTime: 2022-04-21T01:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=650365"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "OU Professor, Researcher Create New Technology That Aims To Improve Weather Predictions Using AI"
-    excerpt: "\"I think AI is going to really revolutionize our ability to predict a lot of these things, and we're not going to be able to stop the tornados and the hail, but we're going to really be able to improve the predictions overtime,\" McGovern said. \"I think ..."
-    publishedDateTime: 2022-04-21T14:29:00Z
-    webUrl: "https://www.news9.com/story/626144383d9b33071659e83a/ou-professor-researcher-create-new-technology-that-aims-to-improve-weather-predictions-using-ai"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 24
-    images:
-      - url: "https://cdn.field59.com/KOTV/59dc37859a47e363107db7bebdfdb168c15976ea_SITM_Aircheck__Part_1_frame_128271_custom.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://searchengineland.com/wp-content/seloads/2014/09/spam-confusion-ss-1920.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "6uP8pxpFOhX8pp9miuz6+K5J+iRAmNVNoQidkk7+D+y+kPO/hbcTJok9WApEtnZn3Be1y+NpDPyAezTwzvcVphwugiheZbzssVBdEa9Lx5s7DNz5GyBnwYh2mfvldM3d4z64Caxgm8gVb7s9lV/uLIlmSabsvZJ+BeuI7IxaIRnA3JYhEZbJ7ZZdtZO8F/5K4lSpFVzywloO7t3Qe6PT2/0H7aXwdzVDQVM+eKzoQ5l++Hgiz9V+fZavzTF8+tvVGQ4ulIqRFqy35M15PnNKv8lmYWh1LfflEO4/qvgmoDUEfi9Q0z8cyIL0QlUlkwcsXdGw9AtKZl0F5fTVvEd+PAUcNRltpK+PbcMFcByat+thdLZ/HIYjLOjKV/fPmPPGVgJ0oS92i9FKFyuvsyZ0D7Or97w+lZzT+4Z6veypHpbDibbYtLJdFOzs5x2HXirNXrpMfkmL4G1WFEdLJbYAZQ1nLmXEPxpWipNxw7vHBtxRZyIF3XAigaCGWPJfEc3CzWd8P7ickoMhPQBzDc8y3w==;nMcQSMOL1RCx7Y6FycLIZA=="

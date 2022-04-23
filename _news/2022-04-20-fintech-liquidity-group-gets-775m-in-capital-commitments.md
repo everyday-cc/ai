@@ -24,6 +24,22 @@ images:
     height: 898
     isCached: true
 
+related:
+  - title: "Fintech elevate wealth management, AMCAP expands intelligent developments"
+    excerpt: "This is not an investment advice. Please conduct your own research when investing in any project. AMCAP, a well-known wealth management institution, has"
+    publishedDateTime: 2022-04-23T15:38:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-elevate-wealth-management-amcap-expands-intelligent-developments"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/89a9a03e9025c39404bd40fdd97db6ea5cd221c8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "FJZMejIGdvYHYTZGGaz0/kal4AwYrPeX9rnDD0r0NHaP/o2MIwIPNEXuyvYcjdBW0kMJuvifYbI1fP0T9dA8m5xvx3hhWFT/bp5Pvl8YO22C6NJZVx7bN3zCZPNW2nS77F19YJiqN7MLUkrb9+Fn6pggTmSIPDhYUoJqDZbyVKUqKxlTI0JRHIu+8vY+O0SfGurUjcAccNj83uXFBc4lcrTw/4ZeeAUH8VGleYi1pnhwdYaDPIRxd+XXcixWwL7y0m2HGES11E65LvffS8w3VTfAAYz1KSWcRH/fXZMJ/7pxxZjTUlm5NT1eyjWTjbWm6AyKY6/Dv0D/H5KKoD957WOKM/i68hvquw0kXouK534aQaLmLE2gzIM1T4nGMcHBsDkVDMtPZotQ6O/RgEtzugUzakWV897PE/y6skVk0eD64P3WQby0i1vWNKjM4JxfD9CQDN6nm+TAE/GmFbd4Ykq28jm4ifrOYpX0AhFvYUVPtJEmL6xVuJPX4K86dacQESWNdmgxU8PEEnbGdd6tpQ==;XyY0i8y+Ry/42ts2GtPeUA=="
 ---
 

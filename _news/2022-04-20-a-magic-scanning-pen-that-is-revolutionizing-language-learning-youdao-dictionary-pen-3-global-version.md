@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/a-magic-scanning-p
 webUrl: "https://markets.businessinsider.com/news/stocks/a-magic-scanning-pen-that-is-revolutionizing-language-learning-youdao-dictionary-pen-3-global-version-1031368253"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -29,19 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Senior Machine Learning Engineer"
-    excerpt: "Port 6 builds tools for making natural and intuitive human-computer interactions. We think that the motor channel is underutilized for interactions in virtual worlds. To allow for better interactions, we must build a better hand model, and here's where we want you to shine. At Port 6, you will be working in our interaction laboratory to transform biometric data into liberating and powerful interactions that feel nothing short of pure magic. Data is the cow, and you'll get to be Gordon Ramsay. At the core of the work will be the research of bleeding edge of analyzing and understanding biometric data, and the development of highly effective collection, training and testing pipelines for the purpose of utilizing the data in controlling user interfaces, playing games, making beautiful art and using other apps. You will work closely with our interaction and software teams to design and implement the use of Port 6 technology in wearables. You will be challenged to solve problems that have never been solved before - but you'll always get to do it together with the team. Chat with Ohto, the CEO (30 min). A bidirectional conversation about us and you! Technical chat with Jamin, our Product Lead (15 min). Get to know our challenges in better detail and have a conversation about the role of data in future human-computer interactions. This will be 15-30 minutes in length. Port 6 Data Challenge (3 hours and 30min to demo it). We have a challenge for you and we want to see how you go about tackling it. Then you'll have a chance to present it to our data scientists and discuss the approach. Discuss practicalities and meet the team (30min)."
-    publishedDateTime: 2022-04-18T21:09:00Z
-    webUrl: "https://www.iltalehti.fi/tyopaikat/1073636"
+  - title: "How can language be used for exploration tasks in reinforcement learning"
+    excerpt: "DeepMind researchers have introduced a novel method where agents are endowed with prior knowledge in the form of abstractions that are derived from large vision language models which are pretrained on image captioning data."
+    publishedDateTime: 2022-04-21T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-can-language-be-used-for-exploration-tasks-in-reinforcement-learning/"
     type: article
     provider:
-      name: Iltalehti
-      domain: iltalehti.fi
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 23
     images:
-      - url: "https://assets.ilcdn.fi/iltalehti_placeholder_some.png"
-        width: 1200
-        height: 630
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Deppmind_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "A Magic Scanning Pen That is Revolutionizing Language Learning: Youdao Dictionary Pen 3 Global Version'"
+    excerpt: "Youdao dictionary pen is the go-to tool for language learners. Just scan and translate! Get definitions ... China's leading AI-learning company, has recently launched Youdao Dictionary Pen ..."
+    publishedDateTime: 2022-04-20T22:54:00Z
+    webUrl: "https://menafn.com/1104059318/A-Magic-Scanning-Pen-That-is-Revolutionizing-Language-Learning-Youdao-Dictionary-Pen-3-Global-Version"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?958100"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "xb+7F4LjC5sbiH5Ox1ux3QnlSnjrcgvmnk8QqjBh0iEF/a+nFhzYz5T0hyOJ1VXYFThq3d5z/+FEl22IYBlsq6GXaTd5fa6pmVPZb6bQEsVSvB1zQ7hwqBnF3W+pJtbypQC76147Zzts998dbPIC8BD8wOlTOQvo0Tx2lzk5HKqPWbrtPhn1KJLKGmJ5VJ58ysL0nppx1ag7WdSfqOok1aFSjat1U+bNwQ9OC+wRc8HkOySuT+kwwbLE0i0VwqP68zTu5XXrZ3/O5Dd6P+54PW5Il4FYyvFp/ilhnc+RXBCsOKZl6gij7OIj+olEHF5al2tF2PBejBiqAaQVBjRUv0mism2l6aWREoGNS7n6981A6xY+S229iflVpwT3jzwHkji0+6Chy2mqyRPrIzrs6df6lMEQWp7NCouRfgkMd2PIRz4D5OOZ+zsTL2/nXT/rod1XMhAiVPh+OXtHN9NTmER0d538ZTpilw2fbvI/H4rlVl5Wdep08a9bM1KRLZOLlG0KFv5H4agnHFXNa/Pqdw==;JGCuEScs2H5Vj7j75+f/yQ=="

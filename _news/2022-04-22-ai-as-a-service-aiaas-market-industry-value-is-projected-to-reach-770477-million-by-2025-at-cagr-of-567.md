@@ -48,7 +48,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
         width: 635
@@ -63,6 +63,20 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
+  - title: "Global Facial Recognition Market to Generate $16.74 Billion by 2030, States the Report by Allied Market Research"
+    excerpt: "Rise in demand for face detection systems to improve the essential safety & security in enterprises and advent of intelligent signage solutions boost"
+    publishedDateTime: 2022-04-21T08:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-generate-16-74-billion-by-2030-states-the-report-by-allied-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/49e19acb9b839c9b1eb0879c7b52bd76f2e02676-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Automotive Diagnostics Market Size Projected To Reach USD 58.36 Billion at a CAGR of 4.42%, By 2028"
     excerpt: "Growing economy, rising disposable income, and increasing rate of urbanization and industrialization are the major factor influencing market growth."
     publishedDateTime: 2022-04-19T12:27:00Z

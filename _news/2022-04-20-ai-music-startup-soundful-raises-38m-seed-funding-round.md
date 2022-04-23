@@ -38,20 +38,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Aicoco Unveils New AI-Powered Stream Camera For Content Creators"
-    excerpt: "The amazing Aicoco Smart Live Streamcam comes dressed in impressive features that include face recognition and gesture controlAicoco is delighted to"
-    publishedDateTime: 2022-04-18T22:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/aicoco-unveils-new-ai-powered-stream-camera-for-content-creators"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Donbas-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Soundful's AI-Powered Platform Empowers New Future For Music Creation"
     excerpt: "Enabling artists and creators to analyze, create, and monetize music, Soundful raises $3.8M in seed round. LOS ANGELES, April 19, 2022"
     publishedDateTime: 2022-04-20T07:44:00Z

@@ -30,17 +30,12 @@ related:
   - title: "Artificial Intelligence Is Creating a New Colonial World Order"
     excerpt: "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,"
     publishedDateTime: 2022-04-19T17:27:00Z
-    webUrl: "https://pulitzercenter.org/id/node/26547"
+    webUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order"
     type: article
     provider:
       name: Pulitzer Center
       domain: pulitzercenter.org
-    quality: 37
-    images:
-      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/shutterstock_2122981079.jpg?h=790be497&itok=juXEcP9M"
-        width: 768
-        height: 600
-        isCached: true
+    quality: 17
   - title: "AI Is Creating a New Colonial World Order"
     excerpt: "Artificial intelligence is enriching a powerful few by dispossessing communities that have been dispossessed before."
     publishedDateTime: 2022-04-21T15:55:00Z

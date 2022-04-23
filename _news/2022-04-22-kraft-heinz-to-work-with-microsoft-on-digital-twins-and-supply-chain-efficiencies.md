@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Woolworths completes SAP cloud migration to Microsoft Azure"
-    excerpt: "Woolworths has completed its migration to Microsoft Azure in just under two years since the grocery giant first announced its plans to do so. Under the eight-month project, Microsoft assisted Woolworths with migrating its SAP mission-critical applications and platforms,"
-    publishedDateTime: 2022-04-18T22:20:00Z
-    webUrl: "https://www.zdnet.com/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woolworths-completes-sap-cloud-migration-to-microsoft-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Braincube Now Available in the Microsoft Azure Marketplace"
     excerpt: "With the move to Azure Cloud, the infrastructure is easy to maintain and we can roll out new plants rapidly. Braincube is driving innovation in the data analytics and AI space and we are delighted ..."
     publishedDateTime: 2022-04-21T15:46:00Z
@@ -111,6 +100,20 @@ related:
       - url: "https://static.zawya.com/version/c:NTg1MjU1ZDQtNzk1Yy00:M2ZlYThm/170516064636xgeo-jpg.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Microsoft at NAB: Showcasing the future of media and entertainment"
+    excerpt: "So much has happened to the world at large over the past two and a half years and that is reflected heavily in our media and entertainment industry. The response to the pandemic, dramatic changes to global weather,"
+    publishedDateTime: 2022-04-22T15:00:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/microsoft-at-nab-showcasing-the-future-of-media-and-entertainment/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/04/Mediaboard-6259f2a6c4c40.png"
+        width: 939
+        height: 626
         isCached: true
   - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
     excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-23T13:07:00Z
 originalUrl: "https://menafn.com/1104080660/Natural-Language-Processing-NLP-Market-Size-to-Reach-US-6103-Billion-by-2027-and-CAGR-of-2660-IMARC-Group?source=318"
 webUrl: "https://menafn.com/1104080660/Natural-Language-Processing-NLP-Market-Size-to-Reach-US-6103-Billion-by-2027-and-CAGR-of-2660-IMARC-Group?source=318"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

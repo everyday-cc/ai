@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/gastroenterology/coloncancer/98308"
 webUrl: "https://www.medpagetoday.com/gastroenterology/coloncancer/98308"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-    excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led"
-    publishedDateTime: 2022-04-22T22:51:00Z
-    webUrl: "https://www.wicz.com/story/46351549/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 20
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "WVBo7bt/j5/si4YLpeYEzk7Yc1TEiw9FbANNVslN3zph1zy0nU0Pa2QMaEzqYqXCu5Q/UuTAPrd51W8ZEQECHHkNbUbeaDxHO83DClfSBJou78jqPfX2SC89HTpPpc406kAR1QZc9/L37au0TCs9earq7fpgRzlxmR9GBYswkIs0r9znihe3cD44jKZBXg/FDsz2Ufg4E/X5PejfOiSgGNXc2E/I8IIe0wOuEKy8tyK7ZuV34oDsyixIYhOSVOpyyNFIrVlJTgZ4oqoPp7qFFFIIWFYhxmom2VGIFBGsvWoS3YoYu8/0QDrMY6Mzip6PunTavEaLZW7wwA2zrfvaGRMz+NoNViJqIy67urpTKMLN2Waf+O8xG3oaIHd6koZTYys5hxyRCybVqQv1uoLjG4d3Qb0ix0OPhzPu4+O8s9RxTw+TnkW/un9Py+zqAAFsE25zVIFHNmngHTB6Jgb22c3x5XbZs8ditAsYmHCk2CbxsRtCYijxRVbXNrX+uZZuN6FFXgfgs6Dc/FWvUgB8qA==;ARu0boek56nHyEMo6n3PKw=="
 ---

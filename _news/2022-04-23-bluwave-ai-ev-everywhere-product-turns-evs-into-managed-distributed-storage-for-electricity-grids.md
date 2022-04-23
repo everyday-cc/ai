@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "BluWave-ai EV Everywhere Product Turns EVs into Managed Distributed Storage for Electricity Grids"
-    excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV proliferation. OTTAWA, ON, April 22, 2022 /PRNew"
-    publishedDateTime: 2022-04-22T13:16:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-canada-ontario-ottawa-331d57e8c0d755dfb3a3d61483f27a14"
+    excerpt: "System operator, IESO co-funds $4.8M commercialization project with BluWave-ai and Hydro Ottawa to pioneer the product ahead of EV"
+    publishedDateTime: 2022-04-22T13:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bluwave-ai-ev-everywhere-product-turns-evs-into-managed-distributed-storage-for-electricity-grids-1031375221"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1802168/EV_Everywhere_PR_Image_2_02.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "rYLYgmgFR+xg0KsVB/1TKQOh4SYargLQ7+6a4nEWYE/YPKxXit3EJPsB2SGZNNn0Pb3p+hPI9vek4wl/2/7jNnaDpSOOWZs1vbGA8cXSBx53ijCQmWIVsrDMZrrllUmlkL7C3/TcudhR9l5Ers2TVo4lOA16nUWLeDLN7DWXkWLpxncQe4BFb7gQLsWjrY90q+wXx1TbLYYDvywsLFa/7h8YAvR3igcMiLw70Smg4J0ig/TT08sHb5+crz6RlM67jCup+LjyDg60zY6vDLWSBAeKR5n/UdSzYPDqY6/X/0aBBfuL9CbAaVPxaQKGNNFSCri0TXoyNPXp8tQdZHLfqU6zphDVqDuwbmPU7tDyQZM=;mzsE5DMLnI5WYdgY04Fjqg=="

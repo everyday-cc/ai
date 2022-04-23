@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
-excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
-publishedDateTime: 2022-04-21T13:34:00Z
-originalUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
-webUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
+title: "Microsoft at NAB: Showcasing the future of media and entertainment"
+excerpt: "So much has happened to the world at large over the past two and a half years and that is reflected heavily in our media and entertainment industry. The response to the pandemic, dramatic changes to global weather,"
+publishedDateTime: 2022-04-22T15:00:00Z
+originalUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/microsoft-at-nab-showcasing-the-future-of-media-and-entertainment/"
+webUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/microsoft-at-nab-showcasing-the-future-of-media-and-entertainment/"
 type: article
-quality: 45
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/04/Mediaboard-6259f2a6c4c40.png"
+    width: 939
+    height: 626
+    isCached: true
 
 related:
   - title: "Microsoft unifies large-scale data management under Purview framework"
@@ -99,20 +105,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft at NAB: Showcasing the future of media and entertainment"
-    excerpt: "So much has happened to the world at large over the past two and a half years and that is reflected heavily in our media and entertainment industry. The response to the pandemic, dramatic changes to global weather,"
-    publishedDateTime: 2022-04-22T15:00:00Z
-    webUrl: "https://cloudblogs.microsoft.com/industry-blog/media/2022/04/22/microsoft-at-nab-showcasing-the-future-of-media-and-entertainment/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2022/04/Mediaboard-6259f2a6c4c40.png"
-        width: 939
-        height: 626
-        isCached: true
   - title: "Kraft Heinz to work with Microsoft on digital twins and supply chain efficiencies"
     excerpt: "Food manufacturing firm Kraft Heinz Co. said today it is partnering with Microsoft Corp. with an eye to improving its supply chain visibility and day-to-day operations. Under the alliance, Kraft Heinz will adopt various cloud,"
     publishedDateTime: 2022-04-22T02:10:00Z
@@ -127,6 +119,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kraft Heinz enlists Microsoft for cloud migration and digital twin development"
+    excerpt: "Kraft Heinz has entered the next phase of its digital transformation strategy that aims to improve its supply chain operations."
+    publishedDateTime: 2022-04-21T13:34:00Z
+    webUrl: "https://www.zdnet.com/article/kraft-heinz-enlists-microsoft-for-cloud-migration-and-digital-twin-development/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
   - title: "Stripe hires Microsoft veteran to lead financial services"
     excerpt: "Stripe has hired Microsoft’s digital transformation chief James Phillips as president of financial services. <br /> Phillips, who led a team of 15,000 in his role as president of Microsoft’s digital transformation platform group will join the B2B payments and financial infrastructure giant as it continues its plans to expand the business."
     publishedDateTime: 2022-04-19T10:46:00Z
@@ -193,6 +194,6 @@ related:
       domain: itp.net
     quality: 32
 
-secured: "fw14qCM4QLdiABTgqFyp2mueYte9QAIhfJIs1UzVh5I11TzAhdU4e7g9IEF5JLgnXl76IMG9+AaZh8xP6c7PlgC9VZdnUEdas4p6OzkcgBJG4IdBQAFxzGiwtDD14s5rXoHb3iioD3ZFx5ZugvpHsYa4Qmz1ePAMGc3qF0dkkRLiefygPK/jwp/chLiyYZNo6JH9E4Balg9LMR9RYQ/kfpnKoj7DGC2y/YVSMs8jEZgWX+o6HTsN8nznHmn7c4w38EbKIEOKaqF+nBpadkaRzZ/RUUi4vF4hrYmlmkE6MMARKqjensp5rRIYfMwVEfE+wo5HeFZ/hFaywLGtlljdxEXjqQexOYcRDOrQvn+/R+Q=;ROzskdgk1GpEmd0THCCxMg=="
+secured: "nwjAP4/DgU3U2o114r1zdCXDq0iJDnaPOHmEe80gDT0W/6F8Ql+UjPiXt7CYxWXqgN9x0T9yT1JKfDAz2jwiluBTF7LHaYE3PEIEjpjL3dET/ClQEHzBZG9ZILshiSo/w6ajwSoeRQCI6evH4vp6MCV6pA9y/qcA2OwYcVymMLzSj7B8EpIUHZ9YbG5BaGnqZl9Ebti56PBJMqYJPys7n1VNzhOJU8OKDu0Knw7EuRN1qk4AUt+wof34QR1AysAzwAeC72e4/FKeoinOktDkc8bCUq6R5PT0gfT0QTUx750TGnVY3ttH1WYy07RuQwI6Hi2pyZV3VHOxW4P/9z3J2McSRabPVL6y57nl0zuprsQ=;wjBEuK35+rfe+Nuzm9hZxQ=="
 ---
 

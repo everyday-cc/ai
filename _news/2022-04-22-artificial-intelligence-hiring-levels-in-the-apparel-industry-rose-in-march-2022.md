@@ -124,15 +124,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "How is Artificial Intelligence Going to Disrupt the Seafood Industry?"
-    excerpt: "Artificial intelligence (AI) is already part of our daily lives. Google Maps, Amazon recommendations, Facebook ads—all these technologies are powered by some kind of AI. So, how is AI going to disrupt the seafood industry?"
-    publishedDateTime: 2022-04-18T19:18:00Z
-    webUrl: "https://www.seafoodsource.com/videos/conference-recordings/how-is-artificial-intelligence-going-to-disrupt-the-seafood-industry"
-    type: article
-    provider:
-      name: SeafoodSource
-      domain: seafoodsource.com
-    quality: 19
   - title: "Artificial intelligence hiring levels in the air force industry rose to a year-high in March 2022"
     excerpt: "The proportion of air force equipment and technologies companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 69."
     publishedDateTime: 2022-04-22T09:37:00Z
@@ -174,6 +165,15 @@ related:
       name: Pharmaceutical Technology
       domain: pharmaceutical-technology.com
     quality: 9
+  - title: "Artificial intelligence hiring levels in the automotive industry rose to a year-high in March 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for artificial intelligence related positions rose significantly in March 2022 compared with the equivalent month last year, with 71% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-04-22T09:35:00Z
+    webUrl: "https://www.just-auto.com/features/artificial-intelligence-hiring-levels-in-the-automotive-industry-rose-to-a-year-high-in-march-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 3
 
 secured: "9drJ0TeYrWY+H9gDm87p2/7QBPjzFdIL+tUF6yJRq2247Qp3TZV7ylQ7j+NqidJWhp6KAH7tdFFrkc2syB8yIcG6nDSE45IOGnShiCDzEUtijm4LkvsCVUmkoAnj2X6ZltFEHlsWnguRE720yShiilm10LxAP7CFKR3e6h9UBBStuMxd3BldLrlGQRZvbg3AauFyCEtaHUSvWcIKp3xi/wEgTnxaTGYnDwmYPpeyiLnWWOo6E1M0p8ogwm0taJdU3/csQCMZJ/EV+U0CVscPjSlw1ZAU0YjMdry7NZJh2bvXeY+zeeWEu5sT8Bz7QeXwm6miXv1816NI4H2ijemOAALsV6EDUIOj5i9C1yciXuE=;TmZx/JOBS+1JjJSB8zc/2w=="
 ---

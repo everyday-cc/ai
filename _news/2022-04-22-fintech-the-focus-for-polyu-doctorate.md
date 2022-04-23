@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-s
 webUrl: "https://www.scmp.com/presented/business/topics/fintech-doctorate-sets-polyu-apart/article/3174777/fintech-focus-polyu"
 type: article
 quality: 54
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "2 Fintech Stocks That Could Help Make You a Fortune"
+    excerpt: "The fintech industry continues to bring change to an industry ripe ... In contrast, Lemonade has developed a model to evaluate prospective customers using AI and behavioral economics. When it collects revenue, the company takes a fee and allocates the ..."
+    publishedDateTime: 2022-04-23T12:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "5 key tech priorities for fintech leaders in 2022"
     excerpt: "This is what business leaders should focus on to build a winning tech strategy. Issues caused by sub-optimal tech choices are commonplace in the industry, leading to companies failing under unexpected stress or being unable to adapt in time when their business requirements change."
     publishedDateTime: 2022-04-20T09:44:00Z

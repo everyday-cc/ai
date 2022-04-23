@@ -3,8 +3,8 @@ category: news
 title: "LivePerson Upgrades Conversation Assist"
 excerpt: "LivePerson, a provider of conversational artificial intelligence technology ... and bots from third-party platforms like Google DialogFlow and IBM Watson. An intuitive interface presenting multiple recommendations inline in the conversation, allowing ..."
 publishedDateTime: 2022-04-11T14:21:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=152356"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=152356"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "F2qS26tl4uOhuOyiyZu9lXgw3h+UE1f/jYV7riqK8/nFpejfGjgu8RCUwE2T0F15A0VB8m5BnJ3G552SowX9Mv24jKfDy39sdWMKxugRbNgaKERH4oGheC5XWtkbduvdcywWfVbu1YrK5OZLLxOgRlGXcHUR9jMVjulR938p0H3K3Iy9yCqRhVYWdqrNLHY9Z9G1355wYcoP84N/BjvJSApYxI0xD+6dJxWJcCUvCCZ40JlX8r72DuEDOEL0jjVU3tPAvnxjVZo/T1rVq5fNR6fXA/5ZoZmG3wW7aXysvZNywJEmqX3ECIuX+O8wEzgfVZJVHjkaTYPl/1lLrydggFLVlFgPX9Jd51JXcOzJNAU=;AZbZuDvZpG4yELUvaU7oag=="
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/144758-0422_DigitalTrans_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
+
+secured: "SiUiHaX9dU/QOFHTkU09152eZCBbh7H2SOoCYKrYK4c3zIw1bKA1Cb76x2Mj6BpyUGvklEVHrAHVbMC8dfOqwBu8qrE8l/MwiFAa/toBbNy8RXqRaVY6I495J+mHJM8K72NezRALiCfjJZ4W/31LyynzXv1P+km/3N1oDcD81fKl1oSalrglzpHhjaJlRCUVsyCY6niG238fINUt7SzRhy/Q22D16tYqTLT3lsxstGlUXo/AEmMHDrd0eEw0bD1UHn/LOnm59RxTUUvKyxPMaCy5cfhOm0nZ0x0nBGEXGwySD0SZ3FRYqv/08ovGWD+llPWt7dyb4SAHpA59vk8g7YqsmkMrDJVuwogzwQuRvAQ=;Drl52FQlf9HxRYwRTkw8Hw=="
 ---
 

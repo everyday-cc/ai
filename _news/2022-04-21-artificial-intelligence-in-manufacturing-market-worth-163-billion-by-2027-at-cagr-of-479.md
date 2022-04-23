@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-21T02:00:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg"
@@ -49,6 +50,20 @@ related:
       name: FOX 40 WICZ TV
       domain: wicz.com
     quality: 20
+  - title: "Global Facial Recognition Market to Generate $16.74 Billion by 2030, States the Report by Allied Market Research"
+    excerpt: "Rise in demand for face detection systems to improve the essential safety & security in enterprises and advent of intelligent signage solutions boost"
+    publishedDateTime: 2022-04-21T08:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-facial-recognition-market-to-generate-16-74-billion-by-2030-states-the-report-by-allied-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/49e19acb9b839c9b1eb0879c7b52bd76f2e02676-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI as a Service (AIaaS) Market: Industry Value is Projected to Reach $77,047.7 Million by 2025, at CAGR of 56.7%"
     excerpt: "Increased application areas and growth in demand for IoT are likely to provide lucrative opportunities for the artificial intelligence as a service"
     publishedDateTime: 2022-04-22T12:46:00Z
@@ -100,6 +115,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Y3jdwgeJewxMbg409Vb1dUCge3MRKWzM6TZDRVnfoMUswG0y0W8uSex4GeHhETCT2/HVK4SCmRZ67gMPFP41qRKtpQsUVCIOyZo+t/51VR/AaD5aeM/HQJJUN4BDbbvA/iv5sL3k5f48/0BWX+XjR20U9apEfy1gXEYgiCgYKT5ShPa5fIbD+i6NXXepuGZbQ7g9UVr2DOgzTt2slVfrgBAWGBp+IF2fh87ipx8tyH+0D9bYX2+tsUv3N8eDNuJh1l3VTXsucnNtAyBeELj8y8wgJfhuet4VuxqmACWqPiIXNxMZy3X+RPQAuCE4Aflux0wJrS54YwaG02BigMhOXB03nK1PJk16DNJLhe4Ok7U=;Cns6KkekFshZHXXHSvuEjw=="
+secured: "Gf+jX3BTWtr1loHJiQeRnUA0qvoxNs29ALMCMyPXKmFzPf4yKxiOkptpsx9Br9egJ/H4WNhA6Eh7fUO1546hkOJhIV7Tv12SEUbamAAkIhvAof0UIeRfg5cKblctU9ijpVHceXX/PkpEyXPYxwUdU5RkUOeI6V6K3VdMfDxvExkACu4YL9eKBY0iaBDeztql4tNmQgBegYE2hRL2OzfW9OIVQ9+BHJNcREvBRKvcWMso514txDwXPAy/cXajaLijwmAsJJ1wh069WyK1Wfl6Ka9YQY1a/UT92eu6rbrqQTxBNemWKn0yOsVB9rFbua/GcccVwRB4Gl2VEAvJPl+Ydp6CkO2fs3bKd70kq7dZXqG1EHxw5XQxX6zZSB2MwA0WFvw1VFAXSYRV2xtsRlTNFV3MtoMabORbVOqbYI8mAxewEva4TNKyfQn7d+je/05yBvC5GPXeI2Dvm3D61lKb8mMMwMLoGnUs1h1cScFbeb1PfjPGzIJI1+GqARyvWit7qRRJiPEPU5G2UgE6EZ0LlQ==;lLasGoHWKQDoebRIn41t5w=="
 ---
 

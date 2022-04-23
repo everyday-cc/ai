@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-23T13:48:00Z
 originalUrl: "https://www.realclearpolitics.com/articles/2022/04/23/the_drc_driving_africas_potential_147513.html"
 webUrl: "https://www.realclearpolitics.com/articles/2022/04/23/the_drc_driving_africas_potential_147513.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: RealClearPolitics
