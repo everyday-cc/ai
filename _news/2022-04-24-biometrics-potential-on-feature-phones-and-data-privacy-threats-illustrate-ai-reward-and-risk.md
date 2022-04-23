@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-23T17:53:00Z
 originalUrl: "https://www.biometricupdate.com/202204/biometrics-potential-on-feature-phones-and-data-privacy-threats-illustrate-ai-reward-and-risk"
 webUrl: "https://www.biometricupdate.com/202204/biometrics-potential-on-feature-phones-and-data-privacy-threats-illustrate-ai-reward-and-risk"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Biometric Companies

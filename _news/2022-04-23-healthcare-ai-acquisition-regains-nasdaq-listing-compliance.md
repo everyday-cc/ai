@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Healthcare AI Acquisition Corp. Announces Receipt of Nasdaq Continued Listing Standard Notice"
-    excerpt: "Healthcare AI Acquisition Corp. (Nasdaq: HAIA) (the \"Company\") today announced that on April 19, 2021 it received a deficiency letter from The Nasdaq Stock Market LLC (\"Nasdaq\") relating to the Company's failure to timely file its Annual Report on Form 10-K for the year ended December 31,"
-    publishedDateTime: 2022-04-23T12:27:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/04/22/healthcare-ai-acquisition-corp-announces-receipt-of-nasdaq-continued-listing"
+    excerpt: "Healthcare AI Acquisition Corp. (NASDAQ:HAIA) (the \"Company\") today announced that on April 19, 2021 it received a deficiency letter from The Nasdaq Stock Market LLC"
+    publishedDateTime: 2022-04-22T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26772042/healthcare-ai-acquisition-corp-announces-receipt-of-nasdaq-continued-listing-standard-notice"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 23
 
 secured: "5WK5HG+3sOvLK/LIr7AzrMIP3Jj94P513WUrbo6bgxiiJ12Spze2yIvm0c4C2cx1KTeSjr/r7V+VN5dJ9pPhCbeBku4fcgjG7L0aoKGm0g7k462ak7GlQL7e3LmbU62d3kltbd+zbj8SqbnkhxvyAn8mp2rgtg+QWd+SI3Sg3j6FdmSnG25zAYM9drYoHhoQfRcuZLTyOkSglqpfL5ChYtSWWBWghf5hmXMnePg7R1siZm3Mlo4WUeHlRL7dIEsyKGKrFbZyC9RBoFDQjdxIZKSaH3ht+mK3cyfk7IQHZQtd9hVWVYyFVqOf7Y1TylCyGzlGqNaiFaqvM/wVDITHVhCMtPKoCU1IlZ1As9SvsgI=;WUcHjTlDTOGUUbwmC/bMDw=="

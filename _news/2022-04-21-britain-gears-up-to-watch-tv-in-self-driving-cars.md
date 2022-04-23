@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Britain Gears Up To Watch TV In Self-driving Cars"
+title: "Britain gears up to watch TV in self-driving cars"
 excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
-publishedDateTime: 2022-04-20T19:45:00Z
-originalUrl: "https://www.barrons.com/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-webUrl: "https://www.barrons.com/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-ampWebUrl: "https://www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
+publishedDateTime: 2022-04-20T17:39:00Z
+originalUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
+webUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
+ampWebUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
@@ -405,6 +405,6 @@ related:
       domain: hothardware.com
     quality: 0
 
-secured: "7tzI6KNMdzmfLtQQTrbH7rX9bla5uuszlKhdt31gNV5bg+w0u1io5bYm13O4UY5Dj3HtnbsBYNODOS+iXjYPDgyk5QmiM6qzHULHHI00SD2vepW86six29R8swoGfQcl205LEbpm5NXBcwci/Fyh9h6BYhd7k7dgCPnzm8MnxqcG1k4cUu8z/hxrcrc1SRZ8bxKcS+T4ys4bc4wTNVGo9h75HswcUaLoMPwHZV/uXbIDR3+5JBOO9p4bCOept6065K9X6pKVDz/eQYDnMb+BG47sjJ5tBywPgAktW5eUZVHAKFel0wOKDGckXMYAcFTuslwMU62Aq+6eU1T+DxBUxNzBjE9FiQCl9u5PMdM9q40=;jfZ8e2pYvWFFvsSElWIIIg=="
+secured: "zooFDJPH4Gfw25pRHRWq16MxqPKHq2+9M5v1owMbxLxfzC+Z5rVdp07JReYHRvUz6zs7OZTmQhgj4Rlzoc/JTr225ConMRfyrOozjy54O/zzyBg+lNEGt56XDuUdYjVEMn74gVJkt3tdBqRQEU958tIHS/TGtabK738Syu9llQUJ2u0ppNGTsTYHZoXyV+mzR5q+c38yv4jhkdr9ST7CoyaCTJqyOyK316glUB+yXUz4V/Hj5SOsDIhF/VLR54Fh9Sc5U6ufWxSj3gjh1PQ/JD1I0I+XxKOpj9+KyWNkCOZ+hOMRq2nRgTN7thxb7GhOey+mLJ+xPsLxIso07VdVkweIWPdSRfouNC/S6sIg4rg=;ah6Xoc4hNGDu/ifxYRC0NA=="
 ---
 

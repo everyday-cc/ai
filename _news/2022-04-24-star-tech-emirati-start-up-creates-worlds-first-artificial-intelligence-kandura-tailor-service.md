@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-23T18:06:00Z
 originalUrl: "https://www.khaleejtimes.com/start-ups/star-tech-emirati-start-up-creates-worlds-first-artificial-intelligence-kandura-tailor-service"
 webUrl: "https://www.khaleejtimes.com/start-ups/star-tech-emirati-start-up-creates-worlds-first-artificial-intelligence-kandura-tailor-service"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Khaleej Times

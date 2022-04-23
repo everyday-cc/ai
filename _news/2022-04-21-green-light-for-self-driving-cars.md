@@ -67,16 +67,16 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Britain Gears Up To Watch TV In Self-driving Cars"
+  - title: "Britain gears up to watch TV in self-driving cars"
     excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
-    publishedDateTime: 2022-04-20T19:45:00Z
-    webUrl: "https://www.barrons.com/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-    ampWebUrl: "https://www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
+    publishedDateTime: 2022-04-20T17:39:00Z
+    webUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: techxplore
+      domain: techxplore.com
     quality: 39
   - title: "UK government says motorists will be allowed to watch TV in self-driving vehicles"
     excerpt: "The UK government has confirmed planned revisions to the Highway Code to accommodate self-driving vehicles, including allowing drivers to watch TV while an AI takes the wheel. In a moment history may judge as legislative hubris,"

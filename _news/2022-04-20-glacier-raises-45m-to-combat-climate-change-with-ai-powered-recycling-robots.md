@@ -7,7 +7,7 @@ originalUrl: "https://www.waste360.com/recycling/glacier-raises-45m-combat-clima
 webUrl: "https://www.waste360.com/recycling/glacier-raises-45m-combat-climate-change-ai-powered-recycling-robots"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,26 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Nuclia Announces $5.4m Seed Funding to Advance AI-powered Search, Releases Open Source NucliaDB"
-    excerpt: "Nuclia transforms access to unstructured data with AI-powered search that anyone can integrate in minutes, tapping into all their video, audio,"
-    publishedDateTime: 2022-04-21T01:50:00Z
-    webUrl: "https://www.finanzen.at/nachrichten/aktien/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
-    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
-    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
+  - title: "Recycling robotics firm Glacier emerges from stealth with $4.5M"
+    excerpt: "Glacier Robotics emerges from stealth with $4.5M; funding will go toward increasing headcount and accelerating the system’s commercial deployment."
+    publishedDateTime: 2022-04-19T15:00:00Z
+    webUrl: "https://techcrunch.com/2022/04/19/recycling-robotics-firm-glacier-emerges-from-stealth-with-4-5m/"
     type: article
     provider:
-      name: finanzen
-      domain: finanzen.at
-    quality: 25
-  - title: "Nuclia Announces $5.4m Seed Funding to Advance AI-powered Search, Releases Open Source NucliaDB"
-    excerpt: "Nuclia transforms access to unstructured data with AI-powered search that anyone can integrate in minutes, tapping into all their video, audio, and text . BARCELONA, Spain, April"
-    publishedDateTime: 2022-04-20T13:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nuclia-announces-54m-seed-funding-advance-ai-powered-/2022/04/20/9586085.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
 
 secured: "KV0dAMegeFZERWQ0DGTJotjiIWhphhCgTHmP23KZ/Zc3MfN8ObI1biULyJK8KFRNfcv9P6ZE/FwiNsjDkCwGVC5fach30CyDCs/3hiQ6oOwu59Yv5h/lIoU3LCPYZYgHc/USfOvNJNAQ4jMOVbB/iFCw5EClT5lPLQjuoP0si2h923wSEscnP/3oBg/ZWTDDt737iumgv+V6+I/9o0DgRVeU3uV1QNFFAUY0aVZAfgeWxwAfV7YmkHNsgoF8DpRChjmZJcZ7BIJXyJ5Z4jNGkpBq1cOT6mhRnwk3yavkgjjrIquNbEAqr0CGIJy8cebGPjx4B25wMhqNhj0RnWhDF4Mz4O8c8Y58pB3pmWLk9mk=;7KwtM9aoiJBfdiaGuhV0LQ=="
 ---

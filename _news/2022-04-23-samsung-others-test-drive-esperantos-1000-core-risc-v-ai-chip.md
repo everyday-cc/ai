@@ -3,13 +3,13 @@ category: news
 title: "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip"
 excerpt: "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon."
 publishedDateTime: 2022-04-22T20:23:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
+originalUrl: "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
+webUrl: "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:
@@ -69,6 +69,6 @@ related:
         height: 554
         isCached: true
 
-secured: "fjuiGGktkQcfjZXTOwGsE/vuXnbRk5riK7ngUIeT1y9rEGRuBtDQ8SNT82v118S8Li2ZmJ1IL5acraAwwvGXhxlXcTv+0SH7v6iTQdAe2gBHwE540z/ayiiZtzdd+gtZYTS0wM+yy6GMhiKSZMQeHRa6Ku0elZkkxX7CFrstWh3RBgVjeYLZqZm3hVyBvNnDTQaRnXqLqqypL4ScTdaO+4WuvGrBW4kdMfe5mSSo41XOeZwraufS1J9XPHtNxDc6efX7b7iUG8g0gp/zAKp2Tqnz5kyKF/Ohatwnri8NBfYjuu4S3Dbi3XKV6A7fQeePQYw5za7lzGcc+2m804TK54J6ZdvM8rv8dc85VBJWU/yy0P2PEqb6qUr1Lrn+kGvoWYtjXj2KivXMQfRNRrs93fhpMvYBL1ExdmPBsr2wKjRdPguTBSTuBWYcAJeOToFLtErn7wLcR8F9yIo38JqZtYmygdOXEf57Z8NT7DFFl86ds6kO3pTfPXedTwBxndEYv8WFwW9+F1wcNOPwGxfCMg==;IKwT2g+UNIhY3BNmmAj0gw=="
+secured: "65ICZRQzTS17K/k9Fbc7xfM/vTBFAmwY5mAH0ctw0+A3BlNvjGuk3RJO2Yk/69erPDRp/AxEreK21Ez2pYMdltjOHEPjEhnS3MdJsihzzaxAiatU8Y6Bme9kuPNhMf0d58T6d7q+2Djjljf68+YCKB8xwZIyJ2/K74Gu2xh1sbed2L+tSDSB0QrNbyD6XjUq9kJS0ZJjZL3yYsZDEGyDAIPpqZ5wcpeh7G7eIJoCA1znP8jQsl+TvuXh7rJWrbstaGivE2O7H5K38obF7tvGgE5r8SpMs1R9gqz4d4JvzPoYrCSHOe979Ut7SD05cDvr/uC6jfS7Gpv08VyazDQgOfftBjf1jfJCgIctBEoVD4I=;X40JlcqwMa7hqp/Uu76VtQ=="
 ---
 

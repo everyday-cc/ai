@@ -63,34 +63,6 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 28
-  - title: "Bill Proposes Rules For Self-Driving Cars"
-    excerpt: "A Rochester Democrat is proposing a series of regulations to govern the use of self-driving cars in New York state. Sen. Jeremy Cooney, D-Rochester, has proposed S. 8468 to amend the state Vehicle and Traffic Law. It authorizes the operation of a fully ..."
-    publishedDateTime: 2022-04-19T04:10:00Z
-    webUrl: "https://www.post-journal.com/news/local-news/2022/04/bill-proposes-rules-for-self-driving-cars/"
-    type: article
-    provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 24
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2022/04/18192046/Jeremy-Cooney-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Virginia doesn’t specifically regulate ‘self-driving’ cars. Should we?"
-    excerpt: "Just as flying cars consumed the fantasies of many mid-century Americans, today plenty of people put their faith in another utopian technology replete with endlessly elusive promises of improved safety and unbridled freedom: autonomous vehicles."
-    publishedDateTime: 2022-04-19T04:04:00Z
-    webUrl: "https://www.virginiamercury.com/2022/04/19/virginia-doesnt-regulate-self-driving-cars-should-we/"
-    type: article
-    provider:
-      name: Virginia Mercury
-      domain: virginiamercury.com
-    quality: 24
-    images:
-      - url: "https://www.virginiamercury.com/wp-content/uploads/2022/04/Relay-Shuttle.jpg"
-        width: 750
-        height: 512
-        isCached: true
   - title: "Highway Code changes to allow watching TV at wheel of ‘self-driving’ cars"
     excerpt: "The Highway Code is to be updated this year with rules for “self-driving” cars that will allow drivers to watch TV and check emails on the move. The changes to the code will set out where and when “self-driving” can be used as well as drivers ..."
     publishedDateTime: 2022-04-22T01:41:00Z

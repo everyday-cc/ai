@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
-    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-    publishedDateTime: 2022-04-19T02:00:00Z
-    webUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-    ampWebUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-    type: article
-    provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 63
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Ukraine uses US facial recognition technology to terrorize families of dead Russian soldiers"
     excerpt: "The practice, which is a clear violation of international conventions on the treatment of dead soldiers, was reported on by the Washington Post as if it is a legitimate, if potentially problematic, military tactic."
     publishedDateTime: 2022-04-21T02:02:00Z

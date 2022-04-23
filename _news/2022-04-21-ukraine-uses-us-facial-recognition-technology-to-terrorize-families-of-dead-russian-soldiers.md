@@ -7,7 +7,7 @@ originalUrl: "https://www.wsws.org/en/articles/2022/04/21/wpvy-a21.html"
 webUrl: "https://www.wsws.org/en/articles/2022/04/21/wpvy-a21.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ukraine has used facial recognition tech to notify Russian families of dead soldiers: report"
-    excerpt: "Facial recognition technology has been used to notify the families of nearly 600 Russian soldiers who were killed while fighting in Ukraine."
-    publishedDateTime: 2022-04-19T02:00:00Z
-    webUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/"
-    ampWebUrl: "https://www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/international-news/ukraine-has-used-facial-recognition-tech-to-notify-russian-families-of-dead-soldiers-report/amp/"
-    type: article
-    provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 63
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2022/04/UkraineTanksAP22091745245082.jpg?w=1280"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI Is Already Learning from Russia’s War in Ukraine, DOD Says"
     excerpt: "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,"
     publishedDateTime: 2022-04-21T22:27:00Z

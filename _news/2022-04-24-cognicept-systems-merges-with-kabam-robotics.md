@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-23T19:04:00Z
 originalUrl: "https://menafn.com/1104081058/Cognicept-Systems-merges-with-Kabam-Robotics&source=29"
 webUrl: "https://menafn.com/1104081058/Cognicept-Systems-merges-with-Kabam-Robotics&source=29"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
