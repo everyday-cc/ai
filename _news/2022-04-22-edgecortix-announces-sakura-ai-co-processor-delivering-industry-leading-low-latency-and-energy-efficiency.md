@@ -1,28 +1,29 @@
 ---
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-excerpt: "Today, at the prestigious TechInsights' Linley Spring Processor Conference, EdgeCortix officially introduced its flagship energy-efficient AI co-processor (accelerator), branded SAKURA™."
-publishedDateTime: 2022-04-21T20:38:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220421CN26150/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220421CN26150/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency/"
+excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
+publishedDateTime: 2022-04-21T20:19:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-artificial-intelligence-1d167f0bb5e20be68a86e61fafbc5eeb"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-software-artificial-intelligence-1d167f0bb5e20be68a86e61fafbc5eeb"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1797952/SAKURA.jpg"
-    width: 400
-    height: 232
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "rCldK/Exup7gTUfp8x3nSf1+5GPgi5n2EIL6YAg2SHRyfd/4CbsNUzOh0/tyZElzxyRC/oTl8gWZR7MwZz6c2qInQIK3GnM+IzIBby2P0hjpSIRx2hfWSc1GzIDSTPr26RCDEZakVkcgDk2+wQzQBP3LkAby7YnliBoKIRMehmUGwPsTOdCHznmDfkrorY4DdKwmykCaRT8MAq73gWHaUzYPZycwQ6ZHDbiP1QghB8ax6f3MzYg6SiXXHV1DyP191Ug27zjELbuBt1NpMuuCqlG2IQ80+RPBFjzUeorVKMxfNm/znxHxuul9p49QcBaonUKX4bvIVmGxxaxVdOu0jyQIVd2KpVux+snnm120p8M=;YDAHcP/v5YA/JjTolO4gIQ=="
+secured: "K/fOI/oWmKSrsy82T3eL/MFfhGrrwv+QGyHa+a+8pDZCs9MZa/2Kg1d1g5bdEGWJJN6hBv0mKj9GHps93RaiPqnCqwOZUaCA+resmYdbgAjle+CMp7GhXZZoIEhrKJNmci0I6tPWChB4f6U12kkIMyhjsjmUsPvFI8tj7byq/Q7t9z0ZmfIyTGGqI89CaIpO6gi8fj96gYpcA4gLIh61ehJ5/h9ePzs4fe/RO2pRjt/Adj/sDlAreK9JRQ2JcuEUIBPpebnxRuj6V1mI6qtAQu7SJMvjxxy/e6RloZMWXXezOunLkwPKAYbb2y9c0NV+eNwhwFbtIzNIjBBnQjvOlqITdK/pLrZTN8hiffP1Z2U=;zIQS8hhBqWtKHXD7pA2VVw=="
 ---
 

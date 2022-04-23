@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-022-29763-x"
 webUrl: "https://www.nature.com/articles/s41467-022-29763-x"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -29,11 +29,27 @@ related:
     excerpt: "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,"
     publishedDateTime: 2022-04-19T13:55:00Z
     webUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
     type: article
     provider:
       name: CMS Wire
       domain: cmswire.com
-    quality: 17
+    quality: 57
+    images:
+      - url: "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
+    excerpt: "The acquisition expands Accenture's Cloud First capabilities to drive data-led transformations for clients in the Hispanic South American market, spanning Argentina, Chile, and Co"
+    publishedDateTime: 2022-04-21T15:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9587329.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rnARoY88/OmUXLfJ6UMum//kPhJprWYLc1jf7cB3dbqjFvoY22tYxYtJx+qiAR30LueojqeSuY9dIPf9bek/4KUYUh7vDP4DTh94CjpTz8REWfX6Y3y/eh1u0ZJ0swQ5YL0ovr2k+71XUYts0FO6xjeM/HbVMR6kwx2mfNI4icZRBLf3y3WdVwtpbvUdVHQJM+aTTFzhgVBlo2QmKxvFBBrHOBn3/UYmY9hy0uvtDWQdjF0LmbmLsumsbhkCHKJYLdyoXeI1nE3VxhEbtxviykZlaVops1qPEDyoK52I9IsLFoJBynt8rITGalEVr1Nr/oyuLY+A8js+CRqIQ/N4ZelJQWAzilkRynktYRztnxc=;mtT4s8vKw0WcocB764IXiw=="
 ---

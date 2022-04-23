@@ -5,10 +5,12 @@ excerpt: "With the addition of knowledge-based AI, Uniphore is broadening its AI
 publishedDateTime: 2022-04-19T13:55:00Z
 originalUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
 webUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
+ampWebUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
   name: CMS Wire
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Communication-efficient federated learning via knowledge distillation"
@@ -32,7 +40,16 @@ related:
         width: 685
         height: 370
         isCached: true
+  - title: "Accenture Acquires Ergo to Expand Data & AI Capabilities and Accelerate Data-Led Transformation on the Cloud"
+    excerpt: "The acquisition expands Accenture's Cloud First capabilities to drive data-led transformations for clients in the Hispanic South American market, spanning Argentina, Chile, and Co"
+    publishedDateTime: 2022-04-21T15:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9587329.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "NpRUL+f5S2vmbwIQYfAA77qoMBFZ+6xRZr/ictO57QZefcm5R3Y2klur6HNviAsulcGeq0loHVWJOA5yFqbRyAHYotANqqOjynh71/wZPQNPXDYc3M4aCECW3VGv3PWyXVVjZmBKprTklApoaKWOtqwk0fpRm0+bbGsRxBfekLhDBVjG+b4lLWTN7E6/fpjPjcUCb2wMpXy4VYGkqyXg+npCZbgqFUPNWrAsebdbsjS4UaMRjVTgRtdTx5HuMOxobIwI6yvATpMEUSsBLWD+Xf8Talguq4eMuNQM80SwlDOBD6uM7CmbMK0Y12MBsZfmcgfp1ALgijWcCETGXR5aZ+tRUPdxI+sm+Npy5WS0duo=;JA0OA/5cRxolnCyA8BcvqQ=="
+secured: "tTfTVebs9icmnbmp2gGPl8seWvC9A2rDJqS+1B4ZPhhQ/J49Xs5R2QZZVHo+CgVmmRoYaozgPlCdaAKbVG670bi3puBgd4iirSy2MGev3cT4CUZRwZ6/ksTzf2CL/8ixmkBFnYgH558I6o7dCprM7E4qnUVShnL7tnNSxEqgzkTYGZKIkygDBxWdJV3P0+y358tkMVQrfsM5cHZ5iS60JqbFGWhxuC04RAgKjwTu1h2DGI9L1HjxoauZPXtT1DR9u/mcb7wNbmzgHQixDiAEidAlc2dSuDbLmkyO/ESZpmuwWsfnSs2Zn1IZHM9QSJxl9pugr3yqUxFX3UGP3F/8tOOz7rl265R/jcA/iSG21FE=;flqHY0aOWyk5rmGRzLOj5Q=="
 ---
 

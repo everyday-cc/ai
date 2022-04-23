@@ -24,31 +24,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "Why You Should Personalize Corporate Learning With AI"
-    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
-    publishedDateTime: 2022-04-22T14:49:00Z
-    webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/33/42/22395058/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Why You Should Personalize Corporate Learning With AI"
-    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
-    publishedDateTime: 2022-04-22T18:49:00Z
-    webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
-
 secured: "pLuhZgr1ZnPvNwa3z3j6589Uk+dlCkIAMn0PGk6fm2wH17vgm+2J2sZE1lma0dv3Y3Rw5GHBY6T0+g6FK/baHqhVF6/8mC3bh44ohNpddRRFMOZJSZGg9QwQvjsFUwFFwq6NiIfBJ+/zvT+unyaVq4WPWHen0iHbyn/CFwglmjPelCyMJuLv5SslbKG+xBrlW+KEeRnxrpaaSeeG6fF7kDaGZHNwveLve+JVBIsvD0hzRvKk2OuxXMb0XA4tx1Di47Ff6amQpKwW/538MoATS0/G62XykjnRvhms6zRVvb/n7m2YwSxvIHvq4LBwBG0ZFikJ6WuUTv23xOwIjPmOcImOEnSuINlYZd/+omG8NPaSNx0RWF8z4pnFI6vFfNEvo/JtcJWz5IkWpAp4S5pe95LlXRa5BZ4hlnFDS13Ew+WUzgQ7PKUNs994MZ9quu6/6iQ/2UiArEAzCpU+NT8OefyhbQJtGMikQPrv0jqL55hRXQTQnwJCguIxYYTc1FsFkn6p8F3MUjY9k88/MtKg1Q==;mAyQAv6qY8fjDboP9OY4KA=="
 ---
 

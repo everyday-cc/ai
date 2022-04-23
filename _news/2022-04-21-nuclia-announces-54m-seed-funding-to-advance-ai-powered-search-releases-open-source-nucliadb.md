@@ -43,6 +43,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 5
+  - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
+    excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
+    publishedDateTime: 2022-04-18T11:04:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/blue-spark-technologies-raises-40-million-in-growth-funding-led-by-ghost-tree-partners-to-advance-ai-based-remote-patient-monitoring"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 0
 
 secured: "GAVs4m1vw9uqJWkwNZDus+hU2+xJQXqSm80TsI81bL9Ebres1Ambj+536HIr8DzdahhDG3cgZ/fB4RpRaMsiS/ShUop+m3GKzir2Zn4y1BGQ4BHwf1iGENLMUHYVVJwW3i98uJ0eO6GViSGMneVgiN/WjQzcF3ndddKq7peDpVeIFfwtYNJb4R1xgpBQZ2enAEiY5cNQlA+I1RnD2cSssj6cnkdd+uVJbYQGIhCQU43TZm9p6hzdod/5t2Afggdbo2qMvuH/GIsWpnk27cv7LNX610lzJVDz0yNPgX7oB3Jw729htUVXErj9dERtl4+xlfEwuVX3UwiCGAjHu6IC00me7s8JMPPxgeE2JhLZoS4=;pFLVVsrY29RSLMVHct7c3Q=="
 ---

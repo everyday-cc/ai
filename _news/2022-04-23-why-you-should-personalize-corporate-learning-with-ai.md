@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Atom Learning Brings Its AI Platform to U.S. with a Focus on Test Prep"
-    excerpt: "Atom Learning, a fast-growing edtech company based in London, has launched its adaptive learning platform in the U.S. The company aims to improve learning outcomes for elementary-age children, beginning with test prep. Starting today, any student who plans ..."
-    publishedDateTime: 2022-04-19T15:06:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/atom-learning-brings-its-ai-platform-to-u-s-with-a-focus-on-test-prep/article_16edb03b-4402-5b94-a49a-21072c3c5660.html"
+  - title: "Computers could revise past conclusions with AI"
+    excerpt: "To better automate reasoning, machines should ideally be able to systematically revise the view they have obtained about the world. Timotheus Kampik's dissertation work presents mathematical reasoning approaches that strike a balance between retaining consistency with previously drawn conclusions and rejecting them in face of overwhelming new evidence."
+    publishedDateTime: 2022-04-20T13:31:00Z
+    webUrl: "https://techxplore.com/news/2022-04-conclusions-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-04-conclusions-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg"
+        width: 1920
+        height: 1302
         isCached: true
   - title: "Why You Should Personalize Corporate Learning With AI"
     excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"

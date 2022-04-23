@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/04/20/draft-spanish-startup-nuclia-g
 webUrl: "https://siliconangle.com/2022/04/20/draft-spanish-startup-nuclia-gets-5-4m-advance-unstructured-data-search/"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
+    excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
+    publishedDateTime: 2022-04-21T16:23:00Z
+    webUrl: "https://www.techzine.eu/news/data-management/77518/nuclia-raises-5-4-million-to-advance-ai-data-search-capabilities/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 17
 
 secured: "LHHfvSSkRrhzV2ohJVVDQegKBO6GUhbrsyQ4zjeTb3AFwmGDRXOUb7E+JwJYk8FuUja/ecIyhdjCKUQUevaHF1E43I+SgvuRlvAFRR3DqpDuD2rG/wCceMvKwOkcrRiVKQI+omfbySWD9yoPhzw3cNmiytikZUiXxiA/BMONUv3WQcbI94s34mZMwNrihMQrA8+ONEqRpJ1cG74tieKEEJSCmDlUmrGbjR//JvlKcNTa1R0Zf8meetrMisSUsmHybLxVoqJwaIRW+gK5Ii98jv9BB/rh2IHrHkCfT6vQbhVlLz0Xa7Xq9bAwksE+pNU3XyKVlh8ABPUGT6PBR3RrYkI44QpUE813ufFUgW1frDo=;+n6uuGVJCH6UsOFe/5fZaw=="
 ---

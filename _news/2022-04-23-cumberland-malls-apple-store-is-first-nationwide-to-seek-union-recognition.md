@@ -3,8 +3,8 @@ category: news
 title: "Cumberland Mall's Apple store is first nationwide to seek union recognition"
 excerpt: "Workers at Cumberland Mall’s Apple store filed for union recognition this week, becoming the first Apple retail workers in America to do so."
 publishedDateTime: 2022-04-22T20:30:00Z
-originalUrl: "https://www.mdjonline.com/cobb_business_journal/news/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
-webUrl: "https://www.mdjonline.com/cobb_business_journal/news/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
+originalUrl: "https://www.mdjonline.com/news/local/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
+webUrl: "https://www.mdjonline.com/news/local/cumberland-malls-apple-store-is-first-nationwide-to-seek-union-recognition/article_456466f2-c279-11ec-aaa6-07ce3e3b53df.html"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "yy18M4G1pj50pQXtteP4j5Y2F5sKuNAUp8IOcGw0Z8N0EYr5MaUiA2m5aTNxEhw462WwIKBNCjBUyt9WjtYWiCNwaazNdvQOXxAk5RFXoPnPb+Kvmc38m9JJPVg+x+N1HH/afh4L/ISmh8KDyR0Kkq53RSaBh2XkogqZASjIgcpauVnKgC5QYcXeRD6WlAOwpLfWyOVPI9tATaBjDXe1coyl1YXeG6FD60rxT1C3iLkWQei3j7pIWK/002r8sUORiB95vZdyl59EIJHhRJBoUeyZJ5SKn5uDV6uHTR26vSXxkCWcwbqKfi4i5Ey42sSpfCqqDFBZVZJS7qUjkASxKuc9VkpWK9iAF2W5/08hlrE=;8xx5eTAfqPWqsY4VTvV+tA=="
+secured: "NKWlyd9qOGRUmL+3/UU/309LciI821CjxitDjh87eeKXlR0936yuXukR8Zff8LQy2Lgch0x1ZlfNGXs0cAbxbRPq/cdlcfrxm2sD+hlHkExBJb+s4WKocw08P7Pn/fg23qWAoMe6vMBhwZIi3mfbNVgGp8iSOb1v4kDWvvrkBpG6qbhG2k3FkuVj/2tGSYOca/kDthOFaV8YtsYFRvGDGn9+rRiPbo+dYsUIQDnqqIVX4KInjE8uMklZ4ot+JO98f2xjzYaf255sq4a4od4UpmnmfPPjRRwsVX3oszVY4uxDtNtb8/OMVsVKGvzniYdWbahxcJ/otH+DHhpSwXXgV8Kya2jni5QWtZsChnTLaUU=;HQsmAjpb8W9tEJMx4PJyGA=="
 ---
 

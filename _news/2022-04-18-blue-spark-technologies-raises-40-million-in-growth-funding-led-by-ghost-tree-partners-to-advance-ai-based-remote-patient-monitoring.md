@@ -18,105 +18,40 @@ topics:
   - AI
 
 related:
-  - title: "Recruitment Platform Expertia AI Raises $1.2 Million In Seed Funding"
-    excerpt: "Virtual recruitment platform Expertia AI has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini. The funds will be used for assembling a team ..."
-    publishedDateTime: 2022-04-18T07:57:00Z
-    webUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919"
-    ampWebUrl: "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919/amp/1"
+  - title: "Glacier Raises $4.5M to Combat Climate Change with AI-Powered Recycling Robots"
+    excerpt: "SAN FRANCISCO- Glacier, an innovation leader in AI-powered robotic waste technology, announced today that it has launched out of stealth and raised $4.5M in seed funding. The round was led by New Enterprise Associates (NEA),"
+    publishedDateTime: 2022-04-20T11:39:00Z
+    webUrl: "https://www.waste360.com/recycling/glacier-raises-45m-combat-climate-change-ai-powered-recycling-robots"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
+      name: Waste360
+      domain: waste360.com
+    quality: 33
     images:
-      - url: "https://i.ndtvimg.com/i/2018-04/dollars-generic-pixabay_650x400_81523929965.jpg"
-        width: 650
-        height: 400
+      - url: "https://www.waste360.com/sites/waste360.com/files/uploads/2012/03/recycling.jpg"
+        width: 847
+        height: 567
         isCached: true
-  - title: "HR tech SaaS platform Expertia AI raises $1.2 million"
-    excerpt: "Expertia AI, a deeptech virtual recruitment platform has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
-    publishedDateTime: 2022-04-18T08:10:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/hr-tech-saas-platformexpertia-ai-raises-12-million/article65331372.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/hr-tech-saas-platformexpertia-ai-raises-12-million/article65331372.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hr-tech-saas-platformexpertia-ai-raises-12-million/article65331372.ece/amp/"
+  - title: "Nuclia Announces $5.4m Seed Funding to Advance AI-powered Search, Releases Open Source NucliaDB"
+    excerpt: "Nuclia transforms access to unstructured data with AI-powered search that anyone can integrate in minutes, tapping into all their video, audio,"
+    publishedDateTime: 2022-04-21T01:50:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/nuclia-announces-$5-4m-seed-funding-to-advance-ai-powered-search-releases-open-source-nucliadb-1031368143"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/ypwyj/article65331373.ece/alternates/LANDSCAPE_615/Expertia%20Logo%20New%20Black.jpg"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "EXPERTIA AI raises USD 1.2 million funding led by Chiratae Ventures, Endiya Partners"
-    excerpt: "EXPERTIA AI, deeptech virtual recruitment platform, has raised USD 1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
-    publishedDateTime: 2022-04-18T08:51:00Z
-    webUrl: "https://www.zeebiz.com/small-business/news-expertia-ai-raises-usd-12-million-funding-led-by-chiratae-ventures-endiya-partners-182982"
-    ampWebUrl: "https://www.zeebiz.com/small-business/news-expertia-ai-raises-usd-12-million-funding-led-by-chiratae-ventures-endiya-partners-182982/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-expertia-ai-raises-usd-12-million-funding-led-by-chiratae-ventures-endiya-partners-182982/amp"
+      name: finanzen
+      domain: finanzen.at
+    quality: 25
+  - title: "Nuclia Announces $5.4m Seed Funding to Advance AI-powered Search, Releases Open Source NucliaDB"
+    excerpt: "Nuclia transforms access to unstructured data with AI-powered search that anyone can integrate in minutes, tapping into all their video, audio, and text . BARCELONA, Spain, April"
+    publishedDateTime: 2022-04-20T13:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nuclia-announces-54m-seed-funding-advance-ai-powered-/2022/04/20/9586085.htm"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 50
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Expertia AI Raises $1.2M in Seed Funding"
-    excerpt: "Expertia AI, a Bengaluru, India-based deeptech virtual recruitment platform, raised $1.2m in seed funding. The round was led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
-    publishedDateTime: 2022-04-18T08:50:00Z
-    webUrl: "https://www.finsmes.com/2022/04/expertia-ai-raises-1-2m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/04/Expertia-Logo-New-Black.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "News: Virtual recruitment platform Expertia AI raises $1.2 Mn seed funding"
-    excerpt: "UK-based talent investor Entrepreneur First has doubled down on their previous pre-seed funding into the start-up last March"
-    publishedDateTime: 2022-04-19T07:35:00Z
-    webUrl: "https://www.peoplematters.in/news/hr-technology/virtual-recruitment-platform-expertia-ai-raises-12-mn-seed-funding-33632"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 35
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1646995086/ad-drezxt5v.png"
-        width: 990
-        height: 550
-        isCached: true
-  - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
-    excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
-    publishedDateTime: 2022-04-21T15:30:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220421NY31437/mendel-raises-40-million-series-b-round-to-expand-its-team-and-grow-product-offering/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 32
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
-  - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
-    excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
-    publishedDateTime: 2022-04-21T16:23:00Z
-    webUrl: "https://www.techzine.eu/news/data-management/77518/nuclia-raises-5-4-million-to-advance-ai-data-search-capabilities/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 17
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "Ro/mUGmidZJdG8kQA+lKG7bS3bBZIArJcYp1P+P0qnpgLoWqsUoI3fClIzCmWSfETMjF2f02qsuRfCAOVq2NWpwzL8R9pZFqFhMaK95Q0AQLxuA5Htdnsp8XrI8USriffg7s17li2uVlGH2TRgSi0dvPjdb/eWGUJ12ZrvzXXcTi0ifxKa8gShmHg7/CTRR4vamEViV3068pxBvaa2bCoJh+IA1/G7Xd8t7gFNq33AAXqAToJlE0UBbo48FQbnbZzARVH6zCBFLfiWZjFmbzDLyHpGFsP9ChoybfasUK+fbW4UslGVFPMSrl7MjLAgtmGunouI96R0GA0/wnIzBp8VjMblPAMQGqj8I5IAFWMOSmLV07AG1c90w73OKNCiFwV9fV06x++tecFYlins1jpR8nRUWRpI5Nio+svT23efFxSKdQZzRuaObMQnKrJV37J2wXv7ZIYN+M0cbCLu/oPQ0LNGbRhl5uT/lLPcsnD3Uvp++VTcyGei953vvBBDKTK3DYd3ASWooCPU44MVpLzA==;C9l9aqAR5vVUSmjBwX/FDQ=="
 ---

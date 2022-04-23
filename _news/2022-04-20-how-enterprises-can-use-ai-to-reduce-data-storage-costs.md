@@ -41,20 +41,6 @@ related:
         width: 270
         height: 349
         isCached: true
-  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (“Vian”), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-19T14:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-palo-alto-9f731260765a466d88ddbe19554cb453"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "How SASE uses AI"
     excerpt: "SASE vendors are applying AI and machine learning to the network- and security-related data they collect to sharpen analytics, tighten security and boost performance."
     publishedDateTime: 2022-04-18T10:00:00Z
@@ -64,6 +50,15 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 17
+  - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
+    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
+    publishedDateTime: 2022-04-19T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "klRHU/T3sVVTdcG1+QKAq/9+sYem3cZHRCgCzReZ3vdvBQ8i54sTnF+eTxGuJg6OtVXVVSHtReedAdvXwFYMOEgb5PrTWZmPDhUKT1InRMYbacwOfkFPSRY7/nQ/a4Lqo9yUlmosEONTPWCNMDQwPc0xMBpAkUgnEHzfex1gFgOo+tLsN9a3fs/m2OFJHm7TL8QG8JS9zfiwHAS4rOlEWEE92YhDb0wyMGAL0+bXwMFHPck8n5fYvOqYeeDmk+6jRx6+s37rFV2Fde89pT1HmVAKa7iZXajl6bE17gRyFD5vqtAp5N8W46z6rzB6synCnmr6jyHCMjeNugEb9qphnMCit6GBTuWr0YjPGtioVLU=;0Lzqzzb9CoMLr+HoF1lV5A=="
 ---

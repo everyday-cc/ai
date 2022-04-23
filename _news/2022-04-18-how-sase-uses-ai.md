@@ -49,19 +49,14 @@ related:
         height: 349
         isCached: true
   - title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-    excerpt: "Vianai Systems (“Vian”), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
-    publishedDateTime: 2022-04-19T14:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-palo-alto-9f731260765a466d88ddbe19554cb453"
+    excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
+    publishedDateTime: 2022-04-19T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "HcMNSC5rbcEzWe9xFHj/MRGzoozXfDgcFCIb/jtOJDfBkY6PY0dHxn6rmgxpm/GQJK8n5hQrGo9Q3L6Ht7dOahc98TCdpVzgRlD3IldhA/l89QlHKu/MvICP3+bCAmFN9j0hQ0PRA9ZPDmTxfMTzBuJsfHbbJByj630xrlSbz1wmGexOsb0bWE1Uj/Er+KX99Xf+vpWQc9CGvBZCAu4blOg8utVgIxFFvuKsVNyIhpjDpPDm9lQ7MYNUSLNyveI8nPVhwW3DGXnqGd5L51cLdHsbgkV+4eTunOjdWP8W4N/K8B1ogHzxuyyuHdi5jTvpoKSrIWMzX/jQou+ZRSUWCl7I7sAo9ToZUjbilFTtYdXko/Ih3/y+RXROkCzuT7rk6r0WQkRXF1fIYLsC80Z+n3YpIkV0nDIuxhmbi7IMfX/Gbx4rM46Mlmjgw1qMUyGyJ5WNzJB/kb5uSUCpg9UXig2VHG6BVFxTeRIOl+PLkhfTAHwW+GZm1SQIeQRYMKwcL/Pkcgc23dMGXxZzSjhwgA==;Jy4fTIQGkUpJYw1MToZnFQ=="
 ---

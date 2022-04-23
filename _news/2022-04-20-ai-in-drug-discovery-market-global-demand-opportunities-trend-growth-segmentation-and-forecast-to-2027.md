@@ -91,6 +91,20 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Neuromorphic Chip Market Size A Latest Research Report to Share Insights and Dynamics Forecast 2022-2031"
+    excerpt: "The Neuromorphic Chip Market was valued at USD 111.04 million in 2019 and is expected to reach USD 366.14 million by 2025, at a CAGR of 22% over the forecast period. Keeping the pace of advancement of disruptive technologies such as Artificial Intelligence (AI) and Machine Learning (ML),"
+    publishedDateTime: 2022-04-20T22:58:00Z
+    webUrl: "https://menafn.com/1104059326/Neuromorphic-Chip-Market-Size-A-Latest-Research-Report-to-Share-Insights-and-Dynamics-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?742141"
+        width: 443
+        height: 250
+        isCached: true
   - title: "Global GNSS Chip Market Forecasts, 2021-2028: GNSS in UAVs/UGVs & Opportunities in IoT Technology in Autonomous Vehicles - ResearchAndMarkets.com"
     excerpt: "The \"GNSS Chip Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Device; Application; Vertical\" report has been added to ResearchAndMarkets.com's offering. The GNSS Chip market is proje"
     publishedDateTime: 2022-04-22T09:36:00Z

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise"
-excerpt: "Vianai Systems (“Vian”), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
-publishedDateTime: 2022-04-19T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-palo-alto-9f731260765a466d88ddbe19554cb453"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-palo-alto-9f731260765a466d88ddbe19554cb453"
+excerpt: "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale."
+publishedDateTime: 2022-04-19T14:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-vianai-systems-introduces-first-human-centered-ai-platform-/2022/04/19/9585279.htm"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "How Enterprises Can Use AI to Reduce Data Storage Costs"
@@ -64,6 +58,6 @@ related:
       domain: networkworld.com
     quality: 17
 
-secured: "flTDrFQQz9E8bGhBXFJQDOe8nrUjUXW374utbuzRWWAT9Ka6DqSs2ywf6LOJT94hdADsmkajxJbX+DiW9Zql63L3iMwjzW8Cb+8VjKjbIWsLT3Hand5vkpO8k6XfRwW8lTOD8eUd/F5qCDxaxFHevzgPND3SMm/z6XSHIl663g7eYdTv/Cz2QR/yKBwVYsCGhRoZsnbAMgqfDXLCOl3HDLLNMChgDdjrJ8muSn0hw4VaT1gzsSWqwGlS5+cPbIMhEnVbsFvds+TUvd0bGWJt6n/1FklS5/28fE+kJApLeuCQb0jagIa5cNVXOgNQgHAXKy+maoGzxL/snvL7Hb9URZLz8QNcGWfRJK+rENIrnsA=;3ROi4S6nJ/Dk+n0ZNKxTWw=="
+secured: "hVNQK72aRqnQzOcAaXc5NGqkzbg8v2xglDawN09EW5i1TfSmuNAOx2G260PJ8kjQZPPFf0YtgdD6g+HFI0olRqKSSRPmAlvkD2bqhxM0yVbxWWCVxEMehCVW7Lr1smbqkdNobIsV4OFsOao+8/k2cVX6gV+Dcf+J2bouPkny3FD1tEW5QAxrke8BtLS2tLXRDXbMGkYbR2KwvtT1GqSUphHS67TNdwx2fhz4Z+6qbdKZRet0FvLwORHhCJsxYnrYdRl0xf0o2PWUo1rRgKkOX6iunrT/5T+b51aboHGU3vK1JjnFY7hChoBG14yovfFRhwRKnJWWocBDzfAT5HgXTG1QRpO4zI9WRb88tR+OHZU=;TmX6C40vB68AjVsPABvUAA=="
 ---
 

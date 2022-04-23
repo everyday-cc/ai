@@ -94,6 +94,20 @@ related:
         width: 443
         height: 250
         isCached: true
+  - title: "Neuromorphic Chip Market Size A Latest Research Report to Share Insights and Dynamics Forecast 2022-2031"
+    excerpt: "The Neuromorphic Chip Market was valued at USD 111.04 million in 2019 and is expected to reach USD 366.14 million by 2025, at a CAGR of 22% over the forecast period. Keeping the pace of advancement of disruptive technologies such as Artificial Intelligence (AI) and Machine Learning (ML),"
+    publishedDateTime: 2022-04-20T22:58:00Z
+    webUrl: "https://menafn.com/1104059326/Neuromorphic-Chip-Market-Size-A-Latest-Research-Report-to-Share-Insights-and-Dynamics-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?742141"
+        width: 443
+        height: 250
+        isCached: true
   - title: "Iris Recognition Market Growth Opportunities, Key Players, and Threads Analysis"
     excerpt: "Market Highlights. The global iris recognition market is growing at a rapid pace. Iris Recognition provides advanced analytics applications to enhance security, increase throughpu"
     publishedDateTime: 2022-04-21T09:33:00Z

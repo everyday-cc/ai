@@ -40,19 +40,19 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
-    excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (\"AFCP\" or the \"Company\"), a company engag"
-    publishedDateTime: 2022-04-22T11:00:00Z
-    webUrl: "https://www.wpri.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
+  - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable’s CHP Business"
+    excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (“AFCP” or the “Company”), a company engaged in the development and production of alkaline fuel cell heat and power systems for residential,"
+    publishedDateTime: 2022-04-22T11:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
     type: article
     provider:
-      name: WPRI 12
-      domain: wpri.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 35
     images:
-      - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2016/04/generic-airplane_37034160_ver1.0.jpg?w=2000&#038;ssl=1"
-        width: 640
-        height: 480
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/749e45e629684438d99df73cef00a61e8335b80d-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "m+Gg+9pjCq/8QVV7RQOg0rw5QxPUNgFpQ7EQU90m8MkydOnhxr2jZxgMUYOsUnbYRWw1JD/avG2ONtC9mTbBhFq5569GwsVfqFfRtNEJ6/QmN1yOCeQ8HeZ1NGcEjoxOlu27CQm5Y3UIYGtJ5e3cVnO54Ndkwmi9EboSVqnsgubFZL3Yb9w9BvLphQCVkObDMWRl0DQ9sY6eGqRelm6BIyLIw0MQzuStKU27d8MDffYOgXxEq6KA5YloOKvL4Hl+0c12lnSD5Qwodb8SzLb6USQtDFZU7NupTi5dOjmKkU2hkZPv6IlCukdPDXSG2DZSQEH/JfPSkTtYuvjxYONS+cckkxtVtd2CIa4a1dlmv/g=;ZHWGVTCUJTYXlcX5NNwRLw=="

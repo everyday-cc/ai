@@ -18,21 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Accenture acquired Ergo for expanding data & AI capabilities, sixth acquisition in a month"
-    excerpt: "Accenture (ACN) acquired Argentina-based Ergo, a data-centered business that helps companies create a culture of data-driven decision-making using big data, analytics"
-    publishedDateTime: 2022-04-21T14:04:00Z
-    webUrl: "https://seekingalpha.com/news/3825346-accenture-acquired-ergo-for-expanding-data-ai-capabilities-sixth-acquisition-in-a-month"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3825346-accenture-acquired-ergo-for-expanding-data-ai-capabilities-sixth-acquisition-in-a-month"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3825346-accenture-acquired-ergo-for-expanding-data-ai-capabilities-sixth-acquisition-in-a-month"
+  - title: "Uniphore Acquires Colabo for Knowledge AI and Automation"
+    excerpt: "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,"
+    publishedDateTime: 2022-04-19T13:55:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/uniphore-acquires-colabo-for-knowledge-ai-and-automation/amp/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 47
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/171053447/image_171053447.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
+      - url: "https://www.cmswire.com/-/media/8a4551705f9c48b0ad228e0cf26c9e60.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Communication-efficient federated learning via knowledge distillation"
+    excerpt: "This work presents a communication-efficient federated learning method that saves a major fraction of communication cost. It reveals the advantage of reciprocal learning in machine knowledge transfer and the evolutional low-rank properties of deep model updates."
+    publishedDateTime: 2022-04-19T10:25:00Z
+    webUrl: "https://www.nature.com/articles/s41467-022-29763-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-29763-x/MediaObjects/41467_2022_29763_Fig5_HTML.png"
+        width: 685
+        height: 370
         isCached: true
 
 secured: "nPUMIS8Hznh+ALbfEWhsuty+z5hT+q+7Iv54g2nl6yO244aR5RgoXYSG0nAthcMNFU8thD9kqYBoupNszzTZ1XS9/GpGzWJSrCwsnXjflyP0GHQmzMDaaWROeVtokMf1Hbl4TidPdMAd2U0U3mv1UHLmQqInQQZRoJqAOsp4Y6KiOGElX3EGiTpG2/h6w/5cT9+ouQ9a1R/LyBf/WP9INsavDQCv3K+YZBr5/663YyzpCIOeZQf6ndUlyuDOzaooZQCgH1AjUiV2ADP/yhxNuuiyIcwfEips2HRLa8UErFhEAifNpSr+rXmc84/8nZ7UqBNE06ktFXAijpoYh4mvFWfXxd/ctBYhiWoYfx6RpJfjB3OspDoRoKFzHIBzxpNAzPsBcc/M0lHYLi4IWx28LHkHoYckC8FhHqdt1fRNqlMjkit8VIVNUQlCs4bjaDsN+q2QVOQUMdv5M6ksSvjx90g8Vqqc4+ehqeUWxtHhKjrWfhmKwrGkbgXaErXMvpjZxW8Sy9H4Ad1G0SZ3VBFUOg==;lAPXsjqATnRB0OWNlE+wLQ=="

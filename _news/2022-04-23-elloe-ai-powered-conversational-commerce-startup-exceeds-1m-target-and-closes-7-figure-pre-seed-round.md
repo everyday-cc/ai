@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Elloe, AI-powered Conversational Commerce Startup, Exceeds $1M Target and Closes 7-figure Pre-Seed Round."
-excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led by Philippines Mad Ventures, Inc and other undisclosed investors."
-publishedDateTime: 2022-04-22T22:36:00Z
-originalUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
-webUrl: "https://www.digitaljournal.com/pr/elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+excerpt: "Elloe.ai a US-based conversational commerce (c-commerce) startup focused on Kenya and emerging markets, has raised over $1 million in a pre-seed round of financing. The round was led by Philippines Mad Ventures,"
+publishedDateTime: 2022-04-23T00:28:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-22-elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-4-22-elloe-ai-powered-conversational-commerce-startup-exceeds-1m-target-and-closes-7-figure-pre-seed-round"
 type: article
-quality: 20
-heat: 20
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1650621633.png"
-    width: 725
-    height: 664
-    isCached: true
-
-secured: "J9kWmITtreggsFv8bjHIIleq23MBMwf0rFYV+n2ooeRfii7ENlzPJSkzjLFSTSbzWTXor3HhHpiR2ybt0KuEZj4UxX12CKbU06mVqAW0s7muXDKH+muhTRmfGv7vfntxEx67LzC2ih/EiyhMIFOHqGYoLpObMuajRopB26ciEtY0FCG3yJoIvt30azbbJPEp7bCgpMme2vrq2HveGCHy7O84ARMbdbU+EdD3dcxkD7zc5VAf458so+CxaevK3qUE7/Rfh+AvyYCDbiCegvX07xy8Mk7PMI4AyCz/91GEDlUEIXl8ihtJAUPMPU9rbWnM6stdGKtqEvZSYlESOh0L1tlXiKIU6Opyxm1fvJRa8yE=;XEDV3QyCQS8robjh7LmteQ=="
+secured: "k97FcVsm9VchwbhIVjBlj0/4iyq/Lk88VQOKJ6NBz54dN7aeQuIJgLA6I+4GCf3u3LMknGWaBbZ9cJwgez/IkjStdnydZJtAHHE3AAkoV371SUpnpSViUDMP/JUcNvoGVUey7gvkjBcAo/F8vghgX5/t7jybowkI+6CLWFhzycToJ6M+c9uONbneqV5eeHba8C0gkoguqbhTAm+9S44NJZDSRSj2wY+7APyYD5P8dgztHgJPfuAZJcp6KJ3PYAHqWpsolhJG5dVqlWKFYqJK+Em1p2dg30T0ym/hSXueCKIoaitGOgeQB7frgKB9rbIElPPynrf4nGl9fCJJDHl8lNiYqY68SdjhnnpnnOzzWp3sr9H05DOZEXKDyz3mntvR/r1kMfhFrJeyJetNQMS2DbholbgGaCnn1DvrEE2foiCVJ4f2we0yXYlZSb2DK4KNhfV3tsD6LZ5HUjEfkU9OkgGB30qdLSh9LQI18+nequUyDuylYwNClWQXXAHG78apxlSay6zUJHVJjsgosgcZ0A==;hGH7a9A/N0PH9HyVyZplyQ=="
 ---
 

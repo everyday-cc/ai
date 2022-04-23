@@ -5,10 +5,12 @@ excerpt: "To better automate reasoning, machines should ideally be able to syste
 publishedDateTime: 2022-04-20T13:31:00Z
 originalUrl: "https://techxplore.com/news/2022-04-conclusions-ai.html"
 webUrl: "https://techxplore.com/news/2022-04-conclusions-ai.html"
+ampWebUrl: "https://techxplore.com/news/2022-04-conclusions-ai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp"
 type: article
-quality: 17
-heat: 17
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: techxplore
@@ -16,7 +18,39 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "lUaRYSiwivXuAj6KAVMTyiDPcwbBhCFoYHLn0SAwNCfTZF9ZG+tiWZdYLX2WbMUmCMDCGuGdjeKPzP93WS3QUbVRh91v9DVKIueySSiEuh/yQd7LTNb3a+Vtsom/5dUqMAeSFJdLdTcQJZhYNmYlausU4VlavHfPoWUhomkFHYWDw5pBJRkIfqgT8RMEcizh9648sFfIqknT0Bv3O7pHGi9ShoGWOthtfNMsDtjQ/X5zi2649xffKCKgo8GxoCy83BPw7Dlt5n1y0j4tWAYV93NQ5zieos4ziiXlnHbIGHeIzFZ6x94caUdtyHOCg2smzwzRUgb875835Hg0twvAxEKaAis6BwTGlWCkRq9pGHOo6fyu0rWxHUtajnznbCq1faGVf5oTJpG9n9aqWJZCsdngP7HbCrRfBJBYAr0x5Uiqtaf/yiiLy0PMzsyd6K10rUsv6yyXiWAcqBe+nafrZPFO3AHGvf1n5UAw1co6f3r4xseZVLQr3Km/vlsNWpqhfowUJGn2agYdWYyz8e81QA==;5ab901qkjfsjtFXVgCKZ+Q=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg"
+    width: 1920
+    height: 1302
+    isCached: true
+
+related:
+  - title: "Why You Should Personalize Corporate Learning With AI"
+    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
+    publishedDateTime: 2022-04-22T14:49:00Z
+    webUrl: "https://www.timesunion.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/33/42/22395058/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Why You Should Personalize Corporate Learning With AI"
+    excerpt: "Over the course of my career, I’ve taught thousands of people, both in higher-ed settings and in corporate environments. Something I struggled with, especially when working with many learners at once,"
+    publishedDateTime: 2022-04-22T18:49:00Z
+    webUrl: "https://www.chron.com/business/article/Why-You-Should-Personalize-Corporate-Learning-17119443.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
+
+secured: "tRbXEmNO6SVBevXkFzC/dIT8TU09N9CoVvpB8j57YauVTaKjBuxLrJz5Ovi+OX5yy1fzebQGgHo7u0o8DVm+BmoREVnKg4CPtQP3wEG/muKTwz1XBBNksB+IMGpMBhuYpacZQrjL+5knB5IYRYykXu84SYqJp9gAUT4EYludAij6e1hBxfOwuwtorn4YqJ7DUuqTnS793xDXb2ZzRrPsT4XuHLrCJsdEU56nRbDLwsF2f70bCQuR/dhLi/uzpjaXewgBLcnXJTvEpxREFsbaNk6vvEurzB8PoVVMIJJUdjzh+202A8YJf5mS6dRSx78dLQNVftVNP8Pqmz+FhA3Lk9lOwfM+bT6/6zlcA4LqsXU=;uyk9qyriefLc/DNr0ebgUw=="
 ---
 

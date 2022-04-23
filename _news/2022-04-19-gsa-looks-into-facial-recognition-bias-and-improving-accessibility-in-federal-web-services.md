@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/04/18/gsa-facial-recognition-bias-access
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/18/gsa-facial-recognition-bias-accessibility/amp/"
 type: article
 quality: 79
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/4b5/45bf940c346f431c9be273b8942ab6eb/4b55b391730547e6a1e92c667efa0c79/poster_3af5f009d26f46e7b7d14cac09d22b85.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "House lawmakers investigating gov't use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-23T01:10:00Z
+    webUrl: "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 59
+    images:
+      - url: "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Facial recognition facility yet to become functional in Karnal"
     excerpt: "Four months after its inauguration, the facial recognition facility is yet to become functional at the Integrated Command and Control Centre (ICCC), an ambitious project of the Smart City Mission. The command centre was inaugurated by Chief Minister Manohar Lal Khattar on December 5,"

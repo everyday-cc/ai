@@ -2,26 +2,26 @@
 category: news
 title: "House lawmakers investigating gov't use of facial recognition software"
 excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-publishedDateTime: 2022-04-18T16:18:00Z
-originalUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-webUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-ampWebUrl: "https://www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+publishedDateTime: 2022-04-23T01:10:00Z
+originalUrl: "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+webUrl: "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WQAD
-  domain: wqad.com
+  name: WFAA8
+  domain: wfaa.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.tegna-media.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+  - url: "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "House lawmakers investigating gov't use of facial recognition software"
+    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
+    publishedDateTime: 2022-04-18T16:18:00Z
+    webUrl: "https://www.wqad.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
+    type: article
+    provider:
+      name: WQAD
+      domain: wqad.com
+    quality: 59
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Congress launches investigation of ID.me facial recognition technology"
     excerpt: "Concerns the I-Team first revealed more than a year ago about ID.me's facial recognition technology blocking legitimate applicants from accessing state unemployment benefits has gained national attention."
     publishedDateTime: 2022-04-18T19:10:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/4b5/45bf940c346f431c9be273b8942ab6eb/4b55b391730547e6a1e92c667efa0c79/poster_3af5f009d26f46e7b7d14cac09d22b85.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House lawmakers investigating gov't use of facial recognition software"
-    excerpt: "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates."
-    publishedDateTime: 2022-04-23T01:10:00Z
-    webUrl: "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    ampWebUrl: "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Facial recognition facility yet to become functional in Karnal"
     excerpt: "Four months after its inauguration, the facial recognition facility is yet to become functional at the Integrated Command and Control Centre (ICCC), an ambitious project of the Smart City Mission. The command centre was inaugurated by Chief Minister Manohar Lal Khattar on December 5,"
@@ -118,6 +118,6 @@ related:
         height: 337
         isCached: true
 
-secured: "3FtrPHp8vt0VMEKosJ7xDY6wU1xy+h3W71n2cKK0jCpW0MzUJcLxJ73xoDVSl4zPjzvCugIuIp/XRNro5h7xh+zeYL8hNmXBbaAD43/u1kF/umrCsMuV6cWjmbpTAGyOk58K3RtRS73KT8F9h7jvPcxq0SEp3LhFZbvP0y1df/bTltpa5AZ+h1whwE4h6KIS0PFWrv6P/5uaGVbah1dJpGQh359h1cf9DxV8jPXmuNYoKOf7nz8mvJS405PViYscC97Qb2Z7Ic0ZBNhTIXYrr3WGgOgjdc40/5e3kFJXtEbA2Ze8llVI8nHgO03dY6bf+yVuGZQHQCrd7Pg1q1qt0cSN4qA7+FXSE0/1lBFAdmiiYbI1WtLpqY+hi2CaNhAVY2kz9FKT7gxLnT/yRtVg2MWFQtGuK064ueuzysupV02RbR3aao6a6x9P4acj3uZE7uN7iqtSSEfOYj0KXHOZmEBvQsOTHxk3VfdqnLXnM/GBAbkRLc4NkcxQHvw/G0xHdm1wSPLb/fBVenIkgoqMqQ==;Lm8raNLr5dlGxxib1RCXlQ=="
+secured: "b7HRNbziITYWJO7WLVm6BxEFxHqQW7fEAFdJ8D1mKom1L/89G8VU4S9EyV05BdircURdoR0+x2cYL87gS/UNAMrf990CTq8W6i0J7n5m+7lbpDyF50Uqeka2pus0qm4tHHnokV9yanD4LT+OerXtxB0cUx9nT63cWdl0lHaTdoqsBs7AyIF4rI+ymOs6sq2Vv0i88bqh9E9bjUb/rTrDIn1OlUPVfnRF2plZBEPwt+csijbziLE8PKfyzlM9RoBSBDbd7zCgbPuzsOstuROHqih9fRKxTvYUohUZQnN86mQ1yQ0G9735vY+kp8gEbwslVpRHrh/BAXfV+C/KgpLOLqmaMDP9DBUGhQ4vSbxPOBg=;pV4rmBBaeMnTAxJY8jEKRw=="
 ---
 
