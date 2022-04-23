@@ -1,22 +1,22 @@
 ---
 category: news
 title: "RIT Digital Imaging and Remote Sensing Lab teams with Rendered.ai to power synthetic data with high accuracy sensor simulation"
-excerpt: "Rendered.ai, the leading platform for physics-based synthetic data, and the Rochester Institute of Technology's Digital Imaging and Remote Sensing (DIRS) Laboratory today announced a collaboration to combine the physics-driven accuracy of the DIRSIG synthetic imagery model with Rendered."
-publishedDateTime: 2022-04-22T13:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rit-digital-imaging-remote-sensing-lab-teams-with-/2022/04/22/9587983.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rit-digital-imaging-remote-sensing-lab-teams-with-/2022/04/22/9587983.htm"
+excerpt: "The effort will enable US customers to use the DIRSIG™ model with Rendered.ai's cloud capabilities to generate Earth Observation datasets for AI training BELLEVUE, Wash. and ROCHESTER, N.Y., April 22, 2022 /PRNewswire/ -- Rendered.ai, the leading ..."
+publishedDateTime: 2022-04-22T13:50:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220422cl33356/rit-digital-imaging-and-remote-sensing-lab-teams-with-renderedai-to-power-synthetic-data-with-high-accuracy-sensor-simulation"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220422cl33356/rit-digital-imaging-and-remote-sensing-lab-teams-with-renderedai-to-power-synthetic-data-with-high-accuracy-sensor-simulation"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI
 
-secured: "ZOtw0XaXxIG4mymLfByBsz0Txf0UhElif6WMyI3UJxGOwEJibpJwKi1SM5zQK+Pcg5IcCultPp1kMV471JRLP0u7pe4nL5GpEIcnZ7SGwV96Sz0JUVbPyvEV7/y1HKEy5FScGg6fSDSwb1lR90xj0Mwr6TKWK+CnbXaHmvgexLeGGCG+zC/zBV9gLvbgU0C5+eERvKptazH3WKODOPP7CjMU/c1+UlbFS+CSm/DXuZKj9jl8KWGmGg4wygf0o7KxotoZmUcyKjKOgH9HgGuY6pyzuFrQ1UCHvzConx/+CbiLCrzsqihbxdyO/RtlQWPIy8vnBvpvnwFE6GnmonXlDKoLo8KPSYEPkC5jtATP0gUGhInhvUJTxTVtqF/Pz/zl86Xp5S8bAf5emgyI+I2B6/WhcOAGmr+0aim7Et/XQGOLGsn4Qny/ipsOkPRsCKtOKDNEcVSA0eJG/PHcyeTc3aqtKxCVC/FPvKhoXDiZWHcPU0Y8c6M3iSbCfjSrNC3XABouqrZCHUMo4aU3XdcJiw==;woG+MppH9lR4EUZ0RJ1/lA=="
+secured: "rRVhi977QV9Ys7W2HLNrQXPHaUxtYt6llC+iNyNESwlaHUH90A2RV5hNiHN0SPtcg/etN55e/sq035xwygsY1G7t16IMAgbRUzwZiCq50cEPnOo+jI/kp8K6VIFM4Q8IG0CCKjIM9K5hNRrEERT8YRTKsoIEwYGwp6vCue+j3LuLF2fhsbeA1FDYyfcPp408S5/p49UXzUobcT6d5xTahtlF+qBOIj5OSJaujvmTzP/9d1dJSnds7UYI/ajuNEJ+2wJejTvr2xPGLOxU3eHzqX/wNk3sCjND8FyHgEppgRYDRW5T1moqEKmUypLnlBDRv8byOdswZRBa8UrAYjQ9De2gUHeyNISB587M93wATmk=;mgtXM9rOaJEnA8muOAefzg=="
 ---
 

@@ -58,6 +58,20 @@ related:
         width: 1920
         height: 1638
         isCached: true
+  - title: "A New Vision of Artificial Intelligence for the People"
+    excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
+    publishedDateTime: 2022-04-22T23:27:00Z
+    webUrl: "https://pulitzercenter.org/stories/new-vision-artificial-intelligence-people"
+    type: article
+    provider:
+      name: Pulitzer Center
+      domain: pulitzercenter.org
+    quality: 37
+    images:
+      - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI"
+        width: 768
+        height: 600
+        isCached: true
 
 secured: "Uj271oVIWpQ9u7JwtjOk5mTHuJAftIMuUTbLGZHCGErHp6BjmmxnPRH0pqC78GGNVv6bh8dIJf6577kDX5HotVpnTkEFTL5ccBRTSGjL1P3JRHqxHvXeT+bWNTrVjtKPWLraKZXBOSiSWqraWp/anlBcvr6JWG2ariJojD7Kz3WwLZeuuqHLshM/dn0ujsuVhABdRhDUYuOcye5eBBzk3zCZiBtwhRmYMlhzCccYaugKz2yMpkTlE5Fc1eCzwp649aE4TfYebrMbFy1nrgjtdEX1uFJ3jkjWr9BR0iqgRGgMhRMbhRPDLeKJLe1CHbyEu0k/Kh/fxt64YI9fj8RbeuLMYjOFPz49L6jjVEEsa5+6ujn8LKHWYZtjlg4NnTgS58a0LYD8Bds2U61TPWUFib82/Ne51cgeS3ZyNoAGVJObz8yiNMzyQFVd4fJ/BRCAUNBuOufYTIhF1d8Sv0PDnlsdre4MqJuaHvsRTUqqn9+wtt/zAnZtokNq+YVrA9B7t4xJHnqRrqjxo/wa/N/ngg==;t/l+MGWF5zny70F7HnC5UQ=="
 ---

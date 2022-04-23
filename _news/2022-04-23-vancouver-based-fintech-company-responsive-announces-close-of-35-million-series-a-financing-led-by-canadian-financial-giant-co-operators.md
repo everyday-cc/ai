@@ -3,8 +3,8 @@ category: news
 title: "Vancouver-based FinTech Company Responsive Announces Close of $3.5 Million Series-A Financing led by Canadian Financial Giant Co-operators"
 excerpt: "Responsive, a fintech company that leverages machine learning to help financial advisors to better serve and engage investors, announced that it has closed a $3.5M (CAD) Series A round led by Co-operators."
 publishedDateTime: 2022-04-22T20:40:00Z
-originalUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm"
-webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm"
+originalUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
+webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
 type: article
 quality: 0
 heat: -1
@@ -51,6 +51,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "3V2dICubEuoSDkZEa8Jq3JyZXLy5o7J91+RI+stios7Y+uQb+MvK0wQ8ZktFdTwU9Kn5cHgHHGCHhD7c6l02DGfKBY0oHcDZB4OoyrAMlgxOmAAnQnSZ8Ai4M7I5zjfz+sK0Y4onxa/YHy4IkxJrcoqdjCqzrDff6YK9fB0M0sDrsQra5G7EMwi3vCoaPIFvGKZOT6xNwdw5GcaNpMKA2ew9ecLirSnFINFKTYdj+QrbvHGEMcaPWQqwiV2z5+1641SrCgqd9xFUVsKMshFVognUCOlAKFOs6smOSmjl6BSOzufDudJrAlWDt6FBYwS/Mo1nD2a0MNlPOrRp/9Rjzjjt0YOkScqYmfpoMNB1DlQ=;cjmZUqY1jyODRisBYTtt1w=="
+secured: "MoI1UpcKlN05+oRus/rBj47Bbwh9wGuTDLcSimCIoptsf9uRGgqA6UfG7q0NrCItUL1ng52PgxZcoUf6+/lKfaeqN5lXBkOmtuvq7L/AcbEzDDTt7GD+GnZ+r7eXhBe271b2kRK4tkEekWzpQ8lgm3t7dYOPLgBIT1gUMJxBszj76+QdZlIl8ri5PI6mEvxgb2YwtQAWG7IKDAk5d3Yqdv97QBORvyyWQUpeEN1PzczQRSFk3ndJQZz7TBp0oSaUcYfZLXcLSSelipjgHzu0XIObllcXhLtuqQtGeAvNxFgq1p01c47zIwcCtbp3IDN/JRSWp4BCQwkeCa/jVw8SeJO7OumxMC4H4EWxC0pBuI8=;ZtVaKua3wfyM8xbzOs1eAw=="
 ---
 

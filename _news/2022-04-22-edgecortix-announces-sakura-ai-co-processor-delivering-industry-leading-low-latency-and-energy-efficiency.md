@@ -1,29 +1,28 @@
 ---
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
-publishedDateTime: 2022-04-22T11:15:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=651113"
-webUrl: "https://us.acrofan.com/detail.php?number=651113"
+excerpt: "Today, at the prestigious TechInsights' Linley Spring Processor Conference, EdgeCortix officially introduced its flagship energy-efficient AI co-processor (accelerator), branded SAKURA™."
+publishedDateTime: 2022-04-21T20:38:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220421CN26150/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220421CN26150/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency/"
 type: article
-quality: 22
-heat: 22
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://mma.prnewswire.com/media/1797952/SAKURA.jpg"
+    width: 400
+    height: 232
     isCached: true
 
-secured: "1N2qLSr1aBCm7xsgZi9PUZk4tOblrkJLrPLetCgxyV08t/mfSMniBU+JczehQ7BLzpummQhjd8JzbqFDHJWlmI7OpdirxmINXqGV5bdxsgL6h8c7otcF8g1OJpoTSjARI9upSR8U3H7u4wOUvQHL1g9beZr8Q3LVenW1UvdJMIRyqRrz0N21e6zAoiFDI02PamdcMJ0QZTvyfLCSFqaMf3FyZ0sgC5AYau7Qh3zxBm3ugV5ju9qSAlvtXzShTS0TdgEV+d8Lsqdyz8BMaEq5ZKhDtDxJaJB9xyDNqlj+ELzjK6k+M/Eh8O/xA+OV/pplXoHypI2lqUsf6hWxblr6u2EU8anSIA8NO+ezuoJLbF4=;wQubIqqV92yn9elDhZcn3g=="
+secured: "rCldK/Exup7gTUfp8x3nSf1+5GPgi5n2EIL6YAg2SHRyfd/4CbsNUzOh0/tyZElzxyRC/oTl8gWZR7MwZz6c2qInQIK3GnM+IzIBby2P0hjpSIRx2hfWSc1GzIDSTPr26RCDEZakVkcgDk2+wQzQBP3LkAby7YnliBoKIRMehmUGwPsTOdCHznmDfkrorY4DdKwmykCaRT8MAq73gWHaUzYPZycwQ6ZHDbiP1QghB8ax6f3MzYg6SiXXHV1DyP191Ug27zjELbuBt1NpMuuCqlG2IQ80+RPBFjzUeorVKMxfNm/znxHxuul9p49QcBaonUKX4bvIVmGxxaxVdOu0jyQIVd2KpVux+snnm120p8M=;YDAHcP/v5YA/JjTolO4gIQ=="
 ---
 

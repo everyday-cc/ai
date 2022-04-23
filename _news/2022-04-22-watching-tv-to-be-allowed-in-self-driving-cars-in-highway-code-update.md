@@ -427,6 +427,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tech: Watch TV in self-driving cars, unions coming for Apple"
+    excerpt: "Sit back, relax, and watch TV while your car drives you  New rules for fully self driving cars in the UK will let the driver watch something other than the"
+    publishedDateTime: 2022-04-22T23:15:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/saturday-morning-with-jack-tame/audio/paul-stenhouse-watch-tv-in-self-driving-cars-unions-coming-for-apple/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 24
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/5693/people-take-photos-of-an-apple-store-with-their-iphones-logo-generic-getty-imagesjpg.jpg?mode=crop&width=635&height=395&rnd=132951850615530000"
+        width: 635
+        height: 395
+        isCached: true
   - title: "Highway Code rule changes will let drivers watch TV at the wheel in self-driving cars - but not use their phones"
     excerpt: "People could be able to watch TV behind the wheel should self-driving cars debut in the UK later this year. Vehicles with automated lane-keeping system technology to monitor speed and distance from other motorists could soon be ready for use, according to ..."
     publishedDateTime: 2022-04-20T09:40:00Z

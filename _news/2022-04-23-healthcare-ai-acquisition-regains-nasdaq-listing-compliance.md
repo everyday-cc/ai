@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3825944-healthcare-ai-acquisition-re
 webUrl: "https://seekingalpha.com/news/3825944-healthcare-ai-acquisition-regains-nasdaq-listing-compliance"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 1200
     isCached: true
+
+related:
+  - title: "Healthcare AI Acquisition Corp. Announces Receipt of Nasdaq Continued Listing Standard Notice"
+    excerpt: "Healthcare AI Acquisition Corp. (NASDAQ:HAIA) (the \"Company\") today announced that on April 19, 2021 it received a deficiency letter from The Nasdaq Stock Market LLC"
+    publishedDateTime: 2022-04-22T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/04/n26772042/healthcare-ai-acquisition-corp-announces-receipt-of-nasdaq-continued-listing-standard-notice"
+    ampWebUrl: "https://www.benzinga.com/amp/content/26772042"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26772042"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "5WK5HG+3sOvLK/LIr7AzrMIP3Jj94P513WUrbo6bgxiiJ12Spze2yIvm0c4C2cx1KTeSjr/r7V+VN5dJ9pPhCbeBku4fcgjG7L0aoKGm0g7k462ak7GlQL7e3LmbU62d3kltbd+zbj8SqbnkhxvyAn8mp2rgtg+QWd+SI3Sg3j6FdmSnG25zAYM9drYoHhoQfRcuZLTyOkSglqpfL5ChYtSWWBWghf5hmXMnePg7R1siZm3Mlo4WUeHlRL7dIEsyKGKrFbZyC9RBoFDQjdxIZKSaH3ht+mK3cyfk7IQHZQtd9hVWVYyFVqOf7Y1TylCyGzlGqNaiFaqvM/wVDITHVhCMtPKoCU1IlZ1As9SvsgI=;WUcHjTlDTOGUUbwmC/bMDw=="
 ---

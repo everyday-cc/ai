@@ -42,22 +42,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Expertia AI raises $1.2 million funding led by Chiratae Ventures, Endiya Partners"
-    excerpt: "The HRTech SaaS platform plans to use the funds for assembling a team of AI researchers and software engineers and creating brand, product awareness in the Indian market."
-    publishedDateTime: 2022-04-18T06:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/articleshow/90905770.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/amp_articleshow/90905770.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/expertia-ai-raises-1-2-million-funding-led-by-chiratae-ventures-endiya-partners/amp_articleshow/90905770.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71380,msid-90905778/expertia-ai-cofounders-kanishk-shukla-and-akshay-gugnani.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "EXPERTIA AI raises USD 1.2 million funding led by Chiratae Ventures, Endiya Partners"
     excerpt: "EXPERTIA AI, deeptech virtual recruitment platform, has raised USD 1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini."
     publishedDateTime: 2022-04-18T08:51:00Z
@@ -116,20 +100,6 @@ related:
         width: 600
         height: 207
         isCached: true
-  - title: "Virtual recruitment platform EXPERTIA AI gets $1.2Mn in seed to grow business, hire tech talent"
-    excerpt: "With the COVID 19 pandemic pushing literally everything virtual, recruitments and HR industry in general, also sped up their transition to a virtual environment. The largest of companies have successfully onboarded candidates through completely virtual processes,"
-    publishedDateTime: 2022-04-18T05:58:00Z
-    webUrl: "https://thetechportal.com/2022/04/18/virtual-recruitment-platform-expertia-ai-gets-1-2mn-in-seed-to-grow-business-hire-tech-talent/"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 25
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2022/04/virtual-teams-he-the-tech-portal.jpeg"
-        width: 960
-        height: 576
-        isCached: true
   - title: "Nuclia raises $5.4 million to advance AI data search capabilities"
     excerpt: "Nuclia, a startup offering AI-powered data search, raised $5.4 million in seed funding from Ealai and Crane Venture Partners. This seed funding round will"
     publishedDateTime: 2022-04-21T16:23:00Z
@@ -139,15 +109,6 @@ related:
       name: techzine
       domain: techzine.eu
     quality: 17
-  - title: "EXPERTIA AI raises $1.2M seed funding led by Chiratae Ventures and Endiya Partners"
-    excerpt: "EXPERTIA AI, deeptech virtual recruitment platform has raised $1.2m in seed funding led by marquee investors Chiratae Ventures and Endiya Partners."
-    publishedDateTime: 2022-04-18T06:47:00Z
-    webUrl: "https://www.ciol.com/expertia-ai-raises-1-2m-seed-funding-led-chiratae-ventures-endiya-partners/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 11
   - title: "Blue Spark Technologies Raises $40 Million in Growth Funding Led by Ghost Tree Partners to Advance AI-Based Remote Patient Monitoring"
     excerpt: "Blue Spark Technologies, Inc., a leader in wearable remote patient monitoring solutions, today announced that it has raised a $40 million intellectual property-based debt solution to fund growth led by GT Investment Partners with support from Aon plc."
     publishedDateTime: 2022-04-18T11:04:00Z

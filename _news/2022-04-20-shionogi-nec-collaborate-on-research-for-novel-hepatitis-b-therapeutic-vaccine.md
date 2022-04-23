@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Shionogi and NEC Enter into Strategic Research Collaboration for Novel Hepatitis B Therapeutic Vaccine"
-    excerpt: "Shionogi& Co., Ltd. and NEC Corporation, today announced the execution of a strategic research collaboration agreement for the development of a novel hepatitis B therapeutic vaccine. NEC OncoImmunity,"
-    publishedDateTime: 2022-04-18T06:03:00Z
-    webUrl: "https://www.nasdaq.com/press-release/shionogi-and-nec-enter-into-strategic-research-collaboration-for-novel-hepatitis-b"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 18
 
 secured: "9DD/NVa6P09OU/WiLBNG6ex2O/WTpzqLBgNF5cKX0nLR21N8uL86O7E78QVRgfaEQnJNqOteSnlwjTC7uZjaqLxdO+UAD5acVsjfCLoNkHeqKLLduu0q/Z/qBK3FWPD7u3udQx0Dc+bKgpg72QQGjmqxPkWLlZAlhetFLSkqZun3Q8IUnm98k4LkjAknsl/PxM6LEVK+o1kWWGefDz/0ZCn1iElaDjSg8aDP7ymZCjBO9Wjsb3X+a9+Op3tEN9gPmyMAXQfWiV12/LbCMlws3tGWm05/L0A0ckkNvuPH6ZrwRoU8fEjEMVzYxuXnf2zoOkw5te4nVH4RQg/qx6+cHhlxy40yJeglyj2SJM0Vo94=;1AiQv62Yvqd6/0+u3uz2oA=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
-excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (\"AFCP\" or the \"Company\"), a company engaged in the development"
+excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (\"AFCP\" or the \"Company\"), a company engag"
 publishedDateTime: 2022-04-22T11:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26757149/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/g26757149/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
-ampWebUrl: "https://www.benzinga.com/amp/content/26757149"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26757149"
+originalUrl: "https://www.wpri.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
+webUrl: "https://www.wpri.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
 type: article
-quality: 55
-heat: 75
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WPRI 12
+  domain: wpri.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2016/04/generic-airplane_37034160_ver1.0.jpg?w=2000&#038;ssl=1"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -57,6 +55,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VfitGNSRUVpkbScpQnoz42rq4Xn6p6lNOdCm0BWIfjSr7AjPuy+pRAsY6achYYt9kR3PVS7BYPfedG0MZN58ujx1TnqmeMkH4C1BgPz68ksVcqP+YEwfxzm7d5P67kR0zE7HOVnosoGWYFHFC394Hfsi2+DwEfTgT8cOheAZFYkbHX0gymkOsOcrrdE8ju2Ip0xmJurKECsgDc0t1hIHop+KuJ9UVIGxLCQT00XORflhrunoaX400d3ZKeAcDIP521kdG0G2+Qi4oBFdsxrzGR6fJl/F4H5VQoMbwTObb2JEau5/lSlI+p+ehtMy19wFOYiNRyfDi+EEGUssO+VmqbglySmJ8fhScOboL8VYcBZP3SRj1ZqkjXXwGzVCjE+z+l0UxaRx3e9LKMxwn1JGMQjevYk+IQRxjuLwbxwqDwVdmQ6FQVUg3ASom6y8eSbc/e+shaOvRd6sRZRaYgwyOMYEIf76XMRb0QGEsfMHGVge2A1rpRr64JN2TQmNNMCKO6DbAyasfjzD+0SGJFyQ/Q==;vHCV5aP7f2uPseV2psj7WQ=="
+secured: "2rWRV8qd9xfte/FEQjFRmDtqif5Fd4+ySfjeE2aOTe7NFvpEjp4/kLUcEE55ND5CIOIv5m9wIFBNfq1HFcBsqi+l6La1UXCZXbd93+OhijF2pX0bz5dZ5bwILji5Y039NzvATpzGWcKjbuMeE40FXfTWyhwj31adyx47OoHfJDS9iAjloaiTEMg3YbhZjUc3U8tEH5iEKjsrKUwvAgn4E/dgQeipcqTxJu7Vvv3c4kqEKZE1YTPh8NPqYS1WOjF/xYRLVBIl6XOC7u6b0klLzUEMbZbUbW1lZbB4vBZeUNLwNFwTQMtxpC3j+c2FxirUabMb+JoHDgsPESXwYMf9U6EIInq5B/Xmtr+YiVx2WQE=;8lyfTtobOfhXf/QcTlSPnQ=="
 ---
 

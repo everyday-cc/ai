@@ -2,25 +2,21 @@
 category: news
 title: "ETHICAL AI GOVERNANCE GROUP (EAIGG) ANNOUNCES FORMAL LAUNCH; UNVEILS ETHICS MATURITY CONTINUUM"
 excerpt: "The Ethical AI Governance Group (EAIGG) announced its formal launch yesterday with a mission to promote AI governance, data privacy, and climate technologies. A special event was held in partnership with founding member BGV to celebrate the formation of EAIGG and to formally unveil the Ethics Maturity Continuum,"
-publishedDateTime: 2022-04-21T20:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253"
-webUrl: "https://markets.businessinsider.com/news/stocks/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum-1031373253"
+publishedDateTime: 2022-04-21T20:05:00Z
+originalUrl: "https://www.wate.com/business/press-releases/cision/20220421SF32605/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum/"
+webUrl: "https://www.wate.com/business/press-releases/cision/20220421SF32605/ethical-ai-governance-group-eaigg-announces-formal-launch-unveils-ethics-maturity-continuum/"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WATE 6 On Your Side
+  domain: wate.com
 
 topics:
-  - AI Ethics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://mma.prnewswire.com/media/1802125/EAIGG_Logo.jpg"
@@ -28,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "EThYLvs/e+cLX3JVWxd8srN6iuNv8lTqHo2gO6DmEdfypy9iDP4D75M0A88XZoUeyCtUmellW45nZ2Li25GGhMuyVARHGpjZhvk8aqqvAnTaEllHyqF2HEco73HjGYGApXeju+Z6pPVspr/f7MktSzmVvWhX0tbyEQUNcIk7r+tVzp/wpybOGWKH2tpXkbAsZFT5+STmZ4sqfM2jmNhGXXctrLfF2ay/N4YmFg7AkCK+1M5qxgyGrC0uRh6Ynb55IT7u4bJYoMvPZ2fBsMl/HtTGvDsMxAfC2S54AvpKVuqSaYk0gFUyqIMGwoyJGJ4h6R1olCgdr4xWshK3zr5JAoJJ1/o0orI61mQKJ9LcWFZsRvjsBOibDrHm+R2OzJlE+gzT8exzwoLcTIbtt9b/i5W1N8g3Ska7ozVqpoGK7oI7YTv1QGCxlQysaXXt7RxhYWW9ivqjNAmG5eLQWmh7XUkbYlZCtNEuObpRqAaEj/bNxKsL3xOS361eymYW1vuVsHCz+0d5tqxBQk5yVY0iBw==;QHIkoDL+0XPZSyhnGI49VQ=="
+secured: "VuEkZav4IAyNn3BDwomydUnFdbhWNzT3zUDgc24khYypHzGwTgJEml/Do29eMga4+dIFC78z+GjulIDt3qCsLFuJzbRhmMM0afUN+zC1j6lM2AgyFYEevHcn3rKJ8NBrYeYsLFCLsNHUQCtwr5fsu8TK0PW1XkQCIsPMYEgmFxIIU1KMIttuP7M//rEEsM5RycmOEJ7oYHPLob9fcZNdxNPYU4qGnYJXG0/GO46JhWbj82SMC57jUmZzLKhzPf7ltR/a6S+Ia5Y1huI6MYSJ7g+0R6bX6uvF1SBTSCaZMW5T+IPshopWZWGzGjuAmJlNCYcV+k2iHonMHdWnTIgy/DXM2DJIJeAcjI8EFPbz0ks=;O2e36RxrPeVstJtSBs91CQ=="
 ---
 

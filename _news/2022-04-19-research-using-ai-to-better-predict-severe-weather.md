@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kjrh.com/news/local-news/research-using-ai-to-better-pre
 cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather?_amp=true"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Spam, scams, and Search: How Google's using AI to keep you safe from malicious content"
+    excerpt: "According to Google, its most effective tool against spam and scams is an AI-based prevention system known as SpamBrain. The service, which launched in 2018, can identify spam-filled sites up to six times as fast as it could in 2021, reducing hacked spam ..."
+    publishedDateTime: 2022-04-21T16:00:00Z
+    webUrl: "https://www.androidpolice.com/google-search-webspam-report-spambrain-scams/"
+    ampWebUrl: "https://www.androidpolice.com/google-search-webspam-report-spambrain-scams/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-search-webspam-report-spambrain-scams/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 49
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2018/10/Google-Logo-G-inside-of-hardware-store.jpg"
+        width: 2738
+        height: 1825
+        isCached: true
   - title: "How WebAwards Is Using World’s First AI-Powered Jury To Better Judge Websites On The Internet"
     excerpt: "There is something on the internet that people use daily, but do not appreciate enough. It forms the core of the user experience in cyberspace and has seen a myriad of changes since the very inception of the World Wide Web."
     publishedDateTime: 2022-04-20T04:34:00Z

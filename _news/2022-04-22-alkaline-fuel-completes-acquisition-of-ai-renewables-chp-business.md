@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
-    excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (\"AFCP\" or the \"Company\"), a company engaged in the development"
-    publishedDateTime: 2022-04-22T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/04/g26757149/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
-    ampWebUrl: "https://www.benzinga.com/amp/content/26757149"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26757149"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Alkaline Fuel Cell Power completes acquisition of AI group's combined heat and power generation business"
     excerpt: "The combined heat and power generation business has a pipeline of projects, that once secured, will provide additional sources of"
     publishedDateTime: 2022-04-22T17:17:00Z
@@ -55,6 +39,20 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC9TY3JlZW4tU2hvdC0yMDIxLTA5LTA3LWF0LTEyLTQzLTU2LVBNLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
+        isCached: true
+  - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
+    excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (\"AFCP\" or the \"Company\"), a company engag"
+    publishedDateTime: 2022-04-22T11:00:00Z
+    webUrl: "https://www.wpri.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
+    type: article
+    provider:
+      name: WPRI 12
+      domain: wpri.com
+    quality: 35
+    images:
+      - url: "https://i0.wp.com/www.wpri.com/wp-content/uploads/sites/23/2016/04/generic-airplane_37034160_ver1.0.jpg?w=2000&#038;ssl=1"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "m+Gg+9pjCq/8QVV7RQOg0rw5QxPUNgFpQ7EQU90m8MkydOnhxr2jZxgMUYOsUnbYRWw1JD/avG2ONtC9mTbBhFq5569GwsVfqFfRtNEJ6/QmN1yOCeQ8HeZ1NGcEjoxOlu27CQm5Y3UIYGtJ5e3cVnO54Ndkwmi9EboSVqnsgubFZL3Yb9w9BvLphQCVkObDMWRl0DQ9sY6eGqRelm6BIyLIw0MQzuStKU27d8MDffYOgXxEq6KA5YloOKvL4Hl+0c12lnSD5Qwodb8SzLb6USQtDFZU7NupTi5dOjmKkU2hkZPv6IlCukdPDXSG2DZSQEH/JfPSkTtYuvjxYONS+cckkxtVtd2CIa4a1dlmv/g=;ZHWGVTCUJTYXlcX5NNwRLw=="

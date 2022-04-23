@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-19-instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis.md",
+      "title": "Instreamatic launches voice AI for real-time customer sentiment analysis",
+      "excerpt": "Using Instreamatic's voice AI, Speaky analyzes in real time the ideas, advice and suggestions that customers communicate verbally.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
+      "originalUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1283399887-e1650300137284.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/instreamatic-launches-voice-ai-for-real-time-customer-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-04-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-research-using-ai-to-better-predict-severe-weather.md",
       "title": "Research using AI to better predict severe weather",
       "excerpt": "Researchers are studying how AI can be used to help human weather forecasters predict severe weather events faster and more accurately.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.kjrh.com/news/local-news/research-using-ai-to-better-predict-severe-weather",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -646,7 +697,7 @@
       "originalUrl": "https://www.ndtv.com/business/recruitment-platform-expertia-ai-raises-1-2-million-in-seed-funding-2896919",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1147,49 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-palestinians-clash-with-israeli-police-at-jerusalem-holy-site.md",
-      "title": "Palestinians clash with Israeli police at Jerusalem holy site",
-      "excerpt": "Israeli police confronted hundreds of Palestinians injuring many during the altercation outside one of the city’s holiest sites. The clashes erupting during the convergence of Ramadan, Easter and Passover are sparking fears the country will spiral into more violence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
-      "originalUrl": "https://www.nbcnews.com/now/video/palestinians-clash-with-israeli-police-at-jerusalem-holy-site-137843781578",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_04/1650076264289_now_topstory_ath_palestinian_clash_220415_1920x1080-s9zxot.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo137843781578",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo137843781578",
-      "publishedDateTime": "2022-04-15T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
