@@ -1,31 +1,23 @@
 ---
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge"
-publishedDateTime: 2022-04-21T20:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
-ampWebUrl: "https://www.benzinga.com/amp/content/26750850"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26750850"
+excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
+publishedDateTime: 2022-04-21T20:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency-1031373263"
+webUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency-1031373263"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "fpsg3oPlBxL5/2MrSSxaMZ11oLS/+Pn+Xeg12QPtvwM4rIdEkmGi0j4qX8saa6WvhYgNXegpA0bquDte/JSlVN0/Rmg2TGhY8I7DQ/+dtaJlMwuOE+eY60EGUz46TpoxDQkRfLVOoORobysKfrUmV00xSgQtdbKvIKEFo7/slPFyReWzUEueNmOd3JqYaAvuVuiWOsItxrfZO61jzvBzZnuFRMpfhZ/svNH/M+Xo1xqbC78gzW5HxHRRkPNKkIk3gOUwW2vkdlnmcQte/1MIfy0kf6eNyqrhy8poa3kPllNG4fEVDPsskfNxXRPCG2hKCqnX44DGswWGvceKtUejDPr/XZ4WW6ghRAPCqI44SyY=;/ClYJnSALByJL/emaiX/VQ=="
+secured: "2+DB5NT5uGquz+SsdQ5Ajif/7zLhhS0BTRuv+oHpd2FC0Z++lyisC4Hx6WTFg8lR2uZcXTklCv63PKFSR7btLBJfFD0exGdoVnFwoxBhS3PkrofOHiSVXPW5KlPIrv0rtEgCTn93W/w+ncSDrpA2a7CKlLh8mPrRyXWP/xgAZ/pV8fxiOErXD5bsLmqLJe77A+oCUD1GcKtfEMkBmScOR0YFxLsPY2MnlRsl/xg4XO3/4ChvZbujmzri1dwhVYg83/Nfmq1SZb5b8Jz7bCSN2laPS5PvBcGCX5JV/r05Rx3egQr9P9CN3utGFHwiSdCZK9Kcj1QonhKLyYwuIv8W3YukmOd3g3GioVER0u67bBI=;zJJgkAuwm6Wy2COlp2e0zg=="
 ---
 

@@ -3,12 +3,9 @@ category: news
 title: "Artificial Intelligence Is Creating a New Colonial World Order"
 excerpt: "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,"
 publishedDateTime: 2022-04-19T17:27:00Z
-originalUrl: "https://pulitzercenter.org/id/node/26547"
-webUrl: "https://pulitzercenter.org/id/node/26547"
+originalUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order"
+webUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
   name: Pulitzer Center
@@ -17,39 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/shutterstock_2122981079.jpg?h=790be497&itok=juXEcP9M"
-    width: 768
-    height: 600
-    isCached: true
-
-related:
-  - title: "Artificial intelligence is creating a new colonial world order"
-    excerpt: "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before."
-    publishedDateTime: 2022-04-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/"
-    ampWebUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "AI Is Creating a New Colonial World Order"
-    excerpt: "Artificial intelligence is enriching a powerful few by dispossessing communities that have been dispossessed before."
-    publishedDateTime: 2022-04-21T15:55:00Z
-    webUrl: "https://cacm.acm.org/opinion/articles/260261-ai-is-creating-a-new-colonial-world-order/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
-
-secured: "eOc1/TgpJZ22RKJt3KwBgOtn3/Lf5+nDTAp0+B7oMa/hiVcthfwZIFqZ+/0NxCcr6SDm4zgC8FvXlEv9EodnwMwl6+I3GE5eIHa97UstX97UxrPCby7qsoxWJ6MVXrwZ2cTwqe+J7IV434UP5YOdFEj+C4avJW4kqErDRiahv7F+zDkjj3lAygnAIhj5sDsW9D2S+R7afdR84aN48taeejUnoosLZTJklo4HxBi2qmTQarPiHUvUriCM88kPe5iBqqFeT2Chk5uhc+1efhg9OxHo9pDbUcWkMwodFFHzgNoWMbXdZ0+OzV1b6yqQMi5x7keL5jsE4qpQ+MaMMh7fNviaI2/RVKqFquvnVTPrYVk=;Jlx5SMS16+obx8E9UDrRcQ=="
+secured: "jnumJaheaLvt90wfOWMp614QXL6Z+bRsVl9Rh57qmOHdTcXnaZyImHMtDBAgKFoItfRz7VH3wIRXxZYJsi/nKn2BWwwIhY4ayop3oVjyKK7JOm9olEsHdzhczRE5a07qW0rBGhVkltHufXiZdI5Ag6yzlrSofQFjNmyZbJHv9gysA4gUlIdxRlm3tOSyesoHpiJrVGkNih/Aisdu3kYnSHYmVsYTK7hW7otEL0nm9sJVHbVAOthUnRTPtabW53bINx/pQXnOWCyuiiZDBhPQQHvwifDB/0c8Eq3RT7+yDfEIaZU8+5+8qO1PMr4+g97dTuW8bp8j7Q95qlvf4kZDrj3eBs39gKS5NCnpLGCe9QLwRxUKGjtiK9FFLTU07m0x7LRMwEJvpXAHnHI9D6ijJflx4Sdp/CnYH6/ebRKJKnJ7UmGqEN54zHgwQX6WGmBqDL+YJILsN+8eqj/FaR4Wt461dxH2LmFV21g4HgV3o6qlggUWu1XzwOTTycZGsOFFFEEgsAUvbgGJbz0Hx5YnbQ==;02gRkpXOCldYzAZId+MFyg=="
 ---
 

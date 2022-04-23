@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence may take your job. Some lessons from my grandmother"
-excerpt: "My grandmother, Claire Hastings, was born in the 1920s on a farm in Armidale, northern New South Wales. That was a relatively common thing, with just 43% of the population living in cities, compared with more than 70% now."
-publishedDateTime: 2022-04-14T13:28:00Z
-originalUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
-webUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.html"
-ampWebUrl: "https://phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-04-artificial-intelligence-job-lessons-grandmother.amp"
+excerpt: "Up to 40% of all jobs now are tipped to be taken over by AI and robots in the next few decades. My grandmother, born on a farm almost a century ago, has some advice on how to cope."
+publishedDateTime: 2022-04-14T05:23:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
+webUrl: "https://theconversation.com/artificial-intelligence-may-take-your-job-some-lessons-from-my-grandmother-181169"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-26.jpg"
-    width: 1356
-    height: 668
-    isCached: true
-
-secured: "dVIqF+ksU1Z66idG8n8v1tCcpcJYgrG1MUhMqHRJ30+Ur9f8L4eDRZMQyz61FdHYl202Bj+DYqzH34B9lRFR6X6BTToxhDkMz3UpGr/gJXU17zqzZ1YqY29VBDLGpOWaDgAH7KRO6BjoKkf1GYlpfZ1SpLQdJE5okZ3lIgIg1fi8CEmaLa4rxvz3uI18UbMxk6pOt6RwDCLmkzKgYyNN50tnwSQHkcanqdibYCMvVXCRURppWIezHjcoGuJPxbyR/NBbcSCvWgNTu40dwyrAzdeJcmDKkFBg1bYcj+2aA9bjiKoS+iM/6iMxOJIstAkPtSQBVv+u0X8t/H1I8lpS7msEUmjbeO96O0VtCOn4M78=;du26/hXgYnwmBvLVPB5zBA=="
+secured: "Wgj7kgOvHluq1sfe2GUOHwG+ZClgiPsLm+As4Res+AxKdAWT34rYV6yNRmP6dKXX5KyLrh4GFCcUozftO5p1caRgTk5ftGbMYd2TTDgqXia2l8QBvchR3hlea73fvzpk8wdLzzO8H4SFEdddV+eUVoYkZJzH6y962pZjv8dVLpCRxcs3lGRAvz7YbaAr89CbYycW4UNDFPTaQbSHHMsO1KbjJi9b19s4piyJhP/dwAR6XDhBlGSUQuCI2T5IrqLXyxfcb18dXjBFeqIc+Y0fHmQkMFbQXacq6eV58dJAFIOsKUdXM0fvVZQd/b/1yDfRySGsyMPWog6xvChR/Qdu6YP/2K6h9eBaaBkrFgccarIQhGYBTKCpm3VSz9r1NebXcbu5xtA+eN6aQgrmXG52Pej3La2idYSE71ddCGZqhJLyANA/FbenqB3bd8oOZHZSdZ1aTCCYtalWCia+/GnxPetNPp1aaUSgr/7JYwDjCK96BybS1popagF0/adK9w61QvfxT1C4srf5CeJtSeQJog==;VkzKqzdLSSRJ1yfrYFfX2A=="
 ---
 
