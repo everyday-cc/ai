@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-04-07-7-virtual-reality-stocks-bringing-web-30-to-life.md",
+      "title": "7 Virtual Reality Stocks Bringing Web 3.0 to Life",
+      "excerpt": "Virtual reality stocks are becoming more popular due to VR headsets and videos. Investing in these stocks can have a lucrative payoff.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2022/04/7-virtual-reality-stocks-bringing-web-3-0-to-life-fb-msft-aapl-googl-goog-nvda-sony-mttr/",
+      "originalUrl": "https://investorplace.com/2022/04/7-virtual-reality-stocks-bringing-web-3-0-to-life-fb-msft-aapl-googl-goog-nvda-sony-mttr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/07/virtual-reality-stocks-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-ai-predicts-ifand-whensomeone-will-have-cardiac-arrest.md",
       "title": "AI predicts if—and when—someone will have cardiac arrest",
       "excerpt": "A new artificial intelligence-based approach can predict, significantly more accurately than a doctor, if and when a patient could die of cardiac arrest. The technology, built on raw images of patient's diseased hearts and patient backgrounds,",
@@ -1075,58 +1118,6 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-the-sounds-of-the-ai-benchmark-war-crickets.md",
-      "title": "The Sounds Of The AI Benchmark War: Crickets",
-      "excerpt": "NVIDIA once again dominated a near-empty field of AI competitors in MLPerf Inference V2.0. Let’s explore why other chip companies don’t want to play. Industry standard benchmarks have been an important feature of the IT landscape for decades,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/04/06/the-sounds-of-the-ai-benchmark-war-crickets/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/04/06/the-sounds-of-the-ai-benchmark-war-crickets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624c77f934404a40dbcb8b21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/04/06/the-sounds-of-the-ai-benchmark-war-crickets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/06/the-sounds-of-the-ai-benchmark-war-crickets/amp/",
-      "publishedDateTime": "2022-04-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

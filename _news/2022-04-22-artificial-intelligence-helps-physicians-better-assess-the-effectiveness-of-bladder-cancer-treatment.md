@@ -49,15 +49,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 35
-  - title: "AI can predict adverse impact of cancer treatment on patient"
-    excerpt: "With some substantial development in research related to the area of cancer, the world has been observing certain changes associated with the treatment process, therapy and also drug combinations."
-    publishedDateTime: 2022-04-19T18:55:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/ai-can-predict-adverse-impact-of-cancer-treatment-on-patient-738853"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
 
 secured: "zAMFBIA025aQXhZzyU/dlpKNVZz7nmRrR4TgZhDUFHk09iDRAhHv4mt4JFNwPnrY4vcr1cZLwGSKiuz0goONCBPn6MYvLOg8u5LG7p6/DIIy0Al8pZV/r5yE33ocymwrVcpZ3wQkYt6CSp1K96Q0mssPQSteNc/0Cq1MO+86BR1LkW1JBdgakSE9oARo5PYUqfta/fo7NHW+/0y8LQvWKkE/lHpGHUMxy2dI/U7RAcD5CuR4BZN1On+aCAOB1Pge6Q9VZS3HeblAPxDhoXIK2iU9xvjRE90f7HcUYO3D/aMiNWVGVuEVNcVzmVL7Bx9JJKuxJzNc4Uh4RaPAxsXiGoPOiYsXLeX6SxRN9Tlp1k8=;iBx+kMwd5jV1Y9JfpzbAxg=="
 ---

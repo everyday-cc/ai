@@ -45,15 +45,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 32
-  - title: "AI can predict adverse impact of cancer treatment on patient"
-    excerpt: "With some substantial development in research related to the area of cancer, the world has been observing certain changes associated with the treatment process, therapy and also drug combinations."
-    publishedDateTime: 2022-04-19T18:55:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/ai-can-predict-adverse-impact-of-cancer-treatment-on-patient-738853"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
 
 secured: "Xn2xlTUlu+a468KKr9YDEfhV5RLU+6sESzG3OzFOX+1yA03FdHhjZc4NZfw5LqTnzjjoNqZ4c6DGPR/0Ft0kM8siy/+OvGjFsaTwablOgR0pzxODwuB8iwT74YFCoKGY8OiM1PyQ0DCQUzGG9+hNEhR7T9mu09AdkUtclI13xqHVFVQ4mrWQFLUJrP0vPlw2h1t8POgB8SmOad3tJXa6sXbZhxxUMImFeTvQOlkNO1Kr1eWeH8xg4/Sal3Fju89MG6Xay4etzNE4wQ/KcsZ/7BFCLNbqLDKQhM2WlF2zbDBOffPzQBRMxOseyaKTLPJ+J1u/mGYnJq2+KDRcvWVCiltfiUvkaTM6AVnGwlT1D7k/SACNWXPN0/1SMPzquoCRol0xySexPUwPyDSV+duvmdn2t2OnL5+nUF9jWA38hKLrGRYF3rLi4iVWZ8OBDqWTVSc8FAY3YLAJM7mTqqI/LiaRq1o1PGa1E0Y492MDjDd/V711Qzh9WdlwAFsvkDZYmdOFChQKuZIu/vWEihdPCA==;v8zXA1LTIANfuFjLBIs1Ww=="
 ---

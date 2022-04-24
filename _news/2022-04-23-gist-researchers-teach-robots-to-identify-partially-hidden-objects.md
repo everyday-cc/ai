@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-id
 webUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New method allows robot vision to identify occluded objects"
-    excerpt: "When artificial intelligence systems encounter scenes where objects are not fully visible, they have to make estimations based only on the visible parts of the objects. This partial information leads to detection errors,"
-    publishedDateTime: 2022-04-19T17:09:00Z
-    webUrl: "https://techxplore.com/news/2022-04-method-robot-vision-occluded.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-method-robot-vision-occluded.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-method-robot-vision-occluded.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-method-developed-b.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "New Method Developed by Gwangju Institute of Science and Technology Researchers Allow Robot Vision to Identify Occluded Objects"
     excerpt: "in Korea found themselves facing this problem when they were developing an artificial intelligence system to identify and sort objects in cluttered scenes.\" We expect a robot to recognize and manipulate objects they have not encountered before or been ..."
     publishedDateTime: 2022-04-20T13:11:00Z

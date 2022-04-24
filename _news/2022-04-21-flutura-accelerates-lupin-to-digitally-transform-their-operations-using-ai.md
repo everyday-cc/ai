@@ -18,24 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Next Generation Healthcare Claims Processing Significantly Accelerated With Hyperautomation"
-    excerpt: "PLEXIS Healthcare Systems, a leading healthcare payer technology company and innovator in next-generation digital core administrative processing solutions (CAPS), today announced the integration of SymKey® hyperautomation technology into their Quantum Choice™ core administrative claims management platform."
-    publishedDateTime: 2022-04-19T17:05:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-robotics-698a179b86f88c9e23ab4df8e4b7dec3"
+  - title: "H3C Perfects Cloud & AI Native Strategy, Accelerates Digital Transformation with Smarter \"Digital Brain\""
+    excerpt: "On April 15, H3C held a tech strategy media & analysts briefing to share its 2022 technology strategy with media and analysts. At the event, H3C introduced the all-round innovation in its Cloud & AI Native strategy and technological upgrades of its \"Digital Brain\" in aspects including digital infrastructure,"
+    publishedDateTime: 2022-04-20T10:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-h3c-perfects-cloud-ai-native-strategy-accelerates-digital-/2022/04/20/9585750.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-  - title: "Panera Brews Up an Artificial Intelligence System to Automate Coffee-Making"
-    excerpt: "Restaurant technology innovation and process automation is happening on multiple fronts, now even in the realm of coffee-making. Case in point: National fast-casual restaurant Panera Bread, which operates 2,"
-    publishedDateTime: 2022-04-20T03:05:00Z
-    webUrl: "https://restauranttechnologynews.com/2022/04/panera-brews-up-an-artificial-intelligence-system-to-automate-coffee-making/"
-    type: article
-    provider:
-      name: restauranttechnologynews
-      domain: restauranttechnologynews.com
-    quality: 17
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1800612/01.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "wkIrrLTFR7FGHYqNZ83aW83BNY+5X4LaT36G6vYghZwm41fLy2RYnypB+b7Nj0GtE+A5I7zk5yyC7g9VmzhQds7HJqlcwmN3k7dPqXXfn/gZioFhxlqt7Y54B+8fltDHlp0CaK0t//tE5jiXyBdSH5yYrZFDEkLCVDXiURuBJKzkZXurJP57ti0GHaaUnjady6oegO3qfG3AWOvlFyPric+0jXGH8GEuNcRHhBJxtPBFddQ7DBAk2LPI+/JVUAxYixCjowaKLp5iNzuHiWnSQHjX7lr5bpLTLxokdexde4tnBhAkOrQCSmrqWYBXAKkIPB3rgqVJ9+iHt0ImxF809/7OijciU2GBWTr+D+3s85M=;NEgFoVR+95/DEyqXHVYkrQ=="
 ---

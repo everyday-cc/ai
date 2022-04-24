@@ -24,6 +24,17 @@ images:
     height: 933
     isCached: true
 
+related:
+  - title: "AI21 Labs unveils new system that will change the way AI understands human language"
+    excerpt: "The framework, called MRKL, will revolutionize the way that artificial intelligence processes the way humans speak."
+    publishedDateTime: 2022-04-20T17:41:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-704708"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 13
+
 secured: "2MO/xGqFGQDKW6bFAvI5bLDV+A4rrDlPKbuEjsSxAvke4Dj4cvgCskTb51tjIRp3LFTWFZDlmJU5f19kHqIj3qEis+DcGj4moGhzNxP5kylGHiK6YkzALh1Ilst5b/r1mtI/On6iIdwL2CrUL5AfdiWbmP4eA1jy0HJwLPOFFcZA8S4Ph4fMS8JsEPmH3mO1yzgVIC4lpeLmFZabtpdKdiFaOxI/tSmbNV3Em4oLMbHUKjiLkRCFesOpPrQzvHS5tqlKznoy8dAgKAISNUFlxJLjR0Utu0fzpSvHSHz4l6mU/DDLuLndYcT+eODWBsmIeKXDeMhCmFCF9YPSPvGyliIbIXe3jmqNbGxvH0NPwSuvjHhc3X9hoRjT+98H67PFFtHfqWN+22Rm2lMgy+J3EJHNmYloLTqP9+yd31ehSZJfsLPus5ivpmF06zTSRGRsghy1R+sNWR9MDcMfBeUD3bbLTu0Sy13AFdS+g83//5fUDW9I3S6kDObBk55wMXbJRSKt4KH9DRbDxNbGzRry7A==;2EODfpm70XqkPKruYSy6oQ=="
 ---
 

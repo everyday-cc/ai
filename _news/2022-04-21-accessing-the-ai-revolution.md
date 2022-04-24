@@ -34,20 +34,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Paravision advisor urges new perspective for responsible AI"
-    excerpt: "Everyone can start to learn about and promote responsible artificial intelligence, says Elizabeth M. Adams, chief AI ethics advisor for Paravision."
-    publishedDateTime: 2022-04-19T18:38:00Z
-    webUrl: "https://www.biometricupdate.com/202204/paravision-advisor-urges-new-perspective-for-responsible-ai"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
   - title: "A New Vision of Artificial Intelligence for the People"
     excerpt: "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s"
     publishedDateTime: 2022-04-22T23:27:00Z

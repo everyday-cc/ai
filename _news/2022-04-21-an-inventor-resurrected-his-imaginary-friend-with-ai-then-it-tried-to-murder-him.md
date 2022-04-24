@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-mons
 webUrl: "https://thenextweb.com/news/ai-ressurects-imaginary-friend-as-monstrous-microwave"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 36
-  - title: "Man Brings Imaginary Childhood Microwave Friend to Life Using A.I. — And It Tries to Kill Him"
-    excerpt: "A man who used A.I. to bring his imaginary childhood friend — who is a microwave — to life is warning of the dangers of artificial intelligence... after it tried to murder him. Self-described mad scientist Lucas Rizzotto told his insane story in a Twitter thread on Monday,"
-    publishedDateTime: 2022-04-19T18:18:00Z
-    webUrl: "https://toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
-    ampWebUrl: "https://amp.toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
-    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
-    type: article
-    provider:
-      name: TooFab
-      domain: toofab.com
-    quality: 33
-    images:
-      - url: "https://images.toofab.com/image/57/16by9/2022/04/19/57ab587684384010b6e680393ccf972b_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QKrOQ2h50Hi/jQLRJkX7NX6hD4Ug47YGIgSEwsQOrgj3a0gp9ydh+HYFxIoW9+PmzuzncSv+m3vUTNzABta4YFbxmAkZ7OWPEwzVmNBSwjbSkJFtkm+oSTXHLwI9AdY61sAojjgd30wygRGaxswI902BdrQz72/QKmsdfQSpDMp2HzP2MAo38TTvOC3mCM3sjJEdvFEoPWMfrtvpbE94dIygXQ49sdbiaEq19n/+9UVif9mz0wsGWnfzuvh2cghdXqLf9WA1PMZPGTw7tfLMyn7LrBEJEObf2lujy6r+LCpZt3ArXBsswi4IZyiw2brW6kELmdQPxNXmBuiSpTkIuWnlmJU2SlixZl6JxcIynnYLfan27ajllP3upOvdRF7Rg7z9lWg4PQXfO5oaEPMTiGVjrL+PffC7N5dVTbrm2j11cZHwtidBary6jAwswY4fRx0/9/emloT/a1AP+y97xU868OHJWbKb3XN2/T5JNwHwIhLVpufDqjExDP0/JNEStZPZi1xcvBpLjoAUAhFivA==;ltCmRbbFOcIfqYqog4dCEQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-03-09-natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032.md",
+      "title": "Natural Language Processing NLP Market 2022 Key Players, SWOT Analysis, Key Indicators and Forecast to 2032",
+      "excerpt": "Growing demand for improved customer experience, increasing use of smart devices, rising number of choices in application areas are likely to drive the growth of natural language processing market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2022-key-players-swot-analysis-key-indicators-and-forecast-to-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/Global-Economy-Russia-Ukraine-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-09-in-an-evolving-cloud-world-azure-passes-aws.md",
       "title": "In an evolving cloud world, Azure passes AWS",
       "excerpt": "State of the Cloud survey finds data warehouses, databases, and containers to be the top cloud draws, with serverless and AI/ML rising fast.",
@@ -1127,58 +1170,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption.md",
-      "title": "Digital radar on a chip speeds autonomous vehicle adoption",
-      "excerpt": "A new radar-on-a-chip is on the way this year, capable of mass production and 4D digital imaging, heralding a new chapter for autonomous vehicles and next-gen advanced driver assistance systems (ADAS).",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "originalUrl": "https://www.zdnet.com/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b919c30148a7aa2d2ca7b73f468227fe0cb44a40/2022/03/07/9578af55-0abc-4222-8797-967debe060e6/uhnder-radar-on-a-chip.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/digital-radar-on-a-chip-speeds-autonomous-vehicle-adoption/",
-      "publishedDateTime": "2022-03-08T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

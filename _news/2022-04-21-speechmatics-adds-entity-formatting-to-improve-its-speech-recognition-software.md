@@ -34,15 +34,6 @@ related:
       name: Cambridge Network
       domain: cambridgenetwork.co.uk
     quality: 21
-  - title: "Speech recognition technology engine gathers more pace"
-    excerpt: "Speechmatics, a Cambridge-based speech recognition technology scale-up, has unveiled a globally transformative advance to the engine driving its solutions. It reveals a major step in delivering “truly comprehensive” speech recognition by adding Entity Formatting functionality to its Autonomous Speech Recognition (ASR) software."
-    publishedDateTime: 2022-04-19T18:46:00Z
-    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/speech-recognition-technology-engine-gathers-more-pace"
-    type: article
-    provider:
-      name: Business Weekly
-      domain: businessweekly.co.uk
-    quality: 19
   - title: "EU law targets Big Tech over hate speech, disinformation"
     excerpt: "The European Union has reached a landmark deal to take aim at hate speech, disinformation and other harmful content online. The new law would force big tech companies to police"
     publishedDateTime: 2022-04-23T08:28:00Z

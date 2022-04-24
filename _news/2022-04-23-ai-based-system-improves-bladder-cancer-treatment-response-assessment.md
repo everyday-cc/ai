@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220422/AI-based-system-impro
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220422/AI-based-system-improves-bladder-cancer-treatment-response-assessment.aspx"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 32
-  - title: "AI can predict adverse impact of cancer treatment on patient"
-    excerpt: "With some substantial development in research related to the area of cancer, the world has been observing certain changes associated with the treatment process, therapy and also drug combinations."
-    publishedDateTime: 2022-04-19T18:55:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/ai-can-predict-adverse-impact-of-cancer-treatment-on-patient-738853"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
 
 secured: "lHDXhAw6GNaPDLEUfbsUV+odOaypyQgM5bBRg5pejRb9uzhmddthIPBL7BB7TiY/A5gbwT18BZIle5wcURnE1ZhAoL8zHiPZuQ3v0D47l95zyKP5IBvVYNv0u1al8IMNONV8BhQWGFpllKWv/ze59JdgJtrQcjAO6u5UlG2N8qYH/KqS4B+SHl7Sc99ssMoPiU6S4qhXZxvV5dO1ArztmCJOzFFqMZT76JOfNz20+xjvoTgxopolT+FHyDsmVgYtlrz/neSmx+iSHSBBaHcW7YXwEhowZdCvHOz9j2+5QlD6uIVY8xBcXWHp9yV5TqEmk88+xOJMsrjHEJ8ly65xlrUUGUt4fXDWLxOhKFk/jfQ=;2RQbllhkYaromdV7HET6Vw=="
 ---

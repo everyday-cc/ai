@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Man Brings Imaginary Childhood Microwave Friend to Life Using A.I. — And It Tries to Kill Him"
-    excerpt: "A man who used A.I. to bring his imaginary childhood friend — who is a microwave — to life is warning of the dangers of artificial intelligence... after it tried to murder him. Self-described mad scientist Lucas Rizzotto told his insane story in a Twitter thread on Monday,"
-    publishedDateTime: 2022-04-19T18:18:00Z
-    webUrl: "https://toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
-    ampWebUrl: "https://amp.toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
-    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2022/04/19/man-brings-imaginary-childhood-microwave-friend-to-life-using-ai-and-it-tries-to-kill-him/"
-    type: article
-    provider:
-      name: TooFab
-      domain: toofab.com
-    quality: 33
-    images:
-      - url: "https://images.toofab.com/image/57/16by9/2022/04/19/57ab587684384010b6e680393ccf972b_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "COGCFyv1Itag4CFRaLYX9G086Q5fPGR2OWYVFSY9nEn/J28ku0b09oC8o4Rcq6QzcGWUkY6skt4K/rXKwiyA7gONWeOY+yMzUt1Ar3TL4UvoO3sY2C47L0KcYRDiCuBSizsZWSahDMWlMVcumGqDbSb6816/J1N4Y4wcpK2faZorydbcY7/ivoYOUOwcsyjdPVxqXXE2J1d4WExOAmGK0BCZdeEtiNPpcekSiFWGDKFtMrHF+w0jv5f2ww0EvULJmz/RBQzbqDxlSEZ137rUL33OjAVDpFsMeZV1bgVeAKKcqlg3UL3JdiBr8+1fGIFbWGhSmNuIhwF3FlHbKcPLFWk/A8jkYRAtn625MH3aIVSmVrwwHZ2qFE9ioeT7FCw8vkc99GklGhSJaW66Ps+RuvzQkd1XGEbY7DBDvVKzDxQY6M+zfIk6C2xbWQqBs2IhO3zE2mx7iRWyDjSOHqVMrM81MtukJ8k3KYK+NpVUYBd7rs9BS+0HSClVdOKHWpIZK/6J00Lrrotsq4GL9BdN9Q==;GZSZxh0tw+8KCO5iB5LEfQ=="
 ---

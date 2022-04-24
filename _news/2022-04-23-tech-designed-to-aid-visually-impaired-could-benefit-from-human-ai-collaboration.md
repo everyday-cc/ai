@@ -1,23 +1,30 @@
 ---
 category: news
 title: "Tech designed to aid visually impaired could benefit from human-AI collaboration"
-excerpt: "Remote sighted assistance (RSA) technology — which connects visually impaired individuals with human agents through a live video call on their smartphones — helps people with low or no vision navigate tasks that require sight."
-publishedDateTime: 2022-04-22T18:58:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/950587"
-webUrl: "https://www.eurekalert.org/news-releases/950587"
+excerpt: "Remote sighted assistance (RSA) technology—which connects visually impaired individuals with human agents through a live video call on their smartphones—helps people with low or no vision navigate tasks that require sight."
+publishedDateTime: 2022-04-22T20:22:00Z
+originalUrl: "https://techxplore.com/news/2022-04-tech-aid-visually-impaired-benefit.html"
+webUrl: "https://techxplore.com/news/2022-04-tech-aid-visually-impaired-benefit.html"
+ampWebUrl: "https://techxplore.com/news/2022-04-tech-aid-visually-impaired-benefit.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-tech-aid-visually-impaired-benefit.amp"
 type: article
-quality: 14
-heat: 14
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI Hardware
   - AI
 
-secured: "BYqW/rRC6eE6dg86Wu1lOoF4qiA7+c4vkHq6zL2pO4htTFkvp/xM3ursmkpVx1yyjrzcREv3vo3FDWqFyXodNhAjg+9rWiOrXsqN+CfbG+nOTFtl8jc8svd2RKun26fwxApNpc0uTKJS4NROd5z9DIJJn0+BVVMWyXpWZK056R9Lm50eZOEgYvUHNXp4sMbHPDyVSNVA2MKc2c1lfRsI2pUDWtngYjYy2AABS6B+z2H9DYMqb8u0tM94k28JvRko8t/i4j6lf1h5AmajZ8rp3WEiDEsDXG/rC12rJ7zPlXblhjERz0FXfvtsiQV/Memo92Lku4hIho7GjeiQ6KhaNSrepOsOFD6od7t0+EODBIQ=;qEVKgW/R32zbaETbLUVDwA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/visually-impaired.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
+
+secured: "vwsfscQcbDjpnpkW/s4ayrQTNCvfsb3PiC/TGXmRz266oWElW/gfzKyTpixxU0jNDFYcql7PLqwQCXycxXUrJEicNoX0RHTWCVrysasvgodxmt1/lDkrGsJzuKI8NFc6zpzddmHQhlXe5IFa3yYgvOELdC4CUtlG3Ui4LnZyw87Y+Q3lJTCzuvXEEy6tydaFbJFwmK8dC1ufN0vvnYfTdTvYb/YyluW7Zxo7+G/BlSEXWMjKhjaksmePckCAB201DEFKUr20tmjewfrpyHdHcEccuiUI7R3cdTgCS9KbjDzVofWv1Ci3JizpVhUKhOd0XO0eDhp16gROFCFJnErYLfdIVtPwQBlpH61ngCVxDXE=;uyx/IVM23MRsTfZQEQ26lA=="
 ---
 
