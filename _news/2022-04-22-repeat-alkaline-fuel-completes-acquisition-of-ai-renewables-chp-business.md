@@ -1,27 +1,21 @@
 ---
 category: news
-title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable’s CHP Business"
-excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (“AFCP” or the “Company”), a company engaged in the development and production of alkaline fuel cell heat and power systems for residential,"
-publishedDateTime: 2022-04-22T11:02:00Z
-originalUrl: "https://www.digitaljournal.com/pr/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
-webUrl: "https://www.digitaljournal.com/pr/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
+title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
+excerpt: "AI uses a clean and renewable single fuel source energy technology that generates both electricity and heat. The stable and efficient energy production results in cost savings to the customer and a reduction in greenhouse gas emissions. Upon closing of the ..."
+publishedDateTime: 2022-04-22T11:16:00Z
+originalUrl: "https://www.news10.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
+webUrl: "https://www.news10.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/749e45e629684438d99df73cef00a61e8335b80d-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Alkaline Fuel Cell Power completes acquisition of AI group's combined heat and power generation business"
@@ -55,6 +49,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Wlh9W+bPyjjFE5WEq+D79ROYs/E0aBGPIUpI9rQmScrrNRn1nq8Xt9BKksyF1G3Tg8fRg9llZbD8Q7uXWdKnd1VqvnHpZT093ZTvK6nPUTT4oWnvBPdriPbRI5Ir2W9bYBMtw17AAWn1H5G/DqcDHDPTkkDLftuVGlXzu92VhtcxYl8sNQG4btXWs4ApURB8VsCSDNdVslXB2X56pp+4/6o8cHalGfRrSozbYg8C7hw57zEV8HKFIfE9YO4JfI6OcrSeelCFKTVbqrfrgbgIp00/DEE0pYDXCSlcfohsXpq693bgGNysLvIrDPIF/mxup7tP8cIcmjJ5+Nahem3jaeYSGqh44+oA3IzR7URn+e0=;Xq1kDG+Gtq5VOlB79sGrbg=="
+secured: "Dt3R6rNnG1k7+6clWS+N9CDlUhM8bnfT+KKPYHctlw1nbDMJlaaQ1pg30WIzWPvPvimtqFctcpgb9oTQaYdnXhV+msdCU63jk/rYFe3xYsPihbMucc7uvdMB3cm/tCATbIvZ4W0tyEFMfN+fXEcdsBb7PYtbTtwvjSGIyiqeAPCQ+W7r//NrjcnWZ22N6VbNXkQAsRilC3YRqXq3Nbnem5sUiF+LKvX/jXUID6rzJ1kSFbXPdtl/BAsvzQIUWyjUYmms9C7EEs+uryUXxmfGLMrtpJNs/6ooq8ipTEo0UNLik+qEFvbgI492XZCbFuZsk7vT1ehhP/A76QWsD2xa5H/XMhkRvLaIIFwu4Y3i3Xs=;O7u0oeuqNWdDs4eenaltLw=="
 ---
 

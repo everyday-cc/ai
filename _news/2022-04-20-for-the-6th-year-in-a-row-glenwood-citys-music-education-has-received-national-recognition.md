@@ -7,7 +7,7 @@ originalUrl: "https://www.dewittmedia.com/2022/04/19/for-the-6th-year-in-a-row-g
 webUrl: "https://www.dewittmedia.com/2022/04/19/for-the-6th-year-in-a-row-glenwood-citys-music-education-has-received-national-recognition/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,37 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Nebraska Softball Getting Much Deserved National Recognition"
-    excerpt: "The Huskers are on top of the Big Ten Conference standings with a 13-0 league record. Radio voice of Nebraska softball Nate Rohr told KLIN Husker Hour that the team is projecting to be a No. 2 seed in regionals. \"I just don't think there's enough time left ..."
-    publishedDateTime: 2022-04-19T16:41:00Z
-    webUrl: "https://www.si.com/college/nebraska/baseball/nebraska-softball-getting-much-deserved-national-recognition"
-    ampWebUrl: "https://www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
-    cdnAmpWebUrl: "https://www-si-com.cdn.ampproject.org/c/s/www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
+  - title: "Oberlin High School celebrates teacher Kurt Russell for National Teacher of the Year recognition"
+    excerpt: "Oberlin High School celebrated its nationally recognized \"Teacher of the Year\" on Thursday. History teacher Kurt Russell was chosen for the honor by the Council of Chief State Officers earlier this week."
+    publishedDateTime: 2022-04-21T21:26:00Z
+    webUrl: "https://www.wksu.org/education/2022-04-21/oberlin-high-school-celebrates-teacher-kurt-russell-for-national-teacher-of-the-year-recognition"
+    ampWebUrl: "https://www.wksu.org/education/2022-04-21/oberlin-high-school-celebrates-teacher-kurt-russell-for-national-teacher-of-the-year-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/education/2022-04-21/oberlin-high-school-celebrates-teacher-kurt-russell-for-national-teacher-of-the-year-recognition?_amp=true"
     type: article
     provider:
-      name: Sports Illustrated
-      domain: si.com
-    quality: 44
+      name: WKSU
+      domain: wksu.org
+    quality: 31
     images:
-      - url: "https://www.si.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4ODk4MzQxNzcyMzM4NzIw/_big_softball_vs_minnesota_g3_dg031_copy.jpg"
-        width: 620
-        height: 348
+      - url: "https://npr.brightspotcdn.com/dims4/default/7b5f8fd/2147483647/strip/true/crop/1919x1080+0+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fb1%2Fb363ba54426ba713f1ab8153b73e%2Fcleneweditors.jpg"
+        width: 430
+        height: 242
         isCached: true
-  - title: "Nebraska Softball Getting Much Deserved National Recognition"
-    excerpt: "It didn't happen all season for Nebraska women's basketball, but with just a few weeks to go in the regular-season Nebraska softball has entered the top-25 rankings. The Huskers are No. 21 in the D1Softball Top-25 and No."
-    publishedDateTime: 2022-04-19T20:34:00Z
-    webUrl: "https://www.si.com/college/nebraska/baseball/nebraska-softball-getting-much-deserved-national-recognition?fr=operanews"
-    ampWebUrl: "https://www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
-    cdnAmpWebUrl: "https://www-si-com.cdn.ampproject.org/c/s/www.si.com/college/nebraska/.amp/baseball/nebraska-softball-getting-much-deserved-national-recognition"
+  - title: "The decentralisation of clinical trials is a key catalyst for innovation in artificial intelligence"
+    excerpt: "The lines between healthcare, drug discovery, clinical research and commercialisation are blurring, as the patient becomes a key partner and focus. We are seeing a rapid expansion in the use of mobile and patient-centric devices,"
+    publishedDateTime: 2022-04-22T16:48:00Z
+    webUrl: "https://www.pmlive.com/pharma_thought_leadership/the_decentralisation_of_clinical_trials_is_a_key_catalyst_for_innovation_in_artificial_intelligence_1394370"
     type: article
     provider:
-      name: Sports Illustrated
-      domain: si.com
-    quality: 44
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 25
     images:
-      - url: "https://www.si.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4ODk4MzQxNzcyMzM4NzIw/_big_softball_vs_minnesota_g3_dg031_copy.jpg"
-        width: 620
-        height: 348
+      - url: "https://www.pmlive.com/__data/assets/image/0007/1389922/Pharmaceutical-Market-Europe-April-22-1.jpg"
+        width: 640
+        height: 830
         isCached: true
 
 secured: "tzP/1LwknZlVL0FukumTwFgMYhHvTks0G2X/qdYdwKXiIRicVujqC/7p+MUt+o5tGZQghRjuVOQXS4DbScpDBDbeFpza9PI0N3ZNuHNYfbUbZVH7OvRLN3ZLWsUHQiqF9UszlR8Rhl7B0uV39ssbguZBFsw0kXWoaPrt+/jNBbEk1oIQSyzzuoieP47wZTfCiOa5WchL/WgzoDhaDnmCCwj5aMK/V7jixSQ8ECObk4RsUuMG/wzX91dwabTSmqcqqxBoQEe3lx58x/tXixp+HuDizhdszLjOE7ZheGk0ZQVOtdd3nzypx3oRvwUcPewCFZuuPM5Uqwx8C7Zz14aD7lwGgHNvHuU1oK1rcAqXJR6qTEv+Vt6yes+EQLwZAwsgjyGnbV4DUKhajoDwehrQ1q38bAH8EF+ILg4OcHgV1FUSxoG9ZJfLz0YJCt0g7LmfIk3wAff9tALu8spcEKblsrP+JbdII5j2HTNK+0XyOpKreObaC/6qG6KREvn5GnGQrZ8cR+zTjRxIudLI88TlWg==;zQxMncKSj1on5ryWnHJb9Q=="

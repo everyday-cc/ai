@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Intellihot's telliBot_ai Wins Best New Product Software Category at 2022 Edison Awards"
-excerpt: "The telliBot_ai software uses advanced intelligence and sensory technology to more accurately predict the remaining life of existing water heaters. This software provides customer"
-publishedDateTime: 2022-04-22T21:24:00Z
-originalUrl: "https://pix11.com/business/press-releases/cision/20220422DC33560/intellihots-tellibot_ai-wins-best-new-product-software-category-at-2022-edison-awards/"
-webUrl: "https://pix11.com/business/press-releases/cision/20220422DC33560/intellihots-tellibot_ai-wins-best-new-product-software-category-at-2022-edison-awards/"
+excerpt: "The telliBot_ai software uses advanced intelligence and sensory technology to more accurately predict the remaining life of existing water heaters. This software provides customers with more efficient and reliable predictions while also reducing costs and ..."
+publishedDateTime: 2022-04-22T21:36:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26773410/intellihots-tellibot-ai-wins-best-new-product-software-category-at-2022-edison-awards"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26773410/intellihots-tellibot-ai-wins-best-new-product-software-category-at-2022-edison-awards"
+ampWebUrl: "https://www.benzinga.com/amp/content/26773410"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26773410"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/pix11.com/wp-content/uploads/sites/25/2022/04/mom-bath.jpg?w=2000&#038;ssl=1"
-    width: 466
-    height: 466
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "fc+Iw17AHS7KwSwGqxyw2gtIyy0RYMcVtXS9fmDdaDa4dqcuZKKV4JkkQFecNnW0Db+BnPxrGuXgJQlu6C6grgTVLxe9xQHarLdkUSdoQejXshdv+9KAwAT68HMQqm3Gf96ErzsUwG7o053Wd35EneN2NJcPf4+1Tr0KQQVTJJJ4ePfi0TllFeN0Qdcj77VqwM5q4tfryXNlSyFFkpgrTS/nDCBKhy04otGWFWfmdOztu2vs06Yvfbqm8rMmITE2YisJGyGs07HPSefF4iEMJyPImC4AGMgdjKOu3ZpraVkGpiziXaU5QBJQBvYAi9jUuMQyqyLRgQ69XFDpglu0LHs42oNlEx4rYzZ32f7BhQs=;hnfwakpXsKrFlDUzRDyo2g=="
+secured: "uld37tTWh2d59wD29AoY6B75QXBAcE9F5y24fl3dsGwpB+4BXYLmL0PLqmTfkp/FfHkaUe8RcjhcGJfx/IMgi3beUONLWEA77pw0e+mKT4aU8c5UxMaGpVTzd6d5+oh6MX/r0UFAeLChQRfRFvsJY8JtQi7WMRSORnbknGCoWJazunM/X8pwmryi/O5Kx4xGvIMBa4JCDJD+Zbf7BWo09YJJMQ/MkmeJ733ApeuP5FZ35SDud+BT8tvki2d53z+kKaGG6hMMVJqh1AuR0pffxWr+d+9ca8NIuVKtk1o+8Z3OL9XaTcrrIx7omwD92ZfWAmSxtAaMfrDzi3H5TUFsxwPQaKVx5wzoJV6/7cevRV4=;B7/0mAxswX1W9u2KPPQ/0w=="
 ---
 

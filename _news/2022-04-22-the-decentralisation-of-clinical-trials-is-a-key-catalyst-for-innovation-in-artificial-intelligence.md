@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI benefits in patient identification and clinical trial recruitment has challenges in sight"
-    excerpt: "AI can speed up cohort selection and patient recruitment; however, data management and inherit bias in datasets need to be addressed first."
-    publishedDateTime: 2022-04-20T10:00:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-clinical-trial-recruitment/"
+  - title: "For the 6th year in a row Glenwood City’s Music Education has received national recognition"
+    excerpt: "Glenwood City has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to music education. This is the 6th year in a row the district has received this recognition."
+    publishedDateTime: 2022-04-19T20:57:00Z
+    webUrl: "https://www.dewittmedia.com/2022/04/19/for-the-6th-year-in-a-row-glenwood-citys-music-education-has-received-national-recognition/"
     type: article
     provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 28
+      name: DeWitt Media
+      domain: dewittmedia.com
+    quality: 31
     images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/04/shutterstock_1803136597-1038x778.jpg"
-        width: 1038
-        height: 778
+      - url: "https://www.dewittmedia.com/wp-content/uploads/2020/07/newgoodrich.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Oberlin High School celebrates teacher Kurt Russell for National Teacher of the Year recognition"
+    excerpt: "Oberlin High School celebrated its nationally recognized \"Teacher of the Year\" on Thursday. History teacher Kurt Russell was chosen for the honor by the Council of Chief State Officers earlier this week."
+    publishedDateTime: 2022-04-21T21:26:00Z
+    webUrl: "https://www.wksu.org/education/2022-04-21/oberlin-high-school-celebrates-teacher-kurt-russell-for-national-teacher-of-the-year-recognition"
+    ampWebUrl: "https://www.wksu.org/education/2022-04-21/oberlin-high-school-celebrates-teacher-kurt-russell-for-national-teacher-of-the-year-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/education/2022-04-21/oberlin-high-school-celebrates-teacher-kurt-russell-for-national-teacher-of-the-year-recognition?_amp=true"
+    type: article
+    provider:
+      name: WKSU
+      domain: wksu.org
+    quality: 31
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/7b5f8fd/2147483647/strip/true/crop/1919x1080+0+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fb1%2Fb363ba54426ba713f1ab8153b73e%2Fcleneweditors.jpg"
+        width: 430
+        height: 242
         isCached: true
 
 secured: "JvyN0p7mkJ7RJTUPFO5jJne5g3Hmb1TA8I3uSuJG/WmoHFKXZw+KXs8fqToKyxQsjl/k+cUos5rptSGSq9aIjS6PBCuS8eHGWGKnTHv29FuVpaqlqBT9zAm9aslR82sSzEUk/XGKCxuRnPdXq/NI7k6yki7WoNGkMfn6UL+fIljvc6I6X/JM+aaupkh/DW6VN/9Dki7ZvykxS0m/HhdusJXBzGDRS9HftY3FHqXXaropYdJcwebjG44lSSVwaReV4Yk5NgdIV/7Pls3kgRcQ44OAUvIJ3PY7i+VhG55zatcEKdAdSQ3q+Q5nct8wqmR6T72hK5ZS3DR/ktuQZRBQwBStPFuvcC3Xos6ucwqBnz4=;CSx+fAdM2HybOgXFBwJHng=="

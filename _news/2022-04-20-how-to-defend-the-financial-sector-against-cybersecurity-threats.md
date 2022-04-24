@@ -44,7 +44,7 @@ related:
   - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
     excerpt: "Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific, unique AI models to scale security operations."
     publishedDateTime: 2022-04-20T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/04/20/9585911.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-arcannaai-introduces-ai-assisted-cybersecurity-platform-the-global-/2022/04/20/9585911.htm"
     type: article
     provider:
       name: TMCnet

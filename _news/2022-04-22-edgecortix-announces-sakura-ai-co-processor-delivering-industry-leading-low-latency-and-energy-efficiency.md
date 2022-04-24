@@ -1,32 +1,31 @@
 ---
 category: news
 title: "EDGECORTIX ANNOUNCES SAKURA AI CO-PROCESSOR DELIVERING INDUSTRY LEADING LOW-LATENCY AND ENERGY-EFFICIENCY"
-excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge artificial intelligence (AI) inference;"
-publishedDateTime: 2022-04-21T20:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency-1031373263"
-webUrl: "https://markets.businessinsider.com/news/stocks/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-efficiency-1031373263"
+excerpt: "EdgeCortix® Inc., the innovative fabless semiconductor design company with a software first approach, focused on delivering class-leading compute efficiency and latency for edge"
+publishedDateTime: 2022-04-21T20:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
+ampWebUrl: "https://www.benzinga.com/amp/content/26750850"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26750850"
 type: article
-quality: 50
-heat: 50
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1797952/SAKURA.jpg"
-    width: 400
-    height: 232
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "x275gDD9nY86TueVKh/Ltw9zZHUnmQQbQ7dpaShqG6FN6j+0G+3IGDskTwpLw7Ch4lY+DwTfOyLlCZ5Q1Ugg2oCRBb86h8vPxOoK8JZcKCUvMFMY3byjlDSZfarg4QDHeUjTGK6yxCPTrD42B8OouEMWFBqudbXQ6aK1olkINpQeZWeovso7w9BMonrrsWfsz5fSNiU7hcYHG8I87vjudgHJEVYr/4is9QprStzif9GWBQuNq8ZNE7EmJWSj4SPYwyC7efo0bYm4Lt+WwwVflhza9zLMaiMXpdECvFo5rAd264vOp4iTKPhqm1R0v2lwPB6nA9DPCIZ9LKRpPV+8kJBK5VNKSiUmm4x0LcriGkQ=;BZ5CT+DAQxu8P4/r4vfyTA=="
+secured: "3plrY48mvVrUsWaxNPNs23SWEfuxuLzQV1P/ZCzvkGujG7aLrrcTM/sCC/vtcCEl2QZNpZAq86f2ZT9rgDQulKaZp0HEQINyeZGpA9iANmBMiU/cYX/WaRAlT9UhCb+GdTH3UJnO4HovibMxsFSGy8YrYo1vbMMRjGc1lVxnBwWFpFF5RPlHp0SwEM3GJkf8/oBxwvdDdbi/dM/n/pp+rM2If6ktTJ17HcWsP6C5ZScyxpSyAqKu3N6P/3GHb7PXEaNKopofvPUiki+VF9oVj5tJLIyPRfAH2hUMpEVT0LTdMyAslU6p0OZ/lfEnwE+HXYpe1USsLYiL8Q/bJ26mqyxyv4/F0O7hlHoWw4i1Ll0=;EOUw6ju/kXKuyMG5+wB1Uw=="
 ---
 

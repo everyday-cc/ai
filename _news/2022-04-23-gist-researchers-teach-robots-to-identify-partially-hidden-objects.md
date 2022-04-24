@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-id
 webUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-method-developed-b.jpg"
         width: 2880
         height: 1620
-        isCached: true
-  - title: "New method developed by GIST researchers allow robot vision to identify occluded objects"
-    excerpt: "When artificial intelligence systems encounter scenes where objects are not fully visible, it has to make estimations based only on the visible parts of the objects. This partial information leads to detection errors,"
-    publishedDateTime: 2022-04-19T15:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950128"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 30
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a046a6d1-acff-441f-b9c7-0aafddfb3c87/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
         isCached: true
   - title: "New Method Developed by Gwangju Institute of Science and Technology Researchers Allow Robot Vision to Identify Occluded Objects"
     excerpt: "in Korea found themselves facing this problem when they were developing an artificial intelligence system to identify and sort objects in cluttered scenes.\" We expect a robot to recognize and manipulate objects they have not encountered before or been ..."

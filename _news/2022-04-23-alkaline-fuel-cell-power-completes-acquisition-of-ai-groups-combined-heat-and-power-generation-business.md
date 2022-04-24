@@ -40,20 +40,15 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable’s CHP Business"
-    excerpt: "Alkaline Fuel Cell Power Corp. (NEO: PWWR) (Frankfurt: 77R, WKN: A3CTYF) (“AFCP” or the “Company”), a company engaged in the development and production of alkaline fuel cell heat and power systems for residential,"
-    publishedDateTime: 2022-04-22T11:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business"
+  - title: "REPEAT – Alkaline Fuel Completes Acquisition of AI Renewable's CHP Business"
+    excerpt: "AI uses a clean and renewable single fuel source energy technology that generates both electricity and heat. The stable and efficient energy production results in cost savings to the customer and a reduction in greenhouse gas emissions. Upon closing of the ..."
+    publishedDateTime: 2022-04-22T11:16:00Z
+    webUrl: "https://www.news10.com/business/press-releases/globenewswire/8527020/repeat-alkaline-fuel-completes-acquisition-of-ai-renewables-chp-business/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/749e45e629684438d99df73cef00a61e8335b80d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: WTEN
+      domain: news10.com
+    quality: 15
 
 secured: "QkN5p4KmkH4LhE2vE0OfScTk5stKa6CAQK46vsRoeVa6VUQVPQ+pvSUoS9wPtlLdPrtEtzLaT8Okkil6NFk7DGYqGUkAgmStbmaM0S4f0kNzkQmBzPKXTzOoIO4wV3G6iRSW+VVZuialveBWBAhxrl5Cr4uBpUudGsbGz7qxwN8ZL5goREEkNsEDBFPr0e3USBFmD2vwHheRxOTCvkNRUFDqztgh2+vR5ESlZB757oG868VhiUdvHUo0Wm12ZEB6g9dSEV7ATvJYIEToh3mXTj8SzDT/bj7Vd6P8SEj8KhTIf4Rv7S+E3iKpWq8qFjUL3AH2CzSdHxu6zmPoPvLuZu/ap18z3L7PBjxA0MZ8kefvYre/XR6BAN/dyN4LG+0eGNs/rZ1rWCqLSTxYAtqniCsJ6pVCUCdzS0WioslRp2xuFE4Id3O20OcW7+EIBXFW8qe+YzudGZTHJJbN+8x+kE6prx5CO2Z5/7p3S6Xyf1zRu6GHKZiYXnVwDaWT3lvbAoO9sFrMAdndUMtndqVoHg==;/Ttd4rgDNl26+CwNgnQr+g=="
 ---

@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "New Synopsys neural processor IP delivers 3,500 TOPs for AI SoCs"
-    excerpt: "The NPX6 NPU IP includes hardware and software support for multi-NPU clusters of up to eight NPUs to achieve 3500 TOPS with sparsity."
-    publishedDateTime: 2022-04-19T16:34:00Z
-    webUrl: "https://www.embedded.com/new-synopsys-neural-processor-ip-delivers-3500-tops-for-ai-socs/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 43
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/04/Synopsys-DesignWare-ARC-NPX6-NPU-featured.jpg"
-        width: 1951
-        height: 1013
-        isCached: true
-
 secured: "5MCIhIVYXjvffmaNVFxN1roeXxLvg8bVZRMFdpBE0Mrf2gO9EZ3YFUMcIwGNeHn9J1ttmOO6mSfNHugtXH3VEYOJ8IvXEecB7LW0ShUPZKFBHoMNtgu3uBRPX0399NDFZ49NCp8EJo76bycIxaSu/1I8VVKUzAqjoID8GuCNQD2pFQRtuBReu4nKfZAuT6byZ0dy8LerAN9wM/rs72rtH10jTbPztA/XVWBtxTXD7vMwMOT1jCacYLZR3TTrrkSx9d8qfwmtR87H6JwjFpx9rVnILE8Z7pHR3TwcRG3+VaQG2dvF3SZAxgtw8myZGc4rFk1KXs14MpghXnNoupTF28WrpWrFcmalTDNLjarSQ5Y39qH1veiyOgtvBhLXrKg0wJ9Jy8ZORwLb3cWAGIDBfzILRPfK9VJHM94lVSwnjXFHu04NJqWryLz8JljwCMaxUo5rbHOz1tuTeq7zKyqrSs7DuRMJ3Ypyct5iTOvRMCOVZNZ3OdCrRgcj0C7g51xfPd6jZeEaxs48O+4BjAWfjw==;6x2H+odqiBZSALIXwkUABA=="
 ---
 

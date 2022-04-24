@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2022/04/19/AI-alcoholic-relapse/
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/04/19/AI-alcoholic-relapse/9431650380286/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 800
     height: 532
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Approach Helps Identify Type 2 Diabetes Risk"
-    excerpt: "Researchers from the National Institutes of Health Clinical Center developed a new artificial intelligence (AI) model that analyzed various factors relating to pancreas health and fat levels using non-contrast abdominal CT images to detect type 2 diabetes risk."
-    publishedDateTime: 2022-04-19T16:47:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-approach-helps-identify-type-2-diabetes-risk"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-approach-helps-identify-type-2-diabetes-risk"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-approach-helps-identify-type-2-diabetes-risk"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
-    images:
-      - url: "https://healthitanalytics.com/images/sized/AI_NLP-67199ff8dd2aaa686fbbb8d60359499a.png"
-        width: 600
-        height: 347
-        isCached: true
 
 secured: "wpPHg2PyXV1nzldiJh7TZF2DMs//J7cSS5Hg0aMHnNBVIzIlStdqcO6JngU5QtFVnJOOBrMseM3ALaobUurSnjcug8SXknp+8y3cTp9SqTdaPLHg00VuA64tjqYrmLRRymVAAEGs0U8xvDd++BeOWs/w99r7HXPlTWG2OuuxyvfhLN/aPXo6n4plnjn2LkDG1cXZdUqC2ZU7VKJCX7czmd8P3+cQQjotXFftGG/GJXB+gFjgspRq99hcafB7yK5ojUu5exBG8DOqNXOq6pF5N0VWDxZu7KG6d0Red9MS5aF51dPplNVX83wjAki1dHlBUrML3qy6A02oQj1Z3cLVmf4IbCJolSYW8nVjHEFy7Pl1GepDPzqpmgQgK32Uz7gH5RoAfJpoM1/tYZaaWWEVUtV5vh2UdpSa10wJnuWuJrmz2G3VZFhZfPPlvz8XyEWa37MyWt57X7I5eQkv0m2AEYSiG+mAnY+1XzFy6qHCftVqjimuL44jqrctZ5DRDRYao2YCrDVB1/v4gNKJoJFYuA==;eTS7omnSDHC5JXBjFwMMsQ=="
 ---

@@ -49,20 +49,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "New method developed by GIST researchers allow robot vision to identify occluded objects"
-    excerpt: "When artificial intelligence systems encounter scenes where objects are not fully visible, it has to make estimations based only on the visible parts of the objects. This partial information leads to detection errors,"
-    publishedDateTime: 2022-04-19T15:43:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/950128"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 30
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a046a6d1-acff-441f-b9c7-0aafddfb3c87/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "/Q/2/+ceV10NgtBSOI4+eDxCFRMuJlbLACAkLOmbIfy7J9iEtEUt8aoZxJ2nonn5+KuMFnS8zRUqtbisoAdh18ltscZaDLAsd1htrTCFtDDiPeUabCPVBO1NOQxQdyueLvLy2DTIQkjFv33qsIUhlGwriP7oCKCISrZuSErBL4l6WvKeB69oWKul1pO1rHnB+P6Dq4WJvOjYFYLxXBCz6FQRZFwc59g4b0L53L/ZPsItc0ND4f1S83c+FW9zJ0YHmLZsEoG4VzfKvnTwGsSODajs+vIfSm/ywh2BWQdH1hVW6g7zRebS3QdKOJPlkKGM4bdzry4rZay2iKs41H4eOLKB4Z0cZztqMrT7pPYt4c2SaSjUfxTp5AIL2jO0uDv+uCkNnOzyx58x51ZbKJtL/lvLwWFPi3FLzQORsqdkxMBVyw/adONn2t039HoQ/yeIXMzzycqDVkdQeDVCd5SHh/E0y6CKYbrGi1ISG+STzTJm9erkIYsU/Zdt9TB5lilXxxGzKPIYdvk9JHUpgMBcRg==;SmjFkBe/e8/ZLC+OK+x1sQ=="
 ---

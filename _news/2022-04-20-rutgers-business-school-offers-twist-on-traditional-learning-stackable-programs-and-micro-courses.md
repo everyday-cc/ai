@@ -24,17 +24,6 @@ images:
     height: 264
     isCached: true
 
-related:
-  - title: "Rutgers Business School offers twist on traditional learning: stackable programs and micro-courses"
-    excerpt: "Innovative programs offer non-traditional course formats in contemporary topics, including data analytics and machine learning, blockchain and cybersecurity. NEWARK, N.J., April 19, 2022 /PRNewswire/ -- Distinct and powerful forces,"
-    publishedDateTime: 2022-04-19T15:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/covid-technology-health-business-newark-63cb4ddd1ec73dfe2e29a116d6fbefb2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-
 secured: "4z12nZGjAwI6ux1OgCoSZTAVwf+K/xgz62TO0/bxWHp7CgdSiluCAF7268B8Qllb5O15O+a9hgLbMEfMBrdA11V82rsjm5zTqn28FiaeguxVX9/MioUfKmQsDJBXGyhMs9oUs2Me2m9nAMTm2e/sTsztlJG1ZXnU4BRGEXHGf4oiZvI4ucP+ccvPm/ivrqxgCwPsMA10SfES6Nq2YMdUpGD+H81J5c7+BzdEzHxJNwx6F3ETVEsyYOtYK//ZEDZzPxYNaGAkttoLjbTin/U+PFlLRwM/pa0oNQ35neL9U3iDEoXnyPCO/lHLrmEkBSQZpSP5whLx8EaqTTOBiOG5HF2KqhPuUJ2b+oK0/fbgiAE=;5b/mqp8I7Nu65/QW7exldw=="
 ---
 

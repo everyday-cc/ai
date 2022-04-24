@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/robotaxi-startup-ponyai-g
 webUrl: "https://www.channelnewsasia.com/business/robotaxi-startup-ponyai-gains-taxi-licence-china-city-2644141"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
-    excerpt: "A breakthrough for Pony.ai’s commercialization of robotaxi services: for the first time in China, an autonomous driving platform will be offered alongside traditional taxi and ride-hailing platforms,"
-    publishedDateTime: 2022-04-24T05:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=651753"
+  - title: "Pony.ai to start charging money for its robotaxi services in Guangzhou"
+    excerpt: "Pony.ai said on Sunday that it has received permission to charge a fee for offering autonomous ride-hailing services to the public in parts of the southern city of Guangzhou. Starting May, a total of 100 of the firm’s self-driving vehicles will be allowed to operate commercially on public roads in Guangzhou’s Nansha district between 8:30 a."
+    publishedDateTime: 2022-04-24T08:53:00Z
+    webUrl: "https://technode.com/2022/04/24/pony-ai-to-start-charging-money-for-its-robotaxi-services-in-guangzhou/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
+      name: TechNode
+      domain: technode.com
+    quality: 37
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
 
-secured: "b+cTnpkmkMPsRY8I7cHY/ppPHYWpKfudyXRI/JjOJWIzs3k5gg6y3tSmkVJtcJuhVWp3Lglpz0XeEDrHHFyM4+I5IJEPB3InGqyAL+IMVQo/FnQLkKePhGMRp9UKSbYlHnDB872d1WgI252ThWcp0Ts6QpEQxrH7bbitUHuuiD5DTAHfXqs1toDNCeL9y4E9gYTSlToyprk1cUmwShvRpprsKAD9lQGJNB55os6ypPjfu+who4RWcxjChC8cEF1/F3vJa3BrDp3gmTDEPIgJ7tYoJOUNuej4hmLNkrqdhYU22U1m1AuwJ+b3bG21KnafUBNChJaMd624OtWHHfA+s+bL/vF4iL5H5+lOZYjfU1Y=;SzpqS/pVssAOu0jt0Qlahw=="
+secured: "QSFKtnyqKuPCLXMPbRJih2UbUgcDVhi+v8yT0FgBRE/WtDslVkZzAyEMol4tJDNUTOWizTihgK1sODQqbDn9wJ0VCpV9hgi2XxJaQ+J8EDZqvWCqmMAx7jAFftxPK33phgojCrM1PVIvBJbNkn6+bcJ0UGtoUEJtlCbDLZazZEZ9CnJBpxEPQ4PeqmUrnafQJvjusD3pQHESd7fxFm+wg7C98Bo/vFAr5bfWDvl56x7iVdxeB1jFWEgpAcPAiPw7eJYVvSVOm/QsVOv034Fw50bVM1noK1hfL13cr1Qh18b1a30iqLVp8lpQT4mx1a6+WBzoxLHJA5OblLswpzvAMHOP5MZGuPP1u8CLir8QVuzqmijaoW8PzeW9wxWzlBcnIq0c4BBsFiYXsGbS2p3GpXPa1v64Ls+CvpqN/Yas8NKNkMht7/7Wakkp64zNZW0JQ5hC/z5v3e8+VcCJdU+rHqSaVolW6OUBvn8AsQjylNzCJ4OXAJoLgRrZSfpLQsz4Cso/UwqiKgPBrV2eJkGQww==;Stz6uJjoFOA7qC8alSkvrg=="
 ---
 

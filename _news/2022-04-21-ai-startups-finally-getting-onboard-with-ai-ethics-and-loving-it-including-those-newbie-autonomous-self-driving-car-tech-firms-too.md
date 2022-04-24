@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article26752617.ece/ALTERNATES/s615/2_Driverless-cars.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "Pony.ai wins autonomous driving taxi license in China"
+    excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
+    publishedDateTime: 2022-04-24T08:41:00Z
+    webUrl: "https://www.globaltimes.cn/page/202204/1260153.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
+        width: 500
+        height: 300
         isCached: true
   - title: "Watching TV to be allowed in self-driving cars in Highway Code update"
     excerpt: "The Government will update the Highway Code to make clear clarify drivers’ responsibilities in self-driving vehicles."

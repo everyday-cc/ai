@@ -3,11 +3,13 @@ category: news
 title: "AI tool accurately predicts tumour regrowth in cancer patients"
 excerpt: "Exclusive: Tool predicts how likely tumours are to grow back in cancer patients after they have undergone treatment"
 publishedDateTime: 2022-04-23T05:00:00Z
-originalUrl: "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth?bingParse"
-webUrl: "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth?bingParse"
+originalUrl: "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
+webUrl: "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
+ampWebUrl: "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/d1dd9f83b44248489e5d8b093ad28b046262e0d5/0_182_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=25109500e1bdf5d279d65eb44289f9ed"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Scientists Develop Revolutionary AI Tool That Can Predict the Return of Tumour in Cancer Patients"
@@ -39,6 +47,6 @@ related:
         height: 480
         isCached: true
 
-secured: "bOTA3KKXK1av+bqtk/lY4aCHtpC0R2XLC2AcYfAhWI/AHO1b0+BlcI+dIzyUxz+VGBxrCHCSiWUasBbH90d5Xyywi5GIBGUBhIXP47nTmCoylaSZOHjUIYsAqAd8UXeke9FeS+c1fThM0xyrqgUDNYTvJeVopgD1F6+5qxBu4Y5D3d0bbipVk/O3YFmUEs+0remob9mioaG3lZuErlMaB1L8Kqx5HfiZ8VRvraHOkLW1BrbxJd0nipGjV1KuTZj29qDInomexw4R3Yw1wM3pSs1obVOa6IujaEjtxhyX/mjSbjbC3yr7owTvpZsXcLVHJ65oWGhR0w7+h3UXfEgcqJ20QQ824f8BqK/t90FaKiuC1PMBaD3bh0l9CFETj0kIGAmnxxhYRy3KtLj2CbXuaS7XOss0YabzYDRgL2aDJ1+oiXWSTaBFQdSTJuO2qk5oSiPN/Unm8p7C1hQAoSxKFVEwpLc8AC+cj8xqaPrAiMH5RU3C/2nrdv9SaC+qXTZb+0Sg7lN/N5qYHcK1rrTi5g==;TX9sEnQ29Vi0H0l1QoDqZg=="
+secured: "UiQVnAdX25dQlryk+2OKfHNAPofLGptumpEywXfxGEglCiP+Z5ISEmxHs/JekrqfXk3Q+knAwAVprq42LBLolzp6xY3+UQWnmYS6Z9+bhgrguDDsrPTgHlIKZRyLz+SGZEQVMfshNo6BfEm9EFLT1ZHWya5u1SQ20VBA+NZvJCt22ddQH7iFE5R5nojyH/wpS7Es/hza40RP1sg9/meABdVywF9VaCQMsuuJj7uHU4mv9KeMiH5iRpfqWxnobQPN92tX5tcmC7su6Dhjo6dPUea3Ij5gyoVU2ZMHd/cmQXhDLiAK0V6kwsoeHHRgYHOXY53V2eIT/MVKwgFGGaQp89GJyndnX/Gj1qCM0SZwfEQ=;zwzxtXDYj2NmaR0GnL1wMg=="
 ---
 

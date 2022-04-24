@@ -165,6 +165,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Pony.ai wins autonomous driving taxi license in China"
+    excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
+    publishedDateTime: 2022-04-24T08:41:00Z
+    webUrl: "https://www.globaltimes.cn/page/202204/1260153.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/6d179573-5120-4012-9311-617643a5f225.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "GM patents self-driving car that replaces human driving instructors"
     excerpt: "Self-driving cars are often described as replacements for human drivers, but a General Motors patent filing shows how they could be used to train new ones. First spotted by Motor1, the filing with the United States Patent and Trademark Office (USPTO ..."
     publishedDateTime: 2022-04-22T11:00:00Z

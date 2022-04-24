@@ -24,22 +24,6 @@ images:
     height: 452
     isCached: true
 
-related:
-  - title: "Vancouver-based FinTech Company Responsive Announces Close of $3.5 Million Series-A Financing led by Canadian Financial Giant Co-operators"
-    excerpt: "Responsive, a fintech company that leverages machine learning to help financial advisors to better serve and engage investors, announced that it has closed a $3.5M (CAD) Series A round led by Co-operators."
-    publishedDateTime: 2022-04-22T20:40:00Z
-    webUrl: "https://www.bctechnology.com/news/2022/4/22/Vancouver-based-FinTech-Company-Responsive-Announces-Close-of-3.5-Million-Series-A-Financing-led-by-Canadian-Financial-Giant-Co-operators.cfm?j=0"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 0
-    images:
-      - url: "https://www.bctechnology.com/tmp/news/F1398B376ABD4D3F854FEAB7FA8CE6A82F979A578781FA7F980EE12A27AE28F8.jpg"
-        width: 800
-        height: 446
-        isCached: true
-
 secured: "9kHBwC6QGeFZM6MwIPu1coSuNnYR7m+YHqMYNMUo7YF7IOqwn4+NAnkKizjLqipHOMJkTwJHjrd/q8ORs4o499vbj/gbkFINgco2MevlNHDZCwgCIA9TH3nSfstTspylzTPGfLjXvxqp3KBI0VleG/nbcIH5ga9JbU6i7My8HqmPszASKPMUJHrPb/LgR2FyQiVgRYxUxASumDA4bRzW6C16TD1G94iML6ZFtWW5opH0jUVg8KQ0UCqFKaWd2XV9tQTx9ZQ5KlF9TXnKkBSy6wsmMaNNLTWqjqveL0jhKtn+84IOKJF1gucDVkepCjq3zo26AYq78Q9RDHNqzlsOoN/biYHCmorIA0T8V4pNAi1S45MnTvD4VFs/7S/tbLGyLOQyCxScedrUlnGL3cHXEnfE8JgVLAd4Kv7BfZ15cXaBPPEqEpBCZyVUa+C+ESKGLjviZ1Pt/375vLv6Fsy+lGdJVhp4Zr31E4WZiRawdK+YNIvnquxxrof3zLzVCIWFpwhkDCZmxULnO9pppGBHOQ==;Qsn5iqYL+xrxrWlPUmwLMw=="
 ---
 

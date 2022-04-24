@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Enova Announces Date of First Quarter 2022 Financial Results Conference Call"
-    excerpt: "Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning and artificial intelligence, today announced the company's first quarter 2022 financial"
-    publishedDateTime: 2022-04-19T20:16:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/enova-announces-date-of-first-quarter-2022-financial-results-conference-call/article_0e7deab0-829a-51e1-9559-a9453996c59a.html"
+  - title: "James Phillips to Join Fintech Stripe as President of Financial Services"
+    excerpt: "machine learning, and the internet: companies are building stronger relationships with their consumers, expanding internationally, distributing financial services, and automating their supply chains. Stripe is ideally positioned to serve as the engine ..."
+    publishedDateTime: 2022-04-20T15:30:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/04/190047-james-phillips-to-join-fintech-stripe-as-president-of-financial-services/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/04/190047-james-phillips-to-join-fintech-stripe-as-president-of-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190047-james-phillips-to-join-fintech-stripe-as-president-of-financial-services/amp/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 43
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/27/f2720f9f-a7c5-5c93-a5ea-95632acd5a71/61fd163fa9f56.image.jpg?crop=861%2C452%2C319%2C0&resize=861%2C452&order=crop%2Cresize"
-        width: 861
-        height: 452
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Money-Eyes-Benjamin-Look-See.jpg"
+        width: 350
+        height: 231
         isCached: true
+  - title: "Canadian Fintech Start-Up SAVVII Group Inc. -- Offering a Uniquely Holistic Approach to Personal Finance -- Announces $10M in Seed Funding"
+    excerpt: "Unprecedented security, AI-powered financial coaching and industry-leading dynamic tools provide a connected financial experience that empowers Canadian consumers to take charge of their financial health TORONTO,"
+    publishedDateTime: 2022-04-21T11:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/04/21/9586796.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "MoI1UpcKlN05+oRus/rBj47Bbwh9wGuTDLcSimCIoptsf9uRGgqA6UfG7q0NrCItUL1ng52PgxZcoUf6+/lKfaeqN5lXBkOmtuvq7L/AcbEzDDTt7GD+GnZ+r7eXhBe271b2kRK4tkEekWzpQ8lgm3t7dYOPLgBIT1gUMJxBszj76+QdZlIl8ri5PI6mEvxgb2YwtQAWG7IKDAk5d3Yqdv97QBORvyyWQUpeEN1PzczQRSFk3ndJQZz7TBp0oSaUcYfZLXcLSSelipjgHzu0XIObllcXhLtuqQtGeAvNxFgq1p01c47zIwcCtbp3IDN/JRSWp4BCQwkeCa/jVw8SeJO7OumxMC4H4EWxC0pBuI8=;ZtVaKua3wfyM8xbzOs1eAw=="
 ---
