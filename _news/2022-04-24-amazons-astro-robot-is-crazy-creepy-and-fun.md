@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T13:19:00Z
 originalUrl: "https://www.wsj.com/story/amazons-astro-robot-is-crazy-creepy-and-fun-1a9065ec"
 webUrl: "https://www.wsj.com/story/amazons-astro-robot-is-crazy-creepy-and-fun-1a9065ec"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wall Street Journal

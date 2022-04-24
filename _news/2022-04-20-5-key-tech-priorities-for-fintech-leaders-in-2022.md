@@ -43,11 +43,13 @@ related:
     excerpt: "The fintech industry continues to bring change to an industry ripe ... In contrast, Lemonade has developed a model to evaluate prospective customers using AI and behavioral economics. When it collects revenue, the company takes a fee and allocates the ..."
     publishedDateTime: 2022-04-23T12:07:00Z
     webUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-fintech-stocks-that-could-help-make-you-a-fortune?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 34
+    quality: 54
   - title: "Biggest FinTech Trends of 2022"
     excerpt: "Biggest FinTech Trends of 2022 . April 20, 2022 by David Edwards Leave a Comment . The pandemic and fast technology development made their imp"
     publishedDateTime: 2022-04-20T23:10:00Z
@@ -90,24 +92,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
-    excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
-    publishedDateTime: 2022-04-19T19:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1247627&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
-  - title: "Stars align for fintech, but regulators are wary of dangerous risks"
-    excerpt: "Commercials featuring NBA legend LeBron James, comedy icon Larry David and movie star Matt Damon touting digital assets were prominent on this year's telecast of the Super Bowl played at California's SoFi Stadium,"
-    publishedDateTime: 2022-04-19T19:50:00Z
-    webUrl: "https://techxplore.com/news/2022-04-stars-align-fintech-wary-dangerous.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
   - title: "LendIt Fintech hosts India - The World's 'Fintech Lab' session"
     excerpt: "The Fintech market in India is one of the ... Our specialty lies in arraying cutting edge technologies viz., AI (Artificial Intelligence), ML (Machine Learning) and OCR (Optical Character ..."
     publishedDateTime: 2022-04-20T18:37:00Z

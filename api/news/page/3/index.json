@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-20-mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m.md",
+      "title": "Mutiny, which personalizes website copy and headlines using AI, raises $50M",
+      "excerpt": "Mutiny, which leverages an AI platform and OpenAI's GPT-3 to personalize website content, has raised $50 million at a $600 million valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/",
+      "originalUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1255917500.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/20/mutiny-which-personalizes-website-copy-and-headlines-using-ai-raises-50m/amp/",
+      "publishedDateTime": "2022-04-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-dont-let-a-misguided-ai-strategy-sabotage-your-brand-experience.md",
       "title": "Don’t Let A Misguided AI Strategy Sabotage Your Brand Experience",
       "excerpt": "Brands can take years to build and nurture. Misguided AI strategies in automating customer service can put brand experiences at risk. This article looks at how this can occur and shares tips on how to refocus AI efforts to enhance brand value,",
@@ -207,7 +258,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -414,7 +465,7 @@
       "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 330,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -1016,6 +1067,39 @@
       ]
     },
     {
+      "path": "_news/2022-04-19-vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise.md",
+      "title": "VIANAI Systems Introduces First Human-Centered AI Platform for the Enterprise",
+      "excerpt": "Vianai Systems (\"Vian\"), the human-centered AI platform and products company, today launched the Vian H+AI™ Platform for reliable, optimized enterprise-wide deployment, management and governance of machine learning (ML) models at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/article_6ff88c2e-483f-54bf-9646-7e6edd7977d1.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/vianai-systems-introduces-first-human-centered-ai-platform-for-the-enterprise/article_6ff88c2e-483f-54bf-9646-7e6edd7977d1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-uniphore-acquires-colabo-for-knowledge-ai-and-automation.md",
       "title": "Uniphore Acquires Colabo for Knowledge AI and Automation",
       "excerpt": "With the addition of knowledge-based AI, Uniphore is broadening its AI capabilities beyond only speech and emotions. “The integration would enhance our existing self-service and agent-assist solutions with a dynamic knowledge AI solution that can extract knowledge entities and graphs from different enterprise applications,",
@@ -1058,139 +1142,27 @@
       ]
     },
     {
-      "path": "_news/2022-04-19-videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral.md",
-      "title": "Videoverse offers AI tool to help enterprise videos go viral",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "path": "_news/2022-04-19-dental-ai-leader-overjet-announces-partnership-with-seattle-study-club.md",
+      "title": "Dental AI Leader Overjet Announces Partnership with Seattle Study Club",
+      "excerpt": "The partnership comes at a key moment when dentistry is in the midst of a foundational transformation. Innovations in advanced technologies such as AI are reshaping many aspects of dental practice, from clinical decision-making to doctor-patient communication.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/",
-      "originalUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/",
+      "webUrl": "https://wgnradio.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/",
+      "originalUrl": "https://wgnradio.com/business/press-releases/cision/20220419NE28506/dental-ai-leader-overjet-announces-partnership-with-seattle-study-club/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1366362133-e1650324823661.jpg?fit=800%2C501&strip=all",
-          "width": 799,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/19/videoverse-offers-ai-tool-to-help-enterprise-videos-go-viral/amp/",
-      "publishedDateTime": "2022-04-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities.md",
-      "title": "Hyundai chooses IonQ's quantum tech to improve its vehicles' object recognition capabilities",
-      "excerpt": "The automaker hopes the quantum machine learning services of IonQ can help it improve its 3D object detection safety systems for drivers and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "originalUrl": "https://www.zdnet.com/article/hyundai-chooses-ionqs-quantum-tech-to-improve-its-vehicles-object-recognition-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T05:04:00-07:00",
+      "publishedDateTime": "2022-04-19T06:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-afraid-of-public-speaking-this-ai-can-help.md",
-      "title": "Afraid of public speaking? This AI can help",
-      "excerpt": "There's that old Seinfeld joke, the one about public speaking ranking higher than death on people's list of top fears. Seinfeld points out with characteristic deadpan that most funeral attendees would rather be in the casket than give the eulogy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "originalUrl": "https://www.zdnet.com/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ab11aa2d2cce15188b0059a1b92241d6a95f41d9/2022/04/18/55457513-6ed6-4049-9e30-6b232f760de9/conference-crowd.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afraid-of-public-speaking-this-ai-tool-can-help/",
-      "publishedDateTime": "2022-04-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WGN Radio",
+        "domain": "wgnradio.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

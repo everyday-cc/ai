@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T13:18:00Z
 originalUrl: "https://www.forbes.com/sites/joemckendrick/2022/04/24/artificial-intelligence-is-stuck-in-a-narrow-rut/"
 webUrl: "https://www.forbes.com/sites/joemckendrick/2022/04/24/artificial-intelligence-is-stuck-in-a-narrow-rut/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

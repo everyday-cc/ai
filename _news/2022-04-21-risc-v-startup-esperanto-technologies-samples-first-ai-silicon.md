@@ -41,22 +41,6 @@ related:
         width: 1032
         height: 703
         isCached: true
-  - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
-    excerpt: "Delivering Industry-Leading Energy Efficiency, Esperanto’s ML Inference Accelerator Is Designed to Be the Highest Performance Commercial RISC-V AI Chip"
-    publishedDateTime: 2022-04-20T15:14:00Z
-    webUrl: "https://www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/"
-    ampWebUrl: "https://www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/esperanto-technologies-massively-parallel-risc-v-ai-inferencing-solution-now-in-initial-evaluations/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 44
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Esperanto Technologies' Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
     excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
     publishedDateTime: 2022-04-21T09:35:00Z
@@ -71,6 +55,15 @@ related:
         width: 1264
         height: 554
         isCached: true
+  - title: "Esperanto Technologies’ Massively Parallel RISC-V AI Inferencing Solution Now in Initial Evaluations"
+    excerpt: "Esperanto Technologies™, the leading developer of high performance, energy-efficient artificial intelligence (AI) inference accelerators based on the RISC-V instruction set, today announced that initial evaluations for its ET-SoC-1 AI inference accelerator are underway with lead customers."
+    publishedDateTime: 2022-04-20T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-artificial-intelligence-ea33e32164d34c07b2913f939ba89d92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
 
 secured: "i1H9C0xMsoL4u3gjEuDr5E+9B8+oHf1cxpUpwLp00xLdwwUzu7E93u3lNoZkeweMYL0aqo38ikqjveKUcX5Qokpb1Zv9Mw3dG0nbBfCimcXRm5SXKvuHNHN3pihXhk6phMxrdJHE7vwkBO8o21C7iCwfN6VMni1YqgXQlxY/ac7g1It8mHyERT6kxB4+8pIlEvA4yQrYIYjwT4yapu8tlQVIVCyJNNiRylH7TS55xzgON23kw7GDyZ3ByyFDInfE2O/QsBgPWFQIH4AKfwZ/VULpGeznfaM0v3LbiFs6QFdXspAGQ+M9eJ+UMviR4WTI5bYI5Aou59sljtgi216NsCRKALw03aq/6KlmZa8AUeSXO/154mnUhxB/dRKiz0AuxvQs2SW3sCvUuzP+DZvtvsU+abJcikvf3BzVozPQLCsb+hU6X9bTTJM9GUlBE2p5Amek+TFq+suZgTBMk5cFHfSfw/rIOmnMwj+wJBOFDhm1uiuobl+LLiKHg9niTUb4eJy1xGFm7aSz07/+d7vDtA==;gzaCii/0jwwJZmmffiXnTA=="
 ---

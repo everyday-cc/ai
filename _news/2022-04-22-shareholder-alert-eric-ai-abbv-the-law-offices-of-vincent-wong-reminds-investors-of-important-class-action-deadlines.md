@@ -76,15 +76,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "DEADLINE ALERT for AFRM, ERIC, AI, RIVN: Law Offices of Howard G. Smith Reminds Investors of Class Actions on Behalf of Shareholders"
-    excerpt: "Law Offices of Howard G. Smith reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion."
-    publishedDateTime: 2022-04-19T19:34:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8524883/deadline-alert-for-afrm-eric-ai-rivn-law-offices-of-howard-g-smith-reminds-investors-of-class-actions-on-behalf-of-shareholders/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 0
   - title: "INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Reminds Investors of Securities Class Action Against C3.ai, Inc. (AI) and May 3 Deadline"
     excerpt: "Scott+Scott Attorneys at Law LLP (“Scott+Scott”), an international shareholder and consumer rights litigation firm, reminds investors that a securities class action lawsuit has been filed against C3.ai,"
     publishedDateTime: 2022-04-21T18:37:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-22T02:59:00Z
 originalUrl: "https://www.wivb.com/business/press-releases/cision/20220421SF32931/megachips-focuses-on-edge-ai-with-custom-asic-solutions/"
 webUrl: "https://www.wivb.com/business/press-releases/cision/20220421SF32931/megachips-focuses-on-edge-ai-with-custom-asic-solutions/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: WIVB-TV

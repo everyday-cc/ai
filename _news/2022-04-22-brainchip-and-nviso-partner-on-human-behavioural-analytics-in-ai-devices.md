@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "BrainChip and NVISO Partner on Human Behavioral Analytics in Automotive and Edge AI Devices"
-    excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world’s first commercial producer of neuromorphic AI IP and chips, and nViso SA (NVISO), the leading human behavioral analytics AI company,"
-    publishedDateTime: 2022-04-19T22:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-robotics-switzerland-65b7475a2d5748beba011b4eb118d706"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "K04sh4YdHRLUeWOE6HAYh7H+i1uWk+bFEISZZMs4fRqdnIpeDfPBNOKdodEgc06pEH2iolO8t1/e3CXACJBWDx4iwTCbyWwcdGQZIGLufn3cVdDHXRKgxKpli51rrgBnajuDyX5WZm7WkYAMow22BfMKnucDl1/6mci3DPXRI2H8t7qsx6CbC3t9dIKFYpv2dA0eYghD25l6tW+1gVYBcVuLlovNM4KIGXolPUIO9sazSdKpj/evt/QS8AJYU6Jn/wOB+/R3SD5kLmyfttFa6ZxsjGhOPESagBh87/ZIkllQsMK73g+ZsovnDcjmru0JpSSX2ON3Pw1Tx7QpJnPReiLQArjH9BbkM47fu2ko8d2KGcAq7deQl/dWfQz18i7Bs+anjbEMQZq5xSTJZKmBWr10/AfoAwPRzNuaQCOShxgP/lOQsIDMEmoaEyTr9wlIyCeTobJybnHy3RWU6Jky1/ZS3U0R/EIvLCxhygbdBIspHOeWrNUa5nsRbnb9jlGyHuZnhwR2CMT7Xz4JL0i/HA==;+hrP/y5QAAiw9E/jtYTrgw=="
 ---

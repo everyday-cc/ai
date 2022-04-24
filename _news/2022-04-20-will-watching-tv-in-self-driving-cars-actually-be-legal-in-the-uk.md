@@ -125,20 +125,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Britain moves closer to self-driving cars with Highway Code changes"
-    excerpt: "The UK Government is setting out changes to Highway Code to ensure self-driving vehicles are introduced safely"
-    publishedDateTime: 2022-04-19T23:01:00Z
-    webUrl: "https://www.techdigest.tv/2022/04/britain-moves-closer-to-self-driving-cars-with-highway-code-changes.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/02/autonomouscars-1030x579-1-1024x576-1.jpg?fit=1024%2C576&#038;ssl=1"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
     excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
     publishedDateTime: 2022-04-20T10:25:00Z

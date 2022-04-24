@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/all-you-need-to-know-about-th
 webUrl: "https://www.cioapplications.com/news/all-you-need-to-know-about-the-growing-role-of-machine-learning-in-cybersecurity-nid-9731.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Defend the Financial Sector Against Cybersecurity Threats"
-    excerpt: "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,"
-    publishedDateTime: 2022-04-19T20:31:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1346676529.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
     excerpt: "Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific, unique AI models to scale security operations."
     publishedDateTime: 2022-04-20T12:15:00Z

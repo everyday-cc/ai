@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-26-support-services-to-help-patient-adherence.md",
+      "title": "Support Services to Help Patient Adherence",
+      "excerpt": "Thus, there are tools that we can use to nudge patients to remind them to adhere to their therapy. I think that’s true. I love the discussion about artificial intelligence [AI] because I think ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/support-services-to-help-patient-adherence",
+      "originalUrl": "https://www.ajmc.com/view/support-services-to-help-patient-adherence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/ee323705caadf15aceaa441d310103f233b47e93-1920x1080.png?fit=crop&auto=format",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
       "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
       "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
@@ -1266,49 +1309,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-r1-rcm-to-buy-artificial-intelligence-software-firm-cloudmed.md",
-      "title": "R1 RCM to buy artificial intelligence software firm Cloudmed",
-      "excerpt": "R1 RCM has entered into an agreement to purchase Cloudmed, a company that uses artificial intelligence and automation for revenue-cycle management, in an all-stock transaction that values Cloudmed at roughly $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
-      "originalUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/merger-arrows-money_i.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
         "images": null,
         "publishers": null,
         "authors": null

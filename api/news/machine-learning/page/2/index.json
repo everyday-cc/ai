@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-12-graph-data-science-what-you-need-to-know.md",
+      "title": "Graph data science: What you need to know",
+      "excerpt": "GDS 2.0 also brings more machine learning and AutoML capabilities. The ability to create ML pipelines for tasks like link predictions is introduced. This means being able to fill in missing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/",
+      "originalUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1267467975.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/12/graph-data-science-what-you-need-to-know/amp/",
+      "publishedDateTime": "2022-04-12T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-machine-learning-predicts-conduct-disorder-in-kids.md",
       "title": "Machine learning predicts conduct disorder in kids",
       "excerpt": "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy.",
@@ -1330,49 +1382,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-dbi-and-braintoy-to-bring-machine-learning-solutions-for-bangladeshi-market.md",
-      "title": "DBI and Braintoy to bring machine learning solutions for Bangladeshi market",
-      "excerpt": "Bangladesh-based market research company DBI Research Private Limited and Canada-based technology company Braintoy have announced a partnership to promote and market Machine Learning and Artificial Intelligence-based products and services in the Bangladesh market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/04/04/machine_learning_dbi_braintoy_bangladesh.jpeg?itok=HejUIn11",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/dbi-and-braintoy-bring-machine-learning-bangladeshi-market-2997606?amp",
-      "publishedDateTime": "2022-04-03T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

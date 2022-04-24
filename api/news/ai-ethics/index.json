@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -104,49 +104,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-developing-ethical-responsible-and-trustworthy-ai-approaches-for-environmental-science.md",
-      "title": "Developing ethical, responsible and trustworthy AI approaches for environmental science",
-      "excerpt": "There's no doubt that artificial intelligence is embedded in our everyday lives. From smartphones to ridesharing apps to mobile check deposits, AI is so pervasive that we rarely think about how it works.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
-      "originalUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/developing-ethical-res.jpg",
-          "width": 1691,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-ethical-responsible-trustworthy-ai-approaches.amp",
-      "publishedDateTime": "2022-04-21T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -807,31 +764,22 @@
       "title": "Responsibility for AI Ethics Shifts from Tech Silo to Broader Executive Champions, says IBM Study",
       "excerpt": "AI ethics, compared to 15% in 2018 79% of CEOs surveyed are prepared to implement AI ethics practices but less than a quarter of organizations have acted on it 68% of organizations acknowledge diversity is important to mitigating bias in AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-responsibility-ai-ethics-shifts-from-tech-silo-broader-/2022/04/14/9582906.htm",
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220414AQ22525/responsibility-for-ai-ethics-shifts-from-tech-silo-to-broader-executive-champions-says-ibm-study/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/9002052-ibm-study-ai-ethics-action-enterprise-guide-progressing-trustworthy/image/Fig4_1649768785422-HR.jpg",
-          "width": 2700,
-          "height": 1845,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T21:06:00-07:00",
+      "publishedDateTime": "2022-04-14T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1429,6 +1377,49 @@
         "AI Ethics",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
+      "title": "NSW government AI projects face ethics assessment under new assurance framework",
+      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
+      "publishedDateTime": "2022-03-30T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

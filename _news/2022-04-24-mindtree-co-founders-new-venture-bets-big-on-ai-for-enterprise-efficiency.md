@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T13:47:00Z
 originalUrl: "https://www.thehindubusinessline.com/info-tech/mindtree-co-founders-new-venture-bets-big-on-ai-for-enterprise-efficiency/article65351074.ece"
 webUrl: "https://www.thehindubusinessline.com/info-tech/mindtree-co-founders-new-venture-bets-big-on-ai-for-enterprise-efficiency/article65351074.ece"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Business Line

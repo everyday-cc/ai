@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics"
-    excerpt: "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning."
-    publishedDateTime: 2022-04-19T21:19:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/19/2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics/amp/"
+  - title: "GrayMatter Robotics Earns RBR50 Innovation Award"
+    excerpt: "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world."
+    publishedDateTime: 2022-04-20T15:19:00Z
+    webUrl: "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 119
+      name: Automation
+      domain: automation.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/625efcae4bd40464b7f75a4b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "GrayMatter Robotics Awarded RBR50 Innovation Award for One of the World's Top 50 Robotics Innovation"
     excerpt: "GrayMatter Robotics today announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world. The"

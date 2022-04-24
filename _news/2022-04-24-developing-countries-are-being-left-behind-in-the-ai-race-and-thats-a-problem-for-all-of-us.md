@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T13:25:00Z
 originalUrl: "https://stuff.co.za/2022/04/24/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/"
 webUrl: "https://stuff.co.za/2022/04/24/developing-countries-are-being-left-behind-in-the-ai-race-and-thats-a-problem-for-all-of-us/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: stuff.co.za

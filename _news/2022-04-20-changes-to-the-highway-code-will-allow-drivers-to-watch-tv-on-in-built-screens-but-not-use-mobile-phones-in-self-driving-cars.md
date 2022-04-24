@@ -331,20 +331,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Highway Code changes: Watch TV at the wheel in new rules for self-driving cars"
-    excerpt: "Motorists using self-driving cars will be able to watch films and television at the wheel under planned changes to the Highway Code"
-    publishedDateTime: 2022-04-19T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/highway-code-changes-watch-tv-at-the-wheel-self-driving-cars-hmlpj9bn8"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 20
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4d10e6b8-c022-11ec-b4e3-203ad1be3cbc.jpg?crop=8640%2C4860%2C0%2C450&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Britain moves closer to a self-driving revolution"
     excerpt: "Drivers will be able to experience the full benefits of the first self-driving vehicles when they arrive, as government sets out how they should be driven"
     publishedDateTime: 2022-04-20T12:21:00Z

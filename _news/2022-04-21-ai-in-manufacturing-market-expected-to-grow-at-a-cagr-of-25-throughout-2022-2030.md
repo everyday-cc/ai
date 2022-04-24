@@ -140,15 +140,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, April 19, 2022 /PRNewswire/ -- According to the new research report, the \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Industry, Application, Technology (Machine Learning, Natural Language ..."
-    publishedDateTime: 2022-04-19T20:21:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027---exclusive-report/article_50935701-f9df-5620-8922-338df80e812c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
   - title: "Global Emotion Detection and Recognition Market (2022 to 2027) - Growing Partnerships and Widening Ecosystems Presents Opportunities - ResearchAndMark"
     excerpt: "The \"Global Emotion Detection and Recognition Market with COVID-19 Analysis, by Component (Software [Facial Expression Recognition, Speech & Voice Recognition], Services), Application Area, End-user,"
     publishedDateTime: 2022-04-19T23:05:00Z

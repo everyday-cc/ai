@@ -2,6 +2,250 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-18-cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu.md",
+      "title": "Cognitive Services Market 2022 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2030: IBM, Microsoft, Google, AWS, Baidu",
+      "excerpt": "New Jersey, USA Global Cognitive Services Market Overview: In its repository, Infinity Business Insights has added",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2022-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2030-ibm-microsoft-google-aws-baidu-2022-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations.md",
+      "title": "Is AI Nothing More Than A Profit-Generating Tool For Mega Corporations?",
+      "excerpt": "Accountability and fairness are two of the most prominent ethics of AI. Therefore, while introducing machine intelligence into their daily functioning, organizations will do well to ask themselves, “Can we use this to improve the society as much as our annual balance sheets?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6239ae6de16cc339ed2662a8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/18/is-ai-nothing-more-than-a-profit-generating-tool-for-mega-corporations/amp/",
+      "publishedDateTime": "2022-04-18T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026.md",
+      "title": "AI for Drug Discovery Market poised to garner maximum revenues during 2018 – 2026",
+      "excerpt": "Overview Artificial intelligence for drug discovery is a technology that uses and different algorithms that value add",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-for-drug-discovery-market-poised-to-garner-maximum-revenues-during-2018-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/Ukraine-Kharkiv-AFP-1K-05-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.md",
+      "title": "9 low-rent cloud providers to challenge AWS, Azure, and GCP",
+      "excerpt": "Major cloud providers do it all, and usually for a sizable price. If the high cost of cloud computing has you down, one of these smaller cloud services could be a way out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
+      "originalUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/clouds_binoculars_network-monitoring_future-it_looking_horizon_vision-100797672-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
+      "publishedDateTime": "2022-04-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-ai-models-to-detect-how-youre-feeling-in-sales-calls.md",
+      "title": "AI models to detect how you're feeling in sales calls",
+      "excerpt": "In brief AI software is being offered to sales teams to analyze whether potential customers appear interested during virtual meetings. Sentiment analysis is often used in machine-learning research to detect emotions in underlying text or video,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/18/ai_in_brief/",
+      "originalUrl": "https://www.theregister.com/2022/04/18/ai_in_brief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/02/12/happy-sad.jpg",
+          "width": 648,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/18/ai_in_brief/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/18/ai_in_brief/",
+      "publishedDateTime": "2022-04-18T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-recruitment-platform-expertia-ai-raises-12-million-in-seed-funding.md",
       "title": "Recruitment Platform Expertia AI Raises $1.2 Million In Seed Funding",
       "excerpt": "Virtual recruitment platform Expertia AI has raised $1.2 million in seed funding led by Chiratae Ventures and Endiya Partners with participation from Entrepreneur First and angel investor Archana Priyadarshini. The funds will be used for assembling a team ...",
@@ -910,249 +1154,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-16-tips-to-help-small-businesses-start-leveraging-aiml.md",
-      "title": "16 Tips To Help Small Businesses Start Leveraging AI/ML",
-      "excerpt": "Even if a small business can’t make instantaneous, sweeping changes through AI/ML, it may still be the right time to take the first steps on the journey of building a strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625972dc185b566eb4455d01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "publishedDateTime": "2022-04-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
-      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
-      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
-      "publishedDateTime": "2022-04-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-at-least-150-injured-in-clashes-at-jerusalem-holy-site.md",
-      "title": "At Least 150 Injured in Clashes at Jerusalem Holy Site",
-      "excerpt": "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "originalUrl": "https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-525573/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054",
-      "publishedDateTime": "2022-04-15T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems.md",
-      "title": "Heavy.AI CEO: Use AI to solve business problems, but not all problems",
-      "excerpt": "Use of AI in the e-commerce supply chain needs to be targeted or the issue of too much data will overwhelm businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems",
-      "originalUrl": "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/04/Last_Mile_Tech_1-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/heavyai-ceo-use-ai-to-solve-business-problems-but-not-all-problems/amp",
-      "publishedDateTime": "2022-04-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-ai-is-mastering-language-should-we-trust-what-it-says.md",
-      "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
-      "excerpt": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
-      "originalUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/04/17/magazine/17mag-openai-promo/17mag-openai-promo-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/04/15/magazine/ai-language.amp.html",
-      "publishedDateTime": "2022-04-15T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T13:00:00Z
 originalUrl: "https://nationalinterest.org/blog/buzz/new-navy-artificial-intelligence-enhanced-drones-are-ready-set-sail-201988"
 webUrl: "https://nationalinterest.org/blog/buzz/new-navy-artificial-intelligence-enhanced-drones-are-ready-set-sail-201988"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: The National Interest

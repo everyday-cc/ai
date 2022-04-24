@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-20T13:30:00Z
 originalUrl: "https://www.abc27.com/business/press-releases/cision/20220420SF29887/6sense-revenue-ai-paves-the-path-to-the-future-of-predictable-revenue-growth/"
 webUrl: "https://www.abc27.com/business/press-releases/cision/20220420SF29887/6sense-revenue-ai-paves-the-path-to-the-future-of-predictable-revenue-growth/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: abc27

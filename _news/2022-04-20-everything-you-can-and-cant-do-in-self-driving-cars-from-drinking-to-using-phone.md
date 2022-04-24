@@ -137,20 +137,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Britain moves closer to self-driving cars with Highway Code changes"
-    excerpt: "The UK Government is setting out changes to Highway Code to ensure self-driving vehicles are introduced safely"
-    publishedDateTime: 2022-04-19T23:01:00Z
-    webUrl: "https://www.techdigest.tv/2022/04/britain-moves-closer-to-self-driving-cars-with-highway-code-changes.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/02/autonomouscars-1030x579-1-1024x576-1.jpg?fit=1024%2C576&#038;ssl=1"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Pony.ai wins autonomous driving taxi license in China"
     excerpt: "The Pony.ai self-driving fleet in Guangzhou, South China's Guangdong Province. Photo: Courtesy of Pony.ai. Pony.ai, an autonomous driving (AD) technology company, announced on Sun"
     publishedDateTime: 2022-04-24T08:41:00Z

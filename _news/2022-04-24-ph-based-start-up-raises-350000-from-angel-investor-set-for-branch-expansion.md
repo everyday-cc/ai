@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T11:51:00Z
 originalUrl: "https://businessday.ng/news/article/ph-based-start-up-raises-350000-from-angel-investor-set-for-branch-expansion/"
 webUrl: "https://businessday.ng/news/article/ph-based-start-up-raises-350000-from-angel-investor-set-for-branch-expansion/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: businessday

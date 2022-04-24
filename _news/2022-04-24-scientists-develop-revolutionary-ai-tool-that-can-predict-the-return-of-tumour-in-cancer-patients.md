@@ -42,6 +42,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Cancer: Artificial Intelligence predicts tumour regrowth in patients"
+    excerpt: "EARLIER this year, the Government launched its War on Cancer, a decade long campaign to develop new treatments to fight a disease that rips apart thousands of families every single year. Even though the war was only announced this year,"
+    publishedDateTime: 2022-04-24T14:04:00Z
+    webUrl: "https://www.express.co.uk/life-style/health/1600395/cancer-ai-predicting-tumour-regrowth-patients"
+    ampWebUrl: "https://www.express.co.uk/life-style/health/1600395/cancer-ai-predicting-tumour-regrowth-patients/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1600395/cancer-ai-predicting-tumour-regrowth-patients/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 57
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/AI-cancer-treat-1600395.jpg?r=1650809060629"
+        width: 590
+        height: 350
+        isCached: true
 
 secured: "XELo7sYQgrdXJq3N8Hl0XMwu6842ZZqnbOa3E7cDYOIF3yPnF2TPP57aeOOSwY0OTNPCynXOo0DKM3QVQltwZS7QMU/OMfhIn8S5vYq8zVnJFUJSSO/cPQ4XvasdjZzbCq50xcmjHawov0QN9TkyrRT+nBE4bDU5YjbFq431yKhiZgnw2667bgZQpctmYC5yrvNKBPY7wHdB4Lx+Y0+Ak4BNZU5BRg9Y7J424JF9ebQSkP0Fm0jZkNq5h4czvefWFUAIbvnBMj/4t3oUzRlEXNLJ4yKLuXFCGgJ3iBo3/PFWbUrNrRVj6Q9YsmEdh4NTTIm3ZXQW1KMZFh6BCWLAOErrU2hz1KJ6YoCGjpgpNR0=;3JqTRE8mQ3PuZRhsy278LA=="
 ---

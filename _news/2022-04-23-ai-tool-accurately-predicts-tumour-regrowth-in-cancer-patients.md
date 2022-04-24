@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cancer: Artificial Intelligence predicts tumour regrowth in patients"
+    excerpt: "EARLIER this year, the Government launched its War on Cancer, a decade long campaign to develop new treatments to fight a disease that rips apart thousands of families every single year. Even though the war was only announced this year,"
+    publishedDateTime: 2022-04-24T14:04:00Z
+    webUrl: "https://www.express.co.uk/life-style/health/1600395/cancer-ai-predicting-tumour-regrowth-patients"
+    ampWebUrl: "https://www.express.co.uk/life-style/health/1600395/cancer-ai-predicting-tumour-regrowth-patients/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1600395/cancer-ai-predicting-tumour-regrowth-patients/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 57
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/AI-cancer-treat-1600395.jpg?r=1650809060629"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Scientists Develop Revolutionary AI Tool That Can Predict the Return of Tumour in Cancer Patients"
     excerpt: "Scientists have discovered a new AI tool that can predict the recurrence of cancer in patients who have already undergone treatment"
     publishedDateTime: 2022-04-23T17:05:00Z

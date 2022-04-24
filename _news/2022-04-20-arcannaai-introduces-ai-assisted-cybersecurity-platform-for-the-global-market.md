@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How To Defend the Financial Sector Against Cybersecurity Threats"
-    excerpt: "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,"
-    publishedDateTime: 2022-04-19T20:31:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-to-defend-the-financial-sector-against-cybersecurity-threats/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 59
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/04/iStock-1346676529.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "All You Need to Know about the Growing Role of Machine Learning in Cybersecurity"
     excerpt: "ML can help security teams perform better, smarter, and faster by providing advanced analytics to solve real-world problems, such as using ML UEBA to"
     publishedDateTime: 2022-04-22T15:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
         width: 620
         height: 372
-        isCached: true
-  - title: "Britain moves closer to self-driving cars with Highway Code changes"
-    excerpt: "The UK Government is setting out changes to Highway Code to ensure self-driving vehicles are introduced safely"
-    publishedDateTime: 2022-04-19T23:01:00Z
-    webUrl: "https://www.techdigest.tv/2022/04/britain-moves-closer-to-self-driving-cars-with-highway-code-changes.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2021/02/autonomouscars-1030x579-1-1024x576-1.jpg?fit=1024%2C576&#038;ssl=1"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
     excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
