@@ -3,12 +3,9 @@ category: news
 title: "6sense Revenue AI Paves the Path to the Future of Predictable Revenue Growth"
 excerpt: "AI to every step of the revenue generation process SAN FRANCISCO, April 20, 2022 /PRNewswire/ -- 6sense, with the widest application of AI at every stage of revenue creation, today announced 6sense Revenue AI™ and previewed product innovations that solidify its leadership position."
 publishedDateTime: 2022-04-20T13:42:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-11a91c3b6aea91bb8a37bba92e5a746f"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-11a91c3b6aea91bb8a37bba92e5a746f"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-11a91c3b6aea91bb8a37bba92e5a746f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-11a91c3b6aea91bb8a37bba92e5a746f"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
   name: Associated Press
@@ -17,6 +14,6 @@ provider:
 topics:
   - AI
 
-secured: "xcIOB2rAGQovG1zD95mdsdb9syg1M2bKRFVl+c1TqCKdJPFb9E3PCGmrWlMjHoiVEb30MuYN9yyxuQ4oakpbrKPdLIS1Rt7IbIaJwgyXQkbfBVWy+4pI6pslv3ExgpAiFR3SqzXDlEZE6DdFfUBClHa5D6kOfwOnUz3YZ2vnyRJbZnmsrtWKEL4e6wFLrx8jcMb9YG2mtKYojkgdDw2VZ1MGGBFSxgQ81VLml0AfYEuBvEhFdMwbI+cJljQV7tuThjwXDO9XlCcJR/dfRWcPJAejXu6H4DbFaPiqC5bpWsCpJ4TpDK87mLxPsBKTMQVwFIPhXnemN8sPQTrx2iWiO3pyaVrzUz0Jxeo9Gu2ldE0=;4JZ4PmIC5pQBnjuijaIFqA=="
+secured: "9EXiFpU7HIdEfKjRydNTB21VFy7VcjzhpnjFc50gYJSfOL8rbJnERcvCdmMoXeXiATLECVD3XApO7dv8Fkg+pIKXlK02cwRa3EmE8ouPe8oC00lSp7x5/6oJk3EjI+ZEL8abRH7Bz1c1ZKXAmrSy0cNiaAiGp8DHmCSbGQXBhRcbseO8R9U8GpduHxSBivKbBJPNNVEyzbt/BQbbN4ruNJoG6MWqdlQ0tUomDz2XI1Q61Y9/lccdE0QAbkchJdImF3j+qSh4qlM6nNDMPL0xY6bP/gZvB7rRyCxqMfDWjfqhtJLVt+YGhkemfgQbMgZkXk3apwiAE1O+3dewthc6yOdlyTwdEswmwTCc3Lc5wHE=;YYnpu8O5jFlY2eAuCbCyMg=="
 ---
 
