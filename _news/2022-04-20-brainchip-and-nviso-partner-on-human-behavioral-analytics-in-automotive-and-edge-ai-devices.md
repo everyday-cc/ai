@@ -76,7 +76,7 @@ related:
     provider:
       name: GovCon Wire
       domain: govconwire.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://www.govconwire.com/wp-content/uploads/2022/04/unnamed-file-97.png"
         width: 1200

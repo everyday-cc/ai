@@ -75,16 +75,16 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Britain gears up to watch TV in self-driving cars"
+  - title: "Britain Gears Up To Watch TV In Self-driving Cars"
     excerpt: "Motorists can sit back and watch TV once self-driving cars are approved on British roads but will be banned from using handheld mobile phones, government plans revealed Wednesday."
-    publishedDateTime: 2022-04-20T17:39:00Z
-    webUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-britain-gears-tv-self-driving-cars.amp"
+    publishedDateTime: 2022-04-20T19:45:00Z
+    webUrl: "https://www.barrons.com/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
+    ampWebUrl: "https://www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/britain-gears-up-to-watch-tv-in-self-driving-cars-01650469807"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Barron's
+      domain: barrons.com
     quality: 39
   - title: "New Highway Code rules for self-driving cars could see motorists watch TV at 37mph"
     excerpt: "Those in self-driving cars can watch TV or even surf the internet under changes to the Highway Code. The new rules for autonomous vehicles have two conditions - as long as drivers keep in a single lane and below 37mph."

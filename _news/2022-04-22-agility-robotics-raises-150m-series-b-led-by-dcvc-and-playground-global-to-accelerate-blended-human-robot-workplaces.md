@@ -1,31 +1,45 @@
 ---
 category: news
 title: "Agility Robotics Raises $150M Series B Led by DCVC and Playground Global to Accelerate Blended Human-Robot Workplaces"
-excerpt: "Company Prepares To Introduce Flagship Robot To Logistics and Warehouse Environments Agility Robotics, a creator and manufacturer of robots designed to work alongside people in logistics and warehouse environments,"
-publishedDateTime: 2022-04-22T14:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/b26761357/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended-huma"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/b26761357/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended-huma"
-ampWebUrl: "https://www.benzinga.com/amp/content/26761357"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26761357"
+excerpt: "Agility Robotics, a creator and manufacturer of robots designed to work alongside people in logistics and warehouse environments, today announced that it has raised $150 million led by DCVC and Playground Global."
+publishedDateTime: 2022-04-22T14:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended/article_64ca8cd6-b078-5e7f-928c-abbd24cc0e8f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global-to-accelerate-blended/article_64ca8cd6-b078-5e7f-928c-abbd24cc0e8f.html"
 type: article
-quality: 66
-heat: 66
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "aZNAYDKjHUYy8mCTzBC3jheYW6nW2a0vP10n4PDsu+BOsHqzibr362DQGO3MoQHIs1VLvIsJArwKzEPO75JSz8T/1mL3BTdGBIeSR2dJE4uIlKaM0ngV2oK6CA8otmKN2qBqou6l5YygEwzh+I8O5HMK+kpVGzD/Z6Dua6N5x8nDJ+jmW8hhwaQoMx6T3m4NZyajLr/02Inku3GpMQOcy+ilhErgSqBblcHd8XUuvZtaSwTlQ26yGtCcrMGpRVt/OXzgytwvuRamvycvyGymuf31j67je0uFJhvJrO/7voaA7vXOzDNaXK0JzD04EXtYhCgZ2LUVlCrVSipi7gLdLKGusRhiuhu7krDvDZ8YZjyyP9bqt51mDMO6vYU08Y7hYpxTqedWoJ2ZK7Vyhp0+5rzGXpV0KEipkJrUNVJaHtE5J6HWYlkZ43zqG6i0IxbCT64KDTsohlFZXHKXZvmmAuxlEQqDuw+vOG7+dwYQtUH7Av9NoaX2lZXPdHAJBWk21HyTdK3FpeYt0pTNFKh+ig==;dDluVrTruP0CpUsFWLiWCw=="
+related:
+  - title: "Mendel Raises $40 Million Series B Round to Expand its Team and Grow Product Offering"
+    excerpt: "Mendel, the leading clinical artificial intelligence and natural language processing platform, today announced it has raised $40 million in Series B funding round led by Oak HC/FT. The round includes participation from existing investor DCM,"
+    publishedDateTime: 2022-04-21T15:30:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220421NY31437/mendel-raises-40-million-series-b-round-to-expand-its-team-and-grow-product-offering/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 32
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
+        width: 600
+        height: 207
+        isCached: true
+
+secured: "DwWCp27aDo3z5es0065KPc+J3Ux5TJ2kyjUIl/l6YBq8OHt4G1gW5cUPvITFK/nYjM60Cml3I5bMqNegMEH/Diw4e+9RNE29R5dQPmPvCU3fMloN2zrMps3l9Hk5cji4fw2qGwOJpJ90wOuRvz4Bzh0t5ZQghnYgWFB2jeknXlen3OK/W3OYkKoNNIWZZoWNdI3fDJNbNNH0rCqJISbSypfhKJEeZP5lJxGbNojc+euOUeP+uxKAbnCieM/sA68EwKTAaHiSQM84yMWBry1zCyCax/2eTmoRMlSz52uiun0czpkqM1RbfMEWlWcsuc6CO+JfV/lbnNuPd2QabRUjPgGWDXTJEFv07zXXLzDCd+Q=;OoE/DOlEbb3YczLB7PkxpA=="
 ---
 

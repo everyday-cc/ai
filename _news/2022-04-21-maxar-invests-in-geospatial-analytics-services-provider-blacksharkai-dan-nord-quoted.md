@@ -6,7 +6,7 @@ publishedDateTime: 2022-04-21T09:10:00Z
 originalUrl: "https://www.govconwire.com/2022/04/maxar-invests-in-geospatial-analytics-services-provider-blackshark-ai/"
 webUrl: "https://www.govconwire.com/2022/04/maxar-invests-in-geospatial-analytics-services-provider-blackshark-ai/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.govconwire.com/wp-content/uploads/2022/04/unnamed-file-97.png"
