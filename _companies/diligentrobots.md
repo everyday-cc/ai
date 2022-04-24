@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DiligentRobots"
   url: "https://twitter.com/DiligentRobots"
-  followers: 1153
+  followers: 1154
 
 size: 2-10 employees
 locations:
