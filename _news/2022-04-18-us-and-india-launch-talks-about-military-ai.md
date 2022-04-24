@@ -3,20 +3,17 @@ category: news
 title: "US and India launch talks about military AI"
 excerpt: "\"It’s clear India has got an interest in bringing AI into national security,” said Jack Shanahan, a retired Air Force lieutenant general and former director of the Joint Artificial Intelligence Center."
 publishedDateTime: 2022-04-18T13:21:00Z
-originalUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
-webUrl: "https://www.navytimes.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
+originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
+webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/04/15/us-and-india-launch-talks-about-military-ai/"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: Navy Times
-  domain: navytimes.com
+  name: C4ISRNET
+  domain: c4isrnet.com
 
 topics:
   - AI
 
-secured: "jmi/grjidUswfzf1UEGGmfcb+WvQwQ4OoZ3wleWwwKNR+QDwfUXbC0wLkgE5Z1zFEvFJKydWBc0T4T6AirbjREyG7TtDRi2EeKdVxK7wh1dIezMKecxVjOm/fdlapJ/imA5gIOy7tTTkZ6zDD8kcWk8H9Guy5mfQP1yZpHJGZhLoFIcustnEzLhFa4eagTqjhQ6AS9z/8Ea0QPAArx/v9Uw0puMKTSvK6QhrK1WGefqM1d2GjKiKSGrbKnvz/sXGLke7Vdoh46urmaYjT14+jH+YQCk41X4+yLwjMmGvcewVR4tGGrgNTcCvc3Ba5nZDqWXIwF4xZmYBGDgSULZ2g2cB9VMrCdSc0vC4UF+CIx6Sl2qGn5uOULIy8gceIhTNSx5JoMvXnEneJOwJcx1MkVe8q9Io1KXr9YZhrAQLkMwLTKHJOG5clWk2jbCFg1H6/zOEbO6TMdZ56W/nN9cTmdKqVFxEvcHmO/YrUSMMqudQtmIvW5EZos36Hf0CpmrWSPGWH86DS6nWxEc2REqfQw==;sNQVlAORNTU53jw3oz9fbw=="
+secured: "KpkPXrZ7ZIhY/mVmPSjw6b3bgu3imjoBLezlCT/cA1zREtVBL3EW/4mauruQmEAgHhPnl8i6FANvts6kwN2aDVb6p/BXphIlnz2PHsQ78LuXVl862KPucKxd5Y2c1MD4NYQx6r7POIEjbTPJiiVAxep/yA8VOA5VcW9mUqnwlAVjlHudOaKghoM9wcF7Cu33Ox62xvEKd8j48FOld/aME3mNEvajseqZ0v/MROZMzSf196pszrNEx8psfMLqMUMF9ebx0YTSPXb22hMguVvTjS4acqQKak/R+bHQpYX1uj1FXt5k+8F0BTFlV7QNIDwTwkyfq3Hs8d6uNOnV0oDIOr/0NAlVTw8QA83BEyQ6xpwh3y/HjRN5xSWF0n4qOpRlQ68KqtIFjnGmEBo0BUQT+v/3O5Q4hm/6y/KY+a3YP9ulzcbW/D2tRQ4mavn//SkX52i+gJJ/QxLd3/swliJxURZb6GB2Iegf/126WIj/pErL7Cw/asiEJbf3BwJVPSLmhrb9S/T3AvxDv0SkXdPPBg==;emGwsXzzrRIbdTqJLkMTKg=="
 ---
 
