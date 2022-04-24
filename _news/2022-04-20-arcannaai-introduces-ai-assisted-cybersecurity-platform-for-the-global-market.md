@@ -3,8 +3,8 @@ category: news
 title: "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market"
 excerpt: "Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific, unique AI models to scale security operations."
 publishedDateTime: 2022-04-20T12:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-arcannaai-introduces-ai-assisted-cybersecurity-platform-the-global-/2022/04/20/9585911.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-arcannaai-introduces-ai-assisted-cybersecurity-platform-the-global-/2022/04/20/9585911.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/04/20/9585911.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/04/20/9585911.htm"
 type: article
 quality: 13
 heat: -1
@@ -49,6 +49,6 @@ related:
         height: 308
         isCached: true
 
-secured: "2LAQNLznMYJvo++5IeDhTRWgvCkJheRMBvsr615RYFiJYW21HcV2njhTdHrR6SSlBxzTVBx2E89vJQorYS7sW4fhIeD82OBL0U9fi8NEh5WxWbA7CVDca+1Max8WPi8dmuw5MpS6nWGqIf+6BN8DlWw4Hh3xZnOocUkgzqO0e08adzNsoc0WoR7OeIIaxkARy+FU8pYGFBFeQhDxD98vtiT9QD4iRI/FZ8GlM33/IQk2/uNS/i9jLZMuprfpMIUBIo0lRYx5ywu87JeAXYArvyaZmaM5h0RUoQDlcXFsERYs8y7qG2IfXAvX1pbXXEtvIDy4R0pGy8G4++miob5Tn3kAxGMK8+D3m63gDQ2diBM=;+7kNbRIqanRXODc+nnLk5Q=="
+secured: "er9p1SqbliWQ3lnLCDWjf54bsA6RLZfrQ5x0ydtCNUFA61NUp3qKZSU7pnnzbJxRVzMLoVDHVgV9EsotBvnnr9mhYltNeeKtRpRV/638CrzaNAnU/hk9oyXXb3zymEJjNlkQT46jtKjD7ilaI5tq2+Ayee/Zdhs0UMrPxsMtFLui0JLqgvl39OWiuZ/s6C5x1qFtZDz1OT9cF3dm4WUaBJ/Een11+sNGAMpvgQJpDBme9dg/OOAacGny5DAptQHKUckSnJlORJCWbsk3eNIA151ENoPXBc3SHGq7NwQcu9Bw1OwmgEYJDBwUZD2hhgNn8ANH5AEj0zvEBhzdigGuCdNFZ7TTa9Ki83zhCkpnzTk=;LWL+p3d5OjRmYI3tu+Em/A=="
 ---
 

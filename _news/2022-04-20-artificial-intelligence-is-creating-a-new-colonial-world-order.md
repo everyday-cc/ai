@@ -7,7 +7,7 @@ originalUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creatin
 webUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence is creating a new colonial world order"
-    excerpt: "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before."
-    publishedDateTime: 2022-04-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/"
-    ampWebUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "AI Is Creating a New Colonial World Order"
     excerpt: "Artificial intelligence is enriching a powerful few by dispossessing communities that have been dispossessed before."
     publishedDateTime: 2022-04-21T15:55:00Z

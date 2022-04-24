@@ -2,58 +2,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2022-03-16-runai-raises-75m-for-its-ai-platform.md",
-      "title": "Run:ai raises $75M for its AI platform",
-      "excerpt": "Tel Aviv-based Run:ai, a startup that makes it easier for developers and operations teams to manage and optimize their AI infrastructure, today announced that it has raised a $75 million Series C ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/",
-      "originalUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-578633163.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/15/runai-raises-75m-for-its-ai-optimization-and-orchestration-platform/amp/",
-      "publishedDateTime": "2022-03-15T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-16-on1-announces-resize-ai-machine-learning-makes-it-on1s-most-advanced-enlargement-app.md",
       "title": "ON1 announces Resize AI: Machine learning makes it ON1's most advanced enlargement app",
       "excerpt": "Have you ever wanted to make a large print from a small file? If so, you've likely used some form of photo enlargement. While traditional technology uses interpolation, ON1's new Resize AI app uses machine learning to recreate detail as you increase the pixels in your photos.",
@@ -1084,6 +1032,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-mice-can-recognise-3d-objects-from-memory-of-their-2d-photos-study-suggests.md",
+      "title": "Mice can recognise 3D objects from memory of their 2D photos, study suggests",
+      "excerpt": "“Our findings also provide strong support that a functional mouse hippocampus is required for this form of nonspatial visual recognition memory and picture-object equivalence,” he adde",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "originalUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/03/15/10/122287_web.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/science/mice-object-recognition-2d-photographs-b2036016.html",
+      "publishedDateTime": "2022-03-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

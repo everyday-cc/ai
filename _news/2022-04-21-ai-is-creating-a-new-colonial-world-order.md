@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence is creating a new colonial world order"
-    excerpt: "An MIT Technology Review series investigates how AI is enriching a powerful few by dispossessing communities that have been dispossessed before."
-    publishedDateTime: 2022-04-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/"
-    ampWebUrl: "https://www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/04/19/1049592/artificial-intelligence-colonialism/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/04/MIT-1-extend3-1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Artificial Intelligence Is Creating a New Colonial World Order"
     excerpt: "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,"
     publishedDateTime: 2022-04-19T17:27:00Z

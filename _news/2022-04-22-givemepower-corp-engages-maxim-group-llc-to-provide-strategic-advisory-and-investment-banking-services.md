@@ -1,29 +1,31 @@
 ---
 category: news
 title: "GiveMePower Corp Engages Maxim Group LLC to Provide Strategic Advisory and Investment Banking Services"
-excerpt: "GiveMePower Corp (OTC PINK: GMPW), an operator and manager of a portfolio of real estate and financial services assets and operations to empower black persons in the United States through financial tools and resources,"
-publishedDateTime: 2022-04-21T18:12:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-united-states-real-estate-financial-services-83d6545017beff3f2b8cbd9653b9058a"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-united-states-real-estate-financial-services-83d6545017beff3f2b8cbd9653b9058a"
+excerpt: "The Firm provides a full array of financial services including investment banking ... one-to-four branch federally licensed bank in each jurisdiction, (2) a machine learning (ML) and artificial intelligence (AI) enabled loan and insurance underwriting ..."
+publishedDateTime: 2022-04-21T18:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26746843/givemepower-corp-engages-maxim-group-llc-to-provide-strategic-advisory-and-investment-banking-serv"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/g26746843/givemepower-corp-engages-maxim-group-llc-to-provide-strategic-advisory-and-investment-banking-serv"
+ampWebUrl: "https://www.benzinga.com/amp/content/26746843"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26746843"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "YNkhwYADSIwkass++F1Av2iez+gG0zvUjaLISOeoNgSgt7TC42hkj+f++65mUDSBoPWINFUz3jwAwL343rHHiJdaWgpHE8Dy22uoDOeh9Auz7rPSioAs9y+eMpsp8ecejcULDzE7prA69CPImgW1GkbA643QmuN6D/JMKfqN6Uu0Lr0c9aHZ9o8duMk2edtpoloUkEts8sgD22w1h/EQDuGEd3+DgfLcJ327/fkS2jWXuJI+zOh5cKMFEcyRfyfucPnBvw9Y6LoArispQ0g5g9u+vroKb036nRSDGPuFmiTV4WY0U/fpTdT/bceAi+F9l674BMbZvwu+dZLJbKXZkMv6MwqsCmbonjyOYA7smGA=;YRAvgzB80BW5nzv3STGiAA=="
+secured: "Tf9WAmthu3uZCWSHVYSWsvQzNztn05m0P1N0UUV6Ff/k6shCPSsIerKHimwT5rO/cxtOB5lPcO0968GHYZPsJCw0uBpmTDEluG61DHqONXJX1L6OcjYi5BfekDYASMssJFg6sm9ErMEwPSW8L8MCFzkvIxlmcM79GcMdTZLrZTkzkaVQbGRwmhfbQyPsVPbo6aVLGCWEBeOgyOvOaNRiIJjRElmUY1oxw2LuxRkJTDZWjDqUTw1GkqZUkeuWCT0vGZWlzXcYknMY+7fI33tu0qAcGLVm7phYzyct6pCgFcIQ0vPMhowSPLFyqT0o8LDUz4TOjGD81WgA+gyByv5Qtl+DE7+/Cd0VCy5NcimMZZY=;fvbuOleOI8bpGKvT7xB3Ag=="
 ---
 

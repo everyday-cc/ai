@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-acc
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html"
 type: article
 quality: 116
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 64
-  - title: "AI in Healthcare Market to See Huge Growth by 2030 | NVIDIA, Google, IBM and more"
-    excerpt: "Global AI in Healthcare is the product of rigorous evaluation and analysis of real-world data gathered from the AI in Healthcare market. This new report"
-    publishedDateTime: 2022-04-19T09:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-healthcare-market-to-see-huge-growth-by-2030-nvidia-google-ibm-and-more"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 49
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/6d6f51edcabbfd281e87b847372cfe5d2582154b-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Nvidia turns to AI for design process improvements"
     excerpt: "Better than humans Nvidia expects the complexity of integrated circuit design to increase exponentially in the coming years, and is looking to AI to help out. During a talk at this year's GPU Technology Conference,"
     publishedDateTime: 2022-04-21T10:43:00Z

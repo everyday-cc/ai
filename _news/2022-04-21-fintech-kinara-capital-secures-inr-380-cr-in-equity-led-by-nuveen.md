@@ -35,20 +35,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Fintech Kinara Capital Secures USD $50 Million in Equity, Led by Nuveen"
-    excerpt: "Kinara Capital, India’s fast-growing MSME fintech, closed a fresh equity round of USD $50 million led by Nuveen, a leading global investment manager with over $1.3 trillion of assets under management,"
-    publishedDateTime: 2022-04-19T10:06:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/fintech-kinara-capital-secures-usd-50-million-in-equity-led-by-nuveen/article_f5a060f0-b3e0-50ff-9600-76d5a58444af.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/bc/fbc7e0a7-2c75-56e9-b01f-05dd1ba0dac2/625e8c71f3cc1.image.jpg?crop=1987%2C1043%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PlW4P/KdfxUKU+NcfTGh48v/LV4O4DGQGaRhyBVDi61OeA3La5lZGvps915TLEGn5wLnMN5V3c5PDOFqeSeEG9YuqaYUOflysO/CePO3MoyyZUisdlZIQO/JsvbQuHPkrgOgBW+PDtGiGeYGQDQrQyUh9f8Y1a3PCScsVsRy25EHeJYhkMCN045yeynfJKtBLU8/lkbqNOWfAqxPydfRRpxEOPXwmZ0AmuMS7vk2/dkY46RBBsv8jH5qsPxT6rpN4OWM+VZE412KFxt7ltWYl1EDCcuGOVvLgp0ASm1vH6E1V2ZM045bmHix+GyH2fu9cUJCYaYmLB9zCITT4HIa/UZOuuneN1eRZ5WzFAPqGg0INOvSUlLpJROqFWSvKB4J4U6WiEC/WadA1s909IufGQDJ8AzCxey+KLsESwx8yoveETm/6WioYyofL0ItPq15f/iojR8cGcKTYz31bd6q/IR7scgTVRyTpMaHYLuZ8qHCtuHI8rfoJ4omFx9dGkSF1jPvJorRtZEPGyYM9zQHVA==;gjLHlD0iqIETQWMJAO7/fQ=="
 ---
