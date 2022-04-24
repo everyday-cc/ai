@@ -138,20 +138,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
-    excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
-    publishedDateTime: 2022-04-20T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-6-alternatives-to-microsofts-deepspeed/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft UAE rolls out new Azure services to accelerate digital ambitions"
     excerpt: "The Azure services will enable enterprises to leverage the full versatility and power of Microsoft Cloud to accelerate their digital transformations.. Microsoft UAE rolls out new Azure services to accelerate digital ambitions."
     publishedDateTime: 2022-04-20T07:12:00Z

@@ -2,6 +2,410 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-04-03-centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai.md",
+      "title": "Centaur rising: How a decades-old paradigm is changing the way that top institutions look at AI",
+      "excerpt": "The theory that advanced AI will eliminate the need for humans seems false. Enter the centaur: a mutualistic bond between users and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-758285645.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/centaur-rising-how-a-decades-old-paradigm-is-changing-the-way-that-top-institutions-look-at-ai/amp/",
+      "publishedDateTime": "2022-04-02T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-lisk-machine-learning-lml-price-reaches-00235-on-top-exchanges.md",
+      "title": "Lisk Machine Learning (LML) Price Reaches $0.0235 on Top Exchanges",
+      "excerpt": "Lisk Machine Learning (LML) traded flat against the U.S. dollar during the twenty-four hour period ending at 13:00 PM Eastern on April 2nd. During the last seven days, Lisk Machine Learning has traded flat against the U.S. dollar. One Lisk Machine Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
+      "originalUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/04/02/lisk-machine-learning-lml-price-reaches-0-0235-on-top-exchanges/amp/",
+      "publishedDateTime": "2022-04-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-the-importance-of-data-audits-when-building-ai.md",
+      "title": "The importance of data audits when building AI",
+      "excerpt": "As Zillow recently found out the hard way, if you don't conduct proper data audits, you can run into costly data mismatch problems",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1152951178.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/the-importance-of-data-audits-when-building-ai/amp/",
+      "publishedDateTime": "2022-04-02T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-elevating-human-machine-relationships-with-no-code-reusable-ai.md",
+      "title": "Elevating human-machine relationships with no-code, reusable AI",
+      "excerpt": "As shown in Figure 2, the bottom layer is a set of general-purpose machine learning models that any AI system relies on. For example, data-driven neural (deep) learning models, such as BERT and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/02/elevating-human-machine-relationships-with-no-code-reusable-ai/amp/",
+      "publishedDateTime": "2022-04-02T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-leverage-machine-learning-on-your-iphone-to-translate-braille-with-this-free-app.md",
+      "title": "Leverage machine learning on your iPhone to translate Braille with this free app",
+      "excerpt": "An iOS developer built an app using CoreML and Vision to find Braille. Meet Braille Scanner, a new, free iPhone app.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/",
+      "originalUrl": "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/braille-scanner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/04/02/machine-learning-iphone-app-braille-scanner/amp/",
+      "publishedDateTime": "2022-04-02T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-how-is-ai-transforming-the-future-of-digital-marketing.md",
+      "title": "How is AI Transforming the Future of Digital Marketing?",
+      "excerpt": "Formerly retailing wasn’t client-oriented like TV advertisements, Billboard ads, or candidly marketing, but after initiating digital marketing, it is now more pivoted on probable clients. Individuals who consistently interconnect on social media platforms could squarely envision their requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/",
+      "originalUrl": "https://techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/04/The-Future-of-Digital-Marketing.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-transforming-the-future-of-digital-marketing/amp/",
+      "publishedDateTime": "2022-04-02T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-2-ai-stocks-that-could-help-make-you-a-fortune.md",
+      "title": "2 AI Stocks That Could Help Make You a Fortune",
+      "excerpt": "IBM offers a suite of scalable solutions under its Watson umbrella of AI products, including content search and analytics, data and risk management, and governance and compliance. These solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune",
+      "originalUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-stocks-that-could-help-make-you-a-fortune?amp",
+      "publishedDateTime": "2022-04-02T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-generate-model-interfaces-using-metadata.md",
+      "title": "Generate model interfaces using metadata",
+      "excerpt": "Select the location of your TFLite file. Note that the tooling will configure the module's dependency on your behalf with ML Model binding and all dependencies automatically inserted into your Android module's build.gradle file. Optional: Select the second ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/inference_with_metadata/codegen?authuser=0&hl=nb",
+      "originalUrl": "https://www.tensorflow.org/lite/inference_with_metadata/codegen?authuser=0&hl=nb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?authuser=0&hl=nb",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-02T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-intel-shows-off-its-first-ever-desktop-gaming-gpu.md",
+      "title": "Intel Shows Off its First Ever Desktop Gaming GPU",
+      "excerpt": "Intel debuted its first Arc GPUs today for laptops, and also gave us a first look at the desktop Arc GPUs via an official teaser image. Perhaps",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/",
+      "originalUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2022/04/intel-1.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/04/02/intel-shows-off-its-first-ever-desktop-gaming-gpu/amp/",
+      "publishedDateTime": "2022-04-02T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-02-tensorflow-hub-is-a-repository-of-trained-machine-learning-models.md",
       "title": "TensorFlow Hub is a repository of trained machine learning models.",
       "excerpt": "!pip install --upgrade tensorflow_hub import tensorflow_hub as hub model = hub.KerasLayer(\"https://tfhub.dev/google/nnlm-en-dim128/2\") embeddings = model([\"The rain ...",
@@ -707,442 +1111,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses.md",
-      "title": "Beijing strengthens policy support for road testing of autonomous buses",
-      "excerpt": "Beijing unveiled regulations for trial implementation on Thursday to provide policy support for the upcoming road tests of autonomous buses, local authorities said. Beijing will allow road tests of its first batch of eight autonomous buses from three tech enterprises — Baidu,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses/",
-      "originalUrl": "https://www.macaubusiness.com/beijing-strengthens-policy-support-for-road-testing-of-autonomous-buses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png",
-          "width": 516,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-latest-facebook-app-news.md",
-      "title": "Latest Facebook app news",
-      "excerpt": "Meta is building an AI-powered universal language translator By Maggie Tillman · 24 February 2022 Zuckerberg said it can translate \"hundreds of languages . . . everything from Austrian to Uganda ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/apps/news/facebook",
-      "originalUrl": "https://www.pocket-lint.com/apps/news/facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/bundles/pocketlintapp/images/amazon-512-compressor.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-worlds-smartest-traffic-management-system-launches-in-australia.md",
-      "title": "\"World's smartest traffic management system\" launches in Australia",
-      "excerpt": "Modern cities produce an absolute avalanche of data every second of every day, from cameras and sensors belonging to dozens of separate systems. In such a smart world, it's amazing that so many traffic lights are still so dumb.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "originalUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d27f7eb/2147483647/strip/true/crop/2940x1960+146+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fdb%2Fa7%2Fd895452c4b34b0bb2bb27d53b99f%2Fdepositphotos-325652746-xl.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/?amp=true",
-      "publishedDateTime": "2022-04-01T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-cyber-security-in-robotics-market-is-expanding-at-a-healthy-110-cagr-for-2022-2029.md",
-      "title": "Cyber Security in Robotics Market is Expanding At a Healthy 11.0% CAGR For 2022 – 2029",
-      "excerpt": "Sales in the global cyber security in robotics market are slated to top US$ 3.5 Bn in 2022. Expanding at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. The high demand for firewall security services and similar other solutions such as encryption solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
-      "originalUrl": "https://www.fmiblog.com/2022/04/01/cyber-security-in-robotics-market-is-expanding-at-a-healthy-11-0-cagr-for-2022-2029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2022/03/FMI-5.jpg",
-          "width": 1008,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-podcast-transcript-do-we-need-ai-regulation.md",
-      "title": "Podcast transcript: Do we need AI regulation?",
-      "excerpt": "The first one is Sabina mentioned, have a review board, make AI ethics core to your data science and AI programme. And make sure that you have some external stakeholders there, the contrarians and the people, not only who will benefit from it, but who may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367274/podcast-transcript-do-we-need-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1648740079/itpro/Podcast%20images/Episode%20125/IT_Pro_Podcast_Transcript_image.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-nvidia-lays-out-their-ai-vision.md",
-      "title": "Nvidia Lays Out Their AI Vision",
-      "excerpt": "For Nvidia’s AI stack, the Grace CPU will sit at ... even if you are looking down at a script. It can also translate to multiple languages on the fly, and make your mouth (almost) look like ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "originalUrl": "https://seekingalpha.com/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957037018/image_957037018.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499175-nvidia-stock-lays-out-ai-vision",
-      "publishedDateTime": "2022-03-31T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-metas-ai-exodus-top-talent-quits-as-the-lab-tries-to-keep-pace-with-rivals.md",
-      "title": "Meta's A.I. exodus: Top talent quits as the lab tries to keep pace with rivals",
-      "excerpt": "Facebook parent Meta has lost some top artificial intelligence scientists in recent weeks as the company continues with its pivot toward the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/04/01/metas-ai-lab-loses-some-key-people.html",
-      "originalUrl": "https://www.cnbc.com/2022/04/01/metas-ai-lab-loses-some-key-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106967423-16354576832021-10-28t214510z_116189434_rc29jq9owmq8_rtrmadp_0_facebook-connect.jpeg?v=1648799673",
-          "width": 1947,
-          "height": 1181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/01/metas-ai-lab-loses-some-key-people.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/01/metas-ai-lab-loses-some-key-people.html",
-      "publishedDateTime": "2022-03-31T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-the-dangers-of-not-aligning-artificial-intelligence-with-human-values.md",
-      "title": "The Dangers Of Not Aligning Artificial Intelligence With Human Values",
-      "excerpt": "I speak to Brian Christian, author of 'The Alignment Problem – How AI Learns Human Values' about how we still face some significant hurdles when it comes to building machines that are truly capable of thinking and acting like humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62468a610c6dc8f419eac76b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/04/01/the-dangers-of-not-aligning-artificial-intelligence-with-human-values/amp/",
-      "publishedDateTime": "2022-03-31T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-former-deepmind-employee-accuses-company-of-mishandling-sexual-abuse-complaint.md",
-      "title": "Former DeepMind employee accuses company of mishandling sexual abuse complaint",
-      "excerpt": "A former DeepMind employee has accused the company of mishandling a series of serious sexual harassment allegations. In a report published Wednesday, The Financial Times recounts the experience of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "originalUrl": "https://www.engadget.com/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/ad7e15c0-b04b-11ec-bff4-5322771aed2e",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-employee-accuses-company-mishandling-sexual-abuse-complaint-171643326.html",
-      "publishedDateTime": "2022-03-31T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

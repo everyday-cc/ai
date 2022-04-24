@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence Technology to the Security Industry"
-excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry’s first and only Artificial Intelligence (AI) powered Spatial Intelligence platform, announced today it is working with Hanwha Techwin America,"
-publishedDateTime: 2022-04-24T12:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-orlando-artificial-intelligence-1fad154826e1d2560b0e88b2360a4f4e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-orlando-artificial-intelligence-1fad154826e1d2560b0e88b2360a4f4e"
+excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence"
+publishedDateTime: 2022-04-24T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/g26777703/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technolog"
+ampWebUrl: "https://www.benzinga.com/amp/content/26777703"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26777703"
 type: article
-quality: 27
-heat: 27
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -39,7 +41,16 @@ related:
         width: 320
         height: 325
         isCached: true
+  - title: "Pathr.ai™ Announces Integration with Hanwha Techwin America to Bring Spatial Intelligence Technology to the Security Industry"
+    excerpt: "Retail Asset Protection Conference, Orlando, Booth #RIC-11 – Pathr.ai, the industry's first and only Artificial Intelligence (AI) powered Spatial Intelligence platform, announced today it is working with Hanwha Techwin America,"
+    publishedDateTime: 2022-04-24T18:04:00Z
+    webUrl: "https://fox40.com/business/press-releases/globenewswire/8527566/pathr-ai-announces-integration-with-hanwha-techwin-america-to-bring-spatial-intelligence-technology-to-the-security-industry/"
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 7
 
-secured: "D+gTlTChAOOzj+9bUZtKblLyWA0Ab1UsvAFw/G2VjKl2tIWqabkaYY+n2dFNBKZxXxKtwGueTBpuwSibJbB10w6h9q7gMMj7P4M1aCpWJ0hllIv99Q1zjU0XxG9D6LKr9l4gmIBPahRYguQmINeb+0ZEp+Q9MPbYnI7RNaCFt95bERvtC3lSJAMEi/lsO4Ep/grDjuYPZvXJuOcFfIbv5Daz/0vsF97Qi48+ksV2cZ3z9/K0wtP/5IHSepc9gTe2c0RKq48GxyR5Gv+o83oXnpZyIszD/nRz2lcma/aGjnIAR1yX/OngzvF6WWxRTSzrRCS93tL6fqU7k60SJd9lASfTP1fnZb1vSKN6yiS4p3E=;v+DOhieH9xDF5ZerwHRurA=="
+secured: "MKSN4hgswcIkrWHYykjMMBG2VgxjFN5NCD6bLaAMLQsN4ivwAt8bXxXS1flIl303+jTIkw3N2HN7Xt0EewnsuC6xMKijuIQNY0neZ8ZACLxl1ZATjfh4XOpX0i4/K2nzQ7g816zBUt8TNu9NI+8FLx7zvc43Z7a/yO30Nj7m/CIEbhvtlrkYrSTfH8smZ3Lz58gaJ0MUy0xcnTXSZkJkz4jsTaKmWaZPkfL43ATZkpV4XOkmNvkRdPh4rhltjhn1Pk1LNmKTnjFhlyJDOW4hlQTP22bFZyH04xULQubHuwRNtUg5BkPRUas32pBLy4m30Xr07iJEEAluqfsiorlwMA0gRhzXrPCTNDRGC1Oxa38=;jr4WPCIkGePqfHYxyZ3kqA=="
 ---
 

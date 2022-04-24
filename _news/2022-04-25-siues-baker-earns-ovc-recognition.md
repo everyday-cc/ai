@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T19:30:00Z
 originalUrl: "https://www.theintelligencer.com/sports/article/SIUE-s-Baker-earns-OVC-recognition-17122918.php"
 webUrl: "https://www.theintelligencer.com/sports/article/SIUE-s-Baker-earns-OVC-recognition-17122918.php"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Edwardsville Intelligencer

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -104,50 +104,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript.md",
-      "title": "Tesla, Inc. (TSLA) CEO Elon Musk on Q1 2022 Results - Earnings Call Transcript",
-      "excerpt": "Q1 2022 Results Conference Call April 20, 2022 05:30 PM ET Company Participants Martin Viecha - VP, IR Elon Musk - CEO Zachary Kirkhorn - CFO Andrew",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "publishedDateTime": "2022-04-20T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -315,7 +271,7 @@
       "originalUrl": "https://www.express.co.uk/life-style/cars/1598298/highway-code-law-changes-self-driving-cars-watch-tv-emails-dft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -336,6 +292,49 @@
       "provider": {
         "name": "Daily Express",
         "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
+      "title": "Cathie Wood On Twitter Europe In Recession",
+      "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=24",
+      "originalUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-04/19/V_e058dimage_story.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -665,6 +664,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-15-dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official.md",
+      "title": "Dubai plans to introduce self-driving and flying taxis by 2030: official",
+      "excerpt": "The RTA’s goal is “to achieve 25% of trips by driverless modes in 2030 ... technologies such as the Internet of Things, artificial intelligence and big data to improve the experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40167388",
+      "originalUrl": "https://www.brecorder.com/news/40167388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DWIvH8Xf7pE/sddefault.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brecorder.com/news/amp/40167388",
+      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40167388",
+      "publishedDateTime": "2022-04-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-self-driving-lab-used-to-improve-nanocrystal-understanding.md",
       "title": "Self-driving lab used to improve nanocrystal understanding",
       "excerpt": "Control Engineering reports that UB researcher Kristofer Reyes and researchers from North Carolina State University have developed and demonstrated a “self-driving lab” that uses artificial intelligence and fluidic systems to advance understanding of metal halide perovskite nanocrystals.",
@@ -954,6 +996,40 @@
       "provider": {
         "name": "KARE 11",
         "domain": "kare11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-aktify-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1283,111 +1359,6 @@
         "name": "Local News 8",
         "domain": "localnews8.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too.md",
-      "title": "AI Ethics Welcomes The Prospects Of A Standardized AI Risk Management Framework, Which Could Bolster Autonomous Self-Driving Car Efforts Too",
-      "excerpt": "AI Ethics is embracing the efforts to craft an AI Risk Management Framework (AI RMF) that is being formulated as a standard by the NIST, and which will likely aid the advent too of autonomous self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1756,1316,x347,y0,safe&width=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/11/ai-ethics-welcomes-the-prospects-of-a-standardized-ai-risk-management-framework-which-could-bolster-autonomous-self-driving-car-efforts-too/amp/",
-      "publishedDateTime": "2022-04-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cops-confused-as-they-pull-over-an-empty-self-driving-car.md",
-      "title": "Cops confused as they pull over an empty self-driving car",
-      "excerpt": "In what appears to be the first incident of its kind, cops recently pulled over a self-driving car with no one inside it. A video shows what happened next",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cruise-automation.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "publishedDateTime": "2022-04-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

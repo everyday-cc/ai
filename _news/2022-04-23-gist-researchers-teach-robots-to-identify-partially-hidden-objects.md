@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-id
 webUrl: "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/"
 type: article
 quality: 71
-heat: 81
+heat: 84
 published: true
 
 provider:

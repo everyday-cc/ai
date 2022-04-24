@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-21T20:15:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
 webUrl: "https://www.benzinga.com/pressreleases/22/04/n26750850/edgecortix-announces-sakura-ai-co-processor-delivering-industry-leading-low-latency-and-energy-eff"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Benzinga.com

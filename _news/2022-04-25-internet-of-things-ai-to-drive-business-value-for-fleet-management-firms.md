@@ -6,6 +6,9 @@ publishedDateTime: 2022-04-24T18:41:00Z
 originalUrl: "https://www.livemint.com/opinion/internet-of-things-ai-to-drive-business-value-for-fleet-management-firms-11650825330023.html"
 webUrl: "https://www.livemint.com/opinion/internet-of-things-ai-to-drive-business-value-for-fleet-management-firms-11650825330023.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Mint

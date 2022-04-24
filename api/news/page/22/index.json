@@ -2,6 +2,431 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
+      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
+      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "publishedDateTime": "2022-03-31T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
+      "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
+      "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "originalUrl": "https://www.zdnet.com/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d42df9d1daed1dad8a379ab0a69ec88a5d09e3a5/2022/03/31/602b7f95-1939-459f-b036-4776385ec5d2/lecun-splash-image.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier/",
+      "publishedDateTime": "2022-03-31T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-saphyre-nominated-for-fintech-of-the-year-award-by-global-custodian.md",
+      "title": "Saphyre Nominated for “Fintech of the Year” Award by Global Custodian",
+      "excerpt": "Saphyre, a fintech company using patent-approved AI technology to solve pre-trade setups and post-trade issues, has been nominated by Global Custodian for their annual “Fintech of the Year” award. Global Custodian’s Leaders in Custody awards is holding their ceremony in-person at The Savoy in London on May 4th 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-247120c5ae1b22c9bce8fc68f227de49",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-new-robotics-hub-opens-in-west-cumbria.md",
+      "title": "New robotics hub opens in West Cumbria",
+      "excerpt": "A new facility in Whitehaven is the first of network of robotics and artificial intelligence collaboration hubs across the UK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
+      "originalUrl": "https://www.gov.uk/government/news/new-robotics-hub-opens-in-west-cumbria",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/146899/s960_RAICo_1_Soft_Opening_GOV1.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Department of Health",
+        "domain": "www.gov.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-conversational-data-platform-taps-ai-for-sentiment-analysis.md",
+      "title": "Conversational data platform taps AI for sentiment analysis",
+      "excerpt": "Arena's no-code communication platform uses engagement data gained from conversations and combines it with artificial intelligence (AI) to better understand who might want to buy what among its customers,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
+      "originalUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/youappi-App-Re-Engagement-Image-for-VB.jpg?w=1200&strip=all",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/conversational-data-platform-taps-ai-for-sentiment-analysis/amp/",
+      "publishedDateTime": "2022-03-31T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
+      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
+      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
+      "originalUrl": "https://www.reuters.com/technology/fast-internet-brings-tech-jobs-nairobis-poor-neighbourhoods-2022-03-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4M_ZfsExf_mvYT37MXUvNasYssQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OOEUTUKC2VNONJNEVBOTIYDQO4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras.md",
+      "title": "A Berlin train station is to trial facial recognition technology in its security cameras",
+      "excerpt": "A train station in Berlin is to begin testing new levels of security through its surveillance cameras, by trialling the use of facial recognition technology. The city’s Sudkreuz station will use ...",
+      "sourceUrl": null,
+      "webUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
+      "originalUrl": "https://jerseyeveningpost.com/uncategorised/2022/03/31/a-berlin-train-station-is-to-trial-facial-recognition-technology-in-its-security-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jerseyeveningpost.com/wp-content/uploads/2022/03/31145256/Img32956208.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jersey Evening Post",
+        "domain": "jerseyeveningpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
+      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
+      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-to-build-sustainable-products-start-in-the-data-center.md",
+      "title": "To build sustainable products, start in the data center",
+      "excerpt": "Building a sustainable model data storage that requires significantly lower power, lower cooling, and far less waste.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
+      "originalUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1301942140.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/31/to-build-sustainable-products-start-in-the-data-center/amp/",
+      "publishedDateTime": "2022-03-31T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
       "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
       "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
@@ -733,427 +1158,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
-      "title": "China's Baidu exploring options after U.S. delisting risk",
-      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "originalUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "publishedDateTime": "2022-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework.md",
-      "title": "NSW government AI projects face ethics assessment under new assurance framework",
-      "excerpt": "The mandated AI Assurance Framework will help agencies establish clear governance and accountability measures when using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-ai-projects-face-ethics-assessment-under-new-assurance-framework/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design.md",
-      "title": "Synopsys Launches Disruptive Cloud-Based SaaS Solution To Accelerate And Democratize Chip Design",
-      "excerpt": "In a move that could have broad-reaching implications for chip design and the Electronic Design Automation industry, Synopsys has launched a new cloud-based SaaS solution, dubbed Synopsys Cloud, which makes its cutting-edge design a tools available to a diverse spectrum of potential customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6244e7327f1720b840503f2b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/03/30/synopsys-launches-disruptive-cloud-based-saas-solution-to-accelerate-and-democratize-chip-design/amp/",
-      "publishedDateTime": "2022-03-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-cea-leta-finds-inspiration-for-edge-ai-in-insects-nervous-systems.md",
-      "title": "CEA-Leta finds inspiration for edge AI in insect’s nervous systems",
-      "excerpt": "Scientist Elisa Vianello has received a grant to use novel nanoscale memory technologies that mimic the biological mechanisms from insects to create silicon-based, energy-efficient nanoscale systems for edge AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/crickets.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/cea-leta-finds-inspiration-in-insects-nervous-systems-for-edge-ai/amp/",
-      "publishedDateTime": "2022-03-30T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-spirit-uses-facial-recognition-at-atlanta-ga-airport.md",
-      "title": "Spirit Uses Facial Recognition at Atlanta, Ga., Airport",
-      "excerpt": "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
-      "originalUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
-      "publishedDateTime": "2022-03-30T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-513-billion-by-2026.md",
-      "title": "AI in Computer Vision Market Opportunity Analysis and Industry Forecast worth $51.3 billion by 2026",
-      "excerpt": "[246 Pages Report] AI in computer vision market size is projected to grow from USD 15.9 billion in 2021 to USD 51.3 billion by 2026, at a CAGR of 26.3% from 2021 to 2026. The report “AI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/ab26388344/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/ab26388344/ai-in-computer-vision-market-opportunity-analysis-and-industry-forecast-worth-51-3-billion-by-202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26388344",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26388344",
-      "publishedDateTime": "2022-03-30T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies.md",
-      "title": "Meta AI’s open-source system attempts to right gender bias in Wikipedia biographies",
-      "excerpt": "Meta AI's open-sourced the model and corresponding dataset relates to not only women, but women in science and those located in Asia and Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/women-in-tech.jpg?fit=800%2C598&strip=all",
-          "width": 800,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/meta-ais-open-source-system-attempts-to-right-gender-bias-in-wikipedia-biographies/amp/",
-      "publishedDateTime": "2022-03-30T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance.md",
-      "title": "How Nvidia is harnessing AI to improve predictive maintenance",
-      "excerpt": "Nvidia is pursuing a tech-stack-based approach starting with new silicon to help manufacturers make sense of the massive amount of data and help with predictive maintenance, which is core to many organizations' Maintenance,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/",
-      "originalUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-nvidia-is-harnessing-ai-to-improve-predictive-maintenance/amp/",
-      "publishedDateTime": "2022-03-30T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-peopleai-ceo-oleg-rogynskyy-on-using-ai-to-promote-sales-and-revenue.md",
-      "title": "People.ai CEO Oleg Rogynskyy on Using AI to Promote Sales and Revenue",
-      "excerpt": "An expert in the field explains that AI is very much in its infancy – but has enormous potential in the near term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
-      "originalUrl": "https://www.eweek.com/it-management/people-ai-ceo-oleg-rogynskyy-using-ai-to-promote-sales-and-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-9.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

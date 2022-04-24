@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-tech-aid-visually-impaired-benef
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-tech-aid-visually-impaired-benefit.amp"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Remote sighted assistance technology may benefit from human-AI collaboration"
+    excerpt: "Remote sighted assistance (RSA) technology -; which connects visually impaired individuals with human agents through a live video call on their smartphones -; helps people with low or no vision navigate tasks that require sight."
+    publishedDateTime: 2022-04-24T19:03:00Z
+    webUrl: "https://www.news-medical.net/news/20220422/Remote-sighted-assistance-technology-may-benefit-from-human-AI-collaboration.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 16
 
 secured: "vwsfscQcbDjpnpkW/s4ayrQTNCvfsb3PiC/TGXmRz266oWElW/gfzKyTpixxU0jNDFYcql7PLqwQCXycxXUrJEicNoX0RHTWCVrysasvgodxmt1/lDkrGsJzuKI8NFc6zpzddmHQhlXe5IFa3yYgvOELdC4CUtlG3Ui4LnZyw87Y+Q3lJTCzuvXEEy6tydaFbJFwmK8dC1ufN0vvnYfTdTvYb/YyluW7Zxo7+G/BlSEXWMjKhjaksmePckCAB201DEFKUr20tmjewfrpyHdHcEccuiUI7R3cdTgCS9KbjDzVofWv1Ci3JizpVhUKhOd0XO0eDhp16gROFCFJnErYLfdIVtPwQBlpH61ngCVxDXE=;uyx/IVM23MRsTfZQEQ26lA=="
 ---

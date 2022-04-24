@@ -10,7 +10,7 @@
       "originalUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -151,7 +151,7 @@
       "originalUrl": "https://techxplore.com/news/2022-04-neural-network-harnesses-made-to-order-pair.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -364,6 +364,49 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
+      "title": "Neural network model helps predict site-specific impacts of earthquakes",
+      "excerpt": "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -873,6 +916,58 @@
       ]
     },
     {
+      "path": "_news/2022-04-14-deep-learning-market-size-analysis-by-share-emerging-trends-future-growth-demand-forecast-applications-global-forecast-2022-2031.md",
+      "title": "Deep Learning Market Size, Analysis by Share, Emerging Trends, Future Growth, Demand Forecast, Applications – Global Forecast 2022-2031",
+      "excerpt": "Apr 14, 2022 (AmericaNewsHour) -- The report titled Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-analysis-by-share-emerging-trends-future-growth-demand-forecast-applications-global-forecast-2022-2031-2022-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-analysis-by-share-emerging-trends-future-growth-demand-forecast-applications-global-forecast-2022-2031-2022-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-14T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-neural-network-market-growth-2022-2028-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
       "title": "Neural Network Market Growth (2022-2028), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions",
       "excerpt": "Global “Neural Network Market” (2022-2028) research report gives an outline of the business with orders, applications",
@@ -1182,8 +1277,8 @@
       "title": "Deep Learning to 'Blow Up' Famed Fluid Equations",
       "excerpt": "For more than 250 years, mathematicians have been trying to “blow up” some of the most important equations in physics: those that describe how fluids flow. If they succeed, then they will have discovered a scenario in which those equations break down ...",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html",
-      "originalUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html",
+      "webUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html#!",
+      "originalUrl": "https://www.realclearscience.com/2022/04/13/deep_learning_to_blow_up_famed_fluid_equations_826844.html#!",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1291,24 +1386,33 @@
     {
       "path": "_news/2022-04-13-unionai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology.md",
       "title": "Union.ai Raises $10M in Seed Funding for AI and ML Orchestration Technology",
-      "excerpt": "Union.ai offers new services on top of Flyte so that ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in ...",
+      "excerpt": "Union.ai offers new services on top of Flyte so that users can integrate ... here to help them every step of the way through a cloud offering that allows them to start building production-grade ML pipelines in minutes.\" Flyte originated at Lyft, where ...",
       "sourceUrl": null,
-      "webUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
-      "originalUrl": "https://wgno.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
+      "webUrl": "https://www.wwlp.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
+      "originalUrl": "https://www.wwlp.com/business/press-releases/cision/20220412SF22410/union-ai-raises-10m-in-seed-funding-for-ai-and-ml-orchestration-technology/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1795027/Union_AI.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T11:13:00-07:00",
+      "publishedDateTime": "2022-04-12T11:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
+        "name": "WWLP",
+        "domain": "wwlp.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1320,103 +1424,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-ai-hardware-pc-gaming-rig-maker-partner-on-powerful-aiml-laptop.md",
-      "title": "AI hardware, PC gaming rig maker partner on powerful AI/ML laptop",
-      "excerpt": "AI hardware company Lambda and PC gaming rig maker Razer are hoping to steal some thunder from Apple's M1 Max-powered MacBook Pro with a new laptop designed explicitly for machine learning engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
-      "originalUrl": "https://www.theregister.com/2022/04/12/lambda_to_ml_engineers_dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/12/lambda.jpg",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/12/lambda_to_ml_engineers_dont/",
-      "publishedDateTime": "2022-04-12T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-unionai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration.md",
-      "title": "Union.ai raises $10M to simplify AI and ML workflow orchestration",
-      "excerpt": "Union.ai, a startup emerging from stealth with a commercial version of the open source AI orchestration platform Flyte, today announced that it raised $10 million in a round contributed by NEA and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
-      "originalUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1254825733-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/12/union-ai-raises-10m-to-simplify-ai-and-ml-workflow-orchestration/amp/",
-      "publishedDateTime": "2022-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

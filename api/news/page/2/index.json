@@ -64,7 +64,7 @@
       "originalUrl": "https://techxplore.com/news/2022-04-neural-network-harnesses-made-to-order-pair.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -631,50 +631,6 @@
       ]
     },
     {
-      "path": "_news/2022-04-21-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript.md",
-      "title": "Tesla, Inc. (TSLA) CEO Elon Musk on Q1 2022 Results - Earnings Call Transcript",
-      "excerpt": "Q1 2022 Results Conference Call April 20, 2022 05:30 PM ET Company Participants Martin Viecha - VP, IR Elon Musk - CEO Zachary Kirkhorn - CFO Andrew",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "publishedDateTime": "2022-04-20T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
       "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
       "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
@@ -994,7 +950,7 @@
       "originalUrl": "https://www.infoworld.com/article/3658208/microsoft-unifies-large-scale-data-management-under-purview-framework.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1215,6 +1171,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-graymatter-robotics-earns-rbr50-innovation-award.md",
+      "title": "GrayMatter Robotics Earns RBR50 Innovation Award",
+      "excerpt": "GrayMatter Robotics announced that it won an RBR50 Innovation Award as one of the 50 leading robotics companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2022/graymatter-robotics-awarded-rbr50-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/36ccf36b-766b-4539-8640-f929de8e451d/Graymatter-news-April-20-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/f6fb8c7/2147483647/strip/true/crop/3830x2359+0+257/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F03%2F29%2F2-copy-9fa3de93ec0c9713951c32b0a5d0b41a53a05646.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "publishedDateTime": "2022-03-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and.md",
       "title": "Here's how Americans view facial recognition and...",
       "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
@@ -1316,50 +1360,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.md",
-      "title": "Clearview AI commercialization of facial recognition raises concerns, risks",
-      "excerpt": "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
-      "originalUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/facial_recognition_technology_thinkstock_851960116-100749431-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
-      "publishedDateTime": "2022-03-08T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

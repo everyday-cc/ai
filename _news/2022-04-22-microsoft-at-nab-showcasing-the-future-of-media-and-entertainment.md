@@ -128,20 +128,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Top 6 alternatives to Microsoft’s DeepSpeed"
-    excerpt: "Over the years, many open-source deep learning optimisation libraries have been announced by tech giants but DeepSpeed remains one of the most popular."
-    publishedDateTime: 2022-04-20T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-6-alternatives-to-microsofts-deepspeed/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Top-6-alternatives-to-Microsofts-DeepSpeed.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft to Initiate Two Schemes to Promote Start-ups"
     excerpt: "Microsoft announces two initiatives to help grow start-ups and foster entrepreneurship in the country. Read all about it here!"
     publishedDateTime: 2022-04-21T08:40:00Z

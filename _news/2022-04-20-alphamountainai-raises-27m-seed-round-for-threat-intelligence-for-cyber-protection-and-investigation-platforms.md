@@ -3,21 +3,26 @@ category: news
 title: "alphaMountain.ai Raises $2.7M Seed Round for Threat Intelligence for Cyber Protection and Investigation Platforms"
 excerpt: "Co-Founders John Ahlander and Matthew Wood Draw Upon Decades of Artificial Intelligence, Security Experience to Raise Seed Fund Led By Mercato Partners' Prelude Fund"
 publishedDateTime: 2022-04-20T12:31:00Z
-originalUrl: "https://www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.html"
-webUrl: "https://www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.html"
-ampWebUrl: "https://www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.amp.html"
-cdnAmpWebUrl: "https://www-hjnews-com.cdn.ampproject.org/c/s/www.hjnews.com/news/state/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_772d0794-fec4-543b-a47b-a41bc6a225e3.amp.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/alphamountain-ai-raises-2-7m-seed-round-for-threat-intelligence-for-cyber-protection-and-investigation/article_57632ddd-01d9-532d-aa86-0001294cf829.html"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Herald Journal
-  domain: hjnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e0/4e0879f3-175e-52af-aed5-a6e071288a84/625ffd533e304.image.jpg?crop=941%2C494%2C879%2C0&resize=941%2C494&order=crop%2Cresize"
+    width: 941
+    height: 494
+    isCached: true
 
 related:
   - title: "AlphaMountain.ai raises $2.7M to launch AI-driven threat intelligence feeds"
@@ -46,6 +51,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "tHApN4qXFPDeSPzYdHbYPL/5idrcWf/mN8o5FRghCvdjdSWVvwhXKH+XZB3TmAQxjUAStLJVYfiwwsiktg81PrQ2+0PPKTobisfLy7Dnry1wNXdqoW4/lcWOHPQTmeHItk8gBb+TGtNyz+16cUX2QbC7SS7+hJtFZI5ROGI5e7nhqRMqGQBGBEiQbxzREZ6z6raOSrxf3IBcBw51d9z1oDYL5EOLen+UPD8jXqqWehoMBcj4Y1A5UyZeB1Fa09xqvwLpKAnq9/C6+vCjtBwJo5qOO3Gj5nYcTd7AA6RGiUDockKBekWIIOIuZA89Lzcx4AS0APGKpzLga4cVKg8IG1BU7bF8Y6G/QfLcgZRR/J3/U9zORsgcoZnLcVn9HoZ1hqPcexgcVJp7xSrVV6GfXIAEAVt6ajH5vhAIGb3lQMaOhfk/bwTkJXiByzBAJBOZ1xocD9JjtNNZCP5VgtyqWAKrSv9Q2vmHqMLYRjjWwUvsY8IdVPm6glPPrbcc42Di1Zvr5uXWVCnYztsrsV3HIA==;xDgsYOOV6nF0O/ijG2cZTw=="
+secured: "iX7OxskXeerQocm0OD2+wDhqL5N9mYl5o20Ynn8WfOxox1k//Iy9mppcHDzVyYCHp/cDcKwSvRKf3UkyhQxs4bYQ7BLch4lWEUEXT2FizcnxIVLIn+HIMftGSz+1VUYWASL7VgEZz6AikxASOPLz0YiI+nAqAYgcKMsJtGHS4SE0DAdZ+Pyc6KbLaGHbyKMky/2HzUvz4Wjag7w7RockBxJOLl7IgwMDbSo0hVV8BHcAvxhCVGzYqzVY50px2WY3YwWZB+GGK8RtxqS+UdPnEqGmaCH97WkqX3bvi2Xfiy80uNhstQy1StXyGK2HWagTziIs0guX+5MRfw2YTIH4j44uvdO1d+CcckIos8BkwTk=;/3SgY1nh/PAAqGZr6ML24w=="
 ---
 

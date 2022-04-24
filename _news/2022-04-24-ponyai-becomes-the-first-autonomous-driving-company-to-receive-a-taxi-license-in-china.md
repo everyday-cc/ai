@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Pony.ai Becomes the First Autonomous Driving Company to Receive a Taxi License in China"
-excerpt: "A breakthrough for Pony.ai’s commercialization of robotaxi services: for the first time in China, an autonomous driving platform will be offered alongside traditional taxi and ride-hailing platforms,"
-publishedDateTime: 2022-04-24T05:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=651753"
-webUrl: "https://us.acrofan.com/detail.php?number=651753"
+excerpt: "Pony.ai, the leading global autonomous driving technology company, announced it is the first and only autonomous driving (AD) company to obtain a taxi license in China. Pony.ai was awarded a permit to operate 100 autonomous vehicles as traditional taxis in Nansha,"
+publishedDateTime: 2022-04-24T02:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-china-guangzhou-ab2ad9a5aa0947c4bf384dd148cb8b76"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-china-guangzhou-ab2ad9a5aa0947c4bf384dd148cb8b76"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "bjZPHHKIL8fDBFsBQB4CY7qNMINtZoYPLsovoaDh+QK983zMgOizjPkeS53C+gMwNf4AeJtk+kvK4PMOVyZxo1uDMizDyqzxzmb/2xW7LVeVMGJqQYtOXfTfF8tq4hPJvyJ6rh5P4VCj4Bx5U5KTS5gwGwaY805fNPtgBQNJGEpqWOPJJQbkYowdBe+WI5Horndb0IqKzOR0Yo6SbritDJZKJHZG+W6PJcXsp2UH5Mf62zdQZ447xCPVRDOBZ09LmgKfBoSFfYdpitHCXa1z2Mkmj6lEXkLE2tZBhniLDI6GBSY/bkuFBBpl9sZCH+QhYPCopjFbEQ8+kIontV4DFmTHrQYvvUtakqP0MlpwFHE=;LmB9wYWBr3sulmE1mTTZxw=="
+secured: "gKcqMNwQzP6ljm2/ACLx1amLRjEs5/CpipNLR8VRF0dn6CXeuRkOMRnYickfHHZeGssM/7nNVuN2ip1MNOFgu1IRJiaq8OkncDc3MJUXP26K7yIJtxH/d7N1Zmid3RDz+ng8Tk3MyndE8QTLuy4SvRp6pKD81dToU1Go19jn2jL+32xwp4lpKljxMylsyNibOHrPdwpI5Dh4IOXM5Y/7WhI0vN7nzk7+VpWSJs/blCvWdT1xTaCh90c9rOK6d/hRRnH78MEN3g9I1iPIsWxsBlyCw8tv94SPiJgbMslEnQSm+HyJyI0WFCBSWUaOBlKD4NzdsjEqJgUyoF2BiD/cE/kEinR3WfHZJySgbhAsawM=;iF/1Sv2f7IpxH4nd3EGTOA=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-12-panera-testing-cookright-robot-coffee-maker.md",
-      "title": "Panera testing CookRight robot coffee maker",
-      "excerpt": "... chain Panera Bread to test its latest robot, a coffee maker that can brew the perfect cup of coffee. Pasadena, California-based Miso said its CookRight Coffee line uses artificial intelligence to monitor key coffee metrics such as volume, temperature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
-      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ksdk.com/assets/KSDK/images/e63dcc34-0e0e-4244-905f-b7d4f30992d7/e63dcc34-0e0e-4244-905f-b7d4f30992d7_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
-      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
-      "publishedDateTime": "2022-04-12T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSDK",
-        "domain": "ksdk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
       "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
       "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
@@ -331,6 +288,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china.md",
+      "title": "Dystopian scenes of robots enforcing lockdown emerge from China",
+      "excerpt": "Recently, a Twitter user @JayinShanghai posted a similar video of robot dogs ... by any great mind of science fiction writers,’ said another. ‘Being told to control my soul’s desire ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/",
+      "originalUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/goh-rhy-yan-p_5BnqHfz3Y-unsplash-6624.jpg?quality=90&strip=all&zoom=1&resize=600%2C450",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/amp/",
+      "publishedDateTime": "2022-04-08T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

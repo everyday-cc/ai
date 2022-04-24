@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-04-17-build-tensorflow-lite-for-android.md",
+      "title": "Build TensorFlow Lite for Android",
+      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "originalUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?hl=pt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-tensorflow-lite-nnapi-delegate.md",
+      "title": "TensorFlow Lite NNAPI delegate",
+      "excerpt": "The Android Neural Networks API (NNAPI) is available on all Android devices running Android 8.1 (API level 27) or higher. It provides acceleration for TensorFlow Lite models on Android devices with supported hardware accelerators including: Graphics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/delegates/nnapi",
+      "originalUrl": "https://www.tensorflow.org/lite/android/delegates/nnapi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-ai-is-mastering-language-should-we-trust-what-it-says.md",
       "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
       "excerpt": "OpenAI’s GPT-3 and other neural nets can now write original prose with mind-boggling fluency — a development that could have profound implications for the future.",
@@ -105,8 +211,8 @@
       "title": "What's next for AlphaFold and the AI protein-folding revolution",
       "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the 3D shape of proteins from their genetic sequence with,",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5?_hsenc=p2ANqtz-_s1ONV9SShN3rlty-ov2ErbBstFU1sq4WIGc0RO1XHSBZZ40D1K0HXlO9s0K7l_ME1axOd",
+      "webUrl": "https://www.nature.com/articles/d41586-022-00997-5",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-00997-5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1399,93 +1505,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-all-symbols-in-tensorflow-probability.md",
-      "title": "All symbols in TensorFlow Probability",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-the-funded-linkedin-co-founder-reid-hoffman-has-teamed-up-with-deepmind-vets-on-a-new-ai-startup.md",
-      "title": "The Funded: LinkedIn co-founder Reid Hoffman has teamed up with DeepMind vets on a new AI startup",
-      "excerpt": "Hoffman, who co-founded LinkedIn Corp., launched the new company with Mustafa Suleyman and Karen Simonyan, both veterans of DeepMind, Google LLC's artificial intelligence research unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/03/09/linkedin-deepmind-co-founders-launch-ai-startup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

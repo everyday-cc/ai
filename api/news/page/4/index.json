@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-19-implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022.md",
+      "title": "IMPLICITY® to Showcase New Artificial Intelligence-based Innovations in Remote Cardiac Monitoring at HRS 2022",
+      "excerpt": "Varma will chair the session and discuss how artificial intelligence (AI ... IMPLICITY® develops AI and knowledge based algorithms to reduce healthcare professionals workload and allow to potentially predict patient health status. The IMPLICITY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "originalUrl": "https://www.cbs42.com/business/press-releases/cision/20220419NE26882/implicity-to-showcase-new-artificial-intelligence-based-innovations-in-remote-cardiac-monitoring-at-hrs-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS 42",
+        "domain": "cbs42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-the-great-recognition-achievers-report-reveals-recognition-reduces-turnover.md",
       "title": "The Great Recognition: Achievers Report Reveals Recognition Reduces Turnover",
       "excerpt": "More than half (57%) of employees say feeling recognized would reduce the likelihood that they would take a call from a headhunter, according to the latest State of Recognition Report from Achievers Workforce Institute,",
@@ -956,6 +990,49 @@
       ]
     },
     {
+      "path": "_news/2022-04-18-neural-network-model-helps-predict-site-specific-impacts-of-earthquakes.md",
+      "title": "Neural network model helps predict site-specific impacts of earthquakes",
+      "excerpt": "Using data on microtremors in Japan, a neural network model can estimate site ... Seismological Society of America introduced a novel artificial intelligence (AI)-based technique for estimating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/04/220418094002.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-18-elon-musk-there-will-likely-be-a-humanoid-robot-in-every-home-by-2050.md",
       "title": "Elon Musk: There will likely be a humanoid robot in every home by 2050",
       "excerpt": "Tesla CEO Elon Musk thinks that the company will have an interesting prototype sometime this year and something interesting within at least two years.",
@@ -1094,99 +1171,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-using-an-ai-startup-logistical-problems-may-be-alleviated.md",
-      "title": "Using an AI startup, logistical problems may be alleviated",
-      "excerpt": "Since the start of the Covid-19 outbreak ... There are no easy remedies to the global supply chain issue, of course. AI-powered company Optimal Dynamics secured $33 million in series B funding last week headed by the Westly Group, which is helping ...",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/using-an-ai-startup-logistical-problems-may-be-alleviated/",
-      "originalUrl": "https://bestgamingpro.com/using-an-ai-startup-logistical-problems-may-be-alleviated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/04/AI-startup-helps-tackle-logistics-nightmares.png",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-ai-startup-helps-tackle-logistics-nightmares.md",
-      "title": "AI startup helps tackle logistics nightmares",
-      "excerpt": "Optimal Dynamics, an AI-powered startup, is helping trucking companies solve their particular logistical nightmares by automating and optimizing their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
-      "originalUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/bigstock-Richmond-County-Ga-Usa-427143116.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/18/ai-startup-helps-tackle-logistics-nightmares/amp/",
-      "publishedDateTime": "2022-04-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

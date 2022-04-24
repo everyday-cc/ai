@@ -113,20 +113,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Trend, Growth, Segmentation and Forecast to 2027"
-    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a"
-    publishedDateTime: 2022-04-20T04:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-trend-growth-segmentation-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/mrfr-logo-2-4.jpg?w=1024"
-        width: 1024
-        height: 359
-        isCached: true
   - title: "FinTech Market Size to Reach USD 16652680 Million by 2028 at a CAGR of 13.9% | Valuates Reports"
     excerpt: "BANGALORE, India, April 21, 2022 /PRNewswire/ --The Global FinTech Market is Segmented by Type (API, AI, Blockchain, Distributed Computing, Cryptography), by Application (Asset Management, Financing, Payments): Opportunity Analysis and Industry Forecast ..."
     publishedDateTime: 2022-04-21T15:24:00Z

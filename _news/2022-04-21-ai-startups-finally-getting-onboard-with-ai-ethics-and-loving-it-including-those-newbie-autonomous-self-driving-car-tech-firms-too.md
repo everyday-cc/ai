@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-final
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/21/ai-startups-finally-getting-onboard-with-ai-ethics-and-loving-it-including-those-newbie-autonomous-self-driving-car-tech-firms-too/amp/"
 type: article
 quality: 76
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2018/07/AP18129645375784-1019x573.jpg"
         width: 1019
         height: 573
-        isCached: true
-  - title: "Self-driving car users could watch films on motorway under new DfT proposals"
-    excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
-    publishedDateTime: 2022-04-20T03:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals?ref=biztoc.com&curator=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_480_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=a4ec41422d81b1485f29e726e52da277"
-        width: 620
-        height: 372
         isCached: true
   - title: "Driven to distraction: how close are we to watching films in self-driving cars?"
     excerpt: "DfT has proposed some measures to smooth way for adoption of autonomous vehicles on British roads Self-driving cars could lead to drivers being allowed to watch films on the motorway, under changes to the Highway Code proposed by the Department for ..."

@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Is Creating a New Colonial World Order"
 excerpt: "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,"
 publishedDateTime: 2022-04-19T17:27:00Z
-originalUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order"
-webUrl: "https://pulitzercenter.org/stories/artificial-intelligence-creating-new-colonial-world-order"
+originalUrl: "https://pulitzercenter.org/fr/node/26547"
+webUrl: "https://pulitzercenter.org/fr/node/26547"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 600
     isCached: true
 
-secured: "m1CGdl2KNS6elkdw8HNV+gtRlaa7A/KXenmIr14tsVUY//XMSvlVPi39qlWFr0g3XCAs7zfK6k9S5xQnmd51RGbBEKMQlx1dkpFk5kBWbgCcNnpFGCO8j7CfFCf3ZT8CGlROxaXClhkIYtUDF/INyrs4su68/GG+n+wAFWUzpwQhrnILtMe85RWaHTa1Ku6W+7sNBfBR6rErJhy61al8bGonezr7BgJjc2itnHZxRoN2xSlQA1pUcH9kKPISzZ1jPCyckO6r+5M2543o0nZie8DDgegmjUcLbyVwgh7Fnc2FUmQorf/jsT27Z4fl/oHHEXOMQwz4nuZsuGJHwnu2pndT1lp5VNEfiaID6NaT6gM=;40juKW44T9TZ7jw9jfGi+A=="
+secured: "sWzfVQhgrhbGzzg40ZnkOKssRF+tGFcMrRdCWJouIAgR+bCfEYKUGqBPZ3M27mQwVcGQyqUoUzsN66ELNZat0hds3ZLEt80zqwsFoMGk+aq99tADchQPcmKFlfGzlrB+xY7xkgT+FQwvq+VBWq0eLJitaZiKB2flztMLIt+rWVd4wR815L9rVbSItZEwtSoIBe2NFRyTEkmCn0e+Lau5ya9PKnZj6D5wjGRfQd+p5H6VBheWYsAEZDF24CTpkRwiY8q+H0MB04ClAGEmOWgfdQP7gEnkrrcX9yjJ5YLxmo1Nqq0esAcXUR1tgAuUJp14NC8a9wmm/ukA5ZiqX+WQCPk0WnKH5uJ5f0dGvND8agU=;cApxfcqB4s+vjySheoHT0A=="
 ---
 

@@ -109,22 +109,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Self-driving car users could watch films on motorway under new DfT proposals"
-    excerpt: "Proposed interim measures include making insurance companies liable for accidents in self-driving vehicles"
-    publishedDateTime: 2022-04-20T03:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals?ref=biztoc.com&curator=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/20/self-driving-car-users-could-watch-films-on-motorway-under-new-dft-proposals"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 41
-    images:
-      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_480_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=a4ec41422d81b1485f29e726e52da277"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Everything you can and can't do in self-driving cars - from drinking to using phone"
     excerpt: "Motorists were told this morning that when driverless cars come in they will be able to watch films behind the wheel, but there is a list of other rules they will have to stick to"
     publishedDateTime: 2022-04-20T10:25:00Z

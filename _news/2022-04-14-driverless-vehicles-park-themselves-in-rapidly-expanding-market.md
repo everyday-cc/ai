@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "9MX5Xhwm3ac2kw3hc9Go9lDi7I27IoyNNoOrbt/TzyhzfUvMGdTHgCJe+epQ6/hu+4OT9/4b/CN0XqF4qLLXHl6z6rLL8tLFgvtk65GlX/AQFohDIBZz31LNwfHSBzlrMLruL5VZJ/BFDPpqp35bdi7quiw+RjHoV5oOJ+Jx1cinj8mj0EFTslABWv6WOLv6Yz1on0NbD4qTL63Am//mjz2igGdCAXngrwAh1zRNAMUliu3C7H1Lj5HUdVYlM6wroqF6SBI+bKL/iWrFTK8rgQ3YhELy7XiN6co/5CuTKZCAwGlC3XnyBU6lJISugfqpcwX9vE4EnKRYVYb3aih3de3zECzWT/CPzXyzs6O0Rt4=;oW7R3Aq47JqtTLReKx3cFg=="
+images:
+  - url: "http://img2.chinadaily.com.cn/images/202204/14/62577051a310fd2bec82d41d.jpeg"
+    width: 718
+    height: 478
+    isCached: true
+
+secured: "pUqihIZOli2PlZA8HrgN40oStfVP5bIjmjXatfSvRakEdt3rqaW4SyxyTMeOSDc76VQptMwTwoD8lCVI8v8PlCj5D2UrUkyXvh5LtmHHdP8flCSxzfuwQ1DaY70czyC3QI76zZfWWDvwSKiub7Vcy+KVQfX6ZXB6KCxNFBIQt80s22H3vy0cAzzipad/+fl2cdyJsIIA9p7aq1Z82lRHiutFhpdsG9wFwslX4KYypXzOodiOntklvhUgGTIzVTVIEO5MJ39UAeUx58XyXwd9xJVVWWjKw2lcbkIKDnyGuIkhv8/rTI/7tYer5oenxdqZLyv2RHjh3p0kKNkv+aqDsry8pfnOqnAgN1MQdsSfwpU=;qfGI/9V+lLJ5QdLSAuIFEA=="
 ---
 

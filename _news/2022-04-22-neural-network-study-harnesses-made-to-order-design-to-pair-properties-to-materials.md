@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-04-neural-network-harnesses-made-to
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-neural-network-harnesses-made-to-order-pair.amp"
 type: article
 quality: 68
-heat: 78
+heat: 79
 published: true
 
 provider:

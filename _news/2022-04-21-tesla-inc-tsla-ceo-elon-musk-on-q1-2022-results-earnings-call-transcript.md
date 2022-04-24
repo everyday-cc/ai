@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Seeking Alpha
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "International Business Machines Corporation's (IBM) CEO Arvind Krishna on Q1 2022 Results - Earnings Call Transcript"
-    excerpt: "Q1 2022 Earnings Conference Call April 19, 2022, 5:00 PM ET Company Participants Patricia Murphy - Vice President,"
-    publishedDateTime: 2022-04-20T01:21:00Z
-    webUrl: "https://seekingalpha.com/article/4502264-international-business-machines-corporations-ibm-ceo-arvind-krishna-on-q1-2022-results"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4502264-international-business-machines-corporations-ibm-ceo-arvind-krishna-on-q1-2022-results"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502264-international-business-machines-corporations-ibm-ceo-arvind-krishna-on-q1-2022-results"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 23
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Elon Musk: Tesla's robotaxis will be driving you around in 2024"
     excerpt: "Tesla CEO Elon Musk says that it plans dedicated robotaxis without steering wheels, or pedals, to hit the market by 2024."
     publishedDateTime: 2022-04-21T23:30:00Z

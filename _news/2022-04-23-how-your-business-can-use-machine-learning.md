@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s why robots may be the missing link for your business growth"
+    excerpt: "Out of over 4,000 firms surveyed in 2021, the report shows that the 10% making the biggest revenues invested heavily in Robots. Read more"
+    publishedDateTime: 2022-04-24T20:54:00Z
+    webUrl: "https://www.rudebaguette.com/en/2022/04/heres-why-robots-may-be-the-missing-link-for-your-business-growth/"
+    type: article
+    provider:
+      name: Rude Baguette
+      domain: rudebaguette.com
+    quality: 39
+    images:
+      - url: "https://www.rudebaguette.com/wp-content/uploads/thumbs/david-leveque-GpNOhig3LSU-unsplash-scaled-3fhuxnif4cdu314ifihnnk.jpg"
+        width: 920
+        height: 560
+        isCached: true
   - title: "Deploying AI in Your Business? Don't Forget This Department"
     excerpt: "AI can supercharge the compliance process. Many companies believe more is better when it comes to due diligence. But trying to track every news article, social media post or regulatory update concerning every customer or partner leaves many compliance professionals drowning in data,"
     publishedDateTime: 2022-04-21T21:33:00Z

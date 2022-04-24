@@ -2,6 +2,421 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-03-23-training-fundamentals-of-deep-learning-cuda.md",
+      "title": "Training: Fundamentals of Deep Learning & CUDA",
+      "excerpt": "Fundamentals of Deep Learning & CUDA, May 2 nd – May 4 th 2022 Content. Accelerators are ubiquitous in today's HPC landscape, offering much higher performance c",
+      "sourceUrl": null,
+      "webUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
+      "originalUrl": "https://www.uibk.ac.at/fz-hpc/news/fundamentals-of-deep-learning---cuda.html.en",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uibk.ac.at/images/900x-auto/fz-hpc/news/images/nvidia_course_news.png",
+          "width": 900,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "uibk.ac.at",
+        "domain": "uibk.ac.at",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-the-best-rated-upright-vacuums-stick-vacuums-robot-vacuums-and-mop-vacuums-you-can-buy-in-2022.md",
+      "title": "The best rated upright vacuums, stick vacuums, robot vacuums and mop vacuums you can buy in 2022",
+      "excerpt": "And a large number of vacuums are now on sale for spring cleaning-- we weren't seeing these kind of deals back in January. And if you absolutely hate vacuuming? Robot vacuums such as the iRobot Roomba do the job for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/01/06/2c5d3573-a0ae-4af6-9e76-f19a57a6d6c6/thumbnail/1200x630/2dda76924cd88bd34e6590b6757c0697/gettyimages-1280594007.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-rated-upright-stick-robot-and-mop-vacuums-you-can-buy/",
+      "publishedDateTime": "2022-03-22T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more.md",
+      "title": "Companies are commercializing multimodal AI models to analyze videos and more",
+      "excerpt": "Multimodal AI systems, which can understand the relationships between video, text, audio, and more, are becoming commercialized.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouTube.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/companies-are-commercializing-multimodal-ai-models-to-analyze-videos-and-more/amp/",
+      "publishedDateTime": "2022-03-22T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-massachusetts-commission-sets-facial-recognition-guidelines.md",
+      "title": "Massachusetts Commission Sets Facial Recognition Guidelines",
+      "excerpt": "Recommendations issued to the state Legislature include banning the technology from being used for live surveillance and that local police be prevented from using it unless explicitly allowed to do so by law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
+      "originalUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/massachusetts-commission-sets-facial-recognition-guidelines?_amp=true",
+      "publishedDateTime": "2022-03-22T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-inspur-information-ai-servers-to-fully-support-the-newly-announced-nvidia-h100-tensor-core-gpu.md",
+      "title": "Inspur Information AI Servers to Fully Support the Newly Announced NVIDIA H100 Tensor Core GPU",
+      "excerpt": "AI speed and performance continues to accelerate with the introduction of faster NVIDIA GPUs and more efficient resource schedulingSAN JOSE, Calif.--(BUSINESS WIRE)--Inspur Information, a leading IT infrastructure provider,",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=635363",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=635363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100.md",
+      "title": "New DDN Storage Appliance Doubles Performance for NVIDIA DGX AI Solutions and Speeds Up Analytics and Machine Learning in the Cloud by 100%",
+      "excerpt": "Powering thousands of NVIDIA DGX™ systems, including NVIDIA's Selene and Cambridge-1 DGX SuperPOD systems, DDN offers a broad range of optimized AI data storage solutions for ap",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220322LA99166/new-ddn-storage-appliance-doubles-performance-for-nvidia-dgx-ai-solutions-and-speeds-up-analytics-and-machine-learning-in-the-cloud-by-100/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
+          "width": 283,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-openshift-410-red-hat-teams-with-nvidia-to-add-ai-and-machine-learning.md",
+      "title": "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning",
+      "excerpt": "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ad6d8154638891877cfc5fbbd7c0e66596230e02/2022/03/22/bc702cea-0e8e-4b50-810b-a34d658b876a/gettyimages-924478844-redhat-sign.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
+      "publishedDateTime": "2022-03-22T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-could-artificial-intelligence-completely-replace-human-financial-traders.md",
+      "title": "Could Artificial Intelligence Completely Replace Human Financial Traders?",
+      "excerpt": "AI is reshaping the world as we know it. Virtually every business process in every Industry is being transformed by Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
+      "originalUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEET9K0Dn35yQ/article-cover_image-shrink_600_2000/0/1647973633511?e=1654732800&v=beta&t=VAptDRD8gMp9dd5XwwbnYst6Qm5wJ5cbZoGUOR2PxuU",
+          "width": 546,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models.md",
+      "title": "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models",
+      "excerpt": "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fe1a54347f60483b6b6f64a48f5e3be7dec3ffc9/2022/03/22/059e1b3e-e145-4884-85a7-1e4139be8bfe/microsoftaizcodetranslation.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
+      "publishedDateTime": "2022-03-22T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
       "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
       "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
@@ -687,381 +1102,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-breyer-capital-backs-quantum-ai-startup-sandbox-aq.md",
-      "title": "Breyer Capital Backs Quantum AI Startup, Sandbox AQ",
-      "excerpt": "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-texas-4e7e00b9602e4a67a7a1fbc16b682bb0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-this-ai-predicts-extreme-local-weather-events.md",
-      "title": "How this AI predicts extreme local weather events",
-      "excerpt": "As climate change increases the intensity and frequency of extreme weather events, prediction has never been more important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-predicts-extreme-local-weather-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a52a9e865fc6c94a81086164d6118ca459e60169/2022/03/21/9eb7fcc9-a38f-4eae-89db-07887cd97eb6/gettyimages-182689622.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-predicts-extreme-local-weather-events/",
-      "publishedDateTime": "2022-03-22T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-tifin-announces-the-expansion-of-its-fintech-platform-for-personalized-charitable-giving-to-democratize-access-to-donor-advised-funds.md",
-      "title": "TIFIN Announces the Expansion of its Fintech Platform for Personalized Charitable Giving to Democratize Access to Donor Advised Funds",
-      "excerpt": "TIFIN's Louise Platform that allows advisors to enable personalized giving for their client families acquires Amicus.io to broaden access and meet clients' giving needs without minimums BOULDER, Colo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/03/22/9568051.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-evisort-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Evisort Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that Evisort is a winner in its inaugural Artificial Intelligence Excellence Awards program. Evisort is the leading provider of artificial intelligence (AI) solutions for contract management and analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/evisort-named-winner-in-2022-artificial-intelligence-excellence-awards/article_5d8d9a85-9a49-5348-b76f-5902c734ec82.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/ff/fff7e599-6920-5698-af49-458060661e82/6239ccec33715.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-pros-honored-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "PROS Honored in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "PROS® (NYSE: PRO), a market-leading provider of SaaS solutions optimizing shopping and selling experiences, today announced it has been named a winner for automated reasoning in the 2022 Artificial Intelligence Excellence Awards. Created by the Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a147706bea5e41fc88945fdd31bcca07",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a147706bea5e41fc88945fdd31bcca07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program.md",
-      "title": "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program",
-      "excerpt": "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-press-ganeys-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
-      "originalUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg",
-          "width": 320,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-ai-is-changing-the-world-of-finance.md",
-      "title": "How AI is changing the world of finance",
-      "excerpt": "The financial sector is well-known for seeking every possible edge to maximize its profits — thus, using machine learning and artificial ... financial services has slowly transformed into ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
-      "publishedDateTime": "2022-03-22T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award.md",
-      "title": "UJET Wins Prestigious Best of Enterprise Connect 2022 Overall Award",
-      "excerpt": "Disruptive Contact Center Platform Also Recognized for Innovative Use of Artificial Intelligence in CX UJET, Inc., the world’s most advanced cloud contact center provider, today announced it was awarded the 2022 Best of Enterprise Connect Overall distinction for CX Intercloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220322005820/ujet-wins-prestigious-best-of-enterprise-connect-2022-overall-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

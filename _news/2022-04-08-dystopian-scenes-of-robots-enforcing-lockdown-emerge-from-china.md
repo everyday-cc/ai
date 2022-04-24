@@ -2,15 +2,12 @@
 category: news
 title: "Dystopian scenes of robots enforcing lockdown emerge from China"
 excerpt: "Recently, a Twitter user @JayinShanghai posted a similar video of robot dogs ... by any great mind of science fiction writers,’ said another. ‘Being told to control my soul’s desire ..."
-publishedDateTime: 2022-04-08T15:00:00Z
-originalUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/?ico=tag-post-strip_item_1_news"
-webUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/?ico=tag-post-strip_item_1_news"
+publishedDateTime: 2022-04-08T07:48:00Z
+originalUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/"
+webUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/"
 ampWebUrl: "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Metro
@@ -26,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "74IQghQiy7Hu2KyxiZKDsBOegbwm97k4MMtZfsa97P7p8aFWlVTy03VPzLK9ycooljgX5xbNvzPjvlQA24ItCqKgf12vwkFMAydE42J+UysVCMsGEKm6NSYFCFrf/6b1k8ZuP4Kfos9gz5RJaIMbi9yvenXlYty9btd37iCGCY0XJj3mn4RJwBDa3585YPKz0QryglvZRSnJELlaAzUlWsPg7ajNT6C2Fjddzgg8YzZ7ItOHf4z9Pcxg+9IFpsWRODSsCXk0NiR43mY9/24BHoof7D2aSAFXKFLOnHIgkWk+JqVEcNKNjlVWX0BK3esEzSMjnpCpphz2ljVQsnsSL/yvB8iEar55KVNBntSkumbhUGyYgpUGQA3wcSFgEzz2m1MsGScNkSKNXlGhE2j855TugfyNY9pNkoc3f6L6YfigQdOsu8p7w316rZeA6diZO7xVNOjfXnifr46O026s2raASECm3mdKdr4pvg46QuoSK3/im/NwGa9a+P67Noh5j4LtyqH+WKTahBhurOeR3w==;3clOFzQc6DVD18XsOQrZEw=="
+secured: "vQF0K36EvZeCSicYQeoQlwYmn491EJLRWoKZZ5CYQZa3ktAz/asUqhnzPzy1vuxcZ122IELyEK8S7qwh0/njbdwT5zxJbjKH/aD0s+0Kd+k5LdYTOlCfyaa+jns0kh9ME1plQN+AgHDWPlwGKhPTY80ZB+dLBZtrtoEgIfrO5XuZVzqE3QKC3fuaCKs6LziJN9kybBdEiJPiu0ShBjBihFsLinA+UASaej1zF1uW9DOy7aw3hfTde9RxCFM7HA8muTyngYe8LyVKbAbAld/H8KtlPhjAma81jVUOnxn5GC9m4Z5yBW+ZYweDhJg9yCr1vgp2wC4TRy197zPsJQA+HdfpHJFmH4fdDTeAlgMOOes=;2Lnsv2enSWDo9NO2yAHgpg=="
 ---
 

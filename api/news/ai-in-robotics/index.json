@@ -157,7 +157,7 @@
       "originalUrl": "https://www.therobotreport.com/gist-researchers-teach-robots-to-identify-partially-hidden-objects/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -285,50 +285,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript.md",
-      "title": "Tesla, Inc. (TSLA) CEO Elon Musk on Q1 2022 Results - Earnings Call Transcript",
-      "excerpt": "Q1 2022 Results Conference Call April 20, 2022 05:30 PM ET Company Participants Martin Viecha - VP, IR Elon Musk - CEO Zachary Kirkhorn - CFO Andrew",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4502519-tesla-inc-tsla-ceo-elon-musk-on-q1-2022-results-earnings-call-transcript",
-      "publishedDateTime": "2022-04-20T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -1170,7 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Robotics"
       ]
@@ -1390,6 +1345,49 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-panera-testing-cookright-robot-coffee-maker.md",
+      "title": "Panera testing CookRight robot coffee maker",
+      "excerpt": "... chain Panera Bread to test its latest robot, a coffee maker that can brew the perfect cup of coffee. Pasadena, California-based Miso said its CookRight Coffee line uses artificial intelligence to monitor key coffee metrics such as volume, temperature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "originalUrl": "https://www.ksdk.com/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ksdk.com/assets/KSDK/images/e63dcc34-0e0e-4244-905f-b7d4f30992d7/e63dcc34-0e0e-4244-905f-b7d4f30992d7_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/local/business-journal/st-louis-bread-co-panera-testing-cookright-robot-coffee-maker/63-cecac213-643b-4aa1-b662-cfabebe495bf",
+      "publishedDateTime": "2022-04-12T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSDK",
+        "domain": "ksdk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

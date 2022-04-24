@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/fintech-elevate-wealth-managemen
 webUrl: "https://www.digitaljournal.com/pr/fintech-elevate-wealth-management-amcap-expands-intelligent-developments"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Fintech Liquidity Group gets $775m in capital commitments"
-    excerpt: "Using AI that does due diligence within 72 hours vs. an industry norm of up to 12 weeks, Liquidity has provided more than $1b in capital to companies."
-    publishedDateTime: 2022-04-20T04:25:00Z
-    webUrl: "https://www.israel21c.org/fintech-liquidity-group-gets-775m-in-capital-commitments/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 24
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2022/04/liquidity-main.jpg"
-        width: 1600
-        height: 898
-        isCached: true
 
 secured: "6cUFk/yQ8xyzcWR1kfM0NZ5gMuvoGGHmakDinbW610KiCI4ITwgMM9DjGK6FBSABgg7NzVsoycEVVZRgnpr/BiX71ed+zx61ug6P33iF1rTW3Yvb0KMQweB1UPyAs3Ygz7qbjLRw1KPMT3R+xnrjoUCAxs68Hdhrvuc6Zc7TIjvToVATVjVMcWIwNjUbiajNsvM5guTj9f/5bqm/O6nBytBacREu3NMWPUBLT0BgaGIMzFLO21+nEEpGIFrRF14iwr85a/wvCKCLyvABaBfUNheIzIjf3rfebF+8BQAURjGb2+3A6fuGHDtAlWcAQ9vWSXCUAJYB3VGNIHnVbJOa9jcTfD9yYi/Dhlc6YgvyCVk=;GL/aegfsXMh5WgycRZiZRw=="
 ---

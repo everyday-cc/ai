@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.at/nachrichten/amp/medical-ai-startup-lunit-get
 cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq-1031372387"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -21,14 +21,14 @@ topics:
 
 related:
   - title: "Medical AI Startup Lunit gets Preliminary Approval to go Public on KOSDAQ"
-    excerpt: "Lunit gets greenlight to accelerate listing on the KOSDAQ market First Korean healthcare company to receive \"AA-AA\" ratings in technology assessment SEOUL, South Korea, April 21, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced today a ..."
-    publishedDateTime: 2022-04-21T14:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220421cn32224/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq"
+    excerpt: "Lunit gets greenlight to accelerate listing on the KOSDAQ marketFirst Korean healthcare company to receive 'AA-AA' ratings in technology"
+    publishedDateTime: 2022-04-21T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/medical-ai-startup-lunit-gets-preliminary-approval-to-go-public-on-kosdaq-1031372387"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 16
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "Piuw3XPlwylPdFjUErn5/f8wNRWvBhd4hrxqn4s4c62Al5uI8ZEMui2P9BZLe0DwkPGjQXzrnImreF1wMEaNYKIBCvV0n5CtAaSPN60hzbgHxXiN2tDuGOUqX+Le8DhvfcwFxMxQRdshoMLu8Ju7++5mTPLLsoWH1TxP901kT0DheQDN8WB59AClJBlrP914MVFHNIhMqHYSggAXAh0ByiSbLm7gI8b1CbUwZzOgVFZjqId3xC7yb1BCa8XP3xJDeQ+hVMxDLYeoDPqth64UKdH/k8k1FUQRo1a5oQN8EQSG68XPmAxJKGevyscS4HSNRXTf4pX13rM1AJghcK7dTFx19kZaQ1+O4ISW4wPUJtA=;9EqTpUmiQP3dR9vHLR6PWA=="
 ---

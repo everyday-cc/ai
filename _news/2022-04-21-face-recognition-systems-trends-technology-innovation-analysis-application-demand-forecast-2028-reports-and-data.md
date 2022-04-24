@@ -107,20 +107,6 @@ related:
         width: 417
         height: 455
         isCached: true
-  - title: "AI in Drug Discovery Market Global Demand, Opportunities, Trend, Growth, Segmentation and Forecast to 2027"
-    excerpt: "According to the reports by MRFR, the AI in the drug discovery market is likely to cross the market value of over USD 2,015.1 Million while recording a"
-    publishedDateTime: 2022-04-20T04:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-global-demand-opportunities-trend-growth-segmentation-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://markettrendandforecast.files.wordpress.com/2022/04/mrfr-logo-2-4.jpg?w=1024"
-        width: 1024
-        height: 359
-        isCached: true
   - title: "Global Behavioral Rehabilitation Market Forecast to 2028 - Advent of Online Counselling & Artificial Intelligence in Therapeutic Settings Gaining Mome"
     excerpt: "The \"Behavioral Rehabilitation Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Treatment, Application, Healthcare Setting\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-04-21T20:59:00Z

@@ -148,22 +148,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Owners of self-driving cars won’t be responsible for crashes under new Highway code rules"
-    excerpt: "THE DEPARTMENT for Transport has announced its plans for driverless cars in the UK which require updates to the Highway Code."
-    publishedDateTime: 2022-04-20T03:01:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1598152/highway-code-driverless-car-owners-not-responsible-for-crashes"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1598152/highway-code-driverless-car-owners-not-responsible-for-crashes/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1598152/highway-code-driverless-car-owners-not-responsible-for-crashes/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 35
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/Drivers-of-autonomous-cars-will-not-be-held-responsible-for-crashes-according-to-the-DfT-1598152.jpg?r=1650394584289"
-        width: 590
-        height: 350
-        isCached: true
   - title: "UK insurance companies, not users, to be liable for claims in self-driving cars"
     excerpt: "LONDON: Users of self-driving cars will not be responsible for crashes under proposed changes to the Highway Code. Insurance companies rather than individuals will be liable for claims in those circumstances,"
     publishedDateTime: 2022-04-20T11:10:00Z
